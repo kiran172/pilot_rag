@@ -1,0 +1,11 @@
+PMID: 32130646
+Title: Recursive multiresolution convolutional neural networks for 3D aortic valve annulus planimetry.
+
+Abstract: PURPOSE: Transcatheter aortic valve replacement (TAVR) is the standard of care in a large population of patients with severe symptomatic aortic valve stenosis. The sizing of TAVR devices is done from ECG-gated CT angiographic image volumes. The most crucial step of the analysis is the determination of the aortic valve annular plane. In this paper, we present a fully tridimensional recursive multiresolution convolutional neural network (CNN) to infer the location and orientation of the aortic valve annular plane.
+METHODS: We manually labeled 1007 ECG-gated CT volumes from 94 patients with severe degenerative aortic valve stenosis. The algorithm was implemented and trained using the TensorFlow framework (Google LLC, USA). We performed K-fold cross-validation with K = 9 groups such that CT volumes from a given patient are assigned to only one group.
+RESULTS: We achieved an average out-of-plane localization error of (0.7 ± 0.6) mm for the training dataset and of (0.9 ± 0.8) mm for the evaluation dataset, which is on par with other published methods and clinically insignificant. The angular orientation error was (3.9 ± 2.3)° for the training dataset and (6.4 ± 4.0)° for the evaluation dataset. For the evaluation dataset, 84.6% of evaluation image volumes had a better than 10° angular error, which is similar to expert-level accuracy. When measured in the inferred annular plane, the relative measurement error was (4.73 ± 5.32)% for the annular area and (2.46 ± 2.94)% for the annular perimeter.
+CONCLUSIONS: The proposed algorithm is the first application of CNN to aortic valve planimetry and achieves an accuracy on par with proposed automated methods for localization and approaches an expert-level accuracy for orientation. The method relies on no heuristic specific to the aortic valve and may be generalizable to other anatomical features.
+
+Citation: Theriault-Lauzier P, et al. Recursive multiresolution convolutional neural networks for 3D aortic valve annulus planimetry. Recursive multiresolution convolutional neural networks for 3D aortic valve annulus planimetry. 2020; 15:577-588. doi: 10.1007/s11548-020-02131-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32130646/

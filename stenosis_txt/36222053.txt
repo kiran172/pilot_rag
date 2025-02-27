@@ -1,0 +1,10 @@
+PMID: 36222053
+Title: Coronary artery calcium score and coronary computed tomography angiography predict one-year mortality in patients with type 2 diabetes and peripheral artery disease undergoing partial foot amputation.
+
+Abstract: METHODS: This is a single-center prospective cohort study including 199 consecutive patients with T2D, PAD (mean age 62.3 ± 7.2 years; 62.8% males), and preoperative CACS and CCTA undergoing PFA and followed-up over 1 year.
+RESULTS: Over a period of 1 year follow-up, a total of 35 (17.6%) participants died. The area under ROC curve to predict mortality for the CACS was 0.835 (95% CI:0.769-0.900), for CCTA 0.858 (95% CI:0.788-0.927). After adjustment for confounders, compared to no-stenosis on CCTA (reference), the risk of all-cause mortality in non-obstructive coronary atery disease (CAD) increased (HR = 1.38, 95% CI [0.75-12.86], p = .284), 1-vessel obstructive CAD (HR = 8.13, 95% CI [0.87-75.88], p = .066), 2-vessels (HR = 10.94, 95% CI [1.03-115.8], p = .047), and 3-vessels (HR = 45.73, 95% CI [4.6-454.7], p = .001) respectively. Increasing levels of CACS tended to be associated with increased risk of all-cause mortality (HR = 1.002, 95% CI [1.0-1.003], p = .061). 61/95 patients with obstructive CAD underwent coronary revascularization.
+CONCLUSIONS: Coronary artery calcium score and CCTA have a high predictive value for 1-year all-cause mortality in T2D patients undergoing minor amputations and may be considered for preoperative risk assessment allowing timely preventive interventions.
+
+Citation: Shalaeva E, et al. Coronary artery calcium score and coronary computed tomography angiography predict one-year mortality in patients with type 2 diabetes and peripheral artery disease undergoing partial foot amputation. Coronary artery calcium score and coronary computed tomography angiography predict one-year mortality in patients with type 2 diabetes and peripheral artery disease undergoing partial foot amputation. 2022; 19:14791641221125190. doi: 10.1177/14791641221125190
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36222053/

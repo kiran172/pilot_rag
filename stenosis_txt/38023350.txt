@@ -1,0 +1,11 @@
+PMID: 38023350
+Title: Socioeconomic factors and long-term mortality risk after surgical aortic valve replacement.
+
+Abstract: BACKGROUND: There is scarce knowledge about the association between socioeconomic status and mortality in patients undergoing surgical aortic valve replacement. This study explores the associations between income, education and marital status, and long-term mortality risk.
+METHODS: In this national registry-based observational cohort study we included all 14,537 patients aged >18 years who underwent isolated surgical aortic valve replacement for aortic stenosis in Sweden 1997-2020. Socioeconomic status and comorbidities were collected from three mandatory national registries. Cox regression models adjusted for patient characteristics and comorbidities were used to estimate the mortality risk.
+RESULTS: Mortality risk was higher for patients in the lowest versus the highest income quintile (adjusted hazard ratio [aHR] 1.36, 95 % confidence interval [CI]: 1.11-1.65), for patients with <10 years education versus >12 years (aHR 1.20, 95 % CI:1.08-1.33), and for patients who were not married/cohabiting versus those who were (aHR 1.24, 95 % CI:1.04-1.48). Patients with the most unfavorable socioeconomic status (lowest income, shortest education, never married/cohabiting) had an adjusted median survival of 2.9 years less than patients with the most favorable socioeconomic status (14.6 years, 95 % CI: 13.2-17.4 years vs. 11.7 years, 95 % CI: 9.8-14.4).
+CONCLUSIONS: Low socioeconomic status in patients undergoing surgical aortic valve replacement is associated with shorter survival and an increased long-term adjusted mortality risk. These results emphasize the importance of identifying surgical aortic valve replacement patients with unfavorable socioeconomic situation and ensure sufficient post-discharge surveillance.
+
+Citation: Lachonius M, et al. Socioeconomic factors and long-term mortality risk after surgical aortic valve replacement. Socioeconomic factors and long-term mortality risk after surgical aortic valve replacement. 2023; 19:200223. doi: 10.1016/j.ijcrp.2023.200223
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38023350/

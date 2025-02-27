@@ -1,0 +1,12 @@
+PMID: 36448412
+Title: Prognostic value of the dynamic hepatorenal function on intermediate-term mortality in TAVI patients with survival to discharge.
+
+Abstract: BACKGROUND: Renal and liver dysfunctions are risk factors for mortality in patients with severe aortic stenosis (AS). Transcatheter aortic valve implantation (TAVI) has the potential to break the vicious cycle between AS and hepatorenal dysfunction by relieving aortic valve obstruction.
+HYPOTHESIS: A part of patients can derive hepatorenal function improvement from TAVI, and this noncardiac benefit improves the intermediate-term outcomes.
+METHODS: We developed this retrospective cohort study in 439 consecutive patients undergoing TAVI and described the dynamic hepatorenal function assessed by model for end-stage liver disease model for end-stage liver disease (MELD)-XI score in subgroups. The endpoint was 2-year all-cause mortality.
+RESULTS: Receiver-operating characteristic analysis showed that the baseline MELD-XI score of 10.71 was the cutoff point. A high MELD-XI score (&gt;10.71) at baseline was an independent predictor of the 2-year mortality hazard ratio (HR: 2.65 [1.29-5.47], p = .008). After TAVI, patients with irreversible high MELD-XI scores had a higher risk of 2-year mortality than patients who improved from high to low MELD-XI scores (HR: 2.50 [1.06-5.91], p = .03). Factors associated with reversible MELD-XI scores improvement were low baseline MELD-XI scores (≤12.00, odds ratio [OR]: 2.02 [1.04-3.94], p = .04), high aortic valve peak velocity (≥5 m/s, OR: 2.17 [1.11-4.24], p = .02), and low body mass index (≤25 kg/m2 , OR: 2.73 [1.25-5.98], p = .01).
+CONCLUSION: High MELD-XI score at baseline is an independent predictor for 2-year mortality. Patients with hepatorenal function improvement after TAVI have better outcomes. For patients with irreversible hepatorenal dysfunction after TAVI, further optimization of the subsequent treatment after TAVI is needed to improve the outcomes.
+
+Citation: Yao Y, et al. Prognostic value of the dynamic hepatorenal function on intermediate-term mortality in TAVI patients with survival to discharge. Prognostic value of the dynamic hepatorenal function on intermediate-term mortality in TAVI patients with survival to discharge. 2023; 46:84-91. doi: 10.1002/clc.23940
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36448412/

@@ -1,0 +1,13 @@
+PMID: 32641003
+Title: Early prediction of cerebral-cardiac syndrome after ischemic stroke: the PANSCAN scale.
+
+Abstract: BACKGROUND: Cerebral-cardiac syndrome, newly developed cardiac damage manifestations subsequent to cerebral injuries, is a common complication of stroke and leads to increased morbidity and mortality. The current study is aimed to develop a risk prediction scale to stratify high-risk population of CCS among ischemic stroke patients.
+METHODS: The study included 410 cases from four tertiary medical centers from June 2018 to April 2019. The risk prediction model was established via logistic regression from the derivation cohort including 250 cases admitted between June 2018 and December 2018. Another 160 cases admitted from January 2019 to April 2019 were included as the validation cohort for external validation. The performance of the model was determined by the area under curve of the receiver operating characteristic curve. A rating scale was developed based on the magnitude of the logistic regression coefficient.
+RESULTS: The prevalence of CCS was 55.2% in our study. The predictive model derived from the derivation cohort showed good calibration by Hosmer-Lemeshow test (P = 0.492), and showed sensitivity of 0.935, specificity of 0.720, and Youden index of 0.655. The C-statistic for derivation and validation cohort were 0.888 and 0.813, respectively. Our PANSCAN score (0 to 10 points) was then established, which consists of the following independent risk factors: PT(12 s-14 s = 0; otherwise = 1), APTT(30s-45s = 0, otherwise = 1), Neutrophils(50-70% = 0; otherwise = 1), Sex(female = 1), Carotid artery stenosis(normal or mild = 0; moderate to severe = 2), Age(≥65 years = 1), NIHSS score(1 to 4 = 2; ≥5 = 3). Patients scored 3 or more points were stratified as high risk.
+CONCLUSION: The risk prediction model showed satisfactory prediction effects. The PANSCAN scale provides convenient reference for preventative treatment and early management for high-risk patients.
+TRIAL REGISTRATION: The study was retrospectively registered in Chinese Trial Registry. The date of registration is April 17, 2019.
+TRIAL REGISTRATION NUMBER: ChiCTR1900022587 .
+
+Citation: Lian H, et al. Early prediction of cerebral-cardiac syndrome after ischemic stroke: the PANSCAN scale. Early prediction of cerebral-cardiac syndrome after ischemic stroke: the PANSCAN scale. 2020; 20:272. doi: 10.1186/s12883-020-01833-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32641003/

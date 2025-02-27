@@ -1,0 +1,11 @@
+PMID: 37496781
+Title: Temporal Changes in Quality Indicators in a Regional System of Care After Surgical and Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Historically, quality-of-care monitoring was performed separately for transcatheter and surgical aortic valve replacement (TAVR, SAVR). Using consensus indicators, we provide a global report on the quality of care for treatment of aortic stenosis across the highest-volume treatments: transfemoral (TF) TAVR, isolated SAVR, and SAVR combined with coronary artery bypass graft.
+METHODS: Retrospective observational cohort study of consecutive patients in a regional system of care. Primary endpoint was 30-day and 1-year mortality (2015-2019). Secondary endpoints included rate of new pacemaker, rate of readmission, and length of stay (2012-2019). Following multivariable logistic regressions, we developed mortality case-mix adjustment models to report risk estimates.
+RESULTS: The proportion of patients receiving TAVR grew from 32% to 53% (2015-2019). Those receiving TF TAVR were significantly older, with higher rates of comorbidities. Observed 30-day and 1-year all-cause mortality after TF TAVR decreased from 3.1% to 0.6% (P = 0.03), and 13.6% to 6.6% (P = 0.09), respectively; surgical mortality rates for isolated SAVR and SAVR combined with coronary artery bypass graft were low and did not change significantly over time, ranging from 0.3% to 1.4% and from 0.9% to 3.4%, respectively at 30 days, and from 0.9% to 3.4% and from 4.7% to 6.7 at 1 year. In the TF TAVR cohort, the observed vs expected ratio for 30-day and 1-year mortality decreased significantly from 1.9 (95% confidence interval [CI] 0.9, 3.5) to 0.3 (95% CI 0.1, 0.8), and from 1.3 (95% CI 0.9, 1.7) to 0.7 (95% CI 0.5, 0.99), respectively; no change occurred in risk-adjusted surgical mortality.
+CONCLUSIONS: Consensus quality indicators provide unique insights on the quality of care for patients receiving treatment for aortic stenosis.
+
+Citation: Lauck SB, et al. Temporal Changes in Quality Indicators in a Regional System of Care After Surgical and Transcatheter Aortic Valve Replacement. Temporal Changes in Quality Indicators in a Regional System of Care After Surgical and Transcatheter Aortic Valve Replacement. 2023; 5:508-521. doi: 10.1016/j.cjco.2023.03.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37496781/

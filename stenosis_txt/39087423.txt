@@ -1,0 +1,13 @@
+PMID: 39087423
+Title: Relationship between Lumbar Foraminal Stenosis and Multifidus Muscle Atrophy - A Retrospective Cross-Sectional Study.
+
+Abstract: STUDY DESIGN: Retrospective cross-sectional study.
+OBJECTIVE: To evaluate the relationship between lumbar foraminal stenosis (LFS) and multifidus muscle atrophy.
+BACKGROUND: The multifidus muscle is an important stabilizer of the lumbar spine. In LFS, the compression of the segmental nerve can give rise to radicular symptoms and back pain. LFS can impede function and induce atrophy of the segmentally innervated multifidus muscle.
+METHODS: Patients with degenerative lumbar spinal conditions who underwent posterior spinal fusion for degenerative lumbar disease from December 2014 to February 2024 were analyzed. Multifidus fatty infiltration (FI) and functional cross-sectional area (fCSA) were determined at the L4 upper endplate axial level on T2- weighted MRI scans using dedicated software. Severity of LFS was assessed at all lumbar levels and sides using the Lee classification (Grade: 0 - 3). For each level, Pfirrmann and Weishaupt gradings were used to assess intervertebral disc disease (IVDD) and facet joint osteoarthritis (FJOA), respectively. Multivariable linear mixed models were run for the LFS grade of each level and side separately as the independent predictor of multifidus FI and fCSA. Each analysis was adjusted for age, sex, BMI, as well as FJOA and IVDD of the level corresponding to the LFS.
+RESULTS: A total of 216 patients (50.5% female) with a median age of 61.6 years (IQR=52.0 - 69.0) and a median BMI of 28.1 kg/m2 (IQR=24.8 - 33.0) were included. Linear mixed model analysis revealed that higher multifidus FI (Estimate [Confidence interval]=1.7% [0.1 - 3.3], P=0.043) and lower fCSA (-18.6 mm2 [-34.3 - -2.6], P=0.022) were both significantly predicted by L2-L3 level LFS severity.
+CONCLUSION: The observed positive correlation between upper segment LFS and multifidus muscle atrophy points towards compromised innervation. This necessitates further research to establish the causal relationship and guide prevention efforts.
+
+Citation: Guven AE, et al. Relationship between Lumbar Foraminal Stenosis and Multifidus Muscle Atrophy - A Retrospective Cross-Sectional Study. Relationship between Lumbar Foraminal Stenosis and Multifidus Muscle Atrophy - A Retrospective Cross-Sectional Study. 2024; (unknown volume):(unknown pages). doi: 10.1097/BRS.0000000000005113
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39087423/

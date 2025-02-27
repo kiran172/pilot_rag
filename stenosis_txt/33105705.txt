@@ -1,0 +1,11 @@
+PMID: 33105705
+Title: Development of a Machine-Learning Model of Short-Term Prognostic Prediction for Spinal Stenosis Surgery in Korean Patients.
+
+Abstract: BACKGROUND: In this study, based on machine-learning technology, we aim to develop a predictive model of the short-term prognosis of Korean patients who received spinal stenosis surgery.
+METHODS: Using the data obtained from 112 patients with spinal stenosis admitted at N hospital from February to November, 2019, a predictive analysis was conducted for the pain index, reoperation, and surgery time.
+RESULTS: Results show that the predicted area under the curve was 0.803, 0.887, and 0.896 for the pain index, reoperation, and surgery time, respectively, thereby indicating the accuracy of the model.
+CONCLUSION: This study verified that the individual characteristics of the patient and treatment characteristics during surgery enable a prediction of the patient prognosis and validate the accuracy of the approach. Further studies should be conducted to extend the scope of this research by incorporating a larger and more accurate dataset.
+
+Citation: Kim KR, et al. Development of a Machine-Learning Model of Short-Term Prognostic Prediction for Spinal Stenosis Surgery in Korean Patients. Development of a Machine-Learning Model of Short-Term Prognostic Prediction for Spinal Stenosis Surgery in Korean Patients. 2020; 10:(unknown pages). doi: 10.3390/brainsci10110764
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33105705/

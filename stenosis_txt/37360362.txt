@@ -1,0 +1,12 @@
+PMID: 37360362
+Title: A meta-analysis: single or double dartos flap layer in tubularized incised plate urethroplasty to prevent urethrocutaneous fistula?
+
+Abstract: BACKGROUNDS: Urethrocutaneous fistula is one of the most common complications after urethroplasty. This meta-analysis aims to evaluate the superiority of double dartos flap to single dartos flap in preventing fistula during tubularized incised plate urethroplasty (TIPU), which is one of the most frequently used operations for hypospadias.
+METHODS: We extracted clinical trials under the following included criteria: (1) children with TIPU; (2) a comparison of single and double flap layer; and (3) record of complications with the following excluded criteria: (1) non-comparison and (2) lack of data. Finally, 13 studies from PubMed, Cochrane Library, Scopus, and Embase have been investigated, with a total of 1,185 patients from 2005 to 2022. The quality assessment was conducted according to the Cochrane handbook and the Newcastle-Ottawa scale. A mixed-effect model was utilized to weigh the risk of fistula, phallic rotation, meatal stenosis, and wound dehiscence by the Review Manager V.5.4 software.
+RESULTS: The double dartos flap layer group excels in descending the risk of postoperative fistula [odds ratio (OR) = 9.56; 95% confidence interval (CI) (4.76, 19.22); P &lt; 0.00001] and phallic rotation [OR = 31.26; 95% CI (9.60, 101.84); P &lt; 0.00001], while there are no differences in the rate of meatal stenosis [OR = 1.49; 95% CI (0.73, 2.70); P = 0.31] and wound dehiscence [OR = 2.30; 95% CI (0.80, 6.63); P = 0.12].
+CONCLUSIONS: The routine utility of a double dartos flap layer is recommended as a potential treatment during the tubularized incised plate urethroplasty.
+SYSTEMATIC REVIEW REGISTRATION: identifier PROSPERO CRD42022366294.
+
+Citation: Yuan Y, et al. A meta-analysis: single or double dartos flap layer in tubularized incised plate urethroplasty to prevent urethrocutaneous fistula?. A meta-analysis: single or double dartos flap layer in tubularized incised plate urethroplasty to prevent urethrocutaneous fistula?. 2023; 11:1091242. doi: 10.3389/fped.2023.1091242
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37360362/

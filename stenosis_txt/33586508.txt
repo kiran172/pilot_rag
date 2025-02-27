@@ -1,0 +1,12 @@
+PMID: 33586508
+Title: Vascular sound visualization system is useful for monitoring and surveillance of vascular access.
+
+Abstract: BACKGROUNDS: Vascular access (VA) is a lifeline for maintenance hemodialysis patients. Monitoring and surveillance of VA, therefore, play an important role for maintaining VA patency. Surveillance needs special apparatus to estimate the VA function, while, monitoring including physical examination does not usually need such devices but highly skill-dependent and qualitative.
+PURPOSE: We report the clinical utility in monitoring and surveillance of VA using a newly developed electronic stethoscope and vascular sound visualization application.
+METHODS: One hundred eight patients participated in the study. The vascular sounds were collected using the electronic stethoscope, converted into digital data, sent wirelessly to a personal computer, and then calculated. The units for the calculated intensity of the vascular sound were decibel [dB]. The intensity, however, was normalized as INDEX values ranging from 0 to 99 for practical use. Correlation between INDEX and the mean flow volume (mFV) and resistance index (RI) of brachial artery measured by Doppler ultrasound sonography were examined for VA surveillance. INDEX was continually measured at each dialysis session in ten patients who underwent the angioplasty for VA monitoring.
+RESULTS: INDEX significantly correlated with the mFV (coefficient of correlation value = 0.68, p &lt; 0.001) and RI (coefficient of correlation value = -0.51, p &lt; 0.001) of brachial artery. Using the calculated cut-off values, the accuracy of INDEX for the diagnosis of AVF dysfunction ranged from 66% to 82%. INDEX attained the peak just after the angioplasty of culprit lesions and gradually decreased from one patient to another.
+CONCLUSION: These results suggest that vascular sound visualization system can be useful in VA monitoring and surveillance for detecting and predicting the access stenosis.
+
+Citation: Tsuboi M, et al. Vascular sound visualization system is useful for monitoring and surveillance of vascular access. Vascular sound visualization system is useful for monitoring and surveillance of vascular access. 2022; 23:390-397. doi: 10.1177/1129729821993984
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33586508/

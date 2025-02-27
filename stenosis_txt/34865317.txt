@@ -1,0 +1,8 @@
+PMID: 34865317
+Title: Automating fractional flow reserve (FFR) calculation from CT scans: A rapid workflow using unsupervised learning and computational fluid dynamics.
+
+Abstract: Fractional flow reserve (FFR) provides the functional relevance of coronary atheroma. The FFR-guided strategy has been shown to reduce unnecessary stenting, improve overall health outcome, and to be cost-saving. The non-invasive, coronary computerised tomography (CT) angiography-derived FFR (cFFR) is an emerging method in reducing invasive catheter based measurements. This computational fluid dynamics-based method is laborious as it requires expertise in multidisciplinary analysis of combining image analysis and computational mechanics. In this work, we present a rapid method, powered by unsupervised learning, to automatically calculate cFFR from CT scans without manual intervention.
+
+Citation: Chakshu NK, et al. Automating fractional flow reserve (FFR) calculation from CT scans: A rapid workflow using unsupervised learning and computational fluid dynamics. Automating fractional flow reserve (FFR) calculation from CT scans: A rapid workflow using unsupervised learning and computational fluid dynamics. 2022; 38:e3559. doi: 10.1002/cnm.3559
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34865317/

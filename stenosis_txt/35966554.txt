@@ -1,0 +1,11 @@
+PMID: 35966554
+Title: Prognostic value of N-terminal Pro-B-Type natriuretic peptide in patients with intermediate coronary lesions.
+
+Abstract: BACKGROUND: The optimal treatment strategy for patients with coronary intermediate lesions, defined as diameter stenosis of 50-70%, remains a great challenge for cardiologists. Identification of potential biomarkers predictive of major adverse cardiovascular events (MACEs) risk may assist in risk stratification and clinical decision.
+METHODS: A total of 1,187 patients with intermediate coronary lesions and available N-terminal pro-brain natriuretic peptide (NT-proBNP) levels were enrolled in the current study. A baseline NT-proBNP level was obtained. The primary endpoint was defined as MACEs, the composite endpoint of all-cause death and non-fatal myocardial infarction. A multivariate Cox regression model was used to explore the association between NT-proBNP level and MACE risk.
+RESULTS: The mean age of the study cohort was 59.2 years. A total of 68 patients experienced MACE during a median follow-up of 6.1 years. Restricted cubic spline analysis delineated a linear relationship between the baseline NT-proBNP level and MACE risk. Both univariate and multivariate analyses demonstrated that an increased NT-proBNP level was associated with an increased risk of MACE [adjusted hazard ratio (HR) per doubling: 1.412, 95% confidence interval (CI): 1.022-1.952, p = 0.0365]. This association remains consistent in clinical meaningful subgroups according to age, sex, body mass index (BMI), and diabetes.
+CONCLUSION: An increased NT-proBNP level is associated with an increased risk of MACE in patients with intermediate coronary lesions and may serve as the potential biomarker for risk stratification and treatment decision guidance.
+
+Citation: Song C, et al. Prognostic value of N-terminal Pro-B-Type natriuretic peptide in patients with intermediate coronary lesions. Prognostic value of N-terminal Pro-B-Type natriuretic peptide in patients with intermediate coronary lesions. 2022; 9:903757. doi: 10.3389/fcvm.2022.903757
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35966554/

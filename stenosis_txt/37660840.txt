@@ -1,0 +1,11 @@
+PMID: 37660840
+Title: T1-T2 Mismatch Sign as a Predictor of Ipsilateral Ischemic Change After Carotid Artery Stenting.
+
+Abstract: BACKGROUND: Magnetic resonance (MR)-plaque imaging reflects the characteristics of carotid plaque. We evaluated the relationship between MR-plaque images and ischemic change after carotid artery stenting (CAS).
+METHODS: MR-plaque images were acquired from patients with carotid artery stenosis before CAS treatment. We calculated the relative signal intensity of plaque components compared with that of the sternocleidomastoid muscle and evaluated the presence/absence of T1-T2 mismatch and match sign. We then assessed the appearance of new ischemic lesions after CAS on diffusion-weighted imaging (DWI). Factors associated with the appearance of a high-intensity lesion on DWI were retrospectively analyzed.
+RESULTS: A total of 64 patients with carotid artery stenoses treated with CAS were included in this study. In univariate analysis, T1-T2 mismatch sign was associated with the appearance of high-intensity lesions on DWI after CAS (odds ratio [OR], 12.00; 95% confidence interval [CI], 3.593-40.072; P < 0.0001), whereas T1-T2 match sign and high intensity on T2-weighted imaging were negatively associated (OR, 0.061, 95% CI, 0.007-0.502, P = 0.009 and OR, 0.085; 95% CI, 0.022-0.334, P = 0.0004, respectively). In multivariate logistic regression analysis, T1-T2 mismatch sign was independently associated with the appearance of a high-intensity lesion on DWI after CAS (OR, 16.695; 95% CI, 1.324-210.52; P = 0.0295).
+CONCLUSIONS: T1-T2 mismatch sign on MR-plaque imaging is significantly associated with the appearance of new ischemic lesions after CAS. T1-T2 mismatch sign may be useful in considering treatment strategies for carotid artery stenosis.
+
+Citation: Onishi S, et al. T1-T2 Mismatch Sign as a Predictor of Ipsilateral Ischemic Change After Carotid Artery Stenting. T1-T2 Mismatch Sign as a Predictor of Ipsilateral Ischemic Change After Carotid Artery Stenting. 2023; 179:e450-e457. doi: 10.1016/j.wneu.2023.08.117
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37660840/

@@ -1,0 +1,11 @@
+PMID: 36818335
+Title: Impact of coronary computed tomography angiography-derived fractional flow reserve based on deep learning on clinical management.
+
+Abstract: BACKGROUND: To examine the value of coronary computed tomography angiography (CCTA)-derived fractional flow reserve based on deep learning (DL-FFRCT) on clinical practice and analyze the limitations of the application of DL-FFRCT.
+METHODS: This is an observational, retrospective, single-center study. Patients with suspected coronary artery disease (CAD) were enrolled. The patients underwent invasive coronary angiography (ICA) examination within 1 months after CCTA examination. And quantitative coronary angiography (QCA) was performed to evaluate the area stenosis rate. The CCTA data of these patients were retrospectively analyzed to calculate the FFRCT value.
+RESULTS: A total of 485 lesions of coronary arteries in 229 patients were included in the analysis. Of the lesions, 275 (56.7%) were ICA-positive, and 210 (43.3%) were FFRCT-positive. The discordance rate of the risk stratification of FFRCT for ICA-positive lesions was 33.1% (91) and that for ICA-negative lesions was 12.4% (26). 14.6% (7/48) patients with mild to moderate coronary stenosis in ICA have functional ischemia according to FFRCT positive indications. In addition, hemodynamic analysis of severely calcified, occluded, or small (< 2 mm in diameter) coronary arteries by DL-FFRCT is not so reliable.
+CONCLUSION: This study revealed that most patients with ICA negative did not require further invasive FFR. Besides, some patients with mild to moderate coronary stenosis in ICA may also have functional ischemia. However, for severely calcified, occluded, or small coronary arteries, treatment strategy should be selected based on ICA in combination with clinical practice.
+
+Citation: Pan Y, et al. Impact of coronary computed tomography angiography-derived fractional flow reserve based on deep learning on clinical management. Impact of coronary computed tomography angiography-derived fractional flow reserve based on deep learning on clinical management. 2023; 10:1036682. doi: 10.3389/fcvm.2023.1036682
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36818335/

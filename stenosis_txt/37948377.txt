@@ -1,0 +1,11 @@
+PMID: 37948377
+Title: Effect of Deep Learning Reconstruction on Evaluating Cervical Spinal Canal Stenosis With Computed Tomography.
+
+Abstract: OBJECTIVE: Magnetic resonance imaging (MRI) is commonly used to evaluate cervical spinal canal stenosis; however, some patients are ineligible for MRI. We aimed to assess the effect of deep learning reconstruction (DLR) in evaluating cervical spinal canal stenosis using computed tomography (CT) compared with hybrid iterative reconstruction (hybrid IR).
+METHODS: This retrospective study included 33 patients (16 male patients; mean age, 57.7 ± 18.4 years) who underwent cervical spine CT. Images were reconstructed using DLR and hybrid IR. In the quantitative analyses, noise was recorded by placing the regions of interest on the trapezius muscle. In the qualitative analyses, 2 radiologists evaluated the depiction of structures, image noise, overall image quality, and degree of cervical canal stenosis. We additionally evaluated the agreement between MRI and CT in 15 patients for whom preoperative cervical MRI was available.
+RESULTS: Image noise was less with DLR than hybrid IR in the quantitative ( P ≤ 0.0395) and subjective analyses ( P ≤ 0.0023), and the depiction of most structures was improved ( P ≤ 0.0052), which resulted in better overall quality ( P ≤ 0.0118). Interobserver agreement in the assessment of spinal canal stenosis with DLR (0.7390; 95% confidence interval [CI], 0.7189-0.7592) was superior to that with hybrid IR (0.7038; 96% CI, 0.6846-0.7229). As for the agreement between MRI and CT, significant improvement was observed for 1 reader with DLR (0.7910; 96% CI, 0.7762-0.8057) than hybrid IR (0.7536; 96% CI, 0.7383-0.7688).
+CONCLUSIONS: Deep learning reconstruction provided better quality cervical spine CT images in the evaluation of cervical spinal stenosis than hybrid IR.
+
+Citation: Ohtake Y, et al. Effect of Deep Learning Reconstruction on Evaluating Cervical Spinal Canal Stenosis With Computed Tomography. Effect of Deep Learning Reconstruction on Evaluating Cervical Spinal Canal Stenosis With Computed Tomography. 2023; 47:996-1001. doi: 10.1097/RCT.0000000000001490
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37948377/

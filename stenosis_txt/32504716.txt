@@ -1,0 +1,11 @@
+PMID: 32504716
+Title: Influence of heart rate on FFR measurements: An experimental and clinical validation study.
+
+Abstract: BACKGROUND: Functional lesion assessment in stable coronary disease is considered the gold standard. The result of fractional flow reserve (FFR) in stable coronary disease is often a decision-maker for patient qualification. Taking into account the paramount position of FFR, it is crucial to acknowledge and reduce all potential bias.
+AIMS: In the present study, we quantified the influence of elevated HR on FFR results using a preclinical model and then validated the results in a clinical setting.
+METHODS AND RESULTS: The relationship between FFR and HR was first explored experimentally in a porcine model. A clinical validation study was conducted in patients with isolated moderate lesions in the left anterior descending artery (LAD) or right coronary artery (RCA). In both the experimental and clinical arms, FFR was measured at resting HR and with pacing at 100, 130, 160, and 180 (for pigs) beats per minute. In the porcine model and in the clinical settings, a significant correlation between FFR and HR was confirmed in the LAD (r = 0.89, p < .0001; r = 0.53, p = .00002), but not in the RCA (r = -0.19, p = .5; r = 0.14, p = .3). Post hoc analyses revealed that the FFR values in the LAD at 130/min and above tended to be significantly different from the baseline HR.
+CONCLUSIONS: The results of this study indicate that in an experimental setting, tachycardia might be responsible for an overestimation of FFR results in LAD lesions.
+
+Citation: Kwasiborski PJ, et al. Influence of heart rate on FFR measurements: An experimental and clinical validation study. Influence of heart rate on FFR measurements: An experimental and clinical validation study. 2020; 317:13-17. doi: 10.1016/j.ijcard.2020.05.089
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32504716/

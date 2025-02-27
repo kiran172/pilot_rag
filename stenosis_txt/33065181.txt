@@ -1,0 +1,11 @@
+PMID: 33065181
+Title: Ureteral stenosis after 3D MRI-based brachytherapy for cervical cancer - Have we identified all the risk factors?
+
+Abstract: BACKGROUND AND PURPOSE: Ureteral stenosis (US) is a known complication from image-guided brachytherapy (IGBT); however, no dosimetric parameter has been associated with ureteral toxicity. We aimed to report the rate of late grade ≥3 US after MRI-based IGBT, and to identify clinical factors and dosimetric parameters predictive for US.
+MATERIALS AND METHODS: A retrospective review was performed on all cervical cancer patients treated with MRI-based IGBT between 2007 and 2017. Late grade ≥3 US was recorded according to CTCAE 4.03. The minimum dose to the maximally irradiated 0.1 cm3 of ureter (D<sub>0.1cm</sub>3) was extracted from dose-volume histograms. Binary logistic regression was performed to identify predictors of late grade ≥3 US.
+RESULTS: 242 patients with a median follow-up of 35.8 months (IQR, 19.2-60.8) were identified. Late grade ≥3 US occurred in 18 patients, and the actuarial 3-year rate was 7.3% (95% CI 3.3-11.3). After excluding patients with pre-existing hydronephrosis, late grade ≥3 US occurred in 11 patients with an actuarial 3-year rate of 4.4% (95% CI 1.7-7.1). Ureters with D<sub>0.1cm</sub>3 ≥77 Gy had a 28.6% incidence of late grade ≥3 US compared to 7.5% in those with D<sub>0.1cm</sub>3 &lt;77 Gy (OR 2.39; 95% CI 1.23-4.65; p = 0.01). The incidence of late grade ≥3 US was 33.3%, and 40.0% for ureters receiving ≥85 and ≥90 Gy, to D<sub>0.1cm</sub>3, respectively.
+CONCLUSION: After MRI-based IGBT, there is an estimated 4.4% risk of developing late grade ≥3 US among patients without pre-existing hydronephrosis. Ureteral dose ≥77 Gy to D<sub>0.1cm</sub>3 correlates with development of late grade ≥3 US.
+
+Citation: Rodríguez-López JL, et al. Ureteral stenosis after 3D MRI-based brachytherapy for cervical cancer - Have we identified all the risk factors?. Ureteral stenosis after 3D MRI-based brachytherapy for cervical cancer - Have we identified all the risk factors?. 2021; 155:86-92. doi: 10.1016/j.radonc.2020.10.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33065181/

@@ -1,0 +1,10 @@
+PMID: 32436590
+Title: Diagnostic accuracy and reproducibility of optical flow ratio for functional evaluation of coronary stenosis in a prospective series.
+
+Abstract: BACKGROUND: Evaluating prospectively the feasibility, accuracy and reproducibility of optical flow ratio (OFR), a novel method of computational physiology based on optical coherence tomography (OCT).
+METHODS AND RESULTS: Sixty consecutive patients (76 vessels) underwent prospectively OCT, angiography- based quantitative flow ratio (QFR) and fractional flow ratio (FFR). OFR was computed offline in a central core-lab by analysts blinded to FFR. OFR was feasible in 98.7% of the lesions and showed excellent agreement with FFR (ICCa = 0.83, r = 0.83, slope = 0.80, intercept = 0.17, kappa = 0.84). The area under curve to predict an FFR ≤ 0.80 was 0.95, higher than for QFR (0.91, p = 0.115) and for minimal lumen area (0.64, p < 0.001). Diagnostic accuracy, sensitivity, specificity, positive predictive value, negative predictive value, positive likelihood ratio and negative likelihood ratio were 93%, 92%, 93%, 88%, 96%, 13.8, 0.1, respectively. Median time to obtain OFR was 1.07 (IQR: 0.98-1.16) min, with excellent intraobserver and interobserver reproducibility (0.97 and 0.95, respectively). Pullback speed had negligible impact on OFR, provided the same coronary segment were imaged (ICCa = 0.90, kappa = 0.697).
+CONCLUSIONS: The prospective computation of OFR is feasible and reproducible in a real-world series, resulting in excellent agreement with FFR, superior to other image-based methods.
+
+Citation: Gutiérrez-Chico JL, et al. Diagnostic accuracy and reproducibility of optical flow ratio for functional evaluation of coronary stenosis in a prospective series. Diagnostic accuracy and reproducibility of optical flow ratio for functional evaluation of coronary stenosis in a prospective series. 2020; 27:350-361. doi: 10.5603/CJ.a2020.0071
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32436590/

@@ -1,0 +1,17 @@
+PMID: 31169969
+Title: Effect of Aortic Valve Disease on 3D Hemodynamics in Patients With Aortic Dilation and Trileaflet Aortic Valve Morphology.
+
+Abstract: BACKGROUND: The effect of different expressions of aortic valve disease on 3D aortic hemodynamics is unclear.
+PURPOSE: To investigate changes in aortic hemodynamics in patients with dilated ascending aorta (AAo) but different severity of aortic valve stenosis (AS) and/or regurgitation (AR).
+STUDY TYPE: Retrospective.
+POPULATION: A total of 111 subjects (86 patients with AAo diameter ≥ 40 mm and 25 healthy controls, all with trileaflet aortic valve [TAV]). Patients were further stratified by TAV dysfunction: n = 9 with combined moderate or severe AS and AR (ASR, 56 ± 13 years), n = 14 with moderate or severe AS (AS, 64 ± 14 years), n = 33 with moderate or severe AR (AR, 62 ± 14 years), n = 30 with neither AS nor AR (no AS/AR, 63 ± 9 years).
+FIELD STRENGTH/SEQUENCE: 4D flow MRI on 1.5/3T systems for the in vivo analysis of aortic blood flow dynamics.
+ASSESSMENT: Data analysis included grading of 3D AAo vortex/helix flow and AAo flow eccentricity as well as quantification of systolic peak velocities and wall shear stress (WSS).
+STATISTICAL TESTS: Continuous variables were compared by one-way analysis of variance or Kruskal-Wallis, followed by a pairwise Tukey or Dunn test if there was a significant difference.
+RESULTS: All patients demonstrated markedly elevated vortex and helix flow compared with controls (P < 0.05). Peak velocities were significantly elevated in ASR, AS, and AR patients compared with controls (P < 0.05). Increased flow eccentricity was observed in entire AAo for AR, at the mid and distal AAo for ASR and AS, and at the proximal AAo for no AS/AR. Compared with controls, WSS in the AAo was significantly elevated in ASR and AS patients (P < 0.05) and reduced in no AS/AR patients (P < 0.05).
+DATA CONCLUSION: The presence of TAV dysfunction is associated with aberrant hemodynamics and altered WSS, which may play a role in the development of aortopathy.
+LEVEL OF EVIDENCE: 3 Technical Efficacy Stage: 3 J. Magn. Reson. Imaging 2020;51:481-491.
+
+Citation: Suwa K, et al. Effect of Aortic Valve Disease on 3D Hemodynamics in Patients With Aortic Dilation and Trileaflet Aortic Valve Morphology. Effect of Aortic Valve Disease on 3D Hemodynamics in Patients With Aortic Dilation and Trileaflet Aortic Valve Morphology. 2020; 51:481-491. doi: 10.1002/jmri.26804
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31169969/

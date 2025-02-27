@@ -1,0 +1,11 @@
+PMID: 32271235
+Title: The relationship between fibrinogen-to-albumin ratio and in-stent restenosis in patients with coronary artery disease undergoing drug-eluting stenting.
+
+Abstract: BACKGROUND: In-stent restenosis (ISR) remains a significant clinical problem in patients with coronary artery disease (CAD) treated with percutaneous coronary intervention (PCI). Recent studies identified the fibrinogen-to-albumin ratio (FAR) as a novel inflammatory marker to predict inflammation in chronic diseases. This study aimed to investigate the relationship between FAR and ISR in patients with DES implantation.
+METHODS: A total of 506 consecutive CAD patients were enrolled. Subjects history of successful native vessel PCI with DES at least 12 months prior to undergoing repeat angiography for chest pain. Patients were divided between ISR group (n = 125) and no-ISR group (n = 381). ISR was defined as luminal stenosis ≥50% located within the stent or up to 5 mm beyond the stent edges by the quantitative coronary analysis. Laboratory parameters were measured before angiography. Significant factors associated with ISR were evaluated by multivariate logistic regression analysis.
+RESULTS: Baseline characteristics were similar between the ISR and no-ISR groups. The ISR group had significantly higher FAR level compared with the no-ISR group (73.26 ± 17.68 vs. 64.90 ± 15.88, P < 0.05). Furthermore, the ISR group had significantly lower albumin level and higher prevalence of diabetes mellitus compared to no-ISR (P < 0.05). In a multivariate analysis, FAR (odds ratio [OR] = 1.039, 95% confidence interval (CI) = 1.024-1.054), albumin (OR = 0.923, 95% CI = 0.389-0.977) and diabetes mellitus (OR = 2.663, 95% CI = 1.587-4.468) were significantly associated with ISR.
+CONCLUSION: FAR is significantly associated with the development of ISR in CAD patients undergoing PCI with DES implantation.
+
+Citation: Chen T, et al. The relationship between fibrinogen-to-albumin ratio and in-stent restenosis in patients with coronary artery disease undergoing drug-eluting stenting. The relationship between fibrinogen-to-albumin ratio and in-stent restenosis in patients with coronary artery disease undergoing drug-eluting stenting. 2020; 31:586-589. doi: 10.1097/MCA.0000000000000890
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32271235/

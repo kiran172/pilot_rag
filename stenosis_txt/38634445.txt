@@ -1,0 +1,8 @@
+PMID: 38634445
+Title: KLF13 promotes VSMCs phenotypic dedifferentiation by directly binding to the SM22α promoter.
+
+Abstract: Krüppel-like factor 13 (KLF13), a zinc finger transcription factor, is considered as a potential regulator of cardiomyocyte differentiation and proliferation during heart morphogenesis. However, its precise role in the dedifferentiation of vascular smooth muscle cells (VSMCs) during atherosclerosis and neointimal formation after injury remains poorly understood. In this study, we investigated the relationship between KLF13 and SM22α expression in normal and atherosclerotic plaques by bioanalysis, and observed a significant increase in KLF13 levels in the atherosclerotic plaques of both human patients and ApoE-/- mice. Knockdown of KLF13 was found to ameliorate intimal hyperplasia following carotid artery injury. Furthermore, we discovered that KLF13 directly binds to the SM22α promoter, leading to the phenotypic dedifferentiation of VSMCs. Remarkably, we observed a significant inhibition of platelet-derived growth factor BB-induced VSMCs dedifferentiation, proliferation, and migration when knocked down KLF13 in VSMCs. This inhibitory effect of KLF13 knockdown on VCMC function was, at least in part, mediated by the inactivation of p-AKT signaling in VSMCs. Overall, our findings shed light on a potential therapeutic target for treating atherosclerotic lesions and restenosis after vascular injury.
+
+Citation: Yuan X, et al. KLF13 promotes VSMCs phenotypic dedifferentiation by directly binding to the SM22α promoter. KLF13 promotes VSMCs phenotypic dedifferentiation by directly binding to the SM22α promoter. 2024; 239:e31251. doi: 10.1002/jcp.31251
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38634445/

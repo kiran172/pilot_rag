@@ -1,0 +1,11 @@
+PMID: 35330979
+Title: Transcatheter aortic valve replacement in patients with aortic stenosis and cardiac amyloidosis.
+
+Abstract: BACKGROUND: Though the co-prevalence of aortic stenosis (AS) and cardiac amyloidosis (CA) is increasingly recognized, the role of transcatheter aortic valve replacement (TAVR) in patients with CA remains unclear.
+METHODS: The National Readmission Dataset (2016-18) and ICD-10 codes were used to identify those with CA and AS, in conjunction with TAVR status. The primary outcome was a composite of heart failure (HF) readmissions and all-cause mortality. All outcomes were followed up to 1-year with a median follow up time 172-days. Kaplan-Meier curves and multivariate cox-proportional hazard regression were used for time-to-event analysis.
+RESULTS: Of 1,127 CA patients, 92 (8.2%) had undergone TAVR. Patients with CA who received TAVR were younger and more commonly had coronary artery disease (67.3% vs 44.2%). Teaching (93.6% vs 81.1%) and large hospitals (77.7% vs 59.3%) performed more TAVRs. In multivariate analysis, TAVR was associated with an improved primary outcome (8.9% vs 24.4%, HR:0.32; 95% CI 0.14-0.71, p = 0.007) and with reduced HF readmissions (3.8% vs 19.4%, HR:0.22; 95% CI 0.07-0.68, p = 0.008). All-cause mortality was numerically lower in TAVR patients with CA but did not reach statistical significance.
+CONCLUSIONS: CA patients who receive TAVR are younger, and the procedure is more commonly performed at large, teaching hospitals. TAVR was associated with a lower primary composite outcome of HF readmissions and all-cause mortality.
+
+Citation: Khawaja T, et al. Transcatheter aortic valve replacement in patients with aortic stenosis and cardiac amyloidosis. Transcatheter aortic valve replacement in patients with aortic stenosis and cardiac amyloidosis. 2022; 40:101008. doi: 10.1016/j.ijcha.2022.101008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35330979/

@@ -1,0 +1,11 @@
+PMID: 33169868
+Title: Accuracy of predicted effective orifice area in determining incidence of patient-prosthesis mismatch after transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVE: Patient-prosthesis mismatch (PPM) is associated with poor outcomes after aortic valve replacement. The aim of this study was to assess the accuracy of indexed effective orifice area (EOAi) charts in predicting PPM after transcatheter aortic valve replacement (TAVR).
+METHODS: A retrospective review of 346 TAVR patients from January 2017 to November 2018 was performed. EOAi was predicted for patients based on published predictive tables using valve type, annulus diameter, and body surface area. Actual EOAi was calculated based on intraoperative transesophageal echocardiogram (TEE) measurements. PPM was defined by EOAi ≤ 0.85 cm2 /m2 . The accuracy of predicted PPM was assessed. Differences in clinical outcomes, including mean gradient, length of stay, mortality, complications, and change in Kansas City cardiomyopathy questionnaire score as an indicator of quality of life, were evaluated based on actual PPM.
+RESULTS: Of the 346 patients analyzed, 44 (12.7%) of patients had PPM on intraoperative TEE. Of the 182 patients who received Sapien 3 valves, 42 (23.1%) were predicted to have PPM while 25 (13.7%) had actual PPM. Of the 164 patients who received Evolut valves, 3 (1.8%) were predicted to have PPM while 19 (11.6%) had actual PPM. EOAi charts had poor sensitivity (40.0% for Sapien 3; 5.25% for Evolut) and positive predictive value (23.8% for Sapien 3; 33.3% for Evolut) for both valve types.
+CONCLUSION: Preoperative prediction of PPM in TAVR patients using tables of expected EOA demonstrates significant variation from actual PPM. The utility of EOAi charts to predict PPM in patients undergoing TAVR may be limited.
+
+Citation: Catalano MA, et al. Accuracy of predicted effective orifice area in determining incidence of patient-prosthesis mismatch after transcatheter aortic valve replacement. Accuracy of predicted effective orifice area in determining incidence of patient-prosthesis mismatch after transcatheter aortic valve replacement. 2021; 36:191-196. doi: 10.1111/jocs.15148
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33169868/

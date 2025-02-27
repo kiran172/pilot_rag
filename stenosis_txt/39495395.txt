@@ -1,0 +1,8 @@
+PMID: 39495395
+Title: Development of Novel 3D Spheroids for Discrete Subaortic Stenosis.
+
+Abstract: In this study, we propose a new method for bioprinting 3D Spheroids to study complex congenital heart disease known as discrete subaortic stenosis (DSS). The bioprinter allows us to manipulate the extrusion pressure to change the size of the spheroids, and the alginate porosity increases in size over time. The spheroids are composed of human umbilical vein endothelial cells (HUVECs), and we demonstrated that pressure and time during the bioprinting process can modulate the diameter of the spheroids. In addition, we used Pluronic acid to maintain the shape and position of the spheroids. Characterization of HUVECs in the spheroids confirmed their uniform distribution and we demonstrated cell viability as a function of time. Compared to traditional 2D cell cultures, the 3D spheroids model provides more relevant physiological environments, making it valuable for drug testing and therapeutic applications.
+
+Citation: Brimmer S, et al. Development of Novel 3D Spheroids for Discrete Subaortic Stenosis. Development of Novel 3D Spheroids for Discrete Subaortic Stenosis. 2024; (unknown volume):(unknown pages). doi: 10.1007/s13239-024-00746-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39495395/

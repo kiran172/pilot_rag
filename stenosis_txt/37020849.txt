@@ -1,0 +1,11 @@
+PMID: 37020849
+Title: Leukocyte telomere length and bipolar disorder risk: evidence from Mendelian randomization analysis.
+
+Abstract: OBJECTIVE: We aim to test whether leukocyte telomere length (LTL) is causally associated with the risk of bipolar disorder (BD) using the Mendelian randomization (MR) method.
+METHODS: Results of a genome-wide association study (GWAS) conducted with 472,174 individuals of European descent were used to screen for single-nucleotide polymorphisms (SNPs) related with LTL traits. Summary-level data for BD (7,647 cases and 27,303 controls) were obtained from UK Biobank. An inverse-variance-weighted (IVW) method was employed as the primary MR analysis. Sensitivity analyses were conducted via MR-Egger, maximum likelihood, MR-pleiotropy residual sum outlier (MR-PRESSO), and MR-robust adjusted profile score (MR-RAPS) methods. Finally, the MR Steiger test was utilized to validate the hypothesized relationship between exposure and outcome.
+RESULTS: Two-sample MR analysis revealed inverse relationships between genetically predicted LTL and BD risk (IVW OR [odds ratio] = 0.800, 95% CI [0.647-0.989] P = 0.039). Genetically predicted LTL exhibits a consistent connection with BD across five MR methods. Sensitivity analyses showed that the genetically determined effect of LTL on BD was stable and reliable. Furthermore, the MR Steiger test demonstrated that LTL was causal for BD rather than the opposite (P &lt; 0.001).
+CONCLUSION: Our findings show that genetically determined LTL reduces the risk of BD. More research is required to clarify the mechanisms underlying this apparent causal connection. In addition, these findings may be useful for developing strategies for the prevention and treatment of BD.
+
+Citation: Lu L, et al. Leukocyte telomere length and bipolar disorder risk: evidence from Mendelian randomization analysis. Leukocyte telomere length and bipolar disorder risk: evidence from Mendelian randomization analysis. 2023; 11:e15129. doi: 10.7717/peerj.15129
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37020849/

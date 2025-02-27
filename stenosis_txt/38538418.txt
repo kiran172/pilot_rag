@@ -1,0 +1,11 @@
+PMID: 38538418
+Title: The correlation of atherogenic index of plasma with non-obstructive CAD and unfavorable prognosis among patients diagnosed with MINOCA.
+
+Abstract: BACKGROUND: The atherogenic index of plasma (AIP) is linked to lipid metabolism and has shown considerable prognostic value in cardiovascular disorders. However, its role in myocardial infarction with non-obstructive coronary arteries (MINOCA) has not been investigated. We assessed the relationship between AIP, the severity of coronary stenosis, and prognosis in MINOCA.
+METHODS: We included consecutive patients who were diagnosed with MINOCA. AIP was calculated using the base 10 logarithm of the ratio between the levels of TG and HDL-C. The patients were divided into four groups based on their AIP quartiles: Q1 (AIP<-0.145), Q2 (AIP≥-0.145and≤0.049), Q3 (AIP>0.049and≤0.253), and Q4 (AIP>0.253). All patients underwent follow-up for MACE.
+RESULTS: The final analysis included 421 patients, with 188 having normal coronaries (0 stenosis) and 233 exhibiting non-obstructive coronary artery disease (CAD) (<50 % stenosis). In the multivariate logistic analysis, highest AIP (Q4) group was significantly associated with increased risk of non-obstructive CAD in MINOCA (OR,1.994;95 % CI:1.075-3.698; P = 0.029). During the follow-up period, MACE occurred in 22.8 % of MINOCA patients. Q4 group exhibited a significantly higher rate of MACE (P = 0.021). Furthermore, when both AIP and coronary stenosis status were considered, the results revealed individuals in the Q4 group with non-obstructive CAD had the highest risk of MACE (log-rank P = 0.027). The adjusted Cox analysis indicated that the Q4 group was associated with a 2.052-fold increase in the HR of MACE.
+CONCLUSION: AIP exhibits a notable association with the incidence of MACE in MINOCA patients and serves as a substantial marker for non-obstructive CAD in this patient group.
+
+Citation: Abdu FA, et al. The correlation of atherogenic index of plasma with non-obstructive CAD and unfavorable prognosis among patients diagnosed with MINOCA. The correlation of atherogenic index of plasma with non-obstructive CAD and unfavorable prognosis among patients diagnosed with MINOCA. 2024; 125:111-119. doi: 10.1016/j.ejim.2024.03.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38538418/

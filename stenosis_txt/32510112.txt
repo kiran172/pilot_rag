@@ -1,0 +1,14 @@
+PMID: 32510112
+Title: Predictive Value for Outcome and Evolution of Geriatric Parameters after Transcatheter Aortic Valve Implantation.
+
+Abstract: OBJECTIVES: To identify parameters of comprehensive geriatric assessment (CGA) CGA including ABCDEF score, a multidomain frailty assessment, associated with poor outcome after TAVI and to assess the evolution of CGA parameters at 6-months follow-up.
+DESIGN: one-year monocentric prospective cohort study.
+SETTING: Departments of geriatric medicine and cardiology in Rouen University Hospital, Normandy, France.
+PARTICIPANTS: all patients over 70, selected for TAVI by a multidisciplinary "heart team".
+MEASUREMENTS: 8-areas CGA was performed before TAVI and at 6-months follow-up. Poor outcome was defined as decrease in 1 BADL or unplanned readmission at 6 months or death within the first year after TAVI. Geriatric characteristics associated with poor outcome were assessed by logistic regression with surgical scores as bivariable. Geriatric characteristics were compared between baseline and 6-months follow-up.
+RESULTS: 114 patients (mean age 85.8±5.3 years) were included. Mean EuroSCORE was 19.1±10.6%. Poor outcome occurred in 57(50.0%) patients. Loss of one BADL (OR:1.66, 95CI[1.11-2.48]), decrease in IADL (OR:1.41, 95CI[1.14-1.74]), in plasmatic albumin (OR:1.10, 95CI[1.01-1.20]), in MMSe (OR:1.13, 95CI[1.02-1.26]), low walking speed (OR:1.53, 95CI[1.01-2.33]) and ABCDEF score ≥2 (OR:1.63, 95CI[1.09-2.42]) were independently associated with poor outcome. In survivors with complete follow-up (n=80), most geriatric parameters were maintained 6 months after TAVI, but IADL decreased (5.6±1.9 to 4.9±2.2, p<0.001). MMSe increased in patients with previous cognitive impairments whereas it decreased in those without (p<0.001).
+CONCLUSION: CGA parameters are independently associated with poor outcome after TAVI. These parameters, but IADL, are maintained at 6 months and course of the MMSe depends on previous cognitive status.
+
+Citation: Roca F, et al. Predictive Value for Outcome and Evolution of Geriatric Parameters after Transcatheter Aortic Valve Implantation. Predictive Value for Outcome and Evolution of Geriatric Parameters after Transcatheter Aortic Valve Implantation. 2020; 24:598-605. doi: 10.1007/s12603-020-1375-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32510112/

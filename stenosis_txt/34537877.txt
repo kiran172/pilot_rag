@@ -1,0 +1,12 @@
+PMID: 34537877
+Title: Systematic review and meta-analysis of percutaneous transluminal forceps biopsy for diagnosing malignant biliary strictures.
+
+Abstract: OBJECTIVES: To perform a systematic review and meta-analysis to determine the diagnostic performance of percutaneous transluminal forceps biopsy (PTFB) for differentiating malignant from benign biliary stricture.
+METHODS: A comprehensive literature search of the PubMed, EMBASE, and Ovid MEDLINE databases was conducted to identify original articles published between January 2001 and January 2021 reporting the diagnostic accuracy of PTFB. A random-effects model was used to summarize the diagnostic odds ratio and other measures of accuracy.
+RESULTS: Fourteen studies involving 1762 patients met the inclusion criteria and were included in the meta-analysis. The meta-analysis summary estimates of PTFB for diagnosis of malignant biliary strictures were as follows: sensitivity 81% (95% confidence interval [CI], 78-81%); specificity 100% (95% CI, 98-100%); diagnostic odds ratio 85.34 (95% CI, 38.37-189.81). The area under the curve of PTFB was 0.948 in the diagnosis of malignant biliary strictures. The diagnostic sensitivity was higher in intrinsic (85%) than in extrinsic (73%) biliary strictures. The pooled rate of all complications was 10.3% (95% CI, 7.0-14.2%), including a major complication rate of 3.1%.
+CONCLUSION: These data demonstrate that PTFB is sensitive and highly specific for diagnosing malignancy in biliary strictures. PTFB should be incorporated into future guidelines for tissue sampling in biliary cancer, especially in cases with failed endoscopic management.
+KEY POINTS: • PTFB had a good overall diagnostic performance for differentiating malignant from benign biliary strictures, with a meta-analysis summary estimate of 81% for sensitivity and 100% for specificity. • PTFB had higher sensitivity for cholangiocarcinoma (85%) than for other cancers (73%). • PTFB had a 100% technical success rate and a 10.3% rate for complications, including a 3.1% rate for major complications.
+
+Citation: Jeon TY, et al. Systematic review and meta-analysis of percutaneous transluminal forceps biopsy for diagnosing malignant biliary strictures. Systematic review and meta-analysis of percutaneous transluminal forceps biopsy for diagnosing malignant biliary strictures. 2022; 32:1747-1756. doi: 10.1007/s00330-021-08301-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34537877/

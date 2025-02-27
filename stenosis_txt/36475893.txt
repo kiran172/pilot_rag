@@ -1,0 +1,12 @@
+PMID: 36475893
+Title: Deep learning-based noise reduction for coronary CT angiography: using four-dimensional noise-reduction images as the ground truth.
+
+Abstract: BACKGROUND: To assess low-contrast areas such as plaque and coronary artery stenosis, coronary computed tomography angiography (CCTA) needs to provide images with lower noise without increasing radiation doses.
+PURPOSE: To develop a deep learning-based noise-reduction method for CCTA using four-dimensional noise reduction (4DNR) as the ground truth for supervised learning.
+MATERIAL AND METHODS: \We retrospectively collected 100 retrospective ECG-gated CCTAs. We created 4DNR images using non-rigid registration and weighted averaging three timeline CCTA volumetric data with intervals of 50 ms in the mid-diastolic phase. Our method set the original reconstructed image as the input and the 4DNR as the target image and obtained the noise-reduced image via residual learning. We evaluated the objective image quality of the original and deep learning-based noise-reduction (DLNR) images based on the image noise of the aorta and the contrast-to-noise ratio (CNR) of the coronary arteries. Further, a board-certified radiologist evaluated the blurring of several heart structures using a 5-point Likert scale subjectively and assigned a coronary artery disease reporting and data system (CAD-RADS) category independently.
+RESULTS: DLNR CCTAs showed 64.5% lower image noise (P &lt; 0.001) and achieved a 2.9 times higher CNR of coronary arteries than that in original images, without significant blurring in subjective comparison (P &gt; 0.1). The intra-observer agreement of CAD-RADS in the DLNR image was excellent (0.87, 95% confidence interval = 0.77-0.99) with original CCTAs.
+CONCLUSION: Our DLNR method supervised by 4DNR significantly reduced the image noise of CCTAs without affecting the assessment of coronary stenosis.
+
+Citation: Kobayashi T, et al. Deep learning-based noise reduction for coronary CT angiography: using four-dimensional noise-reduction images as the ground truth. Deep learning-based noise reduction for coronary CT angiography: using four-dimensional noise-reduction images as the ground truth. 2023; 64:1831-1840. doi: 10.1177/02841851221141656
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36475893/

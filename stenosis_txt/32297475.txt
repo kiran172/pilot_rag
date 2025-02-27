@@ -1,0 +1,12 @@
+PMID: 32297475
+Title: SLC44A2 deficient mice have a reduced response in stenosis but not in hypercoagulability driven venous thrombosis.
+
+Abstract: BACKGROUND: Genome wide association studies (GWAS) identified SLC44A2 as a novel susceptibility gene for venous thrombosis (VT) and previous work established that SLC44A2 contributed to clot formation upon vascular injury.
+OBJECTIVE: To further investigate the role of SLC44A2 in VT by utilizing SLC44A2 deficient mice (Slc44a2-/- ) in two representative disease models.
+METHODS: Mice were included in a hypercoagulability model driven by siRNA-mediated hepatic gene silencing of anticoagulants Serpinc1 (antithrombin) and Proc (protein C) and a flow restriction (stenosis) model induced by partial ligation of the inferior vena cava.
+RESULTS: In the hypercoagulability model, no effect in onset was observed in Slc44a2-/- animals; however, a drop in plasma fibrinogen and von Willebrand factor coinciding with an increase in blood neutrophils was recorded. In the neutrophil dependent stenosis model after 48 hours, Slc44a2-/- mice had significantly smaller thrombi both in length and weight with less platelet accumulation as a percentage of the total thrombus area. During the initiation of thrombosis at 6 hours post-stenosis, Slc44a2-/- mice also had smaller thrombi both in length and weight, with circulating platelets remaining elevated in Slc44a2-/- animals. Platelet activation and aggregation under both static- and venous and arterial shear conditions were normal for blood from Slc44a2-/- mice.
+CONCLUSIONS: These studies corroborate the original GWAS findings and establish a contributing role for SLC44A2 during the initiation of VT, with indications that this may be related to platelet-neutrophil interaction. The precise mechanism however remains elusive and warrants further investigation.
+
+Citation: Tilburg J, et al. SLC44A2 deficient mice have a reduced response in stenosis but not in hypercoagulability driven venous thrombosis. SLC44A2 deficient mice have a reduced response in stenosis but not in hypercoagulability driven venous thrombosis. 2020; 18:1714-1727. doi: 10.1111/jth.14835
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32297475/

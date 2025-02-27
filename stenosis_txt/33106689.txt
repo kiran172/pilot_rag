@@ -1,0 +1,8 @@
+PMID: 33106689
+Title: Mitochondrial pyruvate carriers are required for myocardial stress adaptation.
+
+Abstract: In addition to fatty acids, glucose and lactate are important myocardial substrates under physiologic and stress conditions. They are metabolized to pyruvate, which enters mitochondria via the mitochondrial pyruvate carrier (MPC) for citric acid cycle metabolism. In the present study, we show that MPC-mediated mitochondrial pyruvate utilization is essential for the partitioning of glucose-derived cytosolic metabolic intermediates, which modulate myocardial stress adaptation. Mice with cardiomyocyte-restricted deletion of subunit 1 of MPC (cMPC1-/-) developed age-dependent pathologic cardiac hypertrophy, transitioning to a dilated cardiomyopathy and premature death. Hypertrophied hearts accumulated lactate, pyruvate and glycogen, and displayed increased protein O-linked N-acetylglucosamine, which was prevented by increasing availability of non-glucose substrates in vivo by a ketogenic diet (KD) or a high-fat diet, which reversed the structural, metabolic and functional remodelling of non-stressed cMPC1-/- hearts. Although concurrent short-term KDs did not rescue cMPC1-/- hearts from rapid decompensation and early mortality after pressure overload, 3 weeks of a KD before transverse aortic constriction was sufficient to rescue this phenotype. Together, our results highlight the centrality of pyruvate metabolism to myocardial metabolism and function.
+
+Citation: Zhang Y, et al. Mitochondrial pyruvate carriers are required for myocardial stress adaptation. Mitochondrial pyruvate carriers are required for myocardial stress adaptation. 2020; 2:1248-1264. doi: 10.1038/s42255-020-00288-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33106689/

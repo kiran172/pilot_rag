@@ -1,0 +1,11 @@
+PMID: 36996909
+Title: The outcomes of fetal aortic valvuloplasty in critical aortic stenosis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Critical aortic stenosis that appears in mid-gestation tends to develop to growth retardation of left ventricle, known as hypoplastic left heart syndrome (HLHS). Despite better clinical management of HLHS, the morbidity and mortality rates of univentricular circulation patients remain high. In this paper, we sought to perform a systematic review and meta-analysis to know the outcomes of fetal aortic valvuloplasty in critical aortic stenosis patients.
+METHODS: This systematic review and meta-analysis was conducted according to the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) statement. A systematic search on fetal aortic valvuloplasty procedure for critical aortic stenosis was performed through PubMed, Scopus, EBSCOhost, ProQuest, and Google Scholar. The primary endpoint of each group was overall mortality. We used R software (version 4.1.3) to estimate the overall proportion of each outcome using random-effects model of proportional meta-analysis.
+RESULTS: A total of 389 fetal subjects from 10 cohort studies were included in this systematic review and meta-analysis. Fetal aortic valvuloplasty (FAV) was successfully performed in 84% of patients. It revealed a successful conversion to biventricular circulation rate of 33% with a mortality rate of 20%. Bradycardia and pleural effusion requiring treatment were two most common fetal complications, whereas maternal complication reported was only placental abruption in one patient.
+CONCLUSIONS: FAV has a high technical success rate with the ability to achieve biventricular circulation and a low rate of procedure-related mortality if carried out by experienced operators.
+
+Citation: Mendel B, et al. The outcomes of fetal aortic valvuloplasty in critical aortic stenosis: A systematic review and meta-analysis. The outcomes of fetal aortic valvuloplasty in critical aortic stenosis: A systematic review and meta-analysis. 2023; 382:106-111. doi: 10.1016/j.ijcard.2023.03.050
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36996909/

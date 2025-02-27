@@ -1,0 +1,12 @@
+PMID: 31972150
+Title: Association of cholesterol uptake capacity, a novel indicator for HDL functionality, and coronary plaque properties: An optical coherence tomography-based observational study.
+
+Abstract: BACKGROUND: Cholesterol efflux from atherosclerotic lesion is a key function of high-density lipoprotein (HDL). Recently, we established a simple, high-throughput, cell-free assay to evaluate the capacity of HDL to accept additional cholesterol, which is herein referred to as "cholesterol uptake capacity (CUC)".
+OBJECTIVE: To clarify the cross-sectional relationship between CUC and coronary plaque properties.
+METHODS: We enrolled 135 patients to measure CUC and assess the morphological features of angiographic stenosis by optical coherence tomography (OCT). We estimated the extent of the lipid-rich plaque by multiplying the mean lipid arc by lipid length (lipid index). The extent of the OCT-detected macrophage accumulation in the target plaque was semi-quantitatively estimated using a grading system.
+RESULTS: Lipid-rich plaque lesions were identified in 125 patients (92.6%). CUC was inversely associated with the lipid index (R = -0.348, P < 0.0001). In addition, CUC was also inversely associated with macrophage score (R = -0.327, P < 0.0001). Conversely, neither circulating levels of HDL cholesterol nor apoA1 showed a similar relationship.
+CONCLUSIONS: We demonstrated that CUC was inversely related to lipid-rich plaque burden and the extent of macrophage accumulation, suggesting that CUC could be useful for cardiovascular risk stratification.
+
+Citation: Oshita T, et al. Association of cholesterol uptake capacity, a novel indicator for HDL functionality, and coronary plaque properties: An optical coherence tomography-based observational study. Association of cholesterol uptake capacity, a novel indicator for HDL functionality, and coronary plaque properties: An optical coherence tomography-based observational study. 2020; 503:136-144. doi: 10.1016/j.cca.2020.01.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31972150/

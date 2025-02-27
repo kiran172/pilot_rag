@@ -1,0 +1,11 @@
+PMID: 35357575
+Title: Vertebral artery stenosis predicts cerebrovascular diseases following radiotherapy for nasopharyngeal carcinoma.
+
+Abstract: PURPOSE: Radiotherapy for nasopharyngeal carcinoma (NPC) may induce cerebrovascular diseases including ischemic stroke and transient ischemic attack (TIA), which can cause severe disability. However, information on the incidence and predictors of cerebrovascular diseases is scarce. This study aimed to estimate the incidence of cerebrovascular diseases following NPC, and attempts to ascertain the predictors of cerebrovascular diseases to facilitate early prevention.
+METHODS: We performed a retrospective cohort study on 655 NPC patients who received radiotherapy between 2006 and 2018 in a medical center. This study analyzed the incidence, clinical and imaging presentation of patients with cerebrovascular diseases. Cox proportional hazard model was used to identify risk factors associated with cerebrovascular diseases following radiotherapy.
+RESULTS: There were 14 patients who developed an ischemic stroke, and 3 patients developed a TIA after a mean follow-up of 5.8 years. Most ischemic events were from large-artery atherosclerosis (76.5%), and the most common symptom of ischemic stroke was unilateral limb weakness (57.1%). The cumulative incidence of ischemic stroke or TIA 15 years after radiotherapy was 9.1% (95% confidence interval [CI] = 4.7-17.2%). Multivariate Cox regression identified vertebral artery stenosis (HR: 18.341; 95% CI = 3.907-86.100; P < 0.001), atrial fibrillation (HR: 13.314; 95% CI = 1.306-135.764; P = 0.029), and hypertension (HR: 7.511; 95% CI = 1.472-38.320; P = 0.015) as independent predictors of ischemic stroke or TIA.
+CONCLUSION: Our study found that NPC patients with vertebral artery stenosis, atrial fibrillation, or hypertension carry a higher risk for ischemic stroke or TIA. Regular assessment of vertebral artery after radiotherapy was suggested.
+
+Citation: Yeh CF, et al. Vertebral artery stenosis predicts cerebrovascular diseases following radiotherapy for nasopharyngeal carcinoma. Vertebral artery stenosis predicts cerebrovascular diseases following radiotherapy for nasopharyngeal carcinoma. 2022; 30:5821-5830. doi: 10.1007/s00520-022-07011-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35357575/

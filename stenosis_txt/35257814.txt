@@ -1,0 +1,16 @@
+PMID: 35257814
+Title: Association of Frailty With Thrombosis of Hemodialysis Vascular Access: A Prospective Taiwanese Cohort Study.
+
+Abstract: RATIONALE & OBJECTIVE: Frailty, a multidimensional construct, has been associated with poor outcomes in patients receiving maintenance dialysis. This study assessed the association of frailty with dialysis vascular access patency.
+STUDY DESIGN: Multicenter prospective cohort study.
+SETTING & PARTICIPANTS: 761 prevalent patients receiving hemodialysis at 9 centers in Taiwan as of January 2018.
+EXPOSURE: Performance-based frailty was defined as 3 of the following: unintentional weight loss, weakness, exhaustion, low physical activity, and slow gait speed. Patients were categorized as prefrail if they had 1 or 2 of these characteristics.
+OUTCOME: Rate of and time to dialysis access thrombosis. Data regarding vascular access events were collected for 30 months after enrollment through December 31, 2020.
+ANALYTICAL APPROACH: Logistic regression analysis was used to estimate the association of clinical characteristics with frailty. Cox proportional hazards regression analysis was used to estimate the association of frailty with vascular access thrombosis adjusted for known clinical risk factors.
+RESULTS: The patients' mean age was 66 years, 46% were female, 18% had synthetic graft accesses, and 82% arteriovenous fistulas. Overall, 31% were frail, 35% were prefrail, and 34% were not frail. The frailty phenotype was associated with age, female sex, low body mass index, diabetes mellitus, and prior stroke. During a median follow-up of 731 days, 161 patients (21%) had access thrombosis events (not frail, 14%; prefrail, 20%; frail, 30%; P < 0.001). Frail patients had a higher risk of vascular access thrombosis than nonfrail patients (HR, 2.31 [95% CI, 1.55-3.39], P < 0.001). After multivariable adjustment for age and comorbidities, frailty remained significantly associated with access thrombosis for both fistulas and grafts.
+LIMITATIONS: Limited generalizability and potential residual confounding.
+CONCLUSIONS: Frailty is associated with an increased risk of vascular access thrombosis. These findings highlight the risks of access failure experienced by frail patients receiving hemodialysis.
+
+Citation: Luo CM, et al. Association of Frailty With Thrombosis of Hemodialysis Vascular Access: A Prospective Taiwanese Cohort Study. Association of Frailty With Thrombosis of Hemodialysis Vascular Access: A Prospective Taiwanese Cohort Study. 2022; 80:353-363.e1. doi: 10.1053/j.ajkd.2021.12.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35257814/

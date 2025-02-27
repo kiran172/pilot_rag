@@ -1,0 +1,11 @@
+PMID: 31673747
+Title: Ultra-low-dose multiphase CT angiography derived from CT perfusion data in patients with middle cerebral artery stenosis.
+
+Abstract: PURPOSE: Computed tomography (CT) perfusion (CTP) source images contain both brain perfusion and cerebrovascular information, and may allow a dynamic assessment of collaterals. The purpose of the study was to compare the image quality and the collaterals identified on multiphase CT angiography (CTA) derived from CTP datasets (hereafter called CTPA) reconstructed with iterative model reconstruction (IMR) algorithm in patients with middle cerebral artery (MCA) steno-occlusion with those of routine CTA.
+METHODS: Consecutive patients with a unilateral MCA steno-occlusion underwent non-contrast CT (NCCT), CTP, and CTA. CTPA images were reconstructed from CTP datasets. The vascular attenuation, image noise, signal-to-noise ratio (SNR), and contrast-to-noise ratio (CNR) of routine CTA and CTPA were measured and analyzed by Student's t test. Subjective image quality and collaterals were scored and compared using the Wilcoxon signed-rank test.
+RESULTS: Fifty-eight patients (mean age 61.7 years, 78% males, median National Institutes of Health Stroke Scale score = 12) were included. The effective radiation dose of CTP was 1.28 mSv. The vascular attenuation, SNR, CNR, and the image quality of CTPA were considerably higher than that of CTA (all, p < 0.001). Collaterals were rated higher on CTPA compared with CTA (1.79 ± 0.64 vs. 1.22 ± 0.84, p < 0.001). Fifty-three percent of patients with poor collaterals assessed on single-phase CTA had good collaterals on CTPA.
+CONCLUSION: CTPA derived from CTP datasets reconstructed with IMR algorithm offers image quality comparable to routine CTA and provides time-resolved evaluation of collaterals in patients with MCA ischemic disease.
+
+Citation: Wu X, et al. Ultra-low-dose multiphase CT angiography derived from CT perfusion data in patients with middle cerebral artery stenosis. Ultra-low-dose multiphase CT angiography derived from CT perfusion data in patients with middle cerebral artery stenosis. 2020; 62:167-174. doi: 10.1007/s00234-019-02313-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31673747/

@@ -1,0 +1,11 @@
+PMID: 36328870
+Title: The long-term prognostic value provided by Coronary CT angiography.
+
+Abstract: BACKGROUND: Risk-stratification of patients has a major role in the prevention and treatment of cardiovascular disease. The aim was to find the most informative predictors of cardiovascular events in patients undergoing Coronary CT Angiography.
+METHODS: We carried out a secondary analysis of a large registry dataset. The included population comprises adults aged 18 or older who underwent Coronary CT Angiography of 64-detector rows or greater. We clustered patients based on their characteristics and compared the risk for poor clinical outcomes between the two clusters.
+RESULTS: There were two clusters of patients having different risks for all-cause death, myocardial infarction, and late revascularization [hazard ratios (95%CI) = 2.28 (2.02, 2.57), 1.63 (1.40, 1.89), and 2.46 (2.1, 2.88), all P < 0.001]. The severity of stenosis in the left main coronary artery adjusted for age and sex was the most significant predictor of the high-risk cluster [adjusted odds ratio (95%CI) = 3.35 (2.98, 3.77), P < 0.001]. The severity of stenosis in the first obtuse marginal branch of the left circumflex, distal left circumflex, distal left anterior descending, posterior descending, the first diagonal branch of the left anterior descending, and proximal right coronary artery were important as well (all adjusted odds ratios ≥ 2.52). Cluster profiling showed a higher performance for CT Angiography features (sensitivity = 97.4%, specificity = 85.7%, C-statistic = 98.7%) than calcium, Framingham, and Duke scores in identifying high-risk patients (C-statistic = 82.1, 77.0, and 88.2%, respectively).
+CONCLUSION: Coronary CT Angiography can accurately risk-stratify patients concerning poor clinical outcomes.
+
+Citation: Mohammadi T and Mohammadi B. The long-term prognostic value provided by Coronary CT angiography. The long-term prognostic value provided by Coronary CT angiography. 2023; 107:37-45. doi: 10.1016/j.ejim.2022.10.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36328870/

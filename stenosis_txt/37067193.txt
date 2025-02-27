@@ -1,0 +1,13 @@
+PMID: 37067193
+Title: Feasibility of redo-TAVI in self-expanding Evolut valves: a CT analysis from the Evolut Low Risk Trial substudy.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation in an existing transcatheter valve (redo-TAVI) pins the index valve leaflets in the open position (neoskirt), which can cause coronary flow compromise and limit access. Whether anatomy may preclude redo-TAVI in self-expanding Evolut valves is unknown.
+AIMS: We aimed to evaluate the anatomical feasibility of redo-TAVI by simulating implantation of a balloon-expandable SAPIEN 3 (S3) within an Evolut or an Evolut within an Evolut.
+METHODS: A total of 204 post-TAVI computed tomography (CT) scans from the Evolut Low Risk CT substudy were analysed. Five redo-TAVI positions were evaluated: S3-in-Evolut inflow-to-inflow, S3 outflow at Evolut nodes 4, 5, and 6, and Evolut-in-Evolut inflow-to-inflow. Univariable modelling identified pre-TAVI clinical characteristics, CT anatomical parameters, and procedural variables associated with coronary flow compromise using the neoskirt height and post-TAVI aortic root dimensions.
+RESULTS: The risk of coronary flow compromise was lowest when the S3 outflow was at Evolut node 4 (20%) and highest when at Evolut node 6 (75%). The highest likelihood of preserving coronary accessibility occurred with the S3 outflow at Evolut node 4. Female sex and higher body mass index were associated with a higher risk of coronary flow compromise, as were a smaller annulus diameter, lower sinus of Valsalva height and width, shorter coronary height, smaller sinotubular junction diameter, and shallower Evolut implant depth.
+CONCLUSIONS: The feasibility of redo-TAVI after Evolut failure is multifactorial and relates to the native annular anatomy, as well as the implantation depth of the index and second bioprostheses. Placement of an S3 at a lower Evolut position may reduce the risk of coronary flow compromise while preserving coronary access.
+CLINICALTRIALS: gov: NCT02701283.
+
+Citation: Grubb KJ, et al. Feasibility of redo-TAVI in self-expanding Evolut valves: a CT analysis from the Evolut Low Risk Trial substudy. Feasibility of redo-TAVI in self-expanding Evolut valves: a CT analysis from the Evolut Low Risk Trial substudy. 2023; 19:e330-e339. doi: 10.4244/EIJ-D-22-01125
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37067193/

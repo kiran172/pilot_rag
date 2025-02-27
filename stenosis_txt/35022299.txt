@@ -1,0 +1,13 @@
+PMID: 35022299
+Title: Predictors of parenchymal hemorrhage after endovascular treatment in acute ischemic stroke: data from ANGEL-ACT Registry.
+
+Abstract: BACKGROUND: Parenchymal hemorrhage (PH) is a troublesome complication after endovascular treatment (EVT).
+OBJECTIVE: To investigate the incidence, independent predictors, and clinical impact of PH after EVT in patients with acute ischemic stroke (AIS) due to anterior circulation large vessel occlusion (LVO).
+METHODS: Subjects were selected from the ANGEL-ACT Registry. PH was diagnosed according to the European Collaborative Acute Stroke Study classification. Logistic regression analyses were performed to determine the independent predictors of PH, as well as the association between PH and 90-day functional outcome assessed by modified Rankin Scale (mRS) score.
+RESULTS: Of the 1227 enrolled patients, 147 (12.0%) were diagnosed with PH within 12-36 hours after EVT. On multivariable analysis, low admission Alberta Stroke Program Early CT score (ASPECTS)(adjusted OR (aOR)=1.13, 95% CI 1.02 to 1.26, p=0.020), serum glucose >7 mmol/L (aOR=1.82, 95% CI 1.16 to 2.84, p=0.009), and neutrophil-to-lymphocyte ratio (NLR; aOR=1.05, 95% CI 1.02 to 1.09, p=0.005) were associated with a high risk of PH, while underlying intracranial atherosclerotic stenosis (ICAS; aOR=0.42, 95% CI 0.22 to 0.81, p=0.009) and intracranial angioplasty/stenting (aOR=0.37, 95% CI 0.15 to 0.93, p=0.035) were associated with a low risk of PH. Furthermore, patients with PH were associated with a shift towards to worse functional outcome (mRS score 4 vs 3, adjusted common OR (acOR)=2.27, 95% CI 1.53 to 3.38, p<0.001).
+CONCLUSIONS: In Chinese patients with AIS caused by anterior circulation LVO, the risk of PH was positively associated with low admission ASPECTS, serum glucose >7 mmol/L, and NLR, but negatively related to underlying ICAS and intracranial angioplasty/stenting.
+TRIAL REGISTRATION NUMBER: NCT03370939.
+
+Citation: Sun D, et al. Predictors of parenchymal hemorrhage after endovascular treatment in acute ischemic stroke: data from ANGEL-ACT Registry. Predictors of parenchymal hemorrhage after endovascular treatment in acute ischemic stroke: data from ANGEL-ACT Registry. 2023; 15:20-26. doi: 10.1136/neurintsurg-2021-018292
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35022299/

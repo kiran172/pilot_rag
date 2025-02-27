@@ -1,0 +1,11 @@
+PMID: 35306030
+Title: Pericoronary fat attenuation index and coronary plaque quantified from coronary computed tomography angiography identify ischemia-causing lesions.
+
+Abstract: BACKGROUND: The association between pericoronary fat attenuation index (FAI), plaque characteristics, and lesion-specific ischemia identified by fractional flow reserve (FFR) remains unclear.
+METHODS: Coronary computed tomography angiography (CCTA) stenosis, FAI, plaque characteristics, FFR derived from computed tomography (FFR<sub>CT</sub>) and FFR were assessed in 280 vessels of 247 patients. Stenosis ≥50% was considered obstructive. Optimal thresholds of FAI and plaque variables were defined by the area under the receiver-operating characteristics curve (AUC) analysis. Ischemia was defined by FFR ≤ 0.80.
+RESULTS: FAI ≥ -71.9 HU, low-attenuation plaque (LAP) ≥ 49.62 mm3 and aggregate plaque volume (APV) ≥ 28.91% predicted ischemia independent of other plaque characteristics. The addition of FAI ≥ -71.9 HU improved discrimination (AUC, 0.720 vs. 0.674, P = 0.035) and reclassification abilities (category-free net reclassification index [NRI], 0.470, P &lt; 0.001; relative integrated discrimination improvement [IDI], 0.047, P &lt; 0.001) of ischemia compared with stenosis evaluation alone, with further discrimination (AUC, 0.772 vs. 0.720, P = 0.028) and reclassification abilities (NRI, 0.385, P = 0.001; relative IDI, 0.077, P &lt; 0.001) of ischemia by adding information regarding LAP ≥49.62 mm3 + APV ≥ 28.91%. And the diagnostic performance of combination approach was comparable to that of FFR<sub>CT</sub> alone (AUC, 0.772 vs. 0.762, P = 0.771).
+CONCLUSIONS: Stenosis severity, FAI, plaque characteristics predicted lesion-specific ischemia. The combination of FAI and plaque assessment improved the discrimination of ischemia compared with stenosis assessment alone.
+
+Citation: Yan H, et al. Pericoronary fat attenuation index and coronary plaque quantified from coronary computed tomography angiography identify ischemia-causing lesions. Pericoronary fat attenuation index and coronary plaque quantified from coronary computed tomography angiography identify ischemia-causing lesions. 2022; 357:8-13. doi: 10.1016/j.ijcard.2022.03.033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35306030/

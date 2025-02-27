@@ -1,0 +1,12 @@
+PMID: 32845067
+Title: Non-invasive procedural planning using computed tomography-derived fractional flow reserve.
+
+Abstract: OBJECTIVES: This study aimed to investigate the performance of computed tomography derived fractional flow reserve based interactive planner (FFR<sub>CT</sub> planner) to predict the physiological benefits of percutaneous coronary intervention (PCI) as defined by invasive post-PCI FFR.
+BACKGROUND: Advances in FFR<sub>CT</sub> technology have enabled the simulation of hyperemic pressure changes after virtual removal of stenoses.
+METHODS: In 56 patients (63 vessels) invasive FFR measurements before and after PCI were obtained and FFR<sub>CT</sub> was calculated using pre-PCI coronary CT angiography. Subsequently, FFR<sub>CT</sub> and invasive coronary angiography models were aligned allowing virtual removal of coronary stenoses on pre-PCI FFR<sub>CT</sub> models in the same locations as PCI was performed. Relationships between invasive FFR and FFR<sub>CT</sub> , between post-PCI FFR and FFR<sub>CT</sub> planner, and between delta FFR and delta FFR<sub>CT</sub> were evaluated.
+RESULTS: Pre PCI, invasive FFR was 0.65 ± 0.12 and FFR<sub>CT</sub> was 0.64 ± 0.13 (p = .34) with a mean difference of 0.015 (95% CI: -0.23-0.26). Post-PCI invasive FFR was 0.89 ± 0.07 and FFR<sub>CT</sub> planner was 0.85 ± 0.07 (p &lt; .001) with a mean difference of 0.040 (95% CI: -0.10-0.18). Delta invasive FFR and delta FFR<sub>CT</sub> were 0.23 ± 0.12 and 0.21 ± 0.12 (p = .09) with a mean difference of 0.025 (95% CI: -0.20-0.25). Significant correlations were found between pre-PCI FFR and FFR<sub>CT</sub> (r = 0.53, p &lt; .001), between post-PCI FFR and FFR<sub>CT</sub> planner (r = 0.41, p = .001), and between delta FFR and delta FFR<sub>CT</sub> (r = 0.57, p &lt; .001).
+CONCLUSIONS: The non-invasive FFR<sub>CT</sub> planner tool demonstrated significant albeit modest agreement with post-PCI FFR and change in FFR values after PCI. The FFR<sub>CT</sub> planner tool may hold promise for PCI procedural planning; however, improvement in technology is warranted before clinical application.
+
+Citation: Bom MJ, et al. Non-invasive procedural planning using computed tomography-derived fractional flow reserve. Non-invasive procedural planning using computed tomography-derived fractional flow reserve. 2021; 97:614-622. doi: 10.1002/ccd.29210
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32845067/

@@ -1,0 +1,11 @@
+PMID: 34711473
+Title: Left ventricular global longitudinal strain in secondary hypertension: A meta-analysis of echocardiographic studies.
+
+Abstract: AIM: Information on systolic dysfunction, as assessed by left ventricular (LV) mechanics in secondary hypertension is still largely limited. We performed a systematic meta- analysis of 2D/3D speckle tracking studies in order to provide an updated comprehensive information on this topic.
+METHODS: The PubMed, OVID-MEDLINE, and Cochrane library databases were analysed to search for articles published from the inception up to March 31st 2021. Studies were identified by using MeSH terms and crossing the following search items: "myocardial strain" "left ventricular mechanics", "speckle tracking echocardiography", "systolic dysfunction", "hypertensive heart disease", "left ventricular hypertrophy", "secondary hypertension", "primary aldosteronism", "pheochromocytoma", "Cushing disease", "renal artery stenosis".
+RESULTS: On the whole, 515 patients with secondary hypertension (169 pheochromocytoma, 165 primary aldosteronism, 144 renal artery stenosis and 37 Cushing's syndrome) and 601 essential hypertensive patients from 11 studies were considered. Pooled ejection fraction (EF) was similar in essential hypertensive controls and in patients with secondary hypertension (SMD 0.12±0.06, CI: 0.001/0.25, p=0.05). Of note, EF was higher in patients with pheochromocytoma than in essential hypertensives (0.50±0.11, CI: 0.27/0.73, p<0.001). In contrast, pooled GLS was impaired in patients with secondary hypertension compared to their essential hypertensive counterparts (SMD 0.83±0.26, CI: 0.32/1.30, p< 0.001).
+CONCLUSIONS: The present meta-analysis adds a new piece of evidence by showing that GLS performs better than EF in identifying systolic dysfunction in the setting of secondary hypertension. In particular, this is true in patients with pheochromocytoma in whom conventional EF suggests a normal or even super-normal systolic function.
+
+Citation: Tadic M, et al. Left ventricular global longitudinal strain in secondary hypertension: A meta-analysis of echocardiographic studies. Left ventricular global longitudinal strain in secondary hypertension: A meta-analysis of echocardiographic studies. 2022; 96:81-89. doi: 10.1016/j.ejim.2021.10.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34711473/

@@ -1,0 +1,11 @@
+PMID: 37201615
+Title: Discrepancy between invasive and echocardiographic transvalvular gradient after TAVI: Insights from the LAPLACE-TAVI registry.
+
+Abstract: BACKGROUND: Echocardiography-based transvalvular mean pressure gradient (ECHO-mPG) used to assess the forward valve function and structural valve deterioration could overestimate the true pressure gradient. This study evaluated the discrepancy between invasive and ECHO-mPG after transcatheter aortic valve implantation (TAVI) with respective valve type and size, its impact on a device success criterion, and predictors of a pressure discrepancy.
+METHODS: We analyzed 645 patients registered in a multicenter TAVI registry (balloon-expandable valve [BEV]: 500; self-expandable valve [SEV]: 145). The invasive transvalvular mPG was measured after valve implantation using two Pigtail catheters (CATH-mPG), while the ECHO-mPG was measured within 48 h after TAVI. Pressure recovery (PR) was calculated using the following formula: ECHO-mPG × effective orifice area (EOA)/ascending aortic area (AoA) × (1 - EOA/AoA).
+RESULTS: ECHO-mPG was weakly correlated with (r = 0.29, p < 0.0001), and consistently overestimated CATH-mPG in both BEV and SEV, and respective valve sizes. The magnitude of the discrepancy was larger for BEV than SEV (p < 0.001) and smaller valves (p < 0.001). After the correction of PR using the above formula, the pressure discrepancy remained for BEV (p < 0.001) but not SEV (p = 0.10). The proportion of patients with an ECHO-mPG > 20 mmHg decreased from 7.0% to 1.6% after correction (p < 0.0001). Among the baseline and procedural variables, post-procedural ejection fraction, BEV versus SEV, and smaller valves were associated with a larger discrepancy in mPG.
+CONCLUSIONS: ECHO-mPG could be overestimated after TAVI, especially in patients with a smaller BEV. A higher ejection fraction, BEV, and smaller valves were predictors of a pressure discrepancy between CATH- and ECHO-mPG.
+
+Citation: Yamazaki C, et al. Discrepancy between invasive and echocardiographic transvalvular gradient after TAVI: Insights from the LAPLACE-TAVI registry. Discrepancy between invasive and echocardiographic transvalvular gradient after TAVI: Insights from the LAPLACE-TAVI registry. 2023; 386:17-23. doi: 10.1016/j.ijcard.2023.05.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37201615/

@@ -1,0 +1,11 @@
+PMID: 35393697
+Title: Stratifying features for diagnosing hypertrophic stenosis on ultrasound: a diagnostic accuracy study.
+
+Abstract: BACKGROUND: Our aims were to determine if the diagnostic threshold for diagnosing hypertrophic pyloric stenosis (HPS) on ultrasound scan (USS) should be adjusted based on birth weight (BW), current weight (CW), gestational age (GA), chronological age (CA) or corrected gestational age (CGA).
+METHODS: All patients who underwent either an USS and pyloromyotomy (Group 1) or an USS for possible HPS (Group 2) at our tertiary centre between July 2013 and June 2019 were identified. Ideal threshold values are identified by measuring Youden's Index (J = sensitivity + specificity - 1; higher is better). Mean maximum Youden's Index for stratified results was compared to that for combined results.
+RESULTS: Two hundred and eighty-four patients were included (142 patients in both Group 1 and Group 2). Combined maximum Youden's Index for all patients was 0.92 for pyloric canal thickness (PMT) and 0.87 for pyloric canal length (PCL). Mean maximum Youden's Index was higher when patients were stratified by GA, CGA, BW or CW, and equivalent for CA. For pyloric canal length (PCL), mean maximum Youden's Index was lower for all variables when stratified compared to combined. There was no visual trend observed in the diagnostic thresholds between groups.
+CONCLUSION: Stratifying USS PMT diagnostic thresholds values based on age and weight is statistically more accurate than a single threshold in diagnosing HPS. However, the lack of visual correlation indicates a larger dataset is required to validate these results.
+
+Citation: Vinycomb TI, et al. Stratifying features for diagnosing hypertrophic stenosis on ultrasound: a diagnostic accuracy study. Stratifying features for diagnosing hypertrophic stenosis on ultrasound: a diagnostic accuracy study. 2022; 92:1153-1158. doi: 10.1111/ans.17649
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35393697/

@@ -1,0 +1,11 @@
+PMID: 36791965
+Title: Cardiovascular magnetic resonance pulmonary perfusion for functional assessment of pulmonary vein stenosis.
+
+Abstract: BACKGROUND: Cardiovascular magnetic resonance (CMR) imaging allows to combine pulmonary perfusion measurements and pulmonary venous angiography during a single-session examination with both imaging modules representing the basis for accurate diagnosis and therapeutic stratification of pulmonary vein (PV) stenosis. The present study investigated the clinical utility of dynamic pulmonary perfusion imaging integrated into a comprehensive CMR protocol for the evaluation of patients with suspected PV stenosis.
+METHODS: 162 patients with clinically suspected PV stenosis after catheter ablation of atrial fibrillation underwent a combined single-session CMR examination (cardiac cine imaging, dynamic pulmonary perfusion, and three-dimensional PV angiography). CMR angiography was used for visual grading of PV stenoses; dynamic pulmonary perfusion imaging was evaluated per lung lobe visually and quantitatively.
+RESULTS: All PV stenosis ≥90% showed a visible perfusion deficit of the corresponding lung lobe (60/60, 100%) while all PVs with luminal narrowing <50% exhibited normal pulmonary perfusion (680/680, 100%). However, every third 70-89% stenosis showed a normal pulmonary perfusion (10/31, 32%) while every fourth 50-69% PV stenosis was associated with hypoperfusion of the corresponding lung lobe (9/39, 23%). For quantitative pulmonary perfusion measurements, ROC analysis demonstrated high discriminatory power regarding PV stenosis detection with the highest AUC values for time-to-peak enhancement (cut-off value, 8.5 s).
+CONCLUSIONS: The combination of CMR angiography and CMR pulmonary perfusion allowed for assessment of the anatomical degree of PV stenosis and its hemodynamic impact on the pulmonary parenchymal level. Thus, the proposed comprehensive CMR protocol provided an efficient diagnostic work-up of patients with suspected PV stenosis.
+
+Citation: Jahnke C, et al. Cardiovascular magnetic resonance pulmonary perfusion for functional assessment of pulmonary vein stenosis. Cardiovascular magnetic resonance pulmonary perfusion for functional assessment of pulmonary vein stenosis. 2023; 376:147-153. doi: 10.1016/j.ijcard.2023.02.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36791965/

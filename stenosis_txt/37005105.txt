@@ -1,0 +1,12 @@
+PMID: 37005105
+Title: Angiography-Based Superficial Wall Strain of De Novo Stenotic Coronary Arteries: Serial Assessment of Vessels Treated with Bioresorbable Scaffold or Drug-Eluting Stent.
+
+Abstract: OBJECTIVES: This study sought to present an angiography-based computational model for serial assessment of superficial wall strain (SWS, dimensionless) of de-novo coronary stenoses treated with either bioresorbable scaffold (BRS) or drug-eluting stent (DES).
+BACKGROUND: A novel method for SWS allows the assessment of the mechanical status of arteries in-vivo, which may help for predicting cardiovascular outcomes.
+METHODS: Patients with arterial stenosis treated with BRS (n = 21) or DES (n = 21) were included from ABSORB Cohort B1 and AIDA trials. The SWS analyses were performed along with quantitative coronary angiography (QCA) at pre-PCI, post-PCI, and 5-year follow-up. Measurements of QCA and SWS parameters were quantified at the treated segment and adjacent 5-mm proximal and distal edges.
+RESULTS: Before PCI, the peak SWS on the 'to be treated' segment (0.79 ± 0.36) was significantly higher than at both virtual edges (0.44 ± 0.14 and 0.45 ± 0.21; both p &lt; 0.001). The peak SWS in the treated segment significantly decreased by 0.44 ± 0.13 (p &lt; 0.001). The surface area of high SWS decreased from 69.97mm2 to 40.08mm2 (p = 0.002). The peak SWS in BRS group decreased to a similar extent (p = 0.775) from 0.81 ± 0.36 to 0.41 ± 0.14 (p &lt; 0.001), compared with DES group from 0.77 ± 0.39 to 0.47 ± 0.13 (p = 0.001). Relocation of high SWS to device edges was often observed in both groups after PCI (35 of 82 cases, 41.7 %). At follow-up of BRS, the peak SWS remained unchanged compared to post-PCI (0.40 ± 0.12 versus 0.36 ± 0.09, p = 0.319).
+CONCLUSION: Angiography-based SWS provided valuable information about the mechanical status of coronary arteries. Device implantation led to a significant decrease of SWS to a similar extent with either polymer-based scaffolds or permanent metallic stents.
+
+Citation: Wu X, et al. Angiography-Based Superficial Wall Strain of De Novo Stenotic Coronary Arteries: Serial Assessment of Vessels Treated with Bioresorbable Scaffold or Drug-Eluting Stent. Angiography-Based Superficial Wall Strain of De Novo Stenotic Coronary Arteries: Serial Assessment of Vessels Treated with Bioresorbable Scaffold or Drug-Eluting Stent. 2023; 53:51-60. doi: 10.1016/j.carrev.2023.03.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37005105/

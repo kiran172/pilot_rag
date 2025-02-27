@@ -1,0 +1,12 @@
+PMID: 30883777
+Title: Computational Fluid Dynamics Analysis of Surgical Approaches to Bilateral Vocal Fold Immobility.
+
+Abstract: OBJECTIVES: Bilateral vocal fold immobility (BVFI) is a rare and life-threatening condition in which both vocal folds are fixed, resulting in airway obstruction associated with life-threatening respiratory compromise. Treatment of BVFI is largely surgical and remains an unsatisfactory compromise between voice, breathing, and swallowing. No comparisons between currently employed techniques currently exist. We sought to employ computational fluid dynamics (CFD) modeling to delineate the optimal surgical approach for BVFI.
+METHODS: Utilizing clinical computed tomography of BVFI subjects, coupled with image analytics employing CFD models and subject pulmonary function data, we compared the airflow features in the baseline pathologic states and changes seen between endoscopic cordotomy, endoscopic suture lateralization, and posterior cricoid expansion.
+RESULTS: CFD modeling demonstrated that the greatest airflow velocity occurs through the posterior glottis on inspiration and anterior glottis on expiration in both the normal condition and in BVFI. Glottic airflow velocity and resistance were significantly higher in the BVFI condition compared to normal. Geometric indices (cross-sectional area of airway) were lower in posterior cricoid expansion surgery when compared to alternate surgical approaches. CFD measures (airflow velocity and resistance) improved with all surgical approaches but were superior with posterior cricoid expansion.
+CONCLUSION: CFD modeling can provide discrete, quantitative assessment of the airflow through the laryngeal inlet, and offers insights into the pathophysiology and changes that occur after surgery for BVFI.
+LEVEL OF EVIDENCE: NA. Laryngoscope, 130:E57-E64, 2020.
+
+Citation: Rios G, et al. Computational Fluid Dynamics Analysis of Surgical Approaches to Bilateral Vocal Fold Immobility. Computational Fluid Dynamics Analysis of Surgical Approaches to Bilateral Vocal Fold Immobility. 2020; 130:E57-E64. doi: 10.1002/lary.27925
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30883777/

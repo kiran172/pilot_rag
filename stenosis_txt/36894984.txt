@@ -1,0 +1,11 @@
+PMID: 36894984
+Title: Early detection of myocardial ischemia in resting ECG: analysis by HHT.
+
+Abstract: BACKGROUND: Exercise electrocardiography (ECG) is a noninvasive test aiming at producing ischemic changes. However, resting ECG cannot be adopted in diagnosing myocardial ischemia till ST-segment depressions. Therefore, this study aimed to detect myocardial energy defects in resting ECG using the Hilbert-Huang transformation (HHT) in patients with angina pectoris.
+METHODS: Electrocardiographic recordings of positive exercise ECG by performing coronary imaging test (n = 26) and negative exercise ECG (n = 47) were collected. Based on the coronary stenoses severity, patients were divided into three categories: normal, < 50%, and ≥ 50%. During the resting phase of the exercise ECG, all 10-s ECG signals are decomposed by HHT. The RT intensity index, composed of the power spectral density of the P, QRS, and T components, is used to estimate the myocardial energy defect.
+RESULTS: After analyzing the resting ECG using HHT, the RT intensity index was significantly higher in patients with positive exercise ECG (27.96%) than in those with negative exercise ECG (22.30%) (p < 0.001). In patients with positive exercise ECG, the RT intensity index was gradually increasing with the severity of coronary stenoses: 25.25% (normal, n = 4), 27.14% (stenoses < 50%, n = 14), and 30.75% (stenoses ≥ 50%, n = 8). The RT intensity index of different coronary stenoses was significantly higher in patients with negative exercise ECG, except for the normal coronary imaging test.
+CONCLUSIONS: Patients with coronary stenoses had a higher RT index at the resting stage of exercise ECG. Resting ECG analyzed using HHT could be a method for the early detection of myocardial ischemia.
+
+Citation: Wang CL, et al. Early detection of myocardial ischemia in resting ECG: analysis by HHT. Early detection of myocardial ischemia in resting ECG: analysis by HHT. 2023; 22:23. doi: 10.1186/s12938-023-01089-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36894984/

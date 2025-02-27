@@ -1,0 +1,8 @@
+PMID: 36928587
+Title: Deep Learning Model for Coronary Angiography.
+
+Abstract: The visual inspection of coronary artery stenosis is known to be significantly affected by variation, due to the presence of other tissues, camera movements, and uneven illumination. More accurate and intelligent coronary angiography diagnostic models are necessary for improving the above problems. In this study, 2980 medical images from 949 patients are collected and a novel deep learning-based coronary angiography (DLCAG) diagnose system is proposed. Firstly, we design a module of coronary classification. Then, we introduce RetinaNet to balance positive and negative samples and improve the recognition accuracy. Additionally, DLCAG adopts instance segmentation to segment the stenosis of vessels and depict the degree of the stenosis vessels. Our DLCAG is available at http://101.132.120.184:8077/ . When doctors use our system, all they need to do is login to the system, upload the coronary angiography videos. Then, a diagnose report is automatically generated.
+
+Citation: Ling H, et al. Deep Learning Model for Coronary Angiography. Deep Learning Model for Coronary Angiography. 2023; 16:896-904. doi: 10.1007/s12265-023-10368-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36928587/

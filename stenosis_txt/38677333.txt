@@ -1,0 +1,11 @@
+PMID: 38677333
+Title: Prognostic value of left ventricular and left atrial strain imaging in moderate to severe aortic stenosis: Insights from an Asian population.
+
+Abstract: BACKGROUND: Data regarding the prognostic value of left atrial (LA) strain in aortic stenosis (AS) is scarce, especially in Asian population and moderate AS.
+METHOD: Left ventricular global longitudinal strain (LVGLS), LA reservoir strain (LASr), conduit strain (LAScd), and contractile strain (LASct) were measured using automated speckle-tracking echocardiography in consecutive patients with moderate or severe AS. The primary endpoint was a composite of all-cause death (ACD) and major adverse cardiovascular events (MACE; myocardial infarction, syncope, and heart failure hospitalization).
+RESULTS: Of 712 patients (mean age, 78 ± 12 years; 370 [52%] moderate AS; 342 [48%] severe AS), average LV ejection fraction (LVEF) was 68 with SD of 12%. At a median follow-up of 18 months (interquartile range, 11-26 months), the primary endpoint occurred in 93 patients (60 deaths and 35 MACEs) and 221 patients underwent surgical or transcatheter aortic valve replacement (AVR). In the entire cohort, separate multivariable models adjusted for age, Charlson index, symptomatic status, time-dependent AVR, AS-severity, LA volume index and LVEF demonstrated that only LASr was associated with MACE+ACD (Hazard ratio, 0.97; P = 0.014). Subgroup analysis for MACE+ACD demonstrated consistent prognostication for LASr in moderate and severe AS; LVGLS was prognostic only in severe AS (all P ≤ 0.023). The optimal MACE+ACD cutoff for LASr from spline curves was 21.3%. Adjusted Kaplan-Meier curves demonstrated better event-free survival in patients with LASr >21.3% versus those with LASr ≤21.3% (P = 0.04).
+CONCLUSIONS: In both moderate and severe AS, only LASr robustly predicted outcomes; thus, including LASr in the AS staging algorithm should be considered.
+
+Citation: Lee CY, et al. Prognostic value of left ventricular and left atrial strain imaging in moderate to severe aortic stenosis: Insights from an Asian population. Prognostic value of left ventricular and left atrial strain imaging in moderate to severe aortic stenosis: Insights from an Asian population. 2024; 407:132103. doi: 10.1016/j.ijcard.2024.132103
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38677333/

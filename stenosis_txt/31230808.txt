@@ -1,0 +1,11 @@
+PMID: 31230808
+Title: Modeling risk of coronary obstruction during transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVE: In this study we aimed to evaluate risk of coronary obstruction during transcatheter aortic valve replacement and develop improved criteria based on computational modeling.
+METHODS: Patient specific 3-dimensional models were constructed and validated for 28 patients out of 600 patients who were flagged as high risk for coronary obstruction (defined as meeting coronary ostium height < 14 mm and/or sinus of Valsalva diameter [SOVd] < 30 mm). The models consisted finite element analysis to predict the post- transcatheter aortic valve replacement native cusp apposition relative to the coronary ostium and were validated in vitro. The distance from cusp to coronary ostium (DLC) was derived from the 3-dimensional models and indexed with the coronary artery diameter to yield a fractional obstruction measure (DLC/d).
+RESULTS: Twenty-two out of 28 high-risk patients successfully underwent transcatheter aortic valve replacement without coronary obstruction and 6 did not. DLC/d between the 2 groups was significantly different (P < .00078), whereas neither coronary ostium height nor SOVd were significantly different (P > .32). A cutoff of DLC/d < 0.7 was predictive with 100% sensitivity and 95.7% specificity. The optimal sensitivity and specificity of coronary ostium height and SOVd in this high-risk group was only 60% and 40%, respectively, for cutoff coronary ostium height of 10 mm and SOVd of 30.5 mm.
+CONCLUSIONS: Three-dimensional modeling has the potential to enable more patients to be safely treated with transcatheter aortic valve replacement who have a low-lying coronary ostium or small SOVd. DLC/d is more predictive of obstruction than coronary ostium height and SOVd.
+
+Citation: Heitkemper M, et al. Modeling risk of coronary obstruction during transcatheter aortic valve replacement. Modeling risk of coronary obstruction during transcatheter aortic valve replacement. 2020; 159:829-838.e3. doi: 10.1016/j.jtcvs.2019.04.091
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31230808/

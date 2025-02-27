@@ -1,0 +1,11 @@
+PMID: 35000763
+Title: Double rule-out technique for evaluation of acute chest pain using 128-row multidetector CT.
+
+Abstract: AIM: To evaluate the feasibility and image quality of the double rule-out (DRO) technique using 128-row multidetector computed tomography (CT) for simultaneous evaluation of the aorta and coronary arteries in patients with acute non-specific chest pain.
+MATERIALS AND METHODS: Sixty-eight patients underwent electrocardiography (ECG)-gated coronary CT followed by non-ECG-gated abdominal CT. The contrast-to-noise ratio and signal-to-noise ratio between the vessels and adjacent perivascular fat tissue were calculated for both the aorta and coronary arteries. Dose-length products were recorded. Two blinded readers graded the image quality of the aorta and coronary arteries on a two-point and a four-point scale, respectively. In addition, the severity of coronary stenosis was independently analysed for each coronary vessel.
+RESULTS: The average attenuation was more than 350 HU for the aorta and >330 HU for the coronary arteries. The average (±standard deviation) volume of contrast media was 69.5 ± 12.5 ml. Interobserver agreement on the image quality of aortic and coronary data sets was perfect and substantial, respectively. There was almost perfect interobserver agreement for the all observations of the severity of coronary stenosis.
+CONCLUSION: The DRO technique with a standard volume (approximately 70 ml) of contrast media is useful for acute chest pain evaluation in patients suspected of having acute aortic syndrome or acute coronary syndrome. It is also accurate and safe while maintaining the average CT attenuation of the aorta and coronary arteries >330 HU.
+
+Citation: Denewar FA, et al. Double rule-out technique for evaluation of acute chest pain using 128-row multidetector CT. Double rule-out technique for evaluation of acute chest pain using 128-row multidetector CT. 2022; 77:e231-e240. doi: 10.1016/j.crad.2021.12.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35000763/

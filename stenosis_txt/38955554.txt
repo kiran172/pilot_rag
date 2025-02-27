@@ -1,0 +1,12 @@
+PMID: 38955554
+Title: Biomarkers for identification of high-risk coronary artery plaques in patients with suspected coronary artery disease.
+
+Abstract: BACKGROUND: Patients with atherosclerotic plaques containing high-risk features have an increased likelihood of events and a worse prognosis. Whether increased levels of Troponin I (TnI) and C-reactive protein (CRP) are associated with the presence of high-risk coronary atherosclerotic plaques (HRP) is not well described. We assessed the association between 1) TnI and 2) CRP with quantified coronary plaque burden, luminal diameter stenosis, and HRP in patients with low/intermediate pre-test probability of obstructive coronary artery disease (CAD) referred for coronary computed tomography angiography (CCTA).
+METHODS: The CCTA from 1615 patients were analyzed using a semiautomatic software for coronary artery plaque characterization. Patients with high TnI (>6 ​ng/L) and high CRP (>2 ​mg/L) were identified. Associations of TnI and CRP with plaque burden, stenosis (≥50% luminal diameter stenosis on CCTA), and HRP were investigated.
+RESULTS: TnI and CRP were both positively correlated with total plaque burden (TnI rs ​= ​0.14, p ​< ​0.001; CRP rs ​= ​0.08, p ​< ​0.001). In multivariate logistic regression analyses, high TnI was associated with stenosis (OR 1.43, 95% confidence interval (CI) 1.03-1.99, p ​= ​0.034), the presence of HRP (OR 1.79, 95% CI: 1.17-2.74, p ​= ​0.008), and the subtypes of HRP; low attenuation plaque (OR 1.93, 95% CI: 1.24-3.00, p ​= ​0.003), and positive remodeling (OR 1.51, 95% CI: 1.07-2.13, p ​= ​0.018). For CRP, only stenosis and napkin ring sign correlated significantly.
+CONCLUSION: In patients with suspected CAD, TnI and CRP are associated with HRP features. These findings may suggest that inflammatory and particularly ischemic biomarkers might improve early risk stratification and affect patient management.
+GOV IDENTIFIER: NCT02264717.
+
+Citation: Pedersen G, et al. Biomarkers for identification of high-risk coronary artery plaques in patients with suspected coronary artery disease. Biomarkers for identification of high-risk coronary artery plaques in patients with suspected coronary artery disease. 2024; 18:467-475. doi: 10.1016/j.jcct.2024.06.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38955554/

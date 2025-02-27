@@ -1,0 +1,11 @@
+PMID: 36572808
+Title: The Impact of Pretreatment Esophageal Stenosis on Survival of Esophageal Cancer Patients.
+
+Abstract: BACKGROUND: Little is known about the survival impacts of pretreatment cancerous stenosis on patients with esophageal carcinoma (EC).
+METHODS: The clinicopathologic characteristics of patients who underwent surgery for EC between January 2010 and December 2018 were retrospectively reviewed. Esophageal stenosis was defined as present when a thin endoscope could not be passed through the tumor site. The impacts of stenosis on overall survival (OS) and cancer-specific survival (CSS) were evaluated using Cox hazards analysis.
+RESULTS: Of the 496 EC patients in this study, 51 (10.3 %) had pretreatment esophageal stenosis. Stenosis was associated with lower body mass index (P < 0.001) and higher pStage (P < 0.001). The 3-year OS rate for the patients with stenosis was significantly poorer than for the patients without stenosis (40.2 % vs 69.6 %; hazard ratio [HR], 2.19; P < 0.001). The survival outcomes, especially CSS, for the patients with stenosis were significantly poorer than for the patients without stenosis for both pStage II-III (P = 0.009) and pStage IV (P = 0.006) disease. The OS and CSS curves were well stratified by the presence of stenosis even in early-stage (pStage II) patients (P = 0.04 and P < 0.01, respectively). Multivariable analysis showed esophageal stenosis, pStage III-IV disease, and non-curative resection to be independently associated with poor OS (HR, 1.61; P = 0.02) and poor CSS (HR,1.67; P = 0.02). Higher pStage was an independent predictor of poor CSS for patients without stenosis, but not for those with stenosis.
+CONCLUSIONS: Esophageal carcinoma patients with pretreatment stenosis had significantly poorer survival outcomes, especially poorer CSS, than those without stenosis in both early- and advanced-stage diseases.
+
+Citation: Sugawara K, et al. The Impact of Pretreatment Esophageal Stenosis on Survival of Esophageal Cancer Patients. The Impact of Pretreatment Esophageal Stenosis on Survival of Esophageal Cancer Patients. 2023; 30:2703-2712. doi: 10.1245/s10434-022-12945-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36572808/

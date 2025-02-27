@@ -1,0 +1,8 @@
+PMID: 38694061
+Title: Numerical analysis of blood flow through stenosed microvessels using a multi-phase model.
+
+Abstract: Blood flow in arterioles have attracted considerable research attention due to their clinical implications. However, the fluid structure interaction between red blood cells and plasma in the blood poses formidable difficulty to the computational efforts. In this contribution, we seek to represent the red blood cells in the blood as a continuous non-Newtonian phase and construct a multi-phase model for the blood flow in microvessels. The methods are presented and validated using a channel with sudden expansion. And the resulting blood flow inside a stenosed microvessel is investigated at different inlet velocity amplitudes and hematocrits. It is show that the increase of both inlet velocity amplitude and inlet hematocrit leads to longer and thicker cell-rich layer downstream the stenosis. Besides, it is found that the maximum values of wall shear stress scales up with inlet velocity amplitudes and hematocrits. These results show the validity of the proposed computational model and provide helpful insights into blood flow behaviors inside stenosed vessels.
+
+Citation: Zhao Y and Xie J. Numerical analysis of blood flow through stenosed microvessels using a multi-phase model. Numerical analysis of blood flow through stenosed microvessels using a multi-phase model. 2024; 10:e29843. doi: 10.1016/j.heliyon.2024.e29843
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38694061/

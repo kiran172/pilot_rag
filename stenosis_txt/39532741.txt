@@ -1,0 +1,13 @@
+PMID: 39532741
+Title: [Plaque characterization and individualized risk assessment].
+
+Abstract: CLINICAL/METHODICAL ISSUE: Risk assessment and accurate plaque characterization are key to individual prognosis in coronary artery disease (CAD).
+STANDARD RADIOLOGICAL METHODS: The standard of care is cardiac computed tomography (CT), including calcium scoring and coronary CT angiography (CCTA). Diagnosis is based on the CAD-RADS (Coronary Artery Disease-Reporting and Data System) classification.
+METHODOLOGICAL INNOVATIONS: New developments include CT-based fractional flow reserve (CT-FFR) and plaque quantification ("virtual histology").
+PERFORMANCE: A calcium score of 0 indicates an event risk of less than 1% over 10 years [7, 17]. CAD-RADS classes 1 to 5 allow risk assessment compared to patients without coronary plaques [2]. CT-FFR has high accuracy (area under the curve [AUC] 0.90; 95% confidence interval 0.87-0.94) in assessing the hemodynamic significance of stenoses compared with invasive coronary angiography [25]. Plaque quantification has shown that a necrotic core greater than 4% is associated with an almost fivefold increase in 5‑year event risk [29].
+ACHIEVEMENTS: The presence of obstructive CAD (stenosis > 50%) is a strong prognostic factor. The evaluation of the hemodynamic relevance of 40-90% stenoses by CT-FFR or other functional tests is already guideline-compliant in the USA, but not yet in Germany. Quantitative approaches to measure plaque volume and composition are gaining importance in research and are expected to become relevant in clinical practice.
+PRACTICAL RECOMMENDATIONS: The CAD-RADS 2.0 classification, which also provides therapy recommendations, should be used to assess the extent of CAD.
+
+Citation: Brendel JM, et al. [Plaque characterization and individualized risk assessment]. [Plaque characterization and individualized risk assessment]. 2024; (unknown volume):(unknown pages). doi: 10.1007/s00117-024-01385-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39532741/

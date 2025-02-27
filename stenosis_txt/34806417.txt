@@ -1,0 +1,11 @@
+PMID: 34806417
+Title: Circulating miR-27b as a Biomarker of the Development and Progression of Carotid Artery Stenosis.
+
+Abstract: OBJECTIVE: A close relationship of microRNAs (miRNAs) with various human diseases has been widely reported, including cardiovascular disease. The current study attempted to examine the abnormal expression of miR-27b in asymptomatic carotid artery stenosis (ACAS), its diagnostic value and predictive value for the development of ACAS were also assessed.
+METHODS: Clinical serum samples were collected from both ACAS patients and healthy individuals, and levels of miR-27b in the clinical samples were detected using Real-time quantitative PCR. Cerebral ischemia events (CIEs) of patients during the 5-year follow-up were collected. The diagnostic and predictive values of serum miR-27b was assessed via plotting Receiver operating characteristic (ROC) and Kaplan-Meier curves. Multivariate cox regression analysis was performed for clinical independent index analysis.
+RESULTS: ACAS patients had higher levels of miR-27b than the healthy subjects. There were close association of serum miR-27b levels with total cholesterol (TC) level, absence of hypertension and degree of carotid stenosis. High levels of miR-27b could differentiate ACAS cases from healthy subjects, and predicted the high incidence of CIEs. MiR-27b could be used as an independent predictor of cerebrovascular events via multiple Cox regression analysis (P = .031).
+CONCLUSION: The high level of miR-27b can predict the occurrence of ACAS, and is closely related to the subsequent occurrence of CIEs. The present results provide evidence for circulating miR-27b as a diagnostic and prognostic marker in patients with ACAS.
+
+Citation: Lu T, et al. Circulating miR-27b as a Biomarker of the Development and Progression of Carotid Artery Stenosis. Circulating miR-27b as a Biomarker of the Development and Progression of Carotid Artery Stenosis. 2021; 27:10760296211057903. doi: 10.1177/10760296211057903
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34806417/

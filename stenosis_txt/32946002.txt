@@ -1,0 +1,8 @@
+PMID: 32946002
+Title: Artificial intelligence in cardiac radiology.
+
+Abstract: Artificial intelligence (AI) is entering the clinical arena, and in the early stage, its implementation will be focused on the automatization tasks, improving diagnostic accuracy and reducing reading time. Many studies investigate the potential role of AI to support cardiac radiologist in their day-to-day tasks, assisting in segmentation, quantification, and reporting tasks. In addition, AI algorithms can be also utilized to optimize image reconstruction and image quality. Since these algorithms will play an important role in the field of cardiac radiology, it is increasingly important for radiologists to be familiar with the potential applications of AI. The main focus of this article is to provide an overview of cardiac-related AI applications for CT and MRI studies, as well as non-imaging-based applications for reporting and image optimization.
+
+Citation: van Assen M, et al. Artificial intelligence in cardiac radiology. Artificial intelligence in cardiac radiology. 2020; 125:1186-1199. doi: 10.1007/s11547-020-01277-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32946002/

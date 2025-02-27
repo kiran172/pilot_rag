@@ -1,0 +1,11 @@
+PMID: 32576203
+Title: The effect of paraspinal muscle on functional status and recovery in patients with lumbar spinal stenosis.
+
+Abstract: PURPOSE: To investigate the association of paraspinal muscle quantity and quality with functional status in patients with lumbar spinal stenosis (LSS) and explore whether degeneration of paraspinal muscle could predict patients' functional recovery.
+METHODS: The data of 69 patients (26 males, 43 females; mean age 60.6 ± 9.4 years) with LSS was reviewed. The total cross-sectional area (tCSA), functional cross-sectional area (fCSA), and fatty infiltration (FI) of paraspinal muscle were measured. The Oswestry Disability Index (ODI) scores were used to reflect patients' functional status. Correlations between measurements of paraspinal muscle and ODI scores were investigated by the Pearson correlation analysis. The multiple linear regression analysis was used to explore the correlation between change of ODI and other potential influence factors. Receiver operating characteristic curve was used to find out the most optimum cut-off value for predicting functional recovery.
+RESULTS: The pre-operation ODI was significantly associated with multifidus muscle (MF) fCSA (r = - 0.304, p = 0.012), while the post-operation ODI was significantly correlated to MF FI (r = 0.407, p < 0.01). Preoperative MF FI was an independent influence factor for change of ODI. The best cut-off value of preoperative MF FI to predict improvement of functional status (change of ODI > 50%) was 33%.
+CONCLUSION: The preoperative degeneration of MF was significantly associated with patients' functional status. Preoperative MF FI was a good predictor for assessing improvement of patients' functional status. Evaluation of paraspinal muscle before operation could be helpful for surgeons to predict patients' functional status and recovery.
+
+Citation: Wang W, et al. The effect of paraspinal muscle on functional status and recovery in patients with lumbar spinal stenosis. The effect of paraspinal muscle on functional status and recovery in patients with lumbar spinal stenosis. 2020; 15:235. doi: 10.1186/s13018-020-01751-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32576203/

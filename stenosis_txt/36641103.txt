@@ -1,0 +1,11 @@
+PMID: 36641103
+Title: Automated Detection of Aortic Stenosis Using Machine Learning.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) is a degenerative valve condition that is underdiagnosed and undertreated. Detection of AS using limited two-dimensional echocardiography could enable screening and improve appropriate referral and treatment of this condition. The aim of this study was to develop methods for automated detection of AS from limited imaging data sets.
+METHODS: Convolutional neural networks were trained, validated, and tested using limited two-dimensional transthoracic echocardiographic data sets. Networks were developed to accomplish two sequential tasks: (1) view identification and (2) study-level grade of AS. Balanced accuracy and area under the receiver operator curve (AUROC) were the performance metrics used.
+RESULTS: Annotated images from 577 patients were included. Neural networks were trained on data from 338 patients (average n = 10,253 labeled images), validated on 119 patients (average n = 3,505 labeled images), and performance was assessed on a test set of 120 patients (average n = 3,511 labeled images). Fully automated screening for AS was achieved with an AUROC of 0.96. Networks can distinguish no significant (no, mild, mild to moderate) AS from significant (moderate or severe) AS with an AUROC of 0.86 and between early (mild or mild to moderate AS) and significant (moderate or severe) AS with an AUROC of 0.75. External validation of these networks in a cohort of 8,502 outpatient transthoracic echocardiograms showed that screening for AS can be achieved using parasternal long-axis imaging only with an AUROC of 0.91.
+CONCLUSION: Fully automated detection of AS using limited two-dimensional data sets is achievable using modern neural networks. These methods lay the groundwork for a novel method for screening for AS.
+
+Citation: Wessler BS, et al. Automated Detection of Aortic Stenosis Using Machine Learning. Automated Detection of Aortic Stenosis Using Machine Learning. 2023; 36:411-420. doi: 10.1016/j.echo.2023.01.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36641103/

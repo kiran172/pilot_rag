@@ -1,0 +1,12 @@
+PMID: 35702325
+Title: Comparative efficacy and safety of adenosine and regadenoson for assessment of fractional flow reserve: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Adenosine is a coronary hyperemic agent used to measure invasive fractional flow reserve (FFR) of intermediate severity coronary stenosis.
+AIM: To compare FFR assessment using adenosine with an alternate hyperemic agent, regadenoson.
+METHODS: PubMed, Google Scholar, CINAHL and Cochrane databases were queried for studies comparing adenosine and regadenoson for assessment of FFR. Data on FFR, correlation coefficient and adverse events from the selected studies were extracted and analyzed by means of random effects model. Two tailed P-value less than 0.05 was considered significant. Heterogeneity was assessed using I 2 test.
+RESULTS: Five studies with 248 patients were included in the final analysis. All included patients and coronary lesions underwent FFR assessment using both adenosine and regadenoson. There was no significant mean difference between FFR measurement by the two agents [odds ratio (OR) = -0.00; 95% confidence interval (CI): (-0.02)-0.01, P = 0.88]. The cumulative correlation coefficient was 0.98 (0.96-0.99, P &lt; 0.01). Three of five studies reported time to FFR with cumulative results favoring regadenoson (mean difference 34.31 s; 25.14-43.48 s, P &lt; 0.01). Risk of adverse events was higher with adenosine compared to regadenoson (OR = 2.39; 95%CI: 1.22-4.67, P = 0.01), which most commonly included bradycardia and hypotension. Vast majority of the adverse events associated with both agents were transient.
+CONCLUSION: The performance of regadenoson in inducing maximal hyperemia was comparable to that of adenosine. There was excellent correlation between the FFR measurements by both the agents. The use of adenosine, was however associated with higher risk of adverse events and longer time to FFR compared to regadenoson.
+
+Citation: Gill GS, et al. Comparative efficacy and safety of adenosine and regadenoson for assessment of fractional flow reserve: A systematic review and meta-analysis. Comparative efficacy and safety of adenosine and regadenoson for assessment of fractional flow reserve: A systematic review and meta-analysis. 2022; 14:319-328. doi: 10.4330/wjc.v14.i5.319
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35702325/

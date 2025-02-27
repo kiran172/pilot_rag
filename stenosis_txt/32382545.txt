@@ -1,0 +1,8 @@
+PMID: 32382545
+Title: Computational Evaluation of Surgical Design for Multisegmental Complex Congenital Tracheal Stenosis.
+
+Abstract: Multisegmental complex congenital tracheal stenosis (CTS) is an uncommon but potentially life-threatening malformation of the airway. Staged surgery is indicated for the complex pathophysiology of the abnormal trachea. Surgical intervention to fix the stenotic segments may result in different postoperative outcomes. However, only few studies reported the design of surgical correction for multisegmental CTS. We used computer-aided design (CAD) to simulate surgical correction under different schemes to develop a patient-specific tracheal model with two segmental stenoses. Computational fluid dynamics (CFD) was used to compare the outcomes of different designs. Aerodynamic parameters of the trachea were evaluated. An obvious interaction was found between the two segments of stenosis in different surgical designs. The surgical corrective order of stenotic segments greatly affected the aerodynamic parameters and turbulence flows downstream of tracheal stenosis and upstream of the bronchus. Patient-specific studies using CAD and CFD minimize the risk of staged surgical correction and facilitate quantitative evaluation of surgical design for multiple segments of complex CTS.
+
+Citation: Zhu L, et al. Computational Evaluation of Surgical Design for Multisegmental Complex Congenital Tracheal Stenosis. Computational Evaluation of Surgical Design for Multisegmental Complex Congenital Tracheal Stenosis. 2020; 2020:3509814. doi: 10.1155/2020/3509814
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32382545/

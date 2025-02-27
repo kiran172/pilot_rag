@@ -1,0 +1,11 @@
+PMID: 36062688
+Title: The updated pre-test probability model of the 2019 ESC guidelines improves prediction of obstructive coronary artery disease.
+
+Abstract: INTRODUCTION AND OBJECTIVES: The 2019 ESC guidelines on chronic coronary syndromes updated the method for estimating the pre-test probability (PTP) of obstructive coronary artery disease (CAD). We aimed to compare the performance of the new PTP method against the 2013 prediction model in patients with stable chest pain undergoing coronary computed tomography angiography (CCTA) for suspected CAD.
+METHODS: We conducted a single-center cross-sectional study enrolling 320 consecutive patients undergoing CCTA for suspected CAD. Obstructive CAD was defined as any ≥50% luminal stenosis on CCTA. Whenever invasive coronary angiography was subsequently performed, patients were reclassified accordingly. The two PTP prediction models were assessed for calibration, discrimination and the ability to change the downstream diagnostic pathway.
+RESULTS: The observed prevalence of obstructive CAD was 16.3% (n=52). The 2013 prediction model significantly overestimated the likelihood of obstructive CAD (relative overestimation of 130%, p=0.005), while the updated 2019 method showed good calibration (relative underestimation of 6.5%, p=0.712). The two approaches showed similar discriminative power, with C-statistics of 0.73 (95% CI: 0.66-0.80) and 0.74 (95% CI: 0.66-0.81) for the 2013 and 2019 methods, respectively (p=0.933). Reclassification of PTP using the new method resulted in a net reclassification improvement of 0.10 (p=0.001).
+CONCLUSIONS: The updated 2019 prediction model provides a more accurate estimation of pre-test probabilities of obstructive CAD than the previous model. Adoption of this new score may improve disease prediction and influence the selection of non-invasive testing.
+
+Citation: Lopes PM, et al. The updated pre-test probability model of the 2019 ESC guidelines improves prediction of obstructive coronary artery disease. The updated pre-test probability model of the 2019 ESC guidelines improves prediction of obstructive coronary artery disease. 2022; 41:445-452. doi: 10.1016/j.repc.2021.03.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36062688/

@@ -1,0 +1,11 @@
+PMID: 30612142
+Title: Outcomes after stenting for symptomatic intracranial arterial stenosis: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Stenting is a common endovascular therapy for symptomatic intracranial arterial stenosis (ICAS). We sought to update the evaluation of global short-term safety and long-term efficacy outcomes after stenting for symptomatic ICAS and explore their distributional characteristics.
+METHODS: Major databases including Cochrane Library, MEDLINE, EMBASE were systematically searched from January 1st, 2005, for RCTs and observational studies which reported short- and long-term outcomes after stenting for symptomatic ICAS. Each outcome was pooled with meta-analysis and the impacts of study location, publication time, and other population characteristics were further assessed by the univariate and multivariate Poisson regression analyses.
+RESULTS: A total of 8408 patients were identified in 92 studies from 16 countries across five WHO regions. The estimated rate of short-term stroke or death was 6.68% (95% CI 5.60-8.36%), and the rate of long-term stroke or death was 4.43% (95% CI 2.61-6.60%). After adjustment of age, sex, study location, preprocedual stenosis, publication period and study design, multivariate regression analysis showed that the rate of short-term stroke or death was different between Western and Eastern countries (10.27% versus 5.52%, p = 0.018). The rates of short-term, stroke, ischemic stroke and long-term death were also significantly higher in Western compared to Eastern countries.
+CONCLUSION: This systematic review provided the worldwide profile of short- and long-term outcomes of stenting for symptomatic ICAS. The generally acceptable outcomes indicate that stenting may still be feasible in selected patients. Regional disparity calls for more cautious decisions and future studies.
+
+Citation: Wang T, et al. Outcomes after stenting for symptomatic intracranial arterial stenosis: a systematic review and meta-analysis. Outcomes after stenting for symptomatic intracranial arterial stenosis: a systematic review and meta-analysis. 2020; 267:581-590. doi: 10.1007/s00415-018-09176-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30612142/

@@ -1,0 +1,11 @@
+PMID: 32222410
+Title: Simple 2-dimensional anatomic model to predict the risk of coronary obstruction during transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVE: In this study, a 2-dimensional (2D) index relying on preprocedural computed tomography (CT) data was developed to evaluate the risk of coronary obstruction during transcatheter aortic valve replacement (TAVR) procedures.
+METHODS: Anatomic measurements from pre-TAVR CT scans were collected in 28 patients among 600 who were flagged as high risk (defined as meeting coronary artery height, h, &lt;14 mm and/or sinus of Valsalva diameter, SOVd, &lt;30 mm) for coronary obstruction. A geometric model derived from these anatomic measurements was used to predict the post-TAVR native cusp apposition relative to the coronary ostium. The distance from the cusp to the coronary ostium, DLC<sub>2D</sub>, was measured from the geometric model and indexed with the coronary artery diameter, d, to yield a fractional obstruction measure, DLC<sub>2D</sub>/d.
+RESULTS: Twenty-three of 28 high-risk patients successfully underwent TAVR without coronary obstruction, of whom 1 had coronary obstruction and 4 were deemed non-TAVR candidates. DLC<sub>2D</sub>/d differed significantly between the 2 groups (P &lt; .0018), but neither h nor SOVd did (P &gt; .32). The optimal sensitivity and specificity for DLC<sub>2D</sub>/d were 85% and occurred at a cutoff of 0.45. The optimal sensitivity and specificity of h and SOVd in this high-risk group were only 60% and 40%, respectively, for cutoffs of h = 10 mm and SOVd = 30.5 mm.
+CONCLUSIONS: The 2D geometric model derived in this study shows promise for identifying patients with low-lying coronary ostium and/or small SOVd that may be safely treated with TAVR. DLC<sub>2D</sub>/d is more predictive of obstruction or poor TAVR candidacy compared with h and SOVd.
+
+Citation: Heitkemper M, et al. Simple 2-dimensional anatomic model to predict the risk of coronary obstruction during transcatheter aortic valve replacement. Simple 2-dimensional anatomic model to predict the risk of coronary obstruction during transcatheter aortic valve replacement. 2021; 162:1075-1083.e1. doi: 10.1016/j.jtcvs.2020.01.085
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32222410/

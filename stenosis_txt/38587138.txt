@@ -1,0 +1,10 @@
+PMID: 38587138
+Title: Trends and Disparities in Valvular Heart Disease Mortality in the United States From 1999 to 2020.
+
+Abstract: BACKGROUND: Percutaneous heart valve procedures have been increasingly performed over the past decade, yet real-world mortality data on valvular heart disease (VHD) in the United States remain limited.
+METHODS AND RESULTS: We queried the Centers for Disease Control and Prevention's Wide-Ranging Online Data for Epidemiologic Research database among patients ≥15 years old from 1999 to 2020. VHD and its subtypes were listed as the underlying cause of death. We calculated age-adjusted mortality rate (AAMR) per 100 000 individuals and determined overall trends by estimating the average annual percent change using the Joinpoint regression program. Subgroup analyses were performed based on demographic and geographic factors. In the 22-year study, there were 446 096 VHD deaths, accounting for 0.80% of all-cause mortality (56 014 102 people) and 2.38% of the total cardiovascular mortality (18 759 451 people). Aortic stenosis recorded the highest mortality of VHD-related death in both male (109 529, 61.74%) and female (166 930, 62.13%) populations. The AAMR of VHD has declined from 8.4 (95% CI, 8.2-8.5) to 6.6 (95% CI, 6.5-6.7) per 100 000 population. Similar decreasing AAMR trends were also seen for the VHD subtypes. Men recorded higher AAMR for aortic stenosis and aortic regurgitation, whereas women had higher AAMR for mitral stenosis and mitral regurgitation. Mitral regurgitation had the highest change in average annual percent change in AAMR.
+CONCLUSIONS: The mortality rate of VHD among the US population has declined over the past 2 decades. This highlights the likely efficacy of increasing surveillance and advancement in the management of VHD, resulting in improved outcomes.
+
+Citation: Tan MC, et al. Trends and Disparities in Valvular Heart Disease Mortality in the United States From 1999 to 2020. Trends and Disparities in Valvular Heart Disease Mortality in the United States From 1999 to 2020. 2024; 13:e030895. doi: 10.1161/JAHA.123.030895
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38587138/

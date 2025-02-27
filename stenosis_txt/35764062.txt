@@ -1,0 +1,11 @@
+PMID: 35764062
+Title: Association between Cerebrovascular Risk Factors and Collateral Compensation in Chronic Symptomatic Intracranial Vertebrobasilar Stenosis.
+
+Abstract: INTRODUCTION: The level of collateral compensation plays a pivotal role in chronic symptomatic intracranial vertebrobasilar stenosis (IVBS). This study aimed to evaluate the association between cerebrovascular risk factors and collateral compensation in chronic symptomatic IVBS.
+METHODS: This single-center cross-sectional study retrospectively reviewed 238 patients with angiographically demonstrated IVBS and divided them into good collateral compensation (GCC) group (collateral grade: 3-4, n = 110) and poor collateral compensation (PCC) group (collateral grade: 0-2, n = 128). The demographic information, laboratory tests, and clinical data of the two groups were compared and assessed using univariate logistic regression. Multivariate logistic regression was employed to analyze the independent related factors of collateral compensation.
+RESULTS: Hyperlipidemia, high-density lipoprotein (HDL), and fasting blood glucose (FBG) were significantly different between the two groups. Multivariate logistic regression analysis revealed that HDL (odds ratio [OR]: 1.134, 95% confidence interval [CI]: 1.081-1.190), FBG (OR: 0.945, 95% CI: 0.925-0.964), and hyperlipidemia (OR: 0.261, 95% CI: 0.129-0.527) were statistically independent related factors of collateral compensation. The receiver-operating characteristic (ROC) analysis provided cutoff values of 34 mg/dL and 135 mg/dL for HDL and FBG associated with GCC and PCC.
+CONCLUSION: Higher HDL levels are associated with higher incidence of GCC, whereas higher FBG levels and hyperlipidemia are associated with higher incidence of PCC.
+
+Citation: Li Q, et al. Association between Cerebrovascular Risk Factors and Collateral Compensation in Chronic Symptomatic Intracranial Vertebrobasilar Stenosis. Association between Cerebrovascular Risk Factors and Collateral Compensation in Chronic Symptomatic Intracranial Vertebrobasilar Stenosis. 2022; 85:478-485. doi: 10.1159/000525372
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35764062/

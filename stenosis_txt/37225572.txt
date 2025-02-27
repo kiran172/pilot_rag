@@ -1,0 +1,11 @@
+PMID: 37225572
+Title: Correlation of pericoronary adipose tissue CT attenuation values of plaques and periplaques with plaque characteristics.
+
+Abstract: AIM: To investigate the relationship between different plaque characteristics and pericoronary adipose tissue (PCAT) computed tomography (CT) attenuation values for plaques and periplaques.
+MATERIALS AND METHODS: The data from 188 eligible patients with stable coronary heart disease (280 lesions) who underwent coronary CT angiography between March 2021 and November 2021 were collected retrospectively. All PCAT CT attenuation values of plaques and periplaques (the area within 5 and 10 mm proximal and distal to the plaque) were calculated, and multiple linear regression was used to assess their correlation with different plaque characteristics.
+RESULTS: PCAT CT attenuation of plaques and periplaques was higher in non-calcified plaques (-73.38 ± 10.41 HU, -76.77 ± 10.86 HU, 79.33 ± 11.13 HU, -75.67 ± 11.24 HU, -78.63 ± 12.09 HU) and mixed plaques (-76.83 ± 8.11 HU, -79 [-85, -68.5] HU, -78.55 ± 11 HU, -78.76 ± 9.9 HU, -78.79 ± 11.06 HU) than in calcified plaques (-86.96 ± 10 HU, -84 [-92, -76] HU, -84.14 ± 11.08 HU, -84.91 ± 11.41 HU, -84.59 ± 11.69 HU; all p<0.05) and higher in distal segment plaques than in proximal segment plaques (all p<0.05). Plaque PCAT CT attenuation was lower in plaques with minimal stenosis than in plaques with mild or moderate stenosis (p<0.05). The significant determinants of PCAT CT attenuation values of plaques and periplaques were non-calcified plaques, mixed plaques, and plaques located in the distal segment (all p<0.05).
+CONCLUSIONS: PCAT CT attenuation values in both plaques and periplaques were related to plaque type and location.
+
+Citation: Jing M, et al. Correlation of pericoronary adipose tissue CT attenuation values of plaques and periplaques with plaque characteristics. Correlation of pericoronary adipose tissue CT attenuation values of plaques and periplaques with plaque characteristics. 2023; 78:e591-e599. doi: 10.1016/j.crad.2023.04.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37225572/

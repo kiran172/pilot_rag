@@ -1,0 +1,11 @@
+PMID: 37758584
+Title: Deep Learning Reconstruction Improves the Image Quality of CT Angiography Derived From 80-kVp Cerebral CT Perfusion Data.
+
+Abstract: RATIONALE AND OBJECTIVE: To investigate the impact of the deep learning reconstruction (DLR) technique on the image quality of CT angiography (CTA) derived from 80-kVp cerebral CT perfusion (CTP) data and compare it with hybrid-iterative reconstruction (HIR).
+MATERIALS AND METHODS: Thirty-three patients underwent CTP at 80 kVp were prospectively enrolled. CTP data were reconstructed with HIR and DLR. Four image datasets were reconstructed: HIR<sub>peak</sub> and DLR<sub>peak</sub> were single arterial phase images derived from the time point showing the peak value, HIR<sub>tMIP</sub> and HIR<sub>tAve</sub> were time-resolved maximum intensity projection image and time-resolved average image derived from three time points with the greatest enhancement of HIR. The mean CT values, standard deviation, signal-to-noise ratio, and contrast-to-noise ratio of the internal carotid artery and basilar artery were compared among the four image dataset. Image quality was performed using a five-point rating scale. Arterial stenosis was evaluated.
+RESULTS: DLR<sub>peak</sub> had the highest CT value and contrast-to-noise ratio in the internal carotid artery and basilar artery (all p &lt; 0.001). DLR<sub>peak</sub> showed the best subjective image quality and had the highest score (4.93 ± 0.4) compared to the other three HIR CTA images (all p &lt; 0.001). The degree of vascular stenosis was consistent among the four evaluated sequences (HIR<sub>tAve</sub>, HIR<sub>peak</sub>, and HIR<sub>tMIP</sub> DLR<sub>peak</sub>).
+CONCLUSION: For CTA derived from 80-kVp cerebral CTP data, images reconstructed with deep learning showed better image quality and improved intracranial artery visualization than those processed with HIR and other currently used techniques.
+
+Citation: Chen Y, et al. Deep Learning Reconstruction Improves the Image Quality of CT Angiography Derived From 80-kVp Cerebral CT Perfusion Data. Deep Learning Reconstruction Improves the Image Quality of CT Angiography Derived From 80-kVp Cerebral CT Perfusion Data. 2023; 30:2666-2673. doi: 10.1016/j.acra.2023.02.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37758584/

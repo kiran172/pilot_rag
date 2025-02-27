@@ -1,0 +1,11 @@
+PMID: 35249199
+Title: Safety of Transcatheter Aortic Valve Replacement in Patients with Aortic Aneurysm: A Propensity-Matched Analysis.
+
+Abstract: INTRODUCTION: There is a paucity of data regarding the outcomes of transcatheter aortic valve replacement (TAVR) among patients with thoracic or abdominal aortic aneurysms (AA). Using the Nationwide Inpatient Sample (NIS) database, we explored the safety of TAVR among patients with a diagnosis of AA.
+METHODS: We queried the National Inpatient Sample database (2012-2017) for hospitalized patients undergoing TAVR, using ICD-9 and ICD-10 codes for endovascular TAVR. Reports show that > 95% of endovascular TAVR in the US is via transfemoral access, so our population are mostly patients undergoing transfemoral TAVR. Using propensity score matching, we compared the trends and outcomes of TAVR procedures among patients with versus without AA.
+RESULTS: From a total sample of 29,517 individuals who had TAVR procedures between January 2012 and December 2017, 910 had a diagnosis of AA. In 774 matched-pair analysis, all-cause in-hospital mortality was similar in patients with and without AA OR 0.63 [(95% CI 0.28-1.43), p = 0.20]. The median length of stay was higher in patients with AA: 4 days (IQR 2.0-7.0) versus 3 days (IQR 2.0-6.0) p = 0.01. Risk of AKI [OR 1.01 (0.73-1.39), p = 0.87], heart block requiring pacemaker placement [OR 1.17 (0.81-1.69), p = 0.40], aortic dissection [OR 2.38 (0.41-13.75), p = 0.25], acute limb ischemia [OR 0.46 (0.18-1.16), p = 0.09], vascular complications [OR 0.80 (0.34-1.89), p = 0.53], post-op bleeding [OR 1.12 (0.81-1.57), p = 0.42], blood transfusion [OR 1.20 (0.84-1.70), p = 0.26], and stroke [OR 0.58 (0.24-1.39), p = 0.25] were similar in those with and without AA.
+CONCLUSIONS: Data from a large nationwide database demonstrated that patients with AA undergoing TAVR are associated with similar in-hospital outcomes compared with patients without AA.
+
+Citation: Ugwu JK, et al. Safety of Transcatheter Aortic Valve Replacement in Patients with Aortic Aneurysm: A Propensity-Matched Analysis. Safety of Transcatheter Aortic Valve Replacement in Patients with Aortic Aneurysm: A Propensity-Matched Analysis. 2022; 11:143-154. doi: 10.1007/s40119-022-00258-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35249199/

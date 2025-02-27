@@ -1,0 +1,12 @@
+PMID: 34702537
+Title: Pioneering personalised design of femoropopliteal nitinol stents.
+
+Abstract: BACKGROUND/MOTIVATION: Percutaneous femoropopliteal artery intervention moves towards personalised therapy, which requires design of unique lesion-specific stents. However, to date, not much progress has been made in the development of personalised stents.
+OBJECTIVE: This paper aims to design personalised nitinol stents for femoropopliteal arteries based on medical imaging of patients and advanced computational mechanics, which is the first attempt to the authors' best knowledge.
+METHODS: The design process is based on three objectives: (i) achieving the healthy lumen area; (ii) reducing the stress in the media layer; (iii) improving the lumen shape after stenting. The design parameters include the strut width and thickness, the crown length, the nominal radius and the number of strut units per crown. Using representative unit-cell models, the effects of the five geometric parameters on the stent performance are investigated thoroughly with numerical simulations. Then, design protocols, especially for the circumferentially varying strut size and the oval stent shape, are developed and fully evaluated for an asymmetric stenosis.
+RESULTS: Using the design protocols, full personalised stents are designed for arteries with diffuse and focal plaques, based on medical imaging of patients. The personalised stent designs provide a double lumen gain, a reduced stress in the media layer and an improved lumen shape compared to a commercial stent.
+CONCLUSIONS: The suggested protocols prove their high effectiveness in design of personalised stents, and the suggested approach can be applied to development of personalised therapies involving the use of stent technology including percutaneous coronary artery intervention, transcatheter aortic valve implantation, endovascular aneurysm repair and ureteric stenting.
+
+Citation: He R, et al. Pioneering personalised design of femoropopliteal nitinol stents. Pioneering personalised design of femoropopliteal nitinol stents. 2021; 130:112462. doi: 10.1016/j.msec.2021.112462
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34702537/

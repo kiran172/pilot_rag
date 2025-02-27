@@ -1,0 +1,11 @@
+PMID: 35841951
+Title: Transcatheter and Surgical Aortic Valve Replacement in Patients With Bicuspid Aortic Valve Stenosis.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) is not widely used in patients with bicuspid aortic valve (BAV) disease and has not yet been studied in randomized clinical trials. We characterized the rate of use and outcomes of TAVR and surgical aortic valve replacement (SAVR) in patients with BAV.
+METHODS: Adults with BAV stenosis receiving SAVR or TAVR procedures were abstracted from the 2012 to 2019 Nationwide Readmissions Database (NRD). Risk-adjusted analyses were performed with NRD-provided weights and inverse probability of treatment weights (IPTW) to examine the association of treatment strategy on inpatient mortality, complications, and hospitalization resource utilization. Nonelective readmissions within 90 days of discharge and reintervention at the first readmission were also examined.
+RESULTS: Of an estimated 56 331 patients with BAV requiring aortic valve replacement, 6.8% underwent TAVR. Unadjusted analysis demonstrated higher index hospitalization mortality for TAVR compared with SAVR. Upon risk adjustment using NRD-provided weights, the odds of pacemaker implantation remained significantly higher for TAVR patients compared with SAVR, with no significant difference in mortality. When NRD-provided survey weights were applied, TAVR had higher rates of 90-day readmission. Adjustment with inverse probability of treatment weights resolved these differences between the 2 groups. Regardless of the risk-adjustment method, the odds of reintervention were consistently higher among BAV TAVR patients compared with SAVR.
+CONCLUSIONS: The present analysis demonstrates comparable in-hospital mortality and morbidity for TAVR and SAVR patients in the moderate-risk era. With increasing TAVR use in BAV, surgeons must further refine selection criteria with consideration of concomitant aortopathy and implications of reintervention.
+
+Citation: Sanaiha Y, et al. Transcatheter and Surgical Aortic Valve Replacement in Patients With Bicuspid Aortic Valve Stenosis. Transcatheter and Surgical Aortic Valve Replacement in Patients With Bicuspid Aortic Valve Stenosis. 2023; 115:611-618. doi: 10.1016/j.athoracsur.2022.06.030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35841951/

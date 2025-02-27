@@ -1,0 +1,8 @@
+PMID: 33318777
+Title: Detecting a subendocardial infarction in a child with coronary anomaly by three-dimensional late gadolinium enhancement MRI using compressed sensing.
+
+Abstract: Three-dimensional high-resolution late gadolinium enhancement (3D HR LGE) magnetic resonance imaging (MRI) using compressed sensing can help detect small myocardial infarcts. We discuss the case of an 11-year-old child with an anomalous aortic origin of the left coronary artery. Since he was suspected to have coronary stenosis due to anomalous aortic origin of the left coronary artery, cardiovascular MRI, including conventional two-dimensional (2D) LGE MRI and HR 3D LGE MRI, was conducted. Myocardial scars were not clearly observed via 2D LGE MRI; however, 3D HR MRI revealed subendocardial infarction of the anteroseptal wall, which corresponded to the left coronary artery. By applying the compressed sensing technique, 3D HR LGE, MRI enables a detailed assessment of small myocardial infarcts in a clinically feasible scan time.
+
+Citation: Suekuni H, et al. Detecting a subendocardial infarction in a child with coronary anomaly by three-dimensional late gadolinium enhancement MRI using compressed sensing. Detecting a subendocardial infarction in a child with coronary anomaly by three-dimensional late gadolinium enhancement MRI using compressed sensing. 2021; 16:377-380. doi: 10.1016/j.radcr.2020.11.048
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33318777/

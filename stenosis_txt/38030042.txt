@@ -1,0 +1,12 @@
+PMID: 38030042
+Title: Ratio of left ventricular outflow tract area to aortic annulus area and complete atrioventricular block after transcatheter aortic valve replacement for aortic stenosis.
+
+Abstract: BACKGROUND: Mechanical compression of cardiac conduction system by transcatheter heart valves leads to complete atrioventricular block (CAVB) after transcatheter aortic valve replacement (TAVR). Bulging of ventricular septum in the left ventricular outflow tract (LVOT) may be associated with greater compression of conduction system, leading to irreversible CAVB.
+OBJECTIVE: This study aimed to investigate the association of ventricular septal bulging with TAVR-related CAVB and permanent pacemaker implantation (PPI).
+METHODS: Among 294 consecutive patients with severe aortic stenosis who underwent TAVR between July 2017 and February 2023, 271 were included in the analysis. As a quantitative evaluation of bulging of the ventricular septum, the ratio of LVOT area to aortic annulus area (L/A ratio) was measured at the systolic phase of computed tomography images.
+RESULTS: TAVR-related CAVB occurred in 64 patients (23.6%). Twenty-eight patients (10.3%) required PPI. The optimal thresholds of L/A ratio for predicting TAVR-related CAVB and PPI were 1.0181 and 0.985, respectively. Patients with less than the cut-off values had higher rate of TAVR-related CAVB and PPI than those above (28.3% vs 13.1%, p = 0.0063; 14.7% vs 4.4%, p = 0.0077, respectively). A multivariate analysis showed that L/A ratio < 1.0181 was an independent predictor of TAVR-related CAVB (odds ratio [OR] 2.65, p = 0.011), in addition to prior right bundle branch block (OR 3.76, p = 0.0005), use of a self-expanding valve (OR 1.99, p = 0.030), and short membranous septum length (OR 0.96, p = 0.037). Only L/A ratio < 0.985 was independently associated with PPI (OR 3.70, p = 0.011).
+CONCLUSION: Low L/A ratio is a predictor of TAVR-related CAVB and PPI.
+
+Citation: Kikuchi S, et al. Ratio of left ventricular outflow tract area to aortic annulus area and complete atrioventricular block after transcatheter aortic valve replacement for aortic stenosis. Ratio of left ventricular outflow tract area to aortic annulus area and complete atrioventricular block after transcatheter aortic valve replacement for aortic stenosis. 2024; 397:131608. doi: 10.1016/j.ijcard.2023.131608
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38030042/

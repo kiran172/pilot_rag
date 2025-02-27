@@ -1,0 +1,8 @@
+PMID: 38746173
+Title: Diffusion Tensor Phenomapping of the Healthy and Pressure-Overloaded Human Heart.
+
+Abstract: Current techniques to image the microstructure of the heart with diffusion tensor MRI (DTI) are highly under-resolved. We present a technique to improve the spatial resolution of cardiac DTI by almost 10-fold and leverage this to measure local gradients in cardiomyocyte alignment or helix angle (HA). We further introduce a phenomapping approach based on voxel-wise hierarchical clustering of these gradients to identify distinct microstructural microenvironments in the heart. Initial development was performed in healthy volunteers (n=8). Thereader, subjects with severe but well-compensated aortic stenosis (AS, n=10) were compared to age-matched controls (CTL, n=10). Radial HA gradient was significantly reduced in AS (8.0±0.8°/mm vs. 10.2±1.8°/mm, p=0.001) but the other HA gradients did not change significantly. Four distinct microstructural clusters could be idenJfied in both the CTL and AS subjects and did not differ significantly in their properties or distribution. Despite marked hypertrophy, our data suggest that the myocardium in well-compensated AS can maintain its microstructural coherence. The described phenomapping approach can be used to characterize microstructural plasticity and perturbation in any organ system and disease.
+
+Citation: Rock CA, et al. Diffusion Tensor Phenomapping of the Healthy and Pressure-Overloaded Human Heart. Diffusion Tensor Phenomapping of the Healthy and Pressure-Overloaded Human Heart. 2024; (unknown volume):(unknown pages). doi: 10.1101/2024.05.03.24306781
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38746173/

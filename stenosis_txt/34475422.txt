@@ -1,0 +1,8 @@
+PMID: 34475422
+Title: Simulation study on the effects of cancellous bone structure in the skull on ultrasonic wave propagation.
+
+Abstract: The transcranial Doppler method (TCD) enables the measurement of cerebral blood flow velocity and detection of emboli by applying an ultrasound probe to the temporal bone window, or the orbital or greater occipital foramina. TCD is widely used for evaluation of cerebral vasospasm after subarachnoid hemorrhage, early detection of patients with arterial stenosis, and the assessment of brain death. However, measurements often become difficult in older women. Among various factors contributing to this problem, we focused on the effect of the diploe in the skull bone on the penetration of ultrasound into the brain. In particular, the effect of the cancellous bone structure in the diploe was investigated. Using a 2D digital bone model, wave propagation through the skull bone was investigated using the finite-difference time-domain (FDTD) method. We fabricated digital bone models with similar structure but different BV/TV (bone volume/total volume) values in the diploe. At a BV/TV of approximately 50-60% (similar to that of older women), the minimum ultrasound amplitude was observed as a result of scattering and multiple reflections in the cancellous diploe. These results suggest that structural changes such as osteoporosis may be one factor hampering TCD measurements.
+
+Citation: Michimoto I, et al. Simulation study on the effects of cancellous bone structure in the skull on ultrasonic wave propagation. Simulation study on the effects of cancellous bone structure in the skull on ultrasonic wave propagation. 2021; 11:17592. doi: 10.1038/s41598-021-96502-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34475422/

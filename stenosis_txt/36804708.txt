@@ -1,0 +1,11 @@
+PMID: 36804708
+Title: Feasibility of Ultra-Low Volume Contrast-Saline Mixture Injection With Dual-Flow Technique in a Pre-TAVI Computed Tomography Angiography.
+
+Abstract: BACKGROUND: To explore the feasibility and image quality of ultra-low volume contrast-saline mixture injection with dual-flow injection technique in a computed tomography angiography (CTA) protocol in patients scheduled for transcatheter aortic valve implantation (TAVI).
+METHODS: Forty (40) TAVI candidates underwent investigation with CTA using a third-generation dual-source CT scanner between September and November 2020. Different volumes of a monophasic contrast-saline mixture at an 80:20 ratio were administered at an infusion rate of 3 mL/s in 20 patients (group A). The injected volume was based on patient body mass index (BMI): 50 mL if BMI &lt;29 kg/m2 and 63 mL if BMI &gt;29 kg/m2. The other 20 patients (group B)-the control cases-received a total of 65 mL of contrast medium (CM), in multiphasic injections at different flow rates, followed by 10 mL of saline. The images that were obtained were prospectively evaluated for image quality, vessel attenuation (HU), signal-to-noise ratio (SNR), contrast-to-noise ratio (CNR), and estimated radiation dose.
+RESULTS: Image quality of the aortic root and ilio-femoral vessels was diagnostic in all patients. Vascular attenuation was >200 HU and CNR >3 at any vessel level.
+CONCLUSIONS: Data from this study suggest that a monophasic ultra-low volume contrast-saline mixture injection with a dual-flow technique can provide clear visualisation of the aortic root and ilio-femoral vessels in pre-TAVI CTA, which is comparable with a standard multiphasic volume injection protocol.
+
+Citation: Gallo GS, et al. Feasibility of Ultra-Low Volume Contrast-Saline Mixture Injection With Dual-Flow Technique in a Pre-TAVI Computed Tomography Angiography. Feasibility of Ultra-Low Volume Contrast-Saline Mixture Injection With Dual-Flow Technique in a Pre-TAVI Computed Tomography Angiography. 2023; 32:525-534. doi: 10.1016/j.hlc.2022.12.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36804708/

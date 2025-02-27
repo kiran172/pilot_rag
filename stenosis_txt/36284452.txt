@@ -1,0 +1,11 @@
+PMID: 36284452
+Title: Impact of Controlling Nutritional Status score on short-term outcomes after carotid endarterectomy: a retrospective cohort study.
+
+Abstract: BACKGROUND: Malnutrition and impaired immune responses significantly affect the clinical outcomes of patients with atherosclerotic stenosis. The Controlling Nutritional Status (CONUT) score has recently been utilized to evaluate perioperative immunonutritional status. This study aimed to evaluate the relationship between immunonutritional status, indexed by CONUT score, and postoperative complications in patients undergoing carotid endarterectomy (CEA).
+METHODS: We retrospectively evaluated 188 patients who underwent elective CEA between January 2010 and December 2019. The preoperative CONUT score was calculated as the sum of the serum albumin concentration, total cholesterol level, and total lymphocyte count. The primary outcome was postoperative complications within 30 days after CEA, including major adverse cardiovascular events, pulmonary complications, stroke, renal failure, sepsis, wounds, and gastrointestinal complications. Cox proportional hazards regression analysis was used to estimate the factors associated with postoperative complications during the 30-day follow-up period.
+RESULTS: Twenty-five patients (13.3%) had at least one major complication. The incidence of postoperative complications was identified more frequently in the high CONUT group (12 of 27, 44.4% vs. 13 of 161, 8.1%; p<0.001). Multivariate analyses showed that a high preoperative CONUT score was independently associated with 30-day postoperative complications (hazard ratio, 5.98; 95% confidence interval, 2.56-13.97; p<0.001).
+CONCLUSION: Our results showed that the CONUT score, a simple and readily available parameter using only objective laboratory values, is independently associated with early postoperative complications.
+
+Citation: Son HW, et al. Impact of Controlling Nutritional Status score on short-term outcomes after carotid endarterectomy: a retrospective cohort study. Impact of Controlling Nutritional Status score on short-term outcomes after carotid endarterectomy: a retrospective cohort study. 2023; 40:259-267. doi: 10.12701/jyms.2022.00507
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36284452/

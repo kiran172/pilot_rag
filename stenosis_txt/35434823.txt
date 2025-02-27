@@ -1,0 +1,11 @@
+PMID: 35434823
+Title: Feasibility study of a novel digital health platform for patients undergoing transcatheter aortic valve replacement.
+
+Abstract: INTRODUCTION: Despite abundant evidence indicating that digital health solutions improve outcomes in chronic medical conditions, there are few validated solutions for acute surgical episodes. Transcatheter aortic valve replacement (TAVR) is a less invasive alternative to open surgery that is becoming more prevalent. We assessed the feasibility of ManageMySurgery (MMS), a smartphone application that combines patient education and outcomes tracking for patients undergoing TAVR procedures.
+METHODS: MMS was offered to patients receiving TAVR at an academic health center. Pre- and postoperatively, patients completed app-based tasks and reported clinical results using validated NYHA and KCCQ-12 surveys. Additionally, users reported levels of satisfaction with the digital platform.
+RESULTS: Sixty-nine patients were invited to use MMS, of which 43 (62%) downloaded and used the platform. The median age of patients was 77 years and 66.7% were male. The platform was accessed at an average of 2.6 times per user, with 79.1% of patients logging in one to three times. On average, 5.2 frequently asked questions were viewed. Of the 37 patients who completed the feedback survey (86%), 73.0% said it was helpful in preparation for surgery and 86.5% would recommend MMS to others.
+DISCUSSION: It is possible to utilize a digital health platform to guide patients undergoing TAVR through their interventional journey. Additional research is warranted to assess whether digital patient navigation tools provide an added benefit over traditional perioperative care alone, in terms of long-term patient engagement and outcomes.
+
+Citation: Venkatraman V, et al. Feasibility study of a novel digital health platform for patients undergoing transcatheter aortic valve replacement. Feasibility study of a novel digital health platform for patients undergoing transcatheter aortic valve replacement. 2022; 37:2017-2022. doi: 10.1111/jocs.16515
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35434823/

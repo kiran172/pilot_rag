@@ -1,0 +1,8 @@
+PMID: 36401114
+Title: Machine Learning Identification Framework of Hemodynamics of Blood Flow in Patient-Specific Coronary Arteries with Abnormality.
+
+Abstract: In this study, we put forth a new deep neural network framework to predict flow behavior in a coronary arterial network with different properties in the presence of any abnormality like stenosis. An artificial neural network (ANN) model is trained using synthetic data so that it can predict the pressure and velocity within the arterial network. The data required to train the neural network were obtained from the CFD analysis of several geometries of arteries with specific features in ABAQUS software. The proposed approach precisely predicts the hemodynamic behavior of the blood flow. The average accuracy of the pressure prediction was 98.7%, and the average velocity magnitude accuracy was 93.2%. Our model can also be used to predict fractional flow reserve (FFR), which is one of the main indices to determine the severity of stenosis, and our model predicts this index successfully based on the artery features.
+
+Citation: Farajtabar M, et al. Machine Learning Identification Framework of Hemodynamics of Blood Flow in Patient-Specific Coronary Arteries with Abnormality. Machine Learning Identification Framework of Hemodynamics of Blood Flow in Patient-Specific Coronary Arteries with Abnormality. 2023; 16:722-737. doi: 10.1007/s12265-022-10339-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36401114/

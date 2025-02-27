@@ -1,0 +1,11 @@
+PMID: 38259641
+Title: Association between intracranial and extracranial atherosclerosis and white matter hyperintensities: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: White matter hyperintensities (WMHs) are key neuroimaging markers of cerebral small vessel diseases. This study aimed to investigate whether intracranial and extracranial atherosclerotic stenosis is associated with WMHs.
+METHODS: Following a previously registered protocol (PROSPERO protocol: CRD42023407465), PubMed, Web of Science, and Embase were systematically searched for relevant literature published until March 2023. Cross-sectional studies examining the association between intracranial and extracranial atherosclerotic stenosis and WMHs were included. Random effects models were used to calculate the pooled estimates.
+RESULTS: Twenty-one eligible studies, including 10,841 participants, were identified. Intracranial and extracranial atherosclerotic stenosis was associated with an increased risk of WMHs (OR 1.80, 95% CI 1.25-2.57, I2 = 75%) and increased WMH volumes (SMD 0.40, 95% CI 0.18-0.63, I2 = 63%). Heterogeneity resulted from the WMHs rating method and the location. Extracranial atherosclerotic stenosis (ECAS) was significantly associated with WMHs (OR 2.10, 95% CI 1.22-3.62, I2 = 71%), but intracranial atherosclerotic stenosis (ICAS) was insignificantly associated with WMHs (OR 1.75, 95% CI 0.97-3.15, I2 = 84%). The association was stable in the subgroup analysis based on WMHs location, which included deep WMHs and periventricular WMHs.
+CONCLUSION: Intracranial and extracranial atherosclerotic stenosis is associated with WMHs. This association is significant in ECAS, but attenuated in ICAS.
+
+Citation: Zhang W, et al. Association between intracranial and extracranial atherosclerosis and white matter hyperintensities: a systematic review and meta-analysis. Association between intracranial and extracranial atherosclerosis and white matter hyperintensities: a systematic review and meta-analysis. 2023; 15:1240509. doi: 10.3389/fnagi.2023.1240509
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38259641/

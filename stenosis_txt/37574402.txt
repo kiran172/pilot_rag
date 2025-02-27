@@ -1,0 +1,11 @@
+PMID: 37574402
+Title: Multidetector CT-derived tricuspid annulus measurements predict tricuspid regurgitation reduction after transcatheter aortic valve replacement.
+
+Abstract: AIM: To use multidetector row computed tomography (MDCT)-derived tricuspid annulus (TA) measurements to identify predictors for tricuspid regurgitation (TR) reduction after transcatheter aortic valve replacement (TAVR), and to investigate the impact of TR change on prognosis.
+MATERIALS AND METHODS: A retrospective, single-centre study was conducted on consecutive patients who underwent TAVR with concomitant baseline mild or more severe TR from April 2012 to April 2022. TA parameters were measured using MDCT.
+RESULTS: The study comprised 266 patients (mean age 74.2 ± 7.6 years, 147 men) and 45.1% had more than one grade of TR reduction at follow-up. Independent predictors of TR reduction at follow-up were distance between TA centroid and antero-septal commissure (odd ratio [OR] 0.776; 95% confidence interval [CI]: 0.672-0.896, p=0.001), baseline TR of moderate or worse (OR 4.599; 95% CI: 2.193-9.648, p<0.001), systolic pulmonary artery pressure (OR 1.018; 95% CI: 1.002-1.035, p=0.027), age (OR 0.955; 95% CI: 0.920-0.993, p=0.019), and pre-existing atrial fibrillation (OR 0.209; 95% CI: 0.101-0.433, p<0.001). Patients without TR reduction had higher rates of rehospitalisation (hazard ratio [HR] 0.642; 95% CI: 0.413-0.998, p=0.049).
+CONCLUSIONS: The MDCT-derived TA parameter was predictive of TR reduction after TAVR. Persistent TR after TAVR was associated with higher rates of rehospitalisation.
+
+Citation: Jia KY, et al. Multidetector CT-derived tricuspid annulus measurements predict tricuspid regurgitation reduction after transcatheter aortic valve replacement. Multidetector CT-derived tricuspid annulus measurements predict tricuspid regurgitation reduction after transcatheter aortic valve replacement. 2023; 78:779-788. doi: 10.1016/j.crad.2023.07.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37574402/

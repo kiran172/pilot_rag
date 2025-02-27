@@ -1,0 +1,11 @@
+PMID: 37223825
+Title: In-Hospital Outcomes of Heart Failure Patients with Valvular Heart Disease: Insights from Real-World Claims Data.
+
+Abstract: PURPOSE: Heart failure (HF) is a serious public health burden that is rapidly increasing in the aging population. Valvular heart disease (VHD) is a known etiology of heart failure (HF); however, the impact of VHD on outcomes of patients with HF has not been well-studied in Japan. This study aimed to determine the rates of VHD in Japanese patients admitted for HF and explore associations of VHD with in-hospital outcomes through a claim-based analysis.
+PATIENTS AND METHODS: We analyzed claims data from 86,763 HF hospitalizations (January 2017 through December 2019) from the Medical Data Vision database. Common etiologies of HF were examined, then hospitalizations were categorized into those with VHD and those without. Covariate-adjusted models were used to explore the association of VHD with in-hospital mortality, length of stay, and medical cost.
+RESULTS: Of 86,763 hospitalizations for HF, 13,183 had VHD and 73,580 did not. VHD was the second most frequent etiology of HF (15.2%). The most frequent type of VHD was mitral regurgitation (36.4% of all hospitalizations with VHD), followed by aortic stenosis (33.7%) and aortic regurgitation (16.4%). There was no significant difference in in-hospital mortality between hospitalizations with VHD vs those without (9.0% vs 8.9%; odds ratio [95% CI]: 1.01 [0.95-1.08]; p=0.723). Hospitalizations with VHD were associated with significantly longer length of stay (26.1 vs 24.8 days; incident rate ratio [95% CI]: 1.05 [1.03-1.07]; p<0.001) and higher medical costs (1536 vs 1195 thousand yen; rate ratio [95% CI]: 1.29 [1.25-1.32]; p<0.001).
+CONCLUSION: VHD was a frequent etiology of HF that was associated with significant medical resource use. Future studies are needed to investigate whether timely VHD treatment could reduce HF progression and its associated healthcare resource utilization.
+
+Citation: Izumi C, et al. In-Hospital Outcomes of Heart Failure Patients with Valvular Heart Disease: Insights from Real-World Claims Data. In-Hospital Outcomes of Heart Failure Patients with Valvular Heart Disease: Insights from Real-World Claims Data. 2023; 15:349-360. doi: 10.2147/CEOR.S405079
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37223825/

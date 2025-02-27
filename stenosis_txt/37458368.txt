@@ -1,0 +1,12 @@
+PMID: 37458368
+Title: Modulated Fibrosis and Mechanosensing of Fibroblasts by SB525334 in Pediatric Subglottic Stenosis.
+
+Abstract: OBJECTIVE: Subglottic stenosis (SGS) may result from prolonged intubation where fibrotic scar tissue narrows the airway. The scar forms by differentiated myofibroblasts secreting excessive extracellular matrix (ECM). TGF-β1 is widely accepted as a regulator of fibrosis; however, it is unclear how biomechanical pathways co-regulate fibrosis. Therefore, we phenotyped fibroblasts from pediatric patients with SGS to explore how key signaling pathways, TGF-β and Hippo, impact scarring and assess the impact of inhibiting these pathways with potential therapeutic small molecules SB525334 and DRD1 agonist dihydrexidine hydrochloride (DHX).
+METHODS: Laryngeal fibroblasts isolated from subglottic as well as distal control biopsies of patients with evolving and maturing subglottic stenosis were assessed by α-smooth muscle actin immunostaining and gene expression for α-SMA, FN, HGF, and CTGF markers. TGF-β and Hippo signaling pathways were modulated during TGF-β1-induced fibrosis using the inhibitor SB525334 or DHX and analyzed by RT-qPCR for differential gene expression and atomic force microscopy for ECM stiffness.
+RESULTS: SGS fibroblasts exhibited higher α-SMA staining and greater inflammatory cytokine and fibrotic marker expression upon TGF-β1 stimulation (p < 0.05). SB525334 restored levels to baseline by reducing SMAD2/3 nuclear translocation (p < 0.0001) and pro-fibrotic gene expression (p < 0.05). ECM stiffness of stenotic fibroblasts was greater than healthy fibroblasts and was restored to baseline by Hippo pathway modulation using SB525334 and DHX (p < 0.01).
+CONCLUSION: We demonstrate that distinct fibroblast phenotypes from diseased and healthy regions of pediatric SGS patients respond differently to TGF-β1 stimulation, and SB525334 has the superior potential for subglottic stenosis treatment by simultaneously modulating TGF-β and Hippo signaling pathways.
+LEVEL OF EVIDENCE: NA Laryngoscope, 134:287-296, 2024.
+
+Citation: Ali Akbari Ghavimi S, et al. Modulated Fibrosis and Mechanosensing of Fibroblasts by SB525334 in Pediatric Subglottic Stenosis. Modulated Fibrosis and Mechanosensing of Fibroblasts by SB525334 in Pediatric Subglottic Stenosis. 2024; 134:287-296. doi: 10.1002/lary.30873
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37458368/

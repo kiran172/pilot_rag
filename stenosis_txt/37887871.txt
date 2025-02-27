@@ -1,0 +1,12 @@
+PMID: 37887871
+Title: Investigating the Influence of High-Speed Gantry Rotation in Cardiac CT on Motion Artifacts in Aortic Stenosis Patients Not Premedicated with β-Blockers: The FAST-CCT Randomized Trial Protocol.
+
+Abstract: BACKGROUND: Coronary CT angiography (CCTA) is increasingly used as a non-invasive tool to assess coronary artery disease (CAD). However, CCTA is subject to motion artifacts, potentially limiting its clinical utility. Despite faster (0.35 and 0.28 s/rot) gantry rotation times, low (60-65 bpm) heartbeat is recommended, and the use of β-blockers is often needed. Technological advancements have resulted in the development of faster rotation speeds (0.23 s/rot). However, their added value in patients not premedicated with β-blockers remains unclear. This prospective single-center, two-arm, randomized, controlled trial aims to assess the influence of fast rotation on coronary motion artifacts, diagnostic accuracy of CCTA for CAD, and patient safety.
+METHODS: We will randomize a total of 142 patients aged ≥ 50 scheduled for an aortic stenosis work-up to receive CCTA with either a fast (0.23) or standard (0.28 s/rot) gantry speed.
+PRIMARY OUTCOME: rate of CCTAs with coronary motion artifacts hindering interpretation.
+SECONDARY OUTCOMES: assessable coronary segments rate, diagnostic accuracy against invasive coronary angiography (ICA), motion artifact magnitude per segment, contrast-to-noise ratio (CNR), and patient ionizing radiation dose. The local ethics committee has approved the protocol. Potential significance: FAST-CCT may improve motion artifact reduction and diagnosis quality, thus eliminating the need for rate control and β-blocker administration.
+CLINICALTRIALS: gov identifier: NCT05709652.
+
+Citation: Fahrni G, et al. Investigating the Influence of High-Speed Gantry Rotation in Cardiac CT on Motion Artifacts in Aortic Stenosis Patients Not Premedicated with β-Blockers: The FAST-CCT Randomized Trial Protocol. Investigating the Influence of High-Speed Gantry Rotation in Cardiac CT on Motion Artifacts in Aortic Stenosis Patients Not Premedicated with β-Blockers: The FAST-CCT Randomized Trial Protocol. 2023; 10:(unknown pages). doi: 10.3390/jcdd10100424
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37887871/

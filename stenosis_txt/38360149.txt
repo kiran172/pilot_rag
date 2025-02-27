@@ -1,0 +1,11 @@
+PMID: 38360149
+Title: A New Scoring System Predicting Side-Branch Occlusion in Patients Undergoing Left Main Bifurcation Intervention: The LM V-RESOLVE Score.
+
+Abstract: BACKGROUND: The risk of side-branch (SB) occlusion is pivotal for decision making of stenting strategies during unprotected left main (LM) bifurcation percutaneous coronary intervention (PCI). Accordingly, this study aimed to develop a scoring system for predicting SB occlusion during unprotected LM bifurcation PCI.
+METHODS: A total of 855 consecutive patients undergoing unprotected LM bifurcation PCI with provisional strategy at Fuwai Hospital from January 2014 to December 2016 were recruited. A prediction model was selected by means of all-subsets logistic regression, and a multivariable risk score (Left Main Visual Estimation for Risk Prediction of Side Branch Occlusion in Coronary Bifurcation Intervention [LM V-RESOLVE]) was then established with incremental weights attributed to each component variable based on its estimate coefficients. SB occlusion was defined as any decrease in Thrombolysis in Myocardial Infarction (TIMI) flow grade or absence of flow in SB after main vessel (MV) stenting.
+RESULTS: SB occlusion occurred in 19 LM bifurcation lesions (2.22%). In multivariable model, 3 variables, including MV/SB diameter ratio, MV plaque ipsilateral to SB, and baseline diameter stenosis of SB, were independent predictors for SB occlusion (model C-statistic 0.829, 95% confidence interval [CI] 0.735-0.923, with good calibration). The risk score had a C-statistics of 0.830 (95% CI 0.738-0.923) with good calibration. Satisfactory discriminative ability of the risk score was also preserved in external validation (C-statistic 0.794, 95% CI 0.691-0.896).
+CONCLUSIONS: The LM bifurcation-specific novel scoring system, LM V-RESOLVE, based on 3 simple baseline angiographic findings, could help to rapidly discriminate lesions at risk of SB occlusion during LM bifurcation PCI.
+
+Citation: He J, et al. A New Scoring System Predicting Side-Branch Occlusion in Patients Undergoing Left Main Bifurcation Intervention: The LM V-RESOLVE Score. A New Scoring System Predicting Side-Branch Occlusion in Patients Undergoing Left Main Bifurcation Intervention: The LM V-RESOLVE Score. 2024; 40:1619-1631. doi: 10.1016/j.cjca.2024.01.040
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38360149/

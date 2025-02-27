@@ -1,0 +1,12 @@
+PMID: 31999208
+Title: CT-pathologic correlation of non-calcified atherosclerotic arterial plaques: a study using carotid endarterectomy specimens.
+
+Abstract: OBJECTIVE: Pathologic features of atherosclerotic plaques on CT are not established. We compared CT values among pathologically confirmed plaque constituents and evaluated their ability to distinguish plaque constituents.
+METHODS: 50 histopathological images of carotid endarterectomy samples from 10 males and 2 females (age 54-74 years, average 65.9 years) were examined. We compared pre-operative CT [pre-contrast (CT-P), early post-contrast phase (CT-E), delayed post-contrast phase (CT-D)] of lipid-rich necrotic core (NC) and fibrous tissue (F) plaque components with pathological images. The ability of features to differentiate plaque components using several discrimination techniques were compared.
+RESULTS: CT values of NC and F were 36 ± 13, 45 ± 11 (mean ± standard deviation, Hounsfield unit, HU), 41 ± 17, 69 ± 18, and 44 ± 16, 70 ± 13 in CT-P (p &lt; 0.01), CT-E (p &lt; 0.0001), and CT-D (p &lt; 0.0001), respectively. The threshold, sensitivity, and accuracy for distinguishing NC from F were 44 HU, 74%, and 68%; 55 HU, 85%, and 85%; and 63 HU, 92%, and 84% in CTP, CT-E, and CT-D, respectively. CT-P had lower accuracy than CT-E and CT-D (both p &lt; 0.05), but CT-E and CT-D were similar. CT-E and CT-D yielded 90 and 91% sensitivity and accuracy, respectively in linear discrimination analysis.
+CONCLUSION: In both pre- and post-contrast CT, CT values were lower in NC than F. Although values overlapped, using two-phase post-contrast CTs improved discrimination ability.
+ADVANCES IN KNOWLEDGE: Our findings may help to establish computer-aided diagnosis of vulnerable atherosclerotic plaques in future.
+
+Citation: Higashi M, et al. CT-pathologic correlation of non-calcified atherosclerotic arterial plaques: a study using carotid endarterectomy specimens. CT-pathologic correlation of non-calcified atherosclerotic arterial plaques: a study using carotid endarterectomy specimens. 2020; 93:20190901. doi: 10.1259/bjr.20190901
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31999208/

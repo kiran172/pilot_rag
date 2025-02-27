@@ -1,0 +1,12 @@
+PMID: 35902171
+Title: Spatially Distinct Genetic Determinants of Aortic Dimensions Influence Risks of Aneurysm and Stenosis.
+
+Abstract: BACKGROUND: The left ventricular outflow tract (LVOT) and ascending aorta are spatially complex, with distinct pathologies and embryologic origins. Prior work examined the genetics of thoracic aortic diameter in a single plane.
+OBJECTIVES: We sought to elucidate the genetic basis for the diameter of the LVOT, aortic root, and ascending aorta.
+METHODS: Using deep learning, we analyzed 2.3 million cardiac magnetic resonance images from 43,317 UK Biobank participants. We computed the diameters of the LVOT, the aortic root, and at 6 locations of ascending aorta. For each diameter, we conducted a genome-wide association study and generated a polygenic score. Finally, we investigated associations between these scores and disease incidence.
+RESULTS: A total of 79 loci were significantly associated with at least 1 diameter. Of these, 35 were novel, and most were associated with 1 or 2 diameters. A polygenic score of aortic diameter approximately 13 mm from the sinotubular junction most strongly predicted thoracic aortic aneurysm (n = 427,016; mean HR: 1.42 per SD; 95% CI: 1.34-1.50; P = 6.67 × 10-21). A polygenic score predicting a smaller aortic root was predictive of aortic stenosis (n = 426,502; mean HR: 1.08 per SD; 95% CI: 1.03-1.12; P = 5 × 10-6).
+CONCLUSIONS: We detected distinct genetic loci underpinning the diameters of the LVOT, aortic root, and at several segments of ascending aorta. We spatially defined a region of aorta whose genetics may be most relevant to predicting thoracic aortic aneurysm. We further described a genetic signature that may predispose to aortic stenosis. Understanding genetic contributions to proximal aortic diameter may enable identification of individuals at risk for aortic disease and facilitate prioritization of therapeutic targets.
+
+Citation: Nekoui M, et al. Spatially Distinct Genetic Determinants of Aortic Dimensions Influence Risks of Aneurysm and Stenosis. Spatially Distinct Genetic Determinants of Aortic Dimensions Influence Risks of Aneurysm and Stenosis. 2022; 80:486-497. doi: 10.1016/j.jacc.2022.05.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35902171/

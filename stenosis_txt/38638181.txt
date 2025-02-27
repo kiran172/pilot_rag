@@ -1,0 +1,14 @@
+PMID: 38638181
+Title: Risk of Post-Intubation Laryngotracheal Stenosis With Respect to COVID-19 Status in a Large Multicenter Cohort Cross-Sectional Study.
+
+Abstract: OBJECTIVES: Occurrence of post-intubation laryngotracheal stenosis (LTS) with respect to COVID-19 status.
+DESIGN: Retrospective cross-sectional inpatient database.
+SETTING: Eleven Midwest academic and community hospitals, United States.
+PATIENTS: Adults, mechanically ventilated, from January 2020 to August 2022, who were subsequently readmitted within 6 months with a new diagnosis of LTS.
+INTERVENTIONS: None.
+MEASUREMENTS AND MAIN RESULTS: Six thousand eight hundred fifty-one COVID-19 negative and 1316 COVID-19 positive patients were intubated and had similar distribution by age (median 63.77 vs. 63.16 yr old), sex (male, 60.8%; n = 4173 vs. 60%; n = 789), endotracheal tube size (≥ 7.5, 75.8%; n = 5192 vs. 75.5%; n = 994), and comorbidities. The ICU length of stay (median [interquartile range (IQR)], 7.23 d [2.13-16.67 d] vs. 3.95 d [1.91-8.88 d]) and mechanical ventilation days (median [IQR], 5.57 d [1.01-14.18 d] vs. 1.37 d [0.35-4.72 d]) were longer in the COVID-19 positive group. The occurrence of LTS was double in the COVID-19 positive group (12.7%, n = 168 vs. 6.4%, n = 440; p &lt; 0.001) and was most commonly diagnosed within 60 days of intubation. In multivariate analysis, the risk of LTS increased by 2% with each additional ICU day (hazard ratio [HR], 1.02; 95% CI, 1.02-1.03; p &lt; 0.001), by 3% with each additional day of ventilation (HR, 1.03; 95% CI, 1.02-1.04; p &lt; 0.001), and by 52% for each additional reintubation (HR, 1.52; 95% CI, 1.36-1.71; p &lt; 0.001). We observed no significant association COVID-19 status and risk of LTS.
+CONCLUSIONS: The occurrence of post-intubation LTS was double in a COVID-19 positive cohort, with higher risk with increasing number of days intubated, days in the ICU and especially with the number of reintubations. COVID-19 status was not an independent risk factor for LTS.
+
+Citation: Gray R, et al. Risk of Post-Intubation Laryngotracheal Stenosis With Respect to COVID-19 Status in a Large Multicenter Cohort Cross-Sectional Study. Risk of Post-Intubation Laryngotracheal Stenosis With Respect to COVID-19 Status in a Large Multicenter Cohort Cross-Sectional Study. 2024; 6:e1081. doi: 10.1097/CCE.0000000000001081
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38638181/

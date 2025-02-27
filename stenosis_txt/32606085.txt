@@ -1,0 +1,12 @@
+PMID: 32606085
+Title: Cerebral small vessel disease or intracranial large vessel atherosclerosis may carry different risk for future strokes.
+
+Abstract: BACKGROUND: The effect of cerebral small vessel disease (CSVD) and intracranial arterial stenosis (ICAS) on stroke outcomes remains unclear.
+METHODS: Data of 1045 patients with minor stroke or transient ischaemic attack (TIA) were obtained from 45 sites of the Clopidogrel in High-Risk Patients with Acute Non-disabling Cerebrovascular Events (CHANCE) trial. We assessed the associations of burdens of CSVD and ICAS with new strokes and bleeding events using multivariate Cox regression models and those with modified Rankin Scale (mRS) scores using ordinal logistic regression models.
+RESULTS: Among the 1045 patients, CSVD was present in 830 cases (79.4%) and ICAS in 460 (44.0%). Patients with >1 ICAS segment showed the highest risk of new strokes (HR 2.03, 95% CI 1.15 to 3.56, p=0.01). No association between CSVD and the occurrence of new strokes was found. The presence of severe CSVD (common OR (cOR) 2.01, 95% CI 1.40 to 2.89, p<0.001) and >1 ICAS segment (cOR 2.15, 95% CI 1.57 to 2.93, p<0.001) was associated with higher mRS scores. Severe CSVD (HR 10.70, 95% CI 1.16 to 99.04, p=0.04), but not ICAS, was associated with a higher risk of bleeding events. Six-point modified CSVD score improved the predictive power for bleeding events and disability.
+INTERPRETATION: CSVD is associated with more disability and bleeding events, and ICAS is associated with an increased risk of stroke and disability in patients with minor stroke and TIA at 3 months. CSVD and ICAS may represent different vascular pathologies and play distinct roles in stroke outcomes.
+TRIAL REGISTRATION NUMBER: NCT00979589.
+
+Citation: Chen H, et al. Cerebral small vessel disease or intracranial large vessel atherosclerosis may carry different risk for future strokes. Cerebral small vessel disease or intracranial large vessel atherosclerosis may carry different risk for future strokes. 2020; 5:128-137. doi: 10.1136/svn-2019-000305
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32606085/

@@ -1,0 +1,12 @@
+PMID: 38329195
+Title: Geographic variation in aortic stenosis treatment and outcomes among Medicare beneficiaries in the United States.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) has changed the landscape of aortic stenosis (AS) management.
+AIM: To describe and evaluate geographic variation in AS treatment and outcomes among a sample of Medicare beneficiaries.
+METHODS: A retrospective analysis of administrative claims data was conducted on a 20% sample of Medicare fee-for-service beneficiaries aged 65 and older with a diagnosis of AS (2015-2018). Estimates of demographic, comorbidity, and healthcare resources were obtained from Medicare claims and the Dartmouth Atlas of Health Care at the hospital referral region (HRR), which represents regional tertiary medical care markets. Linear regression was used to explain HRR-level variation in rates of surgical aortic valve replacement (SAVR) and TAVR, and 1-year mortality and readmission rates.
+RESULTS: A total of 740,899 beneficiaries with AS were identified with a median prevalence of AS of 39.9 per 1000 Medicare beneficiary years. The average HRR-level rate of SAVR was 26.3 procedures per 1000 beneficiary years and the rate of TAVR was 20.3 procedures per 1000 beneficiary years. HRR-level comorbidities and number of TAVR centers were associated with a lower SAVR rate. Demographics and comorbidities explained most of the variation in HRR-level 1-year mortality (15.2% and 18.8%) and hospitalization rates (20.5% and 16.9%), but over half of the variation remained unexplained.
+CONCLUSION: Wide regional variation in the treatment and outcomes of AS was observed but were largely unexplained by patient factors and healthcare utilization. Understanding the determinants of AS treatment and outcomes can inform population health efforts for these patients.
+
+Citation: van Bakel PAJ, et al. Geographic variation in aortic stenosis treatment and outcomes among Medicare beneficiaries in the United States. Geographic variation in aortic stenosis treatment and outcomes among Medicare beneficiaries in the United States. 2024; 103:490-498. doi: 10.1002/ccd.30959
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38329195/

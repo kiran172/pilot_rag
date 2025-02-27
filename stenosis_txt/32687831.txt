@@ -1,0 +1,11 @@
+PMID: 32687831
+Title: Performance of a Machine Learning Algorithm in Predicting Outcomes of Aortic Valve Replacement.
+
+Abstract: BACKGROUND: This study evaluated the performance of a machine learning (ML) algorithm in predicting outcomes of surgical aortic valve replacement (SAVR).
+METHODS: Adult patients undergoing isolated SAVR in The Society of Thoracic Surgeons (STS) National Database between 2007 and 2017 (n = 243,142) were randomly split 4:1 into training and validation sets. Outcomes that were evaluated were those for which STS models exist. The ML algorithm extreme gradient boosting (XGBoost) was used. Model calibration was measured by the ratio of observed to expected risk, calibration-in-the-large, and slope of calibration curve, and model discrimination was measured by the c-index.
+RESULTS: XGBoost demonstrated excellent calibration, with an average observed-to-expected ratio of 0.985, calibration-in-the-large of -0.017, and slope of calibration curve of 0.944. The c-index of XGBoost was significantly improved compared with STS models for 5 of 7 outcomes: operative mortality (77.1% [95% confidence interval {CI}, 75.8% to 78.4%] vs 76.2% [95% CI, 75.0% to 77.6%]; P = .007), prolonged ventilation (73.9% [95% CI, 73.1% to 74.6%] vs 72.6% [95% CI, 71.9% to 73.4%]; P < .001], acute renal failure (77.6% [95% CI, 76.3% to 78.7%] vs 73.7% [95% CI, 72.2% to 75.0%]; P < .001), reoperation (63.7% [95% CI, 62.7% to 64.8%] vs 62.6% [95% CI, 61.5% to 63.7%]; P = .01), and the composite of mortality or major morbidity (70.3% [95% CI, 69.6% to 70.9%] vs 69.0% [95% CI, 68.3% to 69.7%]; P < .001). For 2 outcomes the c-index was comparable: stroke (68.4% [95% CI, 66.6% to 70.3%] vs 67.6% [95% CI, 65.7% to 69.5%]; P .08) and deep sternal wound infection (59.9% [95% CI, 53.6% to 66.2%] vs 64.1% [95% CI, 57.5% to 70.1%]; P = .82).
+CONCLUSIONS: The ML algorithm XGBoost demonstrated excellent calibration and modest improvements in discriminatory ability compared with existing STS models in this study of isolated SAVR.
+
+Citation: Kilic A, et al. Performance of a Machine Learning Algorithm in Predicting Outcomes of Aortic Valve Replacement. Performance of a Machine Learning Algorithm in Predicting Outcomes of Aortic Valve Replacement. 2021; 111:503-510. doi: 10.1016/j.athoracsur.2020.05.107
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32687831/

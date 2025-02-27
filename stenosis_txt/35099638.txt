@@ -1,0 +1,12 @@
+PMID: 35099638
+Title: Myocardial CT perfusion imaging for the detection of obstructive coronary artery disease: multisegment reconstruction does not improve diagnostic performance.
+
+Abstract: BACKGROUND: Multisegment reconstruction (MSR) was introduced to shorten the temporal reconstruction window of computed tomography (CT) and thereby reduce motion artefacts. We investigated whether MSR of myocardial CT perfusion (CTP) can improve diagnostic performance in detecting obstructive coronary artery disease (CAD) compared with halfscan reconstruction (HSR).
+METHODS: A total of 134 patients (median age 65.7 years) with clinical indication for invasive coronary angiography and without cardiac surgery prospectively underwent static CTP. In 93 patients with multisegment acquisition, we retrospectively performed both MSR and HSR and searched both reconstructions for perfusion defects. Subgroups with known (n = 68) or suspected CAD (n = 25) and high heart rate (n = 30) were analysed. The area under the curve (AUC) was compared applying DeLong approach using ≥ 50% stenosis on invasive coronary angiography as reference standard.
+RESULTS: Per-patient analysis revealed the overall AUC of MSR (0.65 [95% confidence interval 0.53, 0.78]) to be inferior to that of HSR (0.79 [0.69, 0.88]; p = 0.011). AUCs of MSR and HSR were similar in all subgroups analysed (known CAD 0.62 [0.45, 0.79] versus 0.72 [0.57, 0.86]; p = 0.157; suspected CAD 0.80 [0.63, 0.97] versus 0.89 [0.77, 1.00]; p = 0.243; high heart rate 0.46 [0.19, 0.73] versus 0.55 [0.33, 0.77]; p = 0.389). Median stress radiation dose was higher for MSR than for HSR (6.67 mSv versus 3.64 mSv, p < 0.001).
+CONCLUSIONS: MSR did not improve diagnostic performance of myocardial CTP imaging while increasing radiation dose compared with HSR.
+TRIAL REGISTRATION: CORE320: clinicaltrials.gov NCT00934037, CARS-320: NCT00967876.
+
+Citation: Preuß D, et al. Myocardial CT perfusion imaging for the detection of obstructive coronary artery disease: multisegment reconstruction does not improve diagnostic performance. Myocardial CT perfusion imaging for the detection of obstructive coronary artery disease: multisegment reconstruction does not improve diagnostic performance. 2022; 6:5. doi: 10.1186/s41747-021-00256-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35099638/

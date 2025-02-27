@@ -1,0 +1,11 @@
+PMID: 32243048
+Title: The impact of increased pulmonary arterial pressure on outcomes after transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVE: To evaluate the impact of increased pulmonary artery systolic pressure (PASP) on outcomes after transcatheter aortic valve replacement (TAVR).
+METHODS: A total of 242 patients who underwent TAVR were retrospectively reviewed. Transthoracic echocardiography estimated PASP. The cohorts were divided into three groups according to the numerical change of PASP; Increased (post-TAVR PASP at 1 month minus pre-TAVR PASP, ≥ + 5 mmHg; n = 52), No change (-5 to +5 mmHg; n = 86) and Decreased (≤ -5 mmHg; n = 104). Patient demographics and clinical outcomes until 1 year were evaluated. Logistic regression model was used for multivariate risk analysis.
+RESULTS: At 1 year, the Increased group showed higher mortality (21 ± 6%) than the No change group (5 ± 2%) (hazard ratio [HR]: 4.8, 95% confidence interval [CI]: 1.7-13.5; p < .01) and the Decreased group (8 ± 3%) (HR: 2.8, 95% CI: 1.1-6.7; p = .02). Rehospitalization rate for valve-related or heart failure was also higher in the Increased group (21 ± 6%) than the No change group (10 ± 3%) (HR: 2.4, 95% CI: 1.1-6.0; p = .04). Predictors of PASP deterioration were hypertension (odds ratio [OR]: 3.9, 95% CI: 1.1-13.8; p = .04) and left ventricular end-diastolic diameter >50 mm (OR: 2.2, 95% CI: 1.1-4.6; p = .04), and the increased PASP remained an independent predictor of 1-year all-cause mortality (HR; 2.7, 95% CI: 1.0-6.8; p = .04).
+CONCLUSIONS: Regardless of the baseline PASP, patients with increased PASP at 1 month after successful TAVR were at higher risk of mortality and rehospitalization within 1 year. Strict medical management should be considered for patients who showed dilated left ventricle preoperatively.
+
+Citation: Ujihira K, et al. The impact of increased pulmonary arterial pressure on outcomes after transcatheter aortic valve replacement. The impact of increased pulmonary arterial pressure on outcomes after transcatheter aortic valve replacement. 2020; 96:E723-E734. doi: 10.1002/ccd.28862
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32243048/

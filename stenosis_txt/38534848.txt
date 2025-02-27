@@ -1,0 +1,8 @@
+PMID: 38534848
+Title: Design, Optimization, and Modeling of a Hydraulic Soft Robot for Chronic Total Occlusions.
+
+Abstract: Chronic total occlusion (CTO) is one of the most severe and sophisticated vascular stenosis because of complete blockage, greater operation difficulty, and lower procedural success rate. This study proposes a hydraulic-driven soft robot imitating the earthworm's locomotion to assist doctors or operators in actively opening thrombi in coronary or peripheral artery vessels. Firstly, a three-actuator bionic soft robot is developed based on earthworms' physiological structure. The soft robot's locomotion gait inspired by the earthworm's mechanism is designed. Secondly, the influence of structure parameters on actuator deformation, stress, and strain is explored, which can help us determine the soft actuators' optimal structure parameters. Thirdly, the relationship between hydraulic pressure and actuator deformation is investigated by performing finite element analysis using the bidirectional fluid-structure interaction (FSI) method. The kinematic models of the soft actuators are established to provide a valuable reference for the soft actuators' motion control.
+
+Citation: Meng LW, et al. Design, Optimization, and Modeling of a Hydraulic Soft Robot for Chronic Total Occlusions. Design, Optimization, and Modeling of a Hydraulic Soft Robot for Chronic Total Occlusions. 2024; 9:(unknown pages). doi: 10.3390/biomimetics9030163
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38534848/

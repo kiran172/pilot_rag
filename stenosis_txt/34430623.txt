@@ -1,0 +1,11 @@
+PMID: 34430623
+Title: Plasma proteomic profiling reveals biomarkers associated with aortic dilation in patients with bicuspid aortic valve.
+
+Abstract: BACKGROUND: Bicuspid aortic valve (BAV) is the most common congenital heart anomaly and is prone to cause complications, such as valvular stenosis and thoracic aortic dilation. There is currently no reliable way to predict the progression rate to thoracic aortic aneurysm. Here, we aimed to characterize the proteomic landscape in the plasma of stenotic BAV patients and provide potential biomarkers to predict progressive aortic dilation.
+METHODS: Plasma samples were obtained from 45 subjects (30 stenotic BAV patients and 15 healthy controls). All samples were properly prepared and analyzed using mass spectrometry (MS)-based label-free quantitative proteomics.
+RESULTS: A total of 748 plasma proteins had missingness &lt;50%, and 193 (25.8%) were differentially expressed in the BAV patients. Functions regarding cell junction and actin cytoskeleton were largely enriched. NOTCH3, a Notch receptor known to interact with the BAV-causing gene NOTCH1, was negatively correlated with aortic diameter and was downregulated in BAV patients' plasma and aortic smooth muscle cells. Further, a subset of plasma proteins, including ADAM10, was associated with rapidly progressive aortic dilation in BAV patients.
+CONCLUSIONS: Our data reveal unique features in the proteomic architecture of stenotic BAV patients' plasma, and we propose the potential of Notch signaling proteins NOTCH3 and ADAM10 in predicting aortic dilation.
+
+Citation: Ma W, et al. Plasma proteomic profiling reveals biomarkers associated with aortic dilation in patients with bicuspid aortic valve. Plasma proteomic profiling reveals biomarkers associated with aortic dilation in patients with bicuspid aortic valve. 2021; 9:1182. doi: 10.21037/atm-21-3378
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34430623/

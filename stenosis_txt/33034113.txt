@@ -1,0 +1,17 @@
+PMID: 33034113
+Title: Enhancement Characteristics of Middle Cerebral Arterial Atherosclerotic Plaques Over Time and Their Correlation With Stroke Recurrence.
+
+Abstract: BACKGROUND: The progression of atherosclerotic plaque is a dynamic process; however, the natural evolution process of plaque enhancement on MRI remains unclear.
+PURPOSE: To evaluate changes in enhancement characteristics of middle cerebral arterial (MCA) atherosclerotic plaques over time using MRI and to explore the relationship between the changes in plaque enhancement and stroke recurrence.
+STUDY TYPE: Prospective.
+POPULATION: Fifty-four patients with MCA atherosclerotic plaque underwent initial and follow-up examinations with a median interval of 519 days (range 84-1820 days), including 37 males and 16 patients with recurrent stroke.
+FIELD STRENGTH/SEQUENCE: Time-of-flight magnetic resonance angiography, diffusion-weighted imaging, T<sub>2</sub> -weighted imaging, pre- and postcontrast T<sub>1</sub> -weighted imaging at 3 T.
+ASSESSMENT: Clinical characteristics and differences in the changes in plaque enhancement among acute, subacute and chronic stroke groups and the changes in the degree of stenosis and plaque enhancement between the patients with and without recurrent stroke were compared. Risk factors for patients with recurrent stroke were assessed. Intra- and interobserver agreement in initial and the changes in plaque enhancement and stenosis, and the correlation between changes in plaque enhancement and recurrent stroke, were evaluated.
+STATISTICAL TESTS: Independent-samples t-test, Mann-Whitney U-test, chi-squared test, Spearman correlation, logistic regression and Cohen's kappa test.
+RESULTS: There were significant differences in the changes in stenosis and plaque enhancement (P < 0.05) between the patients with and without recurrent stroke. A significant correlation was observed between the changes in plaque enhancement and stroke recurrence (r = 0.415, P < 0.05). Multivariate regression analysis showed that a change in plaque enhancement was an independent factor for stroke recurrence after adjusting for confounding factors (odds ratio [OR] = 5.797, P < 0.05). There was excellent intra- and interobserver agreement in evaluating plaque enhancement and stenosis.
+DATA CONCLUSION: Stable or increased enhancement of MCA plaque was related to recurrent stroke events at follow-up. Change in plaque enhancement on MRI may be an important indicator for predicting recurrent stroke.
+LEVEL OF EVIDENCE: 2 TECHNICAL EFFICACY STAGE: 2.
+
+Citation: Zhang X, et al. Enhancement Characteristics of Middle Cerebral Arterial Atherosclerotic Plaques Over Time and Their Correlation With Stroke Recurrence. Enhancement Characteristics of Middle Cerebral Arterial Atherosclerotic Plaques Over Time and Their Correlation With Stroke Recurrence. 2021; 53:953-962. doi: 10.1002/jmri.27351
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33034113/

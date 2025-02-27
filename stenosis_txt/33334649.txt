@@ -1,0 +1,14 @@
+PMID: 33334649
+Title: Impact of Balloon Postdilation on Six-Year Mortality After Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVES: Balloon postdilation (BPD) is one strategy for decreasing paravalvular leakage, but its effect on long-term mortality remains unclear. The authors sought to clarify whether BPD influences long-term mortality of patients with transcatheter aortic valve replacement (TAVR).
+DESIGN: Single-center retrospective study.
+SETTING: National heart center; single institution.
+PARTICIPANTS: Participants were patients who underwent TAVR in the authors' hospital from January 2014 to December 2016. A balloon-expandable Sapien XT or Sapien3, or self-expandable CoreValve or Evolute R, was implanted according to the decision of the surgeon considering degree of calcification of the aortic valve.
+INTERVENTIONS: No interventions.
+MEASUREMENTS AND MAIN RESULTS: Multivariate Cox regression analysis and inverse probability weighted estimation were performed using a propensity score to examine whether BPD influenced six-year mortality. Ultimately, 180 patients were analyzed. During the follow-up period, with a median of 1104 (interquartile range: 730-1463) days, 41 patients died and cumulative incidence of mortality at six years was 22.8%. Society of Thoracic Surgeons score (odds ratio [OR]: 2.257, 95% CI: 1.213-4.197, p = 0.010)], BPD (OR: 0.306, 95% CI: 0.098-0.953, p = 0.041), and paravalvular regurgitation of at least moderate-to-mild severity after deploying (OR: 5.407, 95% CI: 1.626-17.978, p = 0.006) were significant factors of mortality.
+CONCLUSIONS: BPD is associated with reduced six-year mortality.
+
+Citation: Shimokawa A, et al. Impact of Balloon Postdilation on Six-Year Mortality After Transcatheter Aortic Valve Replacement. Impact of Balloon Postdilation on Six-Year Mortality After Transcatheter Aortic Valve Replacement. 2021; 35:2626-2630. doi: 10.1053/j.jvca.2020.11.037
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33334649/

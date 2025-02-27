@@ -1,0 +1,14 @@
+PMID: 31842110
+Title: Hospital and Surgeon Variation in Patient-reported Functional Outcomes After Lumbar Spine Fusion: A Statewide Evaluation.
+
+Abstract: STUDY DESIGN: Statewide retrospective cohort study using prospectively collected data from the Spine Care and Outcomes Assessment Program, capturing ∼75% of the state's spine fusion procedures.
+OBJECTIVE: The aim of this study was to estimate the variation in patient-reported outcomes (PROs) 1 year after elective lumbar fusion surgery across surgeons and hospitals; and to discuss the potential impact of guiding patient selection using a PRO prediction tool.
+SUMMARY OF BACKGROUND DATA: Despite an increasing interest in incorporating PROs as part of the move toward value-based payment and to improve quality, limited evidence exists on how PROs vary across hospitals and surgeons, a key aspect of using these metrics for quality profiling.
+METHODS: We examined patient-reported functional improvement (≥15-point reduction in the Oswestry Disability Index [ODI]) and minimal disability (reaching ≤22 on the ODI) 1 year after surgery in 17 hospitals and 58 surgeons between 2012 and 2017. Outcomes were risk-adjusted for patient characteristics with multiple logistic regressions and reliability-adjusted using hierarchical models.
+RESULTS: Of the 737 patients who underwent lumbar fusion (mean [SD] age, 63 [12] years; 60% female; 84% had stenosis; 70% had spondylolisthesis), 58.7% achieved functional improvement and 42.5% reached minimal disability status at 1 year. After adjusting for patient factors, there was little variation between hospitals and surgeons (maximum interclass correlation was 3.5%), and this variation became statistically insignificant after further reliability adjustment. Avoiding operation on patients with <50% chance of functional improvement may reduce current surgical volume by 63%.
+CONCLUSION: Variations in PROs across hospitals and surgeons were mainly driven by differences in patient populations undergoing lumbar fusion, suggesting that PROs may not be useful indicators of hospital or surgeon quality. Careful patient selection using validated prediction tools may decrease differences in outcomes across hospitals and providers and improve overall quality, but would significantly reduce surgical volumes.
+LEVEL OF EVIDENCE: 3.
+
+Citation: Khor S, et al. Hospital and Surgeon Variation in Patient-reported Functional Outcomes After Lumbar Spine Fusion: A Statewide Evaluation. Hospital and Surgeon Variation in Patient-reported Functional Outcomes After Lumbar Spine Fusion: A Statewide Evaluation. 2020; 45:465-472. doi: 10.1097/BRS.0000000000003299
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31842110/

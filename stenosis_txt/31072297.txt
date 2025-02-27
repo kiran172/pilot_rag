@@ -1,0 +1,10 @@
+PMID: 31072297
+Title: The Effect of Stenotic Geometry and Non-newtonian Property of Blood Flow through Arterial Stenosis.
+
+Abstract: BACKGROUND: A mathematical model of blood flow is a way to study the blood flow behavior. In this research work, a mathematical model of non-Newtonian blood flow through different stenosis, namely bell shape and cosine shape, is considered. The physiologically important flow quantities of blood flow behavior to describe the blood flow phenomena are obtained such as resistance to flow, skin friction and blood flow rate.
+METHODS: Mathematical methods are used to analyze a mathematical model of blood flow through stenosed artery. The resistance to flow, skin friction and blood flow rate were obtained to describe the blood flow in stenosis. The resistance to flow is a relation between pressure and blood flow rate while the skin friction is the friction at the artery membrane. Resutls: The blood flow in cosine geometry exhibits higher resistance to flow and flow rate than in the bell geometry, while the blood flow in bell geometry gives a higher skin friction than in cosine geometry. Not only the effect of stenotic geometry was studied but also the effect of stenosis depth and stenosis height on the flow quantities Moreover, the power law index was adjusted to explore the non-Newtonian behavior. When blood exhibits Newtonian behavior, the resistance to flow and skin friction decrease but the blood flow rate increases.
+CONCLUSION: The stenosed artery geometry, the stenosis length, stenosis depth and the power law index (non-Newtonian behavior) are important factors affecting the blood flow through the stenosed artery. This work provides some potential aspects to further study the causes and development of cardiovascular diseases.
+
+Citation: Sriyab S. The Effect of Stenotic Geometry and Non-newtonian Property of Blood Flow through Arterial Stenosis. The Effect of Stenotic Geometry and Non-newtonian Property of Blood Flow through Arterial Stenosis. 2020; 20:16-30. doi: 10.2174/1871529X19666190509111336
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31072297/

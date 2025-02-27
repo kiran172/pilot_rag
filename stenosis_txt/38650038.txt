@@ -1,0 +1,14 @@
+PMID: 38650038
+Title: Association between diabetes mellitus and primary restenosis following endovascular treatment: a comprehensive meta-analysis of randomized controlled trials.
+
+Abstract: IMPORTANCE: Diabetes mellitus (DM) is thought to be closely related to arterial stenotic or occlusive disease caused by atherosclerosis. However, there is still no definitive clinical evidence to confirm that patients with diabetes have a higher risk of restenosis.
+OBJECTIVE: This meta-analysis was conducted to determine the effect of DM on restenosis among patients undergoing endovascular treatment, such as percutaneous transluminal angioplasty (PTA) or stenting.
+DATA SOURCES AND STUDY SELECTION: The PubMed/Medline, EMBASE and Cochrane Library electronic databases were searched from 01/1990 to 12/2022, without language restrictions. Trials were included if they satisfied the following eligibility criteria: (1) RCTs of patients with or without DM; (2) lesions confined to the coronary arteries or femoral popliteal artery; (3) endovascular treatment via PTA or stenting; and (4) an outcome of restenosis at the target lesion site. The exclusion criteria included the following: (1) greater than 20% of patients lost to follow-up and (2) a secondary restenosis operation.
+DATA EXTRACTION AND SYNTHESIS: Two researchers independently screened the titles and abstracts for relevance, obtained full texts of potentially eligible studies, and assessed suitability based on inclusion and exclusion criteria.. Disagreements were resolved through consultation with a third researcher. Treatment effects were measured by relative ratios (RRs) with 95% confidence intervals (CIs) using random effects models. The quality of the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) criteria.
+MAIN OUTCOMES AND MEASURES: The main observation endpoint was restenosis, including > 50% stenosis at angiography, or TLR of the primary operation lesion during the follow-up period.
+RESULTS: A total of 31,066 patients from 20 RCTs were included. Patients with DM had a higher risk of primary restenosis after endovascular treatment (RR = 1.43, 95% CI: 1.25-1.62; p = 0.001).
+CONCLUSIONS AND RELEVANCE: This meta-analysis of all currently available RCTs showed that patients with DM are more prone to primary restenosis after endovascular treatment.
+
+Citation: Sun X, et al. Association between diabetes mellitus and primary restenosis following endovascular treatment: a comprehensive meta-analysis of randomized controlled trials. Association between diabetes mellitus and primary restenosis following endovascular treatment: a comprehensive meta-analysis of randomized controlled trials. 2024; 23:132. doi: 10.1186/s12933-024-02201-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38650038/

@@ -1,0 +1,11 @@
+PMID: 38546351
+Title: Loss of ceramide synthase 5 inhibits the development of experimentally induced aortic valve stenosis.
+
+Abstract: AIM: Inflammation and calcification are hallmarks in the development of aortic valve stenosis (AVS). Ceramides mediate inflammation and calcification in the vascular tissue. The highly abundant d18:1,16:0 ceramide (C16) has been linked to increased cardiovascular mortality and obesity. In this study, we investigate the role of ceramide synthase 5 (CerS5), a critical enzyme for C16 ceramide synthesis, in the development of AVS, particularly in conjunction with a high-fat/high-cholesterol diet (Western diet, WD).
+METHODS: We used wild-type (WT) and CerS5-/- mice on WD or normal chow in a wire injury model. We measured the peak velocity to determine AVS development and performed histological analysis of the aortic valve area, immune cell infiltration (CD68 staining), and calcification (von Kossa). In vitro experiments involved measuring the calcification of human aortic valvular interstitial cells (VICs) and evaluating cytokine release from THP-1 cells, a human leukemia monocytic-like cell line, following CerS5 knockdown.
+RESULTS: CerS5-/- mice showed a reduced peak velocity compared to WT only in the experiment with WD. Likewise, we observed reduced immune cell infiltration and calcification in the aortic valve of CerS5-/- mice, but only on WD. In vitro, calcification was reduced after knockdown of CerS5 in VICs, while THP-1 cells exhibited a decreased inflammatory response following CerS5 knockdown.
+CONCLUSION: We conclude that CerS5 is an important mediator for the development of AVS in mice on WD and regulates critical pathophysiological hallmarks of AVS formation. CerS5 is therefore an interesting target for pharmacological therapy and merits further investigation.
+
+Citation: Reese L, et al. Loss of ceramide synthase 5 inhibits the development of experimentally induced aortic valve stenosis. Loss of ceramide synthase 5 inhibits the development of experimentally induced aortic valve stenosis. 2024; 240:e14140. doi: 10.1111/apha.14140
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38546351/

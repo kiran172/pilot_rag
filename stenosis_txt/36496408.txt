@@ -1,0 +1,11 @@
+PMID: 36496408
+Title: Investigation on forced vibration characteristics of Nitinol tracheal stent.
+
+Abstract: BACKGROUND: Tracheal stents can be placed in a narrow position in the human trachea to ensure smooth breathing. And the stent will deform during service by the influence of the physiological environment or random excitations, such as coughing.
+METHODS: This paper divides the vibration into periodic and random vibrations according to the different pressures. And a coupling vibration model was established by analyzing the contact relationship between the stent and the trachea tissue. And this study discusses the influence of tracheal diameter, respiratory pressure, and frequency on the stent vibration characteristics through Ansys simulation. In addition, the nonlinear equations were solved by the Matlab numerical analysis method, which could help analyze the influence of cough intensity on the stability of the tracheal stent system.
+RESULTS: The results showed that when tracheal stenosis occurred in the trachea's more significant grade, the trachea stent was more likely to fall off when treated with a tracheal stent. With the increase in respiratory frequency and pressure, the deformation of the tracheal stent is more considerable. Moreover, the frequency of normal cough hardly affects the stability of the stent system, while the excitation force and damping coefficient value greatly influence the system. When the excitation force of the cough exceeds the critical importance of 20 N, the tracheal stent is prone to fall off. This study comprehensively obtained the forced vibration characteristics of the stent under service conditions, which could make up for the shortage of the vibration theory of the stent.
+CONCLUSION: The results can provide a theoretical basis for predicting the possibility of stent loss in clinical treatment.
+
+Citation: Bao YD, et al. Investigation on forced vibration characteristics of Nitinol tracheal stent. Investigation on forced vibration characteristics of Nitinol tracheal stent. 2022; 21:85. doi: 10.1186/s12938-022-01054-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36496408/

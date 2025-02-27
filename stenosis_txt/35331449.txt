@@ -1,0 +1,12 @@
+PMID: 35331449
+Title: Feasibility and Safety of Same-Day Discharge Following Transfemoral Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVES: This study evaluated the feasibility and safety of same-day discharge (SDD) following transfemoral transcatheter aortic valve replacement (TF-TAVR) compared with next-day discharge (NDD).
+BACKGROUND: Reducing hospital length of stay is an important goal for patients and hospitals. Cleveland Clinic implemented a post-TAVR SDD pathway beginning in March 2020.
+METHODS: The study retrospectively analyzed patients who underwent "minimalist" outpatient TF-TAVR in 2019 to 2020. SDD was applied to patients who met the predefined criteria. Outcomes included in-hospital and 30-day events and were compared between SDD and NDD (during and prior to availability of the SDD pathway).
+RESULTS: In 2020, SDD and NDD accounted for 22.1% (n = 114 of 516) and 63.8% (n = 329 of 516) of outpatient TF-TAVR, respectively. SDD patients in 2020, compared with NDD patients in 2019 (n = 481), were younger, were more often male, and had a lower surgical risk. There were no significant differences in in-hospital events and 30-day readmissions (cardiovascular readmission: 3.5% vs 6.2%; P = 0.37; noncardiovascular readmission: 2.6% vs 4.0%; P = 0.78), and there were no deaths after SDD. These outcomes remained consistent after propensity score matching. Only 1 (0.9%) patient required pacemaker implantation after SDD (post-TAVR day 25). As expected based on SDD criteria, multivariable logistic regression analysis identified procedure end-time as the strongest predictor of SDD (adjusted OR: 7.74; 95% CI: 4.39-13.63), while male sex and baseline hemoglobin level were also associated with SDD.
+CONCLUSIONS: SDD after TF-TAVR was feasible in this early experience without impairing post-discharge safety. Our SDD pathway may serve as a useful strategy to improve bed utilization and reduce hospital stay for TAVR recipients.
+
+Citation: Krishnaswamy A, et al. Feasibility and Safety of Same-Day Discharge Following Transfemoral Transcatheter Aortic Valve Replacement. Feasibility and Safety of Same-Day Discharge Following Transfemoral Transcatheter Aortic Valve Replacement. 2022; 15:575-589. doi: 10.1016/j.jcin.2022.01.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35331449/

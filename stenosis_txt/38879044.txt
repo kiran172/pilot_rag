@@ -1,0 +1,11 @@
+PMID: 38879044
+Title: Virtual indigo carmine chromoendoscopy images: a novel modality for peroral cholangioscopy using artificial intelligence technology (with video).
+
+Abstract: BACKGROUND AND AIMS: Accurately diagnosing biliary strictures is crucial for surgical decisions, and although peroral cholangioscopy (POCS) aids in visual diagnosis, diagnosing malignancies or determining lesion margins via this route remains challenging. Indigo carmine is commonly used to evaluate lesions during GI endoscopy. We aimed to establish the utility of virtual indigo carmine chromoendoscopy (VICI) converted from POCS images using artificial intelligence.
+METHODS: This single-center, retrospective study analyzed 40 patients with biliary strictures who underwent POCS using white-light imaging (WLI) and narrow-band imaging (NBI). A cycle-consistent adversarial network was used to convert the WLI into VICI of POCS images. Three experienced endoscopists evaluated WLI, NBI, and VICI via POCS in all patients. The primary outcome was the visualization quality of surface structures, surface microvessels, and lesion margins. The secondary outcome was diagnostic accuracy.
+RESULTS: VICI showed superior visualization of the surface structures and lesion margins compared with WLI (P < .001) and NBI (P < .001). The diagnostic accuracies were 72.5%, 87.5%, and 90.0% in WLI alone, WLI and VICI simultaneously, and WLI and NBI simultaneously, respectively. WLI and VICI simultaneously tended to result in higher accuracy than WLI alone (P = .083), and the results were not significantly different from WLI and NBI simultaneously (P = .65).
+CONCLUSIONS: VICI in POCS proved valuable for visualizing surface structures and lesion margins and contributed to higher diagnostic accuracy comparable to NBI. In addition to NBI, VICI may be a novel supportive modality for POCS.
+
+Citation: Sato R, et al. Virtual indigo carmine chromoendoscopy images: a novel modality for peroral cholangioscopy using artificial intelligence technology (with video). Virtual indigo carmine chromoendoscopy images: a novel modality for peroral cholangioscopy using artificial intelligence technology (with video). 2024; 100:938-946.e1. doi: 10.1016/j.gie.2024.06.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38879044/

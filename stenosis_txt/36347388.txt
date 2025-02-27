@@ -1,0 +1,11 @@
+PMID: 36347388
+Title: Application of a Novel Two-Dimensional Echocardiographic Calcium Quantification Method to Assess All Severities of Aortic Stenosis.
+
+Abstract: BACKGROUND: Aortic valve (AV) calcification (AVC) is a strong predictor of aortic stenosis (AS) severity. The two-dimensional AVC (2D-AVC) ratio, a gain-independent ratio composed of the average pixel density of the AV and the aortic annulus, has previously shown strong correlations with two-dimensional (2D) echocardiographic hemodynamic parameters for severe AS and AVC by cardiac computed tomography. We hypothesize that the 2D-AVC ratio correlates with hemodynamic parameters in all severities of AS.
+METHODS: A total of 285 patients with a normal AV (n = 49), aortic sclerosis (n = 75), or mild (n = 38), moderate (n = 72), or severe (n = 51) AS undergoing 2D echocardiography were retrospectively evaluated, and the 2D-AVC ratios were correlated to mean AV gradient, peak AV velocity, AV area, and dimensionless index. The 2D-AVC ratios of various AS severities were compared against each other via area under the curve (AUC) analysis.
+RESULTS: The 2D-AVC ratio is strongly correlated with mean AV gradient (r = 0.79, P < .0001) and peak AV velocity (r = 0.78, P < .0001). There was moderate correlation with the AV area (r = -0.58, P < .0001) and dimensionless index (r = -0.67, P < .0001) across all AS severities. The 2D-AVC ratio also distinguished nonmoderate AS (mild AS + normal AV) from moderate or greater (moderate + severe) AS (AUC = 0.93) and moderate versus severe AS (AUC = 0.88).
+CONCLUSION: The 2D-AVC ratio exhibits moderate to strong correlation with 2D echocardiographic hemodynamic parameters across all severities of AS.
+
+Citation: Desai K, et al. Application of a Novel Two-Dimensional Echocardiographic Calcium Quantification Method to Assess All Severities of Aortic Stenosis. Application of a Novel Two-Dimensional Echocardiographic Calcium Quantification Method to Assess All Severities of Aortic Stenosis. 2023; 36:69-76. doi: 10.1016/j.echo.2022.10.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36347388/

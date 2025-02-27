@@ -1,0 +1,12 @@
+PMID: 34236762
+Title: Incidence, treatment, and outcomes of acute myocardial infarction following transcatheter or surgical aortic valve replacement.
+
+Abstract: OBJECTIVES: This study aimed to evaluate the incidence, treatment, and outcomes of acute myocardial infarction (AMI) following transcatheter or surgical aortic valve replacement (TAVR or SAVR).
+BACKGROUND: Coronary artery disease is common in patients who undergo aortic valve replacement. However, little is known about differences in clinical features of post-TAVR or post-SAVR AMI.
+METHODS: We retrospectively identified post-TAVR or post-SAVR (including isolated and complex SAVR) patients admitted with AMI using the Nationwide Readmissions Database 2012-2017. Incidence, invasive strategy (coronary angiography or revascularization), and in-hospital outcomes were compared between post-TAVR and post-SAVR AMIs.
+RESULTS: The incidence of 180-day AMI was higher post-TAVR than post-SAVR (1.59% vs. 0.72%; p < 0.001). Post-TAVR AMI patients (n = 1315), compared with post-SAVR AMI patients (n = 1344), were older, had more comorbidities and more frequent non-ST-elevation AMI (NSTEMI: 86.6% vs. 78.0%; p < 0.001). After propensity-score matching, there was no significant difference in in-hospital mortality between post-TAVR and post-SAVR AMIs (14.7% vs. 16.1%; p = 0.531), but the mortality was high in both groups, particularly in ST-elevation AMI (STEMI: 38.8% vs. 29.2%; p = 0.153). Invasive strategy was used less frequently for post-TAVR AMI than post-SAVR AMI (25.6% vs. 38.3%; p < 0.001). Invasive strategy was associated with lower mortality in both post-TAVR (adjusted odds ratio = 0.40; 95% confidence interval = [0.24-0.66]) and post-SAVR groups (0.60 [0.41-0.88]).
+CONCLUSIONS: AMI, albeit uncommon, was more frequent post-TAVR than post-SAVR. Patients commonly presented with NSTEMI, but the mortality of STEMI was markedly high. Further studies are needed to understand why a substantial percentage of patients do not receive invasive coronary treatment, particularly after TAVR, despite seemingly better outcomes with invasive strategy.
+
+Citation: Isogai T, et al. Incidence, treatment, and outcomes of acute myocardial infarction following transcatheter or surgical aortic valve replacement. Incidence, treatment, and outcomes of acute myocardial infarction following transcatheter or surgical aortic valve replacement. 2022; 99:877-888. doi: 10.1002/ccd.29860
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34236762/

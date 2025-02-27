@@ -1,0 +1,11 @@
+PMID: 35506947
+Title: Intracranial computed tomography histogram analysis detects changes in the setting of elevated intracranial pressure and normal imaging.
+
+Abstract: BACKGROUND: Patients with idiopathic intracranial hypertension (IIH) have elevated intracranial pressure (ICP) of unclear etiology. This study evaluated the ability of quantitative intracranial Hounsfield unit (HU) histogram analysis to detect pathophysiological changes from elevated ICP in the setting of a normal head CT.
+METHODS: Retrospective analysis of non-contrast-enhanced head CT images of IIH patients and matched controls. Following skull stripping, total intracranial CT voxels within the range of 0-70 HU were divided into seven 10 HU bins. A measurement of total intracranial HU was also calculated for each patient. Imaging studies for IIH patients were reviewed for features of IIH including transverse sinus stenosis (TSS). Histogram measures were compared between IIH and control groups and correlated with imaging and clinical data.
+RESULTS: Fourteen IIH patients with CSF opening pressure ≥25 cm water, and 31 age-, sex-, and ethnicity-matched controls were included. Compared to controls, IIH patients had a significantly greater proportion of voxels in the 40-50, 50-60, and 60-70 HU bins (p = 0.003, 0.001, and 0.003, respectively) but similar proportion in the 0-10 HU range. Severity of TSS significantly correlated with total intracranial HU measures. 50-60 HU and 60-70 HU bins demonstrated high AUCs of 0.81 and 0.80, respectively, in differentiating IIH from normal status.
+CONCLUSION: Idiopathic intracranial hypertension patients have a greater proportion of high intracranial HU voxels representing blood volume, which may be explained by TSS causing venous congestion. The pattern provides further insights into the pathophysiology of IIH and may be useful for detecting elevated ICP in the setting of normal head CT imaging.
+
+Citation: Asnafi S, et al. Intracranial computed tomography histogram analysis detects changes in the setting of elevated intracranial pressure and normal imaging. Intracranial computed tomography histogram analysis detects changes in the setting of elevated intracranial pressure and normal imaging. 2022; 35:718-723. doi: 10.1177/19714009221096832
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35506947/

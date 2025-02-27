@@ -1,0 +1,13 @@
+PMID: 35998042
+Title: Posterior Glottic Injury Following Prolonged Intubation in COVID-19 Patients.
+
+Abstract: OBJECTIVE: The objective of this study was to characterize the risk factors for posterior glottic injury (PGI) in patients with coronavirus disease 2019 (COVID-19) who underwent prolonged intubation.
+STUDY DESIGN: This was a case-control study designed to assess the risk factors associated with development of PGI in COVID-19 patients who underwent prolonged intubation.
+SETTING: This single-center study was conducted at a tertiary care academic hospital in a metropolitan area.
+METHODS: We retrospectively reviewed patients who underwent prolonged intubation (≥7 days) for COVID-19 and compared those with PGI to those without. Patient demographics, comorbidities, and intubation characteristics were compared. Factors associated with PGI development among COVID-19 patients were assessed using multivariate regression.
+RESULTS: We identified 56 patients who presented with PGI following prolonged intubation for COVID-19 and 60 control patients who underwent prolonged intubation for COVID-19 but did not develop PGI. On univariate analyses, the number of reintubations due to failed extubation efforts was significantly associated with development of PGI (odds ratio [OR], 2.9; 95% CI, 1.4-6.2). On multivariate analyses, patients with cardiovascular disease (OR, 3.3; 95% CI, 1.2-9.0); non-COVID-19 respiratory illnesses, which included obstructive sleep apnea and asthma (OR, 5.9; 95% CI, 2.0-17.8); and diabetes mellitus (OR, 11.6; 95% CI, 3.7-36.6) were more likely to develop PGI.
+CONCLUSION: Our results represent the largest case-control study investigating risk factors for PGI in the setting of prolonged intubation specific to COVID-19. Our study suggests a significant role of comorbidities associated with poor wound healing with development of PGI.
+
+Citation: So RJ, et al. Posterior Glottic Injury Following Prolonged Intubation in COVID-19 Patients. Posterior Glottic Injury Following Prolonged Intubation in COVID-19 Patients. 2023; 168:372-376. doi: 10.1177/01945998221120005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35998042/

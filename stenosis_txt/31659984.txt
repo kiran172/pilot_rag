@@ -1,0 +1,10 @@
+PMID: 31659984
+Title: Systematic review and meta-analysis of current risk models in predicting short-term mortality after transcatheter aortic valve replacement.
+
+Abstract: AIMS: The aim of this study was to evaluate the performance of risk stratification models (RSMs) in predicting short-term mortality after transcatheter aortic valve replacement (TAVR).
+METHODS AND RESULTS: MEDLINE and Scopus were queried to identify studies which validated RSMs designed to assess 30-day or in-hospital mortality after TAVR. Discrimination and calibration were assessed using C-statistics and observed/expected ratios (OERs), respectively. C-statistics were pooled using a random-effects inverse-variance method, while OERs were pooled using the Peto odds ratio. A good RSM is defined as one with a C-statistic >0.7 and an OER close to 1.0. Twenty-four studies (n=68,215 patients) testing 11 different RSMs were identified. Discrimination of all RSMs was poor (C-statistic <0.7); however, certain TAVR-specific RSMs such as the in-hospital STS/ACC TVT (C-statistic=0.65) and STT (C-statistic=0.66) predicted individual mortality more reliably than surgical models (C-statistic range=0.59-0.61). A good calibration was demonstrated by the in-hospital STS/ACC TVT (OER=0.99), 30-day STS/ACC TVT (OER=1.08) and STS (OER=1.01) models. Baseline dialysis (OER: 2.64 [1.88, 3.70]; p<0.001) was the strongest predictor of mortality.
+CONCLUSIONS: This study demonstrates that the STS/ACC TVT model (in-hospital and 30-day) and the STS model have accurate calibration, making them useful for comparison of centre-level risk-adjusted mortality. In contrast, the discriminative ability of currently available models is limited.
+
+Citation: Siddiqi TJ, et al. Systematic review and meta-analysis of current risk models in predicting short-term mortality after transcatheter aortic valve replacement. Systematic review and meta-analysis of current risk models in predicting short-term mortality after transcatheter aortic valve replacement. 2020; 15:1497-1505. doi: 10.4244/EIJ-D-19-00636
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31659984/

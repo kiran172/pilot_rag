@@ -1,0 +1,11 @@
+PMID: 35792109
+Title: Comparison of mortality and serious complications in lower extremity total joint arthroplasty patients with aortic stenosis receiving spinal versus general anesthesia.
+
+Abstract: INTRODUCTION: Aortic stenosis (AS) is a cardiac valvular lesion that can cause sudden death. Spinal anesthesia (SA) has been considered a relative contraindication in patients with AS. We sought to compare outcomes in patients with AS undergoing SA versus general anesthesia (GA) for lower extremity total joint arthroplasty (TJA).
+MATERIAL AND METHODS: A retrospective chart review was conducted of elective, primary TJA cases between January 1, 2011, and November 30, 2017, at three tertiary care academic medical centers. Participants included 89 patients with AS undergoing TJA with SA, and 74 with AS undergoing TJA with GA. Primary endpoints included 90-day mortality, blood transfusion, hospital length of stay (LOS), and the 90-day incidence of deep vein thrombosis, pulmonary embolism, myocardial infarction, and stroke. Propensity score matching was utilized to assess differences in outcomes between patients receiving GA vs. SA.
+RESULTS: After matching, there were no significant differences in mortality (GA 0% vs. SA 1%; OR: 1.01 [0.98, 1.05]; P = 0.498), serious complications GA 2.2% vs. SA 0%; OR: 1.00 [0.95, 1.05]; P = 0.233), blood transfusion (GA 12.4% vs. 9% SA; OR: 1.01 [0.86, 1.19]; P = 0.751) within 90 days in the GA vs. SA groups, nor hospital LOS (GA mean 3.0 vs. SA mean 2.9,  0.3 [-0.11, 0.70]; P = 0.153).
+CONCLUSIONS: There were no differences in the incidence of mortality or serious complications in matched patients with AS undergoing elective primary lower extremity TJA under SA versus GA.
+
+Citation: Chaves-Cardona H, et al. Comparison of mortality and serious complications in lower extremity total joint arthroplasty patients with aortic stenosis receiving spinal versus general anesthesia. Comparison of mortality and serious complications in lower extremity total joint arthroplasty patients with aortic stenosis receiving spinal versus general anesthesia. 2022; 54:108-113. doi: 10.5114/ait.2022.117548
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35792109/

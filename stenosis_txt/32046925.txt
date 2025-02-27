@@ -1,0 +1,11 @@
+PMID: 32046925
+Title: Periprocedural Complications After Transcatheter Aortic Valve Replacement and Their Impact on Resource Utilization.
+
+Abstract: BACKGROUND: To examine the incidence and trends of peri-procedural complications after TAVR and their impact on resource utilization.
+METHODS: The incidence of complications by type [acute kidney injury (AKI), permanent pacemaker (PPM), vascular, paravalvular leak, in-hospital mortality, others] was calculated for TAVR patients at a high-volume center between 2012 and 2018. Clinical data were matched with hospital-billing data of patients. Trends in high resource utilization (discharge to a rehabilitation facility or PLOS >7 days) (HRU) and complication rates were assessed. Multivariable logistic regression models were used to determine predictors of HRU.
+RESULTS: Out of 1163 patients, 966 (83%) had no complications, others in 95 (8%), PPM in 56 (5%), AKI alone in 32 (3%), vascular in 31 (3%), in-hospital mortality in 28 (2%) and PVL in 10 (1%). A significant decreasing trend in the incidence of complications (29% vs 10%; p trend <0.001) and HRU (75% vs 12%; p trend <0.001) was observed between 2012 and 2018 respectively. Mean ± SD direct procedure cost of having a complication was $58,234 ± $24,568, was associated with an incremental cost of $10, 649 and a prolonged stay of 3-days. On multivariable logistic regression analysis, PPM, vascular complications, high STS risk score, NYHA class III/IV, frailty and ≥ moderate tricuspid regurgitation were significantly associated with HRU. TAVR year was protective against HRU.
+CONCLUSIONS: We established that, post-TAVR resource utilization and morbidity is high among frail and patients with higher STS risk scores. However, these rates decrease over time with experience.
+
+Citation: Okoh AK, et al. Periprocedural Complications After Transcatheter Aortic Valve Replacement and Their Impact on Resource Utilization. Periprocedural Complications After Transcatheter Aortic Valve Replacement and Their Impact on Resource Utilization. 2020; 21:1086-1090. doi: 10.1016/j.carrev.2020.01.025
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32046925/

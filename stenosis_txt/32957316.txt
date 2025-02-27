@@ -1,0 +1,11 @@
+PMID: 32957316
+Title: Decompression with fusion versus decompression in the treatment of lumbar spinal stenosis: A systematic review and meta-analysis.
+
+Abstract: OBJECTIVE: The goal of this study was to review relevant studies in order to determine the efficacy of decompression with fusion versus decompression in the treatment of lumbar spinal stenosis.
+METHODS: Using appropriate keywords, we identified relevant studies using PubMed, the Cochrane library, and Embase. Key pertinent sources in the literature were also reviewed, and all articles published through October 2019 were considered for inclusion. For each study, we used odds ratios, mean difference (MD), and 95% confidence interval (95% CI) to assess and synthesize outcomes.
+RESULTS: We found 13 studies that were consistent with this meta-analysis with a total of 29066 patients. Compared with decompression, decompression with fusion significantly increased the incidence of complications (RR: 1.41, 95%CI: 1.26-1.57), the length of hospital stay (WMD: 1.868, 95%CI: 1.394-2.343), operative time (WMD: 80.399, 95%CI: 44.397-116.401), estimated blood loss (WMD: 309.356, 95%CI: 98.008-520.704) and Zurich claudication questionnaire in symptom severity (WMD: 0.200, 95%CI: 0.006-0.394). The reoperation rate was lower in the decompression with fusion group than the decompression group but without significant difference (RR: 0.91, 95%CI: 0.82-1.00). There was no significant difference between 2 groups in visual analog scale (leg pain and back pain), ODI, Short Form 36 Health Survey physical component summary, Short Form 36 Health Survey mental component summary, and Zurich claudication questionnaire physical function.
+CONCLUSION: Decompression with fusion has no significant clinical advantages in treatment of lumbar spinal stenosis when compared with decompression.
+
+Citation: Chen B, et al. Decompression with fusion versus decompression in the treatment of lumbar spinal stenosis: A systematic review and meta-analysis. Decompression with fusion versus decompression in the treatment of lumbar spinal stenosis: A systematic review and meta-analysis. 2020; 99:e21973. doi: 10.1097/MD.0000000000021973
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32957316/

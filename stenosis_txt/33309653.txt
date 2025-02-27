@@ -1,0 +1,11 @@
+PMID: 33309653
+Title: Impact of topical budesonide on prevention of esophageal stricture after mucosal resection.
+
+Abstract: BACKGROUND AND AIMS: EMR and endoscopic submucosal dissection (ESD) are treatment modalities for Barrett's esophagus involving high-grade dysplasia or early cancer. Injectional corticosteroid therapy decreases the risk of procedure-related esophageal stricture (ES) formation. Our aim was to assess the efficacy of topical budesonide on the rate of ES formation after EMR or ESD.
+METHODS: Patients included prospectively from 3 tertiary endoscopy centers received 3 mg budesonide orally twice a day for 8 weeks after esophageal EMR or ESD of 50% or more of the esophageal circumference between January 1, 2014 and June 30, 2018. These patients were matched (1:3 ratio) retrospectively with a consecutive patient cohort who underwent EMR or ESD of 50% or more of the esophageal circumference without concomitant corticosteroid therapy. The primary endpoint was the presence of ES at the 12-week follow-up.
+RESULTS: Twenty-five patients (budesonide) were matched with 75 patients (no budesonide). Most underwent EMR for Barrett's esophagus with biopsy-proven high-grade dysplasia or suspected T1a cancer. Although most baseline characteristics did not differ significantly, patients in the budesonide cohort tended to have a higher proportion of circumferential EMR. The proportion of patients with ES was not significantly lower in the budesonide cohort (16% vs 28%). On logistic regression analysis, budesonide remained associated with a lower incidence of ES (P = .023); however, when controlling for baseline characteristics with a propensity score weighted logistic regression model, there was no significant effect on ES formation (P = .176).
+CONCLUSIONS: Topical budesonide might be associated with a reduction of ES after EMR or ESD; however, further studies are needed to verify our results.
+
+Citation: Bartel MJ, et al. Impact of topical budesonide on prevention of esophageal stricture after mucosal resection. Impact of topical budesonide on prevention of esophageal stricture after mucosal resection. 2021; 93:1276-1282. doi: 10.1016/j.gie.2020.11.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33309653/

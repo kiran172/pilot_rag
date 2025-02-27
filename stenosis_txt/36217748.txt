@@ -1,0 +1,11 @@
+PMID: 36217748
+Title: Monitored Anesthesia Care Versus General Anesthesia for Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVE: Monitored anesthesia care (MAC) has been increasingly used in lieu of general anesthesia (GA) for transcatheter aortic valve replacement (TAVR). We sought to compare outcomes and in-hospital costs between MAC and GA for TAVR at a Veterans Affairs Medical Center.
+METHODS: A single-center retrospective review was performed of 349 patients who underwent transfemoral TAVR (MAC, n = 244 vs GA, n = 105) from January 2014 to December 2019. Baseline patient characteristics, operating room (OR) time, intensive care unit (ICU) length of stay (LOS), and cost, total LOS, hospital cost, total cost, and complication rates were collected. Propensity matching was performed and resulted in 83 matched pairs.
+RESULTS: In the unmatched TAVR cohort, MAC TAVR was associated with reduced OR time (146 vs 198 min, P &lt; 0.001), ICU LOS (1.4 vs 1.8 days, P &lt; 0.001), total hospital LOS (3.4 vs 5.4 days, P &lt; 0.001), and lower index total cost ($81,300 vs $85,400, P = 0.010). After propensity matching, MAC TAVR patients had reduced OR time (146 vs 196 min, P &lt; 0.05), ICU LOS (1.2 vs 1.7 days, P = 0.006), total LOS (3.5 vs 5.1 days, P = 0.001), and 180-day mortality (2.4% vs 12%, P &lt; 0.03). There was no difference in total hospitalization cost or total cost.
+CONCLUSIONS: In propensity-matched groups, TAVR utilizing MAC is associated with improved OR time efficiency, decreased LOS, and a reduction in 180-day mortality but no significant difference in cost.
+
+Citation: Holmes HR, et al. Monitored Anesthesia Care Versus General Anesthesia for Transcatheter Aortic Valve Replacement. Monitored Anesthesia Care Versus General Anesthesia for Transcatheter Aortic Valve Replacement. 2022; 17:401-408. doi: 10.1177/15569845221124113
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36217748/

@@ -1,0 +1,11 @@
+PMID: 31563656
+Title: Duplex Criteria for Grading of External Carotid Stenosis.
+
+Abstract: BACKGROUND: External carotid artery (ECA) stenosis is an independent mortality predictor. Additionally, concomitant ECA and internal carotid artery (ICA) stenosis progression has been associated with an increased risk of ipsilateral ischemic events in asymptomatic patients. Universally accepted ECA duplex velocity criteria, for the prediction of stenosis, do not exist.
+METHODS: Consecutive patients undergoing angiography and carotid duplex assessments were compared (n = 140). ICA, common carotid artery (CCA), and ECA peak systolic velocities (PSVs) were recorded. ECA/CCA PSV ratio was calculated. These parameters were compared with angiographic ECA measurements. Receiver-operator curve analysis was used to determine optimal criteria in identifying ECA stenosis of >50%.
+RESULTS: In patients with little ipsilateral ICA disease, for the detection of ECA stenosis of ≥50%, an ECA PSV >148 cm/sec provided a sensitivity of 80%, specificity of 76.2%, and an overall accuracy of 77.1%. An ECA/CCA PSV ratio of 1.45 demonstrated a sensitivity of 73.7%, specificity of 66.7%, and an accuracy of 68.2%.In patients with ICA stenosis ≥50%, for the detection of ECA stenosis of ≥50%, an ECA PSV >179 cm/sec provided a sensitivity of 50%, specificity of 79.6%, and overall accuracy of 71.3%. An ECA/CCA PSV ratio of ≥1.89 provided a sensitivity of 71.9%, specificity of 72.7%, and overall accuracy of 72.5%.
+CONCLUSIONS: ECA PSV and ECA/CCA PSV ratios appear as useful metrics for the prediction of unilateral high-grade ECA stenosis.
+
+Citation: Shmelev A, et al. Duplex Criteria for Grading of External Carotid Stenosis. Duplex Criteria for Grading of External Carotid Stenosis. 2020; 63:319-324. doi: 10.1016/j.avsg.2019.07.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31563656/

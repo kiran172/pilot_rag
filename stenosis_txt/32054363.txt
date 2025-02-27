@@ -1,0 +1,11 @@
+PMID: 32054363
+Title: Salusin-β is superior to salusin-α as a marker for evaluating coronary atherosclerosis.
+
+Abstract: OBJECTIVE: This study was performed to evaluate the interaction effect of salusin-α and salusin-β on coronary artery injury or stenosis.
+METHODS: The salusin-α and salusin-β concentrations were measured by enzyme-linked immunosorbent assay in 256 patients who underwent coronary angiography for chest pain, and coronary artery stenosis was assessed by the SYNTAX scoring system. Multivariate logistic regression was used to analyze the correlation between variables and coronary artery stenosis. The interaction of salusin-α and salusin-β on coronary artery stenosis was further explored by multiple linear regression.
+RESULTS: The model goodness of fit (R) for the interaction effect of salusin-α and salusin-β on coronary artery stenosis was 0.863, and the adjusted R value revealed that the interaction could explain 74.3% of the variation in SYNTAX scores. The F-statistic exceeded F<sub>0.05</sub> (3.031485935) and P &lt; 0.001, further showing that salusin-α and salusin-β had a significant interaction effect on coronary artery stenosis. The standard coefficient for salusin-β (0.797) was higher than that for salusin-α (−0.367, indicating an inhibitory effect), showing that salusin-β had a greater effect on coronary artery stenosis.
+CONCLUSIONS: Salusin-β, a potential marker for assessing coronary atherosclerosis, was superior to salusin-α, contributing to our understanding of the etiology of coronary artery stenosis.
+
+Citation: Wang Y, et al. Salusin-β is superior to salusin-α as a marker for evaluating coronary atherosclerosis. Salusin-β is superior to salusin-α as a marker for evaluating coronary atherosclerosis. 2020; 48:300060520903868. doi: 10.1177/0300060520903868
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32054363/

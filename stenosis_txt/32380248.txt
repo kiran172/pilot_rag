@@ -1,0 +1,10 @@
+PMID: 32380248
+Title: 3D-printed stenotic aortic valve model to simulate physiology before, during, and after transcatheter aortic valve implantation.
+
+Abstract: AIMS: Pressure loss versus transvalvular flow analysis challenges physiologic models of current aortic valve stenosis. New conceptual frameworks are needed to explain these real-world observations.
+METHODS AND RESULTS: A patient-specific, 3D-printed, silicon model of a stenotic valve was placed inside an in-vitro haemodynamic model of the circulatory system. Instantaneous pressure and flow in the aorta and left ventricle were simulated according to measured patient specific parameters. Thereafter, a realistic transcatheter aortic valve was implanted (TAVI) in the model. Simulated post-TAVI mean pressure gradients resembled patient observations (3.7 ± 0.7 mmHg vs 6.7 ± 2.3 mmHg), but pre-TAVI measurements underestimated the pressure gradient (35.1 ± 0.6 mmHg vs 45.3 ± 1.5 mmHg).
+CONCLUSION: Patient-specific 3D-printed stenotic aortic valve models could simulate baseline haemodynamics. A TAVI procedure was successfully performed on the 3D silicone rubber valve in a physiologic in-vitro model. Pre-TAVI haemodynamics in the model underestimated in-patient mean pressure gradient, whereas post TAVI pressure gradient was predicted correctly with the TAVI valve inside the 3D printed model. This study shows that these types of models could be used to study AS hemodynamics with the TAVI valve inside the 3D printed model. Improvements in the 3D-printed model, like addition of calcification and fine-tuning of the haemodynamic model, could further enhance accuracy of the simulation.
+
+Citation: Zelis JM, et al. 3D-printed stenotic aortic valve model to simulate physiology before, during, and after transcatheter aortic valve implantation. 3D-printed stenotic aortic valve model to simulate physiology before, during, and after transcatheter aortic valve implantation. 2020; 313:32-34. doi: 10.1016/j.ijcard.2020.04.087
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32380248/

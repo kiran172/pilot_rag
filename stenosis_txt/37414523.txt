@@ -1,0 +1,11 @@
+PMID: 37414523
+Title: Predictors and outcomes of pacemaker implantation in patients with cardiac amyloidosis.
+
+Abstract: OBJECTIVE: We sought to investigate prevalence, incidence and prognostic implications of permanent pacemaker (PPM) implantation in patients with cardiac amyloidosis (CA), thereby identifying the predictors of time to PPM implantation.
+METHODS: Seven hundred eighty-seven patients with CA (602 men, median age 74 years, 571 transthyretin amyloidosis (ATTR), 216 light-chain amyloidosis (AL)) evaluated at two European referral centres were retrospectively included. Clinical, laboratory and instrumental data were analysed. The associations between PPM implantation and mortality, heart failure (HF) or a composite endpoint of mortality, cardiac transplantation and HF were analysed.
+RESULTS: 81 (10.3%) patients had a PPM before initial evaluation. Over a median follow-up time of 21.7 months (IQR 9.6-45.2), 81 (10.3%) additional patients (18 with AL (22.2%) and 63 with ATTR (77.8%)) underwent PPM implantation with a median time to implantation of 15.6 months (IQR 4.2-40), complete atrioventricular block was the most common indication (49.4%). Independent predictors of PPM implantation were QRS duration (HR 1.03, 95% CI 1.02 to 1.03, p<0.001) and interventricular septum (IVS) thickness (HR 1.1, 95% CI 1.03 to 1.17, p=0.003). The model to estimate the probability of PPM at 12 months and containing both factors showed a C-statistic of 0.71 and a calibration of slope of 0.98.
+CONCLUSIONS: Conduction system disease requiring PPM is a common complication in CA that affects up to 20.6% of patients. QRS duration and IVS thickness are independently associated with PPM implantation. A PPM implantation at 12 months model was devised and validated to identify patients with CA at higher risk of requiring a PPM and who require closer follow-up.
+
+Citation: Saturi G, et al. Predictors and outcomes of pacemaker implantation in patients with cardiac amyloidosis. Predictors and outcomes of pacemaker implantation in patients with cardiac amyloidosis. 2023; 110:40-48. doi: 10.1136/heartjnl-2022-322315
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37414523/

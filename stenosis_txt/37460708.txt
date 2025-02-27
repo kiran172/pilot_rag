@@ -1,0 +1,12 @@
+PMID: 37460708
+Title: Establishment and identification of an animal model of Hirschsprung disease in suckling mice.
+
+Abstract: BACKGROUND: Hirschsprung disease (HSCR) is a congenital intestinal malformation. Previous HSCR animal model needs invasive operation on adult animal. The aim of this study is to establish an early-onset animal model which is consistent with the clinical manifestation of HSCR patients.
+METHODS: The neonatal mice were randomly divided into the benzalkonium chloride (BAC) group, treated with BAC via enema, and the control group, treated with saline. Weight changes, excretion time of carmine, CT scan, hematoxylin-eosin staining and immunofluorescence staining were used to evaluate the effect of the model. Differentially expressed genes (DEGs) in the HSCR mice were analyzed by using DAVID 6.8 database and compared with DEGs from HSCR patients.
+RESULTS: The weight of mice was lower and the excretion time of carmine was longer in the BAC group. Moreover, distal colon stenosis and proximal colon enlargement appeared in the BAC group. Neurons in the distal colon decreased significantly after 4 weeks of BAC treatment and almost disappeared completely after 12 weeks. Transcriptome profiling of the mouse model and HSCR patients is similar in terms of altered gene expression.
+CONCLUSIONS: An economical and reliable HSCR animal model which has similar clinical characteristics to HSCR patients was successfully established.
+IMPACT: The animal model of Hirschsprung disease was first established in BALB/c mice. This model is an animal model of early-onset HSCR that is easy to operate and consistent with clinical manifestations. Transcriptome profiling of the mouse model and HSCR patients is similar in terms of altered gene expression.
+
+Citation: Lan C, et al. Establishment and identification of an animal model of Hirschsprung disease in suckling mice. Establishment and identification of an animal model of Hirschsprung disease in suckling mice. 2023; 94:1935-1941. doi: 10.1038/s41390-023-02728-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37460708/

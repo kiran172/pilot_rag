@@ -1,0 +1,11 @@
+PMID: 34475016
+Title: Prognostic value of myocardial perfusion imaging after first-line coronary computed tomography angiography: A multi-center cohort study.
+
+Abstract: PURPOSE: Further diagnostic testing may be required after a coronary computed tomography angiography (CTA) showing suspected coronary stenosis. Whether myocardial perfusion imaging (MPI) provides further prognostic information post-CTA remains debated. We evaluated the prognosis for patients completing CTA stratified for post-CTA diagnostic work-up using real-world data.
+METHODS: We identified all patients in our uptake area with angina symptoms undergoing first-time CTA over a 10-year period. Follow-up time was a median of 3.7 years [1.9-5.8]. The primary endpoint was a composite of myocardial infarction or death. The secondary endpoint was late revascularization.
+RESULTS: During the study period 53,351 patients underwent CTA. Of these, 24% were referred for further down-stream testing, 3,547 (7%) to MPI and 9,135 (17%) to invasive coronary angiography (ICA). The primary and secondary endpoints occurred in 2,026 (3.8%) and 954 (1.8%) patients. Patient-characteristic-adjusted hazard ratios for the primary and secondary endpoint using patients with a normal CTA as reference were 1.37 (1.21-1.55) and 2.50 (1.93-3.23) for patient treated medically, 1.68 (1.39-2.03) and 6.13 (4.58-8.21) for patients referred to MPI and 1.94 (1.69-2.23) and 9.18 (7.16-11.78) for patients referred for ICA, respectively. Adjusted analysis with stratification for disease severity at CTA showed similar hazard ratios for patients treated medically after CTA and patients referred for MPI and treated medically after the MPI.
+CONCLUSION: In patients completing coronary CTA, second-line MPI testing seems to identify patients at low risk of future events. MPI seems to have the potential to act as gatekeeper for ICA after coronary CTA.
+
+Citation: Winther S, et al. Prognostic value of myocardial perfusion imaging after first-line coronary computed tomography angiography: A multi-center cohort study. Prognostic value of myocardial perfusion imaging after first-line coronary computed tomography angiography: A multi-center cohort study. 2022; 16:34-40. doi: 10.1016/j.jcct.2021.08.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34475016/

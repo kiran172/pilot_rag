@@ -1,0 +1,11 @@
+PMID: 38178334
+Title: Correlation between Mean Platelet Volume and Gensini Score in Patients with Coronary Heart Disease in Different Diabetic States.
+
+Abstract: SUBJECT: To investigate the correlation between mean platelet volume (MPV) levels and Gensini scores in stable coronary heart disease (CHD) patients with or without diabetes.
+METHODS: A retrospective analysis was conducted on 2525 patients with stable CHD in Zhongshan Hospital, Fudan University. There were 1274 in the low MPV group and 1251 in the high MPV group, divided by a median MPV level of 10.9 fL. In the total population, 1605 patients were non-diabetic and 920 were diabetic. The severity of coronary artery disease was quantified using the Gensini score.
+RESULTS: The Gensini score was significantly higher in the high MPV group than in the low MPV group (p < 0.001). MPV levels increased significantly with the number of stenotic (>50%) coronary vessels (p < 0.001). The Spearman analysis showed a positive correlation between MPV and Gensini score (r = 0.189, p < 0.001), which was more significant in the diabetic subgroup (r = 0.232, p < 0.001). Receiver operating characteristic (ROC) curves were employed to assess the predictive value of MPV for high Gensini scores, using the median value of 32 points as the cutoff. MPV levels in the diabetes cohort exhibited a higher predictive value for high Gensini scores (area under the curve: 0.635 [0.614-0.657], p < 0.001). Multivariate linear regression analysis showed that diabetes and MPV were independently associated with Gensini scores.
+CONCLUSION: MPV levels in stable CHD patients can predict the severity of coronary artery stenosis. This correlation is more significant in the presence of diabetes.
+
+Citation: Qiu Q, et al. Correlation between Mean Platelet Volume and Gensini Score in Patients with Coronary Heart Disease in Different Diabetic States. Correlation between Mean Platelet Volume and Gensini Score in Patients with Coronary Heart Disease in Different Diabetic States. 2023; 26:E680-E686. doi: 10.59958/hsf.6937
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38178334/

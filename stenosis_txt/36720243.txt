@@ -1,0 +1,11 @@
+PMID: 36720243
+Title: Validity and Diagnostic Performance of Computing Fractional Flow Reserve From 2-Dimensional Coronary Angiography Images.
+
+Abstract: BACKGROUND: Measurement of fractional flow reserve (FFR) is the gold standard for determining the physiologic significance of coronary artery stenosis, but newer software programs can calculate the FFR from 2-dimensional angiography images.
+METHODS: A retrospective analysis was conducted using the records of patients with intermediate coronary stenoses who had undergone adenosine FFR (aFFR). To calculate the computed FFR, a software program used simulated coronary blood flow using computational geometry constructed using at least 2 patient-specific angiographic images. Two cardiologists reviewed the angiograms and determined the computational FFR independently. Intraobserver variability was measured using κ analysis and the intraclass correlation coefficient. The correlation coefficient and Bland-Altman plots were used to assess the agreement between the calculated FFR and the aFFR.
+RESULTS: A total of 146 patients were included, with 95 men and 51 women, with a mean (SD) age of 61.1 (9.5) y. The mean (SD) aFFR was 0.847 (0.072), and 41 patients (27.0%) had an aFFR of 0.80 or less. There was a strong intraobserver correlation between the computational FFRs (r = 0.808; P < .001; κ = 0.806; P < .001). There was also a strong correlation between aFFR and computational FFR (r = 0.820; P < .001) and good agreement on the Bland-Altman plot. The computational FFR had a high sensitivity (95.1%) and specificity (90.1%) for detecting an aFFR of 0.80 or less.
+CONCLUSION: A novel software program provides a feasible method of calculating FFR from coronary angiography images without resorting to pharmacologically induced hyperemia.
+
+Citation: Mohammadi V, et al. Validity and Diagnostic Performance of Computing Fractional Flow Reserve From 2-Dimensional Coronary Angiography Images. Validity and Diagnostic Performance of Computing Fractional Flow Reserve From 2-Dimensional Coronary Angiography Images. 2023; 50:(unknown pages). doi: 10.14503/THIJ-20-7410
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36720243/

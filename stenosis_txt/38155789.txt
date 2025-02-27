@@ -1,0 +1,12 @@
+PMID: 38155789
+Title: Feasibility and Outcome of Transjugular Intracardiac Echocardiography-Guided Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: There are limited data on the impact of intracardiac echocardiography (ICE)-guided transcatheter aortic valve replacement (TAVR) on the new permanent pacemaker implantation (PPMI) rate.
+OBJECTIVES: This study investigated the feasibility and outcome of transjugular ICE (TJ-ICE) -guided TAVR, by visualizing the relationship between the membranous septum (MS) and the transcatheter aortic valve (TAV).
+METHODS: Among patients with severe aortic stenosis who underwent TAVR between February 2017 and June 2020, this study enrolled a total of 163 patients with TJ-ICE-guided TAVR. MS length was measured by ICE. The primary endpoint of this study was the incidence of new PPMI at 30 days.
+RESULTS: The mean age of the patients in this study was 84.9 ± 4.6 years, and 71.2% of the patients were female. Device success was 96.3% with TJ-ICE guidance. A TJ-ICE-related complication occurred in 1 case (0.6%). The median length of the MS was 5.8 mm (IQR: 5.0-6.9 mm). Excellent intraobserver (intraclass correlation coefficient [ICC]: 0.94; 95% CI:0.79-0.98; P &lt; 0.001) and interobserver (ICC: 0.93; 95% CI: -0.05 to 0.98; P &lt; 0.001) agreements were shown. The new PPMI rate was 6.7% at 30 days without a significant difference between balloon-expandable valves and self-expandable valves (3.4% vs 8.7%; P = 0.226). Patients with a TAV implantation depth less than MS length had a significantly lower incidence of new PPMI compared with patients with a TAV implantation depth greater than MS length (2.1% vs 13.4%; P = 0.005), regardless of baseline right bundle branch block presence (6.7% vs 66.7%; P = 0.004) or absence (1.2% vs 8.2%; P = 0.041).
+CONCLUSIONS: TJ-ICE-guided TAVR demonstrated remarkable feasibility and safety. The TJ-ICE-guided final TAV position had a significant impact on the new PPMI rate. (Tokai Valve Registry; UMIN000036671).
+
+Citation: Murakami T, et al. Feasibility and Outcome of Transjugular Intracardiac Echocardiography-Guided Transcatheter Aortic Valve Replacement. Feasibility and Outcome of Transjugular Intracardiac Echocardiography-Guided Transcatheter Aortic Valve Replacement. 2023; 3:925-934. doi: 10.1016/j.jacasi.2023.07.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38155789/

@@ -1,0 +1,12 @@
+PMID: 35798401
+Title: Clinical Validation of a Virtual Planner for Coronary Interventions Based on Coronary CT Angiography.
+
+Abstract: BACKGROUND: Low fractional flow reserve (FFR) values after percutaneous coronary intervention (PCI) carry a worse prognosis than high post-PCI FFR values. Therefore, the ability to predict post-PCI FFR might play an important role in procedural planning. Post-PCI FFR values can now be computed from pre-PCI coronary computed tomography angiography (CTA) using the fractional flow reserve derived from coronary computed tomography angiography revascularization planner (FFR<sub>CT</sub> Planner).
+OBJECTIVES: The aim of this study was to validate the accuracy of the FFR<sub>CT</sub> Planner.
+METHODS: In this multicenter, investigator-initiated, prospective study, patients with chronic coronary syndromes and significant lesions based on invasive FFR ≤0.80 were recruited. The FFR<sub>CT</sub> Planner was applied to the fractional flow reserve derived from coronary computed tomography angiography (FFR<sub>CT</sub>) model, simulating PCI. The primary objective was the agreement between the predicted post-PCI FFR by the FFR<sub>CT</sub> Planner and measured post-PCI FFR. Accuracy of the FFR<sub>CT</sub> Planner's luminal dimensions was assessed by using post-PCI optical coherence tomography as the reference.
+RESULTS: Overall, 259 patients were screened, with 120 patients (123 vessels) included in the final analysis. The mean patient age was 64 ± 9 years, and 24% had diabetes. Measured FFR post-PCI was 0.88 ± 0.06, and the FFR<sub>CT</sub> Planner FFR was 0.86 ± 0.06 (mean difference: 0.02 ± 0.07 FFR unit; limits of agreement: -0.12 to 0.15). Optical coherence tomography minimal stent area was 5.60 ± 2.01 mm2, and FFR<sub>CT</sub> Planner minimal stent area was 5.0 ± 2.2 mm2 (mean difference: 0.66 ± 1.21 mm2; limits of agreement: -1.7 to 3.0). The accuracy and precision of the FFR<sub>CT</sub> Planner remained high in cases with focal and diffuse disease and with low and high calcium burden.
+CONCLUSIONS: The FFR<sub>CT</sub>-based technology was accurate and precise for predicting FFR after PCI. (Precise Percutaneous Coronary Intervention Plan Study [P3]; NCT03782688).
+
+Citation: Sonck J, et al. Clinical Validation of a Virtual Planner for Coronary Interventions Based on Coronary CT Angiography. Clinical Validation of a Virtual Planner for Coronary Interventions Based on Coronary CT Angiography. 2022; 15:1242-1255. doi: 10.1016/j.jcmg.2022.02.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35798401/

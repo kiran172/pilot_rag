@@ -1,0 +1,12 @@
+PMID: 37102306
+Title: Mapping Genetic Susceptibility to Stenosis in the Proximal Airway.
+
+Abstract: OBJECTIVES: Recent translational scientific efforts in subglottic stenosis (SGS) support a disease model where epithelial alterations facilitate microbiome displacement, dysregulated immune activation, and localized fibrosis. Yet despite recent advances, the genetic basis of SGS remains poorly understood. We sought to identify candidate risk genes associated with an SGS phenotype, investigate their biological function, and identify the cell types enriched for their expression.
+METHODS: The Online Mendelian Inheritance in Man (OMIM) database was queried for single gene variants associated with an SGS phenotype. The functional intersections and molecular roles of the identified genes were explored using pathway enrichment analysis (PEA) computational methods. Cellular localization of the candidate risk genes was measured via transcriptional quantification in an established single cell RNA sequencing (scRNA-seq) atlas of the proximal airway.
+RESULTS: Twenty genes associated with SGS phenotype were identified. PEA resulted in 24 significantly enriched terms including "cellular response to TGF-β," "epithelial-to-mesenchymal transition," and "adherens junctions." Mapping the 20 candidate risk genes to the scRNA-seq atlas found 3 (15%) genes were enriched in epithelial cells, 3 (15%) in fibroblasts, and 3 (15%) in endothelial cells. 11 (55%) genes were expressed ubiquitously among tissue types. Interestingly, immune cells were not significantly enriched for candidate risk genes.
+CONCLUSION: We identify and provide biologic context for 20 genes associated with fibrotic disease of the proximal airway and form the foundation for future detailed genetic study.
+LEVEL OF EVIDENCE: N/A Laryngoscope, 133:3049-3056, 2023.
+
+Citation: Sharif K, et al. Mapping Genetic Susceptibility to Stenosis in the Proximal Airway. Mapping Genetic Susceptibility to Stenosis in the Proximal Airway. 2023; 133:3049-3056. doi: 10.1002/lary.30718
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37102306/

@@ -1,0 +1,11 @@
+PMID: 38535095
+Title: Exploring the Correlation between Systemic Inflammatory Markers and Carotid Atherosclerosis Indices in Middle-Aged Adults: A Cross-Sectional Study.
+
+Abstract: BACKGROUND: This study investigated the association between atherosclerosis and systemic inflammation markers, specifically the C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), neutrophil-to-lymphocyte ratio (NLR), and platelet-to-lymphocyte ratio (PLR), in healthy middle-aged adults.
+METHODS: A retrospective cross-sectional study was conducted on a total of 1264 Korean adults aged 40-65. We assessed these inflammatory markers and carotid metrics, such as carotid intima-media thickness (cIMT), plaque number (PN), plaque stenosis score (PSS), and plaque score (PS), using linear regression, logistic regression, and receiver operating characteristic analysis.
+RESULTS: In males, the ESR and CRP were significantly correlated with the PN (p &lt; 0.001 and p = 0.048, respectively). The ESR was correlated with the PN in females (p = 0.004). The NLR and PLR both correlated with the PS in males (p &lt; 0.001 and p = 0.015, respectively) and females (p = 0.015 and p = 0.023, respectively). The odds ratio for the NLR as a risk factor for increased cIMT was 1.15 (95% confidence interval [CI], 1.03-2.15) for males and 1.05 (95% CI, 1.01-1.29) for females. The AUC for the NLR and PLR as a predictor for the PS showed significance in both men and women.
+CONCLUSIONS: Inflammatory markers, particularly the NLR and PLR, demonstrate a correlation with carotid atherosclerosis. Both the NLR and PLR hold potential as valuable surrogate markers for carotid atherosclerosis. To further substantiate their predictive efficacy, further prospective studies are needed.
+
+Citation: Song JE, et al. Exploring the Correlation between Systemic Inflammatory Markers and Carotid Atherosclerosis Indices in Middle-Aged Adults: A Cross-Sectional Study. Exploring the Correlation between Systemic Inflammatory Markers and Carotid Atherosclerosis Indices in Middle-Aged Adults: A Cross-Sectional Study. 2024; 11:(unknown pages). doi: 10.3390/jcdd11030073
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38535095/

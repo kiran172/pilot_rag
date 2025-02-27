@@ -1,0 +1,12 @@
+PMID: 34542063
+Title: Antibody array-based proteomic screening of novel biomarkers in malignant biliary stricture.
+
+Abstract: BACKGROUND: Distinguishing between benign and malignant bile duct strictures has long been a diagnostic challenge in clinical practice.
+OBJECTIVE: This study aimed to discover novel biomarkers in bile to improve the diagnostic accuracy of malignant biliary strictures.
+METHODS: Bile samples were collected from 6 patients with malignant or benign biliary stricture, respectively. Protein profiles of the bile were analyzed with a semi-quantitative human antibody array of 440 proteins. Then the differential expressed proteins were screened by Venn diagram analysis. Following this, the accuracy of these potential biomarkers for discriminating between malignant and non-malignant biliary strictures was validated in a larger (n= 40) group of patients using ROC analysis and the best biomarker combination was further selected by lasso analysis.
+RESULTS: Twenty proteins were found differentially expressed in malignant versus benign biliary strictures, 6 of which were identified by Venn diagram analysis to be up-regulated regardless of the location of biliary strictures. Among the 6 biomarkers, bile lipocalin-2, P-cadherin, and adipsin showed better diagnostic utility than that of bile CA19-9. Lasso analysis identified that lipocalin-2, P-cadherin and CA19-9 as a group of makers best distinguished malignant from benign strictures.
+CONCLUSIONS: Lipocalin-2 and P-cadherin measurements in bile could be clinically useful for the detection of malignant biliary strictures.
+
+Citation: Qin WH, et al. Antibody array-based proteomic screening of novel biomarkers in malignant biliary stricture. Antibody array-based proteomic screening of novel biomarkers in malignant biliary stricture. 2022; 33:359-368. doi: 10.3233/CBM-210095
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34542063/

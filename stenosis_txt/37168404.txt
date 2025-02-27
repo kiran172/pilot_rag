@@ -1,0 +1,13 @@
+PMID: 37168404
+Title: Early transmural healing and its predictors assessed by magnetic resonance enterography in patients with Crohn's disease receiving ustekinumab.
+
+Abstract: BACKGROUND: Transmural healing (TH) is a potential therapeutic goal of Crohn's disease (CD) and is associated with better clinical outcomes. However, few studies have described early TH and its predictors.
+OBJECTIVES: We aimed to evaluate early TH and its predictors using magnetic resonance enterography (MRE) in patients with CD receiving ustekinumab (UST).
+DESIGN: This was a retrospective observational study.
+METHODS: Patients with active CD treated with UST and their intestinal segments with bowel wall thickness (BWT) ⩽ 3 mm at baseline were included. Clinical characteristics, laboratory indicators, endoscopic manifestations, and MRE indices were evaluated at baseline and week 26 (W26) of the therapy. The following MRE parameters were assessed: BWT, edema, apparent diffusion coefficient (ADC), Clermont score, Magnetic Resonance Index of Activity score, fat stranding, comb sign, and stricture. TH was defined as BWT ⩽ 3 mm without any signs of inflammation (i.e., ulceration, edema, diffusion-weighted hyperintensity, and increased contrast enhancement) at W26.
+RESULTS: The study included 37 patients with 106 intestinal segments (including 15 proximal small intestines, 33 terminal ilea, and 58 colons). Clinical features, laboratory indicators, endoscopic results, and MRE parameters at W26 were significantly improved after UST treatment in both patient-based and intestinal segment-based analysis. Seven (18.9%) patients and 26 (24.5%) intestinal segments achieved TH at W26. Baseline BWT [odds ratio (OR) = 0.287, 95% confidence interval (CI), 0.090-0.918, p = 0.035] and ADC (OR = 2.997, 95% CI, 1.009-8.908, p = 0.048) predict TH of patients at W26. Baseline ADC (OR = 2.857, 95% CI, 1.285-6.349, p = 0.010) and presence of stenosis (OR = 0.196, 95% CI, 0.052-0.735, p = 0.016) were associated with TH of segments at W26.
+CONCLUSION: Early TH assessed by MRE was observed in nearly one-fifth of patients with CD and intestinal segments after UST treatment for 26 weeks. Baseline MRE indices such as BWT and presence of stenosis might negatively predict TH, while ADC might positively predict early TH.
+
+Citation: Zhou L, et al. Early transmural healing and its predictors assessed by magnetic resonance enterography in patients with Crohn's disease receiving ustekinumab. Early transmural healing and its predictors assessed by magnetic resonance enterography in patients with Crohn's disease receiving ustekinumab. 2023; 16:17562848231170947. doi: 10.1177/17562848231170947
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37168404/

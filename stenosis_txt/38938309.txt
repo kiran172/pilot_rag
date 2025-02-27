@@ -1,0 +1,12 @@
+PMID: 38938309
+Title: Prognostic Implications of Discordant Low-Gradient Severe Aortic Stenosis: Comprehensive Analysis of a Large Multicenter Registry.
+
+Abstract: BACKGROUND: Up to 30% of patients with severe aortic stenosis (SAS) (indexed aortic valve area [AVAi] &lt;0.6 cm2/m2) exhibit low-transvalvular gradient despite normal ejection fraction. There is intense debate regarding the prognostic significance of this entity.
+OBJECTIVES: The purpose of this study was to compare the outcome of patients with discordant low-gradient SAS (DLG-SAS) vs moderate aortic stenosis (MAS) and high-gradient SAS (HG-SAS).
+METHODS: We used the BEL-F-ASt (Belgium-France-Aortic Stenosis) registry including consecutive patients with AS. Survival was compared overall and after matching (inverse probability weighting and propensity-score matching) for clinical and imaging variables. The analysis was first performed in the overall population (n = 2,582) and then in the population of unoperated patients (n = 1,812).
+RESULTS: After-inverse probability weighting-matching, the 3 groups were balanced. Five-year survival was better in MAS than in DLG-SAS and HG-SAS-patients (58.9% vs 47% vs 41.2%, P &lt; 0.001). Similar results were obtained in unoperated patients (54.1% vs 37.9% vs 28.1%, P &lt; 0.001). To explore the impact of MG (≤40 vs &gt;40 mmHg) and AVAi (&lt;0.6 vs ≥0.6 cm2/m2) on outcomes, survival of propensity score-matched cohorts of HG-vs DLG-SAS and MAS vs DLG-SAS were compared. After matching for MG, survival was better in MAS than in DLG-SAS (52% vs 40%, P &lt; 0.001). After matching for AVAi, survival was better in DLG-SAS than in HG-SAS patients (45% vs 33%, P &lt; 0.001).
+CONCLUSIONS: Survival of DLG-SAS is better than that of HG-SAS and worse than that of MAS patients. At comparable MG, the lower the AVAi, the worse the prognosis, whereas at comparable AVAi, the higher the MG, the worse the prognosis. These data argue that DLG-SAS is an intermediate form in the disease continuum.
+
+Citation: De Azevedo D, et al. Prognostic Implications of Discordant Low-Gradient Severe Aortic Stenosis: Comprehensive Analysis of a Large Multicenter Registry. Prognostic Implications of Discordant Low-Gradient Severe Aortic Stenosis: Comprehensive Analysis of a Large Multicenter Registry. 2023; 2:100254. doi: 10.1016/j.jacadv.2023.100254
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38938309/

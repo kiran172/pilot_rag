@@ -1,0 +1,11 @@
+PMID: 35364584
+Title: Differentiation of lumbar disc herniation and lumbar spinal stenosis using natural language processing-based machine learning based on positive symptoms.
+
+Abstract: OBJECTIVE: The purpose of this study was to develop natural language processing (NLP)-based machine learning algorithms to automatically differentiate lumbar disc herniation (LDH) and lumbar spinal stenosis (LSS) based on positive symptoms in free-text admission notes. The secondary purpose was to compare the performance of the deep learning algorithm with the ensemble model on the current task.
+METHODS: In total, 1921 patients whose principal diagnosis was LDH or LSS between June 2013 and June 2020 at Zhongda Hospital, affiliated with Southeast University, were retrospectively analyzed. The data set was randomly divided into a training set and testing set at a 7:3 ratio. Long Short-Term Memory (LSTM) and extreme gradient boosting (XGBoost) models were developed in this study. NLP algorithms were assessed on the testing set by the following metrics: receiver operating characteristic (ROC) curve, area under the curve (AUC), accuracy score, recall score, F1 score, and precision score.
+RESULTS: In the testing set, the LSTM model achieved an AUC of 0.8487, accuracy score of 0.7818, recall score of 0.9045, F1 score of 0.8108, and precision score of 0.7347. In comparison, the XGBoost model achieved an AUC of 0.7565, accuracy score of 0.6961, recall score of 0.7387, F1 score of 0.7153, and precision score of 0.6934.
+CONCLUSIONS: NLP-based machine learning algorithms were a promising auxiliary to the electronic health record in spine disease diagnosis. LSTM, the deep learning model, showed better capacity compared with the widely used ensemble model, XGBoost, in differentiation of LDH and LSS using positive symptoms. This study presents a proof of concept for the application of NLP in prediagnosis of spine disease.
+
+Citation: Ren G, et al. Differentiation of lumbar disc herniation and lumbar spinal stenosis using natural language processing-based machine learning based on positive symptoms. Differentiation of lumbar disc herniation and lumbar spinal stenosis using natural language processing-based machine learning based on positive symptoms. 2022; 52:E7. doi: 10.3171/2022.1.FOCUS21561
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35364584/

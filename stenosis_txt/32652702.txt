@@ -1,0 +1,12 @@
+PMID: 32652702
+Title: Surgical vs transfemoral aortic valve replacement in low-risk patients: An updated meta-analysis of trial and registry data.
+
+Abstract: BACKGROUND: Transfemoral aortic valve replacement (TAVR) has been studied extensively in patients with improving safety and efficacy in high to intermediate-risk patients with aortic stenosis. TAVR has been now approved for patients with low surgical risk.
+OBJECTIVE: The purpose of this study is to integrate the evidence from randomized controlled trials (RCT) and large registry data comparing TAVR to surgical aortic valve repair (SAVR).
+METHODS: Seven studies (three RCTs, one post hoc study of a RCT, and three registries) were included. Incidence rate ratios (IRR) of outcomes of interest (overall mortality, 30-day mortality, cardiovascular death, stroke, pacemaker implantation [PPMI], myocardial infarction, moderate-severe paravalvular leak [PVL], and re-intervention) were compared using a random-effects model.
+RESULTS: The pooled analysis included 24 819 patients (TAVR, 8227 and SAVR, 16 592). 2,952 (11.9%) patients were from RCTs and 21 867 (88.1%) were registry patients. Thirty-day mortality was lower in TAVR (logIRR, -0.43; 95% CI. -0.61 to -0.25; P < .001), whereas the rate of moderate-severe PVL (logIRR, 1.44; 95% CI, 0.58-2.3; P < .001) and PPMI (logIRR, 1.13; 95% CI, 1.02-1.24; P < .001) were higher. There were no significant differences in the rates of overall mortality, reintervention, cardiovascular death, myocardial infarction, or stroke between SAVR and TAVR.
+CONCLUSIONS: Early mortality is higher in SAVR while rates of PVL and PPMI are substantially higher in TAVR. There is no significant advantage with TAVR for overall survival, cardiovascular death, stroke, MI, and re-intervention rates.
+
+Citation: Luthra S, et al. Surgical vs transfemoral aortic valve replacement in low-risk patients: An updated meta-analysis of trial and registry data. Surgical vs transfemoral aortic valve replacement in low-risk patients: An updated meta-analysis of trial and registry data. 2020; 35:2264-2274. doi: 10.1111/jocs.14802
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32652702/

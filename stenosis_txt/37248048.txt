@@ -1,0 +1,11 @@
+PMID: 37248048
+Title: Chronic kidney disease is a key risk factor for aortic stenosis progression.
+
+Abstract: BACKGROUND: Rapid progression of aortic stenosis (AS) has been observed in patients undergoing dialysis, but existing cross-sectional evidence is contradictory in non-dialysis-dependent chronic kidney disease (CKD). The present study sought to evaluate whether CKD is associated with the progression of AS over time in a large cohort of patients with AS.
+METHODS: We retrospectively studied all consecutive patients diagnosed with AS [peak aortic jet velocity (Vmax) ≥2.5 m/s] and left ventricular ejection fraction ≥50% in the echocardiography laboratories of two tertiary centers between 2000 and 2018. The estimated glomerular filtration rate (eGFR) (mL/min/1.73 m2) was calculated from serum creatinine values. Patients were divided into five CKD stages according to the baseline eGFR. Annual rates of change in the aortic valve area (AVA) were determined by a linear mixed-effects model.
+RESULTS: Among the 647 patients included, 261 (40%) had CKD. After a median follow-up of 2.9 (interquartile range 1.8-4.8) years, the mean overall rate of change in AVA was -0.077 (95% confidence interval -0.082; -0.073) cm2/year. There was an inverse relationship between the progression rate and kidney function. The more severe the CKD stage, the greater the AVA narrowing (P < .001). By multivariable linear regression analysis, the eGFR was also negatively associated (P < .001) with AS progression. An eGFR strata below 45 mL/min/1.73 m2 was associated with higher odds of rapid progression of AS than normal kidney function. During the clinical follow-up, event-free survival (patients free of aortic valve replacement or death) decreased as CKD progressed. Rapid progression of AS in patients with kidney dysfunction was associated with worse outcomes.
+CONCLUSIONS: Patients with CKD exhibit more rapid progression of AS over time and require close monitoring. The link between kidney dysfunction and rapid progression of AS is still unknown and requires further research.
+
+Citation: Candellier A, et al. Chronic kidney disease is a key risk factor for aortic stenosis progression. Chronic kidney disease is a key risk factor for aortic stenosis progression. 2023; 38:2776-2785. doi: 10.1093/ndt/gfad116
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37248048/

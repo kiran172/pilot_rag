@@ -1,0 +1,11 @@
+PMID: 37543874
+Title: Outcome of Percutaneous Coronary Intervention in Old Patients Presenting with Acute Coronary Syndrome.
+
+Abstract: BACKGROUND: Octogenarians (age≥80 years) with coronary artery disease constitute a high-risk group and the elderly undergoing percutaneous coronary intervention (PCI) are at higher risk of adverse outcomes compared to young patients. In this study, we aimed to describe the outcomes of the elderly with acute coronary syndrome (ACS) who underwent PCI and also to identify the predictors of short-term major adverse cerebrocardiovascular events (MACCE) in octogenarians.
+METHODS: In this registry-based cohort study, we reviewed the data of patients (aged≥65 years) who underwent PCI. Univariate Cox-regression model was used to assess the univariate effects of covariates on mortality and MACCE and multivariate Cox-regression analysis were used to discover MACCE predictors.
+RESULTS: We reviewed the data of 3332 patients (2722 elderly [65 to 79 years], and 610 octogenarians [≥80 years]). The cumulative hazard of MACCE was significantly higher in the octogenarian group compared with the younger group (P&lt;0.001). MACCE in octogenarians presenting with ST-elevation myocardial infarction (STEMI) was significantly higher than those with non-ST-elevation myocardial infarction/Unstable angina (NSTEMI/UA) (P&lt;0.001); however, the cumulative hazard of mortality was not significantly different between the two groups (P=0.270). Successful PCI, left main stenosis and estimated glomerular filtration rate (eGFR) were independent predictors of MACCE in octogenarians with ACS.
+CONCLUSION: Octogenarians undergoing PCI had a higher rate of MACCE and mortality compared with a younger population. In octogenarians, MACCE in those with STEMI was significantly higher than those with NSTEMI/UA and the mortality trend was similar; however, the 1-year trend was in favor of the STEMI subgroup.
+
+Citation: Fallahzadeh A, et al. Outcome of Percutaneous Coronary Intervention in Old Patients Presenting with Acute Coronary Syndrome. Outcome of Percutaneous Coronary Intervention in Old Patients Presenting with Acute Coronary Syndrome. 2022; 25:523-532. doi: 10.34172/aim.2022.84
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37543874/

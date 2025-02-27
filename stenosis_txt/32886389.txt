@@ -1,0 +1,12 @@
+PMID: 32886389
+Title: Predictors of ventricular pacing burden after permanent pacemaker implantation following transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: In the era of an expanding use of transcatheter aortic valve replacement (TAVR), conduction disturbances and the requirement for permanent pacemaker (PPM) implantation remains a clinical concern.
+HYPOTHESIS: Using a single-center experience, we sought to identify predictors of ventricular pacing burden after TAVR in patients who required PPM implantation.
+METHODS: We conducted a retrospective study of 359 consecutive patients with symptomatic severe aortic valve stenosis who underwent TAVR at our institution between September 2013 and July 2019. Thirty patients (8.4%) required a PPM within 30 days after TAVR. Pre and post-TAVR electrocardiograms, pre-TAVR echocardiograms and computed tomography (CT), TAVR procedural details and post-TAVR device interrogation records at 1, 3, and 6 months were reviewed.
+RESULTS: Mean percentage of ventricular pacing (VP%) at 1, 3, and 6 months was 58%, 59%, and 56% respectively. Using univariate logistic regression analysis, patients who had low VP% < 5% at 6 months were more likely to have a prosthesis/echocardiography-derived left ventricular outflow tract (LVOT) diameter ratio < 1.3 (OR 7.00, P-value .048), prosthesis/CT-derived aortic annulus diameter ratio < 1.02 (OR 7.11, P-value .047), post-TAVR new-onset LBBB (OR 16.80, P-value .019), time to PPM implantation greater than 2 days post-TAVR (OR 9.38, P-value .026) and pre-TAVR use of a beta blocker (OR 9.40, P-value .026).
+CONCLUSIONS: In patients who required a PPM implantation post-TAVR, a lower TAVR prosthesis/LVOT or aortic annulus diameter ratio, post-TAVR new-onset LBBB and later time of PPM implantation showed a trend toward predicting a low VP% at 6 months.
+
+Citation: Elzeneini M, et al. Predictors of ventricular pacing burden after permanent pacemaker implantation following transcatheter aortic valve replacement. Predictors of ventricular pacing burden after permanent pacemaker implantation following transcatheter aortic valve replacement. 2020; 43:1334-1342. doi: 10.1002/clc.23447
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32886389/

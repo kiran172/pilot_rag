@@ -1,0 +1,8 @@
+PMID: 38671739
+Title: Development of a 3D Vascular Network Visualization Platform for One-Dimensional Hemodynamic Simulation.
+
+Abstract: Recent advancements in computational performance and medical simulation technology have made significant strides, particularly in predictive diagnosis. This study focuses on the blood flow simulation reduced-order models, which provide swift and cost-effective solutions for complex vascular systems, positioning them as practical alternatives to 3D simulations in resource-limited medical settings. The paper introduces a visualization platform for patient-specific and image-based 1D-0D simulations. This platform covers the entire workflow, from modeling to dynamic 3D visualization of simulation results. Two case studies on, respectively, carotid stenosis and arterial remodeling demonstrate its utility in blood flow simulation applications.
+
+Citation: Chen Y, et al. Development of a 3D Vascular Network Visualization Platform for One-Dimensional Hemodynamic Simulation. Development of a 3D Vascular Network Visualization Platform for One-Dimensional Hemodynamic Simulation. 2024; 11:(unknown pages). doi: 10.3390/bioengineering11040313
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38671739/

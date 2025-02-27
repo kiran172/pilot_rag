@@ -1,0 +1,11 @@
+PMID: 39130179
+Title: Optical Coherence Tomography Measures Predicting Fractional Flow Reserve: The OMEF Study.
+
+Abstract: BACKGROUND: Optical coherence tomography (OCT) allows to carefully characterize coronary plaque morphology and lumen dimensions. We sought to evaluate the value of OCT in predicting fractional flow reserve (FFR).
+METHODS: We performed a multicenter, international, pooled analysis of individual patient-level data from published studies assessing FFR and OCT on the same vessel. Data from stable or unstable patients who underwent both FFR and OCT of the same coronary artery were collected through a dedicated database. Predefined OCT parameters were minimum lumen area (MLA), percentage area stenosis (%AS), and presence of thrombus or plaque rupture. Primary end point was FFR ≤0.80. Secondary outcome was the incidence of major adverse cardiac events in patients not undergoing revascularization based on negative FFR (>0.80).
+RESULTS: A total of 502 coronary lesions in 489 patients were included. A significant correlation was observed between OCT-MLA and FFR values (R = 0.525; P &lt; .001), and between OCT-%AS and FFR values (R = -0.482; P &lt; .001). In Receiver operating characteristic analysis, MLA &lt;2.0 mm2 showed a good discriminative power to predict an FFR ≤0.80 (AUC, 0.80), whereas %AS &gt;73% showed a moderate discriminative power (AUC, 0.73). When considering proximal coronary segments, the best OCT cutoff values predicting an FFR ≤0.80 were MLA &lt;3.1 mm2 (AUC, 0.82), and %AS &gt;61% (AUC, 0.84). In patients with a negative FFR not revascularized, the combination of lower MLA and higher %AS had a trend toward worse outcome (which was statistically significant in the analysis restricted to proximal vessels).
+CONCLUSIONS: OCT lumen measures (MLA, %AS) may predict FFR, and different cutoffs are needed for proximal vessels.
+
+Citation: Vergallo R, et al. Optical Coherence Tomography Measures Predicting Fractional Flow Reserve: The OMEF Study. Optical Coherence Tomography Measures Predicting Fractional Flow Reserve: The OMEF Study. 2024; 3:101288. doi: 10.1016/j.jscai.2023.101288
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39130179/

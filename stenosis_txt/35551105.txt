@@ -1,0 +1,12 @@
+PMID: 35551105
+Title: Transcatheter Aortic Valve Replacement for Mixed Aortic Valve Disease: A Propensity Score-Adjusted Analysis From the RISPEVA Registry.
+
+Abstract: BACKGROUND: The differential outcomes between pure/predominant aortic stenosis (AS) and mixed aortic valve disease (MAVD) in patients undergoing transcatheter aortic valve implantation (TAVI) are still debated.
+OBJECTIVE: To evaluate the comparative clinical outcomes of patients with MAVD and AS undergoing TAVI using data from the RISPEVA registry.
+METHODS: A total of 3263 patients were included. Of the 3263 patients, 656 with concomitant moderate/severe aortic regurgitation constituted the MAVD group and 2607 constituted the AS cohort. Primary endpoints were 30-day mortality and 1-year survival. Postprocedural paravalvular regurgitation (PPVR), cerebrovascular events, bleeding, and vascular complications were assessed at 30 days.
+RESULTS: In the overall population, 30-day mortality in the MAVD group was higher than in AS patients (4.3% vs 2.6%;P=.02); however, no differences were detected after propensity-score matching (4.1% vs 3.5%; P=.62). One-year survival was comparable between MAVD and AS patients in both unmatched and matched cohorts. Left ventricular ejection fraction, pulmonary artery systolic pressure, and PPVR, but not baseline MAVD, were predictors of 30-day mortality. The incidence of PPVR was higher in the MAVD group vs the AS group; this difference was not confirmed in patients implanted with a balloon-expandable device.
+CONCLUSION: MAVD per se did not negatively affect patients' prognoses, but appears to identify a more complex cohort of patients with a worse clinical and functional status, probably referred to TAVI in a later stage of the disease. Patients with MAVD had a greater propensity to develop PPVR, which is a known predictor of worse outcome; this tendency seems to be mitigated by the implantation of balloon-expandable valves.
+
+Citation: Pepe M, et al. Transcatheter Aortic Valve Replacement for Mixed Aortic Valve Disease: A Propensity Score-Adjusted Analysis From the RISPEVA Registry. Transcatheter Aortic Valve Replacement for Mixed Aortic Valve Disease: A Propensity Score-Adjusted Analysis From the RISPEVA Registry. 2022; 34:E419-E427. doi: 10.25270/jic/21.00247
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35551105/

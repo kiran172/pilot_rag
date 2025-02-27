@@ -1,0 +1,17 @@
+PMID: 35633284
+Title: Global Aortic Pulse Wave Velocity is Unchanged in Bicuspid Aortopathy With Normal Valve Function but Elevated in Patients With Aortic Valve Stenosis: Insights From a 4D Flow MRI Study of 597 Subjects.
+
+Abstract: BACKGROUND: Aortopathy is common with bicuspid aortic valve (BAV), and underlying intrinsic tissue abnormalities are believed causative. Valve-mediated hemodynamics are altered in BAV and may contribute to aortopathy and its progression. The contribution of intrinsic tissue defects versus altered hemodynamics to aortopathy progression is not known.
+PURPOSE: To investigate relative contributions of tissue-innate versus hemodynamics in progression of BAV aortopathy.
+STUDY TYPE: Retrospective.
+SUBJECTS: Four hundred seventy-three patients with aortic dilatation (diameter ≥40 mm; comprised of 281 BAV with varied AS severity, 192 tricuspid aortic valve [TAV] without AS) and 124 healthy controls. Subjects were 19-91 years (141/24% female).
+FIELD STRENGTH/SEQUENCE: 1.5T, 3T; time-resolved gradient-echo 3D phase-contrast (4D flow) MRI.
+ASSESSMENT: A surrogate measure for global aortic wall stiffness, pulse wave velocity (PWV), was quantified from MRI by standardized, automated technique based on through-plane flow cross-correlation maximization. Comparisons were made between BAV patients with aortic dilatation and varying aortic valve stenosis (AS) severity and healthy subjects and aortopathy patients with normal TAV.
+STATISTICAL TESTS: Multivariable regression, analysis of covariance (ANCOVA), Tukey's, student's (t), Mann-Whitney (U) tests, were used with significance levels P < 0.05 or P < 0.01 for post-hoc Bonferroni-corrected t/U tests. Bland-Altman and ICC calculations were performed.
+RESULTS: Multivariable regression showed age with the most significant association for increased PWV in all groups (increase 0.073-0.156 m/sec/year, R2  = 0.30-48). No significant differences in aortic PWV were observed between groups without AS (P = 0.20-0.99), nor were associations between PWV and regurgitation or Sievers type observed (P = 0.60, 0.31 respectively). In contrast, BAV AS patients demonstrated elevated PWV and a significant relationship for AS severity with increased PWV (covariate: age, R2  = 0.48). BAV and TAV patients showed no association between aortic diameter and PWV (P = 0.73).
+DATA CONCLUSION: No significant PWV differences were observed between BAV patients with normal valve function and control groups. However, AS severity and age in BAV patients were directly associated with PWV increases.
+EVIDENCE LEVEL: 3 TECHNICAL EFFICACY: Stage 3.
+
+Citation: Johnson EMI, et al. Global Aortic Pulse Wave Velocity is Unchanged in Bicuspid Aortopathy With Normal Valve Function but Elevated in Patients With Aortic Valve Stenosis: Insights From a 4D Flow MRI Study of 597 Subjects. Global Aortic Pulse Wave Velocity is Unchanged in Bicuspid Aortopathy With Normal Valve Function but Elevated in Patients With Aortic Valve Stenosis: Insights From a 4D Flow MRI Study of 597 Subjects. 2023; 57:126-136. doi: 10.1002/jmri.28266
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35633284/

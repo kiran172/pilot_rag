@@ -1,0 +1,11 @@
+PMID: 33518735
+Title: Numerical and experimental analysis of balloon angioplasty impact on flow hemodynamics improvement.
+
+Abstract: PURPOSE: The paper focuses on the numerical and experimental evaluation of the fluid flow inside chosen fragments of blood vessels. In the first stage of the study, the experimental tests were conducted using a research test stand, designed to be used in this evaluation. The study evaluated the blood flow through a silicone vessel with an implanted coronary stent.
+METHODS: The PIV method was used in order to visualize the flow vectors inside a silicone vessel. Deformed vessel geometry implemented for computational fluid dynamics purposes was obtained owing to a non-linear simulation of the stent expansion (angioplasty process) in a silicone vessel. Additionally, a vessel model with a statistical 55% area stenosis and an irregular real vessel with an atherosclerotic plaque were also subjected to analysis from the hemodynamic flow point of view. A vessel with a statistical stenosis was also used to simulate the angioplasty process, which resulted in obtaining a flow domain for the vessel with an atherosclerotic plaque after the stent implantation.
+RESULTS: For each case, distributions of parameters such as OSI or TAWSS were also analyzed and discussed. The areas of low TAWSS values appear close to the stent struts.
+CONCLUSIONS: Stents with increased diameters, compared to the normal vessel diameter, create a higher risk of occurrence of the areas with low WSS values. Excessive stent deformation can cause inflammation by injuring the vessel and can initiate the restenosis and thrombotic phenomena through the increased vessel diameter.
+
+Citation: Tomaszewski M, et al. Numerical and experimental analysis of balloon angioplasty impact on flow hemodynamics improvement. Numerical and experimental analysis of balloon angioplasty impact on flow hemodynamics improvement. 2020; 22:169-183.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33518735/

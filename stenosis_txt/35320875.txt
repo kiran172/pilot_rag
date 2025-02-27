@@ -1,0 +1,11 @@
+PMID: 35320875
+Title: Predicting major adverse cardiac events based on multi-parameter coronary computed tomography angiography.
+
+Abstract: OBJECTIVE: To build a nomogram model to improve the prediction of major adverse cardiac events (MACE) using multi-parameter coronary computed tomography angiography (CCTA).
+METHODS: All patients underwent CCTA. Those who developed MACE 90 days later but within 2 years between January 2008 and December 2018 were retrospectively enrolled as MACE group, while those without MACE were 1:1 propensity score matched in the control group. CCTA stenosis, plaque qualitative-quantitative characteristics, and fractional flow reserve derived from computed tomography angiography (FFRct) were analyzed and compared between the two groups. The independent risk factors for predicting MACE were obtained through univariate and multivariate regression analysis, after which multi-parameter models were built to predict MACE. Finally, the nomogram for predicting MACE was created using the independent risk factors from multivariate regression analysis.
+RESULTS: A total of 483 vessels in 260 patients were successfully analyzed. The combination of CCTA stenosis, plaque qualitative-quantitative characteristics, and FFRct (AUC = 0.922, P < 0.001) showed a higher predictive value compared to CCTA stenosis alone, FFRct alone, plaque qualitative-quantitative characteristics alone, CCTA stenosis combined with plaque qualitative-quantitative characteristics, and CCTA stenosis combined with FFRct (all P < 0.001). Independent risk factors were CCTA stenosis ≥50%, low attenuation plaque, positive remodeling, napkin ring sign, lipid plaque volume proportion, and FFRct. Subsequently, a nomogram was created using these independent risk factors.
+CONCLUSIONS: The multi-parameter CCTA model has improved performance in predicting MACE. Nomogram for predicting MACE, which includes these factors, represents a practical and easy-to-use method in the clinical setting.
+
+Citation: Wang J, et al. Predicting major adverse cardiac events based on multi-parameter coronary computed tomography angiography. Predicting major adverse cardiac events based on multi-parameter coronary computed tomography angiography. 2022; 49:3612-3623. doi: 10.1002/mp.15616
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35320875/

@@ -1,0 +1,12 @@
+PMID: 34426527
+Title: Low myocardial energetic efficiency is associated with increased mortality in aortic stenosis.
+
+Abstract: OBJECTIVES: In hypertension, low myocardial energetic efficiency (MEEi) has been documented as an integrated marker of metabolic and left ventricular (LV) myocardial dysfunction. We tested the predictive performance of MEEi in initially asymptomatic aortic stenosis (AS) patients free from diabetes and known cardiovascular disease.
+METHODS: Data from 1703 patients with mostly moderate AS enrolled in the Simvastatin and Ezetimibe in Aortic Stenosis study followed for 4.3 years was used. MEE was calculated from Doppler stroke volume/([heart rate/60]) and indexed to LV mass (MEEi). The threshold value for MEEi associated with increased mortality was identified in generalised additive model with smoothing splines. Covariables of MEEi were identified in logistic regression analysis. Outcome was assessed in Cox regression analysis and reported as HR and 95% CI.
+RESULTS: MEEi <0.34 mL/s per gram was associated with increased cardiovascular mortality (n=80) (HR 2.53 (95% CI 1.50 to 4.28)) and all-cause mortality (n=155) (HR 1.74 (95% CI 1.20 to 2.52)) (both p<0.01). The association was independent of confounders of low MEEI (<0.34 mL/s per gram) identified in multivariable logistic regression analysis, including more severe AS, higher body mass index, lower LV midwall shortening and ejection fraction and presence of hypertension. Comparison of the Cox models with and without MEEi among the covariables demonstrated that MEEi significantly improved the prognostic yield (both p<0.01).
+CONCLUSIONS: In patients with initially asymptomatic AS, low MEEi was associated with clustering of cardiometabolic risk factors, lower LV myocardial function and subsequent increased mortality during 4.3 years follow-up, independent of known prognosticators.
+TRIAL REGISTRATION NUMBER: NCT00092677.
+
+Citation: Bahlmann E, et al. Low myocardial energetic efficiency is associated with increased mortality in aortic stenosis. Low myocardial energetic efficiency is associated with increased mortality in aortic stenosis. 2021; 8:(unknown pages). doi: 10.1136/openhrt-2021-001720
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34426527/

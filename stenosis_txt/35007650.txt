@@ -1,0 +1,11 @@
+PMID: 35007650
+Title: Associations of pro-protein convertase subtilisin-like kexin type 9, soluble low-density lipoprotein receptor and coronary artery disease: A case-control study.
+
+Abstract: BACKGROUND: Low-density lipoprotein receptor (LDLR) is the primary pathway for removal of cholesterol from the circulation, pro-protein convertase subtilisin-like kexin type 9 (PCSK9) is a secreted protease that binds to and promotes degradation of the LDLR protein. The goal of this case-control study was to investigate the role of soluble LDLR (sLDLR) and PCSK9 in coronary artery disease (CAD) and investigate the relationship between these two indices and CAD.
+METHODS: In a sample of 144 Chinese patients recruited between January 2018 and August 2018, 81 cases with mild and severe stenosis characterized by coronary angiograph (CAG) and 63 healthy controls were selected using the propensity score matching (PSM) based on demographics and medical history. sLDLR and PCSK9 concentrations were determined using enzyme-linked immunosorbent assay (ELISA), Immuno-precipitation (IP) and western blotting. Multivariable logistic models were used to assess the associations between the degree of coronary artery stenosis and the biomarkers of interest.
+RESULTS: Higher PCSK9 was found to be a significant predictor of coronary artery stenosis when comparing cases who had severe stenosis vs. controls (OR=1.016, 95%CI: 1.009, 1.024), and cases who had mild stenosis vs. controls (OR=1.009, 95%CI: 1.003, 1.015). sLDLR was positively corrected with PCSK9, which confounded the association between CAD and PCSK9. Compared to patients with mild-stenosis, patients with severe-stenosis also showed a higher level of PCSK9 (OR=1.007, 95%CI: 1.001, 1.013).
+CONCLUSIONS: These findings suggest that elevated PSCK9 may contribute to the odds of developing CAD, with a higher degree of coronary artery stenosis.
+
+Citation: Peng J, et al. Associations of pro-protein convertase subtilisin-like kexin type 9, soluble low-density lipoprotein receptor and coronary artery disease: A case-control study. Associations of pro-protein convertase subtilisin-like kexin type 9, soluble low-density lipoprotein receptor and coronary artery disease: A case-control study. 2022; 350:9-15. doi: 10.1016/j.ijcard.2022.01.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35007650/

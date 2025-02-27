@@ -1,0 +1,11 @@
+PMID: 35078016
+Title: TAK1 accelerates transplant arteriosclerosis in rat aortic allografts by inducing autophagy in vascular smooth muscle cells.
+
+Abstract: BACKGROUND AND AIMS: The proliferation and migration of vascular smooth muscle cells (VSMCs) are fundamental hallmarks of vasculopathy. Transforming growth factor β-activated kinase-1 (TAK1) plays a crucial role in mediating cellular functions, including autophagy, which has been recently linked to the regulation of VSMC functions and the development of vasculopathy. This study aims to better dissect how TAK1 controls VSMC proliferation and migration.
+METHODS: A rat model of graft arteriosclerosis was employed to explore the influence of TAK1 signaling activation on VSMC proliferation, migration, autophagy, and neointima formation in vivo. Knockdown and pharmacological inhibition of TAK1 were utilized in cultured VSMCs to investigate the mechanisms underlying the progression of VSMC proliferation and migration.
+RESULTS: Increased phosphorylation of TAK1 (Thr-184/Thr-187) was examined in SMα-actin positive cells in the medial and neointimal lesions of aortic allografts. Lentivirus-mediated Tak1 shRNA transfection of aortic allografts robustly suppressed neointimal formation and lumen stenosis, as well as autophagy and cell proliferative responses. In cultured PDGF-BB-incubated VSMCs, genetic and pharmacological inhibition of TAK1 markedly attenuated autophagy activation, and blocked the progression of cell cycle, proliferation, and migration responses.
+CONCLUSIONS: Activation of TAK1 in VSMCs in the setting of aortic transplantation is an early and critical event in VSMC proliferation and migration, as well as neointima formation, because it controls autophagy activation, constituting a potential molecular mechanism and target for preventing transplant vasculopathy.
+
+Citation: Zheng X, et al. TAK1 accelerates transplant arteriosclerosis in rat aortic allografts by inducing autophagy in vascular smooth muscle cells. TAK1 accelerates transplant arteriosclerosis in rat aortic allografts by inducing autophagy in vascular smooth muscle cells. 2022; 343:10-19. doi: 10.1016/j.atherosclerosis.2022.01.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35078016/

@@ -1,0 +1,11 @@
+PMID: 34642963
+Title: Development and validation of a risk score to prioritize patients for evaluation of access stenosis.
+
+Abstract: BACKGROUND: Access flow dysfunction, often associated with stenosis, is a common problem in hemodialysis access and may result in progression to thrombosis. Timely identification of accesses in need of evaluation is critical to preserving a functioning access. We hypothesized that a risk score using measurements obtained from the Vasc-Alert surveillance device could be used to predict subsequent interventions.
+METHODS: Measurement of five factors over the preceding 28 days from 1.46 million hemodialysis treatments (6163 patients) were used to develop a score associated with interventions over the subsequent 60 days. The score was validated in a separate dataset of 298,620 treatments (2641 patients).
+RESULTS: Interventions in arteriovenous fistulae (AVF; n = 4125) were much more common in those with the highest score (36.2%) than in those with the lowest score (11.0). The score also was strongly associated with interventions in patients with an arteriovenous graft (AVG; n = 2,038; 43.2% vs. 21.1%). There was excellent agreement in the Validation datasets for AVF (OR = 2.67 comparing the highest to lowest score) and good agreement for AVG (OR = 1.92).
+CONCLUSIONS: This simple risk score based on surveillance data may be useful for prioritizing patients for physical examination and potentially early referral for intervention.
+
+Citation: Astor BC, et al. Development and validation of a risk score to prioritize patients for evaluation of access stenosis. Development and validation of a risk score to prioritize patients for evaluation of access stenosis. 2022; 35:236-244. doi: 10.1111/sdi.13026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34642963/

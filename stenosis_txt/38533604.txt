@@ -1,0 +1,8 @@
+PMID: 38533604
+Title: Artificial Vascular with Pressure-Responsive Property based on Deformable Microfluidic Channels.
+
+Abstract: In vitro blood vessel models are significant for disease modeling, drug assays, and therapeutic development. Microfluidic technologies allow to create physiologically relevant culture models reproducing the features of the in vivo vascular microenvironment. However, current microfluidic technologies are limited by impractical rectangular cross-sections and single or nonsynchronous compound mechanical stimuli. This study proposes a new strategy for creating round-shaped deformable soft microfluidic channels to serve as artificial in vitro vasculature for developing in vitro models with vascular physio-mechanical microenvironments. Endothelial cells seeded into vascular models are used to assess the effects of a remodeled in vivo mechanical environment. Furthermore, a 3D stenosis model is constructed to recapitulate the flow disturbances in atherosclerosis. Soft microchannels can also be integrated into traditional microfluidics to realize multifunctional composite systems. This technology provides new insights into applying microfluidic chips and a prospective approach for constructing in vitro blood vessel models.
+
+Citation: Chen Z, et al. Artificial Vascular with Pressure-Responsive Property based on Deformable Microfluidic Channels. Artificial Vascular with Pressure-Responsive Property based on Deformable Microfluidic Channels. 2024; 13:e2304532. doi: 10.1002/adhm.202304532
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38533604/

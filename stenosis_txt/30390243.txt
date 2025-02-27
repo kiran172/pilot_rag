@@ -1,0 +1,11 @@
+PMID: 30390243
+Title: Comparison of diagnostic accuracy of PET-derived myocardial blood flow parameters: A meta-analysis.
+
+Abstract: BACKGROUND: Although absolute quantification of myocardial blood flow (MBF) by positron emission tomography provides additive diagnostic value to visual analysis of perfusion defect, diagnostic accuracy of different MBF parameters remain unclear.
+METHODS: Clinical studies regarding the diagnostic accuracy of hyperemic MBF (hMBF), myocardial flow reserve (MFR) and/or relative flow reserve (RFR) were searched and systematically reviewed. On a per-vessel basis, pooled measures of the parameters' diagnostic performances were analyzed, regarding significant coronary stenosis defined by fractional flow reserve or diameter stenosis.
+RESULTS: Ten studies (2,522 arteries from 1,099 patients) were finally included. Pooled sensitivity [95% confidence interval (CI)] was 0.853 (0.821-0.881) for hMBF, 0.755 (0.713-0.794) for MFR, and 0.636 (0.539-0.726) for RFR. Pooled specificity (95% CI) was 0.844 (0.827-0.860) for hMBF, 0.804 (0.784-0.824) for MFR, and 0.897 (0.860-0.926) for RFR. Pooled area under the curve ± standard error was 0.900 ± 0.020 for hMBF, 0.830 ± 0.026 for MFR, and 0.873 ± 0.048 for RFR.
+CONCLUSIONS: hMBF showed the best sensitivity while RFR showed the best specificity in the diagnosis of significant coronary stenosis. MFR was less sensitive than hMBF and less specific than hMBF and RFR.
+
+Citation: Cho SG, et al. Comparison of diagnostic accuracy of PET-derived myocardial blood flow parameters: A meta-analysis. Comparison of diagnostic accuracy of PET-derived myocardial blood flow parameters: A meta-analysis. 2020; 27:1955-1966. doi: 10.1007/s12350-018-01476-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30390243/

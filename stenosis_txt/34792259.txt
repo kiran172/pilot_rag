@@ -1,0 +1,12 @@
+PMID: 34792259
+Title: Radial versus femoral secondary access for transcatheter aortic valve replacement: A systematic review and meta-analysis.
+
+Abstract: OBJECTIVES: We aimed to evaluate the risk of procedural complications after TAVR using secondary radial access (RA) versus femoral access (FA) through a systematic review and meta-analysis of the published literature.
+BACKGROUND: Transcatheter aortic valve replacement (TAVR) entails both large-bore arterial access for device delivery and secondary arterial access for hemodynamic and imaging assessments. It is unknown whether RA versus FA for this secondary access reduces the risk of procedural complications.
+METHODS: We searched PubMed, Embase, the Cochrane Library, and Web of Science for observational studies comparing TAVR procedural complications in RA versus FA. Event rates were compared via weighted summary odds ratios using the Mantel-Haenszel method.
+RESULTS: Six manuscripts encompassing 6132 patients were included. Meta-analysis showed that RA reduced the risk of major vascular complications (OR 0.58, 95% CI 0.43-0.77, p &lt; 0.001, I2 0%) and major/life-threatening bleeding (OR 0.46, 95% CI 0.36-0.59, p &lt; 0.001, I2 0%) as compared to FA for secondary TAVR access. We also observed a reduction 30-day mortality (OR 0.55, 95% CI 0.38-0.79, p = 0.001, I2 0%), acute kidney injury (OR 0.45, 95% CI 0.34-0.60, p &lt; 0.001, I2 0%), and stroke and transient ischemic attack (OR 0.43, 95% CI 0.27-0.67, p &lt; 0.001, I2 0%).
+CONCLUSIONS: RA reduced the risk of major vascular and bleeding complications when compared to FA for secondary access in TAVR. RA is associated with reduced risk of other adverse outcomes including mortality, but these associations may be related to selection bias and confounding given the observational study designs.
+
+Citation: Das TM, et al. Radial versus femoral secondary access for transcatheter aortic valve replacement: A systematic review and meta-analysis. Radial versus femoral secondary access for transcatheter aortic valve replacement: A systematic review and meta-analysis. 2022; 99:1225-1233. doi: 10.1002/ccd.30009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34792259/

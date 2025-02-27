@@ -1,0 +1,11 @@
+PMID: 31909471
+Title: Quantitative flow ratio-guided surgical intervention in symptomatic myocardial bridging.
+
+Abstract: BACKGROUND: Patients with myocardial bridging (MB) are associated with adverse cardiovascular events, but a decision to perform surgical intervention, especially for patients with systolic intermediate stenosis, is a difficult clinical issue. Fractional flow reserve (FFR) represents a novel method for the functional evaluation of coronary stenosis, but the relationship between FFR and MB remains controversial because of the cyclic dynamic stenosis of MB. Quantitative flow ratio (QFR) is a novel index allowing fast assessment of FFR from a diagnostic coronary angiography. This study aimed to investigate the relationship between QFR and MB patients and to further develop a prediction model of QFR-guided surgical intervention for these patients.
+METHODS: Forty-five symptomatic lone MB patients who had undergone coronary angiography were consecutively enrolled in this study. MB was located in the middle of left anterior descending artery with intermediate stenosis during systole. The patients were retrospectively divided into a medical therapy group or a surgical therapy group. Systolic geometry based QFR (SG-QFR) and diastolic geometry based QFR (DG-QFR) were calculated based on three-dimensional quantitative coronary angiography and patient-specific flow velocity. Subsequently, time-averaged QFR (TA-QFR) is defined as the average of SG-QFR and DG-QFR.
+RESULTS: Receiver operating characteristic curve analysis revealed that TA-QFR (AUC = 0.91; 95% CI: 0.79-0.98) was found to be the best pre-operative index for surgical intervention to MB, when compared with DG-QFR (AUC = 0.69; 95% CI: 0.53-0.82; difference: 0.22; 95% CI: 0.04-0.41; p = 0.02) and SG-QFR (AUC = 0.87; 95% CI: 0.74-0.95; difference: 0.04; 95% CI: 0.00-0.08; p = 0.03).
+CONCLUSIONS: TA-QFR improved the performance of functional evaluation in MB patients with intermediate stenosis during systole and is useful for guiding surgical intervention.
+
+Citation: Qi Q, et al. Quantitative flow ratio-guided surgical intervention in symptomatic myocardial bridging. Quantitative flow ratio-guided surgical intervention in symptomatic myocardial bridging. 2020; 27:685-692. doi: 10.5603/CJ.a2019.0113
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31909471/

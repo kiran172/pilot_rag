@@ -1,0 +1,11 @@
+PMID: 37163524
+Title: Diagnostic efficacy of the optical flow ratio in patients with coronary heart disease: A meta-analysis.
+
+Abstract: BACKGROUND: Coronary atherosclerotic heart disease (CAD) remains one of the most serious diseases threatening human health and life. PCI (Percutaneous Coronary Intervention) is the most common treatment for patients with CAD. A rigorous and comprehensive assessment of coronary artery lesions is now needed before PCI, however, there is no consensus on how best evaluate the combination of various intracavitary imaging techniques. By merging the benefits of physiological assessment and high-definition imaging, the optical flow ratio (OFR) has emerged as a novel technology with promising prospects for application.
+METHODS: A systematic review of the literature was conducted. Studies that met the criteria of the meta-analysis were considered to assess OFR and FFR (fractional flow reserve). And the summary values of sensitivity and specificity of diagnostic tests and summary receiver operating curves (SROC) were calculated.
+RESULTS: A total of 5 studies were included. The sensitivity and specificity of OFR in the diagnosis of coronary artery lesions were 0.83 (95% CI: 0.75-0.88) and 0.94 (95% CI: 0.91-0.96), respectively; the positive likelihood ratio and the negative likelihood ratio were 14 (95% CI: 9.3, 21.3) and 0.18 (95% CI:0.13, 0.27), respectively. OFR showed good correlation and consistency with FFR.
+CONCLUSION: The new OFR technique achieve an encouraging diagnostic performance, which also showed good correlation and consistency with FFR.
+
+Citation: Chen H, et al. Diagnostic efficacy of the optical flow ratio in patients with coronary heart disease: A meta-analysis. Diagnostic efficacy of the optical flow ratio in patients with coronary heart disease: A meta-analysis. 2023; 18:e0285508. doi: 10.1371/journal.pone.0285508
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37163524/

@@ -1,0 +1,11 @@
+PMID: 36190768
+Title: A new threshold for kidney asymmetry improves association with abnormal renal-aortic ratio for diagnosis of renal artery stenosis.
+
+Abstract: BACKGROUND: Renal artery stenosis (RAS) reflects more widespread atherosclerosis deposition and is associated with high morbidity and mortality. According to the guidelines, a discrepancy in the size of the kidneys of over 15 mm found in an ultrasound should initiate the RAS diagnostic algorithm. This study aims to find the optimal threshold for renal asymmetry that better reflects the frequency of a significantly abnormal renal-aortic ratio (RAR), justifying further RAS diagnostic workup, than the currently used cut-off of 15 mm difference in renal diameters.
+METHODS: The analysis included 1175 patients (mean age: 52 years, IQR: 38-66, men/women: 597/578) who underwent Doppler ultrasonography screening of renal arteries with recorded kidney size and RAR calculation. Ultrasound features of RAS were defined as a RAR greater than 3.5 or signs of renal artery occlusion. Receiver operating characteristic (ROC) curves were created and analyzed for absolute differences in kidney size and abnormal RAR. We calculated the area under the curve (AUC) and optimal cut-off values for sensitivity and specificity analysis.
+RESULTS: The final analysis included 169 patients with a significant difference in renal dimension. RAS features were met in 61 patients. According to ROC curve analysis, the optimal index of renal asymmetry was 12 mm. The sensitivity and specificity for this method were 82.0% and 83.3%, respectively, and AUC was 86.3%.
+CONCLUSION: Changing the definition of a significant difference in kidney size from 15 mm to 12 mm increases sensitivity and specificity for abnormal RAR and this finding may accelerate the diagnosis of RAS.
+
+Citation: Artyszuk Ł, et al. A new threshold for kidney asymmetry improves association with abnormal renal-aortic ratio for diagnosis of renal artery stenosis. A new threshold for kidney asymmetry improves association with abnormal renal-aortic ratio for diagnosis of renal artery stenosis. 2022; 27:551-556. doi: 10.1177/1358863X221118604
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36190768/

@@ -1,0 +1,12 @@
+PMID: 31714684
+Title: Outcome of patients with previous coronary artery bypass grafting and severe calcific aortic stenosis receiving transfemoral transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: To evaluate the impact of previous coronary artery bypass grafting (CABG) on early safety at 30 days and 1-year mortality in patients receiving transcatheter aortic valve replacement (TAVR).
+BACKGROUND: The use of TAVR in patients with previous CABG suffering from severe aortic stenosis has increased in the last years.
+METHODS: Consecutive TAVR patients were stratified according to previous CABG versus no previous cardiac surgery (control). All-cause 1-year mortality and early safety at 30 days were evaluated.
+RESULTS: In the unmatched cohort and compared to control (n = 2,364), CABG (n = 260) were younger, more often male and suffered more often from comorbidities leading to an increased STS-score (p < .001). The rate of early safety events at 30 days was comparable between CABG and control (21.2% vs. 24.6%, p = .22) with a higher mortality in CABG (9.6% vs. 5.3%, p = .005). All-cause 1-year mortality was higher in CABG compared to controls (HR 1.51 [95%-CI 1.15-1.97], p = .003). Applying Cox regression analysis, both 30-day (HR 1.57 [95%-CI 0.97-2.53], p = .067) and all-cause 1-year mortality (HR 1.24 [95%-CI 0.91-1.70], p = .174) were not significantly different between groups. After propensity-score matching, the rate of early safety events at 30 days was lower in CABG compared to controls (21.6% vs. 31.7%, p = .02). Thirty-day (9.1% vs. 7.7%, p = .596) and all-cause 1-year mortality (24.0% vs. 23.1%, p = .520, HR 1.14 [95%-CI 0.77-1.69], p = .520) were not different between groups.
+CONCLUSION: In patients receiving TAVR, previous CABG was not associated with an increase in periprocedural complications and all-cause 1-year mortality when adjusted for other comorbidities.
+
+Citation: Höllriegel R, et al. Outcome of patients with previous coronary artery bypass grafting and severe calcific aortic stenosis receiving transfemoral transcatheter aortic valve replacement. Outcome of patients with previous coronary artery bypass grafting and severe calcific aortic stenosis receiving transfemoral transcatheter aortic valve replacement. 2020; 96:E196-E203. doi: 10.1002/ccd.28515
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31714684/

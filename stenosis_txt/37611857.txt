@@ -1,0 +1,12 @@
+PMID: 37611857
+Title: Rationale and design of the pullback pressure gradient (PPG) global registry.
+
+Abstract: INTRODUCTION: Diffuse disease has been identified as one of the main reasons leading to low post-PCI fractional flow reserve (FFR) and residual angina after PCI. Coronary pressure pullbacks allow for the evaluation of hemodynamic coronary artery disease (CAD) patterns. The pullback pressure gradient (PPG) is a novel metric that quantifies the distribution and magnitude of pressure losses along the coronary artery in a focal-to-diffuse continuum.
+AIM: The primary objective is to determine the predictive capacity of the PPG for post-PCI FFR.
+METHODS: This prospective, large-scale, controlled, investigator-initiated, multicenter study is enrolling patients with at least 1 lesion in a major epicardial vessel with a distal FFR ≤ 0.80 intended to be treated by PCI. The study will include 982 subjects. A standardized physiological assessment will be performed pre-PCI, including the online calculation of PPG from FFR pullbacks performed manually. PPG quantifies the CAD pattern by combining several parameters from the FFR pullback curve. Post-PCI physiology will be recorded using a standardized protocol with FFR pullbacks. We hypothesize that PPG will predict optimal PCI results (post-PCI FFR ≥ 0.88) with an area under the ROC curve (AUC) ≥ 0.80. Secondary objectives include patient-reported and clinical outcomes in patients with focal vs. diffuse CAD defined by the PPG. Clinical follow-up will be collected for up to 36 months, and an independent clinical event committee will adjudicate events.
+RESULTS: Recruitment is ongoing and is expected to be completed in the second half of 2023.
+CONCLUSION: This international, large-scale, prospective study with pre-specified powered hypotheses will determine the ability of the preprocedural PPG index to predict optimal revascularization assessed by post-PCI FFR. In addition, it will evaluate the impact of PPG on treatment decisions and the predictive performance of PPG for angina relief and clinical outcomes.
+
+Citation: Munhoz D, et al. Rationale and design of the pullback pressure gradient (PPG) global registry. Rationale and design of the pullback pressure gradient (PPG) global registry. 2023; 265:170-179. doi: 10.1016/j.ahj.2023.07.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37611857/

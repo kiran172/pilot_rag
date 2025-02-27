@@ -1,0 +1,11 @@
+PMID: 37218190
+Title: Evaluation of Coronary Artery Diffuse Calcification Stenosis by Corrected Coronary Opacification Difference.
+
+Abstract: OBJECTIVES: The artifacts produced by calcification on coronary computed tomographic angiography (CCTA) have a great influence on the diagnosis of coronary stenosis. The purpose of this study is to investigate the value of corrected coronary opacification (CCO) difference in the diagnosis of stenosis in diffusely calcified coronary arteries (DCCAs).
+METHODS: A total of 84 patients were enrolled. The CCO difference across the diffuse calcification was measured through CCTA. Coronary arteries were grouped according to the extent of stenosis obtained by invasive coronary angiography (ICA). The Kruskal-Wallis H test was used to compare the CCO differences between different groups and a receiver operating characteristic (ROC) curve was used to evaluate the diagnostic efficacy of the CCO difference.
+RESULTS: Among the 84 patients, 58 patients had one DCCA, 14 patients had 2 DCCAs, and 12 patients had 3 DCCAs. A total of 122 coronary arteries were examined, 16 showed no significant stenosis, 42 had <70% stenosis, and 64 had 70-99% stenosis. The median CCO differences among the 3 groups were 0.064, 0.117, and 0.176, respectively. There were significant differences between the group without stenosis and the group with 70-99% stenosis (H = -3.581, P = 0.001), and between the group with <70% stenosis and the group with 70-99% stenosis (H = -2.430, P = 0.045). The area under the ROC curve was 0.681 and the optimal cut-off point was 0.292. Taking the ICA results as the gold standard, the sensitivity and specificity for the diagnosis of ≥70% coronary stenosis with a cut-off point of 0.292 were 84.4% and 44.8%, respectively.
+CONCLUSION: CCO difference could be useful in the diagnosis of ≥70% severe coronary stenosis in DCCA. Through this non-invasive examination, the CCO difference could be a reference for clinical treatment.
+
+Citation: Shen F, et al. Evaluation of Coronary Artery Diffuse Calcification Stenosis by Corrected Coronary Opacification Difference. Evaluation of Coronary Artery Diffuse Calcification Stenosis by Corrected Coronary Opacification Difference. 2023; (unknown volume):(unknown pages). doi: 10.2174/1573405620666230522150050
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37218190/

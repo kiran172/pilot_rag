@@ -1,0 +1,11 @@
+PMID: 35764174
+Title: Association of plasma Ninjurin-1 and SYNTAX score in patients with coronary artery disease.
+
+Abstract: BACKGROUND: Expression of nerve injury-induced protein 1 (Ninj1) is associated with several inflammatory disease. The soluble Ninj1 is an antiatherogenic protein. However, the role of plasma Ninj1 levels in patients with coronary artery disease (CAD) and its correlation with the severity of the disease remains unknown. This study investigated the association between plasma Ninj1 levels and the severity of coronary artery stenosis in patients with CAD.
+METHODS: A total of 207 subjects were recruited in this study. Blood samples were obtained to assess plasma Ninj1 level using enzyme-linked immunosorbent assay. The SYNTAX score calculated from baseline coronary angiography results was used to evaluate the severity of coronary artery stenosis. The least absolute shrinkage and selection operator (LASSO) regression analysis was performed to select the predictive factors. Then, a nomogram based on Ninj1 was constructed to predict the probability of CAD.
+RESULTS: Patients with CAD had significantly higher plasma Ninj1 than those without CAD (P < 0.001). A positive correlation was established between the Ninj1 levels and SYNTAX score (R = 0.352, P < 0.001). The multivariate logistical regression analysis indicated that plasma Ninj1 (P = 0.024) was an independent predictor of CAD occurrence after adjustment for clinical risk factors. The nomogram based on plasma Ninj1 level demonstrated good calibration and discrimination with the area under the curve 0.814.
+CONCLUSIONS: Plasma Ninj1 levels are increased in patients with CAD. Elevated levels of plasma Ninj1 are associated with CAD and the severity of coronary stenosis. A nomogram based on plasma Ninj1 and sectional clinical characteristics exerted a predictive potential for CAD.
+
+Citation: Fang C, et al. Association of plasma Ninjurin-1 and SYNTAX score in patients with coronary artery disease. Association of plasma Ninjurin-1 and SYNTAX score in patients with coronary artery disease. 2022; 108:50-55. doi: 10.1016/j.clinbiochem.2022.06.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35764174/

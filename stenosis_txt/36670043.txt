@@ -1,0 +1,11 @@
+PMID: 36670043
+Title: Sex differences in computed tomography angiography-derived coronary plaque burden in relation to invasive fractional flow reserve.
+
+Abstract: BACKGROUND: Distinct sex-related differences exist in coronary artery plaque burden and distribution. We aimed to explore sex differences in quantitative plaque burden by coronary CT angiography (CCTA) in relation to ischemia by invasive fractional flow reserve (FFR).
+METHODS: This post-hoc analysis of the PACIFIC trial included 581 vessels in 203 patients (mean age 58.1 ​± ​8.7 years, 63.5% male) who underwent CCTA and per-vessel invasive FFR. Quantitative assessment of total, calcified, non-calcified, and low-density non-calcified plaque burden were performed using semiautomated software. Significant ischemia was defined as invasive FFR ≤0.8.
+RESULTS: The per-vessel frequency of ischemia was higher in men than women (33.5% vs. 7.5%, p ​< ​0.001). Women had a smaller burden of all plaque subtypes (all p ​< ​0.01). There was no sex difference on total, calcified, or non-calcified plaque burdens in vessels with ischemia; only low-density non-calcified plaque burden was significantly lower in women (beta: -0.183, p ​= ​0.035). The burdens of all plaque subtypes were independently associated with ischemia in both men and women (For total plaque burden (5% increase): Men, OR: 1.15, 95%CI: 1.06-1.24, p ​= ​0.001; Women, OR: 1.96, 95%CI: 1.11-3.46, p ​= ​0.02). No significant interaction existed between sex and total plaque burden for predicting ischemia (interaction p ​= ​0.108). The addition of quantitative plaque burdens to stenosis severity and adverse plaque characteristics improved the discrimination of ischemia in both men and women.
+CONCLUSIONS: In symptomatic patients with suspected CAD, women have a lower CCTA-derived burden of all plaque subtypes compared to men. Quantitative plaque burden provides independent and incremental predictive value for ischemia, irrespective of sex.
+
+Citation: Han D, et al. Sex differences in computed tomography angiography-derived coronary plaque burden in relation to invasive fractional flow reserve. Sex differences in computed tomography angiography-derived coronary plaque burden in relation to invasive fractional flow reserve. 2023; 17:112-119. doi: 10.1016/j.jcct.2022.12.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36670043/

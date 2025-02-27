@@ -1,0 +1,11 @@
+PMID: 36635731
+Title: Triglyceride glucose index is associated with obstructive coronary artery disease in hypertensive patients.
+
+Abstract: BACKGROUND: Hypertension is a leading risk of coronary artery disease (CAD). Triglyceride glucose index (TyG) is a surrogate of insulin resistance (IR). Few studies explore the association between TyG and the incidence of obstructive CAD (OCAD) in hypertensive patients.
+METHODS: We retrospectively screened 1841 hypertensive subjects who were free of a history of CAD and underwent coronary computed tomography angiography (CCTA) because of chest pain. TyG index was calculated as ln (fasting TG [mg/dL] * fasting glucose [mg/dL]/2). The outcome of this research was OCAD, which was defined as the presence of diameter stenosis ≥ 50% in any of the four major epicardial coronary arteries detected on CCTA.
+RESULTS: A total of 310 (16.8%) patients developed obstructive CAD. The restricted cubic spline (RCS) analysis showed a J-shaped relationship between TyG and OCAD and the OR for OCAD increased as the TyG rose over 8.61 (OR perSD) 1.64, 95% CI 1.13-2.54, p = 0.008). After full adjustments for confounding covariates, patients with TyG index in tertile 3 (T3) had 2.12 times (95% CI 1.80 to 3.81) and in T2 had 2.01 times (95% CI 1.40 to 2.88) as high as the risk of OCAD compared with patients in T1 (p for trend = 0.001). When regarding TyG as a continuous variable, 1-SD increase elevated 49% (OR (95%CI), 1.49 (1.30-1.74)) risk of obstructive CAD (p = 0.007). This positive effect was still consistent across the subgroups (p for interaction > 0.05).
+CONCLUSION: TyG index was associated with the incidence of obstructive CAD in hypertensive patients.
+
+Citation: Pan W, et al. Triglyceride glucose index is associated with obstructive coronary artery disease in hypertensive patients. Triglyceride glucose index is associated with obstructive coronary artery disease in hypertensive patients. 2023; 22:9. doi: 10.1186/s12933-023-01739-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36635731/

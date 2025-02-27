@@ -1,0 +1,11 @@
+PMID: 38703972
+Title: Arterial transit artifacts and carotid Plaque-RADS may predict symptoms in patients with carotid stenosis.
+
+Abstract: AIM: To analyze the correlation of carotid stenosis severity, the Plaque Reporting and Data System (RADS) score, arterial transit artifacts (ATAs), and cerebral blood flow (CBF) with clinical cerebral ischemic symptoms in patients with carotid artery stenosis (CAS).
+MATERIALS AND METHODS: Sixty-one patients with unilateral internal carotid artery stenosis or occlusion (≥50% stenosis) diagnosed by ultrasound, Computed Tomography(CT) angiography, or Magnetic Resonance(MR) angiography in Yichang City Central People's Hospital from January 2022 to February 2024 were retrospectively enrolled and divided into two groups according to the presence or absence of symptoms. Both groups underwent MR plaque imaging and arterial spin labeling (ASL)-based 3.0 T MRI to compare the differences in stenosis degree, Plaque-RADS score, ATA grade, and CBF between the two groups. Binary regression analysis was used to identify the parameters with statistically significant differences between the two groups and to evaluate their diagnostic efficacy using the area under the workup curve of the subjects.
+RESULTS: The Plaque-RADS score, ATA grade, and CBF differences in the anterior cerebral artery(ACA)blood supply region were correlated with symptoms, and the areas under the ROC curves for the CBF differences in the ACA blood supply region, Plaque-RADS score, ATA grade and a joint model that combines all three to predict symptoms in CAS patients were 0.672, 0.796, 0.788 and 0.919, respectively.
+CONCLUSIONS: CBF, Plaque-RADS and ATAs were identified as independent risk factors for symptoms in patients with CAS and have a certain predictive value for symptoms, and the combined predictive value is greater, potentially providing a more effective imaging modality for clinical treatment and evaluation.
+
+Citation: Xia J, et al. Arterial transit artifacts and carotid Plaque-RADS may predict symptoms in patients with carotid stenosis. Arterial transit artifacts and carotid Plaque-RADS may predict symptoms in patients with carotid stenosis. 2024; 111:131-137. doi: 10.1016/j.mri.2024.05.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38703972/

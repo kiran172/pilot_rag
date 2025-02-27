@@ -1,0 +1,8 @@
+PMID: 39266002
+Title: Unlocking Hidden Risks: Harnessing Artificial Intelligence (AI) to Detect Subclinical Conditions from an Electrocardiogram (ECG).
+
+Abstract: Recent artificial intelligence (AI) advancements in cardiovascular medicine offer potential enhancements in diagnosis, prediction, treatment, and outcomes. This article aims to provide a basic understanding of AI enabled ECG technology. Specific conditions and findings will be discussed, followed by reviewing associated terminology and methodology. In the appendix, definitions of AUC versus accuracy are explained. The application of deep learning models enables detecting diseases from normal electrocardiograms at accuracy not previously achieved by technology or human experts. Results with AI enabled ECG are encouraging as they considerably exceeded current screening models for specific conditions (i.e., atrial fibrillation, left ventricular dysfunction, aortic stenosis, and hypertrophic cardiomyopathy). This could potentially lead to a revitalization of the utilization of the ECG in the insurance domain. While we are embracing the findings with this rapidly evolving technology, but cautious optimism is still necessary at this point.
+
+Citation: Posan E and Richie R. Unlocking Hidden Risks: Harnessing Artificial Intelligence (AI) to Detect Subclinical Conditions from an Electrocardiogram (ECG). Unlocking Hidden Risks: Harnessing Artificial Intelligence (AI) to Detect Subclinical Conditions from an Electrocardiogram (ECG). 2024; 51:64-76. doi: 10.17849/insm-51-2-64-76.1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39266002/

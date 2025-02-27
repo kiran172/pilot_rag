@@ -1,0 +1,10 @@
+PMID: 39392145
+Title: Association Between Body Mass Index and Risk of Aortic Stenosis in Women in the Swedish Medical Birth Registry.
+
+Abstract: BACKGROUND: Overweight and obesity are increasing globally with aging, as are life expectancy and aging-associated disorders, including calcific aortic stenosis (AS). Studies investigating the correlation between high body mass index (BMI) and AS are contradictory and inconclusive. This study examines a potential association between BMI and AS in women.
+METHODS AND RESULTS: By linking the Swedish Medical Birth Register and the Swedish National Patient Register, we included women aged 18 to 55 years with a first childbirth from 1981 to 2020. Diagnosis of AS and comorbidities were defined according to the International Classification of Diseases (ICD) codes. The women were divided into groups on the basis of BMI. Cox proportional hazards regression models were used to investigate the difference in the risk of being diagnosed with AS, with reference BMI 20 to &lt;22.5 kg/m2. Among the 1 722 625 included women, the mean age was 28 years, and mean BMI was 24 kg/m2, with 21% being overweight (BMI 25 to &lt;30 kg/m2) and 8.5% obese (BMI ≥30 kg/m2). During median follow-up of 19.5 years, 2488 women (0.14%) were diagnosed with AS. The age-adjusted risk of being diagnosed with AS increased with higher BMI to 2.82 (95% CI, 2.44-3.25) times higher in women with BMI 30 to &lt;35 kg/m2, and to 3.72 (95% CI, 2.95-4.70) times higher in those with BMI ≥35 kg/m2. Similar results were found after excluding AS of rheumatic pathogenesis.
+CONCLUSIONS: An increase in BMI from its upper normal range was consistently and independently associated with the risk of developing AS in women.
+
+Citation: Kontogeorgos S, et al. Association Between Body Mass Index and Risk of Aortic Stenosis in Women in the Swedish Medical Birth Registry. Association Between Body Mass Index and Risk of Aortic Stenosis in Women in the Swedish Medical Birth Registry. 2024; 13:e034891. doi: 10.1161/JAHA.123.034891
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39392145/

@@ -1,0 +1,8 @@
+PMID: 31297646
+Title: Effects of red blood cell aggregation on the blood flow in a symmetrical stenosed microvessel.
+
+Abstract: In order to figure out whether red blood cell (RBC) aggregation is beneficial or deleterious for the blood flow through a stenosis, fluid mechanics of a microvascular stenosis was examined through simulating the dynamics of deformable red blood cells suspended in plasma using dissipative particle dynamics. The spatial variation in time-averaged cell-free layer (CFL) thickness and velocity profiles indicated that the blood flow exhibits asymmetry along the flow direction. The RBC accumulation occurs upstream the stenosis, leading to a thinner CFL and reduced flow velocity. Therefore, the emergence of stenosis produces an increased blood flow resistance. In addition, an enhanced Fahraeus-Lindqvist effect was observed in the presence of the stenosis. Finally, the effect of RBC aggregation combined with decreased stenosis on the blood flow was investigated. The findings showed that when the RBC clusters pass through the stenosis with a throat comparable to the RBC core in diameter, the blood flow resistance decreases with increasing intercellular interaction strength. But if the RBC core is larger and even several times than the throat, the blood flow resistance increases largely under strong RBC aggregation, which may contribute to the mechanism of the microthrombus formation.
+
+Citation: Xiao LL, et al. Effects of red blood cell aggregation on the blood flow in a symmetrical stenosed microvessel. Effects of red blood cell aggregation on the blood flow in a symmetrical stenosed microvessel. 2020; 19:159-171. doi: 10.1007/s10237-019-01202-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31297646/

@@ -1,0 +1,8 @@
+PMID: 39080039
+Title: Impact of reconstructed portal vein morphology on postoperative nutritional status in pancreatoduodenectomy: a computational fluid dynamics study.
+
+Abstract: This study evaluated the impact of reconstructed portal vein/superior mesenteric vein (PV/SMV) morphology on the long-term nutritional status following pancreatoduodenectomy (PD) using computational fluid dynamics (CFD). Twenty-four patients who underwent PD with PV/SMV resection and reconstruction without tumor recurrence for over 9 months after the operation were enrolled in the study. Three-dimensional models were constructed from computed tomography images obtained 3-6 months postoperatively. The pressure (p) at the inlet and turbulence dissipation rate (ε) at the outlet were investigated in the models. Patients with values of either p or ε above the upper interquartile range were classified as the poor flow group. The prognostic nutritional index improvement rate was significantly lower at 9 postoperative months in the poor flow group than in the good flow group (P = 0.016). This finding indicates the utility of a CFD analysis for evaluating the reconstructed PV/SMV morphology.
+
+Citation: Sakamoto K, et al. Impact of reconstructed portal vein morphology on postoperative nutritional status in pancreatoduodenectomy: a computational fluid dynamics study. Impact of reconstructed portal vein morphology on postoperative nutritional status in pancreatoduodenectomy: a computational fluid dynamics study. 2024; (unknown volume):(unknown pages). doi: 10.1007/s00595-024-02903-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39080039/

@@ -1,0 +1,11 @@
+PMID: 34985156
+Title: Transcatheter aortic valve replacement outcomes in solid organ transplant recipients.
+
+Abstract: BACKGROUND AND AIMS: Transcatheter aortic valve replacement (TAVR) has become the primary treatment for severe symptomatic aortic stenosis in patients >65 years with volumes exceeding surgical aortic valve replacements (SAVR) since 2019. As a less invasive procedure with lower complication rates, TAVR is preferable in most patient populations, particularly those with increased surgical risk. One such population is patients who have undergone solid organ transplant (SOT). We aimed to evaluate periprocedural outcomes and complication rates following TAVR in SOT recipients as compared to the general TAVR population.
+METHODS: The 2016-2018 National Inpatient Sample (NIS) was queried by ICD-10 PCS codes to identify TAVR cases; hospitalizations were subsequently stratified by SOT history. Multivariate analyses were completed to evaluate complication rates, length of stay (LOS), and cost of stay (COS).
+RESULTS: No significant difference was observed in mortality rates or post-procedural complications between SOT recipients (n = 223) and those without transplant history undergoing TAVR (n = 29,448) except for increased thromboembolic events captured in transplant patients (p < .001). There was no significant variation in LOS or COS between the two populations; female sex and Black or Hispanic race were predictors of increased inpatient time.
+CONCLUSIONS: SOT recipients have no increased risk of mortality or periprocedural complications when undergoing TAVR. Though the rate of thromboembolic events was higher in SOT recipients, observation size was small (n = 27 TAVR, n = 4 TAVR + SOT) thus external validity is limited. Based on these data, transplant recipients experience no difference in outcomes following TAVR as compared to patients without a history of organ transplant.
+
+Citation: Campany ME, et al. Transcatheter aortic valve replacement outcomes in solid organ transplant recipients. Transcatheter aortic valve replacement outcomes in solid organ transplant recipients. 2022; 37:602-607. doi: 10.1111/jocs.16202
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34985156/

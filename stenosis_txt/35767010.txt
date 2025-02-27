@@ -1,0 +1,11 @@
+PMID: 35767010
+Title: Follow-up assessment of atherosclerotic plaques in acute ischemic stroke patients using high-resolution vessel wall MR imaging.
+
+Abstract: PURPOSE: Data on evolution of intracranial plaques in acute ischemic stroke patients after receiving medical therapy is still limited. We aimed to investigate the plaque features associated with culprit lesions and to explore the plaque longitudinal changes during treatment using high-resolution vessel wall MR imaging (VW-MRI).
+METHODS: Twenty-three patients (16 men; mean age, 51.4 years ± 11.1) with acute ischemic stroke underwent 3-T VW-MRI for intracranial atherosclerosis and were taken follow-up assessments. Each identified plaque was retrospectively classified as culprit, probably culprit, or nonculprit. Plaque features were analyzed at both baseline and follow-up and were compared using paired t-test, paired Wilcoxon test, or McNemar's test.
+RESULTS: A total of 87 intracranial plaques were identified (23 [26.4%] culprit, 10 [11.5%] probably culprit, and 54 [62.1%] nonculprit plaques). The median time interval between initial and follow-up MRI scans was 8.0 months. In the multiple ordinal logistic regression analysis, plaque contrast ratio (CR) (OR, 1.037; 95% CI, 1.013-1.062; P = 0.002) and surface irregularity (OR, 4.768; 95% CI, 1.064-21.349; P = 0.041) were independently associated with culprit plaques. During follow-up, plaque length, maximum thickness, normalized wall index (NWI), stenosis degree, and CR significantly decreased (all P-values < 0.05) in the culprit plaque group. The plaque NWI and CR dropped in the probably culprit plaques (P = 0.041, 0.026, respectively). In the nonculprit plaque group, only plaque NWI and stenosis degree showed significant decrement (P = 0.017, 0.037, respectively).
+CONCLUSION: Follow-up VW-MRI may contribute to plaque risk stratification and may provide valuable insights into the evolution of different plaques in vivo.
+
+Citation: Lin X, et al. Follow-up assessment of atherosclerotic plaques in acute ischemic stroke patients using high-resolution vessel wall MR imaging. Follow-up assessment of atherosclerotic plaques in acute ischemic stroke patients using high-resolution vessel wall MR imaging. 2022; 64:2257-2266. doi: 10.1007/s00234-022-03002-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35767010/

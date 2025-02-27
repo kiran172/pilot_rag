@@ -1,0 +1,11 @@
+PMID: 37148775
+Title: The REMIT scale: A novel prediction scale for embolism in hyperacute stroke with large vessel occlusion.
+
+Abstract: BACKGROUND AND PURPOSE: Large vessel occlusion (LVO) in hyperacute ischemic stroke occurs mainly by one of two mechanisms, embolism or atherosclerosis. However, the mechanism is difficult to identify prior to treatment. We aimed to investigate the factors associated with embolic LVO in hyperacute ischemic stroke, and to develop a preoperative predictive scale for the event.
+MATERIALS AND METHODS: This retrospective multicenter study was conducted with consecutive ischemic stroke patients with LVO who underwent thrombectomy, thrombolysis, or both. The embolic LVO was defined as an occlusion that underwent recanalization with no residual stenosis. Multivariate logistic regression analysis for embolic LVO was performed to identity the independent risk factors. With this approach, a novel prediction scale (Rating of Embolic Occlusion for Mechanical Thrombectomy [REMIT] scale) was developed.
+RESULTS: A total of 162 patients (104 men; median age 76 years; interquartile range 68-83) were included in this study. Embolic LVO was observed in 121 patients (75%). Multivariate logistic regression analysis showed that embolic LVO was independently associated with high brain natriuretic peptide (BNP), high National Institutes of Health Stroke Scale (NIHSS) on admission, and absence of non-culprit stenosis (NoCS). The REMIT scale comprises high BNP (>100 pg/dL), high NIHSS (>14) and absence of NoCS, with one point for each risk factor. The frequencies of embolic LVO for the REMIT scale scores were as follows: score 0, 25%; score 1, 60%; score 2, 87%; score 3, 97% (C-statistic 0.80, P < 0.001).
+CONCLUSION: The novel REMIT scale has predictive value for embolic LVO.
+
+Citation: Sakuta K, et al. The REMIT scale: A novel prediction scale for embolism in hyperacute stroke with large vessel occlusion. The REMIT scale: A novel prediction scale for embolism in hyperacute stroke with large vessel occlusion. 2023; 449:120666. doi: 10.1016/j.jns.2023.120666
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37148775/

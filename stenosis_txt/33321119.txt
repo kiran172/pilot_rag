@@ -1,0 +1,11 @@
+PMID: 33321119
+Title: Paclitaxel-coated devices in the treatment of femoropopliteal stenosis among patients ≥65 years old: An ACC PVI Registry Analysis.
+
+Abstract: BACKGROUND: The connection between paclitaxel-coated devices (PCD) use during peripheral vascular interventions (PVI) and mortality is debated. We aimed to analyze patterns of PCD use and the safety and effectiveness of PCD use in the superficial femoral and/or popliteal arteries.
+METHODS: Patients undergoing PVI of femoropopliteal lesions with and without PCD between January 1, 2015 and June 30, 2017 were compared using the American College of Cardiology's National Cardiovascular Data Registry PVI Registry. Outcomes were derived from Centers for Medicare & Medicaid claims data. The primary outcome was all-cause mortality at 6-, 12-, and 24-months following PVI. Inverse probability weighting and frailty models were used to assess the differences between groups. The analysis was IRB-approved.
+RESULTS: In the overall cohort consisting of 6,302 femoropopliteal PVIs, PCD-PVI patients were more likely to be treated for claudication (63.5% vs 51.3%, P< .001), less likely to have a chronic total occlusion (24.6% vs 34.7%, P < .001), and more likely to be treated in certain geographic and practice settings. In the analytic cohort consisting of 1,666 femoropopliteal PVIs with linked claims outcomes (888 PCD-PVI, 53.3%), unadjusted rates of all outcomes were lower in PCD-PVI patients. After adjustment, there were no significant differences in mortality following PCD-PVI versus non-PCD PVI at 1 year (adjusted RR 0.78, 95% CI 0.60-1.01, P= .055) or 2 years (aRR 0.98, 95% CI 0.77-1.24, P= .844).
+CONCLUSION: There were significant differences between the patients in whom and settings in which PCD-PVI was versus was not used. PCD-PVI was not associated with an increased risk of 2-year mortality in real-world use.
+
+Citation: Weissler EH, et al. Paclitaxel-coated devices in the treatment of femoropopliteal stenosis among patients ≥65 years old: An ACC PVI Registry Analysis. Paclitaxel-coated devices in the treatment of femoropopliteal stenosis among patients ≥65 years old: An ACC PVI Registry Analysis. 2021; 233:59-67. doi: 10.1016/j.ahj.2020.12.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33321119/

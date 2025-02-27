@@ -1,0 +1,12 @@
+PMID: 39412691
+Title: Disproportionality analysis of flutamide- or bicalutamide-induced liver injury with and without steroids by using the Japanese Adverse Drug Event Report database.
+
+Abstract: BACKGROUND: Although the mechanism underlying flutamide- or bicalutamide-induced liver injury may be immune related, the details remain unclear. If this mechanism is immune related, steroid use may be considered as a treatment option.
+AIM: Disproportionality analysis was conducted to evaluate the effect of concomitant steroid use on flutamide- and bicalutamide-induced liver injury.
+METHOD: Male patients aged 20 years or older who were receiving nonsteroidal anti-androgens from April 2004 to October 2023 were screened from the Japanese Adverse Drug Event Report database. Data on liver injury, age, weight, height, steroid use, obesity, hepatic stenosis, alcohol-related hepatic disorders, hepatitis B and C, and common drugs known to cause drug-induced liver injury were analyzed. Liver injury was defined by the Standardized Medical Dictionary for Regulatory Activities query index (code 20000006, version 27.0).
+RESULTS: Among 142,430 patients, 2,316 were administered nonsteroidal anti-androgens. Reports of liver injury were disproportionate depending on the agents used (reporting odds ratio [ROR], 1.29; 95% confidence intervals [CI], 1.13-1.46), especially among flutamide or bicalutamide users (flutamide: ROR, 6.09; 95% CI, 4.51-8.23; bicalutamide: ROR, 1.24; 95% CI, 1.05-1.48). Multivariable logistic regression analysis correlated steroid use with a lower risk of flutamide- or bicalutamide-induced liver injury (flutamide: odds ratio, 0.07; 95% CI, 0.01-0.52; bicalutamide: odds ratio, 0.45; 95% CI, 0.21-0.96).
+CONCLUSION: Our findings suggest that flutamide and bicalutamide may increase the risk of liver injury compared to enzalutamide, apalutamide, and darolutamide. Furthermore, our study indicated that steroid use could aid in the management of liver injury.
+
+Citation: Yamada T, et al. Disproportionality analysis of flutamide- or bicalutamide-induced liver injury with and without steroids by using the Japanese Adverse Drug Event Report database. Disproportionality analysis of flutamide- or bicalutamide-induced liver injury with and without steroids by using the Japanese Adverse Drug Event Report database. 2024; (unknown volume):(unknown pages). doi: 10.1007/s11096-024-01814-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39412691/

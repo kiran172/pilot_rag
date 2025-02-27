@@ -1,0 +1,11 @@
+PMID: 32471907
+Title: Computed tomographic myocardial mass compared with invasive myocardial perfusion measurement.
+
+Abstract: OBJECTIVE: The prognostic importance of a coronary stenosis depends on its functional severity and its depending myocardial mass. Functional severity can be assessed by fractional flow reserve (FFR), estimated non-invasively by a specific validated CT algorithm (FFR<sub>CT</sub>). Calculation of myocardial mass at risk by that same set of CT data (CTmass), however, has not been prospectively validated so far. The aim of the present study was to compare relative territorial-based CTmass assessment with relative flow distribution, which is closely linked to true myocardial mass.
+METHODS: In this exploratory study, 35 patients with (near) normal coronary arteries underwent CT scanning for computed flow-based CTmass assessment and underwent invasive myocardial perfusion measurement in all 3 major coronary arteries by continuous thermodilution. Next, the mass and flows were calculated as relative percentages of total mass and perfusion.
+RESULTS: The mean difference between CTmass per territory and invasively measured myocardial perfusion, both expressed as percentage of total mass and perfusion, was 5.3±6.2% for the left anterior descending territory, -2.0±7.4% for the left circumflex territory and -3.2±3.4% for the right coronary artery territory. The intraclass correlation between the two techniques was 0.90.
+CONCLUSIONS: Our study shows a close relationship between the relative mass of the perfusion territory calculated by the specific CT algorithm and invasively measured myocardial perfusion. As such, these data support the use of CTmass to estimate territorial myocardium-at-risk in proximal coronary arteries.
+
+Citation: Keulards DCJ, et al. Computed tomographic myocardial mass compared with invasive myocardial perfusion measurement. Computed tomographic myocardial mass compared with invasive myocardial perfusion measurement. 2020; 106:1489-1494. doi: 10.1136/heartjnl-2020-316689
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32471907/

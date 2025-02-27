@@ -1,0 +1,11 @@
+PMID: 36811679
+Title: Anastomotic stricture prediction in patients with esophageal atresia with distal fistula.
+
+Abstract: PURPOSE: To investigate potential early risk factors for anastomotic stricture formation and assess the predictive role of post-operative esophagrams.
+METHODS: A retrospective study of patients with esophageal atresia with distal fistula (EA/TEF) operated between 2011 and 2020. Fourteen predictive factors were tested for stricture development. Esophagrams were used to calculate early (SI1) and late (SI2) stricture index (SI = anastomosis diameter/upper pouch diameter).
+RESULTS: Of 185 patients operated for EA/TEF in the 10-year period, 169 patients met the inclusion criteria. Primary anastomosis was performed in 130 patients and delayed anastomosis in 39 patients. Stricture formed in 55 patients (33%) within 1 year from anastomosis. Four risk factors showed strong association with stricture formation in unadjusted models: long gap (p = 0.007), delayed anastomosis (p = 0.042), SI1 (p = 0.013) and SI2 (p < 0.001). A multivariate analysis showed SI1 as significantly predictive of stricture formation (p = 0.035). Cut-off values using a receiver operating characteristic (ROC) curve were 0.275 for SI1 and 0.390 for SI2. The area under the ROC curve demonstrated increasing predictiveness from SI1 (AUC 0.641) to SI2 (AUC 0.877).
+CONCLUSIONS: This study identified an association between long gap and delayed anastomosis with stricture formation. Early and late stricture indices were predictive of stricture formation.
+
+Citation: Newland N, et al. Anastomotic stricture prediction in patients with esophageal atresia with distal fistula. Anastomotic stricture prediction in patients with esophageal atresia with distal fistula. 2023; 39:136. doi: 10.1007/s00383-023-05423-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36811679/

@@ -1,0 +1,11 @@
+PMID: 32852893
+Title: Optimal timing for surgical reconstruction of bile duct injury: meta-analysis.
+
+Abstract: BACKGROUND: Major bile duct injury (BDI) after cholecystectomy generally requires surgical reconstruction by means of hepaticojejunostomy. However, there is controversy regarding the optimal timing of surgical reconstruction.
+METHODS: A systematic review was performed by searching PubMed, Embase and Cochrane databases for studies published between 1990 and 2018 reporting on the timing of hepaticojejunostomy for BDI (PROSPERO registration CRD42018106611). The main outcomes were postoperative morbidity, postoperative mortality and anastomotic stricture. When individual patient data were available, time intervals of these studies were attuned to render these comparable with other studies. Data for comparable time intervals were pooled using a random-effects model. In addition, data for all included studies were pooled using a generalized linear model.
+RESULTS: Some 21 studies were included, representing 2484 patients. In these studies, 15 different time intervals were used. Eight studies used the time intervals of less than 14 days (early), 14 days to 6 weeks (intermediate) and more than 6 weeks (delayed). Meta-analysis revealed a higher risk of postoperative morbidity in the intermediate interval (early versus intermediate: risk ratio (RR) 0·73, 95 per cent c.i. 0·54 to 0·98; intermediate versus delayed: RR 1·50, 1·16 to 1·93). Stricture rate was lowest in the delayed interval group (intermediate versus delayed: RR 1·53, 1·07 to 2·20). Postoperative mortality did not differ within time intervals. The additional analysis demonstrated increased odds of postoperative morbidity for reconstruction between 2 and 6 weeks, and decreased odds of anastomotic stricture for delayed reconstruction.
+CONCLUSION: This meta-analysis found that surgical reconstruction of BDI between 2 and 6 weeks should be avoided as this was associated with higher risk of postoperative morbidity and hepaticojejunostomy stricture.
+
+Citation: Schreuder AM, et al. Optimal timing for surgical reconstruction of bile duct injury: meta-analysis. Optimal timing for surgical reconstruction of bile duct injury: meta-analysis. 2020; 4:776-786. doi: 10.1002/bjs5.50321
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32852893/

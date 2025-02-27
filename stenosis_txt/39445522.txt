@@ -1,0 +1,11 @@
+PMID: 39445522
+Title: Changes and prognostic impact of noninvasive myocardial work indices in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: PURPOSE: The prognostic significance of noninvasive myocardial work (MW) indices in patients undergoing transcatheter aortic valve implantation (TAVI) has not been adequately examined.
+METHODS: We retrospectively selected 88 consecutive patients (mean age 79.9 ± 6.4 years, 40% males) with severe aortic stenosis scheduled for TAVI enrolled in the EffecTAVI registry. Exclusion criteria were prior valve surgery, atrial fibrillation, and left bundle branch block (LBBB) at baseline. Global work index (GWI), global constructive work (GCW), global wasted work (GWW), and global work efficiency (GWE) were measured by echocardiography at baseline and at 30 days. Accuracy of the noninvasive measures was assessed by invasive evaluation of MW.
+RESULTS: In the overall population, a significant reduction in GWI (2406 ± 567 vs. 2063 ± 515 mmHg% before and after TAVI respectively, P  < 0.001), GCW (2783 ± 616 vs. 2380 ± 495 mmHg%, P  < 0.001) and GWW (238 ± 203 vs. 186 ± 135 mmHg%, P  = 0.015) was observed at 30 days after TAVI. GWE improved only in patients who did not develop left ventricular dyssynchrony due to new-onset LBBB or pacemaker implantation following TAVI. In a multivariable Cox-regression analysis, GWE after TAVI (hazard ratio 0.892, 95% confidence interval 0.81-0.97; P  = 0.011) was the strongest predictor of adverse events (a composite of all-cause death, worsening of dyspnea, or rehospitalization for cardiovascular events) at 1-year follow-up.
+CONCLUSIONS: TAVI results in significant changes in MW indices, including an early decrease in GWI, GCW and GWW, and an improvement in GWE in patients without left ventricle dyssynchrony. A GWE equal or less than 92% at 30 days is indicative of poor clinical outcomes at 1 year.
+
+Citation: Ilardi F, et al. Changes and prognostic impact of noninvasive myocardial work indices in patients undergoing transcatheter aortic valve implantation. Changes and prognostic impact of noninvasive myocardial work indices in patients undergoing transcatheter aortic valve implantation. 2024; 25:836-844. doi: 10.2459/JCM.0000000000001676
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39445522/

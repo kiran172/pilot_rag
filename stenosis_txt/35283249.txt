@@ -1,0 +1,12 @@
+PMID: 35283249
+Title: Pacemaker risk following transcatheter aortic valve replacement - A Bayesian reanalysis.
+
+Abstract: OBJECTIVES: To estimate the probability of increased total mortality risk in patients receiving a cardiac pacemaker following transcatheter aortic valve replacement (TAVR).
+BACKGROUND: A recent publication of a nationwide Swedish, population-based cohort study found no statistically significant difference for all-cause mortality. It is unknown if a Bayesian reanalysis would provide additional insights and lead to the same conclusion.
+METHODS: A digitalized approach to the published Kaplan - Meier curves was used to reconstruct the individual patient dataset. Bayesian survival analyses of this data using both vague, thereby allowing the posterior probability to be completely dominated by the observed data, as well as skeptical and informative priors, based on the mortality risk of pacemaker implantation following surgical aortic valve replacement, were performed.
+RESULTS: The individual patient data set was reliably reconstructed and showed a 4 year follow-up hazard ratio (HR) = 1.08, 95% credible interval (CrI) 0.85-1.36. The Bayesian analysis using a vague prior revealed a 74.9% probability of increased mortality in the pacemaker group. Using a skeptical, semi-informative, and fully informative priors, the posterior probabilities of increased mortality following pacemaker insertion was increased to 68.9%, 93.9% and 98.4%, respectively.
+CONCLUSIONS: This Bayesian reanalysis suggests a moderate to high probability of an increased total mortality in TAVR patients requiring post procedural pacemaker implantation.
+
+Citation: Albuquerque AM and Brophy JM. Pacemaker risk following transcatheter aortic valve replacement - A Bayesian reanalysis. Pacemaker risk following transcatheter aortic valve replacement - A Bayesian reanalysis. 2022; 355:32-36. doi: 10.1016/j.ijcard.2022.03.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35283249/

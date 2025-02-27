@@ -1,0 +1,12 @@
+PMID: 39290212
+Title: Diagnostic value of artificial intelligence-assisted CTA for the assessment of atherosclerosis plaque: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Artificial intelligence (AI) has increasingly been applied to computed tomography angiography (CTA) images to aid in the assessment of atherosclerotic plaque. Our aim was to explore the diagnostic accuracy of AI-assisted CTA for plaque diagnosis and classification through a systematic review and meta-analysis.
+METHODS: A systematic literature review was performed by searching PubMed, EMBASE, and the Cochrane Library according to PRISMA guidelines. Original studies evaluating the diagnostic accuracy of radiomics, machine-learning, or deep-learning techniques applied to CTA images for detecting stenosis, calcification, or plaque vulnerability were included. The quality and risk of bias of the included studies were evaluated using the QUADAS-2 tool. The meta-analysis was conducted using STATA software (version 17.0) to pool sensitivity, specificity, and area under the receiver operating characteristic curve (AUROC) to determine the overall diagnostic performance.
+RESULTS: A total of 11 studies comprising 1,484 patients were included. There was low risk of bias and substantial heterogeneity. The overall pooled AUROC for atherosclerotic plaque assessment was 0.96 [95% confidence interval (CI) 0.94-0.97] across 21 trials. Of these, for ≥50% stenosis detection, the AUROC was 0.95 (95% CI 0.93-0.96) in five studies. For identifying ≥70% stenosis, the AUROC was 0.96 (95% CI 0.94-0.97) in six studies. For calcium detection, the AUROC was 0.92 (95% CI 0.90-0.94) in six studies.
+CONCLUSION: Our meta-analysis demonstrates that AI-assisted CTA has high diagnostic accuracy for detecting stenosis and characterizing plaque composition, with optimal performance in detecting ≥70% stenosis.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/, PROSPERO, identifier (CRD42023431410).
+
+Citation: Jie P, et al. Diagnostic value of artificial intelligence-assisted CTA for the assessment of atherosclerosis plaque: a systematic review and meta-analysis. Diagnostic value of artificial intelligence-assisted CTA for the assessment of atherosclerosis plaque: a systematic review and meta-analysis. 2024; 11:1398963. doi: 10.3389/fcvm.2024.1398963
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39290212/

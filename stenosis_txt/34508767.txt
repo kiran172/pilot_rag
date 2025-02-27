@@ -1,0 +1,11 @@
+PMID: 34508767
+Title: Artificial intelligence for automatic diagnosis of biliary stricture malignancy status in single-operator cholangioscopy: a pilot study.
+
+Abstract: BACKGROUND AND AIMS: The diagnosis and characterization of biliary strictures (BSs) is challenging. The introduction of digital single-operator cholangioscopy (DSOC) that allows direct visual inspection of the lesion and targeted biopsy sampling significantly improved the diagnostic yield in patients with indeterminate BSs. However, the diagnostic efficiency of DSOC remains suboptimal. Convolutional neural networks (CNNs) have shown great potential for the interpretation of medical images. We aimed to develop a CNN-based system for automatic detection of malignant BSs in DSOC images.
+METHODS: We developed, trained, and validated a CNN-based on DSOC images. Each frame was labeled as a normal/benign finding or as a malignant lesion if histopathologic evidence of biliary malignancy was available. The entire dataset was split for 5-fold cross-validation. In addition, the image dataset was split for constitution of training and validation datasets. The performance of the CNN was measured by calculating the area under the receiving operating characteristic curve (AUC), sensitivity, specificity, and positive and negative predictive values.
+RESULTS: A total of 11,855 images from 85 patients were included (9695 malignant strictures and 2160 benign findings). The model had an overall accuracy of 94.9%, sensitivity of 94.7%, specificity of 92.1%, and AUC of .988 in cross-validation analysis. The image processing speed of the CNN was 7 ms per frame.
+CONCLUSIONS: The developed deep learning algorithm accurately detected and differentiated malignant strictures from benign biliary conditions. The introduction of artificial intelligence algorithms to DSOC systems may significantly increase its diagnostic yield for malignant strictures.
+
+Citation: Saraiva MM, et al. Artificial intelligence for automatic diagnosis of biliary stricture malignancy status in single-operator cholangioscopy: a pilot study. Artificial intelligence for automatic diagnosis of biliary stricture malignancy status in single-operator cholangioscopy: a pilot study. 2022; 95:339-348. doi: 10.1016/j.gie.2021.08.027
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34508767/

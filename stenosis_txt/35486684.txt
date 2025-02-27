@@ -1,0 +1,11 @@
+PMID: 35486684
+Title: Surgical aortic valve replacement for low-gradient aortic stenosis.
+
+Abstract: AIMS: Low-gradient aortic stenosis is a challenging entity that needs accurate preoperative evaluation. For this high-risk patient population, ad hoc predictive scores are not available and profile risk is currently revealed by the EuroSCOREs. Aims of this study are to verify the suitability of the ES II as predictor of mortality in low-gradient aortic stenosis and to analyse the role of surgery as a treatment.
+METHODS: From June 2013 to August 2019, 414 patients underwent surgical aortic valve replacement for low-gradient aortic stenosis. Mean age was 75.78 ± 6.77 years and 190 were women. The prognostic value of Logistic EuroSCORE and EuroSCORE II were compared by receiver-operating characteristics (ROC) curve analysis.
+RESULTS: In-hospital, 30-day and 1-year mortality rates were respectively 3.4, 2.9 and 4.8% (14, 12 and 20 patients over 414). In-hospital mortality risk calculated by the Additive EuroSCORE was 7.2 ± 2.7%, by the Logistic EuroSCORE was 9 ± 5.2% and by the ES II was 4.13 ± 2.56%. The prognostic values of the EuroSCORE II and of the EuroSCORE were analysed in a ROC curve analysis for the prediction of in-hospital mortality [area under the curve (AUC): 0.62 vs. 0.58], 30-day mortality (AUC: 0.63 vs. 0.64) and 1-year mortality (AUC: 0.79 vs. 0.65). Both scores did not show significant differences with the only exception of 1-year mortality, for which EuroSCORE II had a better predictive ability than the Logistic EuroSCORE (P < 0.05).
+CONCLUSION: In low-gradient aortic stenosis undergoing surgery, the EuroSCORE II is a strong predictor of 1-year mortality.
+
+Citation: Brega C, et al. Surgical aortic valve replacement for low-gradient aortic stenosis. Surgical aortic valve replacement for low-gradient aortic stenosis. 2022; 23:338-343. doi: 10.2459/JCM.0000000000001292
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35486684/

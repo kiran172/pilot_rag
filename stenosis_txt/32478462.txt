@@ -1,0 +1,12 @@
+PMID: 32478462
+Title: Resting distal to aortic pressure ratio and fractional flow reserve discordance affects the diagnostic performance of quantitative flow ratio: Results from an individual patient data meta-analysis.
+
+Abstract: OBJECTIVE: To evaluate the diagnostic performance of quantitative flow ratio (QFR) related to fractional flow reserve (FFR) and resting distal-to-aortic pressure ratio (resting Pd/Pa) concordance.
+BACKGROUND: QFR is a method for computation of FFR based on standard coronary angiography. It is unclear how QFR is performed in patients with discordance between FFR and resting pressure ratios (distal-to-aortic pressure ratio [Pd/Pa]).
+MATERIALS AND METHODS: The main comparison was the diagnostic performance of QFR with FFR as reference stratified by correspondence between FFR and resting Pd/Pa. Secondary outcome measures included distribution of clinical or procedural characteristics stratified by FFR and resting Pd/Pa correspondence.
+RESULTS: Four prospective studies matched the inclusion criteria. Analysis was performed on patient level data reaching a total of 759 patients and 887 vessels with paired FFR, QFR, and resting Pd/Pa. Median FFR was 0.85 (IQR: 0.77-0.90). Diagnostic accuracy of QFR with FFR as reference was higher if FFR corresponded to resting Pd/Pa: accuracy 90% (95% CI: 88-92) versus 72% (95% CI: 64-80), p < .001, and sAUC 0.95 (95% CI: 0.92-0.96) versus 0.73 (95% CI: 0.69-0.77), p < .001. Resting Pd/Pa and FFR discordance were related to age, sex, hypertension, and lesion severity.
+CONCLUSION: Diagnostic performance of QFR with FFR as reference is reduced for lesions with discordant FFR (≤0.80) and resting Pd/Pa (≤0.92) measurements.
+
+Citation: Westra J, et al. Resting distal to aortic pressure ratio and fractional flow reserve discordance affects the diagnostic performance of quantitative flow ratio: Results from an individual patient data meta-analysis. Resting distal to aortic pressure ratio and fractional flow reserve discordance affects the diagnostic performance of quantitative flow ratio: Results from an individual patient data meta-analysis. 2021; 97:825-832. doi: 10.1002/ccd.28976
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32478462/

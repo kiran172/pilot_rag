@@ -1,0 +1,12 @@
+PMID: 35306031
+Title: Diagnostic accuracy of CT-derived and angiogram-derived fractional flow reserve.
+
+Abstract: AIMS: Although accumulating evidence demonstrated that virtual fractional flow reserve (FFR) based on coronary computed tomography angiography (CCTA) (CT-FFR) or invasive coronary angiogram (ICA) (CA-FFR) are promising alternatives to wire based FFR, which method has better diagnostic accuracy was still unclear. In our study, we aim to directly compare the diagnostic performance of CT-FFR and CA-FFR.
+METHODS: During the period of September 2019 to December 2020, patients with at least one 30%-90% coronary artery stenosis were enrolled and received invasive FFR. Then, virtual FFR values were calculated based on both CCTA and ICA, and then compared with the invasive FFR value.
+RESULTS: Invasive FFR measurements were successfully performed in 114 vessels of 96 patients. Both CT-FFR and CA-FFR showed good correlation with wire-based FFR, with r values of 0.84 and 0.71 respectively. In paired t-test, the deviation of CT-FFR and CA-FFR was not significantly different (t = -1.9083, p = 0.05889). In Bland-Altman analysis, the coefficients of variation were 8.4% and 13.2% for CT-FFR and CA-FFR respectively. In ROC curve analysis, the per-vessel diagnostic accuracy of CT-FFR and CA-FFR was 94.7% and 92.1% respectively. The area under the curve of CT-FFR was slightly higher than that of CA-FFR (0.986 and 0.916 respectively, the difference between areas = 0.070, 95% CI 0.003-0.137, p = 0.0227).
+CONCLUSION: Both CT-FFR and CA-FFR had good diagnostic concordance with wire-based FFR. In ROC Curve analysis, CT-FFR demonstrated slightly higher diagnostic accuracy than CA-FFR.
+CLINICAL TRIAL REGISTRATION: URL: https://www.chictr.org.cn/showproj.aspx?proj=44719. Unique Identifier: ChiCTR1900026971.
+
+Citation: Chen Z, et al. Diagnostic accuracy of CT-derived and angiogram-derived fractional flow reserve. Diagnostic accuracy of CT-derived and angiogram-derived fractional flow reserve. 2022; (unknown volume):(unknown pages). doi: 10.1016/j.ijcard.2022.03.036
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35306031/

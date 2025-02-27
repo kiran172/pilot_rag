@@ -1,0 +1,12 @@
+PMID: 39284482
+Title: Association of Electrocardiogram Findings With Clinical Outcomes in Patients With Chronic Coronary Syndrome: An Analysis of the ISCHEMIA Trials.
+
+Abstract: OBJECTIVE: We aimed to investigate the association of electrocardiogram (ECG) findings with outcomes in patients with chronic coronary syndrome.
+METHODS: This secondary analysis of the ISCHEMIA and ISCHEMIA-CKD trials divided patients with chronic coronary syndrome into two groups, those with a normal ECG tracing and abnormal ECG tracing. Repolarization abnormalities included ST-segment depression ≥ 0.5 mm and T-wave inversion ≥ 1 mm; conduction abnormalities included left and right bundle branch block (LBBB and RBBB). The primary endpoint was cardiovascular death. Outcomes were assessed using a covariate-adjusted Cox-regression model.
+RESULTS: Of 5876 patients, 2901 (49.4%) had a normal and 2975 (50.6%) an abnormal ECG tracing. An abnormal ECG tracing at baseline, compared with a normal ECG tracing, was associated with an increased risk of cardiovascular death (257 of 2975 [8.6%] vs. 97 of 2901 [3.3%], adjusted hazard ratio [aHR] 2.01, 95% CI 1.58-2.55) over a median follow-up period of 3.1 years (IQR 2.1-4.2). This finding was consistent across subgroups except for patients with black skin color and current smokers, in whom an abnormal ECG was not significantly associated with increased risk of cardiovascular death. Individual ECG abnormalities (ST-segment depression [aHR 2.0, 95% CI 1.52-2.63], T-wave inversion [aHR 1.89, 95% CI 1.40-2.54], LBBB [aHR 1.74, 95% CI 1.05-2.90], and RBBB [aHR 1.52, 95% CI 1.04-2.22]) were independently associated with an increased risk of cardiovascular death.
+CONCLUSION: In patients with chronic coronary syndrome, an abnormal ECG tracing was associated with an increased risk of cardiovascular death. Our findings underscore the importance of the ECG in cardiovascular risk stratification and prognostication.
+TRIAL REGISTRATION: NCT01471522, BioLINCC ID 14539.
+
+Citation: Jorda A, et al. Association of Electrocardiogram Findings With Clinical Outcomes in Patients With Chronic Coronary Syndrome: An Analysis of the ISCHEMIA Trials. Association of Electrocardiogram Findings With Clinical Outcomes in Patients With Chronic Coronary Syndrome: An Analysis of the ISCHEMIA Trials. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.amjmed.2024.09.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39284482/

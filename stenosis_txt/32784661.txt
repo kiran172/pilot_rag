@@ -1,0 +1,8 @@
+PMID: 32784661
+Title: Hemodynamic Performance of Dysfunctional Prosthetic Heart Valve with the Concomitant Presence of Subaortic Stenosis: In Silico Study.
+
+Abstract: The prosthetic heart valve is vulnerable to dysfunction after surgery, thus a frequent assessment is required. Doppler electrocardiography and its quantitative parameters are commonly used to assess the performance of the prosthetic heart valves and provide detailed information on the interaction between the heart chambers and related prosthetic valves, allowing early detection of complications. However, in the case of the presence of subaortic stenosis, the accuracy of Doppler has not been fully investigated in previous studies and guidelines. Therefore, it is important to evaluate the accuracy of the parameters in such cases to get early detection, and a proper treatment plan for the patient, at the right time. In the current study, a CFD simulation was performed for the blood flow through a Bileaflet Mechanical Heart Valve (BMHV) with concomitant obstruction in the Left Ventricle Outflow Tract (LVOT). The current study explores the impact of the presence of the subaortic on flow patterns. It also investigates the accuracy of (BMHV) evaluation using Doppler parameters, as proposed in the American Society of Echocardiography (ASE) guidelines.
+
+Citation: Smadi O, et al. Hemodynamic Performance of Dysfunctional Prosthetic Heart Valve with the Concomitant Presence of Subaortic Stenosis: In Silico Study. Hemodynamic Performance of Dysfunctional Prosthetic Heart Valve with the Concomitant Presence of Subaortic Stenosis: In Silico Study. 2020; 7:(unknown pages). doi: 10.3390/bioengineering7030090
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32784661/

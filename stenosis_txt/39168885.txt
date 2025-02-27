@@ -1,0 +1,11 @@
+PMID: 39168885
+Title: Exposure and outcomes of aortic valve change in patients initiating dialysis.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) and aortic valve calcification (AVC) are occasionally observed in patients receiving maintenance dialysis. However, their prevalence and factors associated with them in patients undergoing dialysis remain unknown. We aimed to elucidate the aortic valve status at the time of dialysis initiation and patient prognosis based on aortic valve status.
+METHODS: We analyzed 289 patients initiating dialysis (hemodialysis: peritoneal dialysis = 275:14) between 2016 and 2023. "AS and/or AVC" was detected using echocardiography. AS was defined as a maximum transaortic velocity > 2.0 m/s. Statistical analyses including multivariable logistic regression and Cox regression were used to assess the association between patient characteristics and survival outcomes.
+RESULTS: Aortic valve changes were observed in 121 (42%) patients, among which 33 (11%) met the AS criteria. The mean age of patients in the AS, AVC without AS, and control groups was 79.1 ± 8.9, 75.9 ± 9.2, and 68.3 ± 12.9, respectively (P < 0.001). Multivariable logistic regression models showed that only age was associated with aortic valve changes (P < 0.001). Age and other important factor-adjusted multivariable Cox regression models showed that AS was an independent risk factor for death after dialysis initiation (hazard ratio (HR): 1.95, 95% confidence interval (CI): 1.06 - 3.59, P = 0.04). However, aortic valve changes ("AS and/or AVC") were not a risk factor for death (HR: 1.51, 95% CI 0.95 - 2.39, P = 0.08).
+CONCLUSIONS: With the growing older population undergoing dialysis, aortic valve changes should be closely monitored. Particularly, AS is crucial because of its impact on patient prognosis.
+
+Citation: Kitamura M, et al. Exposure and outcomes of aortic valve change in patients initiating dialysis. Exposure and outcomes of aortic valve change in patients initiating dialysis. 2024; (unknown volume):(unknown pages). doi: 10.1007/s10157-024-02548-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39168885/

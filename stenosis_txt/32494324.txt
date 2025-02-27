@@ -1,0 +1,11 @@
+PMID: 32494324
+Title: Diagnostic Accuracy of Cardiac Magnetic Resonance Versus Fractional Flow Reserve: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) is considered the gold standard for diagnosis of coronary artery disease (CAD). Stress Cardiac magnetic resonance (SCMR) has been recently gaining traction as a non-invasive alternative to FFR.
+METHODS: Studies comparing the diagnostic accuracy of SCMR versus FFR were identified and analyzed using Review Manager (RevMan) 5.3 and Stata software.
+RESULTS: A total of 28 studies, comprising 2,387 patients, were included. The pooled sensitivity and specificity for SCMR were 86% and 86% at the patient level, and 82% and 88% at the vessel level, respectively. When the patient-level data were stratified based on the FFR thresholds, higher sensitivity and specificity (both 90%) were noted with the higher cutoff (0.75) and lower cutoff (0.8), respectively. At the vessel level, sensitivity and specificity at the lower FFR threshold were significantly higher at 88% and 89%, compared to the corresponding values for higher cutoff at 0.75. Similarly, meta-regression analysis of SCMR at higher (3T) resolution showed a higher sensitivity of 87% at the patient level and higher specificity of 90% at the vessel level. The highest sensitivity and specificity of SCMR (92% and 94%, respectively) were noted in studies with CAD prevalence greater than 60%.
+CONCLUSIONS: SCMR has high diagnostic accuracy for CAD comparable to FFR at a spatial resolution of 3T and an FFR cut-off of 0.80. An increase in CAD prevalence further improved the specificity of SCMR.
+
+Citation: Ullah W, et al. Diagnostic Accuracy of Cardiac Magnetic Resonance Versus Fractional Flow Reserve: A Systematic Review and Meta-Analysis. Diagnostic Accuracy of Cardiac Magnetic Resonance Versus Fractional Flow Reserve: A Systematic Review and Meta-Analysis. 2020; 11:145-154. doi: 10.14740/cr1028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32494324/

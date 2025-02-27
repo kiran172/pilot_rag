@@ -1,0 +1,11 @@
+PMID: 36114598
+Title: Comparison of hemodynamics in biological surgical aortic valve replacement and transcatheter aortic valve implantation: An in-silico study.
+
+Abstract: OBJECTIVES: In aortic valve replacement (AVR), the treatment strategy as well as the model and size of the implanted prosthesis have a major impact on the postoperative hemodynamics and thus on the clinical outcome. Preinterventional prediction of the hemodynamics could support the treatment decision. Therefore, we performed paired virtual treatment with transcatheter AVR (TAVI) and biological surgical AVR (SAVR) and compared hemodynamic outcomes using numerical simulations.
+METHODS: 10 patients with severe aortic stenosis (AS) undergoing TAVI were virtually treated with both biological SAVR and TAVI to compare post-interventional hemodynamics using numerical simulations of peak-systolic flow. Virtual treatment procedure was done using an in-house developed tool based on position-based dynamics methodology, which was applied to the patient's anatomy including LVOT, aortic root and aorta. Geometries were automatically segmented from dynamic CT-scans and patient-specific flow rates were calculated by volumetric analysis of the left ventricle. Hemodynamics were assessed using the STAR CCM+ software by solving the RANS equations.
+RESULTS: Virtual treatment with TAVI resulted in realistic hemodynamics comparable to echocardiographic measurements (median difference in transvalvular pressure gradient [TPG]: -0.33 mm Hg). Virtual TAVI and SAVR showed similar hemodynamic functions with a mean TPG with standard deviation of 8.45 ± 4.60 mm Hg in TAVI and 6.66 ± 3.79 mm Hg in SAVR (p = 0.03) while max. Wall shear stress being 12.6 ± 4.59 vs. 10.2 ± 4.42 Pa (p = 0.001).
+CONCLUSIONS: Using the presented method for virtual treatment of AS, we were able to reliably predict post-interventional hemodynamics. TAVI and SAVR show similar hemodynamics in a pairwise comparison.
+
+Citation: Franke B, et al. Comparison of hemodynamics in biological surgical aortic valve replacement and transcatheter aortic valve implantation: An in-silico study. Comparison of hemodynamics in biological surgical aortic valve replacement and transcatheter aortic valve implantation: An in-silico study. 2023; 47:352-360. doi: 10.1111/aor.14405
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36114598/

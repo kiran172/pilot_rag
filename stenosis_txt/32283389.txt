@@ -1,0 +1,11 @@
+PMID: 32283389
+Title: Numerical study for blood rheology inside an artery: The effects of stenosis and radius on the flow behavior.
+
+Abstract: BACKGROUND AND OBJECTIVE: In this work, using Sisko model, blood flow is simulated inside an artery which have cone shape of stenosis with different angles of φ = 0.25, φ = 0.5, φ = 0.75, φ = 1 and φ = 1.25 degree, respectively.
+METHODS: In the first step, an artery radius of 0.002 m is fixed to study the effects of cone shape of arterial stenosis on the flow behavior. Then, stenosis angle of φ = 0.5 degree is fixed to study the effects of different Artery radii of 0.002 m, 0.0025 m, 0.003m, and 0.0035 m orderly on the flow behavior. For simulation the blood flow, Sisko model is used. Afterward, stenosis angle of φ = 0.5 degrees with a radius of 0.002m is fixed for investigating the influences of different behavior of blood fluid by manipulation of constant parameters of the Sisko model.
+RESULTS: It is reported that with increasing arterial stenosis angle, maximum blood flow velocity is sharply increased in central region of artery from 0.12 m/s to 0.16 m/s, 0.25 m/s, 0.36 m/s and 0.56 m/s in order of increasing stenosis angles from φ = 0.25 to φ = 0.5, φ = 0.75, φ = 1 and φ = 1.25 degree, respectively. Also, maximum shear stress of artery wall are as much as 64 Pa, 42 Pa, 24 Pa, 18 Pa and 16Pa respectively in order of stenosis angles of φ = 0.25, φ = 0.5, φ = 0.75, φ = 1 and φ = 1.25 degree. On the other side, the effect of increasing artery radius is against the influences of stenosis angle, and contradiction of these parameters is affected by the stress tension and viscosity of blood.
+CONCLUSIONS: Variations of blood behavior from non-Newtonian to Newtonian shows that shear stress in blood stream in the stenosis artery with non-Newtonian blood is higher than that of Newtonian blood due to differences in their viscous behaviors and reactions in exposure of stenosis and artery wall effects.
+
+Citation: Foong LK, et al. Numerical study for blood rheology inside an artery: The effects of stenosis and radius on the flow behavior. Numerical study for blood rheology inside an artery: The effects of stenosis and radius on the flow behavior. 2020; 193:105457. doi: 10.1016/j.cmpb.2020.105457
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32283389/

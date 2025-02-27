@@ -1,0 +1,8 @@
+PMID: 35417712
+Title: A disease-driver population within interstitial cells of human calcific aortic valves identified via single-cell and proteomic profiling.
+
+Abstract: Cellular heterogeneity of aortic valves complicates the mechanistic evaluation of the calcification processes in calcific aortic valve disease (CAVD), and animal disease models are lacking. In this study, we identify a disease-driver population (DDP) within valvular interstitial cells (VICs). Through stepwise single-cell analysis, phenotype-guided omic profiling, and network-based analysis, we characterize the DDP fingerprint as CD44highCD29+CD59+CD73+CD45low and discover potential key regulators of human CAVD. These DDP-VICs demonstrate multi-lineage differentiation and osteogenic properties. Temporal proteomic profiling of DDP-VICs identifies potential targets for therapy, including MAOA and CTHRC1. In vitro loss-of-function experiments confirm our targets. Such a stepwise strategy may be advantageous for therapeutic target discovery in other disease contexts.
+
+Citation: Decano JL, et al. A disease-driver population within interstitial cells of human calcific aortic valves identified via single-cell and proteomic profiling. A disease-driver population within interstitial cells of human calcific aortic valves identified via single-cell and proteomic profiling. 2022; 39:110685. doi: 10.1016/j.celrep.2022.110685
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35417712/

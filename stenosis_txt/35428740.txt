@@ -1,0 +1,12 @@
+PMID: 35428740
+Title: Emergent carotid stenting versus no stenting for acute ischemic stroke due to tandem occlusion: a meta-analysis.
+
+Abstract: BACKGROUND: Emergent carotid artery stenting (eCAS) is performed during mechanical thrombectomy for acute ischemic stroke due to tandem occlusion. However, the optimal management strategy in this setting is still unclear.
+OBJECTIVE: To carry out a systematic review and meta-analysis to investigate the safety and efficacy of eCAS in patients with tandem occlusion.
+METHODS: Systematic review followed the PRISMA guidelines. Medline, EMBASE, and Scopus were searched from January 1, 2004 to March 7, 2022 for studies evaluating eCAS and no-stenting approach in patients with stroke with tandem occlusion. Primary endpoint was the 90-day modified Rankin Scale score 0-2; secondary outcomes were (1) symptomatic intracerebral hemorrhage (sICH), (2) recurrent stroke, (3) successful recanalization (Thrombolysis in Cerebral Infarction score 2b-3), (4) embolization in new territories, and (5) restenosis rate. Meta-analysis was performed using the Mantel-Haenszel method and random-effects modeling.
+RESULTS: Forty-six studies reached synthesis. eCAS was associated with higher good functional outcome compared with the no-stenting approach (OR=1.52, 95% CI 1.19 to 1.95), despite a significantly increased risk of sICH (OR=1.97, 95% CI 1.23 to 3.15), and higher successful recanalization rate (OR=1.91, 95% CI 1.29 to 2.85). Restenosis rate was lower in the eCAS group than in the no-stenting group (2% vs 9%, p=0.001). Recanalization rate was higher in retrograde than antegrade eCAS (OR=0.51, 95% CI 0.28 to 0.93). Intraprocedural antiplatelets during eCAS were associated with higher rate of good functional outcome (60% vs 46%, p=0.016) and lower rate of sICH (7% vs 11%; p=0.08) compared with glycoprotein IIb/IIIa inhibitors.
+CONCLUSIONS: In observational studies, eCAS seems to be associated with higher good functional outcome than no-stenting in patients with acute ischemic stroke due to tandem occlusion, despite the higher risk of sICH. Dedicated trials are needed to confirm these results.
+
+Citation: Diana F, et al. Emergent carotid stenting versus no stenting for acute ischemic stroke due to tandem occlusion: a meta-analysis. Emergent carotid stenting versus no stenting for acute ischemic stroke due to tandem occlusion: a meta-analysis. 2023; 15:428-432. doi: 10.1136/neurintsurg-2022-018683
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35428740/

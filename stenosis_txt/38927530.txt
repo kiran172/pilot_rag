@@ -1,0 +1,11 @@
+PMID: 38927530
+Title: Identifying Molecular Pathophysiology and Potential Therapeutic Options in Iatrogenic Tracheal Stenosis.
+
+Abstract: INTRODUCTION: While most patients with iatrogenic tracheal stenosis (ITS) respond to endoscopic ablative procedures, approximately 15% experience a recalcitrant, recurring disease course that is resistant to conventional management. We aimed to explore genetic profiles of patients with recalcitrant ITS to understand underlying pathophysiology and identify novel therapeutic options.
+METHODS: We collected 11 samples of granulation tissue from patients with ITS and performed RNA sequencing. We identified the top 10 most highly up- and down-regulated genes and cellular processes that these genes corresponded to. For the most highly dysregulated genes, we identified potential therapeutic options that favorably regulate their expression.
+RESULTS: The dysregulations in gene expression corresponded to hyperkeratinization (upregulation of genes involved in keratin production and keratinocyte differentiation) and cellular proliferation (downregulation of cell cycle regulating and pro-apoptotic genes). Genes involved in retinoic acid (RA) metabolism and signaling were dysregulated in a pattern suggesting local cellular RA deficiency. Consequently, RA also emerged as the most promising potential therapeutic option for ITS, as it favorably regulated seven of the ten most highly dysregulated genes.
+CONCLUSION: This is the first study to characterize the role of hyperkeratinization and dysregulations in RA metabolism and signaling in the disease pathophysiology. Given the ability of RA to favorably regulate key genes involved in ITS, future studies must explore its efficacy as a potential therapeutic option for patients with recalcitrant ITS.
+
+Citation: Martins RS, et al. Identifying Molecular Pathophysiology and Potential Therapeutic Options in Iatrogenic Tracheal Stenosis. Identifying Molecular Pathophysiology and Potential Therapeutic Options in Iatrogenic Tracheal Stenosis. 2024; 12:(unknown pages). doi: 10.3390/biomedicines12061323
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38927530/

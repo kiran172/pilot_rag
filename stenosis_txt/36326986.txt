@@ -1,0 +1,8 @@
+PMID: 36326986
+Title: Fluid dynamics of the upper airway in pediatric patients with severe laryngomalacia.
+
+Abstract: Laryngomalacia is the top cause of pediatric laryngeal wheeze. We used computational fluid dynamics to study the inspiratory airflow dynamics in severe pediatric laryngomalacia. Computed tomography was performed on the upper airways of two infants, one with severe laryngomalacia and one with normal airway, and 3D models were reconstructed. ANSYS CFD-POST software was used to simulate airflow in these models to compare the volumetric flow rate, flow velocity, pressure, wall shear, and vortex. The volume flow rate in the laryngomalacia model was significantly reduced compared with the control model. Under inspiratory pressures, the peak flow velocity, pressure, and shear force in the control model appeared at the soft palate stenosis, while that in the laryngomalacia model appeared at the supraglottis stenosis. In both models, the maximum flow velocity and shear force increased with decreasing inspiratory pressure, while the minimum pressure decreased with decreasing inspiratory pressure. In the control model, the airflow vortex appeared anteriorly below the posterior section of the soft palate. In the laryngomalacia model, the vortex appeared anteriorly below the posterior section of the soft palate and anteriorly below the vocal folds. Our methodology provides a new mechanistic understanding of pediatric laryngomalacia.
+
+Citation: Ye L, et al. Fluid dynamics of the upper airway in pediatric patients with severe laryngomalacia. Fluid dynamics of the upper airway in pediatric patients with severe laryngomalacia. 2022; 45:1083-1091. doi: 10.1007/s13246-022-01174-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36326986/

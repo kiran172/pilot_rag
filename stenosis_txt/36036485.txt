@@ -1,0 +1,8 @@
+PMID: 36036485
+Title: Establishment of a mouse model for ovarian cancer-associated venous thromboembolism.
+
+Abstract: Patients with ovarian cancer are at increased risk of venous thromboembolism (VTE), and the cumulative incidence is high, particularly at advanced stages of this disease. Nevertheless, it is challenging to investigate the molecular mechanisms of ovarian cancer-associated VTE (OC-VTE), mainly due to the lack of a well-developed animal model for this disease. We generated a mouse model for developing OC-VTE using ovarian cancer cell injection in combination with the inferior vena cava stenosis method. The rate of thrombosis in the OC-VTE group was 50%, compared with 0 in the control group. Moreover, we conducted a proteomic analysis using platelets from these models and revealed differentially expressed proteins between the OC-VTE and control groups, including upregulated and downregulated proteins. Gene Ontology analysis revealed that these differentially expressed proteins were mostly enriched in the biological process of negative regulation of fibrinolysis and the cellular component of the fibrinogen complex, both of which play key roles in thrombosis. In conclusion, this study lays the foundation for further investigation of the underlying mechanisms of how ovarian cancer promotes VTE formation.
+
+Citation: Ma S, et al. Establishment of a mouse model for ovarian cancer-associated venous thromboembolism. Establishment of a mouse model for ovarian cancer-associated venous thromboembolism. 2023; 248:26-35. doi: 10.1177/15353702221118533
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36036485/

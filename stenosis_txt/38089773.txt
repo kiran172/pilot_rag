@@ -1,0 +1,11 @@
+PMID: 38089773
+Title: Uncertainty quantification of computational fluid dynamics-based predictions for fractional flow reserve and wall shear stress of the idealized stenotic coronary.
+
+Abstract: INTRODUCTION: In clinical practice, hemodynamics-based functional indices, such as fractional flow reserve (FFR) and wall shear stress (WSS), are useful in assessing the severity and risk of rupture of atherosclerotic lesions. Computational fluid dynamics (CFD) is widely used to predict these indices noninvasively.
+METHOD: In this study, uncertainty quantification and sensitivity analysis are performed for the computational prediction of WSS and FFR directly from 3D-0D coupled CFD simulations on idealized stenotic coronary models. Five geometric parameters (proximal, mid, and distal lengths of stenosis; reference lumen diameter; and stenosis severity) and two physiological parameters (mean aortic pressure and microcirculation resistance) are considered as uncertain input variables.
+RESULTS: When employing the true values of stenosis severity and mean aortic pressure, a discernible reduction of 25% and 9.5% in the uncertainty of the computed proximal WSS, respectively. In addition, degree of stenosis, reference lumen diameter, and coronary resistance contributed the uncertainty of computed FFR, accounting for 41.2%, 31.9%, and 24.6%, respectively.
+CONCLUSION: This study demonstrated that accurate measurement of the degree of stenosis and mean aortic pressure is crucial for improving the computational prediction of WSS. In contrast, the reference lumen diameter, degree of stenosis, and coronary resistance are the most impactful parameters for FFR.
+
+Citation: Ho NN, et al. Uncertainty quantification of computational fluid dynamics-based predictions for fractional flow reserve and wall shear stress of the idealized stenotic coronary. Uncertainty quantification of computational fluid dynamics-based predictions for fractional flow reserve and wall shear stress of the idealized stenotic coronary. 2023; 10:1164345. doi: 10.3389/fcvm.2023.1164345
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38089773/

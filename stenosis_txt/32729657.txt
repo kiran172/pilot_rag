@@ -1,0 +1,12 @@
+PMID: 32729657
+Title: Clinical risk model for predicting 1-year mortality after transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: Estimating 1-year life expectancy is an essential factor when evaluating appropriate indicators for transcatheter aortic valve replacement (TAVR).
+BACKGROUND: It is clinically useful in developing a reliable risk model for predicting 1-year mortality after TAVR.
+METHODS: We evaluated 2,588 patients who underwent TAVR using data from the Optimized CathEter vAlvular iNtervention (OCEAN) Japanese multicenter registry from October 2013 to May 2017. The 1-year clinical follow-up was achieved by 99.5% of the entire population (n = 2,575). Patients were randomly divided into two cohorts: the derivation cohort (n = 1,931, 75% of the study population) and the validation cohort (n = 644). Considerable clinical variables including individual patient's comorbidities and frailty markers were used for predicting 1-year mortality following TAVR.
+RESULTS: In the derivation cohort, a multivariate logistic regression analysis demonstrated that sex, body mass index, Clinical Frailty Scale, atrial fibrillation, peripheral artery disease, prior cardiac surgery, serum albumin, renal function as estimated glomerular filtration rate, and presence of pulmonary disease were independent predictors of 1-year mortality after TAVR. Using these variables, a risk prediction model was constructed to estimate the 1-year risk of mortality after TAVR. In the validation cohort, the risk prediction model revealed high discrimination ability and acceptable calibration with area under the curve of 0.763 (95% confidence interval, 0.728-0.795, p &lt; .001) in the receiver operating characteristics curve analysis and a Hosmer-Lemeshow χ2 statistic of 5.96 (p = .65).
+CONCLUSIONS: This risk prediction model for 1-year mortality may be a reliable tool for risk stratification and identification of adequate candidates in patients undergoing TAVR.
+
+Citation: Yamamoto M, et al. Clinical risk model for predicting 1-year mortality after transcatheter aortic valve replacement. Clinical risk model for predicting 1-year mortality after transcatheter aortic valve replacement. 2021; 97:E544-E551. doi: 10.1002/ccd.29130
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32729657/

@@ -1,0 +1,11 @@
+PMID: 37217296
+Title: Propensity-matched analysis of long-term clinical results after ostial circumflex revascularisation.
+
+Abstract: BACKGROUND: Percutaneous coronary intervention (PCI) of the ostium of the left circumflex artery (LCx) is technically challenging. The aim of this study was to compare long-term clinical outcomes of ostial PCI located in the LCx versus the left anterior descending artery (LAD) in a propensity-matched population.
+METHODS: Consecutive patients with a symptomatic isolated 'de novo' ostial lesion of the LCx or LAD treated with PCI were included. Patients with a stenosis of >40% in the left main (LM) were excluded. A propensity score matching was performed to compare both groups. The primary endpoint was target lesion revascularisation (TLR); other endpoints included target lesion failure and an analysis of the bifurcation angles.
+RESULTS: From 2004 to 2018, 287 consecutive patients with LAD (n=240) or LCx (n=47) ostial lesions treated with PCI were analysed. After the adjustment, 47 matched pairs were obtained. The mean age was 72±12 years and 82% were male. The LM-LAD angle was significantly wider than the LM-LCx angle (128°±23° vs 108°±24°, p=0.002). At a median follow-up of 5.5 (IQR 1.5-9.3) years, the rate of TLR was significantly higher in the LCx group (15% vs 2%); with an HR of 7.5, 95% CI 2.1 to 26.4, p<0.001. Interestingly, in the LCx group, TLR-LM occurred in 43% of the TLR cases; meanwhile, no TLR-LM involvement was found in the LAD group.
+CONCLUSIONS: Isolated ostial LCx PCI was associated with an increase in the rate of TLR compared with ostial LAD PCI at long-term follow-up. Larger studies evaluating the optimal percutaneous approach at this location are needed.
+
+Citation: Espejo-Paeres C, et al. Propensity-matched analysis of long-term clinical results after ostial circumflex revascularisation. Propensity-matched analysis of long-term clinical results after ostial circumflex revascularisation. 2023; 109:1302-1309. doi: 10.1136/heartjnl-2022-322204
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37217296/

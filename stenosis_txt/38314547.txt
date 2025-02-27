@@ -1,0 +1,11 @@
+PMID: 38314547
+Title: Diagnostic accuracy of virtual non-contrast CT for aortic valve stenosis severity evaluation.
+
+Abstract: BACKGROUND: Computed tomography aortic valve calcium (AVC) score has accepted value for diagnosing and predicting outcomes in aortic stenosis (AS). Multi-energy CT (MECT) allows virtual non-contrast (VNC) reconstructions from contrast scans. We aim to compare the VNC-AVC score to the true non-contrast (TNC)-AVC score for assessing AS severity.
+METHODS: We prospectively included patients undergoing a MECT for transcatheter aortic valve replacement (TAVR) planning. TNC-AVC was acquired before contrast, and VNC-AVC was derived from a retrospectively gated contrast-enhanced scan. The Agatston scoring method was used for quantification, and linear regression analysis to derive adjusted-VNC values.
+RESULTS: Among 109 patients (55% female) included, 43% had concordant severe and 14% concordant moderate AS. TNC scan median dose-length product was 116 ​mGy∗cm. The median TNC-AVC was 2,107 AU (1,093-3,372), while VNC-AVC was 1,835 AU (1293-2,972) after applying the coefficient (1.46) and constant (743) terms. A strong correlation was demonstrated between methods (r ​= ​0.93; p ​< ​0.001). Using accepted thresholds (>1,300 AU for women and >2,000 AU for men), 65% (n ​= ​71) of patients had severe AS by TNC-AVC and 67% (n ​= ​73) by adjusted-VNC-AVC. After estimating thresholds for adjusted-VNC (>1,564 AU for women and >2,375 AU for men), 56% (n ​= ​61) had severe AS, demonstrating substantial agreement with TNC-AVC (κ ​= ​0.77).
+CONCLUSIONS: MECT-derived VNC-AVC showed a strong correlation with TNC-AVC. After adjustment, VNC-AVC demonstrated substantial agreement with TNC-AVC, potentially eliminating the requirement for an additional scan and enabling reductions in both radiation exposure and acquisition time.
+
+Citation: Lorenzatti D, et al. Diagnostic accuracy of virtual non-contrast CT for aortic valve stenosis severity evaluation. Diagnostic accuracy of virtual non-contrast CT for aortic valve stenosis severity evaluation. 2024; 18:50-55. doi: 10.1016/j.jcct.2023.10.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38314547/

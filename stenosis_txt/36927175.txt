@@ -1,0 +1,12 @@
+PMID: 36927175
+Title: Quantitative Techniques of Ultrasonography in the Assessment of Femoropopliteal Atherosclerotic Lesions Using Peak Systolic Velocity Ratio: Results From the TURN-UP Study.
+
+Abstract: PURPOSE: Duplex ultrasound (DUS)-measured peak systolic velocity ratios (PSVRs) are commonly used to evaluate arterial stenosis in lower extremity artery disease (LEAD). However, these measurement methods have not yet been standardized. This study aimed to reveal the influence of measuring methods on PSVR values.
+METHODS: A 132 femoropopliteal lesions with PSVR ranging from 1.5 to 3.5 evaluated using method A (angle correction 60°, the direction of blood flow, the no or few atherosclerotic changes closest to the lesion proximal side was defined as the nonstenotic area) were included. The following 4 different methods were then compared with method A: method B, angle correction 45°; method C, angle correction 60° measured along the vessel wall; D, angle correction 60°, with the nonstenotic area the lowest peak systolic velocity area; and E, angle correction 60°, with the reference point fixed at 2 cm proximal to the target lesion area. The difference in PSVR values was analyzed using the Bland-Altman method.
+RESULTS: The mean PSVR value measured by method A was 2.27±0.51, those measured by methods B, C, D, and E were 2.21±0.55, 2.31±0.66, 2.34±0.63, and 2.11±0.63, respectively. The 95% prediction intervals of the differences in PSVR measurements versus A were -0.64 to +0.53 for method B, -0.59 to +0.68 for method C, -0.77 to +0.91 for method D, and -1.12 to +0.79 for method E.
+CONCLUSION: PSVR values considerably differed between measuring methods. PSVR values by DUS are largely dependent on the measurement methods, which could considerably affect the judgment of LEAD.
+CLINICAL IMPACT: Due to differences in several DUS measurement methods, the PSVR results could be changed. Therefore, to need further investigations and unification of measurement method.
+
+Citation: Hayashi A, et al. Quantitative Techniques of Ultrasonography in the Assessment of Femoropopliteal Atherosclerotic Lesions Using Peak Systolic Velocity Ratio: Results From the TURN-UP Study. Quantitative Techniques of Ultrasonography in the Assessment of Femoropopliteal Atherosclerotic Lesions Using Peak Systolic Velocity Ratio: Results From the TURN-UP Study. 2024; 31:1075-1080. doi: 10.1177/15266028231160636
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36927175/

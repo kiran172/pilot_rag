@@ -1,0 +1,11 @@
+PMID: 35860462
+Title: FLAIR Vascular Hyperintensity: An Important MRI Marker in Patients with Transient Ischemic Attack.
+
+Abstract: PURPOSE: We aimed to investigate the prevalence of fluid-attenuated inversion recovery (FLAIR) vascular hyperintensities (FVHs) and the clinical-radiological correlation in transient ischemic attack (TIA) patients.
+MATERIALS AND METHODS: We performed a retrospective analysis of TIA patients who had undergone magnetic resonance imaging (MRI) within 24 h of symptom onset. Two independent neuroradiologists investigated the presence of FVHs, large-artery severe stenosis or occlusion (LASO) in magnetic resonance angiograms, and the nature of factors associated with FVH.
+RESULTS: A total of 207 patients were enrolled in this study. FVHs were detected in 42 (20.3%) patients, in whom atrial fibrillation (AF) was confirmed in 25 (59.5%) cases and LASO was confirmed in 30 (71.4%) cases. The corresponding figures were 33 (20.0%) and 10 (6.1%), respectively, for the 165 FVH-negative patients. Logistic regression analysis showed that time from symptom onset to MRI (odds ratio [OR] = 0.82, 95% CI 0.76-0.97, p = 0.042), previous stroke (OR = 2.95, 95% CI 1.58-6.74, p = 0.002), AF (OR = 5.83, 95% CI 2.24-9.46, p &lt; 0.001), and LASO (OR = 4.28, 95% CI 2.96-10.28, p &lt; 0.001) were independently associated with FVH. Overall, the sensitivity and specificity of FVH for predicting LASO were 0.75 and 0.93, respectively, and the positive predictive value, negative predictive value, and accuracy were 0.71, 0.94, and 0.89, respectively. The area under the receiver operating characteristic curve was 0.839. FVH-positive TIA patients with LASO had less AF (14 [46.7%] versus 11 [91.7%], p = 0.019) and longer times from symptom onset to MRI (6.8 ± 2.8 h versus 4.8 ± 1.3 h, p = 0.004) than those without LASO.
+CONCLUSION: The presence of FVH could be an important marker in TIA patients. Many factors, including LASO, AF, and time from symptom onset to MRI, are associated with the detection of FVH.
+
+Citation: Zeng L, et al. FLAIR Vascular Hyperintensity: An Important MRI Marker in Patients with Transient Ischemic Attack. FLAIR Vascular Hyperintensity: An Important MRI Marker in Patients with Transient Ischemic Attack. 2022; 15:6165-6171. doi: 10.2147/IJGM.S371894
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35860462/

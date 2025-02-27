@@ -1,0 +1,10 @@
+PMID: 36990778
+Title: Diagnostic Accuracy of Artificial Intelligence-Based Angiography-Derived Fractional Flow Reserve Using Pressure Wire-Based Fractional Flow Reserve as a Reference.
+
+Abstract: BACKGROUND: Angiographic fractional flow reserve (angioFFR) is a novel artificial intelligence (AI)-based angiography-derived fractional flow reserve (FFR) application. We investigated the diagnostic accuracy of angioFFR to detect hemodynamically relevant coronary artery disease.
+METHODS AND RESULTS: Consecutive patients with 30-90% angiographic stenoses and invasive FFR measurements were included in this prospective, single-center study conducted between November 2018 and February 2020. Diagnostic accuracy was assessed using invasive FFR as the reference standard. In patients undergoing percutaneous coronary intervention, gradients of invasive FFR and angioFFR in the pre-senting segments were compared. We assessed 253 vessels (200 patients). The accuracy of angioFFR was 87.7% (95% confidence interval [CI] 83.1-91.5%), with a sensitivity of 76.8% (95% CI 67.1-84.9%), specificity of 94.3% (95% CI 89.5-97.4%), and area under the curve of 0.90 (95% CI 0.86-0.93%). AngioFFR was well correlated with invasive FFR (r=0.76; 95% CI 0.71-0.81; P<0.001). The agreement was 0.003 (limits of agreement: -0.13, 0.14). The FFR gradients of angioFFR and invasive FFR were comparable (n=51; mean [±SD] 0.22±0.10 vs. 0.22±0.11, respectively; P=0.87).
+CONCLUSIONS: AI-based angioFFR showed good diagnostic accuracy for detecting hemodynamically relevant stenosis using invasive FFR as the reference standard. The gradients of invasive FFR and angioFFR in the pre-stenting segments were comparable.
+
+Citation: Omori H, et al. Diagnostic Accuracy of Artificial Intelligence-Based Angiography-Derived Fractional Flow Reserve Using Pressure Wire-Based Fractional Flow Reserve as a Reference. Diagnostic Accuracy of Artificial Intelligence-Based Angiography-Derived Fractional Flow Reserve Using Pressure Wire-Based Fractional Flow Reserve as a Reference. 2023; 87:783-790. doi: 10.1253/circj.CJ-22-0771
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36990778/

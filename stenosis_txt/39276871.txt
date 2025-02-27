@@ -1,0 +1,15 @@
+PMID: 39276871
+Title: Specific plasma biomarker signatures associated with patients undergoing surgery for back pain.
+
+Abstract: BACKGROUND CONTEXT: Intervertebral disc degeneration (IDD) affects numerous people worldwide. The role of inflammation is increasingly recognized but remains incompletely resolved. Peripheral molecules could access neovascularized degenerated discs and contribute to the ongoing pathology.
+PURPOSE: To assess a large array of plasma molecules in patients with IDD to identify biomarkers associated with specific spinal pathologies and prognostic biomarkers for the surgery outcome.
+DESIGN: Prospective observational study combining clinical data and plasma measures.
+PATIENT SAMPLE: Plasma samples were collected just before surgery. Extensive clinical data (age, sex, smoking status, Modic score, glomerular filtration rate, etc.) were extracted from clinical files from 83 patients with IDD undergoing spine surgery.
+OUTCOME MEASURES: Recovery 2 months postsurgery as assessed by the treating neurosurgeon.
+METHODS: Over 40 biological molecules were measured in patients' plasma using multiplex assays. Statistical analyses were performed to identify associations between biological and clinical characteristics (age, sex, Body Mass Index (BMI), smoking status, herniated disc, radiculopathy, myelopathy, stenosis, MODIC score, etc.) and plasma levels of biological molecules.
+RESULTS: Plasma levels of Neurofilament Light chain (NfL) were significantly elevated in patients with myelopathy and spinal stenosis compared to herniated disc. Plasma levels of C- reactive protein (CRP), Neurofilament Light chain (NfL), and Serum Amyloid A (SAA) were negatively associated, while CCL22 levels were positively associated with an efficient recovery 2 months postsurgery.
+CONCLUSIONS: Our results show that CRP and CCL22 plasma levels combined with the age of the IDD patient can predict the 2-month postsurgery recovery (Area Under the Curve [AUC]=0.883). Moreover, NfL could become a valuable monitoring tool for patients with spinal cord injuries.
+
+Citation: Coquelet P, et al. Specific plasma biomarker signatures associated with patients undergoing surgery for back pain. Specific plasma biomarker signatures associated with patients undergoing surgery for back pain. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.spinee.2024.09.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39276871/

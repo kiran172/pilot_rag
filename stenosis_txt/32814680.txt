@@ -1,0 +1,11 @@
+PMID: 32814680
+Title: Endoscopic tumour morphology impacts survival in adenocarcinoma of the oesophagus.
+
+Abstract: BACKGROUND: Prognostication in oesophageal cancer on the basis of preoperative variables is challenging. Many of the accepted predictors of survival are only derived after surgical treatment and may be influenced by neoadjuvant therapy. This study aims to explore the relationship between pre-treatment endoscopic tumour morphology and postoperative survival.
+METHODS: Patients with endoscopic descriptions of tumours were identified from the prospectively managed databases including the OCCAMS database. Tumours were classified as exophytic, ulcerating or stenosing. Kaplan Meier survival analysis and multivariable Cox regression analyses were performed to determine hazard ratios (HR) with 95% confidence intervals.
+RESULTS: 262 patients with oesophageal adenocarcinoma undergoing potentially curative resection were pooled from St Thomas' Hospital (161) and the OCCAMS database (101). There were 70 ulcerating, 114 exophytic and 78 stenosing oesophageal adenocarcinomas. Initial tumour staging was similar across all groups (T3/4 tumours 71.4%, 70.2%, 74.4%). Median survival was 55 months, 51 months and 36 months respectively (p < 0.001). Rates of lymphovascular invasion (P = 0.0176), pathological nodal status (P = 0.0195) and pathological T stage (P = 0.0007) increased from ulcerating to exophytic to stenosing lesions. Resection margin positivity was 21.4% in ulcerating tumours compared to 54% in stenosing tumours (p < 0.001). When compared to stenosing lesions, exophytic and ulcerating lesions demonstrated a significant survival advantage on multivariable analysis (HR 0.56 95% CI 0.31-0.93, HR 0.42 95% CI 0.21-0.82).
+CONCLUSION: This study demonstrates that endoscopic morphology may be an important pre-treatment prognostic factor in oesophageal cancer. Ulcerating, exophytic and stenosing tumours may represent different pathological processes and tumour biology.
+
+Citation: Knight WRC, et al. Endoscopic tumour morphology impacts survival in adenocarcinoma of the oesophagus. Endoscopic tumour morphology impacts survival in adenocarcinoma of the oesophagus. 2020; 46:2257-2261. doi: 10.1016/j.ejso.2020.07.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32814680/

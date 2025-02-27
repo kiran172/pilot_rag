@@ -1,0 +1,11 @@
+PMID: 39543851
+Title: Impact of Smoking on MicroRNAs in Significant Coronary Artery Disease.
+
+Abstract: BACKGROUND: Given the importance of coronary artery disease (CAD) and the range of cardiovascular disease phenotypes in smokers, as well as the potential genetic and epigenetic factors, we were motivated to explore the impact of smoking on some selected microRNAs associated with significant CAD.
+METHODS: A total of 60 individuals were selected in four groups including non-smoker without significant CAD (S-A-), non-smokers with significant CAD (S-A+), smokers without significant CAD (S+A-) and smokers with significant CAD (S+A+). Micro-RNA expression was investigated using real-time PCR. General linear model was used to calculate fold change (FC) considering SA- as the reference group.
+RESULTS: For mir-34a, down-regulation was observed in S+A- (FC =0.13, P =0.007) and S+A+ (FC =0.23, P =0.036) groups. For mir-126-3p, down-regulation was observed in S-A+ group (FC =0.05, P =0.024). For mir-199, up-regulation was observed for S+A- group (FC =9.38, P =0.007). The only significant interaction between pack-years of smoking and number of significantly narrowed vessels (≥75% stenosis) was for mir-199 which was in favor of down-regulation (P =0.006), while the main effects were in favor of up-regulation (P &lt;0.05).
+CONCLUSION: Mir-34a expression may be affected by smoking, whereas mir-126-3p expression may be affected by atherosclerosis, the most common reason of CAD. The significant down-regulation of mir-199 for the interaction of smoking dose and severity of CAD was a notable finding showing the harmful consequence of this interaction. Further studies are needed for this micro-RNA.
+
+Citation: Hajsadeghi S, et al. Impact of Smoking on MicroRNAs in Significant Coronary Artery Disease. Impact of Smoking on MicroRNAs in Significant Coronary Artery Disease. 2024; (unknown volume):(unknown pages). doi: 10.2478/rjim-2024-0031
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39543851/

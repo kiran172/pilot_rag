@@ -1,0 +1,11 @@
+PMID: 32087674
+Title: Association of peripheral neutrophil count with intracranial atherosclerotic stenosis.
+
+Abstract: BACKGROUND: Inflammation plays an important role in atherosclerosis but the contribution of neutrophils to this process is unclear. We sought to assess whether neutrophil count is associated with intracranial atherosclerotic stenosis (ICAS).
+METHODS: A total of 2847 individuals were included in our study, including 1363 with acute ischemic stroke and 1484 normal controls without stroke. The presence of ICAS was confirmed by magnetic resonance angiography. The association between neutrophil count and ICAS was evaluated by multivariable logistic regression analysis.
+RESULTS: Among 2847 individuals included in this study, individuals with ICAS had higher neutrophil counts than those without ICAS in groups with and without stroke (P <  0.0001 for stroke group, P = 0.0097 for group without stroke). The multivariable logistic regression analysis showed that the third and fourth quartiles were independent predictors of ICAS in all the subjects (Q3: OR 1.81, 95% CI 1.39-2.37, Q4: OR 2.29, 95% CI 1.70-3.10) and patients in the fourth quartile had a higher risk for the occurrence of ICAS in stroke group (Q4: OR 2.82, 95% CI 1.79-4.48). However, there was no significant association between neutrophil count and ICAS in the group without stroke.
+CONCLUSIONS: The levels of circulating neutrophils were associated with the presence of ICAS. Our findings suggest that neutrophils may play a role in the pathogenesis of stroke related to ICAS and emphasize the need to develop proper strategies to control neutrophil response for the treatment of ICAS.
+
+Citation: Zhang X, et al. Association of peripheral neutrophil count with intracranial atherosclerotic stenosis. Association of peripheral neutrophil count with intracranial atherosclerotic stenosis. 2020; 20:65. doi: 10.1186/s12883-020-01641-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32087674/

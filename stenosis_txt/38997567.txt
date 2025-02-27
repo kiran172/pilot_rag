@@ -1,0 +1,12 @@
+PMID: 38997567
+Title: The association between cardiac T2*BOLD and quantitative flow ratio (QFR) in the diagnosis of stenotic coronary arteries in patients with multi-vessel coronary artery disease.
+
+Abstract: BACKGROUND: T2*BOLD is based on myocardial deoxyhemoglobin content to reflect the state of myocardial oxygenation. Quantitative flow ratio is a tool for assessing coronary blood flow based on invasive coronary angiography.
+PURPOSE: This study aimed to evaluate the correlation between T2*BOLD and QFR in the diagnosis of stenotic coronary arteries in patients with multi-vessel coronary artery disease.
+METHODS: Fifty patients with MVCAD with at least 1 significant coronary artery stenosis (diameter stenosis > 50%) and 21 healthy control subjects underwent coronary angiography combined with QFR measurements and cardiovascular magnetic resonance (CMR). QFR ≤ 0.80 was considered to indicate the presence of hemodynamic obstruction.
+RESULTS: Totally 60 (54%) obstructive vessels had hemodynamic change. Between stenotic coronary arteries (QFR ≤ 0.8) and normal vessels, T2*BOLD showed AUCs of 0.97, 0.69, and 0.91 for left anterior descending (LAD), left circumflex (LCX) and right coronary (RCA) arteries and PI displayed AUCs of 0.89, 0.77 and 0.90 (all p > 0.05, except for LAD). The AUCs of T2*BOLD between stenotic coronary arteries (QFR > 0.8) and normal vessels were 0.86, 0.72, and 0.85 for LAD, LCX and RCA; while, PI showed AUCs of 0.93, 0.86, and 0.88, respectively (p > 0.05). Moreover, T2*BOLD displayed AUCs of 0.96, 0.74, and 0.91 for coronary arteries as before between coronary arteries with stenosis (QFR ≤ 0.8 and > 0.8), but the mean PI of LAD, LCX and RCA showed no significant differences between them.
+CONCLUSION: T2* BOLD and QFR have good correlation in diagnosing stenotic coronary arteries with hemodynamic changes in patients with stable multi-vessel CAD. T2* BOLD is superior to semi-quantitative perfusion imaging in analyzing myocardial ischemia without stress.
+
+Citation: Zhao L, et al. The association between cardiac T2*BOLD and quantitative flow ratio (QFR) in the diagnosis of stenotic coronary arteries in patients with multi-vessel coronary artery disease. The association between cardiac T2*BOLD and quantitative flow ratio (QFR) in the diagnosis of stenotic coronary arteries in patients with multi-vessel coronary artery disease. 2024; 129:1184-1196. doi: 10.1007/s11547-024-01847-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38997567/

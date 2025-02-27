@@ -1,0 +1,11 @@
+PMID: 38688245
+Title: Remote Surveillance Technology of Dialysis Arteriovenous Access: Retrospective Evaluation in a UK Renal Centre.
+
+Abstract: BACKGROUND: Early identification of dysfunctional arteriovenous haemodialysis (HD) vascular access (VA) is important for timely referral and intervention.
+METHOD: We retrospectively calculated VA risk score using Vasc-Alert surveillance software technology from HD treatment sessions in 2 satellite HD units over 18 months. We included in the analysis HD patients dialysing with arteriovenous fistula or graft (AVF/G) with available Vasc-Alert data for≥ 2 months. For group one (eventful) that included patients who developed vascular access thrombosis or stenosis over the study period, we collected Vasc-Alert risk score 2 months prior to the event and, for group two (uneventful), over 5 consecutive months. Vasc-Alert technology utilises routinely collected data during HD to calculate VA risk score and triggers an alert if the score is ≥7 in 3 consecutive dialysis sessions. Patients with &gt;2 alerts (vascular access score ≥7) per month were considered to have positive alerts.
+RESULTS: From 140 HD patients, 81 patients dialysed via AVF/G. 77/81 had available Vasc-Alert data and were included in the final analysis. Out of 17 eventful patients, 11 (64.7%) had positive alerts 2 months prior to the vascular event. Out of the 60 patients without vascular events, 20 patients (33.3%) had positive alert. Vasc-Alert's sensitivity and specificity for vascular events were 64.7% and 66.6%, respectively. Within the 6 patients with thrombosed access, 2 patients (33.3%) detected by Vasc-Alert were not detected with clinical monitoring.
+CONCLUSION: Vascular access risk score can be a useful non-invasive vascular access surveillance method to assist clinical decision making.
+
+Citation: Eltahan AR, et al. Remote Surveillance Technology of Dialysis Arteriovenous Access: Retrospective Evaluation in a UK Renal Centre. Remote Surveillance Technology of Dialysis Arteriovenous Access: Retrospective Evaluation in a UK Renal Centre. 2024; 148:536-543. doi: 10.1159/000538820
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38688245/

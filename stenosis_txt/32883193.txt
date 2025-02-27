@@ -1,0 +1,11 @@
+PMID: 32883193
+Title: Regional High Wall Shear Stress Associated With Stenosis Regression in Symptomatic Intracranial Atherosclerotic Disease.
+
+Abstract: BACKGROUND AND PURPOSE: Understanding the mechanisms underlying progression/regression of symptomatic intracranial atherosclerotic stenosis (sICAS) will inform secondary prevention of the patients. Focal wall shear stress (WSS) may play an important role, which, however, had seldom been investigated.
+METHODS: Patients with acute ischemic stroke or transient ischemic attack (TIA) attributed to 50% to 99% intracranial atherosclerotic stenosis were recruited. All patients underwent cerebral computed tomography angiography at baseline, and a computational fluid dynamics model was built based on computed tomography angiography to simulate blood flow and quantify WSS in the vicinity of the sICAS lesion. All patients received optimal medical treatment and a second computed tomography angiography at 1 year. The change in the luminal stenosis from baseline to 1 year in sICAS was defined as progression (increased >10%), quiescence (±10%), or regression (decreased >10%). Associations between baseline WSS metrics and sICAS regression were analyzed.
+RESULTS: Among 39 patients (median age 62 years; 27 males), sICAS luminal stenosis progressed, remained quiescent and regressed in 6 (15.4%), 15 (38.5%), and 18 (46.2%) cases, respectively. A higher maximum WSS and larger high-WSS area, throughout the sICAS lesion or obtained separately in the proximal and distal parts of the lesion, were independently associated with regression of luminal stenosis in sICAS over 1 year.
+CONCLUSIONS: A majority of sICAS lesions regress or stay quiescent in the luminal stenosis over 1 year after stroke under optimal medical treatment, when higher focal WSS may facilitate stenosis regression. Further studies of the effects of hemodynamics including WSS in altering plaque vulnerability and stroke risks are needed.
+
+Citation: Lan L, et al. Regional High Wall Shear Stress Associated With Stenosis Regression in Symptomatic Intracranial Atherosclerotic Disease. Regional High Wall Shear Stress Associated With Stenosis Regression in Symptomatic Intracranial Atherosclerotic Disease. 2020; 51:3064-3073. doi: 10.1161/STROKEAHA.120.030615
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32883193/

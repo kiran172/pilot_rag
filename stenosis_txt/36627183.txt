@@ -1,0 +1,11 @@
+PMID: 36627183
+Title: Impact of policy alterations on elective percutaneous coronary interventions in Japan.
+
+Abstract: OBJECTIVE: Establishing appropriate percutaneous coronary intervention (PCI) in stable angina pectoris (SAP) has become a distinctive performance measure worldwide. Clinical guidelines call for documenting ischaemia in patients with SAP prior to elective PCI. The Japanese Ministry of Health, Labour and Welfare introduced a new reimbursement policy in April 2018 to promote the appropriate and judicious implementation of PCI. The 2018 reimbursement changes clarified the required proof of ischaemia. Tests to evaluate functional ischaemia and coronary stenosis have been added as a requirement for reimbursement. We examined whether this reimbursement revision had an impact on PCI procedures for SAP in Japan.
+METHODS: We used administrative claims data in Japan's Diagnosis Procedure Combination database from April 2014 through March 2020. We used interrupted time series analyses with a control to ascertain the impacts on elective PCI procedures before and after the Japanese reimbursement revision. The primary outcome was the change in elective PCI procedures per month. Emergent PCI procedures served as a control group.
+RESULTS: A total of 773 240 PCI procedures were identified between April 2014 and March 2020: 388 817 and 180 462 elective PCIs before and after the reimbursement revision, respectively. After the 2018 reimbursement revision, significant trend changes were found in elective PCI procedures per month (-106.3, 95% CI -155.8 to -56.8, p<0.01), while the number of emergent PCIs remained stable throughout the study period.
+CONCLUSIONS: After revising the reimbursement tariff for elective PCIs in 2018, there was a significant reduction in elective PCI procedures per month.
+
+Citation: Morishita T, et al. Impact of policy alterations on elective percutaneous coronary interventions in Japan. Impact of policy alterations on elective percutaneous coronary interventions in Japan. 2023; 109:612-618. doi: 10.1136/heartjnl-2022-321695
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36627183/

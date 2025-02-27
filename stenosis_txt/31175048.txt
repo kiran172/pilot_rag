@@ -1,0 +1,12 @@
+PMID: 31175048
+Title: Clinical Outcomes of Sentinel Cerebral Protection System Use During Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis.
+
+Abstract: OBJECTIVE: To compare the clinical outcomes following transcatheter aortic valve replacement (TAVR) with and without the use of the Sentinel Cerebral Protection System (Sentinel CPS).
+BACKGROUND: Stroke occurs in 2-5% of patients at 30 days after TAVR and increases mortality >3 fold. The Sentinel CPS is the only FDA (Food and Drug Administration) approved cerebral embolic protection device.
+METHODS: The Cochrane Library, PubMed and Web of Science were searched for relevant studies for inclusion in the meta-analysis. Two authors independently screened and included studies comparing the clinical outcomes after TAVR with and without the Sentinel CPS. Risk of bias was assessed using the Cochrane tools (RoB2.0 and ROBINS-I).
+RESULTS: Four studies comparing 606 patients undergoing TAVR with Sentinel CPS to 724 without any embolic protection device were included. Sentinel CPS use was associated with lower rates of 30-day mortality [0.8% vs 2.7%; RR 0.34 (95% CI 0.12, 0.92) I2 = 0%], 30-day symptomatic stroke [3.5% vs 6.1%; RR 0.51 (95% CI 0.29, 0.90) I2 = 0] and major or life-threatening bleeding [3.3% vs 6.6%; RR 0.50 (0.26, 0.98) I2 = 16%]. There was no significant difference between the two arms in the incidence of acute kidney injury [0.8% vs 1%; RR 0.85 (95% CI 0.22, 3.24) I2 = 0%] and major vascular complications [5.1% vs 6%; RR 0.74 (0.33, 1.67) I2 = 45%].
+CONCLUSION: The results suggest that Sentinel CPS use in TAVR is associated with a lower risk of stroke, mortality and major or life-threatening bleeding at 30 days.
+
+Citation: Ndunda PM, et al. Clinical Outcomes of Sentinel Cerebral Protection System Use During Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis. Clinical Outcomes of Sentinel Cerebral Protection System Use During Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis. 2020; 21:717-722. doi: 10.1016/j.carrev.2019.04.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31175048/

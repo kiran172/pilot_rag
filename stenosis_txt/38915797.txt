@@ -1,0 +1,12 @@
+PMID: 38915797
+Title: Dual antiplatelet therapy for ischemic stroke with intracranial arterial stenosis: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: The safety and efficacy of dual antiplatelet therapy (DAPT) in ischemic stroke patients with intracranial artery stenosis (ICAS) remain contentious.
+AIMS: This study evaluates DAPT's effectiveness and safety for these patients.
+METHODS: This review was reported following PRISMA 2020 guidelines. A comprehensive search was conducted in PubMed, Embase, Cochrane Library, ClinicalTrials.gov, CNKI, WanFang, VIP, and SinoMed up to June 20, 2023, for randomized controlled trials comparing efficacy and safety of DAPT against single antiplatelet therapy (SAPT) in ischemic stroke patients with ICAS. The primary outcome was a composite of ischemic and bleeding events. Secondary outcomes included stroke (cerebral infarction and hemorrhage), ischemic events, and cerebral infarction. Safety outcomes assessed were bleeding events, cerebral hemorrhage, and mortality. Risk ratios (RRs) with 95% confidence intervals (CIs) were synthesized using Review Manager 5.4.
+RESULTS: Analysis of 21 randomized controlled trials involving 3,591 patients revealed that DAPT significantly lowered the rate of ischemic and bleeding events (RR = 0.52; 95% CI: 0.46-0.59, p &lt; 0.001) and recurrent stroke (RR = 0.37; 95% CI: 0.30-0.44, p &lt; 0.001) compared to SAPT. There was no significant increase in bleeding events (RR = 1.34; 95% CI: 0.97-1.85, p = 0.07) or cerebral hemorrhage (RR = 0.47; 95% CI: 0.17-1.31, p = 0.15).
+CONCLUSION: DAPT proveed to be effective and safe for ischemic stroke patients with ICAS and significantly reduced stroke and the composite endpoint of ischemic and bleeding events without elevating bleeding risks.
+
+Citation: Shao H, et al. Dual antiplatelet therapy for ischemic stroke with intracranial arterial stenosis: a systematic review and meta-analysis. Dual antiplatelet therapy for ischemic stroke with intracranial arterial stenosis: a systematic review and meta-analysis. 2024; 15:1411669. doi: 10.3389/fneur.2024.1411669
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38915797/

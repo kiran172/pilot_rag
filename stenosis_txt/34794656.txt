@@ -1,0 +1,12 @@
+PMID: 34794656
+Title: Transcatheter Versus Surgical Aortic Valve Replacement in Patients With Complex Coronary Artery Disease.
+
+Abstract: OBJECTIVES: The aim of this study was to compare, in a cohort of patients with complex coronary artery disease (CAD) and severe aortic stenosis (AS), the clinical outcomes associated with transfemoral transcatheter aortic valve replacement (TAVR) (plus percutaneous coronary intervention [PCI]) versus surgical aortic valve replacement (SAVR) (plus coronary artery bypass grafting [CABG]).
+BACKGROUND: Patients with complex CAD were excluded from the main randomized trials comparing TAVR with SAVR, and no data exist comparing TAVR + PCI vs SAVR + CABG in such patients.
+METHODS: A multicenter study was conducted including consecutive patients with severe AS and complex CAD (SYNTAX [Synergy Between PCI with Taxus and Cardiac Surgery] score >22 or unprotected left main disease). A 1:1 propensity-matched analysis was performed to account for unbalanced covariates. The rates of major adverse cardiac and cerebrovascular events (MACCE), including all-cause mortality, nonprocedural myocardial infarction, need for new coronary revascularization, and stroke, were evaluated.
+RESULTS: A total of 800 patients (598 undergoing SAVR + CABG and 202 undergoing transfemoral TAVR + PCI) were included, and after propensity matching, a total of 156 pairs of patients were generated. After a median follow-up period of 3 years (interquartile range: 1-6 years), there were no significant differences between groups for MACCE (HR for transfemoral TAVR vs SAVR: 1.33; 95% CI: 0.89-1.98), all-cause mortality (HR: 1.25; 95% CI: 0.81-1.94), myocardial infarction (HR: 1.16; 95% CI: 0.41-3.27), and stroke (HR: 0.42; 95% CI: 0.13-1.32), but there was a higher rate of new coronary revascularization in the TAVR + PCI group (HR: 5.38; 95% CI: 1.73-16.7).
+CONCLUSIONS: In patients with severe AS and complex CAD, TAVR + PCI and SAVR + CABG were associated with similar rates of MACCE after a median follow-up period of 3 years, but TAVR + PCI recipients exhibited a higher risk for repeat coronary revascularization. Future trials are warranted.
+
+Citation: Alperi A, et al. Transcatheter Versus Surgical Aortic Valve Replacement in Patients With Complex Coronary Artery Disease. Transcatheter Versus Surgical Aortic Valve Replacement in Patients With Complex Coronary Artery Disease. 2021; 14:2490-2499. doi: 10.1016/j.jcin.2021.08.073
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34794656/

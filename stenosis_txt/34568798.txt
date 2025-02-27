@@ -1,0 +1,8 @@
+PMID: 34568798
+Title: Post-surgical wireless monitoring of arterial health progression.
+
+Abstract: Early detection of limb ischemia, strokes, and heart attacks may be enabled via long-term monitoring of arterial health. Early stenosis, decreased blood flow, and clots are common after surgical vascular bypass or plaque removal from a diseased vessel and can lead to the above diseases. Continuous arterial monitoring for the early diagnosis of such complications is possible by implanting a sensor during surgery that is wirelessly monitored by patients after surgery. Here, we report the design of a wireless capacitive sensor wrapped around the artery during surgery for continuous post-operative monitoring of arterial health. The sensor responds to diverse artery sizes and extents of occlusion in vitro to at least 20 cm upstream and downstream of the sensor. It demonstrated strong capability to monitor progression of arterial occlusion in human cadaver and small animal models. This technology is promising for wireless monitoring of arterial health for pre-symptomatic disease detection and prevention.
+
+Citation: Ruth SRA, et al. Post-surgical wireless monitoring of arterial health progression. Post-surgical wireless monitoring of arterial health progression. 2021; 24:103079. doi: 10.1016/j.isci.2021.103079
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34568798/

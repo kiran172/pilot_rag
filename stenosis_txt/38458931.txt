@@ -1,0 +1,11 @@
+PMID: 38458931
+Title: Optimal Conduit Diameter Selection in Coronary Bypass Grafting Using Saphenous Vein.
+
+Abstract: BACKGROUND: Predictors of long-term saphenous vein graft (SVG) patency following coronary artery bypass grafting (CABG) include harvesting technique, degree of proximal coronary stenosis, and target vessel diameter and runoff. The objective of this study was to evaluate the association between vein graft diameter and long-term survival.
+METHODS: Patients undergoing primary CABG (2000-2017) at Flinders Medical Centre, Adelaide, Australia, were categorised into three groups according to average SVG diameter (<3.5 mm [small], 3.5-4 mm [medium], >4 mm [large]). Survival data was obtained from the Australian Institute of Health and Welfare National Death Index. To determine the association of SVG diameter with long-term survival we used Kaplan-Meier survival analysis and Cox proportional hazard models adjusted for preoperative variables associated with survival.
+RESULTS: Vein graft diameter was collected in 3,797 patients. Median follow-up time was 7.6 years (interquartile range, 3.9-11.8) with 1,377 deaths. SVG size >4 mm was associated with lower rates of adjusted survival up to 4 years postoperatively (hazard ratio 1.48; 95% confidence interval 1.05-2.1; p=0.026).
+CONCLUSIONS: Vein graft diameter >4mm was found to be associated with lower rates of survival following CABG.
+
+Citation: Szpytma MM, et al. Optimal Conduit Diameter Selection in Coronary Bypass Grafting Using Saphenous Vein. Optimal Conduit Diameter Selection in Coronary Bypass Grafting Using Saphenous Vein. 2024; 33:898-907. doi: 10.1016/j.hlc.2024.01.035
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38458931/

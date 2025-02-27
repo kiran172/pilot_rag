@@ -1,0 +1,11 @@
+PMID: 35422401
+Title: Ureter dose optimization during image guided brachytherapy for cervical cancer.
+
+Abstract: PURPOSE: In the era of image guided radiotherapy and interstitial needle use, radiation dose to ureters can cause toxicity.
+METHODS: A retrospective analysis of 106 patients with cervical cancer was performed to investigate ureter dose in brachytherapy patients. Re-optimization of brachytherapy treatment plans in 20 MRI planned patients was performed to reduce ureter dose whilst maintaining HRCTV D90 and OAR dose constraints.
+RESULTS: A total of 212 ureters were contoured and dose recorded. The crude incidence of ureteric stenosis was 6.6%. Ureter dose for all patients was 75.8 Gy and 74.4 Gy on the right and left respectively. A cohort of 20 MRI planned patients were reoptimized to reduce dose to ureters. Ureter dose was reduced from 91.1 Gy to 84.4 Gy and 73.9 Gy to 67.8 Gy on the right and left side respectively. A subgroup of patients with HRCTV D90 ≥84.3 Gy prior to reoptimisation saw a greater reduction in ureter dose of 13.3%. These were smaller tumours with better HRCTV coverage at the outset. Larger tumours with poorer HRCTV coverage (<84.3 Gy) saw a smaller reduction in ureter dose of 6.4%. Organ at risk dose to rectum, sigmoid and bladder were also significantly reduced.
+CONCLUSIONS: Patients treated with MRI guided brachytherapy and interstitial needles are at risk of ureteric stenosis. Contouring ureters and setting dose constraints should be considered to reduce ureteric dose while tracking HRCTV coverage.
+
+Citation: Sarwar A, et al. Ureter dose optimization during image guided brachytherapy for cervical cancer. Ureter dose optimization during image guided brachytherapy for cervical cancer. 2022; 21:397-404. doi: 10.1016/j.brachy.2022.02.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35422401/

@@ -1,0 +1,8 @@
+PMID: 36805489
+Title: Integration of fractional flow reserve derived from CT into clinical practice.
+
+Abstract: Fractional flow reserve (FFR) is currently considered as the gold standard for revascularization decision-making in patients with stable coronary artery disease (CAD). The application of computational fluid dynamics to coronary computed tomography (CT) angiography (CCTA) enables calculation of FFR without additional testing, radiation exposure, contrast medium injection, and hyperemia (FFR<sub>CT</sub>). Although multiple diagnostic and clinical studies have enriched the scientific evidence, it is still challenging to integrate FFR<sub>CT</sub> into clinical practice. Both meticulous scientific backgrounds and precise anatomical data derived from CCTA are fundamental for FFR<sub>CT</sub> computation, and there are numerous factors impacting on FFR<sub>CT</sub> calculation and interpretation: coronary artery stenosis, calcium, atherosclerosis, luminal volume, and left ventricular myocardial mass. Further, there is a gap that clinicians using FFR<sub>CT</sub> need to recognize in interpretation of FFR<sub>CT</sub> results between diagnostic studies and clinical studies. In this review, we summarize multiple evidence related to FFR<sub>CT</sub> computation and interpretation to refine the FFR<sub>CT</sub> strategy in patients with stable CAD.
+
+Citation: Takagi H, et al. Integration of fractional flow reserve derived from CT into clinical practice. Integration of fractional flow reserve derived from CT into clinical practice. 2023; 81:577-585. doi: 10.1016/j.jjcc.2023.02.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36805489/

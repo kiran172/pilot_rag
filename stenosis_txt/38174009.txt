@@ -1,0 +1,11 @@
+PMID: 38174009
+Title: Impact of same-admission percutaneous coronary intervention on periprocedural outcomes of transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Current guidelines recommend percutaneous coronary intervention (PCI) prior to transcatheter aortic valve implantation (TAVI) if significant coronary artery disease is present, but whether PCI should be done in the same admission as TAVI is not determined.
+METHODS: We retrospectively analyzed the National Inpatient Sample from 2016 to 2019 to compare TAVI with and without same-admission PCI and compare in-hospital outcomes after propensity score matching.
+RESULTS: Among 170,030 hospitalizations for TAVI, 4425 (2.6%) had same-admission PCI performed. After propensity score matching, 4425 hospitalizations were allocated to those with and without same-admission PCI. No difference in in-hospital mortality (odds ratio [OR] 1.59, 95% confidence interval [CI] 0.81-3.12) was observed between the two groups. However, TAVI with same-admission PCI was associated with higher odds of cardiac arrest (OR 2.25, 95% CI 1.02-4.98), cardiogenic shock (OR 2.21, 95% CI 1.29-3.79), and acute myocardial infarction (OR 3.23, 95% CI 2.11-4.93). It was also associated with longer length of stay and more expensive hospital cost.
+CONCLUSION: TAVI with same-admission PCI was associated with higher odds of periprocedural complications and higher immediate cost. Our findings should be interpreted in the context of the same-admission PCI and TAVI cohort potentially being sicker and the isolated TAVI control group may or may not having obstructive coronary artery disease.
+
+Citation: Park DY, et al. Impact of same-admission percutaneous coronary intervention on periprocedural outcomes of transcatheter aortic valve implantation. Impact of same-admission percutaneous coronary intervention on periprocedural outcomes of transcatheter aortic valve implantation. 2024; 37:7-13. doi: 10.1080/08998280.2023.2273742
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38174009/

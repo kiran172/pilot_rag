@@ -1,0 +1,11 @@
+PMID: 39425526
+Title: Meta-analysis of improved mitral regurgitation after aortic valve replacement.
+
+Abstract: BACKGROUND: This meta-analysis aimed to compare survival outcomes among patients experiencing improvement in untreated significant mitral regurgitation (MR) following surgical aortic valve replacement (SAVR) or transcatheter aortic valve replacement (TAVR) for severe aortic stenosis, in contrast to those without improvement.
+METHODS: We conducted a comprehensive search through February 2024. Pooled hazard ratios (HR) with 95% confidence intervals (CI) were computed. Kaplan-Meier curves depicting all-cause mortality were reconstructed using individual patient data derived from the included studies.
+RESULTS: A systematic review identified twelve non-randomized studies encompassing 4040 patients. The pooled all-cause mortality of the meta-analysis demonstrated a significant reduction in patients whose MR improved compared to those with persistent MR after aortic valve replacement (AVR) (HR [95% CI] = 0.55 [0.47-0.64], p &lt; .01). The hazard ratio, derived from reconstructed time-to-event data, indicated lower all-cause mortality in patients with improved MR after AVR relative to the other cohort (HR [95% CI] = 0.50 [0.40-0.62], p &lt; .01 in all patients, 0.48 [0.34-0.68], p &lt; .01 in patients undergoing SAVR, and 0.58 [0.42-0.80], p &lt; .01 in those receiving TAVR).
+CONCLUSION: In conclusion, this meta-analysis revealed that improved MR after AVR, whether surgically or by transcatheter approach, correlates with superior survival. The benefits of simultaneous or staged intervention on the mitral valve in individuals undergoing AVR warrant validation in future investigations.
+
+Citation: Naito N and Takagi H. Meta-analysis of improved mitral regurgitation after aortic valve replacement. Meta-analysis of improved mitral regurgitation after aortic valve replacement. 2024; (unknown volume):2676591241291338. doi: 10.1177/02676591241291338
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39425526/

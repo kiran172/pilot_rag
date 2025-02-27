@@ -1,0 +1,11 @@
+PMID: 35282665
+Title: Prevalence and real-world management of NSTEMI with multivessel disease.
+
+Abstract: BACKGROUND: Non-ST elevation myocardial infarction (NSTEMI) has higher post-discharge mortality than ST-elevation myocardial infarction (STEMI). Prognosis worsens in those with multivessel coronary disease (MVD). However, information about the prevalence and extent of MVD in NSTEMI is limited, in turn limiting insights into optimal treatment strategies. This study aimed to define the prevalence and extent of MVD, preferred treatment strategies and the predictors of MVD in a real-world NSTEMI population.
+METHODS: The Coronary Angiogram Database of South Australia (CADOSA) was used to identify consecutive patients presenting to major teaching hospitals with NSTEMI between 2012 and 2016. Obtaining clinical and angiographic details, patients were stratified by the number of significantly diseased vessels (0,1,2,3-VD), defined by a stenosis of ≥70%, or ≥50% in the left main coronary artery. Data was analysed retrospectively.
+RESULTS: The prevalence of MVD (2- or 3-VD) was 42% amongst 3,722 NSTEMI presentations. Multivariate logistic regression modelling showed age, male gender, diabetes, dyslipidaemia and prior myocardial infarction predicted MVD over 1-VD or 0-VD. Percutaneous coronary intervention (PCI) was performed in 42% of patients with MVD. This comprised 61% of 2-VD patients and only 22% of 3-VD patients, with 24% and 66% of each group referred for coronary bypass grafting, respectively. Among MVD patients treated with PCI, 76% had their culprit lesion treated alone in the index admission.
+CONCLUSIONS: In this NSTEMI cohort, over 40% had MVD. Notably, a minority of patients with MVD undergoing PCI received multivessel revascularisation. This real-world practice emphasises that further evaluation is required to determine whether complete revascularisation is beneficial in NSTEMI, as reported for STEMI.
+
+Citation: Baumann AAW, et al. Prevalence and real-world management of NSTEMI with multivessel disease. Prevalence and real-world management of NSTEMI with multivessel disease. 2022; 12:1-11. doi: 10.21037/cdt-21-518
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35282665/

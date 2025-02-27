@@ -1,0 +1,12 @@
+PMID: 32960991
+Title: The relationship between baseline diastolic dysfunction and postimplantation invasive hemodynamics with transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Abnormal invasive hemodynamics after transcatheter aortic valve replacement (TAVR) is associated with poor survival; however, the mechanism is unknown.
+HYPOTHESIS: Diastolic dysfunction will modify the association between invasive hemodynamics postTAVR and mortality.
+METHODS: Patients with echocardiographic assessment of diastolic function and postTAVR invasive hemodynamic assessment were eligible for the present analysis. Diastology was classified as normal or abnormal (Stages 1 to 3). The aorto-ventricular index (AVi) was calculated as the difference between the aortic diastolic and the left ventricular end-diastolic pressure divided by the heart rate. AVi was categorized as abnormal (AVi < 0.5 mmHg/beats per minute) or normal (≥ 0.5 mmHg/beats per minute).
+RESULTS: From 1339 TAVR patients, 390 were included in the final analysis. The mean follow-up was 3.3 ± 1.7 years. Diastolic dysfunction was present in 70.9% of the abnormal vs 55.1% of the normal AVi group (P < .001). All-cause mortality was 46% in the abnormal vs 31% in the normal AVi group (P < .001). Adjusted hazard ratio (HR) for AVi < 0.5 mmHg/beats per minute vs AVi ≥0.5 mmHg/beats per minute for intermediate-term mortality was (HR = 1.5, 95% confidence interval [CI] 1.1 to 2.1, P = .017). This association was the same among those with normal diastolic function and those with diastolic dysfunction (P for interaction = .35).
+CONCLUSION: Diastolic dysfunction is prevalent among TAVR patients. Low AVi is an independent predictor for poor intermediate-term survival, irrespective of co-morbid diastolic dysfunction.
+
+Citation: Bavry AA, et al. The relationship between baseline diastolic dysfunction and postimplantation invasive hemodynamics with transcatheter aortic valve replacement. The relationship between baseline diastolic dysfunction and postimplantation invasive hemodynamics with transcatheter aortic valve replacement. 2020; 43:1428-1434. doi: 10.1002/clc.23457
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32960991/

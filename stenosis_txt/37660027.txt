@@ -1,0 +1,11 @@
+PMID: 37660027
+Title: Association between the insulin resistance and all-cause mortality in patients with moderate and severe aortic stenosis: a retrospective cohort study.
+
+Abstract: BACKGROUND: The triglyceride-glucose (TyG) index is a reliable surrogate marker of insulin resistance (IR). However, whether the TyG index has prognostic value in patients with moderate to severe aortic stenosis (AS) remains unclear.
+METHODS: This study enrolled 317 patients with moderate to severe AS at the First Affiliated Hospital of Sun Yat-Sen University. The patients were grouped according to the cut-off value of the TyG index. Cox regression with Firth's penalized maximum likelihood method and restricted cubic splines regression were conducted to assess the association between the TyG index and all-cause mortality. The added value of the TyG index included in the traditional risk factors model for outcome prediction was also analyzed.
+RESULTS: Among 317 patients (mean age 67.70 years, 62.8% male), there was 84 all-cause mortality during a median 38.07 months follow-up. After fully adjusting for confounders, a per-unit increase in the TyG index was associated with a 62% higher all-cause mortality risk (HR 1.622, 95% CI 1.086-2.416, p = 0.018). The restricted cubic splines regression model revealed a linear association between the TyG index and the risk of all-cause mortality (p for nonlinearity = 0.632). The addition of the TyG index in the basic risk model has an incremental effect on the prediction of mortality [C-statistic change from 0.755 to 0.768; continuous net reclassification improvement (95% CI): 0.299 (0.051-0.546), p = 0.017; integrated discrimination improvement: 0.017 (0.001-0.033), p = 0.044].
+CONCLUSIONS: Higher IR assessed by the TyG index was associated with a higher risk of all-cause mortality in patients with moderate and severe AS.
+
+Citation: Huang R, et al. Association between the insulin resistance and all-cause mortality in patients with moderate and severe aortic stenosis: a retrospective cohort study. Association between the insulin resistance and all-cause mortality in patients with moderate and severe aortic stenosis: a retrospective cohort study. 2023; 22:238. doi: 10.1186/s12933-023-01975-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37660027/

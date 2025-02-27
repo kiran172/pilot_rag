@@ -1,0 +1,11 @@
+PMID: 37414867
+Title: Influence of cardiac biomarkers on predicting significant coronary artery disease in hypertrophic cardiomyopathy patients.
+
+Abstract: BACKGROUND: In this study, our aim was to investigate the role of cardiac biomarkers in predicting the presence of significant coronary artery disease in hypertrophic cardiomyopathy (HCM) patients.
+METHODS: The study population was composed of hypertrophic cardiomyopathy patients who underwent coronary angiography at a single center between June 2021 and March 2023, and whose cardiac biomarkers were evaluated before the procedure. HCM patients were screened retrospectively. Significant CAD was defined as > 50% stenosis of the left main coronary artery or > 70% stenosis in a major coronary vessel. Demographic, echocardiographic and cardiac biomarker values were compared between the two groups.
+RESULTS: A total of 123 patients were evaluated. Significant CAD was detected in 39 (31.7%) patients. Patients with significant CAD had higher CK-MB values than those without CAD [2.8 (2.1-4.0) vs. 3.4 (2.8-4.6), p = 0.036], and a higher level of high-sensitivity troponin T (hs-TnT) than those without CAD (24 vs. 17.8, p = 0.022). the NT-proBNP/hs-TnT ratio was found to be significantly lower in patients with CAD than in those with CAD (31.4 vs. 21.4, p = 0.019). In multivariate anaylsis, NT-proBNP/hs-TnT was determined as an independent predictor for significant CAD. In ROC analysis, NT-proBNP/hs-TnT ratio lower than the cut-off value of 30.7 could detect the presence of significant CAD with 76.9% sensitivity and 53.6% specificity (AUC: 0.632, 95% CI: 0.528-0.736, p = 0.019).
+CONCLUSION: To sum up, we suggest that cardiac biomarkers were valuable and simple parameters in terms of significant CAD in HCM patients.
+
+Citation: Guler A, et al. Influence of cardiac biomarkers on predicting significant coronary artery disease in hypertrophic cardiomyopathy patients. Influence of cardiac biomarkers on predicting significant coronary artery disease in hypertrophic cardiomyopathy patients. 2023; 38:1329-1336. doi: 10.1007/s00380-023-02287-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37414867/

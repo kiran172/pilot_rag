@@ -1,0 +1,11 @@
+PMID: 32503596
+Title: Dosimetric parameters predict radiation-induced choanal stenosis in patients with nasopharyngeal carcinoma.
+
+Abstract: BACKGROUND: Radiation-induced choanal stenosis (RICS) severely decreases life quality of patients with nasopharyngeal carcinoma (NPC) and originates from nasal mucositis, which depends on radiation dose. This self-controlled study aimed to find the correlations between dosimetric parameters and RICS.
+METHODS: Totally 49 NPC patients treated with intensity-modulated radiotherapy from May 2010 to Aug. 2013 and diagnosed with RICS during follow-up were enrolled into this study. Minimum point dose, maximum point dose, mean dose (Dmean), dose covering ≥33% volume (D33), dose covering ≥66% volume (D66), and volume receiving ≥60 Gy (V60) were compared between the nasal cavities with and without RICS, through paired t-test. The parameters with difference would enter receiver operating characteristic analysis to determine their cutoff values. Then predicting abilities of the cutoff values were tested by Chi-square test.
+RESULT: The nasal cavities with RICS appeared to have higher Dmean, D33, D66 and V60, compared with those without RICS (P values were 0.014, 0.003, 0.006 and 0.010). Dmean ≥54.22 Gy, D33 ≥ 61.96 Gy, D66 ≥ 46.50 Gy and V60 ≥ 48.13% were demonstrated to be related with a higher risk of RICS.
+CONCLUSION: Dmean, D33, D66 and V60 of nasal cavity might be used as predictors of RICS. Their values needed to be controlled whenever possible, for ameliorating life quality of NPC patients.
+
+Citation: Chang H, et al. Dosimetric parameters predict radiation-induced choanal stenosis in patients with nasopharyngeal carcinoma. Dosimetric parameters predict radiation-induced choanal stenosis in patients with nasopharyngeal carcinoma. 2020; 15:142. doi: 10.1186/s13014-020-01512-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32503596/

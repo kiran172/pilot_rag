@@ -1,0 +1,11 @@
+PMID: 31823191
+Title: A Systematic Review for the Design of In Vitro Flow Studies of the Carotid Artery Bifurcation.
+
+Abstract: PURPOSE: In vitro blood flow studies in carotid artery bifurcation models may contribute to understanding the influence of hemodynamics on carotid artery disease. However, the design of in vitro blood flow studies involves many steps and selection of imaging techniques, model materials, model design, and flow visualization parameters. Therefore, an overview of the possibilities and guidance for the design process is beneficial for researchers with less experience in flow studies.
+METHODS: A systematic search to in vitro flow studies in carotid artery bifurcation models aiming at quantification and detailed flow visualization of blood flow dynamics results in inclusion of 42 articles.
+RESULTS: Four categories of imaging techniques are distinguished: MRI, optical particle image velocimetry (PIV), ultrasound and miscellaneous techniques. Parameters for flow visualization are categorized into velocity, flow, shear-related, turbulent/disordered flow and other parameters. Model materials and design characteristics vary between study type.
+CONCLUSIONS: A simplified three-step design process is proposed for better fitting and adequate match with the pertinent research question at hand and as guidance for less experienced flow study researchers. The three consecutive selection steps are: flow parameters, image modality, and model materials and designs. Model materials depend on the chosen imaging technique, whereas choice of flow parameters is independent from imaging technique and is therefore only determined by the goal of the study.
+
+Citation: Hoving AM, et al. A Systematic Review for the Design of In Vitro Flow Studies of the Carotid Artery Bifurcation. A Systematic Review for the Design of In Vitro Flow Studies of the Carotid Artery Bifurcation. 2020; 11:111-127. doi: 10.1007/s13239-019-00448-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31823191/

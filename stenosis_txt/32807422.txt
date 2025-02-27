@@ -1,0 +1,11 @@
+PMID: 32807422
+Title: Magnetic resonance vessel wall imaging predicts morphological deterioration in unruptured intracranial artery dissection.
+
+Abstract: OBJECTIVE: The mechanism involved in progression of unruptured intracranial artery dissection (IAD) is poorly understood. We investigated the relationship between contrast enhancement of dissecting lesions on magnetic resonance vessel wall imaging (MR-VWI) and unruptured IAD progression on the hypothesis that this finding might predict its instability.
+METHODS: A total of 49 unruptured IADs were investigated retrospectively. Three-dimensional T1-weighted fast spin-echo sequences were obtained before and after injection of contrast medium, and the dissecting lesion/pituitary stalk contrast enhancement ratio (CR<sub>stalk</sub>) was calculated. Unruptured IAD progression was defined as morphological deterioration; progressive dilatation or stenosis. The relations between unruptured IAD progression and potential risk factors were statistically investigated.
+RESULTS: Morphological deterioration was demonstrated in eleven of 49 unruptured IADs (22 %). The CR<sub>stalk</sub> value and male predominance was significantly higher in progressed IADs than stable ones (1.0 vs. 0.65; p = 0.0035, 82% vs 37%; p= 0.015, respectively). On stepwise multivariable logistic regression analysis, the CR<sub>stalk</sub> value was independently associated with unruptured IAD progression with odds ratio of 102.5 (95% CI, 2.59-4059, P=0.0013). The optimal cutoff value of CR<sub>stalk</sub> to estimate IADs with progression was 0.87 (sensitivity, 0.82; specificity, 0.74). Multimodalic images showed contrast enhancement on VWI corresponded to residual stagnant flow in dissecting lesions.
+CONCLUSIONS: Quantitative analysis of contrast enhancement on VWI could predict instability of unruptured IADs. Contrast enhancement in dissecting lesions would be a clue to understand the mechanism of unruptured IAD progression.
+
+Citation: Hashimoto Y, et al. Magnetic resonance vessel wall imaging predicts morphological deterioration in unruptured intracranial artery dissection. Magnetic resonance vessel wall imaging predicts morphological deterioration in unruptured intracranial artery dissection. 2020; 29:105006. doi: 10.1016/j.jstrokecerebrovasdis.2020.105006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32807422/

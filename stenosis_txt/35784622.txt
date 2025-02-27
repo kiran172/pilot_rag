@@ -1,0 +1,11 @@
+PMID: 35784622
+Title: Clinical adverse events and device failures for the Barrx™ radiofrequency ablation catheter system: a MAUDE database analysis.
+
+Abstract: BACKGROUND: The Barrx™ radiofrequency ablation (RFA) catheter system comes in several different variations and sizes and is widely used for the eradication of Barrett's esophagus (BE). The Barrx™ 360 and 360 Express system is used to perform circumferential RFA, while the Barrx™ focal catheter system is used for secondary focal RFA or primary treatment of short-segment BE. We aimed to investigate the number and type of complications and device failures associated with the Barrx™ RFA catheter system.
+METHOD: We analyzed post-marketing surveillance data from the Food and Drug Administration's Manufacturer and User Facility Device Experience (MAUDE) database from August 2011 to August 2021.
+RESULTS: During the study period, 148 unique reports detailing 78 device issues and 87 patient-related adverse events were identified. The most reported adverse events for patients were stenosis secondary to treatment (n=15, 17.24%), mucosal laceration of the esophagus (n=13, 14.94%), chest pain (n=10, 11.49%), and odynophagia/dysphagia (n=7, 8.05%). The most common device complication was failure of the device to deploy when activated (n=10, 13.82%). Other device malfunctions included material deformation/distortion (n=7, 8.97%), catheter breakage (n=6, 7.69%), connection problems between the generator cable and RFA device (n=6, 7.69%), and failure of the balloon to properly inflate (n=5, 6.41%).
+CONCLUSION: Findings from the MAUDE database highlight patient and device complications that endoscopists should be aware of prior to RFA of BE with the Barrx™ RFA catheter system.
+
+Citation: Dubrouskaya K, et al. Clinical adverse events and device failures for the Barrx™ radiofrequency ablation catheter system: a MAUDE database analysis. Clinical adverse events and device failures for the Barrx™ radiofrequency ablation catheter system: a MAUDE database analysis. 2022; 35:345-350. doi: 10.20524/aog.2022.0721
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35784622/

@@ -1,0 +1,10 @@
+PMID: 32966833
+Title: Impact of instantaneous wave-free ratio on graft failure after coronary artery bypass graft surgery.
+
+Abstract: BACKGROUND: We aimed to assess an impact of instantaneous wave-free ratio (iFR) on a graft failure after coronary artery bypass grafting (CABG).
+METHODS AND RESULTS: A total of 131 coronary arteries from 88 patients who underwent invasive coronary angiography, intracoronary pressure measurements, CABG, and scheduled follow-up coronary computed tomography angiography within one year were investigated. All studied arteries had FFR <0.80. The rate of graft failure was significantly higher in vessels with negative iFR (>0.89) than in those with positive iFR (<0.89) (25.7% vs. 7.3%, p = 0.012). The graft failure rates increased as the preoperative iFR values rose (iFR <0.80, 3.3%; iFR: 0.80-0.84, 5.6%; iFR: 0.85-0.89, 16.0%; iFR: 0.90-0.94, 28.0%; and iFR: 0.95-1.00, 50.0%; p = 0.002). A cut-off value of iFR to predict graft failures was determined as 0.84 by receiver-operating characteristic curve analysis with sensitivity, specificity, positive predictive value, negative predictive value, and accuracy of 88%, 62%, 25%, 97%, and 66%, respectively.
+CONCLUSIONS: The risk of graft failure becomes higher, as the preoperative iFR increases. The graft failure is significantly more frequent when a bypass graft is anastomosed on vessels with negative iFR than those with positive iFR.
+
+Citation: Wada T, et al. Impact of instantaneous wave-free ratio on graft failure after coronary artery bypass graft surgery. Impact of instantaneous wave-free ratio on graft failure after coronary artery bypass graft surgery. 2021; 324:23-29. doi: 10.1016/j.ijcard.2020.09.046
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32966833/

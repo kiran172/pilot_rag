@@ -1,0 +1,10 @@
+PMID: 37839862
+Title: Risk Assessment of Side Branch Compromise After Coronary Bifurcation Stenting　- A Substudy of the 3D-OCT Bifurcation Registry.
+
+Abstract: BACKGROUND: Side branch (SB) occlusion during bifurcation stenting is a serious complication. This study aimed to predict SB compromise (SBC) using optical coherence tomography (OCT).
+METHODS AND RESULTS: Among the 168 patients who enrolled in the 3D-OCT Bifurcation Registry, 111 bifurcation lesions were analyzed to develop an OCT risk score for predicting SBC. SBC was defined as worsening of angiographic SB ostial stenosis (≥90%) immediately after stenting. On the basis of OCT before stenting, geometric parameters (SB diameter [SBd], length from proximal branching point to carina tip [BP-CT length], and distance of the polygon of confluence [dPOC]) and 3-dimensional bifurcation types (parallel or perpendicular) were evaluated. SBC occurred in 36 (32%) lesions. The parallel-type bifurcation was significantly more frequent in lesions with SBC. The receiver operating characteristic curve indicated SBd ≤1.77 mm (area under the curve [AUC]=0.73, sensitivity 64%, specificity 75%), BP-CT length ≤1.8 mm (AUC=0.83, sensitivity 86%, specificity 68%), and dPOC ≤3.96 mm (AUC=0.68, sensitivity 63%, specificity 69%) as the best cut-off values for predicting SBC. To create the OCT risk score, we assigned 1 point to each of these factors. As the score increased, the frequency of SBC increased significantly (Score 0, 0%; Score 1, 8.7%; Score 2, 28%; Score 3, 58%; Score 4, 85%; P<0.0001).
+CONCLUSIONS: Prediction of SBC using OCT is feasible with high probability.
+
+Citation: Akase H, et al. Risk Assessment of Side Branch Compromise After Coronary Bifurcation Stenting　- A Substudy of the 3D-OCT Bifurcation Registry. Risk Assessment of Side Branch Compromise After Coronary Bifurcation Stenting　- A Substudy of the 3D-OCT Bifurcation Registry. 2024; 88:959-969. doi: 10.1253/circj.CJ-22-0723
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37839862/

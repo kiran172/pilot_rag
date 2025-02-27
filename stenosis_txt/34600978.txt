@@ -1,0 +1,11 @@
+PMID: 34600978
+Title: The impact of computed tomography-derived aortic atheroma volume on prognosis after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: The impact of the extent of aortic atheroma on patients' prognosis after transcatheter aortic valve replacement (TAVR) has not been completely evaluated. This study aimed to evaluate the prognostic value of the aortic atheroma volume (AAV) derived from computed tomography, and the effect of its differences among the segments of the aorta, in patients undergoing TAVR.
+METHODS: In total, 143 patients with symptomatic severe aortic stenosis who underwent pre-procedural computed tomography before TAVR procedure indication were evaluated. AAV was calculated by measuring the aortic lumen and vessel volume using every 1-mm axial image and was further divided into thoracic (TAAV) and abdominal segments (AbAAV).
+RESULTS: During a median follow-up of 651 days, 24 all-cause and 14 cardiac deaths occurred. In the Kaplan-Meier analysis, the high AAV group had significantly higher all-cause and cardiac mortalities than the low AAV group (p = 0.016 and 0.023, respectively). Regarding segmental AAV, all-cause and cardiac mortalities did not have significant differences between the high and low TAAV groups. Moreover, all-cause and cardiac mortalities were significantly higher in the high AbAAV group than in the low AbAAV group (p = 0.0043 and 0.023, respectively). The multivariable analysis showed that only AbAAV was an independent predictor for all-cause mortality (hazard ratio: 1.06, p = 0.046).
+CONCLUSION: AAV was significantly associated with the mortality after TAVR. The current study suggests the pre-procedural assessment of AAV is valuable in predicting prognosis after TAVR. However, further investigation with a larger sample size is needed to validate our findings.
+
+Citation: Fujita H, et al. The impact of computed tomography-derived aortic atheroma volume on prognosis after transcatheter aortic valve replacement. The impact of computed tomography-derived aortic atheroma volume on prognosis after transcatheter aortic valve replacement. 2021; 344:60-65. doi: 10.1016/j.ijcard.2021.09.053
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34600978/

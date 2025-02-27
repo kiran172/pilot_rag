@@ -1,0 +1,11 @@
+PMID: 33333347
+Title: Dose-response relationship between blood pressure and intracranial atherosclerotic stenosis.
+
+Abstract: BACKGROUND AND AIMS: We aimed to explore the association between blood pressure, intracranial atherosclerotic stenosis (ICAS) risks and ICAS burden in the Chinese population.
+METHODS: A retrospective hospital-based multi-center case-control study with large sample size was conducted. 1055 ICAS patients and 1296 non-ICAS subjects with complete clinical information and intracranial artery evaluation were identified between 2014 and 2019. Cerebral arteries were evaluated by magnetic resonance angiography, and/or computed tomography, and/or digital subtraction angiography. Two or more neurologists were involved in reading and assessment of images. The association between ICAS and burden of ICAS with blood pressure was evaluated with univariate logistic models and multivariate logistic models.
+RESULTS: With every increase of 10 mmHg in systolic blood pressure, diastolic blood pressure and pulse pressure, the odds of ICAS increased by 32%, 28% and 35% in multivariate analysis, respectively (odds ratio = 1.32, 1.28, and 1.35 respectively, all p < 0.001). Similarly, every increment of 10 mmHg in systolic blood pressure and pulse pressure was associated with an increased risk of ICAS burden (each odds ratio = 1.08, p < 0.05).
+CONCLUSIONS: Systolic blood pressure, diastolic blood pressure, and pulse pressure were associated with the risk of ICAS in a dose-response manner. Moreover, higher systolic blood pressure and pulse pressure could lead to higher ICAS burdens.
+
+Citation: Li HQ, et al. Dose-response relationship between blood pressure and intracranial atherosclerotic stenosis. Dose-response relationship between blood pressure and intracranial atherosclerotic stenosis. 2021; 317:36-40. doi: 10.1016/j.atherosclerosis.2020.12.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33333347/

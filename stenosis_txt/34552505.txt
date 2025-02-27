@@ -1,0 +1,11 @@
+PMID: 34552505
+Title: Comparison of Newtonian and Non-newtonian Fluid Models in Blood Flow Simulation in Patients With Intracranial Arterial Stenosis.
+
+Abstract: BACKGROUND: Newtonian fluid model has been commonly applied in simulating cerebral blood flow in intracranial atherosclerotic stenosis (ICAS) cases using computational fluid dynamics (CFD) modeling, while blood is a shear-thinning non-Newtonian fluid. We aimed to investigate the differences of cerebral hemodynamic metrics quantified in CFD models built with Newtonian and non-Newtonian fluid assumptions, in patients with ICAS.
+METHODS: We built a virtual artery model with an eccentric 75% stenosis and performed static CFD simulation. We also constructed CFD models in three patients with ICAS of different severities in the luminal stenosis. We performed static simulations on these models with Newtonian and two non-Newtonian (Casson and Carreau-Yasuda) fluid models. We also performed transient simulations on another patient-specific model. We measured translesional pressure ratio (PR) and wall shear stress (WSS) values in all CFD models, to reflect the changes in pressure and WSS across a stenotic lesion. In all the simulations, we compared the PR and WSS values in CFD models derived with Newtonian, Casson, and Carreau-Yasuda fluid assumptions.
+RESULTS: In all the static and transient simulations, the Newtonian/non-Newtonian difference on PR value was negligible. As to WSS, in static models (virtual and patient-specific), the rheological difference was not obvious in areas with high WSS, but observable in low WSS areas. In the transient model, the rheological difference of WSS areas with low WSS was enhanced, especially during diastolic period.
+CONCLUSION: Newtonian fluid model could be applicable for PR calculation, but caution needs to be taken when using the Newtonian assumption in simulating WSS especially in severe ICAS cases.
+
+Citation: Liu H, et al. Comparison of Newtonian and Non-newtonian Fluid Models in Blood Flow Simulation in Patients With Intracranial Arterial Stenosis. Comparison of Newtonian and Non-newtonian Fluid Models in Blood Flow Simulation in Patients With Intracranial Arterial Stenosis. 2021; 12:718540. doi: 10.3389/fphys.2021.718540
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34552505/

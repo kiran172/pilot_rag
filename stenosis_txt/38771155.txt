@@ -1,0 +1,12 @@
+PMID: 38771155
+Title: POSTN Regulates Fibroblast Proliferation and Migration in Laryngotracheal Stenosis Through the TGF-β/RHOA Pathway.
+
+Abstract: OBJECTIVES: To investigate the role of periostin (POSTN) and the transforming growth factor β (TGF-β) pathway in the formation of laryngotracheal stenosis (LTS) scar fibrosis and to explore the specific signaling mechanism of POSTN-regulated TGF-β pathway in tracheal fibroblasts.
+METHODS: Bioinformatics analysis was performed on scar data sets from the GEO database to preliminarily analyze the involvement of POSTN and TGF-β pathways in fibrosis diseases. Expression of POSTN and TGF-β pathway-related molecules was analyzed in LTS scar tissue at the mRNA and protein levels. The effect of POSTN on the biological behavior of tracheal fibroblasts was studied using plasmid DNA overexpression and siRNA silencing techniques to regulate POSTN expression and observe the activation of TGF-β1 and the regulation of cell proliferation and migration via the TGF-β/RHOA pathway.
+RESULTS: The bioinformatics analysis revealed that POSTN and the TGF-β pathway are significantly involved in fibrosis diseases. High expression of POSTN and TGF-β/RHOA pathway-related molecules (TGFβ1, RHOA, CTGF, and COL1) was observed in LTS tissue at both mRNA and protein levels. In tracheal fibroblasts, overexpression or silencing of POSTN led to the activation of TGF-β1 and regulation of cell proliferation and migration through the TGF-β/RHOA pathway.
+CONCLUSION: POSTN is a key molecule in scar formation in LTS, and it regulates the TGF-β/RHOA pathway to mediate the formation of cicatricial LTS by acting on TGF-β1. This study provides insights into the molecular mechanisms underlying LTS and suggests potential therapeutic targets for the treatment of this condition.
+LEVEL OF EVIDENCE: NA Laryngoscope, 134:4078-4087, 2024.
+
+Citation: She Z, et al. POSTN Regulates Fibroblast Proliferation and Migration in Laryngotracheal Stenosis Through the TGF-β/RHOA Pathway. POSTN Regulates Fibroblast Proliferation and Migration in Laryngotracheal Stenosis Through the TGF-β/RHOA Pathway. 2024; 134:4078-4087. doi: 10.1002/lary.31505
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38771155/

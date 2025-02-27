@@ -1,0 +1,11 @@
+PMID: 33174642
+Title: Impaired left atrial stiffness in patients with corrected congenital left ventricular outflow obstructions.
+
+Abstract: OBJECTIVE: We examined the left atrial stiffness index (LA Stiff) on echocardiography and its determinants in adults and adolescents with repaired congenital left ventricular outflow obstructions (c-LVOOs), including isolated subaortic stenosis (SAS), stenotic bicuspid aortic valve (BAV), and aortic coarctation (CoA).
+METHODS: Seventy-two patients (43 males, age: 31 ± 15 years) with repaired c-LVOOs (SAS: n = 12; BAV: n = 27; CoA: n = 33) were compared to 72 age- and sex-matched controls. 2D strain imaging was performed to assess left ventricular (LV) and LA function, including peak positive longitudinal LA strain (LAS), late diastolic LA strain (LDS), and LV global longitudinal strain (GLS). The (E/Ea)/LAS ratio was used to calculate LA Stiff.
+RESULTS: LA Stiff was significantly higher in the c-LVOO group than in the control group. Among the c-LVOO patients, the CoA group had the lowest GLS and the highest LA Stiff; no significant differences were found with respect to sex, hypertension history, smoking status, or repeated repair among c-LVOO subtypes. Multivariable regression analysis with the variables "BMI" and "c-LVOO subtype" revealed that BMI and c-LVOO subtypes were independently associated with LA Stiff (b = 0.290, P = .009 and b = 0.353, P = .002, respectively).
+CONCLUSIONS: We documented abnormal LA Stiff values in adults and adolescents after c-LVOO repair. Patients with CoA demonstrated the most impaired LA Stiff values. Overweight may contribute to worse LA Stiff values. Further studies are required to determine the prognostic implications of LA Stiff in patients with repaired c-LVOOs.
+
+Citation: Labombarda F, et al. Impaired left atrial stiffness in patients with corrected congenital left ventricular outflow obstructions. Impaired left atrial stiffness in patients with corrected congenital left ventricular outflow obstructions. 2021; 38:47-56. doi: 10.1111/echo.14925
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33174642/

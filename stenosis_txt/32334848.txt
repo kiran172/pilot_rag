@@ -1,0 +1,11 @@
+PMID: 32334848
+Title: Determinants and clinical significance of aortic stiffness in patients with moderate or severe aortic stenosis.
+
+Abstract: BACKGROUND: Patients with degenerative aortic stenosis (AS) are often older and have systemic hypertension and atherosclerosis, which all lead to increased aortic stiffness. We aimed to assess the determinants of carotid-femoral pulse wave velocity (cf-PWV), a direct measure of aortic stiffness, and its association with revealed symptoms and clinical outcome in patients with AS.
+METHODS: We included 103 asymptomatic patients aged 66.6 ± 13.2 years (range 27-85 years, 69% males) with moderate (n = 50) and severe (n = 53) AS. All underwent a comprehensive echocardiography, exercise treadmill test (ETT) and assessment of aortic stiffness derived from cf-PWV by applanation tonometry.
+RESULTS: The mean cf-PWV was 10.6 ± 3.1 m/s and resting brachial blood pressure (BP) 139 ± 20/79 ± 11 mmHg. Increased cf-PWV (≥10 m/s) was found in 44% (n = 45) patients. Patients with moderate and severe AS had a similar degree of aortic stiffness (cf-PWV 10.7 ± 3.3 vs. 10.5 ± 3.0 m/s, p = 0.698). In a univariate logistic regression analysis, higher cf-PWV was not associated with revealed symptoms (odds ratio [OR] for 1SD higher cf-PWV 1.12; 95% CI 0.62-2.04, p = 0.706). In a multivariable linear regression analysis, age, resting brachial systolic BP and diabetes were associated with higher cf-PWV independent of antihypertensive treatment and left ventricular ejection fraction. The event-free survival was significantly lower in patients with cf-PWV ≥10 m/s compared to those with cf-PWV <10 m/s (p = 0.015).
+CONCLUSION: Increased cf-PWV was common in patients with moderate or severe AS, and was associated with higher cardiovascular disease burden and impaired prognosis. cf-PWV did not correlate with the severity of AS or the frequencies of revealed symptoms by ETT.
+
+Citation: Saeed S, et al. Determinants and clinical significance of aortic stiffness in patients with moderate or severe aortic stenosis. Determinants and clinical significance of aortic stiffness in patients with moderate or severe aortic stenosis. 2020; 315:99-104. doi: 10.1016/j.ijcard.2020.03.081
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32334848/

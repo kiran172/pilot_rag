@@ -1,0 +1,11 @@
+PMID: 33189571
+Title: Cost-Effectiveness of Transcatheter Versus Surgical Aortic Valve Replacement in Low-Risk Patients With Severe Aortic Stenosis.
+
+Abstract: BACKGROUND: Recent studies have shown that transcatheter aortic valve implantation (TAVI) is non-inferior to surgical aortic valve replacement (SAVR) for treatment of low-risk patients with severe aortic stenosis (AS). However, the cost-effectiveness of TAVI in this population is unknown. We sought to evaluate the cost-effectiveness of both balloon-expandable and self-expanding TAVI compared to SAVR in patients with severe AS at low operative risk.
+METHODS: We developed a Markov model comparing TAVI to SAVR over a lifetime horizon. Key data inputs were drawn from the Placement of AoRTic TraNscathetER Valve (PARTNER) 3 trial for balloon-expandable TAVI and the Evolut Low-Risk trial for self-expanding TAVI. Costs were obtained from Australian sources. The perspective was that of the Australian health care system.
+RESULTS: Although procedural costs were higher for TAVI compared to SAVR, these were offset by a shorter length of hospitalisation and lower acute complication costs in the TAVI group. Over a lifetime horizon, balloon-expandable TAVI was associated with increased costs of A$702 compared to SAVR, and increased quality-adjusted survival by 0.20 years, yielding an incremental cost-effectiveness ratio of A$3,521 per quality-adjusted life year (QALY) saved. Self-expanding TAVI was associated with lower lifetime costs compared to SAVR, and increased quality-adjusted survival by 0.08 years, and was therefore economically dominant. In probabilistic sensitivity analyses, balloon-expandable TAVI was cost-effective in 78% of iterations (at a cost-effectiveness threshold of A$50,000 per QALY gained) and self-expanding TAVI was cost-effective in 70% of iterations.
+CONCLUSIONS: Among low-risk AS patients, both balloon-expandable and self-expanding TAVI are likely to be cost-effective relative to SAVR.
+
+Citation: Zhou JY, et al. Cost-Effectiveness of Transcatheter Versus Surgical Aortic Valve Replacement in Low-Risk Patients With Severe Aortic Stenosis. Cost-Effectiveness of Transcatheter Versus Surgical Aortic Valve Replacement in Low-Risk Patients With Severe Aortic Stenosis. 2021; 30:547-554. doi: 10.1016/j.hlc.2020.09.934
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33189571/

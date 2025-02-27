@@ -1,0 +1,12 @@
+PMID: 32868157
+Title: Impact of Arterial Blood Pressure on Ultrasound Hemodynamic Assessment of Aortic Valve Stenosis Severity.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) severity assessment is based on several indices. Aortic valve area (AVA) is subject to inaccuracies inherent to the measurement method, while velocities and gradients depend on hemodynamic status. There is controversy as to whether blood pressure directly affects common indices of AS severity.
+OBJECTIVES: The study objective was to assess the effect of systolic blood pressure (SBP) variation on AS indices, in a clinical setting.
+METHODS: A prospective, single-center study included 100 patients with at least moderately severe AS with preserved left ventricle ejection fraction. Patients underwent ultrasound examination during which AS severity indices were collected, with three hemodynamic conditions: (1) low SBP: <120 mm Hg; (2) intermediate SBP: between 120 and 150 mm Hg; (3) high SBP: ≥150 mm Hg. For each patient, SBP profiles were obtained by injection of isosorbide dinitrate or phenylephrine.
+RESULTS: At baseline state, 59% presented a mean gradient (G<sub>mean</sub>) ≥ 40 mm Hg, 44% a peak aortic jet velocity (V<sub>peak</sub>) ≥4 m/sec, 66% a dimensionless index (DI) ≤0.25, and 87% an indexed AVA (AVAi) ≤ 0.6 cm2/m2. Compared with intermediate and low SBP, high SBP induced a significant decrease in G<sub>mean</sub> (39 ± 12 vs 43 ± 12 and 47 ± 12 mm Hg, respectively; P &lt; .05) and in V<sub>peak</sub> (3.8 ± 0.6 vs 4.0 ± 0.6 and 4.2 ± 0.6 mm Hg; P &lt; .05). Compared with the baseline measures, in 16% of patients with an initial G<sub>mean</sub>&lt; 40 mm Hg, gradient rose above 40 mm Hg after optimization of the afterload (low SBP; P &lt; .05). Conversely, DI and AVAi did not vary with changes in hemodynamic conditions. Flow rate, not stroke volume was found to impact G<sub>mean</sub> and V<sub>peak</sub> but not AVA and DI (P &lt; .05).
+CONCLUSIONS: Hemodynamic conditions may affect the AS ultrasound assessment. High SBP, or afterload, leads to an underestimation of AS severity when based on gradients and velocities. Systolic blood pressure monitoring and control are crucial during AS ultrasound assessment.
+
+Citation: Hayek A, et al. Impact of Arterial Blood Pressure on Ultrasound Hemodynamic Assessment of Aortic Valve Stenosis Severity. Impact of Arterial Blood Pressure on Ultrasound Hemodynamic Assessment of Aortic Valve Stenosis Severity. 2020; 33:1324-1333. doi: 10.1016/j.echo.2020.06.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32868157/

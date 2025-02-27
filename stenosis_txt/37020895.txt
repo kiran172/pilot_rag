@@ -1,0 +1,11 @@
+PMID: 37020895
+Title: RNA Sequencing Reveals the Differentially Expressed circRNAs between Stable and Unstable Carotid Atherosclerotic Plaques.
+
+Abstract: OBJECTIVE: This study aimed to identify circular RNA profiles (circRNAs) via high-throughput RNA sequencing and distinguish the differentially expressed (DE) circRNAs between stable and unstable plaques.
+METHODS: RNA sequencing was performed on unstable and stable carotid plaque samples obtained from patients with carotid artery stenosis. DE circRNAs were screened, and six DE circRNAs were verified using quantitative real-time PCR (qRT-PCR). Functional evaluation of the DE circRNAs was conducted via Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses.
+RESULTS: We screened 344 DE circRNAs in unstable plaques, consisting of 342 upregulated and 2 downregulated circRNAs. GO analysis showed that the host genes of the upregulated circRNAs were related to ER to Golgi transport vesicle membrane, endocytic vesicle membrane, and Ran GTPase binding. KEGG analysis revealed that the host genes of the upregulated circRNAs were primarily associated with protein processing in endoplasmic reticulum, lysine degradation, homologous recombination, epithelial cell signaling in Helicobacter pylori infection, and yersinia infection. The results of qRT-PCR verified three upregulated DE circRNAs and two downregulated DE circRNAs in unstable plaques.
+CONCLUSION: Hsa-circ-0001523, hsa-circ-0008950, hsa-circ-0000571, hsa-circ-0001946, and hsa-circ-0000745 may be involved in regulating the stability of atherosclerotic plaques and serves as a therapeutic target for unstable plaques.
+
+Citation: Lin X, et al. RNA Sequencing Reveals the Differentially Expressed circRNAs between Stable and Unstable Carotid Atherosclerotic Plaques. RNA Sequencing Reveals the Differentially Expressed circRNAs between Stable and Unstable Carotid Atherosclerotic Plaques. 2023; 2023:7006749. doi: 10.1155/2023/7006749
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37020895/

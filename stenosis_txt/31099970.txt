@@ -1,0 +1,11 @@
+PMID: 31099970
+Title: The impact of pre-existing peripheral artery disease on transcatheter aortic valve implantation outcomes: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Peripheral arterial disease (PAD) plays a decisive role in the preinterventional selection process of the optimal vascular access site in patients undergoing transcatheter aortic valve implantation (TAVI). However, the impact of PAD on mortality and vascular complications (VCs) in TAVI-treated patients remains unclear. Accordingly, we aimed to assess the outcomes of patients with and without PAD undergoing TAVI, by performing a meta-regression analysis.
+METHODS: Studies published between January 2002 and March 2018 and reporting outcomes according to the presence of PAD in TAVI patients were identified. Outcome measures analyzed were short-, mid- and long-term mortality, and peri-procedural VC. The interaction between sheath size and PAD on outcomes was also assessed.
+RESULTS: A total of 26 studies (68,581 TAVI patients, of whom 17,326 with preprocedural PAD) were included in the analysis. Patients with PAD had higher risk of mortality at short- (HR 1.36, 95% confidence interval [CI] 1.13-1.63, p = .0009), mid- (HR 1.18, 95% CI 1.08-1.30, p = .0005), and long-term (HR 1.36, 95% CI 1.24-1.48, p < .0001) follow-up, and higher risk of VC (RR 1.55, 95% CI 1.27; 1.89, p < .0001). Moreover, the adoption of smaller sheaths during TAVI procedures was associated with fewer VC both in PAD and non-PAD patients, but the latter group had a more pronounced benefit.
+CONCLUSIONS: Patients with pre-existent PAD are at increased risk of all-cause mortality and VC after TAVI. The adoption of smaller sheaths during the procedure seems to be associated with fewer peri-procedural VC both in PAD and non-PAD patients.
+
+Citation: Ueshima D, et al. The impact of pre-existing peripheral artery disease on transcatheter aortic valve implantation outcomes: A systematic review and meta-analysis. The impact of pre-existing peripheral artery disease on transcatheter aortic valve implantation outcomes: A systematic review and meta-analysis. 2020; 95:993-1000. doi: 10.1002/ccd.28335
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31099970/

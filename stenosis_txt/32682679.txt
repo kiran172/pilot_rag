@@ -1,0 +1,12 @@
+PMID: 32682679
+Title: Patient-Specific Computer Simulation in TAVR With the Self-Expanding Evolut R Valve.
+
+Abstract: OBJECTIVES: The aim of this study was to assess the added value and predictive power of the TAVIguide (Added Value of Patient-Specific Computer Simulation in Transcatheter Aortic Valve Implantation) software in clinical practice.
+BACKGROUND: Optimal outcome after transcatheter aortic valve replacement (TAVR) may become more important as TAVR shifts toward low-risk patients. Patient-specific computer simulation is able to provide prediction of outcome after TAVR. Its clinical role and validation of accuracy, however, have not yet been studied prospectively.
+METHODS: A prospective, observational, multicenter study was conducted among 80 patients with severe aortic stenosis treated with the Evolut R valve. Simulation was performed in 42 patients and no simulation in 38. A comparison between the valve size (decision 1) and target depth of implantation selected by the operator on the basis of multislice computed tomography and the valve size (decision 2) and target depth of implantation selected after simulation were the primary endpoints. Predictive power was examined by comparing the simulated and observed degree of aortic regurgitation.
+RESULTS: Decision 2 differed from decision 1 in 1 of 42 patients because of predicted paravalvular leakage, and changes in valve type occurred in 2 of 42. In 39 of 42 patients, decisions 1 and 2 were similar. Target depth of implantation differed in 7 of 42 patients after simulation (lower in 4 and higher in 3). In 16 of 42 patients, simulation affected the TAVR procedure; in 9, the operator avoided additional measures to achieve the target depth of implantation, and in 7 patients, additional measures were performed. There was a trend toward a higher degree of predicted than observed aortic regurgitation (17.5 vs. 12 ml/s; p = 0.13).
+CONCLUSIONS: Patient-specific computer simulation did not affect valve size selection but did affect the selection of the target depth of implantation and the execution of TAVR to achieve the desired target depth of implantation.
+
+Citation: El Faquir N, et al. Patient-Specific Computer Simulation in TAVR With the Self-Expanding Evolut R Valve. Patient-Specific Computer Simulation in TAVR With the Self-Expanding Evolut R Valve. 2020; 13:1803-1812. doi: 10.1016/j.jcin.2020.04.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32682679/

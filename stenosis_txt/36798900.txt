@@ -1,0 +1,12 @@
+PMID: 36798900
+Title: Factor V Leiden but not the factor II 20210G>A mutation is a risk factor for premature coronary artery disease: a case-control study in Iran.
+
+Abstract: BACKGROUND: Factor V Leiden (FVL) and factor II c.∗97G>A (rs1799963) are genetic risk factors for venous thromboembolism. Their contribution to coronary artery disease (CAD) is less clear.
+OBJECTIVES: This study aimed to investigate the association between FVL, rs1799963, and premature CAD in Iranians.
+METHODS: We performed a genetic case-control study of 944 cases and 1081 controls from the premature CAD Milano-Iran study, including patients aged 18-55 (female) and 18-45 years (male) who underwent coronary angiography at the Tehran Heart Centre (Iran) in 2004-2011. Cases had luminal stenosis ≥50% in at least 1 main coronary artery or branch. Controls were age- and sex-matched with no CAD history. FVL and rs1799963 were genotyped using TaqMan SNP genotyping assays. Association was tested by logistic regression adjusted for matching factors and ethnicity. Effect modification by sex and cardiovascular risk factors (metabolic [obesity, hypertension, hyperlipidemia, and diabetes], and smoking) was assessed.
+RESULTS: The risk of premature CAD was increased by 50% in FVL carriers (adjusted odds ratio [adjOR] 1.54 [95% CI, 0.95-2.48]) and slightly reduced in rs1799963 carriers (adjOR 0.71 [95% CI, 0.40-1.27]). These effects were more pronounced in women than men (FVL, adjOR 1.66 vs 1.25; rs1799963, adjOR 0.60 vs 1.07). The risk of premature CAD was substantially increased in carriers of FVL with at least 1 metabolic risk factor compared with noncarriers without metabolic risk factors (adjOR 25.14 [95% CI, 12.51-50.52]).
+CONCLUSION: FVL but not FII rs1799963 was associated with an increased risk of CAD in young Iranians. This risk increased considerably when combined with metabolic cardiovascular risk factors.
+
+Citation: Agosti P, et al. Factor V Leiden but not the factor II 20210G>A mutation is a risk factor for premature coronary artery disease: a case-control study in Iran. Factor V Leiden but not the factor II 20210G>A mutation is a risk factor for premature coronary artery disease: a case-control study in Iran. 2023; 7:100048. doi: 10.1016/j.rpth.2023.100048
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36798900/

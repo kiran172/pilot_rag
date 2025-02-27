@@ -1,0 +1,12 @@
+PMID: 37968032
+Title: Clinical and Hemodynamic Outcomes of Balloon-Expandable Mitral Valve-in-Valve Positioning and Asymmetric Deployment: The VIVID Registry.
+
+Abstract: BACKGROUND: Mitral valve-in-valve (ViV) is associated with suboptimal hemodynamics and rare left ventricular outflow tract (LVOT) obstruction.
+OBJECTIVES: This study aimed to determine whether device position and asymmetry are associated with these outcomes.
+METHODS: Patients undergoing SAPIEN 3 (Edwards Lifesciences) mitral ViV included in the VIVID (Valve-in-Valve International Data) Registry were studied. Clinical endpoints are reported according to Mitral Valve Academic Research Consortium definitions. Residual mitral valve stenosis was defined as mean gradient ≥5 mm Hg. Depth of implantation (percentage of transcatheter heart valve [THV] atrial to the bioprosthesis ring) and asymmetry (ratio of 2 measures of THV height) were evaluated.
+RESULTS: A total of 222 patients meeting the criteria for optimal core lab evaluation were studied (age 74 ± 11.6 years; 61.9% female; STS score = 8.3 ± 7.1). Mean asymmetry was 6.2% ± 4.4%. Mean depth of implantation was 19.0% ± 10.3% atrial. Residual stenosis was common (50%; mean gradient 5.0 ± 2.6 mm Hg). LVOT obstruction occurred in 7 cases (3.2%). Implantation depth was not a predictor of residual stenosis (OR: 1.19 [95% CI: 0.92-1.55]; P = 0.184), but more atrial implantation was protective against LVOT obstruction (0.7% vs 7.1%; P = 0.009; per 10% atrial, OR: 0.48 [95% CI: 0.24-0.98]; P = 0.044). Asymmetry was found to be an independent predictor of residual stenosis (per 10% increase, OR: 2.30 [95% CI: 1.10-4.82]; P = 0.027).
+CONCLUSIONS: Valve stenosis is common after mitral ViV. Asymmetry was associated with residual stenosis. Depth of implantation on its own was not associated with residual stenosis but was associated with LVOT obstruction. Technical considerations to reduce postdeployment THV asymmetry should be considered.
+
+Citation: Simonato M, et al. Clinical and Hemodynamic Outcomes of Balloon-Expandable Mitral Valve-in-Valve Positioning and Asymmetric Deployment: The VIVID Registry. Clinical and Hemodynamic Outcomes of Balloon-Expandable Mitral Valve-in-Valve Positioning and Asymmetric Deployment: The VIVID Registry. 2023; 16:2615-2627. doi: 10.1016/j.jcin.2023.08.047
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37968032/

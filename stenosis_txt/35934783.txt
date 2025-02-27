@@ -1,0 +1,11 @@
+PMID: 35934783
+Title: Elevated hs-CRP and Symptomatic Intracranial/Extracranial Artery Stenosis Predict Stroke Recurrence after Acute Ischemic Stroke or TIA.
+
+Abstract: AIM: This study aimed to investigate the relationship between symptomatic or asymptomatic intracranial/extracranial artery stenosis and high-sensitivity C-reactive protein (hs-CRP) levels in patients with acute ischemic stroke (AIS) or transient ischemic attack (TIA).
+METHODS: This study included 10404 patients from the Third China National Stroke Registry. Patients were divided into four or six groups according to patterns of intracranial or extracranial artery stenosis and hs-CRP levels. The outcomes were recurrence of ischemic stroke, stroke, and combined vascular events (CVE) at 1 year. The associations between different combinations of hs-CRP levels and patterns of artery stenosis and recurrent events were analyzed by multivariable Cox regression models.
+RESULTS: Patients in Group III (hs-CRP ＜3＋symptomatic intracranial or extracranial artery stenosis) had higher risk of recurrent ischemic stroke (adjusted hazard ratio (HR) 1.73, 95% confidence interval (CI) 1.20-2.48, p=0.003). Those in Group VI (hs-CRP ≥ 3＋symptomatic intracranial or extracranial artery stenosis) had the highest risk of recurrent ischemic stroke (HR 2.04, 95% CI 1.42-2.92, p=0.0001) within 1 year compared with Group I (hs-CRP ＜3＋no artery stenosis). Asymptomatic intracranial or extracranial artery stenosis did not increase the risk of ischemic events compared with no artery stenosis regardless of hs-CRP levels.
+CONCLUSION: Symptomatic intracranial or extracranial artery stenosis was associated with increased risk of recurrent ischemic stroke, stroke, and CVE at 1 year in patients with AIS or TIA, especially in patients with elevated hs-CRP levels. Asymptomatic intracranial or extracranial artery stenosis did not increase the risk of ischemic events compared with no artery stenosis regardless of hs-CRP levels.
+
+Citation: Li S, et al. Elevated hs-CRP and Symptomatic Intracranial/Extracranial Artery Stenosis Predict Stroke Recurrence after Acute Ischemic Stroke or TIA. Elevated hs-CRP and Symptomatic Intracranial/Extracranial Artery Stenosis Predict Stroke Recurrence after Acute Ischemic Stroke or TIA. 2023; 30:601-610. doi: 10.5551/jat.63512
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35934783/

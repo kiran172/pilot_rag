@@ -1,0 +1,11 @@
+PMID: 37488399
+Title: Time to achievement of minimum clinically important difference after lumbar decompression.
+
+Abstract: OBJECTIVE: The objective of this study is to examine factors associated with delayed time to achieve minimum clinically important difference (MCID) in patients undergoing lumbar decompression (LD) for the Patient-Reported Outcomes (PROs) of Oswestry Disability Index (ODI), Visual Analog Scale (VAS) back, and VAS leg pain.
+METHODS: Patients undergoing LD with preoperative and postoperative ODI, VAS back, and VAS leg scores were retrospectively reviewed from April 2016 to January 2021. MCID values from previously established studies were utilized to determine MCID achievement. Kaplan-Meier survival analysis determined the time to achieve MCID. Hazard ratios from multivariable Cox regression were utilized to determine the preoperative factors predictive of MCID achievement.
+RESULTS: Three-hundred and forty-three patients were identified undergoing LD. Overall MCID achievement rates were 67.4% for ODI, 67.1% for VAS back, and 65.0% for VAS leg. The mean time in weeks for MCID achievement was 22.52 ± 30.48 for ODI, 18.90 ± 27.43 for VAS back, and 20.96 ± 29.81 for VAS leg. Multivariable Cox regression revealed active smoker status, preoperative Patient-Reported Outcomes Measurement Information System Physical Function (PROMIS-PF), ODI, VAS Back, and VAS Leg (HR 1.03-2.14) as predictors of early MCID achievement, whereas an American Society of Anesthesiologist (ASA) classification of 2, Black ethnicity, workers' compensation, private insurance, and diagnosis of foraminal stenosis were predictors of late MCID achievement (HR 0.34-0.58).
+CONCLUSION: Most patients undergoing LD achieved MCID within 6 months of surgery. Significant factors for early MCID achievement were active smoking status and baseline PROs. Significant factors for late MCID achievement were ASA = 2, Black ethnicity, type of insurance, and foraminal stenosis diagnosis. These factors may be considered by surgeons in setting patient expectations.
+
+Citation: Nie JW, et al. Time to achievement of minimum clinically important difference after lumbar decompression. Time to achievement of minimum clinically important difference after lumbar decompression. 2023; 165:2625-2631. doi: 10.1007/s00701-023-05709-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37488399/

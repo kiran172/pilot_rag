@@ -1,0 +1,12 @@
+PMID: 39484146
+Title: Prognostic Effects of Operation Age for Pediatric Patients with Supravalvar Aortic Stenosis.
+
+Abstract: BACKGROUND: The appropriate age for surgical repair of asymptomatic congenital supravalvular aortic stenosis (SVAS) is still unknown. The purpose of this research was to assess the safety and effectiveness of various operation ages when managing SVAS.
+METHODS: Consecutive asymptomatic SVAS pediatric patients in the Beijing Fuwai and Yunnan Fuwai hospitals over a period of 18 years were retrospectively analyzed. Patients were classified as follows: age <2.0 years (y) (n = 84), 2.0-5.0 y (n = 72), and >5.0 y (n = 92). The primary safety endpoint was in-hospital death or extracorporeal membrane oxygenation (ECMO) needed. The primary effectiveness outcome was re-operation or restenosis during follow-up. To calculate the hazard ratios (HR), Cox regression with inverse probability of treatment weighted was utilized.
+RESULTS: At the time of surgery, the median age of the 248 patients that were included was 4 y (interquartile range (IQR): 1.8-6.5). For the primary safety outcome, 7 (8.3%) patients in the age &lt;2.0 y group had in-hospital death or ECMO needed, while no patients in the age 2.0-5.0 y and age&gt;5.0 y groups (p = 0.001). The median follow-up was 25.5 months (IQR: 7.0-59.0). Compared with the age 2.0-5.0 y group, the age &lt;2.0 y group and age &gt;5.0 y group had a higher risk of re-operation or restenosis (age &lt;2.0 y, HR = 3.27, 95% CI 1.25-8.60; age &gt;5.0 y, HR = 2.87, 95% CI 1.19-6.91).
+CONCLUSIONS: Asymptomatic children with SVAS without other cardiovascular abnormalities should be considered for delayed surgical intervention until 2 years of age, and then surgery should be conducted as soon as possible. Children with severe symptoms should undergo surgery immediately, regardless of age.
+CLINICAL TRIAL REGISTRATION: ChiCTR2300067851, https://www.chictr.org.cn/showproj.html?proj=177491.
+
+Citation: Lv L, et al. Prognostic Effects of Operation Age for Pediatric Patients with Supravalvar Aortic Stenosis. Prognostic Effects of Operation Age for Pediatric Patients with Supravalvar Aortic Stenosis. 2024; 25:384. doi: 10.31083/j.rcm2510384
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39484146/

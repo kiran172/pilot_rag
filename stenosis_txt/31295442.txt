@@ -1,0 +1,11 @@
+PMID: 31295442
+Title: Meta-Analysis of Transcatheter Aortic Valve Replacement in Low-Risk Patients.
+
+Abstract: PURPOSE: This study evaluated the efficacy and safety of transcatheter aortic valve replacement (TAVR) compared with surgical aortic valve replacement (SAVR) in low surgical risk patients.
+METHODS: An electronic database search was conducted for randomized controlled trials (RCTs). We calculated hazard ratios (HRs) and 95% confidence intervals (CIs) using a random-effects model.
+RESULTS: Five RCTs were identified with a total of 3,072 patients (mean age 74.5 ± 6.1 and 64.8% male). Compared with SAVR, TAVR was associated with a significantly reduced rate of death or disabling stroke (HR = 0.52; 95% CI = 0.27-0.99; P = .049), atrial-fibrillation (HR = 0.28; 95% CI = 0.18-0.46; P < .01), and post-procedure bleeding (HR = 0.38; 95% CI = 0.31-0.46; P < .01), along with a significantly improved quality-of-life at 1-year. However, TAVR was associated with significantly increased rates of paravalvular leak (HR = 4.09; 95% CI = 1.92-8.69; P < .01) and pacemaker insertion (HR = 2.81; 95% CI = 1.85-4.28; P < .01) compared with SAVR.
+CONCLUSION: Among older low-risk patients with severe aortic stenosis, TAVR is associated with a lower rate of death or disabling stroke compared with SAVR. Transcatheter aortic valve replacement is also associated with improved quality-of-life, reduced bleeding and atrial fibrillation, but higher paravalvular leak and pacemaker implantation rates.
+
+Citation: Kheiri B, et al. Meta-Analysis of Transcatheter Aortic Valve Replacement in Low-Risk Patients. Meta-Analysis of Transcatheter Aortic Valve Replacement in Low-Risk Patients. 2020; 133:e38-e41. doi: 10.1016/j.amjmed.2019.06.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31295442/

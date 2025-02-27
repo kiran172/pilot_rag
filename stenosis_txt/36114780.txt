@@ -1,0 +1,11 @@
+PMID: 36114780
+Title: Optimizing decision-making after ventral onlay buccal mucosa graft urethroplasty failure.
+
+Abstract: OBJECTIVES: To evaluate factors predicting recurrence after treatment and to assess the best rescue option for patients failing buccal mucosa graft (BMG) urethroplasty.
+MATERIALS AND METHODS: We evaluated the data from 575 patients treated with ventral onlay BMG urethroplasty. Multivariable Cox regression analysis was performed to identify predictors of BMG urethroplasty failure, and their effect on failure risk was estimated using the Kaplan-Meier method and compared using log-rank tests. Then, for those patients who underwent a rescue treatment, namely, direct visual internal urethrotomy (DVIU) vs open urethroplasty, we assessed the probability of success after retreatment using the Kaplan-Meier method and regression tree analyses.
+RESULTS: On multivariable Cox regression analysis, only stricture length ≥5 cm (hazard ratio 3.46, 95% confidence interval 1.50-7.94; P = 0.003) was a predictor of failure. A total of 103 patients had at least one re-intervention. Notably, 12-month success rates after first rescue DVIU, second rescue DVIU, third rescue DVIU, and fourth rescue DVIU were 66.3%, 62.5%, 37.5% and 25%, respectively. Conversely, for those patients who underwent open urethroplasty retreatment, success rates at 12 months were 83.3%, 79%, 92.3% and 75% after BMG ventral onlay, first rescue DVIU, second rescue DVIU and third rescue DVIU, respectively. These data were confirmed in regression tree analyses.
+CONCLUSION: Ventral BMG urethroplasty fails in approximately one out of five patients. Despite DVIU as a rescue treatment being a good option, its success rate becomes lower as the number of DVIU treatments performed increases. Conversely, open urethroplasty improves patient outcomes in almost three out of four patients, even in the case of previous failed DVIU treatments for stricture recurrence.
+
+Citation: Bandini M, et al. Optimizing decision-making after ventral onlay buccal mucosa graft urethroplasty failure. Optimizing decision-making after ventral onlay buccal mucosa graft urethroplasty failure. 2023; 131:339-347. doi: 10.1111/bju.15895
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36114780/

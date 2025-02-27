@@ -1,0 +1,11 @@
+PMID: 34937660
+Title: Atrial fibrillation in severe aortic stenosis: Prognostic value and results of aortic valve replacement.
+
+Abstract: OBJECTIVES: Although atrial fibrillation (AF) is common, its impact on long-term mortality has not been reliably determined in patients with aortic stenosis (AS). We aimed to assess whether AF is associated with survival in patients with severe AS and to determine the impact of AF on the results of aortic valve replacement (AVR).
+METHODS: The study included 1838 consecutive patients with severe AS (77 ± 11 years, male 47%). Upon AS diagnosis, patients were screened for AF using a 12-lead electrocardiogram. The treatment strategy (conservative management or AVR) was selected by the heart team in accordance with current guidelines. The effect of AVR on survival was analyzed as a time-dependent covariate using the entire follow-up period.
+RESULTS: AF, diagnosed in 593 (32%) patients was associated with poor survival at 5 years (55 ± 2% vs 74 ± 1% for patients in sinus rhythm, P < .001), even after adjustment for established outcome predictors (hazard ratio [HR], 1.56; 95% confidence interval [CI], 1.33-1.84; P < .001). In patients with AF, AVR was associated with lower mortality (HR, 0.16; 95% CI, 0.12-0.22; P < .001) even in those with no or minimal symptoms (HR, 0.12; 95% CI, 0.08-0.20; P < .001). However, among patients who underwent AVR, those in AF had an excess mortality (HR, 1.59; 95% CI, 1.22-2.08; P < .001).
+CONCLUSIONS: In severe AS, AF is a strong predictor of mortality even in asymptomatic or minimally symptomatic patients. After AVR, AF remains associated with poorer survival than sinus rhythm. In patients in AF, AVR is associated with lower mortality compared with conservative treatment. Further studies are needed to confirm the benefits of AVR in asymptomatic patients in AF with severe AS.
+
+Citation: Kubala M, et al. Atrial fibrillation in severe aortic stenosis: Prognostic value and results of aortic valve replacement. Atrial fibrillation in severe aortic stenosis: Prognostic value and results of aortic valve replacement. 2023; 166:771-779. doi: 10.1016/j.jtcvs.2021.11.055
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34937660/

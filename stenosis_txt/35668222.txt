@@ -1,0 +1,11 @@
+PMID: 35668222
+Title: Towards Longitudinal Monitoring of Leaflet Mobility in Prosthetic Aortic Valves via In-Situ Pressure Sensors: In-Silico Modeling and Analysis.
+
+Abstract: BACKGROUND: Transcatheter aortic valves (TAVs) are susceptible to leaflet thrombosis which may lead to thromboembolic events, and early detection and intervention are believed to be the key to avoiding such adverse outcomes. An embedded sensor system installed on the valve stent, coupled with an appropriate machine learning-based continuous monitoring algorithm can facilitate early detection to predict severity of reduced leaflet motion (RLM) and avoid adverse outcomes.
+METHODS: We present a data-driven, in silico, proof-of-concept analysis of a pressure microsensor based system for quantifying RLM in TAVs. We generate a dataset of 21 high-fidelity transvalvular flow simulations with healthy and mildly stenotic TAVs to train a logistic regression model to correlate individual leaflet mobility in each simulation with principal components of corresponding hemodynamic pressure recorded at strategic locations of the TAV stent. A separate test dataset of 7 simulations is also generated for prospective assessment of model performance.
+RESULTS: An array of 6 sensors embedded on the TAV stent, with two sensors tracking individual leaflet, successfully correlates leaflet mobility with recorded pressure. The sensors are placed along leaflet centerlines, one in the sinus, and the other at the sino-tubular junction. The regression model is tuned using cross-validation to achieve high accuracy on both training (R2 = 0.93) and test (R2 = 0.77) sets.
+CONCLUSION: Discrete blood pressure recordings on TAV stents can be successfully correlated with individual leaflet mobility. Further development of this technology can enable longitudinal monitoring of TAVs and early detection of valve failure.
+
+Citation: Bailoor S, et al. Towards Longitudinal Monitoring of Leaflet Mobility in Prosthetic Aortic Valves via In-Situ Pressure Sensors: In-Silico Modeling and Analysis. Towards Longitudinal Monitoring of Leaflet Mobility in Prosthetic Aortic Valves via In-Situ Pressure Sensors: In-Silico Modeling and Analysis. 2023; 14:25-36. doi: 10.1007/s13239-022-00635-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35668222/

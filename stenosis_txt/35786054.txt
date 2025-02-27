@@ -1,0 +1,8 @@
+PMID: 35786054
+Title: Hyperoxia evokes pericyte-mediated capillary constriction.
+
+Abstract: Oxygen supplementation is regularly prescribed to patients to treat or prevent hypoxia. However, excess oxygenation can lead to reduced cerebral blood flow (CBF) in healthy subjects and worsen the neurological outcome of critically ill patients. Most studies on the vascular effects of hyperoxia focus on arteries but there is no research on the effects on cerebral capillary pericytes, which are major regulators of CBF. Here, we used bright-field imaging of cerebral capillaries and modeling of CBF to show that hyperoxia (95% superfused O<sub>2</sub>) led to an increase in intracellular calcium level in pericytes and a significant capillary constriction, sufficient to cause an estimated 25% decrease in CBF. Although hyperoxia is reported to cause vascular smooth muscle cell contraction via generation of reactive oxygen species (ROS), endothelin-1 and 20-HETE, we found that increased cytosolic and mitochondrial ROS levels and endothelin release were not involved in the pericyte-mediated capillary constriction. However, a 20-HETE synthesis blocker greatly reduced the hyperoxia-evoked capillary constriction. Our findings establish pericytes as regulators of CBF in hyperoxia and 20-HETE synthesis as an oxygen sensor in CBF regulation. The results also provide a mechanism by which clinically administered oxygen can lead to a worse neurological outcome.
+
+Citation: Hirunpattarasilp C, et al. Hyperoxia evokes pericyte-mediated capillary constriction. Hyperoxia evokes pericyte-mediated capillary constriction. 2022; 42:2032-2047. doi: 10.1177/0271678X221111598
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35786054/

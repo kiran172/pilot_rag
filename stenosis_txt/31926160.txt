@@ -1,0 +1,11 @@
+PMID: 31926160
+Title: Daytime Variation in Aortic Valve Surgery and Clinical Outcome: A Propensity Score-Matched Analysis.
+
+Abstract: BACKGROUND: Time of day potentially impacts outcomes in cardiac surgery. Therefore, the goal of this study was to assess whether elective aortic valve replacement surgery performed in the morning versus the afternoon is associated with differences in risk-adjusted morbidity and mortality.
+METHODS: We performed a propensity score-matched analysis on 2720 consecutive patients (1360 pairs) who underwent elective aortic valve replacement with or without coronary artery bypass grafting at our institution between July 2009 and December 2016. The primary endpoint was a composite of death, myocardial infarction, or heart failure up to a maximum follow-up of 500 days. Secondary endpoints were perioperative troponin concentrations and in-hospital mortality.
+RESULTS: The primary endpoint did not differ between the morning surgery group (8.5%; n = 113) and the afternoon surgery group (8.4%, n = 111), with a hazard ratio for the morning surgery group (reference: afternoon surgery group) of 1.01 (95% confidence interval, 0.78-1.32; P = .93). Event risks of the components of the primary endpoint were also similar between the study groups (all P > .05). The postoperative troponin decline was slightly more pronounced in the morning surgery group than in the afternoon surgery group (P < .001), whereas in-hospital mortality was similar between study groups (P > .99).
+CONCLUSIONS: In our propensity score-matched analysis on 2720 patients undergoing elective isolated aortic valve replacement or combined aortic valve replacement and coronary artery bypass grafting, time of day variation had no significant impact on clinical outcomes. Thus our study refutes the need to consider the timing of elective aortic valve surgery to improve clinical outcomes.
+
+Citation: Götte J, et al. Daytime Variation in Aortic Valve Surgery and Clinical Outcome: A Propensity Score-Matched Analysis. Daytime Variation in Aortic Valve Surgery and Clinical Outcome: A Propensity Score-Matched Analysis. 2020; 110:558-566. doi: 10.1016/j.athoracsur.2019.11.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31926160/

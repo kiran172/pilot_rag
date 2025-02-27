@@ -1,0 +1,8 @@
+PMID: 33018591
+Title: Site specific prediction of PCI stenting based on imaging and biomechanics data using gradient boosting tree ensembles.
+
+Abstract: Cardiovascular diseases are nowadays considered as the main cause of morbidity and mortality worldwide. Coronary Artery Disease (CAD), the most typical form of cardiovascular disease is diagnosed by a variety of imaging modalities, both invasive and non-invasive, which involve either risk implications or high cost. Therefore, several attempts have been undertaken to early diagnose and predict either the high CAD risk patients or the cardiovascular events, implementing machine learning techniques. The purpose of this study is to present a classification scheme for the prediction of Percutaneous Coronary Intervention (PCI) stenting placement, using image-based data. The proposed classification model is a gradient boosting classifier, incorporated into a class imbalance handling technique, the Easy ensemble scheme and aims to classify coronary segments into high CAD risk and low CAD risk, based on their PCI placement. Through this study, we investigate the importance of image based features, concluding that the combination of the coronary degree of stenosis and the fractional flow reserve achieves accuracy 78%.
+
+Citation: Kigka VI, et al. Site specific prediction of PCI stenting based on imaging and biomechanics data using gradient boosting tree ensembles. Site specific prediction of PCI stenting based on imaging and biomechanics data using gradient boosting tree ensembles. 2020; 2020:2812-2815. doi: 10.1109/EMBC44109.2020.9175612
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33018591/

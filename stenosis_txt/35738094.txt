@@ -1,0 +1,11 @@
+PMID: 35738094
+Title: Functional analysis of arteriovenous fistulae in non-contrast magnetic resonance images.
+
+Abstract: BACKGROUND AND OBJECTIVE: Arteriovenous fistulae (AVF) are the preferred mode of hemodialysis vascular access and their successful maturation is critical to reduce patient morbidity, mortality, cost, and improve quality of life. Peri-anastomotic venous segment stenosis is the primary cause of AVF maturation failure. The objective is to develop a software protocol for the functional analysis of arteriovenous fistula.
+METHOD: We have developed a standard protocol for the anatomical analysis of the AVF to better understand the mechanisms involved in AVF stenosis and to identify future imaging biomarkers for AVF success or failure using non-contrast magnetic resonance imaging (MRI). The 3D model of the AVF is created using a polar dynamic programming technique. Analysis has been performed on six Yorkshire cross domestic swine, but techniques can be applied into clinical settings.
+RESULTS: Differences in AVF angles and vein curvature are associated with significant variability of venous cross-sectional area. This suggests that the pattern of stenosis is likely to be dependent upon hemodynamic profiles which are largely determined by AVF anatomical features and could play an important role in AVF maturation.
+CONCLUSIONS: This protocol enables us to visualize and study the hemodynamic profiles indirectly allowing early stratification of patients into high and low risk groups for AVF maturation failure. High risk patients could then be targeted with an enhanced process of care or future maturation enhancing therapies resulting in a much-needed precision-medicine approach to dialysis vascular access.
+
+Citation: Rosado-Toro JA, et al. Functional analysis of arteriovenous fistulae in non-contrast magnetic resonance images. Functional analysis of arteriovenous fistulae in non-contrast magnetic resonance images. 2022; 222:106938. doi: 10.1016/j.cmpb.2022.106938
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35738094/

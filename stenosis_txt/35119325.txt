@@ -1,0 +1,11 @@
+PMID: 35119325
+Title: A nomogram for predicting the in-hospital risk of recurrence among patients with minor non-cardiac stroke.
+
+Abstract: BACKGROUND: Patients with minor stroke suffer a substantial risk of further recurrences, especially in the first two weeks. We aimed to develop and validate a prognostic nomogram to predict in-hospital stroke recurrence among patients with acute minor stroke.
+METHODS: A total of 1326 patients with minor non-cardiac stroke (NIHSS) ≤5) from three centers were divided into development cohort (1016 patients from two centers) and validation cohort (310 patients from another center). Recurrent stroke was defined as a new ischemic stroke. A logistic regression model was employed to develop the nomogram to predict in-hospital stroke recurrence in patients with minor stroke using demographic, medical and imaging information. We then validated the nomogram externally. The predictive discrimination and calibration of the nomogram were assessed in the development and validation cohorts by area under the curve (AUC) and calibration plots.
+RESULTS: During a median length of stay of 12 days, stroke recurrence occurred in 34 patients (3.3%). Predictors of in-hospital recurrence included prior history of transient ischemic attack, baseline NIHSS score, multiple infarctions, and carotid stenosis. The clinical and imaging-based nomogram B demonstrated adequate calibration and discrimination (AUC = 0.777), which was validated among 273 patients in a separate validation cohort (AUC = 0.753). Our clinical-imaging based nomogram was determined to be superior to the clinical-based nomogram and the RRE90 score in terms of discrimination.
+CONCLUSION: A prognostic nomogram that integrates clinical and imaging information to predict the in-hospital risk of stroke recurrence among patients after acute minor stroke was constructed and validated externally. The nomogram demonstrated adequate calibration and discrimination in both the development and validation cohort.
+
+Citation: Zhang K, et al. A nomogram for predicting the in-hospital risk of recurrence among patients with minor non-cardiac stroke. A nomogram for predicting the in-hospital risk of recurrence among patients with minor non-cardiac stroke. 2022; 38:487-499. doi: 10.1080/03007995.2022.2038488
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35119325/

@@ -1,0 +1,8 @@
+PMID: 39196035
+Title: APOE-NOTCH axis governs elastogenesis during human cardiac valve remodeling.
+
+Abstract: Valve remodeling is a process involving extracellular matrix organization and elongation of valve leaflets. Here, through single-cell RNA sequencing of human fetal valves, we identified an elastin-producing valve interstitial cell (VIC) subtype (apolipoprotein E (APOE)+, elastin-VICs) spatially located underneath valve endothelial cells (VECs) sensing unidirectional flow. APOE knockdown in fetal VICs resulted in profound elastogenesis defects. In valves with pulmonary stenosis (PS), we observed elastin fragmentation and decreased expression of APOE along with other genes regulating elastogenesis. Cell-cell interaction analysis revealed that jagged 1 (JAG1) from unidirectional VECs activates elastogenesis in elastin-VICs through NOTCH2. Similar observations were made in VICs cocultured with VECs under unidirectional flow. Notably, a drastic reduction of JAG1-NOTCH2 was also observed in PS valves. Lastly, we found that APOE controls JAG1-induced NOTCH activation and elastogenesis in VICs through the extracellular signal-regulated kinase pathway. Our study suggests important roles of both APOE and NOTCH in regulating elastogenesis during human valve remodeling.
+
+Citation: Liu Z, et al. APOE-NOTCH axis governs elastogenesis during human cardiac valve remodeling. APOE-NOTCH axis governs elastogenesis during human cardiac valve remodeling. 2024; 3:933-950. doi: 10.1038/s44161-024-00510-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39196035/

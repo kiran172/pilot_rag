@@ -1,0 +1,10 @@
+PMID: 32011286
+Title: Outcomes of predefined optimisation criteria for intravascular ultrasound guidance of left main stenting.
+
+Abstract: AIMS: This study sought to investigate the prognostic effect of a protocol with optimisation targets for intravascular ultrasound (IVUS)-guided left main (LM) revascularisation.
+METHODS AND RESULTS: A protocol was prospectively applied for IVUS-guided LM revascularisation (IVUS-PRO group) including predefined optimisation targets. Using propensity score matching, we selected as control groups patients with angiography-guided PCI (ANGIO group) and IVUS-guided PCI (IVUS group) from a large multicentre registry. The primary endpoint was a composite of cardiac death, LM-related infarction and LM revascularisation at 12 months. In each group, 124 patients with comparable characteristics were included. The incidence of the primary outcome was significantly higher in the ANGIO group compared to the IVUS-PRO group (12.9% vs 4.8%, HR 0.35, 95% CI: 0.15 to 0.82, p=0.02), but not with respect to the IVUS group (12.9% vs 8%, HR 0.51, 95% CI: 0.20 to 1.22, p=0.1), driven by a lower rate of LM revascularisation (8% in the ANGIO group, 6.4% in the IVUS group and 3.2% in the IVUS-PRO group). IVUS-PRO resulted in being an independent risk predictor (HR 0.45, 95% CI: 0.15 to 0.98; p=0.041).
+CONCLUSIONS: IVUS guidance of LM stenting provides prognostic benefit with respect to the use of angiography alone, particularly when following a protocol with these predefined optimisation criteria.
+
+Citation: de la Torre Hernandez JM, et al. Outcomes of predefined optimisation criteria for intravascular ultrasound guidance of left main stenting. Outcomes of predefined optimisation criteria for intravascular ultrasound guidance of left main stenting. 2020; 16:210-217. doi: 10.4244/EIJ-D-19-01057
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32011286/

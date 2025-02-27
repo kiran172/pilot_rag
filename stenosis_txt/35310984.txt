@@ -1,0 +1,11 @@
+PMID: 35310984
+Title: Influence of Different Segmentations on the Diagnostic Performance of Pericoronary Adipose Tissue.
+
+Abstract: OBJECTIVE: To investigate the influence of different segmentations on the diagnostic performance of pericoronary adipose tissue (PCAT) CT attenuation and radiomics features for the prediction of ischemic coronary artery stenosis.
+METHODS: From June 2016 to December 2018, 108 patients with 135 vessels were retrospectively analyzed in the present study. Vessel-based PCAT was segmented along the 40 mm-long proximal segments of three major epicardial coronary arteries, while lesion-based PCAT was defined around coronary lesions. CT attenuation and radiomics features derived from two segmentations were calculated and extracted. The diagnostic performance of PCAT CT attenuation or radiomics models in predicting ischemic coronary stenosis were also compared between vessel-based and lesion-based segmentations.
+RESULTS: The mean PCAT CT attenuation was -75.7 ± 9.1 HU and -76.1 ± 8.1 HU (p = 0.395) for lesion-based and vessel-based segmentations, respectively. A strong correlation was found between vessel-based and lesion-based PCAT CT attenuation for all cohort and subgroup analyses (all p &lt; 0.01). A good agreement for all cohort and subgroup analyses was also detected between two segmentations. The diagnostic performance was comparable between vessel-based and lesion based PCAT CT attenuation in predicting ischemic stenosis. The radiomics features of PCAT based on vessel or lesion segmentation can both adequately identify the ischemic stenosis. However, no significant difference was detected between the two segmentations.
+CONCLUSIONS: The quantitative evaluation of PCAT can be reliably measured both from vessel-based and lesion-based segmentation. Furthermore, the radiomics analysis of PCAT may potentially help predict hemodynamically significant coronary artery stenosis.
+
+Citation: Wen D, et al. Influence of Different Segmentations on the Diagnostic Performance of Pericoronary Adipose Tissue. Influence of Different Segmentations on the Diagnostic Performance of Pericoronary Adipose Tissue. 2022; 9:773524. doi: 10.3389/fcvm.2022.773524
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35310984/

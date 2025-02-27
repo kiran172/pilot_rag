@@ -1,0 +1,11 @@
+PMID: 38223066
+Title: New evidence for fractional pressure ratio prediction by pulsatility index from transcranial Doppler in patients with symptomatic cerebrovascular stenosis disease.
+
+Abstract: BACKGROUND: The pulsatility index (PI) derived from transcranial Doppler (TCD) assessment may represent the cerebral resistance and altered cerebral blood flow. The purpose of this study was to assess the performance of the TCD PI in correlation with wire-based fractional pressure ratio (FPR).
+METHODS: This study included 33 patients with symptomatic atherosclerotic lesions of the extracranial and intracranial large arteries, specifically the internal carotid artery, middle cerebral artery (MCA), vertebral artery (VA) V4 segment, and basilar artery (BA), all of which exhibited luminal stenosis ranging from 50% to 70%. TCD was performed prior to angiography in order to determine the flow distal to the lesion. We performed cerebrovascular angiography with a pressure wire to measure the FPR of vessels with stenotic lesions. Bland-Altman analysis and ordinal least square (OLS) linear regression were used to quantify the correlation between PI and FPR.
+RESULTS: A total of 42 TCD data points were analyzed. At the TCD locations distal to the lesions, the correlation coefficients were no less than 0.90%, with almost all P values <0.001, which indicated very strong positive correlations; the exception to this was the distal TCD for MCA segment lesions (r=0.897; P=0.015) and VA V4 segment (r=0.964; P=0.036). The Bland-Altman plot demonstrated a small difference (0.003) between the distal TCD PI and the FPR, with an acceptable 95% confidence interval [95% confidence interval (CI): 0.06-0.12].
+CONCLUSIONS: The PI obtained through TCD assessment distal to the stenotic lesion exhibited a correlation with the FPR computed using pressure wire measurements.
+
+Citation: Xu X, et al. New evidence for fractional pressure ratio prediction by pulsatility index from transcranial Doppler in patients with symptomatic cerebrovascular stenosis disease. New evidence for fractional pressure ratio prediction by pulsatility index from transcranial Doppler in patients with symptomatic cerebrovascular stenosis disease. 2024; 14:264-272. doi: 10.21037/qims-23-701
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38223066/

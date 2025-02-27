@@ -1,0 +1,11 @@
+PMID: 35176078
+Title: Is radiographic lumbar spinal stenosis associated with the quality of life?: The Wakayama Spine Study.
+
+Abstract: OBJECTIVES: This prospective study aimed to determine the association between radiographic lumbar spinal stenosis (LSS) and the quality of life (QOL) in the general Japanese population.
+METHODS: The severity of radiographic LSS was qualitatively graded on axial magnetic resonance images as follows: no stenosis, mild stenosis with ≤1/3 narrowing, moderate stenosis with a narrowing between 1/3 and 2/3, and severe stenosis with > 2/3 narrowing. Patients less than 40 years of age and those who had undergone previous lumbar spine surgery were excluded from the study. The Oswestry Disability Index (ODI), which includes 10 sections, was used to assess the QOL. One-way analysis of variance was performed to determine the statistical relationship between radiographic LSS and ODI. Further, logistic regression analysis adjusted for gender, age, and body mass index was performed to detect the relationship.
+RESULTS: Complete data were available for 907 patients (300 men and 607 women; mean age, 67.3±12.4 years). The prevalence of severe, moderate, and non-mild/non-radiographic were 30%, 48%, and 22%, respectively. In addition, the mean values of ODI in each group were 12.9%, 13.1%, and 11.7%, respectively, and there was no statistically significant difference between the three groups in logistic analysis (P = 0.55). In addition, no significant differences in any section of the ODI were observed among the groups. However, severe radiographic LSS was associated with low back pain in the "severe" group as determined by logistic analysis adjusted for gender, age, and body mass index (odds ratio: 1.53, confidence interval: 1.13-2.07) compared with the non-severe group.
+CONCLUSION: In this general population study, severe radiographic LSS was associated with low back pain (LBP), but did not affect ODI.
+
+Citation: Arita S, et al. Is radiographic lumbar spinal stenosis associated with the quality of life?: The Wakayama Spine Study. Is radiographic lumbar spinal stenosis associated with the quality of life?: The Wakayama Spine Study. 2022; 17:e0263930. doi: 10.1371/journal.pone.0263930
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35176078/

@@ -1,0 +1,11 @@
+PMID: 36241060
+Title: Circulating miR-143 and miR-145 as promising biomarkers for evaluating severity of coronary artery stenosis in patients with acute coronary syndrome.
+
+Abstract: BACKGROUND: Multiple studies have provided evidence that miR-143 and miR-145 play a crucial role in the pathogenesis and progression of atherosclerosis. In the present study, we aim to investigate the expression of plasma miR-143 and miR-145 in patients with acute coronary syndrome (ACS) and their association with the severity of coronary artery stenosis.
+METHODS: The study enrolled 279 patients with ACS, including 201 patients with unstable angina (UA) and 78 patients with acute myocardial infarction (AMI), and 65 matched subjects as the control group. The plasma levels of miR-143 and miR-145 were detected by quantitative real-time PCR (qRT-PCR). Gensini score was applied to evaluate the severity of coronary artery stenosis.
+RESULTS: Plasma levels of miR-143 and miR-145 in patients with ACS were both decreased compared with the control group (p < 0.001). Plasma levels of miR-143 and miR-145 were negatively correlated with Gensini score (miR-143: r = -0.246, p < 0.001; miR-145: r = -0.222, p < 0.001). Logistic regression analysis showed that miR-143 and miR-145 were protective factors for the onset of ACS, UA, or AMI separately. MiR-143 (AUC: 0.786, p < 0.001) and miR-145 (AUC: 0.793, p < 0.001) were able to predict the degree of coronary artery stenosis greater than 50 %.
+CONCLUSION: The plasma levels of miR-143 and miR-145 were significantly decreased in ACS patients and were negatively correlated with coronary stenosis. In conclusion, plasma miR-143 and miR-145 levels can be used as noninvasive biomarkers for evaluating coronary artery stenosis.
+
+Citation: Meng L, et al. Circulating miR-143 and miR-145 as promising biomarkers for evaluating severity of coronary artery stenosis in patients with acute coronary syndrome. Circulating miR-143 and miR-145 as promising biomarkers for evaluating severity of coronary artery stenosis in patients with acute coronary syndrome. 2023; 111:32-40. doi: 10.1016/j.clinbiochem.2022.10.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36241060/

@@ -1,0 +1,12 @@
+PMID: 37996242
+Title: Stroke reduction by cerebral embolic protection devices in transcatheter aortic valve implantation: a systematic review and Bayesian meta-analysis.
+
+Abstract: OBJECTIVES: The use of cerebral embolic protection (CEP) during transcatheter aortic valve implantation (TAVI) has been studied in several randomised trials. We aimed to perform a systematic review and Bayesian meta-analysis of randomised CEP trials, focusing on a clinically relevant reduction in disabling stroke.
+METHODS: A systematic search was applied to three electronic databases, including trials that randomised TAVI patients to CEP versus standard treatment. The primary outcome was the risk of disabling stroke. Outcomes were presented as relative risk (RR), absolute risk differences (ARDs), numbers needed to treat (NNTs) and the 95% credible intervals (CrIs). The minimal clinically important difference was determined at 1.1% ARD, per expert consensus (NNT 91). The principal Bayesian meta-analysis was performed under a vague prior, and secondary analyses were performed under two informed literature-based priors.
+RESULTS: Seven randomised studies were included for meta-analysis (n=3996: CEP n=2126, control n=1870). Under a vague prior, the estimated median RR of CEP use for disabling stroke was 0.56 (95% CrI 0.28 to 1.19, derived ARD 0.56% and NNT 179, I2=0%). Although the estimated posterior probability of any benefit was 94.4%, the probability of a clinically relevant effect was 0-0.1% under the vague and informed literature-based priors. Results were robust across multiple sensitivity analyses.
+CONCLUSION: There is a high probability of a beneficial CEP treatment effect, but this is unlikely to be clinically relevant. These findings suggest that future trials should focus on identifying TAVI patients with an increased baseline risk of stroke, and on the development of new generation devices.
+PROSPERO REGISTRATION NUMBER: CRD42023407006.
+
+Citation: Heuts S, et al. Stroke reduction by cerebral embolic protection devices in transcatheter aortic valve implantation: a systematic review and Bayesian meta-analysis. Stroke reduction by cerebral embolic protection devices in transcatheter aortic valve implantation: a systematic review and Bayesian meta-analysis. 2024; 110:757-765. doi: 10.1136/heartjnl-2023-323359
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37996242/

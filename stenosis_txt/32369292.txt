@@ -1,0 +1,11 @@
+PMID: 32369292
+Title: German Aortic Valve Score in Risk Assessment for Surgical Aortic Valve Replacement in a Brazilian Center.
+
+Abstract: OBJECTIVE: To test the German Aortic Valve (GAV) score at our university hospital in patients undergoing isolated aortic valve replacement (AVR).
+METHODS: A total of 224 patients who underwent isolated conventional AVR between January 2015 and December 2018 were included. Patients with concomitant procedures and transcatheter aortic valve implantation were excluded. Patients' data were collected and analyzed retrospectively. Patients' risk scores were calculated according to criteria described by GAV score. Sensitivity, specificity, and accuracy (area under the ROC curve [AUC]) were also calculated. The calibration of the model was tested by the Hosmer-Lemeshow method.
+RESULTS: The mortality rate was 8.04% (18 patients). The patients' mean age was 58.2±19.3 years and 25% of them were female (56 patients). Mean GAV score was 1.73±5.86 (min: 0.0; max: 3.53). The GAV score showed excellent discriminative capacity (AUC 0.925, 95% confidence interval 0.882-0.956; P<0.001). The cutoff "1.8" turned out to be the best discriminatory point with the best combination of sensitivity (88.9%) and specificity (75.7%) to predict operative death. Hosmer-Lemeshow method revealed a P-value of 0.687, confirming a good calibration of the model.
+CONCLUSION: The GAV score applies to our population with high predictive accuracy.
+
+Citation: Rayol SC, et al. German Aortic Valve Score in Risk Assessment for Surgical Aortic Valve Replacement in a Brazilian Center. German Aortic Valve Score in Risk Assessment for Surgical Aortic Valve Replacement in a Brazilian Center. 2020; 35:141-144. doi: 10.21470/1678-9741-2019-0373
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32369292/

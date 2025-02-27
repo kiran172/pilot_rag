@@ -1,0 +1,11 @@
+PMID: 34942514
+Title: Gene polymorphism in tissue epidermal growth factor receptor (EGFR) influences clinical and histological vulnerability of carotid plaques.
+
+Abstract: INTRODUCTION: Different models have been proposed for the prediction of the risk/benefit ratio of surgery in patients with carotid atheromasic disease, mainly based on clinical patients' characteristics and risk factors, but no definite biological markers predictive of plaque instability and disease evolution have emerged so far, able to help the surgeon in the choice and timing of treatment. The main purpose of the present study was to assess the role of the polymorphism for genes commonly implicated in cell proliferation and neoangiogenesis in the clinical and histopathological carotid plaque vulnerability.
+MATERIALS AND METHODS: We retrospectively studied 29 consecutive patients who underwent carotid endarterectomy in 6 months. All histological variables were collected, as well as patients' cardiovascular risk factors, clinical presentation, and brain computed tomography (CT) for the presence of ischemic lesions. Next-Generation Sequencing (NGS) was performed on 10-µm FFPE sections by means of a multi-gene panel used for sequencing 343 amplicons in 28 genes.
+RESULTS: Among the gene variants observed, the polymorphism p.(Gln787=) in the EGFR gene was inversely correlated with intraplaque hemorrhage (p = 0.014), but also with the presence of ischemic brain lesions at CT (p = 0.001). Also p.(Gly105=) polymorphism in the IDH1 gene was inversely correlated with the presence of ischemic brain lesions (p = 0.038).
+CONCLUSIONS: The variant p.(Gln787=) in the EGFR gene seems to play a role in plaque stability in patients with carotid atheromasic disease, on both histopathological and clinical grounds, probably acting on plaque matrix remodeling. This can open new scenarios on the pre-surgical management of these patients.
+
+Citation: Vasuri F, et al. Gene polymorphism in tissue epidermal growth factor receptor (EGFR) influences clinical and histological vulnerability of carotid plaques. Gene polymorphism in tissue epidermal growth factor receptor (EGFR) influences clinical and histological vulnerability of carotid plaques. 2022; 229:153721. doi: 10.1016/j.prp.2021.153721
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34942514/

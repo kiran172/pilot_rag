@@ -1,0 +1,12 @@
+PMID: 33054021
+Title: Simple clinical scores to predict blood pressure and renal function response to renal artery stenting for atherosclerotic renal artery stenosis.
+
+Abstract: INTRODUCTION: There are no systematic tools to predict blood pressure (BP) or renal function (RF) improvement after stent‑assisted percutaneous transluminal angioplasty (PTA) for atherosclerotic renal artery stenosis (ARAS).
+OBJECTIVE: This study aimed to develop simple, clinically applicable scores based on preprocedural clinical and renal ultrasonography parameters in order to predict BP and RF improvement following ARAS‑PTA.
+PATIENTS AND METHODS: A total of 202 patients who underwent ARAS‑PTA were categorized as RF responders (eGFR increase ≥11 ml/min/1.73 m2) or BP responders (systolic and diastolic BP decrease ≥20 mm Hg and ≥5 mm Hg, respectively) at 12 months following ARAS‑PTA. The variables associated with the RF or BP response in univariable analysis were included in a multivariable logistic regression model. Point‑based response scales were developed proportionally to odds ratios in each of the 2 models to embrace the maximum score of 10.
+RESULTS: The BP response to ARAS‑PTA was 93.3% in the high‑probability category (6-10 points), 66.7% in the medium‑probability category (3-5 points), and 25.3% in the low‑probability category (0-2 points), with the preprocedural variables of systolic BP ≥145 mm Hg (3 points), diastolic BP ≥83 mm Hg (4 points), PTA of a single functioning kidney (2 points), and bilateral PTA (1 point). The RF response was 77.3% in the high‑probability category (8-10 points), 33% in the medium‑probability category (4-7 points), and 10.9% in the low‑probability category (0-3 points) for serum creatinine levels >122 μmol/l and eGFR >30 ml/min/1.73 m2 (3 points), index kidney length >98 mm (3 points), renal artery end‑diastolic velocity >1.1 m/s (2 points), and arterial resistive index <0.74 (2 points).
+CONCLUSIONS: Models of favorable BP and RF response may improve patient selection for ARAS‑PTA. Further insights are expected from prospective validation.
+
+Citation: Kabłak-Ziembicka A, et al. Simple clinical scores to predict blood pressure and renal function response to renal artery stenting for atherosclerotic renal artery stenosis. Simple clinical scores to predict blood pressure and renal function response to renal artery stenting for atherosclerotic renal artery stenosis. 2020; 130:953-959. doi: 10.20452/pamw.15646
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33054021/

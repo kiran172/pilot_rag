@@ -1,0 +1,11 @@
+PMID: 34053738
+Title: Outcomes of procedural complications in transfemoral transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: As the application of transcatheter aortic valve replacement (TAVR) expands, the longitudinal implications of periprocedural complications are increasingly relevant. We examine the influence of TAVR complications on midterm survival.
+METHODS: Patients undergoing transfemoral TAVR at our institution between November 2011 and June 2018 were reviewed. Stroke severity was classified according to the National Institutes of Health stroke score. Kaplan-Meier analysis was used to assess survival, and a Cox proportional hazards model was created to examine independent associations with survival. The median follow-up time was 36 months for a total of 2789 patient-years.
+RESULTS: Overall, 866 patients were included. The mean age was 80 ± 9.5 years and mean Society of Thoracic Surgeons score was 4.8% ± 2.7%. The mortality rate at 30-days was 2.8% and 11.8% at 1 year. In-hospital left bundle branch block and 30-day permanent pacemaker insertion occurred in 14.8% and 7.9%, respectively. Postprocedural greater-than-mild paravalvular leak was present in 4.4% and stroke occurred in 3.8% at 30-days. Greater-than-mild paravalvular leak was associated with decreased survival at 2 years (P = .02), but not at 5 years. Severe stroke was independently associated with decreased survival at 5 years (hazard ratio, 5.73; 95% confidence interval, 2.29-14.36; P ≤ .001); however, the effect of nonsevere stroke did not reach significance (hazard ratio, 1.69; 95% confidence interval, 0.82-3.47; P = .152).
+CONCLUSIONS: Severe stroke was independently associated with decreased 5-year survival and initial risks associated with paravalvular leak may be attenuated over the midterm following transfemoral TAVR. Strategies to minimize the incidence of stroke and paravalvular leak must be prioritized to improve longitudinal outcomes after TAVR.
+
+Citation: Percy ED, et al. Outcomes of procedural complications in transfemoral transcatheter aortic valve replacement. Outcomes of procedural complications in transfemoral transcatheter aortic valve replacement. 2023; 165:1346-1355.e5. doi: 10.1016/j.jtcvs.2021.04.082
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34053738/

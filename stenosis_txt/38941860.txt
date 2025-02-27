@@ -1,0 +1,11 @@
+PMID: 38941860
+Title: Impact of geometric and hemodynamic changes on a mechanobiological model of atherosclerosis.
+
+Abstract: BACKGROUND AND OBJECTIVE: In this work, the analysis of the importance of hemodynamic updates on a mechanobiological model of atheroma plaque formation is proposed.
+METHODS: For that, we use an idealized and axisymmetric model of carotid artery. In addition, the behavior of endothelial cells depending on hemodynamical changes is analyzed too. A total of three computational simulations are carried out and their results are compared: an uncoupled model and two models that consider the opposite behavior of endothelial cells caused by hemodynamic changes. The model considers transient blood flow using the Navier-Stokes equation. Plasma flow across the endothelium is determined with Darcy's law and the Kedem-Katchalsky equations, considering the three-pore model, which is also employed for the flow of substances across the endothelium. The behavior of the considered substances in the arterial wall is modeled with convection-diffusion-reaction equations, and the arterial wall is modeled as a hyperelastic Yeoh's material.
+RESULTS: Significant variations are noted in both the morphology and stenosis ratio of the plaques when comparing the uncoupled model to the two models incorporating updates for geometry and hemodynamic stimuli. Besides, the phenomenon of double-stenosis is naturally reproduced in the models that consider both geometric and hemodynamical changes due to plaque growth, whereas it cannot be predicted in the uncoupled model.
+CONCLUSIONS: The findings indicate that integrating the plaque growth model with geometric and hemodynamic settings is essential in determining the ultimate shape and dimensions of the carotid plaque.
+
+Citation: Hernández-López P, et al. Impact of geometric and hemodynamic changes on a mechanobiological model of atherosclerosis. Impact of geometric and hemodynamic changes on a mechanobiological model of atherosclerosis. 2024; 254:108296. doi: 10.1016/j.cmpb.2024.108296
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38941860/

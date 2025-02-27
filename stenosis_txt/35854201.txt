@@ -1,0 +1,11 @@
+PMID: 35854201
+Title: A novel MRI index for paraspinal muscle fatty infiltration: reliability and relation to pain and disability in lumbar spinal stenosis: results from a multicentre study.
+
+Abstract: BACKGROUND: Fatty infiltration of the paraspinal muscles may play a role in pain and disability in lumbar spinal stenosis. We assessed the reliability and association with clinical symptoms of a method for assessing fatty infiltration, a simplified muscle fat index (MFI).
+METHODS: Preoperative axial T2-weighted magnetic resonance imaging (MRI) scans of 243 patients aged 66.6 ± 8.5 years (mean ± standard deviation), 119 females (49%), with symptomatic lumbar spinal stenosis were assessed. Fatty infiltration was assessed using both the MFI and the Goutallier classification system (GCS). The MFI was calculated as the signal intensity of the psoas muscle divided by that of the multifidus and erector spinae. Observer reliability was assessed in 102 consecutive patients for three independent investigators by intraclass correlation coefficient (ICC) and 95% limits of agreement (LoA) for continuous variables and Gwet's agreement coefficient (AC1) for categorical variables. Associations with patient-reported pain and disability were assessed using univariate and multivariate regression analyses.
+RESULTS: Interobserver reliability was good for the MFI (ICC 0.79) and fair for the GCS (AC1 0.33). Intraobserver reliability was good or excellent for the MFI (ICC range 0.86-0.91) and moderate to almost perfect for the GCS (AC1 range 0.55-0.92). Mean interobserver differences of MFI measurements ranged from -0.09 to -0.04 (LoA -0.32 to 0.18). Adjusted for potential confounders, none of the disability or pain parameters was significantly associated with MFI or GCS.
+CONCLUSION: The proposed MFI demonstrated high observer reliability but was not associated with preoperative pain or disability.
+
+Citation: Banitalebi H, et al. A novel MRI index for paraspinal muscle fatty infiltration: reliability and relation to pain and disability in lumbar spinal stenosis: results from a multicentre study. A novel MRI index for paraspinal muscle fatty infiltration: reliability and relation to pain and disability in lumbar spinal stenosis: results from a multicentre study. 2022; 6:38. doi: 10.1186/s41747-022-00284-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35854201/

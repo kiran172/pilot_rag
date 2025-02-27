@@ -1,0 +1,12 @@
+PMID: 35351823
+Title: Transcatheter aortic valve implantation in patients with rheumatic aortic stenosis.
+
+Abstract: BACKGROUND: Rheumatic heart disease (RHD) accounts for the highest number of deaths from valvular heart disease globally. Yet, rheumatic aortic stenosis (AS) was excluded from landmark studies investigating the safety and efficacy of transcatheter aortic valve implantation (TAVI). We aimed to describe the clinical and anatomical characteristics of patients with rheumatic AS undergoing TAVI, and to compare procedural and clinical outcomes with patients undergoing TAVI for degenerative AS.
+METHODS: In a prospective TAVI registry, patients with rheumatic AS were identified based on International Classification of Diseases version 10 codes and/or a documented history of acute rheumatic fever and/or the World Heart Federation criteria for echocardiographic diagnosis of RHD, and were propensity score-matched in a 1:4 ratio to patients with degenerative AS.
+RESULTS: Among 2329 patients undergoing TAVI, 105 (4.5%) had rheumatic AS. Compared with patients with degenerative AS, patients with rheumatic AS were more commonly female, older, had higher surgical risk and more commonly suffered from multivalvular heart disease. In the unmatched cohort, both technical success (85.7% vs 85.9%, p=0.887) and 1-year cardiovascular mortality (10.0% vs 8.6%; HR 1.16, 95% CI 0.61 to 2.18, p=0.656) were comparable between patients with rheumatic and degenerative AS. In contrast, patients with rheumatic AS had lower rates of 30-day and 1-year cardiovascular mortality compared with matched patients with degenerative AS (1.9% vs 8.9%, adjusted HR (HR<sub>adj</sub>) 0.18, 95% CI 0.04 to 0.80, p=0.024; and 10.0% vs 20.3%, HR<sub>adj</sub> 0.44, 95% CI 0.24 to 0.84, p=0.012, respectively).
+CONCLUSION: TAVI may be a safe and effective treatment strategy for selected elderly patients with rheumatic AS.
+TRIAL REGISTRATION NUMBER: NCT01368250.
+
+Citation: Okuno T, et al. Transcatheter aortic valve implantation in patients with rheumatic aortic stenosis. Transcatheter aortic valve implantation in patients with rheumatic aortic stenosis. 2022; 108:1225-1233. doi: 10.1136/heartjnl-2021-320531
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35351823/

@@ -1,0 +1,12 @@
+PMID: 31566902
+Title: Transcatheter aortic valve replacement versus surgery for symptomatic severe aortic stenosis: A reconstructed individual patient data meta-analysis.
+
+Abstract: OBJECTIVES: We wished to undertake a reconstructed individual patient data meta-analysis of randomized clinical trials comparing transcatheter aortic valve replacement (TAVR) and surgery for patients with severe symptomatic aortic stenosis.
+BACKGROUND: TAVR and surgery are both well-established methods for treating patients with symptomatic severe aortic stenosis who are at low, intermediate, and high risk for surgery.
+METHODS: Data were identified by searches of Medline, Embase, CENTRAL and ClinicalTrials.gov for all randomized clinical trials, which compared TAVR and surgery that had published at least 1 year of follow-up. Individual patient data were reconstructed from Kaplan-Meier curves.
+RESULTS: A total of 7,770 patients from seven randomized clinical trials were included in this meta-analysis. At 1 year, TAVR was associated with a lower risk of death from any cause (hazard ratio [HR], 0.85, 95% confidence interval [CI], 0.73-0.98; p = .03), disabling stroke (HR, 0.71; 95% CI, 0.54-0.93; p = .01) and the composite end point of death or disabling stroke (HR, 0.79; 95% CI, 0.67-0.92; p = .002). Significant interactions were found for access suitability, with TAVR associated with a lower risk of these end points in patients suitable for transfemoral access. TAVR was associated with a lower risk of periprocedural events, whereas the risk of late events was similar between TAVR and surgery.
+CONCLUSIONS: At 1 year, TAVR was associated with a lower risk of death, disabling stroke and the composite end point, when compared with surgery. These associations were strongest within the subgroup of patients in whom transfemoral access was feasible.
+
+Citation: Dowling C, et al. Transcatheter aortic valve replacement versus surgery for symptomatic severe aortic stenosis: A reconstructed individual patient data meta-analysis. Transcatheter aortic valve replacement versus surgery for symptomatic severe aortic stenosis: A reconstructed individual patient data meta-analysis. 2020; 96:158-166. doi: 10.1002/ccd.28504
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31566902/

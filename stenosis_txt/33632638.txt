@@ -1,0 +1,11 @@
+PMID: 33632638
+Title: Frailty Predicts Adverse Outcomes in Older Patients Undergoing Transcatheter Aortic Valve Replacement (TAVR): From the National Inpatient Sample.
+
+Abstract: OBJECTIVE: We aimed to study the impact of frailty on the outcome of transcatheter aortic valve replacement (TAVR) procedures.
+METHODS: The National Inpatient Sample (NIS) database was queried for all patients aged ≥65 years who underwent a TAVR procedure during the years 2016-2017. Frailty was measured using a previously validated Hospital Frailty Risk Score (HFRS) scoring system. The score is ICD-10 code based; thus, it can be calculated from an administrative database. Study outcomes were in-hospital all-cause mortality, peri-procedural complications, length of stay, and total cost. Outcomes were modeled using logistic regression for binary outcomes and generalized linear regression for continuous outcomes.
+RESULTS: There were 84,750 patients included in the study. These patients were divided into low-risk (61,050), intermediate-risk (22,955), and high-risk (744), based on average frailty index scores of 2, 7, and 16.8, respectively. On multivariable analysis, the HFRS correlated with increased odds for mortality with an adjusted odd ratio (a-OR) of 1.25 (95% CI: 1.22-1.29, p < 0.001), myocardial infarction [a-OR 1.10 (95% CI: 1.07-1.13, p < 0.001)], pericardiocentesis [a-OR 1.16 (95% CI: 1.12-1.20, p < 0.001)], pacemaker insertion [a-OR 1.06 (95% CI: 1.04-1.08, p < 0.001)], blood transfusion [a-OR 1.14 (95% CI: 1.11-1.16, p < 0.001)], vascular complications [a-OR 1.05 (95% CI: 1.00-1.09, p = 0.03)], longer length of stay [a-MR 1.10 (95% CI: 1.10-1.11, p < 0.001)] and higher cost [a-MR: 1.04 (95% CI: 1.03-1.04, p < 0.001)].
+CONCLUSION: The HFRS can be utilized in the risk stratification of older patients undergoing TAVR.
+
+Citation: Abugroun A, et al. Frailty Predicts Adverse Outcomes in Older Patients Undergoing Transcatheter Aortic Valve Replacement (TAVR): From the National Inpatient Sample. Frailty Predicts Adverse Outcomes in Older Patients Undergoing Transcatheter Aortic Valve Replacement (TAVR): From the National Inpatient Sample. 2022; 34:56-60. doi: 10.1016/j.carrev.2021.02.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33632638/

@@ -1,0 +1,11 @@
+PMID: 37149212
+Title: Meta-analysis of phase-specific survival after transcatheter versus surgical aortic valve replacement from randomized control trials.
+
+Abstract: OBJECTIVE: Transcatheter aortic valve replacement (TAVR) is an established alternative to surgical aortic valve replacement (SAVR) for severe symptomatic aortic stenosis, although phase-specific survival and cause of death are implicated following these procedures. Herein, we conducted a phase-specific meta-analysis to compare outcomes after TAVR versus SAVR.
+METHODS: A systematic search of databases was performed from inception through December 2022 to identify randomized controlled trials that compared outcomes of TAVR and SAVR. For each trial, the hazard ratio (HR) with 95% confidence interval (CI) of outcomes of interest was extracted for the following each specific phase: the very short-term (0-1 years after the procedure), short-term (1-2 years), and mid-term (2-5 years). Phase-specific HRs were separately pooled using the random-effects model.
+RESULTS: Our analysis included 8 randomized controlled trials, which enrolled a total of 8885 patients with a mean age of 79 years. The survival after TAVR compared with SAVR was greater in the very short-term periods (HR, 0.85; 95% CI, 0.74-0.98; P = .02) but similar in the short-term periods. In contrast, lower survival was observed in the TAVR group compared with the SAVR group in the mid-term periods (HR, 1.15; 95% CI, 1.03-1.29; P = .02). Similar temporal trends favoring SAVR in the mid-term were present for cardiovascular mortality and rehospitalization rates. In contrast, the rates of aortic valve reinterventions and permanent pacemaker implantations were initially greater in the TAVR group, although SAVR's superiority eventually disappeared in the mid-term.
+CONCLUSIONS: Our analysis demonstrated phase-specific outcomes following TAVR and SAVR.
+
+Citation: Yokoyama Y, et al. Meta-analysis of phase-specific survival after transcatheter versus surgical aortic valve replacement from randomized control trials. Meta-analysis of phase-specific survival after transcatheter versus surgical aortic valve replacement from randomized control trials. 2024; 168:796-808.e27. doi: 10.1016/j.jtcvs.2023.04.041
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37149212/

@@ -1,0 +1,13 @@
+PMID: 35877558
+Title: Magnetic Resonance Imaging Proxies for Segmental Instability in Degenerative Lumbar Spondylolisthesis Patients.
+
+Abstract: STUDY DESIGN: Retrospective cohort study.
+OBJECTIVE: The aim was to investigate whether findings on magnetic resonance imaging (MRI) can be proxies (MRIPs) for segmental instability in patients with degenerative lumbar spinal stenosis (LSS) and/or degenerative spondylolisthesis (LDS) L4/L5.
+BACKGROUND: LDS has a heterogeneous nature. Some patients have a dynamic component of segmental instability associated with LDS. Studies have shown that MRI can show signs of instability.
+METHODS: Patients with LSS or LDS at L4/L5 undergoing decompressive surgery±fusion from 2010 to 2017, with preoperative standing lateral spine radiographs and supine lumbar MRI and enrolled in Danish national spine surgical database, DaneSpine. Instability defined as slip of >3 mm on radiographs. Patients divided into two groups based upon presence of instability. Outcome measures: radiograph: sagittal slip (mm). MRIPs for instability: sagittal slip >3 mm, facet joint angle (°), facet joint effusion (mm), disk height index (%), and presence of vacuum phenomena. Optimal thresholds for MRIPs was determined by receiver operating characteristic (ROC) curves and area under the curve (AUC). Logistic regression to investigate association between instability and MRIPs.
+RESULTS: Two hundred thirty-two patients: 47 stable group and 185 unstable group. The two groups were comparable with regard to baseline patient-reported outcome measures. Thresholds for MRIPs: bilateral facet joint angle ≥46°; bilateral facet effusion ≥1.5 mm and disk height index ≥13%. Logistic regression showed statistically significant association with MRIPs except vacuum phenomena, ROC curve AUC of 0.951. By absence of slip on MRI logistic regression showed statistically significant association between instability on radiograph and the remaining MRIPs, ROC curve AUC 0.757.
+CONCLUSION: Presence of MRIPs for instability showed statistically significant association with instability and excellent ability to predict instability on standing radiograph in LSS and LDS patients. Even in the absence of slip on MRI the MRIPs had a good ability to discriminate presence of instability.
+
+Citation: Forbech Elmose S, et al. Magnetic Resonance Imaging Proxies for Segmental Instability in Degenerative Lumbar Spondylolisthesis Patients. Magnetic Resonance Imaging Proxies for Segmental Instability in Degenerative Lumbar Spondylolisthesis Patients. 2022; 47:1473-1482. doi: 10.1097/BRS.0000000000004437
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35877558/

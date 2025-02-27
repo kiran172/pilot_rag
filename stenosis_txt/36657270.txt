@@ -1,0 +1,11 @@
+PMID: 36657270
+Title: Associations of carotid artery flow parameters with MRI markers of cerebral small vessel disease and patterns of brain atrophy.
+
+Abstract: OBJECTIVES: A growing body of evidence links age related brain pathologies to systemic vascular processes. We aimed to study the prevalence and interrelations between magnetic resonance imaging (MRI) markers of cerebral small vessel disease and patterns of brain atrophy, and their association to carotid duplex ultrasound flow parameters.
+MATERIALS AND METHODS: We investigated a population based randomised cohort of older adults (n=391) aged 70-87, part of the Swedish Good Aging in Skåne Study. Peak systolic and end diastolic velocities of the carotid arteries were measured by ultrasound, and resistivity- and pulsatility indexes were calculated. Subjects with increased peak systolic velocity indicating carotid stenosis were excluded from analysis. Nine MRI findings were rated by visual scales: white matter changes, pontine white matter changes, microbleeds, lacunar infarctions, medial temporal lobe atrophy, global cortical atrophy, parietal atrophy, precuneus atrophy and central atrophy.
+RESULTS: MRI pathologies were found in 80% of subjects. Mean end diastolic velocity in common carotid arteries was inversely associated with white matter hyperintensities (OR=0.92; p=0.004), parietal lobe atrophy (OR=0.94; p=0.039), global cortical atrophy (OR=0.90; p=0.013), precuneus atrophy (OR=0.94; p=0.022), "number of CSV pathologies" (β=-0.07; p<0.001) and "MRI-burden score" (β=-0.11; p<0.001), after adjustment for age and sex. The latter three were also associated with pulsatility and resistivity indexes.
+CONCLUSIONS: Low carotid end diastolic velocity, as well as increased carotid resistivity and pulsatility, were associated with signs of cerebral small vessel disease and patterns of brain atrophy, indicating a vascular component in the process of brain aging.
+
+Citation: Ellström K, et al. Associations of carotid artery flow parameters with MRI markers of cerebral small vessel disease and patterns of brain atrophy. Associations of carotid artery flow parameters with MRI markers of cerebral small vessel disease and patterns of brain atrophy. 2023; 32:106981. doi: 10.1016/j.jstrokecerebrovasdis.2023.106981
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36657270/

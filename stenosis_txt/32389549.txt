@@ -1,0 +1,12 @@
+PMID: 32389549
+Title: Characterizing lipid profiles associated with asymptomatic intracranial arterial stenosis in rural-dwelling adults: A population-based study.
+
+Abstract: BACKGROUND: Although individual lipid parameters have been frequently examined in association with asymptomatic intracranial arterial stenosis (aICAS), few population-based studies have investigated the lipid profiles associated with aICAS among Chinese adults.
+OBJECTIVE: This study aims to characterize the lipid profiles associated with aICAS in rural-dwelling adults in China.
+METHODS: This population-based study included 2027 persons who were aged ≥40 years and free of stroke. Data were collected via interviews, clinical examinations, and laboratory testing. We diagnosed aICAS by integrating transcranial color Doppler with magnetic resonance angiography. Data were analyzed using binary and multinomial logistic regression models.
+RESULTS: Of the 2027 participants, 154 were detected with aICAS. The multiadjusted odds ratio (95% confidence interval) of aICAS was 1.41 (0.997-2.00) for high small dense low-density lipoprotein cholesterol, 1.44 (1.02-2.04) for high lipoprotein(a), 1.71 (1.21-2.44) for low apolipoprotein A-1, 1.43 (1.00-2.04) for low high-density lipoprotein cholesterol (HDL-C), 1.61 (1.14-2.27) for high apolipoprotein B/apolipoprotein A-1 ratio, 1.95 (1.38-2.76) for high low-density lipoprotein cholesterol/HDL-C ratio, and 1.51 (1.06-2.14) for high total cholesterol/HDL-C ratio. When severity of aICAS was analyzed, high levels of lipoprotein(a), small dense low-density lipoprotein cholesterol, and lipid ratios were significantly associated with an increased likelihood of moderate-to-severe aICAS (P < .05). An increasing number of abnormal lipid measurements was associated with an increased likelihood of aICAS (P for trend <.001).
+CONCLUSION: These findings suggest that lipid profiles for aICAS among rural residents in China are characterized by high atherogenic cholesterol, low antiatherogenic cholesterol, and high ratios of atherogenic-to-antiatherogenic cholesterol or lipoproteins.
+
+Citation: Wang S, et al. Characterizing lipid profiles associated with asymptomatic intracranial arterial stenosis in rural-dwelling adults: A population-based study. Characterizing lipid profiles associated with asymptomatic intracranial arterial stenosis in rural-dwelling adults: A population-based study. 2020; 14:371-380. doi: 10.1016/j.jacl.2020.04.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32389549/

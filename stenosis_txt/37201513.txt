@@ -1,0 +1,10 @@
+PMID: 37201513
+Title: Protein arginine methyltransferase 5-mediated arginine methylation stabilizes Kruppel-like factor 4 to accelerate neointimal formation.
+
+Abstract: AIMS: Accumulating evidence supports the indispensable role of protein arginine methyltransferase 5 (PRMT5) in the pathological progression of several human cancers. As an important enzyme-regulating protein methylation, how PRMT5 participates in vascular remodelling remains unknown. The aim of this study was to investigate the role and underlying mechanism of PRMT5 in neointimal formation and to evaluate its potential as an effective therapeutic target for the condition.
+METHODS AND RESULTS: Aberrant PRMT5 overexpression was positively correlated with clinical carotid arterial stenosis. Vascular smooth muscle cell (SMC)-specific PRMT5 knockout inhibited intimal hyperplasia with an enhanced expression of contractile markers in mice. Conversely, PRMT5 overexpression inhibited SMC contractile markers and promoted intimal hyperplasia. Furthermore, we showed that PRMT5 promoted SMC phenotypic switching by stabilizing Kruppel-like factor 4 (KLF4). Mechanistically, PRMT5-mediated KLF4 methylation inhibited ubiquitin-dependent proteolysis of KLF4, leading to a disruption of myocardin (MYOCD)-serum response factor (SRF) interaction and MYOCD-SRF-mediated the transcription of SMC contractile markers.
+CONCLUSION: Our data demonstrated that PRMT5 critically mediated vascular remodelling by promoting KLF4-mediated SMC phenotypic conversion and consequently the progression of intimal hyperplasia. Therefore, PRMT5 may represent a potential therapeutic target for intimal hyperplasia-associated vascular diseases.
+
+Citation: Liu H, et al. Protein arginine methyltransferase 5-mediated arginine methylation stabilizes Kruppel-like factor 4 to accelerate neointimal formation. Protein arginine methyltransferase 5-mediated arginine methylation stabilizes Kruppel-like factor 4 to accelerate neointimal formation. 2023; 119:2142-2156. doi: 10.1093/cvr/cvad080
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37201513/

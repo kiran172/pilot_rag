@@ -1,0 +1,11 @@
+PMID: 35525324
+Title: P2Y<sub>12</sub> inhibition by clopidogrel increases adverse clinical events after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Dual antiplatelet therapy (DAPT) has been proposed to explain the increased occurrence of bleeding events after transcatheter aortic valve replacement (TAVR) despite no relevant study exploring the extent of platelet inhibition. In the present study, we sought to assess whether P2Y<sub>12</sub> inhibition by clopidogrel impacts clinical outcomes in TAVR patients.
+METHODS: Patients were enrolled in a prospective registry at Nouvel Hôpital Civil, Strasbourg, France between February 2010 and May 2019. Vasodilator-stimulated phosphoprotein (VASP) flow cytometry test was assessed 24 h after the procedure. Responder to clopidogrel was defined by a platelet reactivity index ≤50%. The primary endpoint was 90-day major adverse cardiac and cerebrovascular events (MACCE), including all-cause death, myocardial infarction, stroke, and heart failure hospitalization.
+RESULTS: Of the 828 patients with available VASP monitoring, 491 TAVR patients received preprocedural clopidogrel therapy. Responders were identified in 22% (n = 110) and low responders in 78% (n = 381) of patients. By multivariate Cox regression analysis, responders to clopidogrel (hazard ratio [HR]: 2.09; 95% confidence interval [CI]: 1.13 to 3.79: p = 0.02) and previous PCI (HR: 2.16; 95% CI: 1.02 to 4.68; p = 0.04) were identified as independent predictors of 90-day MACCE. The cumulative event-free survival rate at 90-day was significantly lower in the responder group (p = 0.008; log rank test).
+CONCLUSIONS: In conclusion, appropriate P2Y<sub>12</sub> inhibition by clopidogrel is a major determinant of MACCE at 90 days after TAVR. The present data challenge DAPT as a standard therapy during TAVR.
+
+Citation: Matsushita K, et al. P2Y<sub>12</sub> inhibition by clopidogrel increases adverse clinical events after transcatheter aortic valve replacement. P2Y<sub>12</sub> inhibition by clopidogrel increases adverse clinical events after transcatheter aortic valve replacement. 2022; 360:53-61. doi: 10.1016/j.ijcard.2022.04.088
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35525324/

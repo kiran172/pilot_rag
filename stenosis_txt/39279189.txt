@@ -1,0 +1,12 @@
+PMID: 39279189
+Title: Age-related structural remodelling of the coronary circulation.
+
+Abstract: BACKGROUND: While it is broadly accepted that ageing is associated with impairment of coronary microvascular function, little is known about the underlying mechanisms.
+AIMS: We investigated age-related changes in coronary microvascular structure in patients with stable angina without epicardial coronary stenoses.
+METHODS: In an analysis of the IDEAL registry, a total of 165 vessels without coronary stenosis were interrogated with combined pressure/Doppler guidewires. We calculated diastolic microvascular conductance (DMVC) and backward expansion wave (BEW), and compared them between age tertiles. We calculated the prevalence of CMD, defined by reduced coronary flow reserve (CFR), and the prevalence of low BEW and low DMVC in each group.
+RESULTS: The three study groups were defined as having 37-53, 54-66, and 67-77 years of age, respectively. Oldest (3rd tertile) patients showed lower hyperemic flow velocity (46.7 ± 14.4 vs. 45.1 ± 12.4 vs. 38.4 ± 11.5 cm s-1, p = 0.019), lower DMVC (1.90 ± 0.71 vs. 1.44 ± 0.56 vs. 1.37 ± 0.67 cm s-1 mmHg-1, p &lt; 0.001) and lower BEW intensity (5.9 [2.9-8.4] vs. 4.8 [2.9-6.8] vs. 4.4 [3.4-6.3] × 106 W m-2 s-1, p = 0.094). Older age was independently associated with lower BEW intensity (B: -0.10, 95% confidence interval [CI]: -0.17 to -0.09, p = 0.021) and DMVC (B: -0.25 95% CI: -0.45 to -0.09, p = 0.027). In patients with CFR &lt; 2.5, the prevalence of BEW intensity and DMVC below the 25th percentile increased with age (25.0% vs. 52.0% vs. 72.7%, p = 0.010).
+CONCLUSIONS: Ageing is independently associated with structural microcirculatory remodeling that is reflected in BEW intensity and DMVC measurements, and with an increased prevalence of structural CMD. These results are important to understand non-obstructive mechanisms of myocardial ischemia in the elderly.
+
+Citation: Faria D, et al. Age-related structural remodelling of the coronary circulation. Age-related structural remodelling of the coronary circulation. 2024; 104:968-979. doi: 10.1002/ccd.31223
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39279189/

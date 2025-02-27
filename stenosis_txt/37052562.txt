@@ -1,0 +1,12 @@
+PMID: 37052562
+Title: Coronary Artery Stenosis Evaluation by Angiography-Derived FFR: Validation by Positron Emission Tomography and Invasive Thermodilution.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) derived from invasive coronary angiography (QFR) is promising for evaluation of intermediate coronary artery stenosis.
+OBJECTIVES: The authors aimed to compare the diagnostic performance of QFR and the guideline-recommended invasive FFR using 82Rubidium positron emission tomography (82Rb-PET) myocardial perfusion imaging as reference standard.
+METHODS: This is a prospective, observational study of symptomatic patients with suspected obstructive coronary artery disease on coronary computed tomography angiography (≥50% diameter stenosis in ≥1 vessel). All patients were referred to 82Rb-PET and invasive coronary angiography with FFR and QFR assessment of all intermediate (30%-90% diameter stenosis) stenoses. Main analyses included a comparison of the ability of QFR and FFR to identify reduced myocardial blood flow (&lt;2 mL/g/min) during vasodilation and/or relative perfusion abnormalities (summed stress score ≥4 in ≥2 adjacent segments).
+RESULTS: A total of 250 patients (320 vessels) with indication for invasive physiological assessment were included. The continuous relationship of 82Rb-PET stress myocardial blood flow per 0.10 increase in FFR was +0.14 mL/g/min (95% CI: 0.07-0.21 mL/g/min) and +0.08 mL/g/min (95% CI: 0.02-0.14 mL/g/min) per 0.10 QFR increase. Using 82Rb-PET as reference, QFR and FFR had similar diagnostic performance on both a per-patient level (accuracy: 73%; 95% CI: 67%-79%; vs accuracy: 71%; 95% CI: 64%-78%) and per-vessel level (accuracy: 70%; 95% CI: 64%-75%; vs accuracy: 68%; 95% CI: 62%-73%). The per-vessel feasibility was 84% (95% CI: 80%-88%) for QFR and 88% (95% CI: 85%-92%) for FFR by intention-to-diagnose analysis.
+CONCLUSIONS: With 82Rb-PET as reference modality, the wire-free QFR solution showed similar diagnostic accuracy as invasive FFR in evaluation of intermediate coronary stenosis. (DAN-NICAD - Danish Study of Non-Invasive Diagnostic Testing in Coronary Artery Disease; NCT02264717).
+
+Citation: Westra J, et al. Coronary Artery Stenosis Evaluation by Angiography-Derived FFR: Validation by Positron Emission Tomography and Invasive Thermodilution. Coronary Artery Stenosis Evaluation by Angiography-Derived FFR: Validation by Positron Emission Tomography and Invasive Thermodilution. 2023; 16:1321-1331. doi: 10.1016/j.jcmg.2023.02.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37052562/

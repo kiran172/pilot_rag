@@ -1,0 +1,11 @@
+PMID: 36190347
+Title: Standard versus rapid-deployment aortic valve replacement and concomitant myocardial revascularization: 5-year bi-centre clinical outcomes.
+
+Abstract: OBJECTIVES: Clinical outcomes of 2 generations of pericardial bioprostheses in concomitant aortic valve and coronary artery bypass graft surgery were analysed.
+METHODS: Patients were recruited from 2 European centres and divided into 2 groups based on the type of aortic bioprosthesis used: Edwards Intuity Elite™ rapid-deployment (RD) bioprostheses or standard Edwards Magna Ease (ME). A propensity score weighting approach was used for data analysis.
+RESULTS: A total of 285 patients were included: 144 (50.5%) in the RD group and 141 (49.5%) in the ME group. Thirty-day mortality was 2.8% (RD) and 5% (ME) (P = 0.09). Significantly shorter times of aortic cross-clamp and cardiopulmonary bypass were observed in the RD cohort [94 vs 120 min (P &lt; 0.001); 128 vs 160 min (P &lt; 0.001)]. The RD group was associated with a lower median transvalvular gradient at discharge and follow-up (both P &lt; 0.001). However, 5-year survival was not different, being 93% in RD patients and 91% in the ME group [hazard ratio 0.89 (95% confidence interval: 0.38-2.09), P = 0.784]. The 5-year cumulative incidence of combined events (including percutaneous coronary interventions, endocarditis, thromboembolic events, rehospitalizations and bleeding) favoured the ME group [16.1% (RD) vs 7.3% (ME)] [hazard ratio 2.38 (95% confidence interval:1.03-5.52), P = 0.043]. However, this turned similar when the Cox model analysis was adjusted for revascularization variables (P = 0.067).
+CONCLUSIONS: RD and ME pericardial bioprostheses used in concomitant aortic valve replacement and coronary artery revascularization provide equivalent clinical and haemodynamic 5-year outcomes, despite constant lower transvalvular gradients and shorter surgical operating times observed with RD technology.
+
+Citation: Bottio T, et al. Standard versus rapid-deployment aortic valve replacement and concomitant myocardial revascularization: 5-year bi-centre clinical outcomes. Standard versus rapid-deployment aortic valve replacement and concomitant myocardial revascularization: 5-year bi-centre clinical outcomes. 2022; 62:(unknown pages). doi: 10.1093/ejcts/ezac476
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36190347/

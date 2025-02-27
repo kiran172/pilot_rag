@@ -1,0 +1,11 @@
+PMID: 37529711
+Title: Impact of low-density lipoprotein cholesterol on progression of aortic valve sclerosis and stenosis.
+
+Abstract: BACKGROUND: Little research has been assessed atherosclerotic risk factors at various stages of calcific aortic valve disease. This study sought to determine risk factors of patients with aortic valve sclerosis (AVS) and mild to moderate aortic stenosis (AS).
+METHODS: The study included 1,007 patients diagnosed with AVS or mild to moderate AS according to echocardiographic criteria. Patients were identified as a rapid progression group if the annualized difference in peak aortic jet velocity (Vmax) between two echocardiographic examinations was >0.08 m/s/yr in AVS and >0.3 m/s/yr in AS, respectively. We used multivariable logistic regression analyses to assess the factors associated with rapid disease progression or progression to severe AS.
+RESULTS: Among 526 AVS patients, higher LDL-C level (odds ratio [OR] 1.22/per 25 mg/dl higher LDL-C, 95% confidence interval [CI] 1.05-1.43) was significantly associated with rapid disease progression. Compared to patients with LDL-C level <70 mg/dl, the adjusted OR for rapid progression were 1.32, 2.15, and 2.98 for those with LDL-C level of 70-95 mg/dl, 95-120 mg/dl, and ≥120 mg/dl, respectively. Among 481 mild to moderate AS patients, the baseline Vmax (OR 1.79/per 0.5 m/s higher Vmax, 95% CI 1.18-2.70) was associated with rapid progression. Compared to patients with Vmax 2.0-2.5 m/s, the adjusted OR for rapid progression were 2.47, 2.78, and 3.49 for those with Vmax of 2.5-3.0 m/s, 3.0-3.5 m/s, and 3.5-4.0 m/s, respectively. LDL-C and baseline Vmax values were independently associated with progression to severe AS.
+CONCLUSION: Atherosclerotic risk factors such as LDL-C were significantly associated with the rapid progression in AVS and baseline Vmax was important in the stage of mild to moderate AS.
+
+Citation: Seo JH, et al. Impact of low-density lipoprotein cholesterol on progression of aortic valve sclerosis and stenosis. Impact of low-density lipoprotein cholesterol on progression of aortic valve sclerosis and stenosis. 2023; 10:1171703. doi: 10.3389/fcvm.2023.1171703
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37529711/

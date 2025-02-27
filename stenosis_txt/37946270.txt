@@ -1,0 +1,11 @@
+PMID: 37946270
+Title: The risk factors of postoperative cognitive dysfunction in patients undergoing carotid endarterectomy: an updated meta-analysis.
+
+Abstract: OBJECTIVE: The purpose of the current meta-analysis was to determine the incidence and risk factors to provide a scientific basis for prevention and treatment of postoperative cognitive dysfunction (POCD) after carotid endarterectomy (CEA).
+METHODS: Relevant articles published before October 2022 were searched from Pubmed/MEDLINE, Cochrane and Embase databases. The outcomes were the incidence and risk factors for POCD. A random-effects model was applied to estimate the overall odds ratios (ORs) and mean differences (MDs) for all risk factors through STATA 14.0 and RevMan 5.4. The quality of eligible studies was evaluated by Newcastle-Ottawa Scale (NOS) as previously described.
+RESULTS: A total of 22 articles involving 3459 CEA patients were finally identified. The weighted mean incidence of POCD was 19% (95% confidence intervals (95% CI) 0.16-0.24, P < 0.001). Of the 16 identified risk factors, hyperperfusion (OR: 0.54, 95% CI 0.41-0.71) and degree of internal carotid artery (ICA) stenosis (OR: 5.06, 95% CI 0.86-9.27) were the potential risk factors of POCD, whereas patients taking statins preoperative had a lower risk of POCD (OR: 0.54, 95% CI 0.41-0.71). Subgroup analysis revealed that the risk of POCD at 1 month after CEA was higher in patients with diabetes (OR: 1.70, 95% CI 1.07-2.71).
+CONCLUSION: The risk factors of POCD were hyperperfusion and degree of ICA stenosis, while diabetes could significantly increase the incidence of POCD at 1 month after surgery. Additionally, preoperative statin use could be a protective factor for POCD following CEA.
+
+Citation: He J, et al. The risk factors of postoperative cognitive dysfunction in patients undergoing carotid endarterectomy: an updated meta-analysis. The risk factors of postoperative cognitive dysfunction in patients undergoing carotid endarterectomy: an updated meta-analysis. 2023; 18:309. doi: 10.1186/s13019-023-02428-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37946270/

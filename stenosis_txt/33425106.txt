@@ -1,0 +1,11 @@
+PMID: 33425106
+Title: Application of arterial spin labeling and susceptibility weighted imaging in the diagnosis of ischemic cerebrovascular diseases.
+
+Abstract: OBJECTIVE: To investigate the application value of arterial spin labeling (ASL) and susceptibility weighted imaging (SWI) in the diagnosis of acute ischemic cerebrovascular disease (CVDs).
+METHODS: A total of 124 patients who received fluid attenuated inversion recovery (FLAIR), diffusion weighted imaging (DWI), ASL, time of flight magnetic resonance angiography (TOF-MRA) and SWI scan sequentially were included in this study. The area of the abnormal perfusion region was compared with that of the restricted diffusion region. The cerebral blood flow (CBF) value and apparent diffusion coefficient (ADC) value were compared in ischemic penumbra (IP), infarct core and mirror region. The susceptibility vessel sign (SVS) detection rate was compared with the major vessel severe stenosis or occlusion rate as revealed by MRA. A receiver operating characteristic curve (ROC) was used to analyze the value of SVS as revealed by SWI.
+RESULTS: In total, 124 cases were included in this study, and 77 cases showed acute cerebral infarction. Among the 77 cases, 59 cases showed an IP. There were significant differences in ADC and CBF values between the infarct core and mirror region (P < 0.01). There was no significant difference in ADC value between IP and mirror region (P = 0.176), but there was significant difference in CBF value between IP and mirror region (P < 0.01). There was no significant difference in SVS detection rate compared with the vessel severe stenosis or occlusion rate in MRA (P = 0.111). Based on the MRA standards, the area under curve (AUC) of ROC for the SVS as revealed by SWI was 0.86 (95% CI: 0.753-0.962).
+CONCLUSIONS: ASL combined with DWI contributed to IP evaluation of acute cerebral infarction. SWI showed higher diagnostic value for intravascular thrombus in acute cerebral infarction.
+
+Citation: Su H, et al. Application of arterial spin labeling and susceptibility weighted imaging in the diagnosis of ischemic cerebrovascular diseases. Application of arterial spin labeling and susceptibility weighted imaging in the diagnosis of ischemic cerebrovascular diseases. 2020; 13:3052-3059.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33425106/

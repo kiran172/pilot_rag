@@ -1,0 +1,11 @@
+PMID: 35947024
+Title: Novel airway-cartilage combined model for medialization laryngoplasty and laryngotracheal reconstruction surgery planning.
+
+Abstract: BACKGROUND: The clinical outcomes of surgical treatments for vocal cord paralysis and tracheal stenosis, such as medialization laryngoplasty and laryngotracheal reconstruction, vary owing to the complex anatomy and physiology of the human upper airway. However, advances in three-dimensional (3D) simulation and printing ushered its use on an office-based workstation to aid in several surgical areas.
+METHODS: The preoperation neck computed tomography image was loaded into the InVesalius 3.0 software for manual segmentation of airway and nearby important anatomic landmarks including hyoid bone, thyroid cartilage, and cricoid cartilage. The 3D model of the desired anatomy structure was manufactured and used for presurgical planning and rehearsal of the surgery.
+RESULTS: We review cases of four patients: two cases of unilateral vocal palsy undergoing medialization laryngoplasty and two cases of tracheal stenosis patients who used the air-cartilage combined model.
+CONCLUSION: Preoperation planning of the medialization thyroplasty could be more precise by prevision of the paralyzed vocal cord plane. Tracheal surgery could benefit from a preoperative design of segmented length. The novel airway-cartilage combined model offers new insight into vocal cord and trachea surgery.
+
+Citation: Huang CY, et al. Novel airway-cartilage combined model for medialization laryngoplasty and laryngotracheal reconstruction surgery planning. Novel airway-cartilage combined model for medialization laryngoplasty and laryngotracheal reconstruction surgery planning. 2022; 85:1076-1082. doi: 10.1097/JCMA.0000000000000791
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35947024/

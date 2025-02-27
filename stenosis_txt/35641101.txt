@@ -1,0 +1,11 @@
+PMID: 35641101
+Title: Predicting outcomes in patients with aortic stenosis using machine learning: the Aortic Stenosis Risk (ASteRisk) score.
+
+Abstract: OBJECTIVE: To use echocardiographic and clinical features to develop an explainable clinical risk prediction model in patients with aortic stenosis (AS), including those with low-gradient AS (LGAS), using machine learning (ML).
+METHODS: In 1130 patients with moderate or severe AS, we used bootstrap lasso regression (BLR), an ML method, to identify echocardiographic and clinical features important for predicting the combined outcome of all-cause mortality or aortic valve replacement (AVR) within 5 years after the initial echocardiogram. A separate hold out set, from a different centre (n=540), was used to test the generality of the model. We also evaluated model performance with respect to each outcome separately and in different subgroups, including patients with LGAS.
+RESULTS: Out of 69 available variables, 26 features were identified as predictive by BLR and expert knowledge was used to further reduce this set to 9 easily available and input features without loss of efficacy. A ridge logistic regression model constructed using these features had an area under the receiver operating characteristic curve (AUC) of 0.74 for the combined outcome of mortality/AVR. The model reliably identified patients at high risk of death in years 2-5 (HRs ≥2.0, upper vs other quartiles, for years 2-5, p<0.05, p=not significant in year 1) and was also predictive in the cohort with LGAS (n=383, HRs≥3.3, p<0.05). The model performed similarly well in the independent hold out set (AUC 0.78, HR ≥2.5 in years 1-5, p<0.05).
+CONCLUSION: In two separate longitudinal databases, ML identified prognostic features and produced an algorithm that predicts outcome for up to 5 years of follow-up in patients with AS, including patients with LGAS. Our algorithm, the Aortic Stenosis Risk (ASteRisk) score, is available online for public use.
+
+Citation: Namasivayam M, et al. Predicting outcomes in patients with aortic stenosis using machine learning: the Aortic Stenosis Risk (ASteRisk) score. Predicting outcomes in patients with aortic stenosis using machine learning: the Aortic Stenosis Risk (ASteRisk) score. 2022; 9:(unknown pages). doi: 10.1136/openhrt-2022-001990
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35641101/

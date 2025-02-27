@@ -1,0 +1,11 @@
+PMID: 37315777
+Title: Osteopontin is a key regulator of vascular smooth muscle cell proliferation in the outflow vein of arteriovenous fistulas.
+
+Abstract: OBJECTIVES: Despite advances in the maintenance of arteriovenous fistulas (AVFs), the patency rates remain suboptimal. Most AVFs fail due to outflow vein stenosis; however, the underlying mechanism of AVF stenosis remains unclear. The present study aimed to identify key factors associated with AVF outflow stenosis.
+METHODS: We obtained gene expression profiling data for the outflow vein of AVF from three Gene Expression Omnibus database datasets (GSE39488, GSE97377, and GSE116268) and analyzed the common differentially expressed genes (DEGs). We evaluated a common DEG in an aortocaval mouse model and the stenotic outflow veins of AVFs collected from patients. Furthermore, we isolated vascular smooth muscle cells (VSMCs) from the inferior vena cava (IVC) of wild-type (WT) and osteopontin (Opn)-knockout (KO) mice and assessed the proliferation of VSMCs following stimulation with platelet-derived growth factors (PDGFs).
+RESULTS: OPN was the only common upregulated DEG among all datasets. OPN was expressed in the medial layer of the outflow vein of AVF in aortocaval mouse models and co-stained with the VSMC marker (α-smooth muscle actin). OPN expression was markedly increased in the VSMCs of stenotic outflow veins of AVF collected from patients undergoing hemodialysis compared to presurgical veins acquired during AVF formation surgery. PDGF-induced VSMC proliferation was significantly increased in the VSMCs isolated from the IVC of WT mice but not in those isolated from the IVC of Opn-KO mice.
+CONCLUSIONS: OPN may be a key gene involved in VSMC proliferation in the AVF outflow veins and a therapeutic target to improve the AVF patency rate.
+
+Citation: Ko DS, et al. Osteopontin is a key regulator of vascular smooth muscle cell proliferation in the outflow vein of arteriovenous fistulas. Osteopontin is a key regulator of vascular smooth muscle cell proliferation in the outflow vein of arteriovenous fistulas. 2023; 149:104570. doi: 10.1016/j.mvr.2023.104570
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37315777/

@@ -1,0 +1,12 @@
+PMID: 31409515
+Title: High dose rosuvastatin increases ABCA1 transporter in human atherosclerotic plaques in a cholesterol-independent fashion.
+
+Abstract: BACKGROUND: ATP-binding cassette A1 (ABCA1) and G1 (ABCG1) mediate cholesterol efflux from lipid-laden macrophages, thus promoting anti-atherosclerotic outcomes. The mechanism(s) linking treatment with statins and ABCA1/ABCG1 in human atherosclerosis are not fully understood and require further investigation. Therefore, we studied whether short-term treatment with low- or high-dose rosuvastatin may affect ABCA1 and ABCG1 expression in human atherosclerotic plaques.
+METHODS: Seventy patients with severe stenosis of the internal carotid artery were randomized to receive low (10 mg/day) or high (40 mg/day) dose rosuvastatin for 12 weeks before elective endarterectomy. As controls, we analyzed a reference group of 10 plaques from subjects with hypercholesterolemia but not receiving statin treatment and an additional set of 11 plaques collected from normocholesterolemic patients. On atherosclerotic plaques, ABCA1 and ABCG1 expression was evaluated at RNA level by qPCR and at protein level by immunoblotting and immunohistochemistry.
+RESULTS: Both rosuvastatin doses were associated with lower plaque ABCA1 mRNA levels and with a trend toward reduction for ABCG1. However, ABCA1 protein was paradoxically higher in patients treated with high-dose rosuvastatin and was associated with lower levels of miR-33b-5p, a microRNA known as a regulator of ABCA1. Multivariate analyses showed that the effect is cholesterol-independent. Finally, no effects were found for ABCG1 protein.
+CONCLUSIONS: High-dose rosuvastatin increases macrophage ABCA1 protein levels in human atherosclerotic plaque despite mRNA reduction in a mechanism unrelated to plasma cholesterol reduction and potentially involving miR-33b-5p. This pathway may reflect an additional feature contributing to the anti-atherosclerotic effect for high-dose rosuvastatin.
+TRIAL REGISTRATION: ISRCTN16590640.
+
+Citation: Santovito D, et al. High dose rosuvastatin increases ABCA1 transporter in human atherosclerotic plaques in a cholesterol-independent fashion. High dose rosuvastatin increases ABCA1 transporter in human atherosclerotic plaques in a cholesterol-independent fashion. 2020; 299:249-253. doi: 10.1016/j.ijcard.2019.07.094
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31409515/

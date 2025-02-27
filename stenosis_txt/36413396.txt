@@ -1,0 +1,11 @@
+PMID: 36413396
+Title: Impact of Wire Sensor Location on Coronary Physiological Measurement.
+
+Abstract: BACKGROUND: The location of the wire sensor to measure fractional flow reserve (FFR) and diastolic pressure ratio (dPR) has not been systematically studied. Therefore, we hypothesize that the coronary physiological measurements will vary with the location of the sensor.
+METHODS: Fifty-four patients were screened, and 30 consecutive patients were enrolled. The OptoWire 2 or 3 generation fiberoptic pressure wire was used to assess whole cycle pressure distal/pressure aorta, dPR, and FFR. Our primary goal is to test if those measurements vary with the wire sensor placed at 10 mm (proximal), 35-45 mm (mid), and greater than or equal to 60-70 mm (distal) distal to the target lesion, respectively. We used a multilevel linear regression approach.
+RESULTS: Of 30 patients enrolled, 23 (76.6%) were males, mean age was 64.7 years (± 11.0 years), and mean stenosis was 61.6% (±13.4%). Adjusting for age, gender, and severity of stenosis, results showed that for all 3 measures (whole cycle pressure distal/pressure aorta, dPR, and FFR), pressure decreased in a linear fashion the further the sensor was from the target lesion ( P < 0.001). Further, pairwise comparisons of the measurements at adjacent locations similarly showed significant declines in pressure ( P < 0.001).
+CONCLUSIONS: This is the first study to demonstrate that the location of the pressure wire can impact the results of both resting and hyperemic pressures, which can cause a false-negative result. This is especially important where the values are near the cutoff.
+
+Citation: Lotfi A, et al. Impact of Wire Sensor Location on Coronary Physiological Measurement. Impact of Wire Sensor Location on Coronary Physiological Measurement. 2022; 21:179-182. doi: 10.1097/HPC.0000000000000301
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36413396/

@@ -1,0 +1,11 @@
+PMID: 36278979
+Title: Association between high-risk extracranial carotid plaque and covert brain infarctions and cerebral microbleeds.
+
+Abstract: PURPOSE: Covert brain infarctions (CBIs) and cerebral microbleeds (CMBs) represent subclinical sequelae of ischemic and hemorrhagic cerebral small vessel disease, respectively. In addition to thromboembolic stroke, carotid atherosclerosis has been associated with downstream vascular brain injury, including inflammation and small vessel disease. The specific plaque features responsible for this are unknown. We aimed to determine the association of specific vulnerable carotid plaque features to CBIs and CMBs to better understand the relation of large and small vessel disease in a single-center retrospective observational study.
+METHODS: Intraplaque hemorrhage (IPH) and plaque ulceration were recorded on carotid MRA and total, cortical, and lacunar CBIs and CMBs were recorded on brain MR in 349 patients (698 carotid arteries). Multivariable Poisson regression was performed to relate plaque features to CBIs and CMBs. Within-subject analysis in those with unilateral IPH and ulceration was performed with Poisson regression.
+RESULTS: Both IPH and plaque ulceration were associated with total CBI (prevalence ratios (PR) 3.33, 95% CI: 2.16-5.15 and 1.91, 95% CI: 1.21-3.00, respectively), after adjusting for stenosis, demographic, and vascular risk factors. In subjects with unilateral IPH, PR was 2.83, 95% CI: 1.76-4.55, for CBI in the ipsilateral hemisphere after adjusting for stenosis. Among those with unilateral ulceration, PR was 1.82, 95% CI: 1.18-2.81, for total CBI ipsilateral to ulceration after adjusting for stenosis. No statistically significant association was seen with CMBs.
+CONCLUSION: Both IPH and plaque ulceration are associated with total, cortical, and lacunar type CBIs but not CMBs suggesting that advanced atherosclerosis contributes predominantly to ischemic markers of subclinical vascular injury.
+
+Citation: Baradaran H, et al. Association between high-risk extracranial carotid plaque and covert brain infarctions and cerebral microbleeds. Association between high-risk extracranial carotid plaque and covert brain infarctions and cerebral microbleeds. 2023; 65:287-295. doi: 10.1007/s00234-022-03062-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36278979/

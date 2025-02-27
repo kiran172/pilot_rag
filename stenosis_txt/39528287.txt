@@ -1,0 +1,11 @@
+PMID: 39528287
+Title: [Prenatal diagnosis of a fetus with mosaicism ring chromosome 2].
+
+Abstract: OBJECTIVE: To explore the genetic basis for a fetus with increased risk for Down syndrome and cardiac anomalies discovered by prenatal ultrasonography.
+METHODS: A pregnant woman presented at the Women and Children's Hospital of Ningbo University on August 21, 2023 were selected as the study subject. Clinical data were retrospectively analyzed. Maternal peripheral blood sample was collected for non-invasive prenatal testing (NIPT) based on fetal free DNA. Amniotic fluid sample was collected for G-banded chromosomal karyotyping analysis. Trio-whole exome sequencing (WES) was also carried out on the amniotic fluid sample and peripheral blood samples from the couple. Copy number variation (CNV) identified by the WES was validated by real-time fluorescent quantitative PCR (qPCR). Chromosomal karyotyping was also carried out for the couple. This study has been approved by the Medical Ethics Committee of Women and Children's Hospital of Ningbo University (No. EC2020-048).
+RESULTS: Ultrasound examination at 22+6 gestational weeks had indicated intrauterine growth retardation (IUGR). The fetus was also found to have ventricular septal defect, overriding aorta and pulmonary stenosis. NIPT indicated a low risk for aneuploidy of chromosomes 13, 18 and 21. G-banding analysis revealed that the fetus had a karyotype of 45,XY,-2[5]/46,XY,r(2)(p25q37)[55]. WES has identified a deletion of approximately 1 614.28 kb in the 2p25.3 region, namely seq[hg38]del(2)(p25.3p25.3)chr2: g.10500_1624775del. The same deletion was found in neither parent, suggesting a de novo origin. qPCR results confirmed the expression of target genes in the fetal sample to be significantly reduced, whilst no similar anomaly was found in either parent.
+CONCLUSION: The mosaicism ring chromosome 2 probably underlay the IUGR and cardiovascular malformations in this fetus.
+
+Citation: Zhou Y, et al. [Prenatal diagnosis of a fetus with mosaicism ring chromosome 2]. [Prenatal diagnosis of a fetus with mosaicism ring chromosome 2]. 2024; 41:1356-1362. doi: 10.3760/cma.j.cn511374-20240313-00172
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39528287/

@@ -1,0 +1,11 @@
+PMID: 36288783
+Title: Determinants and prognostic value of in-hospital infection in patients waiting for permanent pacemaker implantation.
+
+Abstract: BACKGROUND: In-hospital delays in permanent cardiac pacemaker (PPM) implantation are common and may result in in-hospital infection among patients waiting for PPM implantation (pre-PPM-HI). This study investigated the predictors and prognostic impact of these events.
+METHODS: We retrospectively evaluated 905 consecutive patients (68.2 ± 16.0 years; 54% males) who underwent PPM implantation. Clinical characteristics, pre-PPM-HI and 30-day mortality were recorded and a risk score for pre-PPM-HI was generated using multivariable logistic regression coefficients.
+RESULTS: Eigthy-nine patients (10% of the sample) developed pre-PPM-HI. Multivariable logistic regression analysis identified urinary catheter use, complete atrioventricular block, implantation of temporary pacemaker and diabetes mellitus as independent predictors of pre-PPM-HI. The generated score (range 0-10.1) played a better role in predicting pre-PPM-HI than individual factors, yielding an area under the curve [95%CI] of 0.754 [0.705-0.803]. Patients with score ≥ 7.5 had 18-fold greater risk of developing pre-PPM-HI than those with score < 2.5. Furthermore, multivariable Cox-regression analysis showed that patients who developed pre-PPM-HI had greater 30-day mortality after PPM implantation (hazard ratio [95%CI] = 2.90 [1.18-7.16], p = 0.021) compared with their counterparts.
+CONCLUSIONS: This study reveals that pre-PPM-HI is an independent predictor of early mortality after PPM implantation. In addition, a clinical score developed from simple clinical variables accurately identified patients at high risk of pre-PPM-HI. In scenarios where delays in PPM implantation are unavoidable, such as reference hospitals with high demand, the use of this tool can potentially help in the hierarchy of patients and in the reduction of this adverse event.
+
+Citation: Barbosa MC, et al. Determinants and prognostic value of in-hospital infection in patients waiting for permanent pacemaker implantation. Determinants and prognostic value of in-hospital infection in patients waiting for permanent pacemaker implantation. 2023; 370:204-208. doi: 10.1016/j.ijcard.2022.10.140
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36288783/

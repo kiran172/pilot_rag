@@ -1,0 +1,11 @@
+PMID: 31312914
+Title: Systematic review of diagnostic accuracy of patient history, clinical findings, and physical tests in the diagnosis of lumbar spinal stenosis.
+
+Abstract: PURPOSE: To update evidence of diagnostic potential for identification of lumbar spinal stenosis (LSS) based on demographic and patient history, clinical findings, and physical tests, and report posttest probabilities associated with test findings.
+METHODS: An electronic search of PubMed, CINAHL and Embase was conducted combining terms related to low back pain, stenosis and diagnostic accuracy. Prospective or retrospective studies investigating diagnostic accuracy of LSS using patient history, clinical findings and/or physical tests were included. The risk of bias and applicability were assessed using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS 2) tool. Diagnostic accuracy including sensitivities (SN), specificities (SP), likelihood ratios (+LR and -LR) and posttest probabilities (+PTP and -PTP) with 95% confidence intervals were summarized.
+RESULTS: Nine studies were included (pooled n = 36,228 participants) investigating 49 different index tests (30 demographic and patient history and 19 clinical findings/physical tests). Of the nine studies included, only two exhibited a low risk of bias and seven exhibited good applicability according to QUADAS 2. The demographic and patient history measures (self-reported history questionnaire, no pain when seated, numbness of perineal region) and the clinical findings/physical tests (two-stage treadmill test, symptoms after a March test and abnormal Romberg test) highly improved positive posttest probability by > 25% to diagnose LSS.
+CONCLUSION: Outside of one study that was able to completely rule out LSS with no functional neurological changes none of the stand-alone findings were strong enough to rule in or rule out LSS. These slides can be retrieved under Electronic Supplementary Material.
+
+Citation: Cook CJ, et al. Systematic review of diagnostic accuracy of patient history, clinical findings, and physical tests in the diagnosis of lumbar spinal stenosis. Systematic review of diagnostic accuracy of patient history, clinical findings, and physical tests in the diagnosis of lumbar spinal stenosis. 2020; 29:93-112. doi: 10.1007/s00586-019-06048-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31312914/

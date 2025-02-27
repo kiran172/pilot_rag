@@ -1,0 +1,12 @@
+PMID: 33844160
+Title: Circulating miR-342-5p serves as a diagnostic biomarker in patients with carotid artery stenosis and predicts the occurrence of the cerebral ischemic event.
+
+Abstract: BACKGROUND: Carotid artery stenosis (CAS) is an important risk factor for cerebral ischemia events (CIE). Previous studies have shown that microRNAs (miRNAs) are involved in the occurrence and development of CAS.
+AIMS: The purpose of this study was to reveal the clinical diagnostic value of miR-342-5p for asymptomatic CAS (ACAS) and to evaluate its predictive value for the occurrence of CIE in patients.
+METHODS: A total of 92 ACAS patients and 86 healthy controls were enrolled as subjects. The expression level of serum miR-342-5p was detected by qRT-PCR. The receiver operating characteristic (ROC) curve was used to detect the diagnostic value of miR-342-5p in ACAS. Kaplan-Meier survival and Cox regression analysis assessed the predictive value of miR-342-5p for the occurrence of CIE in ACAS patients.
+RESULTS: The level of serum miR-342-5p in ACAS patients was significantly higher than that in healthy controls (P < 0.05). ROC curve showed the high diagnostic value of serum miR-342-5p, which could distinguish ACAS patients from healthy controls. Multivariate Cox regression analysis confirmed that miR-342-5p was an independent predictor (HR = 5.512, 95%CI = 1.370-22.176, P = 0.016). What is more, Kaplan-Meier analysis confirmed that patients with high miR-342-5p expression develop more CIE (log-rank, P = 0.020).
+CONCLUSIONS: miR-342-5p was significantly overexpressed in ACAS. And the upregulation of serum miR-342-5p is a valuable diagnostic biomarker and can predict the occurrence of CIE.
+
+Citation: Zhou A, et al. Circulating miR-342-5p serves as a diagnostic biomarker in patients with carotid artery stenosis and predicts the occurrence of the cerebral ischemic event. Circulating miR-342-5p serves as a diagnostic biomarker in patients with carotid artery stenosis and predicts the occurrence of the cerebral ischemic event. 2022; 191:713-718. doi: 10.1007/s11845-021-02623-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33844160/

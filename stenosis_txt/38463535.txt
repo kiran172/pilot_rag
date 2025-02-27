@@ -1,0 +1,8 @@
+PMID: 38463535
+Title: Detecting Heart Disease from Multi-View Ultrasound Images via Supervised Attention Multiple Instance Learning.
+
+Abstract: Aortic stenosis (AS) is a degenerative valve condition that causes substantial morbidity and mortality. This condition is under-diagnosed and under-treated. In clinical practice, AS is diagnosed with expert review of transthoracic echocardiography, which produces dozens of ultrasound images of the heart. Only some of these views show the aortic valve. To automate screening for AS, deep networks must learn to mimic a human expert's ability to identify views of the aortic valve then aggregate across these relevant images to produce a study-level diagnosis. We find previous approaches to AS detection yield insufficient accuracy due to relying on inflexible averages across images. We further find that off-the-shelf attention-based multiple instance learning (MIL) performs poorly. We contribute a new end-to-end MIL approach with two key methodological innovations. First, a supervised attention technique guides the learned attention mechanism to favor relevant views. Second, a novel self-supervised pretraining strategy applies contrastive learning on the representation of the whole study instead of individual images as commonly done in prior literature. Experiments on an open-access dataset and a temporally-external heldout set show that our approach yields higher accuracy while reducing model size.
+
+Citation: Huang Z, et al. Detecting Heart Disease from Multi-View Ultrasound Images via Supervised Attention Multiple Instance Learning. Detecting Heart Disease from Multi-View Ultrasound Images via Supervised Attention Multiple Instance Learning. 2023; 219:285-307.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38463535/

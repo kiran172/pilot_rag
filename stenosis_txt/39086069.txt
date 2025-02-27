@@ -1,0 +1,11 @@
+PMID: 39086069
+Title: Prognostic Value of Bone Scintigraphy in Cardiac Amyloidosis: A Systematic Review and Meta-analysis.
+
+Abstract: OBJECTIVES: The prognostic value of bone scintigraphy in cardiac amyloidosis (CA) remains undetermined. We conducted a systematic review and meta-analysis on the association of cardiac uptake on bone scintigraphy with mortality in known or suspected CA.
+PATIENTS AND METHODS: PubMed, Embase, and Cochrane library databases were searched up to November 2023 for studies that evaluated cardiac uptake on bone scintigraphy as a prognostic factor in the workup of CA. Hazards ratios (HRs) of high cardiac uptake for outcomes of all-cause or cardiac death were pooled and analyzed with stratifications according to the study populations, analytical methodologies, and radiotracers.
+RESULTS: Fourteen studies (3325 patients) were finally included. In studies regarding known or suspected CA, visual grades were not prognostically significant, regardless of the threshold used, with pooled HRs of 2.25 (95% confidence interval [CI], 0.93-5.48), 1.55 (95% CI, 0.89-2.68), and 1.53 (95% CI, 0.95-2.47) for visual grades ≥1, ≥2, and ≥3, respectively. By contrast, high cardiac uptake on semiquantitative measurements (heart-to-contralateral lung ratio, n = 6; heart-to-whole-body ratio, n = 1) was associated with increased mortality (pooled HR = 2.27 [95% CI, 1.87-2.76] for all semiquantitative measurements; 2.26 [1.86-2.74] for heart-to-contralateral lung ratio only). No difference in prognostic significance was found across 3 different 99mTc-radiotracers (P = 0.619). However, high cardiac uptake was not predictive of mortality in aortic stenosis-related CA (pooled HR = 1.13 [95% CI, 0.96-1.32]).
+CONCLUSIONS: High semiquantitative cardiac uptake on bone scintigraphy is associated with an increased risk of mortality in patients with known or suspected CA.
+
+Citation: Cho SG and Han S. Prognostic Value of Bone Scintigraphy in Cardiac Amyloidosis: A Systematic Review and Meta-analysis. Prognostic Value of Bone Scintigraphy in Cardiac Amyloidosis: A Systematic Review and Meta-analysis. 2024; (unknown volume):(unknown pages). doi: 10.1097/RLU.0000000000005376
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39086069/

@@ -1,0 +1,12 @@
+PMID: 35196988
+Title: Clinical outcomes of patients with hepatic insufficiency undergoing transcatheter aortic valve implantation: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) is currently a common treatment in high-risk aortic stenosis patients, but the impact of hepatic insufficiency on prognosis after TAVI is debatable and whether TAVI is superior to surgical aortic valve replacement (SAVR) in patients with hepatic insufficiency is uncertain.
+OBJECTIVE: To investigate the effect of abnormal liver function on the outcome and safety after TAVI and whether TAVI is superior to SAVR in patients with hepatic insufficiency.
+METHODS: PubMed, Embase, the Cochrane Library and Web of Science were systematically searched from inception up to 26 November 2021. Studies were eligible if mortality and complications after TAVI in patients with and without hepatic insufficiency, or mortality and complications for TAVI versus SAVR in patients with hepatic insufficiency were reported. The Newcastle-Ottawa scale (NOS) was used to evaluate the quality of each study. This meta-analysis was registered with PROSPERO (CRD42021253423) and was carried out by using RevMan 5.3 and Stata 14.0.
+RESULTS: This meta-analysis of 21 studies assessed a total of 222,694 patients. Hepatic insufficiency was associated with higher short-term (in-hospital or 30-day) mortality [OR = 1.62, 95% CI (1.18 to 2.21), P = 0.003] and 1-2 years mortality [HR = 1.64, 95% CI (1.42 to 1.89), P < 0.00001] after TAVI. Between TAVI and SAVR in patients with hepatic insufficiency, there was a statistically significant difference in in-hospital mortality [OR = 0.46, 95% CI (0.27 to 0.81), P = 0.007], the occurrence rate of blood transfusions [OR = 0.29, 95% CI (0.22 to 0.38), P < 0.00001] and the occurrence rate of acute kidney injury [OR = 0.55, 95% CI (0.33 to 0.91), P = 0.02].
+CONCLUSIONS: TAVI patients with hepatic insufficiency may have negative impact both on short-term (in-hospital or 30-day) and 1-2-years mortality. For patients with hepatic insufficiency, TAVI could be a better option than SAVR.
+
+Citation: Jiang W, et al. Clinical outcomes of patients with hepatic insufficiency undergoing transcatheter aortic valve implantation: a systematic review and meta-analysis. Clinical outcomes of patients with hepatic insufficiency undergoing transcatheter aortic valve implantation: a systematic review and meta-analysis. 2022; 22:67. doi: 10.1186/s12872-022-02510-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35196988/

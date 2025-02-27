@@ -1,0 +1,10 @@
+PMID: 33195166
+Title: Coronary Angiography-Derived Diastolic Pressure Ratio.
+
+Abstract: AIMS: Based on the aortic pressure waveform, a specially designed computational fluid dynamic (CFD) method was proposed to determine coronary angiography-derived diastolic pressure ratio (caDPR) without using invasive pressure wire. The aim of the study is to retrospectively assess diagnostic performance of the caDPR in the catheterization laboratory, based on a previous multicenter trial for online assessment of coronary angiography-derived FFR (caFFR).
+METHODS AND RESULTS: Patients with diagnosis of stable or unstable angina pectoris were enrolled in six centers. Wire-derived FFR was measured in coronary arteries with 30-90% diameter stenosis. Offline caDPR was assessed in blinded fashion against wire-derived FFR at an independent core laboratory. A total of 330 patients who met the inclusion/exclusion criteria were enrolled from June 26 to December 18, 2018. Offline computed caDPR and wire-derived FFR were compared in 328 interrogated vessels. The caDPR with a cutoff value of 0.89 shows diagnostic accuracy of 87.7%, sensitivity of 89.5%, specificity of 86.8%, and AUC of 0.940 against the wire-derived FFR with a cutoff value of 0.80.
+CONCLUSIONS: Using wired-based FFR as the standard reference, there is good diagnostic performance of the novel-CFD-design caDPR. Hence, caDPR could enhance the hemodynamic assessment of coronary lesions.
+
+Citation: Gong Y, et al. Coronary Angiography-Derived Diastolic Pressure Ratio. Coronary Angiography-Derived Diastolic Pressure Ratio. 2020; 8:596401. doi: 10.3389/fbioe.2020.596401
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33195166/

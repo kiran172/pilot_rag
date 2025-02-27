@@ -1,0 +1,11 @@
+PMID: 33181157
+Title: Outcomes of 16,436 patients requiring isolated aortic valve surgery: A statewide cohort study.
+
+Abstract: BACKGROUND: Aortic valve surgery (AVS) is the gold standard treatment for symptomatic aortic valve (AV) disease patients. We report the temporal trends in the incidence of patients requiring isolated AVS in an unselected statewide population and their mortality outcomes over 17-years.
+METHODS: Patients were identified from the New South Wales, Australia, Admitted-Patient-Data-Collection registry between 1-July-2001 and 31-December-2018. Annual case-volumes and survival outcomes, adjusted for age, sex, referral source, endocarditis, concomitant coronary-artery-bypass-grafting, comorbidities including atrial fibrillation, hypertension and Charlson comorbidity index, were compared across calendar years.
+RESULTS: The study cohort comprised 16436 patients who underwent isolated AVS (mean age: 72.2 ± 11.3y; 67.5% males). Annual case-volume increased from 768 to 1048 cases between 2002 and 2017 (r2 = 0.82; p &lt; 0.0001). Surgical AV replacement (SAVR) with mechanical valves declined from 271 to 104 (r2 = 0.87; p &lt; 0.0001) between 2002 and 2017. In contrast, bioprosthetic SAVR increased from 342 to 729 cases (r2 = 0.93; p &lt; 0.0001). The 30-day, 6-month, and 1-year mortality rates improved progressively from 4.39%, 7.72%, and 9.19% in 2002, to 1.89%, 3.49%, and 4.68% by 2017. The adjusted odds ratio for 30-day mortality and hazard ratio for 1-year mortality were 0.33 (95% confidence interval [CI] 0.16-0.69, p &lt; 0.01) and 0.09 (95% CI 0.07-0.12, p &lt; 0.01), respectively. Similar improvements in outcomes were observed after implantation of mechanical or bioprosthetic aortic valves. Heart failure and sepsis were the most common cardiovascular-related and noncardiovascular-related causes death.
+CONCLUSION: The volume of AVS has increased progressively over time and has been associated with increased use of bioprosthetic valves and markedly improved 30-day and 1-year survival.
+
+Citation: Cheng YY, et al. Outcomes of 16,436 patients requiring isolated aortic valve surgery: A statewide cohort study. Outcomes of 16,436 patients requiring isolated aortic valve surgery: A statewide cohort study. 2021; 326:55-61. doi: 10.1016/j.ijcard.2020.11.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33181157/

@@ -1,0 +1,12 @@
+PMID: 32857915
+Title: Short-term outcomes of transcatheter aortic valve replacement for pure native aortic regurgitation in the United States.
+
+Abstract: OBJECTIVE: We aimed to compare short-term outcomes between transcatheter aortic valve replacement (TAVR) for pure aortic regurgitation (AR) and TAVR for aortic stenosis (AS).
+BACKGROUND: In patients with severe pure AR for whom surgical valve replacement is infeasible, TAVR is sometimes used off-label.
+METHODS: Using the Nationwide Readmissions Database 2016-2017, we retrospectively identified patients without prior valve surgery who underwent endovascular TAVR. We compared in-hospital and 30-day outcomes according to the type of aortic valve disease.
+RESULTS: A total of 81,542 eligible patients were divided into the pure AR (n = 1,222, 1.50%), pure AS (n = 72,690, 89.1%), and AS + AR (n = 7,630, 9.36%) groups. In unadjusted analyses, the pure AR group, compared with the pure AS and AS + AR groups, showed a higher incidence of acute kidney injury (16.8% vs. 9.8% vs. 12.1%, respectively; p < .001) and need of surgical bailout (1.4% vs. 0.4% vs. 0.6%; p < .01). The pure AR group also showed higher in-hospital mortality than the pure AS group (2.4% vs. 1.4%; p = .005). After multivariable adjustment, TAVR for pure AR was significantly associated with a higher risk of acute kidney injury (odds ratio [OR] = 1.64, 95% confidence interval [CI] = 1.33-2.02; p < .001), cardiac tamponade (OR = 1.98, 95% CI = 1.00-3.92; p = .0498), and prolonged hospital stay (OR = 1.59, 95% CI = 1.29-1.95; p < .001) compared with TAVR for pure AS, whereas it was not significantly associated with in-hospital mortality (OR = 1.55, 95% CI = 0.99-2.45; p = .058) and other outcomes.
+CONCLUSIONS: TAVR may be a reasonable treatment option for selected patients with pure AR with regard to short-term outcomes. However, additional techniques or devices may be necessary to reduce periprocedural risk.
+
+Citation: Isogai T, et al. Short-term outcomes of transcatheter aortic valve replacement for pure native aortic regurgitation in the United States. Short-term outcomes of transcatheter aortic valve replacement for pure native aortic regurgitation in the United States. 2021; 97:477-485. doi: 10.1002/ccd.29189
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32857915/

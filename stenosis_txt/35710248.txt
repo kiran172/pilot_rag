@@ -1,0 +1,14 @@
+PMID: 35710248
+Title: Aortic stenosis post-COVID-19: a mathematical model on waiting lists and mortality.
+
+Abstract: OBJECTIVES: To provide estimates for how different treatment pathways for the management of severe aortic stenosis (AS) may affect National Health Service (NHS) England waiting list duration and associated mortality.
+DESIGN: We constructed a mathematical model of the excess waiting list and found the closed-form analytic solution to that model. From published data, we calculated estimates for how the strategies listed under Interventions may affect the time to clear the backlog of patients waiting for treatment and the associated waiting list mortality.
+SETTING: The NHS in England.
+PARTICIPANTS: Estimated patients with AS in England.
+INTERVENTIONS: (1) Increasing the capacity for the treatment of severe AS, (2) converting proportions of cases from surgery to transcatheter aortic valve implantation and (3) a combination of these two.
+RESULTS: In a capacitated system, clearing the backlog by returning to pre-COVID-19 capacity is not possible. A conversion rate of 50% would clear the backlog within 666 (533-848) days with 1419 (597-2189) deaths while waiting during this time. A 20% capacity increase would require 535 (434-666) days, with an associated mortality of 1172 (466-1859). A combination of converting 40% cases and increasing capacity by 20% would clear the backlog within a year (343 (281-410) days) with 784 (292-1324) deaths while awaiting treatment.
+CONCLUSION: A strategy change to the management of severe AS is required to reduce the NHS backlog and waiting list deaths during the post-COVID-19 'recovery' period. However, plausible adaptations will still incur a substantial wait to treatment and many hundreds dying while waiting.
+
+Citation: Stickels CP, et al. Aortic stenosis post-COVID-19: a mathematical model on waiting lists and mortality. Aortic stenosis post-COVID-19: a mathematical model on waiting lists and mortality. 2022; 12:e059309. doi: 10.1136/bmjopen-2021-059309
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35710248/

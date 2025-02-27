@@ -1,0 +1,11 @@
+PMID: 33863658
+Title: Periprocedural Myocardial Injury and Coronary Artery Disease in Patients Undergoing Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND/PURPOSE: PPMI and CAD are common in patients undergoing TAVR. Despite several studies evaluating their interaction as well as the influence these factors play on outcomes, there remains no consensus. We sought to evaluate the impact of peri-procedural myocardial injury (PPMI) and incidental coronary artery disease (iCAD) on outcomes in patients undergoing transcatheter aortic valve replacement (TAVR).
+METHODS/MATERIALS: We analyzed prospective data from 400 patients undergoing TAVI for severe aortic stenosis between 2008 and 2018 to determine rates of PPMI (troponin 15× the upper limit of normal) and iCAD (≥50% stenosis) and their impact on long-term mortality.
+RESULTS: Mean age was 83 ± 6 years; 45% were female. PPMI was observed in 65% (254/400). On multivariable logistic regression analysis, higher left ventricular ejection fraction (LVEF) (OR 1.04, 95%CI 1.01-1.06, p = 0.002), and first generation valves (OR 3.00, 95%CI 1.75-5.15, p < 0.001) were independently associated with PPMI, while oral anticoagulation was inversely associated (OR 0.48, 95%CI 0.28-0.82, p = 0.007). PPMI was not associated with 30-day, 1-year or long-term mortality. After excluding previous bypass grafting, iCAD was observed in 40% (129/324). In patients with iCAD, PCI was associated with reduced long-term mortality compared to medical management in adjusted analysis (OR 0.37, 95%CI 0.16-0.88, p = 0.03).
+CONCLUSIONS: PPMI and iCAD in patients undergoing TAVR are common. PPMI is associated with older generation valves and higher LVEF rather than traditional cardiovascular risk factors. In our study, PPMI was not associated with long-term mortality. However, in patients with iCAD, PCI was associated with reduced long-term mortality compared to medical management.
+
+Citation: Dagan M, et al. Periprocedural Myocardial Injury and Coronary Artery Disease in Patients Undergoing Transcatheter Aortic Valve Replacement. Periprocedural Myocardial Injury and Coronary Artery Disease in Patients Undergoing Transcatheter Aortic Valve Replacement. 2022; 35:8-15. doi: 10.1016/j.carrev.2021.04.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33863658/

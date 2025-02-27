@@ -1,0 +1,11 @@
+PMID: 32895856
+Title: Development, diagnostic performance, and interobserver agreement of a 18F-flurpiridaz PET automated perfusion quantitation system.
+
+Abstract: BACKGROUND: Computerized methodologies standardize the myocardial perfusion imaging (MPI) interpretation process.
+METHODS: To develop an automated relative perfusion quantitation approach for 18F-flurpiridaz, PET MPI studies from all phase III trial participants of 18F-flurpiridaz were divided into 3 groups. Count distributions were obtained in N = 40 normal patients undergoing pharmacological or exercise stress. Then, N = 90 additional studies were selected in a derivation group. Following receiver operating characteristic curve analysis, various standard deviations below the mean normal were used as cutoffs for significant CAD, and interobserver variability determined. Finally, diagnostic performance was compared between blinded visual readers and blinded derivations of automated relative quantitation in the remaining N = 548 validation patients.
+RESULTS: Both approaches yielded comparable accuracies for the detection of global CAD, reaching 71% and 72% by visual reads, and 72% and 68% by automated relative quantitation, when using CAD ≥ 70% or ≥ 50% stenosis for significance, respectively. Similar results were observed when analyzing individual coronary territories. In both pharmacological and exercise stress, automated relative quantitation demonstrated significantly more interobserver agreement than visual reads.
+CONCLUSIONS: Our automated method of 18F-flurpiridaz relative perfusion analysis provides a quantitative, objective, and highly reproducible assessment of PET MPI in normal and CAD subjects undergoing either pharmacological or exercise stress.
+
+Citation: Packard RRS, et al. Development, diagnostic performance, and interobserver agreement of a 18F-flurpiridaz PET automated perfusion quantitation system. Development, diagnostic performance, and interobserver agreement of a 18F-flurpiridaz PET automated perfusion quantitation system. 2022; 29:698-708. doi: 10.1007/s12350-020-02335-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32895856/

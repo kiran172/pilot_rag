@@ -1,0 +1,12 @@
+PMID: 31974210
+Title: Percutaneous mitral commissurotomy versus surgical commissurotomy for rheumatic mitral stenosis: a systematic review and meta-analysis of randomised controlled trials.
+
+Abstract: AIM: Patients with severe mitral stenosis (MS) and their clinicians typically choose percutaneous transvenous mitral commissurotomy (PTMC) over surgical commissurotomy (SC). However, the durability of PTMC relative to SC is uncertain. We compared the efficacy, safety and durability of PTMC with SC for the treatment of MS.
+METHODS: We searched EMBASE, MEDLINE and WHO ICTRP registers for randomised controlled trials (RCTs) comparing PTMC, and open and/or closed mitral commissurotomy. The principal outcomes were rate of re-intervention and symptomatic improvement as inferred from the surrogate measures of immediate postprocedural mitral valve area (MVA), MVA at ≥6 month follow-up, incidence of mitral regurgitation (MR) and restenosis. We calculated weighted mean differences (WMD) for continuous outcomes, relative risks (RR) for binary outcomes and pooled outcomes using random-effects models and assessed the quality of evidence using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach.
+RESULTS: Seven RCTs with 553 patients proved eligible. Pooled estimates showed no convincing difference in the risk of restenosis or re-intervention (15/100 fewer with PTMC, 95% CI (-20 to +8); quality of evidence: moderate) or in symptoms as inferred from immediate MVA (WMD 0.15, 95% CI (-0.18 to 0.48): very low), from the incidence of postprocedural severe MR (3/100 more with PTMC, 95% CI (-1 to +10): moderate) or from MVA at 30 months.
+CONCLUSION: Until data demonstrating convincing superiority of SC over PTMC become available, our results support the current practice of recommending PTMC to young patients with MS and favourable valve morphology, as it is associated with lower peri-procedural morbidity.
+PROSPERO REGISTRATION NUMBER: PROSPERO 2017 (CRD42017079512).
+
+Citation: Singh AD, et al. Percutaneous mitral commissurotomy versus surgical commissurotomy for rheumatic mitral stenosis: a systematic review and meta-analysis of randomised controlled trials. Percutaneous mitral commissurotomy versus surgical commissurotomy for rheumatic mitral stenosis: a systematic review and meta-analysis of randomised controlled trials. 2020; 106:1094-1101. doi: 10.1136/heartjnl-2019-315906
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31974210/

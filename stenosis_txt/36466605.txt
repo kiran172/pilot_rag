@@ -1,0 +1,12 @@
+PMID: 36466605
+Title: The moderating effect of cognitive reserve on cognitive function in patients with Acute Ischemic Stroke.
+
+Abstract: BACKGROUND: Recovery of cognitive function after stroke has inter-individual variability. The theory of cognitive reserve offers a potential explanation of the variability in cognitive function after stroke.
+OBJECTIVE: This study aimed to investigate the moderating effect of cognitive reserve on the relationship between the stroke severity and cognitive function after stroke.
+MATERIALS AND METHODS: A total of 220 patients with Acute Ischemic Stroke (AIS) were recruited in 2021 from two stroke centers in Nanjing, China. The National Institutes of Health Stroke Scale (NIHSS) was used to assess stroke severity upon admission. Cognitive Reserve Index questionnaire (CRIq) and validated Montreal Cognitive Assessment, Changsha Version (MoCA-CS) were used to assess cognitive reserve and cognitive function within 7 days after stroke onset, respectively. A series of multivariate linear regression models were applied to test the moderating effect of cognitive reserve.
+RESULTS: Patients with a higher level of cognitive reserve had better cognitive function after stroke compared with those with a lower level of cognitive reserve (β = 0.074, p = 0.003). The interaction of NIHSS and cognitive reserve was statistically significant (β = -0.010, p = 0.045) after adjusting for some key covariates [e.g., age, marital status, Oxfordshire Community Stroke Project (OCSP) classification, Trial of ORG 10172 in Acute Stroke Treatment (TOAST) classification, cerebral vascular stenosis, diabetes and atrial fibrillation].
+CONCLUSION: Cognitive reserve may help to buffer the effect of stroke-related pathology on cognitive decline in Chinese acute stroke patients. Enhancing cognitive reserve in stroke patients may be one of the potential strategies for preventing vascular dementia.
+
+Citation: Li F, et al. The moderating effect of cognitive reserve on cognitive function in patients with Acute Ischemic Stroke. The moderating effect of cognitive reserve on cognitive function in patients with Acute Ischemic Stroke. 2022; 14:1011510. doi: 10.3389/fnagi.2022.1011510
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36466605/

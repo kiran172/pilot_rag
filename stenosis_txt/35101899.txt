@@ -1,0 +1,12 @@
+PMID: 35101899
+Title: Drivers and outcomes of variation in surgical versus transcatheter aortic valve replacement in Ontario, Canada: a population-based study.
+
+Abstract: OBJECTIVES: To understand the patient and hospital level drivers of the variation in surgical versus trascatheter aortic valve replacement (SAVR vs TAVR) for patients with aortic stenosis (AS) and to explore whether this variation translates into differences in clinical outcomes.
+BACKGROUND: Adoption of TAVR has grown exponentially worldwide. Notwithstanding, a wide variation in TAVR rates has been seen within and between countries and in some jurisdictions AS is still primarily being managed by SAVR.
+METHODS: We conducted a population-based retrospective cohort study in Ontario, Canada, including individuals who received TAVR or SAVR between 2016 and 2020. We developed iterative hierarchical logistic regression models for the likelihood of receiving TAVR instead of SAVR examining sequentially patient characteristics, hospital factors and year of procedure, calculating the median ORs and variance partition coefficients for each. Using Cox proportional hazards models, we examined the relationship between TAVR/SAVR ratio on all-cause mortality and readmissions.
+RESULTS: Annual procedures rates per million population increased from 171 to 201, mainly driven by the expansion of TAVR. TAVR/SAVR ratios differed substantially between hospitals, from 0.21 to 3.27. Neither patient nor hospital factors explained the between-hospital variation in AS treatment. The TAVR/SAVR ratio was significantly associated with clinical outcomes with high ratio hospitals having lower mortality and rehospitalisations.
+CONCLUSIONS: Despite the expansion of TAVR, dramatic variation exists that is not explained by patient or hospital factors. This variation was associated with differences in clinical outcomes, suggesting that further work is needed in understanding and addressing inequity of access.
+
+Citation: Miranda RN, et al. Drivers and outcomes of variation in surgical versus transcatheter aortic valve replacement in Ontario, Canada: a population-based study. Drivers and outcomes of variation in surgical versus transcatheter aortic valve replacement in Ontario, Canada: a population-based study. 2022; 9:(unknown pages). doi: 10.1136/openhrt-2021-001881
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35101899/

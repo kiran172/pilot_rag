@@ -1,0 +1,11 @@
+PMID: 37882830
+Title: Lower preoperative Hounsfield unit values as a risk factor for poor 5-year clinical outcomes after lumbar spine surgery.
+
+Abstract: OBJECTIVE: Hounsfield Unit (HU) value has been associated with future osteoporotic fractures and postoperative complications. However, no studies on the impact of low HU values on mid-term clinical outcomes following lumbar spine surgery have been reported. We aimed to evaluate the usefulness of preoperative HU values for 5-year clinical outcomes following lumbar spine surgery.
+METHODS: We enrolled 200 patients who underwent lumbar surgery (≤ 3-disc levels) for lumbar spinal stenosis. HU values were assessed using preoperative lumbar computed tomography as part of routine preoperative planning for lumbar surgery. Patients were divided into two groups based on the cutoff value of the HU values obtained from the receiver operating characteristic curve for the incidence of vertebral fractures within five years postoperatively. Clinical scores preoperatively and 1, 2, and 5 years postoperatively, including Japanese Orthopedic Association Back Pain Evaluation Questionnaire (JOABPEQ) and Short Form-36 (SF-36), were compared using a mixed-effects model.
+RESULTS: Comparative analysis indicated that all domains of JOABPEQ, except for lumbar function, and the physical component summary of the SF-36 were significantly worse in the low HU group than in the high HU group. Using multiple regression analysis, low HU values were significantly correlated with worse 5-year postoperative scores in all domains of JOABPEQ and SF-36.
+CONCLUSION: Low preoperative HU values are a risk factor for poor 5-year clinical outcomes after lumbar spine surgery. HU values are not only a valuable tool for analyzing bone mineral density but also may be a valuable poor prognostic factor of postoperative clinical outcomes.
+
+Citation: Taniwaki H, et al. Lower preoperative Hounsfield unit values as a risk factor for poor 5-year clinical outcomes after lumbar spine surgery. Lower preoperative Hounsfield unit values as a risk factor for poor 5-year clinical outcomes after lumbar spine surgery. 2024; 33:11-18. doi: 10.1007/s00586-023-07995-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37882830/

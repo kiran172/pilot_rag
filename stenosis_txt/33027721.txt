@@ -1,0 +1,11 @@
+PMID: 33027721
+Title: The phosphorylation of CHK1 at Ser345 regulates the phenotypic switching of vascular smooth muscle cells both in vitro and in vivo.
+
+Abstract: BACKGROUND AND AIMS: DNA damage and repair have been shown to be associated with carotid artery restenosis and atherosclerosis. The proliferation and migration of vascular smooth muscle cells (VSMCs) is the main cause of artery stenosis. This study aims to define the relationship between DNA damage and VSMCs proliferation.
+METHODS: A rat carotid artery injury model was established, and human and rat VSMCs cultured in vitro. H<sub>2</sub>O<sub>2</sub> was used to induce DNA damage in vitro. The selected CHK1 inhibitor, LY2603618, was used to inhibit CHK1 phosphorylation both in vivo and in vitro. γH2AX, αSMA and phosphorylated CHK1 were detected both in rat carotid artery and cultured VSMCs from different groups. Hyperplasia ratio of rat carotid artery intimal was measured.
+RESULTS: DNA double-strand breaks occur in the rat carotid artery after injury. DNA damage induces CHK1 phosphorylation and down-regulates αSMA expression in VSMCs both in vitro and in vivo. The inhibition of CHK1 phosphorylation rescues αSMA expression in VSMCs both in vitro and in vivo, and rat carotid intimal hyperplasia after injury was suppressed.
+CONCLUSIONS: Our data demonstrated that phosphorylation of CHK1 under DNA damage stress modulates VSMCs phenotypic switching. CHK1 inhibition may be a potential therapeutic strategy for intima hyperplasia treatment.
+
+Citation: Xin C, et al. The phosphorylation of CHK1 at Ser345 regulates the phenotypic switching of vascular smooth muscle cells both in vitro and in vivo. The phosphorylation of CHK1 at Ser345 regulates the phenotypic switching of vascular smooth muscle cells both in vitro and in vivo. 2020; 313:50-59. doi: 10.1016/j.atherosclerosis.2020.09.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33027721/

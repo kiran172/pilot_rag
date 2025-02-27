@@ -1,0 +1,11 @@
+PMID: 36577120
+Title: Diabetes, Atherosclerosis, and Stenosis by AI.
+
+Abstract: OBJECTIVE: This study evaluates the relationship between atherosclerotic plaque characteristics (APCs) and angiographic stenosis severity in patients with and without diabetes. Whether APCs differ based on lesion severity and diabetes status is unknown.
+RESEARCH DESIGN AND METHODS: We retrospectively evaluated 303 subjects from the Computed TomogRaphic Evaluation of Atherosclerotic Determinants of Myocardial IsChEmia (CREDENCE) trial referred for invasive coronary angiography with coronary computed tomographic angiography (CCTA) and classified lesions as obstructive (≥50% stenosed) or nonobstructive using blinded core laboratory analysis of quantitative coronary angiography. CCTA quantified APCs, including plaque volume (PV), calcified plaque (CP), noncalcified plaque (NCP), low-density NCP (LD-NCP), lesion length, positive remodeling (PR), high-risk plaque (HRP), and percentage of atheroma volume (PAV; PV normalized for vessel volume). The relationship between APCs, stenosis severity, and diabetes status was assessed.
+RESULTS: Among the 303 patients, 95 (31.4%) had diabetes. There were 117 lesions in the cohort with diabetes, 58.1% of which were obstructive. Patients with diabetes had greater plaque burden (P = 0.004). Patients with diabetes and nonobstructive disease had greater PV (P = 0.02), PAV (P = 0.02), NCP (P = 0.03), PAV NCP (P = 0.02), diseased vessels (P = 0.03), and maximum stenosis (P = 0.02) than patients without diabetes with nonobstructive disease. APCs were similar between patients with diabetes with nonobstructive disease and patients without diabetes with obstructive disease. Diabetes status did not affect HRP or PR. Patients with diabetes had similar APCs in obstructive and nonobstructive lesions.
+CONCLUSIONS: Patients with diabetes and nonobstructive stenosis had an association to similar APCs as patients without diabetes who had obstructive stenosis. Among patients with nonobstructive disease, patients with diabetes had more total PV and NCP.
+
+Citation: Jonas RA, et al. Diabetes, Atherosclerosis, and Stenosis by AI. Diabetes, Atherosclerosis, and Stenosis by AI. 2023; 46:416-424. doi: 10.2337/dc21-1663
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36577120/

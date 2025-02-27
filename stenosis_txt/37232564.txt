@@ -1,0 +1,11 @@
+PMID: 37232564
+Title: The Association Between Taxane Use and Lacrimal Disorders.
+
+Abstract: PURPOSE: The current study seeks to investigate the association between lacrimal disorders and the use of docetaxel and paclitaxel.
+METHODS: A disproportionality analysis was conducted using the United States FDA Adverse Event Reporting System (FAERS). All adverse event reports containing the term docetaxel or paclitaxel were selected. Lacrimal adverse events were identified using the lacrimal disorders Standardized MedDRA Query (SMQ), which includes disorders that affect lacrimal gland and drainage system including blockage of nasolacrimal duct, occlusion/stenosis of punctum, lacrimal gland neoplasms, and inflammations and infections.
+RESULTS: The proportionate reporting ratio (PRR) comparing lacrimal events among docetaxel to paclitaxel users was 2.47 (95% CI, 2.03-3.02). With respect to specific lacrimal events, dacryostenosis (PRR 19.54 [95% CI, 7.19-53.13]), increased lacrimation (PRR 3.2 [95% CI, 2.42-4.23]), lacrimation disorder (p = 0.02), and xeropthalmia reports (p &gt; 0.001) were significantly more common.
+CONCLUSIONS: The growing body of epidemiologic, clinical, and pathophysiologic research supports the case that docetaxel leads to adverse lacrimal events in certain patients and should be taken into consideration when oncologists consider docetaxel vs. paclitaxel.
+
+Citation: McGwin G, et al. The Association Between Taxane Use and Lacrimal Disorders. The Association Between Taxane Use and Lacrimal Disorders. 2023; 48:873-877. doi: 10.1080/02713683.2023.2219041
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37232564/

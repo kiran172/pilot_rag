@@ -1,0 +1,10 @@
+PMID: 39496393
+Title: Diagnostic Accuracy and Prognostic Value of Relative Apical Sparing in Cardiac Amyloidosis　- Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Although the relative apical sparing (RAPS) pattern of left ventricular (LV) longitudinal strain is a hallmark of cardiac amyloidosis, recent studies have raised concerns about its accuracy. The aim of this systematic review was to investigate diagnostic test accuracy (DTA) and prognostic impact of RAPS in cardiac amyloidosis.
+METHODS AND RESULTS: We searched PubMed, Embase, and Scopus for manuscripts that could potentially be used in the DTA arm and prognosis arm. Thirty-seven studies were used for DTA analysis. The pooled sensitivity, specificity, and diagnostic odds ratio were 61% (95% confidence interval [CI] 54-68%), 83% (95% CI 80-86%), and 8.9 (95% CI 6.1-13.1), respectively. These values did not differ regardless of the presence of aortic stenosis, but the diagnostic odds ratio differed significantly among analytical software packages. For the prognosis arm, 6 studies were dichotomously assessed for RAPS, and 5 were assessed quantitatively. The pooled proportion of RAPS was 49% and the pooled estimate of the RAPS ratio was 1.40. Although RAPS was associated with outcome (hazard ratio [HR] 1.87; 95% CI 1.15-3.04; P=0.011), its significance disappeared after trim and fill analysis (HR 1.42; 95% CI 0.85-2.38; P=0.184).
+CONCLUSIONS: RAPS has a modest DTA with a significant vendor dependency and does not provide robust prognostic information.
+
+Citation: Lee CY, et al. Diagnostic Accuracy and Prognostic Value of Relative Apical Sparing in Cardiac Amyloidosis　- Systematic Review and Meta-Analysis. Diagnostic Accuracy and Prognostic Value of Relative Apical Sparing in Cardiac Amyloidosis　- Systematic Review and Meta-Analysis. 2024; (unknown volume):(unknown pages). doi: 10.1253/circj.CJ-24-0472
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39496393/

@@ -1,0 +1,11 @@
+PMID: 31859239
+Title: Left ventricular and atrial strain imaging with cardiac computed tomography: Validation against echocardiography.
+
+Abstract: BACKGROUND: Data on left ventricular (LV) deformation imaging using CT angiography (CTA) are scarce and the feasibility of atrial deformation analysis by CT has not been addressed. We aimed to compare 2D echocardiographic and CT derived LV and left atrial (LA) global longitudinal strain (GLS) obtained by using a novel feature tracking algorithm in patients following transcatheter aortic valve implantation.
+METHODS: Twenty-eight patients were included who underwent retrospectively-gated 256-slice CTA and speckle-tracking echocardiography (STE) on the same day. CT datasets in 10% increments were reconstructed throughout the cardiac cycle. LV GLS and LA global peak reservoir strain (LA GS) was measured.
+RESULTS: Median absolute values for LV GLS were 19.9 [14.8-22.4] vs. 19.9 [16.8-24.7], as measured by CT vs STE, respectively (p = 0.017). We found good inter-modality correlation for LV GLS (ρ = 0.78, p < 0.05) with a mean bias of -1.6. Regarding atrial measurements, the median LA GS was 19.0 [13.5-27.3] for CT vs. 28.0 [17.5-32.6] for STE (p < 0.001) with a mean bias of -5.6 between CT and STE and a correlation coefficient of ρ = 0.87, p < 0.001. CT measurements were highly reproducible: intra-observer intra-class correlation coefficient was 0.96 for LV GLS and 0.95 for LA GS.
+CONCLUSION: We detected good correlation between CTA and echocardiography-based LV and LA longitudinal strain parameters. CTA provides accurate strain measurements with high reproducibility. Feature tracking-based deformation analysis could provide a clinically important addition to CT examinations by complementing anatomical information with functional data.
+
+Citation: Szilveszter B, et al. Left ventricular and atrial strain imaging with cardiac computed tomography: Validation against echocardiography. Left ventricular and atrial strain imaging with cardiac computed tomography: Validation against echocardiography. 2020; 14:363-369. doi: 10.1016/j.jcct.2019.12.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31859239/

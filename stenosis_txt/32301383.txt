@@ -1,0 +1,12 @@
+PMID: 32301383
+Title: Perioperative stroke-related mortality after non-cardiovascular, non-neurological procedures: A retrospective risk factor evaluation of common surgical comorbidities.
+
+Abstract: BACKGROUND: Perioperative stroke-related mortality in the non-cardiovascular, non-neurological surgery population is an uncommon, yet devastating outcome. A combination of emboli and hypoperfusion may cause large vessel occlusions leading to perioperative strokes and mortality. Identifying independent risk factors for perioperative stroke-related mortality may enhance risk-stratification algorithms and preventative therapies.
+OBJECTIVES: This study utilised cause-of-death data to determine independent risk scores for common surgical comorbidities that may lead to perioperative stroke-related mortality, including atrial fibrillation and asymptomatic carotid stenosis.
+METHODS: This retrospective, IRB-exempt, case-control study evaluated non-cardiovascular, non-neurological surgical patients in a claims-based database. ICD-10-CM and ICD-9-CM codes identified cause of death and comorbidity incidences, respectively. A multivariate regression analysis then established adjusted independent risk scores of each comorbidity in relation to perioperative stroke-related mortality.
+RESULTS: Patients with atrial fibrillation were more likely (1.7 aOR, 95% CI (1.1, 2.8) p = 0.02) to die from perioperative stroke-related mortality than from other causes. No association was found with asymptomatic carotid stenosis. Further, in-hospital strokes (25.9 aOR, 95% CI (16.0, 41.8) p < 0.001) or diabetes (1.8 aOR, 95% CI (1.1, 2.9) p = 0.02) may increase perioperative stroke-related mortality risk.
+CONCLUSIONS: Atrial fibrillation, diabetes and in-hospital strokes may be independent risk factors for perioperative stroke-related mortality in the non-cardiovascular, non-neurological surgery population.
+
+Citation: Reinert NJ, et al. Perioperative stroke-related mortality after non-cardiovascular, non-neurological procedures: A retrospective risk factor evaluation of common surgical comorbidities. Perioperative stroke-related mortality after non-cardiovascular, non-neurological procedures: A retrospective risk factor evaluation of common surgical comorbidities. 2021; 31:80-88. doi: 10.1177/1750458920911830
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32301383/

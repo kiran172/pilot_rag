@@ -1,0 +1,12 @@
+PMID: 37013922
+Title: Cusp overlap versus standard three-cusp technique for self-expanding Evolut transcatheter aortic valves.
+
+Abstract: BACKGROUND: Reducing rates of permanent pacemaker implantation (PPI) after transcatheter aortic valve implantation (TAVI) is important for achieving the best procedural outcomes. The cusp overlap technique (COT) implements procedural steps including an overlap angulation of the right and left coronary cusp to mitigate this complication.
+AIMS: We investigated the incidence of PPI and complication rates following the COT compared to the standard three-cusp implantation technique (3CT) in an all-comers cohort.
+METHODS: A total of 2,209 patients underwent TAVI with the self-expanding Evolut platform from January 2016 to April 2022 at five sites. Baseline, procedural and in-hospital outcome characteristics were compared for both techniques before and after one-to-one propensity score matching.
+RESULTS: A total of 1,151 patients were implanted using the 3CT and 1,058 using the COT. At discharge, the rates of PPI (17.0 vs 12.3%; p=0.002) and moderate/severe paravalvular regurgitation (4.6% vs 2.4%; p=0.006) were significantly reduced with the COT compared with 3CT within the unmatched cohort. Overall procedural success and complication rates were similar; major bleeding was less common in the COT group (7.0% vs 4.6%; p=0.020). These results remained consistent after propensity score matching. In multivariable logistic regression analysis, right bundle branch block (odds ratio [OR] 7.19, 95% confidence interval [CI]: 5.18-10.0; p<0.001) and diabetes mellitus (OR 1.38, 95% CI: 1.05-1.80; p=0.021) emerged as predictors of PPI, whereas the COT (OR 0.63, 95% CI: 0.49-0.82; p<0.001) was protective.
+CONCLUSIONS: The introduction of the COT was associated with a significant and relevant reduction of PPI and paravalvular regurgitation rates without an increase in complication rates.
+
+Citation: Wienemann H, et al. Cusp overlap versus standard three-cusp technique for self-expanding Evolut transcatheter aortic valves. Cusp overlap versus standard three-cusp technique for self-expanding Evolut transcatheter aortic valves. 2023; 19:e176-e187. doi: 10.4244/EIJ-D-22-01030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37013922/

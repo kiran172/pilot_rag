@@ -1,0 +1,11 @@
+PMID: 38475866
+Title: Epigenetic age acceleration and risk of aortic valve stenosis: a bidirectional Mendelian randomization study.
+
+Abstract: BACKGROUND: Aortic valve stenosis (AVS) is the most prevalent cardiac valve lesion in developed countries, and pathogenesis is closely related to aging. DNA methylation-based epigenetic clock is now recognized as highly accurate predictor of the aging process and associated health outcomes. This study aimed to explore the causal relationship between epigenetic clock and AVS by conducting a bidirectional Mendelian randomization (MR) analysis.
+METHODS: Summary genome-wide association study statistics of epigenetic clocks (HannumAge, HorvathAge, PhenoAge, and GrimAge) and AVS were obtained and assessed for significant instrumental variables from Edinburgh DataShare (n = 34,710) and FinnGen biobank (cases = 9870 and controls = 402,311). The causal association between epigenetic clock and AVS was evaluated using inverse variance weighted (IVW), weighted median (WM), and MR-Egger methods. Multiple analyses (heterogeneity analysis, pleiotropy analysis, and sensitivity analysis) were performed for quality control assessment.
+RESULTS: The MR analysis showed that the epigenetic age acceleration of HorvathAge and PhenoAge was associated with an increased risk of AVS (HorvathAge: OR = 1.043, P = 0.016 by IVW, OR = 1.058, P = 0.018 by WM; PhenoAge: OR = 1.058, P = 0.005 by IVW, OR = 1.053, P = 0.039 by WM). Quality control assessment proved our findings were reliable and robust. However, there was a lack of evidence supporting a causal link from AVS to epigenetic aging.
+CONCLUSION: The present MR analysis unveiled a causal association between epigenetic clocks, especially HorvathAge and PhenoAge, with AVS. Further research is required to elucidate the underlying mechanisms and develop strategies for potential interventions.
+
+Citation: Pan W, et al. Epigenetic age acceleration and risk of aortic valve stenosis: a bidirectional Mendelian randomization study. Epigenetic age acceleration and risk of aortic valve stenosis: a bidirectional Mendelian randomization study. 2024; 16:41. doi: 10.1186/s13148-024-01647-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38475866/

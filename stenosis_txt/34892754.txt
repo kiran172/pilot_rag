@@ -1,0 +1,8 @@
+PMID: 34892754
+Title: Mean Pressure Gradient Prediction Based on Chest Angular Movements and Heart Rate Variability Parameters.
+
+Abstract: This study presents our recent findings on the classification of mean pressure gradient using angular chest movements in aortic stenosis (AS) patients. Currently, the severity of aortic stenosis is measured using ultra-sound echocardiography, which is an expensive technology. The proposed framework motivates the use of low-cost wearable sensors, and is based on feature extraction from gyroscopic readings. The feature space consists of the cardiac timing intervals as well as heart rate variability (HRV) parameters to determine the severity of disease. State-of-the-art machine learning (ML) methods are employed to classify the severity levels into mild, moderate, and severe. The best performance is achieved by the Light Gradient-Boosted Machine (Light GBM) with an F1-score of 94.29% and an accuracy of 94.44%. Additionally, game theory-based analyses are employed to examine the top features along with their average impacts on the severity level. It is demonstrated that the isovolumetric contraction time (IVCT) and isovolumetric relaxation time (IVRT) are the most representative features for AS severity.Clinical Relevance- The proposed framework could be an appropriate low-cost alternative to ultra-sound echocardiography, which is a costly method.
+
+Citation: Shokouhmand A, et al. Mean Pressure Gradient Prediction Based on Chest Angular Movements and Heart Rate Variability Parameters. Mean Pressure Gradient Prediction Based on Chest Angular Movements and Heart Rate Variability Parameters. 2021; 2021:7170-7173. doi: 10.1109/EMBC46164.2021.9630805
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34892754/

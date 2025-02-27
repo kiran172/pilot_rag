@@ -1,0 +1,12 @@
+PMID: 37341225
+Title: Prognostic Assessment of Fractional Flow Reserve in Different Strata in Patients with Coronary Artery Disease.
+
+Abstract: BACKGROUND: There are limited real-world data on the clinical course of untreated coronary lesions according to their functional severity.
+OBJECTIVE: To evaluate the 5-year clinical outcomes of patients with revascularized lesions with fractional flow reserve (FFR) ≤ 0.8 and patients with non-revascularized lesions with FFR > 0.8.
+METHODS: The FFR assessment was performed in 218 patients followed for up to 5 years. Participants were classified based on FFR into ischemia group (≤ 0.8, intervention group, n = 55), low-normal FFR group (> 0.8-0.9, n = 91), and high-normal FFR group (> 0.9, n = 72). The primary endpoint was major adverse cardiac events (MACEs), a composite of death, myocardial infarction, and need for repeat revascularization. The significance level was set at 0.05; therefore, results with a p-value < 0.05 were considered statistically significant.
+RESULTS: Most patients were male (62.8%) with a mean age of 64.1 years. Diabetes was present in 27%. On coronary angiography, the severity of stenosis was 62% in the ischemia group, 56.4% in the low-normal FFR group, and 54.3% in the high-normal FFR group (p<0.05). Mean follow-up was 3.5 years. The incidence of MACEs was 25.5%, 13.2%, and 11.1%, respectively (p=0.037). MACE incidence did not differ significantly between the low-normal and high-normal FFR groups.
+CONCLUSION: Patients with FFR indicative of ischemia had poorer outcomes than those in non-ischemia groups. There was no difference in the incidence of events between the low-normal and high-normal FFR groups. Long-term studies with a large sample size are needed to better assess cardiovascular outcomes in patients with moderate coronary stenosis with FFR values between 0.8 and 1.0.
+
+Citation: Pellegrini D, et al. Prognostic Assessment of Fractional Flow Reserve in Different Strata in Patients with Coronary Artery Disease. Prognostic Assessment of Fractional Flow Reserve in Different Strata in Patients with Coronary Artery Disease. 2023; 120:e20211051. doi: 10.36660/abc.20211051
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37341225/

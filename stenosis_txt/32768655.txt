@@ -1,0 +1,15 @@
+PMID: 32768655
+Title: Changes in racial and ethnic disparities in lumbar spinal surgery associated with the passage of the Affordable Care Act, 2006-2014.
+
+Abstract: BACKGROUND CONTEXT: Since implementation of the Patient Protection and Affordable Care Act (ACA) in 2010, more Americans have health insurance, and many racial/ethnic disparities in healthcare have improved. We previously reported that Black and Hispanic patients undergo surgery for spinal stenosis at lower rates than do white patients.
+PURPOSE: To assess changes in racial/ethnic disparities in rates of lumbar spinal surgery after passage of the ACA.
+STUDY DESIGN: Retrospective analysis.
+PATIENT SAMPLE: Approximately 3.2 million adults who underwent lumbar spinal surgery in the US from 2006 through 2014.
+OUTCOME MEASURES: Racial disparities in discharge rates before versus after ACA passage.
+METHODS: Using the Nationwide Inpatient Sample, the U.S. Census Bureau Current Population Survey Supplement, and International Classification of Diseases, Ninth Revision, Clinical Modification, criteria for definite lumbar spinal surgery, we calculated rates of lumbar spinal surgery as the number of hospital discharges divided by population estimates and stratified patients by race/ethnicity after controlling for sociodemographic characteristics. Calendar years were stratified as before ACA passage (2006-2010) or after ACA passage (2011-2014). Poisson regression was used to model hospital discharge rates as a function of race/ethnicity before and after ACA passage after adjustment for potential confounders.
+RESULTS: All rates are expressed per 1,000 persons. The overall median discharge rate decreased from 1.9 before ACA passage to 1.6 after ACA passage (p < .001). After adjustment for sociodemographic factors, the Black:White disparity in discharge rates decreased from 0.40:1 before ACA to 0.44:1 after ACA (p < .001). A similar decrease in the Hispanic:White disparity occurred, from 0.35:1 before ACA to 0.38:1 after ACA (p < .001).
+CONCLUSION: Small but significant decreases occurred in racial/ethnic disparities in hospital discharge rates for lumbar spinal surgery after ACA passage.
+
+Citation: Harris A, et al. Changes in racial and ethnic disparities in lumbar spinal surgery associated with the passage of the Affordable Care Act, 2006-2014. Changes in racial and ethnic disparities in lumbar spinal surgery associated with the passage of the Affordable Care Act, 2006-2014. 2021; 21:64-70. doi: 10.1016/j.spinee.2020.07.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32768655/

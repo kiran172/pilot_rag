@@ -1,0 +1,11 @@
+PMID: 33271533
+Title: Association between Intraplaque Hemorrhage and Vascular Remodeling in Carotid Arteries: The Plaque at RISK (PARISK) Study.
+
+Abstract: INTRODUCTION: Vascular remodeling is a compensatory enlargement of the vessel wall in response to atherosclerotic plaque growth. We aimed to investigate the association between intraplaque hemorrhage (IPH), vascular remodeling, and luminal dimensions in recently symptomatic patients with mild to moderate carotid artery stenosis in which the differences in plaque size were taken into account.
+MATERIALS AND METHODS: We assessed vessel dimensions on MRI of the symptomatic carotid artery in 164 patients from the Plaque At RISK study. This study included patients with recent ischemic neurological event and ipsilateral carotid artery stenosis <70%. The cross section with the largest wall area (WA) in the internal carotid artery (ICA) was selected for analysis. On this cross section, the following parameters were determined: WA, total vessel area (TVA), and lumen area (LA). Vascular remodeling was quantified as the remodeling ratio (RR) and was calculated as TVA at this position divided by the TVA in an unaffected distal portion of the ipsilateral ICA. Adjustment for WA was performed to correct for plaque size.
+RESULTS: Plaques with IPH had a larger WA (0.56 vs. 0.46 cm2; p < 0.001), a smaller LA (0.17 vs. 0.22 cm2; p = 0.03), and a higher RR (2.0 vs. 1.9; p = 0.03) than plaques without IPH. After adjustment for WA, plaques containing IPH had a smaller LA (B = -0.052, p = 0.01) than plaques without IPH, but the RR was not different.
+CONCLUSION: After correcting for plaque size, plaques containing IPH had a smaller LA than plaques without IPH. However, RR was not different.
+
+Citation: Dilba K, et al. Association between Intraplaque Hemorrhage and Vascular Remodeling in Carotid Arteries: The Plaque at RISK (PARISK) Study. Association between Intraplaque Hemorrhage and Vascular Remodeling in Carotid Arteries: The Plaque at RISK (PARISK) Study. 2021; 50:94-99. doi: 10.1159/000511935
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33271533/

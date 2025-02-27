@@ -1,0 +1,11 @@
+PMID: 37981631
+Title: Prognostic value of flow-status in severe aortic stenosis patients undergoing percutaneous intervention.
+
+Abstract: PURPOSE: Low-flow status is a mortality predictor in severe aortic stenosis (SAS) patients, including after transcatheter aortic valve implantation (TAVI) treatment. However, the best parameter to assess flow is unknown. Recent studies suggest that transaortic flow rate (FR) is superior to currently used stroke volume index (SVi) in defining low-flow states. Therefore, we aimed to evaluate the prognostic value of FR and SVi in patients undergoing TAVI.
+METHODS: A single-centre retrospective analysis of all consecutive patients treated with TAVI for SAS between 2011 and 2019 was conducted. Low-FR was defined as &lt; 200 mL/s and low-SVi as &lt; 35 mL/m2. Primary endpoint was all-cause five-year mortality, analyzed using Kaplan-Meier curves and Cox regression models. Secondary endpoint was variation of NYHA functional class six months after procedure. Patients were further stratified according to ejection fraction (EF &lt; 50%).
+RESULTS: Of 489 cases, 59.5% were low-FR, and 43.1% low-SVi. Low-flow patients had superior surgical risk, worse renal function, and had a higher prevalence of coronary artery disease. Low-FR was associated with mortality (hazard ratio 1.36, p = 0.041), but not after adjustment to EuroSCORE II. Normal-SVi was not associated with survival, despite a significative p-trend for its continuous value. No associations were found for flow-status and NYHA recovery. When stratifying according to preserved and reduced EF, both FR and SVi did not predict all-cause mortality.
+CONCLUSION: In patients with SAS undergoing TAVI, a low-FR state was associated with higher mortality, as well as SVi, but not at a 35 mL/m2 cut off.
+
+Citation: Santos-Ferreira D, et al. Prognostic value of flow-status in severe aortic stenosis patients undergoing percutaneous intervention. Prognostic value of flow-status in severe aortic stenosis patients undergoing percutaneous intervention. 2024; 40:341-350. doi: 10.1007/s10554-023-02992-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37981631/

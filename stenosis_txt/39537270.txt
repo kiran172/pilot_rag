@@ -1,0 +1,12 @@
+PMID: 39537270
+Title: Surgical vs Transcatheter Treatment in Patients With Coronary Artery Disease and Severe Aortic Stenosis.
+
+Abstract: BACKGROUND: Severe aortic stenosis (AS) coexists with coronary artery disease (CAD) in approximately 50% of patients. The preferred treatment is combined surgical aortic valve replacement (SAVR) and coronary artery bypass grafting (CABG). However, transcatheter aortic valve replacement (TAVR) along with percutaneous coronary intervention (PCI) has emerged as a viable alternative.
+OBJECTIVES: This study sought to compare the outcomes of PCI + TAVR vs CABG + SAVR.
+METHODS: This national multicenter retrospective study in Spain involved patients with severe AS and CAD treated between 2018 and 2021. Patients underwent either PCI + TAVR or CABG + SAVR and were compared. The primary endpoint was all-cause mortality and stroke at 1 year. Propensity score analysis was performed to mitigate baseline differences.
+RESULTS: Of the 1,342 included patients, 625 (46.6%) underwent PCI + TAVR, and 713 (53.1%) underwent CABG + SAVR. Patients in the percutaneous arm were older (age 81.6 ± 5.8 years vs 72.1 ± 7 years; P < 0.001), had a higher prevalence of chronic kidney disease (40.6% vs 14.9%; P < 0.001), and had higher Society of Thoracic Surgeons risk scores (4.3% [interquartile range (Q1-Q3): 2.8-6.4] vs 2.2% [Q1-Q3: 1.4-3.3]; P < 0.001). Technical success rates were 96% for PCI + TAVR and 98.4% for CABG + SAVR (P = 0.008), with similar periprocedural mortality (0.8% vs 0.7%; P = 0.999). However, the mortality + stroke rate at 30 days was higher in the CABG + SAVR group compared with PCI + TAVR, both in the unmatched (12.2% vs 4.7%; P = 0.005) and matched cohorts (8.8% vs 4.5%; P = 0.002), persisting at the 1-year follow-up.
+CONCLUSIONS: Despite a lower baseline risk, CABG + SAVR in patients with severe AS and CAD was associated with a higher rate of death and stroke compared with PCI + TAVR, highlighting the necessity for a large, randomized analysis.
+
+Citation: Amat-Santos IJ, et al. Surgical vs Transcatheter Treatment in Patients With Coronary Artery Disease and Severe Aortic Stenosis. Surgical vs Transcatheter Treatment in Patients With Coronary Artery Disease and Severe Aortic Stenosis. 2024; 17:2472-2485. doi: 10.1016/j.jcin.2024.09.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39537270/

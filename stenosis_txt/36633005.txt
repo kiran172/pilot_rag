@@ -1,0 +1,12 @@
+PMID: 36633005
+Title: Photon-counting detector coronary CT angiography: impact of virtual monoenergetic imaging and iterative reconstruction on image quality.
+
+Abstract: OBJECTIVES: To assess the impact of low kilo-electronvolt (keV) virtual monoenergetic image (VMI) energies and iterative reconstruction on image quality of clinical photon-counting detector coronary CT angiography (CCTA).
+METHODS: CCTA with PCD-CT (prospective ECG-triggering, 120 kVp, automatic tube current modulation) was performed in a high-end cardiovascular phantom with dynamic flow, pulsatile heart motion, and including different calcified plaques with various stenosis grades and in 10 consecutive patients. VMI at 40,50,60 and 70 keV were reconstructed without (QIR-off) and with all quantum iterative reconstruction (QIR) levels (QIR-1 to 4). In the phantom, noise power spectrum, vessel attenuation, contrast-to-noise-ratio (CNR), and vessel sharpness were measured. Two readers graded stenoses in the phantom and graded overall image quality, subjective noise, vessel sharpness, vascular contrast, and coronary artery plaque delineation on 5-point Likert scales in patients.
+RESULTS: In the phantom, noise texture was only slightly affected by keV and QIR while noise increased by 69% from 70 keV QIR-4 to 40 keV QIR-off. Reconstructions at 40 keV QIR-4 exhibited the highest CNR (46.1 ± 1.8), vessel sharpness (425 ± 42 ∆HU/mm), and vessel attenuation (1098 ± 14 HU). Stenosis measurements were not affected by keV or QIR level (p &gt; 0.12) with an average error of 3%/6% for reader 1/reader 2, respectively. In patients, across all subjective categories and both readers, 40 keV QIR-3 and QIR-4 images received the best scores (p &lt; 0.001).
+CONCLUSION: Forty keV VMI with QIR-4 significantly improved image quality of CCTA with PCD-CT.
+ADVANCES IN KNOWLEDGE: PCD-CT at 40 keV and QIR-4 improves image quality of CCTA.
+
+Citation: Sartoretti T, et al. Photon-counting detector coronary CT angiography: impact of virtual monoenergetic imaging and iterative reconstruction on image quality. Photon-counting detector coronary CT angiography: impact of virtual monoenergetic imaging and iterative reconstruction on image quality. 2023; 96:20220466. doi: 10.1259/bjr.20220466
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36633005/

@@ -1,0 +1,17 @@
+PMID: 31257647
+Title: Clinical assessment of aortic valve stenosis: Comparison between 4D flow MRI and transthoracic echocardiography.
+
+Abstract: BACKGROUND: The prevalence of valvular aortic stenosis (AS) increases as the population ages. Echocardiographic measurements of peak jet velocity (V<sub>peak</sub> ), mean pressure gradient (P<sub>mean</sub> ), and aortic valve area (AVA) determine AS severity and play a pivotal role in the stratification towards valvular replacement. A multimodality imaging approach might be needed in cases of uncertainty about the actual severity of the stenosis.
+PURPOSE: To compare four-dimensional phase-contrast magnetic resonance (4D PC-MR), two-dimensional (2D) PC-MR, and transthoracic echocardiography (TTE) for quantification of AS.
+STUDY TYPE: Prospective.
+POPULATION: Twenty patients with various degrees of AS (69.3 ± 5.0 years).
+FIELD STRENGTH/SEQUENCES: 4D PC-MR and 2D PC-MR at 3T.
+ASSESSMENT: We compared V<sub>peak</sub> , P<sub>mean</sub> , and AVA between TTE, 4D PC-MR, and 2D PC-MR. Flow eccentricity was quantified by means of normalized flow displacement, and its influence on the accuracy of TTE measurements was investigated.
+STATISTICAL TESTS: Pearson's correlation, Bland-Altman analysis, paired t-test, and intraclass correlation coefficient.
+RESULTS: 4D PC-MR measured higher V<sub>peak</sub> (r = 0.95, mean difference + 16.4 ± 10.7%, P &lt;0.001), and P<sub>mean</sub> (r = 0.92, mean difference + 14.9 ± 16.0%, P = 0.013), but a less critical AVA (r = 0.80, mean difference + 19.9 ± 20.6%, P = 0.002) than TTE. In contrast, unidirectional 2D PC-MR substantially underestimated AS severity when compared with TTE. Differences in V<sub>peak</sub> between 4D PC-MR and TTE showed to be strongly correlated with the eccentricity of the flow jet (r = 0.89, P &lt;0.001). Use of 4D PC-MR improved the concordance between V<sub>peak</sub> and AVA (from 0.68 to 0.87), and between PG<sub>mean</sub> and AVA (from 0.68 to 0.86).
+DATA CONCLUSION: 4D PC-MR improves the concordance between the different AS parameters and could serve as an additional imaging technique next to TTE. Future studies should address the potential value of 4D PC-MR in patients with discordant echocardiographic parameters.
+LEVEL OF EVIDENCE: 2 Technical Efficacy: Stage 2 J. Magn. Reson. Imaging 2020;51:472-480.
+
+Citation: Adriaans BP, et al. Clinical assessment of aortic valve stenosis: Comparison between 4D flow MRI and transthoracic echocardiography. Clinical assessment of aortic valve stenosis: Comparison between 4D flow MRI and transthoracic echocardiography. 2020; 51:472-480. doi: 10.1002/jmri.26847
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31257647/

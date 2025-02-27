@@ -1,0 +1,11 @@
+PMID: 32040025
+Title: Correlation of plasma soluble suppression of tumorigenicity-2 level with the severity and stability of coronary atherosclerosis.
+
+Abstract: BACKGROUND: Soluble growth stimulation expressed gene 2 (sST2) is the receptor of interleukin (IL)-33. We hypothesized the IL-33/ST2 pathway may be closely related to the progression of coronary atherosclerotic lesions.
+METHODS: We analyzed 262 patients, including 63 with stable angina pectoris (SAP), 97 with acute coronary syndrome (ACS), and 102 control subjects. Plasma sST2 levels were determined using ELISA. Gensini scores were calculated. Patients with ACS and SAP were further divided according to the complexity of atherosclerotic lesions (simple/complex). Statistical analysis was performed on all data.
+RESULTS: The plasma sST2 levels were significantly higher in patients with coronary artery disease (CAD) than in the control group, and were significantly higher in ACS patients with complex lesions than in those with simple lesions. There were no correlations between plasma sST2 level and both the number of culprit vessels and Gensini score. Multivariate stepwise regression analysis revealed that angiographically detected complex lesions were independently correlated with plasma sST2 level. Logistic regression analyses showed that sST2 was an independent factor of both CAD and the lesion type (simple/complex) of ACS. For the diagnosis of ACS and complex lesions, the area under the receiver operating characteristic curve of sST2 was 0.651.
+CONCLUSIONS: The plasma sST2 level was not correlated with the stenosis severity of coronary atherosclerosis. A relationship between the plasma sST2 level and the morphology of complex lesions was found for the first time, especially in ACS patients. It may be a new marker for assessing the stability and complexity of atherosclerotic plaques.
+
+Citation: Zhang Y, et al. Correlation of plasma soluble suppression of tumorigenicity-2 level with the severity and stability of coronary atherosclerosis. Correlation of plasma soluble suppression of tumorigenicity-2 level with the severity and stability of coronary atherosclerosis. 2020; 31:628-635. doi: 10.1097/MCA.0000000000000851
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32040025/

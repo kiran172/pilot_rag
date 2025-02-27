@@ -1,0 +1,11 @@
+PMID: 35776031
+Title: Predictive value of lymphocyte to monocyte ratio for cardiac syndrome X.
+
+Abstract: OBJECTIVE: Cardiac syndrome X (CSX) is typically described with ischemia in stress tests in addition to angina-like chest pain and without stenosis in coronary angiography. We aimed at determining the relationship between LMR and CSX.
+PATIENTS AND METHODS: We retrospectively collected patients with CSX between January 2016 and December 2019. Patients with typical angina-like chest pain, normal 12-lead electrocardiography at rest, a positive response to the exercise test (> 0.1 mV ST-segment depression at 80 ms after the J point in two or more contiguous leads) or ischemia on myocardial perfusion scintigraphy and normal coronary angiography were included in the study as CSX patients.
+RESULTS: This study consisted of 116 patients with CSX and 153 control groups. The mean age of the patients with CSX was 52.7±9.7 years, and the mean age of the control group was 53.7±10.6 years (p= 0.416). The patients with CSX were more likely to have higher monocyte counts and LMR. According to the Pearson correlation test, the CRP value negatively correlated with the LMR. In multivariate logistic regression analysis, LMR remained a significant predictor of CSX. In ROC analysis, LMR < 4.1 had 64% sensitivity and 50% specificity (ROC area under curve: 0.587, 95% CI: 0.519-0.655, p=0.015) in accurately predicting a CSX diagnosis.
+CONCLUSIONS: We showed that lower LMR levels were associated with the presence of CSX.
+
+Citation: Akıl MA, et al. Predictive value of lymphocyte to monocyte ratio for cardiac syndrome X. Predictive value of lymphocyte to monocyte ratio for cardiac syndrome X. 2022; 26:4303-4308. doi: 10.26355/eurrev_202206_29069
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35776031/

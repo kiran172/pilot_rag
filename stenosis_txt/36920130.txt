@@ -1,0 +1,11 @@
+PMID: 36920130
+Title: Time and Frequency Repolarization Domains in Elderly Candidates to Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND AND AIM: Aortic valve stenosis (AVS) is a well-known risk factor for sudden cardiac death. Therefore, some non-invasive, electrocardiographic markers are capable to stratify the risk of sudden death at rest and during light mental challenge [mini-mental state examination (MMSE) administration].
+METHOD: We compared short period RR, QT and Te intervals variability in 42 candidates to and 12 age-matched hypertensive control patients at rest and during mental challenge.
+RESULTS: At rest, AVS patients showed a higher QT standard deviation (sd), QT low frequency power (LF), QT High Frequency (HF), Tpeak-Tend intervals sd (Te sd) and Te HF than the control group. During mental challenge AVS group showed a decrease of RR mean and RR HF, expressed in normalized units (NU), and an increase of RR total power (TP), RR LF, RR LF NU, RR LF, HF ratio (LF/HF). During this same mental test, QT sd, QT LF, QT HF, Te sd, Te LF, Te HF, QT variability index (VI), TeVI, QT normalized variance (VN) were higher in AVS patients than the control group. During mental challenge Te LF (r:0.825, p<0.05) was significantly associated to: serum albumin (β:-0.473, p<0.001), MMSE (β:-0.267, p:0.038), diastolic blood pressure (β:-0.443, p:0.03) and cardiac index (β:-0.303, p:0.029).
+CONCLUSION: AVS patients showed temporal dispersion of ventricular repolarization phase, useful maker to individuate high risk patients. MMSE administration induced a sympathetic sinus activation and vagal deactivation in AVS subjects. Frailty and mental function influenced Te HF and Te LF.
+
+Citation: Piccirillo G, et al. Time and Frequency Repolarization Domains in Elderly Candidates to Transcatheter Aortic Valve Replacement. Time and Frequency Repolarization Domains in Elderly Candidates to Transcatheter Aortic Valve Replacement. 2023; 174:139-145. doi: 10.7417/CT.2023.2510
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36920130/

@@ -1,0 +1,11 @@
+PMID: 36537007
+Title: A nomogram and risk classification system predicting esophageal stricture after endoscopic submucosal dissection of a large area for early esophageal cancer.
+
+Abstract: BACKGROUND AND OBJECTIVES: Esophageal stricture is a troublesome adverse effect of endoscopic submucosal dissection (ESD) for early esophageal cancer. However, risk factors of post-ESD esophageal stricture formation are incomprehensive. This study aimed to conduct a comprehensive analysis of independent risk factors and provide predictive tools.
+METHODS: Patients who underwent ESD for early esophageal cancer between 2014 and 2021 at the Beijing Friendship Hospital, Capital Medical University, were recruited. A nomogram and risk classification system was established based on Cox proportional hazards analyses and validated using the concordance index (C-index), calibration curves, decision curve analysis (DCA), and Kaplan-Meier (K-M) curves.
+RESULTS: Stricture formed in 36 patients, while stricture was not observed in the remaining 112 patients. Operative time (odds ratio [OR]: 1.01; 95% confidence interval [CI]: 1.00-1.01; p < 0.01); lesions >3/4 circumferential range of esophagus (OR: 3.82; 95% CI: 1.90-7.66; p < 0.01), and tumor infiltration to the mucosal lamina propria (m2) or deeper (OR: 2.40; 95% CI: 1.24-4.66; p = 0.01) were independent predictive factors for post-ESD esophageal stricture. The nomogram and risk classification system was developed and validated with 0.79 C-index, good calibration curves, good DCA results, and good K-M curves.
+CONCLUSIONS: We developed a nomogram and risk stratification system to predict post-ESD esophageal stricture using three independent risk factors.
+
+Citation: Li X, et al. A nomogram and risk classification system predicting esophageal stricture after endoscopic submucosal dissection of a large area for early esophageal cancer. A nomogram and risk classification system predicting esophageal stricture after endoscopic submucosal dissection of a large area for early esophageal cancer. 2023; 127:568-577. doi: 10.1002/jso.27172
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36537007/

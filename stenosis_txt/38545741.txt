@@ -1,0 +1,11 @@
+PMID: 38545741
+Title: Redundant nerve roots on magnetic resonance imaging can predict ongoing denervation in patients with lumbar spinal stenosis.
+
+Abstract: INTRODUCTION/AIMS: Redundant nerve roots (RNRs) are abnormally elongated and tortuous nerve roots that develop secondary to degenerative spinal stenosis. RNRs have been associated with poorer clinical outcomes after decompression surgery; however, studies on their clinical characteristics are limited. This study aimed to investigate the association between RNRs and denervation potentials, that is, abnormal spontaneous activity (ASA), on electromyography.
+METHODS: We retrospectively reviewed data of patients who underwent an electrodiagnostic study of the lower extremities between January 2020 and March 2023. Of these, patients with lumbar central spinal stenosis, as seen on magnetic resonance imaging, were included. We analyzed clinical and imaging data, including presence of ASA, and compared them according to the presence of RNRs. Multivariable logistic regression analysis was employed to identify factors associated with development of ASA.
+RESULTS: Among the 2003 patients screened, 193 were included in the study. RNRs were associated with advanced age (p < .001), longer symptom duration (p = .009), smaller cross-sectional area of the dural sac at the stenotic level (p < .001), and higher frequency of ASA (p < .001). Higher probability of ASA was correlated with greater RNR severity (p < .001). In the multivariable logistic regression analysis, ASA occurrence was associated with smaller cross-sectional area, multiple stenotic sites, and severe-grade RNRs.
+DISCUSSION: The presence of RNRs, particularly severe-grade RNRs, was identified as a significant risk factor for the development of ASA on electromyography. This finding may aid physicians in estimating the prognosis of patients with central spinal stenosis.
+
+Citation: Park S, et al. Redundant nerve roots on magnetic resonance imaging can predict ongoing denervation in patients with lumbar spinal stenosis. Redundant nerve roots on magnetic resonance imaging can predict ongoing denervation in patients with lumbar spinal stenosis. 2024; 69:691-698. doi: 10.1002/mus.28094
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38545741/

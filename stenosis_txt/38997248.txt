@@ -1,0 +1,11 @@
+PMID: 38997248
+Title: Association between coronary artery stenosis and myocardial injury in patients with acute pulmonary embolism: A case-control study.
+
+Abstract: BACKGROUND: The potential impact of pre-existing coronary artery stenosis (CAS) on acute pulmonary embolism (PE) episodes remains underexplored. This study aimed to investigate the association between pre-existing CAS and the elevation of high-sensitivity cardiac troponin I (hs-cTnI) levels in patients with PE.
+METHODS: In this multicenter, prospective case-control study, 88 cases and 163 controls matched for age, sex, and study center were enrolled. Cases were patients with PE with elevated hs-cTnI. Controls were patients with PE with normal hs-cTnI. Coronary artery assessment utilized coronary computed tomographic angiography or invasive coronary angiography. CAS was defined as ≥50% stenosis of the lumen diameter in any coronary vessel >2.0 mm in diameter. Conditional logistic regression was used to evaluate the association between CAS and hs-cTnI elevation.
+RESULTS: The percentage of CAS was higher in the case group compared to the control group (44.3% [39/88] vs. 30.1% [49/163]; P  = 0.024). In multivariable conditional logistic regression model 1, CAS (adjusted odds ratio [OR], 2.680; 95% confidence interval [CI], 1.243-5.779), heart rate >75 beats/min (OR, 2.306; 95% CI, 1.056-5.036) and N-terminal pro-B type natriuretic peptide (NT-proBNP) >420 pg/mL (OR, 12.169; 95% CI, 4.792-30.900) were independently associated with elevated hs-cTnI. In model 2, right CAS (OR, 3.615; 95% CI, 1.467-8.909) and NT-proBNP >420 pg/mL (OR, 13.890; 95% CI, 5.288-36.484) were independently associated with elevated hs-cTnI.
+CONCLUSIONS: CAS was independently associated with myocardial injury in patients with PE. Vigilance towards CAS is warranted in patients with PE with elevated cardiac troponin levels.
+
+Citation: Yang Y, et al. Association between coronary artery stenosis and myocardial injury in patients with acute pulmonary embolism: A case-control study. Association between coronary artery stenosis and myocardial injury in patients with acute pulmonary embolism: A case-control study. 2024; 137:1965-1972. doi: 10.1097/CM9.0000000000003206
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38997248/

@@ -1,0 +1,11 @@
+PMID: 35610139
+Title: Clinical Outcome of TAVR vs. SAVR in Patients With Cardiac Amyloidosis.
+
+Abstract: UNLABELLED: Data regarding the clinical outcomes of transcatheter aortic valve replacement (TAVR) vs. surgical aortic valve replacement (SAVR) in cardiac amyloidosis are lacking. Our study aimed to look at the clinical outcomes of TAVR vs. SAVR in patients with cardiac amyloidosis.
+METHOD: We queried the National Inpatient Sample database for the years 2009-2014 using validated ICD-9-CM codes for TAVR and SAVR. Propensity score matching (1:1; PSM) was performed and in-hospital outcomes were compared between matched cohorts.
+RESULTS: Before PSM, the TAVR group had a higher hospitalization cost ($59,192 vs. $56,171.1, p = 0.001) and in-hospital mortality (4.24% vs. 3.27%, p = 0.001) compared to the SAVR group. After PSM, mortality (41.3% vs. 5.81%, p = 0.001) and hospitalization cost ($5907 vs. $6280, p = 0.001) was higher in the SAVR group. Length of stay was shorter in the TAVR group compared to SAVR group before (8.7 vs 11.4 p = 0.001) and after (8.7 vs 0.13.7, p = 0.001) PSM. After PSM, the incidence of acute myocardial infarction (10.10% vs. 17.57%, p = 0.001), acute kidney injury (20.67% vs. 31.40%, p = 0.001) and major bleeding (39.18% vs. 47.90%, p = 0.001) were higher in the SAVR group while the TAVR group had a higher incidence of the stroke (12.47% vs. 11.97%, p = 0.001), vascular complication (14.59% vs. 12.97%, p = 0.001), and permanent pacemaker implantation (10.45% vs. 8.48%, p = 0.001).
+CONCLUSION: In CA patients, in-hospital mortality and hospitalization costs were higher in the SAVR group than in the TAVR group, while the length of stay was shorter in the TAVR group.
+
+Citation: Khan MZ, et al. Clinical Outcome of TAVR vs. SAVR in Patients With Cardiac Amyloidosis. Clinical Outcome of TAVR vs. SAVR in Patients With Cardiac Amyloidosis. 2022; 43:20-25. doi: 10.1016/j.carrev.2022.04.027
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35610139/

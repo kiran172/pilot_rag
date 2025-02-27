@@ -1,0 +1,13 @@
+PMID: 36727890
+Title: LSS-VGG16: Diagnosis of Lumbar Spinal Stenosis With Deep Learning.
+
+Abstract: STUDY DESIGN: This was a retrospective study.
+OBJECTION: Lumbar Spinal Stenosis (LSS) is a disease that causes chronic low back pain and can often be confused with herniated disk. In this study, a deep learning-based classification model is proposed to make LSS diagnosis quickly and automatically with an objective tool.
+SUMMARY OF BACKGROUND DATA: LSS is a disease that causes negative consequences such as low back pain, foot numbness, and pain. Diagnosis of this disease is difficult because it is confused with herniated disk and requires serious expertise. The shape and amount of this stenosis are very important in deciding the surgery and the surgical technique to be applied in these patients. When the spinal canal narrows, as a result of compression on these nerves and/or pressure on the vessels feeding the nerves, poor nutrition of the nerves causes loss of function and structure. Image processing techniques are applied in biomedical images such as MR and CT and high classification success is achieved. In this way, computer-aided diagnosis systems can be realized to help the specialist in the diagnosis of different diseases.
+METHODS: To demonstrate the success of the proposed model, different deep learning methods and traditional machine learning techniques have been studied.
+RESULTS: The highest classification success was obtained in the VGG16 method, with 87.70%.
+CONCLUSIONS: The proposed LSS-VGG16 model reveals that a computer-aided diagnosis system can be created for the diagnosis of spinal canal stenosis. In addition, it was observed that higher classification success was achieved compared with similar studies in the literature. This shows that the proposed LSS-VGG16 model will be an important resource for scientists who will work in this field.
+
+Citation: Altun S, et al. LSS-VGG16: Diagnosis of Lumbar Spinal Stenosis With Deep Learning. LSS-VGG16: Diagnosis of Lumbar Spinal Stenosis With Deep Learning. 2023; 36:E180-E190. doi: 10.1097/BSD.0000000000001418
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36727890/

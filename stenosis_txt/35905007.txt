@@ -1,0 +1,11 @@
+PMID: 35905007
+Title: Modified Haller index is inversely correlated with true positive exercise stress echocardiographic results.
+
+Abstract: AIMS: The influence of chest wall shape on exercise stress echocardiography (ESE) results has been poorly investigated. We aimed at evaluating the main predictors of true positive (TP)-ESE in a population of subjects with suspected coronary artery disease (CAD), categorized according to chest wall conformation, assessed by modified Haller index (MHI, chest transverse diameter over the distance between sternum and spine).
+METHODS: All consecutive patients with suspected CAD referred to our EchoLab for performing ESE between September 2011 and October 2021 were retrospectively enrolled. Preliminary assessment of both pretest probability (PTP) and MHI was performed. All patients with positive ESE underwent coronary angiography. Obstructive CAD was diagnosed by ≥70% stenosis in any epicardial coronary artery. Outcome was TP ESE result.
+RESULTS: One thousand two hundred and seventy-five consecutive patients (64.9 ± 13.0 years) entered the study. Subjects with concave-shaped chest wall (MHI > 2.5) (10.7%) and those with normal chest shape (MHI ≤ 2.5) (89.3%) were separately analyzed. PTP was similar in both groups (21.8 ± 13.2 vs. 23.5 ± 13.3%, P  = 0.15). One hundred and seventy patients were diagnosed with positive ESE: 129 (75.9%) had obstructive CAD (TP), whereas the remaining 41 (24.1%) had no CAD. Only 2.3% of TP ESE was detected in subjects with MHI >2.5. PTP [odds ratio (OR) 1.03, 95% confidence interval (CI) 1.01-1.04], dyslipidemia (OR 4.37, 95% CI 2.81-6.80), dyssynergy in the left anterior descending territory (OR 8.21, 95% CI 5.07-13.3) were linearly correlated with TP ESE, whereas MHI >2.5 (OR 0.25, 95% CI 0.14-0.67) was inversely associated with outcome.
+CONCLUSIONS: Subjects with MHI >2.5 have low prevalence of TP ESE, regardless of PTP. Preliminary MHI assessment may reduce overestimation of PTP of CAD.
+
+Citation: Sonaglioni A, et al. Modified Haller index is inversely correlated with true positive exercise stress echocardiographic results. Modified Haller index is inversely correlated with true positive exercise stress echocardiographic results. 2022; 23:524-534. doi: 10.2459/JCM.0000000000001344
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35905007/

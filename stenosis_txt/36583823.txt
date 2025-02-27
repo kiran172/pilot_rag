@@ -1,0 +1,11 @@
+PMID: 36583823
+Title: Establishment of a Nomogram for Predicting the Suboptimal Angiographic Outcomes of Coronary De Novo Lesions Treated with Drug-Coated Balloons.
+
+Abstract: INTRODUCTION: Factors affecting the angiographic outcomes of coronary de novo lesions treated with drug-coated balloons (DCBs) have not been well illustrated. The aim of the study is to establish a nomogram for predicting the risk of suboptimal diameter stenosis (DS) at angiographic follow-up.
+METHODS: A retrospective analysis was performed on a cohort of patients who underwent DCB intervention for coronary de novo lesions with angiographic follow-up data. Multivariable logistic regression analysis was applied to determine the independent predictors of DS ≥ 30% at follow-up, and then a nomogram model was established and validated.
+RESULTS: A total of 196 patients (313 lesions) were divided into the suboptimal (DS ≥ 30%) and optimal (DS &lt; 30%) DS groups according to quantitative coronary angiography (QCA) measurements of the target lesions at follow-up. Seven independent factors including calcified lesions, true bifurcation lesions, immediate lumen gain rate (iLG%) &lt; 20%, immediate diameter stenosis (iDS) ≥ 30%, DCB diameter/reference vessel diameter ratio (DCB/RVD) &lt; 1.0, DCB length and mild dissection were identified. The area under the curve (AUC) (95% CI) of the receiver-operating characteristic (ROC) curve of the nomogram was 0.738 (0.683, 0.794). After the internal validation, the AUC (95% CI) was 0.740 (0.685, 0.795). The Hosmer-Lemeshow goodness of fit (GOF) test (χ2 = 6.57, P = 0.766) and the calibration curve suggested a good predictive consistency of the nomogram.
+CONCLUSIONS: The well-calibrated nomogram could efficiently predict the suboptimal angiographic outcomes at follow-up. This model may be helpful to optimize lesion preparation to achieve optimal outcomes.
+
+Citation: Yu X, et al. Establishment of a Nomogram for Predicting the Suboptimal Angiographic Outcomes of Coronary De Novo Lesions Treated with Drug-Coated Balloons. Establishment of a Nomogram for Predicting the Suboptimal Angiographic Outcomes of Coronary De Novo Lesions Treated with Drug-Coated Balloons. 2023; 40:975-989. doi: 10.1007/s12325-022-02400-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36583823/

@@ -1,0 +1,8 @@
+PMID: 35693218
+Title: Understanding the predictive value and methods of risk assessment based on coronary computed tomographic angiography in populations with coronary artery disease: a review.
+
+Abstract: Risk assessment in coronary artery disease plays an essential role in the early identification of high-risk patients. However, conventional invasive imaging procedures all require long intraprocedural times and high costs. The rapid development of coronary computed tomographic angiography (CCTA) and related image processing technology has facilitated the formulation of noninvasive approaches to perform comprehensive evaluations. Evidence has shown that CCTA has outstanding performance in identifying the degree of stenosis, plaque features, and functional reserve. Moreover, advancements in radiomics and machine learning allow more comprehensive interpretations of CCTA images. This paper reviews conventional as well as novel diagnostic and risk assessment tools based on CCTA.
+
+Citation: Li Y, et al. Understanding the predictive value and methods of risk assessment based on coronary computed tomographic angiography in populations with coronary artery disease: a review. Understanding the predictive value and methods of risk assessment based on coronary computed tomographic angiography in populations with coronary artery disease: a review. 2021; 4:192-203. doi: 10.1093/pcmedi/pbab018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35693218/

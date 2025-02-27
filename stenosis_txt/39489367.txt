@@ -1,0 +1,11 @@
+PMID: 39489367
+Title: Metrics of retinal vasculature detected on OCTA in carotid artery stenosis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Carotid artery stenosis (CAS) is a major cause of cerebral microcirculation dysfunction, contributing to 15-20% of ischemic strokes. Retinal vessel changes is associated with several systemic diseases, including CAS. This systematic review investigates retinal microvascular alterations measured using optical coherence tomography angiography (OCTA) in patients with CAS.
+METHODS: We comprehensively searched the electronic databases, namely PubMed, Cochrane Library, Embase, and Web of Science. Macular and optic nerve head vascular density (VD) in patients with CAS were compared to controls. Pooled data for each outcome were calculated as standardized mean difference (SMD) and 95% confidence interval. OCTA parameters were analyzed using Review Manager Version 5.4.1 software.
+RESULTS: Seven articles were included in this meta-analysis. Whole macular enface superficial and deep VD were significantly lower in patients with CAS than in controls (SMD = -0.97, P = 0.002; SMD = -1.05, P = 0.006, respectively). Additionally, the parafoveal superficial VD was significantly lower in the CAS group than in the healthy group (SMD = -0.71, P= 0.001). Radial peripapillary capillary (RPC) whole-image VD (SMD = -0.90, P< 0.0001), RPC inside disc VD (SMD = -0.49, P = 0.02), and RPC peripapillary VD (SMD = -0.64, P = 0.0003) were also significantly lower in patients with CAS compared to healthy individuals.
+CONCLUSION: These findings suggest that patients with CAS are prone to decreased VD in the macular and optic nerve head areas. Hence, OCTA shows potential as a promising tool for the early detection of cerebral microcirculation disorders due to CAS.
+
+Citation: Ji K, et al. Metrics of retinal vasculature detected on OCTA in carotid artery stenosis: A systematic review and meta-analysis. Metrics of retinal vasculature detected on OCTA in carotid artery stenosis: A systematic review and meta-analysis. 2024; 50:104390. doi: 10.1016/j.pdpdt.2024.104390
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39489367/

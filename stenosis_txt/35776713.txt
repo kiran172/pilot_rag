@@ -1,0 +1,8 @@
+PMID: 35776713
+Title: A mathematical model of blood flow in a stenosed artery with post-stenotic dilatation and a forced field.
+
+Abstract: Arterial stenosis is a common cardiovascular disease that restricts blood flow. A stenotic blood vessel creates tangent stress pressure, which lessens the arterial side and causes an aneurysm. The primary purpose of this study is to investigate blood flowing via an inclination pipe with stricture and expansion after stricture (widening) underneath the influence of a constant incompressible Casson liquid flowing with the magnetism field. The relations for surface shearing stress, pressure drop, flow resistance, and velocity are calculated analytically by applying a mild stenosis approximation. The effect of different physical characteristics on liquid impedance to flowing, velocity, and surface shearing stress are studied. With a non-Newtonian aspect of the Casson liquid, the surface shearing stress declines, and an impedance upturn. Side resistivity and shear-stress increase with the elevations of stricture, whilst together decreasing with a dilatation height.
+
+Citation: Dhange M, et al. A mathematical model of blood flow in a stenosed artery with post-stenotic dilatation and a forced field. A mathematical model of blood flow in a stenosed artery with post-stenotic dilatation and a forced field. 2022; 17:e0266727. doi: 10.1371/journal.pone.0266727
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35776713/

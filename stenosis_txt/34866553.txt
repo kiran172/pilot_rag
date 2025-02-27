@@ -1,0 +1,11 @@
+PMID: 34866553
+Title: Effects of percutaneous balloon mitral valvuloplasty in patients with mitral stenosis and atrial fibrillation: a systematic review and meta-analysis.
+
+Abstract: OBJECTIVE: The study aimed to systematically review the existing literature and assess the effects of percutaneous balloon mitral valvuloplasty (PBMV) in patients with mitral stenosis and atrial fibrillation (AF) as opposed to sinus rhythm (SR).
+METHODS: Eligible studies were identified from six electronic databases before June 2021. The primary outcome was mitral valve area (MVA), and secondary outcomes were hemodynamic measurements, in-hospital complications, and long-term outcomes. Relative risks (RRs) or weighted mean differences (WMDs) with 95% confidence intervals (CIs) were used as effect sizes.
+RESULTS: Fifteen studies were included involving 6351 patients. For the primary outcome, the AF group obtained less favourable changes in MVA (WMD: -0.10, 95%CI: -0.14, -0.06) and a significantly smaller postoperative and long-term MVA (WMD: -0.13, 95%CI: -0.18, -0.08 and WMD: -0.10, 95%CI: -0.17, -0.03, respectively) compared to the SR group. For secondary outcome, the AF group was associated with suboptimal outcomes as following (WMD/RR, [95%CI]): higher LAP (1.37, [0.86, 1.87]), more embolism (2.85, [1.44, 5.63]), lower event-free survival (0.89, [0.80, 1.00]), higher incidences of mitral valve replacement (2.20, [1.40, 3.46]), re-PBMV (2.28, [1.63, 3.19]), and mortality (3.28, [2.42, 4.44]). No significant differences were found in other outcomes.
+CONCLUSIONS: The currently available evidence suggests that PBMV may be less effective in patients with AF than in those with SR. However, early treatment and appropriate management of AF patients undergoing PBMV may benefit the immediate and long-term outcomes.
+
+Citation: Liu B, et al. Effects of percutaneous balloon mitral valvuloplasty in patients with mitral stenosis and atrial fibrillation: a systematic review and meta-analysis. Effects of percutaneous balloon mitral valvuloplasty in patients with mitral stenosis and atrial fibrillation: a systematic review and meta-analysis. 2022; 77:890-899. doi: 10.1080/00015385.2021.1989837
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34866553/

@@ -1,0 +1,11 @@
+PMID: 36544671
+Title: Oxygen pulse variation in symptomatic patients with suspected coronary artery disease: a diagnostic analysis.
+
+Abstract: BACKGROUND: Cardiopulmonary exercise testing (CPET) has been found high sensitivity and specificity in cardiac ischemia. However, the role of CPET in coronary artery disease (CAD) is unclear. This study was to explore the diagnostic value of CPET indicators in CAD.
+METHODS: A total of 138 symptomatic patients with suspected CAD who underwent a CPET were included in this cross-sectional study. CPET indicators of all individuals were collected. ΔVO<sub>2</sub>/HR<sub>(Peak-AT)</sub> defined as the difference between the value of the oxygen consumption/heart rate (VO<sub>2</sub>/HR) at anaerobic threshold and peak exercise. The synergy between percutaneous coronary intervention with taxus and cardiac surgery (SYNTAX) score of all the CAD patients was calculated based on the complexity of the coronary lesions. The diagnostic performance of the CPET indicators was assessed by the area under the curve (AUC), sensitivity, and specificity.
+RESULTS: No significant differences in the CPET indicators were observed among the patients with or without CAD. The high SNYTAX score (≥22) group showed a significant reduction in the ΔVO<sub>2</sub>/HR<sub>(Peak-AT)</sub> compared to the low SNYTX score (&lt;22) group (P=0.004). The AUC of the ΔVO<sub>2</sub>/HR<sub>(Peak-AT)</sub> was 0.804 (P=0.005), with the sensitivity of 95.7% and the specificity of 62.5%. The other CPET indicators did not differ significantly between the 2 groups. Oxygen pulse variation after the anaerobic threshold (AT) is superior to other CPET-derived variables in detecting intermediate to severe stenosis of the coronary artery in CAD patients.
+CONCLUSIONS: The ΔVO<sub>2</sub>/HR<sub>(Peak-AT)</sub> is a quantitative indicator of the variation of the oxygen pulse response after the AT during incremental exercise. However, due to sample limitations, our results need to be interpreted with caution.
+
+Citation: Huang S, et al. Oxygen pulse variation in symptomatic patients with suspected coronary artery disease: a diagnostic analysis. Oxygen pulse variation in symptomatic patients with suspected coronary artery disease: a diagnostic analysis. 2022; 10:1225. doi: 10.21037/atm-22-5279
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36544671/

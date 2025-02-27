@@ -1,0 +1,11 @@
+PMID: 35570518
+Title: Development of a Nomogram for Predicting Asymptomatic Coronary Artery Disease in Patients with Ischemic Stroke.
+
+Abstract: BACKGROUND: Coronary artery stenosis (CAS) ≥50% often coexists in patients with ischemic stroke, which leads to a significant increase in the occurrence of major vascular events after stroke. This study aimed to develop a nomogram for diagnosing the presence of ≥50% asymptomatic CAS in patients with ischemic stroke.
+METHODS: A primary cohort was established that included 275 non-cardioembolic ischemic stroke patients who were admitted from January 2011 to April 2013 to a teaching hospital in southern China. The preoperative data were used to construct two models by the best subset regression and the forward stepwise regression methods, and a nomogram between these models was established. The assessment of the nomogram was carried out by discrimination and calibration in an internal cohort.
+RESULTS: Out of the two models, model 1 contained eight clinical-related variables and exhibited the lowest Akaike Information Criterion value (322.26) and highest concordance index 0.716 (95% CI, 0.654-0.778). The nomogram showed good calibration and significant clinical benefit according to calibration curves and the decision curve analysis.
+CONCLUSION: The nomogram, composed of age, sex, NIHSS score on admission, hypertension history, fast glucose level, HDL cholesterol level, LDL cholesterol level, and presence of ≥50% cervicocephalic artery stenosis, can be used for prediction of ≥50% asymptomatic coronary artery disease (CAD). Further studies are needed to validate the effectiveness of this nomogram in other populations.
+
+Citation: Yang J, et al. Development of a Nomogram for Predicting Asymptomatic Coronary Artery Disease in Patients with Ischemic Stroke. Development of a Nomogram for Predicting Asymptomatic Coronary Artery Disease in Patients with Ischemic Stroke. 2022; 19:188-195. doi: 10.2174/1574887117666220513104303
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35570518/

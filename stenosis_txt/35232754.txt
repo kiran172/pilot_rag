@@ -1,0 +1,11 @@
+PMID: 35232754
+Title: Baseline vessel wall magnetic resonance imaging characteristics associated with in-stent restenosis for intracranial atherosclerotic stenosis.
+
+Abstract: BACKGROUND: Imaging factors, specifically baseline plaque features on high-resolution magnetic resonance vessel wall imaging (HR-VWI) that could be associated with in-stent restenosis (ISR), are still unknown. We aimed to investigate the presenting clinical and plaque features on HR-VWI associated with ISR.
+METHODS: Sixty-four patients with intracranial stent placement for intracranial atherosclerotic stenosis who had pre- and post-contrast T1-weighted HR-VWI on 3.0T prior to stenting were included in this analysis. Student's t-test, Mann-Whitney U test, χ2 test, or the Cochran-Mantel-Haenszel (CMH) test were used to compare clinical and baseline HR-VWI characteristics of the patients between the ISR and non-ISR groups. Univariable and multivariable logistic analysis were used to test the clinical and imaging factors associated with ISR.
+RESULTS: Among the 64 patients, 9 patients (14.06%) developed ISR during the 2-year follow-up period. Plaque burden (median 0.89 vs 0.92, P=0.04), minimum lumen area (0.009 cm2 vs 0.006 cm2, P=0.04), plaque eccentricity (55.6% vs 89.1%, P＜0.01), enhancement ratio (1.36 vs 0.84, P＜0.01), and enhancement involvement (type 2 represents ≥50% cross-sectional wall involvement; 100% vs 63.6%, P=0.03) all significantly differed between patients with and without ISR. Multivariable analysis revealed that lower frequency of plaque eccentricity (OR 0.18, 95% CI 0.04 to 0.96, P=0.04) and higher enhancement ratio (OR 3.57, 95% CI 1.02 to 12.48, P=0.04) were independently associated with ISR.
+CONCLUSIONS: Preliminary findings showed that ISR was independently associated with plaque concentricity and higher enhancement ratios on pre-stenting HR-VWI for patients with symptomatic intracranial atherosclerotic stenosis.
+
+Citation: Tian B, et al. Baseline vessel wall magnetic resonance imaging characteristics associated with in-stent restenosis for intracranial atherosclerotic stenosis. Baseline vessel wall magnetic resonance imaging characteristics associated with in-stent restenosis for intracranial atherosclerotic stenosis. 2023; 15:288-291. doi: 10.1136/neurintsurg-2021-018473
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35232754/

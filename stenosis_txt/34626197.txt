@@ -1,0 +1,12 @@
+PMID: 34626197
+Title: The impact of social distancing during the COVID-19 pandemic on rates of pediatric idiopathic intussusception.
+
+Abstract: BACKGROUND: The causes of idiopathic ileocolic intussusception are unknown, with infection as the most likely culprit. Recently, social distancing measures were implemented during the coronavirus disease 2019 (COVID-19) pandemic to decrease transmissible infectious diseases, creating an opportune setting to study the role of infection on the pathogenesis of intussusception on a population level.
+OBJECTIVE: To investigate the impact of social distancing on intussusception.
+MATERIALS AND METHODS: We retrospectively reviewed air contrast enemas and pylorus ultrasounds performed between March 2010 and March 2021 to identify cases of ileocolic intussusception and hypertrophic pyloric stenosis (HPS), using the latter as a negative control. The study time frame was divided into two periods: pre-pandemic (March 2010-February 2020) and pandemic (April 2020-March 2021). The number of cases that occurred in these two time periods were compared using the Poisson regression model.
+RESULTS: Of the 407 cases of idiopathic ileocolic intussusception identified, 396 occurred in the pre-pandemic time period (mean = 39.6 per 12-month period) and 11 occurred in the 12-month pandemic time period. The mean monthly number of intussusceptions showed a decline of 72% (95% confidence interval [CI] 49-85%) between the pre-pandemic and pandemic time periods (3.3 vs. 0.9 monthly cases; P < 0.001). In contrast, the mean monthly number of HPS did not differ significantly (P = 0.19).
+CONCLUSION: Social distancing-imposed to curb the spread of infection during the COVID-19 pandemic-resulted in a significant decline in ileocolic intussusception, lending strong support to the theory that infection is the dominant cause of intussusception.
+
+Citation: Handa A, et al. The impact of social distancing during the COVID-19 pandemic on rates of pediatric idiopathic intussusception. The impact of social distancing during the COVID-19 pandemic on rates of pediatric idiopathic intussusception. 2022; 52:453-459. doi: 10.1007/s00247-021-05211-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34626197/

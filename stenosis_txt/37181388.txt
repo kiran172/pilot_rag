@@ -1,0 +1,12 @@
+PMID: 37181388
+Title: Cost-Effectiveness of Clopidogrel vs Aspirin Monotherapy After Percutaneous Coronary Intervention: Results From the HOST-EXAM Study.
+
+Abstract: BACKGROUND: The HOST-EXAM (Harmonizing Optimal Strategy for Treatment of Coronary Artery Disease-Extended Antiplatelet Monotherapy) trial showed superior efficacy and safety of clopidogrel monotherapy compared with aspirin monotherapy during the chronic maintenance period after percutaneous coronary intervention (PCI).
+OBJECTIVES: The goal of this study was to investigate the cost-effectiveness of clopidogrel monotherapy compared with that of aspirin monotherapy.
+METHODS: A Markov model was developed for patients in the stable phase after PCI. From the perspectives of the South Korean, UK, and U.S. health care systems, the lifetime health care costs and quality-adjusted life-years (QALYs) of each strategy were estimated. Transition probabilities were obtained from the HOST-EXAM trial, and health care costs and health-related utilities were obtained from data and literature for each country.
+RESULTS: From the perspective of the South Korean health care system, the base-case analysis showed that clopidogrel monotherapy was $3,192 higher in lifetime health care costs and 0.139 lower in QALYs compared with aspirin. This result was greatly influenced by the numerically but insignificantly higher cardiovascular mortality of clopidogrel compared with aspirin. In the analogous UK and U.S. models, clopidogrel monotherapy was projected to decrease health care costs by £1,122 and $8,920 per patient compared with aspirin monotherapy while reducing QALYs by 0.103 and 0.175, respectively.
+CONCLUSIONS: Based on empirical data from the HOST-EXAM trial, clopidogrel monotherapy was projected to lead to reduced QALYs compared with aspirin during the chronic maintenance period after PCI. These results were affected by a numerically higher rate of cardiovascular mortality in clopidogrel monotherapy reported from the HOST-EXAM trial. (Harmonizing Optimal Strategy for Treatment of Coronary Artery Stenosis-Extended Antiplatelet Monotherapy [HOST-EXAM]; NCT02044250).
+
+Citation: Hwang D, et al. Cost-Effectiveness of Clopidogrel vs Aspirin Monotherapy After Percutaneous Coronary Intervention: Results From the HOST-EXAM Study. Cost-Effectiveness of Clopidogrel vs Aspirin Monotherapy After Percutaneous Coronary Intervention: Results From the HOST-EXAM Study. 2023; 3:198-207. doi: 10.1016/j.jacasi.2022.12.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37181388/

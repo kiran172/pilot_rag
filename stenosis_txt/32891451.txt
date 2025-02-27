@@ -1,0 +1,11 @@
+PMID: 32891451
+Title: Membranous septum length predicts conduction disturbances following transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: Insufficient distance between membranous septum (MS) length and implant depth (ID) may aggravate mechanical compression of the conduction tissue by transcatheter aortic valve replacement (TAVR) prosthesis. We investigated the implication of MS length measured in the coronal view (coronal MS length) compared with infra-annular MS length from stretched vessel image to predict conduction disturbances following TAVR with CoreValve/Evolut R valves (Medtronic, Minneapolis, Minn).
+METHODS: Among 195 consecutive patients undergoing TAVR with CoreValve/Evolut R valves, we evaluated coronal, infra-annular MS lengths and ID, as well as MS length minus ID (ΔMSID) using pre-TAVR computed tomography and postprocedural angiography.
+RESULTS: Within 30 days, 6 (3.1%) required permanent pacemaker implantation and 31 (16.4%) developed left bundle branch block. When taking into account pre- and postprocedural parameters, multivariable logistic regression analysis revealed either coronal ΔMSID (odds ratio, 0.80; 95% confidence interval, 0.72-0.89; P < .001; cutoff point, 3.2 mm) or infra-annular ΔMSID (odds ratio, 0.84; 95% confidence interval, 0.76-0.92; P < .001; cutoff point, -0.2 mm) emerged as the only modifiable predictor of conduction disturbances. The area under the curve of coronal ΔMSID and infra-annular ΔMSID for predicting the occurrence of conduction disturbances were comparable (0.717 in coronal ΔMSID vs 0.708 in infra-annular ΔMSID; P = .761), but more patients could be guided by coronal MS length than infra-annular MS length (95.9% vs 87.2%; P = .002).
+CONCLUSIONS: Preprocedural assessment of MS length should be routinely adopted to determine the optimal ID to mitigate individual patient susceptibility to conduction disturbances after TAVR with self-expanding valves.
+
+Citation: Chen YH, et al. Membranous septum length predicts conduction disturbances following transcatheter aortic valve replacement. Membranous septum length predicts conduction disturbances following transcatheter aortic valve replacement. 2022; 164:42-51.e2. doi: 10.1016/j.jtcvs.2020.07.072
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32891451/

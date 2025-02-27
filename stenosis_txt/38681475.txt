@@ -1,0 +1,11 @@
+PMID: 38681475
+Title: Tracheal Stenosis in Open Versus Percutaneous Tracheostomy.
+
+Abstract: OBJECTIVE: This study aims to investigate if there is an increased risk of developing tracheal stenosis after tracheostomy with an open versus percutaneous tracheostomy.
+METHODS: The patient cohort included patients receiving open or percutaneous tracheostomies at Catholic Health Initiatives Midwest facilities from January 2017 to June 2023. The primary aim was to compare the differences in the risk of developing tracheal stenosis between open and percutaneous tracheostomy techniques. Between-technique differences in the risk of developing tracheal stenosis were assessed via a Cox proportional hazard model. To account for death precluding patients from developing tracheal stenosis, death was considered a competing risk.
+RESULTS: A total of 828 patients met inclusion criteria (61.7% open, 38.3% percutaneous); 2.5% (N = 21) developed tracheal stenosis. The median number of days to develop tracheal stenosis was 84 (interquartile range: 60 to 243, range: 6 to 739). Tracheal stenosis was more frequent in patients who received a percutaneous tracheostomy (percutaneous: 3.5% vs. open: 2.0%); however, the risk of developing tracheal stenosis was statistically similar between open and percutaneous techniques (HR: 2.05, 95% CI: 0.86-4.94, p = 0.108).
+CONCLUSIONS: This study demonstrates no significant difference in the development of tracheal stenosis when performing an open versus a percutaneous tracheostomy. Tracheal stenosis is a long-term complication of tracheostomy and should not influence the decision about the surgical technique used.
+
+Citation: Keirns DL, et al. Tracheal Stenosis in Open Versus Percutaneous Tracheostomy. Tracheal Stenosis in Open Versus Percutaneous Tracheostomy. 2024; 16:e57075. doi: 10.7759/cureus.57075
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38681475/

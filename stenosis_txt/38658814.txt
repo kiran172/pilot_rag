@@ -1,0 +1,11 @@
+PMID: 38658814
+Title: A systematic review of prediction models on arteriovenous fistula: Risk scores and machine learning approaches.
+
+Abstract: OBJECTIVE: Failure-to-mature and early stenosis remains the Achille's heel of hemodialysis arteriovenous fistula (AVF) creation. The maturation and patency of an AVF can be influenced by a variety of demographic, comorbidity, and anatomical factors. This study aims to review the prediction models of AVF maturation and patency with various risk scores and machine learning models.
+DATA SOURCES AND REVIEW METHODS: Literature search was performed on PubMed, Scopus, and Embase to identify eligible articles. The quality of the studies was assessed using the Prediction model Risk Of Bias ASsessment (PROBAST) Tool. The performance (discrimination and calibration) of the included studies were extracted.
+RESULTS: Fourteen studies (seven studies used risk score approaches; seven studies used machine learning approaches) were included in the review. Among them, 12 studies were rated as high or unclear "risk of bias." Six studies were rated as high concern or unclear for "applicability." C-statistics (Model discrimination metric) was reported in five studies using risk score approach (0.70-0.886) and three utilized machine learning methods (0.80-0.85). Model calibration was reported in three studies. Failure-to-mature risk score developed by one of the studies has been externally validated in three different patient populations, however the model discrimination degraded significantly (C-statistics: 0.519-0.53).
+CONCLUSION: The performance of existing predictive models for AVF maturation/patency is underreported. They showed satisfactory performance in their own study population. However, there was high risk of bias in methodology used to build some of the models. The reviewed models also lack external validation or had reduced performance in external cohort.
+
+Citation: Meng L and Ho P. A systematic review of prediction models on arteriovenous fistula: Risk scores and machine learning approaches. A systematic review of prediction models on arteriovenous fistula: Risk scores and machine learning approaches. 2024; (unknown volume):11297298241237830. doi: 10.1177/11297298241237830
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38658814/

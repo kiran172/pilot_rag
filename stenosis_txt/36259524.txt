@@ -1,0 +1,17 @@
+PMID: 36259524
+Title: High-Resolution Vessel Wall MRI in Assessing Postoperative Restenosis of Intracranial Atherosclerotic Disease Before Drug-Coated Balloon Treatment: An Outcome Prediction Study.
+
+Abstract: BACKGROUND: Postoperative restenosis frequently occurs in intracranial atherosclerotic disease (ICAD) patients after drug-coated balloon (DCB) treatment. However, high-risk plaques associated with postoperative restenosis remain to be explored.
+PURPOSE: To assess whether high-resolution vessel wall MRI (HR-VWI) contributes to the identification of high-risk plaques associated with postoperative restenosis before DCB treatment.
+STUDY TYPE: Retrospective.
+SUBJECTS: A total of 70 patients with ICAD who underwent DCB treatment.
+FIELD STRENGTH/SEQUENCE: 3.0 T; magnetic resonance angiography, HR-VWI.
+ASSESSMENT: All patients underwent HR-VWI examination prior to DCB treatment. Digital subtraction angiography (DSA) measurement was assessed 6 months (±1 month) after operation to determine the vessel restenosis, classifying patients into three groups of no stenosis, mild stenosis (<50%), and restenosis (>50%). Clinical factors and HR-VWI characteristics, including vessel and lumen area at maximal lumen narrowing (MLN), plaque area and length, degree of stenosis, plaque burden, remodeling index, and enhancement amplitude, were compared among three groups. Clinical factors and HR-VWI characteristics were separately evaluated for the association with postoperative restenosis.
+STATISTICAL TESTS: Kolmogorov-Smirnov test, intra-class correlation coefficient, Kruskal Wallis H test, Mann-Whitney U test, receiver operating characteristic (ROC) curve, multivariable linear regression analysis. P-values <0.05 was considered statistically significant.
+RESULTS: During the follow-up DSA measurement, 13 lesions (18.5%) showed restenosis. With HR-VWI, significant differences among three groups were observed in plaque length, lumen area of MLN, degree of stenosis, enhancement amplitude, and plaque burden. In ROC analysis, plaque length (area under the curve [AUC] = 0.809), and enhancement amplitude (AUC = 0.880) provided higher efficacy in identification of high-risk plaques associated with postoperative restenosis than degree of stenosis (AUC = 0.746) and plaque burden (AUC = 0.759). Multivariable linear regression analysis showed that plaque length and enhancement amplitude were independent prognostic factors of postoperative restenosis.
+DATA CONCLUSION: HR-VWI has the potential to identify high-risk plaques in ICAD patients before DCB treatment.
+LEVEL OF EVIDENCE: 4 TECHNICAL EFFICACY: Stage 2.
+
+Citation: Jiang S, et al. High-Resolution Vessel Wall MRI in Assessing Postoperative Restenosis of Intracranial Atherosclerotic Disease Before Drug-Coated Balloon Treatment: An Outcome Prediction Study. High-Resolution Vessel Wall MRI in Assessing Postoperative Restenosis of Intracranial Atherosclerotic Disease Before Drug-Coated Balloon Treatment: An Outcome Prediction Study. 2023; 58:69-78. doi: 10.1002/jmri.28490
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36259524/

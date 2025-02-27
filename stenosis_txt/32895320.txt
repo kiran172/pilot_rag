@@ -1,0 +1,11 @@
+PMID: 32895320
+Title: Predicting the need for retreatment in venous sinus stenting for idiopathic intracranial hypertension.
+
+Abstract: BACKGROUND: Idiopathic intracranial hypertension is a disease of raised intra-cranial pressure of unknown etiology. Lateral cerebral venous sinus stenosis (VSS) has been increasingly reported in these patients, and stenting has emerged as an alternative treatment for medically refractory symptoms. Treatment efficacy on meta-analysis appears promising, but identifying which patients are likely to benefit most, and which are likely to require repeat procedures, is currently unclear.
+METHODS: We retrospectively reviewed a prospectively collected database of 79 patients treated with venous sinus stenting at a single academic center with minimum follow-up of 18 months. We extracted baseline clinical data, as well as manometry at lumbar puncture and during angiography, and used logistic regression to identify parameters that could predict stent failure.
+RESULTS: Retreatment rate after successful VSS was 13.9%. Lumbar puncture opening pressure (OP) was shown to significantly predict treatment failure (ß=0.06; OR=1.064 (1.003-1.135); P=0.039). This effect remained significant when age, sex and body mass index were added to the model (ß=0.06; OR=1.066 (1.002-1.140); P=0.043). OP was correlated with venous sinus manometry readings in the superior sagittal and transverse sinus pre-stent placement, as well trans-stenotic gradient (P<0.001).
+CONCLUSIONS: Higher lumbar puncture OP was associated with an increased risk of stent failure in transverse sinus stenting for idiopathic intracranial hypertension, although the performance of this model as a linear discriminator was poor. Further studies are required to better assess which patients are at greatest risk of treatment failure.
+
+Citation: Kahan J, et al. Predicting the need for retreatment in venous sinus stenting for idiopathic intracranial hypertension. Predicting the need for retreatment in venous sinus stenting for idiopathic intracranial hypertension. 2021; 13:574-579. doi: 10.1136/neurintsurg-2020-016550
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32895320/

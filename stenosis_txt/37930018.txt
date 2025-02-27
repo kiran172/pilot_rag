@@ -1,0 +1,11 @@
+PMID: 37930018
+Title: Prognostic value of combined fractional flow reserve and pressure-bounded coronary flow reserve: outcomes in FFR and Pb-CFR assessment.
+
+Abstract: BACKGROUND: Coronary flow reserve (CFR) has an emerging role to predict outcome in patients with and without flow-limiting stenoses. However, the role of its surrogate pressure bounded-CFR (Pb-CFR) is controversial. We investigated the usefulness of combined use of fractional flow reserve (FFR) and Pb-CFR to predict outcomes.
+METHODS: This is a sub-study of the PROPHET-FFR Trial, including patients with chronic coronary syndrome and functionally tested coronary lesions. Patients were divided into four groups based on positive or negative FFR (cut-off 0.80) and preserved (lower boundary ≥2) or reduced (upper boundary <2) Pb-CFR: Group1 FFR≤0.80/ Pb-CFR <2; Group 2 FFR≤0.80/Pb-CFR≥2; Group 3 FFR >0.80/Pb-CFR<2; Group 4 FFR>0.80/Pb-CFR≥2. Lesions with positive FFR were treated with PCI. Primary endpoint was the rate of major adverse cardiac events (MACEs), defined as a composite of death from any cause, myocardial infarction, target vessel revascularization, unplanned cardiac hospitalization at 36-months.
+RESULTS: A total of 609 patients and 816 lesions were available for the analysis. At Kaplan-Meier analysis MACEs rate was significantly different between groups (36.7% Group 1, 27.4% Group 2, 19.2% Group 3, 22.6% Group 4, P=0.019) and more prevalent in groups with FFR≤0.80 irrespective of Pb-CFR. In case of discrepancy, no difference in MACEs were observed between groups stratified by Pb-CFR. FFR≤0.80 was associated with an increased MACEs rate (30.2% vs. 21.5%, P<0.01) while Pb-CFR<2 was not (24.5% vs. 24.2% Pb-CFR≥2 P=0.67).
+CONCLUSIONS: FFR confirms its ability to predict outcomes in patients with intermediate coronary stenoses. Pb-CFR does not add any relevant prognostic information.
+
+Citation: Galante D, et al. Prognostic value of combined fractional flow reserve and pressure-bounded coronary flow reserve: outcomes in FFR and Pb-CFR assessment. Prognostic value of combined fractional flow reserve and pressure-bounded coronary flow reserve: outcomes in FFR and Pb-CFR assessment. 2024; 72:152-162. doi: 10.23736/S2724-5683.23.06399-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37930018/

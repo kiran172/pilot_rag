@@ -1,0 +1,11 @@
+PMID: 35486329
+Title: The impact of lesion complexity on predicting mortality of coronary artery disease patients after out-of-hospital cardiac arrest.
+
+Abstract: INTRODUCTION: Coronary artery disease (CAD) is the most frequent cause of out-of-hospital cardiac arrest (OHCA). Nevertheless, there have been limited studies focusing on the impact of lesion complexity on resuscitated CAD patients. The purpose of the present study was to investigate the association between coronary lesion complexity and the mortality of CAD patients after OHCA.
+METHODS: From pooled database of two centers, which comprised 706 successfully resuscitated OHCA patients, 172 patients undergoing coronary angiography were retrospectively investigated. A total of 148 patients exhibited coronary stenosis on angiogram and were included in the final analysis. Baseline characteristics, pre-and post-hospital care, general status after resuscitation and angiographical findings were compared between the patients who deceased within 30 days and those who survived and the predictors of 30-day mortality were determined.
+RESULTS: Ninety-four patients (63.5%) survived at 30 days. Bystander cardiopulmonary resuscitation (CPR) (Odds ratio (OR) 0.36; 95% confidence interval (CI) 0.14-0.96; P = 0.041), revascularization of coronary stenosis (OR 0.15; 95% CI 0.19-0.86; P < 0.001), GRACE risk score (OR 1.04; 95% CI 1.02-1.05; P < 0.001) and SYNTAX score (OR 1.07; 95% CI 1.01-1.13; P = 0.025) were independent predictors of 30-day mortality. As multiple predictors such as bystander CPR, GRACE score and SYNTAX score were combined, the 30-day mortality gradually deteriorated.
+CONCLUSIONS: In addition to bystander CPR, GRACE score and revascularization, SYNTAX score independently predicted 30-day mortality of CAD patients after OHCA.
+
+Citation: Matsuda J, et al. The impact of lesion complexity on predicting mortality of coronary artery disease patients after out-of-hospital cardiac arrest. The impact of lesion complexity on predicting mortality of coronary artery disease patients after out-of-hospital cardiac arrest. 2022; 17:1669-1678. doi: 10.1007/s11739-022-02986-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35486329/

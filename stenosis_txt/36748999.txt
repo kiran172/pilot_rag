@@ -1,0 +1,11 @@
+PMID: 36748999
+Title: Medical therapy after surgical aortic valve replacement for aortic regurgitation.
+
+Abstract: OBJECTIVES: Current clinical guidelines have no specific recommendations regarding medical therapy after surgical aortic valve replacement in patients with aortic regurgitation (AR). We studied the association between medical therapy with renin-angiotensin system (RAS) inhibitors, statins and β-blockers and long-term major adverse cardiovascular events.
+METHODS: All patients undergoing valve replacement due to AR between 2006 and 2017 in Sweden and alive 6 months after discharge were included. Time-dependent multivariable Cox regression models adjusted for age, sex, patient characteristics, comorbidities, other medications and year of surgical aortic valve replacement were used. Primary outcome was a composite of all-cause mortality, myocardial infarction and stroke. Subgroup analyses based on age, sex, heart failure, low ejection fraction, hyperlipidaemia and hypertension were performed.
+RESULTS: A total of 2204 patients were included [median follow-up 5.0 years (range 0.0-11.5)]. At baseline, 68% of the patients were dispensed RAS inhibitors, 80% β-blockers and 35% statins. Dispense of RAS inhibitors and β-blockers declined over time, especially during the first year after baseline, while dispense of statins remained stable. Treatment with RAS inhibitors or statins was associated with a reduced risk of the primary outcome [adjusted hazard ratio (aHR) 0.71, 95% confidence interval (CI) 0.57-0.87 and aHR 0.78, 95% CI 0.62-0.99, respectively]. The results were consistent in subgroups based on age, sex and comorbidities. β-Blocker treatment was associated with an increased risk for the primary outcome (aHR 1.35, 95% CI 1.07-1.70).
+CONCLUSIONS: The results indicate a potential beneficial association of RAS inhibitors and statins as part of a secondary preventive treatment regime after aortic valve replacement in patients with AR. The role of β-blockers needs to be further investigated.
+
+Citation: Törngren C, et al. Medical therapy after surgical aortic valve replacement for aortic regurgitation. Medical therapy after surgical aortic valve replacement for aortic regurgitation. 2023; 63:(unknown pages). doi: 10.1093/ejcts/ezad042
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36748999/

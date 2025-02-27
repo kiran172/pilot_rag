@@ -1,0 +1,8 @@
+PMID: 38999448
+Title: Association between Systolic Blood Pressure Variability and Incident Aortic Stenosis.
+
+Abstract: Background: This study investigated the potential link between blood pressure variability (BPV) and the incidence of aortic stenosis (AS) using Korean National Health Insurance Service data from 2002 to 2019. Methods: We collected annual systolic blood pressure variability (SBPV) measurements consisting of three consecutive blood pressure readings each year over three years. The obtained SBPV data was divided into five quantiles, with the highest quintile representing a high fluctuation of blood pressure. Results: Analyzing 9,341,629 individuals with a mean age of 40.7 years, the study found 3981 new AS diagnoses during an average 8.66-year follow-up. Independent predictors for AS included higher blood pressure levels and elevated systolic blood pressure variability (SBPV). The hazard ratios (HR) for different SBPV quintiles compared to the reference (1st quintile) were as follows: 2nd quintile HR 1.09 (p = 0.18), 3rd quintile HR 1.13 (p = 0.04), 4th quintile HR 1.13 (p = 0.04), and 5th quintile HR 1.39 (p &lt; 0.001). Conclusion: Our findings suggest that both hypertension and high fluctuations in SBP during consecutive visits are associated with an increased risk of incident AS. These results emphasize the importance of blood pressure management and stability in the prevention of AS.
+
+Citation: Kim HJ, et al. Association between Systolic Blood Pressure Variability and Incident Aortic Stenosis. Association between Systolic Blood Pressure Variability and Incident Aortic Stenosis. 2024; 13:(unknown pages). doi: 10.3390/jcm13133881
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38999448/

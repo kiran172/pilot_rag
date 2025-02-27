@@ -1,0 +1,14 @@
+PMID: 31351874
+Title: Artificial Intelligence for the Measurement of the Aortic Valve Annulus.
+
+Abstract: OBJECTIVE: The authors aim to evaluate an automated echocardiography software as compared with computed tomography in measurement of the aortic valve annulus in patients with aortic stenosis. The authors hypothesize that aortic annular measurements by this software and computed tomography will show acceptable correlation.
+DESIGN: This study is an Institutional Review Board-approved, retrospective data collection of patients with aortic stenosis who underwent implantation of a transcatheter heart valve with intraprocedural transesophageal echocardiography, multidetector computed tomography, and use of the Siemens eSie Valves automated aortic valve software.
+SETTING: Intraprocedural in a single hospital institution.
+PARTICIPANTS: The participants are 47 patients who underwent implantation of an Edwards SAPIEN 3 transcatheter heart valve.
+INTERVENTIONS: The authors compared aortic valve annulus measurements by two-dimensional transesophageal echocardiography, computed tomography, and the automated software.
+MEASUREMENTS AND MAIN RESULTS: Aortic annulus measurements by the software correlated more closely to the computed tomography measurements than two-dimensional measurements. Bland-Altman analysis showed qualitative comparability of measurements performed by the automated software to computed tomography (95% limits of agreement between -4.62 mm and 1.26 mm for area-derived and -4.51 mm and 1.45 mm for perimeter-derived methods). Similarly, there was significant linear correlation with automated software use (r = 0.84, p < 0.0001 and r = 0.85, p < 0.0001).
+CONCLUSIONS: Periprocedural aortic valve measurement by automated echocardiographic software correlates with computed tomography in patients with severe aortic stenosis. This technology is helpful and accurate, but has limitations.
+
+Citation: Thalappillil R, et al. Artificial Intelligence for the Measurement of the Aortic Valve Annulus. Artificial Intelligence for the Measurement of the Aortic Valve Annulus. 2020; 34:65-71. doi: 10.1053/j.jvca.2019.06.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31351874/

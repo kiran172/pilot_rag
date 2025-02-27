@@ -1,0 +1,8 @@
+PMID: 32998305
+Title: Lab-on-a-Chip for Cardiovascular Physiology and Pathology.
+
+Abstract: Lab-on-a-chip technologies have allowed researchers to acquire a flexible, yet relatively inexpensive testbed to study one of the leading causes of death worldwide, cardiovascular disease. Cardiovascular diseases, such as peripheral artery disease, arteriosclerosis, and aortic stenosis, for example, have all been studied by lab-on-a-chip technologies. These technologies allow for the integration of mammalian cells into functional structures that mimic vital organs with geometries comparable to those found in vivo. For this review, we focus on microdevices that have been developed to study cardiovascular physiology and pathology. With these technologies, researchers can better understand the electrical-biomechanical properties unique to cardiomyocytes and better stimulate and understand the influence of blood flow on the human vasculature. Such studies have helped increase our understanding of many cardiovascular diseases in general; as such, we present here a review of the current state of the field and potential for the future.
+
+Citation: Beverung S, et al. Lab-on-a-Chip for Cardiovascular Physiology and Pathology. Lab-on-a-Chip for Cardiovascular Physiology and Pathology. 2020; 11:(unknown pages). doi: 10.3390/mi11100898
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32998305/

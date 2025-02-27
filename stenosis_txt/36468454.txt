@@ -1,0 +1,8 @@
+PMID: 36468454
+Title: Chemokine signaling synchronizes angioblast proliferation and differentiation during pharyngeal arch artery vasculogenesis.
+
+Abstract: Developmentally, the great vessels of the heart originate from the pharyngeal arch arteries (PAAs). During PAA vasculogenesis, PAA precursors undergo sequential cell fate decisions that are accompanied by proliferative expansion. However, how these two processes are synchronized remains poorly understood. Here, we find that the zebrafish chemokine receptor Cxcr4a is expressed in PAA precursors, and genetic ablation of either cxcr4a or the ligand gene cxcl12b causes PAA stenosis. Cxcr4a is required for the activation of the downstream PI3K/AKT cascade, which promotes not only PAA angioblast proliferation, but also differentiation. AKT has a well-known role in accelerating cell-cycle progression through the activation of cyclin-dependent kinases. Despite this, we demonstrate that AKT phosphorylates Etv2 and Scl, the key regulators of angioblast commitment, on conserved serine residues, thereby protecting them from ubiquitin-mediated proteasomal degradation. Altogether, our study reveals a central role for chemokine signaling in PAA vasculogenesis through orchestrating angioblast proliferation and differentiation.
+
+Citation: Liu J, et al. Chemokine signaling synchronizes angioblast proliferation and differentiation during pharyngeal arch artery vasculogenesis. Chemokine signaling synchronizes angioblast proliferation and differentiation during pharyngeal arch artery vasculogenesis. 2022; 149:(unknown pages). doi: 10.1242/dev.200754
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36468454/

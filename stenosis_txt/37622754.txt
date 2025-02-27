@@ -1,0 +1,13 @@
+PMID: 37622754
+Title: Long-term outcomes of measured and predicted prosthesis-patient mismatch following transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Both measured and predicted effective orifice area (EOA) indexed to the body surface area (EOAi) have been suggested to define prosthesis-patient mismatch (PPM) in patients undergoing transcatheter aortic valve replacement (TAVR). The impact of PPM on clinical outcomes may accumulate with extended follow-up and vary according to the definition used.
+AIMS: We aimed to investigate the long-term clinical impact of PPM in patients undergoing TAVR.
+METHODS: Patients in a prospective TAVR registry were stratified by the presence of moderate (0.65-0.85 or 0.55-0.70 cm2/m2 if obese) or severe (≤0.65 or ≤0.55 cm2/m2 if obese) PPM according to echocardiographically measured EOAi (measured PPM), predicted EOAi based on published EOA reference values for each valve model and size (predicted PPM<sub>THV</sub>), or predicted EOAi based on EOA reference values derived from computed tomography measurements of aortic annulus dimensions (predicted PPM<sub>CT</sub>).
+RESULTS: In an analysis of 2,463 patients, the frequency of measured PPM (moderate: 27.0%; severe: 8.7%) was higher than the frequency of predicted PPM<sub>THV</sub> (moderate: 11.3%; severe: 1.2%) or predicted PPM<sub>CT</sub> (moderate: 12.0%; severe: 0.1%). During a median follow-up of 429 days, 10-year mortality was comparable in patients with versus without measured PPM or predicted PPM<sub>CT</sub>. In contrast, patients with moderate predicted PPM<sub>THV</sub> had a lower risk of 10-year all-cause mortality compared with those without PPM (adjusted hazard ratio: 0.73, 95% confidence interval: 0.55-0.96).
+CONCLUSIONS: The use of predicted versus measured EOAi results in a lower estimate of PPM severity. We observed no increased risk of death in patients with PPM over a median follow-up time of 429 days.
+CLINICALTRIALS: gov: NCT01368250.
+
+Citation: Tomii D, et al. Long-term outcomes of measured and predicted prosthesis-patient mismatch following transcatheter aortic valve replacement. Long-term outcomes of measured and predicted prosthesis-patient mismatch following transcatheter aortic valve replacement. 2023; 19:746-756. doi: 10.4244/EIJ-D-23-00456
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37622754/

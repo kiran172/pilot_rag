@@ -1,0 +1,12 @@
+PMID: 37194663
+Title: Utilizing a Functional Lumen Imaging Probe for Evaluation of the Pediatric Airway, A Pilot Study.
+
+Abstract: OBJECTIVES: Accurate and reproducible measurements of the pediatric airway are critical for diagnostic evaluation and management of subglottic and tracheal stenosis. The endoluminal functional lumen imaging probe (EndoFLIP) is a catheter-based imaging probe which utilizes impedance planimetry to calculate luminal parameters, including cross-sectional area and compliance. Herein, we demonstrate the feasibility of this system for multidimensional evaluation of the pediatric airway.
+METHODS: 3D-printed pediatric laryngotracheal models were created based on computed tomography scans, then artificially deformed to simulate both circumferential and posterior subglottic stenosis. Two observers made six measurements of the minimum cross-sectional area (MCSA) and length of stenosis of each model with EndoFLIP. Agreement between observer measurements and model dimensions was evaluated using Lin's concordance correlation coefficient; inter-observer reliability was assessed using intraclass correlation.
+RESULTS: Four models were created: two without pathology (MCSA: 132.4, 44.3 mm2 ) and two with subglottic stenosis (MCSA: 28.7, 59.7 mm2 , stenotic length 27.8, 24.4 mm). Observer measurements of MCSA and length of stenosis demonstrated high concordance with the models (r = 0.99, 0.95, p &lt; 0.001) with a mean error of 4.5% and 18.2% respectively. There was a low coefficient of variation (0.6%-2.8%) for measurements, indicating high precision. Interrater reliability was high for both MCSA and stenotic length (ICC: 0.99, 0.98).
+CONCLUSIONS: The EndoFLIP system allows for accurate and reproducible measurements of cross-sectional area and stenotic length in pediatric airway models. This method may provide further advantages in the evaluation of airway distensibility, as well as measurements of asymmetric airway pathology.
+LEVEL OF EVIDENCE: NA Laryngoscope, 134:108-112, 2024.
+
+Citation: Shen SA, et al. Utilizing a Functional Lumen Imaging Probe for Evaluation of the Pediatric Airway, A Pilot Study. Utilizing a Functional Lumen Imaging Probe for Evaluation of the Pediatric Airway, A Pilot Study. 2024; 134:108-112. doi: 10.1002/lary.30745
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37194663/

@@ -1,0 +1,11 @@
+PMID: 36649457
+Title: Impact of Metabolic Activity of Vertebra and Amygdala on Stroke Recurrence: A Prospective Cohort Study.
+
+Abstract: BACKGROUND: Elevated metabolic activity of amygdala is known to be related to atherosclerotic cardiovascular event by increasing inflammatory cell production from bone marrow. We tried to identify the factors of metabolic activity in the amygdala, vertebrae, liver, spleen, and internal carotid artery related to the future vascular events after stroke.
+METHODS: A total of 110 patients with acute stroke were included (72±10 years of age, 39% women) and underwent whole-body 18F-fluorodeoxyglucose (FDG) positron emission tomography between August 1, 2015 and February 28, 2020. We compared the FDG uptake in the amygdala, vertebrae, liver, spleen, and internal carotid artery between patients with and without recurrent vascular event. Cox proportional hazards model was used to identify factors related to recurrent stroke and vascular event.
+RESULTS: During the median follow-up period of 18 months, 22 patients experienced vascular events, including 15 stroke recurrence. Patients with recurred vascular event had a significantly higher FDG uptake in the amygdala and vertebrae than those without. The Cox proportional hazard model including diabetes, renal function, and carotid stenosis showed that a higher FDG uptake in the amygdala was independently associated with total vascular events (hazard ratio, 3.11 [95% CI, 1.11-8.70]) and higher FDG uptake in the vertebrae with stroke recurrence (hazard ratio, 4.94 [95% CI, 1.29-18.9]).
+CONCLUSIONS: The increased metabolic activities of the vertebrae and amygdala are related to future vascular event among stroke survivors.
+
+Citation: Kim JM, et al. Impact of Metabolic Activity of Vertebra and Amygdala on Stroke Recurrence: A Prospective Cohort Study. Impact of Metabolic Activity of Vertebra and Amygdala on Stroke Recurrence: A Prospective Cohort Study. 2023; 16:e014544. doi: 10.1161/CIRCIMAGING.122.014544
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36649457/

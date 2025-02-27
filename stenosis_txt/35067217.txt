@@ -1,0 +1,11 @@
+PMID: 35067217
+Title: Treatment-based classification for low back pain: systematic review with meta-analysis.
+
+Abstract: OBJECTIVE: To systematically review the effects of treatment-based classification (TBC) in patients with specific and nonspecific acute, subacute and chronic low back pain.
+METHODS: The following databases were searched: MEDLINE, EMBASE, PsycINFO, Global Health, CENTRAL, Web of Science, CINAHL, SPORTDiscus, PEDro and WHO from inception up to December 2021. We used the PEDro scale, the TIDieR checklist and the GRADE approach to evaluate the risk of bias, quality on reporting and the certainty of the evidence, respectively.
+RESULTS: Twenty-three trials (pooled n = 2,649) met the inclusion criteria. We have identified a total of 22 comparisons and 134 estimates of treatment effects. There was a very large heterogeneity with regards to the comparison groups. Most of individual trials had low risk of bias with a mean score of 6.8 (SD = 1.3) on a 0-10 scale. The certainty of evidence for most comparisons was low, which indicates that more high quality and robust trials are needed. We were able to pool the data using a meta-analysis approach for only two comparisons (TBC versus mobility exercises in patients with acute low back pain and traction for patients with sciatica). In general, the TBC approach seems to be useful for patients with acute low back pain, sciatica and with spinal stenosis. We strongly suggest readers to carefully read our summary of findings table for further details on each comparison.
+CONCLUSION: The TBC approach seems to be useful for patients with acute low back pain, sciatica and with spinal stenosis.
+
+Citation: Bastos RM, et al. Treatment-based classification for low back pain: systematic review with meta-analysis. Treatment-based classification for low back pain: systematic review with meta-analysis. 2022; 30:207-227. doi: 10.1080/10669817.2021.2024677
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35067217/

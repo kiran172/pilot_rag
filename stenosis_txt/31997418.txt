@@ -1,0 +1,11 @@
+PMID: 31997418
+Title: Plaque neovascularization detected with contrast-enhanced ultrasound predicts ischaemic stroke recurrence in patients with carotid atherosclerosis.
+
+Abstract: BACKGROUND AND PURPOSE: Plaque neovascularization is a hallmark of carotid plaque vulnerability. With contrast-enhanced ultrasound (CEUS) it is possible to visualize plaque neovessels in vivo. Our aim was to determine if CEUS-detected neovessels were associated with stroke recurrences in patients with a recent stroke and carotid atherosclerosis.
+METHODS: We conducted a prospective study of consecutive patients with a recent stroke and at least one atherosclerotic plaque in the internal carotid artery on the side consistent with symptoms. All of our patients underwent a carotid ultrasound examination including a CEUS study. Neovascularization was graded into three categories according to the extent of neovessels. During the follow-up, we recorded stroke recurrences. A multivariable Cox regression analysis was performed to evaluate predictors of recurrence.
+RESULTS: We included 78 patients whose mean age was 74.3 ± 10.4 years. There were 29 (37.2%) patients with a low-grade stenosis (<50%). The remainder presented moderate (50%-69%) or high-grade (≥70%) stenosis. CEUS was not interpretable in 35.9% of the patients, mainly due to calcium shadows. We detected neovascularization in 80% of the plaques. After a median follow-up of 14.1 (interquartile range, 9.5-19.6) months, there were 15 (19.2%) stroke recurrences. In the Cox regression analysis, CEUS-detected neovascularization was independently associated with the risk of stroke recurrence, even after adjusting for the degree of stenosis (hazard ratio, 6.57; 95% confidence interval, 1.66-26.01).
+CONCLUSION: In patients with an anterior circulation ischaemic stroke and carotid atherosclerosis, plaque neovascularization detected with CEUS was an independent predictor of stroke recurrence.
+
+Citation: Camps-Renom P, et al. Plaque neovascularization detected with contrast-enhanced ultrasound predicts ischaemic stroke recurrence in patients with carotid atherosclerosis. Plaque neovascularization detected with contrast-enhanced ultrasound predicts ischaemic stroke recurrence in patients with carotid atherosclerosis. 2020; 27:809-816. doi: 10.1111/ene.14157
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31997418/

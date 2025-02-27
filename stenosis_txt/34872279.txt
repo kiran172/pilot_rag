@@ -1,0 +1,11 @@
+PMID: 34872279
+Title: Combining ultrasound with bio-indicators reveals progression of carotid stenosis.
+
+Abstract: BACKGROUND: Carotid artery stenosis (CAS) is one of the leading causes of ischemic stroke. However, knowledge of the changes in the plaque itself is lacking. Information about the ultrasound and clinical features of CAS will help elucidate the changes in prognostic and risk factors.
+METHODS: We evaluated 736 patients with carotid stenosis for an average 18-month follow-up. According to their degree of CAS stenosis, patients were allocated to one of three groups: regression (n=125), stable (n=443), or progression (n=168). An ordinal regression analysis was used to determine the risk factors for atherosclerosis progression. A logistic regression was subsequently applied to investigate the effects of CAS stenosis on cerebrovascular events after adjusting for various factors.
+RESULTS: The progression group had more male patients (P=0.02), hypoechoic plaque (P<0.01), high-risk high sensitivity C-reactive protein (hs-CRP) (P=0.02), ulcerative plaque (P=0.05), and hyperlipidemia (P=0.05) than the other two groups. There were no significant differences in residual ultrasound and clinical features among the three groups, including age, high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), intima-media thickness (IMT), body mass index (BMI), diabetes mellitus (DM), hypertension (HTN), coronary heart disease (CHD), statin use, ulcerative plaque. The ordinal regression analysis identified hypoechoic plaque (OR, 1.53; 95% CI: 1.14-2.05; P<0.01) and high-risk hs-CRP (OR, 1.75; 95% CI: 1.17-2.61; P<0.01) as independent risk factors for CAS progression. Logistic regression analysis revealed that the stroke/transient ischemic attack adjusted odds ratio was 1.80 (95% CI: 1.03-3.13) in the progression group.
+CONCLUSIONS: High-risk hs-CRP and hypoechoic plaque are independently associated with CAS progression. The progression of carotid stenosis is associated with a high risk of cerebrovascular events.
+
+Citation: Liu M, et al. Combining ultrasound with bio-indicators reveals progression of carotid stenosis. Combining ultrasound with bio-indicators reveals progression of carotid stenosis. 2021; 10:11539-11547. doi: 10.21037/apm-21-2666
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34872279/

@@ -1,0 +1,11 @@
+PMID: 34548012
+Title: ST-segment resolution as a marker for severe myocardial fibrosis in ST-segment elevation myocardial infarction.
+
+Abstract: OBJECTIVE: To investigate the relationship between ST-segment resolution (STR) and myocardial scar thickness after percutaneous coronary intervention (PCI) in patients with ST-segment elevation myocardial infarction (STEMI).
+METHODS: Forty-two STEMI patients with single-branch coronary artery stenosis or occlusion were enrolled. ST-segment elevations were measured at emergency admission and at 24 h after PCI. Late gadolinium-enhanced cardiac magnetic resonance imaging (CMR-LGE) was performed 7 days after PCI to evaluate myocardial scars. Statistical analyses were performed to assess the utility of STR to predict the development of transmural (> 75%) or non-transmural (< 75%) myocardial scars, according to previous study.
+RESULTS: The sensitivity and specificity of STR for predicting transmural scars were 96% and 88%, respectively, at an STR cut-off value of 40.15%. The area under the curve was 0.925. Multivariate logistic proportional hazards regression analysis disclosed that patients with STR < 40.15% had a 170.90-fold higher probability of developing transmural scars compared with patients with STR ≥ 40.15%. Pearson correlation and linear regression analyses showed STR percentage was significantly associated with myocardial scar thickness and size.
+CONCLUSION: STR < 40.15% at 24 h after PCI may provide meaningful diagnostic information regarding the extent of myocardial scarification in STEMI patients.
+
+Citation: Dong Q, et al. ST-segment resolution as a marker for severe myocardial fibrosis in ST-segment elevation myocardial infarction. ST-segment resolution as a marker for severe myocardial fibrosis in ST-segment elevation myocardial infarction. 2021; 21:455. doi: 10.1186/s12872-021-02269-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34548012/

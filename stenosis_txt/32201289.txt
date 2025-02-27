@@ -1,0 +1,11 @@
+PMID: 32201289
+Title: Association of Frailty and Self-Care Activity With Sagittal Spinopelvic Alignment in the Elderly.
+
+Abstract: OBJECTIVE: To assess the relationship between frailty, activities of daily living (ADL), instrumental ADL (IADL), and sagittal spinopelvic parameters in the elderly.
+METHODS: To compare the characteristics based on the FRAIL scale status (robust, prefrail, frail), continuous variables were analyzed using ANOVA with Tukey post hoc tests, and categorical variables were analyzed using χ2 and Fisher's exact test. Multivariate linear regression was used to investigate cross-sectional association between sagittal alignment and FRAIL status.
+RESULTS: Comparison analysis of the 3 groups (robust, prefrail, frail) demonstrated that frailty scale had significant correlations with T1 pelvic angle (T1PA, P = 0.019), pelvic tilt (PT, P = 0.004), pelvic incidence minus lumbar lordosis (PI-LL, P = 0.004) and ADL (P = 0.017). Multiple regression analysis that controlled for confounding factors confirmed the correlations between frailty scale and spinopelvic parameters (C7 sagittal vertical axis [SVA], B = 17.49, P = 0.028; T1PA, B = 4.83, P = 0.029; PT, B = 4.62, P = 0.003; PI-LL value, B = 7.11, P = 0.005). In addition, the ADL was associated with T1PA (B = 4.06, P = 0.006); whereas the IADL was correlated with C7 SVA (B = 11.38, P = 0.005), T1PA (B = 3.36, P = 0.003), and PI-LL (B = 3.13, P = 0.018).
+CONCLUSIONS: Higher frailty score was associated with higher grades of sagittal spinopelvic malalignment and ADL in the elderly. Furthermore, higher ADL and IADL scores were associated with higher grades of sagittal spinopelvic malalignment. Frailty, ADL, IADL, and sagittal spinopelvic parameters were closely related to each other in the elderly.
+
+Citation: Kim TW, et al. Association of Frailty and Self-Care Activity With Sagittal Spinopelvic Alignment in the Elderly. Association of Frailty and Self-Care Activity With Sagittal Spinopelvic Alignment in the Elderly. 2020; 138:e759-e766. doi: 10.1016/j.wneu.2020.03.071
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32201289/

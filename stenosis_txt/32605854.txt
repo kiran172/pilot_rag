@@ -1,0 +1,11 @@
+PMID: 32605854
+Title: Duplex Ultrasound Investigation for the Detection of Obstructed Iliocaval Venous Stents.
+
+Abstract: OBJECTIVE: Duplex ultrasound (DUS) is used for routine surveillance of stents in iliocaval veins, but direct visualisation is often challenging. Duplex ultrasound criteria for detecting venous stent obstruction (VSO) have not been defined to date.
+METHODS: A nested case control study of 120 patients (42 ± 17 years, 53% women, mean 2.7 ± 1.8 stents) was performed, and the performance of various duplex parameters for detecting VSO (defined as > 50% lumen diameter reduction or occlusion) was tested, confirmed by biplane venography or intravascular ultrasound (IVUS). Forty patients with VSO (25 with stent occlusion, 15 with >50% in stent stenosis) were matched to 80 control patients by age, gender and index diagnosis who fulfilled the following criteria: (1) ongoing symptom control (Villalta score < 5), (2) good image quality of entire stent segment, (3) spontaneous colour Doppler signal > 50% of lumen in entire stent segment, (4) at least two DUS where the baseline DUS was obtained within 24 h after successful venous intervention.
+RESULTS: The best test was the combination of peak flow velocity and flow pattern analysis at the stent inlet. A peak flow velocity >10 cm/s and a flow pattern spontaneously modulated by respiration ruled out VSO with a specificity of 93.7% (95% CI 86.0%-97.3%). A peak flow velocity ≤10 cm/s or any Doppler flow pattern other than spontaneously modulated by respiration was 92.1% (95% CI 79.2%-97.3%) sensitive to detect VSO.
+CONCLUSION: The combination of peak flow velocity and analysis of Doppler flow pattern at the stent inlet is accurate to diagnose or rule out stent occlusion. Indirect criteria should always be combined with direct visualisation of iliocaval stents since those may be less sensitive for detecting stent stenosis.
+
+Citation: Sebastian T, et al. Duplex Ultrasound Investigation for the Detection of Obstructed Iliocaval Venous Stents. Duplex Ultrasound Investigation for the Detection of Obstructed Iliocaval Venous Stents. 2020; 60:443-450. doi: 10.1016/j.ejvs.2020.05.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32605854/

@@ -1,0 +1,15 @@
+PMID: 35385788
+Title: Cervical foraminal stenosis as a risk factor for cervical kyphosis following cervical laminoplasty.
+
+Abstract: BACKGROUND CONTEXT: Cervical laminoplasty (CLP) is an effective spinal cord decompression method for patients with cervical myelopathy. However, cervical kyphosis after CLP may cause insufficient decompression of the spinal cord. Thus, prevention of cervical kyphosis after CLP and identification of its risk factors are essential.
+PURPOSE: This study aimed to investigate the relationship between preoperative cervical foraminal stenosis and kyphotic changes after CLP.
+STUDY DESIGN: A retrospective study.
+PATIENT SAMPLE: We reviewed 108 patients who underwent CLP for cervical myelopathy between May 2014 and May 2019 and who were followed up for at least 24 months.
+OUTCOME MEASURES: For clinical assessments, neck pain, arm pain, neck disability index, Japanese Orthopedic Association scores, EuroQol 5-Dimension, and subjective improvement rate reported by the patients were evaluated. For radiologic parameters, C2-7 Cobb lordotic angle (CLA), C2-7 sagittal vertical axis, T1 slope (TS), TS minus CLA (TS-CLA), and cervical range of motion were assessed preoperatively and postoperatively for 24 months. Cervical foraminal stenosis was evaluated by magnetic resonance imaging and computed tomography.
+METHODS: The study population was divided into the kyphosis group (n = 25 patients) and the lordosis group (n = 83 patients) according to the CLA at 24 months postoperatively. Preoperative risk factors related to postoperative kyphosis were analyzed. Statistical analyses were performed using independent two-sample t test, Chi-square test, logistic regression analysis, and linear mixed model.
+RESULTS: Preoperative foraminal stenosis, CLA, TS, and TS-CLA were significantly different between the kyphosis and lordosis groups. In multivariate logistic regression analysis, foraminal stenosis (odds ratio [OR], 4.471; p = .0242) significantly increased the risk of kyphosis. The probability of developing kyphosis decreased with an increase in the CLA (OR, 0.840; p = .0001), while the probability of developing kyphosis increased with an increase in the TS-CLA (OR, 1.104; p = .0044).
+CONCLUSIONS: Preoperative cervical foraminal stenosis is an independent risk factor for cervical kyphosis following CLP. Thus, CLP may not be a suitable surgical option for cervical myelopathy combined with foraminal stenosis.
+
+Citation: Seo J, et al. Cervical foraminal stenosis as a risk factor for cervical kyphosis following cervical laminoplasty. Cervical foraminal stenosis as a risk factor for cervical kyphosis following cervical laminoplasty. 2022; 22:1271-1280. doi: 10.1016/j.spinee.2022.03.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35385788/

@@ -1,0 +1,12 @@
+PMID: 35320407
+Title: TAVI in patients with low-flow low-gradient aortic stenosis-short-term and long-term outcomes.
+
+Abstract: OBJECTIVES: The study objective was to characterize different groups of low-flow low-gradient (LFLG) aortic stenosis (AS) and determine short-term outcomes and long-term mortality according to Valve Academic Research Consortium-3 (VARC-3) endpoint definitions.
+BACKGROUND: Characteristics and outcomes of patients with LFLG AS undergoing transcatheter aortic valve implantation (TAVI) are poorly understood.
+METHODS: All patients undergoing TAVI at our center between 2013 and 2019 were screened. Patients were divided into three groups according to mean pressure gradient (dPmean), ejection fraction (LVEF), and stroke volume index (SVi): high gradient (HG) AS (dPmean ≥ 40 mmHg), classical LFLG (cLFLG) AS (dPmean &lt; 40 mmHg, LVEF &lt; 50%), and paradoxical LFLG (pLFLG) AS (dPmean &lt; 40 mmHg, LVEF ≥ 50%, SVi ≤ 35 ml/m2).
+RESULTS: We included 1776 patients (956 HG, 447 cLFLG, and 373 pLFLG patients). Most baseline characteristics differed significantly. Median Society of Thoracic Surgeons (STS) score was highest in cLFLG, followed by pLFLG and HG patients (5.0, 3.9 and 3.0, respectively, p < 0.01). Compared to HG patients, odds ratios for the short-term VARC-3 composite endpoints, technical failure (cLFLG, 0.76 [95% confidence interval, 0.40-1.36], pLFLG, 1.37 [0.79-2.31]) and device failure (cLFLG, 1.06 [0.74-1.49], pLFLG, 0.97 [0.66-1.41]) were similar, without relevant differences within LFLG patients. NYHA classes improved equally in all groups. Compared to HG, LFLG patients had a higher 3-year all-cause mortality (STS score-adjusted hazard ratios, cLFLG 2.16 [1.77-2.64], pLFLG 1.53 [1.22-193]), as well as cardiovascular mortality (cLFLG, 2.88 [2.15-3.84], pLFLG, 2.08 [1.50-2.87]).
+CONCLUSIONS: While 3-year mortality remains high after TAVI in LFLG compared to HG patients, symptoms improve in all subsets after TAVI.
+
+Citation: Steffen J, et al. TAVI in patients with low-flow low-gradient aortic stenosis-short-term and long-term outcomes. TAVI in patients with low-flow low-gradient aortic stenosis-short-term and long-term outcomes. 2022; 111:1325-1335. doi: 10.1007/s00392-022-02011-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35320407/

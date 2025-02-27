@@ -1,0 +1,11 @@
+PMID: 36632201
+Title: Angiography-derived radial wall strain predicts coronary lesion progression in non-culprit intermediate stenosis.
+
+Abstract: BACKGROUND: Intermediate coronary lesions (ICLs) are highly prevalent but ported mixed prognosis. Radial strain has been associated with plaque vulnerability, yet its role in predicting lesion progression is largely unknown. The purpose of this study was to determine the predictive value of angiography-derived radial wall strain (RWS) for progression of untreated non-culprit ICLs.
+METHODS: Post-hoc analysis was conducted in a study cohort including 603 consecutive patients with 808 ICLs identified at index procedure with angiographic follow-up of up to two years. RWS analysis was performed on selected angiographic frames with minimal foreshortening and vessel overlap. Lesion progression was defined as ≥ 20% increase in percent diameter stenosis.
+RESULTS: Lesion progression occurred in 49 ICLs (6.1%) with a median follow-up period of 16.8 months. Maximal RWS (RWS<sub>max</sub>), frequently located at the proximal and throat plaque regions, distinguished progressive ICLs from silent ones. The largest area under the curve value of 0.75 (95% CI: 0.67-0.82, P &lt; 0.001) was reached at the optimal RWS<sub>max</sub> cutoff value of &gt; 12.6%. According to this threshold, 178 ICLs were classified as having a high strain pattern. Exposure to a high strain amplitude with RWS<sub>max</sub> &gt; 12.6% was independently associated with an increased risk of lesion progression (adjusted HR = 6.82, 95% CI: 3.67-12.66, P &lt; 0.001).
+CONCLUSIONS: Assessment of RWS from coronary angiography is feasible and provides independent prognostic value in patients with untreated ICLs.
+
+Citation: Wang ZQ, et al. Angiography-derived radial wall strain predicts coronary lesion progression in non-culprit intermediate stenosis. Angiography-derived radial wall strain predicts coronary lesion progression in non-culprit intermediate stenosis. 2022; 19:937-948. doi: 10.11909/j.issn.1671-5411.2022.12.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36632201/

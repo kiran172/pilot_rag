@@ -1,0 +1,12 @@
+PMID: 36596624
+Title: Deep learning-based prediction of future myocardial infarction using invasive coronary angiography: a feasibility study.
+
+Abstract: BACKGROUND: Angiographic parameters can facilitate the risk stratification of coronary lesions but remain insufficient in the prediction of future myocardial infarction (MI).
+AIMS: We compared the ability of humans, angiographic parameters and deep learning (DL) to predict the lesion that would be responsible for a future MI in a population of patients with non-significant CAD at baseline.
+METHODS: We retrospectively included patients who underwent invasive coronary angiography (ICA) for MI, in whom a previous angiogram had been performed within 5 years. The ability of human visual assessment, diameter stenosis, area stenosis, quantitative flow ratio (QFR) and DL to predict the future culprit lesion (FCL) was compared.
+RESULTS: In total, 746 cropped ICA images of FCL and non-culprit lesions (NCL) were analysed. Predictive models for each modality were developed in a training set before validation in a test set. DL exhibited the best predictive performance with an area under the curve of 0.81, compared with diameter stenosis (0.62, p=0.04), area stenosis (0.58, p=0.05) and QFR (0.67, p=0.13). DL exhibited a significant net reclassification improvement (NRI) compared with area stenosis (0.75, p=0.03) and QFR (0.95, p=0.01), and a positive nonsignificant NRI when compared with diameter stenosis. Among all models, DL demonstrated the highest accuracy (0.78) followed by QFR (0.70) and area stenosis (0.68). Predictions based on human visual assessment and diameter stenosis had the lowest accuracy (0.58).
+CONCLUSION: In this feasibility study, DL outperformed human visual assessment and established angiographic parameters in the prediction of FCLs. Larger studies are now required to confirm this finding.
+
+Citation: Mahendiran T, et al. Deep learning-based prediction of future myocardial infarction using invasive coronary angiography: a feasibility study. Deep learning-based prediction of future myocardial infarction using invasive coronary angiography: a feasibility study. 2023; 10:(unknown pages). doi: 10.1136/openhrt-2022-002237
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36596624/

@@ -1,0 +1,12 @@
+PMID: 36698944
+Title: 4D-flow MRI derived wall shear stress for the risk stratification of bicuspid aortic valve aortopathy: A systematic review.
+
+Abstract: PURPOSE: Current intervention guidelines for bicuspid aortic valve (BAV) associated ascending aorta (AAo) dilatation are suboptimal predictors of clinical outcome. There is growing interest in identifying better biomarkers such as wall shear stress (WSS) to help risk stratify BAV aortopathy. The aim of the systematic review is to synthesize existing evidence of the relationship between WSS and aortopathy in the BAV population.
+METHODS: A comprehensive literature search of available major databases was performed in May 2022 to include studies that used four-dimensional flow cardiac magnetic resonance (4D-flow) MRI to quantify WSS in the AAo in adult BAV populations. Summary results and statistical analysis were provided for key numerical results. A narrative summary was provided to assess similarities between studies.
+RESULTS: A total of 26 studies that satisfied selection criteria and quality assessment were included in the review. The presence of BAV resulted in significantly elevated WSS magnitude and circumferential WSS, but not axial WSS. The presence of aortic stenosis had additional impact on WSS and flow alterations. BAV phenotypes were associated with different WSS distributions and flow profiles. Altered protein expression in the AAo wall associated with WSS supported the contribution of altered hemodynamics to aortopathy in addition to genetic factors.
+CONCLUSION: WSS has the potential to be a valid biomarker for BAV aortopathy. Future work would benefit from larger study cohorts with longitudinal evaluations to further characterize WSS association with aortopathy, mortality, and morbidities.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022337077, identifier CRD42022337077.
+
+Citation: Qin JJ, et al. 4D-flow MRI derived wall shear stress for the risk stratification of bicuspid aortic valve aortopathy: A systematic review. 4D-flow MRI derived wall shear stress for the risk stratification of bicuspid aortic valve aortopathy: A systematic review. 2022; 9:1075833. doi: 10.3389/fcvm.2022.1075833
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36698944/

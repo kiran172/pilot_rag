@@ -1,0 +1,11 @@
+PMID: 36875165
+Title: Novel fast FFR derived from coronary CT angiography based on static first-pass algorithm: a comparison study.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) is the invasive gold standard for evaluating coronary arterial stenosis. However, there have been a few non-invasive methods such as computational fluid dynamics FFR (CFD-FFR) with coronary CT angiography (CCTA) images that can perform FFR assessment. This study aims to develop a new method based on the principle of static first-pass of CT perfusion imaging technique (SF-FFR) and evaluate the efficacy in direct comparisons between CFD-FFR and the invasive FFR.
+METHODS: A total of 91 patients (105 coronary artery vessels) who were admitted from January 2015 to March 2019 were enrolled in this study, retrospectively. All patients underwent CCTA and invasive FFR. 64 patients (75 coronary artery vessels) were successfully analyzed. The correlation and diagnostic performance of SF-FFR method on per-vessel basis were analyzed, using invasive FFR as the gold standard. As a comparison, we also evaluated the correlation and diagnostic performance of CFD-FFR.
+RESULTS: The SF-FFR showed a good Pearson correlation (r = 0.70, P &lt; 0.001) and intra-class correlation (r = 0.67, P &lt; 0.001) with the gold standard. The Bland-Altman analysis showed that the average difference between the SF-FFR and invasive FFR was 0.03 (0.11-0.16); between CFD-FFR and invasive FFR was 0.04 (-0.10-0.19). Diagnostic accuracy and area under the ROC curve on a per-vessel level were 0.89, 0.94 for SF-FFR, and 0.87, 0.89 for CFD-FFR, respectively. The SF-FFR calculation time was about 2.5 s per case while CFD calculation was about 2 min on an Nvidia Tesla V100 graphic card.
+CONCLUSIONS: The SF-FFR method is feasible and shows high correlation compared to the gold standard. This method could simplify the calculation procedure and save time compared to the CFD method.
+
+Citation: Yang L, et al. Novel fast FFR derived from coronary CT angiography based on static first-pass algorithm: a comparison study. Novel fast FFR derived from coronary CT angiography based on static first-pass algorithm: a comparison study. 2023; 20:40-50. doi: 10.26599/1671-5411.2023.01.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36875165/

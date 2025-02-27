@@ -1,0 +1,11 @@
+PMID: 38316377
+Title: Patient-Prosthesis Mismatch After Surgical Aortic Valve Replacement: Analysis of the PARTNER Trials.
+
+Abstract: BACKGROUND: Our objective was to compare the impact of patient-prosthesis mismatch (PPM) for 2 years after surgical aortic valve replacement within the prospective, randomized Placement of Aortic Transcatheter Valves (PARTNER) trials.
+METHODS: Surgical aortic valve replacement patients from the PARTNER 1, 2, and 3 trials were included. PPM was classified as moderate (indexed effective orifice area ≤0.85 cm2/m2) or severe (indexed effective orifice area ≤0.65 cm2/m2). The primary endpoint was the composite of all-cause death and heart failure rehospitalization at 2 years.
+RESULTS: By the predicted PPM method (PPM<sub>P</sub>), 59.1% had no PPM, 38.8% moderate PPM, and 2.1% severe PPM; whereas by the measured PPM method (PPM<sub>M</sub>), 42.4% had no PPM, 36.0% moderate, and 21.6% severe. Patients with no PPM<sub>P</sub> (23.6%) had a lower rate of the primary endpoint compared with patients with moderate (28.2%, P = .03) or severe PPM<sub>P</sub> (38.8%, P = .02). Using the PPM<sub>M</sub> method, there was no difference between the no (17.7%) and moderate PPM<sub>M</sub> groups (21.1%) in the primary outcome (P = .16). However, those with no PPM<sub>M</sub> or moderate PPM<sub>M</sub> were improved compared with severe PPM<sub>M</sub> (27.4%, P &lt; .001 and P = .02, respectively).
+CONCLUSIONS: Severe PPM analyzed by PPM<sub>P</sub> was only 2.1% for surgical aortic valve replacement patients. The PPM<sub>M</sub> method overestimated the incidence of severe PPM relative to PPM<sub>P</sub>, but was also associated with worse outcome. There was higher all-cause mortality in patients with severe PPM, thus surgical techniques to minimize PPM remain critical.
+
+Citation: Thourani VH, et al. Patient-Prosthesis Mismatch After Surgical Aortic Valve Replacement: Analysis of the PARTNER Trials. Patient-Prosthesis Mismatch After Surgical Aortic Valve Replacement: Analysis of the PARTNER Trials. 2024; 117:1164-1171. doi: 10.1016/j.athoracsur.2024.01.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38316377/

@@ -1,0 +1,11 @@
+PMID: 35256215
+Title: Factors associated with discordance between fractional flow reserve and resting full-cycle ratio.
+
+Abstract: BACKGROUND: Resting full-cycle ratio (RFR), a non-hyperemic pressure ratio, is alternative to fractional flow reserve (FFR) for the evaluation of coronary artery stenoses. Although FFR and RFR results are often discordant using the cut-off values (0.80 and 0.89), factors associated with the discordance are unclear. The aim of this study was to explore factors related to the discordant results.
+METHODS: We performed FFR and RFR measurements in a total of 408 vessels with intermediate coronary artery stenosis in 277 patients. Positive FFR and RFR were defined based on the cut-off values of 0.80 and 0.89. The discordance was determined as positive FFR and negative RFR (FFR ≤0.80 and RFR >0.89) or negative FFR and positive RFR (FFR >0.80 and RFR ≤0.89).
+RESULTS: Overall, FFR and RFR were significantly correlated (r = 0.76, p < 0.001), while positive FFR and negative RFR and negative FFR and positive RFR were observed in 44 (10.8%) and 45 (11.0%) of 408 vessels, respectively. Smaller body surface area, diabetes, chronic kidney disease including hemodialysis, severe aortic stenosis, higher E/e', and lower left ventricular ejection fraction on echocardiography, and lower hemoglobin and higher brain natriuretic peptide levels were identified as factors associated with the negative FFR and positive RFR discordance.
+CONCLUSIONS: Discordant results between FFR and RFR were often found in more than 20% of vessels with intermediate coronary stenosis. Clinical characteristics such as renal function, heart failure, and anemia may be considered in clinical decision-making when using FFR and RFR.
+
+Citation: Yamazaki T, et al. Factors associated with discordance between fractional flow reserve and resting full-cycle ratio. Factors associated with discordance between fractional flow reserve and resting full-cycle ratio. 2022; 80:9-13. doi: 10.1016/j.jjcc.2022.02.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35256215/

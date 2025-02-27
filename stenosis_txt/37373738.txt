@@ -1,0 +1,11 @@
+PMID: 37373738
+Title: Sutureless and Rapid Deployment vs. Transcatheter Valves for Aortic Stenosis in Low-Risk Patients: Mid-Term Results.
+
+Abstract: BACKGROUND: Recent trials showed that TAVI is neither inferior nor superior to surgical aortic valve replacement. The aim of this study was to evaluate the outcomes of Sutureless and Rapid Deployment Valves (SuRD-AVR) when compared to TAVI in low surgical risk patients with isolated aortic stenosis.
+METHODS: Data from five European Centers were retrospectively collected. We included 1306 consecutive patients at low surgical risk (EUROSCORE II < 4) who underwent aortic valve replacement by means of SuRD-AVR (n = 636) or TAVI (n = 670) from 2014 to 2019. A 1:1 nearest-neighbor propensity-score was performed, and two balanced groups of 346 patients each were obtained. The primary endpoints of the study were: 30-day mortality and 5-year overall survival. The secondary endpoint was 5-year survival freedom from major adverse cardiovascular and cerebrovascular events (MACCEs).
+RESULTS: Thirty-day mortality was similar between the two groups (SuRD-AVR:1.7%, TAVI:2.0%, p = 0.779), while the TAVI group showed a significantly lower 5-year overall survival and survival freedom from MACCEs (5-year matched overall survival: SuRD-AVR: 78.5%, TAVI: 62.9%, p = 0.039; 5-year matched freedom from MACCEs: SuRD-AVR: 64.6%, TAVI: 48.7%, p = 0.004). The incidence of postoperative permanent pacemaker implantation (PPI) and paravalvular leak grade ≥ 2 (PVL) were higher in the TAVI group. Multivariate Cox Regression analysis identified PPI as an independent predictor for mortality.
+CONCLUSIONS: TAVI patients had a significantly lower five-year survival and survival freedom from MACCEs with a higher rate of PPI and PVL ≥ 2 when compared to SuRD-AVR.
+
+Citation: Muneretto C, et al. Sutureless and Rapid Deployment vs. Transcatheter Valves for Aortic Stenosis in Low-Risk Patients: Mid-Term Results. Sutureless and Rapid Deployment vs. Transcatheter Valves for Aortic Stenosis in Low-Risk Patients: Mid-Term Results. 2023; 12:(unknown pages). doi: 10.3390/jcm12124045
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37373738/

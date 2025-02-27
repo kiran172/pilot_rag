@@ -1,0 +1,11 @@
+PMID: 29490387
+Title: "Vascular Outlining": Augmented Imaging for Transfemoral Access-A Preclinical Investigation.
+
+Abstract: BACKGROUND: Advanced visualization software tools have been used in clinics to improve the safety and accuracy of transcatheter procedure. Imaging techniques have greatly evolved during the era of transcatheter aortic valve implantation (TAVI). In a retrospective analysis, we investigated the feasibility of augmented fluoroscopy for iliofemoral access using a novel "Vascular Outlining" roadmapping technology.
+METHODS: The Vascular Outlining prototype device (Philips Healthcare) application was used with iliofemoral angiography of 10 patients undergoing transfemoral TAVI. The software processes any conventional angiographic sequences, extracting the static outline of vessels and projecting the two-dimensional vessel margins as a roadmap on live fluoroscopy. Post-processed results were clinically assessed to determine whether the technical performance of the tool is sufficient.
+RESULTS: Augmented imaging was possible in all investigated angiography sequences. The analysis of software-generated images showed accurate projection of the two-dimensional outline of the iliofemoral vessels as an overlay on the live fluoroscopy image in most cases. Overlay inaccuracy was only observed in cases with low contrast or patient movement.
+CONCLUSION: In static and contrasted angiography sequences, "Vascular Outlining" showed accurate image overlay. We identified that the quality of the vascular outline is dependent on the opacification of the contrast injection and the stability of the patient on the table. With further development. this application might increase the accuracy of femoral puncture and reduce the incidence of vascular complications. Clinical trials are needed to confirm these hypotheses.
+
+Citation: Eghbalzadeh K, et al. "Vascular Outlining": Augmented Imaging for Transfemoral Access-A Preclinical Investigation. "Vascular Outlining": Augmented Imaging for Transfemoral Access-A Preclinical Investigation. 2020; 68:158-161. doi: 10.1055/s-0038-1629922
+
+Link: https://pubmed.ncbi.nlm.nih.gov/29490387/

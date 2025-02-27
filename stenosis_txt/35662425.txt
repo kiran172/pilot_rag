@@ -1,0 +1,11 @@
+PMID: 35662425
+Title: Prevalence and Natural History of Mitral Annulus Calcification and Related Valve Dysfunction.
+
+Abstract: OBJECTIVE: To evaluate the prevalence and natural history of mitral annulus calcification (MAC) and associated mitral valve dysfunction (MVD) in patients undergoing clinically indicated echocardiography.
+METHODS: A retrospective review was conducted of all adults who underwent echocardiography in 2015. Mitral valve dysfunction was defined as mitral regurgitation or mitral stenosis (MS) of moderate or greater severity. All-cause mortality during 3.0 (0.4 to 4.2) years of follow-up was compared between groups stratified according to the presence of MAC or MVD.
+RESULTS: Of 24,414 evaluated patients, 5502 (23%) had MAC. Patients with MAC were older (75±10 years vs 60±16 years; P<.001) and more frequently had MVD (MS: 6.6% vs 0.5% [P<.001]; mitral regurgitation without MS: 9.5% vs 6.1% [P<.001]). Associated with MS in patients with MAC were aortic valve dysfunction, female sex, chest irradiation, renal dysfunction, and coronary artery disease. Kaplan-Meier 1-year survival was 76% in MAC+/MVD+, 87% in MAC+/MVD-, 86% in MAC-/MVD+, and 92% in MAC-/MVD-. Adjusted for age, diabetes, renal dysfunction, cancer, chest irradiation, ejection fraction below 50%, aortic stenosis, tricuspid regurgitation, and pulmonary hypertension, MAC was associated with higher mortality during follow-up (adjusted hazard ratio, 1.40; 95% CI, 1.31 to 1.49; P<.001); MVD was associated with even higher mortality in patients with MAC (adjusted hazard ratio, 1.79; 95% CI, 1.58 to 2.01; P<.001). There was no significant interaction between MAC and MVD for mortality (P=.10).
+CONCLUSION: In a large cohort of adults undergoing echocardiography, the prevalence of MAC was 23%. Mitral valve dysfunction was more than twice as prevalent in patients with MAC. Adjusted mortality was increased in patients with MAC and worse with both MAC and MVD.
+
+Citation: Kato N, et al. Prevalence and Natural History of Mitral Annulus Calcification and Related Valve Dysfunction. Prevalence and Natural History of Mitral Annulus Calcification and Related Valve Dysfunction. 2022; 97:1094-1107. doi: 10.1016/j.mayocp.2021.12.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35662425/

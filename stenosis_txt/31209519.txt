@@ -1,0 +1,11 @@
+PMID: 31209519
+Title: Prognostic value of lipid levels in short-term outcome after TAVI.
+
+Abstract: BACKGROUND: A satisfactory risk score specific to transaortic valve implantation (TAVI) procedure is strongly needed for accurate assessment of postprocedural mortality and outcome. The purpose of this study was to investigate the association between certain clinical and laboratory parameters, particularly serum cholesterol levels, and major adverse cardiac events in patients who underwent TAVI.
+METHOD: We retrospectively analyzed 119 patients who underwent TAVI at our institution between 2008 and 2016. The independent relationship between clinical and laboratory parameters and major adverse cardiac and cerebrovascular events (MACCE) was analyzed by regression analysis.
+RESULTS: In all, 34 patients (28%) experienced MACCE during hospitalization and within 30 days of the procedure. Low-density lipoprotein cholesterol (LDL-C) and high-density lipoprotein cholesterol (HDL-C) levels were significantly lower in the MACCE(+) group compared with the MACCE(-) group (91.9 ± 38 vs. 110.8 ± 38.1 mg/dl, p = 0.01; 33.7 ± 7.3 vs. 38.1 ± 9.8 mg/dl, p = 0.02, respectively). In multivariate logistic regression analysis, age, white blood cell count (WBC), and lower levels of LDL-C and HDL-C were found to be independently correlated with MACCE in the study population. Receiver operating curve (ROC) analysis revealed that an LDL value higher than 71 mg/dl predicted MACCE with a sensitivity of 45.4% and a specificity of 91.8% (AUC: 0.814; p = 0.02).
+CONCLUSION: This study suggests that lower serum LDL-C and HDL-C levels are independently associated with short-term MACCE in post-TAVI patients. Lower levels of LDL and HDL cholesterol may indicate a poor prognosis. Measurement of serum lipid levels might improve the preoperative risk assessment of potential TAVI candidates.
+
+Citation: Yelgeç NS and Emre A. Prognostic value of lipid levels in short-term outcome after TAVI. Prognostic value of lipid levels in short-term outcome after TAVI. 2020; 45:382-388. doi: 10.1007/s00059-019-4826-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31209519/

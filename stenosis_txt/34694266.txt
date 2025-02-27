@@ -1,0 +1,11 @@
+PMID: 34694266
+Title: Predictors and Outcomes of Fully Covered Stent Treatment for Anastomotic Esophageal Strictures in Esophageal Atresia.
+
+Abstract: BACKGROUND AND AIMS: Anastomotic strictures following surgical repair is one of the most common complications in esophageal atresia (EA). The utility of esophageal stenting to treat anastomotic esophageal strictures in pediatrics is unclear. Our primary aim was to evaluate whether esophageal stenting, in conjunction with dilation and other endoscopic therapies, prevented surgical stricture resection (SR). Our secondary aims were to evaluate predictors of successful esophageal stenting and evaluate adverse events from stent placement.
+METHODS: A retrospective review of pediatric patients with EA complicated by esophageal strictures was performed. The change in stricture diameter in millimeters from the time of stent removal to subsequent endoscopy was defined as delta diameter (ΔD). A receiver operating characteristic (ROC) curve analysis was performed to determine the discriminatory ability of ΔD. Youden J index was used to identify optimal cutoff-point in predicting stent success. A univariate and multivariate analysis were done to assess predictors of success.
+RESULT: Forty-nine esophageal anastomoses were stented to treat esophageal strictures. Stents prevented SR in 41% of patients. ROC curve analysis utilizing Youden J index identified ΔD of ≤4 mm (area under the curve = 0.790; 95% confidence interval: 0.655-0.924; P < 0.001) as the optimal cutoff point in differentiating stent success. The most common adverse events were erosions/ulcerations, granulation tissue formation, and vomiting/retching.
+CONCLUSION: Stent therapy in preventing SR at the site of EA repair was successful in 41% in our population with good long term follow-up. The most significant predictor of success in this study was the change in luminal diameter (≤4 mm) at initial poststent follow-up.
+
+Citation: Baghdadi O, et al. Predictors and Outcomes of Fully Covered Stent Treatment for Anastomotic Esophageal Strictures in Esophageal Atresia. Predictors and Outcomes of Fully Covered Stent Treatment for Anastomotic Esophageal Strictures in Esophageal Atresia. 2022; 74:221-226. doi: 10.1097/MPG.0000000000003330
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34694266/

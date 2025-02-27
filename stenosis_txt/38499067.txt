@@ -1,0 +1,15 @@
+PMID: 38499067
+Title: Walking performance in individuals with lumbar spinal stenosis-possible outcome measures and assessment of known-group validity.
+
+Abstract: BACKGROUND CONTEXT: One of the primary goals of treatments received by individuals with lumbar spinal stenosis with neurogenic claudication is to improve walking ability. Thus, a thorough and valid assessment of walking ability in patients with lumbar spinal stenosis is needed. Duration of continuous walking and steps per day could be relevant when evaluating walking ability in daily living.
+PURPOSE: To describe and evaluate a method for estimating continuous walking periods in daily living and to evaluate the known-group validity of steps per day in individuals with lumbar spinal stenosis.
+STUDY DESIGN: This is a cross-sectional observational study.
+PATIENT SAMPLE: The study contains three study groups: individuals with lumbar spinal stenosis, individuals with low back pain, and a background population from the Lolland-Falster Health Study (LOFUS).
+OUTCOME MEASURES: Participants in all three study groups wore an accelerometer on the thigh for seven days.
+METHODS: Accelerometer data were processed to summarize the continuous walking periods according to their length: the number of short (4-9 seconds), moderate (10-89 seconds), and extended (≥90 seconds) continuous walking periods per day, and the number of steps per day. Results from the three groups were compared using negative binomial regression with lumbar spinal stenosis as the reference level.
+RESULTS: Continuous walking periods of moderate length were observed 1.48 (95% CI 1.27, 1.72) times more often in individuals from the background population than in individuals with LSS. Continuous walking periods of extended length were observed 1.53 (95% CI 1.13, 2.06) times more often by individuals with low back pain and 1.60 (95% CI 1.29, 1.99) times more often by individuals from the background population. The number of steps per day was 1.22 (95% CI 1.03, 1.46) times larger in individuals with LBP and 1.35 (95% CI 1.20, 1.53) times larger in individuals from background population.
+CONCLUSIONS: The impact of neurogenic claudication on walking ability in daily living seems possible to describe by continuous walking periods along with steps per day. The results support known-group validity of steps per day. This is the next step toward a clinically relevant and comprehensive assessment of walking in daily living in individuals with lumbar spinal stenosis.
+
+Citation: Gustafsson MEAK, et al. Walking performance in individuals with lumbar spinal stenosis-possible outcome measures and assessment of known-group validity. Walking performance in individuals with lumbar spinal stenosis-possible outcome measures and assessment of known-group validity. 2024; 24:1222-1231. doi: 10.1016/j.spinee.2024.03.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38499067/

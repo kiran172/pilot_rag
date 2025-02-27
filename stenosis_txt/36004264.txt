@@ -1,0 +1,11 @@
+PMID: 36004264
+Title: Coronary artery disease in adults with anomalous aortic origin of a coronary artery.
+
+Abstract: OBJECTIVES: This study sought to characterize coronary artery disease (CAD) among adults diagnosed with an anomalous aortic origin of a coronary artery (AAOCA). We hypothesized that coronaries with anomalous origins have more severe CAD stenosis than coronaries with normal origins.
+METHODS: This single-center study of 763 adults with AAOCA consisted of 620 patients from our cardiac catheterization database (1958-2009) and 273 patients from electronic medical records query (2010-2021). Within left main, anterior descending, circumflex, and right coronary arteries, the CAD stenosis severity, assessed by invasive or computer tomography angiography, was modeled with coronary-level variables (presence of an anomalous origin) and patient-level variables (age, sex, comorbidities, and which of the four coronaries was anomalous).
+RESULTS: Of the 763 patients, 472 (60%) had obstructive CAD, of whom, 142/472 (30%) had obstructive CAD only in the anomalous coronary. Multivariable modeling showed similar CAD stenosis severity between coronaries with anomalous versus normal origins (P = .8). Compared with AAOCA of other coronaries, the anomalous circumflex was diagnosed at older ages (59.7 ± 11.1 vs 54.3 ± 15.8 years, P &lt; .0001) and was associated with increased stenosis in all coronaries (odds ratio, 2.7; 95% confidence interval, 2.2-3.4, P &lt; .0001).
+CONCLUSIONS: Among adults diagnosed with AAOCA, the anomalous origin did not appear to increase the severity of CAD within the anomalous coronary. In contrast to the circumflex, AAOCA of the other vessels may contribute a greater ischemic burden when they present symptomatically at younger ages with less CAD. Future research should investigate the interaction between AAOCA, CAD, and ischemic risk to guide interventions.
+
+Citation: Jiang MX, et al. Coronary artery disease in adults with anomalous aortic origin of a coronary artery. Coronary artery disease in adults with anomalous aortic origin of a coronary artery. 2022; 10:205-221. doi: 10.1016/j.xjon.2022.04.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36004264/

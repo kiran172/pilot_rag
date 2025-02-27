@@ -1,0 +1,8 @@
+PMID: 34891582
+Title: Design and Validation of an Automated Dilator Prototype for the Treatment of Radiation Induced Vaginal Injury.
+
+Abstract: Vaginal stenosis (VS) is a common late complication of radiation injury caused by cervical cancer radiotherapy. It is characterized by the narrowing or shortening of the vaginal canal, which is often detrimental to patient quality of life. To address this public health problem, an expandable vaginal dilator was designed for the prevention of VS in cervical cancer survivors. Modeling and benchtop experimentation were used to iteratively characterize the relationship among dilator pressure, expansion, and the load applied to the simulated vaginal wall. Both experimental and simulation results exhibited shared trends relating pressure, dilator expansion, applied load, and resultant displacement of the modeled vaginal walls. Future work will incorporate enhanced Mooney-Rivlin material assumptions and validation of the model with in vivo tests.Clinical Relevance- These results present a design opportunity and treatment paradigm shift to increase patient adherence to VS treatment after cervical cancer radiotherapy. Specifically, gradual expansion of the vaginal dilator increases comfort during the expansion of the vagina, while monitoring the dilator pressure enables the tracking of VS improvement and normalization of vaginal wall compliance.
+
+Citation: Simoes-Torigoe R, et al. Design and Validation of an Automated Dilator Prototype for the Treatment of Radiation Induced Vaginal Injury. Design and Validation of an Automated Dilator Prototype for the Treatment of Radiation Induced Vaginal Injury. 2021; 2021:1562-1565. doi: 10.1109/EMBC46164.2021.9630126
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34891582/

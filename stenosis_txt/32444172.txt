@@ -1,0 +1,13 @@
+PMID: 32444172
+Title: Development of a prediction model for postoperative complications after primary hypospadias correction.
+
+Abstract: PURPOSE: To develop a prediction model for postoperative complications after primary one-stage hypospadias correction to improve preoperative parental counseling.
+MATERIALS AND METHODS: In this retrospective cohort study, data were collected from 356 patients with anterior or middle hypospadias who had a one-stage hypospadias correction from 2003 onwards. Potential treatment- and patient-related factors were selected and used to develop a prediction model for postoperative complications within one year (wound-related complications, urinary tract infections, fistulas, stenosis, and prepuce-related complications). Multivariable logistic regression analysis with stepwise backward selection and a p-value of 0.20 was used to select the final model, which was internally validated using the bootstrap procedure.
+RESULTS: Complications within one year postoperatively occurred in 66 patients (19%), of which 13% and 37% were seen in anterior and middle type of hypospadias, respectively. Hypospadias phenotype, surgical technique, chordectomy, and surgeon's experience were included in the final prediction model, whereas none of the patient-related factors were. The final model had a good discriminative ability (bias corrected C statistic 0.70) and calibration.
+CONCLUSION: Using easily obtainable information, this model showed good accuracy in predicting complications within one year after hypospadias surgery. It is a first step towards individualized risk prediction of postoperative complications for anterior and middle hypospadias and can assist in preoperative parental counseling.
+TYPE OF STUDY: Prognostic study.
+LEVEL OF EVIDENCE: Level II.
+
+Citation: Dokter EM, et al. Development of a prediction model for postoperative complications after primary hypospadias correction. Development of a prediction model for postoperative complications after primary hypospadias correction. 2020; 55:2209-2215. doi: 10.1016/j.jpedsurg.2020.03.030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32444172/

@@ -1,0 +1,15 @@
+PMID: 31044459
+Title: Simultaneous phase-contrast MRI and PET for noninvasive quantification of cerebral blood flow and reactivity in healthy subjects and patients with cerebrovascular disease.
+
+Abstract: BACKGROUND: H<sub>2</sub>15 O-positron emission tomography (PET) is considered the reference standard for absolute cerebral blood flow (CBF). However, this technique requires an arterial input function measured through continuous sampling of arterial blood, which is invasive and has limitations with tracer delay and dispersion.
+PURPOSE: To demonstrate a new noninvasive method to quantify absolute CBF with a PET/MRI hybrid scanner. This blood-free approach, called PC-PET, takes the spatial CBF distribution from a static H<sub>2</sub>15 O-PET scan, and scales it to the whole-brain average CBF value measured by simultaneous phase-contrast MRI.
+STUDY TYPE: Observational.
+SUBJECTS: Twelve healthy controls (HC) and 13 patients with Moyamoya disease (MM) as a model of chronic ischemic disease.
+FIELD STRENGTH/SEQUENCES: 3T/2D cardiac-gated phase-contrast MRI and H<sub>2</sub>15 O-PET.
+ASSESSMENT: PC-PET CBF values from whole brain (WB), gray matter (GM), and white matter (WM) in HCs were compared with literature values since 2000. CBF and cerebrovascular reactivity (CVR), which is defined as the percent CBF change between baseline and post-acetazolamide (vasodilator) scans, were measured by PC-PET in MM patients and HCs within cortical regions corresponding to major vascular territories. Statistical Tests: Linear, mixed effects models were created to compare CBF and CVR, respectively, between patients and controls, and between different degrees of stenosis.
+RESULTS: The mean CBF values in WB, GM, and WM in HC were 42 ± 7 ml/100 g/min, 50 ± 7 ml/100 g/min, and 23 ± 3 ml/100 g/min, respectively, which agree well with literature values. Compared with normal regions (57 ± 23%), patients showed significantly decreased CVR in areas with mild/moderate stenosis (47 ± 17%, P = 0.011) and in severe/occluded areas (40 ± 16%, P = 0.016). Data Conclusion: PC-PET identifies differences in cerebrovascular reactivity between healthy controls and cerebrovascular patients. PC-PET is suitable for CBF measurement when arterial blood sampling is not accessible, and warrants comparison to fully quantitative H<sub>2</sub>15 O-PET in future studies.
+LEVEL OF EVIDENCE: 3 Technical Efficacy Stage: 2 J. Magn. Reson. Imaging 2019. J. Magn. Reson. Imaging 2020;51:183-194.
+
+Citation: Ishii Y, et al. Simultaneous phase-contrast MRI and PET for noninvasive quantification of cerebral blood flow and reactivity in healthy subjects and patients with cerebrovascular disease. Simultaneous phase-contrast MRI and PET for noninvasive quantification of cerebral blood flow and reactivity in healthy subjects and patients with cerebrovascular disease. 2020; 51:183-194. doi: 10.1002/jmri.26773
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31044459/

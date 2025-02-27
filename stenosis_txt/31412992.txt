@@ -1,0 +1,11 @@
+PMID: 31412992
+Title: Exercise and pharmacologic stress-induced interlead T-wave heterogeneity analysis to detect clinically significant coronary artery stenosis.
+
+Abstract: BACKGROUND: Despite widespread use of ETT and vasodilator-stress with myocardial perfusion imaging (MPI) for noninvasive detection of flow-limiting coronary artery disease, there is continued need to improve diagnostic accuracy. We examined whether measurement of interlead T-wave heterogeneity (TWH) during exercise tolerance testing (ETT) or pharmacologic stress testing improves detection of stenoses in large epicardial coronary arteries.
+METHODS: All 137 patients at our institution who underwent diagnostic coronary angiography within 0 to 5 days after ETT (N = 81) or dipyridamole IV infusion (N = 58) in 2016 were studied, including 2 patients with both tests. Cases (N = 93) had angiographically significant stenosis (≥50% of left main or ≥ 70% of an epicardial coronary artery ≥2 mm in diameter); controls (N = 44) did not. TWH, i.e., interlead splay of T waves, was determined by second central moment analysis from precordial leads by an investigator blinded to angiographic results.
+RESULTS: At rest, TWH levels were similar for cases and controls. ETT and dipyridamole stress testing increased TWH by 69% (p < 0.0001) and 27% (p < 0.0001), respectively, in cases. In controls, TWH did not change. Areas under the ROC curves for TWH increase for any flow-limiting coronary artery stenosis were 0.737 (p < 0.0001) for ETT and 0.818 (p < 0.0001) for dipyridamole stress testing. By contrast, neither ST-segment changes during ETT (p = 0.12) nor MPI during dipyridamole stress testing (p = 0.60) discriminated cases from controls.
+CONCLUSIONS: TWH measurement is a novel method that improves detection of angiographically confirmed flow-limiting stenoses in large epicardial coronary arteries during both ETT and MPI during pharmacologic stress testing with dipyridamole.
+
+Citation: Silva AC, et al. Exercise and pharmacologic stress-induced interlead T-wave heterogeneity analysis to detect clinically significant coronary artery stenosis. Exercise and pharmacologic stress-induced interlead T-wave heterogeneity analysis to detect clinically significant coronary artery stenosis. 2020; 298:32-38. doi: 10.1016/j.ijcard.2019.07.066
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31412992/

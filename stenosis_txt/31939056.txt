@@ -1,0 +1,8 @@
+PMID: 31939056
+Title: Effect of stenosis shape on the sound emitted from a constricted blood vessel.
+
+Abstract: Effect of stenosis shape on the post-stenotic pressure fluctuations and the sound emitted from a constricted blood vessel is studied numerically. Large eddy simulations are performed using OpenFOAM under pulsatile flow conditions with a non-Newtonian fluid model. Findings indicate that the high slope at the stenosis entrance and overlap of more than one stenosis shorten the length of the flow jet, trigger turbulence, and increase vortical activity, turbulent kinetic energy, and magnitude of pressure fluctuations at the post-stenotic region. Also, these morphological parameters strengthen the audible signal especially in the systolic phase of the pulsatile flow. On the other hand, asymmetry of the stenosis creates an opposite effect. Based on the wall pressure data, it is shown that the stenosis shape affects the intensity and the pattern of the murmurs generated. Stenosis shape is found to be an essential factor for the acoustic-based non-invasive diagnosis of stenosis. Graphical abstract Wall pressure content of the elliptic stenosis shape.
+
+Citation: Ozden K, et al. Effect of stenosis shape on the sound emitted from a constricted blood vessel. Effect of stenosis shape on the sound emitted from a constricted blood vessel. 2020; 58:643-658. doi: 10.1007/s11517-020-02119-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31939056/

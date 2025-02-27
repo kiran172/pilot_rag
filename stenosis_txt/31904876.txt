@@ -1,0 +1,13 @@
+PMID: 31904876
+Title: Inhibition of glutaminase to reverse fibrosis in iatrogenic laryngotracheal stenosis.
+
+Abstract: OBJECTIVES/HYPOTHESIS: Glutamine metabolism is a critical energy source for iatrogenic laryngotracheal stenosis (iLTS) scar fibroblasts, and glutaminase (GLS) is an essential enzyme converting glutamine to glutamate. We hypothesize that the GLS-specific inhibitor BPTES will block glutaminolysis and reduce iLTS scar fibroblast proliferation, collagen deposition, and fibroblast metabolism in vitro.
+STUDY DESIGN: Test-tube Lab Research.
+METHODS: Immunohistochemistry of a cricotracheal resection (n = 1) and a normal airway specimen (n = 1) were assessed for GLS expression. GLS expression was assessed in brush biopsies of subglottic/tracheal fibrosis and normal airway from patients with iLTS (n = 6). Fibroblasts were isolated and cultured from biopsies of subglottic/tracheal fibrosis (n = 6). Fibroblast were treated with BPTES and BPTES + dimethyl α-ketoglutarate (DMK), an analogue of the downstream product of GLS. Fibroblast proliferation, gene expression, protein production, and metabolism were assessed in all treatment conditions and compared to control.
+RESULTS: GLS was overexpressed in brush biopsies of iLTS scar specimens (P = .029) compared to normal controls. In vitro, BPTES inhibited iLTS scar fibroblast proliferation (P = .007), collagen I (Col I) (P < .0001), collagen III (P = .004), and α-smooth muscle actin (P = .0025) gene expression and protein production (P = .031). Metabolic analysis demonstrated that BPTES reduced glycolytic reserve (P = .007) but had no effects on mitochondrial oxidative phosphorylation. DMK rescued BPTES inhibition of Col I gene expression (P = .0018) and protein production (P = .021).
+CONCLUSIONS: GLS is overexpressed in iLTS scar. Blockage of GLS with BPTES significantly inhibits iLTS scar fibroblasts proliferation and function, demonstrating a critical role for GLS in iLTS. Targeting GLS to inhibit glutaminolysis may be a successful strategy to reverse scar formation in the airway.
+LEVEL OF EVIDENCE: NA Laryngoscope, 2020.
+
+Citation: Tsai HW, et al. Inhibition of glutaminase to reverse fibrosis in iatrogenic laryngotracheal stenosis. Inhibition of glutaminase to reverse fibrosis in iatrogenic laryngotracheal stenosis. 2020; 130:E773-E781. doi: 10.1002/lary.28493
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31904876/

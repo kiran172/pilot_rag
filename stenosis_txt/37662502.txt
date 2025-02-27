@@ -1,0 +1,11 @@
+PMID: 37662502
+Title: Accuracy and Reproducibility of Coronary Angiography-Derived Fractional Flow Reserve in the Assessment of Coronary Lesion Severity.
+
+Abstract: PURPOSE: Coronary angiography-derived fractional flow reserve (caFFR) is a novel computational flow dynamics (CFD)-derived assessment of coronary vessel flow with good diagnostic performance. Herein, we performed a retrospective study to evaluate the reproducibility of caFFR findings between observers and investigate the diagnostic performance of caFFR for coronary stenosis defined as FFR ≤0.80, especially in the grey zone (0.75≤caFFR ≤0.80).
+PATIENTS AND METHODS: A total of 150 patients (167 coronary vessels) underwent caFFR (with FlashAngio used for calculation of flow variables) and subsequent invasive fractional flow reserve (FFR) measurements. Outcomes, including reproducibility, were compared for vessels in and outside the grey zone.
+RESULTS: The correlation of caFFR findings was good between the two laboratories (r = 0.723, p&lt;0.001). The AUC of ROC were both high for caFFR-CoreLab1 and caFFR-CoreLab2 (0.975 and 0.883). The diagnostic accuracy, sensitivity, specificity, and negative and positive predictive values were not significantly different between the two laboratories (p&gt;0.05). caFFR had a strong correlation with measures to FFR (r=0.911, p&lt;0.001). There was no systematic difference between caFFR and FFR on Bland-Altman analysis in and outside the grey zone. There was no difference in diagnostic accuracy between the grey and non-grey zones in the prediction of FFR ≤0.80 (p=0.09).
+CONCLUSION: The inter-observer reproducibility for caFFR was high, and the diagnostic accuracy of caFFR was good compared to that of FFR.
+
+Citation: Yang G, et al. Accuracy and Reproducibility of Coronary Angiography-Derived Fractional Flow Reserve in the Assessment of Coronary Lesion Severity. Accuracy and Reproducibility of Coronary Angiography-Derived Fractional Flow Reserve in the Assessment of Coronary Lesion Severity. 2023; 16:3805-3814. doi: 10.2147/IJGM.S413991
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37662502/

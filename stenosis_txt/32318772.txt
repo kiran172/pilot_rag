@@ -1,0 +1,11 @@
+PMID: 32318772
+Title: The prevalence of redundant nerve roots in patients with lumbar spinal stenosis is body position dependent: a retrospective observational study with repeated measures design in an upright MRI scanner.
+
+Abstract: PURPOSE: Redundant nerve roots (RNRs) are a negative prognostic factor in patients with central lumbar spinal stenosis (LSS). Forty percent of candidates for surgical decompression show RNRs (RNR+) on preoperative conventional magnetic resonance imaging (MRI). We investigated the prevalence of RNRs in three functional postures (standing, neutral sitting and flexed sitting) with an upright MRI (upMRI).
+METHODS: A retrospective observational study with a repeated measures design. Thirty surgical candidates underwent upMRI. Sagittal and axial T2-weighted images of the three functional postures were evaluated. The segmental length of the lumbar spine (sLLS), the lordotic angle (LA) and the dural cross-sectional area (DCSA) were measured in each body position. Generalized linear mixed models were carried out. The 0.05 level of probability was set as the criterion for statistical significance.
+RESULTS: The prevalence of RNRs decreased from 80% during standing to 16.7% during flexed sitting (p < 0.001). The sLLS increased significantly from standing to neutral sitting in both RNR groups (p < 0.001). The increase from neutral sitting to flexed sitting was only significant (p < 0.001) for the group without RNRs (RNR-). The LA decreased significantly for both RNR groups from standing to flexed sitting (p < 0.001). The DSCA increased significantly in the RNR- group (p < 0.001) but not in the RNR+ group (p = 0.9).
+CONCLUSION: The prevalence of RNRs is body position dependent. Increases in DCSA play a determinant role in resolving RNRs.
+
+Citation: Papavero L, et al. The prevalence of redundant nerve roots in patients with lumbar spinal stenosis is body position dependent: a retrospective observational study with repeated measures design in an upright MRI scanner. The prevalence of redundant nerve roots in patients with lumbar spinal stenosis is body position dependent: a retrospective observational study with repeated measures design in an upright MRI scanner. 2020; 62:979-985. doi: 10.1007/s00234-020-02423-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32318772/

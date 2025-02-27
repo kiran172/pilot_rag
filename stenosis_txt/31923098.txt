@@ -1,0 +1,12 @@
+PMID: 31923098
+Title: Assessing the association of appropriateness of coronary revascularization and 1-year clinical outcomes for patients with stable coronary artery disease in China.
+
+Abstract: BACKGROUND: The Chinese appropriate use criteria (AUC) for coronary revascularization was released in 2016 to improve the use of coronary revascularization. This study aimed to evaluate the association between the appropriateness of coronary revascularization based on the Chinese AUC and 1-year outcomes in stable coronary artery disease (CAD) patients.
+METHODS: We conducted a prospective, multi-center cohort study of stable CAD patients with coronary lesion stenosis ≥50%. After the classification of appropriateness based on Chinese AUC, patients were categorized into the coronary revascularization group or the medical therapy group based on treatment received. The primary outcome was a composite of death, myocardial infarction, stroke, repeated revascularization, and ischemic symptoms with hospital admission.
+RESULTS: From August 2016 to August 2017, 6085 patients were consecutively enrolled. Coronary revascularization was associated with a lower adjusted hazard of 1-year major adverse cardiovascular and cerebrovascular events (MACCEs; hazard ratio [HR]: 0.62; 95% confidence interval [CI]: 0.45-0.86; P = 0.004) than medical therapy in patients with appropriate indications (n = 1617). No significant benefit in 1-year MACCEs was found after revascularization compared to after medical therapy in patients with uncertain indications (n = 2658, HR: 0.81; 95% CI: 0.52-1.25; P = 0.338) and inappropriate indications (n = 1810, HR: 0.80; 95% CI: 0.51-1.23; P = 0.308).
+CONCLUSIONS: In patients with appropriate indications according to Chinese AUC, coronary revascularization was associated with significantly lower risk of MACCEs at 1 year. No benefit was found in coronary revascularization in patients with inappropriate indications. Our findings provide evidence for using Chinese AUC to guide clinical decision-making.
+CLINICAL TRIAL REGISTRATION: NCT02880605. https://www.clinicaltrials.gov.
+
+Citation: Lin S, et al. Assessing the association of appropriateness of coronary revascularization and 1-year clinical outcomes for patients with stable coronary artery disease in China. Assessing the association of appropriateness of coronary revascularization and 1-year clinical outcomes for patients with stable coronary artery disease in China. 2020; 133:1-8. doi: 10.1097/CM9.0000000000000592
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31923098/

@@ -1,0 +1,11 @@
+PMID: 36580284
+Title: Machine Learning to Understand Genetic and Clinical Factors Associated With the Pulse Waveform Dicrotic Notch.
+
+Abstract: BACKGROUND: Absence of a dicrotic notch on finger photoplethysmography is an easily ascertainable and inexpensive trait that has been associated with age and prevalent cardiovascular disease. However, the trait exists along a continuum, and little is known about its genetic underpinnings or prognostic value for incident cardiovascular disease.
+METHODS: In 169 787 participants in the UK Biobank, we identified absent dicrotic notch on photoplethysmography and created a novel continuous trait reflecting notch smoothness using machine learning. Next, we determined the heritability, genetic basis, polygenic risk, and clinical relations for the binary absent notch trait and the newly derived continuous notch smoothness trait.
+RESULTS: Heritability of the continuous notch smoothness trait was 7.5%, compared with 5.6% for the binary absent notch trait. A genome-wide association study of notch smoothness identified 15 significant loci, implicating genes including NT5C2 (P=1.2×10-26), IGFBP3 (P=4.8×10-18), and PHACTR1 (P=1.4×10-13), compared with 6 loci for the binary absent notch trait. Notch smoothness stratified risk of incident myocardial infarction or coronary artery disease, stroke, heart failure, and aortic stenosis. A polygenic risk score for notch smoothness was associated with incident cardiovascular disease and all-cause death in UK Biobank participants without available photoplethysmography data.
+CONCLUSIONS: We found that a machine learning derived continuous trait reflecting dicrotic notch smoothness on photoplethysmography was heritable and associated with genes involved in vascular stiffness. Greater notch smoothness was associated with greater risk of incident cardiovascular disease. Raw digital phenotyping may identify individuals at risk for disease via specific genetic pathways.
+
+Citation: Cunningham JW, et al. Machine Learning to Understand Genetic and Clinical Factors Associated With the Pulse Waveform Dicrotic Notch. Machine Learning to Understand Genetic and Clinical Factors Associated With the Pulse Waveform Dicrotic Notch. 2023; 16:e003676. doi: 10.1161/CIRCGEN.121.003676
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36580284/

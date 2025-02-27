@@ -1,0 +1,11 @@
+PMID: 39032585
+Title: Predicted prosthesis-patient mismatch and long-term clinical outcomes after transcatheter aortic valve replacement: A SWEDEHEART study.
+
+Abstract: BACKGROUND: The impact of prosthesis-patient mismatch (PPM) after transcatheter aortic valve replacement (TAVR) is uncertain. This study was performed to investigate the risk of all-cause mortality, heart failure hospitalization, and aortic valve reintervention in patients with and without predicted PPM after TAVR.
+METHODS: This nationwide, population-based cohort study included all patients who underwent transfemoral primary TAVR in Sweden from 2008 to 2022 in the SWEDEHEART register. PPM was defined according to published effective orifice areas for each valve model and size. The patients were divided into those with and without PPM. Additional baseline characteristics and outcome data were obtained from other national health data registers. Regression standardization was used to adjust for intergroup differences.
+RESULTS: Of 8485 patients, 7879 (93%) had no PPM and 606 (7%) had PPM. The crude cumulative incidence of all-cause mortality at 1, 5, and 10 years in patients with versus without PPM was 7% versus 9%, 40% versus 44%, and 80% versus 85%, respectively. After regression standardization, there was no between-group difference in long-term mortality, and the absolute difference at 10 years was 1.5% (95% confidence interval, -2.9%-6.0%). The mean follow-up was 3.0 years (maximum, 14 years). There was no difference in the risk of heart failure hospitalization or aortic valve reintervention.
+CONCLUSIONS: The risk of all-cause mortality, heart failure hospitalization, or aortic valve reintervention was not higher in patients with than without predicted PPM following TAVR. Furthermore, PPM was present in only 7% of patients, and severe PPM was almost nonexistent.
+
+Citation: Ellfors E, et al. Predicted prosthesis-patient mismatch and long-term clinical outcomes after transcatheter aortic valve replacement: A SWEDEHEART study. Predicted prosthesis-patient mismatch and long-term clinical outcomes after transcatheter aortic valve replacement: A SWEDEHEART study. 2024; 276:70-82. doi: 10.1016/j.ahj.2024.07.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39032585/

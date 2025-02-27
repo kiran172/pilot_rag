@@ -1,0 +1,11 @@
+PMID: 38600989
+Title: Development of a Deep Learning Model for the Analysis of Dorsal Root Ganglion Chromatolysis in Rat Spinal Stenosis.
+
+Abstract: OBJECTIVE: To create a deep learning (DL) model that can accurately detect and classify three distinct types of rat dorsal root ganglion neurons: normal, segmental chromatolysis, and central chromatolysis. The DL model has the potential to improve the efficiency and precision of neuron classification in research related to spinal injuries and diseases.
+METHODS: H&E slide images were divided into an internal training set (80%) and a test set (20%). The training dataset was labeled by two pathologists using pre-defined grades. Using this dataset, a two-component DL model was developed with the first component being a convolutional neural network (CNN) that was trained to detect the region of interest (ROI) and the second component being another CNN used for classification.
+RESULTS: A total of 240 lumbar dorsal root ganglion (DRG) pathology slide images from rats were analyzed. The internal testing results showed an accuracy of 93.13%, and the external dataset testing demonstrated an accuracy of 93.44%.
+CONCLUSION: The DL model demonstrated a level of agreement comparable to that of pathologists in detecting and classifying normal and segmental chromatolysis neurons, although its agreement was slightly lower for central chromatolysis neurons. Significance: DL in improving the accuracy and efficiency of pathological analysis suggests that it may have a role in enhancing medical decision-making.
+
+Citation: Li M, et al. Development of a Deep Learning Model for the Analysis of Dorsal Root Ganglion Chromatolysis in Rat Spinal Stenosis. Development of a Deep Learning Model for the Analysis of Dorsal Root Ganglion Chromatolysis in Rat Spinal Stenosis. 2024; 17:1369-1380. doi: 10.2147/JPR.S444055
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38600989/

@@ -1,0 +1,11 @@
+PMID: 32399803
+Title: Artificial Intelligence Uncovered Clinical Factors for Cardiovascular Events in Myocardial Infarction Patients with Glucose Intolerance.
+
+Abstract: PURPOSE: Glucose intolerance (GI), defined as either prediabetes or diabetes, promotes cardiovascular events in patients with myocardial infarction (MI). Using the pooled clinical data from patients with MI and GI in the completed ABC and PPAR trials, we aimed to identify their clinical risk factors for cardiovascular events.
+METHODS: Using the limitless-arity multiple testing procedure, an artificial intelligence (AI)-based data mining method, we analyzed 415,328 combinations of < 4 clinical parameters.
+RESULTS: We identified 242 combinations that predicted the occurrence of hospitalization for (1) percutaneous coronary intervention for stable angina, (2) non-fatal MI, (3) worsening of heart failure (HF), and (4) all causes, and we analyzed combinations in 1476 patients. Among these parameters, the use of proton pump inhibitors (PPIs) or plasma glucose levels > 200 mg/dl after 2 h of a 75 g oral glucose tolerance test were linked to the coronary events of (1, 2). Plasma BNP levels > 200 pg/dl were linked to coronary and cardiac events of (1, 2, 3). Diuretics use, advanced age, and lack of anti-dyslipidemia drugs were linked to cardiovascular events of (1, 3). All of these factors were linked to (4). Importantly, each finding was verified by independently drawn Kaplan-Meier curves, indicating that the determined factors accurately affected cardiovascular events.
+CONCLUSIONS: In most previous MI patients with GI, progression of GI, PPI use, or high plasma BNP levels were linked to the occurrence of coronary stenosis or recurrent MI. We emphasize that use of AI may comprehensively uncover the hidden risk factors for cardiovascular events.
+
+Citation: Shindo K, et al. Artificial Intelligence Uncovered Clinical Factors for Cardiovascular Events in Myocardial Infarction Patients with Glucose Intolerance. Artificial Intelligence Uncovered Clinical Factors for Cardiovascular Events in Myocardial Infarction Patients with Glucose Intolerance. 2020; 34:535-545. doi: 10.1007/s10557-020-06987-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32399803/

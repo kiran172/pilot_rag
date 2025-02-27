@@ -1,0 +1,11 @@
+PMID: 36329995
+Title: Sex difference and outcome trends following transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Based on worldwide registries, approximately 50% of patients who underwent transcatheter aortic valve replacement (TAVR) are female patients. Although TAVR procedures have improved tremendously in recent years, differences in outcome including mortality between sexes remain. We aimed to investigate the trends in TAVR in the early and new eras of utilization and to assess TAVR outcomes in female patients vs. male patients.
+METHODS: Using the 2011-2017 National Inpatient Sample (NIS) database, we identified hospitalizations for patients with the diagnosis of aortic stenosis during which a TAVR was performed. Patients' sociodemographic and clinical characteristics, procedure complications, and mortality were analyzed. Piecewise regression analyses were performed to assess temporal trends in TAVR utilization in female patients and in male patients. Multivariable analysis was performed to identify predictors of in-hospital mortality.
+RESULTS: A total of 150,647 hospitalizations for TAVR across the United States were analyzed during 2011-2017. During the study period, a steady upward trend was observed for TAVR procedures in both sexes. From 2011 to 2017, there were significantly more TAVR procedures performed in men [80,477 (53.4%)] than in women [70,170 (46.6%)]. Male patients had significantly higher Deyo-CCI score and comorbidities. Differences in mortality rates among sexes were observed, presenting with higher in-hospital mortality in women than in men, OR 1.26 [95% CI 1.18-1.35], p &lt; 0.001.
+CONCLUSION: Utilization of TAVR demonstrated a steady upward trend during 2011-2017, and a similar trend was presented for both sexes. Higher in-hospital mortality was recorded in female patients compared to male patients. Complication rates decreased over the years but without effect on mortality differences between the sex groups.
+
+Citation: Elbaz-Greener G, et al. Sex difference and outcome trends following transcatheter aortic valve replacement. Sex difference and outcome trends following transcatheter aortic valve replacement. 2022; 9:1013739. doi: 10.3389/fcvm.2022.1013739
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36329995/

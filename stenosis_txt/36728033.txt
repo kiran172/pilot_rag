@@ -1,0 +1,16 @@
+PMID: 36728033
+Title: A Simple Preoperative Score Predicting Failure Following Decompression Surgery for Degenerative Lumbar Spinal Stenosis.
+
+Abstract: BACKGROUND CONTEXT: Proper patient selection is crucial for the outcome of surgically treated degenerative lumbar spinal stenosis (DLSS). Nevertheless, there is still not a clear consensus regarding the optimal treatment option for patients with DLSS.
+PURPOSE: To investigate the treatment failure rate and introduce a simple, preoperative score to aid surgical decision-making.
+STUDY DESIGN/SETTING: Retrospective observational study.
+PATIENT SAMPLE: Four hundred forty-five patients who underwent surgical decompression for DLSS.
+OUTCOME MEASURES: Treatment failure (defined as conversion to a fusion of a previously decompressed level) of lumbar decompression.
+MATERIALS AND METHODS: Several risk factors associated with worse outcomes and treatment failures, such as age, body mass index, smoking status, previous surgery, low back pain (LBP), facet joint effusion, disk degeneration, fatty infiltration of the paraspinal muscles, the presence of degenerative spondylolisthesis and the facet angulation, were investigated.
+RESULTS: At a mean follow-up of 44±31 months, 6.5% (29/445) of the patients underwent revision surgery with spinal fusion at an average of 3±9 months following the lumbar decompression due to low back or leg pain. The baseline LBP (≥7) [odds ratio (OR)=5.4, P <0.001], the presence of facet joint effusion (>2 mm) in magnetic resonance imaging (OR=4.2, P <0.001), and disk degeneration (Pfirrmann >4) (OR=3.2, P =0.03) were associated with an increased risk for treatment failure following decompression for DLSS. The receiver operating characteristic curve analysis demonstrated that a score≥6 points yielded a sensitivity of 90% and specificity of 64% for predicting a treatment failure following lumbar decompression for DLSS in the present cohort.
+CONCLUSIONS: The newly introduced score quantifying amounts of LBP, facet effusions, and disk degeneration, could predict treatment failure and the need for revision surgery for DLSS patients undergoing lumbar decompression without fusion. Patients with scores >6 have a high chance of needing fusion following decompression surgery.
+LEVEL OF EVIDENCE: Retrospective observational study, Level III.
+
+Citation: Dimitriou D, et al. A Simple Preoperative Score Predicting Failure Following Decompression Surgery for Degenerative Lumbar Spinal Stenosis. A Simple Preoperative Score Predicting Failure Following Decompression Surgery for Degenerative Lumbar Spinal Stenosis. 2023; 48:610-616. doi: 10.1097/BRS.0000000000004584
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36728033/

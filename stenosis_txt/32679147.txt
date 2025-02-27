@@ -1,0 +1,11 @@
+PMID: 32679147
+Title: Inhibition of PP2A enhances the osteogenic differentiation of human aortic valvular interstitial cells via ERK and p38 MAPK pathways.
+
+Abstract: AIMS: To investigate the role of PP2A in calcified aortic valve disease (CAVD).
+MATERIALS AND METHODS: The expressions of PP2A subunits were detected by real-time polymerase chain reaction (RT-PCR) and western blot in aortic valves from patients with CAVD and normal controls, the activities of PP2A were analyzed by commercial assay kit at the same time. Aortic valve calcification of mice was evaluated through histological and echocardiographic analysis. ApoE-/- mice and ApoE-/- mice injected intraperitoneally with PP2A inhibitor LB100 were fed a high-cholesterol diet for 24 weeks. Immunofluorescent staining was used to locate the cell-type in which PP2A activity was decreased, the PP2A activity of valvular interstitial cells (VICs) treated with osteogenic induction medium was assessed by western blot and commercial assay kit. After changing the activity of VICs through pharmacologic and genetic intervention, the osteoblast differentiation and mineralization were assessed by western blot and Alizarin Red staining. Finally, the mechanism was clarified by using several specific inhibitors.
+KEY FINDINGS: PP2A activity was decreased both in calcified aortic valves and human VICs under osteogenic induction. The PP2A inhibitor LB100 aggravated the aortic valve calcification of mice. Furthermore, PPP2CA overexpression inhibited osteogenic differentiation of VICs, whereas PPP2CA knockdown promoted the process. Further study revealed that the ERK/p38 MAPKs signaling pathways mediated the osteogenic differentiation of VICs induced by PP2A inactivation.
+SIGNIFICANCE: This study demonstrated that PP2A plays an important role in CAVD pathophysiology, PP2A activation may provide a novel strategy for the pharmacological treatment of CAVD.
+
+Citation: Xie F, et al. Inhibition of PP2A enhances the osteogenic differentiation of human aortic valvular interstitial cells via ERK and p38 MAPK pathways. Inhibition of PP2A enhances the osteogenic differentiation of human aortic valvular interstitial cells via ERK and p38 MAPK pathways. 2020; 257:118086. doi: 10.1016/j.lfs.2020.118086
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32679147/

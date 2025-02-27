@@ -1,0 +1,9 @@
+PMID: 33198770
+Title: Predictors of short-term thrombocytopenia after transcatheter aortic valve implantation: a retrospective study at a single Japanese center.
+
+Abstract: OBJECTIVE: Thrombocytopenia is common after transcatheter aortic valve implantation (TAVI) and is associated with mortality and major complications, although the underlying mechanisms are unclear. This retrospective single-center study aimed to identify factors associated with the decrease in platelet count (DPC) after TAVI in Japanese patients. Patients with severe aortic valve stenosis who underwent transfemoral TAVI between March 2014 and August 2019 were grouped according to DPC values of < 50% or ≥ 50% (DPC = 100% × [baseline platelet count-nadir platelet count]/[baseline platelet count]). Multivariable logistic regression analysis was performed to identify factors associated with a DPC of ≥ 50%.
+RESULTS: Among the 131 patients who underwent transfemoral TAVI, 74 patients (56%) had a DPC of ≥ 50%, and 57 patients (44%) had a DPC of < 50%. Significant risk factors for a DPC of ≥ 50% were older age, lower body mass index (BMI), and use of balloon-expandable valves (BEV). The multivariable analysis revealed that a DPC of ≥ 50% was independently predicted by low BMI (adjusted odds ratio: 0.884, 95% confidence interval: 0.785-0.997; P = 0.039) and BEV use (adjusted odds ratio: 3.014, 95% confidence interval: 1.003-9.056; P = 0.045). Platelet count monitoring after TAVI, especially when using BEV devices, is essential for Japanese patients with low BMI.
+
+Citation: Yamada Y, et al. Predictors of short-term thrombocytopenia after transcatheter aortic valve implantation: a retrospective study at a single Japanese center. Predictors of short-term thrombocytopenia after transcatheter aortic valve implantation: a retrospective study at a single Japanese center. 2020; 13:536. doi: 10.1186/s13104-020-05386-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33198770/

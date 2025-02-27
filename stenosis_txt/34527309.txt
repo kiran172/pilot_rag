@@ -1,0 +1,11 @@
+PMID: 34527309
+Title: Short-term and intermediate-term readmission after esophagectomy.
+
+Abstract: BACKGROUND: The objective of this study was to characterize short- and intermediate-term readmissions following esophagectomy and to identify predictors of readmission in these two groups.
+METHODS: Patients who underwent esophagectomy in the National Readmissions Database (2013-2014) were grouped according to whether first readmission was "short-term" (readmitted <30 days) or "intermediate-term" (readmitted 31-90 days) following index admission for esophagectomy. Predictors of readmission were evaluated using multivariable logistic regression modeling.
+RESULTS: Of the 3,005 patients who underwent esophagectomy, 544 (18.1%) had a short-term readmission and 305 (10.1%) had an intermediate-term readmission. The most frequent reasons for short-term readmission were post-operative infection (7.5%), dysphagia (6.3%) and pneumonia (5.1%). The most common intermediate-term complications were pneumonia (7.2%), gastrointestinal stricture/stenosis (6.9%) and dysphagia (5.9%). In multivariable analysis, being located in a micropolitan area, increasing number of comorbidities and higher severity of illness score were associated with an increased likelihood of having a short-term readmission while being discharged to a facility (as opposed to directly home) was associated with increased likelihood of both short- and intermediate-term readmission (all P<0.05).
+CONCLUSIONS: In this analysis, postoperative infection was the most common reason for short-term readmission. Dysphagia and pneumonia were common reasons for both short- and intermediate-term readmission of patients following esophagectomy. Interventions focused on reducing the risk of postoperative infection and pneumonia may reduce hospital readmissions. Gastrointestinal stricture and dysphagia were associated with increased risk of intermediate readmission and should be examined in the context of morbidity associated with pyloric procedures (e.g., pyloromyotomy) at the time of esophagectomy.
+
+Citation: Wang Y, et al. Short-term and intermediate-term readmission after esophagectomy. Short-term and intermediate-term readmission after esophagectomy. 2021; 13:4678-4689. doi: 10.21037/jtd-21-637
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34527309/

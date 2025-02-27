@@ -1,0 +1,16 @@
+PMID: 38269600
+Title: Clinical impact of cerebral protection during transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Embolization of debris can complicate transcatheter aortic valve implantation (TAVI) causing stroke. Cerebral embolism protection (CEP) devices can divert or trap debris.
+PURPOSE: To evaluate the efficacy of CEP during TAVI vs the standard procedure.
+DATA SOURCES: PubMed, SCOPUS and DOAJ 1/01/2014-04/12/2023.
+STUDY SELECTION: Randomized and observational studies comparing CEP versus standard TAVI, according to PRISMA.
+PRIMARY OUTCOME: stroke.
+SECONDARY OUTCOMES: death, bleeding, vascular access complications, acute kidney injury and infarct area.
+DATA EXTRACTION: Two investigators independently assessed study quality and extracted data.
+DATA SYNTHESIS: Twenty-six articles were included (540.247 patients). The primary endpoint was significantly lower (RR = 0.800 95%CI:0.682-0.940; p = 0.007) with CEP. Similarly, death rates were significantly lower with CEP (RR = 0.610 95%CI:0.482-0.771; p < 0.001). No difference was found for bleeding (RR = 1.053 95%CI:0.793-1.398; p = 0.721), vascular complications (RR = 0.937 95%CI:0.820-1.070; p = 0.334) or AKI (RR = 0.982 95%CI:0.754-1.279; p = 0.891).
+CONCLUSIONS: Use of CEP during TAVI is associated with improved outcomes. Future studies will identify patients who benefit most from CEP.
+
+Citation: Boccuto F, et al. Clinical impact of cerebral protection during transcatheter aortic valve implantation. Clinical impact of cerebral protection during transcatheter aortic valve implantation. 2024; 54:e14166. doi: 10.1111/eci.14166
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38269600/

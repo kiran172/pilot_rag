@@ -1,0 +1,13 @@
+PMID: 34520273
+Title: Pediatric Tracheostomy-Related Complications: A Cross-sectional Analysis.
+
+Abstract: OBJECTIVE: To determine the rate of tracheostomy-related complications in pediatric patients from nationally representative databases.
+STUDY DESIGN: Cross-sectional analysis.
+SETTING: 2016 Kids' Inpatient Database and 2016 Nationwide Readmission Database.
+METHODS: All pediatric tracheostomy procedures were included. Complication type, admission outcomes, and readmission rates were recorded with a logistic regression analysis to determine patient characteristics associated with complications.
+RESULTS: An estimated 5309 tracheostomies were performed among pediatric patients in 2016, 8% (n = 432) of whom developed tracheostomy-related complications. This group was younger (4.7 vs 8.7 years, P &lt; .001) and required longer hospital admissions (68.7 vs 33.2 days, P &lt; .001) than children without tracheostomy-related complications. Mean costs ($459,324 vs $397,937, P &lt; .001) and mean total charges ($1,573,964 vs $1,099,347, P &lt; .001) were increased if a tracheostomy-related complication occurred. These events occurred more often in those with bronchopulmonary dysplasia (24% vs 12%, P &lt; .001), heart disease (24% vs 12%, P = .001), gastroesophageal reflux disease (31% vs 19%, P &lt; .001), short gestational age (24% vs 14%, P &lt; .001), and subglottic stenosis (9.9% vs 5.4%, P = .001). The estimated 30-day readmission rate was 24% (SE, 1.7%) but did not increase after tracheostomy complications (27% vs 15%, P = .04). Tracheostomy-related complications were predicted by gastroesophageal reflux disease (odds ratio [OR], 1.50; 95% CI, 1.14-1.97; P = .004), younger age (OR, 1.12; 95% CI, 1.04-1.22; P = .002), and lengthier hospitalization (OR, 1.00; 95% CI, 1.00-1.01; P &lt; .001) on multiple logistic regression analysis.
+CONCLUSION: Tracheostomy-related complications occur in approximately 8% of pediatric patients and are higher in younger children or those with longer admission lengths. These data have implications for benchmarking standards of posttracheostomy complications across institutions.
+
+Citation: Newton M, et al. Pediatric Tracheostomy-Related Complications: A Cross-sectional Analysis. Pediatric Tracheostomy-Related Complications: A Cross-sectional Analysis. 2022; 167:359-365. doi: 10.1177/01945998211046527
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34520273/

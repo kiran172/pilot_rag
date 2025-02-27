@@ -1,0 +1,11 @@
+PMID: 37454786
+Title: Benchmarking Outcomes of Surgical Aortic Valve Replacement in Patients With Bicuspid Aortic Valves.
+
+Abstract: BACKGROUND: The relative roles for transcatheter and surgical aortic valve replacement (SAVR) for bicuspid aortic valve (AV) stenosis are debated. This study analyzes the 5-year longitudinal outcomes of isolated SAVR in bicuspid vs tricuspid AV patients, particularly in low-risk patients.
+METHODS: All patients undergoing isolated index SAVR at 1146 United States hospitals in The Society of Thoracic Surgeons (STS) Adult Cardiac database between July 1, 2011, and December 31, 2018, with linkage to Medicare claims, were analyzed.
+RESULTS: A total of 65,687 patients were analyzed, including of 9131 bicuspid patients (13.9%). Compared with tricuspid patients, bicuspid patients were significantly younger (median 70 vs 74 years, P < .001) with lower Society of Thoracic Surgeons predicted risk of mortality scores (mean 1.6% vs 2.3%, P < .001) and lower risk profile. Risk-adjusted 30-day mortality and major morbidity were similar, but risk-adjusted 5-year mortality was significantly lower in the bicuspid patients (adjusted hazard ratio, 0.72; 95% CI, 0.66-0.77), specifically in low-risk patients (adjusted hazard ratio, 0.69; 95% CI, 0.64-0.76). Additionally, the bicuspid cohort had a lower 5-year readmission risk of heart failure, stroke, bleeding, or other cardiovascular causes (all P < .05).
+CONCLUSIONS: In this nationally representative study, 30-day mortality was similar, but risk-adjusted 5-year mortality was significantly lower in bicuspid patients undergoing isolated SAVR compared with tricuspid patients, specifically low-risk and normal left ventricular ejection fraction patients. This analysis provides a much-needed 5-year longitudinal national-level benchmark to better inform the discussion of transcatheter vs SAVR in bicuspid patients.
+
+Citation: Hirji SA, et al. Benchmarking Outcomes of Surgical Aortic Valve Replacement in Patients With Bicuspid Aortic Valves. Benchmarking Outcomes of Surgical Aortic Valve Replacement in Patients With Bicuspid Aortic Valves. 2023; 116:1222-1231. doi: 10.1016/j.athoracsur.2023.06.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37454786/

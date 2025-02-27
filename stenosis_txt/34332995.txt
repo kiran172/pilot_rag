@@ -1,0 +1,11 @@
+PMID: 34332995
+Title: Benefit of Sarcopenia Screening in Older Patients Undergoing Surgical Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Sarcopenia, known as physical frailty, is highly prevalent in older patients and is related to adverse outcomes after cardiac surgery. However whether sarcopenia assessment can reclassify an individual patient's risk, which is estimated by Society of Thoracic Surgeons-predicted risk of mortality scores in patients who undergo surgical aortic valve replacement, is unclear.
+METHODS: This retrospective, single-center, cohort study comprised 874 patients aged ≥65 years who underwent surgical aortic valve replacement between 2009 and 2016. Total skeletal muscle area was calculated using height squared (cm2/m2) and was measured by preoperative computed tomography at the third lumbar vertebra inferior border using machine learning-based analysis. Sex-specific Z-scores were calculated, and patients in the lowest Z-score tertile were considered to have sarcopenia. The primary endpoint was 30-day mortality, and secondary endpoints were in-hospital events, 1-year mortality, and long-term mortality.
+RESULTS: Thirty-day mortality, 30-day in-hospital events, and 1-year mortality rates were 4.7%, 17.6%, and 8.0%, respectively. As the Z-score decreased, the odds of an early adverse event showed a stepwise increase. Sarcopenia was independently associated with higher 30-day mortality, 30-day in-hospital events, and 1-year mortality. Reclassification analyses showed improvements in the ability to predict early adverse events after adding the Z-scores over and above The Society of Thoracic Surgeons-predicted risk of mortality scores (all P < .005).
+CONCLUSIONS: Sarcopenic patients had significantly higher risks of early adverse events and long-term mortality after undergoing surgical aortic valve replacement than nonsarcopenic patients. Sarcopenia determined by preoperative computed tomography can enhance the prediction of postoperative outcome risk.
+
+Citation: Lee SA, et al. Benefit of Sarcopenia Screening in Older Patients Undergoing Surgical Aortic Valve Replacement. Benefit of Sarcopenia Screening in Older Patients Undergoing Surgical Aortic Valve Replacement. 2022; 113:2018-2026. doi: 10.1016/j.athoracsur.2021.06.067
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34332995/

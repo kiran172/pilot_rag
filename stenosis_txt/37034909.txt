@@ -1,0 +1,11 @@
+PMID: 37034909
+Title: The role of psychopathological symptoms in lumbar stenosis: A prediction model of disability after lumbar decompression and fusion.
+
+Abstract: INTRODUCTION: Pre-operative psychological factors may influence outcome after spine surgery. The identification of patients at risk of persisting disability may be useful for patient selection and possibly to improve treatment outcome.
+METHODS: Patients with neurogenic claudication associated with degenerative lumbar spinal stenosis (DLSS) performed a psychological assessment before lumbar decompression and fusion (LDF) surgery. The following tests were administrated: Visual Analogic Scale; Symptom Checklist-90 (SCL-90-R), Short Form-36 and Oswestry Disability Index (ODI). The primary outcome was ODI score lower than 20. A cross correlation matrix (CCM) was carried out with significant variables after univariate analysis and a linear logistic regression model was calculated considering the most significant variable.
+RESULTS: 125 patient (61 men and 64 women) were included in the study. Seven parameters of the SCL-90-R scale showed statistical significance at the univariate analysis: obsessivity (p &lt; 0.001), Current Symptom Index (p = 0.001), Global Severity Index (p &lt; 0.001), depression (p &lt; 0.001), positive Symptom Total (p = 0.002), somatization (p = 0.001) and anxiety (p = 0.036). Obsessivity was correlated with other significant parameters, except GSI (Pearson's correlation coefficient = 0.11).The ROC curve for the logistic model considering obsessivity as risk factor, has an area under the curve of 0.75.
+CONCLUSION: Pre-operative psychopathological symptoms can predict persistence of disability after LDF for DLSS. Future studies will evaluate the possibility of modifying post operative outcome through targeted treatment for psychological features emerged during pre-operative assessment.
+
+Citation: Mazzucchi E, et al. The role of psychopathological symptoms in lumbar stenosis: A prediction model of disability after lumbar decompression and fusion. The role of psychopathological symptoms in lumbar stenosis: A prediction model of disability after lumbar decompression and fusion. 2023; 14:1070205. doi: 10.3389/fpsyg.2023.1070205
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37034909/

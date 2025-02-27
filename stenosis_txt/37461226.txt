@@ -1,0 +1,11 @@
+PMID: 37461226
+Title: Determinants of 1-Year Unfavorable Outcomes of Intravenous Alteplase Thrombolysis for Acute Ischemic Stroke.
+
+Abstract: OBJECTIVE: Intravenous thrombolytic therapy has become the standard of treatment for eligible patients with ischemic stroke. However, outcomes after receiving intravenous thrombolytic therapy vary widely. This study aims to investigate determinants of 1-year clinical outcomes of intravenous thrombolytic therapy for patients with acute ischemic stroke.
+METHODS: In a prospective, observational study, patients with acute ischemic stroke treated with intravenous thrombolysis were consecutively included, and clinical information and laboratory data were collected. The patients were followed up for 12 months after onset, and the 1-year clinical outcome was evaluated using modified Rankin Scale scores. A score ≥ 3 was defined as unfavorable functional outcome. Univariate and multivariate logistic regressions were used to assess the determinants of the 1-year clinical outcomes of intravenous thrombolysis for acute ischemic stroke.
+RESULTS: A total of 222 patients with intravenous thrombolysis were enrolled, and we identified 58 patients (26.1%) had unfavorable functional outcomes. Multivariate logistic regression analysis revealed that mean platelet volume-to-lymphocyte ratio (MPVLR) (odds ratio [OR] = 1.114, 95% confidence interval [CI]: 1.024-1.211, P = .012), atrial fibrillation (OR =  2.553, 95% CI: 1.086-6.002, P = .032), symptomatic stenosis occlusion (OR =  2.547, 95% CI: 1.269-5.110, P = .009), and baseline National Institutes of Health Stroke Scale (NIHSS) score (OR = 1.141, 95% CI: 1.074-1.212, P &lt; .001) were independent predictors of unfavorable functional outcomes at 1 year.
+CONCLUSIONS: In patients receiving intravenous thrombolysis, we found that MPVLR, atrial fibrillation, symptomatic stenosis occlusion, and baseline NIHSS score were significant predictors of unfavorable functional outcomes at 1 year.
+
+Citation: Zhai M, et al. Determinants of 1-Year Unfavorable Outcomes of Intravenous Alteplase Thrombolysis for Acute Ischemic Stroke. Determinants of 1-Year Unfavorable Outcomes of Intravenous Alteplase Thrombolysis for Acute Ischemic Stroke. 2023; 29:10760296231187616. doi: 10.1177/10760296231187616
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37461226/

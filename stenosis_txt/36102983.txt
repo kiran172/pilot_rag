@@ -1,0 +1,11 @@
+PMID: 36102983
+Title: Perioperative outcomes of laparoscopically assisted anorectoplasty versus conventional procedures for anorectal malformation: a retrospective nationwide database study.
+
+Abstract: PURPOSE: This study aimed to compare the perioperative outcomes of laparoscopically assisted anorectoplasty (LAARP) and conventional procedures (CPs) for anorectal malformation (ARM) using a national inpatient database in Japan.
+METHODS: Using the Diagnosis Procedure Combination database, we identified patients who underwent anorectoplasty for high- or intermediate-type ARMs from 2010 to 2019. Primary outcomes were postoperative rectal prolapse, anal stenosis, and general complications. Secondary outcomes were the duration of anesthesia and length of hospital stay. We performed 1:2 propensity score-matched analyses to compare the outcomes between the LAARP and CP groups.
+RESULTS: We identified 1005 eligible patients, comprising 286 and 719 patients who underwent LAARP and CP, respectively. The propensity score-matched groups included 281 patients with LAARP and 562 with CP. The LAARP group showed a higher proportion of rectal prolapse (21.4% vs. 8.5%; odds ratio, 2.91; 95% confidence interval [CI], 1.89-4.48; p < 0.001) and longer duration of anesthesia (462 min vs. 365 min; difference, 90 min; 95% CI 43-137; p < 0.001) than the CP group. No significant differences were found in other outcomes.
+CONCLUSION: LAARP had worse outcomes than CP in terms of rectal prolapse. Thus, we propose that LAARP may require technical refinement to improve patient outcomes.
+
+Citation: Ishimaru T, et al. Perioperative outcomes of laparoscopically assisted anorectoplasty versus conventional procedures for anorectal malformation: a retrospective nationwide database study. Perioperative outcomes of laparoscopically assisted anorectoplasty versus conventional procedures for anorectal malformation: a retrospective nationwide database study. 2022; 38:1785-1791. doi: 10.1007/s00383-022-05234-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36102983/

@@ -1,0 +1,12 @@
+PMID: 32295388
+Title: Arterial spin labeling magnetic resonance imaging at short post-labeling delay reflects cerebral perfusion pressure verified by oxygen-15-positron emission tomography in cerebrovascular steno-occlusive disease.
+
+Abstract: BACKGROUND: Arterial transit time correction by data acquisition with multiple post-labeling delays (PLDs) or relatively long PLDs is expected to obtain more accurate imaging in cases of the cerebrovascular steno-occlusive disease. However, there have so far been no reports describing the significance of arterial spin labeling (ASL) images at short PLDs regarding the evaluation of cerebral circulation in ischemic cerebrovascular disease.
+PURPOSE: To clarify the role of short-PLD ASL in cerebrovascular steno-occlusive disease.
+MATERIAL AND METHODS: Fifty-three patients with cerebrovascular steno-occlusive disease were included in this study. All patients underwent ASL magnetic resonance imaging and 15O-PET within two days of each modality. To compare the ASL findings with each parameter of PET, the right-to-left (R/L) ratio, defined as the right middle cerebral artery (MCA) value/left MCA value, was calculated.
+RESULTS: There is a significant correlation between the ASL images at a short PLD and the ratio of cerebral blood flow and cerebral blood volume by 15O-PET, which may accurately reflect the cerebral perfusion pressure. A receiver operating characteristic curve analysis indicated that ASL images at PLD 1000 and 1500 ms were more accurate than at PLD 2000-3000 ms for the detection of a ≥10% change in the PET cerebral blood flow.
+CONCLUSION: ASL images at shorter PLDs may be useful at least as a screening modality to detect the changes in the cerebral circulation in cerebrovascular steno-occlusive disease. We must evaluate ASL images at multiple PLDs while considering the arterial transit time of each case at present.
+
+Citation: Itagaki H, et al. Arterial spin labeling magnetic resonance imaging at short post-labeling delay reflects cerebral perfusion pressure verified by oxygen-15-positron emission tomography in cerebrovascular steno-occlusive disease. Arterial spin labeling magnetic resonance imaging at short post-labeling delay reflects cerebral perfusion pressure verified by oxygen-15-positron emission tomography in cerebrovascular steno-occlusive disease. 2021; 62:225-233. doi: 10.1177/0284185120917111
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32295388/

@@ -1,0 +1,11 @@
+PMID: 35169954
+Title: Staple Line Reinforcement During Laparoscopic Sleeve Gastrectomy: Systematic Review and Network Meta-analysis of Randomized Controlled Trials.
+
+Abstract: PURPOSE: Staple line reinforcement (SLR) during laparoscopic sleeve gastrectomy (LSG) is controversial. The purpose of this study was to perform a comprehensive evaluation of the most commonly utilized techniques for SLR.
+MATERIALS AND METHODS: Network meta-analysis of randomized controlled trials (RCTs) to compare no reinforcement (NR), suture oversewing (SR), glue reinforcement (GR), bioabsorbable staple line reinforcement (Gore® Seamguard®) (GoR), and clips reinforcement (CR). Risk Ratio (RR), weighted mean difference (WMD), and 95% credible intervals (CrI) were used as pooled effect size measures.
+RESULTS: Overall, 3994 patients (17 RCTs) were included. Of those, 1641 (41.1%) underwent NR, 1507 (37.7%) SR, 689 (17.2%) GR, 107 (2.7%) GoR, and 50 (1.3%) CR. SR was associated with a significantly reduced risk of bleeding (RR=0.51; 95% CrI 0.31-0.88), staple line leak (RR=0.56; 95% CrI 0.32-0.99), and overall complications (RR=0.50; 95% CrI 0.30-0.88) compared to NR while no differences were found vs. GR, GoR, and CR. Operative time was significantly longer for SR (WMD=16.2; 95% CrI 10.8-21.7), GR (WMD=15.0; 95% CrI 7.7-22.4), and GoR (WMD=15.5; 95% CrI 5.6-25.4) compared to NR. Among treatments, there were no significant differences for surgical site infection (SSI), sleeve stenosis, reoperation, hospital length of stay, and 30-day mortality.
+CONCLUSIONS: SR seems associated with a reduced risk of bleeding, leak, and overall complications compared to NR while no differences were found vs. GR, GoR, and CR. Data regarding GoR and CR are limited while further trials reporting outcomes for these techniques are warranted.
+
+Citation: Aiolfi A, et al. Staple Line Reinforcement During Laparoscopic Sleeve Gastrectomy: Systematic Review and Network Meta-analysis of Randomized Controlled Trials. Staple Line Reinforcement During Laparoscopic Sleeve Gastrectomy: Systematic Review and Network Meta-analysis of Randomized Controlled Trials. 2022; 32:1466-1478. doi: 10.1007/s11695-022-05950-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35169954/

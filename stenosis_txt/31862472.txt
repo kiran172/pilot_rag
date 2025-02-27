@@ -1,0 +1,11 @@
+PMID: 31862472
+Title: Impact of preprocedural left ventricle hypertrophy and geometrical patterns on mortality following TAVR.
+
+Abstract: BACKGROUND: In contrast to surgical aortic valve replacement, left ventricle (LV) hypertrophy (LVH) had not been clearly associated with mortality following transcatheter aortic valve replacement (TAVR).
+METHODS: We performed a retrospective analysis of patients enrolled in the Israeli multicenter TAVR registry for whom preprocedural LV mass index (LVMI) data were available. Patients were divided into categories according to LVMI: normal LVMI and mild, moderate, and severe LVH. Mild LVH was regarded as the reference group. Additionally, LV geometry patterns were examined (concentric and eccentric LVH, and concentric remodeling).
+RESULTS: The cohort consisted of 1,559 patients, 46.5% male, with a mean age of 82.2 (±6.8) years and mean LVMI of 121 (±29) g/m2. Rates of normal LVMI and mild, moderate, and severe LVH were 31% (n = 485), 21% (n = 322), 18% (n = 279), and 30% (n = 475), respectively. Three-year mortality rates for normal LVMI and mild, moderate, and severe LVH were 19.8%, 18.3%, 23.7%, and 24.4%, respectively. Compared to mild LVH, moderate LVH and severe LVH were independently associated with an increased risk for all-cause mortality (hazard ratio [HR] 1.58, 95% CI 1.15-2.18, P = .005; HR 1.46, 95% CI 1.1-1.95, P = .009; respectively). Concentric LVH was independently associated with a decreased risk for mortality compared to normal LV geometry (HR 0.75, 95% CI 0.63-0.89, P = .001). Compared to concentric LVH, eccentric LVH was independently associated with a 33% increased risk for mortality (HR 1.33, 95% CI 1.11-1.60, P = .002).
+CONCLUSIONS: Mild concentric LVH confers a protective effect among patients with severe aortic stenosis undergoing TAVR. However, hypertrophy becomes maladaptive, and an increased baseline LVMI, eccentric pattern particularly, may be associated with all-cause mortality in this population.
+
+Citation: Rozenbaum Z, et al. Impact of preprocedural left ventricle hypertrophy and geometrical patterns on mortality following TAVR. Impact of preprocedural left ventricle hypertrophy and geometrical patterns on mortality following TAVR. 2020; 220:184-191. doi: 10.1016/j.ahj.2019.11.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31862472/

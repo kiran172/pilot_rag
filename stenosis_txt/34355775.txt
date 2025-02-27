@@ -1,0 +1,11 @@
+PMID: 34355775
+Title: Angiography-based coronary flow reserve: The feasibility of automatic computation by artificial intelligence.
+
+Abstract: BACKGROUND: Coronary flow reserve (CFR) has prognostic value in patients with coronary artery disease. However, its measurement is complex, and automatic methods for CFR computation are scarcely available. We developed an automatic method for CFR computation based on coronary angiography and assessed its feasibility.
+METHODS: Coronary angiographies from the Corelab database were annotated by experienced analysts. A convolutional neural network (CNN) model was trained for automatic segmentation of the main coronary arteries during contrast injection. The segmentation performance was evaluated using 5-fold cross-validation. Subsequently, the CNN model was implemented into a prototype software package for automatic computation of the CFR (CFRauto) and applied on a different sample of patients with angiographies performed both at rest and during maximal hyperemia, to assess the feasibility of CFRauto and its agreement with the manual computational method based on frame count (CFRmanual).
+RESULTS: Altogether, 137,126 images of 5913 angiographic runs from 2407 patients were used to develop and evaluate the CNN model. Good segmentation performance was observed. CFRauto was successfully computed in 136 out of 149 vessels (91.3%). The average analysis time to derive CFRauto was 18.1 ± 10.3 s per vessel. Moderate correlation (r = 0.51, p < 0.001) was observed between CFRauto and CFRmanual, with a mean difference of 0.12 ± 0.53.
+CONCLUSIONS: Automatic computation of the CFR based on coronary angiography is feasible. This method might facilitate wider adoption of coronary physiology in the catheterization laboratory to assess microcirculatory function.
+
+Citation: Zhao Q, et al. Angiography-based coronary flow reserve: The feasibility of automatic computation by artificial intelligence. Angiography-based coronary flow reserve: The feasibility of automatic computation by artificial intelligence. 2023; 30:369-378. doi: 10.5603/CJ.a2021.0087
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34355775/

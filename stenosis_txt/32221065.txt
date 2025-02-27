@@ -1,0 +1,11 @@
+PMID: 32221065
+Title: Carotid plaque magnetic resonance imaging and recurrent stroke risk: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: MRI findings of carotid plaque components have been studied recently as a tool to predict recurrent ischemic events. We performed a systematic review and meta-analysis to summarize the association of MRI-determined intraplaque hemorrhage, lipid-rich necrotic core, and thinning/rupture of the fibrous cap with recurrent ischemic events.
+METHODS: Electronic search was performed in PUBMED, EMBASE, Cochrane Controlled Register of Trials (CENTRAL) from inception to Oct 30, 2018. We included cohort studies with an average follow-up time of more than 1 month in which intraplaque hemorrhage, lipid-rich necrotic core, or thinning/rupture of the fibrous cap were associated with recurrent ipsilateral stroke or ischemic events. We performed heterogeneity assessment before carrying out meta-analysis. According to the heterogeneity, we selected fixed-effect model for meta-analysis of the included cohort studies.
+RESULTS: Using a prespecified search strategy, of the 2128 articles, 6 studies with a total number of 621 participants met eligibility for systematic review and meta-analysis. The hazard ratios of intra-plaque hemorrhage, thinning/rupture of the fibrous cap and lipid rich necrotic core as recurrent Stroke/Transient ischemic attack (TIA) were 7.14(95% confidence interval, 4.32 to 11.82), 5.68(95% confidence interval, 2.40 to 13.47), and 2.73(95% confidence interval, 1.04 to 7.16), respectively. No significant heterogeneity was found in the 3 meta-analyses.
+CONCLUSIONS: The presence of intraplaque hemorrhage, lipid-rich necrotic core, and thinning/rupture of the fibrous cap on MRI of carotid plaque are strong predictors of recurrent stroke events. However, due to the lack of original studies, larger cohort studies are warranted.
+
+Citation: Deng F, et al. Carotid plaque magnetic resonance imaging and recurrent stroke risk: A systematic review and meta-analysis. Carotid plaque magnetic resonance imaging and recurrent stroke risk: A systematic review and meta-analysis. 2020; 99:e19377. doi: 10.1097/MD.0000000000019377
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32221065/

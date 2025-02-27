@@ -1,0 +1,11 @@
+PMID: 35380744
+Title: Association of residual inflammatory risk with stroke recurrence in patients with acute ischaemic stroke or transient ischaemic attack.
+
+Abstract: BACKGROUND AND PURPOSE: The aim was to explore the association of residual inflammatory risk (RIR) with stroke recurrence after an index acute ischaemic stroke or transient ischaemic attack.
+METHODS: This study was based on the Third China National Stroke Registry. A total of 5840 patients with two high sensitivity C-reactive protein (hsCRP) measurements at baseline and at 3 months were included in the analysis. High RIR was defined as an hsCRP ≥3 mg/l. Patients were divided into four groups: persistent high RIR (first high then high hsCRP), attenuated RIR (first high then low hsCRP), increased RIR (first low then high hsCRP) and persistent low RIR (first low then low hsCRP). The primary outcome was new stroke onset during the 1-year follow-up. Secondary outcomes included composite vascular events, all-cause mortality and poor functional outcome (modified Rankin Scale score 3-6).
+RESULTS: During the 1-year follow-up, 523 (9.0%) patients had stroke recurrence. Patients with persistent high RIR had an increased risk of stroke recurrence (hazard ratio with 95% confidence interval 1.39, 1.08-1.78), compared with those with persistent low RIR. Similar results were found for the outcome of composite vascular events, mortality and poor functional outcome. An increased risk of stroke recurrence was further found in patients with persistent high RIR and intracranial artery stenosis or large-artery atherosclerosis stroke subtype.
+CONCLUSIONS: In patients with acute ischaemic stroke or transient ischaemic attack, persistent high RIR increased the risks of 1-year stroke recurrence, especially in those with intracranial artery stenosis or large-artery atherosclerosis subtype, composite vascular events, mortality and poor functional outcome.
+
+Citation: Liu H, et al. Association of residual inflammatory risk with stroke recurrence in patients with acute ischaemic stroke or transient ischaemic attack. Association of residual inflammatory risk with stroke recurrence in patients with acute ischaemic stroke or transient ischaemic attack. 2022; 29:2258-2268. doi: 10.1111/ene.15344
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35380744/

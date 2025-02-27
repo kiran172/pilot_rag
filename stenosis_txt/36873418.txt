@@ -1,0 +1,12 @@
+PMID: 36873418
+Title: NT-proBNP trajectory after transcatheter aortic valve replacement and its association with 5-year clinical outcomes.
+
+Abstract: BACKGROUND: There are only limited reports on the trends of NT-proBNP after transcatheter aortic valve replacement (TAVR) in aortic stenosis (AS) and even fewer report on the prognostic value of the NT-proBNP trajectory following TAVR.
+OBJECTIVES: This study aims to investigate short-term NT-proBNP trajectory following TAVR and explore its association with clinical outcomes in TAVR recipients.
+METHODS: Aortic stenosis patients undergoing TAVR were included if they had NT-proBNP levels recorded at baseline, prior to discharge, and within 30 days after TAVR. We used latent class trajectory models to identify NT-proBNP trajectories based on their trends over time.
+RESULTS: Three distinct NT-proBNP trajectories were identified from 798 TAVR recipients, which were named class 1 (N = 661), class 2 (N = 102), and class 3 (N = 35). Compared to those with trajectory class 1, patients with trajectory class 2 had a more than 2.3-fold risk of 5-year all-cause death and 3.4-fold risk of cardiac death, while patients with trajectory class 3 had a more than 6.6-fold risk of all-cause death and 8.8-fold risk of cardiac death. By contrast, the groups had no differences in 5-year hospitalization rates. In multivariable analyses, the risk of 5-year all-cause mortality was significantly higher in patients with trajectory class 2 (HR 1.90, 95% CI 1.03-3.52, P = 0.04) and class 3 (HR 5.70, 95% CI 2.45-13.23, P &lt; 0.01).
+CONCLUSION: Our findings implied different short-term evolution of NT-proBNP levels in TAVR recipients and its prognostic value for AS patients following TAVR. NT-proBNP trajectory may have further prognostic value, in addition to its baseline level. This may aid clinicians with regards to patient selection and risk prediction in TAVR recipients.
+
+Citation: Zhou Y, et al. NT-proBNP trajectory after transcatheter aortic valve replacement and its association with 5-year clinical outcomes. NT-proBNP trajectory after transcatheter aortic valve replacement and its association with 5-year clinical outcomes. 2023; 10:1098764. doi: 10.3389/fcvm.2023.1098764
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36873418/

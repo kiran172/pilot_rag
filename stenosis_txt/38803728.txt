@@ -1,0 +1,11 @@
+PMID: 38803728
+Title: Multilayer Perceptron Neural Network Analysis of Fluoroscopic Working Angle on Transcatheter Aortic Valve Implantation Complications.
+
+Abstract: BACKGROUND: We sought to determine whether there is a relationship between the fluoroscopic working angle used to achieve a co-planar view during the deployment of the prosthesis during transcatheter aortic valve implantation (TAVI) and rates of complications, including paravalvular leaks, complete heart block, annular rupture, stroke, valve embolization, discharge to a skilled nursing facility and death within thirty days.
+METHODS: All patients undergoing TAVI at our institution from 2015 to 2022 were retrospectively analyzed. Images were reviewed to determine the fluoroscopic working angle during deployment, and medical records were used to determine the incidence and type of complication. A multilayer perceptron was employed to evaluate the predictive ability of the fluoroscopic working angle during deployment on complications of one-day and 30-day paravalvular leak, 30-day mortality, the need for a new pacemaker, discharge to a skilled nursing facility, stroke and the requirement for emergency intervention.
+RESULTS: Eight hundred and thirty-four patients were included in the study. Fluoroscopic working angle had excellent predictive value for stroke (area under the receiver operating characteristic curve (AUROC) of 0.812), one-day (AUROC 0.850), and 30-day paravalvular leak (AUROC 0.801). However, feature importance and scaled weighting analysis indicated that only a working angle in the left anterior oblique/cranial quadrant was informative for the development of an outcome of interest specific to a working angle quadrant (30-day paravalvular leak).
+CONCLUSION: Fluoroscopic working angle may be a useful way to further refine well-established risk calculi during TAVI.
+
+Citation: Asif N, et al. Multilayer Perceptron Neural Network Analysis of Fluoroscopic Working Angle on Transcatheter Aortic Valve Implantation Complications. Multilayer Perceptron Neural Network Analysis of Fluoroscopic Working Angle on Transcatheter Aortic Valve Implantation Complications. 2024; 16:e59144. doi: 10.7759/cureus.59144
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38803728/

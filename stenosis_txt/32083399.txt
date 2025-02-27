@@ -1,0 +1,11 @@
+PMID: 32083399
+Title: Autonomic dysfunction in cardiac amyloidosis assessed by heart rate variability and heart rate turbulence.
+
+Abstract: BACKGROUND: Cardiac amyloidosis (CA) is characterized by left ventricular hypertrophy (LVH) and autonomic nervous imbalance due to amyloid infiltration. However, autonomic dysfunction is often seen in heart failure (HF) with LVH from other etiologies. We aimed to characterize autonomic dysfunction in CA from other etiologies of LVH.
+METHODS: Fifty-five HF patients with LVH (35 males, mean age 65 ± 16 years) were enrolled. LVH was defined as left ventricular mass index measured by echocardiography &gt;95 g/m2 in women and 115 g/m2 in men. The etiology was as follows: amyloid light chain (AL)-CA, n = 14; hypertrophic cardiomyopathy, n = 21; and aortic stenosis (AS), n = 20. With the patient in a clinically stable condition, heart rate variability (HRV) and heart rate turbulence (HRT), which reflect autonomic dysfunction, were measured using Holter monitoring and compared among the three groups.
+RESULTS: Brain natriuretic peptide levels, LVH severity, left ventricular ejection fraction, and tissue Doppler index E/e' did not differ among the three groups. However, severe abnormalities of HRV and HRT were obtained in AL-CA. In the ROC analysis to identify AL-CA in HF with LVH, the best cutoff value for standard deviation of all R-R intervals, standard deviation of the 5-min mean R-R intervals, turbulence onset, and turbulence slope were 68.5 ms (AUC: 0.865), 58.5 ms (AUC: 0.834), 0.25% (AUC: 0.813), and 1.00 ms/RR (AUC 0.736), respectively.
+CONCLUSION: Autonomic dysfunction is a hallmark of AL-CA, and its noninvasive assessment by Holter monitoring may be a useful tool for differential diagnosis of HF with LVH.
+
+Citation: Yamada S, et al. Autonomic dysfunction in cardiac amyloidosis assessed by heart rate variability and heart rate turbulence. Autonomic dysfunction in cardiac amyloidosis assessed by heart rate variability and heart rate turbulence. 2020; 25:e12749. doi: 10.1111/anec.12749
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32083399/

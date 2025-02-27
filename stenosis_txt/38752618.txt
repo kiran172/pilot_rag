@@ -1,0 +1,11 @@
+PMID: 38752618
+Title: Association of Collagen Changes in Distal Anastomotic Margin and Anastomotic Stenosis after Neoadjuvant Chemoradiotherapy for Rectal Cancer.
+
+Abstract: BACKGROUND: Neoadjuvant chemoradiotherapy (nCRT) for rectal cancer can lead to structural changes in collagen in the tumor microenvironment and increase the risk of postoperative anastomotic stenosis (AS). However, the quantitative relationship between AS and collagen has not been defined. This study is to quantitatively analyze the collagen features in rectal cancer and explore the relationship between the changes of collagen and postoperative anastomotic stenosis after nCRT.
+STUDY DESIGN: This is a retrospective study. A total of 371 patients with rectal cancer were included. Collagen features in the resection margin of rectal cancer anastomosis was extracted by multiphoton imaging. The least absolute shrinkage operator logistic regression was performed to select features related to AS and the collagen score (CS) was constructed. Area under the receiver operating curve (AUROC) and decision curve analysis were performed to evaluate the discrimination and clinical benefit of the nomogram.
+RESULTS: The probability of AS was 23% in the training cohort and 15.9% in the validation cohort. In the training cohort, the distance between tumor and resection margin, anastomotic leakage and CS were independent risk factors for postoperative AS in univariate and multivariate analyses. A nomogram was constructed based on these results. The prediction nomogram showed good discrimination (AUROC 0.864; 95% CI 0.776 to 0.952) and was validated in the validation cohort (AUROC 0.918; 95% CI 0.851 to 0.985).
+CONCLUSIONS: CS is an independent risk factor for AS in rectal cancer after nCRT. The predictive model based on CS can predict the occurrence of postoperative AS.
+
+Citation: Feng M, et al. Association of Collagen Changes in Distal Anastomotic Margin and Anastomotic Stenosis after Neoadjuvant Chemoradiotherapy for Rectal Cancer. Association of Collagen Changes in Distal Anastomotic Margin and Anastomotic Stenosis after Neoadjuvant Chemoradiotherapy for Rectal Cancer. 2024; 239:363-374. doi: 10.1097/XCS.0000000000001116
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38752618/

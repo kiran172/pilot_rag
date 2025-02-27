@@ -1,0 +1,13 @@
+PMID: 36256698
+Title: Economics of Minimalist Transcatheter Aortic Valve Replacement: Results From the 3M-TAVR Economic Study.
+
+Abstract: BACKGROUND: The 3M-TAVR trial (3M-Transcatheter Aortic Valve Replacement) demonstrated the feasibility and safety of next-day hospital discharge after transfemoral TAVR with implementation of a minimalist pathway. However, the economic impact of this approach is unknown. Therefore, we evaluated costs for patients undergoing minimalist TAVR compared with conventional TAVR.
+METHODS: We used propensity matching to compare resource utilization and costs (from a US health care system perspective) for patients in the 3M-TAVR trial with those for transfemoral TAVR patients enrolled in the contemporaneous S3i trial (PARTNER SAPIEN-3 Intermediate Risk). Procedural costs were estimated using measured resource utilization for both groups. For the S3i group, all other costs through 30-day follow-up were assessed by linkage with Medicare claims; for 3M, these costs were assessed using regression models derived from S3i cost and resource utilization data.
+RESULTS: After 1:1 propensity matching, 351 pairs were included in our study (mean age 82, mean Society of Thoracic Surgery risk score 5.3%). There were no differences in death, stroke, or rehospitalization between the 3M-TAVR and S3i groups through 30-day follow-up. Index hospitalization costs were $10 843/patient lower in the 3M-TAVR cohort, driven by reductions in procedure duration, anesthesia costs, and length of stay. Between discharge and 30 days, costs were similar for the 2 groups such that cumulative 30-day costs were $11 305/patient lower in the 3M-TAVR cohort compared with the S3i cohort ($49 425 versus $60 729, 95% CI for difference $9378 to $13 138; P&lt;0.001).
+CONCLUSIONS: Compared with conventional transfemoral TAVR, use of a minimalist pathway in intermediate-risk patients was associated with similar clinical outcomes and substantial in-hospital cost savings, which were sustained through 30 days.
+REGISTRATION: URL: https://www.
+CLINICALTRIALS: gov; Unique identifier: NCT02287662.
+
+Citation: Butala NM, et al. Economics of Minimalist Transcatheter Aortic Valve Replacement: Results From the 3M-TAVR Economic Study. Economics of Minimalist Transcatheter Aortic Valve Replacement: Results From the 3M-TAVR Economic Study. 2022; 15:e012168. doi: 10.1161/CIRCINTERVENTIONS.122.012168
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36256698/

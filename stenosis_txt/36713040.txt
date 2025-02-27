@@ -1,0 +1,12 @@
+PMID: 36713040
+Title: Invasive electrophysiological testing to predict and guide permanent pacemaker implantation after transcatheter aortic valve implantation: A meta-analysis.
+
+Abstract: BACKGROUND: Atrioventricular conduction abnormalities after transcatheter aortic valve implantation (TAVI) are common. The value of electrophysiological study (EPS) for risk stratification of high-grade atrioventricular block (HG-AVB) and guidance of permanent pacemaker (PPM) implantation is poorly defined.
+OBJECTIVE: The purpose of this study was to identify EPS parameters associated with HG-AVB and determine the value of EPS-guided PPM implantation after TAVI.
+METHODS: We performed a systematic review and meta-analysis of studies investigating the value of EPS parameters for risk stratification of TAVI-related HG-AVB and for guidance of PPM implantation among patients with equivocal PPM indications after TAVI.
+RESULTS: Eighteen studies (1230 patients) were eligible. In 7 studies, EPS was performed only after TAVI, whereas in 11 studies EPS was performed both before and after TAVI. Overall PPM implantation rate for HG-AVB was 16%. AV conduction intervals prolonged after TAVI, with the AH and HV intervals showing the largest magnitude of changes. Pre-TAVI HV &gt;70 ms and the absolute value of the post-TAVI HV interval were associated with subsequent HG-AVB and PPM implantation with odds ratios of 2.53 (95% confidence interval [CI] 1.11-5.81; P = .04) and 1.10 (95% CI 1.03-1.17; P = .02; per 1-ms increase), respectively. In 10 studies, PPM was also implanted due to abnormal EPS findings in patients with equivocal PPM indications post-TAVI (typically new left bundle branch block or transient HG-AVB). Among them, the rate of long-term PPM dependency was 57%.
+CONCLUSION: Selective EPS testing may assist in the risk stratification of post-TAVI HG-AVB and in the guidance of PPM implantation, especially in patients with equivocal PPM indications post-TAVI.
+
+Citation: Siontis KC, et al. Invasive electrophysiological testing to predict and guide permanent pacemaker implantation after transcatheter aortic valve implantation: A meta-analysis. Invasive electrophysiological testing to predict and guide permanent pacemaker implantation after transcatheter aortic valve implantation: A meta-analysis. 2023; 4:24-33. doi: 10.1016/j.hroo.2022.10.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36713040/

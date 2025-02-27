@@ -1,0 +1,8 @@
+PMID: 38062907
+Title: TBX5 pathogenic variant in a patient with congenital heart defect and tracheal stenosis.
+
+Abstract: Congenital tracheal stenosis is a rare life-threatening disorder caused by narrow O-shaped tracheal ring without smooth muscle. Its underlying genetic cause has not been elucidated. We performed whole exome sequencing in a patient with congenital tracheal stenosis and congenital heart defect, and identified a de novo pathogenic TBX5 variant (NM_181486.4:c.680T>C, p.(Ile227Thr)). The Ile227Thr-TBX5 protein was predicted to have a decreased stability by in silico protein structural analyses, and was shown to have a significantly reduced activity for the NPPA promoter by luciferase assay. The results, together with the expression of mouse Tbx5 in the lung and trachea and the development of tracheal cartilage dysplasia in the lung-specific Tbx5 null mice, imply the relevance of TBX5 pathogenic variants to congenital tracheal stenosis.
+
+Citation: Yamoto K, et al. TBX5 pathogenic variant in a patient with congenital heart defect and tracheal stenosis. TBX5 pathogenic variant in a patient with congenital heart defect and tracheal stenosis. 2024; 64:23-27. doi: 10.1111/cga.12548
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38062907/

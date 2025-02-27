@@ -1,0 +1,12 @@
+PMID: 36748980
+Title: Optimal use of antithrombotic agents in ischemic stroke with atrial fibrillation and large artery atherosclerosis.
+
+Abstract: BACKGROUND: Optimal antithrombotic regimens to prevent recurrent stroke in patients with ischemic stroke due to atrial fibrillation (AF) and atherosclerotic large-vessel stenosis remain unknown.
+AIMS: This study aimed to evaluate the effect of multiple antithrombotic therapies on outcomes at 1 year after ischemic stroke due to two or more causes.
+METHODS: We identified 862 patients with ischemic stroke due to AF and large artery atherosclerosis from the linked data. These patients were categorized into three groups according to antithrombotic therapies at discharge: (1) antiplatelets, (2) oral anticoagulants (OAC), and (3) antiplatelets plus OAC. The study outcomes were recurrent ischemic stroke, composite outcomes for cardiovascular events, and major bleeding after 1 year. Inverse probability of treatment weighting (IPTW) was used to balance the three groups using propensity scores.
+RESULTS: Among 862 patients, 169 (19.6%) were treated with antiplatelets, 405 (47.0%) were treated with OAC, and 288 (33.4%) were treated with antiplatelets and OAC. After applying IPTW, only OAC had a significant beneficial effect on the 1-year composite outcome (hazard ratio (HR): 0.37, 95% confidence interval (CI): 0.23-0.60, p < 0.001) and death (HR: 0.35, 95% CI: (0.19-0.63), p < 0.001). The combination of antiplatelet agents and OAC group had an increased risk of major bleeding complications (HR: 5.27, 95% CI: (1.31-21.16), p = 0.019). However, there was no significant difference in 1-year recurrent stroke events among the three groups.
+CONCLUSION: This study demonstrated that OAC monotherapy was associated with lower risks of composite outcome and death in patients at 1 year after ischemic stroke due to AF and atherosclerotic stenosis. In addition, the combination of an antiplatelet and OAC had a high risk of major bleeding.
+
+Citation: Kim TJ, et al. Optimal use of antithrombotic agents in ischemic stroke with atrial fibrillation and large artery atherosclerosis. Optimal use of antithrombotic agents in ischemic stroke with atrial fibrillation and large artery atherosclerosis. 2023; 18:812-820. doi: 10.1177/17474930231158211
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36748980/

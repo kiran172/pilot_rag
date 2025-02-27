@@ -1,0 +1,12 @@
+PMID: 36599591
+Title: No Antithrombotic Therapy After Transcatheter Aortic Valve Replacement: Insight From the OCEAN-TAVI Registry.
+
+Abstract: BACKGROUND: Several trials demonstrated that aspirin monotherapy compared with aspirin plus clopidogrel is associated with a lower incidence of bleeding without an increased risk of ischemic events in patients after transcatheter aortic valve replacement (TAVR); however, there remains a paucity of data to prove the necessity of even aspirin monotherapy.
+OBJECTIVES: This study aimed to compare clinical outcomes and valve performance of the 3 different antithrombotic strategies post-TAVR from the OCEAN-TAVI (Optimized transCathEter vAlvular iNtervention) registry.
+METHODS: Patients who received anticoagulation or had procedural complications were excluded. The remaining patients were classified into 3 groups according to the antithrombotic regimen at discharge: 1) nonantithrombotic therapy (None); 2) single-antiplatelet therapy (SAPT); and 3) dual-antiplatelet therapy (DAPT). The primary outcome was the incidence of net adverse clinical events (NACEs) (ie, cardiovascular death, stroke, myocardial infarction, and life-threatening or major bleeding).
+RESULTS: Overall, 3,575 TAVR patients were included (None, 293; SAPT, 1,354; DAPT, 1,928). The median follow-up period was 841 days (IQR: 597-1,340 days). The incidence of NACEs did not differ between the groups (None vs SAPT: adjusted HR [aHR]: 1.18; P = 0.45; None vs DAPT: aHR: 1.09; P = 0.67). There was a lower incidence of all bleeding in patients with no antithrombotics (None vs SAPT: aHR: 0.63; P = 0.12; None vs DAPT: aHR: 0.51; P = 0.04). The valve performance was similar among the groups. Leaflet thrombosis was detected in 8.5% of the nonantithrombotic group.
+CONCLUSIONS: Compared with SAPT/DAPT, the nonantithrombotic strategy was not associated with an increased risk of NACEs and potentially reduced the risk of bleeding events. The nonantithrombotic strategy may be an acceptable alternative to SAPT/DAPT in selected patients with TAVR.
+
+Citation: Kobari Y, et al. No Antithrombotic Therapy After Transcatheter Aortic Valve Replacement: Insight From the OCEAN-TAVI Registry. No Antithrombotic Therapy After Transcatheter Aortic Valve Replacement: Insight From the OCEAN-TAVI Registry. 2023; 16:79-91. doi: 10.1016/j.jcin.2022.10.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36599591/

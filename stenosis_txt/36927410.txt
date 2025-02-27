@@ -1,0 +1,12 @@
+PMID: 36927410
+Title: Does type 2 diabetes affect the efficacy of therapeutic exercises for degenerative lumbar spinal stenosis?
+
+Abstract: DESIGN: Propensity-matched retrospective study.
+OBJECTIVES: To determine whether type 2 diabetes mellitus (T2D) would affect prognosis in patients with degenerative lumbar spinal stenosis (DLSS) who underwent therapeutic exercises.
+METHODS: This study included consecutive patients with or without T2D who underwent therapeutic exercises for symptomatic DLSS from December 2018 to January 2020. Baseline demographics and clinical and radiological data were collected. The 2 groups of patients were further matched in a 1:1 fashion based on the propensity score, balancing the groups on pre-treatment factors including age, sex, leg and back pain, and low back disability. The primary outcomes included self-reported leg pain intensity (Numerical Rating Scale, NRS) and low back disability (Oswestry Disability Index, ODI) and the secondary outcomes included low back pain intensity and walking capacity (self-paced walking test, SPWT) were compared at baseline, 6 weeks, and 12 weeks.
+RESULTS: Forty-one pairs of patients were selected by propensity matching. After 6-week therapeutic exercises, patients with T2D achieved a lower improvement in leg pain at 6 weeks (NRS leg change, 1.21 ± 0.40 vs. 1.78 ± 0.52, P = 0.021) and 12 weeks (NRS leg change, 1.52 ± 0.92 vs. 2.18 ± 0.96, P = 0.007) above minimal clinically important difference (MCID), with a significant Group × Time interactions (F<sub>1,80</sub> = 16.32, p &lt; 0.001, ηp2 = 0.053). However, the two groups showed no difference in the improvement of ODI, although the sample had significant improvements at 6 weeks (ODI change 3.02 [95% CI, 2.08 to 2.77], P &lt; 0.001) and 12 weeks ([ODI change 3.82 [95% CI, 4.03 to 4.90], P &lt; 0.001), 46% of the patients achieved an MCID.
+CONCLUSION: Six-week therapeutic exercises have an inferior effect on DLSS patients with T2D. Findings from this study will provide an increased understanding of exercise treatment in patients with DLSS.
+
+Citation: Shi T, et al. Does type 2 diabetes affect the efficacy of therapeutic exercises for degenerative lumbar spinal stenosis?. Does type 2 diabetes affect the efficacy of therapeutic exercises for degenerative lumbar spinal stenosis?. 2023; 24:198. doi: 10.1186/s12891-023-06305-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36927410/

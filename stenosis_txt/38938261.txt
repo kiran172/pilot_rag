@@ -1,0 +1,12 @@
+PMID: 38938261
+Title: Comorbidities and Symptom Status in Moderate and Severe Aortic Stenosis: A Multicenter Clinical Cohort Study.
+
+Abstract: BACKGROUND: Symptoms associated with severe aortic stenosis (AS) are used to guide management.
+OBJECTIVES: The purpose of this study was to examine the pattern of symptoms, comorbidities, and cardiac damage in moderate and severe AS.
+METHODS: A total of 846,198 echocardiographic investigations from 330,940 individuals aged &gt;18 years were selected for the most recent echocardiogram, moderate or severe AS (mean gradient 20.0-39.9 mm Hg, aortic valve peak gradient 3.0-3.9 m/s and aortic valve area &gt;1.0 cm2; or ≥  40.0 mm Hg, ≥4.0 m/s or ≤1.0 cm2, respectively), and a cardiologist consultation. Natural Language Processing was applied to letters to extract comorbidities, dyspnea, chest pain, and syncope. Patients with prior aortic valve replacement were excluded.
+RESULTS: 2,213 patients (0.7% overall, 32.8% females) had moderate and 3,416 (1.0%, 47.3% females) had severe AS. Comorbidities were common, including hypertension, (56.6% moderate AS, 53.1% severe AS, P = 0.01), coronary disease (46.0% and 46.8%, respectively, P = 0.58) and atrial fibrillation (29.6% and 34.8%, respectively, P &lt; 0.001). Symptoms were also common in both moderate (n = 915, 41.3%) and severe (n = 1,630, 47.7%) AS (P &lt; 0.001). Comorbidities were more likely in symptomatic vs asymptomatic patients (P &lt; 0.001). Dyspnea was more likely in severe AS, whereas angina and syncope were similar in moderate vs severe AS. In multivariable analysis, only dyspnea was associated with severe (vs moderate) AS (OR: 1.73, 95% CI: 1.41-2.13, P &lt; 0.001). In both adjusted and unadjusted models, the degree of cardiac damage did not relate to presence of any symptoms but was associated with AS severity.
+CONCLUSIONS: Dyspnea is common in both moderate and severe AS, is associated with comorbidities and is not related to the degree of cardiac damage. Symptom-guided management decisions in AS may need revision.
+
+Citation: Playford D, et al. Comorbidities and Symptom Status in Moderate and Severe Aortic Stenosis: A Multicenter Clinical Cohort Study. Comorbidities and Symptom Status in Moderate and Severe Aortic Stenosis: A Multicenter Clinical Cohort Study. 2023; 2:100356. doi: 10.1016/j.jacadv.2023.100356
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38938261/

@@ -1,0 +1,11 @@
+PMID: 38623654
+Title: Machine Learning-Based Prediction of Intraoperative Red Blood Cell Transfusion in Aortic Valve Replacement Surgery.
+
+Abstract: BACKGROUND: Blood shortage is a global challenge, impacting elective surgeries with high bleeding risk. Predicting intraoperative blood use, optimizing resource allocation, and ensuring safe elective surgery are vital. This study targets identifying key bleeding risk factors in Aortic Valve Replacement (AVR) through machine learning.
+METHODS: Data from 702 AVR patients were split into 70% training and 30% test sets. Thirteen models predicted RBC transfusion. SHapley Additive exPlanations (SHAP) analyzed risk factors.
+RESULTS: Logistic Regression excelled, with Area Under Curve (AUC) 0.872 and 81.0% accuracy on the test set. Notably, female gender, Hemoglobin (HGB) < 131.91 g/L, Hematocrit (HCT) < 0.41L/L, weight < 59.49 kg, age > 54.47 year, Mean Corpuscular Hemoglobin (MCH) < 29.15 pg, Total Protein (TP) > 69.7 g/L, FIB > 2.61 g/L, height < 160 cm, and type of operation is Surgical Aortic Valve Replacement (SAVR) were significant RBC transfusion predictors.
+CONCLUSIONS: The study's model accurately forecasts AVR-related RBC transfusions. This informs presurgery blood preparations, reducing resource waste and aiding clinicians in optimizing patient care.
+
+Citation: Chen C, et al. Machine Learning-Based Prediction of Intraoperative Red Blood Cell Transfusion in Aortic Valve Replacement Surgery. Machine Learning-Based Prediction of Intraoperative Red Blood Cell Transfusion in Aortic Valve Replacement Surgery. 2024; 70:(unknown pages). doi: 10.7754/Clin.Lab.2023.230930
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38623654/

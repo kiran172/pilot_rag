@@ -1,0 +1,13 @@
+PMID: 36000059
+Title: Healthcare disparities for the development of airway stenosis from the medical intensive care unit.
+
+Abstract: OBJECTIVES/HYPOTHESIS: To identify sociodemographic factors associated with the development of airway stenosis (AS) among intubated medical intensive care unit (MICU) patients.
+STUDY DESIGN: Retrospective cohort study.
+METHODS: A retrospective review of adult MICU intubated patients from 2013 to 2019 at a single academic institution was performed. Univariate and multivariate analysis with logistic regression examined associations between the development of AS and subsite abnormalities such as posterior glottic stenosis (PGS), subglottic stenosis (SGS), tracheal stenosis (TS), vocal fold immobility (VFI), and posterior glottic granuloma (PGG) with age, body mass index (BMI), height, weight, race, ethnicity, sex, rurality, Appalachian status, length of admission, distance to hospital, and median household income.
+RESULTS: Of an overall sample of 6603 MICU patients, 449 intubated patients were included in the study, and 204 patients were found to have AS. AS was statistically associated with decreased driving distance to the hospital and increases in BMI. PGS was statistically associated with increases in age. TS was statistically associated with increases in admission duration and not having residence status in Appalachia. VFI was statistically associated with decreases in driving distance to the hospital and not having residence status in Appalachia. Additionally, black patients had a higher odds of developing VFI compared to Caucasian patients.
+CONCLUSION: AS is associated with sociodemographic factors such as age, BMI, shorter distance to hospital, admission duration, and no Appalachian status. These data demonstrate the need to further investigate the impact of social determinants of health on airway pathology and outcomes.
+LEVEL OF EVIDENCE: 4.
+
+Citation: Burruss CP, et al. Healthcare disparities for the development of airway stenosis from the medical intensive care unit. Healthcare disparities for the development of airway stenosis from the medical intensive care unit. 2022; 7:1078-1086. doi: 10.1002/lio2.865
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36000059/

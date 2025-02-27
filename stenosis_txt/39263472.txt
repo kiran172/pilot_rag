@@ -1,0 +1,11 @@
+PMID: 39263472
+Title: Technical principles, benefits, challenges, and applications of photon counting computed tomography in coronary imaging: a narrative review.
+
+Abstract: BACKGROUND AND OBJECTIVE: The introduction of photon-counting computed tomography (PCCT) represents the most recent groundbreaking advancement in clinical computed tomography (CT). PCCT has the potential to overcome the limitations of traditional CT and to provide new quantitative imaging information. This narrative review aims to summarize the technical principles, benefits, and challenges of PCCT and to provide a concise yet comprehensive summary of the applications of PCCT in the domain of coronary imaging.
+METHODS: A review of PubMed, Scopus, and Google Scholar was performed until October 2023 by using relevant keywords. Articles in English were considered.
+KEY CONTENT AND FINDINGS: The main advantages of PCCT over traditional CT are enhanced spatial resolution, improved signal and contrast characteristics, diminished electronic noise and image artifacts, lower radiation exposure, and multi-energy capability with enhanced material discrimination. These key characteristics have made room for improved assessment of plaque volume and severity of stenosis, more precise assessment of coronary artery calcifications, also preserved in the case of a reduced radiation dose, improved assessment of plaque composition, possibility to provide details regarding the biological processes occurring within the plaque, enhanced quality and accuracy of coronary stent imaging, and improved radiomic analyses.
+CONCLUSIONS: PCCT can significantly impact diagnostic and clinical pathways and improve the management of patients with coronary artery diseases (CADs).
+
+Citation: Meloni A, et al. Technical principles, benefits, challenges, and applications of photon counting computed tomography in coronary imaging: a narrative review. Technical principles, benefits, challenges, and applications of photon counting computed tomography in coronary imaging: a narrative review. 2024; 14:698-724. doi: 10.21037/cdt-24-52
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39263472/

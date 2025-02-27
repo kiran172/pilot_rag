@@ -1,0 +1,11 @@
+PMID: 32610152
+Title: Neighborhood socioeconomic status and aortic stenosis: A Swedish study based on nationwide registries and an echocardiographic screening cohort.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) is the most common valvular heart disease in developed countries, confers high mortality in advanced cases, but can effectively be reversed using endovascular or open-heart surgery. We evaluated the association between AS and neighborhood socioeconomic status (NSES).
+METHODS: We used Swedish population-based nationwide registers and an echocardiography screening cohort during the study period 1997-2014. NSES was determined by an established neighborhood deprivation index composed of education, income, unemployment, and receipt of social welfare. Multilevel adjusted logistic regression models determined the association between NSES and incident AS (according to ICD-10 diagnostic codes).
+RESULTS: The study population of men and women (n=6,641,905) was divided into individuals living in high (n = 1,608,815 [24%]), moderate (n = 3,857,367 [58%]) and low (n = 1,175,723 [18%]) SES neighborhoods. There were 63,227 AS cases in total. Low NSES (versus high) was associated with a slightly increased risk of AS (OR 1.06 [95% CI 1.03-1.08]) in the nationwide study population. In the echocardiography screening cohort (n = 1586), the association between low NSES and AS was markedly stronger (OR: 2.73 [1.05-7.12]). There were more previously undiagnosed AS cases in low compared to high SES neighborhoods (3.1% versus 1.0%).
+CONCLUSIONS: In this nationwide Swedish register study, low NSES was associated with a slightly increased risk of incident AS. However, the association was markedly stronger in the echocardiography screening cohort, which revealed an almost three-fold increase of AS among individuals living in low SES neighborhoods, possibly indicating an underdiagnosis of AS among these individuals.
+
+Citation: Andell P, et al. Neighborhood socioeconomic status and aortic stenosis: A Swedish study based on nationwide registries and an echocardiographic screening cohort. Neighborhood socioeconomic status and aortic stenosis: A Swedish study based on nationwide registries and an echocardiographic screening cohort. 2020; 318:153-159. doi: 10.1016/j.ijcard.2020.06.034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32610152/

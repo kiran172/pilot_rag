@@ -1,0 +1,11 @@
+PMID: 33960235
+Title: Systemic immune inflammation index: a novel predictor for coronary collateral circulation.
+
+Abstract: AIM: Recently, a new inflammatory and prognostic marker has emerged called as Systemic Immune Inflammation Index (SII). In the current study, we searched the relation between SII and Coronary Collateral Circulation (CCC) formation in stable Coronary Artery Disease (CAD).
+MATERIALS & METHODS: 449 patients with stable CAD who underwent coronary angiography and documented coronary stenosis of 95% or more in at least one major coronary vessel were included in the study. The study patients were divided into two groups according to the Rentrop score as well CCC (Rentrop 2-3) and bad CCC (Rentrop 0-1). Blood samples for SII and other laboratory parameters were gathered from all the patients on admission. The SII score was formulized as platelet × neutrophil/lymphocyte counts.
+RESULTS: Patients, who had developed bad CCC had a higher C-reactive protein (CRP), neutrophil/lymphocyte ratio (NLR), platelets/lymphocyte ratio (PLR) and SII levels compared to those who had developed well CCC (p < 0.001, for all). Multivariate logistic regression analysis showed that high levels of SII was an independent predictor of bad CCC (OR: 1.005, 95% confidence interval (CI): 1.003-1.006, p < 0.001) together with dyslipidemia, high levels of CRP and NLR. In Receiver Operator Characteristic curve (ROC) analysis, the optimal cutoff value of SII to predict poor CCC was found to be 729.8, with 78.4% sensitivity and 74.6% specificity (area under ROC curve = 0.833 (95% CI: 0.777-0.889, p < 0.001).
+CONCLUSION: We have demonstrated that SII, a novel cardiovascular risk marker, might be used as one of the independent predictors of CCC development.
+
+Citation: Kelesoglu S, et al. Systemic immune inflammation index: a novel predictor for coronary collateral circulation. Systemic immune inflammation index: a novel predictor for coronary collateral circulation. 2022; 37:605-612. doi: 10.1177/02676591211014822
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33960235/

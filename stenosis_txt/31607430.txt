@@ -1,0 +1,11 @@
+PMID: 31607430
+Title: Combined Femoral and Carotid Plaque Burden Identifies Obstructive Coronary Artery Disease in Women.
+
+Abstract: BACKGROUND: It remains difficult to assess cardiovascular risk in symptomatic women. The development of femoral plaque precedes adverse cardiovascular events. However, associations of femoral plaque burden with coronary artery disease (CAD) severity and extent are unknown. The aim of this study was to determine sex-specific plaque quantification markers by vascular ultrasound for identifying significant, obstructive CAD.
+METHODS: In this cross-sectional study, 500 participants (34% women) underwent carotid and femoral ultrasound following coronary angiography. Maximal plaque height and total plaque area were quantified. Logistic regression was used to determine associations of plaque burden with significant, obstructive CAD (≥50% stenosis), when adjusted for age and cardiac risk factors. CAD prediction was evaluated using receiver operating characteristic areas under the curve (AUCs).
+RESULTS: Two hundred thirty-one men (70%) and 78 women (46%) had significant CAD. A combined assessment of femoral bifurcation and carotid maximal plaque height was the most accurate identifier of CAD in men (AUC = 0.773, cutoff ≥ 2.7 mm, 87% sensitivity, 53% specificity) but a poorer indicator of CAD in women (AUC = 0.659, P &lt; .01). In contrast, the strongest identification of CAD in women was achieved by a combined analysis of common femoral and carotid total plaque area (AUC = 0.764, cutoff ≥ 42.0 mm2, 86% sensitivity, 53% specificity). At this value, more than half of women with false-positive stress test results were correctly identified as having no significant CAD.
+CONCLUSION: Combined femoral and carotid plaque burden assessments effectively ruled out significant disease in both sexes. Vascular ultrasound may have particular value for cardiovascular risk stratification in women, in whom traditional screening tools are less effective.
+
+Citation: Colledanchise KN, et al. Combined Femoral and Carotid Plaque Burden Identifies Obstructive Coronary Artery Disease in Women. Combined Femoral and Carotid Plaque Burden Identifies Obstructive Coronary Artery Disease in Women. 2020; 33:90-100. doi: 10.1016/j.echo.2019.07.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31607430/

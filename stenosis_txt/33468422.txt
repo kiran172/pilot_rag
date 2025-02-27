@@ -1,0 +1,11 @@
+PMID: 33468422
+Title: Saline as an Alternative to Radio-Contrast for Optical Coherence Tomography-Guided Percutaneous Coronary Intervention: A Prospective Comparison.
+
+Abstract: OBJECTIVES: To do a quantitative comparison of saline and contrast Frequency domain optical coherence tomography (FD-OCT) during percutaneous coronary intervention (PCI) optimisation.
+METHODS: 13 pairs of OCT runs were analysed, wherein each pair consisted of a contrast run and a heparinized saline run taken in the same coronary artery at the same position. Quantitative analysis was done comparing minimal lumen area (MLA), proximal reference diameter (PRD), distal reference diameter (DRD) and percentage area stenosis (AS) at the same anatomical location. Lesion morphologies, rendered stent view and 3D reconstruction were compared for image clarity.
+RESULT: The saline OCT runs resulted in comparable MLA (3.88 ± 2.59 mm2 with saline run vs 3.88 ± 2.71 mm2 with contrast run; p = 0.650), PRD (3.66 ± 0.52 mm with saline vs 3.65 ± 0.52 mm with contrast; p = 0.463), DRD (2.97 ± 0.22 mm with saline vs 2.99 ± 0.88 mm with contrast; p = 0.433), and AS (59.60 ± 18.62% with saline vs 59.18 ± 19.11% with contrast; p = 0.753) with respect to the contrast runs. The Bland Altman plots of the measured parameters indicate good agreement between saline and contrast OCT. Linear regression analysis indicated the absence of proportional bias All lesion morphologies (calcified, fibrotic, thin cap fibroatheroma, macrophages, cholesterol crystals and edge dissection), 3D reconstruction and rendered stent view were clearly demonstrable in the saline OCT runs.
+CONCLUSIONS: Using heparinized saline as flushing media in coronary FD-OCT may result in vessel dimensions that are comparable with contrast. Heparinized saline may be used as a contrast saving alternative for FD-OCT during PCI optimization.
+
+Citation: Gupta A, et al. Saline as an Alternative to Radio-Contrast for Optical Coherence Tomography-Guided Percutaneous Coronary Intervention: A Prospective Comparison. Saline as an Alternative to Radio-Contrast for Optical Coherence Tomography-Guided Percutaneous Coronary Intervention: A Prospective Comparison. 2022; 34:86-91. doi: 10.1016/j.carrev.2021.01.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33468422/

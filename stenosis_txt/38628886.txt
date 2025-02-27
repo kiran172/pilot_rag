@@ -1,0 +1,11 @@
+PMID: 38628886
+Title: Evaluation of the Tracheal Stenosis Effects on Airway Resistance and Work of Breathing Using Computational Fluid Dynamics.
+
+Abstract: BACKGROUND: Bronchoscopy is one of the most accurate procedures to diagnose airway stenosis which is an invasive procedure. However, a quick and noninvasive estimation of the percent area of obstruction (%AO) of the lumen is helpful in decision-making before performing a bronchoscopy procedure. We hypothesized that there is a relationship between %AO and tracheal resistance against fluid flow.
+MATERIALS AND METHODS: By measuring airway resistance, %AO could be estimated before the procedure. Using computational fluid dynamics (CFD), this study simulates the fluid flow through trachea models with web-liked stenosis using CFD. A cylindrical segment was inserted into the trachea to represent cross-sectional areas corresponding to 20%, 40%, 60%, and 80% AO. The fluid flow and pressure distribution in these models were studied. Our CFD simulations revealed that the tracheal resistance is exponentially increased by %AO.
+RESULTS: The results showed a 130% and 55% increase in lung airway resistance and resistive work of breathing for an 80% AO, respectively. Moreover, a curve-fitted relationship was obtained to estimate %AO based on the measured airway resistance by body plethysmography or forced oscillation technique.
+CONCLUSION: This pre-estimation is very useful in diagnostic evaluation and treatment planning in patients with tracheal stenosis.
+
+Citation: Monjezi M, et al. Evaluation of the Tracheal Stenosis Effects on Airway Resistance and Work of Breathing Using Computational Fluid Dynamics. Evaluation of the Tracheal Stenosis Effects on Airway Resistance and Work of Breathing Using Computational Fluid Dynamics. 2023; 22:209-214.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38628886/

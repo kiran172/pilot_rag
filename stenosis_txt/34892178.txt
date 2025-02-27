@@ -1,0 +1,8 @@
+PMID: 34892178
+Title: FEA of Drug-Eluting Stents and Sensitivity Analysis of a Continuum Damage Model for the Degradation of PLGA Coating.
+
+Abstract: Drug-Eluting Stents (DES) are commonly used in coronary angioplasty operations as a solution against artery stenosis and restenosis. Computational Bioengineering allows for the in-silico analysis of their performance. The scope of this work is to develop a DES Digital Twin, focusing on the mechanical integrity of its biodegradable coating throughout the operational lifecycle. The implementation leverages the Finite Element Method (FEM) to compute the developed mechanical stress field on the DES during the inflation/deflation stage, followed by the degradation of the polymer-based coating. The simulation of the degradation process is based on a Continuum Damage Mechanics (CDM) model that considers bulk degradation. The CDM algorithm is implemented on the NX Nastran solver through a user-defined material (UMAT) subroutine. For benchmarking purposes and to compare with the baseline design of the BioCoStent project, this conceptual study implements an alternative stent design, to study the effect of the geometry on the developed stresses. Additionally, the effect of the degradation rate on the polymer-based coating's lifecycle is studied via sensitivity analysis.
+
+Citation: Kokkinos C, et al. FEA of Drug-Eluting Stents and Sensitivity Analysis of a Continuum Damage Model for the Degradation of PLGA Coating. FEA of Drug-Eluting Stents and Sensitivity Analysis of a Continuum Damage Model for the Degradation of PLGA Coating. 2021; 2021:4324-4328. doi: 10.1109/EMBC46164.2021.9630612
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34892178/

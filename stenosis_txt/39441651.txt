@@ -1,0 +1,13 @@
+PMID: 39441651
+Title: PD-L1 Acts Independently of PD-1 as a Marker of Pathologic Fibroblasts in Laryngotracheal Stenosis.
+
+Abstract: OBJECTIVE: Laryngotracheal stenosis (LTS) describes fibrotic airway obstruction that is life-threatening without treatment. Targeted therapies are needed as an adjunct to surgical management. We have previously observed the upregulation of immune checkpoint programmed cell death (PD)-1 and its ligand, PD-L1, in patients with LTS. This study aims to determine whether PD-1 and PD-L1 play a role in the pathophysiology of LTS.
+STUDY DESIGN: Basic science.
+SETTING: Laboratory.
+METHODS: Fibroblasts derived from the subglottic scar of 5 iSGS patients were cultured ex vivo with transforming growth factor β (TGFβ), PD-L1 agonist (PD-1), and PD-L1 blockade (anti-PD-L1). PD-L1, TGFβ receptor II (TGFβRII), and Collagen-1 expression were quantified by flow cytometry. A validated chemomechanical injury model of subglottic stenosis was applied in PD-1 knockout and wild-type (WT) mice, and subglottic thickening was assessed by histologic analysis.
+RESULTS: TGFβ significantly increased the expression of PD-L1 and Collagen-1 in human airway scar fibroblasts (P < .05). PD-1 knockout mice demonstrated no significant difference in subglottic airway fibrosis compared to WT mice. Ex vivo PD-L1 modulation had no impact on fibroblast Collagen-1 expression. PD-L1 high-intensity fibroblasts expressed greater Collagen-1 and TGFβRII compared to PD-L1 low-intensity fibroblasts.
+CONCLUSION: PD-1 knockout does not protect mice from the development of laryngotracheal fibrosis. However, its ligand, PD-L1 is highly expressed on pathologic fibroblasts unique to scar, characterized by high Collagen-1 and TGFβRII expression. PD-L1 is also upregulated in conjunction with Collagen-1 by TGFβ stimulation. PD-L1 may act independently of PD-1 to sensitize fibroblasts to TGFβ, suggesting direct targeting of PD-L1 may have therapeutic potential in LTS.
+
+Citation: Davis RJ, et al. PD-L1 Acts Independently of PD-1 as a Marker of Pathologic Fibroblasts in Laryngotracheal Stenosis. PD-L1 Acts Independently of PD-1 as a Marker of Pathologic Fibroblasts in Laryngotracheal Stenosis. 2024; (unknown volume):(unknown pages). doi: 10.1002/ohn.1034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39441651/

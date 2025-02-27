@@ -1,0 +1,11 @@
+PMID: 33098042
+Title: Predictors for permanent pacemaker implantation following transcatheter aortic valve implantation: trends over the past decade.
+
+Abstract: PURPOSE: This study sought to identify risk factors for permanent pacemaker implantation (PPMI) after Transcatheter aortic valve implantation (TAVI) and explain their trends over the last decade. TAVI is performed nowadays for severe aortic stenosis in more patients with lower surgical risk. While most TAVI complications have been reduced, PPMI remains common.
+METHODS: In this observational, retrospective cohort analysis, 338 TAVI patients treated between 2008 and 2017 were reviewed. Risk factors were compared between the early (2008-2013) and late years (2014-2017), and a multivariable logistic regression model was used.
+RESULTS: A decreasing trend in PPMI over time was observed (p for trend = 0.008), as was a lower rate of PPMI in the late period (19.3% vs. 31.7%, p = 0.009). Three variables were identified as independent risk factors for PPMI that also decreased significantly in the late period: valve implantation depth ≥ 8 mm (OR = 4.3, 95% CI 2.3-8.2, p < 0.001), use of self-expandable valves (OR = 2.8, 95% CI 1.4-5.5, p = 0.004), and patient risk assessed by EuroSCORE II (OR = 1.07, 95% CI 1.0-1.1, p = 0.034). Indications for PPMI were also shown to change over time, with an increase in the prevalence of complete AVB as the main indication for PPMI (p = 0.048), and a trend towards a decrease in LBBB alone (p = 0.061).
+CONCLUSIONS: The decrease in post-TAVI PPMI over the past decade is multifactorial and can be explained by (1) lower baseline patient surgical risk, (2) modified procedural variables including decreased implantation depth and increased use of balloon-expandable valves, and (3) refined indications for PPMI.
+
+Citation: Eliav R, et al. Predictors for permanent pacemaker implantation following transcatheter aortic valve implantation: trends over the past decade. Predictors for permanent pacemaker implantation following transcatheter aortic valve implantation: trends over the past decade. 2021; 62:299-307. doi: 10.1007/s10840-020-00902-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33098042/

@@ -1,0 +1,11 @@
+PMID: 36824452
+Title: Deep learning-based end-to-end automated stenosis classification and localization on catheter coronary angiography.
+
+Abstract: BACKGROUND: Automatic coronary angiography (CAG) assessment may help in faster screening and diagnosis of stenosis in patients with atherosclerotic disease. We aimed to provide an end-to-end workflow that separates cases with normal or mild stenoses from those with higher stenosis severities to facilitate safety screening of a large volume of the CAG images.
+METHODS: A deep learning-based end-to-end workflow was employed as follows: (1) Candidate frame selection from CAG videograms with Convolutional Neural Network (CNN) + Long Short Term Memory (LSTM) network, (2) Stenosis classification with Inception-v3 using 2 or 3 categories (<25%, >25%, and/or total occlusion) with and without redundancy training, and (3) Stenosis localization with two methods of class activation map (CAM) and anchor-based feature pyramid network (FPN). Overall 13,744 frames from 230 studies were used for the stenosis classification training and fourfold cross-validation for image-, artery-, and per-patient-level. For the stenosis localization training and fourfold cross-validation, 690 images with > 25% stenosis were used.
+RESULTS: Our model achieved an accuracy of 0.85, sensitivity of 0.96, and AUC of 0.86 in per-patient level stenosis classification. Redundancy training was effective to improve classification performance. Stenosis position localization was adequate with better quantitative results in anchor-based FPN model, achieving global-sensitivity for left coronary artery (LCA) and right coronary artery (RCA) of 0.68 and 0.70.
+CONCLUSION: We demonstrated a fully automatic end-to-end deep learning-based workflow that eliminates the vessel extraction and segmentation step in coronary artery stenosis classification and localization on CAG images. This tool may be useful to facilitate safety screening in high-volume centers and in clinical trial settings.
+
+Citation: Cong C, et al. Deep learning-based end-to-end automated stenosis classification and localization on catheter coronary angiography. Deep learning-based end-to-end automated stenosis classification and localization on catheter coronary angiography. 2023; 10:944135. doi: 10.3389/fcvm.2023.944135
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36824452/

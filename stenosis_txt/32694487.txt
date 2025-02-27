@@ -1,0 +1,14 @@
+PMID: 32694487
+Title: Predictive Value of Comprehensive Geriatric Assessment on Early Postoperative Complications Following Lumbar Spinal Stenosis Surgery: A Prospective Cohort Study.
+
+Abstract: STUDY DESIGN: Prospective cohort study.
+OBJECTIVE: The aim of this study was to evaluate the predictive value of comprehensive geriatric assessment (CGA) for early postoperative complications in elderly patients (aged 65 years or older) following lumbar spinal stenosis surgery.
+SUMMARY OF BACKGROUND DATA: CGA is a multidisciplinary evaluation modality proven to be effective in various fields of geriatrics. However, limited evidence exists on the effectiveness of CGA in lumbar spinal stenosis patients in the literature.
+METHODS: We prospectively enrolled consecutive patients who were at least 65 years' old and were scheduled to undergo elective surgery for lumbar spinal stenosis. One day before the operation, multidomain CGA was performed on the patient's functional status, comorbidities, nutrition, cognition, and psychological status. Patients with deficits in three or more CGA domains were defined as frail. The occurrence of postoperative complications (Clavien and Dindo grade 2 or higher) within 30 days after the surgery was assessed as the outcome. The predictive value of CGA was evaluated using crosstab and logistic regression analysis and compared to that of other risk stratification systems, including modified Frailty Index-5, -11, and American Society of Anesthesiologists Physical Classification System.
+RESULTS: A total of 261 patients were included in the study, and 25 (9.6%) patients were assigned to the "frail" group. There were 27 (10.3%) patients with a postoperative complication (general: n = 20, 7.7%, surgical: n = 7, 2.7%) within postoperative 30 days. Patients with a complication showed significantly more deficits on preoperative CGA than those without complications (P = 0.004). On multivariate logistic regression analysis, frailty based on CGA (odds ratio = 3.51, P = 0.031) and the modified Frailty Index-11 (odds ratio = 3.13, P = 0.038) were associated with the occurrence of general complications.
+CONCLUSION: Frailty based on CGA was significantly associated with early general complications following surgery for lumbar spinal stenosis in patients older than 65 years.
+LEVEL OF EVIDENCE: 2.
+
+Citation: Chang SY, et al. Predictive Value of Comprehensive Geriatric Assessment on Early Postoperative Complications Following Lumbar Spinal Stenosis Surgery: A Prospective Cohort Study. Predictive Value of Comprehensive Geriatric Assessment on Early Postoperative Complications Following Lumbar Spinal Stenosis Surgery: A Prospective Cohort Study. 2020; 45:1498-1505. doi: 10.1097/BRS.0000000000003597
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32694487/

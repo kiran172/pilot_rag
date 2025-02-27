@@ -1,0 +1,11 @@
+PMID: 36577853
+Title: Efficacy of Dural Sinus Quantitative Measurements in Idiopathic Intracranial Hypertension : A Practical Diagnostic Feature.
+
+Abstract: BACKGROUND AND PURPOSE: This study aimed to investigate the potential contribution of quantitative measurements of dural venous sinuses to the diagnosis of idiopathic intracranial hypertension (IIH) and the relationship between IIH and dural venous sinus dimensions on 3D post-gadolinium T1-weighted magnetic resonance (MR) images.
+MATERIAL AND METHODS: A total of 129 individuals (57 IIH patients and 72 controls) who complained of headache and underwent both magnetic resonance venography (MRV) and precontrast/postcontrast 3D T1-weighted MR imaging between 2018 and 2021 were included in this retrospective study. Dural venous sinus and jugular vein diameters were measured in all cases using post-gadolinium 3D T1 TFE images. The presence of transverse sinus (TS) hypoplasia and occipital sinus variation, the number and size of arachnoid granulations in the TS, and the presence of brain parenchymal herniation were also evaluated. Cut-off values that maximized accurate diagnosis of IIH were established on the receiver operating characteristic curve. The sensitivity and specificity of the diagnosis of IIH based on quantitative measurements of the dural sinus were calculated.
+RESULTS: The ratios of the maximum to minimum TS diameters and the minimum TS diameters to minimum sigmoid sinus (SS) diameters were significantly higher in IIH patients than in the control group (p &lt; 0.001). The diagnostic sensitivity and specificity values of TS<sub>max</sub>/TS<sub>min</sub> and TS<sub>min sum</sub>/SS<sub>min sum</sub> parameters for the detection of IIH were 84.2%, 84.7% and 83.3%, 84.2%, respectively.
+CONCLUSION: Practical measurements from multiplanar T1 sequences can be useful for both quantitative assessment and overcoming misinterpretation due to anatomical variation.
+
+Citation: Korkmazer B, et al. Efficacy of Dural Sinus Quantitative Measurements in Idiopathic Intracranial Hypertension : A Practical Diagnostic Feature. Efficacy of Dural Sinus Quantitative Measurements in Idiopathic Intracranial Hypertension : A Practical Diagnostic Feature. 2023; 33:545-554. doi: 10.1007/s00062-022-01244-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36577853/

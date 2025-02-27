@@ -1,0 +1,8 @@
+PMID: 32340010
+Title: Quantitative imaging of coronary flows using 3D ultrafast Doppler coronary angiography.
+
+Abstract: Coronary flow rate remains complex to assess in clinical practice using non-invasive, non-ionizing imaging tools. In this study, we introduce 3D ultrafast Doppler coronary angiography (3D UDCA), an ultrasound-based method to assess coronary blood flows in three-dimensions at high volume-rate and in one single heartbeat. We demonstrate that 3D UDCA can visualize the coronary vasculature with high temporal and spatial resolution and quantify the absolute flow. The feasibility of the technique was demonstrated in an open-chest swine model. The flow rate of the left-anterior descending artery (LAD) assessed by 3D UDCA was reconstructed successfully at the early diastolic and late diastolic phases and was in good agreement with an invasive gold-standard flowmeter during baseline, reactive hyperemia and coronary stenosis (r2 = 0.84). Finally, we demonstrate that a coronary stenosis on the LAD can be visualized as well as its associated flow acceleration.
+
+Citation: Correia M, et al. Quantitative imaging of coronary flows using 3D ultrafast Doppler coronary angiography. Quantitative imaging of coronary flows using 3D ultrafast Doppler coronary angiography. 2020; 65:105013. doi: 10.1088/1361-6560/ab8d78
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32340010/

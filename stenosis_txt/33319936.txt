@@ -1,0 +1,11 @@
+PMID: 33319936
+Title: Impact of aortic valve disease on outcomes of aortic root replacement.
+
+Abstract: BACKGROUND AND AIM OF THE STUDY: Aortic stenosis (AS) has been associated with higher mortality in patients undergoing aortic root replacement (ARR). In this analysis, we compare the outcomes among patients with moderate to severe AS or aortic insufficiency (AI) undergoing ARR in a tertiary aortic center.
+METHODS: A total of 889 patients underwent ARR from 1997 to 2020, of whom 798 had AI and 91 had AS. We excluded valve-sparing procedures. The primary endpoint consisted of major adverse events (MAEs), including operative mortality, myocardial infarction, tracheostomy, new dialysis, and cerebrovascular accidents. All patients had either a mechanical or biologic composite valve-graft implanted using button and exclusion techniques. Propensity score matching (PSM) was used to compare outcomes. Long-term survival was estimated using the Kaplan-Meier method.
+RESULTS: Patients with AI had a higher incidence of connective tissue disorder (8.0% vs. 0.0%; p = .01) and were more likely to be classified as having an urgent or emergent procedure (22.4% vs. 8.8%; p = .004). PSM achieved a good balance between the groups. There was no difference in MAE rates, postoperatively (AI vs. AS, 1.6% vs. 1.6%; p = .85). Long-term survival was similar at 5 years in the matched cohorts (AI vs. AS, 75.9% vs. 95.5%; p = .36).
+CONCLUSION: In patients undergoing ARR, the presence of moderate to severe AI or AS does not impact operative outcomes. ARR can be carried out with excellent outcomes and low operative mortality when performed in specialized centers.
+
+Citation: Soletti GJ, et al. Impact of aortic valve disease on outcomes of aortic root replacement. Impact of aortic valve disease on outcomes of aortic root replacement. 2021; 36:536-541. doi: 10.1111/jocs.15253
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33319936/

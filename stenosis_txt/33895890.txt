@@ -1,0 +1,11 @@
+PMID: 33895890
+Title: Is coronary artery tortuosity a predisposing factor for drug-eluting stent restenosis?
+
+Abstract: BACKGROUND: Coronary artery tortuosity (CAT) is a relatively common finding on coronary angiography and may be associated with impaired left ventricular relaxation and coronary ischemia However, the significance of CAT remains unknown. This study aimed to investigate whether the severity of tortuosity in the targeted coronary segment is a predictor of stent restenosis.
+METHODS: The study included a total of 637 patients undergoing drug-eluting stent implantation due to stable or unstable angina and who had no native coronary artery stenosis on their last coronary angiogram. The patients were separated into two groups: 312 patients with in-stent restenosis and 325 patients without in-stent restenosis. All patients underwent computed tomography (CT) coronary angiography after invasive angiography and CAT was calculated using the computer software.
+RESULTS: Patients with in-stent restenosis had higher CAT than those without restenosis (1.25 ± 0.11 vs. 1.11 + 0.07, p < 0.001). Multivariate Cox regression analysis showed that the tortuosity index (hazard ratio [HR]: 1.246 95% confidence interval [CI]: 1.127-1.376 p < 0.001) and the circumflex lesion (HR: 1.437 95% CI: 1.062-1.942 p = 0.019) were independently associated with in-stent restenosis. With the threshold value of severe tortuosity set at 1.15, the prediction of could be made with 81% sensitivity and 80% specificity.
+CONCLUSION: The severity of tortuosity is proportional to coronary in-stent stenosis in patients with stable and unstable angina pectoris undergoing drug-eluting stent implantation for a severe single coronary artery.
+
+Citation: Levent F, et al. Is coronary artery tortuosity a predisposing factor for drug-eluting stent restenosis?. Is coronary artery tortuosity a predisposing factor for drug-eluting stent restenosis?. 2022; 47:73-78. doi: 10.1007/s00059-021-05036-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33895890/

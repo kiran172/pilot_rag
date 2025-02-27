@@ -1,0 +1,12 @@
+PMID: 38386249
+Title: Association between sleep apnea-specific hypoxic burden and severity of coronary artery disease.
+
+Abstract: PURPOSE: Sleep apnea-specific hypoxic burden (SASHB) is a polysomnographic metric that comprehensively measures the degree of nocturnal desaturation caused by obstructive sleep apnea. This research was conducted to elucidate the relationship between SASHB and coronary artery disease (CAD) severity.
+METHODS: We carried out a prospective study of hospitalized patients with CAD of unstable angina who were expected to undergo invasive coronary angiography at Beijing Anzhen Hospital from February to September 2023. SASHB values were calculated using a self-programmed C +  + program. Multivariable logistic regression analysis was applied to identify the association between SASHB and the prevalence of severe CAD, documented by the Gensini Score, and the SYNTAX (Synergy between Percutaneous Coronary Intervention With Taxus and Cardiac Surgery) Score.
+RESULTS: This study enrolled 137 patients with a median age of 59 years, 96 (70.1%) of whom were male. A total of 125 (91.2%) patients had coronary stenosis of ≥ 50% in at least one location. Patients with a high SASHB of ≥ 18% min/h had a significantly higher Gensini Score (32.0 vs. 18.5, P = 0.002) and SYNTAX Score (14.0 vs. 7.0, P = 0.002) than those with a low SASHB. After adjusting for multiple covariates, a high SASHB was significantly associated with the prevalence of severe CAD, determined by a Gensini Score ≥ 21 (OR 2.67, P = 0.008) or a SYNTAX Score > 22 (OR 4.03, P = 0.016).
+CONCLUSION: Our findings revealed a robust and independent association between SASHB and CAD severity in patients with unstable angina, highlighting the potential value of SASHB as a predictor of risk and a target for interventions aimed at preventing cardiovascular diseases.
+TRIAL REGISTRATION: Chinese Clinical Trial Registry No. ChiCTR2300067991 on February 2, 2023.
+
+Citation: Zhang H, et al. Association between sleep apnea-specific hypoxic burden and severity of coronary artery disease. Association between sleep apnea-specific hypoxic burden and severity of coronary artery disease. 2024; 28:1293-1301. doi: 10.1007/s11325-024-03008-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38386249/

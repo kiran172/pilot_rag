@@ -1,0 +1,11 @@
+PMID: 34744099
+Title: Predictive Value of the ABCD3-I for Short- and Long-Term Stroke after TIA with or without sICAS.
+
+Abstract: AIMS: We aimed to validate the predictive value of the ABCD3-I score for short-term and long-term stroke risk after transient ischemic attack (TIA) and to evaluate the influence of symptomatic intracranial artery stenosis (sICAS) on the performance of ABCD3-I.
+METHODS: We recruited TIA patients from the Third China National Stroke Registry study. Outcome parameters were stroke events during the 14-day, 3-month, 6-month, and 12-month points. The area under the curve (AUC) was calculated as a measure of predictive ability. A multivariable-adjusted Cox proportional hazards model was used to assess the hazard ratio of risk factors for stroke.
+RESULTS: Among 986 patients, 3.9%, 5.1%, 6.5 %, and 8.2% of participants experienced a stroke event during the 14-day, 3-month, 6-month, and 12-month points post TIA, respectively. The AUCs of ABCD3-I score for the prediction of stroke were 0.786, 0.732, 0.715, and 0.699 at the 14-day, 3-month, 6-month, and 12-month points, respectively. The AUCs were 0.774, 0.690, 0.617, and 0.611 in patients with sICAS, 0.789, 0.748, and 0.758 and 0.734 in those without sICAS. P values of the interaction between ABCD3-I categories and sICAS were 0.0618 for 14-day, 0.0098 for 3-month, 0.0318 for 6-month, and 0.0294 for 12-month.
+CONCLUSIONS: ABCD3-I score performed well in predicting short-term risk of a stroke after an index TIA in patients with or without sICAS. However, the predictive power decayed with the prolonged period, and the decayed extent was more pronounced among those with sICAS. The assessment of sICAS is a non-ignorable item when using the ABCD3-I score for long-term stroke risk prediction in patients with TIA.
+
+Citation: Xie X, et al. Predictive Value of the ABCD3-I for Short- and Long-Term Stroke after TIA with or without sICAS. Predictive Value of the ABCD3-I for Short- and Long-Term Stroke after TIA with or without sICAS. 2022; 29:1372-1382. doi: 10.5551/jat.63050
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34744099/

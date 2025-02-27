@@ -1,0 +1,11 @@
+PMID: 33361316
+Title: Calculated plasma volume status predicts outcomes after transcatheter aortic valve implantation.
+
+Abstract: OBJECTIVES: Congestion can worsen outcomes after transcatheter aortic valve implantation (TAVI), but can be difficult to quantify non-invasively. We hypothesised that preprocedural plasma volume status (PVS), estimated using a validated formula that enumerates percentage change from ideal PV, would provide prognostic utility post-TAVI.
+METHODS: This retrospective cohort study identified patients who underwent TAVI (2007-2017) from a prospectively collected database. Actual ([1-haematocrit] × [a + (b × weight (Kg))] and ideal (c × weight (Kg)) PV were quantified from equations where a, b and c are sex-dependent constants. Calculated PVS was then derived (100% x [(actual - ideal PV)/ideal PV]).
+RESULTS: In 564 patients (mean age 82±7 years, 49% male), mean PVS was -2.7±10.2%, with PV expansion (PVS >0%) evident in 39%. Only logistic European System for Cardiac Operative Risk Evaluation (EuroSCORE) independently predicted a PVS >0% (OR 1.85, p=0.002). On Cox analyses, a PVS >0% was associated with greater mortality at 3 (HR 2.29, 95% CI 1.11 to 4.74, p=0.03) and 12 months (HR 2.00, 95% CI 1.23 to 3.26, p=0.006) after TAVI, independently of, and incremental to, the EuroSCORE and New York Heart Association class. A PVS >0% was also independently associated with more days in intensive care (coefficient: 0.41, 95% CI 0.04 to 0.78, p=0.03) and in hospital (coefficient: 1.95, 95% CI 0.48 to 3.41, p=0.009).
+CONCLUSION: Higher PVS values, calculated simply from weight and haematocrit, are associated with greater mortality and longer hospitalisation post-TAVI. PVS could help refine risk stratification and further investigations into the utility of PVS-guided management in TAVI patients is warranted.
+
+Citation: Maznyczka AM, et al. Calculated plasma volume status predicts outcomes after transcatheter aortic valve implantation. Calculated plasma volume status predicts outcomes after transcatheter aortic valve implantation. 2020; 7:(unknown pages). doi: 10.1136/openhrt-2020-001477
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33361316/

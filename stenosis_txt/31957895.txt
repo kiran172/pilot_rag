@@ -1,0 +1,12 @@
+PMID: 31957895
+Title: Impact of leaflet thrombosis on hemodynamics and clinical outcomes after bioprosthetic aortic valve replacement: A meta-analysis.
+
+Abstract: BACKGROUND: Leaflet thrombosis (LT, also called cusp thrombosis) detected by multidetector computed tomography (MDCT) is common in bioprosthetic aortic valve replacement (bAVR). However, it remains contradictory whether MDCT-defined LT following bAVR is associated with hemodynamic deterioration and stroke. Thus, we performed the first meta-analysis to assess hemodynamic outcomes and updated the latest researches on the clinical outcomes of MDCT-defined LT after bAVR.
+HYPOTHESIS: MDCT-defined LT might be associated with worse hemodynamic and clinical outcomes after bAVR.
+METHOD: MEDLINE, EMBASE, Cochrane Library, and ClinicalTrial.gov were searched from inception to 15th April 2019. The fix-effect model was utilized to calculate odds ratio (OR) and 95% confidence interval (CI). The primary outcomes were hemodynamic stability indexes, including mean pressure gradient (MPG), left ventricular ejection fraction (LVEF), paravalvular leak (PVL), and clinical heart failure. The secondary endpoints were major adverse cardiovascular and cerebrovascular events (MACCEs), which consisted of myocardial infarction, all-cause death, stroke, and transient ischemic attack (TIA).
+RESULTS: Twelve studies with 4820 patients were included. The total prevalence of MDCT-defined LT was 9.7%. MDCT-defined LT was associated with a significantly increased risk of MPG (inverse variance 0.43, 95% CI: [0.30, 0.57]), MACCEs (OR 2.43, 95% CI: [1.45, 4.06]), stroke (OR 1.79, 95% CI: [1.03, 3.11]), and TIA (OR 4.09, 95% CI: [1.59, 10.54]). There were no differences for other outcomes.
+CONCLUSIONS: MDCT-defined LT after bAVR is associated with increased MPG and increased risk of adverse cerebrovascular events, including TIA and stroke. While LVEF, PVL, and clinical heart failure were similar between patient with and without LT.
+
+Citation: Tian Z, et al. Impact of leaflet thrombosis on hemodynamics and clinical outcomes after bioprosthetic aortic valve replacement: A meta-analysis. Impact of leaflet thrombosis on hemodynamics and clinical outcomes after bioprosthetic aortic valve replacement: A meta-analysis. 2020; 43:468-474. doi: 10.1002/clc.23331
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31957895/

@@ -1,0 +1,11 @@
+PMID: 31839566
+Title: Machine Learning-based Algorithm Enables the Exclusion of Obstructive Coronary Artery Disease in the Patients Who Underwent Coronary Artery Calcium Scoring.
+
+Abstract: RATIONALE AND OBJECTIVES: An application of artificial intelligence to screen for obstructive coronary artery disease (CAD) after coronary artery calcium scoring (CACS) test.
+MATERIALS AND METHODS: As an initial step we analyzed a group of 435 patients (23% male, mean age 61 ± 10) with low to moderate probability of CAD, who underwent clinically indicated CACS and coronary computed tomography angiography. Based on those data we elaborated a gradient boosting machine (GBM) model for prediction of obstructive CAD. Later the model was evaluated on a control group of 126 consecutive patients (31% male, mean age 59 ± 10).
+RESULTS: Stratified 10-fold cross-validation performed on the group of 435 patients demonstrated the GBM model's sensitivity at 100 ± 0% and specificity at 69.8 ± 3.6%, while the outcomes (confusion matrix) of a clinical application on the group of 126 patients were: 73 true negative, 0 false negative, 20 true positive, and 33 false positive.
+CONCLUSION: The GBM algorithm showcased a considerably high discriminatory power for excluding the presence of obstructive CAD, with negative predictive value and positive predictive value of 100% and 38%, respectively.
+
+Citation: Głowacki J, et al. Machine Learning-based Algorithm Enables the Exclusion of Obstructive Coronary Artery Disease in the Patients Who Underwent Coronary Artery Calcium Scoring. Machine Learning-based Algorithm Enables the Exclusion of Obstructive Coronary Artery Disease in the Patients Who Underwent Coronary Artery Calcium Scoring. 2020; 27:1416-1421. doi: 10.1016/j.acra.2019.11.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31839566/

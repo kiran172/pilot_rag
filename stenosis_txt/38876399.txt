@@ -1,0 +1,11 @@
+PMID: 38876399
+Title: Additional prognostic impact of plaque characterization with on-site CT-derived fractional flow reserve in coronary CT angiography.
+
+Abstract: BACKGROUND: On-site computed tomography-derived fractional flow reserve (CT-FFR) is a feasible method for examining lesion-specific ischemia, and plaque analysis of coronary CT angiography (CCTA) is useful for predicting future cardiac events. However, their utility and association on a per-vessel level remain unclear.
+METHODS: We analyzed vessels showing 50-90 % stenosis on CCTA where planned revascularization was not performed after CCTA within 90 days. Relevant features, including CT-FFR and the plaque burden [necrotic core to the total plaque volume (% necrotic core), and non-calcified plaque (NCP) to vessel volume (% NCP)] using a novel algorithm for analyzing plaque to predict vessel-oriented composite outcomes (VOCO), including cardiac death, non-fatal myocardial infarction, and unplanned vessel-related revascularization, were assessed.
+RESULTS: In 256 patients (68.7 ± 9.4 years; 73.8 % male) with 354 vessels (10.5 % CT-FFR ≤ 0.80), VOCO occurred in 24 vessels (6.8 %) during a median follow-up of 3.6 years. Multivariable Cox analysis revealed CT-FFR ≤ 0.80 had the pronounced impact on VOCO, and moreover, higher % necrotic core and % NCP were independently associated with VOCO [adjusted hazard ratio 3.43 (95 % confidence interval 1.42-8.29) and 4.05 (1.19-13.71), respectively], especially for vessels with CT-FFR > 0.80.
+CONCLUSIONS: In vessels without planned revascularization, per-vessel CT-FFR ≤ 0.80 was the notable predictor of future cardiac events. Additionally, necrotic core volume and NCP were identified as independent predictors along with CT-FFR.
+
+Citation: Nozaki YO, et al. Additional prognostic impact of plaque characterization with on-site CT-derived fractional flow reserve in coronary CT angiography. Additional prognostic impact of plaque characterization with on-site CT-derived fractional flow reserve in coronary CT angiography. 2024; 84:336-341. doi: 10.1016/j.jjcc.2024.05.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38876399/

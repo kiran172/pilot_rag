@@ -1,0 +1,11 @@
+PMID: 35548407
+Title: Association Between Lipoprotein(a) and Calcific Aortic Valve Disease: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Preliminary studies indicated that enhanced plasma levels of lipoprotein(a) [lp(a)] might link with the risk of calcific aortic valve disease (CAVD), but the clinical association between them remained inconclusive. This systematic review and meta-analysis were aimed to determine this association.
+METHODS: We comprehensively searched PubMed, Embase, Web of Science, and Scopus databases for studies reporting the incidence of CAVD and their plasma lp(a) concentrations. Pooled risk ratio (RR) and 95% confidence interval (95% CI) were calculated to evaluate the effect of lp(a) on CAVD using the random-effects model. Subgroup analyses by study types, countries, and the level of adjustment were also conducted. Funnel plots, Egger's test and Begg's test were conducted to evaluate the publication bias.
+RESULTS: Eight eligible studies with 52,931 participants were included in this systematic review and meta-analysis. Of these, four were cohort studies and four were case-control studies. Five studies were rated as high quality, three as moderate quality. The pooled results showed that plasma lp(a) levels ≥50 mg/dL were associated with a 1.76-fold increased risk of CAVD (RR, 1.76; 95% CI, 1.47-2.11), but lp(a) levels ≥30 mg/dL were not observed to be significantly related with CAVD (RR, 1.28; 95% CI, 0.98-1.68). We performed subgroup analyses by study type, the RRs of cohort studies revealed lp(a) levels ≥50 mg/dL and lp(a) levels ≥30 mg/dL have positive association with CAVD (RR, 1.70; 95% CI, 1.39-2.07; RR 1.38; 95% CI, 1.19-1.61).
+CONCLUSION: High plasma lp(a) levels (≥50 mg/dL) are significantly associated with increased risk of CAVD.
+
+Citation: Liu Q, et al. Association Between Lipoprotein(a) and Calcific Aortic Valve Disease: A Systematic Review and Meta-Analysis. Association Between Lipoprotein(a) and Calcific Aortic Valve Disease: A Systematic Review and Meta-Analysis. 2022; 9:877140. doi: 10.3389/fcvm.2022.877140
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35548407/

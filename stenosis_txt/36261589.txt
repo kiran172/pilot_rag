@@ -1,0 +1,8 @@
+PMID: 36261589
+Title: Thermal enhancement and numerical solution of blood nanofluid flow through stenotic artery.
+
+Abstract: The blood flow through stenotic artery is one of the important research area in computational fluid mechanics due to its application in biomedicine. Aim of this research work is to investigate the impact of nanoparticles on the characteristics of human blood flow in a stenosed blood artery. In under consideration problem Newtonian fluid is assumed as human blood. Newtonian fluid flows through large blood vessels (more than 300 μm). The constitutive equations together with the boundary conditions are diminished to non-dimensional form by using boundary layer approximation and similarity transfiguration to attain the solution of velocity and temperature distribution of blood flow through arterial stenosis numerically with the help of Matlab bvp4c. The results for physical quantities at cylindrical surface are calculated and their effects are also presented through tables. The heat transfer rate increases throughout the stenosed artery with the concentration of copper nanoparticle. Velocity curve decreases by increasing the values of flow parameter and nanoparticle volume fraction. Temperature curve increases due to increase in the values of nanoparticle volume fraction and decrease in Prandtl number.
+
+Citation: Sarwar L, et al. Thermal enhancement and numerical solution of blood nanofluid flow through stenotic artery. Thermal enhancement and numerical solution of blood nanofluid flow through stenotic artery. 2022; 12:17419. doi: 10.1038/s41598-022-20267-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36261589/

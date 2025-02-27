@@ -1,0 +1,11 @@
+PMID: 36564659
+Title: Basilar artery curvature increases the risk of posterior circulation infarction occurrence in patients without vertebrobasilar stenosis.
+
+Abstract: INTRODUCTION: Limited cross-sectional or case-control studies have identified the relationship between basilar artery (BA) curvature and posterior circulation infarction (PCI). This study aimed to identify the influence of BA curvature severity on the risk of PCI occurrence in patients without vertebrobasilar stenosis through a prospective cohort study.
+METHODS: In this study, we enrolled 171 patients with BA dolichosis but without vertebrobasilar stenosis. The BA geometric parameters were evaluated on MRA. The primary outcome was the occurrence of PCI, mainly referring to cerebellar and/or brainstem infarction. Cox proportional hazard models were used to detect possible predictors of PCI.
+RESULTS: Among them, 134 (78.4%) patients were diagnosed with BA curvature, including 124 with moderate curvature and 10 with prominent curvature. The defined PCI occurrence was observed in 32 (18.7%) patients with a median follow-up time of 45.6 months. Cox proportional hazard analysis showed that BA prominent curvature (HR = 6.09; 95% CI: 1.36-27.28; P = 0.018) significantly increased the risk of PCI occurrence, and bending length (BL) was also significantly associated with PCI occurrence, with the adjusted HR per 1-mm increase of BL of 1.09 (95% CI: 1.01-1.18; P = 0.040). In the subgroup analysis stratified by age, BA prominent curvature was highly associated with PCI occurrence in patients aged > 61 years (HR = 11.76; 95% CI: 1.21-113.90; P = 0.033). Additionally, good antiplatelet therapy adherence could significantly reduce the risk of PCI occurrence.
+CONCLUSION: BA curvature may increase the risk of PCI occurrence, especially in elderly patients with prominent curvature. Improving adherence to antiplatelet therapy can help reduce the risk of PCI occurrence.
+
+Citation: Cao S, et al. Basilar artery curvature increases the risk of posterior circulation infarction occurrence in patients without vertebrobasilar stenosis. Basilar artery curvature increases the risk of posterior circulation infarction occurrence in patients without vertebrobasilar stenosis. 2023; 44:1273-1280. doi: 10.1007/s10072-022-06566-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36564659/

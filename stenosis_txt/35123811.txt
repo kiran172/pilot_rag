@@ -1,0 +1,11 @@
+PMID: 35123811
+Title: Retinal vascular morphology and blood flow characteristics of patients with various degrees of intracranial internal carotid artery stenosis.
+
+Abstract: PURPOSE: To explore the retinal vascular morphology and blood flow characteristics of patients with varying degrees of intracranial internal carotid artery (IICA) stenosis.
+MATERIALS AND METHODS: A total of 280 eligible patients were divided into non-stenosis (n=39), mild stenosis (n=80), moderate stenosis (n=83) and severe stenosis groups (n=49). Hemodynamic indices of the posterior ophthalmic artery (OA), central retinal artery (CRA) and posterior ciliary artery (PCA) in the dark zone of optic nerve were detected using color Doppler ultrasonography. CRA equivalent (CRAE), central retinal vein equivalent (CRVE) and arteriole-to-venule ratio (AVR) within 0.5-1.0 PD from the optic disc rim to the center of the fundus image were measured using IVAN software. The diagnostic values of PCA peak systolic velocity (PSV) and end-diastolic velocity (EDV) for severe IICA stenosis were evaluated by receiver operating characteristic (ROC) curves.
+RESULTS: The blood flow parameters (PSV and EDV) of the OA, CRA and PCA in the severe stenosis group were the lowest (P<0.05). The PSV and EDV of the OA, CRA and PCA had significant negative correlations with severe IICA stenosis, and PCA PSV was more sensitive in the presence of the same index. The areas under the ROC curves for PCA PSV and EDV were 0.722 and 0.761, respectively, indicating that PCA PSV and EDV had high diagnostic values.
+CONCLUSIONS: There is no correlation between retinal vascular morphology and IICA stenosis. Severe IICA stenosis has significant negative correlations with ocular the blood flow parameters PSV and EDV, and PCA PSV is most sensitive with the same index, thus being a potential predictive index.
+
+Citation: Wang Z and Yu Q. Retinal vascular morphology and blood flow characteristics of patients with various degrees of intracranial internal carotid artery stenosis. Retinal vascular morphology and blood flow characteristics of patients with various degrees of intracranial internal carotid artery stenosis. 2022; 45:398-404. doi: 10.1016/j.jfo.2021.11.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35123811/

@@ -1,0 +1,10 @@
+PMID: 34766734
+Title: Respiration-related variations in Pd/Pa ratio and fractional flow reserve in resting conditions and during intravenous adenosine administration.
+
+Abstract: AIMS: We evaluated the occurrence and physiology of respiration-related beat-to-beat variations in resting Pd/Pa and FFR during intravenous adenosine administration, and its impact on clinical decision-making.
+METHODS AND RESULTS: Coronary pressure tracings in rest and at plateau hyperemia were analyzed in a total of 39 stenosis from 37 patients, and respiratory rate was calculated with ECG-derived respiration (EDR) in 26 stenoses from 26 patients. Beat-to-beat variations in FFR occurred in a cyclical fashion and were strongly correlated with respiratory rate (R2  = 0.757, p &lt; 0.001). There was no correlation between respiratory rate and variations in resting Pd/Pa. When single-beat averages were used to calculate FFR, mean ΔFFR was 0.04 ± 0.02. With averaging of FFR over three or five cardiac cycles, mean ΔFFR decreased to 0.02 ± 0.02, and 0.01 ± 0.01, respectively. Using a FFR ≤ 0.80 threshold, stenosis classification changed in 20.5% (8/39), 12.8% (5/39) and 5.1% (2/39) for single-beat, three-beat and five-beat averaged FFR. The impact of respiration was more pronounced in patients with pulmonary disease (ΔFFR 0.05 ± 0.02 vs 0.03 ± 0.02, p = 0.021).
+CONCLUSION: Beat-to-beat variations in FFR during plateau hyperemia related to respiration are common, of clinically relevant magnitude, and frequently lead FFR to cross treatment thresholds. A five-beat averaged FFR, overcomes clinically relevant impact of FFR variation.
+
+Citation: Feenstra RGT, et al. Respiration-related variations in Pd/Pa ratio and fractional flow reserve in resting conditions and during intravenous adenosine administration. Respiration-related variations in Pd/Pa ratio and fractional flow reserve in resting conditions and during intravenous adenosine administration. 2022; 99:844-852. doi: 10.1002/ccd.30012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34766734/

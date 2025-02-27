@@ -1,0 +1,12 @@
+PMID: 35129284
+Title: Diagnostic performance of intravascular ultrasound-based fractional flow reserve versus angiography-based quantitative flow ratio measurements for evaluating left main coronary artery stenosis.
+
+Abstract: OBJECTIVES: We compared the diagnostic performance of the ultrasonic flow ratio (UFR) and quantitative flow ratio (QFR) for left main coronary artery (LMCA) stenosis.
+BACKGROUND: Evaluation of LMCA stenosis remains challenging because of its complex pathogenesis and severity. Computing QFR allows rapid determination of fractional flow reserve (FFR) from coronary angiograms. A novel intravascular ultrasound (IVUS)-based FFR (UFR) allows rapid FFR computation from IVUS images. Neither of the computational approaches required a pressure wire or hyperemia induction. Previous studies have validated the good diagnostic accuracy of QFR and UFR in identifying hemodynamically significant coronary stenosis using FFR as the reference standard.
+METHODS: This retrospective observational study enrolled consecutive patients with intermediate-grade LMCA stenosis who underwent IVUS evaluation. UFR and QFR of all LMCA stenosis patients were assessed, their correlation and agreement were analyzed, and diagnostic performance of UFR in LMCA stenosis was evaluated.
+RESULTS: Eighty-three paired comparisons between UFR and QFR were obtained. UFR excellently correlated with QFR (r = 0.74, p < 0.01). The Bland-Altman plot showed good agreement between UFR and QFR (mean differences: 0.01 ± 0.05, p = 0.34). The area under the curve of UFR for identifying physiological LMCA stenosis was 0.97 (95% confidence interval [CI]: 0.93-1.00, p < 0.01). The overall UFR diagnostic accuracy was 0.95 (95% CI: 0.88-0.99).
+CONCLUSIONS: UFR showed excellent correlation and good agreement with QFR in LMCA stenosis assessment, indicating that it is highly feasible to use UFR for functional evaluation of LMCA stenosis.
+
+Citation: Sui Y, et al. Diagnostic performance of intravascular ultrasound-based fractional flow reserve versus angiography-based quantitative flow ratio measurements for evaluating left main coronary artery stenosis. Diagnostic performance of intravascular ultrasound-based fractional flow reserve versus angiography-based quantitative flow ratio measurements for evaluating left main coronary artery stenosis. 2022; 99 Suppl 1:1403-1409. doi: 10.1002/ccd.30078
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35129284/

@@ -1,0 +1,8 @@
+PMID: 34993697
+Title: The Influence of Valve Leaflet Stiffness Variability on Aortic Wall Shear Stress.
+
+Abstract: Aortic stenosis is a common cardiac condition that impacts the aorta's hemodynamics downstream of the affected valve. We sought to better understand how non-uniform stiffening of a stenotic aortic valve would affect the wall shear stress (WSS) experienced by the walls of the aorta and the residence time near the valve. Several experimental configurations were created by individually stiffening leaflets of a polymer aortic valve. These configurations were mounted inside an in vitro experimental setup. Digital particle image velocimetry (DPIV) was used to measure velocity profiles inside a model aorta. The DPIV results were used to estimate the WSS and residence time. Our analysis suggests that leaflet asymmetry greatly affects the amount of WSS by vectoring the systolic jet and stiffened leaflets have an increased residence time. This study indicates that valve leaflets with different stiffness conditions can have a more significant impact on wall shear stress than stenosis caused by the uniform increase in all three leaflets (and the subsequent increased systolic velocity) alone. This finding is promising for creating customizable (patient-specific) prosthetic heart valves tailored to individual patients.
+
+Citation: Rosakis A and Gharib M. The Influence of Valve Leaflet Stiffness Variability on Aortic Wall Shear Stress. The Influence of Valve Leaflet Stiffness Variability on Aortic Wall Shear Stress. 2022; 50:29-38. doi: 10.1007/s10439-021-02899-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34993697/

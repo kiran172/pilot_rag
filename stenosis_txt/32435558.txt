@@ -1,0 +1,12 @@
+PMID: 32435558
+Title: ODI Cannot Account for All Variation in PROMIS Scores in Patients With Thoracolumbar Disorders.
+
+Abstract: STUDY DESIGN: Retrospective review of single institution.
+OBJECTIVE: To assess the relationship between Patient-Reported Outcomes Measurement Information System (PROMIS) and Oswestry Disability Index (ODI) scores in thoracolumbar patients.
+METHODS: Included: Patients ≥18 years with a thoracolumbar spine condition (spinal stenosis, disc herniation, low back pain, disc degeneration, spondylolysis). Bivariate correlations assessed the linear relationships between ODI and PROMIS (Physical Function, Pain Intensity, and Pain Interference). Correlation cutoffs assessed patients with high and low correlation between ODI and PROMIS. Linear regression predicted the relationship of ODI to PROMIS.
+RESULTS: A total of 206 patients (age 53.7 ± 16.6 years, 49.5% female) were included. ODI correlated with PROMIS Physical Function (r = -0.763, P &lt; .001), Pain Interference (r = 0.800, P &lt; .001), and Pain Intensity (r = 0.706, P &lt; .001). ODI strongly predicted PROMIS for Physical Function (R 2 = 0.58, P &lt; .001), Pain Intensity (R 2 = 0.50, P &lt; .001), and Pain Interference (R 2 = 0.64, P &lt; .001); however, there is variability in PROMIS that ODI cannot account for. ODI questions about sitting and sleeping were weakly correlated across the 3 PROMIS domains. Linear regression showed overall ODI score as accounting for 58.3% (R 2 = 0.583) of the variance in PROMIS Physical Function, 63.9% (R 2 = 0.639) of the variance in Pain Interference score, and 49.9% (R 2 = 0.499) of the variance in Pain Intensity score.
+CONCLUSIONS: There is a large amount of variability with PROMIS that cannot be accounted for with ODI. ODI questions regarding walking, social life, and lifting ability correlate strongly with PROMIS while sitting, standing, and sleeping do not. These results reinforce the utility of PROMIS as a valid assessment for low back disability, while indicating the need for further evaluation of the factors responsible for variation between PROMIS and ODI.
+
+Citation: Passias PG, et al. ODI Cannot Account for All Variation in PROMIS Scores in Patients With Thoracolumbar Disorders. ODI Cannot Account for All Variation in PROMIS Scores in Patients With Thoracolumbar Disorders. 2020; 10:399-405. doi: 10.1177/2192568219851478
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32435558/

@@ -1,0 +1,8 @@
+PMID: 38168480
+Title: Surface Reconstruction of the Pediatric Larynx via Structure from Motion Photogrammetry: A Pilot Study.
+
+Abstract: Endoscopy is the gold standard for characterizing pediatric airway disorders, however, it is limited for quantitative analysis due to lack of three-dimensional (3D) vision and poor stereotactic depth perception. We utilize structure from motion (SfM) photogrammetry, to reconstruct 3D surfaces of pathologic and healthy pediatric larynges from monocular two-dimensional (2D) endoscopy. Models of pediatric subglottic stenosis were 3D printed and airway endoscopies were simulated. 3D surfaces were successfully reconstructed from endoscopic videos of all models using an SfM analysis toolkit. Average subglottic surface error between SfM reconstructed surfaces and 3D printed models was 0.65 mm as measured by Modified Hausdorff Distance. Average volumetric similarity between SfM surfaces and printed models was 0.82 as measured by Jaccard Index. SfM can be used to accurately reconstruct 3D surface renderings of the larynx from 2D endoscopy video. This technique has immense potential for use in quantitative analysis of airway geometry and virtual surgical planning.
+
+Citation: Barbour MC, et al. Surface Reconstruction of the Pediatric Larynx via Structure from Motion Photogrammetry: A Pilot Study. Surface Reconstruction of the Pediatric Larynx via Structure from Motion Photogrammetry: A Pilot Study. 2024; 170:1195-1199. doi: 10.1002/ohn.635
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38168480/

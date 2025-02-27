@@ -1,0 +1,11 @@
+PMID: 32738469
+Title: Identifying low-risk chest pain in the emergency department: Obstructive coronary artery disease and major adverse cardiac events.
+
+Abstract: BACKGROUND: Accurate risk stratification for obstructive coronary artery disease (CAD) and major cardiac adverse events (MACE) is important in emergency departments. We compared six established chest pain risk scores (the HEART score, CAD basic model, CAD clinical model, TIMI, GRACE, uDF) for prediction of obstructive CAD and MACE.
+METHODS: Patients who presented to the emergency department with chest pain or symptoms of suspected CAD and underwent coronary computed tomographic angiography were analyzed. The primary endpoint was adverse outcomes including the presence of obstructive CAD (≥50% stenosis) and the occurrence of MACE within 6 weeks. We compared the risk scores by the area under the receiver-operating characteristic curve (AUC) and calculated their respective net reclassification index (NRI).
+RESULTS: Adverse outcomes occurred in 285 (28.4%) out of the 1002 patients included. For the prediction of adverse outcomes, the AUC of the HEART score (0.792) was superior to those of the CAD clinical model (0.760), CAD basic model (0.749), TIMI (0.749), uDF (0.703), and GRACE (0.653). In terms of the NRI, the HEART score significantly improved the reclassification abilities of the uDF (0.39), GRACE score (0.27), CAD basic model (0.11), TIMI (0.10), and CAD clinical model (0.08) (all P < 0.05). The HEART score also had the highest negative predictive value as well (0.893).
+CONCLUSIONS: The HEART score was superior to other cardiac risk scores in predicting both obstructive CAD and MACE. However, due to the high false-negative rate (11%) of the HEART score, its use for identifying low-risk patients should be considered with caution.
+
+Citation: Shin YS, et al. Identifying low-risk chest pain in the emergency department: Obstructive coronary artery disease and major adverse cardiac events. Identifying low-risk chest pain in the emergency department: Obstructive coronary artery disease and major adverse cardiac events. 2020; 38:1737-1742. doi: 10.1016/j.ajem.2020.06.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32738469/

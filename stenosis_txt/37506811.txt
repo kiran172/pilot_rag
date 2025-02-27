@@ -1,0 +1,12 @@
+PMID: 37506811
+Title: Multi-stage Unet segmentation and automatic measurement of pharyngeal airway based on lateral cephalograms.
+
+Abstract: OBJECTIVES: Orthodontic treatment profoundly impact the pharyngeal airway (PA) of patients. Airway examination is an integral part of daily orthodontic diagnosis, and lateral cephalograms (LC) are reliable to reveal PA structures. This study attempted to develop a simple method to help clinicians make a preliminary judgement of patients' PA conditions and assess the impact of orthodontic treatment on their airways.
+METHODS: LCs of 764 patients were used to train a multistage unit segmentation model. Another 130 images were used to validate the model and more 130 images were used to test the model.
+RESULTS: Unet was used as the backbone, with a mean dice value of 0.8180, precision of 0.8393, and recall of 0.8188. Furthermore, we identified seven key points and measured related indices. The length of the line separating the nasopharynx and oropharynx and the line separating the oropharynx and hypopharynx were manually measured thrice and the average values was compared. The intraclass correlation coefficient (ICC) for the two lines was 0.599 and 0.855. Then, we performed a single linear regression analysis, which indicated a strong correlation between the predictions and measurements for the two lines.
+CONCLUSIONS: This method is reliable for segmenting three regions (nasopharynx, oropharynx, and hypopharynx) of the PA and calculating related indices. However, the predictions obtained from this model still have errors, and it is necessary for clinical practitioners to assess and adjust the predictions.
+CLINICAL SIGNIFICANCE: Our model can help orthodontists formulate personalised treatment plans and evaluate the risk of airway stenosis during orthodontic treatment. This method may mark the beginning of a new and simpler approach for PA obstruction detection, specifically tailored to orthodontic patients.
+
+Citation: Meng X, et al. Multi-stage Unet segmentation and automatic measurement of pharyngeal airway based on lateral cephalograms. Multi-stage Unet segmentation and automatic measurement of pharyngeal airway based on lateral cephalograms. 2023; 136:104637. doi: 10.1016/j.jdent.2023.104637
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37506811/

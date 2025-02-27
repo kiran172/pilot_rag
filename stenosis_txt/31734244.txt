@@ -1,0 +1,11 @@
+PMID: 31734244
+Title: Cardiac Magnetic Resonance-Derived Metrics Are Predictive of Liver Fibrosis in Fontan Patients.
+
+Abstract: BACKGROUND: Liver fibrosis is a serious complication of single ventricle Fontan survivors. Its causes are of great interest, and potential solutions to halt or delay progression are needed. The purpose of this study is to investigate if prior hemodynamics and anatomy can predict liver fibrosis severity in these patients.
+METHODS: Twenty-one Fontan patients with cardiac magnetic resonance (CMR) data obtained greater than 1 year before liver biopsy data were included. Computational fluid dynamic simulations were performed to quantify total cavopulmonary connection (TCPC) flow dynamics using patient-specific anatomies and blood flow waveforms reconstructed from CMR data. Collagen deposition (a measure of liver fibrosis) was quantified by digital image analysis of Sirius red-stained slides. Statistical analyses were performed to investigate potential relationships between Fontan hemodynamics and liver fibrosis.
+RESULTS: With an average time of 6.7 ± 2.9 years (range, 2-11 years) between CMR and biopsy, TCPC resistance and left pulmonary artery stenosis showed significant, positive correlations with magnitude of liver fibrosis (r = 0.54, P = .026; and r = 0.55, P = .028, respectively). The change in inferior vena cava flow rate over time also showed a significant positive correlation with magnitude of liver fibrosis (r = 0.91, P = .001).
+CONCLUSIONS: TCPC resistance, left pulmonary artery stenosis, and increased inferior vena cava flow are positively associated with liver fibrosis after Fontan operation and hold promise as important predictors of hepatic decline. These findings encourage preprocedural planning and interventional strategies to improve TCPC performance and reduce vessel stenosis. Further investigation is warranted to design the ideal Fontan circulation and optimize flow dynamics to reduce the risk of liver fibrosis.
+
+Citation: Trusty PM, et al. Cardiac Magnetic Resonance-Derived Metrics Are Predictive of Liver Fibrosis in Fontan Patients. Cardiac Magnetic Resonance-Derived Metrics Are Predictive of Liver Fibrosis in Fontan Patients. 2020; 109:1904-1911. doi: 10.1016/j.athoracsur.2019.09.070
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31734244/

@@ -1,0 +1,8 @@
+PMID: 39143242
+Title: Robust automated calcification meshing for personalized cardiovascular biomechanics.
+
+Abstract: Calcification has significant influence over cardiovascular diseases and interventions. Detailed characterization of calcification is thus desired for predictive modeling, but calcium deposits on cardiovascular structures are still often manually reconstructed for physics-driven simulations. This poses a major bottleneck for large-scale adoption of computational simulations for research or clinical use. To address this, we propose an end-to-end automated image-to-mesh algorithm that enables robust incorporation of patient-specific calcification onto a given cardiovascular tissue mesh. The algorithm provides a substantial speed-up from several hours of manual meshing to ~1 min of automated computation, and it solves an important problem that cannot be addressed with recent template-based meshing techniques. We validated our final calcified tissue meshes with extensive simulations, demonstrating our ability to accurately model patient-specific aortic stenosis and Transcatheter Aortic Valve Replacement. Our method may serve as an important tool for accelerating the development and usage of personalized cardiovascular biomechanics.
+
+Citation: Pak DH, et al. Robust automated calcification meshing for personalized cardiovascular biomechanics. Robust automated calcification meshing for personalized cardiovascular biomechanics. 2024; 7:213. doi: 10.1038/s41746-024-01202-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39143242/

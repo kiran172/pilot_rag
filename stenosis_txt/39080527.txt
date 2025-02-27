@@ -1,0 +1,10 @@
+PMID: 39080527
+Title: Th1 cells reduce the osteoblast-like phenotype in valvular interstitial cells by inhibiting NLRP3 inflammasome activation in macrophages.
+
+Abstract: BACKGROUND AND AIMS: Inflammation is initiates the propagation phase of aortic valve calcification. The activation of NLRP3 signaling in macrophages plays a crucial role in the progression of calcific aortic valve stenosis (CAVS). IFN-γ regulates NLRP3 activity in macrophages. This study aimed to explore the mechanism of IFN-γ regulation and its impact on CAVS progression and valve interstitial cell transdifferentiation.
+METHODS AND RESULTS: The number of Th1 cells and the expression of IFN-γ and STAT1 in the aortic valve, spleen and peripheral blood increased significantly as CAVS progressed. To explore the mechanisms underlying the roles of Th1 cells and IFN-γ, we treated CAVS mice with IFN-γ-AAV9 or an anti-IFN-γ neutralizing antibody. While IFN-γ promoted aortic valve calcification and dysfunction, it significantly decreased NLRP3 signaling in splenic macrophages and Ly6C+ monocytes. In vitro coculture showed that Th1 cells inhibited NLPR3 activation in ox-LDL-treated macrophages through the IFN-γR1/IFN-γR2-STAT1 pathway. Compared with untreated medium, conditioned medium from Th1-treated bone marrow-derived macrophages reduced the osteogenic calcification of valvular interstitial cells.
+CONCLUSION: Inhibition of the NLRP3 inflammasome by Th1 cells protects against valvular interstitial cell calcification as a negative feedback mechanism of adaptive immunity toward innate immunity. This study provides a precision medicine strategy for CAVS based on the targeting of anti-inflammatory mechanisms.
+
+Citation: Lu J, et al. Th1 cells reduce the osteoblast-like phenotype in valvular interstitial cells by inhibiting NLRP3 inflammasome activation in macrophages. Th1 cells reduce the osteoblast-like phenotype in valvular interstitial cells by inhibiting NLRP3 inflammasome activation in macrophages. 2024; 30:110. doi: 10.1186/s10020-024-00882-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39080527/

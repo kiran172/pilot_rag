@@ -1,0 +1,12 @@
+PMID: 32532695
+Title: Valve-in-valve transcatheter aortic valve implantation after failed surgically implanted aortic bioprosthesis versus native transcatheter aortic valve implantation for aortic stenosis: Data from a nationwide analysis.
+
+Abstract: BACKGROUND: Valve-in-valve transcatheter aortic valve implantation (TAVI) has emerged as a treatment for aortic bioprosthesis failure in case of prohibitive risk for redo surgery. However, clinical evaluation of valve-in-valve TAVI remains limited by the number of patients analysed.
+AIM: To evaluate outcomes of valve-in-valve TAVI compared with native aortic valve TAVI at a nationwide level in France.
+METHODS: Based on the French administrative hospital discharge database, the study collected information for all consecutive patients treated with TAVI for aortic stenosis or with isolated valve-in-valve TAVI for aortic bioprosthesis failure between 2010 and 2019. Propensity score matching was used for the analysis of outcomes.
+RESULTS: A total of 44,218 patients were found in the database. After matching on baseline characteristics, 2749 patients were analysed in each arm. At 30 days, no significant differences were observed regarding the occurrence of major clinical events (composite of cardiovascular mortality, all-cause stroke, myocardial infarction, major or life-threatening bleeding and conversion to open heart surgery) (odds ratio [OR] 0.83, 95% confidence interval [CI] 0.68-1.01; P=0.32). During follow-up (mean 516 days), the combined endpoint of cardiovascular death, all-cause stroke or rehospitalization for heart failure was not different between the valve-in-valve TAVI and native TAVI groups (RR 1.03, 95% CI 0.94-1.13; P=1.00).
+CONCLUSION: We observed that valve-in-valve TAVI was associated with good short- and long-term outcomes. No significant differences were observed compared with native valve TAVI regarding clinical follow-up.
+
+Citation: Deharo P, et al. Valve-in-valve transcatheter aortic valve implantation after failed surgically implanted aortic bioprosthesis versus native transcatheter aortic valve implantation for aortic stenosis: Data from a nationwide analysis. Valve-in-valve transcatheter aortic valve implantation after failed surgically implanted aortic bioprosthesis versus native transcatheter aortic valve implantation for aortic stenosis: Data from a nationwide analysis. 2021; 114:41-50. doi: 10.1016/j.acvd.2020.04.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32532695/

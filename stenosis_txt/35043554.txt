@@ -1,0 +1,11 @@
+PMID: 35043554
+Title: 5-Year outcomes after transcatheter aortic valve implantation: Focus on paravalvular leakage assessed by echocardiography and hemodynamic parameters.
+
+Abstract: OBJECTIVES: We sought to assess the impact of echocardiographic and hemodynamic grading of paravalvular leakage (PVL) after transcatheter aortic valve implantation (TAVI) on the prediction of 5-year mortality. PVL after TAVI is known to influence outcome after TAVI. Yet, present available data of long-term outcomes and especially the comparison of different modalities for measurement of PVL is little.
+METHODS: We performed a retrospective single-center cohort study and compared the prognostic value of echocardiographic PVL grading as well as the aortic regurgitation index (ARI) pre- and post-TAVI. Univariable and multivariable Cox proportional regression analysis generated hazard ratios for mortality.
+RESULTS: A total of 464 patients underwent TAVI at our center between August 2012 and Decemebr 2014, with self-expandable CoreValve (11%) or balloon-expandable Sapien XT (47.4%) and Sapien 3 (41.6) valves. Overall 5-year mortality was 52.4% (243/464). Echocardiographic classes of PVL at discharge showed a significant (p = 0.002) association with 5-year mortality, mild PVL remained as an independent predictor for 5-year mortality in multivariable analysis (hazard ratio: 1.642 [95% confidence interval: 1.235-2.182]; p = 0.001). Grades of PVL as assessed during the procedure by ARI (below the previously defined cut-off of 25) did not show a significant association with 5-year mortality (p = 0.417 and p = 0.995, respectively).
+CONCLUSIONS: Even mild PVL assessed by echocardiography was an independent predictor for 5-year survival, whereas hemodynamic measurements did not help to identify PVLs that are relevant to 5-year survival.
+
+Citation: Schoechlin S, et al. 5-Year outcomes after transcatheter aortic valve implantation: Focus on paravalvular leakage assessed by echocardiography and hemodynamic parameters. 5-Year outcomes after transcatheter aortic valve implantation: Focus on paravalvular leakage assessed by echocardiography and hemodynamic parameters. 2022; 99:1582-1589. doi: 10.1002/ccd.30083
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35043554/

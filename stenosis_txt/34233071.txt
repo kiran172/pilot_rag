@@ -1,0 +1,12 @@
+PMID: 34233071
+Title: Influence of fractional flow reserve on grafts patency: Systematic review and patient-level meta-analysis.
+
+Abstract: OBJECTIVE: To investigate the impact of invasive functional guidance for coronary artery bypass graft surgery (CABG) on graft failure.
+BACKGROUND: Data on the impact of fractional flow reserve (FFR) in guiding CABG are still limited.
+METHODS: Systematic review and individual patient data meta-analysis were performed. Primary objective was the risk of graft failure, stratified by FFR. Risk estimates are reported as odds ratios (ORs) derived from the aggregated data using random-effects models. Individual patient data were analyzed using mixed effect model to assess relationship between FFR and graft failure. This meta-analysis is registered in PROSPERO (CRD42020180444).
+RESULTS: Four prospective studies comprising 503 patients referred for CABG, with 1471 coronaries, assessed by FFR were included. Graft status was available for 1039 conduits at median of 12.0 [IQR 6.6; 12.0] months. Risk of graft failure was higher in vessels with preserved FFR (OR 5.74, 95% CI 1.71-19.29). Every 0.10 FFR units decrease in the coronaries was associated with 56% risk reduction of graft failure (OR 0.44, 95% CI 0.34 to 0.59). FFR cut-off to predict graft failure was 0.79.
+CONCLUSION: Surgical grafting of coronaries with functionally nonsignificant stenoses was associated with higher risk of graft failure.
+
+Citation: G Toth G, et al. Influence of fractional flow reserve on grafts patency: Systematic review and patient-level meta-analysis. Influence of fractional flow reserve on grafts patency: Systematic review and patient-level meta-analysis. 2022; 99:730-735. doi: 10.1002/ccd.29864
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34233071/

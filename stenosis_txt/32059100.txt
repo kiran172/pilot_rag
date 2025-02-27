@@ -1,0 +1,12 @@
+PMID: 32059100
+Title: Economic value of transcatheter valve replacement for inoperable aortic stenosis.
+
+Abstract: OBJECTIVES: To project the social value of transcatheter aortic valve replacement (TAVR) for inoperable patients with severe, symptomatic aortic stenosis (SSAS).
+STUDY DESIGN: This study used an economic model with parameters obtained from the literature and from US Census Bureau population projections.
+METHODS: Our model estimated the economic value that will accrue to inoperable patients with SSAS and to device manufacturers as a result of TAVR utilization. We estimated individual patient value as the monetized gain in quality-adjusted life-years as estimated in the cost-effectiveness literature, net of device costs and cost offsets. We estimated manufacturer value by applying an assumed profit margin to revenue from device sales. We created population-level estimates by combining these individual-level estimates with age-stratified Census Bureau population projections and estimates of the incidence of AS. We assessed model uncertainty through the use of probabilistic sensitivity analyses.
+RESULTS: Between 2018 and 2028, approximately 465,000 inoperable Americans with SSAS will be treated with TAVR. These procedures will yield a cumulative social benefit of up to $48 billion, with roughly 80% of that benefit accruing to patients and 20% accruing to device manufacturers.
+CONCLUSIONS: Policy makers and payers should take this social value into account when considering decisions related to the care of inoperable patients with SSAS.
+
+Citation: Sussell J, et al. Economic value of transcatheter valve replacement for inoperable aortic stenosis. Economic value of transcatheter valve replacement for inoperable aortic stenosis. 2020; 26:e50-e56. doi: 10.37765/ajmc.2020.42401
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32059100/

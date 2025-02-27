@@ -1,0 +1,11 @@
+PMID: 38178354
+Title: A Comparative Study of 64-Slice Coronary CT Angiography (CCTA) and Myocardial Perfusion Imaging (MPI) in the Identification of Coronary Artery Stenosis.
+
+Abstract: OBJECTIVE: The aim of this study was to compare the diagnostic accuracy of 64-Slice Coronary Computer Tomography Angiography (CCTA) and Myocardial Perfusion Imaging (MPI) in the identification of significant coronary artery stenosis (>50% luminal narrowing).
+METHODS: A total of 120 patients suspected of having coronary artery disease were divided into two groups, with 60 patients in each group. Group 1 underwent CCTA and group 2 underwent MPI. Diagnostic accuracy parameters, image quality, radiation exposure, and procedure time were compared.
+RESULTS: CCTA demonstrated higher sensitivity (90% vs. 80%, p = 0.049) and similar specificity (75% vs. 70%, p = 0.453) compared to MPI. Image quality was slightly superior in the CCTA group. Radiation exposure was significantly lower in the CCTA group compared to the MPI group (3.5 ± 1.2 mSv vs. 9.4 ± 1.7 mSv, p < 0.001). The procedure time for CCTA was also significantly less than that for MPI (10.3 ± 2.1 minutes vs. 45.2 ± 5.3 minutes, p < 0.001).
+CONCLUSION: CCTA showed superior sensitivity, image quality, and efficiency compared to MPI while exposing patients to a lower radiation dose. Further multicenter studies with larger patient populations are needed to validate these findings.
+
+Citation: Li B and Dandan Wu. A Comparative Study of 64-Slice Coronary CT Angiography (CCTA) and Myocardial Perfusion Imaging (MPI) in the Identification of Coronary Artery Stenosis. A Comparative Study of 64-Slice Coronary CT Angiography (CCTA) and Myocardial Perfusion Imaging (MPI) in the Identification of Coronary Artery Stenosis. 2023; 26:E722-E727. doi: 10.59958/hsf.6685
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38178354/

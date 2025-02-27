@@ -1,0 +1,12 @@
+PMID: 31148096
+Title: Malnutrition among elderly patients with severe aortic stenosis.
+
+Abstract: BACKGROUND: Most patients with aortic stenosis (AS) are elderly. To achieve favorable outcomes after interventional treatments, careful management including adequate nutritional support is required. However, there has been a lack of knowledge about the prevalence of malnutrition and factors related to it.
+AIMS: To explore the prevalence of malnutrition and its related factors in patients with severe AS.
+METHODS: This was a single-institution, cross-sectional study. A total of 300 consecutive older patients (mean age, 83.8 ± 0.5 years) with AS were prospectively enrolled. Nutritional status was evaluated with the Mini Nutritional Assessment-Short Form (MNA-SF). Cardiac, kidney, physical, cognitive functions, instrumental activities of daily living (IADL) as measured with the Frenchay Activities Index (FAI), medical history, and comorbidities were evaluated as potentially related factors. Multiple logistic regression analysis was performed to identify factors that were significantly associated with the MNA-SF.
+RESULTS: The mean (SD) score of the MNA-SF was 10.9 (2.5). 34 patients (11.3%) and 127 patients (42.3%) met the criteria for malnutrition and at risk of malnutrition, respectively. On multiple logistic regression analysis, female sex (OR 3.455, 95% CI 1.045-11.42, P = 0.042), NYHA class (OR 3.625, 95% CI 1.627-8.074, P = 0.002), left ventricular ejection fraction (/10%) (OR 0.961, 95% CI 0.932-0.991, P = 0.010), and FAI score (/10 points) (OR 0.911, 95% CI 0.864-0.961, P < 0.001) were significantly related to malnutrition.
+CONCLUSIONS: The prevalence of malnutrition was high among older persons with severe AS, and female sex, poor cardiac function, and lower IADL were independently related to it.
+
+Citation: Fukui S, et al. Malnutrition among elderly patients with severe aortic stenosis. Malnutrition among elderly patients with severe aortic stenosis. 2020; 32:373-379. doi: 10.1007/s40520-019-01227-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31148096/

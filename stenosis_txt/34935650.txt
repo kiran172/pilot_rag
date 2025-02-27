@@ -1,0 +1,11 @@
+PMID: 34935650
+Title: Reliable Assessment of Swine Renal Fibrosis Using Quantitative Magnetization Transfer Imaging.
+
+Abstract: OBJECTIVES: Quantitative magnetization transfer (qMT) is useful for measurement of murine renal fibrosis at high and ultrahigh field strengths. However, its utility at clinical field strengths and in human-like kidneys remains unknown. We tested the hypothesis that qMT would successfully detect fibrosis in swine kidneys with unilateral renal artery stenosis (RAS) at 3.0 T.
+METHODS: The qMT protocol is composed of MT scans with variable flip angles and offset frequencies, and of B0, B1, and T1 mapping. Pigs were scanned 10 weeks after RAS or control. A 2-pool model was used to fit the bound pool fraction f of the renal cortex (CO) and outer medulla (OM). Then qMT-derived f in 5 normal and 10 RAS pigs was compared with histological fibrosis determined using Masson's trichrome staining and to renal perfusion assessed with computed tomography.
+RESULTS: The qMT 2-pool model provided accurate fittings of data collected on swine kidneys. Stenotic kidneys showed significantly elevated f in both the CO (9.8% ± 2.7% vs 6.4% ± 0.9%, P = 0.002) and OM (7.6% ± 2.2% vs 4.7% ± 1.1%, P = 0.002), as compared with normal kidneys. Histology-measured renal fibrosis and qMT-derived f correlated directly in both the cortex (Pearson correlation coefficient r = 0.93, P < 0.001) and OM (r = 0.84, P = 0.002), and inversely with stenotic kidney perfusion (r = 0.85, P = 0.002).
+CONCLUSIONS: This study demonstrates the feasibility of qMT for measuring fibrosis in human-like swine kidneys, and the association between tissue macromolecule content and renal perfusion. Therefore, qMT may be useful as a tool for noninvasive assessment of renal fibrosis in subjects with RAS at clinical field strengths.
+
+Citation: Jiang K, et al. Reliable Assessment of Swine Renal Fibrosis Using Quantitative Magnetization Transfer Imaging. Reliable Assessment of Swine Renal Fibrosis Using Quantitative Magnetization Transfer Imaging. 2022; 57:334-342. doi: 10.1097/RLI.0000000000000843
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34935650/

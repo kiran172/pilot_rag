@@ -1,0 +1,11 @@
+PMID: 36973644
+Title: Time-resolved simulation of blood flow through left anterior descending coronary artery: effect of varying extent of stenosis on hemodynamics.
+
+Abstract: BACKGROUND AND OBJECTIVES: Real-time blood flow variation is crucial for understanding the dynamic development of coronary atherosclerosis. The main objective of this study is to investigate the effect of varying extent of stenosis on the hemodynamic features in left anterior descending coronary artery.
+METHODS: Various Computational fluid dynamics (CFD) models were constructed with patient-specific CT image data, using actual fractional flow reserve (FFR) as boundary conditions to provide a real-time quantitative description of hemodynamic properties. The hemodynamic parameters, such as the local and instantaneous wall shear stress (WSS), oscillating shear index (OSI) and relative residence time (RRT), blood flow velocity and pressure drop during various phases of cardiac cycle were provided in detail.
+RESULTS: There was no evident variation in hemodynamic parameters in the cases of less than 50% stenosis while there were abrupt and dramatic changes in hemodynamics when the stenosis aggravated from 60 to 70%. Furthermore, when the stenosis was beyond 70%, there existed substantial pressure difference, WSS, and blood flow velocity in the center of the stenosis. Although OSI and RRT increased along with the aggravation of stenosis, they appeared with obvious abnormalities across all cases, even in mild stenosis.
+CONCLUSION: The simulation could present a dynamic and comprehensive profile of how hemodynamic parameters vary in accordance with divergent severities of stenosis, which could serve as an effective reference for the clinicians to have a deeper insight into the pathological mechanism of coronary atherosclerosis and stenosis.
+
+Citation: Zhao Y, et al. Time-resolved simulation of blood flow through left anterior descending coronary artery: effect of varying extent of stenosis on hemodynamics. Time-resolved simulation of blood flow through left anterior descending coronary artery: effect of varying extent of stenosis on hemodynamics. 2023; 23:156. doi: 10.1186/s12872-023-03190-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36973644/

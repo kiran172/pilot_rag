@@ -1,0 +1,11 @@
+PMID: 37843486
+Title: Life's Essential 8 and Life's Simple 7 in Relation to Coronary Atherosclerosis: Results From the Population-Based SCAPIS Project.
+
+Abstract: OBJECTIVE: To examine the associations between the American Heart Association scores ("Life's Essential 8" [LE8] and "Life's Simple 7" [LS7]) and 2 subclinical coronary atherosclerosis indicators: coronary computed tomographic angiography (CCTA)-stenosis and coronary artery calcium (CAC).
+PATIENTS AND METHODS: We included a population-based sample, aged 50 to 64 years, recruited between 2013 and 2018 from the Swedish Cardiopulmonary Bioimage Study (n=24,819, 50.3% women). CCTA-stenosis was graded as no stenosis, stenosis (1%-49%) or severe stenosis (≥50%), whereas CAC was graded as 0, 1 to 99, 100 to 399, or ≥400 Agatston units. Multinomial logistic regression and receiver operating characteristic (ROC) curves were used to study the associations between cardiovascular health scores and subclinical coronary atherosclerosis.
+RESULTS: Odds ratios (ORs) for CCTA-stenosis and severe CCTA-stenosis between the lowest (<50 points) vs the highest (≥80 points) LE8 group were 4.18 (95% CI, 3.56 to 4.91) and 11.17 (95% CI, 8.36 to 14.93), respectively. For corresponding CAC results, ORs were 3.36 (95% CI, 2.84 to 3.98), 7.72 (95% CI, 6.03 to 9.89), and 14.94 (95% CI, 10.47 to 21.31) for CAC scores of 1 to 99, 100 to 399, and ≥400, respectively. Area under ROC curves for predicting any stenosis were 0.642 (95% CI, 0.635 to 0.649) and 0.631 (95% CI, 0.624 to 0.638, P<.001) for LE8 and LS7, respectively.
+CONCLUSION: Our data indicate that LE8 showed a strong, graded, and inverse association with CCTA-stenosis and CAC score. The capacity to predict CCTA-stenosis was comparable between LE8 and LS7, although LE8 had slightly higher prediction capacity of any stenosis. This study provides novel evidence that the LE8 score may be a useful tool for monitoring cardiovascular health.
+
+Citation: Herraiz-Adillo Á, et al. Life's Essential 8 and Life's Simple 7 in Relation to Coronary Atherosclerosis: Results From the Population-Based SCAPIS Project. Life's Essential 8 and Life's Simple 7 in Relation to Coronary Atherosclerosis: Results From the Population-Based SCAPIS Project. 2024; 99:69-80. doi: 10.1016/j.mayocp.2023.03.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37843486/

@@ -1,0 +1,11 @@
+PMID: 38777891
+Title: A nomogram of anastomotic stricture after rectal cancer: a retrospective cohort analysis.
+
+Abstract: BACKGROUND: Anastomotic stricture significantly impacts patients' quality of life and long-term prognosis. However, current clinical practice lacks accurate tools for predicting anastomotic stricture. This study aimed to develop a nomogram to predict anastomotic stricture in patients with rectal cancer who have undergone anterior resection.
+METHODS: A total of 1542 eligible patients were recruited for the study. Least absolute shrinkage selection operator (Lasso) analysis was used to preliminarily select predictors. A prediction model was constructed using multivariate logistic regression and presented as a nomogram. The performance of the nomogram was evaluated using receiver operating characteristic (ROC) curves, calibration diagrams, and decision curve analysis (DCA). Internal validation was conducted by assessing the model's performance on a validation cohort.
+RESULTS: 72 (4.7%) patients were diagnosed with anastomotic stricture. Participants were randomly divided into training (n = 1079) and validation (n = 463) sets. Predictors included in this nomogram were radiotherapy, diverting stoma, anastomotic leakage, and anastomotic distance. The area under the ROC curve (AUC) for the training set was 0.889 [95% confidence interval (CI) 0.840-0.937] and for the validation set, it was 0.930 (95%CI 0.879-0.981). The calibration curve demonstrated a strong correlation between predicted and observed outcomes. DCA results showed that the nomogram had clinical value in predicting anastomotic stricture in patients after anterior resection of rectal cancer.
+CONCLUSION: We developed a predictive model for anastomotic stricture following anterior resection of rectal cancer. This nomogram could assist clinicians in predicting the risk of anastomotic stricture, thus improving patients' quality of life and long-term prognosis.
+
+Citation: Cheng Y, et al. A nomogram of anastomotic stricture after rectal cancer: a retrospective cohort analysis. A nomogram of anastomotic stricture after rectal cancer: a retrospective cohort analysis. 2024; 38:3661-3671. doi: 10.1007/s00464-024-10885-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38777891/

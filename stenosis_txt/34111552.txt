@@ -1,0 +1,15 @@
+PMID: 34111552
+Title: Gender differences in multifidus fatty infiltration, sarcopenia and association with preoperative pain and functional disability in patients with lumbar spinal stenosis.
+
+Abstract: BACKGROUND: In patients with lumbar spinal stenosis, female gender has been associated with higher pain and functional disability. Sarcopenia and multifidus atrophy have also been associated with symptomatic severity.
+PURPOSE: The purpose of this study was to determine if gender differences in sarcopenia and multifidus atrophy are associated with gender disparities in disease symptomatology.
+STUDY DESIGN: Prospectively collected medical records and imaging studies were retrospectively reviewed.
+PATIENT SAMPLE: We retrospectively reviewed medical records and imaging studies for 63 patients with clinically and radiologically defined lumbar spinal stenosis at L3/4 or L4/5 who underwent minimally invasive decompression.
+OUTCOME MEASURES: Pain and functional disability were measured using the Oswestry Disability Index (ODI) and visual analogue scores for back pain (VASB) and leg pain (VASL).
+METHODS: Multifidus total cross sectional area (tCSA), multifidus functional cross sectional area (fnCSA), multifidus fatty infiltration (FI), psoas tCSA, and psoas relative cross sectional area (rCSA) were evaluated by univariable and multivariable regression to identify gender linked and gender independent predictors of higher ODI, VASB, and VASL.
+RESULTS: Female gender was significantly associated with lower multifidus fnCSA (p < .001), higher multifidus FI (p < .001), lower psoas tCSA (p < .001), lower psoas rCSA (p = .002), and higher preoperative ODI (p = .008). Lower psoas rCSA (p = .044) and psoas tCSA in the lowest sex specific quartile (p = .034) were significantly associated with higher preoperative VASB and psoas rCSA less than the sex specific median (p = .050) was significantly associated with higher preoperative VASL after controlling for age and gender. Multifidus FI was significantly associated with preoperative ODI after adjusting for age (p = .048) but not after controlling additionally for gender (p = .651).
+CONCLUSIONS: Female patients with lumbar spinal stenosis may develop more severe and functionally significant multifidus atrophy, resulting in a more severe clinical course with higher functional disability. Sarcopenia was significantly associated with higher preoperative back pain and leg pain in both male and female patients with lumbar spinal stenosis.
+
+Citation: Chua M, et al. Gender differences in multifidus fatty infiltration, sarcopenia and association with preoperative pain and functional disability in patients with lumbar spinal stenosis. Gender differences in multifidus fatty infiltration, sarcopenia and association with preoperative pain and functional disability in patients with lumbar spinal stenosis. 2022; 22:58-63. doi: 10.1016/j.spinee.2021.06.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34111552/

@@ -1,0 +1,12 @@
+PMID: 39260959
+Title: Asymmetrical Expansion of Balloon-Expandable Transcatheter Aortic Valve Prostheses: Implications for Valve Hemodynamic and Clinical Outcomes.
+
+Abstract: BACKGROUND: Asymmetrical expansion of transcatheter heart valves (THVs), manifesting as stent frame deformation, is an occasional fluoroscopic finding in transcatheter aortic valve replacement (TAVR).
+OBJECTIVES: The aim of this study was to investigate the impact of asymmetrical expansion of balloon-expandable THVs on hemodynamic valve performance and clinical outcomes.
+METHODS: In a prospective registry, TAVR asymmetry index was measured using freeze-frame fluoroscopic images and was defined as the ratio of THV heights: [(longer height/shorter height) - 1] × 100. THV hemodynamic performance was measured using echocardiography before hospital discharge. Impaired hemodynamic valve performance was defined as a mean residual THV gradient ≥20 mm Hg and/or moderate or greater paravalvular regurgitation.
+RESULTS: Among 1,216 patients undergoing transfemoral TAVR for native severe aortic valve stenosis with contemporary balloon-expandable THVs between February 2014 and June 2022, asymmetry index was an excellent predictor of impaired hemodynamic valve performance (area under the receiver-operating characteristic curve: 0.88; 95% CI: 0.84-0.92; P < 0.001). The optimal asymmetry index threshold for predicting impaired THV performance was >5.5% (sensitivity 77%, specificity 86%) and occurred in 17% of patients. Higher asymmetry index, as a continuous variable, was associated with impaired hemodynamic valve performance independent of total aortic valve calcium, bicuspid anatomy, balloon-expandable valve prosthesis type or size, and Society of Thoracic Surgeons Predicted Risk of Mortality score (OR: 1.37; 95% CI: 1.29-1.46; P < 0.001). High TAVR asymmetry index was not associated with all-cause mortality during a median of 376 days of follow-up (HR: 1.00; 95% CI: 0.71-1.41; P = 0.989).
+CONCLUSIONS: Asymmetrical expansion of balloon-expandable THVs was associated with impaired hemodynamic valve performance but not with clinical outcomes.
+
+Citation: Maznyczka A, et al. Asymmetrical Expansion of Balloon-Expandable Transcatheter Aortic Valve Prostheses: Implications for Valve Hemodynamic and Clinical Outcomes. Asymmetrical Expansion of Balloon-Expandable Transcatheter Aortic Valve Prostheses: Implications for Valve Hemodynamic and Clinical Outcomes. 2024; 17:2011-2022. doi: 10.1016/j.jcin.2024.05.039
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39260959/

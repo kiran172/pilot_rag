@@ -1,0 +1,17 @@
+PMID: 34390516
+Title: Quantitative Magnetic Resonance Imaging Assessment of the Relationships Between Fat Fraction and R2* Inside Carotid Plaques, and Circulating Lipoproteins.
+
+Abstract: BACKGROUND: Lipid-rich necrotic core (LRNC) and intraplaque hemorrhage (IPH) are morphological features of high-risk atherosclerotic plaques. However, their relationship to circulating lipoproteins is unclear.
+PURPOSE: To study associations between changes in lipoproteins vs. changes in LRNC (represented by fat fraction [FF]) and IPH (represented by R2*).
+STUDY TYPE: Prospective.
+SUBJECTS: Fifty-two patients with carotid plaques, 33 males (63.5%), mean age 72 (±5).
+FIELD STRENGTH/SEQUENCE: Four-point fast gradient Dixon magnetic resonance imaging (MRI) was used to quantify FF and R2* (to measure IPH) inside plaques and in vessel wall. Turbo-spin echo was used for T<sub>1</sub> weighted sequences to guide manual segmentation.
+ASSESSMENT: Carotid MRI and serum lipid levels were assessed at baseline and at 1-year follow-up. For patients, lipid-lowering therapy was customized to reduce low-density lipoprotein (LDL) levels below 1.8 mmol/L. Segmentation was performed with one set of regions of interest for the plaque and one for the vessel wall at the location of the plaque. Thereby MRI data for FF, R2*, and volumes in plaque- and vessel-wall segmentations could be obtained from baseline and follow-up, as well as changes over the study year.
+STATISTICAL TESTS: Pearson correlation coefficient for correlations. Paired samples t-test for changes over time. Significance at P < 0.05, 95% confidence interval.
+RESULTS: LDL decreased significantly (2.19-1.88 mmol/L, Z - 2.9), without correlation to changes in plaque composition, nor to the significant reduction in vessel-wall volume (-106.3 mm3 ). Plaque composition remained unchanged, FF +8.5% (P = 0.366) and R2* +3.5% (P = 0.304). Compared to plaque segmentations, R2* was significantly lower in the vessel-wall segmentations both at baseline (-9.3%) and at follow-up (-9.1%).
+DATA CONCLUSION: The absence of correlations between changes in lipoproteins and changes in plaque composition indicates more complex relationships between these parameters than previously anticipated. The significant differences in both R2* and volume dynamics comparing plaque segmentations and vessel-wall segmentations suggest differences in their pathobiology of atherosclerosis.
+LEVEL OF EVIDENCE: 1 TECHNICAL EFFICACY: Stage 4.
+
+Citation: Good E, et al. Quantitative Magnetic Resonance Imaging Assessment of the Relationships Between Fat Fraction and R2* Inside Carotid Plaques, and Circulating Lipoproteins. Quantitative Magnetic Resonance Imaging Assessment of the Relationships Between Fat Fraction and R2* Inside Carotid Plaques, and Circulating Lipoproteins. 2022; 55:1260-1270. doi: 10.1002/jmri.27890
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34390516/

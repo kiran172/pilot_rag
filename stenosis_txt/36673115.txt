@@ -1,0 +1,8 @@
+PMID: 36673115
+Title: Radiomics in Cardiac Computed Tomography.
+
+Abstract: In recent years, there has been an increasing recognition of coronary computed tomographic angiography (CCTA) and gated non-contrast cardiac CT in the workup of coronary artery disease in patients with low and intermediate pretest probability, through the readjustment guidelines by medical societies. However, in routine clinical practice, these CT data sets are usually evaluated dominantly regarding relevant coronary artery stenosis and calcification. The implementation of radiomics analysis, which provides visually elusive quantitative information from digital images, has the potential to open a new era for cardiac CT that goes far beyond mere stenosis or calcification grade estimation. This review offers an overview of the results obtained from radiomics analyses in cardiac CT, including the evaluation of coronary plaques, pericoronary adipose tissue, and the myocardium itself. It also highlights the advantages and disadvantages of use in routine clinical practice.
+
+Citation: Ayx I, et al. Radiomics in Cardiac Computed Tomography. Radiomics in Cardiac Computed Tomography. 2023; 13:(unknown pages). doi: 10.3390/diagnostics13020307
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36673115/

@@ -1,0 +1,11 @@
+PMID: 36527812
+Title: Using drug-coated balloons for symptomatic vertebral artery origin stenosis: A systematic review and meta-Analysis.
+
+Abstract: BACKGROUND: Endovascular stenting has emerged as an effective treatment for patients with symptomatic vertebral artery origin stenosis (VAOS), but the incidence of severe restenosis is concerning. Angioplasty alone with a drug-coated balloon (DCB) is a potential treatment for VAOS. The purpose of this systematic review and meta-analysis was to assess the utility of DCB angioplasty for VAOS.
+METHODS: A systematic search of the Medline (PubMed), Embase, CNKI, and Cochrane databases for studies on the treatment of VAOS by DCB angioplasty published in English and Chinese before June 15, 2022 was conducted. Data were extracted using standardized methods. The incidence rates of restenosis, technical success, and perioperative complication in the follow-up period were pooled using Freeman-Tukey double arcsine transformation with random or fixed-effect models. Tests for heterogeneity and publication bias were performed.
+RESULTS: A total of seven studies containing 159 patients were included in this review and meta-analysis. The pre-treatment stenosis rate of the vertebral artery in the DCB group ranged from 70.0 % to 86.3 %, and the median follow-up time ranged from 6.0 to 14.1 months. The pooled restenosis incidence was 11.9 % (95 % CI: 3.4 %-23.4 %; I2 = 59 %, p = 0.02) during the follow-up period. The pooled technical success rate was 96.6 % (95 % CI: 91.4 %-99.7 %; I2 = 37 %, p = 0.14). The overall perioperative complication rate was 2.9 % (95 % CI: 0.3 %-6.9 %; I2 = 0 %, p = 0.64). According to the funnel diagram and Egger's test, there was no evidence of publication bias.
+CONCLUSION: It is suggested in this review and meta-analysis that angioplasty with DCB may be a potential treatment for VAOS. However, randomized studies including a large representative sample of VAOS patients are needed to validate our findings.
+
+Citation: Wu S, et al. Using drug-coated balloons for symptomatic vertebral artery origin stenosis: A systematic review and meta-Analysis. Using drug-coated balloons for symptomatic vertebral artery origin stenosis: A systematic review and meta-Analysis. 2023; 107:98-105. doi: 10.1016/j.jocn.2022.12.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36527812/

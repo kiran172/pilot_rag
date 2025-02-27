@@ -1,0 +1,12 @@
+PMID: 37366256
+Title: The impact of sex on in-hospital and long-term mortality rates in patients undergoing surgical aortic valve replacement: The SAVR and SEX study.
+
+Abstract: BACKGROUND: Surgical aortic valve replacement (SAVR) is among the most commonly performed valvular surgeries. Despite many previous studies conducted in this setting, the impact of sex on outcomes in patients undergoing SAVR is still unclear.
+AIMS: This study aimed to define sex differences in short- and long-term mortality in patients undergoing SAVR.
+METHODS: We analyzed retrospectively all the patients undergoing isolated SAVR from January 2006 to March 2020 in the Department of Cardiovascular Surgery and Transplantology in John Paul II Hospital in Kraków. The primary endpoint was in-hospital and long-term mortality. Secondary endpoints included the duration of hospital stay and perioperative complications. Groups of men and women were compared with regard to the prosthesis type. Propensity score matching was performed to adjust for differences in baseline characteristics.
+RESULTS: A total number of 4 510 patients undergoing isolated surgical SAVR were analyzed. A follow- up median (interquartile range [IQR]) was 2120 (1000-3452) days. Females made up 41.55% of the cohort and were older, displayed more non-cardiac comorbidities, and faced a higher operative risk. In both sexes, bioprostheses were more often applied (55.5% vs. 44.5%; P <0.0001). In univariable analysis, sex was not linked to in-hospital mortality (3.7% vs. 3%; P = 0.15) and late mortality rates (23.37% vs. 23.52 %; P = 0.9). Upon adjustment for baseline characteristics (propensity score matching analysis) and considering 5-year survival, a long-term prognosis turned out to be better in women (86.8%) compared to men (82.7%, P = 0.03).
+CONCLUSIONS: A key finding from this study suggests that female sex was not associated with higher in-hospital and late mortality rates compared to men. Further studies are needed to confirm longterm benefits in women undergoing SAVR.
+
+Citation: Pawlik A, et al. The impact of sex on in-hospital and long-term mortality rates in patients undergoing surgical aortic valve replacement: The SAVR and SEX study. The impact of sex on in-hospital and long-term mortality rates in patients undergoing surgical aortic valve replacement: The SAVR and SEX study. 2023; 81:754-762. doi: 10.33963/KP.a2023.0138
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37366256/

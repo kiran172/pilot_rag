@@ -1,0 +1,12 @@
+PMID: 32965556
+Title: Transcatheter or surgical aortic valve implantation in chronic dialysis patients: a German Aortic Valve Registry analysis.
+
+Abstract: OBJECTIVES: The aim of this study was to compare outcomes of transcatheter and surgical aortic valve implantation in chronic dialysis patients with aortic valve stenosis (AS).
+BACKGROUND: Chronic dialysis patients undergoing heart valve surgery are at higher risk for morbidity and mortality. Whether interventional techniques can reduce this risk is unclear because dialysis patients have thus far been excluded from randomized trials.
+METHODS: Chronic dialysis patients with AS enrolled in the German Aortic Valve Registry (GARY) between 2012 and 2015 were analyzed to compare transcatheter aortic valve implantation (TAVI n = 661) with surgical aortic valve replacement (SAVR n = 457). Propensity scores for inverse probability of treatment weighting (IPTW) were used to adjust the comparison of the two treatment groups for potential confounders.
+RESULTS: TAVI patients were older (78 ± 7.3 vs. 69 ± 10.2 years, p < 0.01, unadjusted) and had more comorbidities. Mortality at 1 year was the same (TAVI: 33.4% vs. SAVR 35.0%, p = 0.72, IPTW-adjusted) while it was lower with TAVI at 30 days (8.6% vs. 15.0%, p = 0.02, IPTW-adjusted). TAVI patients required more pacemaker implantation and showed more aortic regurgitation. SAVR patients required more blood transfusions and had longer hospital stay. Diabetes mellitus, atrial fibrillation, previous PCI, urgent procedure and EuroSCORE were associated with elevated 30-day mortality. Atrial fibrillation and older age were independent risk factor of 1-year mortality in both groups.
+CONCLUSIONS: Chronic dialysis patients with AS undergoing TAVI or SAVR had the same 1-year mortality, although survival at 30 days was better with TAVI. These results suggest that TAVI may improve peri-procedural outcomes.
+
+Citation: Färber G, et al. Transcatheter or surgical aortic valve implantation in chronic dialysis patients: a German Aortic Valve Registry analysis. Transcatheter or surgical aortic valve implantation in chronic dialysis patients: a German Aortic Valve Registry analysis. 2021; 110:357-367. doi: 10.1007/s00392-020-01717-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32965556/

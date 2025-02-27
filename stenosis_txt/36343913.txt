@@ -1,0 +1,15 @@
+PMID: 36343913
+Title: Predictors for failure after surgery for lumbar spinal stenosis: a prospective observational study.
+
+Abstract: BACKGROUND/CONTEXT: Some patients do not improve after surgery for lumbar spinal stenosis (LSS), and surgical treatment implies a risk for complications and deterioration. Patient selection is of paramount importance to improve the overall clinical results and identifying predictive factors for failure is central in this work.
+PURPOSE: We aimed to explore predictive factors for failure and worsening after surgery for LSS.
+STUDY DESIGN /SETTING: Retrospective observational study on prospectively collected data from a national spine registry with a 12-month follow-up.
+PATIENT SAMPLE: We analyzed 11,873 patients operated for LSS between 2007 and 2017 in Norway, included in the Norwegian registry for spine surgery (NORspine). Twelve months after surgery, 8919 (75.1%) had responded.
+OUTCOME MEASURES: Oswestry Disability Index (ODI) 12 months after surgery.
+METHODS: Predictors were assessed with uni- and multivariate logistic regression, using backward conditional stepwise selection and a significance level of 0.01. Failure (ODI>31) and worsening (ODI>39) were used as dependent variables.
+RESULTS: Mean (95%CI) age was 66.6 (66.4-66.9) years, and 52.1% were females. The mean (95%CI) preoperative ODI score was 39.8 (39.4-40.1). All patients had decompression, and 1494 (12.6%) had an additional fusion procedure. Twelve months after surgery, the mean (95%CI) ODI score was 23.9 (23.5-24.2), and 2950 patients (33.2%) were classified as failures and 1921 (21.6%) as worse. The strongest predictors for failure were duration of back pain > 12 months (OR [95%CI]=2.24 [1.93-2.60]; p<.001), former spinal surgery (OR [95%CI]=2.21 [1.94-2.52]; p<.001) and age>70 years (OR (95%CI)=1.97 (1.69-2.30); p<.001). Socioeconomic variables increased the odds of failure (ORs between 1.36 and 1.62). The strongest predictors for worsening were former spinal surgery (OR [95%CI]=2.04 [1.77-2.36]; p<.001), duration of back pain >12 months (OR [95%CI]=1.83 [1.45-2.32]; p<.001) and age >70 years (OR [95%CI]=1.79 [1.49-2.14]; p<.001). Socioeconomic variables increased the odds of worsening (ORs between 1.33-1.67).
+CONCLUSIONS: After surgery for LSS, 33% of the patients reported failure, and 22% reported worsening as assessed by ODI. Preoperative duration of back pain for longer than 12 months, former spinal surgery, and age above 70 years were the strongest predictors for increased odds of failure and worsening after surgery.
+
+Citation: Alhaug OK, et al. Predictors for failure after surgery for lumbar spinal stenosis: a prospective observational study. Predictors for failure after surgery for lumbar spinal stenosis: a prospective observational study. 2023; 23:261-270. doi: 10.1016/j.spinee.2022.10.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36343913/

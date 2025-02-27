@@ -1,0 +1,12 @@
+PMID: 36914946
+Title: Efficacy and safety of low-dose aspirin on preventing transplant renal artery stenosis: a prospective randomized controlled trial.
+
+Abstract: BACKGROUND: Transplant renal artery stenosis (TRAS) is a vascular complication after kidney transplantation associated with poor outcomes. This study aimed to analyze the efficacy and safety of low-dose aspirin for preventing TRAS.
+METHODS: After kidney transplantation, patients were enrolled from January 2018 to December 2020 in Henan Provincial People's Hospital. A total of 351 enrolled recipients were randomized to an aspirin group with low-dose intake of aspirin in addition to standard treatment ( n = 178), or a control group with only standard treatment ( n = 173). The patients was initially diagnosed as TRAS (id-TRAS) by Doppler ultrasound, and confirmed cases were diagnosed by DSA (c-TRAS).
+RESULTS: In the aspirin and control groups, 15.7% (28/178) and 22.0% (38/173) of the recipients developed id-TRAS, respectively, with no statistical difference. However, for c-TRAS, the difference of incidence and cumulative incidence was statistically significant. The incidence of c-TRAS was lower in the aspirin group compared with the control group (2.8% [5/178] vs. 11.6% [20/173], P = 0.001). Kaplan-Meier estimates and Cox regression model identified the cumulative incidence and hazard ratio (HR) of TRAS over time in two groups, showing that recipients treated with aspirin had a significantly lower risk of c-TRAS than those who were not treated (log-rank P  = 0.001, HR = 0.23, 95% confidence interval [CI]: 0.09-0.62). The levels of platelet aggregation rate ( P  < 0.001), cholesterol ( P  = 0.028), and low-density lipoprotein cholesterol ( P  = 0.003) in the aspirin group were decreased compared with the control group in the third-month post-transplantation. For the incidence of adverse events, there was no statistical difference.
+CONCLUSION: Clinical application of low-dose aspirin after renal transplant could prevent the development of TRAS with no significant increase in adverse effects.
+TRIAL REGISTRATION: Clinicaltrials.gov, NCT04260828.
+
+Citation: Tian X, et al. Efficacy and safety of low-dose aspirin on preventing transplant renal artery stenosis: a prospective randomized controlled trial. Efficacy and safety of low-dose aspirin on preventing transplant renal artery stenosis: a prospective randomized controlled trial. 2023; 136:541-549. doi: 10.1097/CM9.0000000000002574
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36914946/

@@ -1,0 +1,11 @@
+PMID: 36301352
+Title: Comparative effect of stenting plus medical therapy vs medical therapy alone on the risk of stroke and death in patients with symptomatic intracranial stenosis: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Recently, several randomized controlled trials (RCTs) of stenting plus medical therapy versus medical therapy alone have been successfully conducted for the treatment of patients with symptomatic intracranial stenosis. This study aimed to evaluate differences between these two therapies in the risk of stroke and death.
+METHODS: MEDLINE, EMBASE, the Cochrane Library, and ClinicalTrials.gov were systematically searched to identify relevant studies published before August 24, 2022. Review Manager 5.3 software was used to assess the data. The risk ratio (RR) was analysed and calculated with a random effect model or a fixed effects model.
+RESULTS: We pooled 921 participants from three RCTs. Compared to the medical therapy alone group, the stenting plus medical therapy group had a higher risk of 30-day death or stroke (RR = 2.69 [1.64-4.41], P &lt; 0.0001, I2 = 0%). When the follow-up period exceeded 1 year (≥ 1 year), there was no significant difference in the risk of stroke or death between these two groups. The subgroup analysis showed that if the time from stroke onset to implantation was extended, additional stenting would have no effect on the risk of stroke or death, whether within 30 days or within 1 year (P = 0.16 and 0.78).
+CONCLUSION: Medical therapy alone has a lower risk of stroke and death in the short term than stenting plus medical therapy, while no difference exists in the long term. More studies are still needed to further explore the precision strategy of stent implantation for symptomatic intracranial stenosis patients.
+
+Citation: Wu X, et al. Comparative effect of stenting plus medical therapy vs medical therapy alone on the risk of stroke and death in patients with symptomatic intracranial stenosis: a systematic review and meta-analysis. Comparative effect of stenting plus medical therapy vs medical therapy alone on the risk of stroke and death in patients with symptomatic intracranial stenosis: a systematic review and meta-analysis. 2023; 270:662-672. doi: 10.1007/s00415-022-11429-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36301352/

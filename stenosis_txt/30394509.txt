@@ -1,0 +1,11 @@
+PMID: 30394509
+Title: Elliptical stretch as a cause of side branch ostial compromise after main vessel stenting in coronary bifurcations: New insights from numerical analysis.
+
+Abstract: BACKGROUND: The side branch (SB) compromise after main vessel (MV) stenting remains a significant problem in coronary bifurcation treatment. Currently the two major hypotheses for the mechanism of SB compromise are carina shift from MV into the SB and plaque shift into the ostium of side vessel. It is proposed herein, SB ostial deformation leading to reshaping of the ostium from circle to ellipse is a third possible mechanism. In the current study, the theoretical effects and correlation of ostial deformation with fractional flow reserve (FFR) is explored.
+METHODS: Based on angiographic measurements and theoretical analysis formulas, three different SB ostial areas using circular ostial shape assumption and elliptical ostial shape assumption were calculated. Three different types of ostial areas with FFR values after MV stenting in 49 patients from the FIESTA registry were compared and analyzed.
+RESULTS: It was found that there is significant overestimation of stenosis severity when estimated by the circle formula, than with the ellipse formula - ASc vs. ASds with 25% ± 13%, p < 0.001, ASc vs. ASmld with 9% ± 10%, p < 0.001. The elliptical shape assumptions provide more accurate ostial area stenosis, which correlates better with FFR. This finding is more significant in less severe stenosis (< 70% area stenosis) than in a more severe one.
+CONCLUSIONS: A third possible mechanism of SB compromise after MV stenting of coronary bifurcation stenosis is elliptical ostial deformation at the ostium of SBs. The ostial area, calculated based on elliptical assumption correlates better with FFR, than area stenosis calculated with the traditional circular formula.
+
+Citation: Vassilev DI, et al. Elliptical stretch as a cause of side branch ostial compromise after main vessel stenting in coronary bifurcations: New insights from numerical analysis. Elliptical stretch as a cause of side branch ostial compromise after main vessel stenting in coronary bifurcations: New insights from numerical analysis. 2020; 27:507-517. doi: 10.5603/CJ.a2018.0124
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30394509/

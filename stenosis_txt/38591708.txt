@@ -1,0 +1,13 @@
+PMID: 38591708
+Title: Impact of BMI on Dyspnea and Need for Surgical Intervention in Bilateral Vocal Fold Immobility.
+
+Abstract: OBJECTIVE: Bilateral vocal fold paralysis (BVFP) and posterior glottic stenosis (PGS) are causes of bilateral vocal fold immobility (BVFI) and may cause shortness of breath, stridor, and need for surgical intervention. Although increased body mass index (BMI) is associated with restrictive breathing patterns in patients with normal upper airways, it is unclear how BMI impacts dyspnea and need for surgical intervention in BVFI patients.
+STUDY DESIGN: Retrospective cohort study.
+SETTING: Three tertiary academic centers in the United States.
+METHODS: Demographics, BMI, Dyspnea Index (DI), etiology, presence of tracheostomy and surgical intervention (dilation, tracheostomy, cordotomy, arytenoidectomy, open reconstruction) were collected. Primary outcomes included dyspnea measured by DI and need for surgery to improve airway. Linear regressions were performed to assess continuous outcomes. Mann-Whitney U-test was utilized to assess categorical outcomes.
+RESULTS: Among 121 patients, 52 presented with BVFP and 69 with PGS. Previous neck surgery was the most common cause of BVFI (40.2%). 44.3% of patients received a tracheostomy. Through multivariate linear regression, increased BMI was significantly associated with increased DI in the entire cohort (β = .43, P = .016). Increased BMI was also associated with need for any surgical intervention (odds ratio [OR] = 1.07, 95% confidence interval [CI] = [1.01-1.13]) in the overall cohort. When stratifying our data, BMI was only significantly associated with DI in BVFP (β = .496) and need for surgical intervention in PGS (OR = 1.11, 95% CI = [1.01-1.21]), although a positive trend was seen in all analyses.
+CONCLUSION: Increased BMI may correlate with worsening dyspnea symptoms and need for surgical intervention in patients with BVFI. Weight-loss-related counseling may benefit symptom management.
+
+Citation: Elsamna ST, et al. Impact of BMI on Dyspnea and Need for Surgical Intervention in Bilateral Vocal Fold Immobility. Impact of BMI on Dyspnea and Need for Surgical Intervention in Bilateral Vocal Fold Immobility. 2024; 171:486-493. doi: 10.1002/ohn.753
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38591708/

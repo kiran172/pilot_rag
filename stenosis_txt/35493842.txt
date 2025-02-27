@@ -1,0 +1,11 @@
+PMID: 35493842
+Title: Risk Factors of Impaired Perfusion in Patients With Symptomatic Internal Carotid Artery Steno-Occlusive Disease.
+
+Abstract: OBJECTIVE: To quantitatively evaluate the impaired perfusion status of patients with symptomatic internal carotid artery (ICA) steno-occlusive disease and to explore the risk factors of impaired perfusion with computed tomography perfusion (CTP).
+METHODS: The clinical and imaging data of 187 patients with ICA steno-occlusive disease were retrospectively analyzed. The ICA stenosis rate was divided into Grades I-IV (70-79%; 80-89%; 90-99%; 100%), and the circle of Willis was classified as four types (types I-IV). According to the literature, the value of cerebral blood flow/cerebral blood volume (CBF/CBV) of 7.55/min was used as cut-off to predict symptomatic patients. All patients were categorized into two groups: those with impaired perfusion [n = 99 (52.9%)] and those without impaired perfusion [n = 88 (47.1%)]. Symmetrical bilateral internal watershed areas were selected as the regions of interest (ROIs). Statistical analysis was made on the status of impaired perfusion and the risk factors of impaired perfusion.
+RESULTS: Univariate analysis revealed that systolic blood pressure (SBP), diastolic blood pressure (DBP), mean arterial pressure (MAP), types of the circle of Willis, and clinical features at admission differed between the two groups (patients with or without impaired perfusion) (p &lt; 0.05). Multiple logistic stepwise regression analysis showed that MAP [odds ratio (OR) = 0.946, 95% confidential interval (CI) = 0.917-0.974, p &lt; 0.001] and type IV (type I vs. IV: OR = 4.987, 95% CI = 1.955-12.723, p = 0.001) at admission were independently associated with impaired perfusion in the internal watershed areas.
+CONCLUSION: MAP and the type of circle of Willis at admission are independent risk factors associated with the impaired perfusion in patients with ICA steno-occlusive disease.
+
+Citation: Qiao X, et al. Risk Factors of Impaired Perfusion in Patients With Symptomatic Internal Carotid Artery Steno-Occlusive Disease. Risk Factors of Impaired Perfusion in Patients With Symptomatic Internal Carotid Artery Steno-Occlusive Disease. 2022; 13:801413. doi: 10.3389/fneur.2022.801413
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35493842/

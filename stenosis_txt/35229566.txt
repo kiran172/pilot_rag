@@ -1,0 +1,12 @@
+PMID: 35229566
+Title: Association of B-type natriuretic peptide with rapid progression in patients with aortic stenosis.
+
+Abstract: BACKGROUND: Rapid progression of aortic stenosis (AS) is associated with poor outcomes, and the impact of B-type natriuretic peptide (BNP) on AS progression remains unknown.
+OBJECTIVES: The purpose of the present study was to investigate the association between BNP level and the AS progression rate.
+METHODS: From January 2016 to June 2021, 200 AS patients with progression who had at least two transthoracic echocardiograms with a maximum interval of 180 days were retrospectively analyzed. Rapid progression of AS was defined as the annual increase of aortic jet velocity (Vmax) ≥0.3 m/s/year. For analyses, both the log-transformed BNP and the BNP ratio were used. The linear regression and binary logistic regression analyses were used to determine the association between BNP and the AS progression.
+RESULTS: At a median echocardiographic follow-up of 595 days, the annual median (interquartile) progression of Vmax was 0.26 (0.09-0.58) m/s/year. Patients with rapid progression had higher age, log BNP, and higher percentage of diabetes and male gender. Higher tertiles of log BNP and BNP ratio had more rapid increase in Vmax (p = 0.018 and 0.033, respectively). BNP ratio significantly correlated with Vmax progression in univariate and multivariate linear regression analyses (p &lt; 0.001 and p = 0.001, respectively). Moreover, both the univariate and multivariate binary logistic regression analyses showed that the log BNP and BNP ratio were associated with the rapid progression of AS (p &lt; 0.050 for all).
+CONCLUSIONS: Higher BNP was independently associated with the rapid progression of AS.
+
+Citation: Han K, et al. Association of B-type natriuretic peptide with rapid progression in patients with aortic stenosis. Association of B-type natriuretic peptide with rapid progression in patients with aortic stenosis. 2022; 23:75. doi: 10.31083/j.rcm2302075
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35229566/

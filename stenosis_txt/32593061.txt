@@ -1,0 +1,11 @@
+PMID: 32593061
+Title: Classification of heart sound signals using a novel deep WaveNet model.
+
+Abstract: BACKGROUND AND OBJECTIVES: The high mortality rate and increasing prevalence of heart valve diseases globally warrant the need for rapid and accurate diagnosis of such diseases. Phonocardiogram (PCG) signals are used in this study due to the low cost of obtaining the signals. This study classifies five types of heart sounds, namely normal, aortic stenosis, mitral valve prolapse, mitral stenosis, and mitral regurgitation.
+METHODS: We have proposed a novel in-house developed deep WaveNet model for automated classification of five types of heart sounds. The model is developed using a total of 1000 PCG recordings belonging to five classes with 200 recordings in each class.
+RESULTS: We have achieved a training accuracy of 97% for the classification of heart sounds into five classes. The highest classification accuracy of 98.20% was achieved for the normal class. The developed model was validated with a 10-fold cross-validation, thus affirming its robustness.
+CONCLUSION: The study results clearly indicate that the developed model is able to classify five types of heart sounds accurately. The developed system can be used by cardiologists to aid in the detection of heart valve diseases in patients.
+
+Citation: Oh SL, et al. Classification of heart sound signals using a novel deep WaveNet model. Classification of heart sound signals using a novel deep WaveNet model. 2020; 196:105604. doi: 10.1016/j.cmpb.2020.105604
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32593061/

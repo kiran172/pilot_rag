@@ -1,0 +1,11 @@
+PMID: 32066613
+Title: Left ventricular filling pressure and survival following aortic valve replacement for severe aortic stenosis.
+
+Abstract: OBJECTIVE: To determine whether echocardiography-derived left ventricular filling pressure influences survival in patients with severe aortic stenosis (AS) undergoing aortic valve replacement (AVR).
+METHODS: We retrospectively reviewed 1383 consecutive patients with severe AS, normal ejection fraction and interpretable filling pressure undergoing AVR. Left ventricular filling pressure was determined according to current guidelines using mitral inflow, mitral annular tissue Doppler, estimated right ventricular systolic pressure and left atrial volume index. Cox proportional hazards regression was used to assess the influence of various parameters on mortality.
+RESULTS: Age was 75±10 years and 552 (40%) were female. Left ventricular filling pressure was normal in 325 (23%), indeterminate in 463 (33%) and increased in 595 (43%). Mean follow-up was 7.3±3.7 years, and mortality was 1.2%, 4.2% and 18.9% at 30 days and 1 and 5 years, respectively. Compared with patients with normal filling pressure, patients with increased filling pressure were older (78±9 vs 70±12, p<0.001), more often female (45% vs 35%, p=0.002) and were more likely to have New York Heart Association class III-IV symptoms (35% vs 24%, p=0.004), coronary artery disease (55% vs 42%, p<0.001) and concentric left ventricular hypertrophy (63% vs 37%, p<0.001). After correction for other factors, increased left ventricular filling pressure remained an independent predictor of mortality after successful AVR (adjusted HR 1.45 (95% CI 1.16 to 1.81), p=0.005).
+CONCLUSIONS: Preoperative increased left ventricular filling pressure is common in patients with AS undergoing AVR and has important prognostic implications, regardless of symptom status. Future prospective studies should consider whether patients with increased filling pressure would benefit from earlier operation.
+
+Citation: Thaden JJ, et al. Left ventricular filling pressure and survival following aortic valve replacement for severe aortic stenosis. Left ventricular filling pressure and survival following aortic valve replacement for severe aortic stenosis. 2020; 106:830-837. doi: 10.1136/heartjnl-2019-315908
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32066613/

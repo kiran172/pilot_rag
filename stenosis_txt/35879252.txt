@@ -1,0 +1,11 @@
+PMID: 35879252
+Title: Evaluation of Non-infarct-Related Arteries Using C-11 Acetate PET in STEMI With Multivessel Disease.
+
+Abstract: BACKGROUND: We analyzed whether C-11 acetate positron emission tomography (PET) can be used for the evaluation of non-infarct-related artery (NIRA) in patients with ST-elevation myocardial infarction (STEMI) and multivessel disease.
+METHODS: We prospectively enrolled 31 patients with STEMI and at least one NIRA stenosis (diameter stenosis [DS] ≥ 50%). C-11 acetate PET was performed after successful revascularization for the infarct-related artery (IRA). Myocardial blood flow (MBF) and oxidative metabolism (k<sub>mono</sub>) were measured and compared between NIRA vs. IRA, stenotic (DS ≥ 50%) vs. non-stenotic (DS &lt; 50%) NIRAs, and NIRAs with significant stenosis (DS ≥ 70% or fractional flow reserve [FFR] ≤ 0.80) vs. those without (neither DS ≥ 70% nor FFR ≤ 0.80). The correlations between PET and angiographic parameters were also analyzed.
+RESULTS: MBF and k<sub>mono</sub> were significantly higher in NIRAs than those in IRAs. Stenotic NIRAs showed significantly reduced stress MBF, myocardial flow reserve (MFR), relative flow reserve (RFR) (0.72 ± 0.12 vs. 0.82 ± 0.14; p = 0.001), and stress k<sub>mono</sub>, as compared to those in non-stenotic NIRAs. NIRAs with significant stenosis had significantly lower stress MBF, MFR, and RFR (0.70 ± 0.10 vs. 0.80 ± 0.14; p = 0.001). RFR showed the best, but modest linear correlation with DS of NIRA stenosis (r = -0.429, p = 0.001). RFR &gt; 0.81 could effectively exclude the presence of significant NIRA stenosis.
+CONCLUSIONS: C-11 acetate PET could be a feasible alternative noninvasive modality in patients with STEMI and multivessel disease, by excluding the presence of significant NIRA stenosis.
+
+Citation: Cho SG, et al. Evaluation of Non-infarct-Related Arteries Using C-11 Acetate PET in STEMI With Multivessel Disease. Evaluation of Non-infarct-Related Arteries Using C-11 Acetate PET in STEMI With Multivessel Disease. 2022; 30:169-180. doi: 10.4250/jcvi.2021.0189
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35879252/

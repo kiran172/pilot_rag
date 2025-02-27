@@ -1,0 +1,12 @@
+PMID: 31812459
+Title: Feature tracking computed tomography-derived left ventricular global longitudinal strain in patients with aortic stenosis: a comparative analysis with echocardiographic measurements.
+
+Abstract: BACKGROUND: Left ventricular (LV) systolic function is a prognostic factor in patients with severe aortic stenosis (AS). Multi-detector row computed tomography (MDCT) data are key in the evaluation of patients undergoing transcatheter aortic valve implantation (TAVI) and when acquired retrospectively, LV systolic function can be assessed. Novel software permits assessment of LV global longitudinal strain (GLS) from MDCT data.
+OBJECTIVES: The present study investigated the feasibility of feature tracking MDCT-derived LV GLS and its agreement with echocardiographic LV GLS in patients treated with TAVI.
+METHODS: LV GLS was measured on transthoracic echocardiography using speckle tracking analysis and on dynamic MDCT using feature tracking technology. Agreement between the measurements of two different modalities was assessed using Bland-Altman analysis.
+RESULTS: A total of 214 patients (51% male, mean age: 80 ± 7 years) were analysed. Mean LV GLS on echocardiography was -13.91 ± 4.32%, whereas mean feature tracking MDCT-derived GLS was -12.46 ± 3.97%. Correlation of measurements between feature tracking MDCT-derived LV GLS and echocardiographic LV GLS demonstrated a large effect size (r = 0.791, p < 0.001). On Bland-Altman analysis, feature tracking MDCT-derived strain analysis underestimated LV GLS compared to echocardiography with a mean difference of 1.44% (95% limits of agreement -3.85% - 6.73%).
+CONCLUSIONS: Assessment of LV GLS on dynamic feature tracking MDCT data is feasible in TAVI patients. Compared to speckle tracking echocardiography, feature tracking MDCT underestimates the value of LV GLS.
+
+Citation: Gegenava T, et al. Feature tracking computed tomography-derived left ventricular global longitudinal strain in patients with aortic stenosis: a comparative analysis with echocardiographic measurements. Feature tracking computed tomography-derived left ventricular global longitudinal strain in patients with aortic stenosis: a comparative analysis with echocardiographic measurements. 2020; 14:240-245. doi: 10.1016/j.jcct.2019.11.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31812459/

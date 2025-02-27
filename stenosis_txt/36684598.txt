@@ -1,0 +1,11 @@
+PMID: 36684598
+Title: Role of follistatin-like 1 levels and functions in calcific aortic stenosis.
+
+Abstract: BACKGROUND: Calcific aortic valve disease (CAVD) is a progressive disease resulting in severe calcific aortic stenosis (AS), and there is increasing interest in the discovery of novel biomarkers to identify patients with potential future calcific AS at an early stage. This study aimed to determine whether follistatin-like 1 (FSTL1) is associated with calcific AS events and its exact role in aortic valve calcification.
+METHODS: A prospective observational cohort study involving 656 patients was performed to investigate the relationship between serum FSTL1 and calcific AS incidence during a follow-up of 5 years. Furthermore, we detected FSTL1 levels in valvular interstitial cells (VICs) from calcified valves and explored the effects of FSTL1 on VIC osteogenic differentiation in vitro as well as the signaling pathways involved.
+RESULTS: During a median follow-up of 5 years, lower FSTL1 levels were associated with a significantly higher risk of calcific AS events (log rank test, P = 0.007). In addition, Cox multivariable regression analyses verified the predictive value of FSTL1 after adjusting for both demographic features and laboratory confounders. Consistent with our results for serum, a lower concentration of FSTL1 was observed in calcified human valves (n = 11) and mainly colocalized with VICs. Recombinant human FSTL1 (rhFSTL1) stimulation inhibited calcium deposition, alkaline phosphatase (ALP) activity, and osteogenic gene expression partly through the downregulation of the ERK1/2 pathway.
+CONCLUSION: Taken together, this study provides a strong rationale to consider FSTL1 as a potential therapeutic target for calcific AS.
+
+Citation: Zhang Q, et al. Role of follistatin-like 1 levels and functions in calcific aortic stenosis. Role of follistatin-like 1 levels and functions in calcific aortic stenosis. 2022; 9:1050310. doi: 10.3389/fcvm.2022.1050310
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36684598/

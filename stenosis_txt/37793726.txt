@@ -1,0 +1,11 @@
+PMID: 37793726
+Title: Using Augmented Mean Arterial Pressure to Identify High Mortality Risk Patients With Moderate Aortic Stenosis.
+
+Abstract: OBJECTIVE: To study the usefulness of a novel echocardiographic marker, augmented mean arterial pressure (AugMAP = [(mean aortic valve gradient + systolic blood pressure) + (2 × diastolic blood pressure)] / 3), in identifying high-risk patients with moderate aortic stenosis (AS).
+PATIENTS AND METHODS: Adults with moderate AS (aortic valve area, 1.0-1.5 cm2) at Mayo Clinic sites from January 1, 2010, through December 31, 2020, were identified. Baseline demographic, echocardiographic, and all-cause mortality data were retrieved. Patients were grouped into higher and lower AugMAP groups using a cutoff value of 80 mm Hg for analysis. Kaplan-Meier and Cox regression models were used to assess the performance of AugMAP.
+RESULTS: A total of 4563 patients with moderate AS were included (mean ± SD age, 73.7±12.5 years; 60.5% men). Median follow-up was 2.5 years; 36.0% of patients died. The mean ± SD left ventricular ejection fraction (LVEF) was 60.1%±11.4%, and the mean ± SD AugMAP was 99.1±13.1 mm Hg. Patients in the lower AugMAP group, with either preserved or reduced LVEF, had significantly worse survival performance (all P<.001). Multivariate Cox regression showed that AugMAP (hazard ratio, 0.962; 95% CI, 0.942 to 0.981 per 5-mm Hg increase; P<.001) and AugMAP less than 80 mm Hg (hazard ratio, 1.477; 95% CI, 1.241 to 1.756; P<.001) were independently associated with all-cause mortality.
+CONCLUSION: AugMAP is a simple and effective echocardiographic marker to identify high-risk patients with moderate AS independent of LVEF. It can potentially be used in the candidate selection process if moderate AS becomes indicated for aortic valve intervention in the future.
+
+Citation: Chao CJ, et al. Using Augmented Mean Arterial Pressure to Identify High Mortality Risk Patients With Moderate Aortic Stenosis. Using Augmented Mean Arterial Pressure to Identify High Mortality Risk Patients With Moderate Aortic Stenosis. 2023; 98:1501-1514. doi: 10.1016/j.mayocp.2023.02.028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37793726/

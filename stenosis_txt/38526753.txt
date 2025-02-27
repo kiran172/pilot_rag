@@ -1,0 +1,11 @@
+PMID: 38526753
+Title: Diagnostic accuracy of Murray law-based quantitative flow ratio in patients with severe aortic stenosis undergoing transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Murray law-based quantitative flow ratio (μQFR) is a novel computational method that enables accurate estimation of fractional flow reserve (FFR) using a single angiographic projection. However, its diagnostic value in patients with severe aortic stenosis (AS) remains unclear.
+METHOD: We included 25 consecutive patients who underwent transcatheter aortic valve replacement (TAVR) for severe AS with intermediate or greater (30-90%) coronary artery disease (CAD). Pre- and post-TAVR μQFR, QFR, instantaneous flow reserve (iFR), and post-TAVR invasive FFR values were measured. We evaluated the diagnostic performance of pre-TAVR μQFR, QFR, and iFR using post-TAVR FFR ≤ 0.80 as a reference standard of ischemia.
+RESULT: Pre-TAVR μQFR was significantly correlated with post-TAVR FFR (r = 0.73, p < 0.0001). The area under the curve of pre-TAVR μQFR on post-TAVR FFR ≤ 0.8 was 0.91 (95% confidence interval [CI] 0.77-0.98), comparable to that of pre-TAVR iFR (0.86 [95% CI 0.71-0.98], p = 0.97). The accuracy, sensitivity, specificity, and positive and negative predictive values of pre-TAVR μQFR on post-TAVR FFR ≤ 0.8 were 84.2% (95% CI 68.7-93.4), 61.6% (95% CI 31.6-86.1), 96.0% (95% CI 79.6-99.9), 88.9% (95% CI 52.9-98.3), and 82.8% (95% CI 70.6-90.6), respectively. For pre-TAVR iFR, these values were 76.5% (95% CI 58.8-89.3), 90.9% (95% CI 58.7-99.8), 69.6% (95% CI 47.1-86.8), 58.8% (95% CI 42.8-73.1), and 94.1% (95% CI 70.8-99.1), respectively.
+CONCLUSION: μQFR could be useful for the physiological evaluation of patients with severe AS with concomitant CAD.
+
+Citation: Yuta F, et al. Diagnostic accuracy of Murray law-based quantitative flow ratio in patients with severe aortic stenosis undergoing transcatheter aortic valve replacement. Diagnostic accuracy of Murray law-based quantitative flow ratio in patients with severe aortic stenosis undergoing transcatheter aortic valve replacement. 2024; 39:735-745. doi: 10.1007/s00380-024-02387-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38526753/

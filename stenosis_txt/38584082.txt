@@ -1,0 +1,12 @@
+PMID: 38584082
+Title: Temporal trends in outcomes following inpatient transcatheter aortic valve replacement.
+
+Abstract: INTRODUCTION: Despite the growing adoption of transcatheter aortic valve replacement (TAVR), there remains a lack of clinical data evaluating procedural safety and discharge practices.
+AIMS: This study aims to investigate if there have been improvements in postoperative clinical outcomes following TAVR.
+METHODS: In this large-scale, retrospective cohort study, patients who underwent TAVR as an inpatient were identified from 2016 to 2020 using the National Readmissions Database. The primary outcome was temporal trends in the rates of discharge to home. Secondary endpoints assessed annual discharge survival rates, 30-day readmissions, length of stay, and periprocedural cardiac arrest rates.
+RESULTS: Over the 5-year study period, a total of 31,621 inpatient TAVR procedures were identified. Of these, 79.2 % of patients were successfully discharged home with home disposition increasing year-over-year from 74.5 % in 2016 to 85.9 % in 2020 (Odds ratio: 2.01; 95 % CI 1.62-2.48, p < 0.001). The mean annual discharge survival rate was 97.7 % which did not change significantly over the 5-year study period (p = 0.551). From 2016 to 2020, 30-day readmissions decreased from 14.0 % to 10.3 %, respectively (p = 0.028). Perioperative cardiac arrest occurred in 1.8 % (n = 579) of cases with rates remaining unchanged during the study (p = 0.674).
+CONCLUSION: Most TAVR patients are successfully discharged alive and home, with decreasing 30-day readmissions observed over recent years. This data suggests potential improvements in preoperative planning, procedural safety, and postoperative care. Despite perioperative cardiac arrest being associated with high mortality, it remains a relatively rare complication of TAVR.
+
+Citation: Imburgio S, et al. Temporal trends in outcomes following inpatient transcatheter aortic valve replacement. Temporal trends in outcomes following inpatient transcatheter aortic valve replacement. 2024; 67:31-38. doi: 10.1016/j.carrev.2024.04.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38584082/

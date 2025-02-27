@@ -1,0 +1,11 @@
+PMID: 38646188
+Title: The association between O<sub>2</sub>-pulse slope ratio and functional severity of coronary stenosis: A combined cardiopulmonary exercise testing and quantitative flow ratio study.
+
+Abstract: BACKGROUND: The role of cardiopulmonary exercise testing (CPET) parameters in evaluating the functional severity of coronary disease remains unclear. The aim of this study was to quantify the O<sub>2</sub>-pulse morphology and investigate its relevance in predicting the functional severity of coronary stenosis, using Murray law-based quantitative flow ratio (μQFR) as the reference.
+METHODS: CPET and μQFR were analyzed in 138 patients with stable coronary artery disease (CAD). The O<sub>2</sub>-pulse morphology was quantified through calculating the O<sub>2</sub>-pulse slope ratio. The presence of O<sub>2</sub>-pulse plateau was defined according to the best cutoff value of O<sub>2</sub>-pulse slope ratio for predicting μQFR ≤ 0.8.
+RESULTS: The optimal cutoff value of O<sub>2</sub>-pulse slope ratio for predicting μQFR ≤ 0.8 was 0.4, with area under the curve (AUC) of 0.632 (95 % CI: 0.505-0.759, p = 0.032). The total discordance rate between O<sub>2</sub>-pulse slope ratio and μQFR was 27.5 %, with 13 patients (9.4 %) being classified as mismatch (O<sub>2</sub>-pulse slope ratio &gt; 0.4 and μQFR ≤ 0.8) and 25 patients being classified as reverse-mismatch (O<sub>2</sub>-pulse slope ratio ≤ 0.4 and μQFR &gt; 0.8). Angiography-derived microvascular resistance was independently associated with mismatch (OR 0.07; 95 % CI: 0.01-0.38, p = 0.002) and reverse-mismatch (OR 9.76; 95 % CI: 1.47-64.82, p = 0.018).
+CONCLUSION: Our findings demonstrate the potential of the CPET-derived O<sub>2</sub>-pulse slope ratio for assessing myocardial ischemia in stable CAD patients.
+
+Citation: Geng L, et al. The association between O<sub>2</sub>-pulse slope ratio and functional severity of coronary stenosis: A combined cardiopulmonary exercise testing and quantitative flow ratio study. The association between O<sub>2</sub>-pulse slope ratio and functional severity of coronary stenosis: A combined cardiopulmonary exercise testing and quantitative flow ratio study. 2024; 52:101409. doi: 10.1016/j.ijcha.2024.101409
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38646188/

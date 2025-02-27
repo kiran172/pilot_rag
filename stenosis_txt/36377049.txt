@@ -1,0 +1,12 @@
+PMID: 36377049
+Title: Association of risk stratification score with dialysis vascular access stenosis.
+
+Abstract: BACKGROUNDS: Clinical monitoring is the recommended standard for identifying dialysis access dysfunction; however, clinical monitoring requires skill and training, which is challenging for understaffed clinics and overburdened healthcare personnel. A vascular access risk stratification score was recently proposed to assist in detecting dialysis access dysfunction.
+PURPOSE: Our objective was to evaluate the utility of using vascular access risk scores to assess venous stenosis in hemodialysis vascular accesses.
+METHODS: We prospectively enrolled adult patients who were receiving hemodialysis through an arteriovenous access and who had a risk score ⩽3 (low-risk) or ⩾8 (high-risk). We compared the occurrence of access stenosis (>50% on ultrasonography or angiography) between low-risk and high-risk groups and assessed clinical monitoring results for each group.
+RESULTS: Of the 38 patients analyzed (18 low-risk; 20 high-risk), 16 (42%) had significant stenosis. Clinical monitoring results were positive in 39% of the low-risk and 60% of the high-risk group (p = 0.19). The high-risk group had significantly higher occurrence of stenosis than the low-risk group (65% vs 17%; p = 0.003). Sensitivity and specificity of a high score for identifying stenosis were 81% and 68%, respectively. The positive predictive value of a high-risk score was 65%, and the negative predictive value was 80%. Only 11 (58%) of 19 subjects with positive clinical monitoring had significant stenosis. In a multivariable model, the high-risk group had seven-fold higher odds of stenosis than the low-risk group (aOR = 7.38; 95% CI, 1.44-37.82; p = 0.02). Positive clinical monitoring results and previous stenotic history were not associated with stenosis. Every unit increase in the score was associated with 34% higher odds of stenosis (aOR = 1.34; 95% CI, 1.05-1.70; p = 0.02).
+CONCLUSIONS: A calculated risk score may help predict the development of hemodialysis vascular access stenosis and may provide a simple and reliable objective measure for risk stratification.
+
+Citation: Kumbar L, et al. Association of risk stratification score with dialysis vascular access stenosis. Association of risk stratification score with dialysis vascular access stenosis. 2024; 25:826-833. doi: 10.1177/11297298221136592
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36377049/

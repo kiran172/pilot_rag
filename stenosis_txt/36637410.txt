@@ -1,0 +1,10 @@
+PMID: 36637410
+Title: Machine learning for prediction of all-cause mortality after transcatheter aortic valve implantation.
+
+Abstract: AIMS: Prediction of adverse events in mid-term follow-up after transcatheter aortic valve implantation (TAVI) is challenging. We sought to develop and validate a machine learning model for prediction of 1-year all-cause mortality in patients who underwent TAVI and were discharged following the index procedure.
+METHODS AND RESULTS: The model was developed on data of patients who underwent TAVI at a high-volume centre between January 2013 and March 2019. Machine learning by extreme gradient boosting was trained and tested with repeated 10-fold hold-out testing using 34 pre- and 25 peri-procedural clinical variables. External validation was performed on unseen data from two other independent high-volume TAVI centres. Six hundred four patients (43% men, 81 ± 5 years old, EuroSCORE II 4.8 [3.0-6.3]%) in the derivation and 823 patients (46% men, 82 ± 5 years old, EuroSCORE II 4.7 [2.9-6.0]%) in the validation cohort underwent TAVI and were discharged home following the index procedure. Over the 12 months of follow-up, 68 (11%) and 95 (12%) subjects died in the derivation and validation cohorts, respectively. In external validation, the machine learning model had an area under the receiver-operator curve of 0.82 (0.78-0.87) for prediction of 1-year all-cause mortality following hospital discharge after TAVI, which was superior to pre- and peri-procedural clinical variables including age 0.52 (0.46-0.59) and the EuroSCORE II 0.57 (0.51-0.64), P < 0.001 for a difference.
+CONCLUSION: Machine learning based on readily available clinical data allows accurate prediction of 1-year all-cause mortality following a successful TAVI.
+
+Citation: Kwiecinski J, et al. Machine learning for prediction of all-cause mortality after transcatheter aortic valve implantation. Machine learning for prediction of all-cause mortality after transcatheter aortic valve implantation. 2023; 9:768-777. doi: 10.1093/ehjqcco/qcad002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36637410/

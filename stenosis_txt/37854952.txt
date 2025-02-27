@@ -1,0 +1,12 @@
+PMID: 37854952
+Title: Echocardiographic Progression of Peak Tricuspid Regurgitant Velocity Among Medicare Beneficiaries.
+
+Abstract: BACKGROUND: Peak tricuspid regurgitant velocity (TRV) on transthoracic echocardiography (TTE) is a commonly obtained parameter and robust predictor of subsequent adverse clinical outcomes.
+OBJECTIVES: The purpose of this study was to determine the predictors and clinical significance of TRV progression.
+METHODS: We retrospectively linked consecutive outpatient TTE reports from our institution to 2005 to 2017 Medicare claims. Individuals with prior tricuspid surgery, endocarditis, tricuspid stenosis, missing TRV values, TTEs performed during inpatient hospitalization, or <2 TTEs were excluded.
+RESULTS: A total of 4,572 patients (mean age 67.8 ± 11.9 years, 50.4% female) received 13,273 TTEs over a median follow-up of 7.4 (IQR: 4.5-6.9) years. TRV increased by a mean of 0.23 (95% CI: 0.22 to 0.23 m/s/y, P &lt; 0.001) (range, 0.01-0.80 m/s/y). Older age, depressed left ventricular ejection fraction, diabetes, hypertension, hyperlipidemia, atrial fibrillation, heart failure, and chronic kidney disease were associated with faster progression (all P &lt; 0.05). Accounting for 23 demographic, clinical, and TTE variables, faster TRV progression was associated with a stepwise increased risk of all-cause mortality (TRV progression quartile 4 vs 1; adjusted HR: 2.17; 95% CI: 1.74-2.71; P &lt; 0.001). Those with regression of TRV (n = 384 [8.4%]) had a lower mortality risk (adjusted HR: 0.40; 95% CI: 0.28-0.57; P &lt; 0.001).
+CONCLUSIONS: In this large, multidecade study of Medicare beneficiaries with serial TTEs performed in the outpatient setting, the mean rate of TRV progression was 0.23 m/s/y. Older age, left heart disease, and adverse metabolic features were associated with faster progression. Faster progression was associated with a graded risk for all-cause mortality.
+
+Citation: Kholdani CA, et al. Echocardiographic Progression of Peak Tricuspid Regurgitant Velocity Among Medicare Beneficiaries. Echocardiographic Progression of Peak Tricuspid Regurgitant Velocity Among Medicare Beneficiaries. 2023; 2:(unknown pages). doi: 10.1016/j.jacadv.2023.100579
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37854952/

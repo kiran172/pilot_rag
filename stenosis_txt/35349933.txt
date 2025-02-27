@@ -1,0 +1,12 @@
+PMID: 35349933
+Title: Identification of high-risk carotid plaque by using carotid perivascular fat density on computed tomography angiography.
+
+Abstract: BACKGROUND: Perivascular fat attenuation index is considered a sensitive biomarker of vulnerable coronary plaques. However, its application in studying the carotid artery are unknown.
+PURPOSE: This study aimed to explore the association between cerebrovascular symptoms and carotid attenuation density of perivascular adipose tissue (PVAT) on computed tomography angiography (CTA).
+METHODS: A total of 206 participants (mean age, 63.9 ± 7.9 years, 145 men) who underwent CTA were retrospectively analyzed. Perivascular fat density (PFD) was evaluated via CTA. The association between PFD and the occurrence of cerebrovascular symptoms was examined via generalized estimating equations and receiver operating characteristic analysis.
+RESULTS: Among the 206 subjects, 49.5% (plaques were observed in 102 patients) presented cerebrovascular symptoms. Plaques with symptoms (-55.0 ± 10.0 Hounsfield units [HU]) had a higher PFD than those without symptoms (-68.0 ± 10.3 HU) (p < 0.001). After adjusting for hyperlipidemia, statin use, antiplatelet use, calcification, degree of luminal stenosis, maximum plaque thickness, and ulceration, PFD was found to be strongly associated with cerebrovascular symptoms (OR, 1.13; 95% CI, 1.07-1.19; p < 0.001). Receiver operating characteristic analysis revealed an area under the curve of 0.81 by using PFD measurements to discriminate between symptomatic and asymptomatic plaques with a sensitivity of 87.3% and a specificity of 60.6%.
+CONCLUSIONS: An increase in attenuation density of PVAT on CTA was found to be related to an increase in the risks of cerebrovascular symptoms. PFD might serve as an imaging marker of symptomatic carotid plaques.
+
+Citation: Zhang S, et al. Identification of high-risk carotid plaque by using carotid perivascular fat density on computed tomography angiography. Identification of high-risk carotid plaque by using carotid perivascular fat density on computed tomography angiography. 2022; 150:110269. doi: 10.1016/j.ejrad.2022.110269
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35349933/

@@ -1,0 +1,16 @@
+PMID: 36483991
+Title: Cardiac Valve Disease and Prevalent and Incident CKD in Community-Dwelling Older Adults: The Atherosclerosis Risk in Communities (ARIC) Study.
+
+Abstract: RATIONALE & OBJECTIVE: Recent literature suggests improvement in kidney function after percutaneous valvular replacement therapies, implying a pathophysiological contribution of valvular heart disease to chronic kidney disease (CKD). However, this association has not been investigated epidemiologically. We aimed to assess the association of valvular abnormality with prevalent and incident CKD.
+STUDY DESIGN: Cross-sectional and prospective analyses.
+SETTING & PARTICIPANTS: Community-dwelling participants (mean age 75.5 [standard deviation 5.1] years) from the Atherosclerosis Risk in Communities study (2011-2013).
+EXPOSURE: Valvular abnormality defined as echocardiography-based aortic stenosis, aortic regurgitation, and mitral regurgitation.
+OUTCOMES: Prevalent CKD was defined as estimated glomerular filtration rate (eGFR]) &lt;60 mL/min/1.73 m2. Incident CKD was defined as progression to eGFR &lt;60 mL/min/1.73 m2 with ≥25% decline or hospitalization/deaths with CKD diagnosis.
+ANALYTICAL APPROACH: We cross-sectionally evaluated the association between valvular abnormality and prevalent CKD with logistic regression in 5,216 participants. Then, 3,752 participants without prevalent CKD were analyzed for incident CKD using Cox models.
+RESULTS: There were 1.4% (n = 74) with any aortic stenosis, 10.6% (n = 555) with any aortic regurgitation, and 43.1% (n = 2,249) with any mitral regurgitation. After adjustment for potential confounders, any mitral regurgitation and moderate/severe aortic regurgitation showed significant associations with prevalent CKD (adjusted OR, 1.17 [95% CI, 1.03-1.34] and 2.82 [95% CI, 1.12-7.10]), as did any aortic stenosis in a sensitivity analysis with prevalent CKD defined including albuminuria ≥30 mg/g (1.83 [95% CI, 1.10-3.05]). Only any aortic stenosis showed an independent association with incident CKD (adjusted HR, 2.12 [95% CI, 1.13-4.00]).
+LIMITATIONS: Despite a relatively large study population, some subgroups had small numbers. Although we minimized reverse causation, we cannot completely rule it out.
+CONCLUSIONS: Different valvular abnormality types were associated with prevalent CKD. Only aortic stenosis was robustly associated with incident CKD. These findings suggest an etiological link between valvular abnormality and CKD, highlighting the importance of clinical attention to kidney function in individuals with aortic stenosis.
+
+Citation: Karandikar VM, et al. Cardiac Valve Disease and Prevalent and Incident CKD in Community-Dwelling Older Adults: The Atherosclerosis Risk in Communities (ARIC) Study. Cardiac Valve Disease and Prevalent and Incident CKD in Community-Dwelling Older Adults: The Atherosclerosis Risk in Communities (ARIC) Study. 2022; 4:100559. doi: 10.1016/j.xkme.2022.100559
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36483991/

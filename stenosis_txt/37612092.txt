@@ -1,0 +1,11 @@
+PMID: 37612092
+Title: Alcohol Consumption and Cerebral Small- and Large-Vessel Diseases: A Mendelian Randomization Analysis.
+
+Abstract: AIMS: It remains inconclusive regarding alcohol intake and stroke risk because determining risk factors depends on the specific pathogenesis of stroke. We used the variant rs671 in the aldehyde dehydrogenase 2 gene (ALDH2) as an instrument to investigate the causal role of alcohol intake in cerebral small- and large-vessel diseases.
+METHODS: We studied 682 men (mean age, 70.0 years), without stroke, in a cross-sectional Mendelian randomization analysis. We assessed small-vessel diseases (SVDs), which comprised lacunar infarcts, white matter hyperintensities (WMHs), and cerebral microbleeds, and large intracranial artery stenosis (ICAS) on brain magnetic resonance imaging.
+RESULTS: The median (25%tiles, 75%tiles) alcohol consumption by ALDH2-rs671 inactive A allele (n=313 [45.9%]) and non-A allele (n=369 [54.1%]) carriers was 3.5 (0.0, 16.0) and 32.0 (12.9, 50.0) g/day, respectively. Non-A allele carriers had higher prevalent hypertension and lower low-density lipoprotein cholesterol concentrations than A allele carriers. In age-adjusted ordinal logistic regression for graded burden, odds ratios (95% confidence intervals) for total SVDs, lacunar infarcts, WMHs, cerebral microbleeds, and ICAS in non-Aallele carriers were 1.46 (1.09-1.94), 1.41 (0.95-2.08), 1.39 (1.05-1.85), 1.69 (1.06-2.69), and 0.70 (0.50-0.98), respectively, compared with A allele carriers. These associations attenuated to statistical non-significance after considering covariates and amount of alcohol intake.
+CONCLUSIONS: Our findings suggest a positive association of alcohol consumption with risk of cerebral SVDs and its inverse association with risk of large-vessel disease through intermediaries, such as hypertension or low-density lipoprotein cholesterol. These findings provide insight into potential causal mechanisms linking alcohol consumption with stroke risk.
+
+Citation: Hisamatsu T, et al. Alcohol Consumption and Cerebral Small- and Large-Vessel Diseases: A Mendelian Randomization Analysis. Alcohol Consumption and Cerebral Small- and Large-Vessel Diseases: A Mendelian Randomization Analysis. 2024; 31:135-147. doi: 10.5551/jat.64222
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37612092/

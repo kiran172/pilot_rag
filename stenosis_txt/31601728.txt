@@ -1,0 +1,12 @@
+PMID: 31601728
+Title: Discordances between predicted and actual risk in obese patients with suspected cardiac ischaemia.
+
+Abstract: OBJECTIVES: To test the relationship between increasing severity of obesity, calculated risk and observed outcomes.
+METHODS: Patients with symptoms suggestive of coronary artery disease (CAD) (n=10 003) were stratified according to body mass index (BMI). We compared risk factors, pooled risk scores and physicians' perception of risk. Cox regression tested the association between BMI and (1) presence of obstructive CAD and (2) composite clinical endpoints (death, cardiovascular death, unstable angina hospitalisation and myocardial infarction).
+RESULTS: BMI was ≥30 kg/m2 in 48% of patients and ≥35 in 20%. Increasingly obese patients were younger, female and non-smoking but with higher prevalence of hypertension, diabetes, black race and sedentary lifestyle. Pooled risk estimates of CAD were highest in those with mid-range BMI. In contrast, physicians' estimation of the likelihood of significant CAD based on clinical impression increased progressively with BMI. For a 10% increase in the Diamond-Forrester probability of CAD, the adjusted OR for obstructive CAD was 1.5 (95% CI 1.4 to 1.5) in patients with BMI &lt;35, but only 1.2 (95% CI 1.1 to 1.3) in those with BMI ≥35 (interaction p&lt;0.001). Framingham Risk Score increased across increasing BMI categories. However, there was a strong and consistent inverse relationship between degree of obesity and all three composite clinical endpoints over a median 25 months of follow-up.
+CONCLUSIONS: Despite perceptions of higher risk and higher risk scores, increasingly obese patients had obstructive CAD less frequently than predicted and had fewer adverse clinical outcomes. There is a need for risk assessment tools and guidelines that account for obesity.
+TRIAL REGISTRATION NUMBER: NCT01174550.
+
+Citation: Litwin SE, et al. Discordances between predicted and actual risk in obese patients with suspected cardiac ischaemia. Discordances between predicted and actual risk in obese patients with suspected cardiac ischaemia. 2020; 106:273-279. doi: 10.1136/heartjnl-2018-314503
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31601728/

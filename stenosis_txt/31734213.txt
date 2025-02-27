@@ -1,0 +1,12 @@
+PMID: 31734213
+Title: Prognostic Value of Coronary CTA in Stable Chest Pain: CAD-RADS, CAC, and Cardiovascular Events in PROMISE.
+
+Abstract: OBJECTIVES: The purpose of this study was to compare Coronary Artery Disease Reporting and Data System (CAD-RADS) to traditional stenosis categories and the coronary artery calcium score (CACS) for predicting cardiovascular events in patients with stable chest pain and suspected coronary artery disease (CAD).
+BACKGROUND: The 2016 CAD-RADS has been established to standardize the reporting of CAD on coronary CT angiography (CTA).
+METHODS: PROMISE (Prospective Multicenter Imaging Study for Evaluation of Chest Pain) trial participants' CTAs were assessed by a central CT core laboratory for CACS, traditional stenosis-based categories, and modified CAD-RADS grade including high-risk coronary plaque (HRP) features. Traditional stenosis categories and CAD-RADS grade were compared for the prediction of the composite endpoint of death, myocardial infarction, or hospitalization for unstable angina over a median follow-up of 25 months. Incremental prognostic value over traditional risk factors and CACS was assessed.
+RESULTS: In 3,840 eligible patients (mean age: 60.4 ± 8.2 years; 49% men), 3.0% (115) experienced events. CAD-RADS (concordance statistic [C-statistic] 0.747) had significantly higher discriminatory value than traditional stenosis-based assessments (C-statistic 0.698 to 0.717; all p for comparison ≤0.001). With no plaque (CAD-RADS 0) as the baseline, the hazard ratio (HR) for an event increased from 2.43 (95% confidence interval [CI]: 1.16 to 5.08) for CAD-RADS 1 to 21.84 (95% CI: 8.63 to 55.26) for CAD-RADS 4b and 5. In stepwise nested models, CAD-RADS added incremental prognostic value beyond ASCVD risk score and CACS (C-statistic 0.776 vs. 0.682; p < 0.001), and added incremental value persisted in all CACS strata.
+CONCLUSIONS: These data from a large representative contemporary cohort of patients undergoing coronary CTA for stable chest pain support the prognostic value of CAD-RADS as a standard reporting system for coronary CTA.
+
+Citation: Bittner DO, et al. Prognostic Value of Coronary CTA in Stable Chest Pain: CAD-RADS, CAC, and Cardiovascular Events in PROMISE. Prognostic Value of Coronary CTA in Stable Chest Pain: CAD-RADS, CAC, and Cardiovascular Events in PROMISE. 2020; 13:1534-1545. doi: 10.1016/j.jcmg.2019.09.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31734213/

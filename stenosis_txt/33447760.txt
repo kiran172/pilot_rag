@@ -1,0 +1,11 @@
+PMID: 33447760
+Title: High milk consumption is associated with carotid atherosclerosis in middle and old-aged Chinese.
+
+Abstract: BACKGROUND: Carotid atherosclerosis (CA) can reflect atherosclerotic status of systemic vessels, and is associated with ischemic stroke and cognitive impairment. Milk consumption is growing in China, and data are limited on the association between milk and CA risk.
+METHODS: Participants aged ≥40 years in China National Stroke Prevention Project were recruited for carotid ultrasound examination, and those with carotid endarterectomy, carotid stenting stroke or coronary heart disease were excluded. Participants were defined as having CA when intima-media thickness (IMT) ≥1 mm or plaques were detected by ultrasonography. For milk consumption, though contents were not analyzed, people were divided into high consumption (≥200 ml/day and ≥5 day/week) and low consumption (occasional or never) groups. Multivariate logistics regression analyses were done in both full and propensity score-matched population to identify the association between milk consumption and CA.
+RESULTS: 84880 participants were included in the final analysis. After being adjusted by age, gender, living location, smoking habits, drinking habits, physical activity, obesity, hypertension, diabetes, and dyslipidemia, high milk consumption is associated with CA in both full population (odds ratio [OR] = 1.26, 95% confidence interval [CI] 1.19-1.33) and propensity score-matched population (OR = 1.25, 95%CI 1.17-1.34). High milk consumption is also a risk factor for IMT thickening (OR = 1.15, 95%CI 1.08-1.23), carotid plaque formation (OR = 1.17, 95%CI 1.09-1.25) and carotid stenosis over 50% (OR = 1.52, 95%CI 1.10-2.14) in the propensity score-matched population.
+CONCLUSIONS: High milk consumption is related to CA in middle and old-aged Chinese population. More cautious advice on milk intake should be given in this population for prevention of atherosclerosis.
+
+Citation: He M, et al. High milk consumption is associated with carotid atherosclerosis in middle and old-aged Chinese. High milk consumption is associated with carotid atherosclerosis in middle and old-aged Chinese. 2020; 5:100031. doi: 10.1016/j.ijchy.2020.100031
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33447760/

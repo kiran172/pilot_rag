@@ -1,0 +1,11 @@
+PMID: 38844072
+Title: Superiority of 3D planimetry over pressure half-time method for the assessment of mitral valve area after percutaneous edge-to-edge mitral repair.
+
+Abstract: INTRODUCTION AND OBJECTIVES: There is limited evidence to identify the most accurate method for measuring the mitral valve area (MVA) after percutaneous edge-to-edge mitral repair. Our objective was to evaluate the optimal method in this context and its correlation with the mean transmitral gradient.
+METHODS: A registry of patients undergoing percutaneous mitral repair was conducted, analyzing different methods of measuring MVA and their correlation with the mean gradient.
+RESULTS: We analyzed data from 167 patients. The mean age was 76±10.3 years, 54% were men, and 46% were women. Etiology was degenerative in 45%, functional in 39%, and mixed in 16%. Postclip MVA measurements were 1.89±0.60 cm2 using pressure half-time (PHT), 2.87±0.83 cm2 using 3D planimetry, and the mean gradient was 3±1.19mmHg. MVA using 3D planimetry showed a stronger correlation with the mean gradient (r=0.46, P&lt;.001) than MVA obtained by PHT (r=0.19, P=.048). Interobserver agreement was also higher with 3D planimetry than with PHT (intraclass correlation coefficient of 0.90 vs 0.81 and variation coefficient of 9.6 vs 19.7%, respectively).
+CONCLUSIONS: Our study demonstrates that the PHT method significantly underestimates MVA after clip implantation compared with direct measurement using transesophageal 3D planimetry. The latter method also correlates better with postimplantation gradients and has less interobserver variability. These results suggest that 3D planimetry is a more appropriate method for assessing postclip mitral stenosis.
+
+Citation: Estrada Ledesma M, et al. Superiority of 3D planimetry over pressure half-time method for the assessment of mitral valve area after percutaneous edge-to-edge mitral repair. Superiority of 3D planimetry over pressure half-time method for the assessment of mitral valve area after percutaneous edge-to-edge mitral repair. 2024; 77:919-925. doi: 10.1016/j.rec.2024.03.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38844072/

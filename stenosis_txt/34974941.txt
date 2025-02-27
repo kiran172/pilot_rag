@@ -1,0 +1,11 @@
+PMID: 34974941
+Title: Relationship between epicardial adipose tissue and coronary artery stenoses on computed tomography in patients scheduled for carotid artery revascularization.
+
+Abstract: BACKGROUND: We aimed to clarify the relationship between epicardial adipose tissue (EAT) volume and the presence of severe stenoses (SS) on coronary computed tomography angiography (CTA) for risk stratification of the patients with carotid artery stenoses.
+METHODS: We prospectively performed CTA for 125 consecutive patients (72.4 ± 8.1 years, 85% men) without a history of coronary artery disease (CAD), who were scheduled for carotid artery revascularization from 2014 to 2020. SS was defined as ≥70% luminal stenosis on CTA. EAT was quantified automatically as the total volume of tissue with -190 to -30 HU.
+RESULTS: Of 125 patients, 76 had SS. Between the patients with and without SS, there were significant differences in coronary artery calcium score (CACS), left ventricular ejection fraction (LVEF), dyslipidemia, and EAT, despite no differences in carotid echocardiography findings. After adjustment for age, gender, and dyslipidemia, EAT was an independent factor associated with SS (p=0.011), as well as CACS and LVEF. The addition of EAT to a baseline model including age, gender, dyslipidemia, LVEF, and CACS achieved both net reclassification improvement (0.505, p=0.003) and integrated discrimination improvement (0.059, p=0.003).
+CONCLUSIONS: In patients with carotid stenoses, EAT is associated with CAD and is useful for additional risk stratification. Epicardial fat may have a specific role in the development of CAD in patients with suspected systemic atherosclerosis.
+
+Citation: Sato Y, et al. Relationship between epicardial adipose tissue and coronary artery stenoses on computed tomography in patients scheduled for carotid artery revascularization. Relationship between epicardial adipose tissue and coronary artery stenoses on computed tomography in patients scheduled for carotid artery revascularization. 2022; 79:588-595. doi: 10.1016/j.jjcc.2021.12.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34974941/

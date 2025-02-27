@@ -1,0 +1,11 @@
+PMID: 31901124
+Title: The role of carotid stenosis ultrasound scale in the prediction of ischemic stroke.
+
+Abstract: INTRODUCTION: To improve the accuracy of ultrasound techniques for the assessment of carotid stenosis, we designed a novel carotid artery stenosis ultrasound scale (CASUS), and evaluated its accuracy, reliability, and its value in predicting the occurrence of cardiovascular and cerebrovascular diseases in a prospective study.
+METHODS: A total of 750 patients with first-time ischemic stroke and hospitalized within 24 h were enrolled in the study. Using color Doppler ultrasound (CDUS), the degree of stenosis and blood flow (BF) in bilateral internal carotid arteries (ICA) and the V1-V3 segment of vertebral arteries (VA) was assessed. Cubic simulation curves for BF and global blood flow (GBF) over the stenosis score (SS), total stenosis score (TSS), and radiological imaging- total stenosis score (RI-TSS) were fitted and compared. The receiver operating characteristic (ROC) curves using TSS, RI-TSS, or GBF to predict various ischemic stroke endpoints were also analyzed and compared.
+RESULTS: There was a linear relationship between SS and BF both ICA and VA (R2 were 0.734 and 0.783, respectively, both P < 0.05). Both TSS and RI-TSS with GBF showed an inverse "S" curve relationship (R2 was 0.839 and 0.843, all P < 0.05). The AUC values of TSS-based and RI-TSS-based predictions of each endpoint were all greater than 0.7 (all P < 0.05), but the differences of the AUC values between TSS, RI-TSS, and GBF were not statistically significant (all P > 0.05).
+CONCLUSIONS: The novel CASUS can better reflect the level of cerebral reperfusion in patients with ischemic stroke and can better predict the occurrence of cardiovascular and cerebrovascular diseases.
+
+Citation: Tang Y, et al. The role of carotid stenosis ultrasound scale in the prediction of ischemic stroke. The role of carotid stenosis ultrasound scale in the prediction of ischemic stroke. 2020; 41:1193-1199. doi: 10.1007/s10072-019-04204-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31901124/

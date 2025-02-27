@@ -1,0 +1,11 @@
+PMID: 39160522
+Title: Machine learning model predicts airway stenosis requiring clinical intervention in patients after lung transplantation: a retrospective case-controlled study.
+
+Abstract: BACKGROUND: Patients with airway stenosis (AS) are associated with considerable morbidity and mortality after lung transplantation (LTx). This study aims to develop and validate machine learning (ML) models to predict AS requiring clinical intervention in patients after LTx.
+METHODS: Patients who underwent LTx between January 2017 and December 2019 were reviewed. The conventional logistic regression (LR) model was fitted by the independent risk factors which were determined by multivariate LR. The optimal ML model was determined based on 7 feature selection methods and 8 ML algorithms. Model performance was assessed by the area under the curve (AUC) and brier score, which were internally validated by the bootstrap method.
+RESULTS: A total of 381 LTx patients were included, and 40 (10.5%) patients developed AS. Multivariate analysis indicated that male, pulmonary arterial hypertension, and postoperative 6-min walking test were significantly associated with AS (all P < 0.001). The conventional LR model showed performance with an AUC of 0.689 and brier score of 0.091. In total, 56 ML models were developed and the optimal ML model was the model fitted using a random forest algorithm with a determination coefficient feature selection method. The optimal model exhibited the highest AUC and brier score values of 0.760 (95% confidence interval [CI], 0.666-0.864) and 0.085 (95% CI, 0.058-0.117) among all ML models, which was superior to the conventional LR model.
+CONCLUSIONS: The optimal ML model, which was developed by clinical characteristics, allows for the satisfactory prediction of AS in patients after LTx.
+
+Citation: Tian D, et al. Machine learning model predicts airway stenosis requiring clinical intervention in patients after lung transplantation: a retrospective case-controlled study. Machine learning model predicts airway stenosis requiring clinical intervention in patients after lung transplantation: a retrospective case-controlled study. 2024; 24:229. doi: 10.1186/s12911-024-02635-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39160522/

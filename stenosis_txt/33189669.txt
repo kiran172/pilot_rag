@@ -1,0 +1,11 @@
+PMID: 33189669
+Title: Wnt Signaling Mediates Pro-Fibrogenic Activity in Human Aortic Valve Interstitial Cells.
+
+Abstract: BACKGROUND: Proinflammatory activation of toll-like receptor-4 (TLR4) drives phenotypic changes in aortic valve interstitial cells (AVICs) and produces a fibrogenic phenotype that mediates valvular fibrosis and contributes to aortic stenosis. Prior work identified upregulated Wnt signaling in AVICs taken from valves affected by aortic stenosis. Our purpose was to determine the contribution of Wnt signaling to TLR4-dependent fibrogenic activity in isolated human AVICs.
+METHODS: Human AVICs were isolated from hearts explanted for cardiac transplantation (N = 4). To test whether Wnt signaling contributed to TLR4-dependent fibrogenic activity, AVICs were treated with Wnt inhibitor (Dkk1) prior to TLR4 activation (LPS) and fibrogenic markers assessed. To determine the mediator of TLR4-to-Wnt signaling, expression of the key Wnt ligand, Wnt3a, was assessed after TLR4 activation and neutralizing antibodies confirmed the identity of the mediator. Fibrogenic activity was assessed after AVICs were treated with recombinant Wnt3a. Statistics were by analysis of variance (P < .05).
+RESULTS: TLR4 activation upregulated in vitro collagen deposition, type IV collagen and MMP2 expression, and Dkk1 inhibited these responses (P < .05). Expression of Wnt3a was upregulated after TLR4 activation (P < .05). Anti-Wnt3a neutralizing antibodies abrogated TLR4-dependent type IV collagen and MMP2 expression (P < .05). Wnt3a upregulated type IV collagen and MMP2 expression independent of TLR4 activation (P < .05).
+CONCLUSIONS: This study found that TLR4-dependent fibrogenic activity was mediated through Wnt signaling. The mediator of profibrogenic TLR4-to-Wnt signaling was a key Wnt ligand, Wnt3a. The abrogation of TLR4-induced fibrogenic activity in human AVICs by Wnt blockade illustrates a potential therapeutic role for Wnt inhibition in treatment and/or prevention of aortic stenosis.
+
+Citation: Jarrett MJ, et al. Wnt Signaling Mediates Pro-Fibrogenic Activity in Human Aortic Valve Interstitial Cells. Wnt Signaling Mediates Pro-Fibrogenic Activity in Human Aortic Valve Interstitial Cells. 2021; 112:519-525. doi: 10.1016/j.athoracsur.2020.08.068
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33189669/

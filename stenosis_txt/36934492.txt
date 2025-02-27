@@ -1,0 +1,11 @@
+PMID: 36934492
+Title: Temporal change in repolarization parameters after surgical correction of valvular heart diseases.
+
+Abstract: BACKGROUND: Ventricular tachyarrhythmia is a potentially fatal outcome of cardiac surgery. Abrupt changes in the hemodynamics after surgical correction of valvular heart disease (VHD) can lead to alterations in ventricular repolarization. We compared the difference between temporal changes in repolarization parameters after correction of left-sided VHD.
+METHODS: We retrospectively analyzed the electrograms of patients who underwent surgical correction of isolated VHD between 2006 and 2015 at Asan Medical Center, including mitral stenosis (MS), mitral regurgitation (MR), aortic stenosis (AS), and aortic regurgitation (AR). Ventricular repolarization parameters were measured at pre-specified time intervals after index surgery using a custom-made ECG analysis program. We compared repolarization parameters, including QT and corrected QT intervals, T peak-to-end interval, and corrected T peak-to-end interval.
+RESULTS: Analysis of 8265 ECGs from 2110 patients (266 MS, 1059 MR, 421 AS, and 364 AR) was performed. Patients with AS were characterized by older age and more comorbidities than other VHDs. The corrected QT interval showed a peak value immediately after surgery and decreased thereafter in the AS groups. However, a gradual increase over 1 month after surgery in AR, MS, and MR groups was observed. The corrected T peak-to-end interval increased in the MS and MR groups and was unchanged in the AS and AR groups.
+CONCLUSIONS: The repolarization parameters of surgery changed dynamically after left-sided valvular surgery. Understanding differential temporal change of repolarization parameters according to the type of VHD would help clinicians avoid fatal arrhythmias related to the repolarization changes.
+
+Citation: Cho MS, et al. Temporal change in repolarization parameters after surgical correction of valvular heart diseases. Temporal change in repolarization parameters after surgical correction of valvular heart diseases. 2023; 79:46-52. doi: 10.1016/j.jelectrocard.2023.02.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36934492/

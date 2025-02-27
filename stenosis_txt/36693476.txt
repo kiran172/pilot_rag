@@ -1,0 +1,11 @@
+PMID: 36693476
+Title: Comparison of vessel fractional flow reserve with invasive resting full-cycle ratio in patients with intermediate coronary lesions.
+
+Abstract: BACKGROUND: Vessel fractional flow reserve (vFFR) is a novel angiography-derived index for the assessment of myocardial ischemia without the need for pressure wires and hyperemic agents. vFFR has demonstrated very good diagnostic performance compared with the hyperemic index fractional flow reserve (FFR). The aim of this study was to compare vFFR to the non-hyperemic pressure ratio resting full-cycle ratio (RFR).
+METHODS: This was a retrospective, observational, single-center study of an all-comer cohort undergoing RFR assessment. Invasive coronary angiography was obtained without a dedicated vFFR acquisition protocol, and vFFR calculation was attempted in all vessels interrogated by RFR (1483 lesions of 1030 patients).
+RESULTS: vFFR could be analyzed in 986 lesions from 705 patients. Median diameter stenosis was 37% (interquartile range (IQR): 30.0-44.0%), vFFR 0.86 (IQR: 0.81-0.91) and RFR 0.94 (IQR: (0.90-0.97). The correlation between vFFR and RFR was strong (r = 0.70, 95% confidence interval (CI): 0.66-0.74, p < 0.001). Using RFR ≤0.89 as reference, the sensitivity, specificity, positive predictive value, negative predictive value, and overall diagnostic accuracy for vFFR were 77%, 93%, 77%, and 92% and 89%. vFFR yielded a high area under the curve (AUC) of 0.92 (95% CI: 0.90-0.94). The good diagnostic performance of vFFR was confirmed among subgroups of patients with diabetes, severe aortic stenosis, female gender and lesions located in the left anterior descending artery.
+CONCLUSION: vFFR has a high diagnostic performance taking RFR as the reference standard for evaluating the functional significance of coronary stenoses.
+
+Citation: Lake P, et al. Comparison of vessel fractional flow reserve with invasive resting full-cycle ratio in patients with intermediate coronary lesions. Comparison of vessel fractional flow reserve with invasive resting full-cycle ratio in patients with intermediate coronary lesions. 2023; 377:1-8. doi: 10.1016/j.ijcard.2023.01.062
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36693476/

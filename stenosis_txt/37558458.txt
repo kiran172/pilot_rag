@@ -1,0 +1,10 @@
+PMID: 37558458
+Title: Extracellular Volume Fraction by Computed Tomography Predicts Prognosis After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Extracellular volume fraction (ECV) on magnetic resonance imaging can predict prognosis after aortic valve replacement in patients with aortic stenosis (AS). However, the usefulness of ECV on computed tomography (CT) for patients who have undergone transcatheter aortic valve replacement (TAVR) is unclear, so we investigated whether ECV analysis on CT is associated with clinical outcomes in TAVR candidates.
+METHODS AND RESULTS: We analyzed 127 patients with severe AS who underwent preoperative CT for TAVR. We evaluated the utility of ECV analysis on single-energy CT for predicting patient prognosis after TAVR. The primary outcome was a composite of all-cause death and hospitalization due to heart failure (HF) after TAVR. 15 patients (12%) had composite outcomes: 4 deaths and 11 hospitalizations due to HF. In multivariate survival analysis using the Cox proportional hazard model, atrial fibrillation (AF) (hazard ratio (HR), 7.86; 95% confidence interval (CI), 2.57-24.03; P<0.001), history of congestive HF (HR, 4.91; 95% CI, 1.49-16.2; P=0.009) and ECV ≥32.6% on CT (HR, 6.96; 95% CI, 1.92-25.12; P=0.003) were independent predictors of composite outcomes. On Kaplan-Meier analysis, the higher ECV group (≥32.6%) had a significantly greater number of composite outcomes than the lower ECV group (P<0.001).
+CONCLUSIONS: ECV on CT is an independent predictor of prognosis after TAVR.
+
+Citation: Takahashi M, et al. Extracellular Volume Fraction by Computed Tomography Predicts Prognosis After Transcatheter Aortic Valve Replacement. Extracellular Volume Fraction by Computed Tomography Predicts Prognosis After Transcatheter Aortic Valve Replacement. 2024; 88:492-500. doi: 10.1253/circj.CJ-23-0288
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37558458/

@@ -1,0 +1,10 @@
+PMID: 39081940
+Title: Mixing properties of coronary infusion catheters assessed by in vitro experiments and computational fluid dynamics.
+
+Abstract: AIMS: Continuous infusion thermodilution is an established technique for the assessment of absolute coronary blood flow and microvascular resistance due to its proven accuracy and reproducibility. However, for this technique to yield reliable measurements, direct and homogenous mixing of injected saline and blood is mandatory. This study aimed to assess and compare the mixing properties of two different microcatheters, namely the Rayflow® (with sideholes for infusion) and the Finecross® catheter (single end-hole for infusion), which are commonly used in the catheterization laboratory.
+METHODS AND RESULTS: The study employed three different methods to evaluate the mixing properties of the catheters. Firstly, a qualitative assessment of mixing was performed using ink injections in an in vitro bench model of a coronary artery. Secondly, in analogy to the human catheterization laboratory, mixing properties over the length of the coronary artery were assessed semi-quantitatively by temperature measurements in the bench model. Lastly, a quantitative assessment was performed by 3D computational fluid dynamics, where the standard deviation and entropy ratio of the temperature over the cross-section in the coronary artery model were calculated for both catheters.
+CONCLUSION: All three evaluation methods demonstrated that the Rayflow catheter's specific design leads to a more optimal, homogeneous mixture of blood and saline over both the cross-section and length of a coronary vessel, as compared with the standard end-hole catheter.
+
+Citation: de Vos A, et al. Mixing properties of coronary infusion catheters assessed by in vitro experiments and computational fluid dynamics. Mixing properties of coronary infusion catheters assessed by in vitro experiments and computational fluid dynamics. 2024; 5:491-501. doi: 10.1093/ehjdh/ztae033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39081940/

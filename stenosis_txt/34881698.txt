@@ -1,0 +1,11 @@
+PMID: 34881698
+Title: Impact of the recovery of left ventricular ejection fraction after TAVI on mortality in patients with aortic stenosis.
+
+Abstract: OBJECTIVE: To assess the effects of transvalvular aortic valve implantation (TAVI) on the outcomes of the patients with symptomatic severe aortic stenosis (AS), and predict the effect of left ventricular ejection fraction (LVEF) and cardiac structural recovery on mortality after the TAVI in patients with different stage of LV function.
+METHODS: Out of 191 patients, 151 consecutive patients in 3 centers were evaluated for outcome analysis. Patients were classified into 3 subgroups as AS with reduced ejection fraction (ASrEF) (LVEF <40%), AS with mildly reduced EF (ASmrEF) (LVEF 40-49%) and AS with preserved EF (ASpEF) (LVEF ≥50%).
+RESULTS: The mean follow-up period was 19.4±12.4 (up to 54) months. All-cause mortality was not different among all 3 groups. (p=0.901). In multivariate analysis, stroke volume index (SVI) (Exp(B): 0.039, 95% confidence interval [CI]: 0.011-0.013, p<0.001), baseline blood urea nitrogen (Exp(B): 1.022, 95% CI: 1.006-1.038, p=0.006), and percent LVEF change after TAVI (d-LVEF) (Exp(B): 0.046, 95% CI: 0.004-0.610, p=0.046) were the independent predictors for mortality after TAVI. The receiver operating characteristic curve analysis showed that the cutoff value of "≤10%" for d-LVEF had sensitivity of 50%, specificity of 75%, and an area under the curve of 0.72 in predicting mortality in patients with SVI <35 mL/m2.
+CONCLUSION: Improvement of LVEF after TAVI, which reflected the marked LV reverse remodeling, has an impact on the prediction of the survival in patients with AS, and this is more prominent in patients with low SVI.
+
+Citation: Kılıçaslan B, et al. Impact of the recovery of left ventricular ejection fraction after TAVI on mortality in patients with aortic stenosis. Impact of the recovery of left ventricular ejection fraction after TAVI on mortality in patients with aortic stenosis. 2021; 49:606-614. doi: 10.5543/tkda.2021.66495
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34881698/

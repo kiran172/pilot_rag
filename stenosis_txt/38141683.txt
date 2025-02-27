@@ -1,0 +1,12 @@
+PMID: 38141683
+Title: Association of multiple blood metals and systemic atherosclerosis: A cross-sectional study in the CAD population.
+
+Abstract: BACKGROUND: Coronary atherosclerotic disease (CAD) is often accompanied by peripheral atherosclerosis, resulting in a higher risk of ischemia and cardiovascular death. Exposure to metals is associated with atherosclerotic plaques at specific sites. However, less is known about the effects of mixed metals on systemic atherosclerotic burden in CAD patients.
+OBJECTIVES: To investigate the association of metal mixtures with systemic atherosclerotic burden in a CAD population.
+METHODS: A cross-sectional study including 1562 CAD patients from Southwest China was conducted. The levels of 10 blood metals were measured via inductively coupled plasma spectrometry. More than one vessel with a stenosis ≥50% vessel diameter was defined as CAD. Carotid and lower limb atherosclerosis was assessed by using ultrasound, and coronary atherosclerosis was quantified via arterial angiography. Systemic atherosclerosis was scored according to the presence or absence of lesions at the three sites and the total number of lesions. To investigate the combined impacts and interaction effects of metals, Bayesian kernel machine regression was used. Weighted quantile regression was used to identify the contributions of the metals.
+RESULTS: Significant overall associations of mixed metals with systemic atherosclerotic burden were found. These positive overall associations were mainly driven by Cd, Cu and Pb in systemic atherosclerosis. The main contributing factors were As and Cu for coronary atherosclerosis as well as Cd, Cu and Pb for carotid and lower limb atherosclerosis. Cd and Pb or Cr can interact, and Pb interacts with age, sex and alcohol.
+CONCLUSIONS: In CAD patients, exposure to combinations of metals was highly positively associated with systemic atherosclerotic burden. These significant trends were more pronounced in the peripheral arteries and carotid arteries. Controlling environmental metal exposure can contribute to reducing systemic atherosclerosis in CAD patients.
+
+Citation: Sun Y, et al. Association of multiple blood metals and systemic atherosclerosis: A cross-sectional study in the CAD population. Association of multiple blood metals and systemic atherosclerosis: A cross-sectional study in the CAD population. 2024; 349:140991. doi: 10.1016/j.chemosphere.2023.140991
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38141683/

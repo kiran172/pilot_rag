@@ -1,0 +1,11 @@
+PMID: 35359641
+Title: Association Between Serum Uric Acid and Intracranial Arterial Stenosis in a Korean Population: A Secondary Analysis Based on a Cross-Sectional Study.
+
+Abstract: BACKGROUND AND PURPOSE: Intracranial arterial stenosis (ICAS) is a common cause of cerebrovascular disease. Studies have shown that the disease may be associated with elevated serum uric acid. However, the results remain inexact and controversial. To provide theoretical support for clinical practice, we assessed the relationship between uric acid and ICAS based on previous literature.
+MATERIALS AND METHODS: A total of 1,011 samples were included in the secondary cross-sectional study we investigated. We evaluated the relationship between uric acid level and ICAS using multivariable logistic regression analysis.
+RESULTS: The mean age of patients was 64.16 ± 9.13 years, and 35.51% (n = 359) were male in the study. One hundred and one (10%) of the included participants had ICAS. In the unadjusted model, uric acid level was positively associated with ICAS [odds ratio (OR) = 1.23, 95% confidence interval (CI): 1.07-1.42, p &lt; 0.01]. After adjusting for potential confounders (sex, age, diabetes mellitus, coronary artery occlusive disease, hyperlipidemia, statin medication, hypertension, and fasting glucose), a positive relationship was observed between uric acid and ICAS (OR = 1.26, 95% CI: 1.08-1.47, p &lt; 0.05).
+CONCLUSION: There was a positive relationship between uric acid levels and ICAS in neurologically healthy Korean participants.
+
+Citation: Yao T, et al. Association Between Serum Uric Acid and Intracranial Arterial Stenosis in a Korean Population: A Secondary Analysis Based on a Cross-Sectional Study. Association Between Serum Uric Acid and Intracranial Arterial Stenosis in a Korean Population: A Secondary Analysis Based on a Cross-Sectional Study. 2022; 13:791456. doi: 10.3389/fneur.2022.791456
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35359641/

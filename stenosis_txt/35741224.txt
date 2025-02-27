@@ -1,0 +1,8 @@
+PMID: 35741224
+Title: A Coronary Artery Disease Monitoring Model Built from Clinical Data and Alpha-1-Antichymotrypsin.
+
+Abstract: Coronary artery disease (CAD) is one of the most common subtypes of cardiovascular disease. The progression of CAD initiates from the plaque of atherosclerosis and coronary artery stenosis, and eventually turns into acute myocardial infarction (AMI) or stable CAD. Alpha-1-antichymotrypsin (AACT) has been highly associated with cardiac events. In this study, we proposed incorporating clinical data on AACT levels to establish a model for estimating the severity of CAD. Thirty-six healthy controls (HCs) and 162 CAD patients with stenosis rates of <30%, 30−70%, and >70% were included in this study. Plasma concentration of AACT was determined by enzyme-linked immunosorbent assay (ELISA). The receiver operating characteristic (ROC) curve analysis and associations were conducted. Further, five machine learning models, including decision tree, random forest, support vector machine, XGBoost, and lightGBM were implemented. The lightGBM model obtained a sensitivity of 81.4%, a specificity of 67.3%, and an area under the curve (AUC) of 0.822 for identifying CAD patients with a stenosis rate of <30% versus >30%. In this study, we provided a demonstration of a monitoring model with clinical data and AACT.
+
+Citation: Chang CC, et al. A Coronary Artery Disease Monitoring Model Built from Clinical Data and Alpha-1-Antichymotrypsin. A Coronary Artery Disease Monitoring Model Built from Clinical Data and Alpha-1-Antichymotrypsin. 2022; 12:(unknown pages). doi: 10.3390/diagnostics12061415
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35741224/

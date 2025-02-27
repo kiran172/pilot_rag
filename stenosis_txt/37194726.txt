@@ -1,0 +1,11 @@
+PMID: 37194726
+Title: Comparison of quantitative flow ratio with instantaneous wave-free ratio and resting full-cycle ratio during daily routine in the catheterization laboratory.
+
+Abstract: BACKGROUND: Quantitative flow ratio (QFR) is a novel, software-based method to evaluate the physiology of coronary lesions. The aim of this study was to compare QFR with the established invasive measurements of coronary blood flow using instantaneous wave-free ratio (iFR) or resting full-cycle ratio (RFR) in daily cathlab routine.
+METHODS: 102 patients with stable coronary artery disease and a coronary stenosis of 40%-90% were simultaneously assessed with QFR and iFR or RFR. QFR-computation was performed by two certified experts using the appropriate software (QAngio XA 3D 3.2).
+RESULTS: QFR showed a significant correlation (r = 0.75, p &lt; 0.001) to iFR and RFR. The area under the receiver curve for all measurements was 0.93 (95% confidence interval, 0.87-0.98) for QFR compared to iFR or RFR. QFR based assessment required less time with a median of 501 s (IQR 421-659 s) compared to iFR or RFR which required a median of 734 s to obtain the result (IQR 512-967 s; p &lt; 0.001). The median use of contrast medium was similar with 21 mL (IQR 16-30 mL) for the QFR-based and 22 mL (IQR 15-35 mL) for the iFR- or RFR-based diagnostic. QFR diagnostic required less radiation. The median dose area product for QFR was 307cGycm2 (IQR 151-429 cGycm2 ) compared to 599 cGycm2 (IQR 345-1082 cGycm2 ) for iFR or RFR, p &lt; 0.001.
+CONCLUSION: QFR measurements of coronary artery blood flow correlate with iFR or RFR measurements and are associated with shorter procedure times and reduced radiation dose.
+
+Citation: Stader J, et al. Comparison of quantitative flow ratio with instantaneous wave-free ratio and resting full-cycle ratio during daily routine in the catheterization laboratory. Comparison of quantitative flow ratio with instantaneous wave-free ratio and resting full-cycle ratio during daily routine in the catheterization laboratory. 2023; 102:91-100. doi: 10.1002/ccd.30690
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37194726/

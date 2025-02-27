@@ -1,0 +1,11 @@
+PMID: 32562789
+Title: Dosimetric Predictors of Genitourinary Toxicity From a Phase I Trial of Prostate Bed Stereotactic Body Radiation Therapy.
+
+Abstract: PURPOSE: Our purpose was to analyze dose-volume parameters associated with genitourinary (GU) toxicity from a phase I clinical trial of prostate bed stereotactic body radiation therapy.
+METHODS AND MATERIALS: Patients were treated in escalating dose levels of 35, 40, and 45 Gy, over 5 fractions. Data from all 26 patients enrolled in the protocol were analyzed using multiple dose-volume cut points for multiple GU organs at risk. Univariate logistical regression and Fisher exact test were used to assess statistical significance associated with incidence of toxicity.
+RESULTS: The median follow-up was 36 months for all patients. Acute GU toxicity was mild and resolved spontaneously. Eight out of 26 patients (30.7%) developed late GU toxicity of grade 2 or higher. Two patients developed grade 3 ureteral stenosis, 1 in the 35 Gy arm and the other in the 45 Gy arm. Three patients developed grade 2 or higher hematuria/cystitis, and 3 developed grade 2 or higher incontinence. Incidence of grade 3 ureteral stenosis was related to the absolute volume of bladder wall receiving greater than 20, 25, and 30 Gy (P < .01). Grade 2 cystitis and hematuria were related to the volume of bladder wall receiving 20 Gy less than 34% and 35 Gy less than 25% (18.8% vs 60% and 23.8% vs 80%, respectively, P < .05). Incontinence was related to mean urethral dose less than 35 Gy and 25 Gy (4.3% vs 66.7% and 0% vs 37.5%, respectively, P < .05) and volume of urethra receiving 35 Gy less than 24% (8.3% vs 50%, P < .05).
+CONCLUSIONS: This is the first analysis to report dose-volume thresholds associated with late GU toxicity in patients receiving prostate bed stereotactic body radiation therapy. We recommend limiting the bladder wall receiving 25 Gy to less than 18 cubic centimeters to reduce the risk for late grade 3 ureteral stenosis.
+
+Citation: Shinde A, et al. Dosimetric Predictors of Genitourinary Toxicity From a Phase I Trial of Prostate Bed Stereotactic Body Radiation Therapy. Dosimetric Predictors of Genitourinary Toxicity From a Phase I Trial of Prostate Bed Stereotactic Body Radiation Therapy. 2021; 11:e90-e97. doi: 10.1016/j.prro.2020.06.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32562789/

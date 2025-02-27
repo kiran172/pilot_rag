@@ -1,0 +1,11 @@
+PMID: 35731855
+Title: Formononetin regulates endothelial nitric oxide synthase to protect vascular endothelium in deep vein thrombosis rats.
+
+Abstract: OBJECTIVE: Formononetin is a bioactive isoflavone that has numerous medicinal benefits. We explored the feasibility and its mechanism of formononetin on treating acute deep vein thrombosis (DVT) in rats.
+MATERIALS AND METHODS: Inferior vena cava (IVC) stenosis was performed to establish the DVT rat model. First, different doses of formononetin were used to observe the feasibility of formononetin on treating DVT. In sham and DVT groups, rats were orally treated with vehicle. In the remaining groups, formononetin (10 mg/kg, 20 mg/kg, and 40 mg/kg) was orally treated once a day for 7 days at 24 h after IVC. After 7 days, the levels of thrombosis and inflammation related factors in plasma were measured. The expression of endothelial nitric oxide synthase (eNOS) was analyzed by western blot and immunofluorescence. Molecular docking was used to evaluate the interaction between the formononetin and eNOS. Further, the NOS inhibitor (L-NAME) was used to explore the mechanism of formononetin for DVT.
+RESULT: After treatment with formononetin, the average weights of thrombosis were decreased, and the levels of thrombosis and inflammation related factors were also significantly decreased. Additionally, phosphorylation of eNOS was increased with the formononetin administration. There is a good activity of formononetin to eNOS (total score = -6.8). However, the effects of 40 mg/kg formononetin were concealed by the NOS inhibitor (L-NAME).
+CONCLUSION: Formononetin reduces vascular endothelium injury induced by DVT through increasing eNOS in rats, which provides a potential drug for treatment of venous thrombosis.
+
+Citation: Zhou Z, et al. Formononetin regulates endothelial nitric oxide synthase to protect vascular endothelium in deep vein thrombosis rats. Formononetin regulates endothelial nitric oxide synthase to protect vascular endothelium in deep vein thrombosis rats. 2022; 36:3946320221111117. doi: 10.1177/03946320221111117
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35731855/

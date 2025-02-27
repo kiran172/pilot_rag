@@ -1,0 +1,11 @@
+PMID: 37777072
+Title: Left atrial pump strain predicts long-term survival after transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: This study aims at investigating left atrial (LA) deformation by left atrial reservoir (LARS) and pump strain (LAPS) and its implications for long-term survival in patients with severe aortic stenosis (AS) undergoing transcatheter aortic valve implantation (TAVI).
+METHODS: Speckle tracking echocardiography was performed in 198 patients with severe AS undergoing TAVI. Association of strain parameters with cardiovascular mortality was determined.
+RESULTS: Over a follow-up time of 5 years, 49 patients (24.7%) died. LAPS was more impaired in non-survivors than survivors (P = 0.010), whereas no difference was found for LARS (P = 0.114), LA ejection fraction (P = 0.241), and LA volume index (P = 0.292). Kaplan-Meier analyses yielded a reduced survival probability according to the optimal threshold for LAPS (P = 0.002). A more impaired LAPS was associated with increased mortality risk (HR 1.12 [95% CI 1.02-1.22]; P = 0.014) independent of LVEF, LAVI, age, and sex. Addition of LAPS improved multivariable echocardiographic (LVEF, LAVI) and clinical (age, sex) models with potential incremental value for mortality prediction (P = 0.013 and P = 0.031, respectively). In contrast, LARS and LAVI were not associated with mortality.
+CONCLUSIONS: In patients undergoing aortic valve replacement for severe AS, LAPS was impaired in patients dying during long-term follow-up after TAVI, differentiated survivors from non-survivors, was independently associated with long-term mortality, and yielded potential incremental value for survival prediction after TAVI. LAPS seems useful for risk stratification in severe AS and timely valve replacement.
+
+Citation: Winkler NE, et al. Left atrial pump strain predicts long-term survival after transcatheter aortic valve implantation. Left atrial pump strain predicts long-term survival after transcatheter aortic valve implantation. 2024; 395:131403. doi: 10.1016/j.ijcard.2023.131403
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37777072/

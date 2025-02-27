@@ -1,0 +1,11 @@
+PMID: 32082419
+Title: The Functional Severity Assessment of Coronary Stenosis Using Coronary Computed Tomography Angiography-Based Myocardial Mass at Risk and Minimal Lumen Diameter.
+
+Abstract: BACKGROUND: We investigated whether or not the addition of myocardial mass at risk (MMAR) to quantitative coronary angiography was useful for diagnosing functionally significant coronary stenosis in the daily practice.
+METHODS: We retrospectively enrolled 111 consecutive patients with 149 lesions who underwent clinically indicated coronary computed tomography angiography and subsequent elective coronary angiography with fractional flow reserve (FFR) measurement. MMAR was calculated using a workstation-based software program with ordinary thin slice images acquired for the computed tomography, and the minimal lumen diameter (MLD) and the diameter stenosis were measured with quantitative coronary angiography.
+RESULTS: The MLD and MMAR were significantly correlated with the FFR, and the MMAR-to-MLD ratio (MMAR/MLD) showed a good correlation. The area under the receiver operating characteristic curve (AUC) of MMAR/MLD for FFR ≤ 0.8 was 0.746, and the sensitivity, specificity, positive predictive value, and negative predictive value were 60%, 83%, 68%, and 77%, respectively, at a cut-off value of 29.5 ml/mm. The addition of MMAR/MLD to diameter stenosis thus made it possible to further discriminate lesions with FFR ≤ 0.8 (AUC = 0.750). For the proximal left coronary artery lesions, in particular, MMAR/MLD showed a better correlation with the FFR, and the AUC of MMAR/MLD for FFR ≤ 0.8 was 0.919 at a cut-off value of 31.7 ml/mm.
+CONCLUSIONS: The index of MMAR/MLD correlated well with the physiological severity of coronary stenosis and showed good accuracy for detecting functional significance. The MMAR/MLD might be a useful parameter to consider when deciding the indication for revascularization.
+
+Citation: Sadamatsu K, et al. The Functional Severity Assessment of Coronary Stenosis Using Coronary Computed Tomography Angiography-Based Myocardial Mass at Risk and Minimal Lumen Diameter. The Functional Severity Assessment of Coronary Stenosis Using Coronary Computed Tomography Angiography-Based Myocardial Mass at Risk and Minimal Lumen Diameter. 2020; 2020:6716130. doi: 10.1155/2020/6716130
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32082419/

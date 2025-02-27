@@ -1,0 +1,11 @@
+PMID: 38242742
+Title: Is the Corrected Carotid Flow Time a Clinically Acceptable Surrogate Hemodynamic Parameter for the Left Ventricular Ejection Time?
+
+Abstract: OBJECTIVE: The corrected left ventricular ejection time (cLVET) comprises the phase from aortic valve opening to aortic valve closure corrected for heart rate. As a surrogate measure for cLVET, the corrected carotid flow time (ccFT) has been proposed in previous research. The aim of this study was to assess the clinical agreement between cLVET and ccFT in a dynamic clinical setting.
+METHODS: Twenty-five patients with severe aortic valve stenosis (AS) were selected for transcatheter aortic valve replacement (TAVR). The cLVET and ccFT were derived from the left ventricular outflow tract (LVOT) and the common carotid artery (CCA), respectively, using pulsed wave Doppler ultrasound. Bazett's (B) and Wodey's (W) equations were used to calculate cLVET and ccFT. Measurements were performed directly before (T1) and after (T2) TAVR. Correlation, Bland-Altman and concordance analyses were performed.
+RESULTS: Corrected LVET decreased from T1 to T2 (p < 0.001), with relative reductions of 11% (B) and 9% (W). Corrected carotid flow time decreased (p < 0.001), with relative reductions of 12% (B) and 10% (W). The correlation between cLVET and ccFT was strong for B (ρ = 0.74, p < 0.001) and W (ρ = 0.81, p < 0.001). The bias was -39 ms (B) and -37 ms (W), and the upper and lower levels of agreement were 19 and -98 ms (B) and 5 and -78 ms (W), respectively. Trending ability between cLVET and ccFT was good (concordance 96%) for both B and W.
+CONCLUSION: In TAVR patients, the clinical agreement between cLVET and ccFT was acceptable, indicating that ccFT could serve as a surrogate measure for cLVET.
+
+Citation: van Houte J, et al. Is the Corrected Carotid Flow Time a Clinically Acceptable Surrogate Hemodynamic Parameter for the Left Ventricular Ejection Time?. Is the Corrected Carotid Flow Time a Clinically Acceptable Surrogate Hemodynamic Parameter for the Left Ventricular Ejection Time?. 2024; 50:528-535. doi: 10.1016/j.ultrasmedbio.2023.12.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38242742/

@@ -1,0 +1,12 @@
+PMID: 37146648
+Title: Risk Factors for Postdischarge Major Thromboembolism and Mortality in Hospitalized Patients with COVID-19 with Cardiovascular Comorbidities: Insights from the CORE-19 Registry.
+
+Abstract: BACKGROUND:  Coronavirus disease 2019 (COVID-19) is associated with venous and arterial thromboembolism (VTE and ATE) and all-cause mortality (ACM) in hospitalized patients. High-quality data are needed on postdischarge outcomes in patients with cardiovascular disease.
+OBJECTIVES:  To analyze outcomes and identify risk factors for ATE, VTE, and ACM in a high-risk subgroup of hospitalized COVID-19 patients with baseline cardiovascular disease.
+METHODS:  We investigated postdischarge rates and associated risk factors of ATE, VTE, and ACM in 608 hospitalized COVID-19 patients with coronary artery disease, carotid artery stenosis (CAS), peripheral arterial disease (PAD), or ischemic stroke.
+RESULTS: Through 90 days postdischarge, outcome rates were: ATE 27.3% (10.2% myocardial infarction, 10.1% ischemic stroke, 13.2% systemic embolism, 12.7% major adverse limb event); VTE 6.9% (4.1% deep vein thrombosis, 3.6% pulmonary embolism); composite of ATE, VTE, or ACM 35.2% (214/608). Multivariate analysis showed significant association between this composite endpoint and age &gt;75 years (odds ratio [OR]: 1.90, 95% confidence interval [CI]: 1.22-2.94, p = 0.004), PAD (OR: 3.23, 95% CI: 1.80-5.81, p ≤ 0.0001), CAS (OR: 1.74, 95% CI: 1.11-2.75, p = 0.017), congestive heart failure (CHF) (OR: 1.84, 95% CI: 1.02-3.35, p = 0.044), previous VTE (OR: 3.08, 95% CI: 1.75-5.42, p &lt; 0.0001), and intensive care unit (ICU) admission (OR: 2.93, 95% CI: 1.81-4.75, p &lt; 0.0001).
+CONCLUSION:  COVID-19 inpatients with cardiovascular disease experience high rates of ATE, VTE, or ACM through 90 days postdischarge. Age >75 years, PAD, CAS, CHF, previous VTE, and ICU admission are independent risk factors.
+
+Citation: Giannis D, et al. Risk Factors for Postdischarge Major Thromboembolism and Mortality in Hospitalized Patients with COVID-19 with Cardiovascular Comorbidities: Insights from the CORE-19 Registry. Risk Factors for Postdischarge Major Thromboembolism and Mortality in Hospitalized Patients with COVID-19 with Cardiovascular Comorbidities: Insights from the CORE-19 Registry. 2023; 123:1089-1099. doi: 10.1055/a-2087-3003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37146648/

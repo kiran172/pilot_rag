@@ -1,0 +1,12 @@
+PMID: 32656853
+Title: Practical cardiovascular risk calculator for asymptomatic patients with type 2 diabetes mellitus: PRECISE-DM risk score.
+
+Abstract: BACKGROUND: Obstructive coronary artery disease (OCAD) is a significant predictor of adverse clinical events in asymptomatic patients with type 2 diabetes mellitus (T2DM).
+HYPOTHESIS: We sought to develop an easy-to-use risk scoring system to predict OCAD and long-term clinical outcome in asymptomatic patients with T2DM (PRECISE-DM).
+METHODS: A total of 2799 asymptomatic patients with T2DM and no prior coronary disease were consecutively enrolled. OCAD was defined as ≥50% coronary artery stenosis on coronary computed tomography angiography (CCTA). A new risk scoring system was developed in 933 patients undergoing CCTA (derivation cohort) and its performance to predict OCAD and major adverse cardiac and cerebrovascular event (MACCE) was compared with other risk estimates. The scoring system was externally validated in 1899 patients not undergoing CCTA (validation cohort).
+RESULTS: The PRECISE-DM scoring system was created using seven variables that were associated with increased risk of OCAD, with scores ranging from 0 to 9. The scoring system predicted presence of OCAD with a C-statistic of 0.680 and risk of MACCE with a C-statistic of 0.708. The UKPDS risk engine and the Framingham risk score showed unreliable performance in prediction of OCAD (C-statistics 0.531 and 0.577, respectively). Calcium score was highly predictive for OCAD (C-statistic 0.825) but showed only modest accuracy in predicting MACCE (C-statistic 0.675). In the external validation cohort, the PRECISE-DM score showed acceptable discrimination for prediction of MACCE (C-statistic 0.707).
+CONCLUSIONS: The PRECISE-DM scoring system accurately predicted presence of OCAD and risk of MACCE in asymptomatic patients with T2DM.
+
+Citation: Choi Y, et al. Practical cardiovascular risk calculator for asymptomatic patients with type 2 diabetes mellitus: PRECISE-DM risk score. Practical cardiovascular risk calculator for asymptomatic patients with type 2 diabetes mellitus: PRECISE-DM risk score. 2020; 43:1040-1047. doi: 10.1002/clc.23405
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32656853/

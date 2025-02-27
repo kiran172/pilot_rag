@@ -1,0 +1,12 @@
+PMID: 34726600
+Title: Renal cortex thickness and changes in renal function after transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: The association between renal morphological findings and changes in renal function in patients undergoing transcatheter aortic valve implantation (TAVI) is unexplored.
+AIMS: We aimed to investigate the association between renal morphological findings and changes in renal function in patients undergoing TAVI.
+METHODS: Among 283 consecutive patients undergoing TAVI between 2018 and 2021, the study sample included 224 patients. Renal morphological measurements were performed by preoperative multidetector computed tomography. Estimated glomerular filtration rate (eGFR) improvement and deterioration were defined as positive or negative changes in an eGFR of ≥10% one month after TAVI. The renal cortex thickness index was defined as the ratio of total renal cortex thickness to body surface area.
+RESULTS: The incidences of eGFR improvement and deterioration were 33.9% and 24.1%, respectively. The renal cortex thickness index had a significant correlation with changes in eGFR (r=0.34, p&lt;0.01). The index of the area under the curve of renal cortex thickness for eGFR improvement and deterioration were 0.73 and 0.68, respectively. The cut-off values were 5.82 mm/m2 for eGFR improvement (odds ratio [OR]: 0.10; 95% confidence interval: 0.05-0.20; p&lt;0.01) and 4.89 mm/m2 for eGFR deterioration (OR: 9.07; 95% confidence interval: 4.55-18.6; p&lt;0.01).
+CONCLUSIONS: The renal cortex thickness index was associated with changes in renal function in patients who underwent TAVI. Its measurements might be useful for predicting the renal function change in patients undergoing TAVI.
+
+Citation: Ikuta A, et al. Renal cortex thickness and changes in renal function after transcatheter aortic valve implantation. Renal cortex thickness and changes in renal function after transcatheter aortic valve implantation. 2022; 17:e1407-e1416. doi: 10.4244/EIJ-D-21-00534
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34726600/

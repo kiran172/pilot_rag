@@ -1,0 +1,11 @@
+PMID: 35338016
+Title: Outcomes for Adults with Metabolic Syndrome Undergoing Elective Carotid Endarterectomy.
+
+Abstract: BACKGROUND: Metabolic syndrome (MetS) is a disorder characterized by a constellation of cardiometabolic risk factors including abdominal obesity, dyslipidemia, hypertension, and glucose intolerance that has been associated with adverse perioperative outcomes. We evaluated outcomes for patients with MetS after carotid endarterectomy (CEA) in the largest population to date.
+METHODS: We performed a matched cohort analysis using clinical data from 2012 to 2018 in the American College of Surgeons National Surgical Quality Improvement Program. We used propensity scores to match patients to attain covariate balance and used logistic regression to assess odds of unfavorable outcomes, including a predefined primary outcome of composite cardiovascular incident.
+RESULTS: We identified 50,423 eligible adult patients, of whom 14.2% qualified for MetS (n = 7156). Patients with MetS tended to have CEA at an earlier age, more functional dependence, and longer operative durations. After matching, MetS remained associated with the primary outcome of combined cardiovascular incident (odds ratio [OR], 1.42; 95% confidence interval [CI], 1.18-1.72; P < 0.001), stroke (OR, 1.44; 95% CI, 1.12-1.85; P = 0.004), prolonged length of stay (OR, 1.31; 95% CI, 1.18-1.44; P < 0.001), and discharge to facility (OR, 1.32; 95% CI, 1.08-1.61; P = 0.007). We also found that obesity alone is protective against combined cardiovascular incident, whereas hypertension with diabetes and MetS increase odds of a cardiovascular complication.
+CONCLUSIONS: Metabolic syndrome is associated with adverse outcomes for adult patients undergoing elective CEA.
+
+Citation: Pertsch NJ, et al. Outcomes for Adults with Metabolic Syndrome Undergoing Elective Carotid Endarterectomy. Outcomes for Adults with Metabolic Syndrome Undergoing Elective Carotid Endarterectomy. 2022; 163:e146-e155. doi: 10.1016/j.wneu.2022.03.082
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35338016/

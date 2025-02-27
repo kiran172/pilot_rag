@@ -1,0 +1,11 @@
+PMID: 33318081
+Title: Prognostic value of automated longitudinal strain measurements in asymptomatic aortic stenosis.
+
+Abstract: OBJECTIVE: Two-dimensional (2D) longitudinal strain (LS) predicts cardiac events in aortic stenosis (AS). However, it requires manual editing, which affects its accuracy and reliability. We investigated whether left ventricular (LV), left atrial (LA) and right ventricular (RV) LSs using fully automated 2D strain software provide useful prognostic information in asymptomatic AS.
+METHODS: We performed LS analyses in 340 asymptomatic patients with AS using novel, fully automated 2D strain analytical software (AutoStrain, Philips) to obtain LV global LS (LVGLS), LALS, RV free wall LS and RVLS. The primary end point was a composite of cardiac events, including cardiac death, heart failure hospitalisation, myocardial infarction or ventricular tachyarrhythmia.
+RESULTS: During a median of 24 months follow-up, 46 patients reached a primary end point. 62 patients had aortic valve surgery. All four LSs were significantly associated with the primary end point using univariate analysis (HR 0.821 to 0.951, p<0.05). Multivariate analysis revealed that LVGLS (HR 0.873 to 0.888, p<0.05) remained significantly associated with cardiac events, even after adjusting haemodynamic measures of AS severity and LV ejection fraction. Kaplan-Meier survival curve showed median values of both LVGLS (cut-off: 15.1%) and LALS (cut-off: 22.3%) provide a significant difference in cardiac event rate (3-year event-free rate; LVGLS: 89% vs 76%, p=0.002; LALS: 89% vs 76%, p=0.001). Classification and regression-tree analysis, including four LSs, clinical characteristics and traditional echocardiographic parameters, selected LVGLS and E/ε' for stratifying a high-risk group of patients with cardiac events.
+CONCLUSIONS: Fully automated 2D LS analysis, especially LVGLS provides useful prognostic information in asymptomatic AS.
+
+Citation: Kitano T, et al. Prognostic value of automated longitudinal strain measurements in asymptomatic aortic stenosis. Prognostic value of automated longitudinal strain measurements in asymptomatic aortic stenosis. 2020; (unknown volume):(unknown pages). doi: 10.1136/heartjnl-2020-318256
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33318081/

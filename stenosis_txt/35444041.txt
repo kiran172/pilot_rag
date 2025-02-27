@@ -1,0 +1,14 @@
+PMID: 35444041
+Title: Differential Agnostic Effect Size Analysis of Lumbar Stenosis Surgeries.
+
+Abstract: STUDY DESIGN: A meta-analysis of 89 randomized prospective, prospective, and retrospective studies on spinal endoscopic surgery outcomes.
+OBJECTIVE: The study aimed to provide familiar Oswestry Disability Index (ODI), visual analog scale (VAS) back, and VAS leg effect size (ES) data following endoscopic decompression for sciatica-type back and leg pain due to lumbar herniated disc, foraminal, or lateral recess spinal stenosis.
+BACKGROUND: Higher-grade objective clinical outcome ES data are more suitable than lower-grade clinical evidence, including cross-sectional retrospective study outcomes or expert opinion to underpin the ongoing debate on whether or not to replace some of the traditional open and with other forms of minimally invasive spinal decompression surgeries such as the endoscopic technique.
+METHODS: A systematic search of PubMed, Embase, Web of Science, and the Cochrane Central Register of Controlled Trials from 1 January 2000 to 31 December 2019 identified 89 eligible studies on lumbar endoscopic decompression surgery enrolling 23,290 patient samples using the ODI and VAS for back and leg pain used for the ES calculation.
+RESULTS: There was an overall mean overall reduction of ODI of 46.25 (SD 6.10), VAS back decrease of 3.29 (SD 0.65), and VAS leg reduction of 5.77 (SD 0.66), respectively. Reference tables of familiar ODI, VAS back, and VAS leg show no significant impact of study design, follow-up, or patients' age on ES observed with these outcome instruments. There was no correlation of ES with long-term follow-up (P = 0.091). Spinal endoscopy produced an overall ODI ES of 0.92 extrapolated from 81 studies totaling 12,710 patient samples. Provided study comparisons to tubular retractor microdiscectomy and open laminectomy showed an ODI ES of 0.9 (2895 patients pooled from 16 studies) and 0.93 (1188 patients pooled from 5 studies). The corresponding VAS leg ES were 0.92 (12,631 endoscopy patients pooled from 81 studies), 0.92 (2348 microdiscectomy patients pooled from 15 studies), and 0.89 (1188 open laminectomy patients pooled from 5 studies).
+CONCLUSION: Successful clinical outcomes can be achieved with various lumbar surgeries. ESs with endoscopic spinal surgery are on par with those found with open laminectomy and microsurgical decompression.
+CLINICAL RELEVANCE: This article is a meta-analysis on the benefit overlap between lumbar endoscopy, microsurgical decompression, laminectomy, and lumbar decompression fusion.
+
+Citation: Lewandrowski KU, et al. Differential Agnostic Effect Size Analysis of Lumbar Stenosis Surgeries. Differential Agnostic Effect Size Analysis of Lumbar Stenosis Surgeries. 2022; 16:318-342. doi: 10.14444/8222
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35444041/

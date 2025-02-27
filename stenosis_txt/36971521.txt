@@ -1,0 +1,11 @@
+PMID: 36971521
+Title: Impact of Early Gastrojejunal Stenosis on Weight Loss in Patients Undergoing Roux-en-Y Gastric Bypass.
+
+Abstract: BACKGROUND: Gastrojejunal (GJ) anastomotic stenosis is a well-described complication after Roux-en-Y gastric bypass (RYGB); however, its impact on weight loss outcomes is not well elucidated.
+METHODS: We performed a retrospective cohort study of adult patients who underwent RYGB at our institution between 2008 and 2020. Propensity score matching was used to match 30 patients who developed GJ stenosis within the first 30 days post-RYGB with 120 control patients who did not develop this outcome. Short and long-term complications and mean percentage of total body weight loss (TWL) were recorded at 3 months, 6 months, 1 year, 2 years, 3 to 5 years, and 5 to 10 years postoperatively. Hierarchical linear regression modeling was used to analyze the association between early GJ stenosis and the mean percentage of TWL.
+RESULTS: Patients who developed early GJ stenosis had a 13.6% increase in the mean percentage of TWL when compared with controls in the hierarchical linear model [ P < 0.001 (95% CI: 5.7; 21.5)]. These patients were also more likely to present to an intravenous infusion center (70% vs 4%; P < 0.01), require readmission within 30 days (16.7% vs 2.5%; P < 0.01), and/or develop an internal hernia (23.3% vs 5.0%) postoperatively.
+CONCLUSIONS: Patients who develop early GJ stenosis after RYGB have a greater degree of long-term weight loss compared with patients who do not develop this complication. Although our findings support the key contribution that restrictive mechanisms play in maintaining weight loss after RYGB, GJ stenosis remains a complication associated with significant morbidity.
+
+Citation: Shariq OA, et al. Impact of Early Gastrojejunal Stenosis on Weight Loss in Patients Undergoing Roux-en-Y Gastric Bypass. Impact of Early Gastrojejunal Stenosis on Weight Loss in Patients Undergoing Roux-en-Y Gastric Bypass. 2023; 33:202-206. doi: 10.1097/SLE.0000000000001165
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36971521/

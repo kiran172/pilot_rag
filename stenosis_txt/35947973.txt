@@ -1,0 +1,11 @@
+PMID: 35947973
+Title: Impact of Prosthetic Valve Regurgitation Assessed by Echocardiography and Magnetic Resonance Imaging on Long-Term Clinical Outcomes after TAVR.
+
+Abstract: BACKGROUND: Prosthetic valve regurgitation (PVR) impairs early and mid-term outcomes after transcatheter aortic valve replacement (TAVR). We explored the impact of PVR assessed by transthoracic echocardiography (TTE) and magnetic resonance imaging-regurgitation fraction (MRI-RF) on long-term clinical outcomes.
+METHODS: PVR was assessed by TTE applying the Valve Academic Research Consortium criteria and MRI-RF (from velocity-encoded phase contrast magnetic resonance sequence) in 424 patients.
+RESULTS: MRI-RF correlated modestly with the echocardiographic grades of PVR (Spearman's rank correlation coefficient = 0.32, p < 0.001). Using an MRI-RF ≥20% to define ≥ moderate PVR, echocardiography and MRI-RF agreed on PVR classification in 412 patients (97.2%; kappa statistic = 0.56, p < 0.001). Five-year mortality or reintervention was higher in patients with echocardiographic ≥ moderate PVR (83.3% vs. 45.0%, log rank p value = 0.002; HR [95% CI]: 3.18 [1.48-6.84]) as well as in patients with MRI-RF ≥20% (79.3% vs. 43.2%, log rank p value <0.001; HR [95% CI]: 2.68 [1.53-4.70]), while the outcomes of patients with echocardiographic mild PVR were not significantly different from those with none-trace PVR. In the two latter groups (echocardiographic < moderate PVR), MRI-RF ≥20% was associated with a significantly higher 5-year mortality or reintervention as compared with MRI-RF <20% (79.5% vs. 42.2%, log rank p value = 0.023; HR [95% CI]: 2.26 [1.10-4.65]).
+CONCLUSIONS: Greater than mild PVR as defined by TTE or MRI-RF is associated with impaired long-term clinical outcomes after TAVR. MRI-RF can be used to further risk-stratify patients with echocardiographic less-than-moderate PVR.
+
+Citation: Abdelghani M, et al. Impact of Prosthetic Valve Regurgitation Assessed by Echocardiography and Magnetic Resonance Imaging on Long-Term Clinical Outcomes after TAVR. Impact of Prosthetic Valve Regurgitation Assessed by Echocardiography and Magnetic Resonance Imaging on Long-Term Clinical Outcomes after TAVR. 2022; 147:461-468. doi: 10.1159/000526336
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35947973/

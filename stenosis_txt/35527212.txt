@@ -1,0 +1,12 @@
+PMID: 35527212
+Title: Evolution of TAVI patients and techniques over the past decade: The French TAVI registries.
+
+Abstract: BACKGROUND: The French transcatheter aortic valve implantation (TAVI) registries, linked with the nationwide administrative databases, have collected data on TAVI procedures from the first experience to current practices.
+OBJECTIVE: To investigate changes over the past decade in patient and procedural characteristics, major complications and mortality after TAVI.
+METHODS: Data from the France TAVI and FRANCE 2 registries, collected between 2010 and 2021, were linked using a probabilistic algorithm to the French national health single-payer claims database (SNDS). The algorithm created patient profiles from TAVI procedures in SNDS, matching them as closely as possible to the profiles in the registry databases.
+RESULTS: A total of 84,783 TAVI patients were included during the study period. The median age was 83 years (quartile 1, 79 years; quartile 3, 87 years) and remained stable over time. The median EuroSCORE 1 surgical risk score was 12.8 (quartile 1, 7.9; quartile 3, 21.0), and decreased over time. The number of procedures increased linearly, from 1556 in 2010 to 14,114 in 2021. The prevalence of iliofemoral access increased, whereas use of the other approaches decreased. Rates of in-hospital, 30-day and 1-year mortality per year were lower in patients undergoing TAVI after 2015, regardless of the surgical risk score. Finally, hospital length of stay decreased progressively, from 8 days in 2010 to 4 days in 2021.
+CONCLUSION: The TAVI registries provide the cornerstone for recording changes in TAVI. Over the past decade, patient profiles have improved whereas their age has remained stable. Simplification of the procedure reduced rates of death and major complications as well as length of hospital stay.
+
+Citation: Didier R, et al. Evolution of TAVI patients and techniques over the past decade: The French TAVI registries. Evolution of TAVI patients and techniques over the past decade: The French TAVI registries. 2022; 115:206-213. doi: 10.1016/j.acvd.2022.04.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35527212/

@@ -1,0 +1,8 @@
+PMID: 32148555
+Title: Virtual FFR Quantified with a Generalized Flow Model Using Windkessel Boundary Conditions.
+
+Abstract: Fractional flow reserve (FFR) has proved its efficiency in improving patient diagnosis. In this paper, we consider a 2D reconstructed left coronary tree with two artificial lesions of different degrees. We use a generalized fluid model with a Carreau law and use a coupled multidomain method to implement Windkessel boundary conditions at the outlets. We introduce our methodology to quantify the virtual FFR and conduct several numerical experiments. We compare FFR results from the Navier-Stokes model versus generalized flow model and for Windkessel versus traction-free outlet boundary conditions or mixed outlet boundary conditions. We also investigate some sources of uncertainty that the FFR index might encounter during the invasive procedure, in particular, the arbitrary position of the distal sensor. The computational FFR results show that the degree of stenosis is not enough to classify a lesion, while there is a good agreement between the Navier-Stokes model and the non-Newtonian flow model adopted in classifying coronary lesions. Furthermore, we highlight that the lack of standardization while making FFR measurement might be misleading regarding the significance of stenosis.
+
+Citation: Chahour K, et al. Virtual FFR Quantified with a Generalized Flow Model Using Windkessel Boundary Conditions. Virtual FFR Quantified with a Generalized Flow Model Using Windkessel Boundary Conditions. 2020; 2020:3942152. doi: 10.1155/2020/3942152
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32148555/

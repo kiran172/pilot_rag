@@ -1,0 +1,11 @@
+PMID: 32654179
+Title: Determinants of clinical outcomes in patients with mixed mitral valve disease.
+
+Abstract: BACKGROUND: Although significant stenosis and regurgitation can be observed on a single heart valve, studies on the outcome predictors for mixed valve disease are limited. The purpose of the current study was to investigate the fate and determinants of clinical outcomes in patients with mixed single mitral valve disease who have concomitant mitral stenosis (MS) and mitral regurgitation (MR).
+METHODS: We retrospectively reviewed 82 consecutive patients with rheumatic heart disease who had both significant MS (MVA ≤ 1.5 cm2 ) and at least moderate MR, excluding patients with significant aortic valve stenosis or regurgitation. The primary endpoint was a composite of all-cause mortality during follow-up, mitral valve replacement, heart failure admission, and stroke.
+RESULTS: There were 37 events (45.1%), 5 all-cause deaths (6.0%), and 32 mitral valve replacements (39.0%). In a multivariable Cox regression analysis, a transmitral mean pressure gradient (TMPG) over 6 mm Hg was the only independent echocardiographic predictor for events (hazard ratio 3.69, 95% confidential interval 1.31-10.44, P = .014), after adjusting for sex, age, symptoms, and the severity of MS and MR. The estimated 6-year event-free survival rate was significantly lower in patients with TMPG ≥ 6 mm Hg than in those with TMPG < 6 mm Hg (76.3% vs 22.9%, log-rank P < .001).
+CONCLUSION: Transmitral mean pressure gradient, which reflects the hemodynamic burden of the mitral valve lesion, appears to be the most important echocardiographic predictor of clinical outcomes in patients with mixed mitral valve disease.
+
+Citation: Cho IJ, et al. Determinants of clinical outcomes in patients with mixed mitral valve disease. Determinants of clinical outcomes in patients with mixed mitral valve disease. 2020; 37:1164-1170. doi: 10.1111/echo.14673
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32654179/

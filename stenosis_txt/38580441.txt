@@ -1,0 +1,11 @@
+PMID: 38580441
+Title: Real time artificial intelligence assisted carotid artery stenting: a preliminary experience.
+
+Abstract: BACKGROUND: Neurointerventionalists must pay close attention to multiple devices on multiple screens simultaneously, which can lead to oversights and complications. Artificial intelligence (AI) has potential application in recognizing and monitoring these devices on fluoroscopic imaging.
+METHODS: We report out preliminary experience with a real time AI assistance software, Neuro-Vascular Assist (iMed technologies, Tokyo, Japan), in six patients who underwent carotid artery stenting. This software provides real time assistance during endovascular procedures by tracking wires, guiding catheters, and embolic protection devices. The software provides notification when devices move out of a predefined region of interest or off the screen during the procedure. Efficacy, safety, and accuracy of the software were evaluated.
+RESULTS: The software functioned well without problems and was easily used. Mean number of notifications per procedure was 21.0. The mean numbers of true positives, false positives, and false negatives per procedure were 17.2, 3.8, and 1.2, respectively. Precision and recall were 82% and 94%, respectively. Among the 103 true positive notifications, 24 caused the operator to adjust the inappropriate position of the device (23%), which is approximately four times per procedure. False notifications occurred because of false positive device detection. No adverse events related to the software occurred. No periprocedural complications occurred.
+CONCLUSIONS: Neuro-Vascular Assist, a real time AI assistance software, worked appropriately and may be beneficial in carotid artery stenting procedures. Future large scale studies are warranted to confirm.
+
+Citation: Sakakura Y, et al. Real time artificial intelligence assisted carotid artery stenting: a preliminary experience. Real time artificial intelligence assisted carotid artery stenting: a preliminary experience. 2024; (unknown volume):(unknown pages). doi: 10.1136/jnis-2024-021600
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38580441/

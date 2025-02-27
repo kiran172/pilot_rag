@@ -1,0 +1,8 @@
+PMID: 32206159
+Title: Blood group and size dependent stability of P. falciparum infected red blood cell aggregates in capillaries.
+
+Abstract: For Plasmodium falciparum related malaria (B50), one of the outstanding host factors for the development of severe disease is the ABO blood group of malaria patients, where blood group O reduces the probability of severe disease as compared to individuals of groups A, B, or AB. In this report, we investigate the stability of rosette aggregates in malaria caused by Plasmodium falciparum in microflows. These flows are created in microfluidic channels with stenosis-like constrictions of different widths down to ones narrower as the rosette's diameter. High speed videos were recorded and analyzed by a MATLAB© based tracking software (SURF: SUrvival of Rosettes in Flow). We find a correlation of rosette size, channel diameter, and blood group regarding the mobility of the rosettes. Following the concept of a thermodynamic model, we find a critical width of the stenosis for rosette rupture during their passage. Our data reveal that under physiologically relevant conditions, rosettes in blood group A have a higher rosette frequency and stability as compared to blood group O (BG O), which constitutes a crucial factor promoting the observed protection in BG O individuals against severe malaria in non-O individuals.
+
+Citation: Jötten AM, et al. Blood group and size dependent stability of P. falciparum infected red blood cell aggregates in capillaries. Blood group and size dependent stability of P. falciparum infected red blood cell aggregates in capillaries. 2020; 14:024104. doi: 10.1063/1.5125038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32206159/

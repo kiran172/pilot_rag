@@ -1,0 +1,11 @@
+PMID: 38641440
+Title: Impact of post-procedural peripheral fractional flow reserve after drug-coated balloon angioplasty in femoropopliteal lesions.
+
+Abstract: PURPOSE: The aim of this study was to determine if postprocedural peripheral fractional flow reserve (pFFR) is associated with patency one year after drug-coated balloon (DCB) angioplasty for femoropopliteal (FP) lesions.
+MATERIALS AND METHODS: Forty-five consecutive patients having 49 de novo FP lesions were enrolled in this prospective, observational study conducted from April 2022 to Aug 2023. The pFFR was measured under hyperemic conditions after the administration of 30 mg of papaverine. The relationship between pFFR and restenosis 12 months after the procedure was determined using receiver operating characteristic (ROC) curve analysis.
+RESULTS: The one-year follow-up was completed for 47 lesions (95.9 %). Restenosis was detected in 7 lesions (14.9 %). Postprocedural pFFR was significantly higher in the nonrestenosis group compared with the pFFR in the stenosis group (0.95 ± 0.054 vs. 0.88 ± 0.090, p = 0.010). The optimal pFFR cutoff value for predicting restenosis was 0.92 (sensitivity, 0.824; specificity, 0.600). The area under the curve for pFFR was numerically higher than the area under the curve for minimum lumen area (0.73 vs. 0.64, p = 0.22). Rates of freedom from restenosis at one year were significantly higher in the pFFR >0.92 group compared with the pFFR ≤0.92 group (p = 0.0042).
+CONCLUSION: Postprocedural pFFR was associated with patency at one year after DCB angioplasty for FP lesions.
+
+Citation: Iwasaki Y, et al. Impact of post-procedural peripheral fractional flow reserve after drug-coated balloon angioplasty in femoropopliteal lesions. Impact of post-procedural peripheral fractional flow reserve after drug-coated balloon angioplasty in femoropopliteal lesions. 2024; 66:51-55. doi: 10.1016/j.carrev.2024.03.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38641440/

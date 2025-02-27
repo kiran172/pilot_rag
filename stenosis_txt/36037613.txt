@@ -1,0 +1,11 @@
+PMID: 36037613
+Title: Temporary Mechanical Circulatory Support for Transcatheter Aortic Valve Replacement.
+
+Abstract: INTRODUCTION: This study aimed to characterize the use of temporary mechanical circulatory support (tMCS) among patients undergoing transcatheter aortic valve replacement (TAVR) using a nationally representative database.
+MATERIALS AND METHODS: The 2012-2018 National Inpatient Sample was queried for adult patients who underwent isolated TAVR. The tMCS group was comprised of those who required extracorporeal membrane oxygenation, percutaneous ventricular assist device, or intra-aortic balloon pump during index hospitalization. We evaluated temporal trends in the utilization of tMCS using Cuzick's test. Furthermore, a multivariable logistic regression was used to identify factors associated with tMCS use and its impact on in-hospital mortality, selected complications, and nonhome discharge.
+RESULTS: Of an estimated 215,925 patients who underwent TAVR, 3085 (1.4%) required tMCS during their hospital course. The most common modality of tMCS was intra-aortic balloon pump (49%), followed by extracorporeal membrane oxygenation (27%) then percutaneous ventricular assist device (18%). Seven percent of tMCS patients were supported by > 1 device. The annual incidence of tMCS usage decreased over the study period, from 3% in 2012 to 1% in 2018 (P-trend < 0.01). Nonelective admission, congestive heart failure, coagulopathy, and liver disease were strong independent predictors of requiring tMCS. Patients requiring tMCS had a 31.8% in-hospital mortality rate (adjusted odds ratio = 23, 95% confidence interval 18.5-28.5), longer length of stay (9 d versus 3, P < 0.001), and higher costs ($84,600 versus $48,100, P < 0.001) than those who did not.
+CONCLUSIONS: The use of tMCS during TAVR has decreased over time but remains associated with a 23-fold increased mortality rate and significant clinical and resource utilization burden.
+
+Citation: Shou BL, et al. Temporary Mechanical Circulatory Support for Transcatheter Aortic Valve Replacement. Temporary Mechanical Circulatory Support for Transcatheter Aortic Valve Replacement. 2022; 280:363-370. doi: 10.1016/j.jss.2022.07.034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36037613/

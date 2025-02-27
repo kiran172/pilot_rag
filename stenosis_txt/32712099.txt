@@ -1,0 +1,11 @@
+PMID: 32712099
+Title: Preoperative Factors That Predict Recurrence After Repair of Discrete Subaortic Stenosis.
+
+Abstract: BACKGROUND: Several factors predict reintervention for subaortic stenosis (SubAS): age, preoperative left ventricular outflow tract gradient, distance from the obstructive subaortic ridge to the aortic valve, and peeling of membrane from the aortic/mitral valves. We sought to develop a prediction rule to categorize risk of reintervention for recurrent SubAS and guide follow-up in patients with discrete SubAS.
+METHODS: We retrospectively reviewed patients who underwent SubAS resection between 1984 and 2016. Our primary outcome was reintervention for recurrent SubAS after discharge. Kaplan-Meier estimates were used for time-to-event analysis of any reintervention. Multivariable models were used to create a prediction rule. We excluded patients without 3 years of follow-up.
+RESULTS: Of 172 patients, 21 (12.2%) required reintervention. The characteristics predicting reintervention were age younger than 2 years (P < .001), preoperative left ventricular outflow tract gradient of 65 mm Hg or more (P = .011), peeling of membrane from the mitral valve (P < .001), distance from the membrane to the aortic valve of less than 5 mm (P < .001), prior complex operation (P = .035), other left-sided heart lesions (P = .008), and aortic annulus z-score of -2.5 or less (P < .001). Our final prediction rule includes age, membrane to aortic valve distance, and other left-sided heart lesions each scored as 1 point. For patients with a score of 1 or less, 4% required a reintervention compared with 34% with a score of 2 or more.
+CONCLUSIONS: A prediction rule that incorporates the patient's age at the index operation, membrane to aortic valve distance, and associated left-sided heart lesions can determine the likelihood of reintervention for recurrent SubAS.
+
+Citation: Carlson L, et al. Preoperative Factors That Predict Recurrence After Repair of Discrete Subaortic Stenosis. Preoperative Factors That Predict Recurrence After Repair of Discrete Subaortic Stenosis. 2021; 111:1613-1619. doi: 10.1016/j.athoracsur.2020.05.140
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32712099/

@@ -1,0 +1,13 @@
+PMID: 36222756
+Title: Outcomes of non-ischaemic coronary lesions with high-risk plaque characteristics on coronary CT angiography.
+
+Abstract: BACKGROUND: The integrative implications of quantitative and qualitative plaque characteristics on clinical outcomes and therapeutic guidance have not been fully investigated.
+AIMS: We aimed to investigate the combined prognostic value of quantitative and qualitative plaque measures and their interactions with treatment modalities and physiological lesion severity.
+METHODS: Among 697 vessels from 458 patients who underwent fractional flow reserve (FFR)-guided treatment, quantitative high-risk plaque (qn-HRP; plaque burden ≥70% and minimum lumen area &lt;3.3 mm2) and qualitative HRP (ql-HRP; low-attenuation plaque or positive remodelling) were defined on coronary computed tomography angiography (CCTA). The primary endpoint was the vessel-oriented composite outcome (VOCO; a composite of cardiac death, myocardial infarction, or revascularisation).
+RESULTS: The mean baseline FFR was 0.85±0.12, and 25.8% underwent percutaneous coronary intervention (PCI) during the index procedure. In medically treated lesions, both qn-HRP and ql-HRP were associated with an increased risk of VOCO (p<0.05). Relative to the lesions with qn-HRP(-)/ql-HRP(-),those with qn-HRP(+)/ql-HRP(+) showed a higher risk of VOCO (hazard ratio [HR] 8.36, 95% confidence interval [CI]: 2.86-24.44). The PCI group showed a lower risk for VOCO than the medical treatment group (HR 0.31, 95% CI: 0.11-0.91) in lesions with qn-HRP(+)/ql-HRP(+). This difference was consistent in lesions with an FFR of 0.81-0.90 (HR 0.19, 95 CI: 0.04-0.90), but not in those with an FFR of>0.90.
+CONCLUSIONS: In non-ischaemic lesions, ql-HRP and qn-HRP showed a synergistic impact on risk assessment and had prognostic interactions with FFR and treatment modalities. Therefore, they need to be integrated into risk stratification and the optimisation of a treatment strategy.
+CLINICALTRIALS: gov: NCT04037163.
+
+Citation: Yang S, et al. Outcomes of non-ischaemic coronary lesions with high-risk plaque characteristics on coronary CT angiography. Outcomes of non-ischaemic coronary lesions with high-risk plaque characteristics on coronary CT angiography. 2023; 18:1011-1021. doi: 10.4244/EIJ-D-22-00562
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36222756/

@@ -1,0 +1,11 @@
+PMID: 33075181
+Title: Blocking von Willebrand factor free thiols inhibits binding to collagen under high and pathological shear stress.
+
+Abstract: BACKGROUND: Von Willebrand factor (VWF) contains a number of free thiols, the majority of which are located in its C-domains, and these have been shown to alter VWF function, However, the impact of free thiols on function following acute exposure of VWF to collagen under high and pathological shear stress has not been determined.
+METHODS: VWF free thiols were blocked with N-ethylmaleimide and flow assays performed under high and pathological shear rates to determine the impact on platelet capture and collagen binding function. Atomic force microscopy (AFM) was used to probe the interaction of VWF with collagen and molecular simulations conducted to determine the effect of free thiols on the flexibility of the VWF-C4 domain.
+RESULTS: Blockade of VWF free thiols reduced VWF-mediated platelet capture to collagen in a shear-dependent manner, with platelet capture virtually abolished above 5000 s-1 and in regions of stenosis in microfluidic channels. Direct visualization of VWF fibers formed under extreme pathological shear rates and analysis of collagen-bound VWF attributed the effect to altered binding of VWF to collagen. AFM measurements showed that thiol-blockade reduced the lifetime and strength of the VWF-collagen bond. Pulling simulations of the VWF-C4 domain demonstrated that with one or two reduced disulphide bonds the C4 domain has increased flexibility and the propensity to undergo free-thiol exchange.
+CONCLUSIONS: We conclude that free thiols in the C-domains of VWF enhance the flexibility of the molecule and enable it to withstand high shear forces following collagen binding, demonstrating a previously unrecognized role for VWF free thiols.
+
+Citation: O'Brien HER, et al. Blocking von Willebrand factor free thiols inhibits binding to collagen under high and pathological shear stress. Blocking von Willebrand factor free thiols inhibits binding to collagen under high and pathological shear stress. 2021; 19:358-369. doi: 10.1111/jth.15142
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33075181/

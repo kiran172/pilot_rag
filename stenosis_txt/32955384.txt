@@ -1,0 +1,12 @@
+PMID: 32955384
+Title: White-matter hyperintensities in patients with carotid artery stenosis: An exploratory connectometry study.
+
+Abstract: BACKGROUND: White-matter lesions (WMLs) are frequently found in magnetic resonance imaging (MRi), and the WML load tends to be higher in patients affected by cervical internal carotid artery (cICA) stenosis.
+PURPOSE: This study aimed to investigate whether and how WMLs influence cerebral networking in patients with asymptomatic cICA stenosis eligible for carotid endarterectomy (CEA) by exploiting the connectometry technique.
+METHODS: The study was designed as a cross-sectional exploratory investigation, and 28 patients with cICA stenosis eligible for CEA were enrolled. All patients received an MRI scan, including a T1-weighted, a FLAIR and a diffusion-weighted (DW) sequence. The T1 and FLAIR sequences were analysed for quantification of WML burden (WMLB) and total number of WMLs (TNWMLs). The DW data were reconstructed in the MNI space using q-space diffeomorphic reconstruction, and were grouped to create a connectometry database. The connectometry analysis evaluated the influence of both the WMLB and TNWMLs to local connectivity in a multiple regression model that included age, WMLB and TNWMLs, adopting three different T-score thresholds (1, 2 and 3). A p-value corrected for false discovery rate of &lt;0.05 was adopted as a threshold to identify statistically significant results.
+RESULTS: The connectometry analysis identified several white-matter bundles negatively correlated with WMLB; no statistically significant correlation was found for TNWMLs.
+CONCLUSION: Results of our study suggest that WMLs influence brain connectivity measured by the connectometry technique in patients with cICA stenosis eligible for CEA. Further studies are warranted to understand the role of WMLs better as a marker of disease in patients with cICA stenosis.
+
+Citation: Porcu M, et al. White-matter hyperintensities in patients with carotid artery stenosis: An exploratory connectometry study. White-matter hyperintensities in patients with carotid artery stenosis: An exploratory connectometry study. 2020; 33:486-493. doi: 10.1177/1971400920959323
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32955384/

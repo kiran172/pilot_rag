@@ -1,0 +1,11 @@
+PMID: 37076370
+Title: Diagnostic Performance of Magnetic Resonance Angiography for Artery Stenosis After Kidney Transplant: A Systematic Review and Meta-Analysis.
+
+Abstract: RATIONALE AND OBJECTIVES: Magnetic resonance angiography (MRA) is used to diagnose artery stenosis after kidney transplant. However, there is a lack of applicable consensus guidelines, and the diagnostic value of this technique is unclear. Therefore, the aim of the present study was to evaluate the diagnostic performance of MRA for the detection of artery stenosis after kidney transplant.
+MATERIALS AND METHODS: We searched PubMed, Web of Science, Cochrane Library, and Embase from database inception to September 1, 2022. Two independent reviewers assessed the methodological quality of eligible studies using the quality assessment of diagnostic accuracy studies-2 tool. The diagnostic odds ratio, pooled sensitivity, and specificity values, positive likelihood ratios, and negative likelihood ratios were calculated to synthesize data with a bivariate random-effects model. Meta-regression analysis was performed in cases of high among-study heterogeneity.
+RESULTS: Eleven studies were included in the meta-analysis. The area under the summary receiver operating characteristic curve was 0.96 (95% confidence interval [CI]: 0.94-0.98). The pooled sensitivity and specificity values for MRA in diagnosing artery stenosis after kidney transplant were 0.96 (95% CI: 0.76-0.99) and 0.93 (95% CI: 0.86-0.96), respectively.
+CONCLUSION: MRA demonstrated high sensitivity and specificity for diagnosing artery stenosis after kidney transplant, suggesting that it may be used reliably in clinical practice. However, further large-scale studies are required to validate the present findings.
+
+Citation: Huang Y, et al. Diagnostic Performance of Magnetic Resonance Angiography for Artery Stenosis After Kidney Transplant: A Systematic Review and Meta-Analysis. Diagnostic Performance of Magnetic Resonance Angiography for Artery Stenosis After Kidney Transplant: A Systematic Review and Meta-Analysis. 2023; 30:2021-2030. doi: 10.1016/j.acra.2023.02.034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37076370/

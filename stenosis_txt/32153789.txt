@@ -1,0 +1,11 @@
+PMID: 32153789
+Title: Clinical use of 4D flow MRI for quantification of aortic regurgitation.
+
+Abstract: OBJECTIVE: The main objective of the present study was to compare the use of four-dimensional (4D) flow MRI with the habitual sequence (two-dimensional phase-contrast (2DPC) MRI) for the assessment of aortic regurgitation (AR) in the clinical routine.
+METHODS: This was a retrospective, observational cohort study of patients with varying grades of AR. For the purposes of the present study, we selected all the cases with a regurgitant fraction (RF)>5% as determined by 2DPC MRI (n=34). In all cases, both sequences (2DPC and 4D flow MRI) were acquired in a single session to ensure comparability. We compared the results of the two techniques by evaluating forward flow, regurgitant flow and regurgitation fraction. Then, the patients were divided into subgroups to determine if these factors had any influence on the measurements: aortic diameter (≤ vs >38 mm), valve anatomy (tricuspid vs bicuspid/quadricuspid), stenosis (gradient ≥15 vs <15) and region of interest location (aortic valve vs sinotubular junction).
+RESULTS: No statistically significant differences were observed between the two techniques with Pearson's correlation coefficients (r) of forward flow (r=0.826/p value<0001), regurgitant flow (r=0.866/p value<0001) and RF (r=0.761/p value<0001).
+CONCLUSIONS: The findings of this study confirm the value of 4D flow MRI for grading AR in clinical practice with an excellent correlation with the standard technique (2DPC MRI).
+
+Citation: Alvarez A, et al. Clinical use of 4D flow MRI for quantification of aortic regurgitation. Clinical use of 4D flow MRI for quantification of aortic regurgitation. 2020; 7:e001158. doi: 10.1136/openhrt-2019-001158
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32153789/

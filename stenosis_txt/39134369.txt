@@ -1,0 +1,16 @@
+PMID: 39134369
+Title: Clinical Outcome of Pipeline Embolization Device with and without Coil to Treat Intracranial Aneurysm: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: The use of a Pipeline Embolization Device (PED) in combination with coils (PEDC) to treat intracranial aneurysms remains unclear as to whether it offers significant benefits for the patients since the results have varied.
+PURPOSE: This study aimed to investigate the clinical outcome of PEDC compared to PED in treating intracranial aneurysms.
+DATA SOURCES: We systematically searched the articles from PubMed, Web of Science, and the Cochrane Library databases published before January 25, 2024.
+STUDY SELECTION: We selected studies comparing PEDC vs. PED to treat intracranial aneurysms. Patients treated with PEDC but using dense coiling were excluded from the study.
+DATA ANALYSIS: The clinical outcomes observed in this meta-analysis were intraprocedural complications, postoperative complications (stenosis, stroke, hemorrhage, mortality), favorable outcome (mRS ≤ 2), complete occlusion rate, and retreatment rate. Forest plot was used to analyze pooled Odds Ratio (OR) of clinical outcomes.
+DATA SYNTHESIS: A total of 3001 subjects from nine observational studies were included. PEDC was mainly used to treat larger aneurysms. PEDC has a significantly higher complete occlusion rate at 6 months [OR= 2.66, 95% CI(1.26, 5.59), p= 0.01], a lower retreatment rate [OR= 0.18, 95% CI(0.05, 0.07), p= 0.010], higher stroke-related complications [OR= 1.66, 95% CI(1.16, 2.37), p= 0.005], and higher hemorrhage-related complications [OR= 1.98, 95% CI(1.22, 3.21), p = 0.005]. There was no significant difference in intraprocedural complications, stenosis-related complications, mortality, favorable outcomes, and complete occlusion at the end of the study.
+LIMITATIONS: No randomized controlled trials have been performed comparing PEDC and PED. Considering that all the included studies were observational, the patients' baseline characteristics were not completely balanced.
+CONCLUSIONS: This meta-analysis study showed that PEDC in large intracranial aneurysms induces a faster complete occlusion rate at 6 months and a lower retreatment rate. However, it increases the risk of stroke-related postoperative complications, and the faster complete aneurysm occlusion rate found in this study did not correlate with a reduction in long-term aneurysm or distal artery ruptures. Thus, this study suggests the need to find a better strategy to improve long-term hemorrhage-related complications in large intracranial aneurysms.
+ABBREVIATIONS: F = female; FDDs = flow-diverter devices; M = male; NOS = Newcastle-Ottawa Scale; PED = pipeline embolization device; PEDC = pipeline embolization device in combination with coils.
+
+Citation: Kesumayadi I, et al. Clinical Outcome of Pipeline Embolization Device with and without Coil to Treat Intracranial Aneurysm: A Systematic Review and Meta-Analysis. Clinical Outcome of Pipeline Embolization Device with and without Coil to Treat Intracranial Aneurysm: A Systematic Review and Meta-Analysis. 2024; (unknown volume):(unknown pages). doi: 10.3174/ajnr.A8443
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39134369/

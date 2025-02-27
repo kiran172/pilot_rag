@@ -1,0 +1,11 @@
+PMID: 37257352
+Title: The role of endothelial shear stress, shear stress gradient, and plaque topography in plaque erosion.
+
+Abstract: BACKGROUND AND AIMS: Plaque erosion is a common underlying cause of acute coronary syndromes. The role of endothelial shear stress (ESS) and endothelial shear stress gradient (ESSG) in plaque erosion remains unknown. We aimed to determine the role of ESS metrics and maximum plaque slope steepness in plaques with erosion versus stable plaques.
+METHODS: This analysis included 46 patients/plaques from TOTAL and COMPLETE trials and Brigham and Women's Hospital's database who underwent angiography and OCT. Plaques were divided into those with erosion (n = 24) and matched stable coronary plaques (n = 22). Angiographic views were used to generate a 3-D arterial reconstruction, with centerlines merged from angiography and OCT pullback. Local ESS metrics were assessed by computational fluid dynamics. Among plaque erosions, the up- and down-slope (Δ lumen area/frame) was calculated for each culprit plaque.
+RESULTS: Compared with stable plaque controls, plaques with an erosion were associated with higher max ESS (8.3 ± 4.8 vs. 5.0 ± 1.9 Pa, p = 0.02) and max ESSG any direction (9.2 ± 7.5 vs. 4.3 ± 3.11 Pa/mm, p = 0.005). Proximal erosion was associated with a steeper plaque upslope while distal erosion with a steeper plaque downslope. Max ESS and Max ESSG any direction were independent factors in the development of plaque erosion (OR 1.32, 95%CI 1.06-1.65, p = 0.014; OR 1.22, 95% CI 1.03-1.45, p = 0.009, respectively).
+CONCLUSIONS: In plaques with similar luminal stenosis, plaque erosion was strongly associated with higher ESS, ESS gradients, and plaque slope as compared with stable plaques. These data support that ESS and slope metrics play a key role in the development of plaque erosion and may help prognosticate individual plaques at risk for future erosion.
+
+Citation: Hakim D, et al. The role of endothelial shear stress, shear stress gradient, and plaque topography in plaque erosion. The role of endothelial shear stress, shear stress gradient, and plaque topography in plaque erosion. 2023; 376:11-18. doi: 10.1016/j.atherosclerosis.2023.05.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37257352/

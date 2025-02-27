@@ -1,0 +1,12 @@
+PMID: 34517519
+Title: Branch flow distribution approach and its application in the calculation of fractional flow reserve in stenotic coronary artery.
+
+Abstract: OBJECTIVE: To calculate fractional flow reserve (FFR) based on computed tomography angiography (i.e., FFRCT) by considering the branch flow distribution in the coronary arteries.
+BACKGROUND: FFR is the gold standard to diagnose myocardial ischemia caused by coronary stenosis. An accurate and noninvasive method for obtaining total coronary blood flow is needed for the calculation of FFRCT.
+METHODS: A mathematical model for estimating the coronary blood flow rate and two approaches for setting the patient-specific flow boundary condition were proposed. Coronary branch flow distribution methods based on a volume-flow approach and a diameter-flow approach were employed for the numerical simulation of FFRCT. The values of simulated FFRCT for 16 patients were compared with their clinically measured FFR.
+RESULTS: The ratio of total coronary blood flow to cardiac output and the myocardial blood flow under the condition of hyperemia were 16.97% and 4.07 mL/min/g, respectively. The errors of FFRCT compared with clinical data under the volume-flow approach and diameter-flow approach were 10.47% and 11.76%, respectively, the diagnostic accuracies of FFRCT were 65% and 85%, and the consistencies were 95% and 90%.
+CONCLUSIONS: The mathematical model for estimating the coronary blood flow rate and the coronary branch flow distribution method can be applied to calculate the value of clinical noninvasive FFRCT.
+
+Citation: Zhang H, et al. Branch flow distribution approach and its application in the calculation of fractional flow reserve in stenotic coronary artery. Branch flow distribution approach and its application in the calculation of fractional flow reserve in stenotic coronary artery. 2021; 18:5978-5994. doi: 10.3934/mbe.2021299
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34517519/

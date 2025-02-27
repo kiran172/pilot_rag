@@ -1,0 +1,12 @@
+PMID: 36051841
+Title: Efficacy and safety of drug-coated balloons according to coronary vessel size. A report from the BASKET-SMALL 2 trial.
+
+Abstract: INTRODUCTION: In BASKET-SMALL 2, drug-coated balloons (DCB) were non-inferior to drug-eluting stents (DES) in de-novo stenosis of small coronary vessels (≤ 2.75 mm) regarding clinical endpoints up to 36 months.
+AIM: In the present subgroup analysis, we aimed to analyze the effect of the two treatment strategies in different vessel sizes.
+MATERIAL AND METHODS: Patients were analyzed according to the size of the device used (small > 2.5 mm vs. very small ≤ 2.5 mm). The primary endpoint was major adverse cardiac events (MACE), while secondary endpoints were target vessel revascularization (TVR), non-fatal myocardial infarction, cardiac death, and all-cause mortality, all at 36 months. Interactions for the different groups were assessed with Cox regression analysis.
+RESULTS: Overall, 758 patients were enrolled in this analysis, of which 437 (58%) had very small vessel disease. There were similar results in both treatment groups for the primary endpoint in both small and very small vessels (DCB vs DES, MACE at 3 years in small vessels HR = 1.31, 95% CI: 0.74-2.32, p = 0.355, and very small vessels HR = 0.82, 95% CI: 0.49-1.39, p = 0.468). Second generation paclitaxel-eluting stents showed significantly higher rates for MACE (p = 0.041), TVR (p = 0.004) and non-fatal myocardial infarction (p = 0.036) compared to DCB in very small coronary arteries at 3 years, while results were similar in small coronary arteries.
+CONCLUSIONS: Efficacy and safety of DCB are similar irrespective of vessel size. However, there is a beneficial effect of DCB over paclitaxel-eluting stents regarding TVR, non-fatal myocardial infarction and MACE that is most pronounced in very small coronary arteries.
+
+Citation: Farah A, et al. Efficacy and safety of drug-coated balloons according to coronary vessel size. A report from the BASKET-SMALL 2 trial. Efficacy and safety of drug-coated balloons according to coronary vessel size. A report from the BASKET-SMALL 2 trial. 2022; 18:122-130. doi: 10.5114/aic.2022.118528
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36051841/

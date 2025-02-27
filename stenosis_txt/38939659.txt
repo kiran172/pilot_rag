@@ -1,0 +1,12 @@
+PMID: 38939659
+Title: Prediction of the Individual Aortic Stenosis Progression Rate and its Association With Clinical Outcomes.
+
+Abstract: BACKGROUND: The progression rate of aortic stenosis differs between patients, complicating clinical follow-up and management.
+OBJECTIVES: This study aimed to identify predictors associated with the progression rate of aortic stenosis.
+METHODS: In this retrospective longitudinal single-center cohort study, all patients with moderate aortic stenosis who presented between December 2011 and December 2022 and had echocardiograms available were included. The individual aortic stenosis progression rate was calculated based on aortic valve area (AVA) from at least 2 echocardiograms performed at least 6 months apart. Baseline factors associated with the progression rate of AVA were determined using linear mixed-effects models, and the association of progression rate with clinical outcomes was evaluated using Cox regression.
+RESULTS: The study included 540 patients (median age 69 years and 38% female) with 2,937 echocardiograms (median 5 per patient). Patients had a linear progression with a median AVA decrease of 0.09 cm2/y and a median peak jet velocity increase of 0.17 m/s/y. Rapid progression was independently associated with all-cause mortality (HR: 1.77, 95% CI: 1.26-2.48) and aortic valve replacement (HR: 3.44, 95% CI: 2.55-4.64). Older age, greater left ventricular mass index, atrial fibrillation, and chronic kidney disease were associated with a faster decline of AVA.
+CONCLUSIONS: AVA decreases linearly in individual patients, and faster progression is independently associated with higher mortality. Routine clinical and echocardiographic variables accurately predict the individual progression rate and may aid clinicians in determining the optimal follow-up interval for patients with aortic stenosis.
+
+Citation: Venema CS, et al. Prediction of the Individual Aortic Stenosis Progression Rate and its Association With Clinical Outcomes. Prediction of the Individual Aortic Stenosis Progression Rate and its Association With Clinical Outcomes. 2024; 3:100879. doi: 10.1016/j.jacadv.2024.100879
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38939659/

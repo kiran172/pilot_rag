@@ -1,0 +1,11 @@
+PMID: 32152648
+Title: Cerebral hemodynamics associated with fluid-attenuated inversion recovery hyperintense vessels in patients with extracranial carotid artery stenosis.
+
+Abstract: PURPOSE: Fluid-attenuated inversion recovery hyperintense vessels (FHVs) are linked to sluggish or disordered blood flow. The purpose of this study is to compare FHVs with digital subtraction angiography (DSA) findings and cerebral hemodynamic changes on acetazolamide challenge SPECT and to determine the clinical and imaging metrics associated with FHVs in patients with extracranial carotid artery stenosis (ECAS).
+METHODS: The subjects were patients with chronic ECAS who underwent carotid artery stenting in our department between March 2011 and October 2018. Relationships of FHVs with age, sex, medical history, cerebral angiographic findings using DSA, and quantitative values of cerebral blood flow (CBF) were examined. The resting CBF (rCBF) and cerebrovascular reactivity (CVR) in the middle cerebral artery territory were measured quantitatively using SPECT with acetazolamide challenge. We used multivariate logistic regression analysis to identify independent predictors of FHVs.
+RESULTS: Of 173 patients included, 92 (53.2%) had FHVs. Patients with FHVs had more severe stenosis (P < 0.01) and more leptomeningeal collateral vessels (P < 0.01). FHV-positive cases had significantly reduced CVR compared with FHV-negative cases (P < 0.01), although there was no significant difference in rCBF between FHV-positive and FHV-negative cases. Logistic regression analysis showed that ipsilateral rCBF and ipsilateral CVR were significant predictors for FHVs (P < 0.01).
+CONCLUSION: In patients with ECAS, cerebral hemodynamic metrics, especially ipsilateral rCBF and ipsilateral CVR, are associated with the presence of FHVs.
+
+Citation: Nishimoto T, et al. Cerebral hemodynamics associated with fluid-attenuated inversion recovery hyperintense vessels in patients with extracranial carotid artery stenosis. Cerebral hemodynamics associated with fluid-attenuated inversion recovery hyperintense vessels in patients with extracranial carotid artery stenosis. 2020; 62:677-684. doi: 10.1007/s00234-020-02385-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32152648/

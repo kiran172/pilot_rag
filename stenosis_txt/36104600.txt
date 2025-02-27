@@ -1,0 +1,11 @@
+PMID: 36104600
+Title: Computational fluid dynamics assessment of congenital tracheal stenosis.
+
+Abstract: PURPOSE: The severity of congenital tracheal stenosis (CTS) is commonly evaluated based on the degree of stenosis. However, it does not always reflect the clinical respiratory status. We applied computational fluid dynamics (CFD) to the assessment of CTS. The aim of this study was to evaluate its validity.
+METHODS: CFD models were constructed on 15 patients (12 preoperative models and 15 postoperative models) with CTS before and after surgery, using the computed tomographic data. Energy flux, needed to drive airflow, measured by CFD and the minimum cross-sectional area of the trachea (MCAT) were quantified and evaluated retrospectively.
+RESULTS: The energy flux correlated positively with the clinical respiratory status before and after surgery (rs = 0.611, p = 0.035 and rs = 0.591, p = 0.020, respectively). Although MCAT correlated negatively with the clinical respiratory status before surgery (rs = -0.578, p = 0.044), there was not significant correlation between the two after surgery (p = 0.572).
+CONCLUSIONS: The energy flux measured by CFD assessment reflects the respiratory status in CTS before and after surgery. CFD can be an additional objective and quantitative evaluation tool for CTS.
+
+Citation: Morita K, et al. Computational fluid dynamics assessment of congenital tracheal stenosis. Computational fluid dynamics assessment of congenital tracheal stenosis. 2022; 38:1769-1776. doi: 10.1007/s00383-022-05228-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36104600/

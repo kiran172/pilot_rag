@@ -1,0 +1,11 @@
+PMID: 32553850
+Title: Prosthetic Valve Endocarditis in Patients Undergoing TAVR Compared to SAVR: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: The risk of prosthetic valve endocarditis (PVE) in patients who underwent transcatheter aortic valve replacement (TAVR) is presumed to be high.
+METHODS: Electronic databases were searched to identify articles comparing the rate of PVE in post-TAVR and post-surgical aortic valve replacement (SAVR) patients. Pooled adjusted odds ratio (OR) was computed using a random-effects model.
+RESULTS: A total of 19 studies consisting of 84,288 patients, were identified. There was no significant difference in the odds of PVE between patients undergoing TAVR and SAVR, at 30-day (OR 0.62, 95% confidence interval (CI) 0.20-1.92, p = 0.41), 1-year (OR 0.99 95% CI 0.89-1.11, p = 0.84), 2-year (OR 1.02 95% CI 0.68-1.54, p = 0.92) and 5-year (OR 1.03 95% CI 0.80-1.33, p = 0.81). A subgroup sensitivity analysis also showed no significant inter-group differences in the rate of PVE at all time points, when stratified by the study design (clinical trial vs. observational), type of TAVR valves used (self-expanding bioprosthetic valves vs. balloon expanded bioprosthetic valves) and surgical risk of patients (high vs. intermediate vs. low). There was no heterogeneity (I2 = 0%) in the outcomes of the included studies at 30-day, 1-year and 2-year, while the heterogeneity in studies at 5-year was minimal (I2 = 22%).
+CONCLUSIONS: In comparison to SAVR, both short and long-term risk of prosthetic valve endocarditis appears to be identical in patients undergoing TAVR. This risk is unaffected by the type of valve, duration of follow-up, study design and surgical risk of the patients.
+
+Citation: Ullah W, et al. Prosthetic Valve Endocarditis in Patients Undergoing TAVR Compared to SAVR: A Systematic Review and Meta-Analysis. Prosthetic Valve Endocarditis in Patients Undergoing TAVR Compared to SAVR: A Systematic Review and Meta-Analysis. 2020; 21:1567-1572. doi: 10.1016/j.carrev.2020.05.034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32553850/

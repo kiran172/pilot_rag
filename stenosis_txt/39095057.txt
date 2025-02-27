@@ -1,0 +1,11 @@
+PMID: 39095057
+Title: Image Quality Assessment of a Deep Learning-Based Automatic Bone Removal Algorithm for Cervical CTA.
+
+Abstract: BACKGROUND: The present study aims to evaluate the postprocessing image quality of a deep-learning (DL)-based automatic bone removal algorithm in the real clinical practice for cervical computed tomography angiography (CTA).
+MATERIALS AND METHODS: A total of 100 patients (31 females, 61.4 ± 12.4 years old) who had performed cervical CTA from January 2022 to July 2022 were included retrospectively. Three different types of scanners were used. Ipsilateral cervical artery was divided into 10 segments. The performance of the DL algorithm and conventional algorithm in terms of bone removal and vascular integrity was independently evaluated by two radiologists for each segment. The difference in the performance between the two algorithms was compared. Inter- and intrarater consistency were assessed, and the correlation between the degree of carotid artery stenosis and the rank of bone removal and vascular integrity was analyzed.
+RESULTS: Significant differences were observed in the rankings of bone removal and vascular integrity between the two algorithms on most segments on both sides. Compared to DL algorithm, the conventional algorithm showed a higher correlation between the degree of carotid artery stenosis and vascular integrity (r = -0.264 vs r = -0.180). The inter- and intrarater consistency of DL algorithm were found to be higher than or equal to those of conventional algorithm.
+CONCLUSIONS: The DL algorithm for bone removal in cervical CTA demonstrated significantly better performance than conventional postprocessing method, particularly in the segments with complex anatomical structures and adjacent to bone.
+
+Citation: Cui Y, et al. Image Quality Assessment of a Deep Learning-Based Automatic Bone Removal Algorithm for Cervical CTA. Image Quality Assessment of a Deep Learning-Based Automatic Bone Removal Algorithm for Cervical CTA. 2024; (unknown volume):(unknown pages). doi: 10.1097/RCT.0000000000001637
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39095057/

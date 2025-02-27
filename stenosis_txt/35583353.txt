@@ -1,0 +1,11 @@
+PMID: 35583353
+Title: On inlet pressure boundary conditions for CT-based computation of fractional flow reserve: clinical measurement of aortic pressure.
+
+Abstract: BACKGROUND AND OBJECTIVES: A quick calculation approach of steady-state fractional flow reserve (FFRss) based on computed tomography angiography (CTA) images is a reliable non-invasive way of calculate FFR, the assumptions used in the research should be study further to increase forecast accuracy. The effect of inlet and outlet boundary conditions on FFRss was investigated.
+METHODS: 15 patients who had been diagnosed with coronary artery disease were enrolled in this study. We investigated the sensitivity of calculating FFR to boundary circumstances, using invasive FFR as a benchmark. There are two types of inlet: (1) aortic pressure based on clinically measured. (2) mean pressure calculated based on physiological formula; we further studied the outlet changes of FFRss under different coronary vasodilation responses (24%, 48%, 72%).
+RESULTS: According to the calculate FFR results of all patients, FFR<sub>SST</sub> (based on the clinical experiment) and FFR<sub>SSM</sub> (based on the physiological formula) {r = 0.99, [95% confidence interval (CI):0.0.94 to 1.14] (p &lt; 0.001)}. Although the pressure difference between the two pressure boundary conditions is 15 mmHg, the calculated FFR result does not change significantly. The microcirculation resistance of the outlet gradually rose as the vasodilation state changed, and the computed FFR increased.
+CONCLUSIONS: A numerical analysis of the effects of proximal and distal boundary constraints of computational models on computed CT-FFR is presented. The findings revealed that distal boundary circumstances (hyperemic vasodilation response of coronary micro-vessels) have a significant impact on FFR, providing evidence to guide the development and application of a computational model for estimating FFR.
+
+Citation: Liu J, et al. On inlet pressure boundary conditions for CT-based computation of fractional flow reserve: clinical measurement of aortic pressure. On inlet pressure boundary conditions for CT-based computation of fractional flow reserve: clinical measurement of aortic pressure. 2023; 26:517-526. doi: 10.1080/10255842.2022.2072172
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35583353/

@@ -1,0 +1,11 @@
+PMID: 32716124
+Title: Diagnostic accuracy of two-dimensional coronary angiographic-derived fractional flow reserve-Preliminary results.
+
+Abstract: AIM: Noninvasive fractional flow reserve (NiFFR) is an emerging method for evaluating the functional significance of a coronary lesion during diagnostic coronary angiography (CAG). The method relies on the computational flow dynamics and the three-dimensional (3D) reconstruction of the vessel extracted from CAG. In the present study, we sought to evaluate the diagnostic performance and applicability of 2D-based NiFFR.
+METHODS: In this prospective observational study, we evaluated 2D-based NiFFR in 279 candidates for invasive CAG and invasive fractional flow reserve (FFR). NiFFR was calculated via two methods: variable NiFFR, in which the contrast transport time was extracted from the angiographic view, and fixed NiFFR, in which a prespecified frame count was applied.
+RESULTS: The final analysis was performed on 245 patients (250 lesions). Variable NiFFR had an area under the receiver operating characteristic curve of 81.5%, an accuracy of 80.0%, a sensitivity of 82.2%, a specificity of 82.2%, a negative predictive value of 91.4%, and a positive predictive value of 63.6%. The mean difference between FFR and NiFFR was -0.0244 ±.0616 (p ≤.0001). A pressure wire-free hybrid strategy was possible in 68.8% of our population with variable NiFFR.
+CONCLUSIONS: Our 2D-based NiFFR yielded results comparable to those derived from 3D-based software. Our findings should; however, be confirmed in larger trials.
+
+Citation: Babakhani H, et al. Diagnostic accuracy of two-dimensional coronary angiographic-derived fractional flow reserve-Preliminary results. Diagnostic accuracy of two-dimensional coronary angiographic-derived fractional flow reserve-Preliminary results. 2021; 97:E484-E494. doi: 10.1002/ccd.29150
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32716124/

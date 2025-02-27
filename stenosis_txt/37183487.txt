@@ -1,0 +1,10 @@
+PMID: 37183487
+Title: Human antigen R regulates autophagic flux by stabilizing autophagy-associated mRNA in calcific aortic valve disease.
+
+Abstract: AIMS: The incidence of calcific aortic valve disease (CAVD) has risen over the last decade and is expected to continue rising; however, pharmacological approaches have proven ineffective. In this study, we evaluated the role and underlying mechanisms of human antigen R (HuR)-mediated post-transcriptional regulation in CAVD.
+METHODS AND RESULTS: We found that HuR was significantly upregulated in human calcified aortic valves and primary aortic valvular interstitial cells (VICs) following osteogenic stimulation. Subsequent functional studies revealed that HuR silencing ameliorated calcification both in vitro and in vivo. For the first time, we demonstrated that HuR directly interacted with the transcript of phosphatidylinositol-5-phosphate 4-kinase, type II, alpha (PIP4K2A), which mediates phosphatidylinositol signalling, facilitates autophagy, and acts as an mRNA stabilizer. HuR positively modulated PIP4K2A expression at the post-transcriptional level and consequently influenced the AKT/mTOR/ATG13 pathway to regulate autophagy and CAVD progression.
+CONCLUSION: Our study provides new insights into the post-transcriptional regulatory role of HuR in modulating autophagy-positive factors to regulate the pathogenesis of CAVD. Our findings highlight the potential of HuR as an innovative therapeutic target in CAVD treatment.
+
+Citation: Fang J, et al. Human antigen R regulates autophagic flux by stabilizing autophagy-associated mRNA in calcific aortic valve disease. Human antigen R regulates autophagic flux by stabilizing autophagy-associated mRNA in calcific aortic valve disease. 2023; 119:2117-2129. doi: 10.1093/cvr/cvad077
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37183487/

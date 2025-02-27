@@ -1,0 +1,11 @@
+PMID: 37186970
+Title: The role of intracranial artery calcification (IAC) in stroke subtype and risk of vascular events.
+
+Abstract: OBJECTIVE: To test the hypothesis that intracranial arterial calcification (IAC) is associated with intracranial large artery stenosis (ILAS) and a higher risk of vascular events and mortality.
+METHOD: We leveraged data from two cohorts, the New York-Presbyterian Hospital/Columbia University Irving Medical Center Stroke Registry Study (NYP/CUIMC-SRS) and the Northern Manhattan Study (NOMAS) to test our hypotheses. We measured IAC using CT scans of participants in both cohorts and expressed IAC as present (vs not) and in tertiles. For the CUIMC-SRS, demographic, clinical and ILAS status was collected retrospectively. In NOMAS, we used research brain MRI and MRA to define asymptomatic ILAS and covert brain infarcts(CBI). We built models adjusted for demographics and vascular risk factors for cross-sectional and longitudinal analyses.
+RESULTS: Cross-sectionally, IAC was associated with ILAS in both cohorts (OR 1.78, 95% CI: 1.16-2.73 for ILAS-related stroke in the NYP/CUIMC-SRS and OR 3.07, 95%CI 1.13-8.35 for ILAS-related covert brain infarcts in NOMAS). In a meta-analysis of both cohorts, IAC in the upper (HR 1.25, 95%CI 1.01-1.55) and middle tertile (HR 1.27, 95%CI 1.01-1.59) was associated with higher mortality compared with participants with no IAC. There were no longitudinal associations between IAC and risk of stroke or other vascular events.
+CONCLUSION: In these multiethnic populations, IAC is associated with symptomatic and asymptomatic ILAS as well as higher mortality. IAC may be a useful marker of higher mortality, the role of IAC as an imaging marker of risk of stroke is less certain.
+
+Citation: Gurel K, et al. The role of intracranial artery calcification (IAC) in stroke subtype and risk of vascular events. The role of intracranial artery calcification (IAC) in stroke subtype and risk of vascular events. 2023; 32:107185. doi: 10.1016/j.jstrokecerebrovasdis.2023.107185
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37186970/

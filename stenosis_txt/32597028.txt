@@ -1,0 +1,11 @@
+PMID: 32597028
+Title: Additive prognostic value of carbohydrate antigen-125 over frailty in patients undergoing transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: To evaluate the additive prognostic value of myocardial, inflammatory, and renal biomarkers according to frailty status in patients undergoing transcatheter aortic valve replacement (TAVR) for aortic stenosis (AS).
+METHODS: A total of 111 subjects who underwent TAVR at Hospital Italiano de Buenos Aires, Argentina between January 2016 and December 2018 were retrospectively reviewed. Plasma levels of N-terminal pro-B-type natriuretic peptide (NT-proBNP), high sensitivity troponin T (hs-cTnT), C-reactive protein (CRP), cystatin-c (Cys-C) and carbohydrate antigen-125 (CA-125) were assessed prior to TAVR. Frailty status was assessed according to the fried physical frailty phenotype (FPFP). The primary endpoint was defined as all-cause death and/or readmission for worsening congestive heart failure (CHF) within the first year after TAVR.
+RESULTS: Of the 111 patients included, 48/111 (43%) were considered to be "frail" according to the FPFP. Among biomarkers, we found CA-125 to be strongly associated with the primary endpoint (p = .006). CA-125 ≥ 18.2 U/ml was present in 41% and was associated with a higher rate of the primary endpoint (31% vs. 9%; p = .003). After multivariable adjustment, CA-125 ≥ 18.2 U/ml (hazard ratio [HR] 3.17; p = .024) was the only independent predictor of the primary endpoint. Finally, the inclusion of CA-125 to frailty significantly improved C-index (0.68-0.74; p < .05), and provided a Net Reclassification Improvement (NRI) of 0.34 (95% CI 0.19-0.49, p = .031), largely through reductions in risk estimates among pre-frail and frail patients.
+CONCLUSIONS: CA-125, a tumor biomarker, outperformed frailty for predicting the primary endpoint within the first year after TAVR.
+
+Citation: Romeo FJ, et al. Additive prognostic value of carbohydrate antigen-125 over frailty in patients undergoing transcatheter aortic valve replacement. Additive prognostic value of carbohydrate antigen-125 over frailty in patients undergoing transcatheter aortic valve replacement. 2021; 97:E263-E273. doi: 10.1002/ccd.29067
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32597028/

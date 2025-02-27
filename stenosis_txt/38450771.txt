@@ -1,0 +1,12 @@
+PMID: 38450771
+Title: Similarity Network Analysis of the Adaptive Immune Response in the Proximal Airway.
+
+Abstract: OBJECTIVES: Recent immunologic study of the adaptive immune repertoire in the subglottic airway demonstrated high-frequency T cell clones that do not overlap between individuals. However, the anatomic distribution and antigenic target of the T cell repertoire in the proximal airway mucosa remain unresolved.
+METHODS: Single-cell RNA sequencing of matched scar and unaffected mucosa from idiopathic subglottic stenosis patients (iSGS, n = 32) was performed and compared with airway mucosa from healthy controls (n = 10). T cell receptor (TCR) sequences were interrogated via similarity network analysis to explore antigenic targets using the published algorithm: Grouping of Lymphocyte Interactions by Paratope Hotspots (GLIPH2).
+RESULTS: The mucosal T cell repertoire in healthy control airways consisted of highly expressed T cell clones conserved across anatomic subsites (trachea, bronchi, bronchioles, and lung). In iSGS, high-frequency clones were equally represented in both scar and adjacent non-scar tissue. Significant differences in repertoire structure between iSGS scar and unaffected mucosa was observed, driven by unique low-frequency clones. GLIPH2 results suggest low-frequency clones share targets between multiple iSGS patients.
+CONCLUSION: Healthy airway mucosa has a highly conserved T cell repertoire across multiple anatomic subsites. Similarly, iSGS patients have highly expressed T cell clones present in both scar and unaffected mucosa. iSGS airway scar possesses an abundance of less highly expanded clones with predicted antigen targets shared between patients. Interrogation of these shared motifs suggests abundant adaptive immunity to viral targets in iSGS airway scar. These results provide insight into disease pathogenesis and illuminate new treatment strategies in iSGS.
+LEVEL OF EVIDENCE: NA Laryngoscope, 134:3245-3252, 2024.
+
+Citation: Clark E, et al. Similarity Network Analysis of the Adaptive Immune Response in the Proximal Airway. Similarity Network Analysis of the Adaptive Immune Response in the Proximal Airway. 2024; 134:3245-3252. doi: 10.1002/lary.31376
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38450771/

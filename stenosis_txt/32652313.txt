@@ -1,0 +1,11 @@
+PMID: 32652313
+Title: Postoperative Opioid Analgesia Impacts Resource Utilization in Infants Undergoing Pyloromyotomy.
+
+Abstract: BACKGROUND: Opioid analgesia is often avoided in infants undergoing pyloromyotomy. Previous studies highlight an association between opioid use and prolonged hospitalization after pyloromyotomy. However, the impact of opioid use on healthcare resource utilization and cost is unknown. We hypothesized that use of opioids after pyloromyotomy is associated with increased resource utilization and costs.
+METHODS: A retrospective cohort study was conducted identifying healthy infants aged <6 mo with a diagnosis of pyloric stenosis who underwent pyloromyotomy from 2005 to 2015 among 47 children's hospitals using the Pediatric Health Information System database. Time of opioid exposure was categorized as day of surgery (DOS) alone, postoperative use alone, or combined DOS and postoperative use. Primary outcomes were the standardized unit cost, a proxy for resource utilization, billed charges to the patient/insurer, and hospital costs. A multivariable log-linear mixed-effects model was used to adjust for patient and hospital level factors.
+RESULTS: Overall, 11,008 infants underwent pyloromyotomy with 2842 (26%) receiving perioperative opioids. Most opioid use was confined to the DOS alone (n = 2,158, 19.6%). Infants who received opioids on DOS and postoperatively exhibited 13% (95% confidence interval [CI]: 7%-20%, P-value <0.001) higher total resource utilization compared with infants who did not receive any opioids. Billed charges were 3% higher (95% CI: 0%-5%, P-value = 0.034) for infants receiving opioids isolated to the postoperative period alone and 6% higher (95% CI: 2%-11%, P-value = 0.004) for infants receiving opioids on the DOS and postoperatively.
+CONCLUSIONS: Postoperative opioid use among infants who underwent pyloromyotomy was associated with increased resource utilization and costs.
+
+Citation: Squillaro AI, et al. Postoperative Opioid Analgesia Impacts Resource Utilization in Infants Undergoing Pyloromyotomy. Postoperative Opioid Analgesia Impacts Resource Utilization in Infants Undergoing Pyloromyotomy. 2020; 255:594-601. doi: 10.1016/j.jss.2020.05.077
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32652313/

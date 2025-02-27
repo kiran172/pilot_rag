@@ -1,0 +1,11 @@
+PMID: 35983008
+Title: AXL Inhibits Proinflammatory Factors to Relieve Rheumatoid Arthritis Pain by Regulating the TLR4/NF-κB Signaling Pathway.
+
+Abstract: OBJECTIVE: This study aims to explore the role and mechanism of AXL receptor tyrosine kinase (AXL) in relieving inflammatory pain caused by rheumatoid arthritis (RA).
+METHODS: RA mouse model was constructed by collagen antibody induction. RT-qPCR and Western blot were used to detect the level of AXL in RA fibroblast-like synovial cells (RA-FLS) and joint synovium. The levels of interleukin-6 (IL-6), tumor necrosis factor-α (TNF-α), and nitric oxide (NO) were detected by ELISA. The inflammatory infiltration in joints was determined via HE staining. The mechanical abnormal pain and hyperalgesia were detected by the Von Frey microfilament test. The protein levels of inducible nitric oxide synthase (iNOS), cyclooxygenase-2 (3COX-2), toll-like receptor 4 (TLR4), p65, and phosphor (p)-p65 were detected by Western blotting.
+RESULTS: The expression of AXL in RA-FLS and RA mice was downregulated, while the expression of iNOS and COX-2 was upregulated. The levels of inflammatory cytokines IL-6, TNF-α, and NO were increased in RA-FLS and RA mice. RA mice presented inflammatory cell infiltration, bone and cartilage destruction, and joint space stenosis. AXL overexpression alleviated inflammatory cell infiltration, inflammatory cytokine secretion, and pathological injury in RA mice. Additionally, AXL overexpression inhibited the expression of TLR4 and p-p65.
+CONCLUSION: AXL inhibits inflammatory pain in RA mice by suppressing TLR4/NF-κB pathway.
+
+Citation: Zhou G and Li H. AXL Inhibits Proinflammatory Factors to Relieve Rheumatoid Arthritis Pain by Regulating the TLR4/NF-κB Signaling Pathway. AXL Inhibits Proinflammatory Factors to Relieve Rheumatoid Arthritis Pain by Regulating the TLR4/NF-κB Signaling Pathway. 2022; 2022:7625739. doi: 10.1155/2022/7625739
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35983008/

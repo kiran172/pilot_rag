@@ -1,0 +1,12 @@
+PMID: 37877906
+Title: Association of Age and Sex With Use of Transcatheter Aortic Valve Replacement in France.
+
+Abstract: BACKGROUND: Current guidelines recommend selecting surgical aortic valve replacement (SAVR) or transcatheter aortic valve replacement (TAVR) based on age, comorbidities, and surgical risk. Nevertheless, reports from the United States suggest a rapid expansion of TAVR in young patients.
+OBJECTIVES: The authors sought to evaluate the trends in TAVR uptake at a nationwide level in France according to age and sex.
+METHODS: Using a nationwide administrative database, we evaluated age- and sex-related trends in TAVR uptake, patient demographics, and in-hospital outcomes between 2015 and 2020.
+RESULTS: A total of 107,397 patients (44.0% female) underwent an isolated aortic valve replacement (AVR) (59.1% TAVR, 40.9% SAVR). In patients <65 years of age, the proportion of TAVR increased by 63.2% (P < 0.001) from 2015 to 2020 but remained uncommon at 11.1% of all AVR by 2020 (12.4% in females, 10.6% in males) while TAVR was the dominant modality in patients ≥65 years of age. In patients undergoing TAVR, the Charlson comorbidity index (CCI) (P = 0.119 for trend) and in-hospital mortality (P = 0.740 for trend) remained unchanged in patients <65 years of age but declined in those ≥65 years of age irrespective of sex (all P < 0.001 for trends). Females were older (P < 0.001), had lower CCI (P < 0.001), were more likely to undergo TAVR (P < 0.001), and experienced higher in-hospital mortality (TAVR, P = 0.015; SAVR, P < 0.001) that persisted despite adjustment for age and CCI.
+CONCLUSIONS: In France, the use of TAVR remained uncommon in young patients, predominantly restricted to those at high risk. Important sex differences were observed in patent demographics, selection of AVR modality, and patient outcomes. Additional research evaluating the long-term impact of TAVR use in young patients and prospective data evaluating sex differences in AVR modality selection and outcomes are needed.
+
+Citation: Prosperi-Porta G, et al. Association of Age and Sex With Use of Transcatheter Aortic Valve Replacement in France. Association of Age and Sex With Use of Transcatheter Aortic Valve Replacement in France. 2023; 82:1889-1902. doi: 10.1016/j.jacc.2023.08.044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37877906/

@@ -1,0 +1,12 @@
+PMID: 39387783
+Title: Impact of Severity and Extent of Iliofemoral Atherosclerosis on Clinical Outcomes in Patients Undergoing TAVR.
+
+Abstract: BACKGROUND: Vascular complications remain a major concern in transfemoral transcatheter aortic valve replacement (TAVR). The Hostile score has been proposed to stratify risk in TAVR patients with peripheral artery disease.
+OBJECTIVES: The authors aimed to assess the validity of the Hostile score in predicting iliofemoral vascular complications after TAVR.
+METHODS: In a prospective TAVR registry, we validated the Hostile score for the prediction of puncture and non-puncture site vascular complications. This scoring system integrates the extent (number of lesions, lesion length, and minimum lumen diameter) and complexity (tortuosity, calcification, and the presence of obstruction) of iliofemoral atherosclerosis.
+RESULTS: Of 2,023 patients who underwent transfemoral TAVR with contemporary devices between March 2014 and June 2022, 106 (5.2%) patients experienced puncture site vascular complications and 28 (1.4%) patients experienced non-puncture site vascular complications. The Hostile score was higher in patients with vascular complications than those without complications (1.00 [Q1-Q3: 0-5.00] vs 1.00 [Q1-Q3: 0-4.00]; P < .001). A higher body mass index (OR: 1.23; 95% CI: 1.04-1.50) and the use of Prostar (OR: 6.03; 95% CI: 2.23-16.30) or MANTA (OR: 6.18; 95% CI: 2.67-14.27) compared with ProGlide were independent predictors of puncture site vascular complications, whereas a higher Hostile score (OR: 1.91; 95% CI: 1.55-2.35) and female sex (OR: 2.69; 95% CI: 1.12-6.42) were independent predictors of non-puncture site vascular complications. The area under the receiver-operating characteristic curves for the prediction of puncture site and non-puncture site vascular complications were 0.554 and 0.829, respectively.
+CONCLUSIONS: The Hostile score proved useful in predicting non-puncture site vascular complications after TAVR. (SwissTAVI Registry; NCT01368250).
+
+Citation: Nakase M, et al. Impact of Severity and Extent of Iliofemoral Atherosclerosis on Clinical Outcomes in Patients Undergoing TAVR. Impact of Severity and Extent of Iliofemoral Atherosclerosis on Clinical Outcomes in Patients Undergoing TAVR. 2024; 17:2353-2363. doi: 10.1016/j.jcin.2024.07.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39387783/

@@ -1,0 +1,8 @@
+PMID: 36163494
+Title: A soft robotic sleeve mimicking the haemodynamics and biomechanics of left ventricular pressure overload and aortic stenosis.
+
+Abstract: Preclinical models of aortic stenosis can induce left ventricular pressure overload and coarsely control the severity of aortic constriction. However, they do not recapitulate the haemodynamics and flow patterns associated with the disease. Here we report the development of a customizable soft robotic aortic sleeve that can mimic the haemodynamics and biomechanics of aortic stenosis. By allowing for the adjustment of actuation patterns and blood-flow dynamics, the robotic sleeve recapitulates clinically relevant haemodynamics in a porcine model of aortic stenosis, as we show via in vivo echocardiography and catheterization studies, and a combination of in vitro and computational analyses. Using in vivo and in vitro magnetic resonance imaging, we also quantified the four-dimensional blood-flow velocity profiles associated with the disease and with bicommissural and unicommissural defects re-created by the robotic sleeve. The design of the sleeve, which can be adjusted on the basis of computed tomography data, allows for the design of patient-specific devices that may guide clinical decisions and improve the management and treatment of patients with aortic stenosis.
+
+Citation: Rosalia L, et al. A soft robotic sleeve mimicking the haemodynamics and biomechanics of left ventricular pressure overload and aortic stenosis. A soft robotic sleeve mimicking the haemodynamics and biomechanics of left ventricular pressure overload and aortic stenosis. 2022; 6:1134-1147. doi: 10.1038/s41551-022-00937-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36163494/

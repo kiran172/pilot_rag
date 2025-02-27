@@ -1,0 +1,11 @@
+PMID: 33269957
+Title: Current Surgical Risk Scores Overestimate Risk in Minimally Invasive Aortic Valve Replacement.
+
+Abstract: OBJECTIVE: Risk-scoring systems for surgical aortic valve replacement (AVR) were largely derived from sternotomy cases. We evaluated the accuracy of current risk scores in predicting outcomes after minimally invasive AVR (mini-AVR). Because transcatheter AVR (TAVR) is being considered for use in low-risk patients with aortic stenosis, accurate mini-AVR risk assessment is necessary.
+METHODS: We reviewed 1,018 consecutive isolated mini-AVR cases (2009 to 2015). After excluding patients with Society of Thoracic Surgeons Predicted Risk of Mortality (STS-PROM) scores ≥4, we calculated each patient's European System for Cardiac Operative Risk Evaluation (EuroSCORE) II, TAVR Risk Score (TAVR-RS), and age, creatinine, and ejection fraction score (ACEF). We compared all 4 scores' accuracy in predicting mini-AVR 30-day mortality by computing each score's observed-to-expected mortality ratio (O:E). Area under the receiver operating characteristic (ROC) curves tested discrimination, and the Hosmer-Lemeshow goodness-of-fit tested calibration.
+RESULTS: Among 941 patients (mean age, 72 ± 12 years), 6 deaths occurred within 30 days (actual mortality rate, 0.6%). All 4 scoring systems overpredicted expected mortality after mini-AVR: ACEF (1.4%), EuroSCORE II (1.9%), STS-PROM (2.0%), and TAVR-RS (2.1%). STS-PROM best estimated risk for patients with STS-PROM scores 0 to <1 (0.6 O:E), ACEF for patients with STS-PROM scores 2 to <3 (0.6 O:E), and TAVR-RS for patients with STS-PROM scores 3 to <4 (0.7 O:E). ROC curves showed only fair discrimination and calibration across all risk scores.
+CONCLUSIONS: In low-risk patients who underwent mini-AVR, current surgical scoring systems overpredicted mortality 2-to-3-fold. Alternative dedicated scoring systems for mini-AVR are needed for more accurate outcomes assessment.
+
+Citation: Alnajar A, et al. Current Surgical Risk Scores Overestimate Risk in Minimally Invasive Aortic Valve Replacement. Current Surgical Risk Scores Overestimate Risk in Minimally Invasive Aortic Valve Replacement. 2021; 16:43-51. doi: 10.1177/1556984520971775
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33269957/

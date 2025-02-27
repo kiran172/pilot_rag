@@ -1,0 +1,8 @@
+PMID: 38503717
+Title: Coronary hemodynamic simulation study.
+
+Abstract: In this paper, a two-way fluid-structure coupling model is developed to simulate and analyze the hemodynamic process based on dynamic coronary angiography, and examine the influence of different hemodynamic parameters on coronary arteries in typical coronary stenosis lesions. Using the measured FFR pressure data of a patient, the pressure-time function curve is fitted to ensure the accuracy of the boundary conditions. The average error of the simulation pressure results compared to the test data is 6.74%. In addition, the results related to blood flow, pressure contour and wall shear stress contour in a typical cardiac cycle are obtained by simulation analysis. These results are found to be in good agreement with the laws of the real cardiac cycle, which verifies the rationality of the simulation. In conclusion, based on the modeling and hemodynamic simulation analysis process of dynamic coronary angiography, this paper proposes a method to assist the analysis and evaluation of coronary hemodynamic and functional parameters, which has certain practical significance.
+
+Citation: Cheng L, et al. Coronary hemodynamic simulation study. Coronary hemodynamic simulation study. 2024; 238:444-454. doi: 10.1177/09544119241231028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38503717/

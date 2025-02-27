@@ -1,0 +1,11 @@
+PMID: 38205526
+Title: Association Between Aortic Valve Sclerosis and Clonal Hematopoiesis of Indeterminate Potential.
+
+Abstract: BACKGROUND: The mechanism and medical treatment target for degenerative aortic valve disease, including aortic stenosis, is not well studied. In this study, we investigated the effect of clonal hematopoiesis of indeterminate potential (CHIP) on the development of aortic valve sclerosis (AVS), a calcified aortic valve without significant stenosis.
+METHODS: Participants with AVS (valves ≥2 mm thick, high echogenicity, and a peak transaortic velocity of <2.5 m/sec) and an age- and sex-matched control group were enrolled. Twenty-four CHIP genes with common variants in cardiovascular disease were used to generate a next-generation sequencing panel. The primary endpoint was the CHIP detection rate between the AVS and control groups. Inverse-probability treatment weighting (IPTW) analysis was performed to adjust for differences in baseline characteristics.
+RESULTS: From April 2020 to April 2022, 187 participants (125 with AVS and 62 controls) were enrolled; the mean age was 72.6±8.5 yrs, and 54.5% were male. An average of 1.3 CHIP variants was observed. CHIP detection, defined by a variant allele frequency (VAF) of ≥0.5%, was similar between the groups. However, the AVS group had larger CHIP clones: 49 (39.2%) participants had a VAF of ≥1% (vs. 13 [21.0%] in the control group; P=0.020), and 25 (20.0%) had a VAF of ≥2% (vs. 4 [6.5%]; P=0.028). AVS is independently associated with a VAF of ≥1% (adjusted odds ratio: 2.44, 95% confidence interval: 1.11-5.36; P=0.027). This trend was concordant and clearer in the IPTW cohort.
+CONCLUSIONS: Participants with AVS more commonly had larger CHIP clones than age- and sex-matched controls. Further studies are warranted to identify causality between AVS and CHIP.
+
+Citation: Kim M, et al. Association Between Aortic Valve Sclerosis and Clonal Hematopoiesis of Indeterminate Potential. Association Between Aortic Valve Sclerosis and Clonal Hematopoiesis of Indeterminate Potential. 2024; 44:279-288. doi: 10.3343/alm.2023.0268
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38205526/

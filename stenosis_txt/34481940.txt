@@ -1,0 +1,11 @@
+PMID: 34481940
+Title: Epidemiology of major relapse in giant cell arteritis: A study-level meta-analysis.
+
+Abstract: OBJECTIVE: The relapse rate of giant cell arteritis (GCA) is around 48%. Major relapse of GCA is defined by the European League Against Rheumatism as severe ischemic or aortic (stenosis, aneurysm, or aortic dissection) disease of GCA. The objective of the present study was to determine the prevalence and incidence, as well as the spectrum of major relapse in GCA using published data.
+METHODS: The MEDLINE and Cochrane databases were searched up to March 2020. Studies that included patients with newly diagnosed or relapsed GCA receiving glucocorticoids (GC) alone and/or GC-sparing therapy, detailing the number of relapsing patients and the characteristics of relapses were included. The prevalence and incidence of major relapse were pooled using a random-effects model.
+RESULTS: Twenty-six studies (including eight randomised controlled trials) involving 2754 patients with GCA were included. The prevalence and incidence of major relapse in this population was 3.3% (95%CI [1.7;5.6]; I2 = 86%) and 14.5/100 patient-years (95%CI [5.2;27.2]; I2 = 90%). The clinical manifestations were jaw claudication (44.3%), ophthalmological involvement (32.7%), peripheral limb ischemia (12.5%), aortic (7.7%), and neurological involvements (4.8%). In the meta-regression analysis, the duration of follow-up was negatively associated with the incidence of major relapse (Beta = -0.015, 95%CI [-0.026; -0.0042]; p = 0.0063). The incidence of major relapse was significantly higher in prospective studies (55.2/100 person-years, 95%CI [15.3;114.3] than in retrospective studies (4.1/100 patient-years, 95%CI[1.1;8.4]; p<sub>interaction</sub> = 0.000.2).
+CONCLUSION: This study found that there was heterogeneity among studies, and this is partially related to study design. Jaw claudication was frequent and increases the prevalence and incidence of relapses major.
+
+Citation: Aussedat M, et al. Epidemiology of major relapse in giant cell arteritis: A study-level meta-analysis. Epidemiology of major relapse in giant cell arteritis: A study-level meta-analysis. 2022; 21:102930. doi: 10.1016/j.autrev.2021.102930
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34481940/

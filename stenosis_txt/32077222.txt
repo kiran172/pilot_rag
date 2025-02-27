@@ -1,0 +1,11 @@
+PMID: 32077222
+Title: 3-Dimensional printing to predict paravalvular regurgitation after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: There is no effective method to predict paravalvular regurgitation prior to transcatheter aortic valve replacement (TAVR).
+METHODS: We retrospectively analyzed pre-TAVR computed tomography (CT) scans of 20 patients who underwent TAVR for severe, calcific aortic stenosis and subsequently printed 3-dimensional (3D) aortic root models of each patient. Models were printed using Ninjaflex thermoplastic polyurethane (TPU) (Ninjatek Manheim, PA) and TPU 95A (Ultimaker, Netherlands) on Ultimaker 3 Extended 3D printer (Ultimaker, Netherlands). The models were implanted at nominal pressure with same sized Sapien balloon-expandable frames (Edwards Lifesciences, CA) as received in-vivo. Ex-vivo implanted TAVR models (eTAVR) were scanned using Siemens SOMATOM flash dual source CT (Siemens, Malvern, PA) and then analyzed with Mimics software (Materialize NV, Leuven, Belgium) to evaluate relative stent appositions. eTAVR were then compared to post-TAVR echocardiograms for each patient to assess for correlations of identified and predicted paravalvular leak (PVL) locations.
+RESULTS: A total of 20 patients (70% male) were included in this study. The median age was 77.5 (74-83.5) years. Ten patients were characterized to elicit mild (9/10) or moderate (1/10) PVL, and 10 patients presented no PVL. In patients with echocardiographic PVL, eTAVR 3D model analyses correctly identified the site of PVL in 8/10 cases. In patients without echocardiographic PVL, eTAVR 3D model analyses correctly predicted the lack of PVL in 9/10 cases.
+CONCLUSION: 3D printing may help predict the potential locations of associated PVL post-TAVR, which may have implications for optimizing valve selection and sizing.
+
+Citation: Reiff C, et al. 3-Dimensional printing to predict paravalvular regurgitation after transcatheter aortic valve replacement. 3-Dimensional printing to predict paravalvular regurgitation after transcatheter aortic valve replacement. 2020; 96:E703-E710. doi: 10.1002/ccd.28783
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32077222/

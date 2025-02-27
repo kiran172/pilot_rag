@@ -1,0 +1,8 @@
+PMID: 37437569
+Title: Integrating inflammatory biomarker analysis and artificial-intelligence-enabled image-based profiling to identify drug targets for intestinal fibrosis.
+
+Abstract: Intestinal fibrosis, often caused by inflammatory bowel disease, can lead to intestinal stenosis and obstruction, but there are no approved treatments. Drug discovery has been hindered by the lack of screenable cellular phenotypes. To address this, we used a scalable image-based morphology assay called Cell Painting, augmented with machine learning algorithms, to identify small molecules that could reverse the activated fibrotic phenotype of intestinal myofibroblasts. We then conducted a high-throughput small molecule chemogenomics screen of approximately 5,000 compounds with known targets or mechanisms, which have achieved clinical stage or approval by the FDA. By integrating morphological analyses and AI using pathologically relevant cells and disease-relevant stimuli, we identified several compounds and target classes that are potentially able to treat intestinal fibrosis. This phenotypic screening platform offers significant improvements over conventional methods for identifying a wide range of drug targets.
+
+Citation: Yu S, et al. Integrating inflammatory biomarker analysis and artificial-intelligence-enabled image-based profiling to identify drug targets for intestinal fibrosis. Integrating inflammatory biomarker analysis and artificial-intelligence-enabled image-based profiling to identify drug targets for intestinal fibrosis. 2023; 30:1169-1182.e8. doi: 10.1016/j.chembiol.2023.06.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37437569/

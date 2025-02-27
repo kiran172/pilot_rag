@@ -1,0 +1,12 @@
+PMID: 32668421
+Title: Intrinsic frequency method for instantaneous assessment of left ventricular-arterial coupling after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) is the most common cause for valve replacement in the United States. The pathophysiology of AS involves obstruction to the left ventricular (LV) outflow and reduced arterial compliance. The intrinsic frequency (IF) method is a system-based approach for hemodynamic monitoring of the LV-arterial system and involves determination of ω<sub>1</sub> and ω<sub>2</sub>, which represent the dynamics of LV systolic and vascular function, respectively. Total frequency variation of the systemic circulation is the difference between these IFs (Δω = ω<sub>1</sub>- ω<sub>2</sub>).
+OBJECTIVE: Our goal in this study was to investigate whether Δω, obtained from the ascending aortic pressure waveform, can be indicative of LV-arterial coupling after transcatheter aortic valve replacement (TAVR).
+APPROACH: Thirty patients undergoing elective TAVR for severe, symptomatic AS were included. We applied the IF method to assess the immediate effects of TAVR on LV-arterial coupling.
+MAIN RESULTS: Mean age was 86 ± 4 years, 50% were male with a mean aortic valve area of 0.7 cm2 and mean ejection fraction (EF) of 59 ± 7%. The results showed a significant decrease in Δω (47.6 to 9.5 bpm, p &lt; 0.00001) and a significant increase in ω<sub>2</sub> (51.9 to 84.6 bpm, p &lt; 0.00001) immediately post TAVR.
+SIGNIFICANCE: These preliminary findings indicate that the IF method can be used to evaluate improvements in LV hemodynamics immediately following TAVR. Use of the IF method may have implications for patients undergoing TAVR with impaired LV systolic function.
+
+Citation: Mogadam E, et al. Intrinsic frequency method for instantaneous assessment of left ventricular-arterial coupling after transcatheter aortic valve replacement. Intrinsic frequency method for instantaneous assessment of left ventricular-arterial coupling after transcatheter aortic valve replacement. 2020; 41:085002. doi: 10.1088/1361-6579/aba67f
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32668421/

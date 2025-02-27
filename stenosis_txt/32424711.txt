@@ -1,0 +1,8 @@
+PMID: 32424711
+Title: Accelerated acquisition of carotid MR angiography using 3D gradient-echo imaging with two-point Dixon.
+
+Abstract: This pilot study tests the feasibility of rapid carotid MR angiography using the liver acquisition with volume acceleration-flex technique (LAVA MRA). Seven healthy volunteers and 21 consecutive patients suspected of carotid stenosis underwent LAVA and conventional time-of-flight (cTOF) MRAs. Artery-to-fat and artery-to-muscle signal intensity ratios were manually measured. LAVA MRA exhibited a significantly larger artery-to-fat signal intensity ratio compared with cTOF MRA in all slices (P < 0.001) and exhibited a larger (P < 0.001) or equivalent (P = 1.0) artery-to-muscle signal intensity ratio in the extracranial carotid arteries. The image quality of the cervical carotid bifurcation and the signal change on each MRA were visually assessed and compared among the MRAs. There was no significant difference between the two MRAs in visual assessment. LAVA MRA can provide visualization similar to cTOF MRA in the evaluation of the cervical carotid bifurcation while reducing scan time by one-fifth.
+
+Citation: Irie R, et al. Accelerated acquisition of carotid MR angiography using 3D gradient-echo imaging with two-point Dixon. Accelerated acquisition of carotid MR angiography using 3D gradient-echo imaging with two-point Dixon. 2020; 62:1345-1349. doi: 10.1007/s00234-020-02452-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32424711/

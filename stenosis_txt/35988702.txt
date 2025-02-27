@@ -1,0 +1,11 @@
+PMID: 35988702
+Title: Predicting difﬁcult intubation: the hyomental distance ultrasound evaluation is superior to the thyromental distance.
+
+Abstract: BACKGROUND: Hyomental distance (HMD), an anatomical feature of the upper airway, can be measured precisely by ultrasonography. But the sensitivity and specificity of HMD compared to thyromental distance (TMD) to predict difficult airways is still unknown.
+METHODS: A case-cohort study was conducted. The written informed consent was obtained. Elective surgery adult patients undergoing general anaesthesia and tracheal intubation were recruited. The other inclusion criteria were: no maxillofacial deformity, trauma, airway stenosis, known difficult airway. The exclusion criteria were: tracheal intubations or operations were canceled, or patients' data were missing. HMD ultrasound measurements of patients in a sniffing position and other usual airway evaluations were performed before general anaesthesia induction. The primary outcome was the intubation difficulty level. Predictive values were calculated.
+RESULTS: We successfully enrolled 2357 patients (62 difficult intubation patients) in the cohort study for analysis. The area under the receiver operating characteristic curve (AUC) of the HMD and TMD for predicting difficult intubation was 0.86 (95% CI, 0.84-0.87) and 0.77 (95% CI, 0.75-0.78) respectively (comparison: P < 0.001). With an optimal cut-off value of HMD ≤ 4.9 cm, we observed a sensitivity and specificity of 0.90 (95% CI, 0.80-0.96) and 0.73 (95% CI, 0.71-0.75). Meanwhile, with TMD ≤ 7.0 cm, the sensitivity and specificity were 0.77 (95% CI, 0.65-0.87) and 0.65 (95% CI, 0.63-0.67) respectively.
+CONCLUSION: In comparison to TMD, HMD measured by ultrasound was more sensitive in predicting difficult intubation.
+
+Citation: Wang B, et al. Predicting difﬁcult intubation: the hyomental distance ultrasound evaluation is superior to the thyromental distance. Predicting difﬁcult intubation: the hyomental distance ultrasound evaluation is superior to the thyromental distance. 2022; 41:101144. doi: 10.1016/j.accpm.2022.101144
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35988702/

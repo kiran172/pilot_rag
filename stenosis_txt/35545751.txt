@@ -1,0 +1,11 @@
+PMID: 35545751
+Title: Coronary Artery Disease Detected by Low Frequency Heart Sounds.
+
+Abstract: OBJECTIVES: Previous studies have observed an increase in low frequency diastolic heart sounds in patients with coronary artery disease (CAD). The aim was to develop and validate a diagnostic, computerized acoustic CAD-score based on heart sounds for the non-invasive detection of CAD.
+METHODS: Prospective study enrolling 463 patients referred for elective coronary angiography. Pre-procedure non-invasive recordings of heart sounds were obtained using a novel acoustic sensor. A CAD-score was defined as the power ratio between the 10-90 Hz frequency spectrum and the 90-300 Hz frequency spectrum of the mid-diastolic heart sound. Quantitative coronary angiography analysis was performed by a blinded core laboratory and patients grouped according to the results: obstructive CAD defined by the presence of at least one ≥ 50% stenosis, non-obstructive CAD as patients with a maximal stenosis in the 25-50% interval and non-CAD as no coronary lesions exceeding 25%. We excluded patients with potential confounders or incomplete data (n = 245). To avoid over-fitting the final cohort of 218 patients was randomly divided into to a training group for development (n = 127) and a validation group (n = 91).
+RESULTS: In both the training and the validation group the CAD-score was significantly increased in CAD patients compared to non-CAD patients (p < 0.0001). In the validation group the area under the receiver-operating curve was 77% (95% CI 63-91%). Sensitivity was 71% (95% CI 59-82%) and specificity 64% (95% CI 45-83%).
+CONCLUSION: The acoustic CAD-score is a new, inexpensive, non-invasive method to detect CAD, which may supplement clinical risk stratification and reduce the need for subsequent non-invasive and invasive testing.
+
+Citation: Schmidt SE, et al. Coronary Artery Disease Detected by Low Frequency Heart Sounds. Coronary Artery Disease Detected by Low Frequency Heart Sounds. 2022; 13:864-871. doi: 10.1007/s13239-022-00622-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35545751/

@@ -1,0 +1,11 @@
+PMID: 38955596
+Title: Comparison of Mitral Valve Repair Versus Percutaneous Mitral Balloon Commissurotomy for Patients With Rheumatic Heart Disease: A Single-Centre Study.
+
+Abstract: BACKGROUND: Percutaneous mitral balloon commissurotomy (PMBC) is the standard treatment option for patients with rheumatic mitral stenosis (MS), according to current guidelines. This study aimed to compare the outcomes of rheumatic mitral valve repair (rMVR) and PMBC in this patient population.
+METHODS: Baseline, clinical, and follow-up data from 703 patients with rheumatic heart disease who underwent PMBC or rMVR at the current centre were collected and analysed. A 1:1 propensity score (PS) matching method was used to balance the differences in baseline characteristics between the two groups. The primary outcome was mitral valve reoperation, and the secondary outcome was all-cause mortality.
+RESULTS: Propensity score matching generated 101 patient pairs for comparison. In the matched population, there were no significant differences in the early clinical outcomes between the groups. The median follow-up time was 40.9 months. Overall, patients in the rMVR group had a statistically significantly lower risk of mitral valve reoperation than those in the PMBC group (HR 0.186; 95% CI 0.041-0.835; p=0.028). Regarding all-cause mortality, no statistically significant differences were observed between the rMVR and PMBC groups (HR 4.065; 95% CI 0.454-36.374; p=0.210).
+CONCLUSIONS: Compared with PMBC, rMVR has more advantages for the correction of valve lesions; therefore, it may offer a better prognosis than PMBC in select patients with rheumatic MS. However, this finding needs to be verified in future studies with larger sample sizes and longer follow-up periods.
+
+Citation: Li X, et al. Comparison of Mitral Valve Repair Versus Percutaneous Mitral Balloon Commissurotomy for Patients With Rheumatic Heart Disease: A Single-Centre Study. Comparison of Mitral Valve Repair Versus Percutaneous Mitral Balloon Commissurotomy for Patients With Rheumatic Heart Disease: A Single-Centre Study. 2024; 33:1450-1456. doi: 10.1016/j.hlc.2024.05.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38955596/

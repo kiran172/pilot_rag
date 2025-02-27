@@ -1,0 +1,11 @@
+PMID: 37673712
+Title: Prognostic utility of semi-quantitative coronary computed tomography angiography scores in the SCOT-HEART trial.
+
+Abstract: BACKGROUND: Information from cardiac computed tomography angiography can be summarized using visual semi-quantitative scores. However, the optimal method and their prognostic utility is unknown.
+METHODS: Five semi-quantitative scores were calculated in the SCOT-HEART trial, including segment involvement score (SIS), segment stenosis score (SSS), CT Leaman (CT-LeSc), multivessel aggregate stenosis score (MVAS), and CAD-RADS 2.0 including plaque modifier (P). Prediction of fatal or non-fatal myocardial infarction and major adverse cardiovascular events (MACE) was compared to the 10-year cardiovascular risk score.
+RESULTS: Imaging was performed in 1,769 individuals (age 58 ​± ​10 years, 56% male) with 41 (2.3%) experiencing myocardial infarction and 74 (4%) MACE over 4.9 ​± ​1.1 years. P based on calcium score and SIS had good agreement (weighted Cohen's kappa 0.79, 95% confidence interval [CI] 0.79, 0.79). SIS, SSS, CT-LeSec, and MVAS performed similarly for the prediction of myocardial infarction (area under the curve [AUC] 0.74, 0.75, 0.75, 0.74, all p ​> ​0.1) and MACE (AUC 0.73, 0.74, 0.74, 0.73, all p ​> ​0.1), and were superior to the cardiovascular risk score (AUC 0.62 and 0.65, both p ​< ​0.001). High semi-quantitative scores were associated with increased risk of myocardial infarction and MACE, with the greatest adjusted risk associated with CT-LeSc≥8 (Hazard ratio [HR] 5.6, 95% confidence interval [CI] 2.7, 11.6, p ​< ​0.001 and HR 5.2, 95% CI 3.1, 8.7, p ​< ​0.001) and SSS≥10 (HR 4.7, 95% CI 2.4, 8.9, p ​< ​0.001 and HR 5.3, 95% CI 3.3, 8.5, p ​< ​0.001).
+CONCLUSIONS: Semi-quantitative scores performed similarly for the prediction of myocardial infarction and MACE, with all superior to the cardiovascular risk score.
+
+Citation: Maclean E, et al. Prognostic utility of semi-quantitative coronary computed tomography angiography scores in the SCOT-HEART trial. Prognostic utility of semi-quantitative coronary computed tomography angiography scores in the SCOT-HEART trial. 2023; 17:393-400. doi: 10.1016/j.jcct.2023.08.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37673712/

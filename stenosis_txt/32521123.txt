@@ -1,0 +1,12 @@
+PMID: 32521123
+Title: Prognostic implications of baseline 6-min walk test performance in intermediate risk patients undergoing transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: While slow gait speed is known to be associated with poor outcomes in patients at high surgical risk who undergo transcatheter aortic valve replacement (TAVR), the prognostic significance of slow gait speed in intermediate risk TAVR patients is poorly understood.
+OBJECTIVES: We assessed the association between baseline 6-min walk test (6MWT) performance and both 2-year mortality and health status in intermediate risk patients undergoing TAVR as a part of the PARTNER II/S3i studies.
+METHODS: The association of baseline 6MWT with mortality over 2-years after TAVR was examined using Cox regression; both unadjusted and adjusted for age, left ventricular ejection fraction, coronary artery disease, pulmonary disease, renal insufficiency, and STS score. Patients were divided into four groups according to baseline 6MWT: unable to walk and in three equal tertiles of slow, medium, and fast walkers. Among surviving patients, improvement in 6MWT and quality of life were compared.
+RESULTS: Among 2,037 intermediate risk TAVR patients (mean age 81.7 years, STS score 5.6%), 8.2% were unable to walk. Baseline 6MWT was associated with all-cause mortality over 2 years (Hazard ratio (HR) 0.87 per 50 m, 95% confidence interval [CI] 0.83 to 0.92, p < .0001). Among surviving patients, the adjusted absolute change in 6MWT at 2 years improved for patients unable to walk (+134.1 m, 95% CI 102.1 to 166 m, p < .0001) and slow walkers (+60.5 m, 95% CI 42.8 to 78.2 m, p < .0001), but was unchanged for medium walkers (-7.3 m, 95% CI -24.3 to 9.6 m, p = .4), and declined for fast walkers (-41.3 m, 95% CI -58.7 to -23.9 m, p < .0001).
+CONCLUSION: Poor functional capacity is predictive of 2-year mortality in elderly intermediate risk patients undergoing TAVR. However, surviving patients with poor baseline functional capacity had significant improvement in 6MWT performance and quality of life at 2-years following TAVR.
+
+Citation: Sathananthan J, et al. Prognostic implications of baseline 6-min walk test performance in intermediate risk patients undergoing transcatheter aortic valve replacement. Prognostic implications of baseline 6-min walk test performance in intermediate risk patients undergoing transcatheter aortic valve replacement. 2021; 97:E154-E160. doi: 10.1002/ccd.28981
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32521123/

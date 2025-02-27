@@ -1,0 +1,11 @@
+PMID: 34562565
+Title: Effect of hematocrit on cerebral blood flow measured by pseudo-continuous arterial spin labeling MRI: A comparative study with 15O-water positron emission tomography.
+
+Abstract: INTRODUCTION: In cerebral blood flow (CBF) quantification with pseudo-continuous arterial spin labeling (pCASL) MRI, arterial blood T1 (T1a) is usually fixed to a typical value (e.g., 1650 ms). However, individual T1a depends strongly on hematocrit (Hct) level. To investigate the utility of Hct-based T1a as an alternative to the fixed T1a method, we performed a comparative study with 15O-water positron emission tomography (PET).
+METHODS: For patients with unilateral occlusion or stenosis of major arteries, hemispheric CBF on the healthy side was measured using pCASL and 15O-water PET. The pCASL CBFs were calculated with both (a) fixed T1a (1650 ms) and (b) individual T1a estimated from blood-sampled Hct (Hct-based T1a). Correlation coefficients of Hct-CBF were calculated and compared between pCASL and PET.
+RESULTS: In pCASL, CBF with fixed T1a showed a strong negative correlation with Hct (r = -0.568), which was reduced with individual Hct-based T1a (r = -0.341 to -0.190), consistent with the Hct-CBF relation measured with PET (r = -0.349).
+DISCUSSION AND CONCLUSION: We demonstrated that Hct-based T1a resulted in smaller inter-individual variations in pCASL CBF and an inverse Hct-CBF relationship more similar to that of PET. Care must be taken in the interpretation of pCASL CBF imaging in relation to Hct level even in subjects without anemia. Further comparative studies are needed to investigate whether advanced techniques improve pCASL CBF quantification at the individual level.
+
+Citation: Ibaraki M, et al. Effect of hematocrit on cerebral blood flow measured by pseudo-continuous arterial spin labeling MRI: A comparative study with 15O-water positron emission tomography. Effect of hematocrit on cerebral blood flow measured by pseudo-continuous arterial spin labeling MRI: A comparative study with 15O-water positron emission tomography. 2021; 84:58-68. doi: 10.1016/j.mri.2021.09.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34562565/

@@ -1,0 +1,11 @@
+PMID: 31731080
+Title: Race and sex-based disparities associated with carotid endarterectomy in the Atherosclerosis Risk in Communities (ARIC) study.
+
+Abstract: BACKGROUND AND AIMS: The indications for carotid endarterectomy (CEA) are well established. The aim of the current study was to investigate sex and race-based disparities in the incidence of CEA after adjusting for carotid artery stenosis risk factors.
+METHODS: We conducted a prospective cohort analysis of 14,492 black and white participants in the Atherosclerosis Risk in Communities (ARIC) study without prevalent stroke at baseline (1987-1989). We used Kaplan-Meier curves and Cox proportional hazards models adjusting for sociodemographic, cardiovascular, and disease severity risk factors to quantify the associations of sex and race with incident CEA.
+RESULTS: CEA was performed in 330 of 14,492 ARIC participants during a median of 27 years of follow-up [incidence rate 1.00 (95% CI 0.90-1.12) per 1000 persons-years]. The crude incidence of CEA varied significantly by sex [female vs. male: HR 0.60 (95% CI 0.48-0.74)] and race [black vs. white: HR 0.65 (95% CI 0.49-0.86)]. Adjustment for sociodemographic and cardiovascular risk factors, carotid intima-media thickness, and symptomatic status attenuated the association of sex with CEA [females vs. males HR 0.96 (0.76-1.22)], but black participants had a lower risk of incident CEA after adjustment [HR 0.68 (95% CI 0.49-0.95)].
+CONCLUSIONS: We found significant variation in the incidence of CEA procedures based on race that was independent of traditional risk factors and carotid IMT. Whether this disparity is a reflection of differences in disease presentation or access to care deserves investigation.
+
+Citation: Hicks CW, et al. Race and sex-based disparities associated with carotid endarterectomy in the Atherosclerosis Risk in Communities (ARIC) study. Race and sex-based disparities associated with carotid endarterectomy in the Atherosclerosis Risk in Communities (ARIC) study. 2020; 292:10-16. doi: 10.1016/j.atherosclerosis.2019.10.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31731080/

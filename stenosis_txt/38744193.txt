@@ -1,0 +1,8 @@
+PMID: 38744193
+Title: Construction of a screening system for lipid-derived radical inhibitors and validation of hit compounds to target retinal and cerebrovascular diseases.
+
+Abstract: Recent studies have highlighted the indispensable role of oxidized lipids in inflammatory responses, cell death, and disease pathogenesis. Consequently, inhibitors targeting oxidized lipids, particularly lipid-derived radicals critical in lipid peroxidation, which are known as radical-trapping antioxidants (RTAs), have been actively pursued. We focused our investigation on nitroxide compounds that have rapid second-order reaction rate constants for reaction with lipid-derived radicals. A novel screening system was developed by employing competitive reactions between library compounds and a newly developed profluorescence nitroxide probe with lipid-derived radicals to identify RTA compounds. A PubMed search of the top hit compounds revealed their wide application as repositioned drugs. Notably, the inhibitory efficacy of methyldopa, selected from these compounds, against retinal damage and bilateral common carotid artery stenosis was confirmed in animal models. These findings underscore the efficacy of our screening system and suggest that it is an effective approach for the discovery of RTA compounds.
+
+Citation: Mori R, et al. Construction of a screening system for lipid-derived radical inhibitors and validation of hit compounds to target retinal and cerebrovascular diseases. Construction of a screening system for lipid-derived radical inhibitors and validation of hit compounds to target retinal and cerebrovascular diseases. 2024; 73:103186. doi: 10.1016/j.redox.2024.103186
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38744193/

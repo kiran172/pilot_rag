@@ -1,0 +1,11 @@
+PMID: 37166092
+Title: [The effect of obesity on the outcome of surgical aortic valve replacement for aortic stenosis].
+
+Abstract: INTRODUCTION: Our objective was to investigate the effect of obesity on short-term complications and long-term survival after surgical aortic valve replacement (SAVR) for aortic stenosis (AS).
+MATERIAL AND METHODS: A retrospective study on 748 patients who underwent SAVR for AS in Iceland 2003-2020. Patients were divided into groups based on body mass index (BMI): normal (18.5-24.9 kg/m2, n=190), overweight (25-29.9 kg/m2, n=339), obese (30-34.9 kg/m2, n=165) and severely obese (≥35 kg/m2, n=54). Six patients with BMI p<18,5 kg/m2 were excluded. Clinical information regarding patient history, risk factors, together with complications and 30-day mortality were collected from patient records. The four BMI groups were compared and long-term survival estimated with Kaplan-Meier plots and risk factors for long-term survival evaluated with Cox multivariate analysis.
+RESULTS: Severely obese patients were on average four years younger than patients with normal BMI, more often had risk factors for cardiovascular disease, and their EuroSCORE II was higher (5.3 vs. 4.4%, p=0.03). On the other hand, severely obese patients bled less the first 24 hours post-surgery, compared to normal BMI-patients (558 vs. 1091 ml, p<0.001), stroke was less frequent (0 vs 6.4%, p=0.03), but they more often experienced sternum dehiscence (5.6 vs 2.7%, p=0.04), deep sternal wound infection (3.7 vs 0%, p=0.04) and acute kidney injury (26.4 vs 15.2%, p=0.005). Thirty-day mortality and long-term survival did not differ significantly between the groups and BMI was not an independent predictor of long-term survival in multivariate analysis.
+CONCLUSIONS: The outcome for obese patients undergoing SAVR for AS is good and both short-term complications and long-term survival do not differ significantly from patients with a normal BMI. Therefore, a high BMI itself should not be a contraindication for SAVR due to AS.
+
+Citation: Einarsdottir FH, et al. [The effect of obesity on the outcome of surgical aortic valve replacement for aortic stenosis]. [The effect of obesity on the outcome of surgical aortic valve replacement for aortic stenosis]. 2023; 109:235-242. doi: 10.17992/lbl.2023.05.743
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37166092/

@@ -1,0 +1,11 @@
+PMID: 38037164
+Title: Distal aortic biomechanics after transcatheter versus surgical aortic valve replacement: a hypothesis generating study.
+
+Abstract: BACKGROUND: Biomechanical effects of transcatheter (TAVR) versus surgical (SAVR) aortic valve interventions on the distal aorta have not been studied. This study utilized global circumferential strain (GCS) to assess post-procedural biomechanics changes in the descending aorta after TAVR versus SAVR.
+METHODS: Patients undergoing TAVR or SAVR for aortic stenosis were included. Transesophageal (TEE) and transthoracic (TTE) echocardiography short-axis images of the aorta were used to image the descending aorta immediately before and after interventions. Image analysis was performed with two-dimensional speckle tracking echocardiography and dedicated software. Delta GCS was calculated as: post-procedural GCS-pre-procedural GCS. Percentage delta GCS was calculated as: (delta GCS/pre-procedural GCS) × 100.
+RESULTS: Eighty patients, 40 TAVR (median age 81 y/o, 40% female) and 40 SAVR (median 72 y/o, 30% female) were included. The post-procedure GCS was significantly higher than the pre-procedural GCS in the TAVR (median 10.7 [interquartile range IQR 4.5, 14.6] vs. 17.0 [IQR 6.1, 20.9], p = 0.009) but not in the SAVR group (4.4 [IQR 3.3, 5.3] vs. 4.7 [IQR 3.9, 5.6], p = 0.3). The delta GCS and the percentage delta GCS were both significantly higher in the TAVR versus SAVR group (2.8% [IQR 1.4, 6] vs. 0.15% [IQR - 0.6, 1.5], p < 0.001; and 28.8% [IQR 14.6%, 64.6%] vs. 4.4% [IQR - 10.6%, 5.6%], p = 0.006). Results were consistent after multivariable adjustment for key clinical and hemodynamic characteristics.
+CONCLUSIONS: After TAVR, there was a significantly larger increase in GCS in the distal aorta compared to SAVR. This may impact descending aortic remodeling and long-term risk of aortic events.
+
+Citation: Rong LQ, et al. Distal aortic biomechanics after transcatheter versus surgical aortic valve replacement: a hypothesis generating study. Distal aortic biomechanics after transcatheter versus surgical aortic valve replacement: a hypothesis generating study. 2023; 18:349. doi: 10.1186/s13019-023-02467-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38037164/

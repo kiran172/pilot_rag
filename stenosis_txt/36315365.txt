@@ -1,0 +1,11 @@
+PMID: 36315365
+Title: A Left ventricle remodeling in patients with bicuspid aortic valve.
+
+Abstract: PURPOSE: We assessed the impact of bicuspid aortic valve (BAV), aortic stenosis (AS), and regurgitation (AR) on the metrics of left ventricular (LV) remodeling, as measured by electrocardiogram (ECG), transthoracic echocardiography (TTE), and cardiac magnetic resonance (CMR).
+METHODS: This retrospective CMR study included 11 patients with both AS and AR (BAV-ASR), 30 with AS (BAV-AS), 28 with AR (BAV-AR), 47 with neither AS nor AR (BAV-no_AS/AR), and 40 with trileaflet aortic valve (TAV-no_AS/AR). CMR analysis included the LV end-diastolic volume index (LVEDVi), mass index (LVMi), and extracellular volume fraction (ECV). The Sokolow-Lyon and Cornell products by ECG and TTE-derived E/e' were measured.
+RESULTS: There were no differences in the ECG, TTE, and CMR parameters between BAV-no_AS/AR and TAV-no_AS/AR. However, the presence of aortic valve dysfunction resulted in an elevated Sokolow-Lyon product for BAV-ASR (p = 0.017) and BAV-AR (p = 0.001), as well as increased Cornell product (p = 0.04) and E/e' (p &lt; 0.001) for BAV-AS compared with BAV-no_AS/AR. LVEDVi and LVMi were elevated in patients with BAV-ASR and BAV-AR compared with those with BAV-no_AS/AR (LVEDVi: 101 ± 29 ml/m2 and 112 ± 32 ml/m2 vs. 74 ± 15 ml/m2, p = 0.005 and p &lt; 0.001, LVMi: 75 ± 7 g/m2 and 64 ± 14 g/m2 vs. 47 ± 9 g/m2, respectively; p &lt; 0.001). There was no difference in ECV between the BAV and TAV-no_AS/AR subgroups.
+CONCLUSION: Normally functioning BAV did not result in LV remodeling. However, concomitant AV dysfunction was associated with statistically significant morphological remodeling.
+
+Citation: Suwa K, et al. A Left ventricle remodeling in patients with bicuspid aortic valve. A Left ventricle remodeling in patients with bicuspid aortic valve. 2023; 39:391-399. doi: 10.1007/s10554-022-02727-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36315365/

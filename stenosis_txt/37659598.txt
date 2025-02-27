@@ -1,0 +1,8 @@
+PMID: 37659598
+Title: Bioinformatics analysis of carotid vulnerable plaques associated with the SARS-CoV-2 pattern.
+
+Abstract: The rupture of carotid artery vulnerable plaque plays a critical role in ischemic stroke, and the widely spread new coronavirus in recent years plays a certain role in the development of human carotid artery vulnerable plaque, we screened out 27 differential expression genes (DEGs) of stable plaque and vulnerable plaque associated with the new coronavirus. Through the construction of the protein-protein interaction (PPI) network, the Cathepsin B (CTSB) and Niemann-Pick Disease Type 2 (NPC2) were identified as crucial expression genes, and further, we confirmed the validity of core gene expression in two validation sets. Additionally, we discovered a significant connection between CTSB, NPC2 and 28 different kinds of immune cells in carotid plaque tissue. We screened out 65 target interacting drugs based on 10 differentially expressed genes through online tools and finally verified the high expression of 2 core genes in fragile plaques through clinical sample experiments. These findings imply that two core genes may be novel targets for molecular diagnostics and immunotherapy of vulnerable plaques.
+
+Citation: Jiang T, et al. Bioinformatics analysis of carotid vulnerable plaques associated with the SARS-CoV-2 pattern. Bioinformatics analysis of carotid vulnerable plaques associated with the SARS-CoV-2 pattern. 2023; 888:147754. doi: 10.1016/j.gene.2023.147754
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37659598/

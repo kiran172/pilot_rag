@@ -1,0 +1,11 @@
+PMID: 34132999
+Title: Effect of malnutrition and frailty status on surgical aortic valve replacement.
+
+Abstract: OBJECTIVES: To date, assessment of nutritional and frailty status in patients undergoing surgical aortic valve replacement remains unclear. This study aimed to assess the effect of geriatric nutritional risk index (GNRI) and Rockwood clinical frailty scale (CFS) on short-term and mid-term survival in patients who underwent surgical aortic valve replacement for aortic stenosis.
+METHODS: In total, 219 patients who underwent aortic valve replacement for aortic stenosis between Jan 1 2011 and Dec 31 2018 were retrospectively monitored in a single center. Mid-term survival was assessed using Kaplan-Meier analysis. Logistic and Cox regression analyses were performed to detect independent predictors for early and mid-term mortality. Follow-up was 97.7% complete, and a GNRI score ≤ 98 denoted malnutrition.
+RESULTS: In the univariable analysis, GNRI [odds ratio (OR) 0.91, 95% confidence interval (CI), 0.86-0.96, p < 0.001] and CFS (OR 2.00 95% CI 1.38-2.94, p < 0.001) were identified as significant risk factors for in-hospital mortality. Mid-term survival was significantly decreased in patients with malnutrition (3 and 5 year survival rates 83.9 and 76.9%, respectively, p < 0.001). Mid-term freedom from major cardiac and cerebrovascular events was significantly decreased in patients with malnutrition (p = 0.039). The CFS (hazard ratio 1.78) and GNRI (hazard ratio 0.95) were independent risk factors for mid-term survival in the univariable and multivariable analyses, respectively.
+CONCLUSIONS: A lower GNRI is associated with poor mid-term mortality and major cardiac and cerebrovascular events after surgical aortic valve replacement. A lower CFS score is associated with unfavorable mid-term outcomes.
+
+Citation: Naganuma M, et al. Effect of malnutrition and frailty status on surgical aortic valve replacement. Effect of malnutrition and frailty status on surgical aortic valve replacement. 2022; 70:24-32. doi: 10.1007/s11748-021-01667-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34132999/

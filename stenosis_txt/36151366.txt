@@ -1,0 +1,11 @@
+PMID: 36151366
+Title: Spiral Laminar Flow is Associated with a Reduction in Disturbed Shear in Patient-Specific Models of an Arteriovenous Fistula.
+
+Abstract: PURPOSE: Areas of disturbed shear that arise following arteriovenous fistula (AVF) creation are believed to contribute to the development of intimal hyperplasia (IH). The presence of helical flow can suppress areas of disturbed shear, which may protect the vasculature from IH. Therefore, the aim of this study is to determine if helical flow, specifically spiral laminar flow (SLF), is present in patient-specific AVF models and is associated with a reduction in exposure to disturbed shear.
+METHODS: Four AVF were imaged using MRI within the first two weeks following fistula creation. Patient-specific boundary conditions were obtained using phase-contrast MRI and applied at the inlet and outlets of each model. Computational fluid dynamics was used to analyse the hemodynamics in each model and compare the helical content of the flow to the distribution of disturbed shear.
+RESULTS: BC-1 and RC-2 are characterised by the presence of SLF, which coincides with the lowest distribution of disturbed shear. Contrastingly, SLF is absent from BC-2 and RC-1 and experience the largest amount of disturbed shear. Interestingly, BC-2 and RC-1 developed an anastomosis stenosis, while BC-1 and RC-2 remained stenosis free.
+CONCLUSION: These findings are in agreement with previous clinical studies and further highlight the clinical potential of SLF as a prognostic marker for a healthy AVF, as its presence correlates with an overall reduction in exposure to disturbed shear and a decrease in the incidence of AVF dysfunction, albeit in a small sample size.
+
+Citation: Cunnane CV, et al. Spiral Laminar Flow is Associated with a Reduction in Disturbed Shear in Patient-Specific Models of an Arteriovenous Fistula. Spiral Laminar Flow is Associated with a Reduction in Disturbed Shear in Patient-Specific Models of an Arteriovenous Fistula. 2023; 14:152-165. doi: 10.1007/s13239-022-00644-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36151366/

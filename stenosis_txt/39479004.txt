@@ -1,0 +1,11 @@
+PMID: 39479004
+Title: Identification of middle cerebral artery stenosis in transcranial Doppler using a modified VGG-16.
+
+Abstract: OBJECTIVES: The diagnosis of intracranial atherosclerotic stenosis (ICAS) is of great significance for the prevention of stroke. Deep learning (DL)-based artificial intelligence techniques may aid in the diagnosis. The study aimed to identify ICAS in the middle cerebral artery (MCA) based on a modified DL model.
+METHODS: This retrospective study included two datasets. Dataset1 consisted of 3,068 transcranial Doppler (TCD) images of the MCA from 1,729 patients, which were assessed as normal or stenosis by three physicians with varying levels of experience, in conjunction with other medical imaging data. The data were used to improve and train the VGG16 models. Dataset2 consisted of TCD images of 90 people who underwent physical examination, which were used to verify the robustness of the model and compare the consistency between the model and human physicians.
+RESULTS: The accuracy, precision, specificity, sensitivity, and area under curve (AUC) of the best model VGG16 + Squeeze-and-Excitation (SE) + skip connection (SC) on dataset1 reached 85.67 ± 0.43(%),87.23 ± 1.17(%),87.73 ± 1.47(%),83.60 ± 1.60(%), and 0.857 ± 0.004, while those of dataset2 were 93.70 ± 2.80(%),62.65 ± 11.27(%),93.00 ± 3.11(%),100.00 ± 0.00(%), and 0.965 ± 0.016. The kappa coefficient showed that it reached the recognition level of senior doctors.
+CONCLUSION: The improved DL model has a good diagnostic effect for MCV stenosis in TCD images and is expected to help in ICAS screening.
+
+Citation: Xu D, et al. Identification of middle cerebral artery stenosis in transcranial Doppler using a modified VGG-16. Identification of middle cerebral artery stenosis in transcranial Doppler using a modified VGG-16. 2024; 15:1394435. doi: 10.3389/fneur.2024.1394435
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39479004/

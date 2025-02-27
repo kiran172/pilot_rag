@@ -1,0 +1,11 @@
+PMID: 37693191
+Title: Coronary Artery Vorticity to Predict Functional Plaque Progression in Participants with Type 2 Diabetes Mellitus.
+
+Abstract: PURPOSE: To investigate whether vorticity could predict functional plaque progression better than high-risk plaque (HRP) and lesion length (LL) in individuals with type 2 diabetes mellitus.
+MATERIALS AND METHODS: This single-center prospective study included 61 participants (mean age, 61 years ± 9 [SD]; 43 male participants) who underwent serial coronary CT angiography at 2 years, with 20%-70% stenosis at initial CT between October 2015 and March 2020. The number of the following HRP characteristics was recorded: low attenuation, positive remodeling, spotty calcification, and napkin-ring sign. Vorticity was calculated using a mesh-free simulation. A decrease in CT fractional flow reserve larger than 0.05 indicated functional progression. Models using HRP and LL and vorticity were compared using receiver operating characteristic curve analysis.
+RESULTS: Of the 94 vessels evaluated, 25 vessels (27%) showed functional progression. Vessels with functional progression showed higher vorticity at distal stenosis (984 sec-1; IQR: 730-1253 vs 443 sec-1; IQR: 295-602; P &lt; .001) than vessels without progression. The area under the receiver operating characteristic curve of vorticity (0.91; 95% CI: 0.84, 0.97) was higher than that of HRP and LL (0.69; 95% CI: 0.56, 0.82; P &lt; .01). Diagnostic accuracy of vorticity (85%; 80 of 94 vessels; 95% CI: 76, 92) was higher than that of HRP and LL (72%; 68 of 94 vessels; 95% CI: 62, 81; P = .004).
+CONCLUSION: In participants with type 2 diabetes mellitus, vorticity at distal stenosis was a better predictor of functional plaque progression than HRP and LL.Keywords: Coronary Artery, Vorticity, Functional Plaque Progression, Type 2 Diabetes, Vasculature, CT Angiography, Computational Fluid Dynamics, Fractional Flow Reserve Supplemental material is available for this article. © RSNA, 2023.
+
+Citation: Tomizawa N, et al. Coronary Artery Vorticity to Predict Functional Plaque Progression in Participants with Type 2 Diabetes Mellitus. Coronary Artery Vorticity to Predict Functional Plaque Progression in Participants with Type 2 Diabetes Mellitus. 2023; 5:e230016. doi: 10.1148/ryct.230016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37693191/

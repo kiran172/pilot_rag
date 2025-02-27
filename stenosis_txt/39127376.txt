@@ -1,0 +1,11 @@
+PMID: 39127376
+Title: Predictive Modeling of Early Neurological Deterioration in Patients with Acute Ischemic Stroke.
+
+Abstract: BACKGROUND: Ischaemic stroke is the leading cause of death worldwide, and early neurological deterioration(END) occurs in 20%-40% of patients, which is the main cause of severe neurological deficits and disability, and even increased mortality. The occurrence of END is closely related to the poor prognosis of the patients, so it is important to identify the risk factors for the occurrence of END in patients with AIS and target intervention at an early stage factors and targeted intervention is of great significance.
+METHODS: Up to December 20, 2023, a comprehensive search was conducted across PubMed, Embase, Web of Science, MedLine, and The Cochrane Library for studies focusing on predictive models for END in acute stroke patients. Included studies either developed or validated predictive models. The Prediction Model Risk of Bias Assessment tool was utilized to assess bias in these prediction models. Pooled area under the curve values were calculated using DerSimonian and Laird random-effects model.
+RESULTS: Nineteen studies, each presenting an original model, were identified. Predominantly constructed through logistic multiple regression, these models demonstrated robust predictive performance (area under the curve ≥0.80). Key predictors of END in acute ischemic stroke patients included blood glucose levels, baseline National Institute of Health Stroke Scale scores, extent of cerebral infarction, and stenosis in the carotid and middle cerebral arteries.
+DISCUSSION: Clinical practitioners should closely monitor high-frequency predictors of END in patients. However, the varying quality of current models necessitates the selection of models that balance performance with operational simplicity in clinical practice.
+
+Citation: Zhang J, et al. Predictive Modeling of Early Neurological Deterioration in Patients with Acute Ischemic Stroke. Predictive Modeling of Early Neurological Deterioration in Patients with Acute Ischemic Stroke. 2024; 191:58-67. doi: 10.1016/j.wneu.2024.08.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39127376/

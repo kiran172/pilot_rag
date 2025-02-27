@@ -1,0 +1,11 @@
+PMID: 32531212
+Title: Relation of Fractional Flow Reserve With Transit Time Coronary Artery Bypass Graft Flow Measurement.
+
+Abstract: BACKGROUND: Transit-time flow measurement (TTFM) is frequently used for intraoperative graft flow analysis during coronary artery bypass grafting (CABG). Although the TTFM results may be influenced by fractional flow reserve (FFR) of the target coronary artery as a determinant of coronary lesion-specific ischemia, the data have been limited.
+METHODS: We retrospectively investigated the relationships between the intraoperative TTFM variables and preoperative FFR values of the target coronary arteries in 40 in situ left internal thoracic artery (LITA) grafts to the left anterior descending artery (LAD), which were revealed to be patent on postoperative computed tomographic angiography.
+RESULTS: The Spearman correlation coefficients of the TTFM variables with FFR were maximum flow, -0.12 (P = .301); minimum flow (Qmin), -0.43 (P = .004); mean flow (Qm), -0.30 (P = .036); pulsatility index, 0.37 (P = .012); diastolic filling, -0.36 (P = .012); percentage insufficiency, 0.45 (P = .002); and fast Fourier transform (FFT) ratio, -0.07 (P = .329). While Min and Qm showed significant negative correlation, the pulsatility index and percentage insufficiency showed significant positive correlation with FFR.
+CONCLUSIONS: Most TTFM variables, including Qm, of the LITA graft to the LAD during CABG are strongly affected by preoperative FFR values. Because the FFT ratio is not influenced by FFR, FFT analysis of the TTFM may be recommend in the case of the in situ LITA graft to the LAD with moderate stenosis with a higher FFR exceeding 0.75.
+
+Citation: Noda M, et al. Relation of Fractional Flow Reserve With Transit Time Coronary Artery Bypass Graft Flow Measurement. Relation of Fractional Flow Reserve With Transit Time Coronary Artery Bypass Graft Flow Measurement. 2021; 111:134-140. doi: 10.1016/j.athoracsur.2020.04.100
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32531212/

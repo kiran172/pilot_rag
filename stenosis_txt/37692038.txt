@@ -1,0 +1,11 @@
+PMID: 37692038
+Title: Renin-angiotensin system inhibitors reduce cardiovascular mortality in hypertensive patients with severe aortic stenosis undergoing transcatheter aortic valve implantation: insights from the EffecTAVI registry.
+
+Abstract: OBJECTIVES: Arterial hypertension is associated with the triggering of the renin-angiotensin system, leading to left ventricle fibrosis and worse cardiovascular outcomes. In this study, patients with comorbid arterial hypertension and severe aortic stenosis (AS) undergoing transcatheter aortic valve implantation (TAVI) were selected from the EffecTAVI registry to evaluate the impact of angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin II receptor blockers (ARBs) on cardiovascular mortality.
+METHODS: We enrolled 327 patients undergoing TAVI from the EffecTAVI registry. Using Kaplan-Meier event rates and study-stratified multivariable Cox proportional hazards regression models, we evaluated 2-year clinical outcomes according to the ACEI/ARB therapy status at enrollment.
+RESULTS: Among the included patients, 222 (67.9%) were on ACEIs/ARBs at baseline, whereas 105 (32.1%) were not. Treatment with ACEIs/ARBs was significantly associated with a 2-year decrease in the rate of cardiovascular mortality (HR = 0.44, 95% CI: 0.23-0.81, p = 0.009). This association remained stable after both multivariable adjustment and propensity score matching.
+CONCLUSION: In a cohort of hypertensive patients with severe AS who were selected from the EffecTAVI registry, ACEI/ARB treatment at baseline was found to be independently associated with a lower risk of 2-year cardiovascular mortality, suggesting a potential benefit of this treatment. More trials are needed to validate this finding and to understand the full benefit of this treatment.
+
+Citation: Basile C, et al. Renin-angiotensin system inhibitors reduce cardiovascular mortality in hypertensive patients with severe aortic stenosis undergoing transcatheter aortic valve implantation: insights from the EffecTAVI registry. Renin-angiotensin system inhibitors reduce cardiovascular mortality in hypertensive patients with severe aortic stenosis undergoing transcatheter aortic valve implantation: insights from the EffecTAVI registry. 2023; 10:1234368. doi: 10.3389/fcvm.2023.1234368
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37692038/

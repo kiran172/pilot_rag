@@ -1,0 +1,11 @@
+PMID: 39004998
+Title: Coronary Atherosclerosis Progression Provides Incremental Prognostic Value and Optimizes Risk Reclassification by Computed Tomography Angiography.
+
+Abstract: PURPOSE: This study investigated the prognostic value and risk reclassification ability of coronary atherosclerosis progression through serial coronary computed tomography angiography (CCTA).
+MATERIALS AND METHODS: This study enrolled patients with suspected or confirmed coronary artery disease who underwent serial CCTA. Coronary atherosclerosis progression was represented by coronary artery calcium score (CACS) and segment stenosis score (SSS) progression. The baseline and follow-up CCTA characteristics and coronary atherosclerosis progression were compared. Furthermore, the incremental prognostic value and reclassification ability of three models (model 1, baseline risk factors; model 2, model 1 + SSS; and model 3, model 2 + SSS progression) for major adverse cardiovascular events (MACEs) were compared.
+RESULTS: In total, 516 patients (aged 56.40 ± 9.56 y, 67.4% men) were enrolled. During a mean follow-up of 65.29 months, 114 MACE occurred. The MACE group exhibited higher CACS and SSS than the non-MACE group at baseline and follow-up CCTA ( P < 0.001), and demonstrated higher coronary atherosclerosis progression than the non-MACE group (ΔSSS: 2.63 ± 2.50 vs 1.06 ± 1.78, P < 0.001; ΔCACS: 115.15 ± 186.66 vs 89.91 ± 173.08, P = 0.019). SSS progression provided additional prognostic information (C-index = 0.757 vs 0.715, P < 0.001; integrated discrimination index = 0.066, P < 0.001) and improved the reclassification ability of risk (categorical-net reclassification index = 0.149, P = 0.015) compared with model 2.
+CONCLUSIONS: Coronary atherosclerosis progression through CCTA significantly increased the prognostic value and risk stratification for MACE compared with baseline risk factor evaluation and CCTA only.
+
+Citation: Meng Q, et al. Coronary Atherosclerosis Progression Provides Incremental Prognostic Value and Optimizes Risk Reclassification by Computed Tomography Angiography. Coronary Atherosclerosis Progression Provides Incremental Prognostic Value and Optimizes Risk Reclassification by Computed Tomography Angiography. 2024; 39:385-391. doi: 10.1097/RTI.0000000000000793
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39004998/

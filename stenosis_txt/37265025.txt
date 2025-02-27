@@ -1,0 +1,11 @@
+PMID: 37265025
+Title: Impact of vascular complications after transcatheter aortic valve implantation. VASC-OBSERVANT II sub-study.
+
+Abstract: BACKGROUND: Trans-femoral (TF) access is the commonest approach for transcatheter aortic valve implantation (TAVI). However this vascular approach is associated with vascular complications (VC) which in turn have prognostic implications. The aim of this study is to evaluate the clinical impact of access site VC in patients undergoing TAVI with newer generation transcatheter prostheses enrolled in the national observational prospective multicenter study OBSERVANT II.
+METHODS: Vascular events were defined according to the Valve Academic Research Consortium (VARC)-2 criteria. The population enrolled in OBSERVANT II was divided into 3 groups: patients without VC (No-VC), patients with minor VC or percutaneous closure device failure (Minor-VC) and patients with major VC (Major-VC). The primary endpoint was 1-year major adverse cardiac and cerebrovascular event (MACCE), a composite endpoint of all-cause mortality, stroke, myocardial infarction and coronary revascularization. A multivariate Cox regression model was used for risk estimation of MACCE between the three analyzed groups.
+RESULTS: 2.504 patients were included in this analysis: 2.167 patients in No-VC group; 249 patients in the Minor-VC and 88 patients in the Major-VC. At 1-year Minor-VC group had a freedom from MACCE comparable to the No-VC group, while Major-VC patients had significantly worse outcome (Log-rank test: p = 0.003). These results were driven by higher 1-year mortality in the Major-VC (p < 0.0001). Major-VC was an independent predictor of MACCE in adjusted analysis (hazard ratio 1.89, 95% confidence interval 1.18-3.03, p = 0.008).
+CONCLUSIONS: Despite a low incidence of major VC with current TF-TAVI devices, our data confirm that major VC is still associated with a significantly worse clinical outcome.
+
+Citation: Aurigemma C, et al. Impact of vascular complications after transcatheter aortic valve implantation. VASC-OBSERVANT II sub-study. Impact of vascular complications after transcatheter aortic valve implantation. VASC-OBSERVANT II sub-study. 2023; 102:381-391. doi: 10.1002/ccd.30695
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37265025/

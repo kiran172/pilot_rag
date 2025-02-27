@@ -1,0 +1,11 @@
+PMID: 38821478
+Title: Relationship Between Subclavian Artery Stenosis Lesions and Posterior Circulation Infarction: A Preliminary Study.
+
+Abstract: BACKGROUND: To investigate the correlation between subclavian steal syndrome and posterior circulation infarction using magnetic resonance imaging.
+METHODS: A total of 294 patients diagnosed with subclavian steal syndrome using carotid Doppler ultrasonography were retrospectively included. According to the magnetic resonance imaging results, they were divided into posterior circulation infarction group and nonposterior circulation infarction group. Clinical indicators and carotid Doppler ultrasound parameters of patients were collected, and they were screened to establish a multiple logistic regression model. Receiver operating characteristic curve analysis of the established multiple logistic regression model was performed, and the area under the curve was calculated to evaluate the predictive efficiency of the model.
+RESULTS: After statistical analysis of all parameters of the 2 groups of patients, a total of 10 parameters were included in multiple logistic regression to establish a model. The results showed a correlation between posterior circulation infarction and subclavian artery occlusion, grade III subclavian steal syndrome, gender, vulnerable plaques, National Institutes of Health Stroke Scale score, and age. After the receiver operating characteristic curve analysis of the model, the area under the curve for the multiple logistic regression model was 0.773.
+CONCLUSIONS: The multiparameter composite model based on clinical baseline data and carotid Doppler ultrasonography parameters can effectively predict posterior circulation infarction and offer novel insight for clinical diagnosis.
+
+Citation: Zhang L, et al. Relationship Between Subclavian Artery Stenosis Lesions and Posterior Circulation Infarction: A Preliminary Study. Relationship Between Subclavian Artery Stenosis Lesions and Posterior Circulation Infarction: A Preliminary Study. 2024; 108:195-205. doi: 10.1016/j.avsg.2024.03.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38821478/

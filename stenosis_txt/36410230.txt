@@ -1,0 +1,11 @@
+PMID: 36410230
+Title: Predictors of 30-Day Stroke and Death After Transcarotid Revascularization.
+
+Abstract: INTRODUCTION: Much of the previous robust analyses of the results associated with transcarotid revascularization (TCAR) derives from industry-sponsored trials or the Vascular Quality Initiative (VQI). This investigation was performed to identify preoperative predictors of 30-day stroke and death using institutional databases.
+METHODS: A retrospective analysis was performed of carotid revascularization databases created at two high-volume TCAR centers and maintained independently of the VQI carotid module between December 2015 and December 2021. The primary outcome of interest was a composite of perioperative (30-day) stroke and death. Univariate regression analyses, followed by multivariate regression analyses, were performed to identify potential predictors of adverse events.
+RESULTS: During the study period, 750 TCAR procedures were performed at our combined health systems, resulting in 24 (3.2%) individuals who experienced either stroke and/or death in the perioperative period. Of these, we observed nine (1.2%) mortality events and 18 (2.4%) strokes. On univariate analysis, candidate protectors of stroke/death were found to be coronary artery disease (odds ratio [OR], 0.43; 95% confidence interval [CI], 0.18-1.01; P = 0.05) and protamine reversal (0.51; 0.21-1.21; P = 0.15). Candidate predictors of the primary outcome were anticoagulant usage (3.03; 1.26-7.24; P = 0.01), postprocedural debris in the filter (2.30; 0.97-5.43; P = 0.06), symptomatic carotid lesion (2.03; 0.90-4.50), and cardiac arrhythmia (1.98; 0.80-4.03; P = 0.14). On multivariate analysis, two predictors remained, cardiac arrhythmia (4.21; 1.10-16.16; P = 0.04) and symptomatic carotid lesion (14.49; 1.80-116.94; P = 0.01).
+CONCLUSIONS: A symptomatic carotid lesion, and to a lesser extent cardiac arrhythmia, are strong predictors of 30-day stroke/death after TCAR. Surgeons should be cognizant of the increased risk of adverse events in the perioperative period in these patients.
+
+Citation: Leckie K, et al. Predictors of 30-Day Stroke and Death After Transcarotid Revascularization. Predictors of 30-Day Stroke and Death After Transcarotid Revascularization. 2023; 283:146-151. doi: 10.1016/j.jss.2022.10.028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36410230/

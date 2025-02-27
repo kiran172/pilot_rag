@@ -1,0 +1,8 @@
+PMID: 31648622
+Title: Numerical investigation of wall pressure fluctuations downstream of concentric and eccentric blunt stenosis models.
+
+Abstract: Pressure fluctuations that cause acoustic radiation from vessel models with concentric and eccentric blunt stenoses are investigated. Large eddy simulations of non-pulsatile flow condition are performed using OpenFOAM. Calculated amplitude and spatial-spectral distribution of acoustic pressures at the post-stenotic region are compared with previous experimental and theoretical results. It is found that increasing the Reynolds number does not change the location of the maximum root mean square wall pressure, but causes a general increase in the spectrum level, although the change in the shape of the spectrum is not significant. On the contrary, compared to the concentric model at the same Reynolds number, eccentricity leads to an increase both at the distance of the location of the maximum root mean square wall pressure from the stenosis exit and the spectrum level. This effect becomes more distinct when radial eccentricity of the stenosis increases. Both the flow rate and the eccentricity of the stenosis shape are evaluated to be clinically important parameters in diagnosing stenosis.
+
+Citation: Ozden K, et al. Numerical investigation of wall pressure fluctuations downstream of concentric and eccentric blunt stenosis models. Numerical investigation of wall pressure fluctuations downstream of concentric and eccentric blunt stenosis models. 2020; 234:48-60. doi: 10.1177/0954411919884167
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31648622/

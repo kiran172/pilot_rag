@@ -1,0 +1,12 @@
+PMID: 38508842
+Title: Prevalence and Outcomes of Patients With Discordant High-Gradient Aortic Stenosis.
+
+Abstract: BACKGROUND: Conflicting prognostic results have been reported in patients with discordant high-gradient aortic stenosis ([DHG-AS] the combination of a mean pressure gradient ≥40 mm Hg and an aortic valve area [AVA] &gt;1 cm2). Moreover, existing studies only included selected patients without concomitant aortic regurgitation.
+OBJECTIVES: The authors assessed the prevalence and survival of patients presenting with DHG-AS in an unselected group of consecutive patients presenting to the echocardiography laboratory of a tertiary referral center.
+METHODS: A total of 3,547 adult patients with AVA ≤1.5 cm2 and peak aortic jet velocity ≥2.5 m/s or mean gradient ≥25 mm Hg who presented between 2005 and 2015 were included. Baseline clinical and echocardiographic data, and, when available, aortic valve calcium (AVC) score were collected in an institutional database, with subsequent retrospective analysis. The primary endpoint was all-cause mortality during follow-up.
+RESULTS: DHG-AS was observed in 163 patients (11.6% of patients with a high gradient). After adjustment for potential confounders, overall mortality rate of patients with DHG-AS was similar to that of patients with concordant severe aortic stenosis (HR: 0.98 [95% CI: 0.66-1.44]; P = 0.91), and patients with discordant low-gradient aortic stenosis (HR: 0.85 [95% CI: 0.58-1.26]; P = 0.42), and higher than concordant moderate aortic stenosis (HR: 0.54 [95% CI: 0.36-0.81]; P = 0.003). After adjustment for aortic velocities, aortic regurgitation had no significant impact on survival. AVC was higher than in patients with concordant moderate aortic stenosis and discordant low-gradient aortic stenosis, and not significantly different from that of concordant severe aortic stenosis.
+CONCLUSIONS: DHG-AS is not uncommon. Whereas AVA &gt;1.0 cm2 is often seen as moderate aortic stenosis, a high-pressure gradient conveys a poor prognosis, whatever the AVA and the severity of concomitant aortic regurgitation.
+
+Citation: Unger P, et al. Prevalence and Outcomes of Patients With Discordant High-Gradient Aortic Stenosis. Prevalence and Outcomes of Patients With Discordant High-Gradient Aortic Stenosis. 2024; 83:1109-1119. doi: 10.1016/j.jacc.2024.01.025
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38508842/

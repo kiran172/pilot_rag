@@ -1,0 +1,12 @@
+PMID: 32710766
+Title: Clinical Course of Unilateral Moyamoya Disease.
+
+Abstract: BACKGROUND: The natural history of unilateral moyamoya disease (MMD) progressing to bilateral MMD remains an enigma in modern vascular neurosurgery. Few, small series with limited follow-up have reported relatively high rates of contralateral stenosis progression.
+OBJECTIVE: To review our large series of unilateral MMD patients and evaluate radiographic and surgical progression rates, and identify any factors associated with progression.
+METHODS: We included all unilateral MMD cases treated from 1991 to 2017 in an observational study. We examined time to contralateral radiographic progression and contralateral progression requiring surgery. Using Cox regression analysis, we evaluated factors potentially associated with contralateral progression.
+RESULTS: There were 217 patients treated for unilateral MMD. About 71% were female, and the average age at first surgery was 33.8 yr. Average follow-up was 5.8 yr (range 1-22 yr). A total of 18 patients (8.3%) developed contralateral progression. And 8 of these (3.7%) developed progression requiring bypass surgery. Baseline stenosis and hyperlipidemia (HLD) were significantly associated with radiographic progression (hazard ratio [HR] = 9.7, P = .006; HR = 4.0, P = .024). Baseline stenosis was associated with surgical progression (HR = 44.2, P = .002). Results were similar when controlling for possible confounders using multivariate regression.
+CONCLUSION: Previous series showed relatively high rates of progression in unilateral MMD (15%-30%), but these studies were small and long-term follow-up was rarely available. Our large series indicates that the rate of progression is lower than previously reported but still warrants yearly noninvasive screening. These data may provide indirect support for statin therapy in MMD.
+
+Citation: Church EW, et al. Clinical Course of Unilateral Moyamoya Disease. Clinical Course of Unilateral Moyamoya Disease. 2020; 87:1262-1268. doi: 10.1093/neuros/nyaa284
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32710766/

@@ -1,0 +1,11 @@
+PMID: 33144095
+Title: Redo aortic valve intervention after transcatheter aortic valve replacement: Analysis of the nationwide readmission database.
+
+Abstract: BACKGROUND: Outcomes of redo aortic valve intervention (AVI) following transcatheter aortic valve replacement (TAVR) have not been well described. We thought to investigate the incidence, predictors, and outcomes of redo AVI after TAVR.
+METHODS: The Nationwide Readmission Database (from 2012 to 2017) was queried to identify admissions for TAVR. Redo AVI was defined as readmissions that required either TAVR or balloon aortic valvuloplasty (BAV) or surgical aortic valve replacement (SAVR). A multivariable regression model was used to identify independent predictors of redo AVI. In-hospital outcomes of redo TAVR or BAV and redo SAVR were compared in the unadjusted model.
+RESULTS: A total of weighted 148,200 (unweighted redo AVI 297, no redo AVI 73,804) index TAVRs were identified. A weighted 593 (435 TAVR or BAV and 158 SAVR) redo AVI was included with an incidence of 1.0 per 100 person-year during a median of 105 (interquartile range 41-195) days follow-up. Predictors of redo AVI were female, heart failure, obesity, atrial fibrillation, transapical approach, oral anticoagulant use, and acute kidney injury. In-hospital mortality of redo AVI was 7.6% (5.3% for redo TAVR or BAV vs. 13.8% for redo SAVR, unadjusted p = 0.10). Stroke, myocardial infarction, bleeding requiring transfusion, new pacemaker, and acute kidney injury rates were 4.7%, 2.6%, 9.3%, 10.0%, and 31.2%, respectively in redo AVI. Length of stay and hospital cost was 4.8 days and 55,826 U.S. dollars, respectively.
+CONCLUSIONS: The incidence of redo AVI was low following TAVR but was associated with high mortality and morbidities.
+
+Citation: Ando T, et al. Redo aortic valve intervention after transcatheter aortic valve replacement: Analysis of the nationwide readmission database. Redo aortic valve intervention after transcatheter aortic valve replacement: Analysis of the nationwide readmission database. 2021; 325:115-120. doi: 10.1016/j.ijcard.2020.10.038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33144095/

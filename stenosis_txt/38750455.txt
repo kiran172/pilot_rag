@@ -1,0 +1,11 @@
+PMID: 38750455
+Title: Epicardial fat volume is associated with primary coronary slow-flow phenomenon in patients with severe aortic stenosis undergoing transcatheter valve implantation.
+
+Abstract: BACKGROUND: Primary coronary slow flow (CSF) is defined as delayed opacification of the distal epicardial vasculature during coronary angiography in the absence of relevant coronary artery stenoses. Microvascular disease is thought to be the underlying cause of this pathology. Epicardial fat tissue (EFT) is an active endocrine organ directly surrounding the coronary arteries that provides pro-inflammatory factors to the adjacent tissue by paracrine and vasocrine mechanisms. The aim of the present study was to investigate a potential association between EFT and primary CSF and whether EFT can predict the presence of primary CSF.
+METHODS: Between 2016 and 2017, n = 88 patients with high-grade aortic stenosis who were planned for transcatheter aortic valve implantation (TAVI) were included in this retrospective study. EFT volume was measured by pre-TAVI computed tomography (CT) using dedicated software. The presence of primary CSF was defined based on the TIMI frame count from the pre-TAVI coronary angiograms.
+RESULTS: Thirty-nine of 88 TAVI patients had CSF (44.3%). EFT volume was markedly higher in patients with CSF (142 ml [IQR 107-180] vs. 113 ml [IQR 89-147]; p = 0.009) and was strongly associated with the presence of CSF (OR 1.012 [95%CI 1.002-1.021]; p = 0.014). After adjustment, EFT volume was still an independent predictor of CSF (OR 1.016 [95%CI 1.004-1.026]; p = 0.009).
+CONCLUSION: Primary CSF was independently associated with increased EFT volume. Further studies are needed to validate this finding and elucidate whether a causal relationship exists.
+
+Citation: Weferling M, et al. Epicardial fat volume is associated with primary coronary slow-flow phenomenon in patients with severe aortic stenosis undergoing transcatheter valve implantation. Epicardial fat volume is associated with primary coronary slow-flow phenomenon in patients with severe aortic stenosis undergoing transcatheter valve implantation. 2024; 24:253. doi: 10.1186/s12872-024-03927-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38750455/

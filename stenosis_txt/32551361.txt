@@ -1,0 +1,11 @@
+PMID: 32551361
+Title: The impact of antiplatelet therapy on patients with vasospastic angina: A multicenter registry study of the Japanese Coronary Spasm Association.
+
+Abstract: BACKGROUND: Antiplatelet therapy (APT) is generally used in patients with coronary artery disease. However, for patients with vasospastic angina (VSA), the impact of APT is not fully understood.
+METHODS: In a multicenter registry study of the Japanese Coronary Spasm Association (n = 1429), patients with or without APT were compared. The primary endpoint was major adverse cardiac events (MACEs), defined as cardiac death, non-fatal myocardial infarction, unstable angina, heart failure and appropriate ICD (Implantable cardioverter defibrillator) shock. Propensity score matching and a multivariable cox proportional hazard model were used to adjust for selection bias for treatment and potential confounding factors.
+RESULTS: In the whole population, 669 patients received APT, while 760 patients did not receive APT. Patients with APT had a greater prevalence of comorbidities, such as hypertension, diabetes, dyslipidemia and smoking, than those without APT. The prevalences of previous myocardial infarction, spontaneous ST changes, significant organic stenosis and medications including calcium channel blocker, nitrate, statin and angiotensin-converting enzyme inhibitor/angiotensin receptor blocker were greater in patients with APT than those without APT. After propensity matching (n = 335 for both groups), during the median follow-up period of 32 months, the incidence rate of MACE was comparable between the patients with and without APT (P = 0.24). MACEs occurred in 5.7% of patients with APT and in 3.6% of those without APT (P = 0.20). All-cause death occurred in 0.6% of patients with APT and 1.8% of those without APT (p = 0.16).
+CONCLUSION: In this multicenter registry study, anti-platelet therapy exerted no beneficial effects for VSA patients.
+
+Citation: Mori H, et al. The impact of antiplatelet therapy on patients with vasospastic angina: A multicenter registry study of the Japanese Coronary Spasm Association. The impact of antiplatelet therapy on patients with vasospastic angina: A multicenter registry study of the Japanese Coronary Spasm Association. 2020; 29:100561. doi: 10.1016/j.ijcha.2020.100561
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32551361/

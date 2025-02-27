@@ -1,0 +1,11 @@
+PMID: 32284067
+Title: Association between rs2107595 HDAC9 gene polymorphism and advanced carotid atherosclerosis in the Slovenian cohort.
+
+Abstract: BACKGROUND: Histone deacetylase 9 (HDAC9) plays an important role in transcriptional regulation, cell cycle progression and developmental events; moreover, it has been investigated as a candidate gene in a number of conditions, including the onset and progression of atherosclerosis. We hypothesized that the rs2107595 HDAC9 gene polymorphism may be associated with advanced carotid artery disease in a Slovenian cohort. We also investigated the effect of this polymorphism on HDAC9 receptor expression in the internal carotid artery (ICA) specimens obtained by endarterectomy.
+METHODS: This case-control study enrolled 619 unrelated Slovenian patients: 311 patients with ICA stenosis > 75% as the study group and 308 patients with ICA stenosis < 50% as the control group. Patient laboratory and clinical data were obtained from the medical records. The rs2107595 polymorphisms were genotyped using TaqMan SNP Genotyping assay. HDAC9 expression was assessed by immunohistochemistry in 30 ICA specimens from patients with ICA atherosclerosis > 75%, and the numerical areal density of HDAC9 positive cells was calculated.
+RESULTS: The occurrence of advanced ICA atherosclerosis in the Slovenian cohort was 3.81 times higher in the codominant genetic model (OR = 3.81, 95%CI = 1.06-13.77, p = 0.04), and 3.10 times higher in the recessive genetic model (OR = 3.10, 95%CI = 1.16-8.27, p = 0.02). In addition, the A allele of rs2107595 was associated with increased HDAC9 expression in the ICA specimens obtained by endarterectomy.
+CONCLUSIONS: We observed a significant association between the AA genotype of rs2107595 with the advanced carotid artery disease in our Slovenian cohort, indicating that this polymorphism may be a genetic risk factor for ICA atherosclerosis.
+
+Citation: Grbić E, et al. Association between rs2107595 HDAC9 gene polymorphism and advanced carotid atherosclerosis in the Slovenian cohort. Association between rs2107595 HDAC9 gene polymorphism and advanced carotid atherosclerosis in the Slovenian cohort. 2020; 19:71. doi: 10.1186/s12944-020-01255-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32284067/

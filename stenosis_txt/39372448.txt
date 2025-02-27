@@ -1,0 +1,12 @@
+PMID: 39372448
+Title: Machine Learning Prediction for Prognosis of Patients With Aortic Stenosis.
+
+Abstract: BACKGROUND: Aortic valve stenosis of any degree is associated with poor outcomes.
+OBJECTIVES: The authors aimed to develop a risk prediction model for aortic stenosis (AS) prognosis using machine learning techniques.
+METHODS: A prognostic algorithm was developed using an AS registry of 10,407 patients undergoing echocardiography between 2008 and 2020. Clinical, echocardiographic, laboratory, and medication data were used to train and test a time-to-event model, the random survival forest (RSF), for AS patient's prognosis. The composite outcome included aortic valve replacement or mortality. The SHapley Additive exPlanations method attributed the importance of variables and provided personalized risk assessment. The algorithm was validated in 2 external cohorts of 11,738 and 954 patients with AS.
+RESULTS: The median follow-up of the primary cohort was 48 (21-87) months. In this period, 1,116 patients underwent aortic valve replacement, and 5,069 patients died. RSF had an area under the curve (AUC) of 0.83 (95% CI: 0.80-0.86) and 0.83 (95% CI: 0.81-0.84) for outcomes prediction at 1 and 5 years, respectively. Using a cut-off of 50%, the RSF sensitivity and specificity for the composite outcome, were 0.80 and 0.73, respectively. Validation performance in the 2 external cohorts was similar, with AUCs of 0.73 (95% CI: 0.72-0.74) and 0.74 (95% CI: 0.72-0.76), respectively. AS severity, age, serum albumin, pulmonary artery pressure, and chronic kidney disease emerged as the top significant variables in the model.
+CONCLUSIONS: In patients with AS, a machine learning algorithm predicts outcomes with good accuracy, and prognostic characteristics were identified. The model can potentially guide risk factor modification and clinical decisions to improve patient prognosis.
+
+Citation: Shimoni S, et al. Machine Learning Prediction for Prognosis of Patients With Aortic Stenosis. Machine Learning Prediction for Prognosis of Patients With Aortic Stenosis. 2024; 3:101135. doi: 10.1016/j.jacadv.2024.101135
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39372448/

@@ -1,0 +1,11 @@
+PMID: 38190074
+Title: Deep Learning Algorithm Trained on Oblique Cervical Radiographs to Predict Outcomes of Transforaminal Epidural Steroid Injection for Pain from Cervical Foraminal Stenosis.
+
+Abstract: INTRODUCTION: We developed a convolutional neural network (CNN) model to predict treatment outcomes of transforaminal epidural steroid injection (TFESI) for controlling cervical radicular pain due to cervical foraminal stenosis.
+METHODS: We retrospectively recruited 293 patients with cervical TFESI due to cervical radicular pain caused by cervical foraminal stenosis. We obtained a single oblique cervical radiograph from each patient. We cut each oblique cervical radiograph image into a square shape, including the foramen that was targeted for TFESI, the intervertebral disc, the facet joint of the corresponding level with the targeted foramen, and the pedicles of the vertebral bodies just above and below the targeted foramen. Therefore, images including the targeted foramen and structures around the targeted foramen were used as input data. A favorable outcome was defined as a ≥ 50% reduction in the numeric rating scale (NRS) score at 2 months post TFESI compared to the pretreatment NRS score. A poor outcome was defined as a < 50% reduction in the NRS score at 2 months post TFESI vs. the pretreatment score.
+RESULTS: The area under the curve of our developed model for predicting the treatment outcome of cervical TFESI in patients with cervical foraminal stenosis was 0.823.
+CONCLUSION: A CNN model trained using oblique cervical radiographs can be helpful in predicting treatment outcomes after cervical TFESI in patients with cervical foraminal stenosis. If the predictive accuracy is increased, we believe that the deep learning model using cervical radiographs as input data can be easily and widely used in clinics or hospitals.
+
+Citation: Wang MX, et al. Deep Learning Algorithm Trained on Oblique Cervical Radiographs to Predict Outcomes of Transforaminal Epidural Steroid Injection for Pain from Cervical Foraminal Stenosis. Deep Learning Algorithm Trained on Oblique Cervical Radiographs to Predict Outcomes of Transforaminal Epidural Steroid Injection for Pain from Cervical Foraminal Stenosis. 2024; 13:173-183. doi: 10.1007/s40122-023-00573-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38190074/

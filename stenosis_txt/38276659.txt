@@ -1,0 +1,11 @@
+PMID: 38276659
+Title: Comparison of Mid-Term Prognosis in Intermediate-to-Low-Risk Contemporary Population with Guidelines-Oriented Age Cutoff.
+
+Abstract: BACKGROUND: Current European guidelines support transcatheter aortic valve implantation (TAVI) in intermediate-to-low-risk patients ≥75 years-old, but its prognostic relevance is unknown.
+METHODS: Intermediate-to-low-risk (The Society of Thoracic Surgeons score <8%) patients enrolled in the HORSE registry were included. We compared the populations aged under 75 with those over 75. The primary endpoint was all-cause mortality.
+RESULTS: A total of 2685 patients were included: 280 (8.6%) &lt; 75 and 2405 ≥ 75 years. Through a mean follow-up of 437 ± 381 days, 198 (8.2%) and 23 (8.2%) patients died in the two arms without statistically significant differences (log-rank p = 0.925). At Cox regression analysis, age did not predict the occurrence of all-cause death, neither as a continuous variable (HR 1.01, 95% CI 0.99-1.04, p = 0.294) nor dichotomizing according to the prespecified cutoff of 75 years (HR 0.97, 95% CI 0.63-1.51, p = 0.924). Time-to-event ROC curves showed low accuracy of age to predict all-cause mortality (area under the curve of 0.54 for both 1-year and 2-year outcomes).
+CONCLUSIONS: TAVI has comparable benefits across age strata for intermediate-to-low-risk patients. The age cutoff suggested by the current guidelines is not predictive of the risk of adverse events during hospital stays or of all-cause mortality through a mid-term follow-up.
+
+Citation: Benenati S, et al. Comparison of Mid-Term Prognosis in Intermediate-to-Low-Risk Contemporary Population with Guidelines-Oriented Age Cutoff. Comparison of Mid-Term Prognosis in Intermediate-to-Low-Risk Contemporary Population with Guidelines-Oriented Age Cutoff. 2024; 11:(unknown pages). doi: 10.3390/jcdd11010033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38276659/

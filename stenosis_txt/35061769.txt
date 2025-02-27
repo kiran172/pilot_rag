@@ -1,0 +1,12 @@
+PMID: 35061769
+Title: Relationship between hypertension and non-obstructive coronary artery disease in chronic coronary syndrome (the NORIC registry).
+
+Abstract: BACKGROUND: The burden of non-obstructive coronary artery disease (CAD) in the society is high, and there is currently limited evidence-based recommendation for risk stratification and treatment. Previous studies have demonstrated an association between increasing extent of non-obstructive CAD and cardiovascular events. Whether hypertension, a modifiable cardiovascular risk factor, is associated with extensive non-obstructive CAD in patients with symptomatic chronic coronary syndrome (CCS) remains unclear.
+METHODS: We included 1138 patients (mean age 62±11 years, 48% women) with symptomatic CCS and non-obstructive CAD (1-49% lumen diameter reduction) by coronary computed tomography angiography (CCTA) from the Norwegian Registry for Invasive Cardiology (NORIC). The extent of non-obstructive CAD was assessed as coronary artery segment involvement score (SIS), and extensive non-obstructive CAD was adjudicated when SIS >4. Hypertension was defined as known hypertension or use of antihypertensive medication.
+RESULTS: Hypertension was found in 45% of patients. Hypertensive patients were older, with a higher SIS, calcium score, and prevalence of comorbidities and statin therapy compared to the normotensive (all p<0.05). There was no difference in the prevalence of hypertension between sexes. Univariable analysis revealed a significant association between hypertension and non-obstructive CAD. In multivariable analysis, hypertension remained associated with extensive non-obstructive CAD, independent of sex, age, smoking, diabetes, statin treatment, obesity and calcium score (OR 1.85, 95% CI [1.22-2.80], p = 0.004).
+CONCLUSION: In symptomatic CCS, hypertension was associated with extensive non-obstructive CAD by CCTA. Whether hypertension may be a new treatment target in symptomatic non-obstructive CAD needs to be explored in future studies.
+CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov: Identifier NCT04009421.
+
+Citation: Berge CA, et al. Relationship between hypertension and non-obstructive coronary artery disease in chronic coronary syndrome (the NORIC registry). Relationship between hypertension and non-obstructive coronary artery disease in chronic coronary syndrome (the NORIC registry). 2022; 17:e0262290. doi: 10.1371/journal.pone.0262290
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35061769/

@@ -1,0 +1,8 @@
+PMID: 37387008
+Title: Machine Learning Approaches for Detecting Coronary Artery Disease Using Angiography Imaging: A Scoping Review.
+
+Abstract: This scoping review aims to identify and summarize the current literature on Machine learning (ML) approaches for detecting coronary artery disease (CAD) using angiography imaging. We comprehensively searched several databases and identified 23 studies that met the inclusion criteria. They employed different types of angiography imaging including computed tomography and invasive coronary angiography. Several studies have used deep learning algorithms for image classification and segmentation, and our findings show that various machine learning algorithms, such as convolutional neural networks, different types of U-Net, and hybrid approaches. Studies also varied in the outcomes measured, identifying stenosis, and assessing the severity of CAD. ML approaches can improve the accuracy and efficiency of CAD detection by using angiography. The performance of the algorithms differed depending on the dataset used, algorithm employed, and features selected for analysis. Therefore, there is a need to develop ML tools that can be easily integrated into clinical practice to aid in the diagnosis and management of CAD.
+
+Citation: Rangraz Jeddi F, et al. Machine Learning Approaches for Detecting Coronary Artery Disease Using Angiography Imaging: A Scoping Review. Machine Learning Approaches for Detecting Coronary Artery Disease Using Angiography Imaging: A Scoping Review. 2023; 305:244-248. doi: 10.3233/SHTI230474
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37387008/

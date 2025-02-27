@@ -1,0 +1,11 @@
+PMID: 39424099
+Title: Progressive T1 high-intensity plaques in carotid stenosis: Comparative MRI analyses in asymptomatic and symptomatic phases of low-grade stenosis.
+
+Abstract: BACKGROUND AND PURPOSE: Carotid artery stenosis, particularly the progression from asymptomatic to symptomatic lesions, is a key factor in cerebrovascular events. This study identifies predictors of symptom development in low-grade carotid stenosis (<50%), focusing on intraplaque hemorrhage (IPH) and dynamic plaque changes.
+MATERIALS AND METHODS: We conducted a retrospective study analyzing 30 cases of symptomatic low-grade carotid stenosis, using carotid MRI before and after symptom onset. Key measures included relative plaque signal intensity (rSI) and high-intensity plaque (HI plaque) volume. Stepwise regression analysis examined the influence of these factors on Symptomatic rSI, Symptomatic plaque volume, and NIHSS scores.
+RESULTS: Significant increases were observed in rSI (1.32 ± 0.32 to 1.69 ± 0.25, p < 0.001) and HI plaque volume (296.4 ± 362.7 mm³ to 717.5 ± 554.9 mm³, p < 0.001) from asymptomatic to symptomatic phases. Past smoking (p = 0.008) and statin use (p = 0.04) were associated with higher Symptomatic rSI, while poor risk factor control (p = 0.03) was negatively associated. Female sex (p = 0.007) and current smoking (p = 0.009) were linked to smaller Symptomatic plaque volumes, while ischemic heart disease (p = 0.0002) and poor risk factor control (p = 0.002) predicted larger plaque volumes. Larger plaques were correlated with higher NIHSS scores (p = 0.002).
+CONCLUSIONS: IPH and plaque volume are key markers of progression in low-grade carotid stenosis. Poor control of cardiovascular risk factors and a history of ischemic heart disease contribute to plaque burden and stroke severity. Continuous monitoring and strict risk management are essential in reducing stroke severity in these patients.
+
+Citation: Kurosaki Y, et al. Progressive T1 high-intensity plaques in carotid stenosis: Comparative MRI analyses in asymptomatic and symptomatic phases of low-grade stenosis. Progressive T1 high-intensity plaques in carotid stenosis: Comparative MRI analyses in asymptomatic and symptomatic phases of low-grade stenosis. 2024; 51:101223. doi: 10.1016/j.neurad.2024.101223
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39424099/

@@ -1,0 +1,12 @@
+PMID: 39351864
+Title: CircTMTC1 Mediates Nucleo-cytoplasmic Translocation of DDX3X to Regulate Osteogenic Differentiation of Human Ligamentum Flavum Cells.
+
+Abstract: OBJECTIVE: This study was aimed to investigate the potential roles of circTMTC1 in the underlying pathophysiological mechanisms of ossification of the ligamentum flavum (OLF).
+SUMMARY OF BACKGROUND DATA: OLF is the primary contributor to thoracic spinal stenosis, which may cause severe neurological symptoms. There is a lack of effective medical therapy for OLF available so far because the exact underlying mechanism of OLF has not been fully elucidated. CircRNAs are a special class of non-coding RNAs and have attracted a growing interest of research in various human diseases recently. Therefore, we explored the potential roles of circRNAs in the underlying pathophysiological mechanisms of OLF.
+METHODS: We performed RNA-seq analysis to investigate the differentially expression profile of circRNAs in osteogenic differentiation of human LF cells, and identified a key circular RNA circTMTC1 functioned in OLF. Subsequently, we performed a series of experiments to investigate the exact molecular and cellular mechanisms in osteogenic differentiation of human ligamentum flavum cells.
+RESULTS: CircTMTC1 is significantly up-regulated during osteogenic differentiation of human LF cells. Mechanistically, we found that circTMTC1 could interact with the RNA binding protein DDX3X and enhance its nucleo-cytoplasmic translocation. An increased cytoplasmic level of DDX3X activated the NLRP3 inflammasome pathway and thus promoted osteogenic differentiation of human ligamentum flavum cells.
+CONCLUSION: Our findings suggested the circTMTC1-DDX3X-NLRP3 inflammasome signaling plays a pivotal role in osteogenic differentiation of human ligamentum flavum cells, which may provide novel diagnostic and therapeutic strategies for OLF.
+
+Citation: Xiang Q, et al. CircTMTC1 Mediates Nucleo-cytoplasmic Translocation of DDX3X to Regulate Osteogenic Differentiation of Human Ligamentum Flavum Cells. CircTMTC1 Mediates Nucleo-cytoplasmic Translocation of DDX3X to Regulate Osteogenic Differentiation of Human Ligamentum Flavum Cells. 2024; (unknown volume):(unknown pages). doi: 10.1097/BRS.0000000000005166
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39351864/

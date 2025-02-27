@@ -1,0 +1,11 @@
+PMID: 33071196
+Title: Adverse Events and Modes of Failure Related to Rotational Atherectomy System: The Utility of the MAUDE Database.
+
+Abstract: BACKGROUND/PURPOSE: Coronary artery calcification is a marker of advanced atherosclerosis and a predictor of adverse clinical outcomes. Rotational atherectomy (RA) can effectively modify calcified lesions, optimizing procedural outcomes. We interrogated the most commonly reported adverse events involving rotational atherectomy systems (Rotablator and Rotapro) by analyzing post-marketing surveillance data from the Food and Drug Administration Manufacturer and User Facility Device Experience (MAUDE) database.
+METHODS/MATERIALS: We queried MAUDE from September 1, 2016, through December 31, 2019. After excluding duplicate reports, we included 363 reports for Rotablator and 63 reports for Rotapro in the final analysis.
+RESULTS: Percentages represent the proportion of total submitted MAUDE reports. The most commonly reported complications for Rotablator and Rotapro included dissection (2.7% and 6.3%, respectively) and perforation (4.1% and 19%, respectively). The most commonly reported device-related issues included detachment or structural damage, or both, for Rotablator (39.1%) and entrapment of the device component for Rotapro (47.6%). The most commonly damaged device component was the Rotawire, whereas the most commonly entrapped device component was the Rotaburr for both device configurations. Rotablator and Rotapro device-related complications were most commonly reported for the left anterior descending artery.
+CONCLUSION: An analysis of the MAUDE database demonstrates that in real-world practice, RA devices are associated with important complications. Ongoing surveillance of safety profiles, patient outcomes, and failure modes of RA devices is warranted. Our analysis provides important insights into the mechanisms of failure of RA devices and associated complications but cannot verify causality.
+
+Citation: Khalid N, et al. Adverse Events and Modes of Failure Related to Rotational Atherectomy System: The Utility of the MAUDE Database. Adverse Events and Modes of Failure Related to Rotational Atherectomy System: The Utility of the MAUDE Database. 2021; 27:57-62. doi: 10.1016/j.carrev.2020.08.038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33071196/

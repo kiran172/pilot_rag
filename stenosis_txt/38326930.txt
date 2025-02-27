@@ -1,0 +1,11 @@
+PMID: 38326930
+Title: Ankle-brachial index associates with arteriovenous fistula stenosis.
+
+Abstract: BACKGROUND: Arteriovenous fistula (AVF) stenosis is associated with pre-existing arterial atherosclerosis of AVF and results in significant morbidity and hospitalization for hemodialysis patients. The ankle brachial index (ABI) is a noninvasive method of assessing atherosclerosis. This study was to examine whether ABI is a significant predictor for AVF stenosis.
+METHODS: This was a retrospective, longitudinal cohort study. Patients with hemodialysis between 1 January 2016 and 31 December 2022 were reviewed. ABI was assessed in January 2016. AVF stenosis was diagnosed by fistulography.
+RESULTS: A total of 82 patients were included. Forty-two patients experienced AVF stenosis. The univariate logistic regression analysis showed that AVF stenosis was associated with age (OR: 1.045, p = 0.033), DM status (OR: 5.529, p = 0.013), 7-year averaged cholesterol level (OR: 1.018, p = 0.034), 7-year averaged triglyceride level (OR: 1.007, p = 0.017), and ABI (OR: 0.011, p &lt; 0.001). In multivariate logistic regression analysis, ABI was a strong predictor for AVF stenosis (OR: 0.036, p = 0.023). Then, a cut-off point of ABI with optimal sensitivity and specificity for AVF stenosis was 1.01. An analysis of time to events with adjustment for other variables showed that patients with ABI &lt; 1.01 were significantly associated with AVF stenosis (HR: 3.859, p &lt; 0.001).
+CONCLUSIONS: ABI below 1.01 was associated with AVF stenosis. This finding may be useful in tailoring surveillance programs for monitoring AVF function.
+
+Citation: Lee KN, et al. Ankle-brachial index associates with arteriovenous fistula stenosis. Ankle-brachial index associates with arteriovenous fistula stenosis. 2024; (unknown volume):11297298231226155. doi: 10.1177/11297298231226155
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38326930/

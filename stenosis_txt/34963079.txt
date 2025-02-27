@@ -1,0 +1,11 @@
+PMID: 34963079
+Title: Renal Dysfunction is the Strongest Prognostic Factor After Carotid Artery Stenting According to Real-World Data.
+
+Abstract: PURPOSE: Through the progression of devices, the adaptation of carotid artery stenting (CAS) has been expanded according to the non-inferiority of CAS for carotid endarterectomy reported by several randomized control trials. To maintain favorable outcomes, identifying prognostic factors is essential for optimizing treatment indications and periprocedural management. This study focused on the prognostic factors of CAS using real-world data.
+METHODS: This retrospective multicenter cohort study aimed to identify the prognostic factors after CAS using real-world data from the stroke registry of Yokohama (STrOke Registry of Yokohama; STORY) from January 1, 2018 to May 31, 2021. Patient characteristics, procedural factors, complications, and prognoses were collected using medical records.
+RESULTS: Data from 107 patients were enrolled in this study after excluding those with insufficient data (2 cases). The mean participant age was 74.9±8.2 years, and 66 patients (61.7%) were symptomatic. Symptomatic lesions were a significant prognostic factor in the overall analysis (p=0.003). A multivariate analysis showed that the estimated glomerular filtration rate (eGFR) (odds ratio: 1.11, p=0.003) and staged CAS (odds ratio: 38.9, p=0.04) were independent prognostic factors. The odds ratio and relative risk of mRS deterioration when eGFR was under 49 mL/min/1.73 m2 compared with when eGFR was above 49 mL/min/1.73 m2 were 5.2 and 3.74, respectively.
+CONCLUSIONS: In this real-world multicenter study, we established independent prognostic factors for CAS using high totality data. For patients with symptomatic lesions and low eGFR (≤49 mL/min/1.73 m2), indication for treatment should be considered strictly.
+
+Citation: Miyake S, et al. Renal Dysfunction is the Strongest Prognostic Factor After Carotid Artery Stenting According to Real-World Data. Renal Dysfunction is the Strongest Prognostic Factor After Carotid Artery Stenting According to Real-World Data. 2022; 31:106269. doi: 10.1016/j.jstrokecerebrovasdis.2021.106269
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34963079/

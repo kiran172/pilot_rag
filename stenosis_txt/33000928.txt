@@ -1,0 +1,13 @@
+PMID: 33000928
+Title: Evaluation of the Minimum Clinically Important Differences of the Zurich Claudication Questionnaire in Patients With Lumbar Spinal Stenosis.
+
+Abstract: STUDY DESIGN: A case-control study.
+OBJECT: This study aimed to evaluate the minimally clinically important differences (MCIDs) of the Zurich Claudication Questionnaire (ZCQ) after microendoscopic laminectomy in patients with lumbar spinal stenosis (LSS).
+SUMMARY OF BACKGROUND DATA: The ZCQ is a self-administered tool used to evaluate symptom severity and physical function in patients with LSS. It has been used in many studies worldwide. However, the MCIDs of the ZCQ have not yet been determined.
+MATERIALS AND METHODS: The study sample consisted of 514 patients who underwent microendoscopic laminectomy for LSS at our hospital between March 2012 and May 2014. The ZCQ, which includes 7 items for symptom severity (scored from 1 to 5) and 5 items for functional disability (scored from 1 to 4), was administered preoperatively and 1-year postoperatively. The MCID was calculated by 4 approaches, including average change, minimum detectable change, change difference, and receiver operating characteristic curve. The authors calculated the area under the curve (AUC) to evaluate the accuracy of the receiver operating characteristic curve. The responsiveness of each measurement was then analyzed.
+RESULTS: The authors were able to administer the ZCQ at 1-year postoperatively in 349 patients. The ZCQ score was statistically significantly improved 1-year postoperatively. The MCID of ZCQ for symptom severity varied from 0.75 to 0.84, whereas the MCID of the ZCQ score for functional disability varied from 0.60 to 0.76. The AUC of the ZCQ for symptom severity was 0.81 and that for functional disability was 0.80.
+CONCLUSIONS: This study showed that the MCID of the ZCQ for symptom severity varied from 0.75 to 0.84 and the MCID for functional disability varied from 0.60 to 0.76. In addition, each AUC was over 0.80, indicating that MCIDs of the ZCQ were found to have a high diagnostic performance.
+
+Citation: Fukushima M, et al. Evaluation of the Minimum Clinically Important Differences of the Zurich Claudication Questionnaire in Patients With Lumbar Spinal Stenosis. Evaluation of the Minimum Clinically Important Differences of the Zurich Claudication Questionnaire in Patients With Lumbar Spinal Stenosis. 2020; 33:E499-E503. doi: 10.1097/BSD.0000000000000983
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33000928/

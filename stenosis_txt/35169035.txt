@@ -1,0 +1,12 @@
+PMID: 35169035
+Title: Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database.
+
+Abstract: BACKGROUND: Hospital readmissions are costly and reflect negatively on care delivered.
+OBJECTIVE: To have a better understanding of unplanned readmissions after carotid revascularization, which might help to prevent them.
+METHODS: The Nationwide Readmissions Database was used to determine rates and reasons for unplanned readmission following carotid endarterectomy (CEA) and carotid artery stenting (CAS). Trends were assessed by annual percent change, modified Poisson regression was used to estimate risk ratios (RR) for readmission, and propensity scores were used to match cohorts.
+RESULTS: Analysis yielded 522 040 asymptomatic and 55 485 symptomatic admissions for carotid revascularization between 2010 and 2015. Higher 30-day readmission rates were noted after CAS versus CEA in both symptomatic (9.1% vs 7.7%, p<0.001) and asymptomatic (6.8% vs 5.7%, p<0.001) patients. Readmission rates trended lower over time, significantly so for 90-day readmissions in symptomatic patients undergoing CEA. The most common cause for 30-day readmission was stroke in both symptomatic (5.5%) and asymptomatic (3.9%) patients. Factors associated with a higher risk of readmission included age over 80; male gender; Medicaid health insurance; and increases in severity of illness, mortality risk, and comorbidity indices. Analysis of matched cohorts showed that CAS had higher readmission than CEA (RR=1.14 (95% CI 1.06 to 1.22); p<0.001) only in asymptomatic patients. Adverse events during initial admission which predicted 30-day readmission included acute renal failure and acute respiratory failure in asymptomatic patients; hematoma and cardiac events were additional predictive adverse events in symptomatic patients.
+CONCLUSIONS: Readmission is not uncommon after carotid revascularization, occurs more often after CAS, and is predicted by baseline factors and by preventable adverse events at initial admission.
+
+Citation: Nazari P, et al. Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database. Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database. 2023; 15:242-247. doi: 10.1136/neurintsurg-2021-018523
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35169035/

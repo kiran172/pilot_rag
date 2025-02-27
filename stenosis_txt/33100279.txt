@@ -1,0 +1,11 @@
+PMID: 33100279
+Title: Outcomes of Dissection Angles as Predictor of Restenosis after Drug-Coated Balloon Treatment.
+
+Abstract: AIM: The predictors of restenosis after endovascular therapy (EVT) with paclitaxel drug-coated balloons (DCBs) have not been clearly established. The present study aimed to investigate the association of post-procedural dissection, as evaluated using intravascular ultrasound (IVUS), with the risk of restenosis following femoropopliteal EVT with paclitaxel DCBs.
+METHODS: In the present single-center retrospective study, 60 de novo femoropopliteal lesions (44 patients) that underwent EVT with DCBs, without bail-out stenting, were enrolled. The primary outcome was 1-year primary patency. Risk factors for restenosis were evaluated using a Cox proportional hazards regression model and random survival forest analysis.
+RESULTS: The 1-year primary patency rate was 57.2% [95% confidence interval, 45%-72%]. IVUS-evaluated post-procedural dissection was significantly associated with the risk of restenosis (P=0.002), with the best cutoff point of 64º [range, 39º-83º]. The random survival forest analysis showed that the variable importance measure of IVUS-evaluated dissection was significantly lower than that of the reference vessel diameter (P＜0.001), not different from that of the lesion length (P=0.41), and significantly higher than that of any other clinical feature (all P＜0.05).
+CONCLUSION: IVUS-evaluated post-procedural dissection was associated with 1-year restenosis following femoropopliteal EVT with DCB.
+
+Citation: Kozuki A, et al. Outcomes of Dissection Angles as Predictor of Restenosis after Drug-Coated Balloon Treatment. Outcomes of Dissection Angles as Predictor of Restenosis after Drug-Coated Balloon Treatment. 2021; 28:954-962. doi: 10.5551/jat.59774
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33100279/

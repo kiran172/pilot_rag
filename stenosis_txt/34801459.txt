@@ -1,0 +1,12 @@
+PMID: 34801459
+Title: Automated Analysis of Doppler Echocardiographic Videos as a Screening Tool for Valvular Heart Diseases.
+
+Abstract: OBJECTIVES: This study sought to develop a deep learning (DL) framework to automatically analyze echocardiographic videos for the presence of valvular heart diseases (VHDs).
+BACKGROUND: Although advances in DL have been applied to the interpretation of echocardiograms, such techniques have not been reported for interpretation of color Doppler videos for diagnosing VHDs.
+METHODS: The authors developed a 3-stage DL framework for automatic screening of echocardiographic videos for mitral stenosis (MS), mitral regurgitation (MR), aortic stenosis (AS), and aortic regurgitation (AR) that classifies echocardiographic views, detects the presence of VHDs, and, when present, quantifies key metrics related to VHD severities. The algorithm was trained (n = 1,335), validated (n = 311), and tested (n = 434) using retrospectively selected studies from 5 hospitals. A prospectively collected set of 1,374 consecutive echocardiograms served as a real-world test data set.
+RESULTS: Disease classification accuracy was high, with areas under the curve of 0.99 (95% CI: 0.97-0.99) for MS; 0.88 (95% CI: 0.86-0.90) for MR; 0.97 (95% CI: 0.95-0.99) for AS; and 0.90 (95% CI: 0.88-0.92) for AR in the prospective test data set. The limits of agreement (LOA) between the DL algorithm and physician estimates of metrics of valve lesion severities compared to the LOAs between 2 experienced physicians spanned from -0.60 to 0.77 cm2 vs -0.48 to 0.44 cm2 for MV area; from -0.27 to 0.25 vs -0.23 to 0.08 for MR jet area/left atrial area; from -0.86 to 0.52 m/s vs -0.48 to 0.54 m/s for peak aortic valve blood flow velocity (V<sub>max</sub>); from -10.6 to 9.5 mm Hg vs -10.2 to 4.9 mm Hg for average peak aortic valve gradient; and from -0.39 to 0.32 vs -0.31 to 0.32 for AR jet width/left ventricular outflow tract diameter.
+CONCLUSIONS: The proposed deep learning algorithm has the potential to automate and increase efficiency of the clinical workflow for screening echocardiographic images for the presence of VHDs and for quantifying metrics of disease severity.
+
+Citation: Yang F, et al. Automated Analysis of Doppler Echocardiographic Videos as a Screening Tool for Valvular Heart Diseases. Automated Analysis of Doppler Echocardiographic Videos as a Screening Tool for Valvular Heart Diseases. 2022; 15:551-563. doi: 10.1016/j.jcmg.2021.08.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34801459/

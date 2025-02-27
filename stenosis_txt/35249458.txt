@@ -1,0 +1,12 @@
+PMID: 35249458
+Title: Paeonol attenuates heart failure induced by transverse aortic constriction via ERK1/2 signalling.
+
+Abstract: CONTEXT: Paeonol (PAE) is the main phytochemical from Cortex Moutan. Its main pharmacological effects are anti-inflammatory and antioxidant, but its cardioprotective effect is unclear.
+OBJECTIVE: The study investigates the effects and underlying mechanisms of PAE on transverse aortic constriction (TAC)-induced heart failure (HF) in mice.
+MATERIALS AND METHODS: C57BL/6 mice were randomly divided into five groups: sham, TAC, PAE10 (TAC + PAE 10 mg/kg), PAE20 (TAC + PAE 20 mg/kg) and PAE 50 (TAC + PAE 50 mg/kg). Paeonol was intragastrically administered to mice for 4 weeks. Mice were anaesthetized with pentobarbital sodium and underwent cardiac echocardiography using echocardiography system. Serum levels of atrial natriuretic peptide (ANP), tumour necrosis factor-α (TNF-α) and interleukin-6 (IL-6) were measured by enzyme-linked immunosorbent assay (ELISA). Myocardial apoptosis was detected with terminal deoxynucleotidyl transferase-mediated dUTP nick end-labelling (TUNEL) staining. Haematoxylin-eosin (H&E) and Masson's staining were used for histopathological evaluation. Western and quantitative real-time PCR (qRT-PCR) were performed to detect levels of apoptosis and fibrosis-related proteins.
+RESULTS: Echocardiography showed PAE improved cardiac function (LVEF: TAC, 52.3±6.8%; PAE20, 65.8±3.6%; PAE50, 71.4±2.5%) and H&amp;E staining showed PAE alleviated myocardial injury (TAC: 1170.3 ± 134.6 μm2; PAE50: 576.0 ± 53.5 μm2). Western and qRT-PCR results showed that PAE down-regulated the levels of ANP, BNP and α-MHC. In addition, TUNEL and western results showed PAE significantly inhibited apoptosis. Masson and western results showed PAE inhibited cardiac hypertrophy. Western results showed the ERK1/2/JNK pathway could be inhibited by PAE.
+DISCUSSION AND CONCLUSIONS: Paeonol regulates ERK1/2/JNK to improve cardiac function, which provides theoretical support for the extensive clinical treatment of HF.
+
+Citation: Chen X, et al. Paeonol attenuates heart failure induced by transverse aortic constriction via ERK1/2 signalling. Paeonol attenuates heart failure induced by transverse aortic constriction via ERK1/2 signalling. 2022; 60:562-569. doi: 10.1080/13880209.2022.2040543
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35249458/

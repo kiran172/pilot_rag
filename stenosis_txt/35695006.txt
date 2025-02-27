@@ -1,0 +1,13 @@
+PMID: 35695006
+Title: Revacept, an Inhibitor of Platelet Adhesion in Symptomatic Carotid Stenosis: A Multicenter Randomized Phase II Trial.
+
+Abstract: BACKGROUND: Patients with symptomatic internal carotid artery (ICA) stenosis are at high risk of recurrent ischemic stroke and require early interventional treatment and antiplatelet therapy. Increased bleeding rates might counterbalance the periprocedural efficacy of intensified platelet inhibition. We aim to investigate, whether Revacept, a competitive antagonist of glycoprotein VI, adjunct to standard antiplatelet therapy reduces the occurrence of ischemic lesions in patients with symptomatic ICA stenosis.
+METHODS: International, multicenter (16 sites), 3-arm, randomized (1:1:1), double-blind, and placebo-controlled study with parallel groups, including patients with symptomatic ICA stenosis. A single infusion over 20 minutes of either placebo, 40 mg or 120 mg Revacept in addition to guideline-conform antiplatelet therapy was evaluated with regard to the exploratory efficacy end point: Number of new ischemic lesions on diffusion-weighted magnetic resonance imaging after treatment initiation. Main clinical outcome was the combined safety and efficacy end point including any stroke or death, transient ischemic attack, myocardial infarction, coronary intervention, and bleeding complications during follow-up.
+RESULTS: Out of 160 randomized patients, 158 patients (68±10.1 years, 24% female) received study medication (51 patients placebo, 54 patients 40 mg Revacept and 53 patients 120 mg Revacept) and were followed for 11.2±2.3 months. A total of 1.16 (95% CI, 0.88-1.53)/1.05 (95% CI, 0.78-1.42; P=0.629)/0.63 (95% CI, 0.43-0.93) new diffusion-weighted magnetic resonance imaging lesions per patient were detected in the placebo/40 mg/120 mg Revacept groups, without statistical evidence of a difference. A reduction of the combined safety and efficacy end point during the study period was observed in patients who received 120 mg (HR, 0.46 [95% CI, 0.21-0.99]; P=0.047), but not 40 mg Revacept compared with placebo (HR, 0.72 [95% CI, 0.37-1.42]; P=0.343).
+CONCLUSIONS: Revacept 120 mg reduced the combined safety and efficacy end point in patients with symptomatic ICA stenosis.
+REGISTRATION: URL: https://www.
+CLINICALTRIALS: gov; Unique Identifier: NCT01645306.
+
+Citation: Uphaus T, et al. Revacept, an Inhibitor of Platelet Adhesion in Symptomatic Carotid Stenosis: A Multicenter Randomized Phase II Trial. Revacept, an Inhibitor of Platelet Adhesion in Symptomatic Carotid Stenosis: A Multicenter Randomized Phase II Trial. 2022; 53:2718-2729. doi: 10.1161/STROKEAHA.121.037006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35695006/

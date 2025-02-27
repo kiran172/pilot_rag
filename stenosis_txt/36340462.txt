@@ -1,0 +1,11 @@
+PMID: 36340462
+Title: Novel Mathematical Diagnostic Analysis of Malignant Biliary Stenosis Using Magnetic Resonance Cholangiography in Patients Undergoing Pancreaticoduodenectomy.
+
+Abstract: BACKGROUND/AIM: A novel mathematical diagnostic analysis using Fourier transform (FT) algorithm of the extrahepatic bile duct (BD) using magnetic resonance-cholangiography (MRC) was performed to evaluate irregularities of the bile duct lumen indicating BD cancer (BDC) extension compared to pancreatic head malignancies controls.
+PATIENTS AND METHODS: BD lumen was automatically traced, and a 2D-diagram cross-section was measured and a FT-based integrated-power-spectral-density-function value (FTV) of both diameter and area (mm 2  and mm 4 /Hz) was calculated for cancerous and non-cancerous parts utilizing a computer workstation.
+RESULTS: FT analysis that was achieved in 59 patients consisted of BDC in 31, pancreatic cancer with biliary stenosis (PC) in 10 and pancreatic neoplasm without stenosis (PN) in 18. FTV-diameter and -area of non-tumorous proximal BD were larger compared to tumor involving BD (p&lt;0.01), and those of the entire BD in BDCs were significantly larger than those in PN (p&lt;0.01). FTV-diameter and -area in proximal BDC-positive were smaller than those in BDC-negative (p&lt;0.05). BDC part was significantly discriminated by the cutoff value (286 mm 2 Hz -1  in diameter and 10,311 mm 4 Hz -1  in area) compared to PC and diagnostic accuracy was over 70% (p&lt;0.01).
+CONCLUSION: Novel mathematical MRC FT-analysis is promising for differentiating between BDC and PC with biliary stenosis and can be utilized as an objective diagnostic tool in the future.
+
+Citation: Nanashima A, et al. Novel Mathematical Diagnostic Analysis of Malignant Biliary Stenosis Using Magnetic Resonance Cholangiography in Patients Undergoing Pancreaticoduodenectomy. Novel Mathematical Diagnostic Analysis of Malignant Biliary Stenosis Using Magnetic Resonance Cholangiography in Patients Undergoing Pancreaticoduodenectomy. 2022; 2:668-680. doi: 10.21873/cdp.10158
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36340462/

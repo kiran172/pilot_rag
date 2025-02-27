@@ -1,0 +1,11 @@
+PMID: 38283684
+Title: Mechanical thrombectomy using the retrograde semi-retrieval technique for patients with underlying intracranial atherosclerotic stenosis.
+
+Abstract: BACKGROUND: The retrograde semi-retrieval technique (RESET) has been described as a modified technique for endovascular thrombectomy (EVT) whose safety and efficacy for intracranial atherosclerosis stenosis (ICAS) patients remain uncertain. This article presents our single-center experience, comparing RESET vs. non-RESET in ICAS patients.
+MATERIALS AND METHODS: We analyzed 327 consecutive ICAS patients who underwent EVT at Tianjin Huanhu Hospital from January 2018 and December 2022. Patients were categorized into two groups: RESET and non-RESET. The primary outcome was the first-pass effect (FPE). Secondary outcomes included successful reperfusion, functional independence at 90 days, mortality, and symptomatic intracranial hemorrhage (sICH).
+RESULTS: RESET was significantly associated with FPE [adjusted odds ratio (aOR) 2.00, 95% confidence interval (CI) 1.03-3.87, p = 0.040]. RESET was not significantly associated with successful reperfusion (aOR 1.5, CI 0.55-4.06, p = 0.425), an mRS of 0-2 at 90 days (aOR 1.36, CI 0.83-2.21, p = 0.223), sICH (aOR 0.39, CI 0.12-1.23, p = 0.108), and mortality (aOR 0.49, CI 0.16-1.44, p = 0.193). After propensity score matching, the results were consistent with the primary analysis.
+CONCLUSION: Compared to non-RESET, patients treated with RESET showed increased FPE incidence and significantly decreased puncture-to-reperfusion time. RESET was proven to be safe and effective in enhancing reperfusion for LVO patients receiving EVT with underlying ICAS.
+
+Citation: Wang W, et al. Mechanical thrombectomy using the retrograde semi-retrieval technique for patients with underlying intracranial atherosclerotic stenosis. Mechanical thrombectomy using the retrograde semi-retrieval technique for patients with underlying intracranial atherosclerotic stenosis. 2023; 14:1280181. doi: 10.3389/fneur.2023.1280181
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38283684/

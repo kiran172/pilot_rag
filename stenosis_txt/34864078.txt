@@ -1,0 +1,11 @@
+PMID: 34864078
+Title: Sex differences in assessing stenosis severity between physician visual assessment and quantitative coronary angiography.
+
+Abstract: BACKGROUND: Physician visual assessment (PVA) in invasive coronary angiography (ICA) is the current clinical method to determine stenosis severity and guide percutaneous coronary intervention. This study sought to evaluate the effect of sex differences in assessing coronary stenosis severity between PVA and quantitative coronary angiography (QCA).
+METHODS: 209 patients with coronary artery disease (288 coronary lesions) underwent ICA and fractional flow reserve (FFR). ICA image processing including PVA and QCA was used to quantify diameter stenosis (DS). The difference of DS (ΔDS) between PVA and QCA was defined as DS<sub>PVA</sub>-DS<sub>QCA</sub>. DS ≥50% was considered anatomically obstructive. FFR ≤0.8 was defined as myocardial ischemia.
+RESULTS: Mean ± SD age was 63 ± 9 years. There were no significant differences in DS<sub>PVA</sub> (61.1 ± 16.3% vs 60.1 ± 18.9%) and DS<sub>QCA</sub> (53.1 ± 12.1% vs 55.4 ± 14.3%) between females and males. However, ΔDS between PVA and QCA was higher in females (8.0 ± 10.9%) than in males (4.7 ± 10.9%) (P = 0.03). Thirty-four of 72 vessels (47.2%) in female patients and 75 of 216 vessels (34.7%) in male patients were classified differently by at least one grade using PVA compared to QCA assessment. DS<sub>PVA</sub> and DS<sub>QCA</sub> were negatively correlated with FFR in females (r<sub>PVA</sub> = -0.397, r<sub>QCA</sub> = -0.448) with an even stronger negative correlation in males (r<sub>PVA</sub> = -0.607, r<sub>QCA</sub> = -0.607). ROC analysis demonstrated that DS<sub>QCA</sub> had better discrimination capability for myocardial ischemia (FFR ≤ 0.80) than DS<sub>PVA</sub> in both sexes (P &lt; 0.05).
+CONCLUSIONS: A systematic bias was found in PVA (QCA reference) for overestimating severity of coronary artery disease in females compared to males.
+
+Citation: Xu X, et al. Sex differences in assessing stenosis severity between physician visual assessment and quantitative coronary angiography. Sex differences in assessing stenosis severity between physician visual assessment and quantitative coronary angiography. 2022; 348:9-14. doi: 10.1016/j.ijcard.2021.11.089
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34864078/

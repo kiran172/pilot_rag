@@ -1,0 +1,8 @@
+PMID: 36914373
+Title: Impact of turbulence modeling on the simulation of blood flow in aortic coarctation.
+
+Abstract: Numerical simulations of pulsatile blood flow in an aortic coarctation require the use of turbulence modeling. This paper considers three models from the class of large eddy simulation (LES) models (Smagorinsky, Vreman, σ  -model) and one model from the class of variational multiscale models (residual-based) within a finite element framework. The influence of these models on the estimation of clinically relevant biomarkers used to assess the degree of severity of the pathological condition (pressure difference, secondary flow degree, normalized flow displacement, wall shear stress) is investigated in detail. The simulations show that most methods are consistent in terms of severity indicators such as pressure difference and stenotic velocity. Moreover, using second-order velocity finite elements, different turbulence models might lead to considerably different results concerning other clinically relevant quantities such as wall shear stresses. These differences may be attributed to differences in numerical dissipation introduced by the turbulence models.
+
+Citation: Katz S, et al. Impact of turbulence modeling on the simulation of blood flow in aortic coarctation. Impact of turbulence modeling on the simulation of blood flow in aortic coarctation. 2023; 39:e3695. doi: 10.1002/cnm.3695
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36914373/

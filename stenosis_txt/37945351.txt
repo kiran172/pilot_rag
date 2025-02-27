@@ -1,0 +1,8 @@
+PMID: 37945351
+Title: Elevated Serotonin in Mouse Spinal Dorsal Horn Is Pronociceptive.
+
+Abstract: Serotonergic neurons in the rostral ventral medulla (RVM) contribute to bidirectional control of pain through modulation of spinal and trigeminal nociceptive networks. Deficits in this pathway are believed to contribute to pathologic pain states, but whether changes in serotonergic mechanisms are pro- or antinociceptive is debated. We used a combination of optogenetics and fiber photometry to examine these mechanisms more closely. We find that optogenetic activation of RVM serotonergic afferents in the spinal cord of naive mice produces mechanical hypersensitivity and conditioned place aversion (CPA). Neuropathic pain, produced by chronic constriction injury of the infraorbital nerve (CCI-ION), evoked a tonic increase in serotonin (5HT) concentrations within the spinal trigeminal nucleus caudalis (SpVc), measured with liquid chromatography-tandem mass spectroscopy (LC-MS/MS). By contract, CCI-ION had no effect on the phasic serotonin transients in SpVc, evoked by noxious pinch, and measured with fiber photometry of a serotonin sensor. These findings suggest that serotonin release in the spinal cord is pronociceptive and that an increase in sustained serotonin signaling, rather than phasic or event driven increases, potentiate nociception in models of chronic pain.
+
+Citation: Cramer N, et al. Elevated Serotonin in Mouse Spinal Dorsal Horn Is Pronociceptive. Elevated Serotonin in Mouse Spinal Dorsal Horn Is Pronociceptive. 2023; 10:(unknown pages). doi: 10.1523/ENEURO.0293-23.2023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37945351/

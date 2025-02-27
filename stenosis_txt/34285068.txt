@@ -1,0 +1,11 @@
+PMID: 34285068
+Title: Next-generation sequencing of bile cell-free DNA for the early detection of patients with malignant biliary strictures.
+
+Abstract: OBJECTIVE: Despite significant progresses in imaging and pathological evaluation, early differentiation between benign and malignant biliary strictures remains challenging. Endoscopic retrograde cholangiopancreatography (ERCP) is used to investigate biliary strictures, enabling the collection of bile. We tested the diagnostic potential of next-generation sequencing (NGS) mutational analysis of bile cell-free DNA (cfDNA).
+DESIGN: A prospective cohort of patients with suspicious biliary strictures (n=68) was studied. The performance of initial pathological diagnosis was compared with that of the mutational analysis of bile cfDNA collected at the time of first ERCP using an NGS panel open to clinical laboratory implementation, the Oncomine Pan-Cancer Cell-Free assay.
+RESULTS: An initial pathological diagnosis classified these strictures as of benign (n=26), indeterminate (n=9) or malignant (n=33) origin. Sensitivity and specificity of this diagnosis were 60% and 100%, respectively, as on follow-up 14 of the 26 and eight of the nine initially benign or indeterminate strictures resulted malignant. Sensitivity and specificity for malignancy of our NGS assay, herein named Bilemut, were 96.4% and 69.2%, respectively. Importantly, one of the four Bilemut false positives developed pancreatic cancer after extended follow-up. Remarkably, the sensitivity for malignancy of Bilemut was 100% in patients with an initial diagnosis of benign or indeterminate strictures. Analysis of 30 paired bile and tissue samples also demonstrated the superior performance of Bilemut.
+CONCLUSION: Implementation of Bilemut at the initial diagnostic stage for biliary strictures can significantly improve detection of malignancy, reduce delays in the clinical management of patients and assist in selecting patients for targeted therapies.
+
+Citation: Arechederra M, et al. Next-generation sequencing of bile cell-free DNA for the early detection of patients with malignant biliary strictures. Next-generation sequencing of bile cell-free DNA for the early detection of patients with malignant biliary strictures. 2022; 71:1141-1151. doi: 10.1136/gutjnl-2021-325178
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34285068/

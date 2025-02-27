@@ -1,0 +1,11 @@
+PMID: 38750460
+Title: Role of myocardial strain imaging in diagnosing inducible myocardial ischemia with treadmill contrast-enhanced stress echocardiography.
+
+Abstract: INTRODUCTION: The aim of this study is to analyze the diagnostic value of global longitudinal strain (GLS) in detecting inducible myocardial ischemia in patients with chest pain undergoing treadmill contrast-enhanced stress echocardiography (SE).
+METHODS: We retrospectively enrolled all patients who underwent invasive coronary angiography after treadmill contrast-enhanced SE. Rest and peak-stress myocardial GLS, segmental LS, and LS of 4-chamber (CH), 2-CH, and 3-CH views were reported. Luminal stenosis of more than 70% or fractional flow reserve (FFR) of < 0.8 was considered significant.
+RESULTS: In total 33 patients were included in the final analysis, among whom sixteen patients (48.4%) had significant coronary artery stenosis. Averaged GLS, 3-CH, and 4-CH LS were significantly lower in patients with critical coronary artery stenosis compared to those without significant stenosis (-17.1 ± 7.1 vs. -24.2 ± 7.2, p = 0.041), (-18.2 ± 8.9 vs. -24.6 ± 8.2, p = 0.045) and (-14.8 ± 6.2 vs. -22.8 ± 7.8, p = 0.009), respectively. Receiver operating characteristic (ROC) analysis of ischemic and non-ischemic segments demonstrated that a cut-off value of -20% of stress LS had 71% sensitivity and 60% specificity for ruling out inducible myocardial ischemia (Area under the curve was AUC = 0.72, P < 0.0001).
+CONCLUSION: Myocardial LS measured with treadmill contrast-enhanced stress echocardiography demonstrates potential value in identifying patients with inducible myocardial ischemia.
+
+Citation: Abazid RM, et al. Role of myocardial strain imaging in diagnosing inducible myocardial ischemia with treadmill contrast-enhanced stress echocardiography. Role of myocardial strain imaging in diagnosing inducible myocardial ischemia with treadmill contrast-enhanced stress echocardiography. 2024; 24:254. doi: 10.1186/s12872-024-03926-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38750460/

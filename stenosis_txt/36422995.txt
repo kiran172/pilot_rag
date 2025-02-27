@@ -1,0 +1,11 @@
+PMID: 36422995
+Title: Cost-effectiveness of carotid endarterectomy in symptomatic patients.
+
+Abstract: BACKGROUND: Medical therapy for stroke prevention has improved significantly over the past 30 years. Recent analyses of medically treated cohorts have suggested that early rates of stroke may have reduced, and reports of the safety of carotid surgery have also shown improvements. Since the effectiveness of carotid surgery versus medical therapy was established in the 1990s, there is an urgent need to evaluate whether surgery remains cost-effective in the UK.
+METHODS: A decision model was developed to estimate the lifetime costs and utilities of modern medical therapy with and without carotid endarterectomy in patients with symptomatic stenosis from the perspective of the UK National Health Service. The base-case population consisted of adults aged 70 years with 70-99 per cent stenosis. Model data were obtained from clinical studies and wider literature. Univariate and probabilistic sensitivity analyses were carried out.
+RESULTS: In the base-case scenario, the 5-year absolute risk reduction with carotid endarterectomy was 5 per cent, and the incremental cost-effectiveness ratio was €12 021 (exchange rate £1 GBP = €1.1125 (Tuesday 1 January 2019)) per quality-adjusted life-year. Surgery was more cost-effective if performed rapidly after presentation. In patients with 50-69 per cent carotid stenosis, surgery appeared less clinically effective. However, there was considerable uncertainty.
+CONCLUSION: Surgery may not now be clinically effective and cost-effective in those with moderate carotid stenosis. However, these results are uncertain because of the limited data on modern medical therapy and an RCT may be justified.
+
+Citation: Perez-Troncoso D, et al. Cost-effectiveness of carotid endarterectomy in symptomatic patients. Cost-effectiveness of carotid endarterectomy in symptomatic patients. 2023; 110:193-199. doi: 10.1093/bjs/znac386
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36422995/

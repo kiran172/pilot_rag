@@ -1,0 +1,11 @@
+PMID: 31954524
+Title: Sex-Specific Human Cardiomyocyte Gene Regulation in Left Ventricular Pressure Overload.
+
+Abstract: OBJECTIVE: To assess gene expression in cardiomyocytes isolated from patients with aortic stenosis, hypothesizing that maladaptive remodeling and inflammation-related genes are higher in male vs female patients.
+PATIENTS AND METHODS: In this study, 34 patients with aortic stenosis undergoing aortic valve replacement from March 20, 2016, through May 24, 2017, at the German Heart Centre in Berlin, Germany, were included. Isolated cardiomyocytes from interventricular septum samples were used for gene expression analysis. Clinical and echocardiographic data were collected preoperatively.
+RESULTS: Age, body mass index, systolic and diastolic blood pressure, comorbidities, and medication were similar between the 17 male and 17 female patients. The mean ± SD left ventricular end-diastolic diameter (52±9 vs 45±4 mm; P=.007) and posterior wall thickness (14.2±2.5 vs 12.1±1.6 mm; P=.03) were higher in male vs female patients, while ejection fraction was lower in male patients (49%±14% vs 59%±5%; P=.01). Focusing on structural genes involved in the development of cardiac hypertrophy and remodeling, we found that most were expressed higher in male vs female patients. Our modeling analysis revealed that 2 inflammation-related genes, CCN2 and NFKB1, were negatively related to ejection fraction, with this effect being male specific (P=.03 and P=.02, respectively).
+CONCLUSION: These findings provide novel insight into cardiomyocyte-specific molecular changes related to sex differences in pressure overload and a significant male-specific association between cardiac function and inflammation-related genes. Considering these sex differences may contribute toward a more accurate design of research and the development of more appropriate therapeutic approaches for both male and female patients.
+
+Citation: Gaignebet L, et al. Sex-Specific Human Cardiomyocyte Gene Regulation in Left Ventricular Pressure Overload. Sex-Specific Human Cardiomyocyte Gene Regulation in Left Ventricular Pressure Overload. 2020; 95:688-697. doi: 10.1016/j.mayocp.2019.11.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31954524/

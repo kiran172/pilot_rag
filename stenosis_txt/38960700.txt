@@ -1,0 +1,11 @@
+PMID: 38960700
+Title: Total brain volume is associated with severity of transverse sinus stenosis in idiopathic intracranial hypertension.
+
+Abstract: BACKGROUND: Idiopathic intracranial hypertension (IIH) is a complex neurological condition characterized by symptoms of increased intracranial pressure of unclear etiology. While transverse sinus stenosis (TSS) is often present in patients with IIH, how and why it occurs remains unclear.
+METHODS: IIH patients and a set of age-matched normal controls were identified from our single-center tertiary care institution from 2016 to 2024. Brain MRIs before treatment were computationally segmented and parcellated using FreeSurfer software. Extent of TSS on MR venograms was graded using the Farb scoring system. Relationship between normalized brain volume, normalized brain-to-CSF volume, and TSS was investigated. Multiple linear regression was conducted to investigate the association between continuous variables, accounting for the covariates body mass index, sex, and age.
+RESULTS: In total, 84 IIH patients (mean age, 29.8 years; 87% female) and 15 normal controls (mean age, 28.1 years) were included. Overall, increasing/worsening TSS was found to be significantly associated with normalized total brain volume (p=0.018, R=0.179) and brain-to-CSF ratio volume (p=0.026, R=0.184). Additionally, there was a significant difference between controls and IIH patients with mild and severe stenosis regarding normalized total brain volume (ANCOVA, p=0.023) and brain-to-CSF ratio volume (ANCOVA, p=0.034). Likewise, IIH patients with severe TSS had a significantly higher brain-to-CSF volume compared with controls (p=0.038) and compared with IIH patients with mild TSS (p=0.038).
+CONCLUSIONS: These findings suggest that total brain volume is associated with extent of TSS, which may reflect extramural venous compression due to enlarged brain and/or venous hypertension with associated cerebral congestion/swelling.
+
+Citation: Schartz D, et al. Total brain volume is associated with severity of transverse sinus stenosis in idiopathic intracranial hypertension. Total brain volume is associated with severity of transverse sinus stenosis in idiopathic intracranial hypertension. 2024; (unknown volume):(unknown pages). doi: 10.1136/jnis-2024-021938
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38960700/

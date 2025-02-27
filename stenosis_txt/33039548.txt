@@ -1,0 +1,15 @@
+PMID: 33039548
+Title: Surgeon-level variance in achieving clinical improvement after lumbar decompression: the importance of adequate risk adjustment.
+
+Abstract: BACKGROUND CONTEXT: Patient-Reported Outcome Measurement Information System (PROMIS) scores are increasingly utilized in clinical care. However, it is unclear if PROMIS can discriminate surgeon performance on an individual level.
+PURPOSE: The purpose of this study was to examine surgeon-level variance in rates of achieving minimal clinically important difference (MCID) after lumbar decompression.
+PATIENT SAMPLE: This is a prospective, observational cohort study performed across a healthcare enterprise (two academic medical centers and three community centers). Patients 18 years or older undergoing one- to two-level primary decompression for lumbar disc herniation (LDH) or lumbar spinal stenosis (LSS) were included.
+OUTCOME MEASURES: The primary outcome was achievement of MCID, using a distribution-based method, on paired PROMIS physical function scores.
+METHODS: Descriptive statistics were generated to examine the baseline characteristics of the study cohort. Bivariate analyses were used to examine the impact of surgeon-level variance on rates of MCID. Multivariable analyses were used to examine the risk-adjusted impact of surgeon-level variance on rates of MCID.
+RESULTS: Overall, 636 patients treated by nine surgeons were included. The median patient age was 58 [interquartile range (IQR): 46-70] and 62.3% (n=396) were female. Among all patients, 56.9% (n=362) underwent surgery for LDH. The overall rate of achieving MCID was 75.8% (n=482). Of the surgeons, the median years in practice were 12 (range 4-31) and 55.6% (n=5) were in academic practice settings. On bivariate analysis, patients treated by one of the surgeons had lower rates of achieving MICD (odds ratio=0.37, 95% confidence interval: 0.15-0.91, p=.03). However, on multivariable analysis adjusting for operative indication (LDH vs. LSS), body mass index, number of comorbidities, percent unemployment in patient zip code, and preoperative PROMIS physical function scores, all surgeons were equally likely to obtain MCID.
+CONCLUSIONS: In this cohort, variance in PROMIS scores after primary lumbar decompression is influenced by patient-related factors and not by individual surgeon. Adequate risk adjustment is needed if ascertaining clinical improvement on an individual surgeon basis.
+LEVEL OF EVIDENCE: 2.
+
+Citation: Karhade AV, et al. Surgeon-level variance in achieving clinical improvement after lumbar decompression: the importance of adequate risk adjustment. Surgeon-level variance in achieving clinical improvement after lumbar decompression: the importance of adequate risk adjustment. 2021; 21:405-410. doi: 10.1016/j.spinee.2020.10.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33039548/

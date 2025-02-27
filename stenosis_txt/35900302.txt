@@ -1,0 +1,12 @@
+PMID: 35900302
+Title: Diagnostic accuracy of global longitudinal strain in prediction of severity and extent of coronary artery stenosis in patients with acute coronary syndrome.
+
+Abstract: BACKGROUND: 2 D Speckle tracking echocardiography (STE) is a non-invasive, angle-independent, semiautomatic and objective technique that quantitatively assesses global and regional longitudinal systolic strain and provides a single bull's eye map for segmental wall strain of the left ventricle.
+OBJECTIVES: assessment of the accuracy of global longitudinal strain (GLS) using STE in the detection of resting myocardial ischaemia and its severity compared with visual assessment of wall motion score index by conventional 2 D echo.
+PATIENTS AND METHODS: 100 patients who presented with ACS were included. Wall motion score index (WMSI) was calculated in a 16-segment model and compared with GLS assessed in left ventricle 17 segments and calculated automatically by summation of regional longitudinal peak systolic strain (RLS) using STE. Quantitative coronary angiography was performed on clinical indication and significant stenosis was defined as a 70% reduction of the arterial lumen.
+RESULTS: 56 patients (56%) of patients were males with a mean age of 58.3 years. GLS showed a significant positive correlation between ejection fraction (EF) and GLS (p &lt; 0.05), (r value 0.514) and a good significant negative correlation between WMSI and GLS (p &lt; 0.05), (r value 0.593). And a good significant correlation between GLS and both severity of the lesion and the number of affected vessels was found (p &lt; 0.05). ROC curves showed the cut-off point of GLS was (-15.9) for predicting lesion ≥70% with 88.1% sensitivity, 90.2% specificity respectively.
+CONCLUSION: GLS has higher specificity, sensitivity, and diagnostic accuracy for the detection of the severity of lesion and number of the vessel affected than WMSI.
+
+Citation: Abdel Mawla TS, et al. Diagnostic accuracy of global longitudinal strain in prediction of severity and extent of coronary artery stenosis in patients with acute coronary syndrome. Diagnostic accuracy of global longitudinal strain in prediction of severity and extent of coronary artery stenosis in patients with acute coronary syndrome. 2023; 78:109-117. doi: 10.1080/00015385.2022.2066810
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35900302/

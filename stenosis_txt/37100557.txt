@@ -1,0 +1,12 @@
+PMID: 37100557
+Title: Redo Surgical Aortic Valve Replacement After Prior Transcatheter Versus Surgical Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Aortic stenosis treatment should consider risks and benefits for lifetime management. Although the feasibility of redo transcatheter aortic valve replacement (TAVR) remains unclear, concerns are emerging regarding reoperation after TAVR.
+OBJECTIVES: The authors sought to define comparative risk of surgical aortic valve replacement (SAVR) after prior TAVR or SAVR.
+METHODS: Data on patients undergoing bioprosthetic SAVR after TAVR and/or SAVR were extracted from the Society of Thoracic Surgeons Database (2011-2021). Overall and isolated SAVR cohorts were analyzed. The primary outcome was operative mortality. Risk adjustment using hierarchical logistic regression as well as propensity score matching for isolated SAVR cases were performed.
+RESULTS: Of 31,106 SAVR patients, 1,126 had prior TAVR (TAVR-SAVR), 674 had prior SAVR and TAVR (SAVR-TAVR-SAVR), and 29,306 had prior SAVR (SAVR-SAVR). Yearly rates of TAVR-SAVR and SAVR-TAVR-SAVR increased over time, whereas SAVR-SAVR was stable. The TAVR-SAVR patients were older, with higher acuity, and with greater comorbidities than other cohorts. The unadjusted operative mortality was highest in the TAVR-SAVR group (17% vs 12% vs 9%, respectively; P < 0.001). Compared with SAVR-SAVR, risk-adjusted operative mortality was significantly higher for TAVR-SAVR (OR: 1.53; P = 0.004), but not SAVR-TAVR-SAVR (OR: 1.02; P = 0.927). After propensity score matching, operative mortality of isolated SAVR was 1.74 times higher for TAVR-SAVR than SAVR-SAVR patients (P = 0.020).
+CONCLUSIONS: The number of post-TAVR reoperations is increasing and represent a high-risk population. Yet even in isolated SAVR cases, SAVR after TAVR is independently associated with increased risk of mortality. Patients with life expectancy beyond a TAVR valve and unsuitable anatomy for redo-TAVR should consider a SAVR-first approach.
+
+Citation: Hawkins RB, et al. Redo Surgical Aortic Valve Replacement After Prior Transcatheter Versus Surgical Aortic Valve Replacement. Redo Surgical Aortic Valve Replacement After Prior Transcatheter Versus Surgical Aortic Valve Replacement. 2023; 16:942-953. doi: 10.1016/j.jcin.2023.03.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37100557/

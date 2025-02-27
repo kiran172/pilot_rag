@@ -1,0 +1,12 @@
+PMID: 38469858
+Title: Radiographic Risk Factors for Adjacent Segment Disease Following Anterior Cervical Discectomy and Fusion (ACDF): A Systematic Review and Meta-Analysis.
+
+Abstract: STUDY DESIGN: Systematic review and meta-analysis.
+OBJECTIVES: To assess the radiographic risk factors for adjacent segment disease (ASD) following anterior cervical discectomy and fusion (ACDF) for degenerative cervical spine pathologies.
+METHODS: PubMed, Embase and the Cochrane Library databases were searched up to December 2023. The primary inclusion criteria were degenerative spinal conditions treated with ACDF, comparing radiological parameters in patients with and without postoperative ASD. The radiographic parameters included intervertebral disc height, cervical sagittal alignment, sagittal segmental alignment, range of motion, segmental height, T1 slope, sagittal vertical axis (SVA), thoracic inlet angle (TIA), and plate to disc distance (PPD). Risk of bias was assessed for all studies. The Cochrane Review Manager was utilized to perform the meta-analysis.
+RESULTS: From 7044 articles, 13 retrospective studies were included in the final analysis. Three studies had "not serious" bias and the other 10 studies had serious or very serious bias. The total number of patients in the included studies was 1799 patients. Five studies included single-level ACDF, 2 studies included multi-level ACDF, and 6 studies included single or multi-level ACDF. On meta-analysis, the significant risk factors associated with ASD development were reduced postoperative cervical lordosis (mean difference [MD] = 3.35°, P = .002), reduced last-follow-up cervical lordosis (MD = -3.02°, P = .0003), increased preoperative to postoperative cervical sagittal alignment change (MD = -3.68°, P = .03), and the presence of developmental cervical canal stenosis (Odds ratio [OR] = 4.17, P &lt; .001).
+CONCLUSIONS: Decreased postoperative cervical lordosis, greater change in cervical sagittal alignment and developmental cervical canal stenosis were associated with an increased risk of ASD following ACDF.
+
+Citation: Mesregah MK, et al. Radiographic Risk Factors for Adjacent Segment Disease Following Anterior Cervical Discectomy and Fusion (ACDF): A Systematic Review and Meta-Analysis. Radiographic Risk Factors for Adjacent Segment Disease Following Anterior Cervical Discectomy and Fusion (ACDF): A Systematic Review and Meta-Analysis. 2024; 14:2183-2200. doi: 10.1177/21925682241237500
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38469858/

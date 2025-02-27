@@ -1,0 +1,8 @@
+PMID: 33018287
+Title: Classification of Aortic Stenosis Using ECG by Deep Learning and its Analysis Using Grad-CAM.
+
+Abstract: This paper proposes an automatic method for classifying Aortic valvular stenosis (AS) using ECG (Electrocardiogram) images by the deep learning whose training ECG images are annotated by the diagnoses given by the medical doctor who observes the echocardiograms. Besides, it explores the relationship between the trained deep learning network and its determinations, using the Grad-CAM.In this study, one-beat ECG images for 12-leads and 4-leads are generated from ECG's and train CNN's (Convolutional neural network). By applying the Grad-CAM to the trained CNN's, feature areas are detected in the early time range of the one-beat ECG image. Also, by limiting the time range of the ECG image to that of the feature area, the CNN for the 4-lead achieves the best classification performance, which is close to expert medical doctors' diagnoses.Clinical Relevance-This paper achieves as high AS classification performance as medical doctors' diagnoses based on echocardiograms by proposing an automatic method for detecting AS only using ECG.
+
+Citation: Hata E, et al. Classification of Aortic Stenosis Using ECG by Deep Learning and its Analysis Using Grad-CAM. Classification of Aortic Stenosis Using ECG by Deep Learning and its Analysis Using Grad-CAM. 2020; 2020:1548-1551. doi: 10.1109/EMBC44109.2020.9175151
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33018287/

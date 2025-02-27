@@ -1,0 +1,12 @@
+PMID: 34667850
+Title: Quality and readability of online information on idiopathic subglottic stenosis.
+
+Abstract: OBJECTIVE: Idiopathic subglottic stenosis (ISS) is a chronic condition characterized by disease recurrence and multiple surgeries. These frustrated patients may utilize the internet to research their condition. The aim of this study was to determine the quality and readability of online ISS information.
+METHODS: "Idiopathic subglottic stenosis" was entered into Google. The first 50 websites that met inclusion criteria were extracted. The DISCERN instrument, Flesch Reading Ease Score (FRES), and Flesch-Kincaid Grade Level (FKGL) assessed the quality and readability, respectively. Means, SDs, Pearson correlation coefficients, and two-tailed Student's t-test were calculated.
+RESULTS: The 50 websites consisted of 17 patient-targeted and 33 professional-targeted websites, plus 30 major and 20 minor websites. The overall DISCERN, FRES, and FKGL scores were 2.81 ± 0.99, 27.75 ± 15.27, and 13.65 ± 2.79, respectively (mean ± SD). Patient-targeted websites had significantly lower quality (DISCERN [P &lt; .00]) but were easier to read (lower FKGL [P &lt; .00], higher FRES [P &lt; .00]) than professional-targeted websites. Minor websites had a significantly lower quality (DISCERN [P &lt; 0.00]) but were easier to read (lower FKGL [P &lt; .00], higher FRES [P &lt; .00]) than major websites. There was a positive correlation between overall quality and difficulty in readability.
+CONCLUSION: The quality of online ISS information was suboptimal. Resources were too difficult to comprehend and readability scores were above AMA and NIH recommendations. Improved online information is required to properly educate this patient population.
+LEVEL OF EVIDENCE: Level 4.
+
+Citation: Heffernan A and Hu A. Quality and readability of online information on idiopathic subglottic stenosis. Quality and readability of online information on idiopathic subglottic stenosis. 2021; 6:1068-1076. doi: 10.1002/lio2.629
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34667850/

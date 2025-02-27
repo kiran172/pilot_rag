@@ -1,0 +1,11 @@
+PMID: 37573642
+Title: Stenotic geometry effects on airflow dynamics and respiration for central airway obstruction.
+
+Abstract: BACKGROUND AND OBJECTIVE: The quantitative relationship between tracheal anatomy and ventilation function can be analyzed by using engineering-derived methods, including mathematical modeling and numerical simulations. In order to provide quantitative functional evaluation for patients with tracheobronchial stenosis, we here propose an aerodynamics-based assessment method by applying computational fluid dynamics analysis on synthetic and patient-specific airway models.
+METHODS: By using 3D reconstruction of tracheobronchial tree and computational fluid dynamics simulations, the aerodynamic environment from the stenotic central airway down to the 4th-6th bifurcation of the tracheobronchial tree is examined in both synthetic and patient-derived models. The effects of stenotic anatomy (the degree of stenosis, stenotic length and location) on the aerodynamic parameters, including pressure drop, area-average velocity, volume flow rate, wall shear stress and airflow resistance, are investigated on three-dimensional models of tracheobronchial tree.
+RESULTS: The results from 36 synthetic models demonstrate that 70% constriction marks the onset of a precipitous decrease in airflow relative to a normal airway. The analyses of simulation results of 8 patient-specific models indicate that the Myer-Cotton stenosis grading system can be interpreted in terms of aerodynamics-derived description, such as flow resistance. The tracheal stenosis significantly influences the resistance of peripheral bronchi, especially for patients with severe stenosis.
+CONCLUSIONS: The present study forms a systematic framework for future development of more robust, bioengineering-informed evaluation methods for quantitative assessment of respiratory function of patients with central airway obstruction.
+
+Citation: Ding M, et al. Stenotic geometry effects on airflow dynamics and respiration for central airway obstruction. Stenotic geometry effects on airflow dynamics and respiration for central airway obstruction. 2023; 241:107760. doi: 10.1016/j.cmpb.2023.107760
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37573642/

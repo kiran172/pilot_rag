@@ -1,0 +1,12 @@
+PMID: 31484697
+Title: Peri-procedural stroke or death in stenting of symptomatic severe intracranial stenosis.
+
+Abstract: BACKGROUND AND PURPOSE: There are limited data on predictors of 30-day stroke or death in patients with symptomatic intracranial atherosclerosis (sICAS) undergoing stenting. We aim to determine the factors associated with stroke or death at 30 days in the stenting arm of the SAMMPRIS trial.
+METHODS: This is a post-hoc analysis of the SAMMPRIS trial including patients who underwent angioplasty/stenting. We compared patient-specific variables, lesion-specific variables, procedure-specific variables, and FDA-approved indications between patients with and without the primary outcome (stroke or death at 30 days). Logistic regression analyses were performed to evaluate associations with the primary outcome.
+RESULTS: We identified 213 patients, 30 of whom (14.1%) met the primary outcome. Smoking status and lesion length were associated with the primary outcome: the odds of stroke or death for non-smokers versus smokers (adjusted OR 4.46, 95% CI 1.79 to 11.1, p=0.001) and for increasing lesion length in millimeters (adjusted OR 1.20, 95% CI 1.02 to 1.39, p=0.029). These had a modest predictive value: absence of smoking history (sensitivity 66.7%, specificity 65.4%) and lesion length (area under curve 0.606). Furthermore, event rates were not significantly different between patients with and without the FDA-approved indication for stenting (15.9% vs 12%, p=0.437).
+CONCLUSION: In SAMMPRIS patients who underwent angioplasty/stenting, neither clinical and neuroimaging variables nor the FDA indication for stenting reliably predicted the primary outcome. Further work in identifying reliable biomarkers of stroke/death in patients with sICAS is needed before considering new clinical trials of stenting.
+TRIAL REGISTRATION NUMBER: SAMMPRIS NCT00576693; Results.
+
+Citation: Yaghi S, et al. Peri-procedural stroke or death in stenting of symptomatic severe intracranial stenosis. Peri-procedural stroke or death in stenting of symptomatic severe intracranial stenosis. 2020; 12:374-379. doi: 10.1136/neurintsurg-2019-015225
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31484697/

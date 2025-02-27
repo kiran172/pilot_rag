@@ -1,0 +1,12 @@
+PMID: 35160140
+Title: Long Term Prognostic Value of Contractile Reserve Assessed by Global Longitudinal Strain in Patients with Asymptomatic Severe Aortic Stenosis.
+
+Abstract: BACKGROUND: Left ventricle (LV) global longitudinal strain (GLS) at rest has shown prognostic value in patients (pts) with severe aortic stenosis (SAS). Contractile reserve (CR) during exercise stress echo (ESE) estimated via GLS (CR-GLS) could better stratify the asymptomatic patients who could benefit from early intervention.
+AIMS: To determine the long-term prognostic value of CR-GLS in patients with asymptomatic SAS with an ESE without inducible ischemia. Additionally, to compare the prognostic value of CR assessed via ejection fraction (CR-EF) and CR-GLS.
+METHODS: In a prospective, single-center, observational study between 2013 and 2019, 101 pts with asymptomatic SAS and preserved left ventricular ejection fraction (LVEF) > 55% were enrolled. CR was considered present with an exercise-rest increase in LVEF (Simpson's rule) ≥ 5 points and > 2 absolute points in GLS. Patients were assigned to 2 groups (G): G1: 56 patients with CR-GLS present; and G2: 45 patients CR-GLS absent. All patients were followed up.
+RESULTS: G2 Patients were older, with lower exercise capability, less aortic valve area (AVA), a higher peak aortic gradient, and less LVEF (71.5% ± 5.9 vs. 66.8% ± 7.9; p = 0.002) and GLS (%) at exercise (G1: -22.2 ± 2.8 vs. G2: -18.45 ± 2.4; p = 0.001). During mean follow-up of 46.6 ± 3.4 months, events occurred in 45 pts., with higher incidence in G2 (G2 = 57.8% vs. G1 = 42.2%, p &lt; 0.01). At Cox regression analysis, CR-GLS was an independent predictor of major cardiovascular events (HR: 1.98, 95% CI 1.09-3.58, p = 0.025). Event-free survival was lower for patients with CR-GLS absent (log rank test p = 0.022). CR-EF was not outcome predictive (log rank test p 0.095).
+CONCLUSIONS: In patients with asymptomatic SAS, the absence of CR-GLS during ESE is associated with worse prognosis. Additionally, CR-GLS was a better predictor of events than CR-EF.
+
+Citation: Arbucci R, et al. Long Term Prognostic Value of Contractile Reserve Assessed by Global Longitudinal Strain in Patients with Asymptomatic Severe Aortic Stenosis. Long Term Prognostic Value of Contractile Reserve Assessed by Global Longitudinal Strain in Patients with Asymptomatic Severe Aortic Stenosis. 2022; 11:(unknown pages). doi: 10.3390/jcm11030689
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35160140/

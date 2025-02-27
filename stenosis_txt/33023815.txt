@@ -1,0 +1,14 @@
+PMID: 33023815
+Title: The Effect of Anesthesia Type on Outcomes in Patients Undergoing Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVES: To assess postoperative outcomes in patients undergoing transcatheter aortic valve replacement (TAVR) either under general anesthesia (GA) or monitored anesthesia care (MAC) as the primary anesthetic.
+DESIGN: A retrospective, propensity-matched, cohort study, with univariate logistic regression to assess postoperative outcomes.
+SETTING: Hospitals participating in the American College of Surgeons National Surgical Quality Improvement Program (NSQIP).
+PARTICIPANTS: The study comprised 559 patients who underwent a TAVR procedure under GA or MAC.
+INTERVENTIONS: None.
+MEASUREMENTS AND MAIN RESULTS: After propensity score matching, there were no significant differences between the two cohorts in age, sex, race, body mass index, functional status, American Society of Anesthesiologists physical status, and other comorbidities. There were no significant differences in 30-day mortality between the two cohorts, or in the number of complications at 30 days. However, hospital length of stay was significantly shorter in the MAC cohort compared with the GA cohort.
+CONCLUSIONS: Patients undergoing TAVR under MAC may have similar 30-day mortality and complications, but shorter hospital length of stay, than patients undergoing TAVR under GA.
+
+Citation: Abbett SK, et al. The Effect of Anesthesia Type on Outcomes in Patients Undergoing Transcatheter Aortic Valve Replacement. The Effect of Anesthesia Type on Outcomes in Patients Undergoing Transcatheter Aortic Valve Replacement. 2021; 35:429-435. doi: 10.1053/j.jvca.2020.09.083
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33023815/

@@ -1,0 +1,11 @@
+PMID: 31318997
+Title: Risk factors and nomogram for diabetes mellitus in idiopathic chronic pancreatitis.
+
+Abstract: BACKGROUND AND AIM: Diabetes mellitus (DM) is a common complication of idiopathic chronic pancreatitis (ICP), which impairs the quality of life for patients. This study aimed to identify risk factors and develop nomogram for DM in ICP to help early diagnosis.
+METHODS: Idiopathic chronic pancreatitis patients admitted to our center from January 2000 to December 2013 were included. Cumulative rates of DM were calculated by Kaplan-Meier method. Patients were randomly assigned, in a 2:1 ratio, to the training and validation cohort. Based on training cohort, risk factors for DM were identified through Cox proportional hazards regression model, and nomogram was developed. Internal and external validations were performed based on the training and validation cohort, respectively.
+RESULTS: Totally, 1633 patients with ICP were finally enrolled. The median follow-up duration was 9.8 years. DM was found in 26.3% (430/1633) of patients after the onset of CP. Adult at onset of ICP, biliary stricture at/before diagnosis of CP, steatorrhea at/before diagnosis of CP, and complex pathologic changes in main pancreatic duct were identified risk factors for DM development. The nomogram achieved good concordance indexes in the training and validation cohorts, respectively, with well-fitted calibration curves.
+CONCLUSIONS: Risk factors were identified, and nomogram was developed to determine the risk of DM in ICP patients. Patients with one or more of the risk factors including adult at onset of ICP, biliary stricture at/before diagnosis of CP, steatorrhea at/before diagnosis of CP, and complex pathologic changes in main pancreatic duct have higher incidence of DM.
+
+Citation: Liu Y, et al. Risk factors and nomogram for diabetes mellitus in idiopathic chronic pancreatitis. Risk factors and nomogram for diabetes mellitus in idiopathic chronic pancreatitis. 2020; 35:343-352. doi: 10.1111/jgh.14785
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31318997/

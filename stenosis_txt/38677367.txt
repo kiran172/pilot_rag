@@ -1,0 +1,11 @@
+PMID: 38677367
+Title: Association of 25-hydroxyvitamin D, lipoprotein-associated phospholipase A2 and asymptomatic coronary artery disease in patients with type 2 diabetes mellitus.
+
+Abstract: AIM: To evaluate the relationship of 25-hydroxyvitamin D (25(OH)D), lipoprotein-associated phospholipase A2 (Lp-PLA2), and coronary artery disease (CAD) in type 2 diabetes mellitus (T2DM) patients with no history or symptoms of cardiovascular disease.
+METHODS: The study identified 66 pairs of T2DM patients with and without CAD using propensity score matching. All subjects performed coronary computed tomography angiography (CCTA). Data on 25(OH)D, Lp-PLA2, and metabolic indexes were collected and analyzed.
+RESULTS: Compared to the patients without CAD, the patients with CAD had lower 25(OH)D levels and the rate of vitamin D sufficiency, but higher Lp-PLA2 levels. Meanwhile, subjects in the vitamin D sufficiency group had a lower prevalence of CAD and Lp-PLA2 levels. Furthermore, 25(OH)D was inversely correlated with Lp-PLA2, Gensini score, Leiden score, segment involvement score, and segment stenosis score (P < 0.05). After adjusting for age, gender, blood lipids and blood pressure, 25(OH)D was associated with a decreased risk of CAD (aOR 0.933, 95 %CI 0.887-0.983, P = 0.009), while Lp-PLA2 was associated with an increased risk of CAD (aOR 1.014, 95 %CI 1.005-1.022, P = 0.002).
+CONCLUSIONS: Decreased 25(OH)D and increased Lp-PLA2 could identify patients with a high risk of CAD and are associated with the severity of coronary artery stenosis in T2DM.
+
+Citation: Zhang Q, et al. Association of 25-hydroxyvitamin D, lipoprotein-associated phospholipase A2 and asymptomatic coronary artery disease in patients with type 2 diabetes mellitus. Association of 25-hydroxyvitamin D, lipoprotein-associated phospholipase A2 and asymptomatic coronary artery disease in patients with type 2 diabetes mellitus. 2024; 212:111681. doi: 10.1016/j.diabres.2024.111681
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38677367/

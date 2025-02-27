@@ -1,0 +1,13 @@
+PMID: 38073301
+Title: A prediction model for risk of low oxygen saturation in patients with post-tuberculosis tracheobronchial stenosis during bronchoscopy.
+
+Abstract: BACKGROUND: Low oxygen saturation (LOS) is a frequent occurrence for patients with post-tuberculosis tracheobronchial stenosis (PTTS) during bronchoscopic procedures. However, there are currently no systematic assessment tools to predict LOS risk in PTTS patients during bronchoscopy.
+OBJECTIVES: This study aimed to develop an effective preoperative predictive model to guide clinical practice.
+DESIGN: Retrospective cohort study.
+METHODS: Data was retrospectively collected from PTTS patients who underwent bronchoscopic interventions between January 2017 and December 2022. Among all patients included in this study, patients between January 2017 and December 2021 were used as training cohort for the logistic regression model, and patients between January 2022 and December 2022 were utilized as validation cohort for internal validation. We used consistency index (C-index), goodness-of-fit test and calibration plot to evaluate the model performance.
+RESULTS: A total of 465 patients who met the inclusion criteria were enrolled in the study. The overall incidence of LOS was 26.0% (121/465). Comorbidity, degree of stenosis, bronchoscopist level, thermal ablation therapy, balloon dilation, and airway stenting, as independent risk factors for the presence of LOS, were used to construct the nomogram prediction model. The C-index of training cohort was 0.827 (95% CI, 0.786-0.869), whereas that of validation cohort was 0.836 (95% CI, 0.757-0.916), combining with the results of the calibration plot and goodness-of-fit test, demonstrating that this model had good predictive ability.
+CONCLUSION: The predictive model and derived nomogram with good predictive ability has been developed to preoperatively predict the risk of LOS in PTTS patients during bronchoscopy, allowing for individualized interventions for high-risk patients.
+
+Citation: Chen H, et al. A prediction model for risk of low oxygen saturation in patients with post-tuberculosis tracheobronchial stenosis during bronchoscopy. A prediction model for risk of low oxygen saturation in patients with post-tuberculosis tracheobronchial stenosis during bronchoscopy. 2023; 17:17534666231216573. doi: 10.1177/17534666231216573
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38073301/

@@ -1,0 +1,16 @@
+PMID: 32039515
+Title: Quantitative Susceptibility Mapping for Characterization of Intraplaque Hemorrhage and Calcification in Carotid Atherosclerotic Disease.
+
+Abstract: BACKGROUND: Carotid artery intraplaque hemorrhage (IPH), an unstable component of atherosclerosis, is associated with an increased risk of stroke.
+PURPOSE: To investigate quantitative susceptibility mapping (QSM) as a tool for the evaluation of IPH and calcification in vivo.
+STUDY TYPE: Prospective.
+POPULATION: Ten healthy volunteers and 15 patients.
+FIELD STRENGTH/SEQUENCE: 3.0T Susceptibility-weighted imaging (SWI), magnetization-prepared rapid acquisition with gradient echo (MP-RAGE), T<sub>1</sub> -weighted sampling perfection with application of optimized contrasts using different flip angle evolution (T<sub>1</sub> -SPACE), T<sub>2</sub> -weighted turbo spin-echo (T<sub>2</sub> WI), and time-of-flight (TOF) sequences.
+ASSESSMENT: The vessel wall area of the carotid artery was measured with QSM and compared with T<sub>1</sub> -SPACE on healthy volunteers. Four radiologists, blinded to clinical history and patient identity, determined the presence and area of IPH on MP-RAGE and QSM, as well as the area of calcification on T<sub>1</sub> -SPACE and QSM.
+STATISTICAL TESTS: Bland-Altman analysis, Pearson correlation coefficients, linear regression analyses were performed to evaluate the concordance of area measurements. Cohen's kappa (κ) was analyzed to determine the agreement between IPH detections. The paired t-test was used to compare the group differences.
+RESULTS: In 423 matched slices, 20.1% (85/423) and 19.6% (83/423) were detected to have IPH on MP-RAGE and QSM, respectively. IPH detection by QSM and MP-RAGE showed good agreement (κ = 0.822, P &lt; 0.001) between the two methods. There was no significant difference in IPH area measurements between QSM and MP-RAGE (7.28 mm2  ± 6.41 vs. 7.16 mm2  ± 5.99, P = 0.575). There was no significant difference in calcification area measurement between QSM and T<sub>1</sub> -SPACE (3.51 mm2  ± 1.78 vs. 3.41 mm2  ± 2.02, P = 0.783).
+DATA CONCLUSION: QSM is a novel imaging tool for the identification of IPH in patients with carotid atherosclerosis and enables differentiation of IPH and calcification. EVIDENCE LEVEL: 1 TECHNICAL EFFICACY: Stage 1 J. Magn. Reson. Imaging 2020;52:534-541.
+
+Citation: Wang C, et al. Quantitative Susceptibility Mapping for Characterization of Intraplaque Hemorrhage and Calcification in Carotid Atherosclerotic Disease. Quantitative Susceptibility Mapping for Characterization of Intraplaque Hemorrhage and Calcification in Carotid Atherosclerotic Disease. 2020; 52:534-541. doi: 10.1002/jmri.27064
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32039515/

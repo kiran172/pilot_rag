@@ -1,0 +1,11 @@
+PMID: 38050150
+Title: Rescue angioplasty and/or stenting after mechanical thrombectomy: who can benefit?
+
+Abstract: BACKGROUND: Angioplasty and/or stenting is a rescue therapy for mechanical thrombectomy (MT) in acute intracranial large vessel occlusion. This study was undertaken to determine whether rescue angioplasty and/or stenting improves the outcome after MT and to investigate whether outcomes differ by subgroup of rescue indication.
+METHODS: We performed propensity score matching (PSM) with data from a prospective multicenter registry of patients with acute large vessel occlusion receiving endovascular treatment. Patients were divided into the MT alone group and the MT with rescue therapy group. The primary outcome was functional independence (modified Rankin Scale score of 0-2) at 90 days. PSM was also performed in the failed MT (modified Thrombolysis In Cerebral Infarction (mTICI) 0-2a) and the residual severe stenosis (mTICI 2b-3) subgroups, respectively.
+RESULTS: 326 patients of mean±SD age 62.7±12.0 years (90 women, 27.6%) were matched from 1274 patients. In the matched cohort, functional independence at 90 days was higher in the rescue therapy group than in the MT alone group (44.2% vs 29.5%; OR 1.90, 95% CI 1.18 to 3.06, P=0.008). In the failed MT subgroup with 66 matched pairs, more patients had functional independence in the rescue therapy group than in the MT alone group (39.0% vs 17.0%; OR 3.12, 95% CI 1.29 to 7.59, P=0.01). In the residual stenosis subgroup with 63 matched pairs, functional independence rates were similar in the rescue therapy and the MT alone groups (51.6% vs 55.7%; OR 0.85, 95% CI 0.42 to 1.72, P=0.65).
+CONCLUSION: Rescue angioplasty and/or stenting could improve the clinical outcome in patients with acute large vessel occlusion with failed MT, while no benefit was seen in those with residual severe stenosis but substantial reperfusion.
+
+Citation: Jia B, et al. Rescue angioplasty and/or stenting after mechanical thrombectomy: who can benefit?. Rescue angioplasty and/or stenting after mechanical thrombectomy: who can benefit?. 2023; (unknown volume):(unknown pages). doi: 10.1136/jnis-2023-020824
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38050150/

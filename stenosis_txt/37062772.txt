@@ -1,0 +1,12 @@
+PMID: 37062772
+Title: Improved characterization of lenticulostriate arteries using compressed sensing time-of-flight at 7T.
+
+Abstract: OBJECTIVES: To evaluate the feasibility of 0.2-mm isotropic lenticulostriate arteries (LSAs) imaging using compressed sensing time-of-flight (CS TOF) at around 10 min on 7T, and compare the delineation and characterization of LSAs using conventional TOF and CS TOF.
+METHODS: Thirty healthy volunteers were examined with CS TOF and conventional TOF at 7T for around 10 min each. CS TOF was optimized to achieve 0.2-mm isotropic LSA imaging. The numbers of LSA stems and branches were counted and compared on a vascular skeleton. The length and distance were measured and compared on the most prominent branch in each hemisphere. Another patient with intracranial artery stenosis was studied to compare LSA delineation in CS TOF and digital subtraction angiography (DSA).
+RESULTS: The number of stems visualized with CS TOF was significantly higher than with conventional TOF in both left (p = 0.002, ICC = 0.884) and right (p < 0.001, ICC = 0.938) hemispheres. The number of branches visualized by conventional TOF was significantly lower than that by CS TOF in both left (p < 0.001, ICC = 0.893) and right (p < 0.001, ICC = 0.896) hemispheres. The lengths were statistically higher in CS TOF than in conventional TOF (left: p < 0.001, ICC = 0.868; right: p < 0.001, ICC = 0.876).
+CONCLUSIONS: The high-resolution CS TOF improves the delineation and characterization of LSAs over conventional TOF. High-resolution LSA imaging using CS TOF can be a promising tool for clinical research and applications in patients with neurologic diseases.
+KEY POINTS: • 0.2-mm isotropic LSA imaging for around 10 min using CS TOF at 7T is feasible. • More stems and branches of LSAs with longer lengths can be delineated with CS TOF than with conventional TOF at the same scan time. • High-resolution CS TOF can be a promising tool for research and applications on LSA.
+
+Citation: Zhang Z, et al. Improved characterization of lenticulostriate arteries using compressed sensing time-of-flight at 7T. Improved characterization of lenticulostriate arteries using compressed sensing time-of-flight at 7T. 2023; 33:6939-6947. doi: 10.1007/s00330-023-09629-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37062772/

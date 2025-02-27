@@ -1,0 +1,11 @@
+PMID: 34412010
+Title: Quality and diagnostic performance of coronary computed tomography angiogram (CCTA): A comparison between pre-liver and pre-kidney transplant patients.
+
+Abstract: PURPOSE: Assess and compare the quality and diagnostic performance of CCTA between pre-liver and pre-kidney transplant patients, and gauge impact of CCTA on ICA requirements.
+METHODS: Patients without known coronary artery disease (CAD) were selected for CCTA if considered high-risk or after abnormal stress testing. All pre-liver and pre-kidney CCTAs between March 2018 and August 2020 were retrospectively included. CCTA quality was qualitatively graded as excellent/good/fair/poor, and CAD graded as &lt; or ≥50% stenosis. Heart rate, coronary artery calcium (CAC) scores, and fractional flow reserve CT (FFR<sub>CT</sub>) results were collected. CAD stenosis was graded on invasive coronary angiogram (ICA) images, with ≥50% stenosis defined as significant.
+RESULTS: 162 pre-transplant patients (91 pre-liver, 71 pre-kidney). Pre-kidney patients had poorer CCTA quality (p = 0.04) and higher heart rate (median: 65 bpm vs 60 bpm, p &lt; 0.001). Out of 147 diagnostic CCTAs (pre-liver: 84, pre-kidney: 63), 73 (49.7%) had a ≥50% stenosis (pre-liver: 38 (45.2%), pre-kidney:35 (55.6%)). 12/38 (31.6%) had a significantly reduced FFR<sub>CT</sub>, and 19/53 (35.8%) had ≥50% stenosis on ICA. Among patients whose CCTA was diagnostic and had ICA, stenosis severity was concordant in 10/23 (43.5%) pre-liver and 10/25 (40%) pre-kidney patients. All discordant cases had stenosis 'over-called' on CCTA.
+CONCLUSION: Diagnostic-quality CCTAs in high-risk pre-transplant patients are achievable and can greatly reduce ICA requirements by excluding significant CAD. CCTA quality is poorer in pre-kidney transplant patients compared to pre-liver, possibly due to higher heart rate.
+
+Citation: Kirkbride RR, et al. Quality and diagnostic performance of coronary computed tomography angiogram (CCTA): A comparison between pre-liver and pre-kidney transplant patients. Quality and diagnostic performance of coronary computed tomography angiogram (CCTA): A comparison between pre-liver and pre-kidney transplant patients. 2021; 143:109886. doi: 10.1016/j.ejrad.2021.109886
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34412010/

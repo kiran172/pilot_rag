@@ -1,0 +1,12 @@
+PMID: 35460988
+Title: In vivo whole brain microvascular imaging in mice using transcranial 3D Ultrasound Localization Microscopy.
+
+Abstract: BACKGROUND: Non-invasive high-resolution imaging of the cerebral vascular anatomy and function is key for the study of intracranial aneurysms, stenosis, arteriovenous malformations, and stroke, but also neurological pathologies, such as degenerative diseases. Direct visualization of the microvascular networks in the whole brain remains however challenging in vivo.
+METHODS: In this work, we performed 3D ultrafast ultrasound localization microscopy (ULM) using a 2D ultrasound matrix array and mapped the whole-brain microvasculature and flow at microscopic resolution in C57Bl6 mice in vivo.
+FINDINGS: We demonstrated that the mouse brain vasculature can be imaged directly through the intact skull at a spatial resolution of 20 µm and over the whole brain depth and at high temporal resolution (750 volumes.s-1). Individual microbubbles were tracked to estimate the flow velocities that ranged from 2 mm.s-1 in arterioles and venules up to 100 mm.s-1 in large vessels. The vascular maps were registered automatically with the Allen atlas in order to extract quantitative vascular parameters such as local flow rates and velocities in regions of interest.
+INTERPRETATION: We show the potential of 3D ULM to provide new insights into whole-brain vascular flow in mice models at unprecedented vascular scale for an in vivo technique. This technology is highly translational and has the potential to become a major tool for the clinical investigation of the cerebral microcirculation.
+FUNDING: This study was supported by the European Research Council under the European Union's Seventh Framework Program (FP/2007-2013) / ERC Grant Agreement n° 311025 and by the Fondation Bettencourt-Schueller under the program "Physics for Medicine". We acknowledge the ART (Technological Research Accelerator) biomedical ultrasound program of INSERM.
+
+Citation: Demeulenaere O, et al. In vivo whole brain microvascular imaging in mice using transcranial 3D Ultrasound Localization Microscopy. In vivo whole brain microvascular imaging in mice using transcranial 3D Ultrasound Localization Microscopy. 2022; 79:103995. doi: 10.1016/j.ebiom.2022.103995
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35460988/

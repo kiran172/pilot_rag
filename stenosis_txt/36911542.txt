@@ -1,0 +1,11 @@
+PMID: 36911542
+Title: The Proportion of Circulating CD45RO+CD8+ T Cells is Associated with the Coronary Slow Flow.
+
+Abstract: BACKGROUND: Circulating memory CD8+ T cells have been shown to be a crucial mediator of chronic inflammation. This study investigated whether the baseline proportion of circulating CD45RO+CD8+ T cells was associated with the coronary slow flow (CSF) phenomenon.
+METHODS: A total of 160 consecutive patients [mean (standard deviation (SD)) age, 67.86 (9.55) years; 51.25% male] who were admitted to our hospital between August 2020 and October 2020 for chest pain and underwent coronary angiography with the absence of coronary stenosis were enrolled in this cross-sectional analysis. The patients' admission CD45RO+ CD8+ T cell plasma levels were measured using flow cytometry. Angiographic CSF was defined as thrombolysis in myocardial infarction (TIMI) flow of ≤ 2 without coronary stenosis, and non-CSF was defined as coronary arteries (< 50% stenosis) with TIMI 3 flow.
+RESULTS: The incidence of angiographic CSF was 22.5%. Patients with angiographic CSF had higher levels of CD45RO+CD8+ T cells than those without CSF [56.18 (13.93) vs. 45.26 (16.45); p < 0.001]. After multivariable adjustment, the risk of incident CSF was 2.41 [95% confidence interval (CI) 1.46-3.97] per SD change in CD45RO+ CD8+ T cells. Further, coronary microvascular resistance was significantly higher in patients with CSF than in those without CSF. A positive linear relationship between CD45RO+CD8+ T cells and coronary microvascular resistance was observed.
+CONCLUSIONS: The proportion of circulating CD45RO+CD8+ T cells is an independent indicator of CSF. This observation may provide insights into the pathophysiological mechanism of CSF.
+
+Citation: Li H, et al. The Proportion of Circulating CD45RO+CD8+ T Cells is Associated with the Coronary Slow Flow. The Proportion of Circulating CD45RO+CD8+ T Cells is Associated with the Coronary Slow Flow. 2023; 39:343-352. doi: 10.6515/ACS.202303_39(2).20221114A
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36911542/

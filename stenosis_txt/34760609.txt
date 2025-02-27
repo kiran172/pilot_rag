@@ -1,0 +1,11 @@
+PMID: 34760609
+Title: Prevalence of internal carotid artery stenosis in ambulatory patients presenting for non-emergent percutaneous coronary angiogram in a single Australian centre.
+
+Abstract: INTRODUCTION: Association between coronary artery disease (CAD) and internal carotid artery stenosis (ICAS) could prove clinically relevant. However, evidence defining this association is currently inconclusive. Our study investigates the prevalence of ICAS in non-emergent, ambulatory patients presenting for PCA with suspected CAD in an Australian context.
+METHODS: Between February 2019 and June 2019, 121 consecutive participants were verbally consented and enrolled in our study. The data were analysed retrospectively. PCA and CUS were performed within 24 h of each other. Multinomial logistic regression assessed independent predictors for ICAS, with statistical significance set at P value < 0.05. Linear regression analysis correlated CAD and ICAS severity, with significance of a P-value < 0.05. Analysis was conducted using IBM SPSS 26 software (Chicago, Illinois).
+RESULTS: The final study included 121 patients (age 73 ± 9 years, 76.9% male). ICAS on CUS was present in 55.4% of participants for PCA. CAD was an independent risk factor for ICAS on multinomial logistic regression odds ratio 3.87 (P = 0.023). CAD severity (multi vessel disease) showed significant correlation with ICAS r = 0.22 (P = 0.014) using linear regression analysis.
+CONCLUSION: CAD is an independent predictor of ICAS, and severity of ICAS is correlated with CAD disease. However, most participants had only minor ICAS (16-49% diameter stenosis). Our findings are consistent with internationally published studies, suggesting their data are generalisable to the Australian population. Larger studies are needed to address the applicability of CUS screening in patients with advanced CAD.
+
+Citation: O'Brien AJ, et al. Prevalence of internal carotid artery stenosis in ambulatory patients presenting for non-emergent percutaneous coronary angiogram in a single Australian centre. Prevalence of internal carotid artery stenosis in ambulatory patients presenting for non-emergent percutaneous coronary angiogram in a single Australian centre. 2021; 24:31-36. doi: 10.1002/ajum.12220
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34760609/

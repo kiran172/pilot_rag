@@ -1,0 +1,8 @@
+PMID: 36742941
+Title: Postoperative functional evaluation of obstructive sleep apnea syndrome by computational fluid dynamics.
+
+Abstract: The aim of this study is to evaluate the efficacy of uvulopalatopharyngoplasty and the corresponding postoperative airflow. Eleven patients diagnosed with obstructive sleep apnea syndrome who complained of snoring and apnea were enrolled in this study. Computational fluid dynamics (CFD) was implemented. CFD could be accomplished in nine cases. Airflow analysis was not possible in cases with a high respiratory event index (REI) score. Before surgery, stenosis was identified in the oropharynx and epiglottic area. And the airflow velocity and pressure were found to have significantly decreased in the oropharynx postoperatively, while in the epiglottic area, those data had increased postoperatively in some cases. The velocity and pressure of the oropharynx are related to REI score. From the CFD analysis, airflow analysis is important for evaluating the apnea state. It is suggested that the postoperative function can now be predicted preoperatively.
+
+Citation: Nomura T, et al. Postoperative functional evaluation of obstructive sleep apnea syndrome by computational fluid dynamics. Postoperative functional evaluation of obstructive sleep apnea syndrome by computational fluid dynamics. 2022; 74:5044-5051. doi: 10.1007/s12070-021-02681-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36742941/

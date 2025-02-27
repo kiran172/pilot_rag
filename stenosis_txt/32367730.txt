@@ -1,0 +1,11 @@
+PMID: 32367730
+Title: Alcohol Consumption and Cardiovascular Disease: A Mendelian Randomization Study.
+
+Abstract: BACKGROUND: The causal role of alcohol consumption for cardiovascular disease remains unclear. We used Mendelian randomization (MR) to predict the effect of alcohol consumption on 8 cardiovascular diseases.
+METHODS: Up to 94 single-nucleotide polymorphisms were used as instrumental variables for alcohol consumption. Genetic association estimates for cardiovascular diseases were obtained from large-scale consortia and UK Biobank. Analyses were conducted using the inverse variance-weighted, weighted median, MR-PRESSO, MR-Egger, and multivariable MR methods.
+RESULTS: Genetically predicted alcohol consumption was consistently associated with stroke and peripheral artery disease across the different analyses. The odds ratios (ORs) per 1-SD increase of log-transformed alcoholic drinks per week were 1.27 ([95% CI, 1.12-1.45] P=2.87×10-4) for stroke and 3.05 ([95% CI, 1.92-4.85] P=2.30×10-6) for peripheral artery disease in the inverse variance-weighted analysis. There was some evidence for positive associations of genetically predicted alcohol consumption with coronary artery disease (OR, 1.16 [95% CI, 1.00-1.36]; P=0.052), atrial fibrillation (OR, 1.17 [95% CI, 1.00-1.37]; P=0.050), and abdominal aortic aneurysm (OR, 2.60 [95% CI, 1.15-5.89]; P=0.022) in the inverse variance-weighted analysis. These associations were somewhat attenuated in multivariable MR analysis adjusted for smoking initiation. There was no evidence of associations of genetically predicted alcohol consumption with heart failure (OR, 1.00 [95% CI, 0.68-1.47]; P=0.996), venous thromboembolism (OR, 1.04 [95% CI, 0.77-1.39]; P=0.810), and aortic valve stenosis (OR, 1.03 [95% CI, 0.56-1.90]; P=0.926).
+CONCLUSIONS: This study provides evidence of a causal relationship between higher alcohol consumption and increased risk of stroke and peripheral artery disease. The causal role of alcohol consumption for other cardiovascular diseases requires further research.
+
+Citation: Larsson SC, et al. Alcohol Consumption and Cardiovascular Disease: A Mendelian Randomization Study. Alcohol Consumption and Cardiovascular Disease: A Mendelian Randomization Study. 2020; 13:e002814. doi: 10.1161/CIRCGEN.119.002814
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32367730/

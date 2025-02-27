@@ -1,0 +1,8 @@
+PMID: 38099316
+Title: The rapid change of shear rate gradient is beneficial to platelet activation.
+
+Abstract: Fluid shear plays a key role in hemostasis and thrombosis, and the purpose of this study was to investigate the effect of shear gradient change rate (SGCR) on platelet reactivity and von Willebrand factor (vWF) activity and its mechanism. In this study, we developed a set of microfluidic chips capable of generating different shear gradients and simulated the shear rate distribution in the flow field by COMSOL Multiphysics software. Molecular markers of platelet activation (P-selectin, activated GPIIb/IIIa, phosphatidylserine exposure, and monocyte-platelet aggregate formation) were analyzed by flow cytometry. Platelet aggregation induced by shear gradient was studied by a microfluidic experimental platform, and plasma vWF ristocetin cofactor (vWF: RCO) activity was investigated by flow cytometry. The expression of p-Akt was studied by Western blotting. The results showed that the faster the SGCR, the higher the expression of platelet p-Akt, and the stronger the platelet reactivity and vWF activity. This indicates that fluid shear stress can activate platelets and vWF in a shear gradient-dependent manner through the PI3K/AKT signal pathway, and the faster the SGCR, the more significant the activation effect.
+
+Citation: Zhang T, et al. The rapid change of shear rate gradient is beneficial to platelet activation. The rapid change of shear rate gradient is beneficial to platelet activation. 2024; 35:2288679. doi: 10.1080/09537104.2023.2288679
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38099316/

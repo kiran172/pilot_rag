@@ -1,0 +1,11 @@
+PMID: 34692389
+Title: Complete Revascularization and Survival in STEMI.
+
+Abstract: BACKGROUND: Complete revascularization (CR) of ST-elevation myocardial infarction patients with multivessel coronary artery disease (MVD) has proven better regarding combined endpoints than incomplete revascularization (IR) in recent randomized control trials with no impact on survival.
+OBJECTIVE: To retrospectively evaluate the impact of complete CR during the index hospitalization on survival in STEMI patients with MVD.
+METHODS AND RESULTS: We included all patients with MVD who underwent successful primary percutaneous coronary intervention for STEMI during their index hospitalization at the University Medical Centre Ljubljana, Slovenia (from 1 January 2009 to 3 April 2011). Coronary angiograms were reviewed for non-culprit coronary arteries (>2 mm in diameter and ≥50% stenosis) treated with percutaneous coronary intervention. Rates of all-cause and cardiovascular death were compared between 235 patients who underwent CR (N = 70) or IR (N = 165). After a median follow-up of 7.0 years (interquartile range 6.0-8.2) the CR group had lower rates of all-cause death (15.7% vs 35.8%, log-rank p = 0.003) and cardiovascular death (12.9% vs 23.6%, log-rank p = 0.046). Multivariable analysis with adjustment for confounders showed no benefit of CR for all-cause death (hazard ratio [HR] 0.60, 95% confidence interval [CI] 0.31-1.18, p = 0.139) or cardiovascular death (HR 0.80, 95% CI 0.37-1.72, p = 0.560). Age, elevated serum creatinine at inclusion, diabetes and cardiogenic shock at presentation were predictors of death.
+CONCLUSIONS: Patients with STEMI and MVD who underwent CR showed lower all-cause and cardiovascular death during follow-up than those who underwent IR. However, after adjustment for confounders, the real determinates of survival were independent of the revascularization method.
+
+Citation: Sustersic M, et al. Complete Revascularization and Survival in STEMI. Complete Revascularization and Survival in STEMI. 2021; 16:64. doi: 10.5334/gh.1040
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34692389/

@@ -1,0 +1,11 @@
+PMID: 35236097
+Title: Clinical Impact of Hypoattenuating Leaflet Thickening After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Hypoattenuated leaflet thickening (HALT), identified on functional cardiac computed tomography (CTA), can affect valve function and clinical outcomes. The objective of this study was to assess the impact of HALT on clinical outcomes in patients treated with transcatheter aortic valve replacement (TAVR).
+METHODS: In July 2015, Minneapolis Heart Institute implemented prospective screening of HALT at 30-day post-TAVR with CTA. Patients with evidence of HALT were recommended to initiate anticoagulation for 3 to 6 months with warfarin. Echocardiographic, ischemic, and bleeding outcomes were compared between HALT+ and HALT- patients. Survival rates were compared between HALT+ and HALT- patients using log-rank test, with Cox regression analysis used to identify variables independently associated with long-term death landmarked at time of CTA. This analysis included patients treated from July 1, 2015 to October 31, 2019.
+RESULTS: Of 856 patients undergoing TAVR during the study period, 638 (75%) underwent CTA post-TAVR (median time 31 [30-37] days). HALT+ was evident in 79 (12.3%). HALT+ patients were more likely prescribed warfarin at 1, 3, and 12 months (all P&lt;0.001) and had similar gradients compared with HALT- patients. After a median follow-up of 2.2 years (1.5-3.2), HALT+ patients had increased mortality (30% versus 20%; P=0.001). In Cox regression analysis, presence of HALT (hazard ratio, 1.83 [95% CI, 1.13-2.97]; P=0.014) remained independently associated with long-term mortality.
+CONCLUSIONS: In a large, real-world cohort of patients receiving TAVR followed by systematic screening with CTA 30-days post-procedure, HALT was found in 12% of patients and independently associated with long-term mortality. Findings of this nonrandomized, observational cohort study require independent validation.
+
+Citation: Garcia S, et al. Clinical Impact of Hypoattenuating Leaflet Thickening After Transcatheter Aortic Valve Replacement. Clinical Impact of Hypoattenuating Leaflet Thickening After Transcatheter Aortic Valve Replacement. 2022; 15:e011480. doi: 10.1161/CIRCINTERVENTIONS.121.011480
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35236097/

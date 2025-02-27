@@ -1,0 +1,11 @@
+PMID: 32517450
+Title: [Prognostic Risk Factors for Patients Receiving Airway Stent Placement].
+
+Abstract: BACKGROUND: Airway stents are used to treat central airway stenosis or tracheal fistula caused by a variety of malignant and benign tracheal diseases as well as iatrogenic procedures. Airway stent placement has a satisfying effect in instantly relieving of symptoms, but the long-term survival of patients still depends on the individualized treatment of the primary diseases. Therefore, exploring the prognostic risk factors of patients who received airway stent placement can be beneficial to the optimization of the placement procedure and also the improvement of individualized clinical management of patients.
+METHODS: Data of a total of 66 patients who underwent airway stent placement at the First Affiliated Hospital of Zhejiang University from January 2014 to June 2017 were retrospectively collected. Prognostic effects of the clinical characteristics as age, gender, Charlson comorbidity index (CCI) and procedure duration were analyzed.
+RESULTS: Age and gender had no significant effect on the outcomes of the patients, while higher CCI (P=0.045) and procedure duration over 60 min (P=0.037) were both independent risk factors of poor prognosis. A prognostic nomogram was then constructed, of which the area under the curve of the receiver operating characteristic (ROC) curve and the concordance index (C-index) was 0.71 and 0.69, respectively.
+CONCLUSIONS: For patients receiving airway stent placement, the baseline CCI and the procedure duration had prognostic significance in clinical practice.
+
+Citation: Niu Y, et al. [Prognostic Risk Factors for Patients Receiving Airway Stent Placement]. [Prognostic Risk Factors for Patients Receiving Airway Stent Placement]. 2020; 23:460-465. doi: 10.3779/j.issn.1009-3419.2020.104.04
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32517450/

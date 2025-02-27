@@ -1,0 +1,10 @@
+PMID: 36276514
+Title: Left Main Stenosis Stenting Normalises Wall Shear Stress of Ascending Aorta in Bicuspid Aortic Valve.
+
+Abstract: INTRODUCTION: Bicuspid aortic valve (BAV) is associated with dilation and dissection of the ascending aorta. The high shear forces within the ascending aorta lumen seem to have a pivotal role on the development of such complications. We describe the time-averaged wall shear stress (TAWSS) forces in a patient with normally functioning BAV and significant ostial/mid-shaft left main (LM) stenosis using computational fluid dynamic analysis (CFD).
+CASE REPORT: A 47-year-old female patient with normally functioning BAV with fusion of right and non-coronary cusps was investigated for unstable angina. CFD and stress mapping of the ascending aorta before LM stenting showed a mean TAWSS of 9.4 Pa and was associated with higher TAWSS values at the site of LM stenosis. The LM lesion was treated by stent implantation of an Orsiro (Biotronik, Berlin, Germany) 4.0 × 12 mm at 18 atm, preceded with a pre-dilation with non-compliant Euphora (Medtronic Inc., Santa Rosa, CA, USA) balloon 3.0 × 12 mm at 16 atm, and followed by an over-dilation with 4.5 × 12 mm non-compliant Euphora balloon at 20 atm. The reconstructed post-procedural model revealed a decrease of the mean ascending aorta TAWSS to 5.6 Pa.
+CONCLUSIONS: As suggested by our case, stenting of an LM lesion in a patient with BAV has the potential to improve the TAWSS in the ascending aorta, protecting the ascending aorta from the well-known complications of BAV.
+
+Citation: Rigatelli G and Zuin M. Left Main Stenosis Stenting Normalises Wall Shear Stress of Ascending Aorta in Bicuspid Aortic Valve. Left Main Stenosis Stenting Normalises Wall Shear Stress of Ascending Aorta in Bicuspid Aortic Valve. 2020; 14:121-122. doi: 10.17925/HI.2020.14.2.121
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36276514/

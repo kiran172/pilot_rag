@@ -1,0 +1,12 @@
+PMID: 39147280
+Title: Non-target lesion progression: Unveiling critical predictors and outcomes in patients with in-stent restenosis.
+
+Abstract: BACKGROUND: Percutaneous coronary intervention (PCI) has become the primary treatment for coronary artery disease. However, while PCI effectively addresses severe stenosis or occlusive lesions in target vessels, the progression of non-target vessel plaque remains a critical determinant of long-term patient prognosis.
+AIMS: The purpose of this study was to investigate the impact of non-target vascular plaque progression on prognosis after PCI for ISR.
+METHODS: This study included 195 patients diagnosed with ISR and multivessel disease who underwent successful PCI with drug-eluting stent (DES) placement, along with intraoperative optical coherence tomography (OCT) assessment of the culprit stent. Subsequent rechecked coronary angiography categorized eligible patients into non-target lesion progression (N-TLP) and no-N-TLP groups. We evaluated the baseline morphological characteristics of N-TLP by OCT and investigated the relationship between N-TLP, non-culprit vessel-related major adverse cardiovascular events (NCV-MACE), and pan-vascular disease-related clinical events (PVD-CE) incidence.
+RESULTS: Multivariate logistic regression analysis revealed that diabetes mellitus (OR 3.616, 95% CI: 1.735-7.537; P = 0.001), uric acid level (OR 1.005, 95% CI: 1.001-1.009; P = 0.006), in-stent neoatherosclerosis (ISNA) (OR 1.334, 95% CI: 1.114-1.985; P = 0.047) and heterogeneous neointima morphology (OR 2.48, 95% CI: 1.18-5.43; P = 0.019) were independent predictors for N-TLP. Furthermore, N-TLP was associated with a high incidence of NCV-MACE (19.4% vs 6.9%, P = 0.009) and PVD-CE (83.9% [95% CI: 79.7%-88.3%] vs 93.1% [95% CI: 88.4%-98.0%], P = 0.038) after PCI in ISR patients.
+CONCLUSION: Diabetes, uric acid levels, ISNA, and heterogeneous neointima are predictive factors for subsequent rapid plaque progression, with N-TLP exacerbating the incidence of NCV-MACE and PVD-CE after PCI.
+
+Citation: Zhang W, et al. Non-target lesion progression: Unveiling critical predictors and outcomes in patients with in-stent restenosis. Non-target lesion progression: Unveiling critical predictors and outcomes in patients with in-stent restenosis. 2024; 416:132451. doi: 10.1016/j.ijcard.2024.132451
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39147280/

@@ -1,0 +1,8 @@
+PMID: 38427153
+Title: Association Between Automated 3D Measurement of Coronary Luminal Narrowing and Risk of Future Myocardial Infarction.
+
+Abstract: This study focuses on identifying anatomical markers with predictive capacity for long-term myocardial infarction (MI) in focal coronary artery disease (CAD). Eighty future culprit lesions (FCL) and 108 non-culprit lesions (NCL) from 80 patients underwent 3D quantitative coronary angiography. The minimum lumen area (MLA), minimum lumen ratio (MLR), and vessel fractional flow reserve (vFFR) were evaluated. MLR was defined as the ratio between MLA and the cross-sectional area at the proximal lesion edge, with lower values indicating more abrupt luminal narrowing. Significant differences were observed between FCL and NCL in MLR (0.41 vs. 0.53, p < 0.001). MLR correlated inversely with translesional vFFR (r =  - 0.26, p = 0.0004) and was the strongest predictor of MI at 5 years (AUC = 0.75). Lesions with MLR < 0.40 had a fourfold increased MI incidence at 5 years. MLR is a robust predictor of future adverse coronary events.
+
+Citation: Candreva A, et al. Association Between Automated 3D Measurement of Coronary Luminal Narrowing and Risk of Future Myocardial Infarction. Association Between Automated 3D Measurement of Coronary Luminal Narrowing and Risk of Future Myocardial Infarction. 2024; 17:893-900. doi: 10.1007/s12265-024-10500-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38427153/

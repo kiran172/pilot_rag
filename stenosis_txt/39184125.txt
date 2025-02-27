@@ -1,0 +1,12 @@
+PMID: 39184125
+Title: Changes and Prognostic Implications of Myocardial Work in Aortic Stenosis Subtypes Undergoing Transcatheter Valve Implantation.
+
+Abstract: BACKGROUND: Evaluation of left ventricle (LV) systolic function in patients with aortic stenosis (AS) undergoing transcatheter aortic valve implantation (TAVI) is challenging, as LV ejection fraction (LVEF) and global longitudinal strain are afterload dependent. LV global work indices (GWIs) estimate the afterload corrected systolic function.
+OBJECTIVES: The purpose of this study was to evaluate changes in and prognostic implications of GWIs in subtypes of AS patients before and 1 month after TAVI.
+METHODS: We included 473 patients undergoing TAVI. GWI was estimated using strain imaging and by adding the aortic valve mean gradient to the systolic blood pressure. The primary endpoint was all-cause mortality, evaluated by Cox proportional hazards and Kaplan-Meier curves.
+RESULTS: High gradient, low flow/low gradient, and normal flow/low gradient AS was found in 48%, 27%, and 25%. In patients with LVEF ≥50% delta GWI decreased from preoperative assessment to 1-month follow-up across all subtypes; high gradient (-353 ± 589 mm Hg%, P &lt; 0.01), low flow/low gradient (-151 ± 652 mm Hg%, P = 0.13), and normal flow/low gradient (-348 ± 606 mm Hg%, P &lt; 0.01). For patients with LVEF &lt;50% delta GWI increased; high gradient 127 ± 491 mm Hg%, P = 0.05; low flow/low gradient 106 ± 510 mm Hg%, P = 0.06; normal flow/low gradient 107 ± 550 mm Hg%, P &lt; 0.27. The median follow-up time was 60 months (IQR: 45-69 months). Each step of 100 mm Hg% higher GWI at pre-TAVI assessment was associated with a reduction in all-cause mortality in multivariable analysis (HR: 0.96 [95% CI: 0.92-1.00], P = 0.033).
+CONCLUSIONS: GWI increases in patients with reduced LVEF after TAVI across AS subtypes whereas GWI decreases in patients with preserved LVEF. Assessment of GWI offers additional prognostic implications beyond LVEF and global longitudinal strain.
+
+Citation: Pedersen ALD, et al. Changes and Prognostic Implications of Myocardial Work in Aortic Stenosis Subtypes Undergoing Transcatheter Valve Implantation. Changes and Prognostic Implications of Myocardial Work in Aortic Stenosis Subtypes Undergoing Transcatheter Valve Implantation. 2024; 3:101124. doi: 10.1016/j.jacadv.2024.101124
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39184125/

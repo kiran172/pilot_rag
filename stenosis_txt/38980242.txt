@@ -1,0 +1,11 @@
+PMID: 38980242
+Title: Risk Factors of Obstructive Sleep Apnea (OSA) in Pediatric Patients: A Systematic Review and Meta-analysis.
+
+Abstract: INTRODUCTION: This review aimed to assess the risk factors of Obstructive Sleep Apnea (OSA) in pediatric children, a common condition with serious long-term sequela.
+METHODS: PubMed, CENTRAL, Scopus, and Google Scholar were searched using the keywords "Apnea", "Obstructive Sleep" OR "Obstructive Sleep Apnea Syndrome" AND "Child" OR "Children" OR "Pediatrics". Data from 35 studies involving 497,688 pediatric patients diagnosed with OSA using polysomnography were reviewed. Risk factors examined included sex, obesity, neck circumference, tonsillar/adenoid hypertrophy, respiratory infections, nasal stenosis, parental OSA/smoking, ethnicity, preterm birth, and breastfeeding history. Relative Risk (RR) with 95% Confidence Intervals (95% CI) were calculated, using Cochrane Q and I² statistics to estimate heterogeneity.
+RESULTS: Tonsillar hypertrophy (RR = 3.55), adenoid hypertrophy (RR = 1.63), respiratory tract infection (RR = 2.59), obesity (RR = 1.74), and family history of OSA (RR = 3.03) were significantly associated with pediatric OSA. White ethnicity was protective (RR = 0.77).
+DISCUSSION: Recognizing these risk factors aids in early diagnosis and treatment of pediatric OSA.
+
+Citation: Hasuneh MM, et al. Risk Factors of Obstructive Sleep Apnea (OSA) in Pediatric Patients: A Systematic Review and Meta-analysis. Risk Factors of Obstructive Sleep Apnea (OSA) in Pediatric Patients: A Systematic Review and Meta-analysis. 2024; 38:717-726. doi: 10.1016/j.pedhc.2024.05.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38980242/

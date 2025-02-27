@@ -1,0 +1,12 @@
+PMID: 31999077
+Title: Long-term outcome after deferred revascularization due to negative fractional flow reserve in intermediate coronary lesions.
+
+Abstract: OBJECTIVES: The aim was to assess long-term outcome after deferring intervention of coronary lesions with a fractional flow reserve (FFR) value of >0.80 in a real-world patient population and then to identify factors associated with deferred target lesion failure (DTLF).
+BACKGROUND: Deferring coronary interventions of intermediate lesions based on FFR measurement is safe, irrespective of the extent of coronary artery disease. However, FFR values near the cut-off of >0.80 may have less favorable outcome.
+METHODS: A retrospective analysis was performed in patients with deferred coronary intervention based on FFR value >0.80. The primary endpoint was DTLF, a composite of acute coronary syndrome (ACS) and any coronary revascularization, related to the initially deferred stenosis.
+RESULTS: A total of 600 patients, mean age of 66 ± 10 years, and 751 coronary lesions with negative FFR values (mean 0.88 ± 0.04) were included. The mean follow-up was 27 ± 15 months. DTLF occurred in 44 patients (7.3%), revascularization in 42 (7%), and ACS without revascularization in 2 patients (0.3%). Patients with DTLF more often had diabetes mellitus, previous coronary artery bypass grafting, multivessel disease (MVD), and lower FFR at inclusion. Multivariable regression analysis showed that lower deferred FFR values [FFR 0.81-0.85: hazard ratio (HR) 2.79 (95% CI [confidence interval]; 1.46-5.32), p .002], MVD [HR 1.98 (95% CI; 1.05-3.75), p .036], distal lesions [HR 2.43 (95% CI; 1.29-4.57), p .006], and lesions located in a saphenous vein graft (SVG) [HR 6.35 (95% CI; 1.81-22.28), p .004] were independent predictors for DTLF.
+CONCLUSIONS: The long-term rate of DTLF of initially deferred coronary lesions was 7.3%. Independent predictors for DTLF are lower deferred FFR value, the presence of MVD, distal lesions, and lesions in SVG.
+
+Citation: Weerts J, et al. Long-term outcome after deferred revascularization due to negative fractional flow reserve in intermediate coronary lesions. Long-term outcome after deferred revascularization due to negative fractional flow reserve in intermediate coronary lesions. 2021; 97:247-256. doi: 10.1002/ccd.28753
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31999077/

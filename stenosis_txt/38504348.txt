@@ -1,0 +1,11 @@
+PMID: 38504348
+Title: Later aorta operation after aortic valve replacement for bicuspid aortic valve.
+
+Abstract: BACKGROUND: We investigated long-term outcomes, particularly later aorta operations and overall death in patients who underwent aortic valve replacement for bicuspid aortic valve without aortic surgery.
+METHODS: Between January 2002 and December 2022, 274 patients underwent aortic valve replacement for bicuspid aortic valve at our institution. Of them, 181 patients who did not undergo aortic surgery, in accordance with current guidelines, were analyzed retrospectively.
+RESULTS: The median follow-up duration was 6.1 (2.0-10.6) years, and follow-up was completed in 97.8% of pateints. There were 3 patients (1.7%) who underwent later aorta operation during follow-up period. The cumulative later aorta operation rate at 10 years adjusting overall death as competing risk was 16.3%, and the estimated rates of freedom from overall death at 10 years was 83.7%. Fine-Gray competing risk regression model showed that aortic valve stenosis was only the predictor of later aorta operation (hazard ratio 8.477; p = 0.012). In multivariable Cox models, predictors of overall death were aortic valve stenosis (hazard ratio: 8.270, 95% confidence interval: 1.082-63.235; p = 0.042) and operation time (hazard ratio: 1.011, 95% confidence interval: 1.004-1.017; p = 0.002).
+CONCLUSIONS: Patients with bicuspid aortic valve with ascending aortic diameter less than 45 mm are at low risk of later aorta operation after isolated aortic valve replacement.
+
+Citation: Hachiro K, et al. Later aorta operation after aortic valve replacement for bicuspid aortic valve. Later aorta operation after aortic valve replacement for bicuspid aortic valve. 2024; 19:144. doi: 10.1186/s13019-024-02638-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38504348/

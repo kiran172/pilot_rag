@@ -1,0 +1,8 @@
+PMID: 34937869
+Title: Proteomic mapping of atrial and ventricular heart tissue in patients with aortic valve stenosis.
+
+Abstract: Aortic valve stenosis (AVS) is one of the most common valve diseases in the world. However, detailed biological understanding of the myocardial changes in AVS hearts on the proteome level is still lacking. Proteomic studies using high-resolution mass spectrometry of formalin-fixed and paraffin-embedded (FFPE) human myocardial tissue of AVS-patients are very rare due to methodical issues. To overcome these issues this study used high resolution mass spectrometry in combination with a stem cell-derived cardiac specific protein quantification-standard to profile the proteomes of 17 atrial and 29 left ventricular myocardial FFPE human myocardial tissue samples from AVS-patients. In our proteomic analysis we quantified a median of 1980 (range 1495-2281) proteins in every single sample and identified significant upregulation of 239 proteins in atrial and 54 proteins in ventricular myocardium. We compared the proteins with published data. Well studied proteins reflect disease-related changes in AVS, such as cardiac hypertrophy, development of fibrosis, impairment of mitochondria and downregulated blood supply. In summary, we provide both a workflow for quantitative proteomics of human FFPE heart tissue and a comprehensive proteomic resource for AVS induced changes in the human myocardium.
+
+Citation: Barbarics B, et al. Proteomic mapping of atrial and ventricular heart tissue in patients with aortic valve stenosis. Proteomic mapping of atrial and ventricular heart tissue in patients with aortic valve stenosis. 2021; 11:24389. doi: 10.1038/s41598-021-03907-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34937869/

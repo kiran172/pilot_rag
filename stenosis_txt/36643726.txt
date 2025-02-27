@@ -1,0 +1,11 @@
+PMID: 36643726
+Title: Association of remnant cholesterol with intra- and extra-cranial atherosclerosis in Chinese community population.
+
+Abstract: BACKGROUND: Multifocal atherosclerosis has dramatically increased annual risk of adverse cardiovascular events than single artery affected. Triglyceride-rich lipoprotein (TRL) has been implicated in the early development of atherosclerosis.However, evidence on the effect of remnant cholesterol, a major atherogenic component of TRL, on multifocal atherosclerosis in Chinese health asymptomatic subjects is insufficient. This study aimed to investigate the association of remnant cholesterol with intra- and extra-cranial atherosclerosis in Chinese population.
+METHODS: This study enrolled 3665 participants (median age 52.31 years) from the Asymptomatic Polyvascular Abnormalities Community study. Parameters of intra- and extra-cranial atherosclerosis includes intracranial artery stenosis (ICAS), carotid plaque, carotid artery stenosis (CAS), and carotid hypertrophy (intima-media thickness >0.9 mm). Logistic regression was used to assess these associations.
+RESULTS: The prevalence of vascular atherosclerosis significantly increased with increasing remnant cholesterol quartiles (P for trend &lt;0.0001). In the multivariable-adjusted model, the odds ratio with 95% confidence interval comparing participants in Q4 versus Q1 of remnant cholesterol was 1.73 (1.29-2.31) for ICAS, 1.54 (1.22-1.94) for carotid plaque, 1.47 (1.17-1.84) for CAS, and 1.93 (1.48-2.52) for carotid hypertrophy, respectively. Furthermore, multivariable-adjusted spline regression showed S-shaped associations between remnant cholesterol and these outcomes.
+CONCLUSION: Individuals with a high level of remnant cholesterol had a higher risk of intra- and extra-cranial atherosclerosis in Chinese population. Interventions aimed at reducing remnant cholesterol to prevent atherosclerotic diseases warrant further investigations.
+
+Citation: Wang A, et al. Association of remnant cholesterol with intra- and extra-cranial atherosclerosis in Chinese community population. Association of remnant cholesterol with intra- and extra-cranial atherosclerosis in Chinese community population. 2021; 46:20-26. doi: 10.1016/j.athplu.2021.10.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36643726/

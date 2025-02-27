@@ -1,0 +1,11 @@
+PMID: 34413245
+Title: Diagnostic performance of an algorithm for automated large vessel occlusion detection on CT angiography.
+
+Abstract: BACKGROUND: Machine learning algorithms hold the potential to contribute to fast and accurate detection of large vessel occlusion (LVO) in patients with suspected acute ischemic stroke. We assessed the diagnostic performance of an automated LVO detection algorithm on CT angiography (CTA).
+METHODS: Data from the MR CLEAN Registry and PRESTO were used including patients with and without LVO. CTA data were analyzed by the algorithm for detection and localization of LVO (intracranial internal carotid artery (ICA)/ICA terminus (ICA-T), M1, or M2). Assessments done by expert neuroradiologists were used as reference. Diagnostic performance was assessed for detection of LVO and per occlusion location by means of sensitivity, specificity, and area under the curve (AUC).
+RESULTS: We analyzed CTAs of 1110 patients from the MR CLEAN Registry (median age (IQR) 71 years (60-80); 584 men; 1110 with LVO) and of 646 patients from PRESTO (median age (IQR) 73 years (62-82); 358 men; 141 with and 505 without LVO). For detection of LVO, the algorithm yielded a sensitivity of 89% in the MR CLEAN Registry and a sensitivity of 72%, specificity of 78%, and AUC of 0.75 in PRESTO. Sensitivity per occlusion location was 88% for ICA/ICA-T, 94% for M1, and 72% for M2 occlusion in the MR CLEAN Registry, and 80% for ICA/ICA-T, 95% for M1, and 49% for M2 occlusion in PRESTO.
+CONCLUSION: The algorithm provided a high detection rate for proximal LVO, but performance varied significantly by occlusion location. Detection of M2 occlusion needs further improvement.
+
+Citation: Luijten SPR, et al. Diagnostic performance of an algorithm for automated large vessel occlusion detection on CT angiography. Diagnostic performance of an algorithm for automated large vessel occlusion detection on CT angiography. 2022; 14:794-798. doi: 10.1136/neurintsurg-2021-017842
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34413245/

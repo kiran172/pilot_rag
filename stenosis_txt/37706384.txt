@@ -1,0 +1,15 @@
+PMID: 37706384
+Title: Normalizing arterial blood pressure in patients with aortic stenosis does not prevent grading discrepancies between pre-cardiopulmonary bypass transesophageal echocardiography and transthoracic echocardiography.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) grading discrepancies exist between pre-cardiopulmonary (pre-CPB) transesophageal echocardiography (TEE) and preoperative transthoracic echocardiography (TTE). Prior studies have not systematically controlled blood pressure.
+AIMS: We hypothesized that normalizing arterial blood pressure during pre-CPB TEE for patients undergoing valve replacement for AS would result in equivalent grading measurements when compared to TTE.
+SETTING: Single University Hospital.
+DESIGN: Prospective, Interventional.
+METHODS: Thirty-five adult patients underwent procedures for valvular AS between February 2017 and December 2020 at Medical University of South Carolina. Study participants had a TTE within 90 days of their procedure that documented blood pressure, peak velocity (V<sub>p</sub>), mean gradient (PG<sub>m</sub>), aortic valve area (AVA), and dimensionless index (DI). During pre-CPB TEE, if a patient's mean arterial pressure (MAP) fell more than 20% below their baseline blood pressure obtained during TTE, measurements were recorded as "out of range." Phenylephrine was administered to restore MAP to the baseline range and repeat TEE measurements were recorded as "in-range."
+STATISTICAL ANALYSIS: Differences between imaging modalities and grading parameters were examined using a series of linear mixed models. P values were Bonferroni-adjusted to account for multiple comparisons.
+MAIN RESULTS: Significant discrepancies between TEE and TTE were observed for V<sub>p</sub>, PG<sub>m</sub>, and DI despite blood pressure normalization across all subjects and for out-of-range measures and corrected measures. There were no statistically significant differences between TEE and TTE for AVA.
+CONCLUSIONS: Blood pressure normalization during pre-CPB TEE is not sufficient to avoid AS grading discrepancies with preoperative TTE.
+
+Citation: Whitener GB, et al. Normalizing arterial blood pressure in patients with aortic stenosis does not prevent grading discrepancies between pre-cardiopulmonary bypass transesophageal echocardiography and transthoracic echocardiography. Normalizing arterial blood pressure in patients with aortic stenosis does not prevent grading discrepancies between pre-cardiopulmonary bypass transesophageal echocardiography and transthoracic echocardiography. 2023; 26:183-189. doi: 10.4103/aca.aca_68_22
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37706384/

@@ -1,0 +1,11 @@
+PMID: 34972241
+Title: Neutrophil-to-lymphocyte ratio is associated with carotid intraplaque neovascularization in asymptomatic carotid stenosis patients.
+
+Abstract: BACKGROUND AND PURPOSE: Neutrophil-to-lymphocyte ratio (NLR) has been suggested as an available systemic inflammatory biomarker. This study aims to evaluate whether intraplaque neovascularization assessed by contrast-enhanced ultrasound (CEUS) is associated with NLR in asymptomatic carotid stenosis patients.
+MATERIALS AND METHODS: One hundred and forty-four asymptomatic patients with carotid luminal stenosis >30% were assessed using contrast-enhanced ultrasound imaging. The contrast enhancement within the plaque was classified on a visual semiquantitative grading scale. The data collected included the patient's risk factors, laboratory results, cardiovascular disease history, and drug use history. Univariate and multivariate analyses were assessed to identify independent factors related to intraplaque neovascularization with adjustment for potential confounders.
+RESULTS: Patients with CEUS grade 2 plaques had a higher level of LDL-C (p < .001), neutrophil count (p < .001), and blood glucose (p = .005), but lower level of lymphocyte count (p = .021). The presence of grade 2 plaques was significantly associated with high NLR values (OR 1.21, 95% CI 1.03-1.43, p = .017). Patients were divided into four groups according to the quartile of NLR values. Compared to the patients in the first quartile of NLR (<1.73), the patients in the fourth NLR quartile (≥3.38) were characterized by the most prevalence of CEUS grade 2 plaques (OR 4.55, 95% CI 1.69-12.25, p = .003). Multivariate logistic regression analysis after adjusting various variables demonstrated NLR remained an independent risk factor for the presence of CEUS grade 2 plaques.
+CONCLUSION: Intraplaque neovascularization is significantly associated with NLR in asymptomatic carotid stenosis patients.
+
+Citation: Lyu Q, et al. Neutrophil-to-lymphocyte ratio is associated with carotid intraplaque neovascularization in asymptomatic carotid stenosis patients. Neutrophil-to-lymphocyte ratio is associated with carotid intraplaque neovascularization in asymptomatic carotid stenosis patients. 2022; 50:319-325. doi: 10.1002/jcu.23132
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34972241/

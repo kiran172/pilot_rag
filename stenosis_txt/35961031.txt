@@ -1,0 +1,11 @@
+PMID: 35961031
+Title: Antiphospholipid antibodies in patients with calcific aortic valve stenosis.
+
+Abstract: OBJECTIVES: The antiphospholipid syndrome is defined by antiphospholipid antibodies (aPL) together with arterial and/or venous thromboembolism and/or obstetric morbidities. aPL are overrepresented in SLE and acute myocardial infarction, but it is unknown whether aPL are associated with calcific aortic valve stenosis (CAVS) in the general population. The prevalence of aPL and other SLE-associated autoantibodies and their impact on aortic valve transcriptomics were therefore determined.
+METHODS: A total of 233 tricuspid CAVS cases (median age 74, 69% male) and an age- and sex-matched control population were included. aPL were measured as anti-cardiolipin and anti-β2Glycoprotein-I of IgG/M/A isotypes. Resilient, thickened and calcified aortic valve (AV) tissue derived from five aPL positive and five matched aPL negative CAVS patients undergoing surgical aortic valve replacement were analysed by microarrays.
+RESULTS: The prevalence of positivity for any aPL (IgG/M/A) in patients with CAVS was 6.4% (95% CI 3.6% - 10.4%: n = 233). aPL IgG was significantly more prevalent in CAVS cases vs controls (4.6% vs 0.6%, P = 0.04). AV tissue from aPL IgG/IgM-positive patients was negatively enriched in pathways related to interferon signalling. One hundred differentially expressed genes could predict local AV CAVS progression with supervised machine learning algorithms.
+CONCLUSIONS: aPL IgG was more common in CAVS patients compared with matched controls and aPL positivity was associated with altered AV transcriptomics related to local disease progression and interferon pathways. Further studies should aim to establish aPL as a possible risk marker and/or causal factor for CAVS and could offer new precision therapeutic targets.
+
+Citation: Plunde O, et al. Antiphospholipid antibodies in patients with calcific aortic valve stenosis. Antiphospholipid antibodies in patients with calcific aortic valve stenosis. 2023; 62:1187-1196. doi: 10.1093/rheumatology/keac466
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35961031/

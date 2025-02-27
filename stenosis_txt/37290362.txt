@@ -1,0 +1,11 @@
+PMID: 37290362
+Title: Length and location of post-PIRCS predict percutaneous transluminal angioplasty and stenting-related restenosis in nasopharyngeal cancer.
+
+Abstract: PURPOSE: Post-irradiated carotid stenosis (PIRCS) commonly occurs in patients with nasopharyngeal cancer (NPC) after receiving radiotherapy. A high in-stent restenosis (ISR) is observed in these patients after percutaneous transluminal angioplasty and stenting (PTAS) for PIRCS. Risk factors for ISR in these patients remain unclear.
+METHODS: Data were retrospectively analyzed from 68 NPC patients with 70 lesions treated with PTAS for PIRCS. The median follow-up was 40 months (range: 4-120). Evaluations of demographic and clinical characteristics included stenotic severity, stenotic lesion length (SLL), stenotic lesion location, and ISR-related stroke during follow-up. The risk for ISR was evaluated using multiple Cox regression analysis.
+RESULTS: The median age of the patients was 61 (35-80) years and 94.1% were male. The median stenosis was 80% (60-99%) and the median SLL was 2.6 cm (0.6-12.0 cm) before PTAS. Compared to those without ISR, patients with longer SLL were at significantly greater risk of developing significant ISR, defined as > 50% after PTAS (hazard ratio [HR] and 95% confidence interval [CI]: 2.06 [1.30-3.28]). PTAS for lesions from the internal carotid artery (ICA) to common carotid artery (CCA) was associated with a significantly greater risk of ISR than lesions located only in the ICA (HR: 9.58 [1.79-51.34]). The baseline cut-off value for SLL that best predicted significant ISR was 1.6 cm (area under the curve 0.700, sensitivity 83.3% and specificity 62.5%).
+CONCLUSION: Stenotic lesions located from the ICA to CCA with longer SLL at baseline appear to predict ISR in NPC patients with PIRCS after PTAS. Intensive post-procedural follow-up is advised for this patient population.
+
+Citation: Juan YH, et al. Length and location of post-PIRCS predict percutaneous transluminal angioplasty and stenting-related restenosis in nasopharyngeal cancer. Length and location of post-PIRCS predict percutaneous transluminal angioplasty and stenting-related restenosis in nasopharyngeal cancer. 2023; 165:110894. doi: 10.1016/j.ejrad.2023.110894
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37290362/

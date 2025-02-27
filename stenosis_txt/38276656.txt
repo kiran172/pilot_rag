@@ -1,0 +1,11 @@
+PMID: 38276656
+Title: Prognostic Value of Cardiac Magnetic Resonance Feature Tracking Strain in Aortic Stenosis.
+
+Abstract: BACKGROUND: Recent data have suggested that global longitudinal strain (GLS) could be useful for risk stratification of patients with severe aortic stenosis (AS). In this study, we aimed to investigate the prognostic role of GLS in patients with AS and also its incremental value in relation to left ventricular ejection fraction (LVEF) and late gadolinium enhancement (LGE).
+METHODS: We analysed all consecutive patients with AS and LGE-CMR in our institution. Survival data were obtained from office of national statistics, a national body where all deaths in England are registered by law. Death certificates were obtained from the general register office.
+RESULTS: Some 194 consecutive patients with aortic stenosis were investigated with CMR at baseline and followed up for 7.3 ± 4 years. On multivariate Cox regression analysis, only increasing age remained significant for both all-cause and cardiac mortality, while LGE (any pattern) retained significance for all-cause mortality and had a trend to significance for cardiac mortality. Kaplan-Meier survival analysis demonstrated that patients in the best and middle GLS tertiles had significantly better mortality compared to patients in the worst GLS tertiles. Importantly though, sequential Cox proportional-hazard analysis demonstrated that GLS did not have significant incremental prognostic value for all-cause mortality or cardiac mortality in addition to LVEF and LGE.
+CONCLUSIONS: Our study has demonstrated that age and LGE but not GLS are significant poor prognostic indicators in patients with moderate and severe AS.
+
+Citation: Tsampasian V, et al. Prognostic Value of Cardiac Magnetic Resonance Feature Tracking Strain in Aortic Stenosis. Prognostic Value of Cardiac Magnetic Resonance Feature Tracking Strain in Aortic Stenosis. 2024; 11:(unknown pages). doi: 10.3390/jcdd11010030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38276656/

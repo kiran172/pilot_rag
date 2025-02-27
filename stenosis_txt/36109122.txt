@@ -1,0 +1,11 @@
+PMID: 36109122
+Title: Evaluation of 2 Novel Ratio-Based Metrics for Lumbar Spinal Stenosis.
+
+Abstract: BACKGROUND AND PURPOSE: Quantitative metrics of the dural sac such as the cross-sectional area are commonly used to evaluate central canal stenosis. The aim of this study was to analyze 2 new metrics to measure spinal stenosis on the basis of the ratio between the dural sac and disc cross-sectional areas (DDRCA) and the dural sac and disc anterior-posterior diameters (DDRDIA) and compare them with established quantitative metrics of the dural sac.
+MATERIALS AND METHODS: T2-weighted axial MR images (n = 260 patients) were retrospectively evaluated, graded for central canal stenosis as normal (no stenosis), mild, moderate, or severe from L1/L2 through L5/S1 with 1 grade per spinal level and annotated to measure the DDRCA and DDRDIA. Thresholds were obtained using a decision tree classifier on a subset of patients (n = 130) and evaluated on the remaining patients (n = 130) for accuracy and consistency across demographics, anatomic variation, and clinical outcomes.
+RESULTS: DDRCA and DDRDIA had areas under the receiver operating characteristic curve of 98.6 (97.4-99.3) and 98.0 (96.7-98.9) compared with dural sac cross-sectional area at 96.5 (95.0-97.7) for binary classification. DDRDIA and DDRCA had κ scores of 0.75 (0.71-0.79) and 0.80 (0.75-0.83) compared with dural sac cross-sectional area at 0.62 (0.57-0.66) for multigrade classification. No significant differences (P &gt; .1) in the area under the receiver operating characteristic curve were observed for the DDRDIA across variations in the body mass index. The DDRDIA also had the highest area under the receiver operating characteristic curve among symptomatic patients (visual analog scale ≥ 7) or patients who underwent surgery.
+CONCLUSIONS: Ratio-based metrics (DDRDIA and DDRCA) are accurate and robust to anatomic and demographic variability compared with quantitative metrics of the dural sac and better correlated with symptomatology and surgical outcomes.
+
+Citation: Bharadwaj UU, et al. Evaluation of 2 Novel Ratio-Based Metrics for Lumbar Spinal Stenosis. Evaluation of 2 Novel Ratio-Based Metrics for Lumbar Spinal Stenosis. 2022; 43:1530-1538. doi: 10.3174/ajnr.A7638
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36109122/

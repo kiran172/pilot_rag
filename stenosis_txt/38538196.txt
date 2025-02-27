@@ -1,0 +1,12 @@
+PMID: 38538196
+Title: Validation of the ACC Expert Consensus Decision Pathway for Patients With Chest Pain.
+
+Abstract: BACKGROUND: The American College of Cardiology (ACC) recently published an Expert Consensus Decision Pathway for chest pain.
+OBJECTIVES: The purpose of this study was to validate the ACC Pathway in a multisite U.S.
+METHODS: An observational cohort study of adults with possible acute coronary syndrome was conducted. Patients were accrued from 5 U.S. Emergency Departments (November 1, 2020, to July 31, 2022). ECGs and 0- and 2-hour high-sensitivity troponin (Beckman Coulter) measures were used to stratify patients according to the ACC Pathway. The primary safety outcome was 30-day all-cause death or myocardial infarction (MI). Efficacy was defined as the proportion stratified to the rule-out zone. Negative predictive value for 30-day death or MI was assessed among the whole cohort and in a subgroup of patients with coronary artery disease (CAD) (prior MI, revascularization, or ≥70% coronary stenosis).
+RESULTS: ACC Pathway assessments were complete in 14,395 patients, of whom 51.7% (7,437 of 14,395) were women with a median age of 56 years (Q1-Q3: 44-68 years). Known CAD was present in 23.5% (3,386 of 14,395) and 30-day death or MI occurred in 8.1% (1,168 of 14,395). The ACC Pathway had an efficacy of 48.1% (95% CI: 47.3%-49.0%). Among patients in the rule-out zone, 0.3% (22 of 6,930) had death or MI at 30 days, yielding a negative predictive value of 99.7% (95% CI: 99.5%-99.8%). In patients with known CAD, 20.0% (676 of 3,386) were classified to the rule-out zone, of whom 1.5% (10 of 676) had death or MI.
+CONCLUSIONS: The ACC expert consensus decision pathway was safe and efficacious. However, it may not be safe for use among patients with known CAD.
+
+Citation: Mahler SA, et al. Validation of the ACC Expert Consensus Decision Pathway for Patients With Chest Pain. Validation of the ACC Expert Consensus Decision Pathway for Patients With Chest Pain. 2024; 83:1181-1190. doi: 10.1016/j.jacc.2024.02.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38538196/

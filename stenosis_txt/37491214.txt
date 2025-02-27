@@ -1,0 +1,10 @@
+PMID: 37491214
+Title: CircRNA/lncRNA-miRNA-mRNA network and gene landscape in calcific aortic valve disease.
+
+Abstract: BACKGROUND: Calcific aortic valve disease (CAVD) is a common valve disease with an increasing incidence, but no effective drugs as of yet. With the development of sequencing technology, non-coding RNAs have been found to play roles in many diseases as well as CAVD, but no circRNA/lncRNA-miRNA-mRNA interaction axis has been established. Moreover, valve interstitial cells (VICs) and valvular endothelial cells (VECs) play important roles in CAVD, and CAVD differed between leaflet phenotypes and genders. This work aims to explore the mechanism of circRNA/lncRNA-miRNA-mRNA network in CAVD, and perform subgroup analysis on the important characteristics of CAVD, such as key cells, leaflet phenotypes and genders.
+RESULTS: We identified 158 differentially expressed circRNAs (DEcircRNAs), 397 DElncRNAs, 45 DEmiRNAs and 167 DEmRNAs, and constructed a hsa-circ-0073813/hsa-circ-0027587-hsa-miR-525-5p-SPP1/HMOX1/CD28 network in CAVD after qRT-PCR verification. Additionally, 17 differentially expressed genes (DEGs) in VICs, 9 DEGs in VECs, 7 DEGs between different leaflet phenotypes and 24 DEGs between different genders were identified. Enrichment analysis suggested the potentially important pathways in inflammation and fibro-calcification during the pathogenesis of CAVD, and immune cell patterns in CAVD suggest that M0 macrophages and memory B cells memory were significantly increased, and many genes in immune cells were also differently expressed.
+CONCLUSIONS: The circRNA/lncRNA-miRNA-mRNA interaction axis constructed in this work and the DEGs identified between different characteristics of CAVD provide a direction for a deeper understanding of CAVD and provide possible diagnostic markers and treatment targets for CAVD in the future.
+
+Citation: Zheng Y, et al. CircRNA/lncRNA-miRNA-mRNA network and gene landscape in calcific aortic valve disease. CircRNA/lncRNA-miRNA-mRNA network and gene landscape in calcific aortic valve disease. 2023; 24:419. doi: 10.1186/s12864-023-09441-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37491214/

@@ -1,0 +1,11 @@
+PMID: 32144637
+Title: Ultrasound risk marker variability in symptomatic carotid plaque: impact on risk reclassification and association with temporal variation pattern.
+
+Abstract: PURPOSE: Ultrasound examinations of atherosclerotic carotid plaques can be used to calculate risk markers associated with plaque vulnerability. Recent studies demonstrate significant inter-frame variability in risk markers. Here, we investigate risk marker variability in symptomatic plaques and its impact on reclassification of plaque vulnerability, as well as its association with the shape of the temporal variation over the cardiac cycle.
+METHODS: 56 patients with symptomatic carotid stenosis were included in this study. 88 plaques were identified and the plaque risk markers size (area), echogenicity (gray scale median, GSM) and heterogeneity (coarseness) were measured in all frames of ultrasound B-mode image sequences. Inter-frame variability was quantified using the coefficient of variation (CV).
+RESULTS: Inter-frame variabilities of the risk markers were area CV 5-8%; GSM CV 4-7%; coarseness CV 8-15% and was in general significantly lower in large as compared to smaller plaques. The variability in GSM risk marker caused a reclassification of vulnerability in 30 to 38% of the plaques. Temporal variations in GSM with a heart rate periodic or drift/trending pattern were found in smaller plaques (&lt; 26 mm2), whereas random pattern was found in larger plaques. In addition, hypoechoic plaques (GSM &lt; 25) were associated with cyclic variation pattern, independent of their size.
+CONCLUSIONS: Risk marker variability causes substantial reclassification of plaque vulnerability in symptomatic patients. Inter-frame variation and its temporal pattern should be considered in the design of future studies related to risk markers.
+
+Citation: Stenudd I, et al. Ultrasound risk marker variability in symptomatic carotid plaque: impact on risk reclassification and association with temporal variation pattern. Ultrasound risk marker variability in symptomatic carotid plaque: impact on risk reclassification and association with temporal variation pattern. 2020; 36:1061-1068. doi: 10.1007/s10554-020-01801-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32144637/

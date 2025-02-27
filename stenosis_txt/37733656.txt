@@ -1,0 +1,11 @@
+PMID: 37733656
+Title: Meta-analysis of outcomes from drug-eluting stent implantation in femoropopliteal arteries.
+
+Abstract: OBJECTIVE: In recent years, studies of drug-eluting stent (DES) for femoropopliteal artery diseases (FPADs) have been gradually published. To explore whether this type of stent is superior to the traditional bare metal stent (BMS), we performed this study.
+METHODS: A systematic search for randomized controlled trials (RCTs) in Excerpta Medica Database (Embase), PubMed, Web of Science (WOS), and Cochrane Library was performed on November 29, 2022. We innovatively adopted the hazard ratio (HR), the most appropriate indicator, as a measure of the outcomes that fall under the category of time-to-event data. The HRs was extracted directly or indirectly. Then, the meta-analyses using random effects model were performed. The bias risks of included papers were assessed by the Cochrane Risk of Bias 2.0 tool. This study was registered on the PROSPER platform (CRD42023391944) and not funded.
+RESULTS: Seven RCTs involving 1,889 participants were found. After pooled analyses, we obtained results without propensity on each of the following 3 outcomes of interest: in-stent restenosis (ISR) -free survival, primary patency (PP) survival, and target lesion revascularization (TLR) -free survival (P >0.05, respectively). Because the results of pooled analyses of the other two outcomes of interest (all-cause death free survival and clinical benefit survival) had high heterogeneity both, they were not accepted by us.
+CONCLUSION: For FPADs, the DES has not yet demonstrated superiority or inferiority to BMS, in the ability to maintain PP, avoid ISR and TLR.
+
+Citation: Li M, et al. Meta-analysis of outcomes from drug-eluting stent implantation in femoropopliteal arteries. Meta-analysis of outcomes from drug-eluting stent implantation in femoropopliteal arteries. 2023; 18:e0291466. doi: 10.1371/journal.pone.0291466
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37733656/

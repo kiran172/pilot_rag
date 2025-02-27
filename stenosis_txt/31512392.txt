@@ -1,0 +1,12 @@
+PMID: 31512392
+Title: Predictors of survival in patients with acute coronary syndrome undergoing percutaneous coronary intervention of unprotected left main coronary artery stenosis.
+
+Abstract: OBJECTIVE: Aim of this study was to investigate predictors of survival in unstable patients with high SYNTAX-1-score.
+BACKGROUND: In significant unprotected left main coronary artery (ULMCA) stenosis, treatment options include percutaneous coronary intervention (PCI) and coronary artery bypass graft (CABG). While CABG is recommended for stable patients with ULMCA stenosis and a SYNTAX-1-score > 32, PCI may be preferable in unstable or high operative risk patients.
+METHODS: Retrospective single-center all-comers registry study.
+RESULTS: A total of 142 patients underwent ULMCA-PCI (~72.9 years, 23.2% females, 54.2% survival in 2-year follow-up), 84 of whom had a SYNTAX-1 > 32 (37.4 ± 12.8). Patients in the high-SYNTAX-1-group (score > 32) were more often in an acute condition compared to low-SYNTAX-2-group (score ≤ 32) including acute myocardial infarction (76.2% vs. 57.4%, p = .024), cardiogenic shock (48.2% vs. 14.8%, p = .001), or need for mechanical support (36.1% vs. 11.1%, p = .001). Survival was predicted by the acute condition including cardiogenic shock (OR 0.06 and 0.05) and myocardial infarction (OR 0.03 and 0.34) in both groups. Performance of the SYNTAX-1-score was limited in our patient collective in both groups (c-index 0.65 vs. 0.63) while SYNTAX-2-PCI-score performed better (c-index 0.67 vs. 0.67). EuroScore II had the best discriminative ability (c-index 0.87 vs. 0.78).
+CONCLUSIONS: The majority of patients undergoing ULMCA-PCI presented in acute conditions with high SYNTAX-1-score, and is therefore underrepresented in clinical trials. Prognosis was best predicted by the acute condition and the EuroScore II. These data suggest that therapy in unstable patients should be guided by clinical condition over the anatomical SYNTAX-1-score.
+
+Citation: Staudacher DL, et al. Predictors of survival in patients with acute coronary syndrome undergoing percutaneous coronary intervention of unprotected left main coronary artery stenosis. Predictors of survival in patients with acute coronary syndrome undergoing percutaneous coronary intervention of unprotected left main coronary artery stenosis. 2020; 96:E27-E33. doi: 10.1002/ccd.28495
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31512392/

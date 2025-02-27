@@ -1,0 +1,11 @@
+PMID: 37808012
+Title: Anastomotic stenosis of bioengineered trachea grafts is driven by transforming growth factor β1-induced signaling, proinflammatory macrophages, and delayed epithelialization.
+
+Abstract: OBJECTIVE: Anastomotic stenosis caused by hypertrophic granulation tissue often develops in response to orthotopically implanted bioengineered tracheal grafts. To determine mechanisms responsible for the development and persistence of this granulation tissue, we looked for changes in gene expression from tissue specimens from the graft-native interface.
+METHODS: RNA was isolated from paraffin-embedded tissue samples of the anastomotic sites of orthotopically implanted bioengineered tracheal grafts of 9 animals. Tissue samples were binned into 3 groups based on degree of stenosis: no stenosis (<5%), mild stenosis (25%-50%), and moderate and severe stenosis (≥75%). Sections of healthy trachea tissue were used as control. The expression levels of ∼200 genes related to wound healing, plus several endogenous controls, were measured with a pathway-focused predesigned primer array.
+RESULTS: Expression of ARG2, IL4, RPL13 A, TGFBR3, and EGFR decreased, whereas expression of RUNX2 was increased in stenotic wounds compared with nonstenotic tissue. Based on the cell types present in the trachea and wound healing, this expression profile indicates a lack of M2 anti-inflammatory macrophages, absent epithelial cells, and transforming growth factor β1-induced signaling.
+CONCLUSIONS: These findings represent a significant step for tracheal tissue engineering by identifying several key mechanisms present in stenotic granulation tissue. Further research must be conducted to determine what modifications of the graft substrate and which coadministered therapeutics can be used to prevent the development of hypertrophic granulation tissue.
+
+Citation: Weber J, et al. Anastomotic stenosis of bioengineered trachea grafts is driven by transforming growth factor β1-induced signaling, proinflammatory macrophages, and delayed epithelialization. Anastomotic stenosis of bioengineered trachea grafts is driven by transforming growth factor β1-induced signaling, proinflammatory macrophages, and delayed epithelialization. 2023; 15:489-496. doi: 10.1016/j.xjon.2023.07.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37808012/

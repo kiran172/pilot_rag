@@ -1,0 +1,11 @@
+PMID: 35920157
+Title: Sex Differences in the Impact of Aortic Valve Calcium Score on Mortality After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) is now an approved alternative to surgical aortic valve replacement for the treatment of severe aortic stenosis. As the clinical adoption of TAVR expands, it remains important to identify predictors of mortality after TAVR. We aimed to evaluate the impact of sex differences in aortic valve calcium score (AVCS) on long-term mortality following TAVR in a large patient sample.
+METHODS: We included consecutive patients who successfully underwent TAVR for treatment of severe native aortic valve stenosis from June 2010 to May 2021 across all US Mayo Clinic sites with follow-up through July 2021. AVCS values were obtained from preoperative computed tomography of the chest. Additional clinical data were abstracted from medical records. Kaplan-Meier curves and Cox-proportional hazard regression models were employed to evaluate the effect of AVCS on long-term mortality.
+RESULTS: A total of 2543 patients were evaluated in the final analysis. Forty-one percent were women, median age was 82 years (Q1: 76, Q3: 86), 18.4% received a permanent pacemaker following TAVR, and 88.5% received a balloon expandable valve. We demonstrate an increase in mortality risk with higher AVCS after multivariable adjustment (P&lt;0.001). When stratified by sex, every 500-unit increase in AVCS was associated with a 7% increase in mortality risk among women (adjusted hazard ratio, 1.07 [95% CI, 1.02-1.12]) but not in men.
+CONCLUSIONS: We demonstrate a notable sex difference in the association between AVCS and long-term mortality in a large TAVR patient sample. This study highlights the potential value of AVCS in preprocedural risk stratification, specifically among women undergoing TAVR. Additional studies are needed to validate this finding.
+
+Citation: Patel PP, et al. Sex Differences in the Impact of Aortic Valve Calcium Score on Mortality After Transcatheter Aortic Valve Replacement. Sex Differences in the Impact of Aortic Valve Calcium Score on Mortality After Transcatheter Aortic Valve Replacement. 2022; 15:e014034. doi: 10.1161/CIRCIMAGING.122.014034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35920157/

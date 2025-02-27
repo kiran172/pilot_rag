@@ -1,0 +1,11 @@
+PMID: 32463865
+Title: Silicone models of the aortic root to plan and simulate interventions.
+
+Abstract: OBJECTIVES: The objective of this work was to develop technology to create 'soft' patient-specific models of semilunar heart valves, the aortic valve in particular, suitable for training and simulation of surgical and endovascular interventions.
+METHODS: Data obtained during routine cardiac contrast-enhanced multislice computed tomography were used to create 3-dimensional models of the aortic root. Three-dimensional models were used to create soft silicone models of the aortic root made by casting silicone into a negative mould printed with stereolithography. A comparison between the constructed models and the size of the aortic root was performed. We quantified how much time was needed for production of each model.
+RESULTS: Four patient-specific soft models of the aortic root were produced. Data from patients of different ages and body surface areas were used as prototypes. All models had minimum size errors. During development of this technology, production time per model was reduced from 63 to 39 h.
+CONCLUSIONS: We have demonstrated the feasibility of making soft patient-specific 3-dimensional aortic root models using currently available technology. These models can be used both for training physicians in a variety of open surgical and endovascular interventions and for the study of complex aortic root geometry.
+
+Citation: Lezhnev AA, et al. Silicone models of the aortic root to plan and simulate interventions. Silicone models of the aortic root to plan and simulate interventions. 2020; 31:204-209. doi: 10.1093/icvts/ivaa068
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32463865/

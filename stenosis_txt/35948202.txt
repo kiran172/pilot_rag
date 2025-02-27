@@ -1,0 +1,12 @@
+PMID: 35948202
+Title: Outcomes in patients with electrocardiographic left ventricular dyssynchrony following transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Left bundle branch block (LBBB) and atrioventricular (AV) conduction abnormalities requiring permanent pacemaker (PPM) implantation occur frequently following transcatheter aortic valve replacement (TAVR). The resultant left ventricular (LV) dyssynchrony may be associated with adverse clinical events.
+OBJECTIVES: The purpose of this study was to assess the adverse outcomes associated with LV dyssynchrony due to high-burden right ventricular (RV) pacing or permanent LBBB following TAVR in patients with preserved left ventricular ejection fraction (LVEF).
+METHODS: Consecutive TAVR patients at the University of Michigan from January 2012 to June 2017 were included. Pre-existing cardiac implantable electronic device, previous LBBB, LVEF <50%, or follow-up period <1 year were excluded. The primary outcome was all-cause mortality. Secondary outcomes included cardiomyopathy (defined as LVEF ≤45%), a composite endpoint of cardiomyopathy or all-cause mortality, and the change in LVEF at 1-year follow-up.
+RESULTS: A total of 362 patients were analyzed (mean age 77 years). LV dyssynchrony group (n = 91 [25.1%]) included 56 permanent LBBB patients, 12 permanent LBBB patients with PPM, and 23 non-LBBB patients with PPM and high-burden RV pacing. Remaining patients served as control (n = 271 [74.9%]). After adjusted analysis, LV dyssynchrony had significantly higher all-cause mortality (adjusted hazard ratio [HR] 2.16; 95% confidence interval [CI] 1.07-4.37) and cardiomyopathy (adjusted HR 14.80; 95% CI 6.31-14.69). The LV dyssynchrony group had mean LVEF decline of 10.5% ± 10.2% compared to a small increase (0.5% ± 7.7%) in control.
+CONCLUSION: Among TAVR patients with preserved LVEF and normal AV conduction, development of postprocedural LV dyssynchrony secondary to high-burden RV pacing or permanent LBBB was associated with significantly higher risk of death and cardiomyopathy at 1-year follow-up.
+
+Citation: Ananwattanasuk T, et al. Outcomes in patients with electrocardiographic left ventricular dyssynchrony following transcatheter aortic valve replacement. Outcomes in patients with electrocardiographic left ventricular dyssynchrony following transcatheter aortic valve replacement. 2023; 20:22-28. doi: 10.1016/j.hrthm.2022.08.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35948202/

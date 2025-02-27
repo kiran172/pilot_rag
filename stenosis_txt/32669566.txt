@@ -1,0 +1,8 @@
+PMID: 32669566
+Title: Blood residence time to assess significance of coronary artery stenosis.
+
+Abstract: Coronary artery stenosis is a narrowing of coronary lumen space caused by an atherosclerotic lesion. Fractional flow reserve (FFR) is the gold standard metric to assess physiological significance of coronary stenosis, but requires an invasive procedure. Computational modeling in conjunction with patient-specific imaging demonstrates formation of regions of recirculatory flow distal to a stenosis, increasing mean blood residence time relative to uninhibited flow. A new computational parameter, mean blood residence time (Blood<sub>RT</sub>), was computed for 100 coronary artery segments for which FFR was known. A threshold for Blood<sub>RT</sub> was determined to assess the physiological significance of a stenosis, analogous to diagnostic threshold for FFR. Model sensitivity and specificity of Blood<sub>RT</sub> for diagnosis of hemodynamically significant coronary stenosis was 98% and 96% respectively, compared with FFR. When applied to clinical practice, this could potentially allow practicing cardiologists to accurately assess the severity of coronary stenosis without resorting to invasive techniques.
+
+Citation: Hashemi J, et al. Blood residence time to assess significance of coronary artery stenosis. Blood residence time to assess significance of coronary artery stenosis. 2020; 10:11658. doi: 10.1038/s41598-020-68292-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32669566/

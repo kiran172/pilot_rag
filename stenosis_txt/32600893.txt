@@ -1,0 +1,11 @@
+PMID: 32600893
+Title: Hyperglycemia, duration of diabetes, and intracranial atherosclerotic stenosis by magnetic resonance angiography: The ARIC-NCS study.
+
+Abstract: AIMS: The association of hyperglycemia and duration of diabetes with intracranial atherosclerotic stenosis (ICAS) in the general population is not well documented. We examined whether elevated glucose and longer diabetes duration is independently associated with ICAS in a community-based sample.
+METHODS: We cross-sectionally analyzed 1644 participants (age 67-90 years) of the Atherosclerosis Risk in Communities Study who underwent cerebrovascular magnetic resonance angiography in 2011-13. We applied multivariable ordinal logistic regression to evaluate the association of ICAS category ("no stenosis", "stenosis <50%", or "stenosis ≥50%") with glucose or diabetes duration (<10, 10 to 20, and ≥20 years). We also obtained the corresponding odds ratios applying inverse-probability weighting to account for potential selection bias due to attrition.
+RESULTS: Compared to non-diabetic participants in the lowest glucose quartile, the weighted odds ratios (95% confidence interval) of higher ICAS category were 1.88 (1.18, 3.00) and 2.01 (1.08, 3.72) for non-diabetic and diabetic participants in the corresponding highest glucose quartile, respectively. We observed significant positive trends of ICAS across diabetes duration categories in unweighted, but not in weighted, analyses.
+CONCLUSIONS: Hyperglycemia and longer duration of diabetes were independently associated with ICAS, suggesting the importance of maintaining glycemic control to prevent stroke.
+
+Citation: Fujiyoshi A, et al. Hyperglycemia, duration of diabetes, and intracranial atherosclerotic stenosis by magnetic resonance angiography: The ARIC-NCS study. Hyperglycemia, duration of diabetes, and intracranial atherosclerotic stenosis by magnetic resonance angiography: The ARIC-NCS study. 2020; 34:107605. doi: 10.1016/j.jdiacomp.2020.107605
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32600893/

@@ -1,0 +1,11 @@
+PMID: 38240913
+Title: Cephalic arch stenosis: an analysis of outcome by type of first intervention.
+
+Abstract: BACKGROUND: Cephalic arch stenoses (CAS) occur in near 70% of elbow arteriovenous fistulas. Percutaneous transluminal angioplasty (PTA) remains first-line treatment despite documented stent-grafts (SG) efficacy. The study aim is to report long-term outcomes based on initial treatment of CAS.
+METHODS: Retrospective review of 12-year data in single tertiary centre. Outcomes included technical success, rupture rate, primary patency (PP), dialysis performance; categorical variables assessed via χ2 or Fisher's; nonparametric tests used for skewed data. Kaplan-Meier analysis used for PP and cumulative patency. Cox proportional hazard regression model to assess explanatory variables in PP.
+RESULTS: One hundred one brachio- and radiocephalic fistulas with CAS were included. SG as first intervention had higher success than PTA (85% vs 61%, p = 0.003). Rupture occurred in 9/85 (10.6%) PTA vs 0% in SG (p = 0.046). In a subgroup with poor urea reduction rate (URR), both PTA and SG improved dialysis performance post-intervention (p = 0.002). SG demonstrated better PP than PTA (79,73,60% patency at 3, 6, 9 months; versus 71,51,47%; p = 0.195) and cumulative patency (73,61,61% at 1, 2, 3 years; versus 60,34,26%; p < 0.001). Of the variables analyzed, technical success of PTA was the only discriminating factor (coeff.-1.01; RR 35%, p = 0.035). Accesses that underwent secondary stenting performed better than primarily stented CAS (p = 0.01).
+CONCLUSIONS: SG superiority is confirmed in CAS, particularly when angioplasty is unsuccessful. While PTA has short-lived benefits, it can improve dialysis performance. Other than higher success rate, primary CAS stenting did not have advantages compared to post-PTA stenting in our study. Other factors related to inflow, outflow, conduit characteristics are presumed to be involved in access longevity.
+
+Citation: Pisano U, et al. Cephalic arch stenosis: an analysis of outcome by type of first intervention. Cephalic arch stenosis: an analysis of outcome by type of first intervention. 2024; 7:13. doi: 10.1186/s42155-023-00424-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38240913/

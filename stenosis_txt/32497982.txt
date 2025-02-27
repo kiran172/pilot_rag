@@ -1,0 +1,12 @@
+PMID: 32497982
+Title: Gait features for discriminating between mobility-limiting musculoskeletal disorders: Lumbar spinal stenosis and knee osteoarthritis.
+
+Abstract: BACKGROUND: Functional ambulation limitations are features of lumbar spinal stenosis (LSS) and knee osteoarthritis (OA). With numerous validated walking assessment protocols and a vast number of spatiotemporal gait parameters available from sensor-based assessment, there is a critical need for selection of appropriate test protocols and variables for research and clinical applications.
+RESEARCH QUESTION: In patients with knee OA and LSS, what are the best sensor-derived gait parameters and the most suitable clinical walking test to discriminate between these patient populations and controls?
+METHODS: We collected foot-mounted inertial measurement unit (IMU) data during three walking tests (fast-paced walk test-FPWT, 6-min walk test- 6MWT, self-paced walk test - SPWT) for subjects with LSS, knee OA and matched controls (N = 10 for each group). Spatiotemporal gait characteristics were extracted and pairwise compared (Omega partial squared - ω<sub>p</sub>2) between patients and controls.
+RESULTS: We found that normal paced walking tests (6MWT, SPWT) are better suited for distinguishing gait characteristics between patients and controls. Among the sensor-based gait parameters, stance and double support phase timing were identified as the best gait characteristics for the OA population discrimination, whereas foot flat ratio, gait speed, stride length and cadence were identified as the best gait characteristics for the LSS population discrimination.
+SIGNIFICANCE: These findings provide guidance on the selection of sensor-derived gait parameters and clinical walking tests to detect alterations in mobility for people with LSS and knee OA.
+
+Citation: Odonkor C, et al. Gait features for discriminating between mobility-limiting musculoskeletal disorders: Lumbar spinal stenosis and knee osteoarthritis. Gait features for discriminating between mobility-limiting musculoskeletal disorders: Lumbar spinal stenosis and knee osteoarthritis. 2020; 80:96-100. doi: 10.1016/j.gaitpost.2020.05.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32497982/

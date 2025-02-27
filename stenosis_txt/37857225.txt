@@ -1,0 +1,11 @@
+PMID: 37857225
+Title: Role of neutrophil extracellular traps in vascular access thrombosis in hemodialysis patients.
+
+Abstract: BACKGROUND: A patent vascular access (VA) is a lifeline for hemodialysis (HD) patients. However, vascular access is prone to thrombosis, which, if left untreated, can lead to permanent VA loss and increased mortality. Neutrophil extracellular traps (NETs) are known to be involved in intravascular thrombosis. We evaluated the relationship between NETs and VA thrombosis and their impact on VA prognosis.
+METHODS: A total of 189 patients with VA flow problems were enrolled. Among these, 93 patients underwent percutaneous transluminal angioplasty (PTA) for stenosis, and 96 patients underwent PTA with thrombectomy for thrombosis. Plasma nucleosome, myeloperoxidase-DNA complex, and von Willebrand factor (vWF) were measured as markers of circulating NETs and thrombosis risk, respectively. The primary outcome was permanent VA loss and the secondary outcome was recurrent thrombotic occlusion within 6 months. In addition, the presence of NETs in thrombi was evaluated by histopathological analysis.
+RESULTS: Circulating nucleosome levels were closely associated with plasma vWF levels (r = 0.172, p = 0.025), and both were higher in thrombectomy cases than in PTA alone cases (nucleosome; 0.83 ± 0.70 vs. 0.35 ± 0.26, p < 0.001, vWF: 9.0 ± 7.6 vs. 7.3 ± 6.2, p = 0.038). The highest quartile of nucleosomes (Q4) was associated with an 18-fold increased rate of access thrombotic occlusion (p < 0.001). In addition, multivariate analysis showed that the rates of permanent access loss (HR 2.77, 95 % CI 1.35-5.77) and recurrent thrombosis (HR 2.35, 95 % CI 1.22-4.54) were much higher in patients with the Q4 nucleosome group than in those with Q1-3. In addition, higher neutrophil infiltration and NET expression in thrombi were also associated with poor VA prognosis.
+CONCLUSIONS: Higher levels of circulating NETs and the amount of NET expression in thrombi may be associated with VA thrombosis and poor VA outcomes.
+
+Citation: Kim JH, et al. Role of neutrophil extracellular traps in vascular access thrombosis in hemodialysis patients. Role of neutrophil extracellular traps in vascular access thrombosis in hemodialysis patients. 2023; 231:121-127. doi: 10.1016/j.thromres.2023.10.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37857225/

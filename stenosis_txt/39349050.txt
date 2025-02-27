@@ -1,0 +1,12 @@
+PMID: 39349050
+Title: Dobutamine stress echocardiography after positive CCTA: diagnostic performance using fractional flow reserve and instantaneous wave-free ratio as reference standards.
+
+Abstract: AIMS: To assess the diagnostic accuracy of dobutamine stress echocardiography (DSE) in symptomatic patients with a low to intermediate pretest probability of obstructive coronary artery disease (CAD) and a positive coronary CT angiography (CCTA).
+METHODS: We prospectively enrolled 104 consecutive patients undergoing coronary angiography for symptoms of stable CAD and a CCTA indicative of obstructive CAD. The diagnostic performance of DSE was evaluated against two intracoronary pressure indices: (a) fractional flow reserve (FFR) with a cut-off of ≤0.80 and (b) instantaneous wave-free ratio (iFR) with a cut-off of ≤0.89, indicating haemodynamically significant stenoses.
+RESULTS: Of 102 patients, 46 (45%) had at least one significant lesion as defined by FFR, as did 37 (36%) as defined by iFR. DSE showed positive results in 33% (34/102) of cases. The discriminative power of DSE for detecting significant CAD was moderate, with areas under the curve of 0.63 (p=0.024) compared with FFR and 0.64 (p=0.025) compared with iFR. The accuracy, sensitivity and specificity of DSE were, respectively, 61%, 43%, and 75% against FFR, and 64%, 46% and 74% against iFR. The diagnostic accuracy of DSE did not differ significantly between FFR and iFR as a reference (p=0.549).
+CONCLUSION: In patients with positive CCTA, DSE has a moderate ability to identify haemodynamically significant CAD, with low sensitivity and moderate specificity. When assessed against FFR and iFR criteria, its additive diagnostic value is limited in patients with low to intermediate pretest probability of obstructive CAD.
+TRIAL REGISTRATION NUMBER: NCT03045601.
+
+Citation: Tjellaug Bråten A, et al. Dobutamine stress echocardiography after positive CCTA: diagnostic performance using fractional flow reserve and instantaneous wave-free ratio as reference standards. Dobutamine stress echocardiography after positive CCTA: diagnostic performance using fractional flow reserve and instantaneous wave-free ratio as reference standards. 2024; 11:(unknown pages). doi: 10.1136/openhrt-2024-002899
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39349050/

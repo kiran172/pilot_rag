@@ -1,0 +1,11 @@
+PMID: 36129106
+Title: End-diastolic velocity mediates the relationship between renal resistive index and the risk of death.
+
+Abstract: OBJECTIVE: Renal resistive index predicts the risk of death in many populations but the mechanism linking renal resistive index and death remains elusive. Renal resistive index is derived from end-diastolic velocity (EDV) and peak systolic velocity (PSV). However, the predictive value of EDV or PSV considered alone is unknown.
+METHODS: We conducted a retrospective analysis of 2362 consecutive patients who received a kidney transplant from 1985 to 2017. EDV and PSV were measured at 3 months after transplantation, renal resistive index was calculated, and the risk of death was assessed [median follow-up: 6.25 years (0.25-29.15); total observation period: 13 201 patient-years].
+RESULTS: Doppler indices were available in 1721 of 2362 (78.9%) patients (exclusions: 113 who died or returned to dialysis before, 427 with no Doppler studies, 27 with renal artery stenosis, 74 missing values). Among them, 279 (16.4%) had diabetes before transplantation. Mean age was 51.5 ± 14.7, 1097 (63.7%) were male. During follow-up, 217 of 1721 (12.6%) patients died. Renal resistive index and EDV shared many determinants (notably systolic, diastolic and pulse pressure, recipient age and diabetes) unlike renal resistive index and PSV. EDV used as a binary [lowest tertile vs. higher values: (hazard ratio: 2.57 (1.96-3.36), P  < 0.001)] and as a continuous (the lower EDV, the greater the risk of death) variable was significantly associated with the risk of death. This finding was confirmed in multivariable analyses. Prediction of similar magnitude was found for renal resistive index. No association was found between PSV used as a binary or a continuous variable and the risk of death.
+CONCLUSION: Low EDV explains high renal resistive index, and the mechanism-linking renal resistive index to the risk of death is through low EDV.
+
+Citation: Halimi JM, et al. End-diastolic velocity mediates the relationship between renal resistive index and the risk of death. End-diastolic velocity mediates the relationship between renal resistive index and the risk of death. 2023; 41:27-34. doi: 10.1097/HJH.0000000000003293
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36129106/

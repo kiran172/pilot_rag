@@ -1,0 +1,11 @@
+PMID: 34897184
+Title: Impact of Chronic Kidney Disease on the Prognosis of Transcatheter Aortic Valve Replacement in Patients with Aortic Stenosis: A Meta-Analysis of 133624 Patients.
+
+Abstract: PURPOSE: The impact of chronic kidney disease (CKD) on the prognosis of transcatheter aortic valve replacement (TAVR) remains unclear. The purpose of this meta-analysis was to assess the impact of CKD and different stages of CKD on prognosis in patients undergoing TAVR.
+METHODS: As of June 2020, we performed a comprehensive literature search on relevant studies using PubMed, Embase, Cochrane Library, and Web of Science. Subsequently, we pooled the risk ratio (RR) of individual studies via random effects to analyze heterogeneity, quality assessment, and publication bias.
+RESULTS: A total of 20 studies, involving 133624 patients, were eligible for analysis. Patients with CKD had higher all-cause mortality at 30 days (RR: 1.39, 95% confidence interval [CI]: 1.31-1.47, P <0.001), 1 year (RR: 1.36, 95% CI: 1.24-1.49, P <0.001), and 2 years (RR: 1.2, 95% CI: 1.05-1.38, P = 0.009) of follow-up. Moreover, they also had higher acute kidney injury (AKI) (RR: 1.38, 95% CI: 1.16-1.63, P <0.001) and bleeding (RR: 1.33, 95% CI: 1.18-1.50, P <0.001) at 30 days. CKD3 alone also increased all-cause mortality at follow-ups. Risk of all-cause mortality increased with severity of CKD for stages 3, 4, and 5 at follow-up.
+CONCLUSION: Patients with CKD are at an increased risk of all-cause mortality, AKI, and bleeding events after TAVR. Moreover, the mortality risk rises with increasing severity of CKD.
+
+Citation: Wang J, et al. Impact of Chronic Kidney Disease on the Prognosis of Transcatheter Aortic Valve Replacement in Patients with Aortic Stenosis: A Meta-Analysis of 133624 Patients. Impact of Chronic Kidney Disease on the Prognosis of Transcatheter Aortic Valve Replacement in Patients with Aortic Stenosis: A Meta-Analysis of 133624 Patients. 2022; 28:83-95. doi: 10.5761/atcs.ra.21-00187
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34897184/

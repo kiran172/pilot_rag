@@ -1,0 +1,13 @@
+PMID: 34606107
+Title: Comparison of Slide Tracheoplasty Technique on Postoperative Anatomic Outcomes in Three-Dimensional Printed Models.
+
+Abstract: OBJECTIVES/HYPOTHESIS: We hypothesized that the use of three-dimensional (3D) printed tracheal models to reproducibly simulate surgical technique variations in slide tracheoplasty would demonstrate the quantitative impact of surgical variables on postoperative tracheal dimensions.
+STUDY DESIGN: Prospective analysis of three-dimensional printed surgical simulation models.
+METHODS: Slide tracheoplasty was performed on 3D printed long segment tracheal stenosis models with combinations of tracheal transection incision angle (90°, 45° beveled superior to inferior, 45° beveled inferior to superior) and tracheal transection location relative to the stenosis (at midpoint, 2 mm each superior and inferior to midpoint). Postoperative computed tomography (CT) scans measured changes in tracheal length, volume, and cross-sectional area compared to controls. Statistical analysis was performed using one-way analysis of variance and unpaired two-tailed t-tests.
+RESULTS: Slide tracheoplasty yielded 27 reconstructed tracheas. On average, slide tracheoplasty reduced total tracheal length by 36%. Beveled tracheal incisions yielded 9.5% longer final tracheas than straight transection incisions (P &lt; .0001). Cross-sectional area at the stenosis midpoint increased from 9.0 mm2 to 45 mm2 but did not vary with technique (P &gt; .05). Total tracheal luminal volume increased from 900 mm3 to 1378 mm3 overall and was largest with beveled incisions (P = .03). More material was discarded with straight incisions compared to beveled (89 mg vs. 19 mg, P &lt; .0001).
+CONCLUSIONS: Beveled tracheal transection incisions resulted in increased tracheal length, longer anastomotic segments, increased volume, and reduced tissue waste as compared to straight incisions. Offsetting the incision from the midpoint of stenosis did not significantly affect reconstructed tracheal morphology. Using 3D printed models for surgical simulation can be helpful for the quantitative study of the effect isolated surgical variables on technical outcomes.
+LEVEL OF EVIDENCE: 3 Laryngoscope, 132:1306-1312, 2022.
+
+Citation: Richardson C, et al. Comparison of Slide Tracheoplasty Technique on Postoperative Anatomic Outcomes in Three-Dimensional Printed Models. Comparison of Slide Tracheoplasty Technique on Postoperative Anatomic Outcomes in Three-Dimensional Printed Models. 2022; 132:1306-1312. doi: 10.1002/lary.29874
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34606107/

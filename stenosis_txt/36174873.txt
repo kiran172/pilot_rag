@@ -1,0 +1,11 @@
+PMID: 36174873
+Title: Automated detection of intracranial artery stenosis and occlusion in magnetic resonance angiography: A preliminary study based on deep learning.
+
+Abstract: BACKGROUND AND OBJECTIVES: Intracranial atherosclerotic stenosis of a major intracranial artery is the common cause of ischemic stroke. We evaluate the feasibility of using deep learning to automatically detect intracranial arterial steno-occlusive lesions from time-of-flight magnetic resonance angiography.
+METHODS: In a retrospective study, magnetic resonance images with radiological reports of intracranial arterial stenosis and occlusion were extracted. The images were randomly divided into a training set and a test set. The manual annotation of lesions with a bounding box labeled "moderate stenosis," "severe stenosis," "occlusion," and "absence of signal" was considered as ground truth. A deep learning algorithm based on you only look once version 5 (YOLOv5) detection model was developed with the training set, and its sensitivity and positive predictive values to detect lesions were evaluated in the test set.
+RESULTS: A dataset of 200 examinations consisted of a total of 411 lesions-242 moderate stenoses, 84 severe stenoses, 70 occlusions, and 15 absence of signal. The magnetic resonance images contained 291 lesions in the training set and 120 lesions in the test set. The sensitivity and positive predictive values were 64.2 and 83.7%, respectively. The detection sensitivity in relation to the location was greatest in the internal carotid artery (86.2%).
+CONCLUSIONS: Applying deep learning algorithms in the automated detection of intracranial arterial steno-occlusive lesions from time-of-flight magnetic resonance angiography is feasible and has great potential.
+
+Citation: Qiu J, et al. Automated detection of intracranial artery stenosis and occlusion in magnetic resonance angiography: A preliminary study based on deep learning. Automated detection of intracranial artery stenosis and occlusion in magnetic resonance angiography: A preliminary study based on deep learning. 2022; 94:105-111. doi: 10.1016/j.mri.2022.09.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36174873/

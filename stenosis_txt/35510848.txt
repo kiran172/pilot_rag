@@ -1,0 +1,12 @@
+PMID: 35510848
+Title: Associative Prediction of Carotid Artery Plaques Based on Ultrasound Strain Imaging and Cardiovascular Risk Factors in People Living With HIV and Age-Matched Control Subjects of the CHACS Cohort.
+
+Abstract: BACKGROUND: There is a need for a specific atherosclerotic risk assessment for people living with HIV (PLWH).
+SETTING: A machine learning classification model was applied to PLWH and control subjects with low-to-intermediate cardiovascular risks to identify associative predictors of diagnosed carotid artery plaques. Associations with plaques were made using strain elastography in normal sections of the common carotid artery and traditional cardiovascular risk factors.
+METHODS: One hundred two PLWH and 84 control subjects were recruited from the prospective Canadian HIV and Aging Cohort Study (57 ± 8 years; 159 men). Plaque presence was based on clinical ultrasound scans of left and right common carotid arteries and internal carotid arteries. A classification task for identifying subjects with plaque was defined using random forest (RF) and logistic regression models. Areas under the receiver operating characteristic curves (AUC-ROCs) were applied to select 5 among 50 combinations of 4 or less features yielding the highest AUC-ROCs.
+RESULTS: To retrospectively classify individuals with and without plaques, the 5 most discriminant combinations of features had AUC-ROCs between 0.76 and 0.79. AUC-ROCs from RF were statistically significantly higher than those obtained with logistic regressions ( P = 0.0001). The most discriminant features of RF classifications in PLWH were age, smoking status, maximum axial strain and pulse pressure (equal weights), and sex and antiretroviral therapy exposure (equal weights). When considering the whole population, the HIV status was identified as a cofactor associated with carotid artery plaques.
+CONCLUSIONS: Strain elastography adds to traditional cardiovascular risk factors for identifying individuals with carotid artery plaques.
+
+Citation: Roy Cardinal MH, et al. Associative Prediction of Carotid Artery Plaques Based on Ultrasound Strain Imaging and Cardiovascular Risk Factors in People Living With HIV and Age-Matched Control Subjects of the CHACS Cohort. Associative Prediction of Carotid Artery Plaques Based on Ultrasound Strain Imaging and Cardiovascular Risk Factors in People Living With HIV and Age-Matched Control Subjects of the CHACS Cohort. 2022; 91:91-100. doi: 10.1097/QAI.0000000000003016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35510848/

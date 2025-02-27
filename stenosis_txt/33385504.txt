@@ -1,0 +1,11 @@
+PMID: 33385504
+Title: Network meta-analysis of trials comparing first line endovascular treatments for arteriovenous fistula stenosis.
+
+Abstract: OBJECTIVE: We investigated the comparative effectiveness of different endovascular treatments for patients with failing autogenous arteriovenous fistulas (AVFs) with outflow vein stenosis.
+METHODS: The Medline (via PubMed) and SCOPUS databases were searched. We performed a systematic review and network meta-analysis of randomized controlled trials that had investigated the effectiveness of plain balloon angioplasty (PBA), cutting balloon angioplasty, and drug-coated balloon angioplasty (DCBA) to treat vein stenoses in autogenous AVFs. Studies of central vein stenosis were excluded. The main outcome measures were the failure rates at 6 months and 1 year after treatment.
+RESULTS: Eleven randomized controlled trials were included, with 814 patients, 395 of whom had undergone PBA. The network meta-analysis showed that DCBA at 6 months was significantly more effective than PBA (odds ratio, 0.39; 95% confidence interval, 0.18-0.81) and ranked as the best treatment option, although the difference was not statistically significant compared with cutting balloon angioplasty (odds ratio, 0.65; 95% confidence interval, 0.20-2.12). The differences among the three treatments at 1 year were not statistically significant. Additional conventional pairwise meta-analyses did not find significant differences at 1 year.
+CONCLUSIONS: In failing AVFs with outflow stenosis, DCBA was significantly superior to PBA, with improved 6-month failure rates. However the effectiveness of DCBA in the long term deserves further investigation.
+
+Citation: Tripsianis G, et al. Network meta-analysis of trials comparing first line endovascular treatments for arteriovenous fistula stenosis. Network meta-analysis of trials comparing first line endovascular treatments for arteriovenous fistula stenosis. 2021; 73:2198-2203.e3. doi: 10.1016/j.jvs.2020.12.080
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33385504/

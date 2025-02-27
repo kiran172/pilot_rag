@@ -1,0 +1,11 @@
+PMID: 39370269
+Title: Association of Subclavian Steal Phenomenon with Prevalence of Contralateral Vertebral Artery Atherosclerotic Stenosis: A Hospital-Based Cohort Study.
+
+Abstract: AIMS: It is uncertain if there is a connection between subclavian steal phenomenon (SSP) and atherosclerotic stenosis in the opposite vertebral artery (VA). We aimed to explore the association between SSP and the incidence of contralateral vertebral artery stenosis (VAS) in vivo.
+METHODS: In this prospective registry study, we included patients diagnosed with ＞50% stenosis of proximal subclavian artery (SA) or innominate artery (INA) by digital subtraction angiography (DSA) from our comprehensive stroke center between 2011 and 2022. VAS and SSP was diagnosed by DSA in the resting state. Propensity score matching (PSM) was conducted among all participants and subgroups with a 1:1 ratio according to the presence of SSP. We further conducted sensitivity analysis by dividing all participants into subgroups according to the degree of stenosis and type of SSP. Binomial logistic regression analysis was applied to investigate the association of SSP with contralateral VAS.
+RESULTS: A total of 774 patients were included in this study and 309 (39.9%) were found with SSP. After PSM, presence of SSP was associated with lower prevalence of contralateral VAS among all participants (OR 0.45; 95% CI 0.31-0.65; p＜0.001). In subgroup analysis, the association was respectively found within left subclavian (LSA) stenosis group (OR 0.43; 95% CI 0.29-0.65; P＜0.001) and right subclavian artery (RSA) / INA stenosis group (OR 0.36; 95% CI 0.19-0.69; P=0.002).
+CONCLUSIONS: SSP is associated with lower prevalence of contralateral VAS.
+
+Citation: Zhang Z, et al. Association of Subclavian Steal Phenomenon with Prevalence of Contralateral Vertebral Artery Atherosclerotic Stenosis: A Hospital-Based Cohort Study. Association of Subclavian Steal Phenomenon with Prevalence of Contralateral Vertebral Artery Atherosclerotic Stenosis: A Hospital-Based Cohort Study. 2024; (unknown volume):(unknown pages). doi: 10.5551/jat.65036
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39370269/

@@ -1,0 +1,11 @@
+PMID: 36445675
+Title: Quantitative flow ratio to predict long-term coronary artery bypass graft patency in patients with left main coronary artery disease.
+
+Abstract: PURPOSE: Fractional flow reserve (FFR) has been demonstrated in some studies to predict long-term coronary artery bypass graft (CABG) patency. Quantitative flow ratio (QFR) is an emerging technology which may predict FFR. In this study, we hypothesised that QFR would predict long-term CABG patency and that QFR would offer superior diagnostic performance to quantitative coronary angiography (QCA) and intravascular ultrasound (IVUS).
+METHODS: A prospective study was performed on patients with left main coronary artery disease who were undergoing CABG. QFR, QCA and IVUS assessment was performed. Follow-up computed tomography coronary angiography and invasive coronary angiography was undertaken to assess graft patency.
+RESULTS: A total of 22 patients, comprising of 65 vessels were included in the analysis. At a median follow-up of 3.6 years post CABG (interquartile range, 2.3 to 4.8 years), 12 grafts (18.4%) were occluded. QFR was not statistically significantly higher in occluded grafts (0.81 ± 0.19 vs. 0.69 ± 0.21; P = 0.08). QFR demonstrated a discriminatory power to predict graft occlusion (area under the receiver operating characteristic curve, 0.70; 95% confidence interval [CI], 0.52 to 0.88; P = 0.03). At long-term follow-up, the risk of graft occlusion was higher in vessels with a QFR > 0.80 (58.6% vs. 17.0%; hazard ratio, 3.89; 95% CI, 1.05 to 14.42; P = 0.03 by log-rank test). QCA (minimum lumen diameter, lesion length, diameter stenosis) and IVUS (minimum lumen area, minimum lumen diameter, diameter stenosis) parameters were not predictive of long-term graft patency.
+CONCLUSIONS: QFR may predict long-term graft patency in patients undergoing CABG.
+
+Citation: Dowling C, et al. Quantitative flow ratio to predict long-term coronary artery bypass graft patency in patients with left main coronary artery disease. Quantitative flow ratio to predict long-term coronary artery bypass graft patency in patients with left main coronary artery disease. 2022; 38:2811-2818. doi: 10.1007/s10554-022-02699-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36445675/

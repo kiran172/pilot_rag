@@ -1,0 +1,8 @@
+PMID: 36452351
+Title: Case Report: Novel LIM domain-binding protein 3 (LDB3) mutations associated with hypertrophic cardiomyopathy family.
+
+Abstract: Hypertrophic cardiomyopathy (HCM) is an autosomal dominant cardiomyopathy, which is one of the most common reasons for cardiac arrest in children or adolescents. It is characterized by ventricular hypertrophy (usually left ventricle), small ventricular cavity, and reduced ventricular diastolic compliance found by echocardiography in the absence of abnormal load (such as hypertension or aortic stenosis). HCM is usually caused by mutations in genes encoding sarcomere or sarcomere-related genes. Whole exome sequencing (WES) is performed to identify probable causative genes. Through WES, we identified LIM domain-binding protein 3 (LDB3) mutations (R547Q and P323S) respectively in an 11-year-old HCM girl and a 6-year-old HCM boy. Neural network analyses showed that the LDB3 (R547Q and P323S) mutation decreased its protein stability, with confidence scores of -0.9211 and -0.8967. The STRUM server also confirmed that the mutation decreased its protein stability. Thus, LDB3 mutation may be associated with heritable HCM. To our knowledge, this is the first time to report LDB3 heterozygous variants (R547Q and P323S) responsible for heritable HCM.
+
+Citation: Zheng J, et al. Case Report: Novel LIM domain-binding protein 3 (LDB3) mutations associated with hypertrophic cardiomyopathy family. Case Report: Novel LIM domain-binding protein 3 (LDB3) mutations associated with hypertrophic cardiomyopathy family. 2022; 10:947963. doi: 10.3389/fped.2022.947963
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36452351/

@@ -1,0 +1,11 @@
+PMID: 37437882
+Title: Self-expanding TAVI using the cusp overlap technique versus the traditional technique: electrocardiogram changes and 1-year cardiovascular outcomes.
+
+Abstract: INTRODUCTION AND OBJECTIVES: Transcatheter aortic valve implantation (TAVI) using the cusp overlap technique (COT) has shown a lower pacemaker implantation rate at 30 days. The objective of this study was to compare electrocardiogram changes and clinical outcomes between COT and the traditional technique (TT) at 1 year of follow-up.
+METHODS: Observational, retrospective, nonrandomized study of consecutive patients undergoing TAVI between January 2015 and January 2021. Patients were matched using a propensity score and the TT was compared with COT. The primary endpoints were electrocardiogram changes and a combined endpoint including pacemaker implantation, hospitalization, or cardiovascular death at 1 year.
+RESULTS: We included 254 patients. After propensity score matching, 184 patients (92 per group) remained. There were no statistically significant differences in baseline characteristics. At 1 year, COT patients showed a significant reduction in new onset left bundle branch block (49% vs 27%, P=.002) and less P wave (13.1±21.0 msec vs 5.47±12.5 msec; P=.003) and QRS prolongation (29.77±27.0 msec vs 16.38±25.4 msec, P <.001). COT was associated with a significant reduction in the occurrence of the primary endpoint (SHR, 0.39 [IC95%, 0.21-0.76]; P=.005).
+CONCLUSIONS: At 1 year of follow-up, COT reduced the incidence of new onset left bundle branch block and diminished QRS and P wave widening compared with the TT. COT was also associated with a statistically significant reduction in the occurrence of the combined primary cardiovascular endpoint.
+
+Citation: Persia-Paulino YR, et al. Self-expanding TAVI using the cusp overlap technique versus the traditional technique: electrocardiogram changes and 1-year cardiovascular outcomes. Self-expanding TAVI using the cusp overlap technique versus the traditional technique: electrocardiogram changes and 1-year cardiovascular outcomes. 2024; 77:29-38. doi: 10.1016/j.rec.2023.04.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37437882/

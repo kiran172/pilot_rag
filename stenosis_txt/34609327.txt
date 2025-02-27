@@ -1,0 +1,11 @@
+PMID: 34609327
+Title: The Impact of Percutaneous Coronary Intervention on Mortality in Patients With Coronary Lesions Who Underwent Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVES: To analyze the effect of percutaneous coronary intervention (PCI) before transcatheter aortic valve replacement (TAVR) on all-cause and cardiovascular mortality after TAVR, differentiating between significant proximal lesions and the non-proximal (residual) lesions.
+METHODS: An institutional TAVR database was complemented with data on the extent of coronary artery disease (CAD), lesion location, lesion severity, and the location of PCI. Survival analysis was performed to investigate the impact on 6-month and 3-year mortality after TAVR in all patients and in subgroups of patients with significant proximal lesions (>70% diameter stenosis [DS], >50% DS in left main), the non-proximal residual lesions, and in a propensity score matched cohort.
+RESULTS: Among the 577 included patients, mean age was 83 years, 50% were female, and 31% had diabetes mellitus. Preprocedural PCI of unselected lesions was independently associated with increased 6-month mortality (hazard ratio, 2.2; 95% confidence interval, 1.0-4.6; P=.04), but selective PCI of significant proximal lesions did not have an association with higher mortality, nor did we find a significant effect of PCI on mortality in the propensity-matched cohort.
+CONCLUSION: Routine pre-TAVR PCI is not associated with mortality reduction in TAVR patients with coronary lesions in any segment or in patients with proximal coronary lesions. Despite the lack of a beneficial effect of routine pre-TAVR PCI, we cannot exclude a beneficial effect in a selection of patients with proximal lesions. Therefore, we strongly support the current clinical guidelines to only consider pre-TAVR PCI in proximal coronary lesions, while advocating a restrictive pre-TAVR PCI strategy.
+
+Citation: van den Boogert TPW, et al. The Impact of Percutaneous Coronary Intervention on Mortality in Patients With Coronary Lesions Who Underwent Transcatheter Aortic Valve Replacement. The Impact of Percutaneous Coronary Intervention on Mortality in Patients With Coronary Lesions Who Underwent Transcatheter Aortic Valve Replacement. 2021; 33:E823-E832. doi: 10.25270/jic/20.00606
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34609327/

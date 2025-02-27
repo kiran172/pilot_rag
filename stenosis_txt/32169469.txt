@@ -1,0 +1,11 @@
+PMID: 32169469
+Title: Risk factors for calcification of the vertebrobasilar arteries in cardiovascular patients referred for a head CT, the SMART study.
+
+Abstract: BACKGROUND AND PURPOSE: Vertebrobasilar artery calcification (VBAC) has been associated with increased stroke occurrence. Little is known on VBAC risk factors, especially for patients with cardiovascular disease. We aimed to assess risk factors associated with VBAC in a cohort of cardiovascular patients referred for a head computed tomography (CT) scan.
+MATERIALS AND METHODS: All patients who underwent a clinically indicated, unenhanced, thin slice head CT 6 months before or after inclusion in the SMART study were included. CTs were assessed for presence of VBAC (dichotomously). Relative risks of the associations of age, sex, diabetes mellitus (DM), obesity, body mass index, estimated glomerular filtration rate, hypertension, hyperlipidemia, use of lipid lowering medication, smoking status, high sensitivity C-reactive protein, ankle-brachial index (ABI; ≤0.90, ≥1.30, continuous), internal carotid artery stenosis ≥70%, and carotid intima-media thickness (IMT) with VBAC were estimated using Poisson regression analysis with robust standard errors, adjusted for age and sex.
+RESULTS: Of the 471 patients included (57% male, median age 58 [interquartile range 47-63]), 117 (24.8%) showed VBAC. Presence of VBAC was associated with older age (RR per 10 years=1.70 [95%CI 1.46-1.99]), DM (RR=1.45 [95%CI 1.03-2.06]), obesity (RR=1.53 [95%CI 1.10-2.12]), ABI ≤0.90 (RR=1.57 [95%CI 1.02-2.41]), and an increased carotid IMT (RR=2.60 per mm [95%CI 1.20-5.62]). Other measurements were not associated with VBAC.
+CONCLUSIONS: We identified several markers associated with VBAC in patients with cardiovascular disease referred for a head CT. Future investigation into the relationship between VBAC and stroke is warranted to determine the potential of VBAC in stroke prevention.
+
+Citation: van den Beukel TC, et al. Risk factors for calcification of the vertebrobasilar arteries in cardiovascular patients referred for a head CT, the SMART study. Risk factors for calcification of the vertebrobasilar arteries in cardiovascular patients referred for a head CT, the SMART study. 2021; 48:248-253. doi: 10.1016/j.neurad.2020.02.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32169469/

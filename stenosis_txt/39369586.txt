@@ -1,0 +1,11 @@
+PMID: 39369586
+Title: The impact of different degrees of stenosis on platelet deposition in the left anterior descending branch of the coronary artery.
+
+Abstract: BACKGROUND AND OBJECTIVE: This study aimed to investigate the impact of different stenotic degrees on platelet deposition in the left anterior descending branch of the coronary artery.
+METHODS: The idealized model of coronary artery stenosis of 30 %, 40 %, 50 %, 60 %, 70 % and four patient-specific models of 22.17 %, 34.88 %, 51.23 % and 62.96 % were established. A discrete phase model was used to calculate the deposition of platelet particles in blood.
+RESULTS: (1) As the stenotic degree increased from 30 % to 70 %, the maximum deposition rates were 4.23e-2 kg/(m2 ·s), 3.47e-2 kg/(m2 ·s), 0.14 kg/(m2 ·s), 0.15 kg/(m2 ·s), and 0.38 kg/(m2 ·s), respectively. (2) The greater the stenotic degree, the more points of platelet deposition. (3) Platelets were mainly deposited at the proximal segment of mild stenosis. When the stenotic degree exceeded 50 %, the deposition position moved to the distal segment of the stenosis. (4) The results in the real coronary artery models were similar to those in the idealized model.
+CONCLUSION: The study suggests that the location and number of platelet deposition are related to the degree of stenosis. Moderate to severe stenosis is more likely to spread downstream.
+
+Citation: Zhao Y, et al. The impact of different degrees of stenosis on platelet deposition in the left anterior descending branch of the coronary artery. The impact of different degrees of stenosis on platelet deposition in the left anterior descending branch of the coronary artery. 2024; 257:108445. doi: 10.1016/j.cmpb.2024.108445
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39369586/

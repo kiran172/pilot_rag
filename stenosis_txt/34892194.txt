@@ -1,0 +1,8 @@
+PMID: 34892194
+Title: Global Sensitivity Analysis For Clinically Validated 1D Models of Fractional Flow Reserve.
+
+Abstract: Computation of Fractional Flow Reserve (FFR) through computational fluid dynamics (CFD) is used to guide intervention and often uses a number of clinically-derived metrics, but these patient-specific data could be costly and difficult to obtain. Understanding which parameters can be approximated from population averages and which parameters need to be patient-specific is important and remains largely unexplored. In this study, we performed a global sensitivity study on two 1D models of FFR to identify the most influential patient parameters. Our results indicated that vessel compliance, cardiac cycle period, flow rate, density, viscosity, and elastic modulus contributed minimally to the variance in FFR and may be approximated from population averages. On the other hand, outlet resistance (i.e., microvascular resistance), stenosis degree, and percent stenosis length contributed the most to FFR computation and needed to be tuned to the patient of interest. Selective measuring of patient-specific parameters may significantly reduce costs and streamline the simulation pipeline without reducing accuracy.
+
+Citation: Tanade C, et al. Global Sensitivity Analysis For Clinically Validated 1D Models of Fractional Flow Reserve. Global Sensitivity Analysis For Clinically Validated 1D Models of Fractional Flow Reserve. 2021; 2021:4395-4398. doi: 10.1109/EMBC46164.2021.9629890
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34892194/

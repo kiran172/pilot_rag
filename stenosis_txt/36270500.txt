@@ -1,0 +1,11 @@
+PMID: 36270500
+Title: Hypoperfusion intensity ratio and CBV index as predictive parameters to identify underlying intracranial atherosclerotic stenosis in endovascular thrombectomy.
+
+Abstract: BACKGROUND AND PURPOSE: Intracranial atherosclerotic stenosis (ICAS)-related large vessel occlusion (LVO) is difficult to diagnose before endovascular thrombectomy (EVT) in an emergency. We hypothesized that hypoperfusion intensity ratio (HIR) and cerebral blood volume (CBV) index reflect collateral flow and would be useful parameters to predict underlying ICAS.
+MATERIALS AND METHODS: Clinical and perfusion imaging parameters of patients receiving EVT for LVO were reviewed retrospectively. Patients were divided into ICAS and embolism groups with angiographical findings. The association between prespecified parameters and underlying ICAS were assessed using multivariable logistic regression analyses. Discriminative ability was assessed using receiver operating characteristic analysis.
+RESULTS: Among 238 consecutive patients, 47 satisfied the inclusion criteria, including 10 with ICAS-related LVO. In ROC analyses, HIR showed good discrimination with a cutoff value of 0.22 (area under the curve, 0.85; 95%CI, 0.75-0.96; sensitivity, 0.84; specificity, 0.80) for underlying ICAS. CBV index showed excellent discrimination with a cutoff value of 0.90 (area under the curve, 0.92; 95%CI, 0.81-0.98; sensitivity, 0.92; specificity, 0.79). Multivariable logistic regression analysis revealed that HIR ≤ 0.22 (OR, 22.5; 95%CI, 2.9-177.0; P = 0.003) and CBV index ≥ 0.9 (OR, 75.7; 95%CI, 5.8-994.0; P < 0.001) were significantly associated with underlying ICAS.
+CONCLUSION: HIR ≤ 0.22 and CBV index ≥ 0.9 were associated with underlying ICAS and may predict underlying ICAS before EVT.
+
+Citation: Imaoka Y, et al. Hypoperfusion intensity ratio and CBV index as predictive parameters to identify underlying intracranial atherosclerotic stenosis in endovascular thrombectomy. Hypoperfusion intensity ratio and CBV index as predictive parameters to identify underlying intracranial atherosclerotic stenosis in endovascular thrombectomy. 2023; 50:424-430. doi: 10.1016/j.neurad.2022.10.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36270500/

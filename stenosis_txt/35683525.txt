@@ -1,0 +1,12 @@
+PMID: 35683525
+Title: Local Anesthesia versus Conscious Sedation among Patients Undergoing Transcatheter Aortic Valve Implantation-A Propensity Score Analysis.
+
+Abstract: BACKGROUND: Conscious sedation (CS) has been used successfully to treat patients with severe aortic stenosis (AS) undergoing transcatheter aortic valve implantation (TAVI) and as such is considered the standard anesthesia method. The local anesthesia (LA) only approach may be feasible and safe thanks to improvements in operators' experience.
+OBJECTIVE: To evaluate differences between LA only versus CS approaches on short- and long-term outcomes among patients undergoing TAVI.
+METHODS: We performed a propensity score analysis on 1096 patients undergoing TAVI for severe AS. Two hundred and seventy-four patients in the LA group were matched in a ratio of 1:3 with 822 patients in the CS group. The primary outcome was a 1-year mortality rate. Secondary outcomes included procedural and peri-procedural complication rates and in-hospital mortality.
+RESULTS: Patients in the CS group had significantly higher rates of grade 2-3 acute kidney injury and were more likely to have had new left bundle branch block and high-degree atrioventricular block. Patients who underwent TAVI under CS had significantly higher in-hospital and 1-year mortality rates compared to LA (1.6% vs. 0.0% p-value = 0.036 and 8.5% vs. 3.3% p-value = 0.004, respectively). Kaplan-Meier's survival analysis showed that the cumulative probability of 1-year mortality was significantly higher among subjects undergoing CS compared to patients LA (p-value log-rank = 0.024). Regression analysis indicated that patients undergoing CS were twice more likely to die of at 1-year when compared to patients under LA (HR 2.18, 95%CI 1.09-4.36, p-value = 0.028).
+CONCLUSIONS: As compared to CS, the LA-only approach is associated with lower rates of peri-procedural complications and 1-year mortality rates.
+
+Citation: Berkovitch A, et al. Local Anesthesia versus Conscious Sedation among Patients Undergoing Transcatheter Aortic Valve Implantation-A Propensity Score Analysis. Local Anesthesia versus Conscious Sedation among Patients Undergoing Transcatheter Aortic Valve Implantation-A Propensity Score Analysis. 2022; 11:(unknown pages). doi: 10.3390/jcm11113134
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35683525/

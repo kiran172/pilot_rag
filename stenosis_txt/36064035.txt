@@ -1,0 +1,11 @@
+PMID: 36064035
+Title: MicroRNA-29b regulates pyroptosis involving calcific aortic valve disease through the STAT3/SOCS1 pathway.
+
+Abstract: BACKGROUND: CAVD (calcific aortic valve disease) involves an inflammatory response similar to pyroptosis; therefore, we speculated that the progression of pyroptosis might be involved in the pathogenesis of CAVD.
+METHODS: We first investigated the expression of pyroptosis related genes in human CAVD, non-CAVD control and AS (calcific aortic stenosis) tissues. We further confirmed these genes by using CAVD cell and mouse models. Finally, we explored the functional molecular mechanism in the cell model.
+RESULTS: Our recent studies found that miR-29b plays an important role in CAVD, and we wanted to further address whether miR-29b is a key factor in the progression of pyroptosis related to CAVD. In this study, we found NLRP3 was highly expressed in CAVD patients and models. In contrast, SOCS1, a suppressor of NLRP3, showed reduced expression in CAVD. Furthermore, we found that ASC, Caspase-1, IL-1β, Cleaved IL-18 and p-JAK2 were all upregulated in the tissues of CAVD patients, suggesting the likelihood of activation of the inflammasome. Then, we found that miR-29b participated in the NLRP3-regulated CAVD pathway through its target gene STAT3 (signal transducer and activator of transcription 3). Finally, we found that a miR-29b inhibitor could mitigate the increases in osteogenic differentiation and pyroptosis and that SOCS1 showed negative regulation of osteogenic differentiation and pyroptosis in CAVD.
+CONCLUSION: These findings suggested NLRP3 inflammasome-related genes are highly expressed in CAVD, and miR-29b reverses osteoblastic differentiation of aortic valve interstitial cells by regulating pyroptosis and inhibiting inflammation via the STAT3/SOCS1 pathway.
+
+Citation: Fang M, et al. MicroRNA-29b regulates pyroptosis involving calcific aortic valve disease through the STAT3/SOCS1 pathway. MicroRNA-29b regulates pyroptosis involving calcific aortic valve disease through the STAT3/SOCS1 pathway. 2023; 371:319-328. doi: 10.1016/j.ijcard.2022.08.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36064035/

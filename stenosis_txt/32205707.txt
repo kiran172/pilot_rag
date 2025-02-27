@@ -1,0 +1,14 @@
+PMID: 32205707
+Title: Psychometric Validation of the Danish Version of the Oswestry Disability Index in Patients With Chronic Low Back Pain.
+
+Abstract: STUDY DESIGN: Registry-based repeated-measures psychometric validation of the Danish Oswestry Disability Index (ODI).
+OBJECTIVE: The goal was to use classical and modern psychometric validation methods to assess the measurement properties and the minimally clinical important difference (MCID) of the ODI in a Danish cohort of patients with chronic low back pain being treated with spinal surgery.
+SUMMARY OF BACKGROUND DATA: Scores for the ODI, EQ-5D, SF-36, leg pain, back pain, and a general rating of pain item from 800 patients with chronic low back pain were extracted from the National Danish Spine Registry (DaneSpine) at baseline and 1-year postspine surgery.
+METHODS: Confirmatory factor analysis and item response theory (IRT) models were used to assess the psychometric properties of the ODI. MCID was also calculated based on generic legacy PROMs (EQ-5D and SF-36) and follow-up pain scores.
+RESULTS: While ODI did not fit a Rasch model, adequate fit to a confirmatory factor analysis and a two-parameter item response theory model was found when accounting for differential item functioning across diagnostic subgroups (degenerative spondylolisthesis, spondylosis, spinal stenosis, and herniated intervertebral disc). In addition, each group exhibited substantially different MCID values.
+CONCLUSION: The Danish version of the ODI is valid and responsive, but only within each of the four major diagnosis subgroups: degenerative spondylolisthesis, spondylosis, spinal stenosis, and herniated intervertebral disc.
+LEVEL OF EVIDENCE: 4.
+
+Citation: Comins J, et al. Psychometric Validation of the Danish Version of the Oswestry Disability Index in Patients With Chronic Low Back Pain. Psychometric Validation of the Danish Version of the Oswestry Disability Index in Patients With Chronic Low Back Pain. 2020; 45:1143-1150. doi: 10.1097/BRS.0000000000003486
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32205707/

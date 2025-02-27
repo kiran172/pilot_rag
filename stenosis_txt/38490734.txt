@@ -1,0 +1,11 @@
+PMID: 38490734
+Title: Relationship between in-stent restenosis following carotid artery stenting and platelet reactivity to clopidogrel.
+
+Abstract: OBJECTIVE: To analyze the relationship between in-stent restenosis (ISR) following carotid artery stenting (CAS) and platelet clopidogrel reactivity confirmed by the P2Y12 reaction unit (PRU) and inhibition rate (IR).
+METHODS: We retrospectively analyzed 171 patients who underwent CAS with extracranial carotid stenosis from January 2016 to December 2019. Dual antiplatelet therapy with 100 mg aspirin and 75 mg clopidogrel was started ≥5 days before CAS. Clopidogrel resistance was measured with the PRU and IR the day before CAS. The ISR degree was classified into R1, R2, and R3 (moderate to severe luminal stenosis of ≥50% or occlusion) by carotid CT angiography after 24-30 months. The degree of quantitative association between platelet reactivity and ISR R3 was determined by the receiver operating characteristic curve method. The optimal cut-off values of PRU and IR were derived using the maximum Youden index.
+RESULTS: There were 33 R3 degrees of ISR (19.3%) and nine ipsilateral ischemic strokes (5.3%). The PRU and IR were different between R1+R2 degrees (176.4±50.1, 27.5±18.7%) and R3 degree (247.5±55.0, 10.3±13.4%) (P<0.001). The areas under the curves of PRU and IR were 0.841 and 0.781, and the optimal cut-off values were 220.0 and 14.5%, respectively. Multivariate logistic regression analysis showed that PRU ≥220 and IR ≤14.5% were significant predictive factors for ISR R3 (P<0.001 and P=0.017, respectively). ISR R3 was independently associated with ipsilateral ischemic stroke after CAS (P=0.012).
+CONCLUSIONS: High PRU (≥220) and low IR (≤14.5%) are related to ISR R3 following CAS, which may cause ipsilateral ischemic stroke.
+
+Citation: Kwon MY, et al. Relationship between in-stent restenosis following carotid artery stenting and platelet reactivity to clopidogrel. Relationship between in-stent restenosis following carotid artery stenting and platelet reactivity to clopidogrel. 2024; (unknown volume):(unknown pages). doi: 10.1136/jnis-2024-021445
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38490734/

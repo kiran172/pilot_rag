@@ -1,0 +1,12 @@
+PMID: 32588968
+Title: Access site related vascular complications with third generation transcatheter heart valve systems.
+
+Abstract: OBJECTIVES: This study examines the impact of anatomical and procedural factors on Valve Academic Research Consortium-2-defined vascular complications at the femoral access site in transcatheter aortic valve replacement (TAVR) with third generation transcatheter heart valve (THV)-systems.
+BACKGROUND: Randomized clinical trials reported on vascular complications with current THV-systems. However, clinical presentation and consequences of these events are not well studied.
+METHODS: All patients who underwent a transfemoral TAVR using an Edwards Sapien3®/Sapien3ultra® or a Medtronic Evolut-R®/Evolut-PRO® have been identified from our institutional database. Only procedures utilizing the PerClose-ProGlide® vascular closure device were included. Risk factors for vascular complications were analyzed with a logistic regression model. Preoperative and procedural data were collected. The postoperative course of patients with and without vascular complications was compared.
+RESULTS: A total of 878 patients met the inclusion criteria. Of these, 152 patients (17.3%) had an access-site related vascular complication (87 major complications, 9.9%). Sheath-to-femoral-artery-ratio (SFAR) (OR per 0.1 increase = 1.35, p < .001) and more than 2 vessel entries with large bore sheaths (OR = 1.76, p = .029) were independent risk factors for vascular complications. Female gender (OR = 1.44, p = .07) and two vessel entries with large bore sheaths (OR = 1.2, p = .53) increased the risk, although no statistical significance was shown. Age (OR = 1.07, p = .62), body mass index (OR = 1.1 per 5 points, p = .32) and vessel wall calcification at puncture site (OR = 0.93, p = .7) had no influence on vascular complications. Patients with vascular complications had a higher need for blood transfusion (p < .001) and a higher in-hospital mortality (2.6 vs. 0.4%, p = .019).
+CONCLUSIONS: Procedural risk assessment should include SFAR calculation and consider the need for large bore sheath exchange. This might reduce the vascular trauma, lower vascular complication rates and improve the clinical outcome after TAVR.
+
+Citation: Ruge H, et al. Access site related vascular complications with third generation transcatheter heart valve systems. Access site related vascular complications with third generation transcatheter heart valve systems. 2021; 97:325-332. doi: 10.1002/ccd.29095
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32588968/

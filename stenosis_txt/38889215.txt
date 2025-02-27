@@ -1,0 +1,11 @@
+PMID: 38889215
+Title: Identifying People at High Risk for Severe Aortic Stenosis: Aortic Valve Calcium Versus Lipoprotein(a) and Low-Density Lipoprotein Cholesterol.
+
+Abstract: BACKGROUND: Aortic valve calcification (AVC), Lp(a) [lipoprotein(a)], and low-density lipoprotein cholesterol (LDL-C) are associated with severe aortic stenosis (AS). We aimed to determine which of these risk factors were most strongly associated with the risk of incident severe AS.
+METHODS: A total of 6792 participants from the MESA study (Multi-Ethnic Study of Atherosclerosis) had computed tomography-quantified AVC, Lp(a), and LDL-C values at MESA visit 1 (2000-2002). We calculated the absolute event rate of incident adjudicated severe AS per 1000 person-years and performed multivariable adjusted Cox proportional hazards regression.
+RESULTS: The mean age was 62 years old, and 47% were women. Over a median 16.7-year follow-up, the rate of incident severe AS increased exponentially with higher AVC, regardless of Lp(a) or LDL-C values. Participants with AVC=0 had a very low rate of severe AS even with elevated Lp(a) ≥50 mg/dL (<0.1/1000 person-years) or LDL-C ≥130 mg/dL (0.1/1000 person-years). AVC >0 was strongly associated with severe AS when Lp(a) <50 mg/dL hazard ratio (HR) of 33.8 (95% CI, 16.4-70.0) or ≥50 mg/dL HR of 61.5 (95% CI, 7.7-494.2) and when LDL-C <130 mg/dL HR of 31.1 (95% CI, 14.4-67.1) or ≥130 mg/dL HR of 50.2 (95% CI, 13.2-191.9).
+CONCLUSIONS: AVC better identifies people at high risk for severe AS compared with Lp(a) or LDL-C, and people with AVC=0 have a very low long-term rate of severe AS regardless of Lp(a) or LDL-C level. These results suggest AVC should be the preferred prognostic risk marker to identify patients at high risk for severe AS, which may help inform participant selection for future trials testing novel strategies to prevent severe AS.
+
+Citation: Marrero N, et al. Identifying People at High Risk for Severe Aortic Stenosis: Aortic Valve Calcium Versus Lipoprotein(a) and Low-Density Lipoprotein Cholesterol. Identifying People at High Risk for Severe Aortic Stenosis: Aortic Valve Calcium Versus Lipoprotein(a) and Low-Density Lipoprotein Cholesterol. 2024; 17:e016372. doi: 10.1161/CIRCIMAGING.123.016372
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38889215/

@@ -1,0 +1,11 @@
+PMID: 37069024
+Title: Nomogram for evaluating coronary revascularisation necessity based on multi-parameter coronary CT angiography.
+
+Abstract: AIM: To build a nomogram model to improve the evaluation of revascularisation necessity using multi-parameter coronary computed tomography (CT) angiography (CCTA).
+MATERIALS AND METHODS: In this retrospective study, 335 patients who underwent CCTA and required revascularisation within 1 month were selected and allocated to the revascularisation group; 208 patients who did not undergo revascularisation were allocated to the non-revascularisation group. CCTA parameters, including CCTA stenosis, plaque qualitative-quantitative characteristics, and fractional flow reserve derived from CT angiography (CT-FFR), for both groups were analysed and compared. Independent risk factors for evaluating revascularisation were obtained using univariate and multivariable regression analysis, after which multi-parameter models were built. Finally, a nomogram was created with these independent risk factors using the R programming language.
+RESULTS: Plaque analysis was performed successfully for 543 patients with 1,072 target plaques. The performance of the multi-parameter model (AUC 0.894, p<0.001) was significantly higher than that of models based on stenosis (AUC 0.804, p<0.001), plaque qualitative/quantitative characteristics (AUC 0.754/0.789, p<0.001), or CT-FFR (AUC 0.848, p<0.001) alone, to evaluate the necessity of revascularisation. The independent risk factors were CCTA stenosis (OR 1.004, p=0.04), positive remodelling (OR 2.474, p<0.001), total plaque volume (OR 1.001, p<0.001), non-calcified plaque volume proportion (OR 1.019, p<0.001), and CT-FFR (OR 0.001, p<0.001). Subsequently, a nomogram based on these factors was created.
+CONCLUSION: The multi-parameter CCTA model improved performance in evaluating revascularisation necessity. The nomogram based on these factors is shows promise in clinical settings.
+
+Citation: Wang J, et al. Nomogram for evaluating coronary revascularisation necessity based on multi-parameter coronary CT angiography. Nomogram for evaluating coronary revascularisation necessity based on multi-parameter coronary CT angiography. 2023; 78:e526-e534. doi: 10.1016/j.crad.2023.03.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37069024/

@@ -1,0 +1,11 @@
+PMID: 35597494
+Title: miR-145-5p affects autophagy by targeting CaMKIIδ in atherosclerosis.
+
+Abstract: BACKGROUND: Atherosclerosis (AS) is a chronic progressive inflammatory disease involving many cells. miR-145-5p mediates the biological phenotypes of human aortic vascular smooth muscle cells (HAVSMCs) and influences the progression of AS, but the potential mechanism needs further study.
+METHODS: Total RNA was extracted from patient plasma and arteries to determine the expression of miR-145-5p. The CaMKIIδ pathway and genes were predicted as the target of miR-145-5p by bioinformatics approaches. The interaction between miR-145-5p and CaMKIIδ was confirmed by RT-qPCR and Dual Luciferase Reporter Assay System. Western blot analysis, immunofluorescence staining, transmission electron microscopy (TEM) and protein tracing on HAVSMCs transduced with mCherry-GFP-LC3 lentiviral vectors to determine the mechanism by which miR-145-5p affects the atherosclerotic disease process.
+RESULTS: The expression of miR-145-5p was downregulated in blood and arteries specimens of patients with coronary stenosis. Correspondingly, CaMKIIδ was upregulated and miR-145-5p was downregulated in hypoxic HAVSMCs. CaMKIIδ was predicted and confirmed as a downstream target of miR-145-5p. In addition, CaMKIIδ induced the upregulation of autophagy-related proteins by activating the AMPK/mTOR/ULK1 signalling pathway. Moreover, we confirmed that miR-145-5p inhibits CaMKIIδ expression by binding to a specific sequence in the CaMKIIδ 3' UTR and affects autophagy. Crucially, CaMKIIδ was promoted by the downregulation of miR-145-5p and then activating autophagy in HAVSMCs through the AMPK/mTOR/ULK1 signalling pathway to affect the AS progress.
+CONCLUSIONS: miR-145-5p regulates CaMKIIδ, leading to altered autophagy in HAVSMCs. This alteration plays an important role in AS progression.
+
+Citation: Zhang X, et al. miR-145-5p affects autophagy by targeting CaMKIIδ in atherosclerosis. miR-145-5p affects autophagy by targeting CaMKIIδ in atherosclerosis. 2022; 360:68-75. doi: 10.1016/j.ijcard.2022.05.039
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35597494/

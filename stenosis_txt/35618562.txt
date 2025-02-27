@@ -1,0 +1,11 @@
+PMID: 35618562
+Title: Image quality and diagnostic accuracy of different dosages of iodixanol in computed tomography angiography and perfusion of overweight patients with coronary artery stenosis: A feasibility study.
+
+Abstract: OBJECTIVES: Iodixanol contrast media with different doses using computed tomography angiography (CTA) and perfusion (CTP) to diagnose coronary artery disease (CAD) in overweight patients lacks assessment. Our study compared iodixanol 320 mg I/ml and 270 mg I/ml on image quality and accuracy of CTA combined CTP (CTA-CTP) to diagnose CAD.
+METHODS: Overweight patients with suspected of CAD were randomized into iodixanol 270 group (received iodixanol 270 mg I/ml) and iodixanol 320 group (received iodixanol 320 mg I/ml). Based on these characteristics data, receiver operating characteristic (ROC) curve and corresponding area under the curve (AUC) were plotted to assess the sensitivity and specificity of the two administrations.
+RESULTS: The subjective definition score, signal to noise ratio, and CT value of aorta in iodixanol 320 group were higher than iodixanol 270 group. In iodixanol 270 group: the image exhibited a normal state of both vessels and myocardial perfusion; and the AUC, specificity, and sensitivity were 0.376, 66.67, and 80.46, respectively. In iodixanol 320 group: the image exhibited a diameter stenosis in right coronary artery and myocardial infarction of inferior wall and proximal inferior wall septum, as well as myocardial perfusion defects; and the AUC, specificity, and sensitivity in iodixanol 320 group were 0.824, 75.00, and 89.87, respectively.
+CONCLUSION: Accuracy and image quality of iodixanol 320 mg I/ml in the diagnosis of CAD with CTA-CTP was higher than using iodixanol 270 mg I/ml.
+
+Citation: Tang X, et al. Image quality and diagnostic accuracy of different dosages of iodixanol in computed tomography angiography and perfusion of overweight patients with coronary artery stenosis: A feasibility study. Image quality and diagnostic accuracy of different dosages of iodixanol in computed tomography angiography and perfusion of overweight patients with coronary artery stenosis: A feasibility study. 2022; 110:103818. doi: 10.1016/j.medengphy.2022.103818
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35618562/

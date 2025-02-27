@@ -1,0 +1,11 @@
+PMID: 37181557
+Title: The incidence and predictors of in-stent stenosis after pipeline flow-diverter stenting for intracranial aneurysm treatment.
+
+Abstract: BACKGROUND AND PURPOSE: Data on in-stent stenosis (ISS) following the flow diverter (FD) implantation method are scarce and inconsistent. In the present study, we sought to determine the incidence of ISS and identify the factors that predict its severity via the use of ordinal logistic regression.
+METHODS: A retrospective review of our center's electronic database was conducted to identify all patients with intracranial aneurysms (IAs) who received pipeline embolization device (PED) implantation between 2016 and 2020. Patient demographics, aneurysm characteristics, procedural information, and clinical and angiographic outcomes were reviewed. ISS was quantitatively assessed on angiographic follow-ups and graded as mild (<25%), moderate (25-50%), or severe (>50%). Ordinal logistic regression was conducted to determine the predictors of stenosis severity.
+RESULTS: A total of 240 patients with 252 aneurysms treated in 252 procedures were enrolled in this study. ISS has been detected in 135 (53.6%) lesions, with a mean follow-up time of 6.53 ± 3.26 months. The ISS was mild in 66 (48.9%) cases, moderate in 52 (38.5%) cases, and severe in 17 (12.6%) cases. All patients were asymptomatic, except for two of them with severe stenosis who presented with symptoms of acute cerebral thrombosis. Ordinal logistic regression identified that younger age and a longer procedure duration were independent predictors of a higher likelihood of ISS.
+CONCLUSION: ISS is a common angiographic finding after PED implantation for IAs and is presented as a largely benign course through long-term follow-up. Patients who were younger in age and had a longer procedure duration were found to be at a greater risk of developing ISS.
+
+Citation: You W, et al. The incidence and predictors of in-stent stenosis after pipeline flow-diverter stenting for intracranial aneurysm treatment. The incidence and predictors of in-stent stenosis after pipeline flow-diverter stenting for intracranial aneurysm treatment. 2023; 14:1140497. doi: 10.3389/fneur.2023.1140497
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37181557/

@@ -1,0 +1,11 @@
+PMID: 32737265
+Title: Patient Risk Assessment for Transcatheter Aortic Valve Replacement at Veterans Health Administration Hospitals.
+
+Abstract: OBJECTIVE: To compare patient-level risk assessment at Veterans Affairs (VA) hospitals in patients undergoing transcatheter aortic valve replacement (TAVR) with patients included in the Society for Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy (STS/ACC TVT) registry.
+METHODS: We retrospectively analyzed the outcomes of veterans with severe aortic stenosis (AS) receiving TAVR from 2012-2016 at eight VA hospitals and compared them with TVT registry outcomes from 2012-2015. Patients were identified via administrative data. Univariable and multivariable Cox proportional hazards models were used to examine 30-day and 1-year all-cause mortality, 30-day and 1-year transient ischemic attack/stroke rates, and permanent pacemaker (PPM) implantation rates.
+RESULTS: During the study period, a total of 726 veterans underwent TAVR including valve-in-valve procedures (n = 50). Patients were predominantly male (98.2%), with mean age of 78.5 ± 9.3 years; 49.1% were at prohibitive risk and 12.1% were at high risk for surgical aortic valve replacement; 30-day and 1-year all-cause mortality rates were 2.5% and 14.7%, respectively; 30-day and 1-year combined TIA/stroke rates were 6.5% and 13.5%, respectively. In the TVT registry, 15.8% and 37.8% of patients were at prohibitive and high risk, respectively; 30-day and 1-year mortality rates were 5.7% and 22.7%, respectively, and stroke rates were 2.1% and 4.0%, respectively.
+CONCLUSIONS: This report on TAVR risk assessment within the VA system demonstrates that despite a large proportion of patients classified as prohibitive risk, TAVR was associated with favorable 30-day and 1-year all-cause mortality rates when compared with published outcomes from the STS/ACC TVT registry.
+
+Citation: Burke L, et al. Patient Risk Assessment for Transcatheter Aortic Valve Replacement at Veterans Health Administration Hospitals. Patient Risk Assessment for Transcatheter Aortic Valve Replacement at Veterans Health Administration Hospitals. 2020; 32:302-309.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32737265/

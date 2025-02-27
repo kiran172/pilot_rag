@@ -1,0 +1,11 @@
+PMID: 33190031
+Title: Borderline coronary lesion assessment with quantitative flow ratio and its relation to the instantaneous wave-free ratio.
+
+Abstract: PURPOSE: Quantitative flow ratio (QFR) is a recently developed image-based index for the assessment of borderline coronary artery disease. We sought to investigate a correlation between QFR and instantaneous wave-free ratio (iFR) for the assessment of intermediate coronary stenoses.
+MATERIALS AND METHODS: Patients with borderline coronary lesions (40-90% by visual assessment) undergoing iFR assessment were enrolled. QFR was derived from a modeled hyperemic flow velocity derived from angiography without adenosine-induced hyperemia. Pressure wire-derived iFR served as the reference.
+RESULTS: Values of QFR and iFR from 110 vessels with a mean percent diameter stenosis of 44.6 ​± ​12.0% were compared. Mean iFR was 0.90 ​± ​0.07 and 38 (34.5%) had iFR ≤0.89. Mean QFR was 0.81 ​± ​0.10 and 44 (40%) had QFR ≤0.80. A good agreement between QFR and iFR measurements was confirmed with a mean difference of 0.09 (95%CI -0.027 to 0.207) and intraclass correlation coefficient of 0.87 (95%CI 0.81-0.91). The overall diagnostic accuracy (AUC in ROC analysis) of QFR in detecting iFR ≤0.89 was 0.87 (95%CI 0.79-0.93; p ​< ​0.001). Regarding iFR ≤0.89, the optimal cutoff value of QFR was 0.79 with sensitivity, specificity, and accuracy of 76.3%, 83.3%, and 80.0%, respectively. A 100% sensitivity was observed for a QFR cutoff value of 0.88 and a 100% specificity for a QFR cutoff value of 0.69.
+CONCLUSIONS: Our study confirmed good QFR diagnostic performance and correlation with iFR for detecting the functional ischemia caused by intermediate lesions in coronary arteries. However, the pressure wire assessment with iFR might be warranted in 2/3 of patients after QFR assessment.
+
+Citation: Kleczyński P, et al. Borderline coronary lesion assessment with quantitative flow ratio and its relation to the instantaneous wave-free ratio. Borderline coronary lesion assessment with quantitative flow ratio and its relation to the instantaneous wave-free ratio. 2021; 66:1-5. doi: 10.1016/j.advms.2020.10.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33190031/

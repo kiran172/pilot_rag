@@ -1,0 +1,11 @@
+PMID: 38301831
+Title: Relationship between peak aortic jet velocity and progression of aortic stenosis in patients undergoing hemodialysis.
+
+Abstract: BACKGROUND: The natural history of aortic stenosis (AS) progression, especially before severe AS development, is not well documented. We aimed to investigate the time course of peak aortic jet velocity (Vmax) and AS progression risk according to baseline Vmax, particularly whether there is a Vmax threshold.
+METHODS: In a retrospective multicenter cohort study of patients on hemodialysis with aortic valve calcification, we investigated the time series of Vmax and the relationship between the baseline Vmax and progression to severe AS by analyzing longitudinal echocardiographic data.
+RESULTS: Among 758 included patients (mean age, 71 years; 65% male), patients with Vmax <1.5, 1.5-1.9, 2.0-2.4, 2.5-2.9, and 3.0-3.9 m/s were 395 (52%), 216 (29%), 85 (11%), 39 (5.1%), and 23 (3.0%), respectively. The Vmax slope was gradual (mean 0.05-0.07 m/s/year) at Vmax <2 m/s, but steeper (mean 0.13-0.21 m/s/year) at Vmax ≥2 m/s. During a median 3.2-year follow-up, 52 (6.9%) patients developed severe AS. While patients with Vmax <2 m/s rarely developed severe AS, the risk of those with Vmax ≥2 m/s increased remarkably with an increasing baseline Vmax; the adjusted incidence rates in patients with Vmax <1.5, 1.5-1.9, 2.0-2.4, 2.5-2.9, and 3.0-3.9 m/s were 0.59, 0.57, 4.25, 13.8, and 56.1 per 100 person-years, respectively; the adjusted hazard ratio per 0.2 m/s increase in the baseline Vmax was 1.49 (95% confidence interval: 1.32-1.68) when Vmax ≥2 m/s.
+CONCLUSIONS: The risk of progression to severe AS increased with the baseline Vmax primarily at ≥2 m/s; a Vmax threshold of 2 m/s was observed.
+
+Citation: Kurasawa S, et al. Relationship between peak aortic jet velocity and progression of aortic stenosis in patients undergoing hemodialysis. Relationship between peak aortic jet velocity and progression of aortic stenosis in patients undergoing hemodialysis. 2024; 402:131822. doi: 10.1016/j.ijcard.2024.131822
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38301831/

@@ -1,0 +1,12 @@
+PMID: 36931936
+Title: Questioning Prophylactic Antibiotic Use for Pyloromyotomy: Analysis of the Pediatric Health Information System Database.
+
+Abstract: BACKGROUND: Pyloromyotomy has a low rate of wound complications, yet antibiotic prophylaxis is still given. The Pediatric Health Information System (PHIS) database was queried to determine whether prophylactic antibiotics decreased wound complications.
+METHODS: Records for infants with pyloric stenosis between 2016 and 2021 were extracted from the PHIS database and analyzed for demographics, comorbid conditions, and complications within 30 days of pyloromyotomy. Logistic regression was used to evaluate the effect of antibiotic prophylaxis on complications.
+RESULTS: Among 14,247 infants who underwent pyloromyotomy, 29.5% had antibiotic prophylaxis. These patients were more likely to have been admitted to the NICU and have chronic conditions and prematurity (p < 0.01). Antibiotic utilization varied among hospitals from 2.3 to 58.5%. Complication rates among those who received antibiotics was 1.64% versus 1.62% for those who did not. The odds for developing complications in those who received prophylaxis compared to those who did not was 1.10, (0.73, 1.41, 95%, p = 0.93) suggesting there is no effect of antibiotics on complication rates.
+CONCLUSIONS: There was a wide variation among hospitals in the usage of prophylactic antibiotics for pyloromyotomy. There was no difference in complication rates whether or not patients received antibiotics. These results suggest antibiotic prophylaxis is unnecessary for pyloromyotomy.
+LEVEL OF EVIDENCE: III.
+
+Citation: Griffin KL, et al. Questioning Prophylactic Antibiotic Use for Pyloromyotomy: Analysis of the Pediatric Health Information System Database. Questioning Prophylactic Antibiotic Use for Pyloromyotomy: Analysis of the Pediatric Health Information System Database. 2023; 58:1123-1127. doi: 10.1016/j.jpedsurg.2023.02.038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36931936/

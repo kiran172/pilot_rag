@@ -1,0 +1,11 @@
+PMID: 38034386
+Title: First description and validation of a new method for estimating aortic stenosis burden and predicting the functional response to TAVI.
+
+Abstract: BACKGROUND: Up to one-fifth of patients continue to have poor quality of life after transcatheter aortic valve implantation (TAVI), with an additional similar proportion not surviving 1 year after the procedure. We aimed to assess the value of a new method based on an integrated analysis of left ventricular outflow tract flow velocity and aortic pressure to predict objective functional improvement and prognosis after TAVI.
+METHODS: In a cohort of consecutive patients undergoing TAVI, flow velocity-pressure integrated analysis was obtained from simultaneous pressure recordings in the ascending aorta and flow velocity recordings in the left ventricular outflow tract by echocardiography. Objective functional improvement 6 months after TAVI was assessed through changes in a 6-min walk test and NT-proBNP levels. A clinical follow-up was conducted at 2 years.
+RESULTS: Of the 102 patients studied, 82 (80.4%) showed objective functional improvement. The 2-year mortality of these patients was significantly lower (9% vs. 44%, p = 0.001). In multivariate analysis, parameter "(Pressure at Vmax - Pressure at Vo)/Vmax" was found to be an independent predictor for objective improvement. The C-statistic was 0.70 in the overall population and 0.78 in the low-gradient subgroup. All echocardiographic parameters and the valvuloarterial impedance showed a C-statistic of &lt;0.6 for the overall and low-gradient patients. In a validation cohort of 119 patients, the C-statistic was 0.67 for the total cohort and 0.76 for the low-gradient subgroup.
+CONCLUSION: This new method allows predicting objective functional improvement after TAVI more precisely than the conventional parameters used to assess the severity of aortic stenosis, particularly in low-gradient patients.
+
+Citation: de la Torre Hernandez JM, et al. First description and validation of a new method for estimating aortic stenosis burden and predicting the functional response to TAVI. First description and validation of a new method for estimating aortic stenosis burden and predicting the functional response to TAVI. 2023; 10:1215826. doi: 10.3389/fcvm.2023.1215826
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38034386/

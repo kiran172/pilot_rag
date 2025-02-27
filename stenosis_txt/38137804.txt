@@ -1,0 +1,11 @@
+PMID: 38137804
+Title: Value of Post-/Pre-Procedural Aortic Regurgitation Ratio vs. Pre-Procedural Aortic Valve Calcium Score to Predict Moderate to Severe Paravalvular Leak Requiring Post-Dilation after Transcatheter Aortic Valve Implantation.
+
+Abstract: BACKGROUND AND AIM: Tools that assist interventionists in selecting patients for post-dilation (PD) are needed. We aimed to assess whether pre-interventional aortic valve calcium (AVC) or the peri-interventional aortic regurgitation (ARI) ratio is a better predictor for a more than mild paravalvular leak (PVL) requiring PD after TAVI.
+METHODS: Patients undergoing TAVI with available data on AVC derived from MSCTs and the ARI ratio derived from peri-interventional hemodynamic curves were studied. The main outcome was moderate-to-severe PVL requiring PD.
+RESULTS: In 237 patients, more than mild PVL after valve deployment was present in 25.7%. PD was performed in 65 patients. The median (IQR) total AVC was 390.5 (211.5-665.4) mm3. All calcification values were significantly higher in patients who underwent PD. The median (IQR) individual threshold was 600 (550-685) Hus. The overall ARI ratio was 0.78 (0.61-0.96), with values being significantly lower in patients who underwent PD: 0.61 (0.49-0.80) vs. 0.82 (0.69-0.99) (p &lt; 0.001). Both the ARI ratio (OR [95%CI] 0.053 [0.014-0.203]; p &lt; 0.001) and AVC (1.01 [1.000-1.002]; p = 0.015) predicted PD need. ROC curves showed higher discrimination for the ARI ratio (AUC 0.73) than for any calcification parameter (all AUCs ≤ 0.62).
+CONCLUSIONS: The ARI ratio provides interventionists with a powerful predictive tool for PVL requiring PD after TAVI that is beyond the predictive value of pre-procedural valve calcification derived from MSCT.
+
+Citation: Uebelacker R, et al. Value of Post-/Pre-Procedural Aortic Regurgitation Ratio vs. Pre-Procedural Aortic Valve Calcium Score to Predict Moderate to Severe Paravalvular Leak Requiring Post-Dilation after Transcatheter Aortic Valve Implantation. Value of Post-/Pre-Procedural Aortic Regurgitation Ratio vs. Pre-Procedural Aortic Valve Calcium Score to Predict Moderate to Severe Paravalvular Leak Requiring Post-Dilation after Transcatheter Aortic Valve Implantation. 2023; 12:(unknown pages). doi: 10.3390/jcm12247735
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38137804/

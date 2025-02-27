@@ -1,0 +1,11 @@
+PMID: 37409074
+Title: Bilateral renal artery stenosis impacts postoperative complications after major vascular surgery.
+
+Abstract: BACKGROUND: Incidental atherosclerotic renal artery stenosis (RAS) is common in patients undergoing vascular surgery and has been shown to be associated with postoperative AKI among patients undergoing major non-vascular surgeries. We hypothesized that patients with RAS undergoing major vascular procedures would have a higher incidence of AKI and postoperative complications than those without RAS.
+METHODS: A single-center retrospective cohort study of 200 patients who underwent elective open aortic or visceral bypass surgery (100 with postoperative AKI; 100 without AKI) were identified. RAS was then evaluated by review of pre-surgery CTAs with readers blinded to AKI status. RAS was defined as ≥50 % stenosis. Univariate and multivariable logistic regression was used to assess association of unilateral and bilateral RAS with postoperative outcomes.
+RESULTS: 17.4 % (n = 28) of patients had unilateral RAS while 6.2 % (n = 10) of patients had bilateral RAS. Patients with bilateral RAS had similar preadmission creatinine and GFR as compared to unilateral RAS or no RAS. 100 % (n = 10) of patients with bilateral RAS had postoperative AKI compared with 45 % (n = 68) of patients with unilateral or no RAS (p < 0.05). In adjusted logistic regression models, bilateral RAS predicted severe AKI (OR 5.82; CI 1.33, 25.53; p = 0.02), in-hospital mortality (OR 5.71; CI 1.03, 31.53; p = 0.05), 30-day mortality (OR 10.56; CI 2.03, 54.05; p = 0.005) and 90-day mortality (OR 6.88; CI 1.40, 33.87; p = 0.02).
+CONCLUSIONS: Bilateral RAS is associated with increased incidence of AKI as well as in-hospital, 30-day, and 90-day mortality suggesting it is a marker of poor outcomes and should be considered in preoperative risk stratification.
+
+Citation: Filiberto AC, et al. Bilateral renal artery stenosis impacts postoperative complications after major vascular surgery. Bilateral renal artery stenosis impacts postoperative complications after major vascular surgery. 2023; 14:17-21. doi: 10.1016/j.sopen.2023.06.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37409074/

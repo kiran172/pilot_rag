@@ -1,0 +1,11 @@
+PMID: 35081844
+Title: Long-term impact of permanent cardiac pacing after surgical aortic valve replacement: systematic review and meta-analysis.
+
+Abstract: OBJECTIVES: Permanent pacemaker (PPM) implantation after surgical aortic valve (SAVR) is associated with short- and long-term complications. However, the impact of PPM implantation on long-term mortality has not been fully established. The aim of this meta-analysis was to determine whether PPM post-SAVR increases the risk of mortality.
+METHODS: We searched Cochrane, MEDLINE, and EMBASE from inception to December 2020 for studies comparing mortality between patients who received PPM post-SAVR and those who did not. Random effects meta-analysis was performed to determine the effect of PPM on early and late mortality. The effect sizes were reported as hazard ratio (HR) with 95% confidence intervals.
+RESULTS: Three studies met criteria, which yielded a total of 9,105 patients. The most common indication was post-operative complete atrioventricular block. While there was no difference in early mortality between the PPM and no PPM groups (RR 1.19; 95%CI 0.20-7.08; I2 = 23%), PPM implantation was shown to significantly increase late mortality (RR 1.49; 95%CI 1.25-1.77; I2 = 0%).
+CONCLUSION: The need for permanent pacemaker after surgically isolated aortic valve replacement is associated with increased risk of long-term mortality. This warrants further exploration on the effect of PPM on long-term mortality in patients receiving sutureless prostheses or transcatheter aortic valve implants.AbbreviationsPPM Permanent PacemakerSAVR Surgical Aortic Valve Replacement.
+
+Citation: Servito M, et al. Long-term impact of permanent cardiac pacing after surgical aortic valve replacement: systematic review and meta-analysis. Long-term impact of permanent cardiac pacing after surgical aortic valve replacement: systematic review and meta-analysis. 2022; 20:81-86. doi: 10.1080/14779072.2022.2031981
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35081844/

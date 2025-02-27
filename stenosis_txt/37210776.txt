@@ -1,0 +1,11 @@
+PMID: 37210776
+Title: Association between dietary antioxidant capacity and atherosclerotic carotid stenosis in patients with ischemic stroke.
+
+Abstract: BACKGROUND AND PURPOSE: The aim of this study was to evaluate the relationship between dietary total antioxidant capacity (DTAC) and atherosclerotic carotid stenosis in patients with ischemic stroke.
+METHODS: Patients with acute ischemic stroke were consecutively enrolled. Daily food consumption was estimated by a semi-quantitative food frequency questionnaire (FFQ). DTAC was calculated based on classified food intake. Antioxidant potential value was measured by ferric-reducing antioxidant power (FRAP) and oxygen radical absorbance capacity (ORAC) methods. Evaluation of carotid artery stenosis was based on computed tomography angiography (CTA). Logistic regression was used to assess the relationship between DTAC and degree of carotid stenosis.
+RESULTS: Of the 608 enrolled, 232 patients (38.2%) had moderate or severe carotid stenosis. After adjusting for major confounding factors, FRAP (OR =0.640; 95% CI: 0.410-0.998; P =0.049) and ORAC (OR =0.625; 95% CI: 0.400-0.976; P =0.039) were associated with lower degree of carotid artery stenosis (third vs first tertile). Spearman analysis indicated that FRAP (r =-0.121, P =0.003) and ORAC (r =-0.147, P <0.001) were correlated with degree of carotid stenosis.
+CONCLUSIONS: DTAC may influence the initiation and development of atherosclerosis, and, therefore, the risk of ischemic stroke.
+
+Citation: Ma J, et al. Association between dietary antioxidant capacity and atherosclerotic carotid stenosis in patients with ischemic stroke. Association between dietary antioxidant capacity and atherosclerotic carotid stenosis in patients with ischemic stroke. 2023; 32:107148. doi: 10.1016/j.jstrokecerebrovasdis.2023.107148
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37210776/

@@ -1,0 +1,11 @@
+PMID: 33313094
+Title: Heart-type fatty acid binding protein predicts cardiovascular events in patients with stable coronary artery disease: a prospective cohort study.
+
+Abstract: BACKGROUND: Heart-type fatty acid binding protein (H-FABP) has been reported to be a prognostic predictor for cardiovascular outcome in acute coronary syndrome (ACS). However, its prognostic utility in patients with stable coronary artery disease (CAD) has not been well established. The aim of this study was to assess the association between H-FABP with the severity of coronary disease and cardiovascular events (CVEs) in patients with stable CAD.
+METHODS: A total of 4,370 angiography-proven CAD patients were consecutively enrolled. The severity of CAD was assessed by Gensini Score (GS) and the numbers of diseased vessels. The CVEs included cardiovascular death, myocardial infarction, stroke and coronary revascularization. Cox regression analysis with adjusted hazard ratios (HRs) and Kaplan-Meier analysis were used to evaluate the relation of H-FABP to CVEs in this cohort.
+RESULTS: During a median follow-up of 51 months, 353 CVEs occurred. Overall, patients in the highest levels of H-FABP group had increased rate of multi-vessel stenosis and higher GS compared with those in the lowest group (P<0.05, respectively). Moreover, H-FABP levels were significantly higher in patients with events compared to those without (P<0.001). In Cox regression analysis, elevated H-FABP levels were found to be independently associated with a high risk of CVEs [adjusted HRs: 1.453; 95% confidence intervals (CIs): 1.040-2.029, P=0.028], especially with cardiovascular death (adjusted HRs: 2.865; 95% CI: 1.315-6.243, P=0.008).
+CONCLUSIONS: Our results demonstrated that H-FABP was also a useful predictor for CVEs in patients with stable CAD, which needed to be verified by further studies.
+
+Citation: Zhang HW, et al. Heart-type fatty acid binding protein predicts cardiovascular events in patients with stable coronary artery disease: a prospective cohort study. Heart-type fatty acid binding protein predicts cardiovascular events in patients with stable coronary artery disease: a prospective cohort study. 2020; 8:1349. doi: 10.21037/atm-20-2493
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33313094/

@@ -1,0 +1,10 @@
+PMID: 34867107
+Title: Diagnostic Performance of Frequency-Domain Optical Coherence Tomography to Predict Functionally Significant Left Main Coronary Artery Stenosis.
+
+Abstract: AIMS: The aim of this study was to assess the safety and diagnostic efficacy of frequency-domain optical coherence tomography (FD-OCT) in identifying functional severity of the left main coronary artery (LM) stenosis determined by fractional flow reserve (FFR).
+METHODS AND RESULTS: 101 patients with LM lesion (20-70% diameter stenosis angiographically) underwent FFR measurement and FD-OCT imaging of the LM. The following parameters were measured by FD-OCT in the LM: reference lumen area (RLA), reference lumen diameter (RLD), minimum lumen area (MLA), minimum lumen diameter (MLD), % lumen area stenosis, and % diameter stenosis. The LM lesions were analyzable by FD-OCT in 88/101 (87.1%) patients. FFR at maximum hyperemia was ≤0.80 in 39/88 (44.3%) patients. FFR values were correlated significantly with FD-OCT-derived LM lumen parameters. An MLA cutoff value of 5.38 mm2 had the highest sensitivity and specificity of 82% and 81%, respectively, followed by an MLD of 2.43 mm (sensitivity 77%, specificity 72%) and AS of 60% (sensitivity 72%, specificity 72%) for predicting FFR &lt;0.80.
+CONCLUSIONS: FD-OCT is a safe and feasible imaging technique for the assessment of LM stenosis. An FD-OCT-derived MLA of ≤5.38 mm2 strongly predicts the functional severity of an LM lesion.
+
+Citation: Bouki KP, et al. Diagnostic Performance of Frequency-Domain Optical Coherence Tomography to Predict Functionally Significant Left Main Coronary Artery Stenosis. Diagnostic Performance of Frequency-Domain Optical Coherence Tomography to Predict Functionally Significant Left Main Coronary Artery Stenosis. 2021; 2021:7108284. doi: 10.1155/2021/7108284
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34867107/

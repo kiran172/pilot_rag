@@ -1,0 +1,11 @@
+PMID: 34229104
+Title: High fructose induced osteogenic differentiation of human valve interstitial cells via activating PI3K/AKT/mitochondria signaling.
+
+Abstract: BACKGROUND: Aortic valve stenosis (AS) is a common, lethal cardiovascular disease. There is no cure except the valve replacement at last stage. Therefore, an understanding of the detail mechanism is imperative to prevent and intervene AS. Metabolic syndrome (MetS) is one of the major risk factors of AS whereas fructose overconsuming tops the list of MetS risk factors. However, whether the fructose under physiological level induces AS is currently unknown.
+METHODS: The human valve interstitial cells (hVICs), a crucial source to develop calcification, were co-incubated with fructose at 2 or 20 mM to mimic the serum fructose at fasting or post-fructose consumption, respectively, for 24 h. The cell proliferation was evaluated by WST-1 assays. The expressions of osteogenic and fibrotic proteins, PI3K/AKT signaling, insulin receptor substrate 1 and mitochondrial dynamic proteins were detected by Western blot analyses. The mitochondrial oxidative phosphorylation (OXPHOS) was examined by Seahorse analyzer.
+RESULTS: hVICs proliferation was significantly suppressed by 20 mM fructose. The expressions of alkaline phosphatase (ALP) and osteocalcin were enhanced concurrent with the upregulated PI3K p85, AKT, phospho(p)S473-AKT, and pS636-insulin receptor substrate 1 (p-IRS-1) by high fructose. Moreover, ATP production capacity and maximal respiratory capacity were enhanced in the high fructose groups. Synchronically, the expressions of mitochondrial fission 1 and optic atrophy type 1 were increased.
+CONCLUSIONS: These results suggested that high fructose stimulated the osteogenic differentiation of hVICs via the activation of PI3K/AKT/mitochondria signaling at the early stage. These results implied that high fructose at physiological level might have a direct, hazard effect on the progression of AS.
+
+Citation: Chang HH, et al. High fructose induced osteogenic differentiation of human valve interstitial cells via activating PI3K/AKT/mitochondria signaling. High fructose induced osteogenic differentiation of human valve interstitial cells via activating PI3K/AKT/mitochondria signaling. 2022; 45:491-503. doi: 10.1016/j.bj.2021.06.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34229104/

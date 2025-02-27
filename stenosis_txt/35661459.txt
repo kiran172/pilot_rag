@@ -1,0 +1,12 @@
+PMID: 35661459
+Title: Incomplete circle of Willis variants and stroke outcome.
+
+Abstract: BACKGROUND: There is considerable variation in circle of Willis morphology among the general population, and these variations have been correlated with risk of aneurysms, cerebral ischemia, and other clinical events.
+PURPOSE: To investigate the relationship between circle of Willis variants and stroke outcome.
+MATERIALS AND METHODS: We performed a retrospective study involving 297 patients from our institution's acute stroke academic registry. All received MRA examinations of the head upon admission for acute strokes. All imaging was reviewed to assess for circle of Willis variants (particularly A1 and P1 aplasia or hypoplasia) along with vertebral artery aplasia or hypoplasia. Stroke outcome was defined as good (walking independently at the time of discharge) or poor (inability to walk at discharge, assistance needed to walk at discharge, or death). Severity of stroke was assessed using the National Institute of Health Stroke Scale.
+RESULTS: An incomplete circle of Willis was seen in 34% of subjects. There was no significant association between age, gender, hypertension, or presence of arterial stenosis and circle of Willis completeness. Using logistic regression, we found that the presence of an incomplete circle of Willis decreased the odds of a stroke patient having a good outcome by 47% (p = 0.046, OR 0.53, 95% CI 0.281-0.988), after adjusting for age and severity of stroke at admission.
+CONCLUSION: This study suggests that an incomplete circle of Willis may be associated with a poorer prognosis for stroke patients.
+
+Citation: Lin E, et al. Incomplete circle of Willis variants and stroke outcome. Incomplete circle of Willis variants and stroke outcome. 2022; 153:110383. doi: 10.1016/j.ejrad.2022.110383
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35661459/

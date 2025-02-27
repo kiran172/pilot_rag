@@ -1,0 +1,8 @@
+PMID: 38566253
+Title: Impact of minimal lumen segmentation uncertainty on patient-specific coronary simulations: A look at FFR<sub>CT</sub>.
+
+Abstract: We examined the effect of minimal lumen segmentation uncertainty on Fractional Flow Reserve obtained from Coronary Computed Tomography Angiography   FFR CT    . A total of 14 patient-specific coronary models with different stenosis locations and degrees of severity were enrolled in this study. The optimal segmented coronary lumens were disturbed using intra   ± 6 %    and inter-operator   ± 15 %    variations on the segmentation threshold.  FFR CT   was evaluated in each case by 3D-OD CFD simulations. The findings suggest that the sensitivity of  FFR CT   to this type of uncertainty increases distally and with the stenosis severity. Cases with moderate or severe distal coronary lesions should undergo either exact and thorough segmentation operations or invasive FFR measurements, particularly if the  FFR CT   is close to the cutoff (0.80). Therefore, we conclude that it is crucial to consider the lesion's location and degree of severity when evaluating  FFR CT   results.
+
+Citation: Fernández-Martínez D, et al. Impact of minimal lumen segmentation uncertainty on patient-specific coronary simulations: A look at FFR<sub>CT</sub>. Impact of minimal lumen segmentation uncertainty on patient-specific coronary simulations: A look at FFR<sub>CT</sub>. 2024; 40:e3822. doi: 10.1002/cnm.3822
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38566253/

@@ -1,0 +1,11 @@
+PMID: 33267950
+Title: Predictors of Occlusion of Hepatic Blood Vessels after Irreversible Electroporation of Liver Tumors.
+
+Abstract: PURPOSE: To examine predictors of midterm occlusion in portal and hepatic veins within or adjacent to the ablation zone after irreversible electroporation (IRE) of liver tumors.
+MATERIALS AND METHODS: This retrospective cohort analysis included 39 patients who underwent CT-guided IRE of liver tumors. Vessels within or adjacent to the ablation zone were identified on CT images acquired immediately after the procedure, and the positional relationships with the ablation zone (within/adjacent), locations (proximal/distal), and diameters (< 4 mm or ≥ 4 mm) were evaluated. Using contrast-enhanced follow-up scans, each vessel was classified as patent, stenosed, or occluded. Associations between vessel occlusion and each variable were investigated.
+RESULTS: Overall, 33 portal veins and 64 hepatic veins were analyzed. Follow-up scans showed occlusion in 12/33 (36.7%) portal veins and 17/64 (26.6%) hepatic veins. Vessels within the ablation zone were occluded significantly more frequently than vessels adjacent to the ablation zone (portal: 55.6% [10/18] vs 13.3% [2/15], P = .04; hepatic: 45.4% [15/33] vs 6.4% [2/31], P = .011). Vessels with a diameter < 4 mm were also occluded significantly more frequently than vessels with a diameter ≥ 4 mm (portal: 72.7% [8/11] vs 18.1% [4/22], P = .011; hepatic: 54.8% [17/31] vs 0% [0/33], P < .001). The respective positive and negative predictive values for occlusion of vessels categorized as both within and < 4 mm were 88% (7/8) and 82% (20/25) for portal veins and 79% (15/19) and 96% (43/45) for hepatic veins.
+CONCLUSIONS: Midterm vessel occlusion after liver IRE could be predicted with relatively high accuracy by assessing ablation location and vessel diameter.
+
+Citation: Tamura M, et al. Predictors of Occlusion of Hepatic Blood Vessels after Irreversible Electroporation of Liver Tumors. Predictors of Occlusion of Hepatic Blood Vessels after Irreversible Electroporation of Liver Tumors. 2020; 31:2033-2042.e1. doi: 10.1016/j.jvir.2020.08.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33267950/

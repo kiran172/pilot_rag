@@ -1,0 +1,11 @@
+PMID: 32902918
+Title: Functional coronary angiography in symptomatic patients with no obstructive coronary artery disease.
+
+Abstract: BACKGROUND: Patients without obstructive coronary artery disease (CAD) may have epicardial or microvascular dysfunction. The purpose of this study was to characterize patterns of epicardial and microvascular dysfunction in men and women with stable and unstable angina undergoing functional coronary angiography to inform medical therapy.
+METHODS: 163 symptomatic patients with ≤50% diameter stenosis and fractional flow reserve (FFR) &gt; 0.8 underwent endothelium-dependent epicardial and microvascular function after intracoronary acetylcholine (10-4  M, 81 mcg over 3 minutes). Endothelium-independent function was assessed using coronary flow reserve (CFR) and hyperemic microvascular resistance (HMR) after intravenous adenosine (140 ug/kg/min). Coronary microvascular dysfunction (CMD) was defined as CFR &lt; 2.5, HMR ≥2, or ≤50% change in coronary blood flow with acetylcholine (CBF<sub>ACH</sub> ).
+RESULTS: Seventy-two percent had endothelial-dependent epicardial dysfunction (response to ACH: % ∆ in coronary artery diameter and ∆%CBF<sub>ACH</sub> ) and 92% had CMD. Among CMD patients, 65% had CFR &lt; 2.5, 35% had HMR ≥2, and 60% had CBF<sub>ACH</sub> change ≤50%. CFR modestly correlated with HMR (r = -0.38, p &lt; .0001). Among patients with normal CFR, 26% had abnormal epicardial and 20% had abnormal microvascular endothelial dysfunction. Women had a lower CFR (p = .02), higher FFR (p = .03) compared to men. There were no differences in epicardial and microvascular function between patients with stable and unstable angina.
+CONCLUSION: In patients with no obstructive CAD: CMD is prevalent, abnormal CFR does not correlate with epicardial or microvascular endothelial dysfunction, women have lower CFR, higher FFR but similar endothelial function compared to men.
+
+Citation: Kumar S, et al. Functional coronary angiography in symptomatic patients with no obstructive coronary artery disease. Functional coronary angiography in symptomatic patients with no obstructive coronary artery disease. 2021; 98:827-835. doi: 10.1002/ccd.29237
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32902918/

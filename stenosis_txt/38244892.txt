@@ -1,0 +1,12 @@
+PMID: 38244892
+Title: ACURATE neo2 Transcatheter aortic valve implantation without balloon aortic valvuloplasty - direct ACURATE neo2.
+
+Abstract: BACKGROUND: ACURATE neo2 (Neo2) implantation is performed after systematic Balloon Aortic Valvuloplasty (BAV) in most patients. No reports exist about the feasibility and safety of direct Neo2 transcatheter aortic valve implantation (TAVI) in comparison to the standard practice.
+AIM: We aimed to identify the patients' baseline anatomical characteristics, procedural, and early post-procedural outcomes in patients treated using Neo2 with and without BAV.
+METHODOLOGY: This is a retrospective multicentre analysis of 499 patients with severe aortic stenosis who underwent TAVI using Neo2. The comparison was done according to the performance or omission of BAV. Echocardiography and computed tomography were analysed by an independent Core Lab. Propensity score matching (PSM) was performed based on the annular diameter and AV calcium volume, which identified 84 matched pairs.
+RESULTS: Among the cohort included, 391 (78%) patients received BAV (BAV-yes) and 108 (22%) were not attempted (BAV-no or Direct TAVI). Patients in BAV-no cohort had smaller annular diameter (22.6 vs 23.4 mm; p &lt; 0.001) and lower calcium volume (163 vs 581 mm3; p &lt; 0.001) compared to BAV-yes cohort. In the matched cohort, VARC-3 device technical success was similar (95%) and all other outcome measures were statistically comparable between cohorts.
+CONCLUSION: Direct TAVI using ACURATEneo2 without pre-TAVI balloon aortic valvuloplasty in patients with mild or less valve calcifications might be feasible and associated with comparable early outcomes compared to patients with similar anatomical features undergoing systematic balloon valvuloplasty.
+
+Citation: Elkoumy A, et al. ACURATE neo2 Transcatheter aortic valve implantation without balloon aortic valvuloplasty - direct ACURATE neo2. ACURATE neo2 Transcatheter aortic valve implantation without balloon aortic valvuloplasty - direct ACURATE neo2. 2024; 400:131792. doi: 10.1016/j.ijcard.2024.131792
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38244892/

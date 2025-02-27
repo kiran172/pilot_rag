@@ -1,0 +1,11 @@
+PMID: 35946762
+Title: Prognostic Value of T-wave Positivity in Lead aVR in COVID-19 Pneumonia.
+
+Abstract: OBJECTIVE: T-wave positivity in the lead aVR is a marker of ventricular repolarization abnormality and provides information on short- and long-term cardiovascular mortality in heart failure patients, those with anterior myocardial infarction, and patients who underwent hemodialysis for various reasons. The aim of this study was to investigate the relationship between T-wave positivity in the lead aVR on superficial electrocardiogram and mortality from COVID-19 pneumonia.
+METHODS: This study retrospectively included 130 patients who were diagnosed with COVID-19 and treated as an outpatient or in the thoracic diseases ward in a single center between January 2021 and June 2021. All patients included in the study had clinical and radiological features and signs of COVID-19 pneumonia. The COVID-19 diagnosis of all patients was confirmed by polymerase chain reaction detected from an oropharyngeal swab.
+RESULTS: A total of 130 patients were included in this study. Patients were divided into two groups: survived and deceased. There were 55 patients (mean age: 64.76-14.93 years, 58.18 male, 41.12% female) in the survived group and 75 patients (mean age: 65-15 years, 58.67 male, 41.33% female) in the deceased group. The univariate and multivariate regression analyses showed that positive transcatheter aortic valve replacement (OR 5.151; 95%CI 1.001-26.504; p=0.0012), lactate dehydrogenase (OR 1.006; 95%CI 1.001-1.010; p=0.012), and d-dimer (OR 1.436; 95%CI 1.115-1.848; p=0.005) were independent risk factors for mortality.
+CONCLUSION: A positive transcatheter aortic valve replacement is useful in risk stratification for mortality from COVID-19 pneumonia.
+
+Citation: Sivri F, et al. Prognostic Value of T-wave Positivity in Lead aVR in COVID-19 Pneumonia. Prognostic Value of T-wave Positivity in Lead aVR in COVID-19 Pneumonia. 2022; 68:882-887. doi: 10.1590/1806-9282.20211096
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35946762/

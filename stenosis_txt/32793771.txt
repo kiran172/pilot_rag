@@ -1,0 +1,8 @@
+PMID: 32793771
+Title: Dataset on blood flow and instantaneous wave-free ratio in normal and stenosed coronary arteries.
+
+Abstract: Instantaneous wave-free ratio (iFR) has been proposed as a hemodynamic parameter that can reliably reflect the blood flow in stenosed coronary arteries. Currently, there are few investigations on the quantitative analysis of iFR in the patients regarding the variation of microcirculatory resistance (MR). The data aim to provide geometric (cross-section area of branches) and hemodynamic (flow rate and iFR of branches) parameters of normal and stenosed coronary arteries derived from CFD simulation. The CFD simulation was performed on the three-dimensional artery models reconstructed from computed tomography (CT) images of four subjects. The hemodynamic parameters were obtained in six situations of MR to simulate coronary microvascular dysfunction (CMD). This dataset could be used as the reference to estimate the iFR and flow rate in patients with CMD and stenosis in coronary arteries. The geometric parameters could be used in the modelling of coronary arteries.
+
+Citation: Liu H, et al. Dataset on blood flow and instantaneous wave-free ratio in normal and stenosed coronary arteries. Dataset on blood flow and instantaneous wave-free ratio in normal and stenosed coronary arteries. 2020; 32:106011. doi: 10.1016/j.dib.2020.106011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32793771/

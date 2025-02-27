@@ -1,0 +1,8 @@
+PMID: 39227297
+Title: A review of computational methodologies to predict the fractional flow reserve in coronary arteries with stenosis.
+
+Abstract: Computational methodologies for predicting the fractional flow reserve (FFR) in coronary arteries with stenosis have gained significant attention due to their potential impact on healthcare outcomes. Coronary artery disease is a leading cause of mortality worldwide, prompting the need for accurate diagnostic and treatment approaches. The use of medical image-based anatomical vascular geometries in computational fluid dynamics (CFD) simulations to evaluate the hemodynamics has emerged as a promising tool in the medical field. This comprehensive review aims to explore the state-of-the-art computational methodologies focusing on the possible considerations. Key aspects include the rheology of blood, boundary conditions, fluid-structure interaction (FSI) between blood and the arterial wall, and multiscale modelling (MM) of stenosis. Through an in-depth analysis of the literature, the goal is to obtain an overview of the major achievements regarding non-invasive methods to compute FFR and to identify existing gaps and challenges that inform further advances in the field. This research has the major objective of improving the current diagnostic capabilities and enhancing patient care in the context of cardiovascular diseases.
+
+Citation: Fernandes M, et al. A review of computational methodologies to predict the fractional flow reserve in coronary arteries with stenosis. A review of computational methodologies to predict the fractional flow reserve in coronary arteries with stenosis. 2024; (unknown volume):112299. doi: 10.1016/j.jbiomech.2024.112299
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39227297/

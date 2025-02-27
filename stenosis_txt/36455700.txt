@@ -1,0 +1,11 @@
+PMID: 36455700
+Title: Surgical edge-to-edge repair for tricuspid regurgitation: Impact of the concomitant annuloplasty.
+
+Abstract: BACKGROUND: Surgical edge-to-edge repair has been suggested for tricuspid regurgitation (TR) with complex tricuspid valve (TV) pathologies. Nevertheless, the impact of concomitant TAP has not been well established. This study aimed to compare the outcomes of tricuspid edge-to-edge repair according to the implementation of concomitant TAP.
+METHODS: A total of 264 patients who underwent tricuspid edge-to-edge repair between January 2001 and December 2020 were enrolled in the study, and 23 patients who had undergone previous TV repair were excluded. The remaining 241 patients were categorized into two groups: TAP (n = 190) and non-TAP (n = 51). Inverse probability of treatment weighting (IPTW) was used to adjust the baseline differences between the two groups.
+RESULTS: Early mortality and morbidity did not differ between the two groups. The mean follow-up duration was 111.5 ± 72.4 months. IPTW-adjusted survival analysis did not reveal a difference between the two groups in late significant tricuspid stenosis (trans-tricuspid pressure gradient ≥5 mmHg) and TV reoperations. However, freedom from overall mortality and late severe TR were significantly higher in the TAP group (p = 0.033 and 0.006, respectively). The sensitivity analysis, including propensity score matching, showed consistent results.
+CONCLUSION: The long-term outcomes of surgical tricuspid edge-to-edge repair were better when performed with concomitant TAP.
+
+Citation: Lee H, et al. Surgical edge-to-edge repair for tricuspid regurgitation: Impact of the concomitant annuloplasty. Surgical edge-to-edge repair for tricuspid regurgitation: Impact of the concomitant annuloplasty. 2023; 372:85-90. doi: 10.1016/j.ijcard.2022.11.055
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36455700/

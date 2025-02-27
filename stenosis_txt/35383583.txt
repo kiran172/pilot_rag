@@ -1,0 +1,11 @@
+PMID: 35383583
+Title: Physiologic and compositional coronary artery disease extension in patients with takotsubo syndrome assessed using artificial intelligence: an optical coherence tomography study.
+
+Abstract: BACKGROUND: Takotsubo syndrome (TTS) is an acute and reversible ventricular motion abnormality without epicardial coronary obstruction. Optical flow ratio (OFR) is an approach to evaluate the coronary stenosis significance based on three-dimensional optical coherence tomography (3D-OCT). The aim of this study is to utilize OCT and an artificial intelligence plaque characterization model to show the prevalence and composition of atherosclerotic disease in coronary vessels of patients with TTS.
+METHODS: This is a retrospective and observational study which enrolled patients with TTS who underwent coronary angiography and OCT examination. OCT images were analyzed for tissue characterization and OFR computation using a novel artificial intelligence algorithm.
+RESULTS: A total of 37 patients and 49 vessels were studied. All patients were imaged in the left anterior descending coronary artery (LAD) and about two-thirds were also imaged in the left circumflex coronary artery (LCX). Most patients were women ( n = 35), and apical was the most common takotsubo type. Tissue composition analysis yielded the following overall plaque types: fibrous (67.1%), lipid (15.5%), and calcium (3.77%). The mean OFR for LAD and LCX was 0.97 ± 0.04 and 0.98 ± 0.02, respectively.
+CONCLUSION: Utilizing automatic plaque characterization on OCT images by artificial intelligence, we found that TTS patients have coronary artery disease (i.e. presence of lipid, calcified, or fibrous tissue). The advent of artificial intelligence methods may allow for large-scale studies of patients with TTS.
+
+Citation: Kumar S, et al. Physiologic and compositional coronary artery disease extension in patients with takotsubo syndrome assessed using artificial intelligence: an optical coherence tomography study. Physiologic and compositional coronary artery disease extension in patients with takotsubo syndrome assessed using artificial intelligence: an optical coherence tomography study. 2022; 33:349-353. doi: 10.1097/MCA.0000000000001130
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35383583/

@@ -1,0 +1,13 @@
+PMID: 33290179
+Title: Quantitative Assessment of the Immune Microenvironment in Patients With Iatrogenic Laryngotracheal Stenosis.
+
+Abstract: OBJECTIVE: Iatrogenic laryngotracheal stenosis (iLTS) is characterized by fibroinflammatory narrowing of the upper airway and is most commonly caused by intubation injury. Evidence suggests a key role for CD4 T cells in its pathogenesis. The objective of this study is to validate emerging multiplex immunofluorescence (mIF) technology for use in the larynx and trachea while quantitatively characterizing the immune cell infiltrate in iLTS. In addition to analyzing previously unstudied immune cell subsets, this study aims to validate previously observed elevations in the immune checkpoint PD-1 and its ligand PD-L1 while exploring their spatial and cellular distributions in the iLTS microenvironment.
+STUDY DESIGN: Controlled ex vivo cohort study.
+SETTING: Tertiary care center.
+METHODS: mIF staining was performed with formalin-fixed, paraffin-embedded slides from 10 patients with iLTS who underwent cricotracheal resection and 10 control specimens derived from rapid autopsy for CD4, CD8, CD20, FoxP3, PD-1, PD-L1, and cytokeratin.
+RESULTS: There was greater infiltration of CD4+ T cells, CD8+ T cells, CD20+ B cells, FoxP3+CD4+ Tregs, and FoxP3+CD8+ early effector T cells in the submucosa of iLTS specimens as compared with controls (P &lt; .05 for all). PD-1 was primarily expressed on T cells and PD-L1 predominantly on CD4+ cells and "other" cells.
+CONCLUSION: This study leverages the power of mIF to quantify the iLTS immune infiltrate in greater detail. It confirms the highly inflammatory nature of iLTS, with CD4+ cells dominating the immune cell infiltrate; it further characterizes the cellular and spatial distribution of PD-1 and PD-L1; and it identifies novel immunologic targets in iLTS.
+
+Citation: Davis RJ, et al. Quantitative Assessment of the Immune Microenvironment in Patients With Iatrogenic Laryngotracheal Stenosis. Quantitative Assessment of the Immune Microenvironment in Patients With Iatrogenic Laryngotracheal Stenosis. 2021; 164:1257-1264. doi: 10.1177/0194599820978271
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33290179/

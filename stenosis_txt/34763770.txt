@@ -1,0 +1,12 @@
+PMID: 34763770
+Title: Diagnostic Performance of Dynamic Myocardial Perfusion Imaging Using Dual-Source Computed Tomography.
+
+Abstract: BACKGROUND: Single-center studies indicated a high diagnostic accuracy of dynamic computed tomography perfusion (CTP) imaging in the diagnosis of coronary artery disease (CAD).
+OBJECTIVES: This prospective multicenter study determined the diagnostic performance of combined coronary computed tomography angiography (CTA) and CTP for detecting hemodynamically significant CAD defined by invasive coronary angiography (ICA) with fractional flow reserve (FFR).
+METHODS: Seven centers enrolled 174 patients with suspected or known CAD who were clinically referred for ICA. CTA and dynamic CTP were performed using dual-source CT before ICA. FFR was done as part of ICA in the case of 26% to 90% coronary diameter stenosis. Hemodynamically significant stenosis was defined as FFR of <0.8 or >90% stenosis on ICA.
+RESULTS: The study protocol was completed in 157 participants, and hemodynamically significant stenosis was detected in 76 of 157 patients (48%) and 112 of 442 vessels (25%). According to receiver-operating characteristic curve analysis, adding dynamic CTP to CTA significantly increased the area under the curve from 0.65 (95% CI: 0.57-0.72) to 0.74 (95% CI: 0.66-0.81; P = 0.011) on the patient level, with decreased sensitivity (93% vs 72%; P < 0.001), improved specificity (36% vs 75%; P < 0.001), and improved overall accuracy (64% vs 74%; P < 0.001).
+CONCLUSIONS: In this prospective multicenter study on dynamic CTP, the combination of anatomic assessment with coronary CTA and functional evaluation with dynamic CTP allowed more accurate identification of hemodynamically significant CAD compared with CTA alone. However, the clinical significance of this approach needs to be further investigated, including its usefulness in improving prognosis. (Assessment of Myocardial Perfusion Linked to Infarction and Fibrosis Explored With Dual-Source CT [AMPLIFiED]; UMIN000016353).
+
+Citation: Kitagawa K, et al. Diagnostic Performance of Dynamic Myocardial Perfusion Imaging Using Dual-Source Computed Tomography. Diagnostic Performance of Dynamic Myocardial Perfusion Imaging Using Dual-Source Computed Tomography. 2021; 78:1937-1949. doi: 10.1016/j.jacc.2021.08.067
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34763770/

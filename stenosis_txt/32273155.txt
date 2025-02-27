@@ -1,0 +1,11 @@
+PMID: 32273155
+Title: Multi-biomarker mortality prediction in patients with aortic stenosis undergoing valve replacement.
+
+Abstract: OBJECTIVES: The prognostic value of biomarkers in aortic stenosis (AS) remains understudied. We investigated whether a combination of biomarkers related to cardiovascular stress, inflammation, and damage is associated with mortality in patients with severe AS undergoing surgical aortic valve replacement (SAVR).
+METHODS: From a prospective registry of patients with severe AS referred for SAVR, 499 participants (mean age, 68 ± 8.5 years; 292 male) with available preoperative echocardiograms and biomarker data were included. Preoperative concentrations of NT-pro-B-type natriuretic peptide, high-sensitivity cardiac troponin T, and C-reactive protein were dichotomized as high or low, according to calculated cut-off values.
+RESULTS: The mean follow-up time was 775 ± 410 days; 25 patients died. Only patients with elevated levels of all three biomarkers (n = 55) showed increased mortality [hazard ratio (HR), 7.26; 95% confidence interval (CI), 2.52-20.93; p < 0.001; reference group, no elevated biomarkers, n = 159]. Patients with elevated levels of the three biomarkers had higher 3-year all-cause mortality (24% vs. 4.5%); this remained true after multivariable adjustment (HR, 4.08; 95% CI, 1.87-8.87; p < 0.001). Patients with EuroSCOREs (logES) >3.0% tended to exhibit a higher risk of all-cause mortality (HR, 2.19; 95% CI, 0.98-4.87; p = 0.055); the mortality rate was 12-fold higher when logES >3 was combined with the three elevated biomarkers. This combination also showed a net reclassification improvement of 33% and significant likelihood-ratio test results.
+CONCLUSIONS: A multiple biomarker approach might be useful for predicting postoperative mid-term mortality in patients with severe AS undergoing SAVR. Further large-scale prospective validation should be performed.
+
+Citation: Spampinato RA, et al. Multi-biomarker mortality prediction in patients with aortic stenosis undergoing valve replacement. Multi-biomarker mortality prediction in patients with aortic stenosis undergoing valve replacement. 2020; 76:154-162. doi: 10.1016/j.jjcc.2020.02.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32273155/

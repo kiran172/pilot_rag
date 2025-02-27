@@ -1,0 +1,12 @@
+PMID: 33423530
+Title: Additional value of deep learning computed tomographic angiography-based fractional flow reserve in detecting coronary stenosis and predicting outcomes.
+
+Abstract: BACKGROUND: Deep learning (DL) has achieved great success in medical imaging and could be utilized for the non-invasive calculation of fractional flow reserve (FFR) from coronary computed tomographic angiography (CCTA) (CT-FFR).
+PURPOSE: To examine the ability of a DL-based CT-FFR in detecting hemodynamic changes of stenosis.
+MATERIAL AND METHODS: This study included 73 patients (85 vessels) who were suspected of coronary artery disease (CAD) and received CCTA followed by invasive FFR measurements within 90 days. The diagnostic accuracy, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and area under the receiver operating characteristics curve (AUC) were compared between CT-FFR and CCTA. Thirty-nine patients who received drug therapy instead of revascularization were followed for up to 31 months. Major adverse cardiac events (MACE), unstable angina, and rehospitalization were evaluated and compared between the study groups.
+RESULTS: At the patient level, CT-FFR achieved 90.4%, 93.6%, 88.1%, 85.3%, and 94.9% in accuracy, sensitivity, specificity, PPV, and NPV, respectively. At the vessel level, CT-FFR achieved 91.8%, 93.9%, 90.4%, 86.1%, and 95.9%, respectively. CT-FFR exceeded CCTA in these measurements at both levels. The vessel-level AUC for CT-FFR also outperformed that for CCTA (0.957 vs. 0.599, P &lt; 0.0001). Patients with CT-FFR ≤0.8 had higher rates of rehospitalization (hazard ratio [HR] 4.51, 95% confidence interval [CI] 1.08-18.9) and MACE (HR 7.26, 95% CI 0.88-59.8), as well as a lower rate of unstable angina (HR 0.46, 95% CI 0.07-2.91).
+CONCLUSION: CT-FFR is superior to conventional CCTA in differentiating functional myocardial ischemia. In addition, it has the potential to differentiate prognoses of patients with CAD.
+
+Citation: Li Y, et al. Additional value of deep learning computed tomographic angiography-based fractional flow reserve in detecting coronary stenosis and predicting outcomes. Additional value of deep learning computed tomographic angiography-based fractional flow reserve in detecting coronary stenosis and predicting outcomes. 2022; 63:133-140. doi: 10.1177/0284185120983977
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33423530/

@@ -1,0 +1,11 @@
+PMID: 37903555
+Title: Computed tomography calcium scoring in aortic stenosis: bicuspid versus tricuspid morphology.
+
+Abstract: OBJECTIVE: CT aortic valve calcium score (AVC<sub>score</sub>) and density (AVC<sub>density</sub>) thresholds have been recommended for aortic stenosis (AS) severity assessment in tricuspid aortic valve (TAV). We aimed to compare AVC<sub>score</sub> and AVC<sub>density</sub> in bicuspid aortic valve (BAV) versus TAV.
+METHODS: Retrospective single-centre study of patients with echocardiographic AS-severity and CT-AVC assessments within 6 months, and left ventricular ejection fraction ≥50%, all referred for clinical AS evaluation.Severe AS was defined as aortic valve area (AVA) ≤1 cm2 or indexed AVA ≤0.6cm2/m2 plus mean gradient ≥40 mm Hg or peak velocity ≥4 m/s. AVC was assessed by Agatston method.
+RESULTS: Of the 1957 patients, 328 had BAV and 1629 had TAV, age 65±11 vs 80±9 years (p&lt;0.001), men 65% vs 56% (p=0.006), respectively. BAV morphology was associated with higher AVC<sub>score</sub> and AVC<sub>density</sub> independent of age, comorbidities and AS severity (p&lt;0.001) in men only (sex and BAV interaction p&lt;0.001). In patients with severe AS, mean AVC<sub>score</sub> and AVC<sub>density</sub> were higher in BAV-men than that in TAV-men (both p&lt;0.001), but similar in BAV-women and TAV-women (both p≥0.4). Such patterns remained the same after adjustment for clinical covariates and AS severity. Best thresholds for severe AS diagnosis in BAV-men were 2916 AU by AVC<sub>score</sub> and 600 AU/cm2 by AVC<sub>density</sub> which were higher than the guideline-recommended thresholds, while thresholds in BAV-women (1036 AU and 282 AU/cm2) were similar to guideline-recommended ones.
+CONCLUSION: Valve calcification in AS differs according to valve morphology and sex. BAV-men with severe AS exhibit greater AVC<sub>score</sub> and AVC<sub>density</sub> than TAV-men. This presents a diagnostic challenge to the current guidelines, which needs confirmation in larger studies.
+
+Citation: Ye Z, et al. Computed tomography calcium scoring in aortic stenosis: bicuspid versus tricuspid morphology. Computed tomography calcium scoring in aortic stenosis: bicuspid versus tricuspid morphology. 2024; 110:594-602. doi: 10.1136/heartjnl-2023-323281
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37903555/

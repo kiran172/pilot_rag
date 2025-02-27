@@ -1,0 +1,11 @@
+PMID: 37367393
+Title: The Importance of Mehran Score to Predict Acute Kidney Injury in Patients with TAVI: A Large Multicenter Cohort Study.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) has developed as an alternative to surgery for symptomatic high-risk patients with aortic stenosis (AS). An important complication of TAVI is acute kidney injury. The purpose of the study was to investigate if the Mehran Score (MS) could be used to predict acute kidney injury (AKI) in TAVI patients.
+METHODS: This is a multicenter, retrospective, observational study including 1180 patients with severe AS. The MS comprised eight clinical and procedural variables: hypotension, congestive heart failure class, glomerular filtration rate, diabetes, age >75 years, anemia, need for intra-aortic balloon pump, and contrast agent volume use. We assessed the sensitivity and specificity of the MS in predicting AKI following TAVI, as well as the predictive value of MS with each AKI-related characteristic.
+RESULTS: Patients were categorized into four risk groups based on MS: low (≤5), moderate (6-10), high (11-15), and very high (≥16). Post-procedural AKI was observed in 139 patients (11.8%). MS classes had a higher risk of AKI in the multivariate analysis (HR 1.38, 95% CI, 1.43-1.63, p &lt; 0.01). The best cutoff for MS to predict the onset of AKI was 13.0 (AUC, 0.62; 95% CI, 0.57-0.67), whereas the best cutoff for eGFR was 42.0 mL/min/1.73 m2 (AUC, 0.61; 95% CI, 0.56-0.67).
+CONCLUSIONS: MS was shown to be a predictor of AKI development in TAVI patients.
+
+Citation: Arrotti S, et al. The Importance of Mehran Score to Predict Acute Kidney Injury in Patients with TAVI: A Large Multicenter Cohort Study. The Importance of Mehran Score to Predict Acute Kidney Injury in Patients with TAVI: A Large Multicenter Cohort Study. 2023; 10:(unknown pages). doi: 10.3390/jcdd10060228
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37367393/

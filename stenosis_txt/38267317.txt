@@ -1,0 +1,12 @@
+PMID: 38267317
+Title: Impact of the coronavirus disease 2019 pandemic on aortic valve replacement and outcomes in France.
+
+Abstract: BACKGROUND: The coronavirus disease of 2019 (COVID-19) pandemic lockdowns limited access to medical care. The impact on surgical (SAVR) and transcatheter (TAVR) aortic valve replacement (AVR) has been poorly described.
+AIM: We sought to evaluate the impact of the COVID-19 pandemic on the number and modalities of AVR, patient demographics and in-hospital outcomes at the nationwide level.
+METHODS: Using the French nationwide administrative hospital discharge database, we compared projected numbers and proportions of AVR and hospital outcomes, obtained using linear regressions derived from 2015-2019 trends, with those observed in 2020.
+RESULTS: In 2020, 21,382 AVRs were performed (13,051 TAVRs, 5706 isolated SAVRs and 2625 SAVRs combined with other cardiac surgery). Compared with the 2020 projected number of AVRs (24,586, 95% confidence interval [CI] 23,525-25,646), TAVRs (14,866, 95% CI 14,164-15,568), isolated SAVRs (6652, 95% CI 6203-7100) and SAVRs combined with other cardiac surgery (3069, 95% CI 2822-3315), there were reductions of 13.0%, 12.2%, 14.2% and 14.5%, respectively. These trends were similar regardless of sex or age. In 2020, the mean age, Charlson Comorbidity Index and hospital admission duration continued to decline, and the proportion of females remained constant, following 2015-2019 trends. Overall, 2020 in-hospital mortality was higher than projected (2.0% observed vs. 1.7% projected; 95% CI 1.5-1.9%), with no increased pacemaker implantation, but more acute kidney injury and cerebrovascular accidents in some surgical subsets.
+CONCLUSIONS: During the COVID-19 pandemic, fewer TAVR and SAVR procedures were performed, with increased in-hospital mortality and periprocedural complications. Extended follow-up will be important to establish the long-term effect of the COVID-19 pandemic on patient management and outcomes.
+
+Citation: Prosperi-Porta G, et al. Impact of the coronavirus disease 2019 pandemic on aortic valve replacement and outcomes in France. Impact of the coronavirus disease 2019 pandemic on aortic valve replacement and outcomes in France. 2024; 117:143-152. doi: 10.1016/j.acvd.2023.12.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38267317/

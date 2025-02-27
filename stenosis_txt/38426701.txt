@@ -1,0 +1,11 @@
+PMID: 38426701
+Title: The Effect of Aortic Angulation on Clinical Outcomes of Patients Undergoing Transcatheter Aortic Valve Replacement.
+
+Abstract: INTRODUCTION: The aim of this study was to assess the impact of aortic angulation (AA) on periprocedural and in-hospital complications as well as mortality of patients undergoing Evolut™ R valve implantation.
+METHODS: A retrospective study was conducted on 264 patients who underwent transfemoral-approach transcatheter aortic valve replacement with self-expandable valve at our hospital between August 2015 and August 2022. These patients underwent multislice computer tomography scans to evaluate AA. Transcatheter aortic valve replacement endpoints, device success, and clinical events were assessed according to the definitions provided by the Valve Academic Research Consortium-3. Cumulative events included paravalvular leak, permanent pacemaker implantation, new-onset stroke, and in-hospital mortality. Patients were divided into two groups, AA ≤ 48° and AA > 48°, based on the mean AA measurement (48.3±8.8) on multislice computer tomography.
+RESULTS: Multivariable logistic regression analysis was performed to identify predictors of cumulative events, utilizing variables with a P-value < 0.2 obtained from univariable logistic regression analysis, including AA, age, hypertension, chronic renal failure, and heart failure. AA (odds ratio [OR]: 1.73, 95% confidence interval [CI]: 0.89-3.38, P=0.104), age (OR: 1.04, 95% CI: 0.99-1.10, P=0.099), hypertension (OR: 1.66, 95% CI: 0.82-3.33, P=0.155), chronic renal failure (OR: 1.82, 95% CI: 0.92-3.61, P=0.084), and heart failure (OR: 0.57, 95% CI: 0.27-1.21, P=0.145) were not found to be significantly associated with cumulative events in the multivariable logistic regression analysis.
+CONCLUSION: This study demonstrated that increased AA does not have a significant impact on intraprocedural and periprocedural complications of patients with new generation self-expandable valves implanted.
+
+Citation: Aktan A, et al. The Effect of Aortic Angulation on Clinical Outcomes of Patients Undergoing Transcatheter Aortic Valve Replacement. The Effect of Aortic Angulation on Clinical Outcomes of Patients Undergoing Transcatheter Aortic Valve Replacement. 2024; 39:e20220436. doi: 10.21470/1678-9741-2022-0436
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38426701/

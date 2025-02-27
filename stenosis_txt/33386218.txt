@@ -1,0 +1,11 @@
+PMID: 33386218
+Title: FFR=1.0 flow changes after percutaneous coronary intervention.
+
+Abstract: BACKGROUND: The present study investigated the relationships between physiological indices and increased coronary flow during percutaneous coronary intervention (PCI) using a novel index of "anticipated maximum flow" [AMF; theoretical coronary flow of fractional flow reserve (FFR) = 1]. FFR-guided PCI aims to increase coronary flow, whereas recent studies have reported that PCI does not necessarily increase coronary flow despite improvement in FFR.
+METHODS: This retrospective analysis was performed in 71 functionally significant lesions treated with elective PCI. AMF obtained by hyperemic average peak coronary flow velocity (h-APV) divided by FFR would not change after PCI given the constant microvascular resistance, which is the assumption of FFR as a surrogate of coronary flow. We evaluated the relationship between AMF and coronary flow during PCI.
+RESULTS: Post-PCI AMF was significantly different from pre-PCI AMF (p = 0.022), which impacted discordance between FFR improvement and change in coronary flow. Coronary flow increase >50% was associated with smaller minimum lumen diameter (p = 0.010), greater diameter stenosis (p = 0.003), lower pre-PCI FFR (p < 0.001), lower pre-PCI coronary flow reserve (p = 0.001), higher pre-PCI hyperemic stenosis resistance (p < 0.001), lower pre-PCI h-APV (p = 0.001), and lower pre-PCI AMF (p = 0.031). Pre-PCI AMF provided significant incremental predictive capability for coronary flow increase >50% when added to the clinical model including pre-PCI FFR.
+CONCLUSION: Pre-PCI AMF provided incremental ability to predict increased coronary flow after PCI and impacted the discordance between FFR improvement and increased coronary flow.
+
+Citation: Matsuda J, et al. FFR=1.0 flow changes after percutaneous coronary intervention. FFR=1.0 flow changes after percutaneous coronary intervention. 2021; 77:634-640. doi: 10.1016/j.jjcc.2020.12.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33386218/

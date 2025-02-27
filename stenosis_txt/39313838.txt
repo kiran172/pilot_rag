@@ -1,0 +1,11 @@
+PMID: 39313838
+Title: Association between triglyceride-glucose index and all-cause mortality in patients underwent transcatheter aortic valve replacement.
+
+Abstract: BACKGROUNDS: The prognosis of the triglyceride-glucose (TyG) index, a validated surrogate marker for insulin resistance, in patients with severe aortic stenosis (AS) undergoing transcatheter aortic valve replacement (TAVR) remains unknown.
+METHODS: This study consecutively enrolled patients diagnosed with severe AS who underwent TAVR in a Chinese tertiary hospital from March 2013 to September 2023. Participants were stratified based on the TyG index cut-off value. Cox proportional hazards regression models were utilized to explore the association between the TyG index and all-cause mortality, including an assessment of interactions between the TyG index and various covariates on mortality outcomes.
+RESULTS: Among 1045 patients (mean age 74.7 years, 58.2% male), there was 134 all-cause mortality, resulting in a crude mortality rate of 64.3 per 1000 person-years. Adjusting for age, sex, body mass index, smoking, hypertension, diabetes mellitus, bicuspid aortic valve, atrial fibrillation, Society of Thoracic Surgeons (STS) score, and left ventricular ejection fraction, a per-unit increase in the TyG index was associated with a 41% higher all-cause mortality risk (HR 1.41, 95% CI 1.03-1.93, p = 0.030). Notably, the relationship between the TyG index and all-cause mortality was significantly modified by age (p<sub>interaction</sub> = 0.027), sex (p<sub>interaction</sub> = 0.007), hypertension (p<sub>interaction</sub> = 0.030), and STS score (p<sub>interaction</sub> = 0.002).
+CONCLUSIONS: A higher TyG index is significantly associated with an increased risk of all-cause mortality in AS patients after TAVR. These results underscore the importance of considering the TyG index in the prognostic evaluation of AS patients following TAVR.
+
+Citation: Fan J, et al. Association between triglyceride-glucose index and all-cause mortality in patients underwent transcatheter aortic valve replacement. Association between triglyceride-glucose index and all-cause mortality in patients underwent transcatheter aortic valve replacement. 2024; 24:508. doi: 10.1186/s12872-024-04177-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39313838/

@@ -1,0 +1,11 @@
+PMID: 38565717
+Title: Lesion Eccentricity Plays a Key Role in Determining the Pressure Gradient of Serial Stenotic Lesions: Results from a Computational Hemodynamics Study.
+
+Abstract: PURPOSE: In arterial disease, the presence of two or more serial stenotic lesions is common. For mild lesions, it is difficult to predict whether their combined effect is hemodynamically significant. This study assessed the hemodynamic significance of idealized serial stenotic lesions by simulating their hemodynamic interaction in a computational flow model.
+MATERIALS AND METHODS: Flow was simulated with SimVascular software in 34 serial lesions, using moderate (15 mL/s) and high (30 mL/s) flow rates. Combinations of one concentric and two eccentric lesions, all 50% area reduction, were designed with variations in interstenotic distance and in relative direction of eccentricity. Fluid and fluid-structure simulations were performed to quantify the combined pressure gradient.
+RESULTS: At a moderate flow rate, the combined pressure gradient of two lesions ranged from 3.8 to 7.7 mmHg, which increased to a range of 12.5-24.3 mmHg for a high flow rate. Eccentricity caused an up to two-fold increase in pressure gradient relative to concentric lesions. At a high flow rate, the combined pressure gradient for serial eccentric lesions often exceeded the sum of the individual lesions. The relative direction of eccentricity altered the pressure gradient by 15-25%. The impact of flow pulsatility and wall deformability was minor.
+CONCLUSION: This flow simulation study revealed that lesion eccentricity is an adverse factor in the hemodynamic significance of isolated stenotic lesions and in serial stenotic lesions. Two 50% lesions that are individually non-significant can combine more often than thought to hemodynamic significance in hyperemic conditions.
+
+Citation: van de Velde L, et al. Lesion Eccentricity Plays a Key Role in Determining the Pressure Gradient of Serial Stenotic Lesions: Results from a Computational Hemodynamics Study. Lesion Eccentricity Plays a Key Role in Determining the Pressure Gradient of Serial Stenotic Lesions: Results from a Computational Hemodynamics Study. 2024; 47:533-542. doi: 10.1007/s00270-024-03708-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38565717/

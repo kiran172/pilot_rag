@@ -1,0 +1,11 @@
+PMID: 32571762
+Title: Very Early Changes in Quality of Life After Transcatheter Aortic Valve Replacement: Results From the 3M TAVR Trial.
+
+Abstract: BACKGROUND: Patients with severe, symptomatic aortic stenosis derive substantial 30-day quality of life (QOL) benefit from transcatheter aortic valve replacement (TAVR). Whether the QOL benefit of TAVR emerges earlier is unknown. We used data from the Multimodality, Multidisciplinary but Minimalist (3M) TAVR study to assess early changes in QOL after transfemoral (TF) TAVR.
+METHODS: Health status was assessed at baseline, 2-weeks, 30-days, and 1-year after TAVR using the Kansas City Cardiomyopathy Questionnaire (KCCQ) and Medical Outcomes Study Short-Form 12 (SF-12). The KCCQ overall summary (KCCQ-OS) score (range 0-100; higher scores = better health) was the primary health status outcome. Linear mixed effects models were used to describe trajectories of QOL scores over time. A good outcome was defined as being "alive and well", with a KCCQ-OS score ≥ 60 points with no decrease from baseline ≥10 points.
+RESULTS: A total of 358 patients (87.1%) completed the baseline and at least one follow-up survey. Between baseline and 2-weeks, the KCCQ-OS increased by 21.3 points (95% confidence interval [CI]: 19.3-23.2). This improvement was sustained over time with only slight further improvement between 2-weeks and 1-month (3.4 points; 95% CI: 1.4 to 5.5) and no significant change between 1-month and 1-year (1.9 points; 95% CI: -0.2 to 4.1). Scores for the KCCQ subscales and SF-12 physical and mental component summary scales showed a similar pattern. Most patients (74.4%) were "alive and well" at 2 weeks with similar rates at 1-month and 1-year (79.5% and 77.3%, respectively).
+CONCLUSIONS: Among patients undergoing TF-TAVR, both disease-specific and generic health status improved substantially within the first 2 weeks, with only minimal further improvement thereafter.
+
+Citation: Lauck SB, et al. Very Early Changes in Quality of Life After Transcatheter Aortic Valve Replacement: Results From the 3M TAVR Trial. Very Early Changes in Quality of Life After Transcatheter Aortic Valve Replacement: Results From the 3M TAVR Trial. 2020; 21:1573-1578. doi: 10.1016/j.carrev.2020.05.044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32571762/

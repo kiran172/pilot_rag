@@ -1,0 +1,12 @@
+PMID: 32061612
+Title: Incidence and Outcomes of Acute Coronary Syndrome After Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVES: This study sought to address a knowledge gap by examining the incidence, timing, and predictors of acute coronary syndrome (ACS) after transcatheter aortic valve replacement (TAVR) in Medicare beneficiaries.
+BACKGROUND: Evidence about incidence and outcomes of ACS after TAVR is scarce.
+METHODS: We identified Medicare patients who underwent TAVR from 2012 to 2017 and were admitted with ACS during follow-up. We compared outcomes based on the type of ACS: ST-segment elevation myocardial infarction (STEMI), non-STEMI (NSTEMI), and unstable angina. In patients with non-ST-segment elevation ACS, we compared outcomes based on the treatment strategy (invasive vs. conservative) using inverse probability weighting analysis.
+RESULTS: Out of 142,845 patients with TAVR, 6,741 patients (4.7%) were admitted with ACS after a median time of 297 days (interquartile range: 85 to 662 days), with 48% of admissions occurring within 6 months. The most common presentation was NSTEMI. Predictors of ACS were history of coronary artery disease, prior revascularization, diabetes, valve-in-TAVR, and acute kidney injury. STEMI was associated with higher 30-day and 1-year mortality compared with NSTEMI (31.4% vs. 15.5% and 51.2% vs. 41.3%, respectively; p < 0.01). Overall, 30.3% of patients with non-ST-segment elevation ACS were treated with invasive approach. On inverse probability weighting analysis, invasive approach was associated with lower adjusted long-term mortality (adjusted hazard ratio: 0.69; 95% confidence interval: 0.66 to 0.73; p < 0.01) and higher risk of repeat revascularization (adjusted hazard ratio: 1.29; 95% confidence interval: 1.16 to 1.43; p < 0.001).
+CONCLUSIONS: After TAVR, ACS is infrequent (<5%), and the most common presentation is NSTEMI. Occurrence of STEMI after TAVR is associated with a high mortality with nearly one-third of patients dying within 30 days. Optimization of care is needed for post-TAVR ACS patients and if feasible, invasive approach should be considered in these high-risk patients.
+
+Citation: Mentias A, et al. Incidence and Outcomes of Acute Coronary Syndrome After Transcatheter Aortic Valve Replacement. Incidence and Outcomes of Acute Coronary Syndrome After Transcatheter Aortic Valve Replacement. 2020; 13:938-950. doi: 10.1016/j.jcin.2019.11.027
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32061612/

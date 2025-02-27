@@ -1,0 +1,12 @@
+PMID: 31912991
+Title: Novel application of quantitative flow ratio for predicting microvascular dysfunction after ST-segment-elevation myocardial infarction.
+
+Abstract: OBJECTIVES: This study evaluated quantitative flow ratio (QFR) to predict microvascular dysfunction (MVD) in patients with ST-segment elevation myocardial infarction (STEMI).
+BACKGROUND: QFR is a novel approach for the rapid computation of fractional flow reserve based on three-dimensional quantitative coronary angiography. We hypothesized that QFR computation could be used to predict MVD after STEMI.
+METHODS: Indexes such as contrast-flow QFR (cQFR), fixed-flow QFR (fQFR), and hyperemic flow velocity (HFV) were calculated in 130 STEMI patients with culprit lesion with ≥50% diameter stenosis and TIMI flow grade 2/3 in the spontaneously recanalized culprit artery on initial angiography. MVD was defined as microvascular obstruction determined by contrast-enhanced cardiac magnetic resonance at a median of 5 days after percutaneous coronary intervention.
+RESULTS: Patients were divided into the MVD group (76/130, 58.5%) and non-MVD group (54/130, 41.5%). Patients with MVD had higher cQFR-fQFR value (0.080 ± 0.058 vs. 0.038 ± 0.039, p < .001) and lower modeled HFV (0.096 ± 0.044 vs. 0.144 ± 0.041 m/s, p < .001). Receiver operator characteristic curve analysis revealed that both the cQFR-fQFR value (area under the curve, AUC = 0.716, p < .001) and modeled HFV (AUC = 0.805, p < .001) had high specificity and positive predictive value to predict MVD. In multivariable logistic analysis, cQFR-fQFR was identified as an independent predictor of MVD (odds ratio = 9.800, p < .001).
+CONCLUSIONS: This proof-of-concept study suggested that QFR computation may be a useful tool to predict MVD after STEMI (Trial Registration:NCT03780335).
+
+Citation: Sheng X, et al. Novel application of quantitative flow ratio for predicting microvascular dysfunction after ST-segment-elevation myocardial infarction. Novel application of quantitative flow ratio for predicting microvascular dysfunction after ST-segment-elevation myocardial infarction. 2020; 95 Suppl 1:624-632. doi: 10.1002/ccd.28718
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31912991/

@@ -1,0 +1,11 @@
+PMID: 32569594
+Title: Network Meta-analysis of Surgical Aortic Valve Replacement and Different Transcatheter Heart Valve Systems for Symptomatic Severe Aortic Stenosis.
+
+Abstract: BACKGROUND: Although different transcatheter heart valve (THV) systems have been introduced to overcome transcatheter aortic valve replacement (TAVR)-specific complications, head-to-head comparisons of these THV systems are scarce. The aim of this study was to compare different THV systems and surgical aortic valve replacement (SAVR) by conducting a network meta-analysis.
+METHODS: PubMed and EMBASE were searched through November 2019 for studies comparing safety and efficacy of balloon-expandable valve (BEV), self-expanding valve (SEV), mechanically expandable valve (MEV), and SAVR for symptomatic severe aortic stenosis. End points in the short term at 30 days or discharge and the long term up to 2 years were assessed.
+RESULTS: We identified 11 randomized controlled trials with a total of 10,300 patients eligible for inclusion in our study. There were no significant differences in all-cause death among different THV systems and SAVR in both short and long terms. Disabling stroke was significantly lower with MEV vs BEV and SAVR (hazard ratios [HRs] 0.31 [95% confidence interval [CI] 0.12-0.77] and 0.33 [95% CI 0.14-0.76], respectively) in the long term. MEV was associated with an increased risk of new permanent pacemaker implantation compared with BEV, SEV, and SAVR (HRs 3.82 [95% CI 1.83-7.97], 1.85 [95% CI 1.02-3.36], and 5.23 [95% CI 2.61-10.47], respectively) in the long term.
+CONCLUSIONS: In patients with symptomatic severe aortic stenosis undergoing intervention, there were no significant differences in all-cause death among different THV systems and SAVR. MEV had low frequency of disabling stroke compared with BEV and SAVR, but an increased frequency of permanent pacemaker implantation compared with other interventions.
+
+Citation: Ueyama H, et al. Network Meta-analysis of Surgical Aortic Valve Replacement and Different Transcatheter Heart Valve Systems for Symptomatic Severe Aortic Stenosis. Network Meta-analysis of Surgical Aortic Valve Replacement and Different Transcatheter Heart Valve Systems for Symptomatic Severe Aortic Stenosis. 2021; 37:27-36. doi: 10.1016/j.cjca.2020.02.088
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32569594/

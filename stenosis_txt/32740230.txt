@@ -1,0 +1,12 @@
+PMID: 32740230
+Title: The Effect of Arterial Disease Level on Outcomes of Supervised Exercise Therapy for Intermittent Claudication: A Prospective Cohort Study.
+
+Abstract: OBJECTIVE: To assess whether level of arterial obstruction determines the effectiveness of SET in patients with IC.
+BACKGROUND DATA: Guidelines advocate SET before invasive treatment for IC, but early revascularization remains widespread, especially in patients with aortoiliac disease.
+METHODS: Patients were recruited from 10 Dutch centers between October 2017 and October 2018. Participants received SET first, followed by endovascular or open revascularization in case of insufficient effect. They were grouped according to level of stenosis (aortoiliac, femoropopliteal, multilevel, or rest group with no significant stenosis). Changes from baseline walking performance (maximal and functional walking distance on a treadmill test, 6-minute walk test) and vascular quality of life questionnaire-6 at 3 and 6 months were compared, after multivariate adjustment for possible confounders. Freedom from revascularization was estimated with Kaplan-Meier analysis.
+RESULTS: Some 267 patients were eligible for analysis (aortoiliac n = 70, 26%; femoropopliteal n = 115, 43%; multilevel n = 69, 26%; rest n = 13, 5%). No between group differences in walking performance or vascular quality of life questionnaire-6 were found. Mean improvement in maximal walking distance after 6 months was 439 m [99% confidence interval (CI) 297-581], 466 m (99% CI 359-574), 353 m (99% CI 210-496), and 403 m (99% CI 58-749), respectively (P = 0.40). Freedom from intervention was 73.9% for aortoiliac disease and 88.6% for femoropopliteal disease (hazard ratio 2.46, 99% CI 0.96 - 6.30, P = 0.013).
+CONCLUSIONS: Short-term effectiveness of SET for IC is not determined by the location of stenosis. Although aortoiliac disease patients improved walking performance and health-related quality of life similarly compared to other arterial disease level groups, they underwent revascularization more often.
+
+Citation: van den Houten MML, et al. The Effect of Arterial Disease Level on Outcomes of Supervised Exercise Therapy for Intermittent Claudication: A Prospective Cohort Study. The Effect of Arterial Disease Level on Outcomes of Supervised Exercise Therapy for Intermittent Claudication: A Prospective Cohort Study. 2022; 275:609-616. doi: 10.1097/SLA.0000000000004073
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32740230/

@@ -1,0 +1,11 @@
+PMID: 38640806
+Title: Hematological predictors of silent new cerebral ischemic lesions in carotid artery stenting: A retrospective study.
+
+Abstract: BACKGROUND: Silent new cerebral ischemic lesions (sNCIL) are a common complication of carotid artery stenting (CAS) that can lead to an increase in morbidity and mortality. We aimed to evaluate the impact of hematological parameters on sNCIL in patients undergoing CAS.
+METHODS: We retrospectively evaluated 103 patients who underwent CAS, with a mean age of 70.5 ± 6.7 years, and 31 (20.1 %) of whom were female. Stents were placed for internal carotid artery revascularization. The presence of new hyperintense lesions on diffusion-weighted imaging (DWI) without neurological symptoms was considered as sNCIL in cases without apparent neurological findings. Patients were categorized into two groups based on DWI results: positive (29) and negative (74).
+RESULTS: In the study population, sNCIL was observed in 29 patients (28.2 %). The DWI-positive group exhibited significantly higher Plateletcrit (PCT) levels, advanced age, and a lack of embolic protection device usage compared to the DWI-negative group. The Receiver Operating Characteristic (ROC) analysis identified a PCT value of 0.26 as the optimal threshold, detecting the development of sNCIL with a sensitivity of 75.9 % and specificity of 59.1 % (AUC: 0.700; 95 % CI: 0.594-0.806, p = 0.002).
+CONCLUSION: To be determined by a simple blood parameter, PCT can predict the risk of sNCIL before CAS and holds clinical value in the treatment of patients with carotid artery stenosis.
+
+Citation: Altunova M, et al. Hematological predictors of silent new cerebral ischemic lesions in carotid artery stenting: A retrospective study. Hematological predictors of silent new cerebral ischemic lesions in carotid artery stenting: A retrospective study. 2024; 124:30-35. doi: 10.1016/j.jocn.2024.04.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38640806/

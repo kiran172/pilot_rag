@@ -1,0 +1,11 @@
+PMID: 33000405
+Title: 18F-fluoride PET/MR in cardiac amyloid: A comparison study with aortic stenosis and age- and sex-matched controls.
+
+Abstract: OBJECTIVES: Cardiac MR is widely used to diagnose cardiac amyloid, but cannot differentiate AL and ATTR subtypes: an important distinction given their differing treatments and prognoses. We used PET/MR imaging to quantify myocardial uptake of 18F-fluoride in ATTR and AL amyloid patients, as well as participants with aortic stenosis and age/sex-matched controls.
+METHODS: In this prospective multicenter study, patients were recruited in Edinburgh and New York and underwent 18F-fluoride PET/MR imaging. Standardized volumes of interest were drawn in the septum and areas of late gadolinium enhancement to derive myocardial standardized uptake values (SUV) and tissue-to-background ratio (TBR<sub>MEAN</sub>) after correction for blood pool activity in the right atrium.
+RESULTS: 53 patients were scanned: 18 with cardiac amyloid (10 ATTR and 8 AL), 13 controls, and 22 with aortic stenosis. No differences in myocardial TBR values were observed between participants scanned in Edinburgh and New York. Mean myocardial TBR<sub>MEAN</sub> values in ATTR amyloid (1.13 ± 0.16) were higher than controls (0.84 ± 0.11, P = .0006), aortic stenosis (0.73 ± 0.12, P &lt; .0001), and those with AL amyloid (0.96 ± 0.08, P = .01). TBR<sub>MEAN</sub> values within areas of late gadolinium enhancement provided discrimination between patients with ATTR (1.36 ± 0.23) and all other groups (e.g., AL [1.06 ± 0.07, P = .003]). A TBR<sub>MEAN</sub> threshold &gt;1.14 in areas of LGE demonstrated 100% sensitivity (CI 72.25 to 100%) and 100% specificity (CI 67.56 to 100%) for ATTR compared to AL amyloid (AUC 1, P = .0004).
+CONCLUSION: Quantitative 18F-fluoride PET/MR imaging can distinguish ATTR amyloid from other similar phenotypes and holds promise in improving the diagnosis of this condition.
+
+Citation: Andrews JPM, et al. 18F-fluoride PET/MR in cardiac amyloid: A comparison study with aortic stenosis and age- and sex-matched controls. 18F-fluoride PET/MR in cardiac amyloid: A comparison study with aortic stenosis and age- and sex-matched controls. 2022; 29:741-749. doi: 10.1007/s12350-020-02356-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33000405/

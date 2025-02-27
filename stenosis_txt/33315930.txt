@@ -1,0 +1,11 @@
+PMID: 33315930
+Title: Efficacy and safety of NOAC versus warfarin in AF patients with left atrial enlargement.
+
+Abstract: BACKGROUND: Little is known about the effects of anticoagulation in patients with atrial fibrillation (AF) and left atrial enlargement (LAE).
+METHODS: Data of patients with AF were retrieved from Chang Gung Research Database during 2007-2016. We excluded patients who were not using oral anticoagulants, used anticoagulants for <30 days, used ≥2 agents concomitantly or switched anticoagulants, had left atrial diameter missing from their data, were aged <65, had received valve surgeries, had mitral stenosis, or had a history of cancer. The primary outcomes were ischemic stroke (IS)/systemic embolism (SE), major bleeding, and death from any cause.
+RESULTS: We identified 40,777 patients who received a diagnosis of AF. After the exclusion criteria were applied, 6,445 patients remained, 4,922 with LAE, and they were followed up for 2.4 ±1.9 years. The mean age of the patients was 77.32 ± 0.18 in the NOAC group and 76.58 ± 6.91 in the warfarin group (p < 0.0001); 48.24% of patients in the NOAC group and 46.98% of patients in the warfarin group were men (p > 0.05). The mean CHA2DS2-VASc score was 3.26 ± 1.05 in the NOAC group and 3.07 ± 1.12 in the warfarin group (p < 0.0001). The mean HAS-BLED score was 3.87 ± 3.81 in the NOAC group and 3.86 ± 3.80 in the warfarin group (p > 0.05). Furthermore, the mean LA diameter was 4.75 ± 0.63 cm in the warfarin group and 4.79 ± 0.69 cm in the warfarin group (p > 0.05). Among patients with LAE, NOAC was associated with significantly reduced IS/SE events (CRR = 0.63, 95% CI = 0.52-0.77), no difference in major bleeding (CRR = 0.91, 95% CI = 0.78-1.05), and significantly reduced death from any cause (aHR = 0.65, 95% CI = 0.52-0.80) compared with warfarin.
+CONCLUSIONS: In elderly patients with AF and LAE, NOAC was associated with reduced IS/SE and death from any cause compared with warfarin, whereas no difference in major bleeding was observed between these treatments.
+
+Citation: Wu VC, et al. Efficacy and safety of NOAC versus warfarin in AF patients with left atrial enlargement. Efficacy and safety of NOAC versus warfarin in AF patients with left atrial enlargement. 2020; 15:e0243866. doi: 10.1371/journal.pone.0243866
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33315930/

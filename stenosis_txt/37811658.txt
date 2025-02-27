@@ -1,0 +1,12 @@
+PMID: 37811658
+Title: Diagnostic performance of resting full-cycle ratio in identifying coronary lesions causing myocardial ischaemia: a meta-analysis.
+
+Abstract: BACKGROUND: The resting full-cycle ratio (RFR), a new non-congestive resting index, is commonly used for physiological evaluations of coronary arteries.
+AIMS: This study aims to evaluate the accuracy of RFR in detecting coronary artery stenosis with hemodynamic significance using fractional flow reserve (FFR) as the reference standard.
+METHODS: Using 'RFR, resting full-cycle ratio' as the search term, we searched PubMed, Embase, Cochrane Library, and Web of Science databases, screening the literature according to the inclusion and exclusion criteria. By applying FFR ≤ 0.80 and RFR ≤ 0.89 as the diagnostic criteria for ischaemia, we analysed the synthetic sensitivity, specificity, and corresponding 95% confidence intervals, then synthesised the summary receiver operating characteristic curve (SROC).
+RESULTS: Three studies were included in this meta-analysis, comprising 1,084 patients with 1,312 lesions. When we used FFR ≤ 0.80 as the reference standard, the synthesised sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), positive likelihood ratio (LR+), and negative likelihood ratio (LR-) of RFR in the diagnosis of coronary ischaemia were 73%, 81%, 67%, 85%, 3.95, and 0.33, respectively. Besides, the area under the curve (AUC) was 0.8276.
+CONCLUSION: Using FFR as the reference standard, RFR has good diagnostic accuracy in detecting coronary ischaemic lesions and may be an effective alternative to FFR in the future, to some extent.
+
+Citation: Luo Y, et al. Diagnostic performance of resting full-cycle ratio in identifying coronary lesions causing myocardial ischaemia: a meta-analysis. Diagnostic performance of resting full-cycle ratio in identifying coronary lesions causing myocardial ischaemia: a meta-analysis. 2023; 78:1103-1109. doi: 10.1080/00015385.2023.2250944
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37811658/

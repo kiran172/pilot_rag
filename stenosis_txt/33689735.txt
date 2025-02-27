@@ -1,0 +1,11 @@
+PMID: 33689735
+Title: Evaluation of Release Maneuvers After Airway Reconstruction.
+
+Abstract: BACKGROUND: Airway release (AR) maneuvers performed during airway resection to reduce anastomotic tension have not been thoroughly studied.
+METHODS: This study retrospectively analyzed consecutive resections for postintubation stenosis (PITS) and primary tracheal neoplasms (PTNs) at Massachusetts General Hospital (Boston, MA). Anastomotic complications were defined as stenosis, separation, necrosis, granulation tissue, and air leak. Logistic regression modeling was used to identify factors associated with AR and adverse outcome.
+RESULTS: From 1993 to 2019, 545 patients with PITS (375; 68.8%) and PTNs (170; 31.2%) underwent laryngotracheal, tracheal, or carinal (resections and reconstructions; 5.7% (31 of 545) were reoperations. AR was performed in 11% (60 of 545): in 3.8% of laryngotracheal resections (6 of 157; all laryngeal), in 9.8% of tracheal resections (34 of 347; laryngeal, 12, and hilar, 22), and in 49% of carinal resections (20 of 41; laryngeal, 1, and hilar, 19). Mean resected length was 3.5 cm (range, 1to- 6.3 cm) with AR and 3.0 cm (range, 0.8 to 6.5 cm) without AR (P < .01). Operative mortality was 0.7% (4 of 545); all 4 anastomoses were intact until death. Anastomotic complications were present in 5% of patients who underwent AR (3 of 60) and in 9.3% (45 of 485) of patients who did not. AR was associated with resection length of 4 cm or longer (odds ratio [OR], 6.15; 95% confidence interval [CI], 1.37 to 27.65), PTNs (OR, 7.81; 95% CI, 3.31 to 18.40), younger age (OR, 0.96; 95% CI, 0.94 to 0.98), and lung resection (OR, 6.09; 95% CI, 1.33 to 27.90). Anastomotic complications in patients with tracheal anastomoses were associated with preexisting tracheostomy (OR, 2.68; 95% CI, 1.50 to 4.80), but not release.
+CONCLUSIONS: Tracheal reconstruction succeeds, even when anastomotic tension requires AR. Because intraoperative assessment may underestimate tension, lowering the threshold for AR seems prudent, particularly in patients with diabetes.
+
+Citation: Madariaga MLL, et al. Evaluation of Release Maneuvers After Airway Reconstruction. Evaluation of Release Maneuvers After Airway Reconstruction. 2022; 113:406-412. doi: 10.1016/j.athoracsur.2021.03.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33689735/

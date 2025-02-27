@@ -1,0 +1,12 @@
+PMID: 36889875
+Title: Effect of Prosthesis-Patient Mismatch on Long-Term Clinical Outcomes After Bioprosthetic Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Prosthesis-patient mismatch (PPM) is common following surgical aortic valve replacement (SAVR).
+OBJECTIVES: The purpose of this study was to quantify the impact of PPM on all-cause mortality, heart failure hospitalization, and reintervention following bioprosthetic SAVR.
+METHODS: This observational nationwide cohort study from SWEDEHEART (Swedish Web system for Enhancement and Development of Evidence based care in Heart disease Evaluated According to Recommended Therapies) and other national registers included all patients who underwent primary bioprosthetic SAVR in Sweden from 2003 to 2018. PPM was defined according to the Valve Academic Research Consortium 3 criteria. Outcomes were all-cause mortality, heart failure hospitalization, and aortic valve reintervention. Regression standardization was used to account for intergroup differences and to estimate cumulative incidence differences.
+RESULTS: We included 16,423 patients (no PPM: 7,377 [45%]; moderate PPM: 8,502 [52%]; and severe PPM: 544 [3%]). After regression standardization, the cumulative incidence of all-cause mortality at 10 years was 43% (95% CI: 24%-44%) in the no PPM group compared with 45% (95% CI: 43%-46%) and 48% (95% CI: 44%-51%) in the moderate and severe PPM groups, respectively. The survival difference at 10 years was 4.6% (95% CI: 0.7%-8.5%) and 1.7% (95% CI: 0.1%-3.3%) in no vs severe PPM and no vs moderate PPM, respectively. The difference in heart failure hospitalization at 10 years was 6.0% (95% CI: 2.2%-9.7%) in severe vs no PPM. There was no difference in aortic valve reintervention in patients with or without PPM.
+CONCLUSIONS: Increasing grades of PPM were associated with long-term mortality, and severe PPM was associated with increased heart failure. Moderate PPM was common, but the clinical significance may be negligible because the absolute risk differences in clinical outcomes were small.
+
+Citation: Dismorr M, et al. Effect of Prosthesis-Patient Mismatch on Long-Term Clinical Outcomes After Bioprosthetic Aortic Valve Replacement. Effect of Prosthesis-Patient Mismatch on Long-Term Clinical Outcomes After Bioprosthetic Aortic Valve Replacement. 2023; 81:964-975. doi: 10.1016/j.jacc.2022.12.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36889875/

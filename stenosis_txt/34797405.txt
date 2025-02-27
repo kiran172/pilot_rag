@@ -1,0 +1,13 @@
+PMID: 34797405
+Title: Clinical and MRI findings in lumbar spinal stenosis: baseline data from the NORDSTEN study.
+
+Abstract: PURPOSE: The aim was to describe magnetic resonance imaging findings in patients planned for lumbar spinal stenosis surgery. Further, to describe possible associations between MRI findings and patient characteristics with patient reported disability or pain.
+METHODS: The NORDSTEN spinal stenosis trial included 437 patients planned for surgical decompression of LSS. The following MRI findings were evaluated before surgery: morphological (Schizas) and quantitative (cross-sectional area) grade of stenosis, disk degeneration (Pfirrmann), facet joint tropism and fatty infiltration of the multifidus muscle. Patients were dichotomized into a moderate or severe category for each radiological parameter classification. A multivariable linear regression analysis was performed to investigate the association between MRI findings and preoperative scores for Oswestry Disability Index, Zurich Claudication Questionnaire and Numeric rating scale for back and leg pain. The following patient characteristics were included in the analysis: gender, age, smoking and weight.
+RESULTS: The percentage of patients with severe scores was as follows: Schizas (C + D) 71.3%, cross-sectional area (&lt; 75 mm2) 86.8%, Pfirrmann (4 + 5) 58.1%, tropism (≥ 15°) 11.9%, degeneration of multifidus muscle (2-4) 83.7%. Regression coefficients indicated minimal changes in severity of symptoms when comparing the groups with moderate and severe MRI findings. Only gender had a significant and clinically relevant association with ODI score.
+CONCLUSION: In this cross-sectional study, the majority of the patients had MRI findings classified as severe LSS changes, but the findings had no clinically relevant association with patient reported disability and pain at baseline. Patient characteristics have a larger impact on disability and pain than radiological findings.
+TRIAL REGISTRATION: www.
+CLINICALTRIALS: gov identifier: NCT02007083, registered December 2013.
+
+Citation: Aaen J, et al. Clinical and MRI findings in lumbar spinal stenosis: baseline data from the NORDSTEN study. Clinical and MRI findings in lumbar spinal stenosis: baseline data from the NORDSTEN study. 2022; 31:1391-1398. doi: 10.1007/s00586-021-07051-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34797405/

@@ -1,0 +1,11 @@
+PMID: 32215660
+Title: Pacemaker implantation after aortic valve replacement: rapid-deployment Intuity® compared to conventional bioprostheses.
+
+Abstract: OBJECTIVES: The aim of this study was to compare the incidence of permanent pacemaker (PPM) implantation after aortic valve replacement by rapid-deployment bioprosthesis (RDB) and standard valve (Standard).
+METHODS: All patients undergoing aortic valve replacement between 2015 and 2018, in 1 centre, were included. A multivariate analysis on the whole cohort and then a propensity score matching were used to compare the 2 groups. The primary end point was PPM implantation.
+RESULTS: We studied 924 patients (256 RDBs and 668 Standards). Overall, 67 PPM were implanted, 37 (14.5%) in the RDB group and 26 (3.9%) in the Standard group (P < 0.0001, univariate analysis). The multivariate analysis in the unmatched population found 4 independent factors associated with PPM implantation: right bundle branch block with odds ratios (ORs 3.7, 95% CI 2.9-6.7; P < 0.0001), RDB (OR 3.6, 95% CI 2.0-6.2; P < 0.0001), age (OR 1.1, 95% CI 1.0-1.1; P < 0.006) and endocarditis (OR 3.4, 95% CI 1.0-11.0; P < 0.04). In the propensity score-matched RDB group (203 patients per group), 25 patients required PPM implantation versus 3 in the Standard group (12.3% vs 1.5%, P < 0.0001). RDBs also had more postoperative left bundle branch block and new onset of atrial fibrillation (30.2% vs 5.1%, P < 0.0001 and 34.0% vs 24.1%, P = 0.029). RDBs had lower operating times (in min): aortic cross-clamping = 62 (44-76.5) vs 72 (57.5-91.5) and cardiopulmonary bypass = 81 (63-98.5) vs 91 (75-112), P < 0.0001. There was no significant difference in other outcomes.
+CONCLUSIONS: RDBs were associated with reduced operating times, increased risk of atrial fibrillation and PPM implantation as compared with standard aortic valves.
+
+Citation: Herry M, et al. Pacemaker implantation after aortic valve replacement: rapid-deployment Intuity® compared to conventional bioprostheses. Pacemaker implantation after aortic valve replacement: rapid-deployment Intuity® compared to conventional bioprostheses. 2020; 58:335-342. doi: 10.1093/ejcts/ezaa068
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32215660/

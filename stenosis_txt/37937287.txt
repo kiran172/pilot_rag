@@ -1,0 +1,12 @@
+PMID: 37937287
+Title: Direct wire pacing during measurement of fractional flow reserve: A randomized proof-of-concept noninferiority crossover trial.
+
+Abstract: BACKGROUND: Adenosine administration for fractional flow reserve (FFR) measurement may induce heart pauses.
+AIMS: To assess the accuracy and tolerability of direct wire pacing (DWP) during measurement of FFR.
+METHODS: Adults with at least one intermediate coronary artery stenosis (40%-80%) were consecutively enrolled between June 2021 and February 2022 in this randomized, noninferiority, crossover trial (NCT04970082) carried out in France. DWP was applied (DWP) or not (standard method) through the pressure guidewire used for FFR measurement during adenosine-induced maximal hyperaemia. Subjects were randomly assigned to the allocation sequence (DWP first or standard first). A 2-minute washout period was observed between the two FFR measurements performed for each stenosis. The primary endpoint was the reproducibility of FFR measurements between methods.
+RESULTS: A total of 150 focal lesions, presented by 94 subjects, were randomized (ratio: 1:1). The FFR values obtained with each method were nearly identical (R = 0.98, p = 0.005). The mean FFR difference of 0.00054 (95% confidence interval: 0.004 to 0.003) showed the noninferiority of FFR measurement with DWP vs. that with the standard method. Higher levels of chest discomfort were reported with DWP than with the standard method (0.61 ± 0.84 vs. 1.05 ± 0.89, p &lt; 0.001), and a correlation was observed between the electrical sensations reported with DWP and chest discomfort (p &lt; 0.001). Pauses (n = 20/148 lesions) were observed with the standard method, but did not correlate with chest discomfort (p = 0.21). No pauses were observed with DWP.
+CONCLUSIONS: DWP during FFR measurement resulted in accurate and reproducible FFR values, and eliminated the pauses induced by adenosine.
+
+Citation: Faurie B, et al. Direct wire pacing during measurement of fractional flow reserve: A randomized proof-of-concept noninferiority crossover trial. Direct wire pacing during measurement of fractional flow reserve: A randomized proof-of-concept noninferiority crossover trial. 2023; 10:1137309. doi: 10.3389/fcvm.2023.1137309
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37937287/

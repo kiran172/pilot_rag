@@ -1,0 +1,11 @@
+PMID: 35077885
+Title: Diagnosis of Middle Cerebral Artery Stenosis Using Transcranial Doppler Images Based on Convolutional Neural Network.
+
+Abstract: BACKGROUND: The purpose of this study was to explore the diagnostic value of convolutional neural networks (CNNs) in middle cerebral artery (MCA) stenosis by analyzing transcranial Doppler (TCD) images.
+METHODS: Overall, 278 patients who underwent cerebral vascular TCD and cerebral angiography were enrolled and classified into stenosis and non-stenosis groups based on cerebral angiography findings. Manual measurements were performed on TCD images. The patients were divided into a training set and a test set, and the CNN architecture was used to classify TCD images. The diagnostic accuracies of manual measurements, CNNs, and TCD parameters for MCA stenosis were calculated and compared.
+RESULTS: Overall, 203 patients without stenosis and 75 patients with stenosis were evaluated. The sensitivity, specificity, and area under the curve (AUC) for manual measurements of MCA stenosis were 0.80, 0.83, and 0.81, respectively. After 24 iterations of the running model in the training set, the sensitivity, specificity, and AUC of the CNNs in the test set were 0.84, 0.86, and 0.80, respectively. The diagnostic value of CNNs differed minimally from that of manual measurements. Two parameters of TCD, peak systolic velocity and mean flow velocity, were higher in patients with stenosis than in those without stenosis; however, their diagnostic values were significantly lower than those of CNNs (P < 0.05).
+CONCLUSIONS: The diagnostic value of CNNs for MCA stenosis based on TCD images paralleled that of manual measurements. CNNs could be used as an auxiliary diagnostic tool to improve the diagnosis of MCA stenosis.
+
+Citation: Mei YJ, et al. Diagnosis of Middle Cerebral Artery Stenosis Using Transcranial Doppler Images Based on Convolutional Neural Network. Diagnosis of Middle Cerebral Artery Stenosis Using Transcranial Doppler Images Based on Convolutional Neural Network. 2022; 161:e118-e125. doi: 10.1016/j.wneu.2022.01.068
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35077885/

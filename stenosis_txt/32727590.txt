@@ -1,0 +1,11 @@
+PMID: 32727590
+Title: Functional assessment of bioprosthetic mitral valves by cardiovascular magnetic resonance: An in vitro validation and comparison to Doppler echocardiography.
+
+Abstract: BACKGROUND: A comprehensive non-invasive evaluation of bioprosthetic mitral valve (BMV) function can be challenging. We describe a novel method to assess BMV effective orifice area (EOA) based on phase contrast (PC) cardiovascular magnetic resonance (CMR) data. We compare the performance of this new method to Doppler and in vitro reference standards.
+METHODS: Four sizes of normal BMVs (27, 29, 31, 33 mm) and 4 stenotic BMVs (27 mm and 29 mm, with mild or severe leaflet obstruction) were evaluated using a CMR- compatible flow loop. BMVs were evaluated with PC-CMR and Doppler methods under flow conditions of; 70 mL, 90 mL and 110 mL/beat (n = 24). PC-EOA was calculated as PC-CMR flow volume divided by the PC- time velocity integral (TVI).
+RESULTS: PC-CMR measurements of the diastolic peak velocity and TVI correlated strongly with Doppler values (r = 0.99, P &lt; 0.001 and r = 0.99, P &lt; 0.001, respectively). Across all conditions tested, the Doppler and PC-CMR measurement of EOA (1.4 ± 0.5 vs 1.5 ± 0.7 cm2, respectively) correlated highly (r = 0.99, P &lt; 0.001), with a minimum bias of 0.13 cm2, and narrow limits of agreement (- 0.2 to 0.5 cm2).
+CONCLUSION: We describe a novel method to assess BMV function based on PC measures of transvalvular flow volume and velocity integration. PC-CMR methods can be used to accurately measure EOA for both normal and stenotic BMV's and may provide an important new parameter of BMV function when Doppler methods are unobtainable or unreliable.
+
+Citation: Maragiannis D, et al. Functional assessment of bioprosthetic mitral valves by cardiovascular magnetic resonance: An in vitro validation and comparison to Doppler echocardiography. Functional assessment of bioprosthetic mitral valves by cardiovascular magnetic resonance: An in vitro validation and comparison to Doppler echocardiography. 2020; 22:55. doi: 10.1186/s12968-020-00635-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32727590/

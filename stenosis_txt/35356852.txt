@@ -1,0 +1,11 @@
+PMID: 35356852
+Title: Association of HbA1c with carotid artery plaques in patients with coronary heart disease: a retrospective clinical study.
+
+Abstract: BACKGROUND AND AIMS: Haemoglobin A1c (HbA1c) levels have been shown to be related to carotid artery plaques. However, studies on the relationship between HbA1c levels and carotid artery plaques in patients with coronary heart disease (CHD) are limited and inconsistent. Our objective was to examine the correlation between HbA1c levels and carotid artery plaques in patients with CHD.
+METHODS: The study comprised 9275 Chinese adults with CHD from January 1, 2014, to September 30, 2020. HbA1c levels were assessed, and colour Doppler ultrasound was used to evaluate the carotid artery, including plaque presence, intima-media thickness, and plaque echo properties, to investigate the association between HbA1c and carotid plaque. A logistic regression model was used to assess the association between carotid artery plaques, carotid plaque echogenicity, and HbA1c.
+RESULTS: The HbA1c level of the plaque-present group was higher than that of the plaque-absent group [6.1 (5.6-7.2) vs. 5.8 (5.5-6.5), p &lt; 0.001]. In multiple linear regression analysis, intima-media thickness was associated with HbA1c (p &lt; 0.001). Logistic regression showed that a higher HbA1c level was associated with plaque incidence as well as hyperechoic and heterogeneous plaques (p &lt; 0.001). These associations persist after adjusting for age, sex, blood pressure, lipid profiles, alcohol consumption, and tobacco exposure.
+CONCLUSION: HbA1c levels are notably associated with carotid artery plaque incidence, intima-media thickness, and plaque echogenicity in patients with CHD. These findings show that different levels of HbA1c may be an indicator for carotid artery plaques and thus, should be observed in patients with CHD.
+
+Citation: Cheng X, et al. Association of HbA1c with carotid artery plaques in patients with coronary heart disease: a retrospective clinical study. Association of HbA1c with carotid artery plaques in patients with coronary heart disease: a retrospective clinical study. 2023; 78:442-450. doi: 10.1080/00015385.2022.2040822
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35356852/

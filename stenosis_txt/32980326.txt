@@ -1,0 +1,11 @@
+PMID: 32980326
+Title: Longitudinal Outcomes of Nonagenarians Undergoing Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) has emerged as the preferred alternative to surgical aortic valve replacement in elderly patients. However, the long-term outcomes of nonagenarians undergoing TAVR are unknown.
+METHODS: Octogenarian and nonagenarian patients undergoing TAVR from 2011 to 2018 were identified from a prospectively maintained institutional database. Cox proportional hazards regression was used for baseline-adjusted outcome comparison and risk prediction. Survival was compared with age and gender-matched population from the Social Security Actuarial Life Table.
+RESULTS: A total of 649 (54.4%) octogenarians and 157 (13.2%) nonagenarians underwent TAVR. Nonagenarians had a lower body mass index (P < .001), smaller BSA (P < .001), and a lower prevalence of chronic obstructive pulmonary disease (P = .023) but a higher Society of Thoracic Surgeons score (P < .001). The majority of nonagenarians and octogenarians were treated using self-expandable valves (60.3% vs 60.9%; P = .888) via transfemoral access (86.0% vs 81.0%; P = .148). At 30 days, 1 year, and 4 years, there was no difference in survival (95.5%, 80.3%, and 51.2% vs 96.9%, 87.4, and 57.6%, respectively) (adjusted hazard ratio [HR], 0.8; P = .205) and hospital readmissions for cardiac causes (7.9%, 25.7%, and 53.7% vs 10.3%, 27.9%, and 52.0%, respectively) (adjusted HR, 0.9; P = .488). Further, nonagenarians had a survival comparable to an age-matched and sex-matched U.S. population (P = .540). Post-TAVR paravalvular leak (HRs: 3.23 [P = .042] vs 2.66 [P = .032]) and anemia (HRs: 0.64 [P = .002] vs 0.80 [P = .004]) were associated with worse outcomes at 1 year.
+CONCLUSIONS: TAVR can be performed safely in nonagenarians, with comparable outcomes to younger patients approximating natural life expectancy. This age paradox should strengthen the role of TAVR in well selected nonagenarians by the heart team.
+
+Citation: Habertheuer A, et al. Longitudinal Outcomes of Nonagenarians Undergoing Transcatheter Aortic Valve Replacement. Longitudinal Outcomes of Nonagenarians Undergoing Transcatheter Aortic Valve Replacement. 2021; 111:1520-1528. doi: 10.1016/j.athoracsur.2020.06.140
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32980326/

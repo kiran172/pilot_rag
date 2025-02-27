@@ -1,0 +1,8 @@
+PMID: 37857804
+Title: Modulated complexed stenosed region consequences under the electroosmotic stimulation.
+
+Abstract: The present study analyzes the theoretical consequences of slip effects in a complex stenosed region. The flow of blood in a stenosed region is incorporated with hybrid nanofluid features which are being prepared with copper and copper oxide nanoparticles. The flow is also intensified by applying an electric field in the axial direction. The governing equations for the proposed paradigm are solved and the corresponding closed-form solutions are obtained for the cases of mild stenosis. Parameters such as Electro-osmotic, velocity slip and Helmholtz-Smoluchowski are specially focused in this study. The heat transfer, hemodynamic velocity, wall shear stress and resistance impedance for the flow are precisely determined. The various parameters that influence the physical characteristics of flow are plotted, and their effects are discussed in detail. The present model has the potential application in medical pumps for drug delivery systems.
+
+Citation: Ijaz S, et al. Modulated complexed stenosed region consequences under the electroosmotic stimulation. Modulated complexed stenosed region consequences under the electroosmotic stimulation. 2023; 13:17862. doi: 10.1038/s41598-023-45210-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37857804/

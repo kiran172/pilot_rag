@@ -1,0 +1,10 @@
+PMID: 33010381
+Title: Machine learning-aided risk stratification system for the prediction of coronary artery disease.
+
+Abstract: BACKGROUND: Machine learning (ML) may be helpful to simplify the risk stratification of coronary artery disease (CAD). The current study aims to establish a ML-aided risk stratification system to simplify the procedure of the diagnosis of CAD.
+METHODS AND RESULTS: 5819 patients with coronary artery angiography (CAG) from July 2015 and December 2018 in our hospital, 2583 patients (aged 56 ± 11, <50% stenosis) and 3236 patients (aged 60 ± 10, ≥50% stenosis), available on age, sex, history of smoking, systolic and diastolic blood pressure, total cholesterol level, low- and high-density lipoprotein, triglyceride level, glycosylated hemoglobin A1c and uric acid were included in the ensemble model of ML. Receiver-operating characteristic curves showed that area-under-the-curve of the training data (90%) and the testing data (10%) were 0.81 and 0.75 (P = 0.006483). The validation data of 582 patients with CAG from July 2019 to September 2019 in our hospital showed the same predictive rate of the testing data. The low-risk group (risk probability<0.2) without the treatment of hypertension, diabetes and CAD could be probably excluded the diagnosis of CAD, the moderate-risk group (risk probability 0.2-0.8) would need further examination, and high-risk group (risk probability>0.8) would suggested to perform CAG directly.
+CONCLUSION: Machine learning-aided detection system with the clinical data of age, sex, history of smoking, systolic and diastolic blood pressure, total cholesterol level, low- and high-density lipoprotein, triglyceride level, glycosylated hemoglobin A1c and uric acid could be helpful for the risk stratification of prediction for the coronary artery disease.
+
+Citation: Li D, et al. Machine learning-aided risk stratification system for the prediction of coronary artery disease. Machine learning-aided risk stratification system for the prediction of coronary artery disease. 2021; 326:30-34. doi: 10.1016/j.ijcard.2020.09.070
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33010381/

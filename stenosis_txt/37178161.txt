@@ -1,0 +1,11 @@
+PMID: 37178161
+Title: A simply calculated nutritional index provides clinical implications in patients undergoing transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Malnutrition is associated with adverse outcomes in patients with aortic stenosis. The Triglycerides × Total Cholesterol × Body Weight Index (TCBI) is a simple scoring model to evaluate the status of nutrition. However, the prognostic relevance of this index in patients undergoing transcatheter aortic valve replacement (TAVR) is unknown. This study aimed to evaluate the association of the TCBI with clinical outcomes in patients undergoing TAVR.
+METHODS: A total of 1377 patients undergoing TAVR were evaluated in this study. The TCBI was calculated by the formula; triglyceride (mg/dL) × total cholesterol (mg/dL) × body weight (kg)/1000. The primary outcome was all-cause mortality within 3 years.
+RESULTS: Patients with a low TCBI, based on a cut-off value of 985.3, were more likely to have elevated right atrial pressure (p = 0.04), elevated right ventricular pressure (p < 0.01), right ventricular systolic dysfunction (p < 0.01), tricuspid regurgitation ≥ moderate (p < 0.01). Patients with a low TCBI had a higher cumulative 3-year all-cause (42.3% vs. 31.6%, p < 0.01; adjusted HR 1.36, 95% CI 1.05-1.77, p = 0.02) and non-cardiovascular mortality (15.5% vs. 9.1%, p < 0.01; adjusted HR 1.95, 95% CI 1.22-3.13, p < 0.01) compared to those with a high TCBI. Adding a low TCBI to EuroSCORE II improved the predictive value for 3-year all-cause mortality (net reclassification improvement, 0.179, p < 0.01; integrated discrimination improvement, 0.005, p = 0.01).
+CONCLUSION: Patients with a low TCBI were more likely to have right-sided heart overload and exhibited an increased risk of 3-year mortality. The TCBI may provide additional information for risk stratification in patients undergoing TAVR.
+
+Citation: Sudo M, et al. A simply calculated nutritional index provides clinical implications in patients undergoing transcatheter aortic valve replacement. A simply calculated nutritional index provides clinical implications in patients undergoing transcatheter aortic valve replacement. 2024; 113:58-67. doi: 10.1007/s00392-023-02220-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37178161/

@@ -1,0 +1,11 @@
+PMID: 34748948
+Title: Mean Platelet Volume Predicts Restenosis After Carotid Endarterectomy.
+
+Abstract: BACKGROUND: Carotid restenosis following carotid endarterectomy (CEA) has a cumulative risk at 5-years up to 32%, which may impact the well-being of patients following CEA. Haematological parameters in the standard complete blood cell count (CBC) are emerging as potential biomarkers, but their application in CEA is scarce. The primary aim of this study was to investigate haematological markers for restenosis following CEA. The secondary aim was to characterize clinical risk factors for restenosis.
+METHODS: From January 2012 to January 2019, 151 patients who underwent CEA under regional anaesthesia due to carotid stenosis were selected from a prospectively maintained cohort database. Patients were included if a preoperative CBC was available in the 2 weeks preceding CEA. Multivariable analysis was performed alongside propensity score matching (PSM) analysis, using the preoperative CEA parameters, to reduce confounding factors between categories.
+RESULTS: The study group comprised 28 patients who developed carotid restenosis. The remaining 123 patients without restenosis composed the control group. Mean age of the patients did not differ significantly between groups (70.25 ± 8.05 vs. 70.32 ± 9.61 YO, P = 0.973), neither did gender (male gender 89.3% vs. 78.9%, P = 0.206). Regarding haematological parameters, only MPV remained statistically significant within multivariable analysis (1.855, aOR [1.174-2.931], P = 0.008), a result supported by PSM analysis (2.072, aOR [1.036-4.147], P = 0.042).
+CONCLUSIONS: MPV was able to predict restenosis 2 years after CEA. Thus, MPV can be incorporated into score calculations to identify patients at greater risk of restenosis, who could benefit from specific monitoring during follow-up. While results are promising, more research is necessary to corroborate them.
+
+Citation: Pereira-Neves A, et al. Mean Platelet Volume Predicts Restenosis After Carotid Endarterectomy. Mean Platelet Volume Predicts Restenosis After Carotid Endarterectomy. 2022; 81:216-224. doi: 10.1016/j.avsg.2021.08.054
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34748948/

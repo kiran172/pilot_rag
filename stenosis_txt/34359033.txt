@@ -1,0 +1,11 @@
+PMID: 34359033
+Title: Endovascular catheter manometry reliability: a benchtop validation study.
+
+Abstract: OBJECTIVE: Catheter manometry is used frequently in neuroendovascular surgery for assessing cerebrovascular pathology. The accuracy of pressure data with different catheter setups requires further validation.
+METHODS: In a silicone human vascular model with a pulsatile pump, pressure measurements were taken through multiple arrangements of 2 guide catheters and 6 microcatheters. The systolic pressure, diastolic pressure, mean pressure, pulse pressure, and area under the curve of the waveform were recorded through catheters with controls at arterial blood pressure ranges. Linear regression modeling was performed, correlating transduction area and relative pulse pressure. Thresholds for acceptable accuracy were ≥ 90%.
+RESULTS: Mean pressure demonstrated < 4% variation between all 24 catheter setups and respective controls. A strong linear correlation (r2 = 0.843, p < 0.0005) between microcatheter transduction area and relative pulse pressure with a threshold of 0.50 mm2 was seen (i.e., 0.031-inch inner diameter [ID]). For guide catheters with indwelling microcatheters, there was also a strong linear correlation (r2 = 0.840, p < 0.0005) of transduction area to pulse pressure. The guide catheters with obstructing microcatheters required a transduction area over fourfold higher compared with unobstructed microcatheters (2.21 mm2 vs 0.50 mm2).
+CONCLUSIONS: Mean pressure measurements are accurate through microcatheters as small as 0.013-inch ID. Pulse pressure and waveform morphology may require a microcatheter ≥ 0.031-inch ID to achieve 90% accuracy, although the 0.027-inch ID microcatheter reached 85% accuracy. A 0.070-inch guide catheter with a microcatheter ≤ 0.042-inch outer diameter (e.g., Marksman 0.027-inch ID or smaller) allows accurate transduction of pulse pressure. Further validation of these benchtop findings is necessary before application in a clinical setting.
+
+Citation: Heiferman DM, et al. Endovascular catheter manometry reliability: a benchtop validation study. Endovascular catheter manometry reliability: a benchtop validation study. 2022; 136:485-491. doi: 10.3171/2021.1.JNS203909
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34359033/

@@ -1,0 +1,12 @@
+PMID: 35066987
+Title: Association between patient age, microcirculation, and coronary stenosis assessment with fractional flow reserve and instantaneous wave-free ratio.
+
+Abstract: OBJECTIVES: To investigate the effect of aging on coronary stenosis functional assessment with fractional flow reserve (FFR) and instantaneous wave-free ratio (iFR).
+BACKGROUND: Limited data exist regarding the impact of patient age on these coronary pressure indices.
+METHODS: We analyzed 514 patients with coronary stenosis interrogated with intravascular physiology. The influence of patient age on FFR, iFR, and microcirculation-related indices was investigated. Vessel-oriented composite outcome (VOCO) was assessed in the FFR-based deferred population according to iFR, coronary flow reserve (CFR), and age.
+RESULTS: FFR increased (r = 0.128, p = 0.004), iFR remained unchanged (r = -0.001, p = 0.980), and CFR decreased (r = -0.095, p = 0.001) with patient age. Relationship between FFR and CFR differed across age groups (r = 0.263 in <60 years old vs. r = 0.124 in ≥60 years old, p = 0.0056), whereas iFR correlated to CFR similarly regardless age (r = 0.283 in <60 years old vs. r = 0.219 in ≥60 years old, p = 0.3781). No differences were found on angiographic stenosis severity (%DS 47.4 in <60 years old and 49.8 in ≥60 years old, p = 0.317). At 5 years, FFR-based revascularisation deferral in patients ≥60 years old was associated with more VOCO when either iFR (25%) or CFR (16.9%) were abnormal, compared to patients with normal iFR (6.3%) or normal CFR (4.6%) (log-rank p < 0.001). This difference in clinical outcomes was not observed in younger patients.
+CONCLUSIONS: FFR values increased progressively with patient age, potentially associated with age-related changes in the coronary microcirculation. Conversely, iFR values remained unchanged across the patient age spectrum. In ≥60 years old patients with revascularisation deferral based on FFR, both abnormal iFR and CFR values were associated with worse long-term patient outcomes.
+
+Citation: Mejia-Renteria H, et al. Association between patient age, microcirculation, and coronary stenosis assessment with fractional flow reserve and instantaneous wave-free ratio. Association between patient age, microcirculation, and coronary stenosis assessment with fractional flow reserve and instantaneous wave-free ratio. 2022; 99:1104-1114. doi: 10.1002/ccd.30092
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35066987/

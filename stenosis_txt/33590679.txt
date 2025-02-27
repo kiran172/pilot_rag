@@ -1,0 +1,11 @@
+PMID: 33590679
+Title: Coronary angiography-derived contrast fractional flow reserve.
+
+Abstract: BACKGROUND: Based on coronary angiography and mean aortic pressure, a specially designed computational flow dynamics (CFD) method is proposed to determine contrast fractional flow reserve (cFFR) without using invasive pressure wire. This substudy assessed diagnostic performance of coronary angiography-derived cFFR in catheterization laboratory, based on a previous multicenter trial for online assessment of coronary angiography-derived FFR (caFFR).
+METHODS: Patients with diagnosis of stable angina pectoris or unstable angina pectoris were enrolled in six centers. Wire-based FFR was measured in coronary arteries with 30-90% diameter stenosis. Offline angiography-derived cFFR was computed in blinded fashion against the wire-based FFR and caFFR at an independent core laboratory.
+RESULTS: A total of 330 patients were enrolled to fulfill inclusion/exclusion criteria from June 26 to December 18, 2018. Offline angiography-derived cFFR and wire-based FFR results were compared in 328 interrogated vessels. The statistical analysis showed the highest diagnostic accuracy of 89.0 and 86.6% for angiography-derived cFFR with a cutoff value of 0.94 and 0.93 against the wire-based FFR with a cutoff value of 0.80 and 0.75, respectively. The corresponding sensitivity and specificity were 92.2 and 87.3% for the cutoff value of 0.94 and 80.0 and 88.4% for the cutoff value of 0.93, which are similar to those against the caFFR. The receiver-operating curve has area under the curve of 0.951 and 0.972 for the wire-based FFR with the cutoff value of 0.80 and 0.75, respectively.
+CONCLUSIONS: Coronary angiography-derived cFFR showed higher accuracy, sensitivity, and specificity against wired-based FFR and caFFR. Hence, angiography-derived cFFR could enhance the hemodynamic assessment of coronary lesions.
+
+Citation: Gong Y, et al. Coronary angiography-derived contrast fractional flow reserve. Coronary angiography-derived contrast fractional flow reserve. 2022; 99:763-771. doi: 10.1002/ccd.29558
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33590679/

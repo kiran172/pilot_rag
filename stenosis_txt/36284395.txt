@@ -1,0 +1,11 @@
+PMID: 36284395
+Title: Cerebrospinal Fluid CSF Flow Artifacts are Associated with Brain Pulsation in Patients with Severe Carotid Artery Stenoses.
+
+Abstract: OBJECTIVE: We investigated the factors associated with cerebrospinal fluid (CSF) flow artifacts on fluid-attenuated inversion recovery imaging in patients with carotid artery (CA) stenosis.
+METHODS: Each CSF artifact grade was defined by comparing the highest intensity in a given region of interest (ROI) to those in reference ROIs, as follows: higher than the intensity of normal white matter in the centrum semiovale = 2 points; equal to or less than the white matter, and higher than CSF = 1 point; and equal to CSF = 0. CSF flow scores in eight sites were measured and added to the total score (0 -16). The prevalences of each finding, specifically white matter lesions, CA stenoses and brain atrophy, were compared using multivariate logistic regression models.
+RESULTS: We evaluated the findings in 54 patients with CA stenosis treated by CA stenting (CAS) and 200 adults with no history of neurological disorders (control group). Adjusted by stroke risk factors, a CSF flow score ≤ 11 was positively associated with CA stenosis, heart rate > 70 / min, and brain atrophy, and negatively with the female gender. The score was 12.8 ± 1.8 in the control group and 12.0 ± 2.0 in CA stenosis group after CAS, which was significantly higher than before CAS (10.4 ± 2.8, p<0.001).
+CONCLUSION: The CSF flow score was associated with female gender, brain atrophy, heart rate, and severe CA stenosis, and was found to be elevated after revascularization.
+
+Citation: Imaizumi T, et al. Cerebrospinal Fluid CSF Flow Artifacts are Associated with Brain Pulsation in Patients with Severe Carotid Artery Stenoses. Cerebrospinal Fluid CSF Flow Artifacts are Associated with Brain Pulsation in Patients with Severe Carotid Artery Stenoses. 2022; 19:311-320. doi: 10.2174/1567202620666221024123117
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36284395/

@@ -1,0 +1,12 @@
+PMID: 35247800
+Title: The effect of Bruton's tyrosine kinase inhibitor ibrutinib on atherothrombus formation under stenotic flow conditions.
+
+Abstract: BACKGROUND: Bruton's kinase (Btk) is critical for collagen-triggered platelet signal transduction. The Btk inhibitor ibrutinib has been shown to selectively block platelet adhesion to atherosclerotic plaque material under laminar arterial flow. However, this has not been studied under a shear gradient, which is characteristic for atherothrombosis.
+OBJECTIVE: To determine the effect of ibrutinib treatment on in vitro thrombus formation on collagen and atherosclerotic plaque material in the absence or presence of a shear gradient.
+METHODS: Blood was obtained from patients with chronic lymphocytic leukemia, mantle-cell lymphoma and Waldenström macroglobulinemia with and without ibrutinib treatment and perfused through a microfluidic channel with(out) 60% stenosis over Horm type I collagen or human atherosclerotic plaque homogenate.
+RESULTS: At a constant shear rate of 1500 s-1, platelet deposition was significantly decreased in blood from haematological malignancy patients treated with ibrutinib as compared to untreated patients, on atherosclerotic plaque material but not on collagen. However, thrombus size, stability, and height, were reduced on both plaque material and collagen. An increase in shear rate up to 3900 s-1, as induced by 60% stenosis, resulted in decreased platelet deposition and thrombus parameters on plaque material but not on collagen when compared to a laminar shear of 1500 s-1. Ibrutinib treatment decreased platelet deposition and thrombus parameters even further around the stenosis.
+CONCLUSION: Treatment of patients with haematological disorders with the Btk inhibitor ibrutinib reduces in vitro platelet deposition, thrombus size and contraction on human atherosclerotic plaque around a stenosis when compared to patients not receiving ibrutinib.
+
+Citation: Karel MFA, et al. The effect of Bruton's tyrosine kinase inhibitor ibrutinib on atherothrombus formation under stenotic flow conditions. The effect of Bruton's tyrosine kinase inhibitor ibrutinib on atherothrombus formation under stenotic flow conditions. 2022; 212:72-80. doi: 10.1016/j.thromres.2022.02.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35247800/

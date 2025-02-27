@@ -1,0 +1,11 @@
+PMID: 33892919
+Title: Platelet-Derived Growth Factor Predicts Vulnerable Plaque in Patients with Non-ST Elevation Acute Coronary Syndrome.
+
+Abstract: BACKGROUND: Identifying a novel biomarker may contribute to detection of vulnerable plaque in patients with non-ST-elevation acute coronary syndrome (NSTE-ACS). The aim of this study was to investigate the relationship between serum platelet-derived growth factor (PDGF) and vulnerable plaque in patients with moderate and low risk of NSTE-ACS.
+METHODS: A total of 65 moderate- and low-risk NSTE-ACS patients with 50-90% coronary stenosis were divided into a vulnerable plaque group (n=46) and a stable plaque group (n=19) according to intravascular ultrasound (IVUS) examinations. Total cholesterol (TC), triglycerides (TG), low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein cholesterol (HDL-C) and serum PDGF were measured. Plaque characteristics and components were analyzed using gray-scale and iMap-IVUS. Correlation was performed between plaque characteristics and ACS markers. Logistic regression analysis was applied to determine risk factors. Receiver operating characteristic (ROC) curve was used to evaluate the predictive value.
+RESULTS: Patients with vulnerable plaque had visible higher levels of TG, LDL-C and PDGF (P < 0.05). There were significant differences in minimal lumen area (MLA), plaque area, plaque burden, fibrotic (FI), clipidic (LI) and necrotic core (NC) between the two groups (P < 0.05). PDGF was weakly correlated with plaque burden (R = 0.428, P < 0.05), as well as moderately correlated with NC (R = 0.669, P < 0.05). Multivariate analysis showed that serum PDGF (OR 4.751, [95% CI 1.534-9.543], P = 0.05) was an independent risk factor of vulnerable plaque. The area under the curve (AUC) was 0.876 (95% CI 0.804-0.948, P=0.001).
+CONCLUSIONS: Serum PDGF could potentially predict vulnerable plaque in moderate and low risk of NSTE-ACS patients.
+
+Citation: Zhang H, et al. Platelet-Derived Growth Factor Predicts Vulnerable Plaque in Patients with Non-ST Elevation Acute Coronary Syndrome. Platelet-Derived Growth Factor Predicts Vulnerable Plaque in Patients with Non-ST Elevation Acute Coronary Syndrome. 2021; 361:759-764. doi: 10.1016/j.amjms.2020.10.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33892919/

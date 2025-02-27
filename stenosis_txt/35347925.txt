@@ -1,0 +1,11 @@
+PMID: 35347925
+Title: Systolic Time Intervals for Diagnosis of Severe Aortic Stenosis.
+
+Abstract: BACKGROUND: Estimated frequency of aortic stenosis (AS) in those over 75 years of age is 3.4%. Symptomatic patients with severe AS have increased morbidity and mortality and aortic valve replacement should be offered to improve life expectancy and quality of life.
+OBJECTIVES: To identify whether systolic time intervals can identify severe AS.
+METHODS: The study comprised 200 patients (mean age 79 years, 55% men). Patients were equally divided into normal, mild, moderate, or severe AS. All patients had normal ejection fraction. Acceleration time (AT) was defined as the time from the beginning of systolic flow to maximal velocity; ejection time (ET) was the time from onset to end of systolic flow. The relation of AT/ET was calculated. Death or aortic valve intervention were documented. AT increased linearly with the severity of AS, similar to ET and AT/ET ratio (P for trend < 0.05 for all). Receiver-operator characteristic curve analysis demonstrated that AT can identify severe AS with a cutoff ≥ 108 msec with 100% sensitivity and 98% specificity, while a cutoff of 0.34 when using AT/ET ratio can identify severe AS with 96% sensitivity and 94% specificity. Multivariate analysis adjusting to sex, stroke volume index, heart rate, and body mass index showed similar results. Kaplan-Meier curve for AT ≥ 108 and AT/ET ≥ 0.34 predicted death or aortic valve intervention in a 3-year follow-up.
+CONCLUSIONS: Acceleration time and AT/ET ratio are reliable measurements for identifying patients with severe AS. Furthermore, AT and AT/ET were able to predict aortic valve replacement or death.
+
+Citation: Mazin I, et al. Systolic Time Intervals for Diagnosis of Severe Aortic Stenosis. Systolic Time Intervals for Diagnosis of Severe Aortic Stenosis. 2022; 24:144-150.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35347925/

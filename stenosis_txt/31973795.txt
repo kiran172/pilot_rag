@@ -1,0 +1,12 @@
+PMID: 31973795
+Title: The Effect and Relationship of Frailty Indices on Survival After Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVES: This study sought to evaluate the ability of individual markers of frailty to predict outcomes after transcatheter aortic valve replacement (TAVR) and of their discriminatory value in different age groups.
+BACKGROUND: Appropriate patient selection for TAVR remains a dilemma, especially among the most elderly and potentially frail.
+METHODS: The study evaluated patients ≥65 years of age in the Society of Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy registry, linked to Centers for Medicare and Medicaid administrative claims data, receiving elective TAVR from November 2011 to June 2016 (n = 36,242). Indices of frailty included anemia, albumin level, and 5-m walk speed. We performed Cox proportional hazards regression for 30-day and 1-year mortality, adjusting for risk factors known to be predictive of 30-day mortality in the Transcatheter Valve Therapy registry, as well as survival analysis.
+RESULTS: These indices are independently associated with mortality at 30 days and 1 year and provide incremental value in risk stratification for mortality, with low albumin providing the largest value (hazard ratio: 1.52). Those with low albumin and slower walking speed had longer lengths of stay and higher rates of bleeding and readmission (p < 0.001). Those with anemia also had higher rates of bleeding, readmission, and subsequent myocardial infarction (p < 0.001).
+CONCLUSIONS: This represents the largest study to date of the role of frailty indices after TAVR, further facilitating robust modeling and adjusting for a large number of confounders. These simple indices are easily attainable, and clinically relevant markers of frailty that may meaningfully stratify patients at risk for mortality after TAVR.
+
+Citation: Kiani S, et al. The Effect and Relationship of Frailty Indices on Survival After Transcatheter Aortic Valve Replacement. The Effect and Relationship of Frailty Indices on Survival After Transcatheter Aortic Valve Replacement. 2020; 13:219-231. doi: 10.1016/j.jcin.2019.08.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31973795/

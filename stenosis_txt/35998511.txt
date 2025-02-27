@@ -1,0 +1,12 @@
+PMID: 35998511
+Title: Effects of metformin on changes of miR-19a and miR-221 expression associated with myocardial infarction in patients with type 2 diabetes.
+
+Abstract: BACKGROUND: The presence of hyperglycemia is a risk factor for cardiovascular diseases, as it increases the risk of myocardial infarction (MI). Metformin is considered an effective anti-hyperglycemic drug for patients with type 2 diabetes. Prediction of microRNAs is valuable in determining the risk of MI.
+AIM: This study aimed to measure the expression of two microRNAs, which are involved in the risk of MI and vascular stenosis among metformin users and non-users with MI.
+METHODS: In this study, we analyzed the expression of two microRNAs, collected from the blood samples of 180 subjects with MI, using the quantitative polymerase chain reaction (qPCR) assay. The subjects were categorized into three groups: non-diabetic patients with MI (MIND), diabetic patients with MI not using metformin (MIDMet-), and diabetic patients with MI using metformin (MIDMet+). To assess the sensitivity and specificity of miR-19a and miR-221 expression as potential biomarkers for MI, the receiver operating characteristic curve (ROC) analysis was conducted for both diabetic groups.
+RESULTS: The diabetic MIDMet + group exhibited a significant decrease in the expression levels of miR-221 (7.2 folds) and miR-19a (5.3 folds) as compared to the MIDMet- and MIND groups (p < 0.05). The ROC analysis revealed that the areas under the ROC curve (AUC) for circulating miR-19a and miR-221 were 0.931 and 0.965 in patients with type 2 diabetes, respectively (p < 0.001).
+CONCLUSION: Based on the present findings, metformin therapy can influence cardiovascular disorders and their outcomes through down-regulation of microRNAs. Also, exploration of microRNAs and the effects of metformin on their reduction can provide a potential therapeutic strategy for patients with type 2 diabetes by reducing the MI risk.
+
+Citation: Mansouri F and Seyed Mohammadzad MH. Effects of metformin on changes of miR-19a and miR-221 expression associated with myocardial infarction in patients with type 2 diabetes. Effects of metformin on changes of miR-19a and miR-221 expression associated with myocardial infarction in patients with type 2 diabetes. 2022; 16:102602. doi: 10.1016/j.dsx.2022.102602
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35998511/

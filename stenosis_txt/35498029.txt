@@ -1,0 +1,12 @@
+PMID: 35498029
+Title: Risk Stratification by Coronary Perfusion Pressure in Left Ventricular Systolic Dysfunction Patients Undergoing Revascularization: A Propensity Score Matching Analysis.
+
+Abstract: BACKGROUND: Coronary perfusion pressure (CPP) and coronary artery stenosis are responsible for myocardial perfusion. However, how CPP-related survival outcome affects revascularization is unclear.
+OBJECTIVE: The aim of this study is to investigate the prognostic role of CPP in patients with left ventricular systolic dysfunction (LVSD) undergoing percutaneous coronary intervention (PCI) with complete revascularization (CR) or reasonable incomplete revascularization (RIR).
+METHODS: We retrospectively screened 6,076 consecutive patients in a registry. The residual synergy between percutaneous coronary intervention with Taxus and cardiac surgery (SYNTAX) score (rSS) was used to define CR (rSS = 0) and RIR (0<rSS≤8). Propensity score matching was performed to reduce bias between RIR and CR. The primary endpoint was all-cause mortality.
+RESULTS: In total, 816 patients with LVSD who underwent CR or RIR were enrolled. After a mean follow-up of 4.6 years, 134 patients died. Both CPP and RIR independently predicted mortality in the total population. After 1:1 matching, 175 pairs of RIR and CR were found in patients with CPP &gt; 42 mmHg. Moreover, 101 pairs of RIR and CR were present in patients with CPP ≤ 42 mmHg. In patients with CPP &gt; 42 mmHg, RIR was not significantly different from CR in long-term mortality [hazard ratio (HR) 1.20; 95% confidence interval (CI):0.70-2.07; p = 0.513]; However, in patients with CPP≤42 mmHg, RIR had a significantly higher mortality risk than CR (HR 2.39; 95% CI: 1.27-4.50; p = 0.007).
+CONCLUSIONS: The CPP had a risk stratification role in selecting different revascularization strategies in patients with LVSD. When patients with LVSD had CPP > 42 mmHg, RIR was equivalent to CR in survival. However, when patients with LVSD had CPP ≤ 42 mmHg, RIR had a significantly higher mortality risk than CR.
+
+Citation: Hsieh MJ, et al. Risk Stratification by Coronary Perfusion Pressure in Left Ventricular Systolic Dysfunction Patients Undergoing Revascularization: A Propensity Score Matching Analysis. Risk Stratification by Coronary Perfusion Pressure in Left Ventricular Systolic Dysfunction Patients Undergoing Revascularization: A Propensity Score Matching Analysis. 2022; 9:860346. doi: 10.3389/fcvm.2022.860346
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35498029/

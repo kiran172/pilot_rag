@@ -1,0 +1,11 @@
+PMID: 38389116
+Title: CT-derived Epicardial Adipose Tissue Inflammation Predicts Outcome in Patients Undergoing Transcatheter Aortic Valve Replacement.
+
+Abstract: PURPOSE: Inflammatory changes in epicardial (EAT) and pericardial adipose tissue (PAT) are associated with increased overall cardiovascular risk. Using routine, preinterventional cardiac CT data, we examined the predictive value of quantity and quality of EAT and PAT for outcome after transcatheter aortic valve replacement (TAVR).
+MATERIALS AND METHODS: Cardiac CT data of 1197 patients who underwent TAVR at the in-house heart center between 2011 and 2020 were retrospectively analyzed. The amount and density of EAT and PAT were quantified from single-slice CT images at the level of the aortic valve. Using established risk scores and known independent risk factors, a clinical benchmark model (BMI, Chronic kidney disease stage, EuroSCORE 2, STS Prom, year of intervention) for outcome prediction (2-year mortality) after TAVR was established. Subsequently, we tested whether the additional inclusion of area and density values of EAT and PAT in the clinical benchmark model improved prediction. For this purpose, the cohort was divided into a training (n=798) and a test cohort (n=399).
+RESULTS: Within the 2-year follow-up, 264 patients died. In the training cohort, particularly the addition of EAT density to the clinical benchmark model showed a significant association with outcome (hazard ratio 1.04, 95% CI: 1.01-1.07; P =0.013). In the test cohort, the outcome prediction of the clinical benchmark model was also significantly improved with the inclusion of EAT density (c-statistic: 0.589 vs. 0.628; P =0.026).
+CONCLUSIONS: EAT density as a surrogate marker of EAT inflammation was associated with 2-year mortality after TAVR and may improve outcome prediction independent of established risk parameters.
+
+Citation: Salam B, et al. CT-derived Epicardial Adipose Tissue Inflammation Predicts Outcome in Patients Undergoing Transcatheter Aortic Valve Replacement. CT-derived Epicardial Adipose Tissue Inflammation Predicts Outcome in Patients Undergoing Transcatheter Aortic Valve Replacement. 2024; 39:224-231. doi: 10.1097/RTI.0000000000000776
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38389116/

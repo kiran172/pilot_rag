@@ -1,0 +1,10 @@
+PMID: 32879221
+Title: Periprocedural Predictors of New-Onset Conduction Abnormalities After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: New-onset conduction abnormalities (CAs) following transcatheter aortic valve replacement (TAVR) are associated with hospital rehospitalization and long-term mortality, but available predictors are sparse. This study sought to determine clinical predictors of new-onset left bundle branch block (LBBB) and new permanent pacemaker (PPM) implantation in patients undergoing TAVR.
+METHODS AND RESULTS: We enrolled 290 patients who received SAPIEN 3 (Edwards Lifesciences, Irvine, CA, USA; n=217) or Evolut R (Medtronic, Minneapolis, MN, USA; n=73) from a prospective registry at Nouvel Hôpital Civil, Strasbourg, France between September 2014 and February 2018. Of 242 patients without pre-existing LBBB, 114 (47%) experienced new-onset LBBB and/or new PPM implantation. A difference between membranous septal length and implantation depth (∆MSID) was the only predictor of CAs for both types of valves. In the multivariate analysis, PR interval and ∆MSID remained as sole predictors of CAs. The risk for adverse clinical events, including all-cause death, myocardial infarction, stroke, and heart failure hospitalization, was higher for patients with CAs as compared with patients without CAs (hazard ratio: 2.10; 95% confidence interval: 1.26 to 3.57; P=0.004).
+CONCLUSIONS: Computed tomography assessment of membranous septal anatomy and implantation depth predicted CAs after TAVR with new-generation valves. Future studies are required to identify whether adjustment of the implantation depth can reduce the risk of CAs and adverse clinical outcomes.
+
+Citation: Matsushita K, et al. Periprocedural Predictors of New-Onset Conduction Abnormalities After Transcatheter Aortic Valve Replacement. Periprocedural Predictors of New-Onset Conduction Abnormalities After Transcatheter Aortic Valve Replacement. 2020; 84:1875-1883. doi: 10.1253/circj.CJ-20-0257
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32879221/

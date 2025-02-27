@@ -1,0 +1,11 @@
+PMID: 38360097
+Title: Impact of diabetes mellitus on clinical outcomes after first episode in-stent restenosis PCI: Results from a large registry.
+
+Abstract: BACKGROUND: Diabetes mellitus (DM) is associated with a high rate of major adverse cardiac events (MACE) after de novo coronary artery percutaneous coronary intervention (PCI). Whether patients with DM undergoing PCI for in-stent restenosis (ISR) experience a similar heightened risk of MACE is not known. Hence, we sought to compare the clinical outcomes of patients with and without DM undergoing PCI for ISR.
+METHODS: Patients undergoing first episode ISR PCI between January 2015 and December 2021 were included. The primary outcome of interest was MACE (all-cause death, myocardial infarction [MI], and target lesion revascularization [TVR]) at 1-year.
+RESULTS: A total of 3156 patients (56.7% with DM) underwent PCI for ISR during the study period. Patients with DM were younger, more likely to be female, and had a higher prevalence of comorbidities. At 1-year follow-up, DM was associated with a higher rate of MACE (22.4% vs. 18.7%, unadjusted HR 2.03, 95%CI(1.27-3.25), p = 0.003). All-cause mortality and MI were significantly more frequent among people with DM at 1-year follow-up. The rate of TVR was similar in both groups (17.9% vs. 16.0%, unadjusted HR 1.14, 95%CI (0.94-1.37), p = 0.180). On adjusted analysis, there was no significant difference in the rate of MACE (AHR 1.07, 95%CI(0.90 - -1.29), p = 0.444), all-cause death (AHR 1.54, 95%CI(0.93-2.54), p = 0.095) or MI (AHR 1.10, 95%CI(0.74-1.63), p = 0.652).
+CONCLUSION: ISR PCI in patients with DM was associated with a higher rate of MACE at 1-year follow-up. However, this increased risk was no longer significant after adjusting for baseline characteristics.
+
+Citation: Tanner R, et al. Impact of diabetes mellitus on clinical outcomes after first episode in-stent restenosis PCI: Results from a large registry. Impact of diabetes mellitus on clinical outcomes after first episode in-stent restenosis PCI: Results from a large registry. 2024; 401:131856. doi: 10.1016/j.ijcard.2024.131856
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38360097/

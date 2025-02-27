@@ -1,0 +1,11 @@
+PMID: 37622477
+Title: Strain-derived myocardial work in wild-type transthyretin cardiac amyloidosis with aortic stenosis-diagnosis and prognosis.
+
+Abstract: BACKGROUND: Several echocardiographic parameters have been suggested to differentiate wild-type transthyretin cardiac amyloidosis (ATTRwt) from other causes of hypertrophy. These studies have all been performed in small samples of mixed cardiac amyloidosis. The purpose of this study was to investigate the role of echocardiographic parameters in patients with ATTRwt and aortic stenosis (AS) versus patients with AS. The secondary aim was to investigate the role of myocardial work in the prognosis of patients with ATTRwt.
+METHODS: The sensitivity and specificity of the relative apical sparing ratio (RAS), the apical-to-basal ratio (AB), the ejection-fraction-to-global-longitudinal-strain ratio (EF/GLS), and the global myocardial work index (GWI) were calculated using receiver-operated characteristics curves and area under the curve (AUC) in patients with ATTRwt and AS (n = 50) versus patients with AS (n = 354). Multivariable regression was used to assess the prognostic value of GWI in patients with ATTRwt (n = 212).
+RESULTS: When used to identify AS from ATTRwt + AS, GWI had a sensitivity of 80% and specificity of 70%. The AUC of GWI was larger than that of AB (p = .01) and EF/GLS (p > .01) but not RAS (p = .15). In patients with ATTRwt multivariable regression found age predicted mortality with an estimate of HR = 1.086 (CI: 1.034-1.141) while GWI predicted survival with an estimate of HR = .837 (CI: .733-.956) per 100 mmHg*% increase.
+CONCLUSION: GWI was demonstrated to be a viable classifier in ATTRwt and AS versus AS. GWI was demonstrated to independently predict survival in patients with ATTRwt. Further studies examining the role of myocardial work in ATTRwt are warranted.
+
+Citation: Ladefoged B, et al. Strain-derived myocardial work in wild-type transthyretin cardiac amyloidosis with aortic stenosis-diagnosis and prognosis. Strain-derived myocardial work in wild-type transthyretin cardiac amyloidosis with aortic stenosis-diagnosis and prognosis. 2023; 40:1079-1087. doi: 10.1111/echo.15681
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37622477/

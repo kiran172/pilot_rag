@@ -1,0 +1,11 @@
+PMID: 32220695
+Title: Cerebral small vessel disease score and atherosclerosis burden - A population study in community-dwelling older adults.
+
+Abstract: OBJECTIVE: Cerebral small vessel disease (cSVD) and large artery atherosclerosis (LAA) are related to different pathogenetic mechanisms. However, relationships between single biomarkers of cSVD and LAA affecting isolated vascular beds have been reported. Using the Atahualpa Project cohort, we aimed to assess the association between cSVD score categories and LAA burden in community-dwelling older adults.
+PATIENTS AND METHODS: Atahualpa individuals aged ≥60 years undergoing assessment of the cSVD score and LAA in the peripheral, carotid extracranial, and intracranial vascular beds (n = 333) were included. Multivariate models were fitted to assess independent associations between the cSVD score and LAA burden.
+RESULTS: The cSVD score was 0 points in 62 % individuals, 1 point in 19 %, 2 points in 13 %, and 3-4 points in 7 %. LAA involved the extracranial carotid bed in 43 % individuals, the intracranial bed in 36 %, and the peripheral bed in 20 %. One vascular bed was involved in 111 (33 %) individuals, two beds in 75 (23 %), and three beds in 23 (7 %). The remaining 124 (37 %) had no atherosclerosis. Ordinal logistic regression models showed progressively greater associations between higher categories of cSVD score and the odds of having more beds involved with LAA. Multinomial logistic regression models showed associations between categories of cSVD score and LAA burden, but only when two or three vascular beds were involved.
+CONCLUSION: This study demonstrates robust associations between the cSVD score and LAA, which become evident at the upper end of the spectrum of cSVD score (3-4 points) and LAA burden (2-3 vascular beds involved).
+
+Citation: Del Brutto OH, et al. Cerebral small vessel disease score and atherosclerosis burden - A population study in community-dwelling older adults. Cerebral small vessel disease score and atherosclerosis burden - A population study in community-dwelling older adults. 2020; 194:105795. doi: 10.1016/j.clineuro.2020.105795
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32220695/

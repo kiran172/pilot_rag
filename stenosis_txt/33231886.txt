@@ -1,0 +1,11 @@
+PMID: 33231886
+Title: Accelerated aortic 4D flow MRI with wave-CAIPI.
+
+Abstract: PURPOSE: The aim of this study was to investigate the acceleration potential of wave-CAIPI (controlled aliasing in parallel imaging) for 4D flow MRI, provided that image quality and precision of flow parameters are maintained.
+METHODS: The 4D flow MRIs with acceleration factor R = 2 were performed on 10 healthy volunteers, using both wave-CAIPI and standard Cartesian/2D-CAIPI sampling for reference. In addition, 1 patient with known aortic valve stenosis was examined. The flow rate ( Q ), net flow ( Qnet ), peak velocity vmax , and net average through-plane velocity ( v¯⊥ ) were calculated in eight analysis planes in the ascending and descending aorta. The acquisitions were retrospectively undersampled (R = 6), and deviations of flow parameters and hemodynamic flow patterns were evaluated.
+RESULTS: Flow parameters measured with an undersampled wave-CAIPI trajectory showed considerably smaller deviations to the references than the 2D-CAIPI images. For vmax , the mean absolute differences were 6.02±2.08 cm/s versus 14.36±5.68 cm/s; for Qnet , the mean absolute differences were 3.67±1.40 ml versus 5.87±1.91 ml for wave-CAIPI versus 2D-CAIPI, respectively. Noise calculations indicate that the 2D-CAIPI sampling exhibits a 43±38% higher average noise level than the wave-CAIPI technique. Qualitative discrepancies in hemodynamic flow patterns, visualized through streamlines, particle traces and flow velocity vectors, could be reduced by using the undersampled wave-CAIPI trajectory.
+CONCLUSION: Use of wave-CAIPI instead of 2D-CAIPI sampling in retrospectively 6-fold accelerated 4D flow MRI enhances the precision of flow parameters. The acquisition time of 4D flow measurements could be reduced by a factor of 3, with minimal differences in flow parameters.
+
+Citation: Richter JAJ, et al. Accelerated aortic 4D flow MRI with wave-CAIPI. Accelerated aortic 4D flow MRI with wave-CAIPI. 2021; 85:2595-2607. doi: 10.1002/mrm.28605
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33231886/

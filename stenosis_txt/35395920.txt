@@ -1,0 +1,12 @@
+PMID: 35395920
+Title: Cannabis Use Disorder Is Associated With Longer In-Hospital Lengths of Stay, Higher Rates of Medical Complications, and Costs of Care Following Primary 1- to 2-Level Lumbar Fusion.
+
+Abstract: STUDY DESIGN: Retrospective case-control study.
+OBJECTIVES: The purpose of this study is to assess whether cannabis use disorder (CUD) patients undergoing primary 1- to 2-level lumbar fusion (1-2LF) for the treatment of degenerative lumbar spine disorders have higher rates of: (1) in-hospital lengths of stay (LOS), (2) medical complications, and (3) healthcare expenditures.
+MATERIALS AND METHODS: A retrospective case-control study of the MSpine dataset of the PearlDiver claims from January 2007 to March 2018 was performed. Patients with CUD undergoing 1-2LF were queried and matched to a comparison group in a 1:5 ratio by age, sex, and various medical comorbidities yielding 22, 815 patients within the study (CUD = 3805; control = 19 010). Outcomes analyzed included LOS, 90-day medical complications, and costs. A P-value less than .004 was considered significant.
+RESULTS: This study found CUD patients undergoing primary 1-2LF experience longer in-hospital LOS (4- vs. 3-days, P &lt; .0001). Additionally, CUD patients were found to have significantly higher frequency and odds-ratios (OR) (31.88 vs. 18.01% OR: 1.41, P &lt; .0001) of adverse events within ninety days following their procedure. CUD patients also had significantly higher day of surgery ($18,946.79 vs. $15,691.02, P &lt; .0001) and 90 days healthcare expenditures ($21,469.01 vs. $19,556.71, P &lt; .0001).
+CONCLUSION: Patients with CUD can prepare for increased LOS, complications, and costs following primary 1-2LF. The study can be used to educate these patients of the potential outcomes following their procedure.
+
+Citation: Jain S, et al. Cannabis Use Disorder Is Associated With Longer In-Hospital Lengths of Stay, Higher Rates of Medical Complications, and Costs of Care Following Primary 1- to 2-Level Lumbar Fusion. Cannabis Use Disorder Is Associated With Longer In-Hospital Lengths of Stay, Higher Rates of Medical Complications, and Costs of Care Following Primary 1- to 2-Level Lumbar Fusion. 2024; 14:67-73. doi: 10.1177/21925682221093965
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35395920/

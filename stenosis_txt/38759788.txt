@@ -1,0 +1,11 @@
+PMID: 38759788
+Title: Can Artificial Intelligence Mitigate Missed Diagnoses by Generating Differential Diagnoses for Neurosurgeons?
+
+Abstract: BACKGROUND/OBJECTIVE: Neurosurgery emphasizes the criticality of accurate differential diagnoses, with diagnostic delays posing significant health and economic challenges. As large language models (LLMs) emerge as transformative tools in healthcare, this study seeks to elucidate their role in assisting neurosurgeons with the differential diagnosis process, especially during preliminary consultations.
+METHODS: This study employed 3 chat-based LLMs, ChatGPT (versions 3.5 and 4.0), Perplexity AI, and Bard AI, to evaluate their diagnostic accuracy. Each LLM was prompted using clinical vignettes, and their responses were recorded to generate differential diagnoses for 20 common and uncommon neurosurgical disorders. Disease-specific prompts were crafted using Dynamed, a clinical reference tool. The accuracy of the LLMs was determined based on their ability to identify the target disease within their top differential diagnoses correctly.
+RESULTS: For the initial differential, ChatGPT 3.5 achieved an accuracy of 52.63%, while ChatGPT 4.0 performed slightly better at 53.68%. Perplexity AI and Bard AI demonstrated 40.00% and 29.47% accuracy, respectively. As the number of considered differentials increased from 2 to 5, ChatGPT 3.5 reached its peak accuracy of 77.89% for the top 5 differentials. Bard AI and Perplexity AI had varied performances, with Bard AI improving in the top 5 differentials at 62.11%. On a disease-specific note, the LLMs excelled in diagnosing conditions like epilepsy and cervical spine stenosis but faced challenges with more complex diseases such as Moyamoya disease and amyotrophic lateral sclerosis.
+CONCLUSIONS: LLMs showcase the potential to enhance diagnostic accuracy and decrease the incidence of missed diagnoses in neurosurgery.
+
+Citation: Kumar RP, et al. Can Artificial Intelligence Mitigate Missed Diagnoses by Generating Differential Diagnoses for Neurosurgeons?. Can Artificial Intelligence Mitigate Missed Diagnoses by Generating Differential Diagnoses for Neurosurgeons?. 2024; 187:e1083-e1088. doi: 10.1016/j.wneu.2024.05.052
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38759788/

@@ -1,0 +1,11 @@
+PMID: 37456208
+Title: Aortic Valve Area and Strain Measurements by Cardiac MRI and Transthoracic Echocardiography in Severe Aortic Stenosis with Normal Left Ventricular Function.
+
+Abstract: BACKGROUND: Transthoracic echocardiography (TTE) is the recommended imaging technique for the evaluation of patients with aortic stenosis (AS). However, in cases with inconclusive findings, cardiac magnetic resonance (CMR) planimetry is used to grade AS severity. This study aimed to compare the results derived from TTE and CMR in patients with severe AS with normal left ventricular (LV) function.
+METHODS: In a prospective study, 20 patients with severe AS were recruited and data derived from TTE and CMR modalities were compared with the archived records of 28 age- and sex-matched healthy controls. The data included aortic valve area (AVA), MRI-derived biventricular global strains, and TTE-derived global longitudinal strain (GLS). SPSS software was used to analyze the data with independent samples t test, intraclass correlation coefficient (ICC), and Pearson correlation. P&lt;0.05 was considered statistically significant.
+RESULTS: An excellent agreement was found in AVA values derived from CMR and TTE with an average ICC of 0.932 (95% CI=0.829-0.973). There was a significant difference in LV-GLS, LV global radial strain (GRS), right ventricular (RV) GRS, and RV global circumferential strain between the groups. A good correlation was found between CMR- and TTE-derived GLS with an average ICC of 0.721 (95% C=0.255-0.896). The mean aortic valve pressure gradient in TTE had a significant inverse linear correlation with LV-GRS in CMR (r=-0.537). All P values were <0.05.
+CONCLUSION: There was a good agreement between AVA and strain values derived from cardiac MRI and TTE. The myocardial strain was impaired in patients with severe AS and normal LV function and correlated with disease severity.
+
+Citation: Rezaeian N, et al. Aortic Valve Area and Strain Measurements by Cardiac MRI and Transthoracic Echocardiography in Severe Aortic Stenosis with Normal Left Ventricular Function. Aortic Valve Area and Strain Measurements by Cardiac MRI and Transthoracic Echocardiography in Severe Aortic Stenosis with Normal Left Ventricular Function. 2023; 48:370-378. doi: 10.30476/ijms.2022.94552.2590
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37456208/

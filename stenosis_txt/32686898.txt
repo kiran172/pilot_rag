@@ -1,0 +1,12 @@
+PMID: 32686898
+Title: Combining statistical shape modeling, CFD, and meta-modeling to approximate the patient-specific pressure-drop across the aortic valve in real-time.
+
+Abstract: BACKGROUND: Advances in medical imaging, segmentation techniques, and high performance computing have stimulated the use of complex, patient-specific, three-dimensional Computational Fluid Dynamics (CFD) simulations. Patient-specific, CFD-compatible geometries of the aortic valve are readily obtained. CFD can then be used to obtain the patient-specific pressure-flow relationship of the aortic valve. However, such CFD simulations are computationally expensive, and real-time alternatives are desired.
+AIM: The aim of this work is to evaluate the performance of a meta-model with respect to high-fidelity, three-dimensional CFD simulations of the aortic valve.
+METHODS: Principal component analysis was used to build a statistical shape model (SSM) from a population of 74 iso-topological meshes of the aortic valve. Synthetic meshes were created with the SSM, and steady-state CFD simulations at flow-rates between 50 and 650 mL/s were performed to build a meta-model. The meta-model related the statistical shape variance, and flow-rate to the pressure-drop.
+RESULTS: Even though the first three shape modes account for only 46% of shape variance, the features relevant for the pressure-drop seem to be captured. The three-mode shape-model approximates the pressure-drop with an average error of 8.8% to 10.6% for aortic valves with a geometric orifice area below 150 mm2 . The proposed methodology was least accurate for aortic valve areas above 150 mm2 . Further reduction to a meta-model introduces an additional 3% error.
+CONCLUSIONS: Statistical shape modeling can be used to capture shape variation of the aortic valve. Meta-models trained by SSM-based CFD simulations can provide an estimate of the pressure-flow relationship in real-time.
+
+Citation: Hoeijmakers MJMM, et al. Combining statistical shape modeling, CFD, and meta-modeling to approximate the patient-specific pressure-drop across the aortic valve in real-time. Combining statistical shape modeling, CFD, and meta-modeling to approximate the patient-specific pressure-drop across the aortic valve in real-time. 2020; 36:e3387. doi: 10.1002/cnm.3387
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32686898/

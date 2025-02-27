@@ -1,0 +1,11 @@
+PMID: 38570887
+Title: Prediction of malignant esophageal fistula in esophageal cancer using a radiomics-clinical nomogram.
+
+Abstract: BACKGROUND: Malignant esophageal fistula (MEF), which occurs in 5% to 15% of esophageal cancer (EC) patients, has a poor prognosis. Accurate identification of esophageal cancer patients at high risk of MEF is challenging. The goal of this study was to build and validate a model to predict the occurrence of esophageal fistula in EC patients.
+METHODS: This study retrospectively enrolled 122 esophageal cancer patients treated by chemotherapy or chemoradiotherapy (53 with fistula, 69 without), and all patients were randomly assigned to a training (n = 86) and a validation (n = 36) cohort. Radiomic features were extracted from pre-treatment CTs, clinically predictors were identified by logistic regression analysis. Lasso regression model was used for feature selection, and radiomics signature building. Multivariable logistic regression analysis was used to develop the clinical nomogram, radiomics-clinical nomogram and radiomics prediction model. The models were validated and compared by discrimination, calibration, reclassification, and clinical benefit.
+RESULTS: The radiomic signature consisting of ten selected features, was significantly associated with esophageal fistula (P = 0.001). Radiomics-clinical nomogram was created by two predictors including radiomics signature and stenosis, which was identified by logistic regression analysis. The model showed good discrimination with an AUC = 0.782 (95% CI 0.684-0.8796) in the training set and 0.867 (95% CI 0.7461-0.987) in the validation set, with an AIC = 101.1, and good calibration. When compared to the clinical prediction model, the radiomics-clinical nomogram improved NRI by 0.236 (95% CI 0.153, 0.614) and IDI by 0.125 (95% CI 0.040, 0.210), P = 0.004.
+CONCLUSION: We developed and validated the first radiomics-clinical nomogram for malignant esophageal fistula, which could assist clinicians in identifying patients at high risk of MEF.
+
+Citation: Zhu C, et al. Prediction of malignant esophageal fistula in esophageal cancer using a radiomics-clinical nomogram. Prediction of malignant esophageal fistula in esophageal cancer using a radiomics-clinical nomogram. 2024; 29:217. doi: 10.1186/s40001-024-01746-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38570887/

@@ -1,0 +1,11 @@
+PMID: 32647686
+Title: Antibody microarray analysis of serum inflammatory cytokines in patients with calcific aortic valve disease.
+
+Abstract: BACKGROUND: Calcific aortic valve disease (CAVD) is a slowly progressive pathologic process associated with significant morbidity and mortality, CAVD is the most common valve heart disease in the elderly and a leading cause of aortic valve stenosis. Multiple steps characterize the process: inflammation, cell apoptosis, lipid deposition, renin-angiotensin system activation, extracellular matrix remodeling, and bone formation. This paper focuses on detecting and analyzing the expression of serum inflammatory factors in CAVD by antibody microarray techniques.
+METHODS: In this study, a total of 258 patients were included at Tianjin Chest Hospital between January 2017 and December 2018, subjects were divided into three groups: control, coronary artery disease (CAD), and CAVD. Blood samples were collected, and adipokine/cytokine/chemokine serum profiles were measured by antibody arrays.
+RESULTS: These data suggest that B-Lymphocyte Chemoattractant (BLC), Interleukin (IL)-12p40, monokine inducible by γ interferon (MIG), and Macrophage inflammatory protein (MIP)-1delta were significantly increased in CAVD compared to control or CAD. Furthermore, Real-time quantified PCR, Western blot assay, and Flow cytometer detection showed that these four cytokines/chemokines were from peripheral blood mononuclear cells.
+CONCLUSIONS: These findings suggest that BLC, IL-12p40, MIG, and MIP-1delta can be used as a marker to assess CAVD, which could have significant clinical implications.
+
+Citation: Fu B, et al. Antibody microarray analysis of serum inflammatory cytokines in patients with calcific aortic valve disease. Antibody microarray analysis of serum inflammatory cytokines in patients with calcific aortic valve disease. 2020; 8:761. doi: 10.21037/atm-20-4463
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32647686/

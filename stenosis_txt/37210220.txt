@@ -1,0 +1,12 @@
+PMID: 37210220
+Title: Impact of right ventricular-pulmonary arterial coupling on clinical outcomes in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: AIMS: The interplay between pulmonary hypertension (PH) and right ventricular (RV) function is reflected in an index of RV function to pulmonary artery (PA) systolic pressure (PASP). The present study aimed to assess the importance of RV-PA coupling on clinical outcomes after transcatheter aortic valve implantation (TAVI).
+METHODS AND RESULTS: In a prospective TAVI registry, clinical outcomes of TAVI patients with RV dysfunction or PH were stratified according to coupling or uncoupling of tricuspid annular plane systolic excursion (TAPSE) to PASP, and compared to those of patients with normal RV function and absence of PH. The median TAPSE/PASP ratio was used to differentiate uncoupling (&gt;0.39) from coupling (&lt;0.39). Among 404 TAVI patients, 201 patients (49.8 %) had RVD or PH at baseline: 174 patients had RV-PA uncoupling, and 27 had coupling at baseline. RV-PA hemodynamics normalized in 55.6 % of patients with RV-PA coupling and in 28.2 % of patients with RV-PA uncoupling, and deteriorated in 33.3 % of patients with RV-PA coupling and in 17.8 % of patients with no RVD, respectively, at discharge. Patients with RV-PA uncoupling after TAVI showed a trend towards an increased risk of cardiovascular death at 1 year as compared to patients with normal RV-function (HR<sub>adjusted</sub> 2.06, 95 % CI 0.97-4.37).
+CONCLUSION: After TAVI, RV-PA coupling changed in a significant proportion of patients and is a potentially important metric for risk stratification of TAVI patients with RVD or PH. TWEET: "Patients with right ventricular dysfunction and pulmonary hypertension are at increased risk of death after TAVI. Integrated right ventricular to pulmonary artery hemodynamics change after TAVI in a significant proportion of patients and is instrumental to refine risk stratification."
+CLINICAL TRIAL REGISTRATION: https://www.
+CLINICALTRIALS: gov: NCT01368250.
+
+Citation: Alwan L, et al. Impact of right ventricular-pulmonary arterial coupling on clinical outcomes in patients undergoing transcatheter aortic valve implantation. Impact of right ventricular-pulmonary arterial coupling on clinical outcomes in patients undergoing transcatheter aortic valve implantation. 2023; 56:27-34. doi: 10.1016/j.carrev.2023.05.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37210220/

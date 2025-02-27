@@ -1,0 +1,11 @@
+PMID: 34773829
+Title: Evaluation of Modified Calcium Removal Algorithm in dual energy CT of Internal Carotid Artery.
+
+Abstract: PURPOSE: To evaluate the performance of a dual-energy (DE) calcium removal software based on a modified three-material decomposition algorithm in assessing the stenosis of the internal carotid artery (ICA) in comparison with mixed images using digital subtraction angiography (DSA) as the reference standard.
+METHODS: Forty-six patients (38 men; 67±8 years old), including 154 calcified ICA segments C1-C2 (59), C3-C5 (63), C6 (24), and C7 (8), were recruited in this retrospective study. Mixed images and virtual non-calcium (VNCa) images using the modified dual-energy computed tomography (DECT) algorithm were reconstructed. The differences between VNCa and DSA images vs. mixed and DSA images of degree of stenosis were compared. The intraclass correlation coefficient (ICC) was used for assessing the agreement between VNCa, mixed images, and DSA.
+RESULTS: The degree of stenosis differed significantly between mixed and DSA images in the C3-C5 (30%±17.9% vs. 23.0%±16.9%, p = 0.026) and C6 (38.3%±15.4% vs. 28.5%±13.3%, p = 0.023) segments. The stenosis of VNCa images showed no significant difference with DSA images in all segments (all p > 0.05). The ICCs between VNCa and DSA images (0.86-0.97) were higher than those between the mixed and DSA images (0.68-0.96) in all segments.
+CONCLUSION: The performance of a modified three-material decomposition DECT algorithm for calcium removal in ICA stenosis evaluation, particularly for the C3-C5 and C6 ICA segments, was promising.
+
+Citation: Chen J, et al. Evaluation of Modified Calcium Removal Algorithm in dual energy CT of Internal Carotid Artery. Evaluation of Modified Calcium Removal Algorithm in dual energy CT of Internal Carotid Artery. 2021; 145:109927. doi: 10.1016/j.ejrad.2021.109927
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34773829/

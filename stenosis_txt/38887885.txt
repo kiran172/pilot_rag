@@ -1,0 +1,12 @@
+PMID: 38887885
+Title: Cardiac fibrosis as a predictor for sudden cardiac death after transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Cardiac fibrosis plays a major pathophysiological role in any form of chronic heart disease, and high levels are associated with poor outcome. Diffuse and focal cardiac fibrosis are different subtypes, which have different pathomechanisms and prognostic implications. The total fibrosis burden in endomyocardial biopsy tissue was recently proved to play an independent prognostic role in aortic stenosis patients after transcatheter aortic valve implantation (TAVI).
+AIMS: Here, for the first time, we aim to assess the specific impact of different fibrosis subtypes on sudden cardiac death (SCD) as a primary reason for cardiovascular mortality after TAVI.
+METHODS: The fibrosis pattern was assessed histologically in the left ventricular biopsies obtained during TAVI interventions in 161 patients, who received a structured follow-up thereafter.
+RESULTS: Receiver operating characteristic analyses, performed 6, 12, 24 and 48 months after TAVI, showed diffuse, but not focal, fibrosis as a significant predictor for SCD at all timepoints, with the highest area under the curve at the first time point and a decrease in its SCD predictivity over time. In both multivariate Cox proportional hazards and Fine-Gray competing risk models, including both fibrosis subtypes, as well as age, sex and ejection fraction, high diffuse fibrosis remained statistically significant. Accordingly, it represents an independent SCD predictor, most importantly for the occurrence of early events.
+CONCLUSIONS: The burden of diffuse cardiac fibrosis plays an important and independent prognostic role regarding SCD early after TAVI. Therefore, the histological evaluation of fibrosis topography has value as a prognostic tool for TAVI patients and may help to tailor individualised approaches to optimise their postinterventional management.
+
+Citation: Alnour F, et al. Cardiac fibrosis as a predictor for sudden cardiac death after transcatheter aortic valve implantation. Cardiac fibrosis as a predictor for sudden cardiac death after transcatheter aortic valve implantation. 2024; 20:e760-e769. doi: 10.4244/EIJ-D-23-01068
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38887885/

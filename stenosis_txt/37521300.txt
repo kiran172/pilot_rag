@@ -1,0 +1,11 @@
+PMID: 37521300
+Title: Identifying risk factors for in-stent restenosis in symptomatic intracranial atherosclerotic stenosis: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: In-stent restenosis (ISR) is an adverse and notable event in the treatment of intracranial atherosclerotic stenosis (ICAS) with percutaneous transluminal angioplasty and stenting (PTAS). The incidence and contributing factors have not been fully defined. This study was performed to evaluate factors associated with ISR after PTAS.
+DATA SOURCE: We identified studies on ISR after PTAS from an electronic search of articles in PubMed, Ovid MEDLINE, and the Cochrane Central Database (dated up to July 2022).
+RESULTS: A total of 19 studies, including 452 cases of ISR after 2,047 PTAS, were included in the meta-analysis. The pooled incidence rate of in-stent restenosis was 22.08%. ISR was more likely to occur in patients with coronary artery disease (OR = 1.686; 95% CI: 1.242-2.288; p = 0.0008), dissection (OR = 6.293; 95% CI: 3.883-10.197; p &lt; 0.0001), and higher residual stenosis (WMD = 3.227; 95% CI: 0.142-6.311; p = 0.0404). Patients treated with Wingspan stents had a significantly higher ISR rate than those treated with Enterprise stents (29.78% vs. 14.83%; p &lt; 0.0001).
+CONCLUSIONS: The present study provides the current estimates of the robust effects of some risk factors for in-stent restenosis in intracranial atherosclerotic stenosis. The Enterprise stent had advantages compared with the Wingspan stent for ISR. The significant risk factors for ISR were coronary artery disease, dissection, and high residual stenosis. Local anesthesia was a suspected factor associated with ISR.
+
+Citation: Wang N, et al. Identifying risk factors for in-stent restenosis in symptomatic intracranial atherosclerotic stenosis: a systematic review and meta-analysis. Identifying risk factors for in-stent restenosis in symptomatic intracranial atherosclerotic stenosis: a systematic review and meta-analysis. 2023; 14:1170110. doi: 10.3389/fneur.2023.1170110
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37521300/

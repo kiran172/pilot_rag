@@ -1,0 +1,11 @@
+PMID: 33070124
+Title: Pre- and Post-Transcatheter Aortic Valve Replacement Serum Brain Natriuretic Peptide Levels and All-Cause Mortality.
+
+Abstract: BACKGROUND: Risk stratification in patients post-transcatheter aortic valve replacement (TAVR) is limited to and is based on clinical judgment and surgical scoring systems. Serum natriuretic peptides are used for general risk stratification in patients with aortic stenosis, reflecting the increase in their afterload and thereby stressing the need for valve intervention. The objective of this study was to determine the predictive value of pre- and post-procedural serum brain natriuretic peptide (BNP) on 1-year all-cause mortality in patients who underwent TAVR.
+METHODS: In this population-based study, we included 148 TAVR patients treated at the Poriya Medical Center between June 1, 2015, and May 31, 2018. Routine blood samples for serum BNP levels (pg/mL) were taken just before the TAVR and 24 h post-TAVR. Our primary clinical outcome was defined as 1-year all-cause mortality. We used backward regression models and included all variables that had a p value <0.1 in the univariable analysis. A receiver-operating characteristic curve was calculated for the prediction of all-cause mortality by serum BNP levels using the median as the cut-off point.
+RESULTS: In this study cohort, BNP levels 24 h post-TAVR higher than the cohort median versus lower than the cohort median (387.5 pg/mL; IQR 195-817.6) were the strongest predictor of 1-year mortality (hazard ratio 9; 95% CI 2.72-30.16; p < 0.001). The statistically significant relationship was seen in the unadjusted regression model as well as after the adjustment for clinical variables.
+CONCLUSIONS: Serum BNP levels 24 h post-procedure were found to be a meaningful marker in predicting 1-year all-cause mortality in patients after TAVR procedure.
+
+Citation: Elbaz-Greener G, et al. Pre- and Post-Transcatheter Aortic Valve Replacement Serum Brain Natriuretic Peptide Levels and All-Cause Mortality. Pre- and Post-Transcatheter Aortic Valve Replacement Serum Brain Natriuretic Peptide Levels and All-Cause Mortality. 2020; 145:813-821. doi: 10.1159/000509857
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33070124/

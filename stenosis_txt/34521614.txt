@@ -1,0 +1,12 @@
+PMID: 34521614
+Title: Valve-in-valve transcatheter aortic valve implantation versus repeat surgical aortic valve replacement in patients with a failed aortic bioprosthesis.
+
+Abstract: BACKGROUND: Limited data are available regarding clinical outcomes of valve-in-valve (ViV) transcatheter aortic valve implantation (TAVI) following the United States Food and Drug Administration approval of ViV TAVI in 2015.
+AIMS: The aim of this study was to evaluate in-hospital, 30-day, and 6-month outcomes of ViV TAVI versus repeat surgical aortic valve replacement (SAVR) in patients with a failed aortic bioprosthetic valve.
+METHODS: This retrospective cohort study identified patients who underwent ViV TAVI or repeat SAVR utilising the Nationwide Readmission Database from 2016 to 2018. Primary outcomes were all-cause readmission (at 30 days and 6 months) and in-hospital death. Secondary outcomes were in-hospital stroke, pacemaker implantation, 30-day/6-month major adverse cardiac events (MACE), and mortality during readmission. Propensity score-matching (inverse probability of treatment weighting) analyses were implemented.
+RESULTS: Out of 6,769 procedures performed, 3,724 (55%) patients underwent ViV TAVI, and 3,045 (45%) underwent repeat SAVR. ViV TAVI was associated with lower in-hospital all-cause mortality (odds ratio [OR] 0.42, 95% confidence interval [CI]: 0.20-0.90, p=0.026) and a higher rate of 30-day (hazard ratio [HR] 1.46, 95% CI: 1.13-1.90, p=0.004) and 6-month all-cause readmission (HR 1.54, 95% CI: 1.14-2.10, p=0.006) compared with repeat SAVR. All secondary outcomes were comparable between the two groups.
+CONCLUSIONS: ViV TAVI was associated with lower in-hospital mortality but higher 30-day and 6-month all-cause readmission. However, there was no difference in risk of in-hospital stroke, post-procedure pacemaker implantation, MACE, and mortality during 30-day and 6-month readmission compared with repeat SAVR, suggesting that ViV TAVI can be performed safely in carefully selected patients.
+
+Citation: Majmundar M, et al. Valve-in-valve transcatheter aortic valve implantation versus repeat surgical aortic valve replacement in patients with a failed aortic bioprosthesis. Valve-in-valve transcatheter aortic valve implantation versus repeat surgical aortic valve replacement in patients with a failed aortic bioprosthesis. 2022; 17:1227-1237. doi: 10.4244/EIJ-D-21-00472
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34521614/

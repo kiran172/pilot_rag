@@ -1,0 +1,11 @@
+PMID: 36965404
+Title: An interpretable machine learning approach for predicting 30-day readmission after stroke.
+
+Abstract: BACKGROUND: Stroke is the second leading cause of death worldwide and has a significantly high recurrence rate. We aimed to identify risk factors for stroke recurrence and develop an interpretable machine learning model to predict 30-day readmissions after stroke.
+METHODS: Stroke patients deposited in electronic health records (EHRs) in Xuzhou Medical University Hospital between February 1, 2021, and November 30, 2021, were included in the study, and deceased patients were excluded. We extracted 74 features from EHRs, and the top 20 features (chi-2 value) were used to build machine learning models. 80% of the patients were used for pre-training. Subsequently, a 20% holdout dataset was used for verification. The Shapley Additive exPlanations (SHAP) method was used to explore the interpretability of the model.
+RESULTS: The cohort included 6,558 patients, of whom the mean (SD) age was 65 (11) years, 3,926 were males (59.86 %), and 132 (2.01 %) were readmitted within 30 days. The area under the receiver operating characteristic curve (AUROC) for the optimized model was 0.80 (95 % CI 0.68-0.80). We used the SHAP method to identify the top 10 risk factors (i.e., severe carotid artery stenosis, weak, homocysteine, glycosylated hemoglobin, sex, lymphocyte percentage, neutrophilic granulocyte percentage, urine glucose, fresh cerebral infarction, and red blood cell count). The AUROC of a model with the 10 features was 0.80 (95 % CI 0.69-0.80) and was not significantly different from that of the model with 20 risk factors.
+CONCLUSIONS: Our methods not only showed good performance in predicting 30-day readmissions after stroke but also revealed risk factors that provided valuable insights for treatments.
+
+Citation: Lv J, et al. An interpretable machine learning approach for predicting 30-day readmission after stroke. An interpretable machine learning approach for predicting 30-day readmission after stroke. 2023; 174:105050. doi: 10.1016/j.ijmedinf.2023.105050
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36965404/

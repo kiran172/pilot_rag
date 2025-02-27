@@ -1,0 +1,11 @@
+PMID: 38043709
+Title: Prognostic value of right ventricular free-wall longitudinal strain in aortic stenosis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Assessment of right ventricular (RV) function in aortic stenosis (AS) may improve risk stratification. However, whether the prognostic value of RV free-wall longitudinal strain (RVfwLS) is better than that of other right heart or pulmonary circulation parameters remains uncertain. This study assessed and compared the prognostic value of RVfwLS with traditional parameters in the AS population using a systematic review and meta-analysis.
+METHODS: We selected studies reporting the hazard ratio (HR) of RVfwLS in patients with AS. We also collected data regarding the HR of systolic pulmonary arterial pressure (SPAP), fractional area change (FAC), and tricuspid annulus plane systolic excursion (TAPSE). To ensure comparability, we standardized the HR using within-study standard deviations. The comparison between the prognostic value of RVfwLS and other parameters was conducted as a ratio of HR.
+RESULTS: This meta-analysis included 9 studies comprising a total of 2547 patients, with 679 events. The pooled HR of RVfwLS was 1.56 (95 % CI: 1.39-1.75, p < 0.001). When examining the ratio of HR between RVfwLS and conventional parameters, all comparisons were statistically non-significant [RVfwLS/SPAP: 1.28 (95 % CI: 0.99-1.65, p = 0.06); RVfwLS/FAC: 1.24 (95 % CI: 0.90-1.72, p = 0.14); and RVfwLS/TAPSE:1.07 (95 % CI: 0.75-1.52, p = 0.60)].
+CONCLUSIONS: This meta-analysis establishes a substantial association between RVfwLS and adverse outcomes in the AS population. However, comparative analysis between RVfwLS and SPAP, FAC, or TAPSE did not support the prognostic superiority of RVfwLS.
+
+Citation: Lee CY, et al. Prognostic value of right ventricular free-wall longitudinal strain in aortic stenosis: A systematic review and meta-analysis. Prognostic value of right ventricular free-wall longitudinal strain in aortic stenosis: A systematic review and meta-analysis. 2024; 84:80-85. doi: 10.1016/j.jjcc.2023.11.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38043709/

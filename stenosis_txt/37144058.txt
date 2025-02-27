@@ -1,0 +1,11 @@
+PMID: 37144058
+Title: Different hemodynamic factors cause the occurrence of superior mesenteric atherosclerotic stenosis and superior mesenteric artery dissection.
+
+Abstract: OBJECTIVE: To compare the hemodynamic factors involved in the occurrence of superior mesenteric atherosclerotic stenosis (SMAS) and superior mesenteric artery (SMA) dissection (SMAD).
+METHODS: Hospital records were searched to identify consecutive patients who were diagnosed with SMAS or SMAD between January 2015 and December 2021. A computational fluid dynamics (CFD) simulation method was used to assess the hemodynamic factors of the SMA in these patients. Histologic analysis was also performed on SMA specimens obtained from 10 cadavers, and scanning electron microscopy was used to evaluate collagen microstructure.
+RESULTS: A total of 124 patients with SMAS and 61 patients with SMAD were included. Most SMASs were circumferentially distributed at the SMA root, whereas the origin of most SMADs was located on the anterior wall of the curved segment of the SMA. Vortex, higher turbulent kinetic energy (TKE), and lower wall shear stress (WSS) were observed near plaques; higher TKE and WSS were seen near dissection origins. The intima in the SMA root (388.5 ± 202.3 µm) was thicker than in the curved (243.8 ± 100.5 µm; p = .007) and distal (183.7 ± 88.0 µm; p &lt; .001) segments. The media in the anterior wall (353.1 ± 37.6 µm) was thinner than that in the posterior wall (473.7 ± 142.8 µm; p = .02) in the curved segment of the SMA. The gaps in the lamellar structure in the SMA root were larger than in the curved and distal segments. The collagen microstructure was more substantially disturbed in the anterior wall than in the posterior wall in the curved segment of the SMA.
+CONCLUSION: Different hemodynamic factors in different portions of the SMA are related to local pathological changes in the SMA wall and may lead to the occurrence of SMAS or SMAD.
+
+Citation: Mei J, et al. Different hemodynamic factors cause the occurrence of superior mesenteric atherosclerotic stenosis and superior mesenteric artery dissection. Different hemodynamic factors cause the occurrence of superior mesenteric atherosclerotic stenosis and superior mesenteric artery dissection. 2023; 10:1121224. doi: 10.3389/fcvm.2023.1121224
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37144058/

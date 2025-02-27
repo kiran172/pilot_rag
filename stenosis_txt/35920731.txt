@@ -1,0 +1,11 @@
+PMID: 35920731
+Title: Offline Assessment of the Quantitative Flow Ratio: Is it Useful in Clinical Practice?
+
+Abstract: INTRODUCTION: Fractional flow reserve (FFR) has been established as the gold standard in the physiological assessment of coronary obstructions severity. However, the need to insert an intracoronary pressure guidewire is a factor that limits its use. Quantitative flow ratio (QFR) is a method that infers the value of FFR from 3-dimensional quantitative coronary angiography (3D-QCA), eliminating the use of a pressure wire and coronary hyperemia. The present study aims to evaluate the diagnostic accuracy of QFR and 3D-QCA in comparison with FFR for the identification of significant obstructive coronary lesions (FFR ≤.80) and the feasibility to assess QFR in a cohort of patients without dedicated angiographic acquisition.
+METHODS: Consecutive patients with coronary angiography with moderate obstructive lesions that had previous FFR measurement were evaluated. Validation of QFR was assessed by the area under the curve (AUC) and other statistical tools, using FFR as the reference method.
+RESULTS: Seventy-five arteries from 69 patients were evaluated. The accuracy of the QFR to detect FFR ≤.80 was 84.0% (95% confidence interval, 75.6-92.4). The correlation and agreement between FFR and QFR were r=0.54 (P<.01) and mean difference was -0.02 ± 0.09 (P=.09), respectively. The AUC of QFR and 3D-QCA identifying stenosis >50% was 0.854 and 0.755, respectively (P=.09).
+CONCLUSION: QFR demonstrated good accuracy compared with FFR for the assessment of moderate obstructive coronary lesions in an unselected clinical practice population. However, many patients were excluded from the analysis and there was no statistical difference between the receiver operator characteristic curves of the QFR and percent diameter stenosis.
+
+Citation: de Moura Santos L, et al. Offline Assessment of the Quantitative Flow Ratio: Is it Useful in Clinical Practice?. Offline Assessment of the Quantitative Flow Ratio: Is it Useful in Clinical Practice?. 2022; 34:E620-E626. doi: 10.25270/jic/21.00348
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35920731/

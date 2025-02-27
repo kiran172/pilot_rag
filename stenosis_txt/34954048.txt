@@ -1,0 +1,11 @@
+PMID: 34954048
+Title: Left Atrial Deformation Imaging and Atrial Fibrillation in Patients with Rheumatic Mitral Stenosis.
+
+Abstract: BACKGROUND: Atrial fibrillation (AF) is a frequent complication of rheumatic mitral stenosis (MS) and is associated with worse outcomes. Prediction of new-onset AF by assessing left atrial (LA) mechanics with speckle-tracking echocardiography might be useful for risk stratification and guiding therapeutic strategies. Therefore, the aim of this study was to assess the association of LA reservoir strain (LASr) and strain rate (LASRr) with AF at follow-up in patients with rheumatic MS.
+METHODS: Left atrial reservoir strain and LASRr measured by speckle-tracking echocardiography were assessed in 125 patients (mean age, 50 ± 15 years; 80.8% female) with rheumatic MS and without a history of AF. Patients were followed up for the occurrence of a first episode of AF after the index echocardiogram.
+RESULTS: During a median follow-up of 32 (9.5-70) months, 41 patients (32.8%) developed new-onset AF. Patients who developed AF had significantly more impaired LASr (13.4% ± 5.2% vs 18.9% ± 8.2%; P &lt; .001) and LASRr (0.72 ± 0.26 s-1 vs 0.98 ± 0.36 s-1;P &lt; .001) compared with patients who remained in sinus rhythm. On multivariable Cox regression analysis, LASr &lt; 21% and LASRr &lt; 0.8 s-1 were independently associated with the development of AF at follow-up (hazard ratio = 7.03, 95% CI, 2.08-23.77, P = .002; and hazard ratio = 3.42, 95% CI, 1.59-7.34, P = .002, respectively).
+CONCLUSIONS: LASr and LASRr are impaired in patients with rheumatic MS, and the degree of impairment is associated with new-onset AF at follow-up.
+
+Citation: Stassen J, et al. Left Atrial Deformation Imaging and Atrial Fibrillation in Patients with Rheumatic Mitral Stenosis. Left Atrial Deformation Imaging and Atrial Fibrillation in Patients with Rheumatic Mitral Stenosis. 2022; 35:486-494.e2. doi: 10.1016/j.echo.2021.12.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34954048/

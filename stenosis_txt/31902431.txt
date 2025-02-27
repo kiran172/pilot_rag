@@ -1,0 +1,12 @@
+PMID: 31902431
+Title: Impact of Stroke Volume Index and Left Ventricular Ejection Fraction on Mortality After Aortic Valve Replacement.
+
+Abstract: OBJECTIVE: To assess the impact of stroke volume index (SVI) and left ventricular ejection fraction (LVEF) on prognosis in patients with severe aortic stenosis, comparing those undergoing transcatheter aortic valve replacement (TAVR) and those with surgical AVR (SAVR).
+PATIENTS AND METHODS: A total of 742 patients from the CoreValve US Pivotal High-Risk Trial randomized to TAVR (n=389) or SAVR (n=353) from February 2011 to September 2012 were stratified by an SVI of 35 mL/m2 and LVEF of 50% for comparing all-cause mortality at 1 year.
+RESULTS: The prevalence of an SVI of less than 35 mL/m2 in patients who underwent TAVR and SAVR was 35.8% (125 of 349) and 31.3% (96 of 307), respectively; LVEF of less than 50% was present in 18.1% (63 of 348) and 19.6% (60 of 306), respectively. Among patients with an SVI of less than 35 mL/m2, 1-year mortality was similar between patients with TAVR and SAVR (16.3% vs 22.2%; P=.25). However, in those with an SVI of 35 mL/m2 or greater, 1-year mortality was lower in those with TAVR than SAVR (10.3% vs 17.3%; P=.03). In patients with an LVEF of less than 50%, mortality was not affected by AVR approach (P&gt;.05). In patients with an LVEF of 50% or higher, TAVR was associated with lower mortality than SAVR when SVI was preserved (9.8% vs 18.6%; P=.01). Mortality was not affected by SVI within the same AVR approach when LVEF was 50% or higher.
+CONCLUSION: In patients with severe aortic stenosis at high risk, there is a significant interaction between AVR approach and the status of SVI and LVEF. When LVEF or SVI was reduced, prognosis was similar regardless of AVR approach. In those with preserved LVEF or SVI, TAVR was associated with a better prognosis than SAVR.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01240902.
+
+Citation: Ito S, et al. Impact of Stroke Volume Index and Left Ventricular Ejection Fraction on Mortality After Aortic Valve Replacement. Impact of Stroke Volume Index and Left Ventricular Ejection Fraction on Mortality After Aortic Valve Replacement. 2020; 95:69-76. doi: 10.1016/j.mayocp.2019.10.031
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31902431/

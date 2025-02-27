@@ -1,0 +1,11 @@
+PMID: 38042453
+Title: A comparative study of multi and single post labeling delay pseudocontinuous arterial spin labeling in patients with carotid artery stenosis.
+
+Abstract: PURPOSE: Arterial Spin Labeling (ASL) allows for the non-invasive visualization of brain perfusion to detect abnormalities. In unilateral carotid artery stenosis, one hemisphere is less supplied with blood which results in a lower cerebral blood flow (CBF) compared to the healthy side. ASL can be performed time-resolved using multiple post labeling delay (PLD) times after labeling or static with a single delay, the latter allowing for a faster and more robust acquisition while bearing the risk of a falsely set delay resulting in unusable images. The purpose of this study is to compare the performance of multi-PLD and single-PLD ASL in patients with unilateral carotid artery stenosis both as means of diagnosis and therapeutic follow-up examination.
+METHODS: ASL perfusion data of 17 patients with known unilateral carotid artery stenosis was used to compare the diagnostic performance of the multi-PLD and single-PLD approach. Comparisons were made based on the CBF values and the added benefit of arrival time maps showing slower blood flow in multi-PLD ASL which might be overlooked in the individual delay images both before and after therapy.
+RESULTS: Both the multi-PLD and the single-PLD data could identify the side of the stenosis with hemispheric differences in each approach (p < 0.001) and depict the normalization of CBF after therapy (p > 0.05). There were no differences between the individual methods (p > 0.05).
+CONCLUSION: In this work, we could show that multi-PLD ASL in patients with unilateral carotid artery stenosis is beneficial as it provides both CBF and arrival time maps, however when only a single-PLD acquisition is available, this appears sufficient in a clinical setting to investigate the presence of a unilateral stenosis.
+
+Citation: Lindner T, et al. A comparative study of multi and single post labeling delay pseudocontinuous arterial spin labeling in patients with carotid artery stenosis. A comparative study of multi and single post labeling delay pseudocontinuous arterial spin labeling in patients with carotid artery stenosis. 2024; 106:18-23. doi: 10.1016/j.mri.2023.11.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38042453/

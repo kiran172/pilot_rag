@@ -1,0 +1,8 @@
+PMID: 39188371
+Title: Rapid prediction of wall shear stress in stenosed coronary arteries based on deep learning.
+
+Abstract: There is increasing evidence that coronary artery wall shear stress (WSS) measurement provides useful prognostic information that allows prediction of adverse cardiovascular events. Computational Fluid Dynamics (CFD) has been extensively used in research to measure vessel physiology and examine the role of the local haemodynamic forces on the evolution of atherosclerosis. Nonetheless, CFD modelling remains computationally expensive and time-consuming, making its direct use in clinical practice inconvenient. A number of studies have investigated the use of deep learning (DL) approaches for fast WSS prediction. However, in these reports, patient data were limited and most of them used synthetic data generation methods for developing the training set. In this paper, we implement 2 approaches for synthetic data generation and combine their output with real patient data in order to train a DL model with a U-net architecture for prediction of WSS in the coronary arteries. The model achieved 6.03% Normalised Mean Absolute Error (NMAE) with inference taking only 0.35 s; making this solution time-efficient and clinically relevant.
+
+Citation: Alamir SH, et al. Rapid prediction of wall shear stress in stenosed coronary arteries based on deep learning. Rapid prediction of wall shear stress in stenosed coronary arteries based on deep learning. 2024; 12:1360330. doi: 10.3389/fbioe.2024.1360330
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39188371/

@@ -1,0 +1,11 @@
+PMID: 31721367
+Title: A New Transcranial Doppler Scoring System for Evaluating Middle Cerebral Artery Stenosis.
+
+Abstract: BACKGROUND AND PURPOSE: Transcranial Doppler (TCD) criteria for cerebrovascular stenosis are only based on velocity with unsatisfactory positive predictive value (PPV) in previous studies. We refined a published scoring system that integrates several characteristics of TCD data in diagnosing middle cerebral artery (MCA) stenosis.
+METHODS: Using the TCD-digital subtraction angiography (DSA) database from Stroke Outcomes and Neuroimaging of Intracranial Atherosclerosis (SONIA) trial, velocity, spectrum pattern, diffuse ratio, and asymmetry ratio were assessed. The cutpoints were defined for each parameter and a point value was assigned to each category within that parameter. A summed score was calculated for each MCA. The accuracy was assessed for different cutpoints in predicting ≥50% MCA stenosis measured by DSA. Logistic regression and C-statistics were used for analysis.
+RESULTS: A total of 114 MCAs were included in vessel-based and 87 patients were included in patient-based analysis. Compared to the velocity-only cutpoints in SONIA, the score results in much improved PPV while negative predictive value (NPV) remains unchanged. The score based on mean velocity (score 0: <140 cm/s, score 3: ≥140 cm/s), spectrum pattern (score 0: no turbulence; score 1: mild turbulence; 2: significant turbulence), and asymmetry ratio (score 0: ratio <1.5, score 1: ratio 1.5-2; score 2: ratio ≥2.1) has the highest NPV while PPV remains favorable (PPV: 72% [95% CI 54-90%]; NPV: 84% [95% CI: 75-93%], area under curve [AUC]: .76 [95% CI: .66-.86]).
+CONCLUSIONS: The multiparameter scoring system incorporating several characteristics of TCD measures yielded higher PPV while maintaining high NPV compared with the single-parameter velocity criteria in diagnosing MCA ≥50% stenosis.
+
+Citation: Hao Q, et al. A New Transcranial Doppler Scoring System for Evaluating Middle Cerebral Artery Stenosis. A New Transcranial Doppler Scoring System for Evaluating Middle Cerebral Artery Stenosis. 2020; 30:97-103. doi: 10.1111/jon.12678
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31721367/

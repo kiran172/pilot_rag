@@ -1,0 +1,11 @@
+PMID: 37329614
+Title: Basing on the machine learning model to analyse the coronary calcification score and the coronary flow reserve score to evaluate the degree of coronary artery stenosis.
+
+Abstract: AIM: To obtain the coronary artery calcium score (CACS) for each branch in coronary artery computed tomography angiography (CCTA) examination combined with the flow fraction reserve (FFR) of each branch in the coronary artery detected by CT and apply a machine learning model (ML) to analyse and predict the severity of coronary artery stenosis.
+METHODS: All patients who underwent coronary computed tomography angiography (CCTA) from January 2019 to April 2022 in the HOSPITAL (T.C.M) AFFILIATED TO SOUTHWEST MEDICAL UNIVERSITY) were retrospectively screened, and their sex, age, characteristics of lipid-containing lesions, coronary calcium score (CACS) and CT-FFR values were collected. Five machine learning models, random forest (RF), k-nearest neighbour algorithm (KNN), kernel logistic regression, support vector machine (SVM) and radial basis function neural network (RBFNN), were used as predictive models to evaluate the severity of coronary stenosis.
+RESULTS: Among the five machine learning models, the SVM model achieved the best prediction performance, and the prediction accuracy of mild stenosis was up to 90%. Second, age and male sex were important influencing factors of increasing CACS and decreasing CT-FFR. Moreover, the critical CACS value of myocardial ischemia >200.70 was calculated.
+CONCLUSION: Through computer machine learning model analysis, we prove the importance of CACS and FFR in predicting coronary stenosis, especially the prominent vector machine model, which promotes the application of artificial intelligence computer learning methods in the field of medical analysis.
+
+Citation: Zhang Y, et al. Basing on the machine learning model to analyse the coronary calcification score and the coronary flow reserve score to evaluate the degree of coronary artery stenosis. Basing on the machine learning model to analyse the coronary calcification score and the coronary flow reserve score to evaluate the degree of coronary artery stenosis. 2023; 163:107130. doi: 10.1016/j.compbiomed.2023.107130
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37329614/

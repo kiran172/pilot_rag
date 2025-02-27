@@ -1,0 +1,11 @@
+PMID: 36299570
+Title: Comparing mini-sternotomy to full median sternotomy for aortic valve replacement with propensity-matching methods.
+
+Abstract: OBJECTIVE: This study aims to compare clinical outcomes between mini-sternotomy and full median sternotomy for aortic valve replacement using propensity-matching methods.
+METHODS: From August 2014 to July 2021, a total of 1,445 patients underwent isolated aortic valve surgery, 1,247 via full median sternotomy and 198 via mini-sternotomy. To reduce the impact of potential confounding factors, a propensity score based on 18 variables is used to obtain 198 well-matched case pairs, which include 231 aortic valve regurgitations and 165 aortic stenosis cases.
+RESULT: Occurrences of in-hospital mortality (P = 0.499), stroke (P &gt; 0.999), renal failure (P = 0.760), and paravalvular leakage (P = 0.224) are similar between the two groups. No significant difference in operation, cardiopulmonary bypass, and aortic cross-clamp times are found between the two groups. However, compared with the full sternotomy group, the mini-sternotomy group has less postoperative 24-hour drainage (131.7 ± 82.8 ml, P &lt; 0.001) and total drainage (459.3 ± 306.3 ml, P &lt; 0.001). The median mechanical ventilation times are 9.4 [interquartile range (IQR) 5.4-15.6] and 9.8 (IQR 6.1-14.4) in mini-sternotomy and full sternotomy groups (P = 0.284), respectively. There are no significant differences in intensive care unit stay and postoperative stay between the two groups. For either aortic valve regurgitations or aortic stenosis patients, significantly less postoperative 24-h and total drainage are still found in the mini-sternotomy group compared with the full sternotomy group.
+CONCLUSIONS: Mini-sternotomy for aortic valve replacement is a safe procedure, with not only cosmetic advantages but less postoperative drainage compared with full sternotomy. Mini-sternotomy should be considered for most aortic valve operations.
+
+Citation: Liu R, et al. Comparing mini-sternotomy to full median sternotomy for aortic valve replacement with propensity-matching methods. Comparing mini-sternotomy to full median sternotomy for aortic valve replacement with propensity-matching methods. 2022; 9:972264. doi: 10.3389/fsurg.2022.972264
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36299570/

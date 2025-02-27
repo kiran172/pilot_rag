@@ -1,0 +1,11 @@
+PMID: 38186190
+Title: Polyphyllin II inhibits NLPR3 inflammasome activation and inflammatory response of Mycobacterium tuberculosis-infected human bronchial epithelial cells.
+
+Abstract: BACKGROUND: The bronchial infection by Mycobacterium tuberculosis (Mtb) is increasing in prevalence and severity worldwide. Despite appropriate tuberculosis treatment, most patients still develop bronchial stenosis, which often leads to disability. Polyphyllin II (PP2) is a steroidal saponin extracted from Rhizoma Paridis. In this study, we aimed to explore the effect of PP2 on the advancement of Mtb-induced bronchial infection.
+METHOD: The effects of PP2 on cell viability were measured by using MTT and lactate dehydrogenase (LDH) kit. The mRNA and protein levels of tumor necrosis factor (TNF)-α, interleukin (IL)-1β, and IL-8 were elucidated by RT-qPCR and ELISA, respectively. The expression of NLR family pyrin domain containing 3 (NLRP3) related inflammasome (NLRP3, IL-1β, and cleaved-caspase-1) and the activated degree of protein kinase B (AKT)/nuclear factor-kappa B (NF-kB; p-AKT and p-NF-κB) were detected by Western blotting.
+RESULTS: PP2 at 0, 1, 5, and 10 μM had little cytotoxicity on 16HBE cells. PP2 inhibited Mtb-induced cell proliferation and decreased LDH levels. We further found that PP2 could suppress Mtb-induced inflammatory responses and activation of NLPR3 inflammasome. Additionally, the role of PP2 in Mtb is associated with the AKT/NF-kB signaling pathway.
+CONCLUSION: PP2 inhibited Mtb infection in bronchial epithelial cells, by inhibiting Mtb-induced inflammatory reactions and activation of NLPR3 inflammasome. These effects may be exerted by suppressing the AKT/NF-kB pathway, which will provide a prospective treatment.
+
+Citation: Cheng G, et al. Polyphyllin II inhibits NLPR3 inflammasome activation and inflammatory response of Mycobacterium tuberculosis-infected human bronchial epithelial cells. Polyphyllin II inhibits NLPR3 inflammasome activation and inflammatory response of Mycobacterium tuberculosis-infected human bronchial epithelial cells. 2024; 52:16-23. doi: 10.15586/aei.v52i1.998
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38186190/

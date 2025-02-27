@@ -1,0 +1,11 @@
+PMID: 38553281
+Title: Percutaneous coronary intervention before transcatheter aortic valve implantation: A propensity score matched analysis.
+
+Abstract: BACKGROUND: The role of percutaneous coronary intervention (PCI) in patients with stable coronary artery disease (CAD) who subsequently undergo transcatheter aortic valve replacement (TAVR) remains uncertain. Therefore, we conducted this study to assess the association of PCI before TAVR with mortality and cardiovascular outcomes.
+METHODS: We used the TriNetX database (Jan 2012 - Aug 2022) and grouped patients into PCI (3 months or less) before TAVR and no PCI. We performed propensity score matched (PSM) analyses for outcomes at 30 days and 1 year.
+RESULTS: Of 17,120 patients undergoing TAVR, 2322 (14 %) had PCI, and 14,798 (86 %) did not have PCI before TAVR. In the PSM cohort (2026 patients in each group), PCI was not associated with lower all-cause mortality at 30 days (HR: 1.25, 95 % CI: 0.82-1.90) or 1 year (HR: 1.02, 95 % CI: 0.83-1.24). Frequency of repeat PCI after TAVR was low in both no PCI vs. PCI (2.4 % vs. 1.2 %) at 1 year; PCI was associated with a lower rate of repeat PCI (HR: 0.49, 95 % CI: 0.30-0.80). Sensitivity analysis revealed an E-value of 3.5 for repeat PCI (E-value for lower CI for HR: 1.81). PCI was not linked to reductions in MI, heart failure exacerbation, all-cause hospitalization, major bleeding, or permanent pacemaker/implantable cardioverter defibrillator.
+CONCLUSION: This analysis showed that PCI prior to TAVR was not associated with improvement in all-cause mortality. However, PCI was associated with a reduced rate of repeat PCI at 1 year.
+
+Citation: Khan SU, et al. Percutaneous coronary intervention before transcatheter aortic valve implantation: A propensity score matched analysis. Percutaneous coronary intervention before transcatheter aortic valve implantation: A propensity score matched analysis. 2024; 65:10-15. doi: 10.1016/j.carrev.2024.03.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38553281/

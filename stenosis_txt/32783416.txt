@@ -1,0 +1,11 @@
+PMID: 32783416
+Title: Dynamic CT Myocardial Perfusion Imaging in Patients without Obstructive Coronary Artery Disease: Quantification of Myocardial Blood Flow according to Varied Heart Rate Increments after Stress.
+
+Abstract: OBJECTIVE: The present study aimed to investigate the association between myocardial blood flow (MBF) quantified by dynamic CT myocardial perfusion imaging (CT-MPI) and the increments in heart rate (HR) after stress in patients without obstructive coronary artery disease.
+MATERIALS AND METHODS: We retrospectively included 204 subjects who underwent both dynamic CT-MPI and coronary CT angiography (CCTA). Patients with more than minimal coronary stenosis (diameter ≥ 25%), history of myocardial infarction/revascularization, cardiomyopathy, and microvascular dysfunction were excluded. Global MBF at stress was measured using hybrid deconvolution and maximum slope model. Furthermore, the HR increments after stress were recorded.
+RESULTS: The median radiation dose of dynamic CT-MPI plus CCTA was 5.5 (4.5-6.8) mSv. The median global MBF of all subjects was 156.4 (139.8-180.4) mL/100 mL/min. In subjects with HR increment between 10 to 19 beats per minute (bpm), the global MBF was significantly lower than that of subjects with increment between 20 to 29 bpm (153.3 mL/100 mL/min vs. 171.3 mL/100 mL/min, p = 0.027). This difference became insignificant when the HR increment further increased to ≥ 30 bpm.
+CONCLUSION: The global MBF value was associated with the extent of increase in HR after stress. Significantly higher global MBF was seen in subjects with HR increment of ≥ 20 bpm.
+
+Citation: Yu L, et al. Dynamic CT Myocardial Perfusion Imaging in Patients without Obstructive Coronary Artery Disease: Quantification of Myocardial Blood Flow according to Varied Heart Rate Increments after Stress. Dynamic CT Myocardial Perfusion Imaging in Patients without Obstructive Coronary Artery Disease: Quantification of Myocardial Blood Flow according to Varied Heart Rate Increments after Stress. 2021; 22:97-105. doi: 10.3348/kjr.2020.0249
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32783416/

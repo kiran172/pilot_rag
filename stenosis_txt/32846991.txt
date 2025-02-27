@@ -1,0 +1,11 @@
+PMID: 32846991
+Title: Added Value of Transluminal Attenuation Gradient to Qualitative CCTA Ischemia Detection as Determined by 13N-ammonia PET Quantitative Myocardial Perfusion.
+
+Abstract: UNLABELLED: Transluminal attenuation gradient (TAG) represents the slope of intraluminal contrast that decreases along a coronary vessel during coronary computed tomography angiography (CCTA). The aim of this study was to determine the added value of TAG to qualitative CCTA assessment of significant stenosis (>50%) detecting ischemia as determined by stress myocardial blood flow (MBF) or myocardial flow reserve (MFR) measured by positron emission tomography (PET). Individual contributions of TAG, qualitative assessment and the impact of calcium score were also investigated.
+METHODS: We studied 38 consecutive patients that were referred due to suspected or known coronary artery disease (CAD). All patients underwent a two-phase hybrid 13N-ammonia PET/CT and CCTA.
+RESULTS: TAG and presence of qualitatively assessed significant stenosis, but not calcium score, were associated with stress myocardial blood flow (MBF) and myocardial flow reserve (MFR). The area under the curves (AUC) of the linear predictor model including qualitative assessment and TAG was superior to the AUC of separate qualitative assessment or TAG for the detection of ischemia according to stress MBF (AUCs were: 88% vs. 79% and 77%; p = 0.01 and p = 0.01, respectively).
+CONCLUSIONS: TAG combined with qualitative CCTA assessment improved ischemia detection.
+
+Citation: Monroy-Gonzalez A, et al. Added Value of Transluminal Attenuation Gradient to Qualitative CCTA Ischemia Detection as Determined by 13N-ammonia PET Quantitative Myocardial Perfusion. Added Value of Transluminal Attenuation Gradient to Qualitative CCTA Ischemia Detection as Determined by 13N-ammonia PET Quantitative Myocardial Perfusion. 2020; 10:(unknown pages). doi: 10.3390/diagnostics10090628
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32846991/

@@ -1,0 +1,12 @@
+PMID: 39278777
+Title: Association between the proportion of HDL-Cholesterol subclasses and the severity of coronary artery stenosis in patients with Acute Myocardial Infarction.
+
+Abstract: BACKGROUND: Past research has shown an inverse correlation between high-density lipoprotein (HDL) and coronary heart disease (CHD), while recent studies have shown that extremely high or low HDL levels increase the risk of cardiovascular death.
+OBJECTIVE: To explore the relationships between HDL subtypes and the degree of coronary artery stenosis in patients with acute myocardial infarction (AMI).
+METHODS: This was a single-center cross-sectional study. Ultimately, we included 1,200 adult participants with AMI hospitalized from 2017 to 2023. Patients were classified into mild and moderate-severe groups according to their Gensini score. Restricted cubic spline and multivariate logistic regression models were used to explore the associations between HDL subclasses and the severity of coronary stenosis.
+RESULTS: The adjusted odds ratios (ORs), 95 % confidence intervals (CIs), and p values for HDL subclasses in the multivariate logistic model (adjusted for age, gender, hypertension status, diabetes status, stroke status, and kidney disease status) were as follows: HDL-2b: 0.97 (0.95-1.00, p= 0.018) and HDL-3: 0.98 (0.97-0.99, p= 0.008). Subgroup analysis revealed that HDL-3 exhibited a statistically significant impact on the severity of coronary stenosis among individuals aged <75 years of age and among men, and the influence of HDL-2b on the severity of coronary stenosis was statistically significant only in individuals aged ≥75 years.
+CONCLUSION: The relationship between reduced levels of HDL-2b and HDL-3 and the risk of coronary stenosis exhibited a linear pattern and was significantly modified by age. Subgroup analysis identified specific populations that warrant attention regarding HDL-2b and HDL-3.
+
+Citation: Geng Y, et al. Association between the proportion of HDL-Cholesterol subclasses and the severity of coronary artery stenosis in patients with Acute Myocardial Infarction. Association between the proportion of HDL-Cholesterol subclasses and the severity of coronary artery stenosis in patients with Acute Myocardial Infarction. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jacl.2024.06.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39278777/

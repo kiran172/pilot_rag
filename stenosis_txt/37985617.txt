@@ -1,0 +1,11 @@
+PMID: 37985617
+Title: On the Material Constitutive Behavior of the Aortic Root in Patients with Transcatheter Aortic Valve Implantation.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) is a minimally invasive procedure used to treat patients with severe aortic valve stenosis. However, there is limited knowledge on the material properties of the aortic root in TAVI patients, and this can impact the credibility of computer simulations. This study aimed to develop a non-invasive inverse approach for estimating reliable material constituents for the aortic root and calcified valve leaflets in patients undergoing TAVI.
+METHODS: The identification of material parameters is based on the simultaneous minimization of two cost functions, which define the difference between model predictions and cardiac-gated CT measurements of the aortic wall and valve orifice area. Validation of the inverse analysis output was performed comparing the numerical predictions with actual CT shapes and post-TAVI measures of implanted device diameter.
+RESULTS: A good agreement of the peak systolic shape of the aortic wall was found between simulations and imaging, with similarity index in the range in the range of 83.7% to 91.5% for n.20 patients. Not any statistical difference was observed between predictions and CT measures of orifice area for the stenotic aortic valve. After TAVI simulations, the measurements of SAPIEN 3 Ultra (S3) device diameter were in agreement with those from post-TAVI angio-CT imaging. A sensitivity analysis demonstrated a modest impact on the S3 diameters when altering the elastic material property of the aortic wall in the range of inverse analysis solution.
+CONCLUSIONS: Overall, this study demonstrates the feasibility and potential benefits of using non-invasive imaging techniques and computational modeling to estimate material properties in patients undergoing TAVI.
+
+Citation: Catalano C, et al. On the Material Constitutive Behavior of the Aortic Root in Patients with Transcatheter Aortic Valve Implantation. On the Material Constitutive Behavior of the Aortic Root in Patients with Transcatheter Aortic Valve Implantation. 2024; 15:95-109. doi: 10.1007/s13239-023-00699-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37985617/

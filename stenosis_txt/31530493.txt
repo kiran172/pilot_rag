@@ -1,0 +1,11 @@
+PMID: 31530493
+Title: Impact of Renal Function Trajectory on Renal Replacement Therapy and Mortality Risk after Renal Artery Revascularization.
+
+Abstract: PURPOSE: To determine the impact of renal function trajectory, defined as the change in renal function over time before and after renal artery stent placement, on long-term risk for renal replacement therapy (RRT) and mortality.
+MATERIALS AND METHODS: Estimated glomerular filtration rates (eGFRs) 6-12 months before renal artery stent placement, at the time of intervention, and 6-12 months after intervention were determined in 398 patients. The effect of eGFR change before and after renal artery stent placement was calculated. Cox proportional-hazards ratio was used to determine the risks for RRT and all-cause mortality.
+RESULTS: The risk for RRT was significantly influenced by eGFR change from the time of intervention to follow-up at 6-12 month after treatment (P = .02). In addition, among patients with a postintervention eGFR ≤ 40 mL/min/1.73 m2, for every 1 unit of eGFR increase, there was a significant decrease in RRT and all-cause mortality (P &lt; .001 and P &lt; .001, respectively). Secondary parameters that increased RRT risk included diabetes at the time of intervention (P = .03), increased baseline proteinuria (P &lt; .001), and stage 4 or 5 chronic kidney disease (CKD; P = .01 and P = .003, respectively). Multivariate analysis demonstrated higher all-cause mortality rates among patients with diabetes at the time of intervention (P = .009).
+CONCLUSIONS: Postintervention eGFR trajectory improvement approaching 40 mL/min/1.73 m2 was associated with decreased RRT and mortality risk. These findings suggest that patients with advanced CKD and renal artery stenosis may benefit from revascularization regardless of their preinterventional renal function measurement.
+
+Citation: Takahashi EA, et al. Impact of Renal Function Trajectory on Renal Replacement Therapy and Mortality Risk after Renal Artery Revascularization. Impact of Renal Function Trajectory on Renal Replacement Therapy and Mortality Risk after Renal Artery Revascularization. 2020; 31:592-597. doi: 10.1016/j.jvir.2019.07.025
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31530493/

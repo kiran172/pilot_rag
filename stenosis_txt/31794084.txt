@@ -1,0 +1,11 @@
+PMID: 31794084
+Title: Predictors and outcomes of stroke after transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: Stroke is a devastating complication of transcatheter aortic valve replacement (TAVR). Many studies have investigated risk factors for postoperative stroke, but reliable predictors are not yet well-established. The objective of this study was to further characterize the predictors and outcomes of stroke after TAVR.
+METHODS: This is a retrospective cohort study of 1022 patients who underwent TAVR at a single institution between 2012 and 2018. Multivariable logistic regression analysis was used to identify independent predictors of postoperative stroke and Kaplan-Meier method to compare 1-year survival in patients with and without postoperative stroke.
+RESULTS: Postoperatively, 36 patients experienced a stroke (3.5%) with most developing multiple (63.9%, N = 23), and often bilateral infarcts (50.0%, N = 18). Stroke patients more commonly had peripheral arterial disease (P = .032) and carotid stenosis (P = .013) and were less likely to receive predeployment balloon aortic valvuloplasty (P = .005). Alternative access approach (odds ratio [OR], 2.322; 95% confidence interval [CI]: 1.067-5.054) and history of transient ischemic attack (OR, 2.373; 95% CI: 1.026-5.489) were identified as independent predictors of postoperative stroke. Stroke patients more frequently developed postoperative complications, including prolonged ventilation (P < .001), major vascular complications (P < .001), and new-onset dialysis (P < .001). Operative mortality was greater in stroke patients (19.4% vs 3.7%; P < .001), and 1-year Kaplan-Meier estimates revealed worsened survival (log-rank P = .002).
+CONCLUSIONS: Alternative access approach and a history of transient ischemic attack emerged as independent predictors of postoperative stroke. Patients with stroke suffered more complications and had worse survival, underscoring the importance of characterizing the stroke risk in these patients.
+
+Citation: Hatfield SA, et al. Predictors and outcomes of stroke after transcatheter aortic valve replacement. Predictors and outcomes of stroke after transcatheter aortic valve replacement. 2020; 35:21-27. doi: 10.1111/jocs.14300
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31794084/

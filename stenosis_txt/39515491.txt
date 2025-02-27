@@ -1,0 +1,12 @@
+PMID: 39515491
+Title: Complications associated with pulsed field ablation versus radiofrequency catheter ablation of atrial fibrillation.
+
+Abstract: BACKGROUND: The first commercial systems for pulsed field ablation(PFA) were recently approved by the Food and Drug Administration(FDA), but their safety profile in nationwide practice remains underexplored.
+OBJECTIVE: This study aimed to describe reported adverse events with PFA systems after their market release and to compare the relative proportion of complications associated with PFA versus radiofrequency(RF) ablation catheters.
+METHODS: We conducted a search of the Manufacturer and User Facility Device Experience database for adverse event reports involving FDA-approved PFA and RF catheters between January 1, 2024, to July 31, 2024.
+RESULTS: A total of 1,237 reports detailing clinical complications (N=156 for PFA and N=315 for RF) or catheter malfunctions (N=336 for PFA and N=430 for RF) were analyzed. The most common adverse events reported for PFA were pericardial effusion, vasovagal response, and hemolysis, and for RFA were pericardial effusion, ischemic stroke, and esophageal damage. The proportion of reported adverse events that were deaths was lower among PFA compared to RF (2.6% vs. 8.9%, P=0.010). Hemolysis (9.0% vs. 0%), coronary events (5.8% vs. 0.6%), and vasovagal responses (14.1% vs. 0%) were reported more frequently after PFA (all P<0.001). In contrast, esophageal damage (0% vs. 4.1%, P<0.001) and pulmonary vein stenosis (0% vs. 1.9%, P=0.184) were not reported with PFA, only with RF. Regarding catheter malfunctions, mechanical problems were reported in greater proportion after PFA compared with RF (87.2% vs. 17.2%, P<0.001).
+CONCLUSION: The reported complications associated with PFA and RF ablation differ significantly. Close attention to PFA-specific complications is essential for ensuring the safe use of PFA and for mitigating risk.
+
+Citation: Cho MS, et al. Complications associated with pulsed field ablation versus radiofrequency catheter ablation of atrial fibrillation. Complications associated with pulsed field ablation versus radiofrequency catheter ablation of atrial fibrillation. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.hrthm.2024.10.063
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39515491/

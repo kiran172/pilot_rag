@@ -1,0 +1,11 @@
+PMID: 38050852
+Title: Transnasal Humidified Rapid Insufflation Ventilatory Exchange in Endoscopic Esophageal Surgery.
+
+Abstract: OBJECTIVES: Transnasal humidified rapid insufflation ventilatory exchange (THRIVE) describes apneic oxygenation using humidified high flow nasal-cannula oxygen. Although it has been described as a sole mode of oxygenation in endoscopic laryngotracheal surgery, its use in endoscopic esophageal surgery under general anesthesia with neuromuscular paralysis has not previously been described. The objective of this study is to assess the safety and efficacy of THRIVE in esophagology.
+METHODS: We conducted a retrospective review of adult patients undergoing esophageal procedures under general anesthesia who were oxygenated using THRIVE at two academic institutions. Demographic, clinical, and anesthesiologic data were collected and analyzed.
+RESULTS: 14 cases performed from March 2021 to March 2022 met inclusion criteria. 13/14 (92.9%) of patients were able to maintain oxygenation throughout the entirety of their procedure. The mean apneic time was 17.9 minutes with a maximum of 32 minutes. One patient required "rescue" intubation due to failure to maintain oxygenation. Excluding the sole THRIVE failure, the median SpO<sub>2</sub> at the conclusion of surgery was 99% (range 94-100%). A linear regression model yielded an increase in EtCO<sub>2</sub> of 0.95 mmHg/min or 0.127 kPa/min. SpO<sub>2</sub> was negatively associated with both tobacco pack-year smoking history (R2 = 0.343, P = .014) and BMI (R2 = 0.238, P = .038).
+CONCLUSION: THRIVE is a feasible, safe, and efficacious means of apneic oxygenation for patients undergoing esophageal endoscopic surgery under general anesthesia with neuromuscular paralysis, which may be particularly beneficial in patients with airway stenosis, as post-intubation changes can have severe clinical implications for this patient population. Obese patients and tobacco smokers may be at increased risk of oxygen desaturation when using THRIVE.
+
+Citation: Yang ZM, et al. Transnasal Humidified Rapid Insufflation Ventilatory Exchange in Endoscopic Esophageal Surgery. Transnasal Humidified Rapid Insufflation Ventilatory Exchange in Endoscopic Esophageal Surgery. 2024; 133:325-329. doi: 10.1177/00034894231216273
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38050852/

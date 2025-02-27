@@ -1,0 +1,11 @@
+PMID: 34734421
+Title: Association between bicuspid aortic valve phenotype and patterns of valvular dysfunction: A meta-analysis.
+
+Abstract: BACKGROUND: Valvular dysfunction is a common complication in patients with bicuspid aortic valves (BAV). The aim of this study was to determine the relationship between BAV morphology patterns and valve dysfunction.
+METHODS: We searched the PubMed, The Cochrane Library, Web of Science, and CNKI until May 31, 2020, to identify all studies investigating the morphology of BAV and valvular dysfunction, and data were extracted according to the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA). Data were analyzed using Stata 15.1 software. The additional characteristics (gender, mean age) were collected to perform a meta-regression analysis.
+RESULTS: Thirteen studies on BAV-RL (n = 2002) versus BAV-RN (n = 1254) and raphe (n = 4001) versus without raphe (n = 673) were included. The BAV-RL patients showed a higher incidence of aortic regurgitation than BAV-RN patients (OR = 1.46; 95% CI: 1.12 to 1.90, p = .005), while the BAV-RL patients showed a lower incidence of aortic stenosis than BAV-RN patients (OR = 0.66, 95% CI: 0.58 to 0.76, p = .000); BAV patients with raphe presents a higher incidence of aortic regurgitation than those without raphe (OR = 1.95, 95% CI: 1.12-3.39, p = .017). No differences were found between raphe and without raphe group in the incidence of aortic stenosis (OR = 0.97, 95% CI: 0.53 to 1.76, p = .907). Mean age and gender had no influence on observed differences.
+CONCLUSIONS: Our results confirmed a relationship between different BAV phenotypes and aortic valve dysfunction. BAV-RL and BAV with raphe are more likely to develop aortic regurgitation, while patients with BAV-RN present a higher possibility to develop aortic stenosis.
+
+Citation: Mai Z, et al. Association between bicuspid aortic valve phenotype and patterns of valvular dysfunction: A meta-analysis. Association between bicuspid aortic valve phenotype and patterns of valvular dysfunction: A meta-analysis. 2021; 44:1683-1691. doi: 10.1002/clc.23736
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34734421/

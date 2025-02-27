@@ -1,0 +1,11 @@
+PMID: 35152876
+Title: Cumulative incidence and predictors of acquired aortic stenosis in a large population of men followed for up to 43 years.
+
+Abstract: BACKGROUND: Acquired aortic stenosis (AS) increases with age and has high mortality without intervention. Factors predicting its development are unclear, although atherosclerotic factors are assumed to be involved. Our aim in this study is to estimate the lifetime cumulative incidence and predictors of AS in middle-aged men.
+METHODS: We included a random sample of men (n = 9998) born 1915-1925 in Gothenburg, Sweden. From them, 7,494 were examined and followed until a diagnosis of AS or death (maximum follow-up time 42.8 years). We identified AS diagnosis from the Swedish National Patient Registry and deaths from the Swedish Cause of Death Registry by using International Classification of Disease (ICD) diagnostic criteria. To study time-dependent relationships between AS and risk factors with death as the competing risk, we divided the cohort into three overlapping follow-up groups: 25-43, 30-43 and 35-43 years. We used age-adjusted Cox proportional hazards model to identify predictors of AS.
+RESULTS: The lifelong cumulative incidence of AS was 3.2%. At baseline, participants in the third group had a healthier lifestyle, lower body mass index (BMI), blood pressure, and serum cholesterol levels. Higher BMI, obesity, cholesterol, hypertension, atrial fibrillation, smoking and heredity for stroke were associated with AS. With BMI of 20-22.5 as a reference, hazard ratios of being diagnosed with AS for men with a baseline BMI of 25-27.5 kg/m2, 27.5-30 kg/m2 and &gt; 30 kg/m2 were 1.99 (95% CI 1.12-3.55), 2.98 (95% CI 1.65-5.40) and 3.55 (95% CI 1.84-6.87), respectively.
+CONCLUSIONS: The lifetime cumulative incidence of AS in middle-aged male population was 3.2%. Multiple atherosclerotic risk factors, particularly high BMI might be associated with a higher risk of developing AS.
+
+Citation: Kontogeorgos S, et al. Cumulative incidence and predictors of acquired aortic stenosis in a large population of men followed for up to 43 years. Cumulative incidence and predictors of acquired aortic stenosis in a large population of men followed for up to 43 years. 2022; 22:43. doi: 10.1186/s12872-022-02487-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35152876/

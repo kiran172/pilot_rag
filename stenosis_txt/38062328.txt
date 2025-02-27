@@ -1,0 +1,12 @@
+PMID: 38062328
+Title: Assessing the efficacy of saline flush in frequency-domain optical coherence tomography for intracoronary imaging.
+
+Abstract: BACKGROUND: The increased amount of contrast media in frequency-domain optical coherence tomography (FD-OCT) imaging during percutaneous coronary intervention (PCI) has raised potential concerns regarding impairment of renal function.
+OBJECTIVES: This study aimed to evaluate the effectiveness of heparinized saline flush in FD-OCT-guided PCI and identify clinical factors contributing to optimal image quality.
+METHODS: We retrospectively collected 100 lesions from 90 consecutive patients, and a total of 200 pullbacks were analyzed for the initial and final evaluation in which saline was used as the flushing medium.
+RESULTS: The study population had a mean age of 73, with 52% having chronic kidney disease (CKD). The median amount of contrast used was 28 ml, and no complications were observed associated with saline flush OCT. Imaging quality was then categorized as excellent, good, or unacceptable. Among the total runs, 87% demonstrated clinically acceptable image quality, with 66.5% classified as excellent images and 20.5% classified as good images. Independent predictors of excellent images included lumen area stenosis ≥ 70% (adjusted odds ratio [OR] 2.37, 95% confidence interval [CI] 1.02-5.47, P = 0.044), and the use of intensive flushing (adjusted OR 2.06, 95% CI 1.11-3.86, P = 0.023) defined as a deep engagement of guiding catheter (GC) or a selective insertion of guide extension catheter (GE). Intensive flushing was performed in 60% of the total pullbacks, and it was particularly effective in improving image quality in the left coronary artery (LCA).
+CONCLUSION: The use of saline flush during FD-OCT imaging was safe and feasible, which had a benefit in renal protection with adequate imaging quality.
+
+Citation: Kimura M, et al. Assessing the efficacy of saline flush in frequency-domain optical coherence tomography for intracoronary imaging. Assessing the efficacy of saline flush in frequency-domain optical coherence tomography for intracoronary imaging. 2024; 39:310-318. doi: 10.1007/s00380-023-02340-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38062328/

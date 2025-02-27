@@ -1,0 +1,11 @@
+PMID: 39448317
+Title: Diagnostic performance of fully automatic coronary CT angiography-based quantitative flow ratio.
+
+Abstract: BACKGROUND: Murray-law based quantitative flow ratio, namely μFR, was recently validated to compute fractional flow reserve (FFR) from coronary angiographic images in the cath lab. Recently, the μFR algorithm was applied to coronary computed tomography angiography (CCTA) and a semi-automated computed μFR (CT-μFR) showed good accuracy in identifying flow-limiting coronary lesions prior to referral of patients to the cath lab. We aimed to evaluate the diagnostic accuracy of an artificial intelligence-powered method for fully automatic CCTA reconstruction and CT-μFR computation, using cath lab physiology as reference standard.
+METHODS: This was a post-hoc blinded analysis of the prospective CAREER trial (NCT04665817). Patients who underwent CCTA, coronary angiography including FFR within 30 days were included. Cath lab physiology standard for determining hemodynamically significant coronary stenosis was defined as FFR≤0.80, or μFR≤0.80 when FFR was not available.
+RESULTS: Automatic CCTA reconstruction and CT-μFR computation was successfully achieved in 657 vessels from 242 patients. CT-μFR showed good correlation (r ​= ​0.62, p ​< ​0.001) and agreement (mean difference ​= ​-0.01 ​± ​0.10, p ​< ​0.001) with cath lab physiology standard. Patient-level diagnostic accuracy for CT-μFR to identify patients with hemodynamically significant stenosis was 83.0 ​% (95%CI: 78.3%-87.8 ​%), with sensitivity, specificity, positive and negative predictive value, positive and negative likelihood ratio of 84.2 ​%, 81.9 ​%, 82.1 ​%, 84.0 ​%, 4.7 and 0.2, respectively. Average analysis time for CT-μFR was 1.60 ​± ​0.34 ​min per patient.
+CONCLUSION: The fully automatic CT-μFR yielded high feasibility and good diagnostic performance in identifying patients with hemodynamically significant stenosis prior to referral of patients to the cath lab.
+
+Citation: Li G, et al. Diagnostic performance of fully automatic coronary CT angiography-based quantitative flow ratio. Diagnostic performance of fully automatic coronary CT angiography-based quantitative flow ratio. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jcct.2024.10.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39448317/

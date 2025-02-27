@@ -1,0 +1,11 @@
+PMID: 37197951
+Title: Association between Urine Albumin-to-creatinine Ratio and Intracranial Atherosclerotic Plaque in Chinese Adults - Results from the PRECISE Study.
+
+Abstract: AIMS: Intracranial plaque may cause stroke in the absence of luminal stenosis. Although urine albumin-to-creatinine ratio (ACR) has been proved an established risk factor for cardiovascular disease, stroke and carotid atherosclerosis, little is known on the relationship between urine ACR and intracranial plaque.
+METHODS: Subjects with history of stroke or coronary heart disease (CHD) were excluded in the PRECISE study. The intracranial plaque was assessed by vessel wall magnetic resonance imaging (MRI). Subjects were stratified according to ACR tertiles. Logistic regression and ordinal regression were performed to analyze the association between ACR and the presence of intracranial plaque or sum of the stenosis score for each artery.
+RESULTS: 2962 individuals were included with the mean age of 61.0±6.6 years. The median ACR was 11.7mg/g (interquartile range 7.0-22.0 mg/g), and the mean estimated glomerular filtration rate (eGFR) based on combination of creatinine and cystatin C was 88.5±14.8 ml/min·1.73m2. 495 (16.7%) participants had intracranial plaque. The highest ACR tertile with ACR ＞16.00mg/g was independently associated with the presence of intracranial plaque (OR 1.38, 95% CI: 1.05-1.82, p=0.02) and the odds of higher intracranial plaque burden (common OR 1.39, 95% CI: 1.05-1.83, p=0.02) after adjustment of confounding factors. No significant association was observed between eGFR and intracranial plaque presence or intracranial plaque burden.
+CONCLUSIONS: Among a low-risk community-dwelling population without prior stroke or CHD in China, ACR was independently associated with intracranial plaque presence and plaque burden measured by vessel wall MRI.
+
+Citation: Zhang Y, et al. Association between Urine Albumin-to-creatinine Ratio and Intracranial Atherosclerotic Plaque in Chinese Adults - Results from the PRECISE Study. Association between Urine Albumin-to-creatinine Ratio and Intracranial Atherosclerotic Plaque in Chinese Adults - Results from the PRECISE Study. 2023; 30:1828-1837. doi: 10.5551/jat.64156
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37197951/

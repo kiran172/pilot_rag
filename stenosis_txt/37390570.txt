@@ -1,0 +1,11 @@
+PMID: 37390570
+Title: The relationship between geometry and hemodynamics of the stenotic carotid artery based on computational fluid dynamics.
+
+Abstract: OBJECTIVE: The purpose of this work was to investigate the relationship between the geometric factors and the hemodynamics of the stenotic carotid artery.
+METHODS: We retrospectively reviewed data of patients with carotid stenosis (40%-95%). The Navier-Stokes equations were solved using ANSYS CFX 18.0. Correlation analysis was based on Spearman's test. Geometric variables (p < 0.1 in the univariate analysis) were entered into the logistical regression. A receiver-operating characteristics analysis was used to detect hemodynamically significant lesions.
+RESULTS: 81 patients (96 arteries) were evaluated. The logistic regression analysis revealed that the translesional pressure ratio was significantly correlated with the stenosis degree (OR = 1.147, p < 0.001) and the angle between internal carotid artery and external carotid artery (angle γ) (OR = 0.933, p = 0.01). The translesional wall shear stress ratio was significantly correlated with stenosis degree (OR = 1.094, p < 0.001), lesion length (OR = 0.873, p = 0.01), lumen area of internal carotid artery (OR = 0.867, p = 0.002), and lumen area of common carotid artery (OR = 1.058, p = 0.01). For predicting low translesional pressure ratio, the AUC was 0.71 (p < 0.001) for angle γ, and was 0.87 (p < 0.001) for stenosis degree. For predicting high translesional wall shear stress ratio, the AUC was 0.62 (p = 0.04) for lumen area of internal carotid artery, and was 0.77 (p < 0.001) for stenosis degree.
+CONCLUSIONS: Apart from stenosis degree, other geometric characteristics of lesions may also have an inﬂuence on hemodynamics of the stenotic carotid artery.
+
+Citation: Liu Y, et al. The relationship between geometry and hemodynamics of the stenotic carotid artery based on computational fluid dynamics. The relationship between geometry and hemodynamics of the stenotic carotid artery based on computational fluid dynamics. 2023; 231:107860. doi: 10.1016/j.clineuro.2023.107860
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37390570/

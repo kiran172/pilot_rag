@@ -1,0 +1,12 @@
+PMID: 38043124
+Title: Predictive stroke risk model with vision transformer-based Doppler features.
+
+Abstract: BACKGROUND: Acute stroke is the leading cause of death and disability globally, with an estimated 16 million cases each year. The progression of carotid stenosis reduces blood flow to the intracranial vasculature, causing stroke. Early recognition of ischemic stroke is crucial for disease treatment and management.
+PURPOSE: A computer-aided diagnosis (CAD) system was proposed in this study to rapidly evaluate ischemic stroke in carotid color Doppler (CCD).
+METHODS: Based on the ground truth from the clinical examination report, the vision transformer (ViT) features extracted from all CCD images (513 stroke and 458 normal images) were combined in machine learning classifiers to generate the likelihood of ischemic stroke for each image. The pretrained weights from ImageNet reduced the time-consuming training process. The accuracy, sensitivity, specificity, and area under the receiver operating characteristic curve were calculated to evaluate the stroke prediction model. The chi-square test, DeLong test, and Bonferroni correction for multiple comparisons were applied to deal with the type-I error. Only p values equal to or less than 0.00125 were considered to be statistically significant.
+RESULTS: The proposed CAD system achieved an accuracy of 89%, a sensitivity of 94%, a specificity of 84%, and an area under the receiver operating characteristic curve of 0.95, outperforming the convolutional neural networks AlexNet (82%, p < 0.001), Inception-v3 (78%, p < 0.001), ResNet101 (84%, p < 0.001), and DenseNet201 (85%, p < 0.01). The computational time in model training was only 30 s, which would be efficient and practical in clinical use.
+CONCLUSIONS: The experiment shows the promising use of CCD images in stroke estimation. Using the pretrained ViT architecture, the image features can be automatically and efficiently generated without human intervention. The proposed CAD system provides a rapid and reliable suggestion for diagnosing ischemic stroke.
+
+Citation: Lo CM and Hung PH. Predictive stroke risk model with vision transformer-based Doppler features. Predictive stroke risk model with vision transformer-based Doppler features. 2024; 51:126-138. doi: 10.1002/mp.16861
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38043124/

@@ -1,0 +1,11 @@
+PMID: 37922680
+Title: Comparison of short-term outcomes between patients with extracranial carotid and/or intracranial atherosclerotic disease.
+
+Abstract: OBJECTIVE: To directly compare the 90-day outcomes of patients with symptomatic intracranial atherosclerotic disease (ICAD), extracranial carotid atherosclerotic disease (ECAD), and ICAD with concomitant ECAD.
+METHODS: From 2017-2021, patients who had (1) a transient ischemic attack or ischemic stroke within 30 days of admission as evaluated by a stroke neurologist and (2) ipsilateral ICAD and/or ECAD were prospectively enrolled. The cohort was divided into three groups: ICAD, ECAD, and ICAD with concomitant ECAD. The primary outcome assessed was 90-day ischemic stroke recurrence. Secondary outcomes included 90-day myocardial infarction (MI), all-cause mortality, and major adverse cardiovascular events (MACE, including cardiovascular death, nonfatal MI, and/or nonfatal ischemic stroke).
+RESULTS: Of 371 patients included in the analysis, 240 (64.7%) patients had ICAD only, 93 (25.0%) patients had ECAD only, and 38 (10.3%) patients had ICAD with concomitant ECAD. On multivariate time-to-event analysis adjusting for potential confounders and with ICAD as the reference comparator, the risk of 90-day clinical outcomes was highest among patients with ICAD and concomitant ECAD, with adjusted hazard ratios of 4.54 (95% CI=1.45, 14.2; p = 0.006), 9.32 (95% CI=1.58, 54.8; p = 0.014), and 8.52 (95% CI=3.54, 20.5; p < 0.001) for 90-day ischemic stroke, MI, and MACE, respectively.
+CONCLUSIONS: Patients with ICAD and concomitant ECAD have a poorer prognosis and are at significantly higher risk for 90-day ischemic stroke, MI, and MACE. Further research should focus on the evaluation of coronary atherosclerotic disease and more intensive medical therapy in this population.
+
+Citation: Tan BY, et al. Comparison of short-term outcomes between patients with extracranial carotid and/or intracranial atherosclerotic disease. Comparison of short-term outcomes between patients with extracranial carotid and/or intracranial atherosclerotic disease. 2023; 235:108024. doi: 10.1016/j.clineuro.2023.108024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37922680/

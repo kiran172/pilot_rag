@@ -1,0 +1,14 @@
+PMID: 36167368
+Title: Use of artificial intelligence to assess the risk of coronary artery disease without additional (non-invasive) testing: validation in a low-risk to intermediate-risk outpatient clinic cohort.
+
+Abstract: OBJECTIVES: Predicting the presence or absence of coronary artery disease (CAD) is clinically important. Pretest probability (PTP) and CAD consortium clinical (CAD2) model and risk scores used in the guidelines are not sufficiently accurate as the only guidance for applying invasive testing or discharging a patient. Artificial intelligence without the need of additional non-invasive testing is not yet used in this context, as previous results of the model are promising, but available in high-risk population only. Still, validation in low-risk patients, which is clinically most relevant, is lacking.
+DESIGN: Retrospective cohort study.
+SETTING: Secondary outpatient clinic care in one Dutch academic hospital.
+PARTICIPANTS: We included 696 patients referred from primary care for further testing regarding the presence or absence of CAD. The results were compared with PTP and CAD2 using receiver operating characteristic (ROC) curves (area under the curve (AUC)). CAD was defined by a coronary stenosis >50% in at least one coronary vessel in invasive coronary or CT angiography, or having a coronary event within 6 months.
+OUTCOME MEASURES: The first cohort validating the memetic pattern-based algorithm (MPA) model developed in two high-risk populations in a low-risk to intermediate-risk cohort to improve risk stratification for non-invasive diagnosis of the presence or absence of CAD.
+RESULTS: The population contained 49% male, average age was 65.6±12.6 years. 16.2% had CAD. The AUCs of the MPA model, the PTP and the CAD2 were 0.87, 0.80, and 0.82, respectively. Applying the MPA model resulted in possible discharge of 67.7% of the patients with an acceptable CAD rate of 4.2%.
+CONCLUSIONS: In this low-risk to intermediate-risk population, the MPA model provides a good risk stratification of presence or absence of CAD with a better ROC compared with traditional risk scores. The results are promising but need prospective confirmation.
+
+Citation: Eurlings CGMJ, et al. Use of artificial intelligence to assess the risk of coronary artery disease without additional (non-invasive) testing: validation in a low-risk to intermediate-risk outpatient clinic cohort. Use of artificial intelligence to assess the risk of coronary artery disease without additional (non-invasive) testing: validation in a low-risk to intermediate-risk outpatient clinic cohort. 2022; 12:e055170. doi: 10.1136/bmjopen-2021-055170
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36167368/

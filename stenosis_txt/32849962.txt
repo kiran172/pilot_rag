@@ -1,0 +1,11 @@
+PMID: 32849962
+Title: Transcatheter Versus Surgical Aortic Valve Replacement in Renal Transplant Patients: A Meta-Analysis.
+
+Abstract: BACKGROUND: The outcome of transcutaneous aortic valve replacement (TAVR) in patients with kidney transplant is unknown, as majority of these patients were excluded from the major TAVR clinical trials. We sought to compare patients with severe aortic stenosis who underwent TAVR versus surgical aortic valve replacement (SAVR) with a history of kidney transplant.
+METHODS: PubMed, Google Scholar and Cochrane databases were searched to identify relevant articles. The incidence of all-cause mortality and acute kidney injury (AKI) was calculated using relative risk on a random effect model.
+RESULTS: A total of 1,538 patients (TAVR 328, SAVR 1,210) were included in the study. TAVR was associated with lower mortality as compared with SAVR at 30 days from the index procedure (odds ratio (OR) 0.48, 95% confidence interval (CI): 0.25 - 0.93; P = 0.03). One-year mortality was studied in three studies and showed comparable mortality in patients undergoing TAVR and SAVR (OR: 0.76, 95% CI: 0.10 - 5.51; P = 0.78). Compared to SAVR, TAVR carries an identical risk of AKI (OR: 0.44, 95% CI: 0.10 - 1.90; P = 0.27). A sensitivity analysis performed by exclusion of Voudris et al study showed a non-significant difference in the mortality incidence of two groups at 30 days (OR: 0.72, 95% CI: 0.27 - 1.91; P = 0.51).
+CONCLUSIONS: In patients with a history of kidney transplant, TAVR was associated with a comparable risk of mortality and AKI compared to SAVR.
+
+Citation: Mir T, et al. Transcatheter Versus Surgical Aortic Valve Replacement in Renal Transplant Patients: A Meta-Analysis. Transcatheter Versus Surgical Aortic Valve Replacement in Renal Transplant Patients: A Meta-Analysis. 2020; 11:280-285. doi: 10.14740/cr1092
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32849962/

@@ -1,0 +1,11 @@
+PMID: 36435076
+Title: Prediction of cerebral perfusion pressure during carotid surgery - A computational fluid dynamics approach.
+
+Abstract: BACKGROUND: Maintaining cerebral perfusion pressure in the brain when a carotid artery is closed during vascular surgery is critical for avoiding intraoperative hypoperfusion and risk of ischemic stroke. Here we propose and evaluate a method based on computational fluid dynamics for predicting patient-specific cerebral perfusion pressures at carotid clamping during carotid endarterectomy.
+METHODS: The study consisted of 22 patients with symptomatic carotid stenosis who underwent carotid endarterectomy (73 ± 5 years, 59-80 years, 17 men). The geometry of the circle of Willis was obtained preoperatively from computed tomography angiography and corresponding flow rates from four-dimensional flow magnetic resonance imaging. The patients were also classified as having a present or absent ipsilateral posterior communicating artery based on computed tomography angiography. The predicted mean stump pressures from computational fluid dynamics were compared with intraoperatively measured stump pressures from carotid endarterectomy.
+FINDINGS: On group level, there was no difference between the predicted and measured stump pressures (-0.5 ± 13 mmHg, P = 0.86) and the pressures were correlated (r = 0.44, P = 0.039). Omitting two outliers, the correlation increased to r = 0.78 (P < 0.001) (-1.4 ± 8.0 mmHg, P = 0.45). Patients with a present ipsilateral posterior communicating artery (n = 8) had a higher measured stump pressure than those with an absent artery (n = 12) (P < 0.001).
+INTERPRETATION: The stump pressure agreement indicates that the computational fluid dynamics approach was promising in predicting cerebral perfusion pressures during carotid clamping, which may prove useful in the preoperative planning of vascular interventions.
+
+Citation: Holmgren M, et al. Prediction of cerebral perfusion pressure during carotid surgery - A computational fluid dynamics approach. Prediction of cerebral perfusion pressure during carotid surgery - A computational fluid dynamics approach. 2022; 100:105827. doi: 10.1016/j.clinbiomech.2022.105827
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36435076/

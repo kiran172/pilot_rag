@@ -1,0 +1,8 @@
+PMID: 39250866
+Title: A generalized reduced-order model for trans-stenotic pressure drop with and without a guidewire.
+
+Abstract: Guidewire-based pressure measurement is essential for diagnosing coronary artery disease. However, the impact of the guidewire on local hemodynamics and diagnostic outcomes is not fully understood. In this study, we propose a generalized reduced-order model (ROM) to accurately predict the trans-stenotic pressure drop in arteries. A key advantage of this model is that the viscous term does not rely on empirical parameters, making it applicable to both scenarios with and without guidewire insertion, and across varying stenosis severities. The proposed model demonstrates good accuracy compared to 3D idealized numerical models, achieving an average prediction error of 3.61% for cases without a guidewire and 4.53% for cases with a guidewire. Furthermore, when applied to a patient-specific model, it achieves comparable or better results than previously published ROMs. Finally, this ROM is employed to investigate the shifting relative importance of different components of the trans-stenotic pressure drop at various stenosis severities, and to provide further insights into the guidewire's influence on FFR measurements.
+
+Citation: Wang J, et al. A generalized reduced-order model for trans-stenotic pressure drop with and without a guidewire. A generalized reduced-order model for trans-stenotic pressure drop with and without a guidewire. 2024; 176:112306. doi: 10.1016/j.jbiomech.2024.112306
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39250866/

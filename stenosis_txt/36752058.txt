@@ -1,0 +1,12 @@
+PMID: 36752058
+Title: Determining Prior Authorization Approval for Lumbar Stenosis Surgery With Machine Learning.
+
+Abstract: STUDY DESIGN: Medical vignettes.
+OBJECTIVES: Lumbar spinal stenosis (LSS) is a degenerative condition with a high prevalence in the elderly population, that is associated with a significant economic burden and often requires spinal surgery. Prior authorization of surgical candidates is required before patients can be covered by a health plan and must be approved by medical directors (MDs), which is often subjective and clinician specific. In this study, we hypothesized that the prediction accuracy of machine learning (ML) methods regarding surgical candidates is comparable to that of a panel of MDs.
+METHODS: Based on patient demographic factors, previous therapeutic history, symptoms and physical examinations and imaging findings, we propose an ML which computes the probability of spinal surgical recommendations for LSS. The model implements a random forest model trained from medical vignette data reviewed by MDs. Sets of 400 and 100 medical vignettes reviewed by MDs were used for training and testing.
+RESULTS: The predictive accuracy of the machine learning model was with a root mean square error (RMSE) between model predictions and ground truth of .1123, while the average RMSE between individual MD's recommendations and ground truth was .2661. For binary classification, the AUROC and Cohen's kappa were .959 and .801, while the corresponding average metrics based on individual MD's recommendations were .844 and .564, respectively.
+CONCLUSIONS: Our results suggest that ML can be used to automate prior authorization approval of surgery for LSS with performance comparable to a panel of MDs.
+
+Citation: De Barros A, et al. Determining Prior Authorization Approval for Lumbar Stenosis Surgery With Machine Learning. Determining Prior Authorization Approval for Lumbar Stenosis Surgery With Machine Learning. 2024; 14:1753-1759. doi: 10.1177/21925682231155844
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36752058/

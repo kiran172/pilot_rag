@@ -1,0 +1,12 @@
+PMID: 36288924
+Title: Prospective RandOmised Trial of Emergency Cardiac Computerised Tomography (PROTECCT).
+
+Abstract: OBJECTIVE: Many patients presenting with suspected acute coronary syndrome (ACS) have high-sensitivity cardiac troponin (hs-cTn) concentrations between rule-in and rule-out thresholds and hence need serial testing, which is time consuming. The Prospective RandOmised Trial of Emergency Cardiac Computerised Tomography (PROTECCT) assessed the utility of coronary CT angiography (CCTA) in patients with suspected ACS, non-ischaemic ECG and intermediate initial hs-cTn concentration.
+METHODS: Patients were randomised to CCTA-guided management versus standard of care (SOC). The primary outcome was hospital length of stay (LOS). Secondary outcomes included cost of in-hospital stay and major adverse cardiac events (MACE) at 12 months of follow-up. Data are mean (SD); for LOS harmonic means, IQRs are shown.
+RESULTS: 250 (aged 55 (14) years, 25% women) patients were randomised. Harmonic mean (IQR) LOS was 7.53 (6.0-9.6) hours in the CCTA arm and 8.14 (6.3-9.8) hours in the SOC arm (p=0.13). Inpatient cost was £1285 (£2216) and £1108 (£3573), respectively, p=0.68. LOS was shorter in the CCTA group in patients with <25% stenosis, compared with SOC; 6.6 (5.6-7.8) hours vs 7.5 (6.1-9.4) hours, respectively; p=0.021. More referrals for cardiology outpatient clinic review and cardiac CT-related outpatient referrals occurred in the SOC arm (p=0.01). 12-month MACE rates were similar between the two arms (7 (5.6%) in the CCTA arm and 8 (6.5%) in the SOC arm-log-rank p=0.78).
+CONCLUSIONS: CCTA did not lead to reduced hospital LOS or cost, largely because these outcomes were influenced by the detection of ≥25% grade stenosis in a proportion of patients.
+TRIAL REGISTRATION NUMBER: NCT03583320.
+
+Citation: Aziz W, et al. Prospective RandOmised Trial of Emergency Cardiac Computerised Tomography (PROTECCT). Prospective RandOmised Trial of Emergency Cardiac Computerised Tomography (PROTECCT). 2022; 108:1972-1978. doi: 10.1136/heartjnl-2022-320990
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36288924/

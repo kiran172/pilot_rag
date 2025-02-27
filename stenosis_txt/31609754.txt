@@ -1,0 +1,12 @@
+PMID: 31609754
+Title: Homocysteine is an independent predictor of long-term cardiac mortality in patients with stable coronary artery disease in the era of statins.
+
+Abstract: BACKGROUND: Homocysteine (Hcy) is considered a risk factor for cardiovascular disease.
+OBJECTIVE: To explore the long-term prognostic value of Hcy in patients with stable coronary artery disease (CAD) in the era of statins.
+METHODS: A total of 876 consecutive patients with stable CAD were recruited and followed up for a median of 6.1 years. Lipids and Hcy levels were measured at baseline. Primary endpoints were cardiac death and secondary endpoints were hospitalizations for acute coronary syndrome, myocardial revascularization, arrhythmic event or ischemic stroke.
+RESULTS: Follow-up data were obtained from 842 patients of whom 70 had a cardiac death (8.3%), while 258 (30.6%) met the secondary endpoints. Seven hundred four patients (83.6%) were on statins. In univariate Cox regression analysis Hcy predicted the occurrence of cardiac death [hazard ratio: 1.030; 95% confidence interval (CI): 1.018-1.042, P < 0.001] but not the occurrence of secondary endpoints (hazard ratio: 1.010; 95% CI: 0.999-1.020, P = 0.081). Hcy remained an independent predictor of cardiac death after adjustment for conventional risk factors, ejection fraction and statin use (hazard ratio: 1.030; 95% CI: 1.017-1.044, P < 0.001). Patients in the highest tertile of Hcy levels (>14.1 μmol/L) had three times higher risk of cardiac death compared with patients in the lowest tertile (<10.3 μmol/L) (hazard ratio = 3.036, CI: 1.983-4.649, P < 0.001).
+CONCLUSION: Hcy is an independent predictor of cardiac death in patients with stable CAD in the era of statins.
+
+Citation: Rallidis LS, et al. Homocysteine is an independent predictor of long-term cardiac mortality in patients with stable coronary artery disease in the era of statins. Homocysteine is an independent predictor of long-term cardiac mortality in patients with stable coronary artery disease in the era of statins. 2020; 31:152-156. doi: 10.1097/MCA.0000000000000800
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31609754/

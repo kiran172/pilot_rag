@@ -1,0 +1,8 @@
+PMID: 33381570
+Title: Artificial Intelligence in Coronary Computed Tomography Angiography: From Anatomy to Prognosis.
+
+Abstract: Cardiac computed tomography angiography (CCTA) is widely used as a diagnostic tool for evaluation of coronary artery disease (CAD). Despite the excellent capability to rule-out CAD, CCTA may overestimate the degree of stenosis; furthermore, CCTA analysis can be time consuming, often requiring advanced postprocessing techniques. In consideration of the most recent ESC guidelines on CAD management, which will likely increase CCTA volume over the next years, new tools are necessary to shorten reporting time and improve the accuracy for the detection of ischemia-inducing coronary lesions. The application of artificial intelligence (AI) may provide a helpful tool in CCTA, improving the evaluation and quantification of coronary stenosis, plaque characterization, and assessment of myocardial ischemia. Furthermore, in comparison with existing risk scores, machine-learning algorithms can better predict the outcome utilizing both imaging findings and clinical parameters. Medical AI is moving from the research field to daily clinical practice, and with the increasing number of CCTA examinations, AI will be extensively utilized in cardiac imaging. This review is aimed at illustrating the state of the art in AI-based CCTA applications and future clinical scenarios.
+
+Citation: Muscogiuri G, et al. Artificial Intelligence in Coronary Computed Tomography Angiography: From Anatomy to Prognosis. Artificial Intelligence in Coronary Computed Tomography Angiography: From Anatomy to Prognosis. 2020; 2020:6649410. doi: 10.1155/2020/6649410
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33381570/

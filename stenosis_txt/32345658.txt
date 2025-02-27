@@ -1,0 +1,11 @@
+PMID: 32345658
+Title: Determinants and prognostic value of echocardiographic first-phase ejection fraction in aortic stenosis.
+
+Abstract: OBJECTIVE: First-phase ejection fraction (EF1) is a novel measure of early left ventricular systolic dysfunction. We investigated determinants of EF1 and its prognostic value in aortic stenosis.
+METHODS: EF1 was measured retrospectively in participants of an echocardiography/cardiovascular magnetic resonance cohort study which recruited patients with aortic stenosis (peak aortic velocity of ≥2 m/s) between 2012 and 2014. Linear regression models were constructed to examine variables associated with EF1. Cox proportional hazards were used to determine the prognostic power of EF1 for aortic valve replacement (AVR, performed as part of clinical care in accordance with international guidelines) or death.
+RESULTS: Total follow-up of the 149 participants (69.8% male, 70 (65-76) years, mean gradient 33 (21-42) mm Hg) was 238 029 person-days. Sixty-seven participants (45%) had a low baseline EF1 (&lt;25%) despite normal ejection fraction (67% (62%-71%)). Patients with low EF1 had more severe aortic stenosis (mean gradient 39 (34-45) mm Hg vs 24 (16-35) mm Hg, p&lt;0.001) and more myocardial fibrosis (indexed extracellular volume (iECV) (24.2 (19.6-28.7) mL/m2 vs 20.6 (16.8-24.3) mL/m2, p=0.002; late gadolinium enhancement (LGE) prevalence 52% vs 20%, p&lt;0.001). Zva, iECV and infarct LGE were independent predictors of EF1. EF1 improved post-AVR (n=57 with post-AVR EF1 available, baseline 16 (12-24) vs follow-up 27% (22%-31%); p&lt;0.001). Low baseline EF1 was an independent predictor of AVR/death (HR 5.6, 95% CI 3.4 to 9.4), driven by AVR.
+CONCLUSION: EF1 quantifies early, potentially reversible systolic dysfunction in aortic stenosis, is associated with global afterload and myocardial fibrosis, and is an independent predictor of AVR.
+
+Citation: Bing R, et al. Determinants and prognostic value of echocardiographic first-phase ejection fraction in aortic stenosis. Determinants and prognostic value of echocardiographic first-phase ejection fraction in aortic stenosis. 2020; 106:1236-1243. doi: 10.1136/heartjnl-2020-316684
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32345658/

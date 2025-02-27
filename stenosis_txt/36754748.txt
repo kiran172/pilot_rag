@@ -1,0 +1,11 @@
+PMID: 36754748
+Title: Comparing carotid endarterectomies with or without shunting in symptomatic and asymptomatic patients.
+
+Abstract: BACKGROUND: Recent research shows that placement of an intraluminal shunt during a carotid endarterectomy (CEA) can be associated with postoperative complications. Therefore, we compared CEA operations with or without shunting to further analyze their clinical outcomes.
+METHODS: From the American College of Surgeons National Surgical Quality Improvement Program (NSQIP) database, 13,736 cases between 2016 and 2019 were analyzed to compare adult symptomatic and asymptomatic carotid stenosis patients who underwent a CEA operation, with or without shunt placement.
+RESULTS: Rates of stroke with a neurological deficit (p = 0.012), myocardial infarction (p = 0.021), and urinary tract infection (p = 0.030) were higher among symptomatic patients with shunting. Multivariate logistic regression revealed that risk of CNI was higher among both symptomatic (93.63%, p < 0.001) and asymptomatic (69.58%, p = 0.001) patients with shunting, irrespective of confounding variables.
+CONCLUSION: Shunting was found to be associated with higher rates of postoperative complications in both symptomatic and asymptomatic patient populations.
+
+Citation: Soliman SS, et al. Comparing carotid endarterectomies with or without shunting in symptomatic and asymptomatic patients. Comparing carotid endarterectomies with or without shunting in symptomatic and asymptomatic patients. 2023; 226:65-69. doi: 10.1016/j.amjsurg.2023.01.025
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36754748/

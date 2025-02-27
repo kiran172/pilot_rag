@@ -1,0 +1,8 @@
+PMID: 39388068
+Title: The role of artificial intelligence in coronary CT angiography.
+
+Abstract: Coronary CT angiography (CCTA) offers an efficient and reliable tool for the non-invasive assessment of suspected coronary artery disease through the analysis of coronary artery plaque and stenosis. However, the detailed manual analysis of CCTA is a burdensome task requiring highly skilled experts. Recent advances in artificial intelligence (AI) have made significant progress toward a more comprehensive automated analysis of CCTA images, offering potential improvements in terms of speed, performance and scalability. This work offers an overview of the recent developments of AI in CCTA. We cover methodological advances for coronary artery tree and whole heart analysis, and provide an overview of AI techniques that have shown to be valuable for the analysis of cardiac anatomy and pathology in CCTA. Finally, we provide a general discussion regarding current challenges and limitations, and discuss prospects for future research.
+
+Citation: van Herten RLM, et al. The role of artificial intelligence in coronary CT angiography. The role of artificial intelligence in coronary CT angiography. 2024; 32:417-425. doi: 10.1007/s12471-024-01901-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39388068/

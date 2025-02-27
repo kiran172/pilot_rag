@@ -1,0 +1,12 @@
+PMID: 35094485
+Title: Validation of the V-RESOLVE (Visual Estimation for Risk prEdiction of Side Branch OccLusion in Coronary Bifurcation interVEntion) score system in unprotected left main bifurcation.
+
+Abstract: OBJECTIVES: This study aimed to assess the risk of side branch (SB) occlusion using the V-RESOLVE (The Visual Estimation for Risk prEdiction of Side Branch OccLusion in Coronary Bifurcation interVEntion) score in unprotected left main (LM) bifurcation percutaneous coronary intervention (PCI).
+BACKGROUND: The V-RESOLVE score is a validated score system, based on visual estimation of angiographic data, for prediction of the risk of SB occlusion after main vessel (MV) stenting in non-LM bifurcation lesions. However, its predictive value for unprotected LM bifurcation lesions remains to be validated.
+METHODS: From January 2014 to December 2016, 855 patients undergoing unprotected LM bifurcation PCI using a provisional strategy were included. Baseline and prestenting angiographic data were analyzed, and the V-RESOLVE score was calculated. SB occlusion was defined as any decrease in thrombolysis in myocardial infarction (TIMI) flow grade or the absence of flow in the SB after MV stenting. The predictive performance of the V-RESOLVE score was judged by discrimination, calibration, and clinical application.
+RESULTS: vSB occlusion occurred in 19 (2.2%) of 855 unprotected LM bifurcation PCI procedures using a provisional strategy. The V-RESOLVE score for SB occlusion had brilliant discrimination (the area under the receiver operating characteristic curve = 0.80, 95% confidence interval [CI]: 0.77-0.84) and good calibration (Hosmer-Lemeshow: p = 0.154). Stratified by the V-RESOLVE score, significantly higher rates of SB occlusion were observed in the high-risk group (score: 12-43) compared with the nonhigh-risk group (score: 0-11) (4.4% vs. 0.6%, p < 0.001).
+CONCLUSIONS: The V-RESOLVE score is a promising tool to predict the risk of SB occlusion and facilitate decision-making for unprotected LM bifurcation PCI.
+
+Citation: He J, et al. Validation of the V-RESOLVE (Visual Estimation for Risk prEdiction of Side Branch OccLusion in Coronary Bifurcation interVEntion) score system in unprotected left main bifurcation. Validation of the V-RESOLVE (Visual Estimation for Risk prEdiction of Side Branch OccLusion in Coronary Bifurcation interVEntion) score system in unprotected left main bifurcation. 2022; 99 Suppl 1:1465-1472. doi: 10.1002/ccd.30111
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35094485/

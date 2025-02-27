@@ -1,0 +1,12 @@
+PMID: 35926935
+Title: Deep Learning Electrocardiographic Analysis for Detection of Left-Sided Valvular Heart Disease.
+
+Abstract: BACKGROUND: Valvular heart disease is an important contributor to cardiovascular morbidity and mortality and remains underdiagnosed. Deep learning analysis of electrocardiography (ECG) may be useful in detecting aortic stenosis (AS), aortic regurgitation (AR), and mitral regurgitation (MR).
+OBJECTIVES: This study aimed to develop ECG deep learning algorithms to identify moderate or severe AS, AR, and MR alone and in combination.
+METHODS: A total of 77,163 patients undergoing ECG within 1 year before echocardiography from 2005-2021 were identified and split into train (n = 43,165), validation (n = 12,950), and test sets (n = 21,048; 7.8% with any of AS, AR, or MR). Model performance was assessed using area under the receiver-operating characteristic (AU-ROC) and precision-recall curves. Outside validation was conducted on an independent data set. Test accuracy was modeled using different disease prevalence levels to simulate screening efficacy using the deep learning model.
+RESULTS: The deep learning algorithm model accuracy was as follows: AS (AU-ROC: 0.88), AR (AU-ROC: 0.77), MR (AU-ROC: 0.83), and any of AS, AR, or MR (AU-ROC: 0.84; sensitivity 78%, specificity 73%) with similar accuracy in external validation. In screening program modeling, test characteristics were dependent on underlying prevalence and selected sensitivity levels. At a prevalence of 7.8%, the positive and negative predictive values were 20% and 97.6%, respectively.
+CONCLUSIONS: Deep learning analysis of the ECG can accurately detect AS, AR, and MR in this multicenter cohort and may serve as the basis for the development of a valvular heart disease screening program.
+
+Citation: Elias P, et al. Deep Learning Electrocardiographic Analysis for Detection of Left-Sided Valvular Heart Disease. Deep Learning Electrocardiographic Analysis for Detection of Left-Sided Valvular Heart Disease. 2022; 80:613-626. doi: 10.1016/j.jacc.2022.05.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35926935/

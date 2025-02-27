@@ -1,0 +1,12 @@
+PMID: 36633350
+Title: Myeloid Phenotypes in Tracheostomy-Associated Granulation Tissue.
+
+Abstract: OBJECTIVE(S): Tracheostomy-associated granulation tissue is a common, recurrent problem occurring secondary to chronic mucosal irritation. Although granulation tissue is composed of predominantly innate immune cells, the phenotype of monocytes and macrophages in tracheostomy-associated granulation tissue is unknown. This study aims to define the myeloid cell population in granulation tissue secondary to tracheostomy.
+METHODS: Granulation tissue biopsies were obtained from 8 patients with tracheostomy secondary to laryngotracheal stenosis. Cell type analysis was performed by flow cytometry and gene expression was measured by quantitative real-time polymerase chain reaction. These methods and immunohistochemistry were used to define the monocyte/macrophage population in granulation tissue and were compared to tracheal autopsy control specimens.
+RESULTS: Flow cytometry demonstrated macrophages (CD45+CD11b+) and monocytes (CD45+FSClow SSClow ) represent 23.2 ± 6% of the granulation tissue cell population. The M2 phenotype (CD206) is present in 77 ± 11% of the macrophage population and increased compared to the M1 phenotype (p = 0.012). Classical monocytes (CD45+CD14high CD16low ) were increased in granulation tissue compared to controls (61.2 ± 7% and 30 ± 8.5%, p = 0.038). Eighty-five percent of macrophages expressed pro-inflammatory S100A8/A9 and 36 ± 4% of macrophages co-localized CD169, associated with tissue-resident macrophages. M2 gene expression (Arg1/CD206) was increased in granulation tissue (3.7 ± 0.4, p = 0.035 and 3.5 ± 0.5, p = 0.047) whereas M1 gene expression (CD80/CD86) was similar to controls (p = 0.64, p = 0.3). Immunohistochemistry of granulation tissue demonstrated increased cells co-localizing CD11b and CD206.
+CONCLUSIONS: M2 macrophages are the dominant macrophage phenotype in tracheostomy-associated granulation tissue. The role of this cell type in promoting ongoing inflammation warrants future investigation to identify potential treatments for granulation tissue secondary to tracheostomy.
+LEVEL OF EVIDENCE: 3 Laryngoscope, 133:2346-2356, 2023.
+
+Citation: Berges AJ, et al. Myeloid Phenotypes in Tracheostomy-Associated Granulation Tissue. Myeloid Phenotypes in Tracheostomy-Associated Granulation Tissue. 2023; 133:2346-2356. doi: 10.1002/lary.30557
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36633350/

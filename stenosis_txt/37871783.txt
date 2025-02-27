@@ -1,0 +1,11 @@
+PMID: 37871783
+Title: Long-term risk of reintervention after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) has surpassed surgical aortic valve replacement (SAVR) as the predominant mode of valve replacement for the treatment of severe aortic stenosis (AS). However, the long-term need for valvular reintervention after TAVR remains unknown.
+METHODS: Using data from the Medicare Fee for Service 100% dataset, all patients receiving TAVR between July 2011 and December 2020 were identified. Patients were categorized as receiving a valve reintervention (either surgical or transcatheter) or not using the appropriate International Classification of Diseases 10th Revision Procedure Coding System (ICD-10-PCS). A competing risk regression model was used to estimate the cumulative probability of valve reintervention.
+RESULTS: Of 230,644 TAVR patients were identified, of whom 1,880 received a reintervention. Patients receiving a reintervention were younger and more likely to be male. At 10 years, the crude rate of reintervention was 0.59% within a surviving cohort of 341 patients. After adjusting for the competing risk of death and other covariates, the adjusted cumulative incidence of reintervention at 10 years after TAVR was 1.63%. When the rate of reinterventions was compared between early (2011-2016) and later (2017-2020) time periods, the risk-adjusted rate of reintervention at 4 years had decreased over time (0.85% vs 0.51%).
+CONCLUSION: The 10-year risk of valve reintervention after TAVR is low and appears to be decreasing over time. Further research is necessary to determine the driving factors contributing to valve reintervention in the current era.
+
+Citation: Baron SJ, et al. Long-term risk of reintervention after transcatheter aortic valve replacement. Long-term risk of reintervention after transcatheter aortic valve replacement. 2024; 267:44-51. doi: 10.1016/j.ahj.2023.10.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37871783/

@@ -1,0 +1,12 @@
+PMID: 37854973
+Title: Impact of previous coronary artery revascularization on outcomes in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: INTRODUCTION: Coexistence of coronary artery disease (CAD) in patients with severe aortic stenosis (AS) referred for transcatheter aortic valve implantation (TAVI) raises questions regarding the safety and efficacy of TAVI in this subset of patients.
+AIM: To evaluate the impact of previous coronary revascularization in terms of percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG) on clinical outcomes after TAVI.
+MATERIAL AND METHODS: A total of 507 consecutive patients who underwent TAVI were divided into: non-revascularization (NR), post-PCI and post-CABG groups. The endpoints were established according to VARC-2 definitions.
+RESULTS: Patients with previous coronary revascularization (36.7% of the population) were younger, more often male and their EuroSCORE II risk evaluation was significantly higher (NR 7.9% vs. post-PCI 8.0% vs. post-CABG 20.5%, p &lt; 0.0001). Patients after PCI or CABG prior to TAVI had similar 30-day all-cause mortality rates as those without coronary revascularization at baseline (NR vs. post-PCI vs. post-CABG: 8.1% vs. 5.5% vs. 6.8%, respectively; p = 0.6). There were no differences in 12-month all-cause mortality rates between groups (NR vs. post-PCI vs. post-CABG: 15.3% vs. 14.2% vs. 16.9%, respectively; log-rank p = 0.67). In the Cox proportional-hazards regression model, acute kidney injury stage 2-3 (HR = 3.7, 95% CI: 2.14-6.33; p &lt; 0.001) and post-TAVI stroke (HR = 3.5, 95% CI: 1.57-7.8; p = 0.002) were independently correlated with 1-year mortality.
+CONCLUSIONS: TAVI seems to be a safe and effective procedure for the treatment of severe AS in patients with previous coronary revascularization.
+
+Citation: Wilimski R, et al. Impact of previous coronary artery revascularization on outcomes in patients undergoing transcatheter aortic valve implantation. Impact of previous coronary artery revascularization on outcomes in patients undergoing transcatheter aortic valve implantation. 2023; 19:243-250. doi: 10.5114/aic.2023.131477
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37854973/

@@ -1,0 +1,11 @@
+PMID: 33052475
+Title: Risk of mortality following transcatheter aortic valve replacement for low-flow low-gradient aortic stenosis.
+
+Abstract: BACKGROUND: Low-flow low-gradient (LF-LG) aortic stenosis (AS) is associated with high mortality, even after transcatheter aortic valve replacement (TAVR). Further knowledge of risk indicators is needed and a clinical risk score would be desirable for optimizing patient selection and therapeutic strategy.
+METHODS: The study cohort comprised of 219 consecutive LF-LG AS patients undergoing TAVR from 2008 to 2018 in two high-volume German centers. Predictive factors for one-year all-cause mortality were defined according to a Cox proportional hazard model.
+RESULTS: At one-year follow-up after TAVR, 28% of patients had died. A multivariate model revealed six independent predictors of one-year mortality: history of myocardial infarction (HR 2.05, 95%CI 1.13-3.72), eGFR &lt; 30 ml/min/1.73m2 (HR 2.75, 95%CI 1.48-5.11), tricuspid regurgitation moderate or more (HR 2.06, 95%CI 1.14-3.72), stroke volume index &lt; 25 mL/m2 (HR 2.03, 95%CI 1.14-3.62), self-expandable device (HR 2.72, 95%CI 1.17-6.27), and non-transfemoral approach (HR 3.42, 95%CI 1.28-9.14). The Rhineland Risk Score (RRS) consisting of these variables (c statistic 0.75, 95%CI 0.68-0.82, p &lt; 0.001) was superior to the EuroSCORE II (c statistic 0.63) and STS-PROM score (c statistic 0.69) at predicting one-year mortality. Patients with a RRS ≥ 8 had a prohibitive risk of one-year mortality of 67.6% (95%CI 52.0-82.4%).
+CONCLUSION: In patients with LF-LG AS, history of myocardial infarction, renal dysfunction, tricuspid regurgitation, a low stroke volume index, self-expandable device, and non-femoral approach were associated with increased 1-year mortality after TAVR. The RRS might serve as a helpful tool for risk prediction and patient selection for TAVR in patients with LF-LG AS.
+
+Citation: Wilde N, et al. Risk of mortality following transcatheter aortic valve replacement for low-flow low-gradient aortic stenosis. Risk of mortality following transcatheter aortic valve replacement for low-flow low-gradient aortic stenosis. 2021; 110:391-398. doi: 10.1007/s00392-020-01752-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33052475/

@@ -1,0 +1,11 @@
+PMID: 35729332
+Title: CT angiography for diagnosis of carotid near-occlusion: a digital subtraction angiography validation study.
+
+Abstract: INTRODUCTION: Carotid near-occlusion (CNO) is a variant of severe stenosis where there is a distal luminal collapse of the internal carotid artery (ICA) beyond a tight stenosis. This study aimed to validate new visual extracranial diagnostic CT angiography (CTA) criteria, for the diagnosis of CNO. The new criteria include distal ICA diameter smaller than contralateral ICA and distal ICA diameter less than or equal to the ipsilateral external carotid artery (ECA). We also assessed the previously described CTA criteria: stenosis ≤ 1.3 mm, ipsilateral distal ICA ≤ 3.5 mm, ipsilateral distal ICA/contralateral distal ICA ratio ≤ 0.87, ipsilateral distal ICA/ipsilateral ECA ≤ 1.27.
+METHODS: Fifty-eight patients with ICA stenosis (including the near-occlusion variant) or occlusion on digital subtraction angiography (DSA) were included. These patients had DSA and CTA studies completed within 30 days of each other. DSA was considered the reference test. Two neuroradiologists blinded to the DSA results assessed the CTA images and evaluated the new and previously published CNO diagnostic criteria.
+RESULTS: Twenty-eight CNO were identified with DSA. The "distal ICA diameter less than or equal to the ipsilateral ECA" criterion had 79% sensitivity and 83% specificity with excellent interobserver agreement (kappa = 0.80), while three or more of the previously published criteria reached 82% sensitivity and 90% specificity, with a good interobserver agreement (kappa = 0.64).
+CONCLUSIONS: CT angiography may be useful for CNO diagnosis. The new visual diagnostic criteria provide acceptable results of sensitivity and specificity with an excellent interobserver agreement. However, false-negative and positive results persist.
+
+Citation: Manrique-Zegarra M, et al. CT angiography for diagnosis of carotid near-occlusion: a digital subtraction angiography validation study. CT angiography for diagnosis of carotid near-occlusion: a digital subtraction angiography validation study. 2022; 64:1729-1735. doi: 10.1007/s00234-022-02995-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35729332/

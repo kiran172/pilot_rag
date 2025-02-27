@@ -1,0 +1,11 @@
+PMID: 38657871
+Title: Rates of Urinary Tract Infection in Transgender Women Postvaginoplasty vs Cisgender Women: A Retrospective Cohort Study in a Large US Health Network.
+
+Abstract: OBJECTIVE: To describe urinary tract infection (UTI) risk 3-month postvaginoplasty (VP) in transgender women (TW) compared to cis women (CW).
+METHODS: Using TriNetX (TriNetX, Inc, Cambridge, MA), we built cohorts of 2041 TW and 48,374,745 CW. Outcomes were ≥1 instance of UTI or Cystitis, and assessed from 3-6, 3-12, 3-36months, and 3months-10years post-VP. TW and CW were age-cohorted (18-39, 40-59, 60-74) and compared at each time interval. Kaplan-Meier was used to account for loss to follow-up, along with hazard ratios and log-rank tests to determine significance (P <.05).
+RESULTS: For all time intervals and age ranges, TW had a significantly (P <.0001-P = .0088) higher probability of developing a UTI compared to CW. The largest difference was ages 40-59 ten-year post-VP. In this analysis, CW and TW had a 12.96% and 29.34% cumulative outcome incidence, respectively. Cox proportional hazard analysis demonstrated increased hazard for TW compared to CW. Hazard ratios between CW and TW ranged from 1.363 (ages 18-39 at 10years, 95%CI: 1.119,1.660) to 3.522 (ages 60-74 at 12months, 95%CI: 1.951,6.360).
+CONCLUSION: We found a significantly higher probability of TW developing UTIs compared to age-cohorted CW. Contributing factors may include difficulties with neovaginal perineal hygiene, lack of commensal bacteria and vaginal mucosa, larger urethral meatus, high rates of meatal stenosis, and nonnative bacteria introduced through dilators and douching. These findings may help improve quality of postoperative care in TW.
+
+Citation: Gilbert D, et al. Rates of Urinary Tract Infection in Transgender Women Postvaginoplasty vs Cisgender Women: A Retrospective Cohort Study in a Large US Health Network. Rates of Urinary Tract Infection in Transgender Women Postvaginoplasty vs Cisgender Women: A Retrospective Cohort Study in a Large US Health Network. 2024; 188:150-155. doi: 10.1016/j.urology.2024.04.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38657871/

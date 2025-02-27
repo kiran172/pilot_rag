@@ -1,0 +1,11 @@
+PMID: 38180335
+Title: Systemic immune inflammation index and its implication on in-stent restenosis among patients with acute coronary syndrome.
+
+Abstract: OBJECTIVE: This study aims to assess the predictive value of the Systemic Immune Inflammation Index (SII) in determining in-stent restenosis (ISR) likelihood in patients with acute coronary syndrome (ACS) who have undergone percutaneous coronary intervention (PCI).
+METHODS: The study enrolled 903 ACS patients undergoing PCI, categorized into ISR (+) and ISR (-) groups based on control coronary angiography results. Demographic, clinical, laboratory, and angiographic-procedural characteristics were systematically compared.
+RESULTS: The ISR (+) group encompassed 264 individuals (29.2%), while the ISR (-) group comprised 639 individuals (70.8%). Patients had a mean age of 55.8 ± 10.2 years, with 69% being male. The ISR (+) group had higher diabetes and smoking prevalence and notably larger stent dimensions. Lab parameters showed significantly elevated creatinine, total cholesterol, red cell distribution width, white blood cell and neutrophil counts, SII index and C-reactive protein (CRP) in the ISR (+) group, while lymphocyte levels were lower. Binary logistic regression identified stent diameter (odds ratio [OR]: 0.598, 95% confidence interval [CI]: 0.383-0.935; P  = 0.024), stent length (OR: 1.166, 95% CI: 1.132-1.200; P  < 0.001), creatinine (OR: 0.366, 95% CI: 0.166-0.771; P  = 0.003), CRP (OR: 1.075, 95% CI: 1.042-1.110; P  = 0.031), and SII index (OR: 1.014, 95% CI: 1.001-1.023; P  < 0.001) as independent ISR predictors.
+CONCLUSION: The SII index exhibits potential as a predictive marker for ISR in ACS patients post-PCI, indicating systemic inflammation and heightened restenosis risk. Integrating the SII index into risk models could identify high-risk patients for targeted interventions.
+
+Citation: Ösken A, et al. Systemic immune inflammation index and its implication on in-stent restenosis among patients with acute coronary syndrome. Systemic immune inflammation index and its implication on in-stent restenosis among patients with acute coronary syndrome. 2024; 35:209-214. doi: 10.1097/MCA.0000000000001325
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38180335/

@@ -1,0 +1,8 @@
+PMID: 37952384
+Title: Lumen segmentation using a Mask R-CNN in carotid arteries with stenotic atherosclerotic plaque.
+
+Abstract: In patients at high risk for ischemic stroke, clinical carotid ultrasound is often used to grade stenosis, determine plaque burden and assess stroke risk. Analysis currently requires a trained sonographer to manually identify vessel and plaque regions, which is time and labor intensive. We present a method for automatically determining bounding boxes and lumen segmentation using a Mask R-CNN network trained on sonographer assisted ground-truth carotid lumen segmentations. Automatic lumen segmentation also lays the groundwork for developing methods for accurate plaque segmentation, and wall thickness measurements in cases with no plaque. Different training schemes are used to identify the Mask R-CNN model with the highest accuracy. Utilizing a single-channel B-mode training input, our model produces a mean bounding box intersection over union (IoU) of 0.81 and a mean lumen segmentation IoU of 0.75. However, we encountered errors in prediction when the jugular vein is the most prominently visualized vessel in the B-mode image. This was due to the fact that our dataset has limited instances of B-mode images with both the jugular vein and carotid artery where the vein is dominantly visualized. Additional training datasets are anticipated to mitigate this issue.
+
+Citation: Kiernan MJ, et al. Lumen segmentation using a Mask R-CNN in carotid arteries with stenotic atherosclerotic plaque. Lumen segmentation using a Mask R-CNN in carotid arteries with stenotic atherosclerotic plaque. 2024; 137:107193. doi: 10.1016/j.ultras.2023.107193
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37952384/

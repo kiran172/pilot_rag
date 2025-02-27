@@ -1,0 +1,13 @@
+PMID: 38643131
+Title: Outcomes in patients with aortic stenosis and severely reduced ejection fraction following surgical aortic valve replacement and transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Patients with severe aortic stenosis (AS) and left ventricular (LV) dysfunction demonstrate improvement in left ventricular injection fraction (LVEF) after aortic valve replacement (AVR). The timing and magnitude of recovery in patients with very low LVEF (≤ 25%) in surgical or transcatheter AVR is not well studied.
+OBJECTIVE: Determine clinical outcomes following transcatheter aortic valve replacement (TAVR) and surgical aortic valve repair (SAVR) in the subset of patients with severely reduced EF ≤ 25%.
+METHODS: Single-center, retrospective study with primary endpoint of LVEF 1-week following either procedure. Secondary outcomes included 30-day mortality and delayed postprocedural LVEF. T-test was used to compare variables and linear regression was used to adjust differences among baseline variables.
+RESULTS: 83 patients were enrolled (TAVR = 56 and SAVR = 27). TAVR patients were older at the time of procedure (TAVR 77.29 ± 8.69 vs. SAVR 65.41 ± 10.05, p < 0.001). One week post procedure, all patients had improved LVEF after both procedures (p < 0.001). There was no significant difference in LVEF between either group (TAVR 33.5 ± 11.77 vs. SAVR 35.3 ± 13.57, p = 0.60). Average LVEF continued to rise and increased by 101% at final follow-up (41.26 ± 13.70). 30-day mortality rates in SAVR and TAVR were similar (7.4% vs. 7.1%, p = 0.91).
+CONCLUSION: Patients with severe AS and LVEF ≤ 25% have a significant recovery in post-procedural EF following AVR regardless of method. LVEF doubled at two years post-procedure. There was no significant difference in 30-day mortality or mean EF recovery between TAVR and SAVR.
+TRIAL REGISTRATION: Indiana University institutional review board granted approval for above study numbered 15,322.
+
+Citation: Bain ER, et al. Outcomes in patients with aortic stenosis and severely reduced ejection fraction following surgical aortic valve replacement and transcatheter aortic valve replacement. Outcomes in patients with aortic stenosis and severely reduced ejection fraction following surgical aortic valve replacement and transcatheter aortic valve replacement. 2024; 19:258. doi: 10.1186/s13019-024-02724-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38643131/

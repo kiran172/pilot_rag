@@ -1,0 +1,11 @@
+PMID: 38277081
+Title: Leveraging artificial intelligence in neurosurgery-unveiling ChatGPT for neurosurgical discharge summaries and operative reports.
+
+Abstract: PURPOSE: Chat generative pre-trained transformer (GPT) is a novel large pre-trained natural language processing software that can enable scientific writing amongst a litany of other features. Given this, there is a growing interest in exploring the use of ChatGPT models as a modality to facilitate/assist in the provision of clinical care.
+METHODS: We investigated the time taken for the composition of neurosurgical discharge summaries and operative reports at a major University hospital. In so doing, we compared currently employed speech recognition software (i.e., SpeaKING) vs novel ChatGPT for three distinct neurosurgical diseases: chronic subdural hematoma, spinal decompression, and craniotomy. Furthermore, factual correctness was analyzed for the abovementioned diseases.
+RESULTS: The composition of neurosurgical discharge summaries and operative reports with the assistance of ChatGPT leads to a statistically significant time reduction across all three diseases/report types: p < 0.001 for chronic subdural hematoma, p < 0.001 for decompression of spinal stenosis, and p < 0.001 for craniotomy and tumor resection. However, despite a high degree of factual correctness, the preparation of a surgical report for craniotomy proved to be significantly lower (p = 0.002).
+CONCLUSION: ChatGPT assisted in the writing of discharge summaries and operative reports as evidenced by an impressive reduction in time spent as compared to standard speech recognition software. While promising, the optimal use cases and ethics of AI-generated medical writing remain to be fully elucidated and must be further explored in future studies.
+
+Citation: Dubinski D, et al. Leveraging artificial intelligence in neurosurgery-unveiling ChatGPT for neurosurgical discharge summaries and operative reports. Leveraging artificial intelligence in neurosurgery-unveiling ChatGPT for neurosurgical discharge summaries and operative reports. 2024; 166:38. doi: 10.1007/s00701-024-05908-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38277081/

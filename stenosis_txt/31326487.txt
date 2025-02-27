@@ -1,0 +1,12 @@
+PMID: 31326487
+Title: Clinical Use of CT-Derived Fractional Flow Reserve in the Emergency Department.
+
+Abstract: OBJECTIVES: This study sought to examine the feasibility, safety, clinical outcomes, and costs associated with computed tomography-derived fractional flow reserve (FFR<sub>CT</sub>) in acute chest pain (ACP) patients in a coronary computed tomography angiography (CTA)-based triage program.
+BACKGROUND: FFR<sub>CT</sub> is useful in determining lesion-specific ischemia in patients with stable ischemic heart disease, but its utility in ACP has not been studied.
+METHODS: ACP patients with no known coronary artery disease undergoing coronary CTA and coronary CTA with FFR<sub>CT</sub> were studied. FFR<sub>CT</sub> ≤0.80 was considered positive for hemodynamically significant stenosis.
+RESULTS: Among 555 patients, 297 underwent coronary CTA and FFR<sub>CT</sub> (196 negative, 101 positive), whereas 258 had coronary CTA only. The rejection rate for FFR<sub>CT</sub> was 1.6%. At 90 days, there was no difference in major adverse cardiac events (including death, nonfatal myocardial infarction, and unexpected revascularization after the index visit) between the coronary CTA and FFR<sub>CT</sub> groups (4.3% vs. 2.7%; p = 0.310). Diagnostic failure, defined as discordance between the coronary CTA or FFR<sub>CT</sub> results with invasive findings, did not differ between the groups (1.9% vs. 1.68%; p = NS). No deaths or myocardial infarction occurred with negative FFR<sub>CT</sub> when revascularization was deferred. Negative FFR<sub>CT</sub> was associated with higher nonobstructive disease on invasive coronary angiography (56.5%) than positive FFR<sub>CT</sub> (8.0%) and coronary CTA (22.9%) (p &lt; 0.001). There was no difference in overall costs between the coronary CTA and FFR<sub>CT</sub> groups ($8,582 vs. $8,048; p = 0.550).
+CONCLUSIONS: In ACP, FFR<sub>CT</sub> is feasible, with no difference in major adverse cardiac events and costs compared with coronary CTA alone. Deferral of revascularization is safe with negative FFR<sub>CT</sub>, which is associated with higher nonobstructive disease on invasive angiography.
+
+Citation: Chinnaiyan KM, et al. Clinical Use of CT-Derived Fractional Flow Reserve in the Emergency Department. Clinical Use of CT-Derived Fractional Flow Reserve in the Emergency Department. 2020; 13:452-461. doi: 10.1016/j.jcmg.2019.05.025
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31326487/

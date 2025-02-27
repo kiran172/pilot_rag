@@ -1,0 +1,12 @@
+PMID: 39091119
+Title: Development of machine learning models for fractional flow reserve prediction in angiographically intermediate coronary lesions.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) represents the gold standard in guiding the decision to proceed or not with coronary revascularization of angiographically intermediate coronary lesion (AICL). Optical coherence tomography (OCT) allows to carefully characterize coronary plaque morphology and lumen dimensions.
+OBJECTIVES: We sought to develop machine learning (ML) models based on clinical, angiographic and OCT variables for predicting FFR.
+METHODS: Data from a multicenter, international, pooled analysis of individual patient's level data from published studies assessing FFR and OCT on the same target AICL were collected through a dedicated database to train (n = 351) and validate (n = 151) six two-class supervised ML models employing 25 clinical, angiographic and OCT variables.
+RESULTS: A total of 502 coronary lesions in 489 patients were included. The AUC of the six ML models ranged from 0.71 to 0.78, whereas the measured F1 score was from 0.70 to 0.75. The ML algorithms showed moderate sensitivity (range: 0.68-0.77) and specificity (range: 0.59-0.69) in detecting patients with a positive or negative FFR. In the sensitivity analysis, using 0.75 as FFR cut-off, we found a higher AUC (0.78-0.86) and a similar F1 score (range: 0.63-0.76). Specifically, the six ML models showed a higher specificity (0.71-0.84), with a similar sensitivity (0.58-0.80) with respect to 0.80 cut-off.
+CONCLUSIONS: ML algorithms derived from clinical, angiographic, and OCT parameters can identify patients with a positive or negative FFR.
+
+Citation: Lombardi M, et al. Development of machine learning models for fractional flow reserve prediction in angiographically intermediate coronary lesions. Development of machine learning models for fractional flow reserve prediction in angiographically intermediate coronary lesions. 2024; 104:472-482. doi: 10.1002/ccd.31167
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39091119/

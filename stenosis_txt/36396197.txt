@@ -1,0 +1,12 @@
+PMID: 36396197
+Title: Coronary Calcium Scoring Improves Risk Prediction in Patients With Suspected Obstructive Coronary Artery Disease.
+
+Abstract: BACKGROUND: In patients with suspected obstructive coronary artery disease (CAD), the risk factor-weighted clinical likelihood (RF-CL) model and the coronary artery calcium score-weighted clinical likelihood (CACS-CL) model improves the identification of obstructive CAD compared with basic pretest probability (PTP) models.
+OBJECTIVES: The aim of this study was to assess the prognostic value of the new models.
+METHODS: The incidences of myocardial infarction and death were stratified according to categories by the RF-CL and CACS-CL and compared with categories by the PTP model. We used cohorts from a Danish register (n = 41,177) and a North American randomized study (n = 3,952). All patients were symptomatic and were referred for diagnostic testing because of clinical indications.
+RESULTS: Despite substantial down-reclassification of patients to a likelihood ≤5% of CAD with either the RF-CL (45%) or CACS-CL (60%) models compared with the PTP (18%), the annualized event rates of myocardial infarction and death were low using all 3 models; RF-CL 0.51% (95% CI: 0.46-0.56), CACS-CL 0.48% (95% CI: 0.44-0.56), and PTP 0.37% (95% CI: 0.31-0.44), respectively. Overall, comparison of the predictive power of the 3 models using Harrell's C-statistics demonstrated superiority of the RF-CL (0.64 [95% CI: 0.63-0.65]) and CACS-CL (0.69 [95% CI: 0.67-0.70]) compared with the PTP model (0.61 [95% CI: 0.60-0.62]).
+CONCLUSIONS: The simple clinical likelihood models that include classical risk factors or risk factors combined with CACS provide improved risk stratification for myocardial infarction and death compared with the standard PTP model. Hence, the optimized RF-CL and CACS-CL models identify 2.5 and 3.3 times more patients, respectively, who may not benefit from further diagnostic testing.
+
+Citation: Winther S, et al. Coronary Calcium Scoring Improves Risk Prediction in Patients With Suspected Obstructive Coronary Artery Disease. Coronary Calcium Scoring Improves Risk Prediction in Patients With Suspected Obstructive Coronary Artery Disease. 2022; 80:1965-1977. doi: 10.1016/j.jacc.2022.08.805
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36396197/

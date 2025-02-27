@@ -1,0 +1,12 @@
+PMID: 35790318
+Title: Predictors of post-TAVI conduction abnormalities in patients with bicuspid aortic valves.
+
+Abstract: OBJECTIVES: This study evaluates predictors of conduction abnormalities (CA) following transcatheter aortic valve implantation (TAVI) in patients with bicuspid aortic valves (BAV).
+BACKGROUND: TAVI is associated with CA that commonly necessitate a permanent pacemaker. Predictors of CA are well established among patients with tricuspid aortic valves but not in those with BAV.
+METHODS: This is a single-centre, retrospective, observational study of patients with BAV treated with TAVI. Pre-TAVI ECG and CT scans and procedural characteristics were evaluated in 58 patients with BAV. CA were defined as a composite of high-degree atrioventricular block, new left bundle branch block with a QRS >150 ms or PR >240 ms and right bundle branch block with new PR prolongation or change in axis. Predictors of CA were identified using regression analysis and optimum cut-off values determined using area under the receiver operating characteristic curve analysis.
+RESULTS: CA occurred in 35% of patients. Bioprosthesis implantation depth, the difference between membranous septum (MS) length and implantation depth (δMSID) and device landing zone (DLZ) calcification adjacent to the MS were identified as univariate predictors of CA. The optimum cut-off for δMSID was 1.25 mm. Using this cut-off, low δMSID and DLZ calcification adjacent to MS predicted CA, adjusted OR 8.79, 95% CI 1.88 to 41.00; p=0.01. Eccentricity of the aortic valve annulus, type of BAV and valve calcium quantity and distribution did not predict CA.
+CONCLUSIONS: In BAV patients undergoing TAVI, short δMSID and DLZ calcification adjacent to MS are associated with an increased risk of CA.
+
+Citation: Esposito G, et al. Predictors of post-TAVI conduction abnormalities in patients with bicuspid aortic valves. Predictors of post-TAVI conduction abnormalities in patients with bicuspid aortic valves. 2022; 9:(unknown pages). doi: 10.1136/openhrt-2022-001995
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35790318/

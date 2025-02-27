@@ -1,0 +1,11 @@
+PMID: 39049576
+Title: Racial and Ethnic Differences in the Prevalence of Severe Aortic Stenosis by Echocardiography.
+
+Abstract: BACKGROUND: Understanding the burden of aortic stenosis (AS) across diverse racial and ethnic populations is important to ensure equitable resource allocation. This study explored whether severe AS rate varies by race and ethnicity.
+METHODS: The rates of severe AS, stratified by race and ethnicity, were calculated among 615,038 adults with a transthoracic echocardiogram. Logistic regression analysis was performed to identify factors associated with severe AS.
+RESULTS: Severe AS rates ranged from 0.08% in adults < 50 years old to 3.8% in those ≥ 90 years old. Compared to non-Hispanic White and Asian American [adjusted odds ratio (aOR) = 0.47, 95% confidence interval (CI): 0.42-0.53] and non-Hispanic Black (aOR = 0.44, 95% CI: 0.39-0.50) patients were less likely to have severe AS, whereas Hispanic patients (aOR = 0.91, 95% CI: 0.87-0.98) had near similar likelihood. Age was the strongest risk factor for severe AS (compared to age < 50 years, aOR = 21.8, 95% CI: 17.8-26.6 for age 80-89 years, and aOR = 43.8, 95% 35.5-54.0 for age ≥ 90 years). Additional factors associated with severe AS included male sex (aOR = 1.38, 95% CI: 1.30-1.46) and diabetes (aOR = 1.23, 95% CI: 1.15-1.31).
+CONCLUSIONS: Asian American and non-Hispanic Black adults had lower rates of severe AS compared to White and Hispanic patients. The rate of severe AS progressively increases with age in all racial and ethnic groups, with higher rates in men compared with women. With a demographic shift toward an aging and more diverse population, the burden of AS is anticipated to rise. Ensuring adequate allocation of resources to meet the evolving needs of a diverse population remains a shared health care imperative.
+
+Citation: Allahwerdy S, et al. Racial and Ethnic Differences in the Prevalence of Severe Aortic Stenosis by Echocardiography. Racial and Ethnic Differences in the Prevalence of Severe Aortic Stenosis by Echocardiography. 2024; 28:98-106. doi: 10.7812/TPP/24.038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39049576/

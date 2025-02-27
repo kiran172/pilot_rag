@@ -1,0 +1,11 @@
+PMID: 32847756
+Title: Modified essential frailty toolset to determine outcomes following transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Several predictors are available to guide patient selection for transcatheter aortic valve replacement (TAVR) to achieve better outcomes, and the essential frailty toolset (EFT) has been reported as one of those predictors. This study investigated whether a modified EFT could independently predict all-cause mortality following TAVR.
+METHODS: The study population comprised 176 consecutive patients with severe aortic stenosis whose frailty was assessed with a modified EFT prior to TAVR at the Sakakibara Heart Institute between 2013 and 2018. The primary endpoint was all-cause mortality following TAVR. To understand the association between the modified EFT and all-cause mortality, multivariate Cox regression analysis was performed. In addition, to understand its predictive performance, we conducted a receiver operating characteristic (ROC) analysis.
+RESULTS: Patients were elderly, relatively frail, and were likely to have significant heart failure symptoms. By the modified EFT definition, 40 patients (22.7%) were considered frail. With a median follow up of 1145 days, all-cause mortality at 1, 2, and 3 years was 6.2%, 10.2%, and 18.3%, respectively. Patients assessed as more frail on the clinical frailty scale had higher modified EFT scores. In ROC analysis, the area under the curve for predicting all-cause mortality at 1, 2, and 3 years was 0.79 [95% confidence interval (CI) 0.68-0.90]; 0.74 (95% CI 0.62-0.84); and 0.67 (95% CI 0.56-0.79), respectively, with the best cut-off modified EFT score of 1/2.
+CONCLUSIONS: The modified EFT score was independently associated with all-cause mortality and had excellent predictive performance for all-cause mortality at 1 year.
+
+Citation: Saji M, et al. Modified essential frailty toolset to determine outcomes following transcatheter aortic valve replacement. Modified essential frailty toolset to determine outcomes following transcatheter aortic valve replacement. 2021; 77:341-345. doi: 10.1016/j.jjcc.2020.07.021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32847756/

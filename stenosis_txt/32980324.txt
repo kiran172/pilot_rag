@@ -1,0 +1,11 @@
+PMID: 32980324
+Title: Long-term Clinical Impacts of Functional Mitral Stenosis After Mitral Valve Repair.
+
+Abstract: BACKGROUND: The relationship between functional mitral stenosis (MS) after mitral valve (MV) repair and long-term clinical outcomes is not fully understood. Therefore, we reviewed an institutional series to identify the determinants of functional MS and its effect on long-term clinical outcomes after MV repair for degenerative mitral regurgitation.
+METHODS: Between January 1990 and December 2015, 792 patients who underwent MV repair for degenerative mitral regurgitation were retrospectively enrolled and divided into 2 groups: functional MS (n = 192) (≥5 mm Hg mean diastolic pressure gradient across the MV) and nonfunctional MS (n = 600) (<5 mm Hg mean diastolic pressure gradient). Mean follow-up was 11.6 ± 5.8 years.
+RESULTS: After propensity-score matching, patients' characteristics were comparable between groups (n = 192/group). At 20 years, the functional MS group had significantly lower rates of freedom from new-onset atrial fibrillation (73.0% ± 5.6% versus 93.2% ± 2.3%; P = .003), overall survival (72.1% ± 4.6% versus 85.6% ± 4.3%; P = .010), and freedom from MV reoperation (82.8% ± 4.1% versus 92.5% ± 4.2%; P = .019) than the nonfunctional group. The functional MS group also had a significantly greater postoperative left atrial volume index and tricuspid regurgitation grade. A small left ventricular end-diastolic dimension (hazard ratio = 0.975; 95% confidence interval, 0.955-0.996; P = .022) and annuloplasty ring (hazard ratio = 0.757; 95% confidence interval, 0.685-0.837; P < .001) were independent risk factors for functional MS.
+CONCLUSIONS: A small left ventricle and annuloplasty ring increased the risk for functional MS after MV repair and was associated with progressive left atrial enlargement and tricuspid regurgitation exacerbation. As a result, functional MS increased the risk for new-onset atrial fibrillation, MV reoperation, and decreased long-term survival.
+
+Citation: Kim JH, et al. Long-term Clinical Impacts of Functional Mitral Stenosis After Mitral Valve Repair. Long-term Clinical Impacts of Functional Mitral Stenosis After Mitral Valve Repair. 2021; 111:1207-1215. doi: 10.1016/j.athoracsur.2020.07.030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32980324/

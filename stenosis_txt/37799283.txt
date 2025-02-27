@@ -1,0 +1,11 @@
+PMID: 37799283
+Title: Cerebral artery signal intensity gradient from Time-of-Flight Magnetic Resonance Angiography and clinical outcome in lenticulostriate infarction: a retrospective cohort study.
+
+Abstract: PURPOSE: Lenticulostriate infarction requires further research of arterial hemodynamic factors, as the disease is diagnosed in the absence of major arterial stenosis or cardioembolism.
+METHODS: In this multicenter retrospective cohort study, we included patients who were hospitalized for lenticulostriate infarction from January 2015 to March 2021 at three stroke centers in South Korea. We obtained hemodynamic information on cerebral arteries using signal intensity gradient (SIG), an in-vivo approximated wall shear stress (WSS) derived from Time-of-Flight Magnetic Resonance Angiography (TOF-MRA). A favorable outcome was defined as a modified Rankin Scale of 0 to 2 at hospital discharge.
+RESULTS: A total of 294 patients were included, of whom 146 (49.7%) had an unfavorable outcome. The unfavorable outcome group showed significantly lower SIG in both middle cerebral arteries (MCAs) than the favorable group (5.2 ± 1.2 SI/mm vs. 5.9 ± 1.2, p &lt; 0.001), and similar findings were observed in other cerebral arteries. The SIGs in both MCAs were independently associated with favorable outcome, with an odds ratio of 1.42 (95% confidence interval, 1.11-1.80; p = 0.005) for the right MCA and 1.49 (95% CI, 1.15-1.93; p = 0.003) for the left MCA, after adjusting for potential confounders. Similar findings were observed in other cerebral artery SIGs.
+CONCLUSION: Cerebral artery SIG from TOF-MRA was significantly associated with short-term functional outcomes in patients with lenticulostriate infarction. Further studies are needed to investigate the temporal relationships of SIG in patients with cerebral infarction.
+
+Citation: Lee CH, et al. Cerebral artery signal intensity gradient from Time-of-Flight Magnetic Resonance Angiography and clinical outcome in lenticulostriate infarction: a retrospective cohort study. Cerebral artery signal intensity gradient from Time-of-Flight Magnetic Resonance Angiography and clinical outcome in lenticulostriate infarction: a retrospective cohort study. 2023; 14:1220840. doi: 10.3389/fneur.2023.1220840
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37799283/

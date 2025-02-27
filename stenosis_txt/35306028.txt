@@ -1,0 +1,11 @@
+PMID: 35306028
+Title: Cost-effectiveness of transcatheter aortic valve implantation versus surgical aortic valve replacement in low surgical risk aortic stenosis patients.
+
+Abstract: BACKGROUND: The PARTNER 3 trial demonstrated clinical benefits of transcatheter aortic valve implantation (TAVI) with the SAPIEN 3 device, over surgical aortic valve replacement (SAVR) in patients with severe symptomatic aortic stenosis (sSAS) at low risk of surgical mortality. Using PARTNER 3 outcomes and Italy-specific costs data, this cost-utility analysis from the perspective of the Italian National Health System aimed to determine the cost-effectiveness of SAPIEN 3 TAVI versus SAVR in low risk sSAS patients in Italy.
+METHODS: A two-stage cost-utility model was developed to estimate changes in both direct healthcare costs and health-related quality of life using TAVI with SAPIEN 3 compared with SAVR. Early adverse events associated with TAVI were captured utilising the PARTNER 3 dataset. These data fed into a Markov model that captured longer-term outcomes of patients, following TAVI or SAVR intervention.
+RESULTS: Analysis findings estimated that TAVI with SAPIEN 3 offers benefits over SAVR in terms of increased quality-adjusted life years (QALYs) with only a small increase in costs, representing an incremental cost-effectiveness ratio/QALY gained of €2989 per patient. The results were robust, with TAVI with SAPIEN 3 remaining cost-effective across several scenarios and in probabilistic sensitivity analyses.
+CONCLUSIONS: This model demonstrated that TAVI with SAPIEN 3 is likely to be cost effective compared with SAVR for the treatment of patients with sSAS who are at low risk of surgical mortality. These findings can inform policy makers to facilitate policy development in Italy on intervention selection for this patient population.
+
+Citation: Mennini FS, et al. Cost-effectiveness of transcatheter aortic valve implantation versus surgical aortic valve replacement in low surgical risk aortic stenosis patients. Cost-effectiveness of transcatheter aortic valve implantation versus surgical aortic valve replacement in low surgical risk aortic stenosis patients. 2022; 357:26-32. doi: 10.1016/j.ijcard.2022.03.034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35306028/

@@ -1,0 +1,14 @@
+PMID: 35958039
+Title: Dual anti-platelet therapy for secondary prevention in intracranial atherosclerotic disease: a network meta-analysis.
+
+Abstract: BACKGROUND: Intracranial arterial stenosis (ICAS) is a non-marginal cause of stroke/transient ischemic attacks (TIAs) and is associated with high stroke recurrence rate. Some studies have investigated the best secondary prevention ranging from antithrombotic therapy to endovascular treatment (ET). However, no direct comparison between all the possible treatments is currently available especially between single and dual anti-platelet therapies (SAPT and DAPT).
+AIM: To establish whether DAPT is more effective than SAPT in preventing the recurrence of ICAS-related stroke, by means of a network meta-analysis (NMA).
+DESIGN: Systematic review and NMA in accordance to PRISMA guidelines.
+DATA SOURCES AND METHODS: We performed a systematic review of trials investigating secondary prevention (SAPT or DAPT, anticoagulant treatment or ET) in patients with symptomatic ICAS available in MEDLINE, Scopus and Web of Science from January 1989 to May 2021. We defined our primary efficacy outcome as the recurrence of ischemic stroke/TIA. We analysed the extracted data with Bayesian NMA approach.
+RESULTS: We identified 815 studies and included 5 trials in the NMA. Sequence generation was adequate in all the selected studies while the allocation concealment method was described in one study. All the included studies reported the pre-specified primary outcomes, and outcome assessment was blinded in all the studies. We used the fixed-effect approach as the heterogeneity was not significant (p &gt; 0.1) according to the Cochran's Q statistic. DAPT was superior to SAPT and DAPT + ET in preventing stroke/TIA recurrence [respectively, odds ratio (OR), 0.59; confidence interval (CI), 0.39-0.9; and OR, 0.49, CI, 0.26-0.88], while no difference was found between DAPT and oral anticoagulant therapy (OAC). DAPT was safer than OAC (OR, 0.48; CI, 0.26-0.89) and DAPT + ET (OR, 0.50; CI, 0.35-0.71), while no difference was found between DAPT and SAPT.
+CONCLUSION: DAPT is more effective than SAPT for secondary stroke prevention in patients with symptomatic ICAS, without increasing the risk of haemorrhage.
+REGISTRATION: Prospero/CRD42019140033.
+
+Citation: Reale G, et al. Dual anti-platelet therapy for secondary prevention in intracranial atherosclerotic disease: a network meta-analysis. Dual anti-platelet therapy for secondary prevention in intracranial atherosclerotic disease: a network meta-analysis. 2022; 15:17562864221114716. doi: 10.1177/17562864221114716
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35958039/

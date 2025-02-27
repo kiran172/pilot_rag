@@ -1,0 +1,11 @@
+PMID: 35673342
+Title: Prognostic Value of Apical Sparing of Longitudinal Strain in Patients with Symptomatic Aortic Stenosis.
+
+Abstract: BACKGROUND: Older patients with aortic stenosis (AS) have a higher incidence of wild-type transthyretin cardiac amyloidosis (ATTR-CA). This study aimed to determine whether apical sparing of longitudinal strain (LS) could help diagnose ATTR-CA and provide useful prognostic information in symptomatic AS.
+METHODS: We performed vendor-independent two-dimensional speckle-tracking analysis of regional and global left ventricular LS in 16 patients with ATTR-CA and 31 patients with non-obstructive hypertrophic cardiomyopathy to determine the best cutoff value of the apical sparing ratio (APSR) for diagnosing ATTR-CA. We then determined the prevalence in patients who had an APSR higher than the best cutoff value and investigated its prognostic value in 230 patients with symptomatic AS. To determine the natural history of symptomatic AS, patients who had aortic valve replacement were censored at the time of surgery.
+RESULTS: The best cutoff value of APSR was 0.76. APSR ≥ 0.76 was observed in 108 patients with symptomatic AS (48%). The prevalence was not different among the four AS subgroups. During a median follow-up period of 5.7 months, 47 patients had cardiac events. Cox proportional hazards analysis revealed that neither APSR nor APSR ≥ 0.76 was significantly associated with future cardiac events.
+CONCLUSIONS: Apical sparing was frequently observed in patients with symptomatic AS, and it was not a useful predictor of future adverse outcomes. Our results suggest that the underlying cause of apical sparing in AS may not be related to the presence of ATTR-CA.
+
+Citation: Yang CH, et al. Prognostic Value of Apical Sparing of Longitudinal Strain in Patients with Symptomatic Aortic Stenosis. Prognostic Value of Apical Sparing of Longitudinal Strain in Patients with Symptomatic Aortic Stenosis. 2022; 38:341-351. doi: 10.6515/ACS.202205_38(3).20211209A
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35673342/

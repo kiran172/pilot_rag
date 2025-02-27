@@ -1,0 +1,12 @@
+PMID: 34706462
+Title: Association between affective temperaments and severe coronary artery disease.
+
+Abstract: BACKGROUND: Affective temperaments are regarded as subclinical manifestations of major mood disorders and cumulating evidence suggest their role in cardiovascular (CV) pathology. We wished to analyze associations between affective temperaments and severe coronary artery disease (CAD), as assessed by coronary computed tomography angiography (CCTA).
+METHODS: 225 consecutive patients referred to CCTA due to suspected CAD were included. Medical history and demographic parameters were recorded and all patients completed the Temperament Evaluation of Memphis, Pisa, Paris, and San Diego Autoquestionnaire (TEMPS-A). The severity and extent of CAD was evaluated by CCTA. Logistic regression analysis was used to identify predictors of severe CAD (≥70% luminal stenosis in ≥1 major coronary artery).
+RESULTS: According to multivariate logistic regression analysis, elevated hyperthymic affective temperament scores significantly decreased the odds of severe CAD (OR=0.92 CI: 0.84-1.00, p = 0.04), while independent positive associations were observed in case of dyslipidemia (OR=4.23 CI: 1.81-9.88, p = 0.001) and cyclothymic affective temperament scores (OR=1.12 CI: 1.02-1.23, p = 0.02). Furthermore, receiver operating curve (ROC) analysis was used to define ideal cutoff values. Hyperthymic temperament scores >11 (OR=0.41 CI: 0.19-0.90, p = 0.03), cyclothymic scores >7 (OR=3.23 CI: 1.35-7.76, p = 0.01) and irritable scores >6 (OR=2.79 CI: 1.17-6.69, p = 0.02) were also independently associated with severe CAD.
+LIMITATIONS: Our study was limited by the cross-sectional design and the self-report nature of the questionnaires.
+CONCLUSIONS: Evaluation of affective temperaments might help to identify patients with elevated risk for severe CAD and subsequent need for coronary intervention.
+
+Citation: Vecsey-Nagy M, et al. Association between affective temperaments and severe coronary artery disease. Association between affective temperaments and severe coronary artery disease. 2021; 295:914-919. doi: 10.1016/j.jad.2021.08.063
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34706462/

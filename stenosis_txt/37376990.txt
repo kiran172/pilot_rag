@@ -1,0 +1,11 @@
+PMID: 37376990
+Title: Investigation of miR-26a-5p and miR-19a-3p expression levels in angiographically confirmed coronary artery disease.
+
+Abstract: BACKGROUND: MicroRNAs have been found to have an essential role in cardiovascular diseases. In previous experiments, the changed expressions of miR-26a-5p and miR-19a-3p were confirmed in patients with severe coronary atherosclerosis by miRNA microarrays. However, the role of two miRNAs in coronary artery diseases (CAD) still needs to be investigated further. Our current study aimed to analyse two miRNAs in angiographically confirmed CAD and non-CAD with insignificant coronary stenosis. This study aimed to identify the potential diagnostic value of circulating miRNA with CAD.
+METHODS: The CAD patients (n = 50) and non-CAD controls (n = 43) were studied. miRNAs (miR-26a-5p and miR-19a-3p) were quantified by TaqMan miRNA assays using real-time PCR. We subsequently assessed the diagnostic value of the miRNAs and correlations of miRNA with clinical parameters. Target prediction tools were utilised to identify miRNA target genes.
+RESULTS: The expression of miR-26a-5p was significantly increased in CAD compared to non-CAD controls (p &lt; 0.05). Tertile groups were formed according to the expression levels of miRNAs, and high expression tertile (T3) was compared with low expression tertile (T1). It was found that CAD presence was more prevalent in T3 of miR-26a-5p, and the frequency of diabetes was higher in T3 of miR-19a-3p. There were significant correlations between miRNAs and diabetes risk factors such as HbA1c, glucose levels, and BMI (p &lt; 0.05).
+CONCLUSIONS: Our findings show that miR-26a-5p expression is altered in CAD presence while miR-19a-3p expression is different in diabetes. Both miRNAs are closely related to risk factors of CAD, therefore, could be therapeutic targets for CAD treatment.
+
+Citation: Coban N, et al. Investigation of miR-26a-5p and miR-19a-3p expression levels in angiographically confirmed coronary artery disease. Investigation of miR-26a-5p and miR-19a-3p expression levels in angiographically confirmed coronary artery disease. 2023; 78:945-956. doi: 10.1080/00015385.2023.2227484
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37376990/

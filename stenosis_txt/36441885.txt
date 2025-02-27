@@ -1,0 +1,12 @@
+PMID: 36441885
+Title: Impact of Pressure Wire on Fractional Flow Reserve and Hemodynamics of the Coronary Arteries: A Computational and Clinical Study.
+
+Abstract: OBJECTIVE: Noninvasive fractional flow reserve (FFR) has been extensively studied and gained clinical recognition. However, the effect of an interventional catheter and a pressure wire in the arteries on the noninvasive FFR was not considered in previous studies. We provide quantitative analysis of how a catheter and a pressure wire can affect the estimation of noninvasive FFR using computational fluid dynamics (CFD) techniques.
+METHODS: Six patients are studied. We calibrate our CFD model with patient-specific conditions so that the noninvasive FFR matches the FFR measured by the pressure wire. Then, we numerically remove the pressure wire and compute the noninvasive FFR again. This allows us to analyze the effect of the pressure wire on FFR.
+RESULTS: The presence of a catheter and a pressure wire can reduce distal pressure from -0.1 mmHg to -8.1 mmHg, resulting in a reduction of FFR by 5.8 % in average (0.012 to 0.107 or -1.2 % to -16.8 %). The insertion also reduces the time-averaged flow rate at the stenosis by up to 16.2 % (4.9 % in average).
+CONCLUSION: The impact of the pressure wire on the measured FFR depends on the characteristics of the patient-specific lesion. Significant linear correlations are found between the minimum diameter of the stenotic arteries and the reduction in FFR.
+SIGNIFICANCE: The impact we found may contribute to provide a correction and improve the estimation of the noninvasive FFR technique for use in clinical practice.
+
+Citation: Yan Z, et al. Impact of Pressure Wire on Fractional Flow Reserve and Hemodynamics of the Coronary Arteries: A Computational and Clinical Study. Impact of Pressure Wire on Fractional Flow Reserve and Hemodynamics of the Coronary Arteries: A Computational and Clinical Study. 2023; 70:1683-1691. doi: 10.1109/TBME.2022.3225188
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36441885/

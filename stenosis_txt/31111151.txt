@@ -1,0 +1,10 @@
+PMID: 31111151
+Title: Statin therapy increases lipoprotein(a) levels.
+
+Abstract: AIMS: Lipoprotein(a) [Lp(a)] is elevated in 20-30% of people. This study aimed to assess the effect of statins on Lp(a) levels.
+METHODS AND RESULTS: This subject-level meta-analysis includes 5256 patients (1371 on placebo and 3885 on statin) from six randomized trials, three statin-vs.-placebo trials, and three statin-vs.-statin trials, with pre- and on-treatment (4-104 weeks) Lp(a) levels. Statins included atorvastatin 10 mg/day and 80 mg/day, pravastatin 40 mg/day, rosuvastatin 40 mg/day, and pitavastatin 2 mg/day. Lipoprotein(a) levels were measured with the same validated assay. The primary analysis of Lp(a) is based on the log-transformed data. In the statin-vs.-placebo pooled analysis, the ratio of geometric means [95% confidence interval (CI)] for statin to placebo is 1.11 (1.07-1.14) (P < 0.0001), with ratio >1 indicating a higher increase in Lp(a) from baseline in statin vs. placebo. The mean percent change from baseline ranged from 8.5% to 19.6% in the statin groups and -0.4% to -2.3% in the placebo groups. In the statin-vs.-statin pooled analysis, the ratio of geometric means (95% CI) for atorvastatin to pravastatin is 1.09 (1.05-1.14) (P < 0.0001). The mean percent change from baseline ranged from 11.6% to 20.4% in the pravastatin group and 18.7% to 24.2% in the atorvastatin group. Incubation of HepG2 hepatocytes with atorvastatin showed an increase in expression of LPA mRNA and apolipoprotein(a) protein.
+CONCLUSION: This meta-analysis reveals that statins significantly increase plasma Lp(a) levels. Elevations of Lp(a) post-statin therapy should be studied for effects on residual cardiovascular risk.
+
+Citation: Tsimikas S, et al. Statin therapy increases lipoprotein(a) levels. Statin therapy increases lipoprotein(a) levels. 2020; 41:2275-2284. doi: 10.1093/eurheartj/ehz310
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31111151/

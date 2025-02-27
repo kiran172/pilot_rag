@@ -1,0 +1,11 @@
+PMID: 32502877
+Title: TAVR for low-flow, low-gradient aortic stenosis: Prognostic impact of aortic valve calcification.
+
+Abstract: BACKGROUND: Compared to high gradient aortic stenosis (AS), patients with low-flow, low-gradient AS have higher mortality after transcatheter aortic valve replacement (TAVR), but distinct outcome predictors in this patient subset are yet to be determined. The present study investigated the prognostic impact of aortic valve calcification (AVC) in patients with low-flow, low-gradient AS undergoing TAVR.
+METHODS: This retrospective single-center analysis includes all patients undergoing TAVR for severe low-flow, low-gradient AS (n = 526), ie, low EF low gradient AS (LEF-LG AS; n = 290) and paradoxical low-flow, low-gradient AS (PLF-LG AS; n = 236), in whom AVC was quantified from contrast-enhanced multislice computed tomography images. AVC<sub>density</sub> was defined as calcium volume per annulus area. Patients were trichotomized according to sex-specific AVC<sub>density</sub> tertiles in both subgroups. All-cause mortality was assessed by Kaplan-Meier analyses and independent outcome predictors were determined by multivariable analyses.
+RESULTS: In both subgroups, patients with high AVC<sub>density</sub> had higher mean transvalvular gradients at baseline and higher rates of PVL after TAVR. High AVC<sub>density</sub> was associated with lowest 1- and 3-year mortality after TAVR in the LEF-LG AS but not in the PLF-LG AS group. According to multivariable analysis AVC<sub>density</sub> was independently associated with better survival in LEF-LG AS patients (HR 0.73 [0.60-0.88], P = .0011), but not in those with PLF-LG AS (HR 0.91 [0.73-1.14], P = .42).
+CONCLUSIONS: Quantification of AVC may not only be of diagnostic but also of prognostic value, as it facilitates the selection of LEF-LG AS patients with higher probability of beneficial outcome after TAVR.
+
+Citation: Ludwig S, et al. TAVR for low-flow, low-gradient aortic stenosis: Prognostic impact of aortic valve calcification. TAVR for low-flow, low-gradient aortic stenosis: Prognostic impact of aortic valve calcification. 2020; 225:138-148. doi: 10.1016/j.ahj.2020.03.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32502877/

@@ -1,0 +1,11 @@
+PMID: 39178930
+Title: Guidelines vs Practice: Surgical Versus Transcatheter Aortic Valve Replacement in Adults ≤60 Years.
+
+Abstract: BACKGROUND: Consensus guidelines recommend surgical aortic valve replacement (SAVR) over transcatheter aortic valve replacement (TAVR) in patients with severe aortic stenosis aged ≤65 years. This analysis evaluates clinical practice and outcomes of TAVR and SAVR in patients aged ≤60 years.
+METHODS: We identified 2360 patients aged ≤60 years, including 523 TAVR (22.2%) and 1837 SAVR (77.8%) procedures, from 2013 through 2021 using the California Department of Health Care Access and Information database. The median follow-up time was 2.4 years (interquartile range, 1.1-4.5 years) after TAVR and 4.9 years (interquartile range, 2.8-6.9 years) after SAVR. The primary outcome was 5-year survival. Secondary outcomes included cumulative incidences of reoperation, endocarditis, stroke, and heart failure readmissions with death as a competing risk, compared using propensity score matching.
+RESULTS: Between 2013 and 2021 TAVR rates in patients aged ≤60 years increased from 7.2% to 45.7% (annual increase of 4.7%, P < .001). Mortality at 30 days was similar for SAVR and TAVR (0.2% vs 0.4%, P = .20). In 358 propensity-matched pairs, TAVR was associated with an increased hazard of 5-year mortality (hazard ratio, 2.5; 95% CI, 1.1-3.7; P = .02). There was no significant difference in the cumulative incidences of reoperation (2.2% vs 3.8%, P = .25), stroke (1.1% vs 0.8%, P = .39), endocarditis (0.8% vs 0.4%, P = .38), and heart failure readmission (1.9% vs 1.2%, P = .10).
+CONCLUSIONS: TAVR use approaches SAVR use in patients aged ≤60 years in California and is associated with significantly worse 5-year survival. This may indicate a need for randomized trials to inform best practice recommendations.
+
+Citation: Alabbadi S, et al. Guidelines vs Practice: Surgical Versus Transcatheter Aortic Valve Replacement in Adults ≤60 Years. Guidelines vs Practice: Surgical Versus Transcatheter Aortic Valve Replacement in Adults ≤60 Years. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.athoracsur.2024.07.036
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39178930/

@@ -1,0 +1,11 @@
+PMID: 32153792
+Title: Impact of transcatheter aortic valve implantation on mechanical dispersion.
+
+Abstract: OBJECTIVES: The physiological determinants of left ventricular (LV) mechanical dispersion (MD) are not fully explored. We aimed to investigate the impact of afterload reduction and changes in ventricular conduction on LV MD after transcatheter aortic valve implantation (TAVI).
+METHODS: Patients with severe aortic stenosis (AS) were examined in a prospective, repeated measures observational cohort study before and after an uncomplicated transfemoral TAVI in a single tertiary centre. LV MD was assessed by speckle tracking echocardiography. Valvulo-arterial impedance (ZVA) was used as a measure of global afterload.
+RESULTS: We included 140 consecutive patients (83±8 years old, 49% women, logistic EuroSCORE 16±10) with severe AS (valve area 0.7±0.2 cm2, mean transvalvular gradient 54±18 mm Hg) and a relatively preserved LV ejection fraction (52%±11%). After TAVI, we observed favourable changes in transvalvular gradients and ZVA in all patients. Compared with baseline, postprocedural MD was significantly lower in 108 patients with unchanged ventricular conduction (55±17 ms vs 51±17 ms, p=0.02) and higher in 28 patients with TAVI-induced left bundle branch block (51±13 ms vs 62±19 ms, p≤0.001). During 22±9 months observation, 22 patients died. Postprocedural MD was associated with mortality in a univariate Cox regression model (HR=1.24 (1.01-1.52), p&lt;0.04, per 10 ms increase).
+CONCLUSIONS: Isolated afterload reduction was associated with reduction of MD, while concomitant impairment of ventricular conduction resulted in a more pronounced MD after TAVI, indicating that loading conditions and conduction should be considered when evaluating MD. A pronounced postprocedural LV MD was associated with mortality.
+
+Citation: Klaeboe LG, et al. Impact of transcatheter aortic valve implantation on mechanical dispersion. Impact of transcatheter aortic valve implantation on mechanical dispersion. 2020; 7:e001199. doi: 10.1136/openhrt-2019-001199
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32153792/

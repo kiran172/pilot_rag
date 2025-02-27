@@ -1,0 +1,11 @@
+PMID: 31738030
+Title: Correlation of MRI-detected vulnerable carotid plaques with clinical presentation: a systematic review and meta-analysis.
+
+Abstract: INTRODUCTION: To determine the association between magnetic resonance imaging (MRI)-detected vulnerable Carotid Plaques and clinical presentation related to ipsilateral carotid artery territory.
+EVIDENCE ACQUISITION: We searched three databases including Ovid MEDLINE, Ovid EMBASE, and Scopus from 2000 to 2018 for studies that evaluated vulnerable carotid plaques by MRI defined as intraplaque hemorrhage (IPH), lipid-rich necrotic core (LRNC), or thinning/rupture of the fibrous cap (TRFC). Data on study characteristics, clinical presentation, and MRI findings were extracted. Publication bias, methodologic quality, and study heterogeneity were assessed. Random-effects meta-analysis model was used to estimate incidence rate ratio (IRR) and 95% confidence intervals (CI) of MRI-detected vulnerable carotid plaque between symptomatic and asymptomatic arteries.
+EVIDENCE SYNTHESIS: Of 2855 studies, 33 studies containing 6210 participants with 8401 assessed arteries were included. Overall, the risk of bias was moderate in 13, and low in 20 studies. The prevalence of MRI-positive IPH, TRFC, and LRNC were higher in symptomatic groups compared with the asymptomatic groups. In 11 studies that compared vulnerable carotid plaques between symptomatic and asymptomatic groups, symptomatic presentation was correlated with increased risk of IPH (IRR=1.57; 95% CI: 1.24-1.99), TRFC (IRR=2.26; 95% CI: 1.83 to 3.76), and LRNC (IRR=1.95; 95% CI: 1.28 to 2.97), respectively.
+CONCLUSIONS: The presence of MRI-positive vulnerable carotid plaques including IPH, LRNC, and TRFC is positively associated with symptomatic clinical presentation. Therefore, carotid plaque MRI might be a useful risk stratification tool in determining the risk of ischemic stroke.
+
+Citation: Seyedsaadat SM, et al. Correlation of MRI-detected vulnerable carotid plaques with clinical presentation: a systematic review and meta-analysis. Correlation of MRI-detected vulnerable carotid plaques with clinical presentation: a systematic review and meta-analysis. 2020; 64:263-271. doi: 10.23736/S0390-5616.19.04820-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31738030/

@@ -1,0 +1,11 @@
+PMID: 35120947
+Title: Physiological and angiographic outcomes of PCI in calcified lesions after rotational atherectomy or intravascular lithotripsy.
+
+Abstract: BACKGROUND: Percutaneous coronary interventions (PCI) in calcified coronary artery lesions are associated with impaired stent expansion, higher rate of periprocedural complications and cardiac mortality. Lesion preparation using calcium modifying techniques such as Rotational Atherectomy (RA) or Intravascular Lithotripsy (IVL) has been advocated. Studies comparing these technologies are lacking. We aimed to compare in-stent pressure gradients, evaluated by vessel fractional flow reserve (vFFR), in calcific lesions treated using either RA or IVL.
+METHODS: Patients undergoing either RA- or IVL-assisted PCI from two European centers were included. Propensity score matching (1:2) was performed to control for potential bias. Primary outcome was post-PCI in-stent pressure gradients calculated by vFFR (vFFRgrad). Secondary outcomes included the proportion of patients with complete functional revascularization defined as distal vFFR post-PCI (vFFRpost) ≥ 0.90.
+RESULTS: From a cohort of 210 patients, 105 matched patients (70 RA and 35 IVL) were included. Pre-PCI vFFR did not differ between groups (0.65 ± 0.13 RA and 0.67 ± 0.11 IVL). After PCI, in-stent pressure gradients were significantly lower in the IVL group (0.032 ± 0.026 vs 0.043 ± 0.026 in the RA group, p = 0.024). The proportions of vessels with functional complete revascularization was similar between the two groups (32.9% vs. 37.1% in the RA and IVL group, respectively; p = 0.669).
+CONCLUSIONS: Calcific lesions preparation with IVL is effective and resulted in lower in-stent pressure gradients compared to RA. Approximately one third of the patients undergoing PCI for a severely calcified lesion achieved functional revascularization with no difference between rotational RA and IVL.
+
+Citation: Gallinoro E, et al. Physiological and angiographic outcomes of PCI in calcified lesions after rotational atherectomy or intravascular lithotripsy. Physiological and angiographic outcomes of PCI in calcified lesions after rotational atherectomy or intravascular lithotripsy. 2022; 352:27-32. doi: 10.1016/j.ijcard.2022.01.066
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35120947/

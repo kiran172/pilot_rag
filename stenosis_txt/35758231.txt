@@ -1,0 +1,12 @@
+PMID: 35758231
+Title: Early versus late discharge after transcatheter aortic valve replacement and readmissions for permanent pacemaker implantation.
+
+Abstract: OBJECTIVE: To examine the rate of readmission for permanent pacemaker (PPM) implantation with early versus late discharge after transcatheter aortic valve replacement (TAVR).
+BACKGROUND: There is a current trend toward early discharge after TAVR. However, paucity of data exists on the impact of such practice on readmissions for PPM implantation.
+METHODS: The Nationwide Readmission Database 2016-2018 was queried for all hospitalizations where patients underwent TAVR. Hospitalizations were stratified into early (Days 0 and 1) versus late (≥Day 2) discharge groups. Observations in which PPM was required in the index admission were excluded. Multivariable regression analyses involving patient- and hospital-related variables were utilized. The primary outcome was 90-day readmission for PPM implantation.
+RESULTS: The final analysis included 68,482 TAVR hospitalizations, 20,261 (29.6%) with early versus 48,221 (70.4%) with late discharge. Early discharge after TAVR increased over the study period (16.2% in 2016 vs. 37.9% in 2018, P<sub>trend</sub>  &lt; 0.01). Nevertheless, 90-day readmission for PPM implantation remained stable (1.8% in 2016 vs. 2.0% in 2018, P<sub>trend</sub>  = 0.32). The 90-day readmission rate for PPM implantation (2.0% vs. 1.8%; adjusted odds ratio: 1.15; 95% confidence interval: 0.95-1.39; p = 0.15) and median time-to-readmission (5 days [interquartile range, IQR 3-9] vs. 5 days [IQR 3-14], p = 0.92) were similar with early versus late discharge. Similar rates were observed regardless of whether readmission was elective versus not. Early discharge was associated with lower hospitalization cost ($39,990 ± $13,681 vs. $46,750 ± $18,218, p &lt; 0.01) compared with late discharge.
+CONCLUSION: In patients who did not require PPM during the index TAVR hospitalization, the rate of readmission for PPM implantation was similar with early versus late discharge.
+
+Citation: Elzanaty AM, et al. Early versus late discharge after transcatheter aortic valve replacement and readmissions for permanent pacemaker implantation. Early versus late discharge after transcatheter aortic valve replacement and readmissions for permanent pacemaker implantation. 2022; 100:245-253. doi: 10.1002/ccd.30299
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35758231/

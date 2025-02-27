@@ -1,0 +1,11 @@
+PMID: 38225680
+Title: Self-expanding versus balloon expandable stent for intracranial arterial stenosis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND AND PURPOSE: There are limited data regarding the comparison of balloon expandable stents (BES) and self-expanding stents (SES) for the treatment of intracranial arterial stenosis.
+METHODS: We conducted a systematic review to identify studies that compared SES and BES in patients with symptomatic intracranial arterial stenosis. Data were extracted from relevant studies found through a search of PubMed, Scopus, and Web of Science until from January 1, 2010 to September 28, 2023. Statistical pooling with random-effects meta-analysis was undertaken to compare the rates/severity of postprocedure stenosis, technical success, 30-day stroke and/or death, cumulative clinical endpoints, and restenosis rates.
+RESULTS: A total of 20 studies were included. The standardized mean difference (SMD) for postprocedure stenosis (%) was significantly lower (SMD: -0.52, 95% confidence interval [CI]: -0.79 to -0.24, p < .001, 10 studies involving 1515 patients) with BES. The odds for 30-day stroke and/or death were significantly lower (odds ratio [OR] 0.68, 95% CI: 0.50-0.94, p = .019, 15 studies involving 2431 patients), and cumulative clinical endpoints on follow-up were nonsignificantly lower (OR 0.64, 95% CI: 0.30-1.37, p = .250, 10 studies involving 947 patients) with BES. The odds for restenosis during follow-up were significantly lower (OR 0.50, 95% CI: 0.31-0.80, p = .004, 13 studies involving 1115 patients) with BES.
+CONCLUSIONS: Compared with SES, BES were associated with lower rates of postprocedure 30-day stroke and/or death with lower rates of restenosis during follow up and the treatment of symptomatic intracranial arterial stenosis.
+
+Citation: Qureshi AI, et al. Self-expanding versus balloon expandable stent for intracranial arterial stenosis: A systematic review and meta-analysis. Self-expanding versus balloon expandable stent for intracranial arterial stenosis: A systematic review and meta-analysis. 2024; 34:295-307. doi: 10.1111/jon.13188
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38225680/

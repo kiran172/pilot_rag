@@ -1,0 +1,11 @@
+PMID: 32790754
+Title: Integrated analysis of DNA methylation profile of HLA-G gene and imaging in coronary heart disease: Pilot study.
+
+Abstract: AIMS: Immune endothelial inflammation, underlying coronary heart disease (CHD) related phenotypes, could provide new insight into the pathobiology of the disease. We investigated DNA methylation level of the unique CpG island of HLA-G gene in CHD patients and evaluated the correlation with cardiac computed tomography angiography (CCTA) features.
+METHODS: Thirty-two patients that underwent CCTA for suspected CHD were enrolled for this study. Obstructive CHD group included fourteen patients, in which there was a stenosis greater than or equal to 50% in one or more of the major coronary arteries detected; whereas subjects with Calcium (Ca) Score = 0, uninjured coronaries and with no obstructive CHD (no critical stenosis, NCS) were considered as control subjects (n = 18). For both groups, DNA methylation profile of the whole 5'UTR-CpG island of HLA-G was measured. The plasma soluble HLA-G (sHLA-G) levels were detected in all subjects by specific ELISA assay. Statistical analysis was performed using R software.
+RESULTS: For the first time, our study reported that 1) a significant hypomethylation characterized three specific fragments (B, C and F) of the 5'UTR-CpG island (p = 0.05) of HLA-G gene in CHD patients compared to control group; 2) the hypomethylation level of one specific fragment of 161bp (+616/+777) positively correlated with coronary Ca score, a relevant parameter of CCTA (p<0.05) between two groups evaluated and was predictive for disease severity.
+CONCLUSIONS: Reduced levels of circulating HLA-G molecules could derive from epigenetic marks. Epigenetics phenomena induce hypomethylation of specific regions into 5'UTR-CpG island of HLA-G gene in CHD patients with obstructive non critical stenosis vs coronary stenosis individuals.
+
+Citation: Schiano C, et al. Integrated analysis of DNA methylation profile of HLA-G gene and imaging in coronary heart disease: Pilot study. Integrated analysis of DNA methylation profile of HLA-G gene and imaging in coronary heart disease: Pilot study. 2020; 15:e0236951. doi: 10.1371/journal.pone.0236951
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32790754/

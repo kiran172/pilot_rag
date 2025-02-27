@@ -1,0 +1,11 @@
+PMID: 36766650
+Title: Evaluation of Sciatic Nerve Stiffness Using Shear Wave Elastography in Patients with Unilateral Diabetic Foot Ulcers.
+
+Abstract: OBJECTIVE: To evaluate the stiffness of the sciatic nerve by shear wave elastography (SWE) and to determine whether SWE can be used to predict diabetic foot ulcer (DFU) in a patient with diabetic peripheral neuropathy (DPN).
+METHODS: Sixteen patients (thirty-two lower limbs) with unilateral DFU were studied retrospectively. The ultrasonographic parameters including cross-sectional area (CSA) of sciatic nerve, intraneural blood flow, peak systolic velocity (Vmax) and resistive index (RI) in the intraneural artery of the sciatic nerve, and the SWE stiffness value of the sciatic nerve were measured. The examinations of arteries of the lower limbs were also performed by ultrasound. According to the presence or absence of DFU, the 32 lower limbs were divided into two groups: the DFU group and the non-DFU group. The ultrasonographic parameters were compared between these two groups.
+RESULTS: There was no significant difference (p &gt; 0.05) between the two groups for CSA, intraneural blood flow, Vmax and RI in the intraneural artery of the sciatic nerve, and numbers of severe artery stenosis or full occlusion of the artery in the lower limbs. However, SWE stiffness values in the sciatic nerve in the DFU group are higher than the non-DFU group (p &lt; 0.05). When the SWE stiffness values were used for prediction of DFU in patients with DPN, the area under the ROC curve (AUC) was 0.727 (95% CI: 0.541-0.868). When the best SWE stiffness value of 24.48 kPa was taken as a cutoff for prediction of DFU, the sensitivity was 62.50% (95% CI: 35.4-84.8%), and the specificity was 75% (95% CI: 47.6-92.7%).
+CONCLUSIONS: Sciatic nerve stiffness is significantly higher in lower limbs with DFU. SWE is a noninvasive imaging method that may be used to evaluate sciatic nerve stiffness, then potentially predict DFU in patients with DPN.
+
+Citation: Chen SP, et al. Evaluation of Sciatic Nerve Stiffness Using Shear Wave Elastography in Patients with Unilateral Diabetic Foot Ulcers. Evaluation of Sciatic Nerve Stiffness Using Shear Wave Elastography in Patients with Unilateral Diabetic Foot Ulcers. 2023; 13:(unknown pages). doi: 10.3390/diagnostics13030547
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36766650/

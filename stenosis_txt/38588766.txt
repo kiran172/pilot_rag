@@ -1,0 +1,11 @@
+PMID: 38588766
+Title: Prevalence and Costs of Esophageal Strictures in the United States.
+
+Abstract: BACKGROUND & AIMS: Esophageal strictures are a leading cause of dysphagia, but data regarding the epidemiology of esophageal strictures are limited. This study aimed to investigate the prevalence, health care utilization, and financial burden of esophageal strictures in the United States.
+METHODS: We performed a retrospective cohort study using 2 large national insurance claims databases (MarketScan and Medicare). Using International Classification of Diseases-9 and -10 diagnostic codes, annual prevalence was calculated for both cohorts overall, and stratified by age and sex strata. Most common diagnostic and procedural codes associated with esophageal strictures were extracted and analyzed to estimate health care utilization. Direct annual medical costs of esophageal strictures were calculated.
+RESULTS: The annual prevalence of esophageal strictures in MarketScan in 2021 was 203.14 cases/100,000 people, whereas the annual prevalence in Medicare cohort in 2017 was 1123.47 cases/100,000. Although rates were relatively stable over time, esophageal stricture prevalence increased with advancing age. No prevalence differences were noticed between males and females. Gastroesophageal reflux disease/erosive esophagitis was the top diagnostic code associated with esophageal strictures, although an increase in the proportion of eosinophilic esophagitis codes was noted over time. Esophageal dilation codes were present in ∼50% of stricture cases. The total health care costs associated with esophageal strictures were estimated at $1.39 billion in 2017.
+CONCLUSIONS: Esophageal strictures are common, affecting between 1/100 and 1/1000 patients in the United States, with the highest rates seen in patients aged 75 years and older. Accordingly, strictures have a significant financial burden on the health care system, with costs greater than $1 billion annually.
+
+Citation: Xue AZ, et al. Prevalence and Costs of Esophageal Strictures in the United States. Prevalence and Costs of Esophageal Strictures in the United States. 2024; 22:1821-1829.e4. doi: 10.1016/j.cgh.2024.03.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38588766/

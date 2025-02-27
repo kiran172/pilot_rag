@@ -1,0 +1,11 @@
+PMID: 37608465
+Title: Sex differences in permanent pacemaker implantation after transcatheter aortic valve replacement: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: There is limited evidence on the effect of sex on permanent pacemaker implantation (PPMI) after transcatheter aortic valve replacement (TAVR). The primary objective of this meta-analysis was to determine the role of sex among patients requiring PPMI post-TAVR.
+METHODS: A literature search was conducted using the SCOPUS, MEDLINE, and CINAHL databases for studies published until October 2022. Eligible studies included published randomized controlled trials (RCTs) and Observational Cohort Studies (OCS) articles that reported PPMI as an outcome of pacemaker status following TAVR. This study was performed per the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Guidelines. Publication bias was estimated using a Funnel plot and Egger's test. Data were pooled using a random-effects model. The primary endpoint was the sex difference in PPMI after TAVR, with odds ratios and 95% confidence intervals (CIs) extracted.
+RESULTS: Data was obtained from 63 studies, and a total of 79,655 patients were included. The cumulative PPMI rate was 15.5% (95% CI, 13.6%-17.7%). The pooled analysis revealed that while there were more females than males undergoing TAVR (51.6%, 95% CI 50.4%-52.8%), males have a 14.5% higher risk for post-TAVR PPMI than females (OR 1.145, 95% CI 1.047-1.253, P &lt; 0.01).
+CONCLUSIONS: Males are more likely to experience PPMI after TAVR than females. Further research needs to be done to better explain these observed differences in outcomes.
+
+Citation: Rivera FB, et al. Sex differences in permanent pacemaker implantation after transcatheter aortic valve replacement: a systematic review and meta-analysis. Sex differences in permanent pacemaker implantation after transcatheter aortic valve replacement: a systematic review and meta-analysis. 2023; 21:631-641. doi: 10.1080/14779072.2023.2250719
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37608465/

@@ -1,0 +1,11 @@
+PMID: 35550982
+Title: Hypoperfusion Intensity Ratio is Associated with Stroke Mechanism in Patients Undergoing Mechanical Thrombectomy.
+
+Abstract: BACKGROUND: Hypoperfusion Intensity Ratio (HIR), defined as Tmax >10s/Tmax >6s on computed tomography perfusion (CTP), and stroke mechanisms have been independently correlated with angiographic collaterals and patient outcomes. Slowly developing atherosclerotic stenosis may foster collateral development, whereas cardioembolic occlusion may occur before collaterals mature. We hypothesized that favorable HIR is associated with large artery atherosclerosis (LAA) stroke mechanism and good clinical outcome.
+METHODS: Retrospective study of consecutive endovascularly-treated stroke patients with intracranial ICA or MCA M1/M2 occlusions, who underwent CTP before intervention, between January 2018 and August 2021. Patients were dichotomized into LAA+ or LAA- based on presence of LAA on angiography. HIR was dichotomized into favorable (HIR+) or unfavorable (HIR-) groups based on published thresholds. Good early outcome was defined as discharge mRS of 0-2. Bivariate and multivariable logistic regression were performed.
+RESULTS: 143 patients met inclusion. 21/143 were LAA+ (15%) and 65/143 (45%) were HIR+. HIR+ was significantly more frequent in LAA+ patients (67% vs. 42%, p= 0.035). Controlling for demographics, stroke severity, imaging findings, and medical comorbidities, LAA+ remained independently associated with HIR+ (OR 5.37 [95% CI 1.43 - 20.14]; p=0.013) as did smaller infarction core volume (<30 mL of CBF <30%: OR 7.92 [95% CI 2.27 - 27.64]; p = 0.001). HIR+ was not associated with good clinical outcome.
+CONCLUSIONS: Large artery atherosclerosis was independently associated with favorable HIR in patients undergoing mechanical thrombectomy. While favorable HIR was associated with smaller pre-treatment core infarcts, reflecting more robust collaterals, it was not associated with good clinical outcome.
+
+Citation: Ballout AA, et al. Hypoperfusion Intensity Ratio is Associated with Stroke Mechanism in Patients Undergoing Mechanical Thrombectomy. Hypoperfusion Intensity Ratio is Associated with Stroke Mechanism in Patients Undergoing Mechanical Thrombectomy. 2022; 31:106539. doi: 10.1016/j.jstrokecerebrovasdis.2022.106539
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35550982/

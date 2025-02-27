@@ -1,0 +1,11 @@
+PMID: 38548046
+Title: Hemodynamic Effects of Tortuosity and Stenosis in Superficial Temporal Artery-Middle Cerebral Artery Bypass for Moyamoya Disease.
+
+Abstract: BACKGROUND: Superficial temporal artery (STA)-middle cerebral artery (MCA) bypass surgery has been widely adopted in treating moyamoya disease (MMD). Geometric variations including high tortuosity and stenosis exist in many cases, but the hemodynamic effects have not been comprehensively evaluated. We aim to evaluate the hemodynamic effects of bypass geometry variations based on patient-specific data.
+METHODS: In total, 17 patients with MMD who underwent STA-MCA bypass surgery with highly tortuous bypass geometry were included. For each patient, the original 3-dimensional structure of STA-MCA bypass was reconstructed from clinical imaging data. The bypass structure was virtually improved by removing the tortuosity and stenosis. Computational fluid dynamics simulation was performed on both bypass structures under identical patient-specific condition. The simulated hemodynamic parameters of the bypass and its distal branches were compared between the original and virtually improved bypass geometries in all cases using paired t-test or Wilcoxon signed-rank test. The changes of hemodynamic parameters were compared between the cases with and without mild-to-moderate stenosis (44.0-70.3% in diameter) in the bypass using t-test or Mann-Whitney U test.
+RESULTS: The virtual improvement of bypass geometry significantly increased the flow rate of the bypass and its distal branches (P < 0.05) and decreased the transcranial flow resistance (P < 0.05). The hemodynamic changes in cases with stenosis removal were significantly greater than those without stenosis (P < 0.05).
+CONCLUSIONS: High tortuosity and stenosis can significantly change the hemodynamics of STA-MCA bypass, and the optimization of bypass geometry deserves further consideration.
+
+Citation: Liu H, et al. Hemodynamic Effects of Tortuosity and Stenosis in Superficial Temporal Artery-Middle Cerebral Artery Bypass for Moyamoya Disease. Hemodynamic Effects of Tortuosity and Stenosis in Superficial Temporal Artery-Middle Cerebral Artery Bypass for Moyamoya Disease. 2024; 186:e316-e325. doi: 10.1016/j.wneu.2024.03.128
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38548046/

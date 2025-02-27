@@ -1,0 +1,11 @@
+PMID: 33210042
+Title: Transcranial Doppler and magnetic resonance angiography assessment of intracranial stenosis: An analysis of screening modalities.
+
+Abstract: BACKGROUND: Time-of-flight (TOF) magnetic resonance angiography (MRA) of the head and transcranial Doppler (TCD) are used to diagnose intracranial stenosis, an important cause of ischemic stroke. We aimed to compare TCD findings with TOF-MRA results in a population of patients with symptoms of cerebrovascular disease in whom both tests were done within a short intervening period of each other.
+METHODS: This is a retrospective, single-center study. Among adult patients referred for symptoms of cerebrovascular disease in both outpatient and inpatient settings, those who received a TCD with adequate insonation of all intracranial arteries and underwent MRA within 3 months intervals of TCD were included in this study. We evaluated the agreement between the results of these two modalities, and also assessed sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) of TCD through receiver-operating characteristic (ROC) curve analysis, while MRA considered as a comparator.
+RESULTS: Among eighty included patients, 720 arteries were examined. An overall significant agreement of 96.5% was observed between TCD and MRA (Kappa = 0.377, P &lt; 0.001). Compared to MRA, TCD had sensitivity of 42.1%, specificity of 99.6%, PPV of 72.7%, and NPV of 98.4% (ROC area: 0.708 [0.594-0.822]). TCD is specifically accurate in evaluating middle cerebral artery (MCA) (ROC area = 0.83).
+CONCLUSIONS: The high NPV of TCD in our study indicates the utility of TCD as a diagnostic test to exclude the presence of intracranial stenosis. This study supports TCD as a convenient, safe, and reproducible imaging modality applicable in the screening of intracranial stenosis, especially to evaluate MCA.
+
+Citation: Mowla A, et al. Transcranial Doppler and magnetic resonance angiography assessment of intracranial stenosis: An analysis of screening modalities. Transcranial Doppler and magnetic resonance angiography assessment of intracranial stenosis: An analysis of screening modalities. 2020; 6:181-184. doi: 10.4103/bc.bc_21_20
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33210042/

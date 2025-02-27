@@ -1,0 +1,11 @@
+PMID: 34658498
+Title: The Comparison of Quantitative Evaluation Results of the MPS SPECT/CT and Coronary Angiography: Determining the Most Valuable Quantitative Evaluation Score.
+
+Abstract: OBJECTIVES: This study aimed to determine the most important perfusion score in patient selection for coronary angiography (CA) by quantitatively evaluating myocardial perfusion scintigraphy (MPS).
+METHODS: Patients who underwent MPS single-photon emission computerized tomography/computed tomograph imaging in our clinic between December 2017 and January 2019, without coronary artery disease (CAD) history, followed by CA were included in the study. CA was considered positive when there is a stenosis of 70% or more in at least one coronary vessel. The summed stress score, rest score, and differential score; total perfusion deficit (TPD); and the defect's extent obtained from non-attenuation-corrected (NC) and attenuation-corrected (AC) images of 80 patients were evaluated using the Mann-Whitney U test. A p value of <0.05 was considered significant. Receiver operating characteristic (ROC) analysis was performed.
+RESULTS: The scores obtained from NC and AC images showed a significant difference between the two groups for all scores except for the extent and TPD scores at rest from AC images. The applied ROC curves' highest diagnostic value was determined as the TPD score at stress (TPDS) obtained from NC images (area under the curve: 0.880, 95% confidence interval, 0.807-0.952, p<0.001). The cut-off value obtained for the TPDS from the ROC curve was found to be 5.5.
+CONCLUSION: The scores obtained from NC images have more power to detect CAD than those obtained from AC images. Patients with no prior CAD history with TPDS score higher than 5 in MPS should be referred for CA with priority.
+
+Citation: Karahan Şen NP, et al. The Comparison of Quantitative Evaluation Results of the MPS SPECT/CT and Coronary Angiography: Determining the Most Valuable Quantitative Evaluation Score. The Comparison of Quantitative Evaluation Results of the MPS SPECT/CT and Coronary Angiography: Determining the Most Valuable Quantitative Evaluation Score. 2021; 30:169-176. doi: 10.4274/mirt.galenos.2021.26056
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34658498/

@@ -1,0 +1,12 @@
+PMID: 39156514
+Title: Quantification of 3-Dimensional Confluence-Atrial Morphology in Supracardiac Total Anomalous Pulmonary Venous Connection.
+
+Abstract: BACKGROUND: Pulmonary vein stenosis (PVS) continues to be a major complication after surgical repair of total anomalous pulmonary venous connection (TAPVC). Recent studies suggest that the morphology of pulmonary venous confluence and the left atrium (LA) is associated with PVS. However, there are limited data on the prognostic value of integrating quantitative confluence-atrial morphology into risk stratification.
+OBJECTIVES: This study sought to evaluate the prognostic impact of novel imaging metrics derived from 3-dimensional (3D) computed tomography angiography (CTA) modeling on postsurgical PVS (PPVS) in the supracardiac TAPVC (sTAPVC) setting.
+METHODS: Patients undergoing sTAPVC repair in 2017 to 2022 from 3 centers were retrospectively reviewed. Study investigators developed 3D CTA modeled geometric features to quantify confluence-atrial morphology that were analyzed with regard to PPVS.
+RESULTS: Of the 162 patients (median age 61 days; 55% having preoperative pulmonary venous obstruction [prePVO]) included, 47 (29%) with PPVS at a median of 1.5 months ([quartile 1-quartile 3: 1.5-3.0 months]). In the univariable analysis, the indexed total volume of the LA and confluence (iTVLC) and the ratio of the corresponding confluence length to the mean distance between the LA and confluence (CCL/mDBLC ratio) were significantly associated with PPVS. In a multivariable model adjusting for prePVO and age, the iTVLC and CCL/mDBLC ratio independently predicted PPVS (HR: 1.15; 95% CI: 1.06-1.25; and HR: 1.20; 95% CI: 1.08-1.35, respectively, all P &lt; 0.01). Specifically, an iTVLC ≥20 cm3/m2 and a CCL/mDBLC ratio ≥7.7 were significantly associated with a reduced risk of PPVS.
+CONCLUSIONS: Quantification of 3D confluence-atrial morphology appears to offer a deeper and better metric to predict PPVS in patients with sTAPVC.
+
+Citation: Shi G, et al. Quantification of 3-Dimensional Confluence-Atrial Morphology in Supracardiac Total Anomalous Pulmonary Venous Connection. Quantification of 3-Dimensional Confluence-Atrial Morphology in Supracardiac Total Anomalous Pulmonary Venous Connection. 2024; 4:594-606. doi: 10.1016/j.jacasi.2024.05.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39156514/

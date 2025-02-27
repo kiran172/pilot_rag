@@ -1,0 +1,12 @@
+PMID: 36423976
+Title: The Effect of Psychosocial Risk Factors on Outcomes After Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Psychosocial risk factors (PSRFs) have emerged as important nontraditional risk factors that are associated with worse surgical outcomes but have not been well-characterized in valvular disease.
+OBJECTIVES: This study evaluates the impact of PSRFs on 30-day outcomes following surgical aortic valve replacement (SAVR) and transcatheter aortic valve replacement (TAVR).
+METHODS: All adult patients (≥18 years of age) who underwent isolated TAVR or SAVR in the Nationwide Readmissions Database from 2016 to 2018 were included. Patients were classified as having 0 PSRFs vs ≥1 PSRF. PSRFs included limited cognitive understanding, substance use, psychiatric disease, low socioeconomic status, or uninsured status. Primary outcomes included 30-day mortality, readmission, and composite morbidity (stroke, pulmonary embolus, pacemaker implantation, bleeding complications, acute kidney injury, myocardial infarction, or new atrial fibrillation).
+RESULTS: A nationally weighted total of 74,763 SAVR and 87,142 TAVR patients met inclusion criteria. For SAVR, patients with PSRFs had significantly higher 30-day mortality (4.2% vs 3.7%; P = 0.048) and readmissions (13.1% vs 11.3%; P < 0.001), but there was no difference in composite morbidity. For TAVR, patients with PSRFs had significantly higher 30-day readmission (11.7% vs 10.7%; P = 0.012) but no difference in 30-day mortality or composite morbidity. On risk-adjusted analysis, presence of PSRFs was a significant predictor of higher 30-day readmissions following SAVR (adjusted OR: 1.10; 95% CI: 1.02-1.19).
+CONCLUSIONS: The presence of PSRFs is associated with worse short-term outcomes following SAVR and TAVR, with a more profound impact in SAVR. This study highlights the importance of identifying at-risk patients and suggests that TAVR may be beneficial in patients with less social support.
+
+Citation: Newell P, et al. The Effect of Psychosocial Risk Factors on Outcomes After Aortic Valve Replacement. The Effect of Psychosocial Risk Factors on Outcomes After Aortic Valve Replacement. 2022; 15:2326-2335. doi: 10.1016/j.jcin.2022.08.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36423976/

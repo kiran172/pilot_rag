@@ -1,0 +1,8 @@
+PMID: 38034658
+Title: A theoretical model for diffusion through stenosis.
+
+Abstract: Stenosis is caused by an abnormal growth in the artery's lumen. This undesirable growth can change the hemodynamic characteristics of the blood flow which could be injurious to normal health. Theoretical results obtained for specific geometrics are given for the velocity distribution, pressure, wall shearing stress, and other different phenomena. Flow resistance has been shown that the wall shear decreases with decreasing peripheral layer viscosity, but these properties increase with increasing stenosis size. A two-fluid blood model with a core of micro-polar fluid and a periphery of Newtonian blood has been researched in the presence of moderate stenosis. In terms of modified Bessels functions of zero and first order, analytical equations for flow resistance, wall shear stress, and diffusion via stenosis have been found. Therefore, understanding and preventing arterial illnesses need a thorough grasp of the specific flow characteristics of a channel with restriction. The results for wall shearing stress resistance to flow and concentration profiles have been obtained and discussed with the help of graphically.
+
+Citation: Awasthi AK, et al. A theoretical model for diffusion through stenosis. A theoretical model for diffusion through stenosis. 2023; 9:e20807. doi: 10.1016/j.heliyon.2023.e20807
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38034658/

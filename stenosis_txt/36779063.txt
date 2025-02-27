@@ -1,0 +1,11 @@
+PMID: 36779063
+Title: Identifying vulnerable plaques: A 3D carotid plaque radiomics model based on HRMRI.
+
+Abstract: BACKGROUND: Identification of vulnerable carotid plaque is important for the treatment and prevention of stroke. In previous studies, plaque vulnerability was assessed qualitatively. We aimed to develop a 3D carotid plaque radiomics model based on high-resolution magnetic resonance imaging (HRMRI) to quantitatively identify vulnerable plaques.
+METHODS: Ninety patients with carotid atherosclerosis who underwent HRMRI were randomized into training and test cohorts. Using the radiological characteristics of carotid plaques, a traditional model was constructed. A 3D carotid plaque radiomics model was constructed using the radiomics features of 3D T<sub>1</sub>-SPACE and its contrast-enhanced sequences. A combined model was constructed using radiological and radiomics characteristics. Nomogram was generated based on the combined models, and ROC curves were utilized to assess the performance of each model.
+RESULTS: 48 patients (53.33%) were symptomatic and 42 (46.67%) were asymptomatic. The traditional model was constructed using intraplaque hemorrhage, plaque enhancement, wall remodeling pattern, and lumen stenosis, and it provided an area under the curve (AUC) of 0.816 vs. 0.778 in the training and testing sets. In the two cohorts, the 3D carotid plaque radiomics model and the combined model had an AUC of 0.915 vs. 0.835 and 0.957 vs. 0.864, respectively. In the training set, both the radiomics model and the combination model outperformed the traditional model, but there was no significant difference between the radiomics model and the combined model.
+CONCLUSIONS: HRMRI-based 3D carotid radiomics models can improve the precision of detecting vulnerable carotid plaques, consequently improving risk classification and clinical decision-making in patients with carotid stenosis.
+
+Citation: Zhang X, et al. Identifying vulnerable plaques: A 3D carotid plaque radiomics model based on HRMRI. Identifying vulnerable plaques: A 3D carotid plaque radiomics model based on HRMRI. 2023; 14:1050899. doi: 10.3389/fneur.2023.1050899
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36779063/

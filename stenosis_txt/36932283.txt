@@ -1,0 +1,11 @@
+PMID: 36932283
+Title: Analysis of prognostic factors of failure in perineal urethrostomy.
+
+Abstract: PURPOSE: To identify prognostic factors of failure in patients undergoing perineal urethrostomy (PU) with Blandy technique, with inverted U-shaped perineal flap.
+METHODS: This is a retrospective study of PU of non-oncological causes (2001-2017). Data of age, BMI, history of diabetes mellitus, etiology of urethral stricture, type of stricture, previous surgeries, dilatation and suprapubic catheter were collected. Failure was defined as the need for any instrumentation after surgery. Variables were analyzed by Cox regression and Kaplan-Meier curves were used for survival analysis.
+RESULTS: A total of 115 PU were performed. Median age was 61 years (IQR 53-68) and BMI 27.9 (IQR 25-30.9). The most frequent etiologies were: lichen sclerosus (30.4%), iatrogenic (27%), and idiopathic (25.7%). 62.6% had panurethral stricture. There were no complications in 73%. Clavien I complications occurred in 25.2%, Clavien II in 0.9% and Clavien IVa in 0.9%. The overall success rate was 51.3% with a median follow-up of 71 months. In the last 8 years, it was 75%. In the multivariate analysis, we found that age (p = 0.01), BMI (p = 0.01), date of surgery (p = 0.01), and suprapubic catheter (p = 0.003) were predictive variables. The voiding satisfaction rate was 88.7%.
+CONCLUSIONS: PU with Blandy technique is a surgery with low morbidity. During the entire study period, it had a failure rate of 48.7% but the failure rate decreased to 25% over the last 8 years. Age, BMI, date of surgery and suprapubic catheter are the most important prognostic factor of failure.
+
+Citation: Ponce de León J, et al. Analysis of prognostic factors of failure in perineal urethrostomy. Analysis of prognostic factors of failure in perineal urethrostomy. 2023; 41:1109-1115. doi: 10.1007/s00345-023-04343-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36932283/

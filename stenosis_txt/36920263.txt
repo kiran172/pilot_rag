@@ -1,0 +1,12 @@
+PMID: 36920263
+Title: Large unstained cell (LUC) count as a predictor of carotid artery occlusion.
+
+Abstract: BACKGROUND: Carotid artery stenosis is often considered a stable clinical condition, and the underlying atherosclerosis is thought to have an inflammatory background.
+OBJECTIVES: The aim of the study was to assess the value of different parameters obtained from whole blood counts for the prediction of advanced carotid artery atherosclerosis, including vessel occlusion, irrespective of symptom occurrence.
+MATERIAL AND METHODS: The study group comprised 290 patients (84 (29%) females and 206 (71%) males) with a mean age of 68 ±8 years, who were admitted to the Vascular Surgery Department due to significant carotid artery disease. Patients were retrospectively divided into 2 subgroups regarding the presence or absence of artery occlusion. The demographic, clinical and laboratory preoperative data were compared between both groups.
+RESULTS: We found significant differences in preoperative large unstained cell (LUC) counts between patients with and without carotid artery occlusion (p = 0.003), when analyzed with the Mann-Whitney test for independent samples. The receiver operating characteristic (ROC) curve showed that LUC count has prognostic properties for carotid artery occlusion, with an area under the curve (AUC) of 0.637 (p = 0.033), yielding a 69.70% sensitivity and a 51.75% specificity.
+CONCLUSIONS: Large unstained cells represent an acute inflammatory state related to artery occlusion. An LUC count below the cutoff value of 0.16×109/L may be a predictor of carotid artery occlusion. Therefore, carotid artery occlusion should not be regarded as a chronic state, but as a clinical challenge being promoted by active inflammatory processes.
+
+Citation: Urbanowicz TK, et al. Large unstained cell (LUC) count as a predictor of carotid artery occlusion. Large unstained cell (LUC) count as a predictor of carotid artery occlusion. 2023; 32:987-996. doi: 10.17219/acem/159756
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36920263/

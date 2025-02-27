@@ -1,0 +1,12 @@
+PMID: 32886851
+Title: Four-year mortality in women and men after transfemoral transcatheter aortic valve implantation using the SAPIEN 3.
+
+Abstract: OBJECTIVES: To investigate 4-year, post-transcatheter aortic valve implantation (TAVI) survival and predictors of survival by sex, in a real-world cohort that underwent transfemoral TAVI with SAPIEN 3 transcatheter heart valve.
+BACKGROUND: Previous TAVI investigations of first-generation devices demonstrated an early- to mid-term survival advantage in women compared with men.
+METHODS: SOURCE 3 (SAPIEN 3 Aortic Bioprosthesis European Outcome) is a post-approval, multicentre, observational registry. Patients (N = 1,694, 49.2% women, age 81.7 ± 6.7 years) with severe aortic stenosis and high surgical risk (logistic EuroSCORE 17.8%) underwent TAVI between 2014 and 2015. Kaplan-Meier event estimates were used to determine mortality by sex. Predictors of overall mortality were identified using a cox multivariate proportional hazard model.
+RESULTS: At 4 years, women had lower all-cause mortality than men (36.0 vs 39.7%; p = .0911; HR: 0.87 [95% CI: 0.75-1.02]). No difference was observed for cardiac mortality between women 24.2% and men 24.7% (p = .76; HR: 0.97 [95% CI: 0.79-1.19]). When adjusted for baseline characteristics (age, height, weight, NYHA functional class, renal insufficiency, EuroScore, and tricuspid regurgitation), sex had no impact on mortality.
+CONCLUSIONS: In this large, real-world cohort, all-cause mortality trended lower in women than men at 4 years post TAVI; however, several baseline factors, but not sex, were predictors of mortality. No difference between sexes was observed for cardiovascular mortality.
+
+Citation: Tarantini G, et al. Four-year mortality in women and men after transfemoral transcatheter aortic valve implantation using the SAPIEN 3. Four-year mortality in women and men after transfemoral transcatheter aortic valve implantation using the SAPIEN 3. 2021; 97:876-884. doi: 10.1002/ccd.29257
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32886851/

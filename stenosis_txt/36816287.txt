@@ -1,0 +1,11 @@
+PMID: 36816287
+Title: Predictors of delayed reocclusion after successful recanalization in acute basilar artery occlusion patients.
+
+Abstract: BACKGROUND: Delayed reocclusion (DR) after successful recanalization in acute basilar artery occlusion (BAO) patients, which is associated with clinical deterioration and poor outcome, has not been well studied. The current study is aimed to predict DR after successful endovascular therapy in acute BAO patients.
+METHOD: 187 consecutive patients presenting with acute BAO and undergoing endovascular treatment (EVT) were selected in Beijing Tiantan Hospital from January 2012 to July 2018. Computed tomographic angiography (CTA) or magnetic resonance angiography (MRA) within 7 days of the thrombectomy was used to identify reocclusion of the target vessel. Multivariable logistic regression analysis was used to evaluate associated factors and clinical impact.
+RESULTS: DR was observed in 17 of 169 successfully reperfused patients (10.1%). Patients with DR had higher frequency of intracranial atherosclerotic stenosis (ICAS) (94.1% vs. 61.8%; P = 0.01), higher frequency of intracranial angioplasty during EVT (88.2% vs. 57.2%; P = 0.02), lower frequency of stent-retriever use during EVT (52.9% vs. 78.9%; P = 0.03) and a lower proportion of modified Thrombolysis In Cerebral Infarction (mTICI) 3 reperfusion (41.2% vs. 78.3%; P < 0.01). Suggestive predictors were mTICI3 reperfusion (aOR, 0.205; 95% CI, 0.061-0.686) and stent-retriever using (aOR, 0.29; 95% CI, 0.086-0.980). DR was an independent predictor of unfavorable outcome at 90 days (aOR for mTICI ≤3, 5.205; 95% CI, 1.129-24.005).
+CONCLUSIONS: DR within 7 days after successful mechanical thrombectomy in acute BAO patients is rare but associated with poor outcome. Patients without mTICI3 reperfusion and stent-retriever using are at high risk for DR.
+
+Citation: Sun X, et al. Predictors of delayed reocclusion after successful recanalization in acute basilar artery occlusion patients. Predictors of delayed reocclusion after successful recanalization in acute basilar artery occlusion patients. 2023; 9:e13441. doi: 10.1016/j.heliyon.2023.e13441
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36816287/

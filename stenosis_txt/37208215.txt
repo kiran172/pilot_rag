@@ -1,0 +1,11 @@
+PMID: 37208215
+Title: TAVR vs balloon aortic valvotomy for severe aortic stenosis and cardiogenic shock: An insight from the National Inpatient Sample database.
+
+Abstract: BACKGROUND: Severe Aortic stenosis (AS) complicated by cardiogenic shock (CS) represents a grave clinical condition with limited treatment options. Evidence from small observation studies favors that Transcatheter Aortic Valve Replacement (TAVR) might be a feasible option in these patients in contrast to emergent Balloon Aortic Valvuloplasty (BAV) which is associated with very high short and long-term mortality.
+METHODS: 11,405 hospitalizations with severe AS complicated by CS between 2016 and 2020 were identified using the National Inpatient Sample (NIS) Database, and patients were then stratified according to whether they received TAVR or BAV. Propensity-score matching was used to account for differences in the baseline characteristics. Primary and secondary outcomes were then compared between 3485 hospitalizations in direct TAVR group and with 3485 matched hospitalizations in the BAV group. The primary outcome was a composite of all-cause in-hospital death, acute cerebrovascular accident (CVA), and myocardial infarction (MI). Secondary outcomes and safety outcomes were also compared between the two groups.
+RESULTS: TAVR was associated with fewer primary outcomes events as compared to BAV {36.8 % vs 56.8 %, aOR (95%CI) = 0.38(0.30-0.47)}, due to fewer all-cause in-hospital deaths {17.8 % vs 38.9 %, aOR (95%CI) =0.34 (0.26-0.43)} and MI {12.3 % vs 32.4 %, aOR (95%CI) = 0.29 (0.22-0.39)}. TAVR was associated with higher rates of acute CVA {6.17 % vs 3.44 %, aOR (95%CI) = 1.84 (1.08-3.21)} and pacemaker implantation post procedure {11.9 % vs 6.03 %, aOR (95%CI) = 2.10 (1.41-3.18)}.
+CONCLUSION: Direct TAVR in shock and severe Aortic stenosis is a better strategy than rescue Balloon aortic valvotomy.
+
+Citation: Llah ST, et al. TAVR vs balloon aortic valvotomy for severe aortic stenosis and cardiogenic shock: An insight from the National Inpatient Sample database. TAVR vs balloon aortic valvotomy for severe aortic stenosis and cardiogenic shock: An insight from the National Inpatient Sample database. 2023; 55:1-7. doi: 10.1016/j.carrev.2023.05.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37208215/

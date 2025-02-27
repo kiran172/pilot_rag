@@ -1,0 +1,11 @@
+PMID: 38545905
+Title: Risk factors for repeated percutaneous transluminal angioplasty of hemodialysis vascular access after initial intervention.
+
+Abstract: BACKGROUND/AIMS: Percutaneous transluminal angioplasty (PTA) is a significant intervention to deal with occlusion and stenosis of vascular access. The study aimed to explore the risk factors of repeated PTA (re-PTA) after the initial intervention in patients undergoing hemodialysis.
+METHODS: This retrospective study included 180 patients who underwent successful PTA for the first time between March 2016 and December 2020. Information on demographic, clinical, anatomical, and medication variables was collected. Survival curves were plotted using Kaplan-Meier analysis and the risk factors associated with re-PTA were analyzed using univariate and multivariate Cox proportional hazards analyses.
+RESULTS: The primary clinical patency rates at 6, 12, and 24 months after PTA were found to be 85.2%, 70.7%, and 58.6%, respectively. The univariate Cox proportion hazards analysis revealed the association of non-antiplatelet agents (HR 2.368 95% CI 1.351 to 4.150, p = .003) and arteriovenous graft (AVG) (HR 2.096 95% CI 1.147 to 3.831, p = .016) with re-PTA. However, only non-antiplatelet therapy showed statistical significance (HR 2.368 95% CI 1.351 to 4.150, p = .003) in multivariate Cox proportional hazards analysis.
+CONCLUSIONS: Among the patients undergoing hemodialysis, the use of antiplatelet agents was associated with a lower risk of re-PTA. Therefore, the use of antiplatelet drugs may reduce the rates of re-PTA and help in maintaining the patency of vascular access.
+
+Citation: Tang B, et al. Risk factors for repeated percutaneous transluminal angioplasty of hemodialysis vascular access after initial intervention. Risk factors for repeated percutaneous transluminal angioplasty of hemodialysis vascular access after initial intervention. 2024; (unknown volume):17085381241241362. doi: 10.1177/17085381241241362
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38545905/

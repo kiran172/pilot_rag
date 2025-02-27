@@ -1,0 +1,11 @@
+PMID: 39399222
+Title: Causal effects of specific gut microbiota on spinal stenosis diseases: a two-sample mendelian randomization study.
+
+Abstract: BACKGROUND: Although recent observational studies and clinical trials have indicated a strong association between the gut microbiota and spinal stenosis diseases, the causal relationship between them remains unclear.
+METHODS: Based on large-scale genome-wide association studies, we employed two-sample Mendelian randomization (MR) to analyse the causal relationships between the gut microbiota (GM) and 3 spinal stenosis diseases: adolescent idiopathic scoliosis (AIS), lumbar spondylolisthesis (LS), and spinal stenosis (SS). MR analysis was performed using the inverse variance weighting (IVW) method as the primary approach, supplemented by MR‒Egger regression, weighted median, and weighted mode analyses. MR-PRESSO and MR‒Egger regression were employed to assess horizontal pleiotropy. Cochran's Q test was used to evaluate heterogeneity. Further leave-one-out sensitivity analysis was conducted to ascertain the reliability of the causal relationships.
+RESULTS: The IVW method identified 9 gut microbiota taxa (9 genera) that were causally related to AIS, 14 taxa (4 phyla, 2 classes, 2 orders, 1 family, and 5 genera) to LS, and 4 taxa (2 classes, 1 order, and 1 genus) to SS. The Cochrane Q test results did not indicate heterogeneity. Moreover, both the MR‒Egger intercept test and the MR-PRESSO global test demonstrated that our findings were robust against potential horizontal pleiotropy. Furthermore, leave-one-out analysis provided additional evidence supporting the reliability of our identified causal relationships.
+CONCLUSION: Our findings have substantiated the potential causal impact of specific GM taxa on AIS, LS, and SS, thereby offering novel insights into the mechanisms mediated by the gut microbiota in these three diseases and laying the foundation for targeted preventive measures in further research.
+
+Citation: Luo K, et al. Causal effects of specific gut microbiota on spinal stenosis diseases: a two-sample mendelian randomization study. Causal effects of specific gut microbiota on spinal stenosis diseases: a two-sample mendelian randomization study. 2024; 15:1400847. doi: 10.3389/fgene.2024.1400847
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39399222/

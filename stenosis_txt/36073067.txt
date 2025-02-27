@@ -1,0 +1,11 @@
+PMID: 36073067
+Title: Outcomes of transcatheter aortic valve replacement at teaching versus nonteaching hospitals.
+
+Abstract: INTRODUCTION: Prior studies have demonstrated that outcomes of invasive cardiac interventions may vary by hospital teaching status and volume. As transcatheter aortic valve replacement (TAVR) rapidly expands from teaching to nonteaching hospitals across the country, the clinical impact of hospital teaching status has not been clearly established. This study aimed to compare TAVR outcomes between nonteaching and teaching hospitals.
+METHODS: An observational study was conducted using the Nationwide Readmission Database (NRD). Patients undergoing TAVR from 2011 to 2018 were included. Data was analyzed using multivariable logistic regression to determine outcomes of 30-day mortality and readmission between nonteaching and teaching hospitals.
+RESULTS: A total of 235,321 patients underwent TAVR during the study period. Patients undergoing TAVR at teaching hospitals presented with a higher frequency of baseline comorbidities compared to nonteaching hospitals. Postprocedure complications such as myocardial infarction, arrhythmia, pneumonia, acute kidney injury, sepsis, stroke, and hemorrhage occurred more often at teaching centers (p < 0.001); translating to a higher rate of in-hospital mortality (2.27% vs. 1.99%, p = 0.006) and hospital cost ($48,300 vs. $44,900, p < 0.001) in teaching versus nonteaching hospitals. After adjusting for baseline characteristics and postoperative morbidity, in-hospital mortality (p = 0.095) and readmission rate (p = 0.420) on multivariable analysis were not statistically different between centers.
+CONCLUSION: With the evolution and expansion of TAVR to nonteaching centers, mortality, and readmission rates are not significantly different between nonteaching and teaching hospitals. Higher unadjusted in-hospital mortality at teaching centers suggest these centers more often treat high risk patients with associated increased complications.
+
+Citation: Hasan I, et al. Outcomes of transcatheter aortic valve replacement at teaching versus nonteaching hospitals. Outcomes of transcatheter aortic valve replacement at teaching versus nonteaching hospitals. 2022; 37:3550-3555. doi: 10.1111/jocs.16833
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36073067/

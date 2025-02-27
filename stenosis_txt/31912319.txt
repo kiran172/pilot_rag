@@ -1,0 +1,11 @@
+PMID: 31912319
+Title: Suitable methods of measuring acceleration time in the diagnosis of internal carotid artery stenosis.
+
+Abstract: PURPOSE: To enhance the utility of acceleration time (AcT) in the diagnosis of internal carotid artery (ICA) stenosis, we assessed the value of AcT measurements with different waveform patterns.
+METHODS: Ninety-three patients with acute atherothrombotic cerebral infarction were enrolled, and they underwent both carotid ultrasonography and digital subtraction angiography (DSA). AcT was determined by a conventional procedure (using the first peak point or the bending point) and the peak systolic velocity (PSV) procedure. The AcT ratio was calculated as (AcT of ICA)/(AcT of the ipsilateral common carotid artery). We evaluated the correlation of stenosis rate as assessed by the North American Symptomatic Carotid Endarterectomy Trial method using DSA (DSA-NASCET) with the AcT of ICA (ICA-AcT), the AcT ratio measured by the conventional procedure (conventional AcT ratio), and the AcT ratio measured by the PSV procedure (PSV AcT ratio). The area under receiver operating characteristic curves (AUC) for DSA-NASCET was calculated based on the ICA-AcT and AcT ratio.
+RESULTS: Forty-five vessels had 50% or greater ICA stenosis. DSA-NASCET was positively correlated with the conventional AcT ratio (r = 0.723), conventional ICA-AcT (r = 0.638), and PSV AcT ratio (r = 0.245). The corresponding AUCs for ICA stenosis ≥ 50% were 0.971, 0.886, and 0.572, respectively.
+CONCLUSION: We demonstrated the usefulness of the conventional procedure for diagnosing stenosis of ICA origin using AcT and showed that the AcT ratio was a more beneficial parameter than AcT.
+
+Citation: Iizuka K, et al. Suitable methods of measuring acceleration time in the diagnosis of internal carotid artery stenosis. Suitable methods of measuring acceleration time in the diagnosis of internal carotid artery stenosis. 2020; 47:327-333. doi: 10.1007/s10396-019-01000-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31912319/

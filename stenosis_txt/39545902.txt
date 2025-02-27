@@ -1,0 +1,12 @@
+PMID: 39545902
+Title: Oxidized Phospholipids and Calcific Aortic Valvular Disease.
+
+Abstract: BACKGROUND: Oxidized phospholipids (OxPLs) are carried by apolipoprotein B-100-containing lipoproteins (OxPL-apoB) including lipoprotein(a) (Lp[a]). Both OxPL-apoB and Lp(a) have been associated with calcific aortic valve disease (CAVD).
+OBJECTIVES: This study aimed to evaluate the associations between OxPL-apoB, Lp(a) and the prevalence, incidence, and progression of CAVD.
+METHODS: OxPL-apoB and Lp(a) were evaluated in MESA (Multi-Ethnic Study of Atherosclerosis) and a participant-level meta-analysis of 4 randomized trials of participants with established aortic stenosis (AS). In MESA, the association of OxPL-apoB and Lp(a) with aortic valve calcium (AVC) at baseline and 9.5 years was evaluated using multivariable ordinal regression models. In the meta-analysis, the association between OxPL-apoB and Lp(a) with AS progression (annualized change in peak aortic valve jet velocity) was evaluated using multivariable linear regression models.
+RESULTS: In MESA, both OxPL-apoB and Lp(a) were associated with prevalent AVC (OR per SD: 1.19 [95% CI: 1.07-1.32] and 1.13 [95% CI: 1.01-1.27], respectively) with a significant interaction between the two (P < 0.01). Both OxPL-apoB and Lp(a) were associated with incident AVC at 9.5 years when evaluated individually (interaction P < 0.01). The OxPL-apoB∗Lp(a) interaction demonstrated higher odds of prevalent and incident AVC for OxPL-apoB with increasing Lp(a) levels. In the meta-analysis, when analyzed separately, both OxPL-apoB and Lp(a) were associated with faster increase in peak aortic valve jet velocity, but when evaluated together, only OxPL-apoB remained significant (ß: 0.07; 95% CI: 0.01-0.12).
+CONCLUSIONS: OxPL-apoB is a predictor of the presence, incidence, and progression of AVC and established AS, particularly in the setting of elevated Lp(a) levels, and may represent a novel therapeutic target for CAVD.
+
+Citation: Bhatia HS, et al. Oxidized Phospholipids and Calcific Aortic Valvular Disease. Oxidized Phospholipids and Calcific Aortic Valvular Disease. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jacc.2024.08.070
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39545902/

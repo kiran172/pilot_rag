@@ -1,0 +1,12 @@
+PMID: 32029126
+Title: Coronary CT Angiography in Patients With Non-ST-Segment Elevation Acute Coronary Syndrome.
+
+Abstract: BACKGROUND: In patients with non-ST-segment elevation acute coronary syndrome (NSTEACS), coronary pathology may range from structurally normal vessels to severe coronary artery disease.
+OBJECTIVES: The purpose of this study was to test if coronary computed tomography angiography (CTA) may be used to exclude coronary artery stenosis ≥50% in patients with NSTEACS.
+METHODS: The VERDICT (Very Early Versus Deferred Invasive Evaluation Using Computerized Tomography in Patients With Acute Coronary Syndromes) trial (NCT02061891) evaluated the outcome of patients with confirmed NSTEACS randomized 1:1 to very early (within 12 h) or standard (48 to 72 h) invasive coronary angiography (ICA). As an observational component of the trial, a clinically blinded coronary CTA was conducted prior to ICA in both groups. The primary endpoint was the ability of coronary CTA to rule out coronary artery stenosis (≥50% stenosis) in the entire population, expressed as the negative predictive value (NPV), using ICA as the reference standard.
+RESULTS: Coronary CTA was conducted in 1,023 patients-very early, 2.5 h (interquartile range [IQR]: 1.8 to 4.2 h), n = 583; and standard, 59.9 h (IQR: 38.9 to 86.7 h); n = 440 after the diagnosis of NSTEACS was made. A coronary stenosis ≥50% was found by coronary CTA in 68.9% and by ICA in 67.4% of the patients. Per-patient NPV of coronary CTA was 90.9% (95% confidence interval [CI]: 86.8% to 94.1%) and the positive predictive value, sensitivity, and specificity were 87.9% (95% CI: 85.3% to 90.1%), 96.5% (95% CI: 94.9% to 97.8%) and 72.4% (95% CI: 67.2% to 77.1%), respectively. NPV was not influenced by patient characteristics or clinical risk profile and was similar in the very early and the standard strategy group.
+CONCLUSIONS: Coronary CTA has a high diagnostic accuracy to rule out clinically significant coronary artery disease in patients with NSTEACS.
+
+Citation: Linde JJ, et al. Coronary CT Angiography in Patients With Non-ST-Segment Elevation Acute Coronary Syndrome. Coronary CT Angiography in Patients With Non-ST-Segment Elevation Acute Coronary Syndrome. 2020; 75:453-463. doi: 10.1016/j.jacc.2019.12.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32029126/

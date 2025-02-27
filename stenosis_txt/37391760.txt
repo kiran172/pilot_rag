@@ -1,0 +1,11 @@
+PMID: 37391760
+Title: Single-cell transcriptomics reveals cellular heterogeneity and macrophage-to-mesenchymal transition in bicuspid calcific aortic valve disease.
+
+Abstract: BACKGROUND: Bicuspid aortic valve (BAV) is the most prevalent congenital valvular heart defect, and around 50% of severe isolated calcific aortic valve disease (CAVD) cases are associated with BAV. Although previous studies have demonstrated the cellular heterogeneity of aortic valves, the cellular composition of specific BAV at the single-cell level remains unclear.
+METHODS: Four BAV specimens from aortic valve stenosis patients were collected to conduct single-cell RNA sequencing (scRNA-seq). In vitro experiments were performed to further validate some phenotypes.
+RESULTS: The heterogeneity of stromal cells and immune cells were revealed based on comprehensive analysis. We identified twelve subclusters of VICs, four subclusters of ECs, six subclusters of lymphocytes, six subclusters of monocytic cells and one cluster of mast cells. Based on the detailed cell atlas, we constructed a cellular interaction network. Several novel cell types were identified, and we provided evidence for established mechanisms on valvular calcification. Furthermore, when exploring the monocytic lineage, a special population, macrophage derived stromal cells (MDSC), was revealed to be originated from MRC1+ (CD206) macrophages (Macrophage-to-Mesenchymal transition, MMT). FOXC1 and PI3K-AKT pathway were identified as potential regulators of MMT through scRNA analysis and in vitro experiments.
+CONCLUSIONS: With an unbiased scRNA-seq approach, we identified a full spectrum of cell populations and a cellular interaction network in stenotic BAVs, which may provide insights for further research on CAVD. Notably, the exploration on mechanism of MMT might provide potential therapeutic targets for bicuspid CAVD.
+
+Citation: Lyu T, et al. Single-cell transcriptomics reveals cellular heterogeneity and macrophage-to-mesenchymal transition in bicuspid calcific aortic valve disease. Single-cell transcriptomics reveals cellular heterogeneity and macrophage-to-mesenchymal transition in bicuspid calcific aortic valve disease. 2023; 18:35. doi: 10.1186/s13062-023-00390-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37391760/

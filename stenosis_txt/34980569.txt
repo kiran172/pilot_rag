@@ -1,0 +1,11 @@
+PMID: 34980569
+Title: Can we reduce dose to ureters as avoidance organs for MRI based brachytherapy for cervical cancer? A dosimetric feasibility study.
+
+Abstract: BACKGROUND AND PURPOSE: Ureteral stenosis (US) is an underreported complication of brachytherapy (BT) for cervical cancer (CC), with limited data on toxicity risk reduction. A previous study demonstrated ureter EQD2 D0.1cc > 77 Gy correlated with US development. We sought to assess feasibility of this constraint while maintaining similar HR-CTV coverage.
+MATERIALS AND METHODS: Patients with locally advanced CC treated with EBRT plus HDR MRI-based brachytherapy boost without hydronephrosis at diagnosis and with ureter dose EQD2 D0.1cc > 77 Gy were included. Replan was attempted to achieve HR-CTV D90 ≥ 80-85 Gy and ureter dose reduction. Ureter distance from lateral margin of HR-CTV and tandem was recorded. t-test was performed to compare ureteral dose and HR-CTV D90.
+RESULTS: Of 25 patients were identified. Hundred percent received 45 Gy in 25 fractions to the pelvis ± paraaortic lymph nodes and 80% receiving median additional parametrial dose of 5.4 Gy. Replan meeting ureteral dose of ≤77 Gy was feasible in 18 of 25 patients, with a reduction in median ureter D0.1cc from 82.3 to 76.8 Gy (p < 0.001). Median HR-CTV D90 was similar (84.7 vs. 85.0 Gy). Replan achieved D0.1cc ≤77 Gy in 56% of patients who experienced US. All unilateral US cases occurred in the ureter closest to HR-CTV.
+CONCLUSIONS: Optimization to reduce ureter dose to ≤77 Gy is feasible when ureters are visible and contoured. Ureters may be considered as potential OAR during MRI-based brachytherapy treatment. Reduced ring to tandem total reference air kerma (TRAK) ratio may provide an additional metric by which to lower US risk.
+
+Citation: Koerner SA, et al. Can we reduce dose to ureters as avoidance organs for MRI based brachytherapy for cervical cancer? A dosimetric feasibility study. Can we reduce dose to ureters as avoidance organs for MRI based brachytherapy for cervical cancer? A dosimetric feasibility study. 2022; 21:202-207. doi: 10.1016/j.brachy.2021.11.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34980569/

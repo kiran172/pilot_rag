@@ -1,0 +1,14 @@
+PMID: 36171045
+Title: Correlation of triglyceride-glucose index and dyslipidaemia with premature coronary heart diseases and multivessel disease: a cross-sectional study in Tianjin, China.
+
+Abstract: OBJECTIVES: Over the past decade, the incidence and global burden of coronary heart disease (CHD) have increased in the young population. We aimed to identify patient characteristics and risk factors for premature CHD, including single-vessel disease (SVD) and multivessel disease (MVD).
+DESIGN: Retrospective, cross-sectional study.
+SETTING: Demographic and clinical data of patients with CHD were collected from the patient medical records of a tertiary hospital in Tianjin, China, between 2014 and 2017.
+PARTICIPANTS: A total of 2846 patients were enrolled in the study.
+PRIMARY AND SECONDARY OUTCOME MEASURES: Premature CHD, which is the primary outcome, was defined as men<45 years and women<55 years. MVD, which is the secondary outcome, was defined as at least two vessels with ≥50% stenosis. Logistic regression models were applied to analyse the characteristics and risk factors of premature CHD and MVD.
+RESULTS: Most of the characteristics between patients with premature and mature CHD were not statistically significant. A significantly higher dyslipidaemia prevalence was found in female patients with premature CHD (OR=1.412, 95% CI: 1.029 to 1.936). In the crude model, instead of premature SVD, premature (OR=2.065, 95% CI: 1.426 to 2.991) or mature (OR=1.837, 95% CI: 1.104 to 3.056) MVD was more common in female patients with the highest triglyceride-glucose (TyG) index quartile than those with the lowest TyG index quartile. In male patients, the same trend was observed for mature MVD (OR=2.272, 95% CI: 1.312 to 3.937). The significance of the TyG index was not revealed in multivariate analyses; however, hypertension, diabetes, obesity, smoking, old myocardial infarction and lipoprotein (a) showed a positive association with MVD.
+CONCLUSIONS: Dyslipidaemia should be considered as an effective factor for the prediction and prevention of premature CHD in women. The TyG index can be a simple auxiliary indicator that can be used in population-based cardiovascular disease screening for the early identification of vascular disease severity.
+
+Citation: Wei A, et al. Correlation of triglyceride-glucose index and dyslipidaemia with premature coronary heart diseases and multivessel disease: a cross-sectional study in Tianjin, China. Correlation of triglyceride-glucose index and dyslipidaemia with premature coronary heart diseases and multivessel disease: a cross-sectional study in Tianjin, China. 2022; 12:e065780. doi: 10.1136/bmjopen-2022-065780
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36171045/

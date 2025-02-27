@@ -1,0 +1,13 @@
+PMID: 38088790
+Title: Diagnostic performances of Nonhyperemic Pressure Ratios and Coronary Angiography-Based Fractional Flow Reserve against conventional Wire-Based Fractional Flow Reserve.
+
+Abstract: BACKGROUND: Nonhyperemic pressure ratios (NHPRs) have been proposed as alternatives to fractional flow reserve (FFR) without induction of hyperemia. More recently, imaging based-FFR estimation, especially coronary angiography-derived FFR (Angio-FFR) measurement, is proposed to estimate wire-based FFR. However, little is known about the diagnostic performance of these indices against conventional FFR.
+AIMS: We aimed to assess and compare the diagnostic performance of both NHPRs and coronary Angio-FFR against wire-based conventional FFR.
+METHODS: PubMed and Embase databases were systematically searched for peer-reviewed original articles up to 08/2022. The primary outcomes were the pooled sensitivity and specificity as well as the area under the curve (AUC) of the summary receiver-operating characteristic curve of those indices.
+RESULTS: A total of 6693 records were identified after a literature search, including 37 reports for NHPRs and 34 for Angio-FFR. Overall, NHPRs have a lower diagnostic performance in estimating wire-based FFR with an AUC of 0.85 (0.81, 0.88) when compared with Angio-FFR of 0.95 (0.93, 0.97). When all four modalities of NHPRs (iFR, Pd/Pa, DPR, RFR) were compared, those had overlapping AUCs without major differences among each other. Similarly, when the two most commonly used Angio-FFR (QFR, FFR angio ) were compared, those had overlapping AUCs without major differences among each other.
+CONCLUSION: Angio-FFR may offer a better estimation of wire-based FFR than NHPRs. Our results support a wider use of Angio-FFR in the cardiac catheterization laboratory to streamline our workflow for coronary physiologic assessment.
+CLASSIFICATIONS: FFR,, stable ischemic disease and non-ST elevation acute coronary syndrome.
+
+Citation: Li W, et al. Diagnostic performances of Nonhyperemic Pressure Ratios and Coronary Angiography-Based Fractional Flow Reserve against conventional Wire-Based Fractional Flow Reserve. Diagnostic performances of Nonhyperemic Pressure Ratios and Coronary Angiography-Based Fractional Flow Reserve against conventional Wire-Based Fractional Flow Reserve. 2024; 35:83-91. doi: 10.1097/MCA.0000000000001309
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38088790/

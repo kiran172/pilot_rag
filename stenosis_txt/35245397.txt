@@ -1,0 +1,11 @@
+PMID: 35245397
+Title: Aortic valve biologic protheses: A cohort comparison of premature valve failure.
+
+Abstract: BACKGROUND: Recent reports suggest an increased rate of early structural valve degeneration (SVD) in the Trifecta bioprosthesis (Abbott Cardiovascular). We sought to compare the intermediate-term outcomes of the Magna (Edwards Life Sciences) and Trifecta valves.
+METHODS: All surgical aortic valve replacements (SAVRs) with Trifecta or Magna/Magna Ease bioprostheses at an academic medical center were extracted from an institutional database. Patients who survived until after discharge (2011-2019) were included. The primary outcome was valve failure for any reason requiring reintervention or contributing to death, identified by reintervention or review of cause of death. Time to failure was estimated with Kaplan-Meier analysis and Cox Proportional Hazards Modeling.
+RESULTS: Out of 1444 patients, 521 (36%) underwent Trifecta and 923 (64%) underwent Magna implantation with a median follow-up of 27.6 months. Trifecta patients had larger median valve size (25 vs. 23 mm, p < .001) and lower median gradient (8.0 vs. 10.9 mmHg, p < .001). Trifecta patients had higher 48-month estimated failure rates (20.2 ± 7.6% vs. 2.6 ± 0.7%, p < .0001), with failure rates of 21.4 versus 9.2 failures per 1000 person-years (p < .001). After risk-adjustment, Trifecta patients had a 5.3 times hazard of failure (95% confidence interval: 2.78-12.34, p < .001) compared to Magna patients. Only Trifecta valves failed due to sudden aortic regurgitation, 8 out of 521 (1.5%).
+CONCLUSION: Despite lower postoperative mean gradients, the Trifecta bioprosthesis may have an increased risk of intermediate-term SVD. Further research is warranted to confirm the potential for sudden valve failure.
+
+Citation: Yount KW, et al. Aortic valve biologic protheses: A cohort comparison of premature valve failure. Aortic valve biologic protheses: A cohort comparison of premature valve failure. 2022; 37:1224-1229. doi: 10.1111/jocs.16328
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35245397/

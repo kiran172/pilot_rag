@@ -1,0 +1,13 @@
+PMID: 38329226
+Title: Estimation of Nasal Airway Cross-sectional Area From Endoscopy Using Depth Maps: A Proof-of-Concept Study.
+
+Abstract: OBJECTIVE: Endoscopy is routinely used to diagnose obstructive airway diseases. Currently, endoscopy is only a visualization technique and does not allow quantification of airspace cross-sectional areas (CSAs). This pilot study tested the hypothesis that CSAs can be accurately estimated from depth maps created from virtual endoscopy videos.
+STUDY DESIGN: Cross-sectional.
+SETTING: Academic tertiary medical center.
+METHODS: Virtual endoscopy and depth map videos of the nasal cavity were digitally created based on anatomically accurate three-dimensional (3D) models built from computed tomography scans of 30 subjects. A software tool was developed to outline the airway perimeter and estimate the airspace CSA from the depth maps. Two otolaryngologists used the software tool to estimate the nasopharynx CSA and the nasal valve minimal CSA (mCSA) in the left and right nasal cavities. Model validation statistics were performed.
+RESULTS: Nasopharynx CSA had a median percent error of 3.7% to 4.6% when compared to the true values measured in the 3D models. Nasal valve mCSA had a median percent error of 22.7% to 33.6% relative to the true values. Raters successfully used the software tool to identify subjects with nasal valve stenosis (ie, mCSA &lt; 0.20 cm2) with a sensitivity of 83.3%, specificity ≥ 90.7%, and classification accuracy ≥ 90.0%. Interrater and intrarater agreements were high.
+CONCLUSION: This study demonstrates that airway CSAs in 3D models can be accurately estimated from depth maps. The development of artificial intelligence algorithms to compute depth maps may soon allow the quantification of airspace CSAs from clinical endoscopies.
+
+Citation: Garcia GJM, et al. Estimation of Nasal Airway Cross-sectional Area From Endoscopy Using Depth Maps: A Proof-of-Concept Study. Estimation of Nasal Airway Cross-sectional Area From Endoscopy Using Depth Maps: A Proof-of-Concept Study. 2024; 170:1581-1589. doi: 10.1002/ohn.669
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38329226/

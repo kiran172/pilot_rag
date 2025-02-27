@@ -1,0 +1,11 @@
+PMID: 36579149
+Title: Causality of telomere length associated with calcific aortic valvular stenosis: A Mendelian randomization study.
+
+Abstract: BACKGROUND: Observational studies have shown that calcific aortic valve stenosis (CAVS) is associated with a shorter telomere length (TL). However, the results of observational studies are often influenced by confounding factors and reverse causal associations; it is unclear whether there is a causal relationship between TL and CAVS. This study aimed to investigate the causal relationship between TL and CAVS.
+MATERIALS AND METHODS: Genome-wide association study (GWAS) data on TL (n = 472,174) and CAVS (n = 311,437) were used to assess the effect of TL on CAVS. All the participants were of European ancestry. Three Mendelian randomization (MR) methods, namely, MR-Egger, weighted median, and inverse variance weighted (IVW), were used to assess the potential causal effect of TL on CAVS. Heterogeneity was assessed using Cochran's Q statistic. Leave-one-out and MR-Egger regression methods were used for sensitivity and pleiotropy analyses. Forward and reverse MR analyses were performed.
+RESULTS: In total, 118 valid and independent TL genetic instrumental variants were extracted from the GWAS dataset. MR analysis showed that TL was negatively associated with CAVS (odds ratios [OR] = 0.727, 95% confidence interval [CI]: 0.565-0.936, and P = 0.013 by weighted median; OR = 0.763, 95% CI: 0.634-0.920, and P = 0.005 by IVW; OR = 0.757, 95% CI: 0.549-1.044, and P = 0.055 by MR-Egger). Sensitivity and pleiotropy analyses showed that the results of this study were relatively stable and that there was no significant pleiotropy. Reverse MR analyses consistently suggested the absence of causal effects of CAVS liability on TL levels.
+CONCLUSION: A causal relationship between the shortening of TL and the development of CAVS in the European population was suggested in this study, and a theoretical basis was provided to investigate the pathogenesis of CAVS.
+
+Citation: Wang J, et al. Causality of telomere length associated with calcific aortic valvular stenosis: A Mendelian randomization study. Causality of telomere length associated with calcific aortic valvular stenosis: A Mendelian randomization study. 2022; 9:1077686. doi: 10.3389/fmed.2022.1077686
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36579149/

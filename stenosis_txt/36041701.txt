@@ -1,0 +1,11 @@
+PMID: 36041701
+Title: LncRNA PVT1 is a novel mediator promoting the angiogenesis response associated with collateral artery formation.
+
+Abstract: AIMS: Angiogenesis plays a key role in coronary collateral circulation (CCC), the compensatory formation of new blood vessels during chronic total coronary occlusion. This study aimed to determine whether plasmacytoma variant translocation 1 (PVT1), a long non-coding (lnc) RNA involved in tumor angiogenesis, plays a role in regulating angiogenesis during chronic coronary ischemia.
+MAIN METHODS: Patients with coronary artery disease, and ≥ 90% stenosis, were examined and divided into "Good" and "Poor" CCC groups based on Rentrop Cohen classification. RNA samples were obtained from all patients, as well as from oxygen and glucose-deprived (OGD) HUVECs. PVT1, miR-15b-5p and AKT3 levels were measured with RT-qPCR or Western blot, while HUVEC migration and angiogenesis were detected by, respectively, wound-healing and tube formation assays. Luciferase reporter assay confirmed direct PVT1-miR-15b-5p binding.
+KEY FINDINGS: Increased PVT1 was found in "Good CCC" patient plasma, along with being highly expressed among OGD HUVECs; PVT1 knockdown reduced HUVEC migration, tube formation, and pro-angiogenic factor expression. Conversely, OGD HUVECs had downregulated miR-15b-5p, and miR-15b-5p overexpression significantly depressed their angiogenic capabilities. These PVT1 knockdown- or miR-15b-5p overexpression-associated reductions in angiogenic effects were reversed by AKT3 overexpression. In vivo, neovascularization and functioning in both ischemic mice hind-limbs and infarcted myocardium injected with ADV-sh-PVT1 were reduced, which were ameliorated by concurrent antagomiR-15b-5p injections.
+SIGNIFICANCE: Circulating PVT1 may serve as a useful biomarker to distinguish between good versus poor CCC, as it is involved in orchestrating angiogenesis via the miR-15b-5p-AKT3 axis; it thus has potential as a target for treating ischemic disease.
+
+Citation: Li Y, et al. LncRNA PVT1 is a novel mediator promoting the angiogenesis response associated with collateral artery formation. LncRNA PVT1 is a novel mediator promoting the angiogenesis response associated with collateral artery formation. 2022; 151:106294. doi: 10.1016/j.biocel.2022.106294
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36041701/

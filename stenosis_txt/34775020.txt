@@ -1,0 +1,11 @@
+PMID: 34775020
+Title: Intraoperative microembolic signals during carotid endarterectomy.
+
+Abstract: OBJECTIVES: Transcranial Doppler ultrasonography (TCD) can detect microembolic signals (MESs) that are one of the pathogenic indications of ischemic stroke. However, MESs are not uncommon findings during carotid endarterectomy (CEA). The aim of this study was to evaluate the association between MESs and postoperative neurologic events (transient ischemic attack [TIA] or stroke) or new brain lesions (NBLs) on magnetic resonance imaging (MRI).
+METHODS: Of the 205 patients who underwent CEA, 160 who were monitored intraoperatively for MES using TCD were enrolled and reviewed retrospectively. MESs were counted until carotid cross-clamping. Postoperative neurologic examination and MRI was performed between postoperative day 1 and 7 in 131 patients. The binary logistic regression model was used to identify independent predictors of postoperative neurologic events or NBLs.
+RESULTS: MESs during dissection or carotid clamping was observed in 50 patients (31%) and 20 patients (13%) showed MESs > 10. The postoperative ischemic stroke rate was 3% (4/160), and MRI revealed NBLs in 19% (25/131). On univariate analysis, the presence of MESs or MESs > 10 was not related to postoperative neurologic events or NBLs. On binary logistic regression analysis, MESs > 10 was not an independent predictor of NBLs (P = 0.873, OR: 1.129, CI: 0.256 - 4.972).
+CONCLUSIONS: MESs were frequently found during CEA. However, they were not associated with NBLs.
+
+Citation: Kim C, et al. Intraoperative microembolic signals during carotid endarterectomy. Intraoperative microembolic signals during carotid endarterectomy. 2022; 81:196-201. doi: 10.1016/j.avsg.2021.09.028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34775020/

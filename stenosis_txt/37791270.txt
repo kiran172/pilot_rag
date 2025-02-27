@@ -1,0 +1,8 @@
+PMID: 37791270
+Title: Non-contact measurement of neck pulses achieved by imaging micro-motions in the neck skin.
+
+Abstract: We report a method and system of micro-motion imaging (µMI) to realize non-contact measurement of neck pulses. The system employs a 16-bit camera to acquire videos of the neck skin, containing reflectance variation caused by the neck pulses. Regional amplitudes and phases of pulse-induced reflection variation are then obtained by applying a lock-in amplification algorithm to the acquired videos. Composite masks are then generated using the raw frame, amplitude and phase maps, which are then used to guide the extraction of carotid pulse (CP) and jugular vein pulse (JVP) waveforms. Experimental results sufficiently demonstrate the feasibility of our method to extract CP and JVP waves. Compared with conventional methods, the proposed strategy works in a non-contact, non-invasive and self-guidance manner without a need for manual identification to operate, which is important for patient compliance and measurement objectivity. Considering the close relationship between neck pulses and cardiovascular diseases, for example, CA stenosis, the proposed µMI system and method may be useful in the development of early screening tools for potential cardiovascular diseases.
+
+Citation: He Q, et al. Non-contact measurement of neck pulses achieved by imaging micro-motions in the neck skin. Non-contact measurement of neck pulses achieved by imaging micro-motions in the neck skin. 2023; 14:4507-4519. doi: 10.1364/BOE.501749
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37791270/

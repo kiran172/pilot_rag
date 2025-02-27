@@ -1,0 +1,11 @@
+PMID: 39488478
+Title: Prognostic value of left ventricular mass measured on coronary computed tomography angiography.
+
+Abstract: BACKGROUND: Left ventricular (LV) mass is a well-established prognostic indicator for cardiovascular risk. Measurement of LV mass on coronary computed tomography angiography (CCTA) is considered optional. We aimed to assess for associations between LV mass measured on CCTA with all-cause mortality (ACM) risk and to determine age- and sex-specific distributions.
+METHODS: We evaluated patients without known coronary artery disease (CAD) who underwent CCTA at a single center. We assessed age- and sex-specific distributions (10th, 25th, 50th, 75th, and 90th percentiles) of LV mass index. ACM, the primary endpoint, was recorded over a median period of 5.1 [interquartile range: 1.4-8.4] years. The association between LV mass and mortality risk was assessed using multivariable Cox models adjusted for age, sex, medical history, coronary artery calcium (CAC) score and CCTA stenosis.
+RESULTS: 4187 patients (mean age: 61.9 ​± ​11.7, 63 ​% male) were included. Male sex, African American ethnicity, Hypertension, CAC&gt;400, and smoking were independent predictors of increased LV mass index. During the median 5.1 years of study follow, 265 (6.3 ​%) deaths occurred. Increased LV mass index percentiles were associated with increased risk of ACM. The addition of LV mass index percentiles improved discrimination and reclassification for mortality prediction over a model with age, sex, conventional risk factors, CAC score and CCTA stenosis severity (X2 improvement: 22.68, NRI: 28 ​%, both p ​&lt; ​0.001).
+CONCLUSION: In a large sample of patients without known CAD who underwent CCTA, increased LV mass index provided independent and incremental prognostic value for all-cause mortality. Assessment of LV mass by CCTA, considering age and gender distribution, can be utilized clinically to identify patients with high myocardial mass.
+
+Citation: Abiragi M, et al. Prognostic value of left ventricular mass measured on coronary computed tomography angiography. Prognostic value of left ventricular mass measured on coronary computed tomography angiography. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jcct.2024.10.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39488478/

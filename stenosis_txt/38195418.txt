@@ -1,0 +1,11 @@
+PMID: 38195418
+Title: Diagnostic evaluation of deep learning accelerated lumbar spine MRI.
+
+Abstract: BACKGROUND AND PURPOSE: Deep learning (DL) accelerated MR techniques have emerged as a promising approach to accelerate routine MR exams. While prior studies explored DL acceleration for specific lumbar MRI sequences, a gap remains in comprehending the impact of a fully DL-based MRI protocol on scan time and diagnostic quality for routine lumbar spine MRI. To address this, we assessed the image quality and diagnostic performance of a DL-accelerated lumbar spine MRI protocol in comparison to a conventional protocol.
+METHODS: We prospectively evaluated 36 consecutive outpatients undergoing non-contrast enhanced lumbar spine MRIs. Both protocols included sagittal T1, T2, STIR, and axial T2-weighted images. Two blinded neuroradiologists independently reviewed images for foraminal stenosis, spinal canal stenosis, nerve root compression, and facet arthropathy. Grading comparison employed the Wilcoxon signed rank test. For the head-to-head comparison, a 5-point Likert scale to assess image quality, considering artifacts, signal-to-noise ratio (SNR), anatomical structure visualization, and overall diagnostic quality. We applied a 15% noninferiority margin to determine whether the DL-accelerated protocol was noninferior.
+RESULTS: No significant differences existed between protocols when evaluating foraminal and spinal canal stenosis, nerve compression, or facet arthropathy (all p &gt; .05). The DL-spine protocol was noninferior for overall diagnostic quality and visualization of the cord, CSF, intervertebral disc, and nerve roots. However, it exhibited reduced SNR and increased artifact perception. Interobserver reproducibility ranged from moderate to substantial (κ = 0.50-0.76).
+CONCLUSION: Our study indicates that DL reconstruction in spine imaging effectively reduces acquisition times while maintaining comparable diagnostic quality to conventional MRI.
+
+Citation: Awan KM, et al. Diagnostic evaluation of deep learning accelerated lumbar spine MRI. Diagnostic evaluation of deep learning accelerated lumbar spine MRI. 2024; 37:323-331. doi: 10.1177/19714009231224428
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38195418/

@@ -1,0 +1,15 @@
+PMID: 34774751
+Title: Clinical outcomes following one-, two-, three-, and four-level anterior cervical discectomy and fusion: a national database study.
+
+Abstract: BACKGROUND CONTEXT: Anterior cervical discectomy and fusion (ACDF) is a common surgical procedure. There is markedly less data on outcomes after three- and four-level cases than one- and two-level cases.
+PURPOSE: To compare perioperative 90-day adverse events and 5-year reoperation rates between isolated one-, two-, three-, and four-level ACDF cases.
+STUDY DESIGN/SETTING: Retrospective review of a large national database.
+PATIENT SAMPLE: Overall, 97,081 patients undergoing ACDF were identified, of which one-level cases were 42,382 (43.7%), two-level cases were 24,055 (24.8%), three-level cases were 28,293 (29.1%), and four-level cases were 2,361 (2.4%).
+OUTCOME MEASURES: Ninety-day adverse events and 5-year reoperation rates.
+METHODS: The 2010 to Q1 2020 PearlDiver database was queried to identify patients who underwent elective ACDF for degenerative pathology without corpectomy or concomitant posterior procedures. Univariate and multivariate analyses were performed to compare outcomes of subcohorts with varying number of levels addressed by ACDF.
+RESULTS: Of the 97,081 cases identified, patient characteristics and complication rates differed between the cohorts defined by levels treated. Univariate analyses revealed statistically different rates of 90-day any, serious, and minor adverse event rates between the groups, but the differences were all less than 2.5%. Readmission rates were statistically different by 2.9%, dysphagia by 3.2%, and prolonged length of stay by 6.3%.By multivariate analyses, three-level ACDF cases were not found to have greater 90-day adverse outcomes than two-level cases. Four-level ACDF cases were found to have significantly greater odds ratios of readmission, dysphagia, and prolonged length of stay (relative to one-level cases, OR 1.28, 1.63, and 1.97, respectively) but not other 90-day adverse events. Reoperation rates at five years for one-, two-, three-, and four-level cases were 13.0%, 13.5%, 15.0%, and 22.1%, respectively (log-rank p<.001).
+CONCLUSIONS: The current study represents one of the largest comparative studies of patients undergoing one-, two-, three-, and four-level ACDF. While odds of 90-day adverse events were not greater for three- versus two-level cases, four-level cases had several that were higher odds than one-level cases. Reoperation and dysphagia rates were higher for four-level cases than lesser levels. While these outcomes were found to be acceptable, they should help guide hospital planning and patient counseling.
+
+Citation: Joo PY, et al. Clinical outcomes following one-, two-, three-, and four-level anterior cervical discectomy and fusion: a national database study. Clinical outcomes following one-, two-, three-, and four-level anterior cervical discectomy and fusion: a national database study. 2022; 22:542-548. doi: 10.1016/j.spinee.2021.11.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34774751/

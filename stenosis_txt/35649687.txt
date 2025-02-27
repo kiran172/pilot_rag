@@ -1,0 +1,11 @@
+PMID: 35649687
+Title: Unifying theory of carotid plaque disruption based on structural phenotypes and forces expressed at the lumen/wall interface.
+
+Abstract: OBJECTIVES: To integrate morphological, haemodynamic and mechanical analysis of carotid atheroma driving plaque disruption.
+MATERIALS AND METHODS: First, we analysed the phenotypes of carotid endarterectomy specimens in a photographic dataset A, and matched them with the likelihood of preoperative stroke. Second, laser angioscopy was used to further define the phenotypes in intact specimens (dataset B) and benchmark with histology. Third, representative vascular geometries for each structural phenotype were analysed with Computational Fluid Dynamics (CFD), and the mechanical strength of the complicated atheroma to resist penetrating forces was quantified (n=14).
+RESULTS: In dataset A (n=345), ulceration (fibrous cap disruption) was observed in 82% of all plaques, intraplaque haemorrhage in 68% (93% subjacent to an ulcer) and false luminal formation in 48%. At least one of these 'rupture' phenotypes was found in 97% of symptomatic patients (n=69) compared with 61% in asymptomatic patients. In dataset B (n=30), laser angioscopy redemonstrated the structural phenotypes with near-perfect agreement with histology. In CFD, haemodynamic stress showed a large pulse magnitude, highest upstream to the point of maximal stenosis and on ulceration the inflow stream excavates the necrotic core cranially and then recirculates into the true lumen. Based on mechanical testing (n=14), the necrotic core is mechanically weak and penetrated by the blood on fibrous cap disruption.
+CONCLUSIONS: Fibrous cap ulceration, plaque haemorrhage and excavation are sequential phenotypes of plaque disruption resulting from the chiselling effect of haemodynamic forces over unmatched mechanical tissue strength. This chain of events may result in thromboembolic events independently of the degree of stenosis.
+
+Citation: Savastano L, et al. Unifying theory of carotid plaque disruption based on structural phenotypes and forces expressed at the lumen/wall interface. Unifying theory of carotid plaque disruption based on structural phenotypes and forces expressed at the lumen/wall interface. 2022; 7:465-475. doi: 10.1136/svn-2021-001451
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35649687/

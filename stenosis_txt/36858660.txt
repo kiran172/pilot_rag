@@ -1,0 +1,12 @@
+PMID: 36858660
+Title: Coronary Obstruction From TAVR in Native Aortic Stenosis: Development and Validation of Multivariate Prediction Model.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR)-related coronary artery obstruction prediction remains unsatisfactory despite high mortality and novel preventive therapies.
+OBJECTIVES: This study sought to develop a predictive model for TAVR-related coronary obstruction in native aortic stenosis.
+METHODS: Preprocedure computed tomography and fluoroscopy images of patients in whom TAVR caused coronary artery obstruction were collected. Central laboratories made measurements, which were compared with unobstructed patients from a single-center database. A multivariate model was developed and validated against a 1:1 propensity-matched subselection of the unobstructed cohort.
+RESULTS: Sixty patients with angiographically confirmed coronary obstruction and 1,381 without obstruction were included. In-hospital death was higher in the obstruction cohort (26.7% vs 0.7%; P &lt; 0.001). Annular area and perimeter, coronary height, sinus width, and sinotubular junction height and width were all significantly smaller in the obstructed cohort. Obstruction was most common on the left side (78.3%) and at the level of the coronary artery ostium (92.1%). Coronary artery height and sinus width, but not annulus area, were significant risk factors for obstruction by logistic regression but performed poorly in predicting obstruction. The new multivariate model (coronary obstruction IF cusp height &gt; coronary height, AND virtual valve-to-coronary distance ≤4 mm OR culprit leaflet calcium volume &gt;600 mm3) performed well, with an area under the curve of 0.93 (sensitivity = 0.93, specificity = 0.84) for the left coronary artery and 0.94 (sensitivity = 0.92, specificity = 0.96) for the right.
+CONCLUSIONS: A novel computed tomography-based multivariate prediction model that can be implemented routinely in real-world practice predicted coronary artery obstruction from TAVR in native aortic stenosis.
+
+Citation: Khan JM, et al. Coronary Obstruction From TAVR in Native Aortic Stenosis: Development and Validation of Multivariate Prediction Model. Coronary Obstruction From TAVR in Native Aortic Stenosis: Development and Validation of Multivariate Prediction Model. 2023; 16:415-425. doi: 10.1016/j.jcin.2022.11.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36858660/

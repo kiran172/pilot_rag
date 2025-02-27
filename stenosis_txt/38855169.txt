@@ -1,0 +1,11 @@
+PMID: 38855169
+Title: Association Between Vascular Adhesion Protein-1 (VAP-1) and MACE in Patients with Coronary Heart Disease: A Cohort Study.
+
+Abstract: BACKGROUND: Vascular adhesion protein-1 (VAP-1), an inflammation-inducible endothelial cell molecule, was reported to be implicated in a variety of cardiovascular diseases. However, the clinical significance of circulating VAP-1 levels in patients with coronary heart disease (CHD) remains less studied.
+PATIENTS AND METHODS: We retrospectively analyzed clinical data of 336 hospitalized patients in the Second Affiliated Hospital of Soochow University from May 2020 to September 2022, 174 of which were diagnosed with CHD. Serum VAP-1 was measured by enzyme-linked immunosorbent assay at enrollment. The primary end point of this study was the occurrence of major adverse cardiovascular events (MACE). The coronary stenosis and clinical manifestations of CHD were assessed and recorded from medical records or follow-up calls. The relevant results were obtained, and the reliability of the conclusions was verified through regression analysis, curve fitting, and survival curve.
+RESULTS: After adjusting for potential confounders, higher serum VAP-1 level was associated with increased risk of MACE in patients with CHD [(HR = 5.11, 95% CI = 1.02-25.59), (HR = 5.81, 95% CI = 1.16-29.11)]. The results of curve fitting and survival analysis were consistent with those of regression analysis. However, no significant association was observed between VAP-1 and MACE in the entire study population [(HR = 5.11, 95% CI = 0.41-1.93), (HR = 1.17, 95% CI = 0.52-2.62)]. Furthermore, the level of VAP-1 did not show a significant correlation with coronary stenosis and the clinical manifestations of CHD.
+CONCLUSION: These findings suggested that CHD patients with higher serum levels of VAP-1 are at a higher risk of adverse cardiovascular outcomes.
+
+Citation: Zhang Y, et al. Association Between Vascular Adhesion Protein-1 (VAP-1) and MACE in Patients with Coronary Heart Disease: A Cohort Study. Association Between Vascular Adhesion Protein-1 (VAP-1) and MACE in Patients with Coronary Heart Disease: A Cohort Study. 2024; 17:3603-3615. doi: 10.2147/JIR.S460605
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38855169/

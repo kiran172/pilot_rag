@@ -1,0 +1,12 @@
+PMID: 39260927
+Title: Effect of Evogliptin on the Progression of Aortic Valvular Calcification.
+
+Abstract: BACKGROUND: Medical therapy for aortic stenosis (AS) remains an elusive goal.
+OBJECTIVES: This study sought to establish whether evogliptin, a dipeptidyl peptidase-4 inhibitor, could reduce AS progression.
+METHODS: A total of 228 patients (age 67 ± 11 years; 33% women) with AS were randomly assigned to receive placebo (n = 75), evogliptin 5 mg (n = 77), or evogliptin 10 mg (n = 76). The primary endpoint was the 96-week change in aortic valve calcium volume (AVCV) on computed tomography. Secondary endpoints included the 48-week change in active calcification volume measured using 18F-sodium fluoride positron emission tomography (18F-NaF PET).
+RESULTS: There were no significant differences in the 96-week changes in AVCV between evogliptin 5 mg and placebo (-5.27; 95% CI: -55.36 to 44.82; P = 0.84) or evogliptin 10 mg and placebo (-18.83; 95% CI: -32.43 to 70.10; P = 0.47). In the placebo group, the increase in AVCV between 48 weeks and 96 weeks was higher than that between baseline and 48 weeks (136 mm3; 95% CI: 108-163 vs 102 mm3; 95% CI: 75-129; P = 0.0485). This increasing trend in the second half of the study was suppressed in both evogliptin groups. The 48-week change in active calcification volume on 18F-NaF PET was significantly lower in both the evogliptin 5 mg (-1,325.6; 95% CI: -2,285.9 to -365.4; P = 0.008) and 10-mg groups (-1,582.2; 95% CI: -2,610.8 to -553.5; P = 0.0038) compared with the placebo group.
+CONCLUSIONS: This exploratory study did not demonstrate the protective effect of evogliptin on AV calcification. Favorable 18F-NaF PET results and possible suppression of aortic valve calcification with longer medication use in the evogliptin groups suggest the need for larger confirmatory trials. (A Multicenter, Double-blind, Placebo-controlled, Stratified-randomized, Parallel, Therapeutic Exploratory Clinical Study to Evaluate the Efficacy and Safety of DA-1229 in Patients With Calcific Aortic Valve Disease; NCT04055883).
+
+Citation: Song JK, et al. Effect of Evogliptin on the Progression of Aortic Valvular Calcification. Effect of Evogliptin on the Progression of Aortic Valvular Calcification. 2024; 84:1064-1075. doi: 10.1016/j.jacc.2024.06.037
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39260927/

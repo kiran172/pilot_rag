@@ -1,0 +1,17 @@
+PMID: 31850597
+Title: Dual-V<sub>enc</sub> acquisition for 4D flow MRI in aortic stenosis with spiral readouts.
+
+Abstract: BACKGROUND: Single V<sub>enc</sub> 4D flow MRI with Cartesian readout is hampered by poor velocity resolution and noise when imaging during diastole. Dual V<sub>enc</sub> acquisitions typically require the acquisition of two distinct datasets, which leads to longer scan times.
+PURPOSE/HYPOTHESIS: To design and develop a 4D Spiral Dual V<sub>enc</sub> sequence. The sequence allows for separate systolic and diastolic V<sub>enc</sub> s as part of a single acquisition with a prescribed switch time. The implemented sequence was hypothesized to be comparable to Cartesian 4D flow, but with increased velocity resolution in the diastolic phase and with better scan efficiency and reduced noise.
+STUDY TYPE: Prospective.
+POPULATION: The studied populations were two phantoms-a straight pipe with a stenotic narrowing and a phantom of the aortic arch which included a calcific polymeric valve-under both steady and pulsatile flows, six healthy volunteers, and eight patients with severe aortic stenosis (AS).
+FIELD STRENGTH/SEQUENCE: 1.5T, Dual V<sub>enc</sub> 4D flow with spiral readouts.
+ASSESSMENT: Data from the proposed sequence were compared with data from 4D Cartesian Dual V<sub>enc</sub> and Single V<sub>enc</sub> acquisitions. Noise was assessed from the acquired velocity data with the pump turned off and by varying V<sub>enc</sub> . Steady acquisitions were compared to the proximal slice of the lowest Single V<sub>enc</sub> acquisition.
+STATISTICAL TESTS: Steady flows were compared using relative-root-mean-squared-error (RRMSE). For in vivo flows and pulsatile in vitro flows, net flow for corresponding timepoints were compared with the Pearson correlation test (P < 0.01).
+RESULTS: For steady flows, RRMSEs for Single V<sub>enc</sub> s ranged from 17.6% to 19.4%, and 9.6% to 16.5% for Dual V<sub>enc</sub> s. The net flow correlation coefficient for the aortic arch phantom was 0.975, and 0.995 for the stenotic phantom. Normal volunteer and patient comparisons yielded a correlation of 0.970 and 0.952, respectively. in vitro and in vivo pulsatile flow waveforms closely matched.
+DATA CONCLUSION: The Dual V<sub>enc</sub> offers improved noise properties and velocity resolution, while the spiral trajectory offers a scan efficient acquisition with short echo time yielding reduced flow artifacts.
+LEVEL OF EVIDENCE: 2 Technical Efficacy Stage: 1 J. Magn. Reson. Imaging 2020;52:117-128.
+
+Citation: Callahan S, et al. Dual-V<sub>enc</sub> acquisition for 4D flow MRI in aortic stenosis with spiral readouts. Dual-V<sub>enc</sub> acquisition for 4D flow MRI in aortic stenosis with spiral readouts. 2020; 52:117-128. doi: 10.1002/jmri.27004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31850597/

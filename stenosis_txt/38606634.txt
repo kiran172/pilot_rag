@@ -1,0 +1,13 @@
+PMID: 38606634
+Title: A Comprehensive Flow Cytometry Panel for Analysis of Idiopathic Subglottic Stenosis.
+
+Abstract: OBJECTIVE: To present a comprehensive flow cytometry panel for idiopathic subglottic stenosis (iSGS).
+STUDY DESIGN: Controlled ex vivo cohort study.
+SETTING: Tertiary care academic hospital in a metropolitan area.
+METHODS: Flow cytometry and single-cell RNA sequencing were performed on 9 paired normal and scar tissue samples from iSGS patients. Flow cytometry was used to assess the presence of myeloid (CD11b, CD14, CD15, Siglec8), lymphoid (CD3, CD4, CD8, gamma delta [γδ], FOXP3), endothelial (CD31), fibroblast (CD90, SMA), and epithelial (CD326, CK5) markers.
+RESULTS: On flow cytometry, iSGS scar is characterized by an increased presence of myeloid, lymphoid, endothelial, and fibroblast cell types, but a decreased presence of epithelial cells. In the myeloid lineage, iSGS scar samples demonstrated increased CD11b+ monocytes (P &lt; .001), Siglec8+ eosinophils (P = .03), and CD14+ monocytes (P = .02). In the lymphoid lineage, iSGS scar demonstrated increased CD3+ T-cells (P &lt; .001), CD4+ helper T-cells (P &lt; .001), γδ+ T-cells (P &lt; .001), and FOXP3+ regulatory T-cells (P = .002). iSGS scar exhibited specific increases in CD90+ (P = .04) and SMA+ (P &lt; .001) fibroblasts but decreased CD326+ (E-cadherin) epithelial cells (P = .01) relative to normal samples.
+CONCLUSION: We present a comprehensive flow cytometry panel for iSGS. This flow panel may serve as a common platform among airway scientists to elucidate the cellular mechanisms underpinning iSGS and other upper airway pathologies. Scar iSGS samples demonstrate a distinct cellular profile relative to normal iSGS specimens, exhibiting increased fibroblast, endothelial, and inflammatory cell types but decreased epithelium.
+
+Citation: So RJ, et al. A Comprehensive Flow Cytometry Panel for Analysis of Idiopathic Subglottic Stenosis. A Comprehensive Flow Cytometry Panel for Analysis of Idiopathic Subglottic Stenosis. 2024; 171:791-798. doi: 10.1002/ohn.754
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38606634/

@@ -1,0 +1,11 @@
+PMID: 37096677
+Title: Low Contrast and Low kV CTA Before Transcatheter Aortic Valve Replacement: A Systematic Review.
+
+Abstract: BACKGROUND: Minimizing contrast dose and radiation exposure while maintaining image quality during computed tomography angiography (CTA) for transcatheter aortic valve replacement (TAVR) is desirable, but not well established. This systematic review compares image quality for low contrast and low kV CTA versus conventional CTA in patients with aortic stenosis undergoing TAVR planning.
+METHODS: We performed a systematic literature review to identify clinical studies comparing imaging strategies for patients with aortic stenosis undergoing TAVR planning. The primary outcomes of image quality as assessed by the signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR) were reported as random effects mean difference with 95% confidence interval (CI).
+RESULTS: We included 6 studies reporting on 353 patients. There was no difference in cardiac SNR (mean difference, -1.42; 95% CI, -5.71 to 2.88; p = 0.52), cardiac CNR (mean difference, -3.83; 95% CI, -9.98 to 2.32; p = 0.22), aortic SNR (mean difference, -0.23; 95% CI, -7.83 to 7.37; p = 0.95), aortic CNR (mean difference, -3.95; 95% CI, -12.03 to 4.13; p = 0.34), and ileofemoral SNR (mean difference, -6.09; 95% CI, -13.80 to 1.62; p = 0.12) between the low dose and conventional protocols. There was a difference in ileofemoral CNR between the low dose and conventional protocols with a mean difference of -9.26 (95% CI, -15.06 to -3.46; p = 0.002). Overall, subjective image quality was similar between the 2 protocols.
+CONCLUSIONS: This systematic review suggests that low contrast and low kV CTA for TAVR planning provides similar image quality to conventional CTA.
+
+Citation: Lacy SC, et al. Low Contrast and Low kV CTA Before Transcatheter Aortic Valve Replacement: A Systematic Review. Low Contrast and Low kV CTA Before Transcatheter Aortic Valve Replacement: A Systematic Review. 2023; 31:108-115. doi: 10.4250/jcvi.2022.0108
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37096677/

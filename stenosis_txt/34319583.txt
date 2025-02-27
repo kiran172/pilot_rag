@@ -1,0 +1,13 @@
+PMID: 34319583
+Title: Drug-Eluting Endotracheal Tubes for Preventing Bacterial Inflammation in Subglottic Stenosis.
+
+Abstract: OBJECTIVES/HYPOTHESIS: Subglottic stenosis (SGS) results from dysregulated extracellular matrix deposition by laryngotracheal fibroblasts causing scar tissue formation following intubation. Recent work has highlighted a relationship between this inflammatory state and imbalances in the upper airway microbiome. Herein, we engineer novel drug-eluting endotracheal (ET) tubes to deliver a model antimicrobial peptide Lasioglossin-III (Lasio) for the local modulation of the microbiome during intubation.
+STUDY DESIGN: Controlled in vitro study.
+METHODS: ET tubes were coated with a water-in-oil (w/o) emulsion of Lasio in poly(d,l-lactide-co-glycolide) (PLGA) by dipping thrice. Peptide release was quantified over 2 weeks via fluorometric peptide assays. The antibacterial activity was tested against airway microbes (Staphylococcus epidermidis, Streptococcus pneumoniae, and pooled human microbiome samples) by placing Lasio/PLGA-coated tubes and appropriate controls in 48 well plates with diluted bacteria. Bacterial inhibition and tube adhesion were tested by measuring optical density and colony formation after tube culture, respectively. Biocompatibility was tested against laryngotracheal fibroblasts and lung epithelial cells.
+RESULTS: We achieved a homogeneous coating of ET tubes with Lasio in a PLGA matrix that yields a prolonged, linear release over 1 week (typical timeframe before the ET tube is changed). We observed significant antibacterial activity against S. epidermidis, S. pneumoniae, and human microbiome samples, and prevention of bacterial adherence to the tube. Additionally, the released Lasio did not cause any cytotoxicity toward laryngotracheal fibroblasts or lung epithelial cells in vitro.
+CONCLUSION: Overall, we demonstrate the design of an effective-eluting ET tube to modulate upper-airway bacterial infections during intubation which could be deployed to help prevent SGS.
+LEVEL OF EVIDENCE: NA Laryngoscope, 132:1356-1363, 2022.
+
+Citation: Aronson MR, et al. Drug-Eluting Endotracheal Tubes for Preventing Bacterial Inflammation in Subglottic Stenosis. Drug-Eluting Endotracheal Tubes for Preventing Bacterial Inflammation in Subglottic Stenosis. 2022; 132:1356-1363. doi: 10.1002/lary.29769
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34319583/

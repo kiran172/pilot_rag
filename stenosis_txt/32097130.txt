@@ -1,0 +1,11 @@
+PMID: 32097130
+Title: Association of lymphocyte-to-monocyte ratio with total coronary plaque burden in patients with coronary artery disease.
+
+Abstract: BACKGROUND: Lymphocyte-to-monocyte ratio (LMR) is involved in all stages of coronary atherosclerosis and related to coronary artery disease (CAD). However, the correlation between LMR and the coronary plaque burden of CAD is not clearly elucidated. Therefore, this study aimed to investigate their correlation in patients with CAD.
+METHODS: A total of 1953 consecutive eligible inpatients with suspected CAD were retrospectively included in this study. They were assigned into CAD (n = 564) and non-CAD groups (n = 1389). All patients underwent coronary computed tomographic angiography to evaluate coronary stenosis and coronary artery calcification (CAC). Spearman's tests were used to analyze the correlation between CAC score and LMR. Multivariate logistic regression models were set up to assess the risk factors of CAD.
+RESULTS: Patients with CAD had lower LMR value than patients without CAD (P = 0.001). LMR was negatively correlated with CAC score and was an independent risk factor of CAC score (P < 0.05). Multivariate logistic regression model showed that LMR ≤4.8 was a newly independent risk factor of CAD (all P < 0.05). Additionally, the new risk score model was compared with the Framingham model and showed that NRI was 4.9%, which proved that the new risk score model improved the prediction capability of CAD.
+CONCLUSION: LMR ≤4.8 is a new independent risk factor of CAD. LMR value was negatively correlated with CAC score and could be used as a new marker to evaluate the coronary plaque burden of CAD.
+
+Citation: Si Y, et al. Association of lymphocyte-to-monocyte ratio with total coronary plaque burden in patients with coronary artery disease. Association of lymphocyte-to-monocyte ratio with total coronary plaque burden in patients with coronary artery disease. 2020; 31:650-655. doi: 10.1097/MCA.0000000000000857
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32097130/

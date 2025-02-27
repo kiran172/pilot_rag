@@ -1,0 +1,8 @@
+PMID: 32712174
+Title: Glycoprotein VI (GPVI)-functionalized nanoparticles targeting arterial injury sites under physiological flow.
+
+Abstract: Thrombus formation at athero-thrombotic sites is initiated by the exposure of collagen followed by platelet adhesion mediated by the platelet-specific collagen receptor glycoprotein VI (GPVI). Here, dimeric GPVI was used as a targeting motif to functionalize polymeric nanoparticle-based drug carriers and to show that with proper design, such GPVI-coated nanoparticles (GPNs) can efficiently and specifically target arterial injury sites while withstanding physiological flow. In a microfluidic model, under physiological shear levels (1-40 dyne/cm2), 200 nm and 2 μm GPNs exhibited a &gt;60 and &gt;10-fold increase in binding to collagen compared to control particles, respectively. In vitro experiments in an arterial stenosis injury model, subjected to physiological pulsatile flow, showed shear-enhanced adhesion of 200 nm GPNs at the stenosis region which was confirmed in vivo in a mice ligation carotid injury model using intravital microscopy. Altogether, our results illustrate how engineering tools can be harnessed to design nano-carriers that efficiently target cardiovascular disease sites.
+
+Citation: Levi M, et al. Glycoprotein VI (GPVI)-functionalized nanoparticles targeting arterial injury sites under physiological flow. Glycoprotein VI (GPVI)-functionalized nanoparticles targeting arterial injury sites under physiological flow. 2020; 29:102274. doi: 10.1016/j.nano.2020.102274
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32712174/

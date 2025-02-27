@@ -1,0 +1,15 @@
+PMID: 36375195
+Title: Correlation Between the Extent of Injectate Spread and Clinical Outcomes in Cervical Interlaminar Epidural Injection.
+
+Abstract: BACKGROUND: Cervical interlaminar epidural injection (CILEI) is commonly used to treat acute or chronic pain that affects the head, neck, and upper extremities. Thus far, studies on CILEI have focused on determining the optimal volume of contrast medium or analyzing the spread of contrast medium during a CILEI. To our knowledge, few studies have attempted to assess the correlation between epidurogram patterns and clinical outcomes of CILEI.
+OBJECTIVES: This study aimed to investigate the relationship between contrast medium spread and pain relief after a CILEI in patients who complained of neck and/or unilateral upper extremity pain.
+STUDY DESIGN: Retrospective cohort study.
+SETTING: Tertiary university hospital.
+METHODS: Patient demographics, pain duration, and radiographic findings, including cervical simple radiograph and magnetic resonance imaging, were reviewed from medical records. The spread pattern of contrast medium during a CILEI was analyzed based on anteroposterior (AP) and lateral fluoroscopic views. The spread pattern in the AP view was classified into 4 categories using predetermined anatomical references, including the medial border, bisector, and lateral border of the articular pillar at the targeted vertebral level. The spread pattern in the lateral view was divided into 2 groups based on whether the contrast medium was present at the ventral epidural space. Every CILEI procedure was performed under fluoroscopic guidance by skilled experts. A responsive outcome was defined as a reduction in the numeric rating scale for pain by more than 50% at one month postoperatively compared to preoperatively.
+RESULTS: Among 656 patients, 526 were excluded from the analysis according to predetermined criteria. The remaining 130 patients were analyzed, and 78 (60%) patients showed responsive results one month after a CILEI. According to a multivariable logistic regression analysis, the negative predictors of a CILEI were long symptom duration (P = 0.045), high grade of central stenosis (P = 0.022), and limited spread of contrast medium solely within the central canal in the AP view (P = 0.008).
+LIMITATIONS: The limitations of this study include its retrospective design, absence of clinical parameters other than pain intensity, and short follow-up period.
+CONCLUSIONS: If the duration of symptoms is lengthy, central stenosis is severe, or contrast medium spread is limitedly solely within the central canal and does not reach the dorsal root ganglion any further, the outcome after a CILEI is likely to be poor. Therefore, efforts should be made to spread injectate around the dorsal root ganglion at the target level.
+
+Citation: Kim JY, et al. Correlation Between the Extent of Injectate Spread and Clinical Outcomes in Cervical Interlaminar Epidural Injection. Correlation Between the Extent of Injectate Spread and Clinical Outcomes in Cervical Interlaminar Epidural Injection. 2022; 25:E1229-E1238.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36375195/

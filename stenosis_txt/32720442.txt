@@ -1,0 +1,11 @@
+PMID: 32720442
+Title: The prognostic value of fQRSTa in patients with aortic stenosis undergoing surgical aortic valve replacement.
+
+Abstract: BACKGROUND: Surgical aortic valve replacement (sAVR) is the ultimate therapy for severe aortic stenosis (AS) in suitable patients. Prognostic factors of sAVR are great interest in recent studies. Frontal QRS-T angle (fQRSTa) is a novel marker of ventricular repolarization abnormalities. In this study, we aimed to investigate the prognostic value of fQRSTa in patients with severe symptomatic AS undergoing sAVR.
+METHODS: A total of 372 patients with severe degenerative AS who underwent successful sAVR were included in this retrospective study. Then, patients were divided into two groups: patients with narrow fQRSTa (≤90°) as group 1 and wide fQRSTa (>90°) as group 2. Perioperative and postoperative clinical evaluation and time of death were recorded from all subjects.
+RESULTS: The incidence of total mortality was higher in patients with wider fQRSTa (13.8% [15]; 4.9% [9], P = .013) compared to patients with narrow fQRSTa. In multivariate logistic regression analysis, advanced age (odds ratio [OR] = 1.054; 95% confidence interval [CI] = 1.004-1.106; P = .034), dyspnea (OR = 7.687; 95% CI = 2.296-25.729; P = .001), lower efection fraction (OR = 0.924; 95% CI = 0.884-0.966; P = .001), in-hospital duration (OR = 1.051; 95% CI = 1.016-1.088; P = .004) and wider fQRSTa (OR = 4.029; 95% CI = 1.383-11.740; P = .011) were found to be independent predictors of mortality. Additionally, a Kaplan-Meier survival analysis also revealed that long-term survival was found to be significantly decreased in patients with wider fQRSTa (log-rank P = .014).
+CONCLUSION: fQRSTa was related with poor prognosis in patients with AS undergoing sAVR. fQRSTa was also an independent predictor of mortality in this population.
+
+Citation: Erturk M, et al. The prognostic value of fQRSTa in patients with aortic stenosis undergoing surgical aortic valve replacement. The prognostic value of fQRSTa in patients with aortic stenosis undergoing surgical aortic valve replacement. 2020; 35:2627-2632. doi: 10.1111/jocs.14858
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32720442/

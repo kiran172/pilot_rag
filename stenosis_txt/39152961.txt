@@ -1,0 +1,12 @@
+PMID: 39152961
+Title: Definition and Validation of Prognostic Phenotypes in Moderate Aortic Stenosis.
+
+Abstract: BACKGROUND: Adverse outcomes from moderate aortic stenosis (AS) may be caused by progression to severe AS or by the effects of comorbidities. In the absence of randomized trial evidence favoring aortic valve replacement (AVR) in patients with moderate AS, phenotyping patients according to risk may assist decision making.
+OBJECTIVES: This study sought to identify and validate clusters of moderate AS that may be used to guide patient management.
+METHODS: Unsupervised clustering algorithms were applied to demographics, comorbidities, and echocardiographic parameters in a training data set in patients with moderate AS (n = 2,469). External validation was obtained by assigning the defined clusters to an independent group with moderate AS (n = 1,358). The primary outcome, a composite of cardiac death, heart failure hospitalization, or aortic valve (AV) intervention after 5 years, was assessed between clusters in both data sets.
+RESULTS: Four distinct clusters-cardiovascular (CV)-comorbid, low-flow, calcified AV, and low-risk-with significant outcomes (log-rank P < 0.0001 in both data sets) were identified and replicated. The highest risk was in the CV-comorbid cluster (validation HR: 2.00 [95% CI: 1.54-2.59]; P < 0.001). The effect of AVR on cardiac death differed among the clusters. There was a significantly lower rate of outcomes after AVR in the calcified AV cluster (validation HR: 0.21 [95% CI: 0.08-0.57]; P = 0.002), but no significant effect on outcomes in the other 3 clusters. These analyses were limited by the low rate of AVR.
+CONCLUSIONS: Moderate AS has several phenotypes, and multiple comorbidities are the key drivers of adverse outcomes in patients with moderate AS. Outcomes of patients with noncalcified moderate AS were not altered by AVR in these groups. Careful attention to subgroups of moderate AS may be important to define treatable risk.
+
+Citation: Sen J, et al. Definition and Validation of Prognostic Phenotypes in Moderate Aortic Stenosis. Definition and Validation of Prognostic Phenotypes in Moderate Aortic Stenosis. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jcmg.2024.06.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39152961/

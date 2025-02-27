@@ -1,0 +1,12 @@
+PMID: 37868647
+Title: Survival of neonates, infants, and children with birth defects: a population-based study in Texas, 1999-2018.
+
+Abstract: BACKGROUND: Birth defects are a leading cause of neonatal, infant, and childhood mortality, but recent population-based survival estimates for a spectrum in the U.S. are lacking.
+METHODS: Using the statewide Texas Birth Defects Registry (1999-2017 births) and vital records linkage to ascertain deaths, we conducted Kaplan-Meier analyses to estimate survival probabilities at 1, 7, and 28 days, and 1, 5, and 10 years. We evaluated survival in the full cohort of infants with any major defect and for 30 specific conditions. One-year survival analyses were stratified by gestational age, birth year, and case classification.
+FINDINGS: Among 246,394 live-born infants with any major defect, the estimated survival probabilities were 98.9% at 1 day, 95.0% at 1 year, and 93.9% at 10 years. Ten-year survival varied by condition, ranging from 36.9% for holoprosencephaly to 99.3% for pyloric stenosis. One-year survival was associated with increasing gestational age (e.g., increasing from 46.9% at <28 weeks to 95.8% at ≥37 weeks for spina bifida). One-year survival increased in more recent birth years for several defect categories (e.g., increasing from 86.0% among 1999-2004 births to 93.1% among 2014-2017 births for unilateral renal agenesis/dysgenesis) and was higher among infants with an isolated defect versus those with multiple defects.
+INTERPRETATION: This study describes short- and long-term survival outcomes from one of the largest population-based birth defect registries in the world and highlights improved survival over time for several conditions. Our results may lend insight into future healthcare initiatives aimed at reducing mortality in this population.
+FUNDING: This study was funded in part by a Centers for Disease Control and Prevention (CDC) birth defects surveillance cooperative agreement with the Texas Department of State Health Services and Health Resources and Services Administration (HRSA) Block Grant funds.
+
+Citation: Benjamin RH, et al. Survival of neonates, infants, and children with birth defects: a population-based study in Texas, 1999-2018. Survival of neonates, infants, and children with birth defects: a population-based study in Texas, 1999-2018. 2023; 27:100617. doi: 10.1016/j.lana.2023.100617
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37868647/

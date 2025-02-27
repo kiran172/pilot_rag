@@ -1,0 +1,11 @@
+PMID: 32040007
+Title: Deep Neural Network-Based Method for Detecting Obstructive Meibomian Gland Dysfunction With in Vivo Laser Confocal Microscopy.
+
+Abstract: PURPOSE: To evaluate the ability of deep learning (DL) models to detect obstructive meibomian gland dysfunction (MGD) using in vivo laser confocal microscopy images.
+METHODS: For this study, we included 137 images from 137 individuals with obstructive MGD (mean age, 49.9 ± 17.7 years; 44 men and 93 women) and 84 images from 84 individuals with normal meibomian glands (mean age, 53.3 ± 19.6 years; 29 men and 55 women). We constructed and trained 9 different network structures and used single and ensemble DL models and calculated the area under the curve, sensitivity, and specificity to compare the diagnostic abilities of the DL.
+RESULTS: For the single DL model (the highest model; DenseNet-201), the area under the curve, sensitivity, and specificity for diagnosing obstructive MGD were 0.966%, 94.2%, and 82.1%, respectively, and for the ensemble DL model (the highest ensemble model; VGG16, DenseNet-169, DenseNet-201, and InceptionV3), 0.981%, 92.1%, and 98.8%, respectively.
+CONCLUSIONS: Our network combining DL and in vivo laser confocal microscopy learned to differentiate between images of healthy meibomian glands and images of obstructive MGD with a high level of accuracy that may allow for automatic obstructive MGD diagnoses in patients in the future.
+
+Citation: Maruoka S, et al. Deep Neural Network-Based Method for Detecting Obstructive Meibomian Gland Dysfunction With in Vivo Laser Confocal Microscopy. Deep Neural Network-Based Method for Detecting Obstructive Meibomian Gland Dysfunction With in Vivo Laser Confocal Microscopy. 2020; 39:720-725. doi: 10.1097/ICO.0000000000002279
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32040007/

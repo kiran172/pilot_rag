@@ -1,0 +1,11 @@
+PMID: 32980375
+Title: Congenital Heart Defects and the Risk of Spontaneous Preterm Birth.
+
+Abstract: OBJECTIVES: To estimate the association between major types of congenital heart defects (CHD) and spontaneous preterm birth, and to assess the potential underlying mechanisms.
+STUDY DESIGN: This nationwide, registry-based study included a cohort of all singleton pregnancies in Denmark from 1997 to 2013. The association between CHD and spontaneous preterm birth was estimated by multivariable Cox regression, adjusted for potential confounders. The following potential mechanisms were examined: maternal genetics (sibling analyses), polyhydramnios, preterm prelabor rupture of membranes, preeclampsia, and indicators of fetal and placental growth.
+RESULTS: The study included 1 040 474 births. Compared with the general population, CHD was associated with an increased risk of spontaneous preterm birth, adjusted hazard ratio 2.1 (95% CI, 1.9-2.4). Several subtypes were associated with increased risks, including pulmonary stenosis combined with a septal defect, 5.2 (95% CI, 3.7-7.5); pulmonary stenosis or atresia, 3.1 (95% CI, 2.4-4.1); tetralogy of Fallot 2.5 (95% CI, 1.6-3.8); coarctation or interrupted aortic arch 2.2 (95% CI, 1.5-3.2); and hypoplastic left heart syndrome, 2.0 (95% CI, 1.0-4.1). Overall, preterm prelabor rupture of membranes mediated more than one-half of the association. Maternal genetics, polyhydramnios, or indicators of fetal or placental growth did not explain the reported associations.
+CONCLUSIONS: CHD, especially right ventricular outflow tract obstructions, were associated with an increased risk of spontaneous preterm birth. The risk was carried by the CHD and not by maternal genetics. Moreover, preterm prelabor rupture of membranes was identified as a potential underlying mechanism.
+
+Citation: Matthiesen NB, et al. Congenital Heart Defects and the Risk of Spontaneous Preterm Birth. Congenital Heart Defects and the Risk of Spontaneous Preterm Birth. 2021; 229:168-174.e5. doi: 10.1016/j.jpeds.2020.09.059
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32980375/

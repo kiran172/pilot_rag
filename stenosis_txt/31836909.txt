@@ -1,0 +1,11 @@
+PMID: 31836909
+Title: Combined evaluation of regional coronary artery calcium and myocardial perfusion by 82Rb PET/CT in predicting lesion-related outcome.
+
+Abstract: PURPOSE: Cardiac imaging with positron emission tomography/computed tomography (PET/CT) allows measurement of coronary artery calcium (CAC), stress-induced myocardial ischemia and myocardial perfusion reserve (MPR). We evaluated the prognostic role of the combined assessment of regional CAC score, ischemic total perfusion defect (ITPD) and MPR in predicting lesion-related outcome in patients with suspected coronary artery disease (CAD).
+METHODS: We studied 206 patients with suspected CAD referred to 82Rb PET/CT cardiac imaging and available coronary angiographic data. The outcome end points were cardiac death, target vessel-related myocardial infarction or coronary revascularization.
+RESULTS: Compared to vessels without event, those with event showed higher CAC score and ITPD, and lower hyperemic myocardial blood flow and MPR (all p < 0.001). At Cox regression multivariable analysis, significant CAD (≥50% stenosis) (p < 0.001), CAC score ≥ 300 (p < 0.01) and MPR <2 (p < 0.01) were independent predictors of events. The decision trees analysis for the identification of events produced five terminal nodes. The initial split was on CAC score values. For vessels with CAC <300 and MPR ≥2, no further split was performed, while vessels with CAC <300 and MPR <2 were further stratified by ITPD. For vessels with CAC ≥300 a further stratification was performed only by MPR. The worst prognosis was observed in vessels with CAC ≥300 and MPR <2 and in vessels with CAC <300, MPR <2 and ITPD ≥5%.
+CONCLUSION: The combination of CAC score and MPR is useful to predict the lesion-related outcome in the presence of significant CAD.
+
+Citation: Zampella E, et al. Combined evaluation of regional coronary artery calcium and myocardial perfusion by 82Rb PET/CT in predicting lesion-related outcome. Combined evaluation of regional coronary artery calcium and myocardial perfusion by 82Rb PET/CT in predicting lesion-related outcome. 2020; 47:1698-1704. doi: 10.1007/s00259-019-04534-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31836909/

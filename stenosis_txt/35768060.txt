@@ -1,0 +1,11 @@
+PMID: 35768060
+Title: Intraoperative Transcranial Doppler Monitoring Predicts the Risk of Cerebral Hyperperfusion Syndrome After Carotid Endarterectomy.
+
+Abstract: OBJECTIVE: Cerebral hyperperfusion syndrome (CHS) is a rare but serious complication following carotid endarterectomy (CEA). The aim of this study was to identify intraoperative transcranial Doppler (TCD) hemodynamic predictors of CHS after CEA.
+METHODS: Between January 2013 and December 2018, intraoperative TCD monitoring was performed for 969 patients who underwent CEA. The percentage increase in the mean velocity of the middle cerebral artery (MCAV%) at 3 postdeclamping time points (immediately after declamping, 5 minutes after declamping, and after suturing the skin) over baseline was compared between CHS and non-CHS patients.
+RESULTS: CHS was diagnosed in 31 patients (3.2%), including 11 with intracranial hemorrhage. The MCAV% values at the 3 postdeclamping time points over baseline were 177% (81%-275%), 90% (41%-175%), and 107% (55%-191%) in the CHS group, significantly higher than those in the non-CHS group (40% [14%-75%], 15% [1%-36%], and 18% [3%-41%], respectively, all P < 0.001). Receiver operating characteristic curve analysis showed that the 3 intraoperative MCAV% parameters all had excellent accuracy in identifying CHS (areas under the curve: 0.854, 0.839, and 0.858, respectively, all P < 0.001). The predictive value of the model consisting only of preoperative parameters was significantly increased by adding the intraoperative TCD hemodynamic parameters (area under the curve: 0.747 vs. 0.858, P = 0.006). Multivariate analyses identified the intraoperative MCAV% immediately after declamping (odds ratio: 9.840, 95% confidence interval: 2.638-36.696, P < 0.001) as an independent predictor of CHS.
+CONCLUSIONS: Our results indicate that intraoperative TCD monitoring helps predict CHS after CEA at an early stage.
+
+Citation: Li Q, et al. Intraoperative Transcranial Doppler Monitoring Predicts the Risk of Cerebral Hyperperfusion Syndrome After Carotid Endarterectomy. Intraoperative Transcranial Doppler Monitoring Predicts the Risk of Cerebral Hyperperfusion Syndrome After Carotid Endarterectomy. 2022; 165:e571-e580. doi: 10.1016/j.wneu.2022.06.100
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35768060/

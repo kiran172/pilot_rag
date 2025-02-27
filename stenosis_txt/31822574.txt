@@ -1,0 +1,12 @@
+PMID: 31822574
+Title: Lp-PLA<sub>2</sub> and dual antiplatelet agents in intracranial arterial stenosis.
+
+Abstract: OBJECTIVE: To evaluate the interaction effect of lipoprotein-associated phospholipase A<sub>2</sub> (Lp-PLA<sub>2</sub>) activity on the efficacy and safety of dual/single antiplatelet therapy in patients with and without intracranial arterial stenosis (ICAS) by the Clopidogrel in High-Risk Patients with Acute Non-disabling Cerebrovascular Events trial.
+METHODS: Patients with both MRI analysis and Lp-PLA<sub>2</sub> testing results were included in the current subanalysis. The interaction of Lp-PLA<sub>2</sub> activity with the effects of dual and single antiplatelet therapy were analyzed through Cox proportional hazards regressions model.
+RESULTS: Among the 797 patients, the mean age was 63.1 ± 10.8 years, 518 (65%) were men, 356 (44.7%) had ICAS, and 441 (55.3%) did not. There were significantly more patients with elevated Lp-PLA<sub>2</sub> activity in the ICAS group than in the non-ICAS group (43.8% vs 35.4%, p = 0.02). There was significant interaction between Lp-PLA<sub>2</sub> activity levels and the 2 antiplatelet therapies for prevention of stroke recurrences and combined vascular events even after adjustment for confounding factors exclusively for patients with ICAS (p = 0.017, 0.017, respectively), but not for those without (p = 0.332, 0.674, respectively). Compared with aspirin alone, dual antiplatelet therapy significantly reduced the risk of stroke recurrences and combined vascular events (adjusted hazard ratio 0.33 [0.12-0.89], p = 0.028; 0.33 [0.12-0.89], p = 0.028, respectively) for patients with ICAS and nonelevated Lp-PLA<sub>2</sub> activity.
+CONCLUSIONS: Presence of both ICAS and nonelevated Lp-PLA<sub>2</sub> activity may predict better response to dual antiplatelet therapy in prevention of recurrent strokes and combined vascular events for patients with minor stroke or high-risk TIA.
+CLINICALTRIALSGOV IDENTIFIER: NCT00979589.
+
+Citation: Yang M, et al. Lp-PLA<sub>2</sub> and dual antiplatelet agents in intracranial arterial stenosis. Lp-PLA<sub>2</sub> and dual antiplatelet agents in intracranial arterial stenosis. 2020; 94:e181-e189. doi: 10.1212/WNL.0000000000008733
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31822574/

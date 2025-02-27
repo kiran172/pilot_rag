@@ -1,0 +1,11 @@
+PMID: 31969522
+Title: The Association Between Coronary Artery Calcification and Subclinical Cerebrovascular Diseases in Men: An Observational Study.
+
+Abstract: AIM: Coronary artery calcification (CAC) is an independent predictor of stroke and dementia, in which subclinical cerebrovascular diseases (SCVDs) play a vital pathogenetic role. However, few studies have described the association between CAC and SCVDs. Therefore, the aim of this study was to assess the clinical relationship between CAC and SCVDs in a healthy Japanese male population.
+METHODS: In this observational study, 709 men, free of stroke, were sampled from a city in Japan from 2010 to 2014. CAC was scored using the Agatston method. The following SCVDs were assessed using magnetic resonance imaging: intracranial arterial stenosis (ICAS), lacunar infarction, deep and subcortical white matter hyperintensity (DSWMH), periventricular hyperintensity (PVH), and microbleeds. The participants were categorized according to CAC scores as follows: no CAC (0), mild CAC (1-100), and moderate-to-severe CAC (＞100). The adjusted odds ratios of prevalent SCVDs were computed in reference to the no-CAC group using logistic regression.
+RESULTS: The mean (standard deviation) age of the participants was 68 (8.4) years. Participants in the moderate-to-severe CAC category showed significantly higher odds of prevalent lacunar infarction, DSWMH, and ICAS in age-adjusted and risk-factor-adjusted models. Microbleeds and PVH, in contrast, did not show any significant associations. The trends for CAC with lacunar infarction, DSWMH, and ICAS were also significant (all P-values for trend ≤ 0.02).
+CONCLUSIONS: Higher CAC scores were associated with higher odds of lacunar infarction, DSWMH, and ICAS. The presence and degree of CAC may be a useful indicator for SCVDs involving small and large vessels.
+
+Citation: Khan MMH, et al. The Association Between Coronary Artery Calcification and Subclinical Cerebrovascular Diseases in Men: An Observational Study. The Association Between Coronary Artery Calcification and Subclinical Cerebrovascular Diseases in Men: An Observational Study. 2020; 27:995-1009. doi: 10.5551/jat.51284
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31969522/

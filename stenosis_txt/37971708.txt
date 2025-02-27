@@ -1,0 +1,11 @@
+PMID: 37971708
+Title: Pacemaker dependency and conduction system recovery following transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI)-related conduction system disorders are dynamic and may resolve over time. The purpose of this study was to investigate predictive factors of PM dependency among patients receiving permanent PM implantation after TAVI.
+METHODS: We included 37 consecutive patients who underwent PPM implantation within six days after TAVI and who completed a 12-month follow-up. Patients were divided into two groups according to PPM dependency at follow-up: PPM-dependent group and non-PPM-dependent group. Device follow-ups were performed at one, six and 12 months.
+RESULTS: There were no significant differences in either baseline clinical characteristics or procedural data and results. Analysis of baseline ECGs showed a statistical difference in PR interval (200.1±17.2 ms in the PPM-dependent group vs. 175±23.3 ms in the non PPM-dependent group [P=0,003]) and in the presence of RBBB (four patients in the PPM-dependent group vs. no patients in the non PPM-dependent group [P=0.02]) as well as QRS duration (117.3±27.4 ms in the PPM-dependent group and 99±18.3 msec in the non PPM-dependent group [P=0.04]).
+CONCLUSIONS: The rate of PPM dependency was significantly reduced at 12-month follow-up: from 62,2% at the time of implantation to 35,1%. PR interval and RBBB were the most important predictive factors for PPM dependency. Persistent AVB and alternating BBB were prevalent in the PPM-dependent group. In the absence of persistent AVB or alternating BBB, we suggest that patients without long PR interval and RBBB at baseline ECG be carefully evaluated before permanent PM implantation, as conduction system recovery is possible.
+
+Citation: Cosma J, et al. Pacemaker dependency and conduction system recovery following transcatheter aortic valve implantation. Pacemaker dependency and conduction system recovery following transcatheter aortic valve implantation. 2024; 72:182-189. doi: 10.23736/S2724-5683.23.06273-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37971708/

@@ -1,0 +1,12 @@
+PMID: 37191608
+Title: Anonymous Comparison of Various Angiography-Derived Fractional Flow Reserve Software With Pressure-Derived Physiological Assessment.
+
+Abstract: BACKGROUND: Software to compute angiography-derived fractional flow reserve (angio-FFR) have been validated against pressure wire-derived fractional flow reserve (PW-FFR) with an area under the receiver-operating characteristic curve (AUC) of 0.93 to 0.97.
+OBJECTIVES: The aim of this study was to investigate diagnostic accuracies of 5 angio-FFR software/methods by an independent core lab in a prospective cohort of 390 vessels with carefully documented sites of PW-FFR and pressure wire-derived instantaneous wave-free ratio.
+METHODS: One "matcher investigator" colocalized on angiography the sites of pressure wire measurement with angio-FFR measurements and provided the same 2 optimal angiographic views and frame selection to independent analysts who were blinded to invasive physiological results and results from other software. The results were anonymized and randomly presented. The AUC of each angio-FFR was compared with 2-dimensional quantitative coronary angiography (QCA) percent diameter stenosis (%DS) using a 2-tailed paired comparison of AUC.
+RESULTS: All 5 software/methods yielded a high proportion of analyzable vessels (A: 100%, B: 100%, C: 92.1%, D: 99.5%, and E: 92.1%). The AUCs for predicting fractional flow reserve ≤0.8 for software A, B, C, D, E, and 2-dimensional QCA %DS were 0.75, 0.74, 0.74, 0.73, 0.73, and 0.65, respectively. The AUC for each angio-FFR was significantly greater than that for 2-dimensional QCA %DS.
+CONCLUSIONS: This head-to-head comparison by an independent core lab demonstrated that the diagnostic accuracy of various angio-FFR software for predicting PW-FFR ≤0.80 was useful, with a higher discrimination compared with 2-dimensional QCA %DS; however, it did not reach the diagnostic accuracy previously reported in validation studies of various vendors. Therefore, the intrinsic clinical value of "angiography-derived fractional flow reserve" requires confirmation in large clinical trials.
+
+Citation: Ninomiya K, et al. Anonymous Comparison of Various Angiography-Derived Fractional Flow Reserve Software With Pressure-Derived Physiological Assessment. Anonymous Comparison of Various Angiography-Derived Fractional Flow Reserve Software With Pressure-Derived Physiological Assessment. 2023; 16:1778-1790. doi: 10.1016/j.jcin.2023.04.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37191608/

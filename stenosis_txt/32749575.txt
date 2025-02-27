@@ -1,0 +1,11 @@
+PMID: 32749575
+Title: A new comprehensive ultrasonic diagnostic method for celiac artery compression syndrome that hybridizes "arterial compression hook sign" and peak systolic velocity.
+
+Abstract: PURPOSE: Diagnosing celiac artery compression syndrome (CACS) is based on an imaging finding of celiac artery compression (CAC), but the diagnostic criteria are inconsistent. The study aim was to devise an ultrasonographic screening method to effectively diagnose CAC in occult CACS.
+METHODS: The subjects were 61 patients with suspected CACS who underwent ultrasonography at our hospital from May 2017 to December 2019 and were divided into the following two groups: the "arterial compression hook sign"-positive group (n = 15, mean age: 26.6 ± 16.4 years, six males, nine females) and -negative group (n = 41, mean age: 32.5 ± 18.6 years, 12 males, 34 females). We used B-mode and advanced dynamic flow to detect arterial compression hook sign and pulse Doppler to measure expiration peak systolic velocity (EPSV) and inspiration PSV (IPSV).
+RESULTS: The EPSV was significantly higher in the arterial compression hook sign-positive group (304.7 ± 47.4 cm/s) than in the -negative groups (158.2 ± 38.7 cm/s), (p < 0.001). Receiver operating characteristic curve analysis was performed to calculate the EPSV cutoff value for presence of CAC, which was 226 cm/s (sensitivity: 0.957, specificity: 1.000, AUC: 0.997, 95% confidence interval: 0.99-1). The IPSV was lower in the positive group than in the negative group in all cases (EPSV - IPSV range: 68-199 cm/s).
+CONCLUSION: Our results showed that if arterial compression hook sign determined by B-mode ultrasound, EPSV > 226 cm/s, and IPSV decreases by ≥ 68 cm/s, then CAC can be detected with high specificity.
+
+Citation: Miura D, et al. A new comprehensive ultrasonic diagnostic method for celiac artery compression syndrome that hybridizes "arterial compression hook sign" and peak systolic velocity. A new comprehensive ultrasonic diagnostic method for celiac artery compression syndrome that hybridizes "arterial compression hook sign" and peak systolic velocity. 2021; 24:289-295. doi: 10.1007/s40477-020-00519-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32749575/

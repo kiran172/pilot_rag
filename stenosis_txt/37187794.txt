@@ -1,0 +1,11 @@
+PMID: 37187794
+Title: Impact of cystatin C-derived glomerular filtration rate in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Chronic kidney disease (CKD) impacts prognosis in patients undergoing transcatheter aortic valve implantation (TAVI). While estimated glomerular filtration rate (eGFR) calculated from serum creatinine [eGFR (creatinine)] is affected by body muscle mass which reflects frailty, eGFR calculated from serum cystatin C [eGFR (cystatin C)] is independent of body composition, resulting in better renal function assessment.
+METHODS: This study included 390 consecutive patients with symptomatic severe aortic stenosis (AS) who underwent TAVI, and measured cystatin C-based eGFR at discharge. Patients were divided into two groups, with or without CKD estimated with eGFR (cystatin C). The primary endpoint of this study was the 3-year all-cause mortality after TAVI.
+RESULTS: The median patient age was 84 years, and 32.8% patients were men. Multivariate Cox regression analysis indicated that eGFR (cystatin C), diabetes mellitus, and liver disease were independently associated with 3-year all-cause mortality. In the receiver-operating characteristic (ROC) curve, the predictive value of eGFR (cystatin C) was significantly higher than that of eGFR (creatinine). Furthermore, Kaplan-Meier estimates revealed that 3-year all-cause mortality was higher in the CKD (cystatin C) group than that in the non-CKD (cystatin C) group with log-rank p = 0.009. In contrast, there was no significant difference between the CKD (creatinine) and non-CKD (creatinine) groups with log-rank p = 0.94.
+CONCLUSIONS: eGFR (cystatin C) was associated with 3-year all-cause mortality in patients who underwent TAVI, and it was superior to eGFR (creatinine) as a prognostic biomarker.
+
+Citation: Kure Y, et al. Impact of cystatin C-derived glomerular filtration rate in patients undergoing transcatheter aortic valve implantation. Impact of cystatin C-derived glomerular filtration rate in patients undergoing transcatheter aortic valve implantation. 2023; 10:1035736. doi: 10.3389/fcvm.2023.1035736
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37187794/

@@ -1,0 +1,11 @@
+PMID: 36496305
+Title: Aerodynamic-induced Effects of Artificial Subglottic Stenosis on Vocal Fold Model Phonatory Response.
+
+Abstract: OBJECTIVE: Subglottic stenosis (SGS) is characterized by a narrowing of the trachea near the cricotracheal junction and impairs breathing. SGS may also adversely affect voice quality, but for reasons that are not fully understood. The purpose of this study is to provide experiment-based data concerning the effects on phonation of airway obstruction due to SGS.
+STUDY DESIGN: Basic science METHODS: A device simulating a SGS of adjustable severity ranging from 36% to 99.8% obstruction was created. Self-oscillating synthetic VF models were mounted downstream of the device and data were acquired to evaluate the effects of the obstruction on phonatory response.
+RESULTS: Onset pressures were relatively insensitive to obstructions of up to approximately 80% to 90% reductions in subglottic airway area and sharply increased thereafter. Flow rate (under conditions of constant pressure), flow resistance, and fundamental frequency all exhibited similar degrees of sensitivity to SGS obstruction as onset pressure. High-frequency noise became significant by 80% obstruction. Glottal area appeared to be less sensitive, not being affected until approximately 90% obstruction.
+CONCLUSIONS: Consistent with previous computational studies, this study found that aerodynamic, acoustic, and vibratory responses of self-oscillating VF models were largely unaffected by SGS until approximately 80% to 90% obstruction, and significantly affected at higher obstructions. This suggests that Grades I and II stenoses are unlikely to introduce subglottic airway aerodynamic disturbances that are sufficient in and of themselves to significantly alter phonatory output. The SGS model introduces a framework for future benchtop studies involving subglottic and supraglottic airway constrictions.
+
+Citation: Hilton BA and Thomson SL. Aerodynamic-induced Effects of Artificial Subglottic Stenosis on Vocal Fold Model Phonatory Response. Aerodynamic-induced Effects of Artificial Subglottic Stenosis on Vocal Fold Model Phonatory Response. 2022; (unknown volume):(unknown pages). doi: 10.1016/j.jvoice.2022.11.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36496305/

@@ -1,0 +1,11 @@
+PMID: 32164627
+Title: Could automated machine-learned MRI grading aid epidemiological studies of lumbar spinal stenosis? Validation within the Wakayama spine study.
+
+Abstract: BACKGROUND: MRI scanning has revolutionized the clinical diagnosis of lumbar spinal stenosis (LSS). However, there is currently no consensus as to how best to classify MRI findings which has hampered the development of robust longitudinal epidemiological studies of the condition. We developed and tested an automated system for grading lumbar spine MRI scans for central LSS for use in epidemiological research.
+METHODS: Using MRI scans from the large population-based cohort study (the Wakayama Spine Study), all graded by a spinal surgeon, we trained an automated system to grade central LSS in four gradings of the bone and soft tissue margins: none, mild, moderate, severe. Subsequently, we tested the automated grading against the independent readings of our observer in a test set to investigate reliability and agreement.
+RESULTS: Complete axial views were available for 4855 lumbar intervertebral levels from 971 participants. The machine used 4365 axial views to learn (training set) and graded the remaining 490 axial views (testing set). The agreement rate for gradings was 65.7% (322/490) and the reliability (Lin's correlation coefficient) was 0.73. In 2.2% of scans (11/490) there was a difference in classification of 2 and in only 0.2% (1/490) was there a difference of 3. When classified into 2 groups as 'severe' vs 'no/mild/moderate'. The agreement rate was 94.1% (461/490) with a kappa of 0.75.
+CONCLUSIONS: This study showed that an automated system can "learn" to grade central LSS with excellent performance against the reference standard. Thus SpineNet offers potential to grade LSS in large-scale epidemiological studies involving a high volume of MRI spine data with a high level of consistency and objectivity.
+
+Citation: Ishimoto Y, et al. Could automated machine-learned MRI grading aid epidemiological studies of lumbar spinal stenosis? Validation within the Wakayama spine study. Could automated machine-learned MRI grading aid epidemiological studies of lumbar spinal stenosis? Validation within the Wakayama spine study. 2020; 21:158. doi: 10.1186/s12891-020-3164-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32164627/

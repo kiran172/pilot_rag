@@ -1,0 +1,11 @@
+PMID: 37147133
+Title: Effect of race on pressure recovery adjustment for prevention of aortic stenosis grading discordance.
+
+Abstract: OBJECTIVE: We sought to evaluate the potential impact of racial difference (Asians vs Caucasians) on the clinical usefulness of pressure recovery (PR) adjustment for preventing discordant aortic stenosis (AS) grading in patients with severe AS.
+METHODS: Data from 1450 patients (mean age, 70.2±10.6 years; 290 (20%) Caucasians; aortic valve area (AVA), 0.77±0.26 cm2) were retrospectively analysed. PR-adjusted AVA was calculated using a validated equation. Discordant grading of severe AS was defined as AVA of &lt;1.0 cm2 and mean gradient of &lt;40 mm Hg. The frequency of discordant grading was assessed in the overall cohort and the propensity score-matched cohort.
+RESULTS: Before PR adjustment, 1186 patients showed AVA values of &lt;1.0 cm2; after PR adjustment, 170 (14.3%) were reclassified as having moderate AS. PR adjustment decreased the frequency of discordant grading from 31.4% to 14.1% in Caucasians and from 13.8% to 7.9% in Asians. Patients with reclassification to moderate AS after PR adjustment had a significantly lower risk of a composite of aortic valve replacement or all-cause death than did those with severe AS after PR adjustment (HR 0.38; 95% CI 0.31-0.46; p&lt;0.001). In propensity score-matched cohorts (173 pairs), the frequency of discordant grading before PR adjustment was 42.2% and 43.9% in the Caucasian and Asian patients, respectively, which decreased to 21.4% and 20.2%, respectively, after PR adjustment.
+CONCLUSIONS: Clinically relevant PR occurred, regardless of race in patients with moderate to severe AS. Routine PR adjustment may be useful for reconciling discordant AS grading.
+
+Citation: Oh JK, et al. Effect of race on pressure recovery adjustment for prevention of aortic stenosis grading discordance. Effect of race on pressure recovery adjustment for prevention of aortic stenosis grading discordance. 2023; 109:1550-1557. doi: 10.1136/heartjnl-2023-322586
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37147133/

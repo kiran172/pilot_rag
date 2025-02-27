@@ -1,0 +1,12 @@
+PMID: 35152552
+Title: An objective index for spinal cord compression on computed tomography in Thoroughbred horses.
+
+Abstract: BACKGROUND: Computed tomographic myelography can be a useful tool for evaluating vertebral canal stenosis. However, an index of spinal cord compression is yet to be established.
+OBJECTIVES: This observational descriptive study aimed to establish an index for spinal cord compression using computed tomography (CT).
+METHODS: Twenty-three Thoroughbred horses (age, 155-717 days; weight, 205-523 kg) with suspected cervical vertebral malformation were subjected to computed tomographic myelography in dorsal recumbency using large-bore gantry CT to define the entire cervical vertebrae from C1 to C7. Subsequently, the height of the spinal cord was measured in the sagittal plane reformatted using curved multi-planar reformation (MPR), thereby comparing it with stenotic ratio (i.e. dividing the area of spinal cord by that of the subarachnoid space) measured in the transverse plane. The measurement was performed at the level of each of six intervertebral spaces, for a total of 138 sites. Accordingly, the appropriate cut-off value for spinal cord height was determined using the receiver-operating characteristic curve, from which the area under the curve with 95% confidence interval was estimated.
+RESULTS: The spinal cord compression cut-off value was 7.06 mm, with an area under curve of 0.84. A weak relationship was observed between spinal cord height and stenotic ratio (R2  = 0.08, p &lt; 0.05).
+CONCLUSIONS: Following curved MPR, a cut-off value of 7.06 mm may serve as an index for spinal cord compression.
+
+Citation: Kondo T, et al. An objective index for spinal cord compression on computed tomography in Thoroughbred horses. An objective index for spinal cord compression on computed tomography in Thoroughbred horses. 2022; 8:1072-1078. doi: 10.1002/vms3.767
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35152552/

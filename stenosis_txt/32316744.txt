@@ -1,0 +1,12 @@
+PMID: 32316744
+Title: Plaque enhancement in multi-cerebrovascular beds associates with acute cerebral infarction.
+
+Abstract: BACKGROUND: It is valuable to explore the relationship between plaque characteristics and stroke by using three-dimensional (3D) magnetic resonance imaging (MRI) of the vessel wall.
+PURPOSE: To investigate the association between plaque enhancement score (PES) of co-existing intracranial and extracranial carotid plaques and ischemic stroke using 3D MRI.
+MATERIAL AND METHODS: Symptomatic patients were recruited and underwent cerebrovascular 3D MRI of the vessel wall. The number, enhancement degree, and stenosis of plaques in intracranial and extracranial carotid arteries were evaluated. The PES calculated by summing enhancement degree of all detected plaques was compared between patients with and without acute cerebral infarction (ACI) and its association with ACI was determined.
+RESULTS: Of 157 recruited patients, 118 (75.2%) had co-existing plaques. Patients with ACI had significantly greater PES of co-existing plaques compared with those without ACI (9, interquartile range [IQR] 5-11 vs. 5, IQR 2-7, P&lt;0.001). The odds ratio for PES of co-existing plaques in discriminating ACI was 1.410 (95% confidence interval [CI] 1.146-1.735, P = 0.001) after adjustment for stenosis, intraplaque hemorrhage, and traditional risk factors. Receiver operating characteristic curve analysis showed that, in discriminating ACI, PES had higher area under the curve (AUC 0.693-0.764) than plaque number (AUC 0.625-0.683) and enhancement degree (AUC 0.570-0.706) alone in any vascular bed. The AUC of PES of co-existing plaques combined with stenosis, NIHSS scores, intraplaque hemorrhage, hyperlipidemia, and blood pressure reached 0.847.
+CONCLUSION: Cerebrovascular plaque enhancement score combining plaque number and enhancement degree is independently associated with ACI. The enhancement score of co-existing plaques has higher strength in discriminating ACI compared with plaques in a single vascular bed.
+
+Citation: Cui B, et al. Plaque enhancement in multi-cerebrovascular beds associates with acute cerebral infarction. Plaque enhancement in multi-cerebrovascular beds associates with acute cerebral infarction. 2021; 62:102-112. doi: 10.1177/0284185120915604
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32316744/

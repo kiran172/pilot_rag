@@ -1,0 +1,13 @@
+PMID: 34542167
+Title: Estimations of Laryngotracheal Stenosis After Mechanical Ventilation: A Cross-Sectional Analysis.
+
+Abstract: OBJECTIVES/HYPOTHESIS: To estimate the incidence of laryngotracheal stenosis among adults after intubation.
+STUDY DESIGN: Cross-sectional analysis.
+METHODS: We used the Nationwide Readmission Database to examine adult patients readmitted within 45 days after admission for mechanical ventilation. Those with a diagnosis of laryngotracheal stenosis or tracheostomy dependence on their index admission were excluded. Patient demographics, associated comorbidities, and intubation lengths were compared among those with and without a diagnosis of airway stenosis at readmission.
+RESULTS: An estimated 624,918 patients met inclusion with a mean age of 59 years (standard error = 0.2). There were 1,230 patients readmitted within 45 days and diagnosed with laryngeal (N = 362) or tracheal stenosis (N = 920) estimating an incidence of 1.98 per 1,000 discharges. Compared with those without a diagnosis of airway stenosis, those with stenosis were younger (57 vs. 59 years, P < .001), more often female (62% vs. 45%, P < .001) and frequently intubated for >96 hours (47% vs. 32%, P < .001). Additionally, a history of respiratory failure, pneumonia, obesity, gastroesophageal reflux disease, and chronic steroid use were also more common among patients with stenosis. Multiple logistic regression analysis identified a decreased risk of stenosis with advancing age while an increased risk was associated strongest for females (odds ratio [OR]: 1.96, 95% confidence interval [CI]: 1.58-2.44, P < .001) and those with chronic steroid use (OR: 2.69, 95% CI: 1.80-4.02, P < .001).
+CONCLUSION: The incidence of laryngotracheal stenosis after intubation in adults is rare but is associated with female gender and younger age.
+LEVEL OF EVIDENCE: NA Laryngoscope, 132:1723-1728, 2022.
+
+Citation: Johnson RF, et al. Estimations of Laryngotracheal Stenosis After Mechanical Ventilation: A Cross-Sectional Analysis. Estimations of Laryngotracheal Stenosis After Mechanical Ventilation: A Cross-Sectional Analysis. 2022; 132:1723-1728. doi: 10.1002/lary.29866
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34542167/

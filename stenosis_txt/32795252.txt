@@ -1,0 +1,11 @@
+PMID: 32795252
+Title: Identifying Phenogroups in patients with subclinical diastolic dysfunction using unsupervised statistical learning.
+
+Abstract: BACKGROUND: Subclinical diastolic dysfunction is a precursor for developing heart failure with preserved ejection fraction (HFpEF); yet not all patients progress to HFpEF. Our objective was to evaluate clinical and echocardiographic variables to identify patients who develop HFpEF.
+METHODS: Clinical, laboratory, and echocardiographic data were retrospectively collected for 81 patients without HF and 81 matched patients with HFpEF at the time of first documentation of subclinical diastolic dysfunction. Density-based clustering or hierarchical clustering to group patients was based on 65 total variables including 19 categorical and 46 numerical variables. Logistic regression analysis was conducted on the entire study population as well as each individual cluster to identify independent predictors of HFpEF.
+RESULTS: Unsupervised clustering identified 3 subgroups which differed in gender composition, severity of cardiac hypertrophy and aortic stenosis, NT-proBNP, percentage of patients who progressed to HFpEF, and timing of disease progression from diastolic dysfunction to HFpEF to death. Clusters that had higher percentages of women had progressively milder cardiac hypertrophy, less severe aortic stenosis, lower NT-proBNP, were diagnosed at an older age with HFpEF, and survived to an older age. Independent predictors of HFpEF for the entire cohort included diabetes, chronic kidney disease, atrial fibrillation, and diuretic use, with additional predictive variables found for each cluster.
+CONCLUSIONS: Cluster analysis can identify phenotypically distinct subgroups of patients with diastolic dysfunction. Clusters differ in HFpEF and mortality outcome. In addition, the variables that correlate with and predict HFpEF outcome differ among clusters.
+
+Citation: Kaptein YE, et al. Identifying Phenogroups in patients with subclinical diastolic dysfunction using unsupervised statistical learning. Identifying Phenogroups in patients with subclinical diastolic dysfunction using unsupervised statistical learning. 2020; 20:367. doi: 10.1186/s12872-020-01620-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32795252/

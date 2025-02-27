@@ -1,0 +1,11 @@
+PMID: 32267899
+Title: Homocysteine is not a risk factor for subclinical coronary atherosclerosis in asymptomatic individuals.
+
+Abstract: BACKGROUND: Homocysteine has been known as a risk factor for cardiovascular disease. This study sought to evaluate the influence of homocysteine on the risk of subclinical coronary atherosclerosis in asymptomatic individuals.
+METHODS: We reviewed 3,186 asymptomatic individuals (mean age 53.8 ± 8.0 years, 2,202 men [69.1%]) with no prior history of coronary artery disease who voluntarily underwent coronary computed tomographic angiography (CCTA) and laboratory tests as part of a general health examination. The subjects were stratified into tertiles according to their homocysteine levels. The degree and extent of subclinical coronary atherosclerosis were assessed by CCTA. Logistic regression analysis was used to determine the association between homocysteine levels and subclinical coronary atherosclerosis.
+RESULTS: The prevalence of significant coronary artery stenosis, any atherosclerotic, calcified, mixed, and non-calcified plaques increased with homocysteine tertiles (all p < 0.05). However, after adjustment for cardiovascular risk factors, there were no statistically significant differences in the adjusted odds ratios (ORs) for any atherosclerotic plaque (OR 1.06; 95% CI [confidence interval] 0.85-1.32; p = 0.610), calcified plaques (OR 1.17; 95% CI 0.92-1.48; p = 0.199), non-calcified plaques (OR 0.80; 95% CI 0.61-1.04; p = 0.089), and mixed plaques (OR 1.42; 95% CI 0.96-2.11; p = 0.077) between the third and first homocysteine tertiles. In addition, the adjusted OR for significant coronary artery stenosis (OR 0.92; 95% CI 0.63-1.36; p = 0.687) did not differ between the first and third tertiles.
+CONCLUSIONS: In asymptomatic individuals, homocysteine is not associated with an increased risk of subclinical coronary atherosclerosis.
+
+Citation: Park S, et al. Homocysteine is not a risk factor for subclinical coronary atherosclerosis in asymptomatic individuals. Homocysteine is not a risk factor for subclinical coronary atherosclerosis in asymptomatic individuals. 2020; 15:e0231428. doi: 10.1371/journal.pone.0231428
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32267899/

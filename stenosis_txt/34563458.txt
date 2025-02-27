@@ -1,0 +1,11 @@
+PMID: 34563458
+Title: Models to predict the probability for intraoperative RBC transfusion during lumbar spinal stenosis and femoral fracture surgeries in aged patients.
+
+Abstract: OBJECTIVE: The goal of this study was to predict the probability of transfusion of red blood cells and the volume of blood consumption based on the clinical characteristics of patients before surgery.
+METHODS: The medical records of 565 patients over 65 years old who underwent posterior lumbar surgery and 586 patients over 65 years old receiving femoral fracture surgery were reviewed. The clinical characteristics of the patients were subjected to multivariate regression analysis. The scores of these factors' influences on intraoperative red blood cells infusion were based on the odds ratio of each multivariate risk factor. Non-linear regression was performed to predict the probability of intraoperative blood transfusion and the volume of blood used for patients with different scores.
+RESULTS: The factors that significantly influenced blood use during lumbar spinal stenosis and femoral fracture surgery in aged patients(P < 0.05) included age, body mass index, abnormal coagulation function, preoperative hemoglobin, administration of antithrombotic drugs, multisegmental lesions of the lumbar spine, femoral shaft fracture, secondary lumbar surgery and the time from fracture to surgery exceeding 48 h. According to our risk scoring system, patients of posterior lumbar surgery scored 0-10 and patients of femoral fracture had a score of 0-12. More than 50 % of patients receiving an intraoperative red blood cells transfusion during surgery scored>1.
+CONCLUSION: The scoring system can be used as a predictive model for the probability of red blood cells transfusion and the blood volume in aged patients undergoing lumbar spinal stenosis and femoral fracture surgeries.
+
+Citation: Nie Z, et al. Models to predict the probability for intraoperative RBC transfusion during lumbar spinal stenosis and femoral fracture surgeries in aged patients. Models to predict the probability for intraoperative RBC transfusion during lumbar spinal stenosis and femoral fracture surgeries in aged patients. 2021; 60:103277. doi: 10.1016/j.transci.2021.103277
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34563458/

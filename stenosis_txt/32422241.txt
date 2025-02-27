@@ -1,0 +1,12 @@
+PMID: 32422241
+Title: Diagnostic accuracy of early computed tomographic coronary angiography to detect coronary artery disease after out-of-hospital circulatory arrest.
+
+Abstract: AIM: To test the diagnostic accuracy of ECG-gated coronary computed tomography angiography (CCTA) to detect coronary artery disease (CAD) among survivors of out-of-hospital circulatory arrest (OHCA).
+METHODS: We prospectively studied head-to-pelvis computed tomography (CT) scanning (<6 h from hospital arrival) in OHCA survivors. This sub-study tested the primary outcome of CCTA diagnostic accuracy to identify obstructive CAD (≥50% stenosis) compared to clinically-ordered invasive coronary angiography. Patients were not optimized with beta receptor blockade or nitroglycerin. Secondary analyses included CCTA accuracy for CAD in major coronary arteries, obstructive disease at ≥70% stenosis threshold, and where non-evaluable CCTA segments were considered either obstructive or non-obstructive.
+RESULTS: Of the 104 enrolled OHCA survivors, 28 (27%) received both CT and invasive angiography in this sub study. All CCTA studies were evaluable although 49/346 (14%) individual coronary segments were unevaluable, primarily due to being too small to evaluate (65%). Patient-level diagnostic accuracy for the ≥50% stenosis threshold was high at 0.93 (95% CI 0.77-0.98) with a specificity of 1.0 (95% CI 0.8-1.0), sensitivity of 0.85 (95%CI 0.58-0.96), negative predictive value of 0.88 (95% CI 0.66-0.97) and positive predictive value of 1.0 (0.74-1.0). When non-evaluable segments were considered obstructive, the sensitivity rose to 0.92 (95% CI 0.67-0.99) with lower specificity of 0.27 (95% CI 0.11-0.52).
+CONCLUSION: Early CCTA of OHCA survivors has high diagnostic accuracy to detect obstructive coronary artery disease. However, the number of non-diagnostic coronary segments is high suggesting further CCTA refinement is needed, such as the pre-CCTA use of nitroglycerin.
+CLINICAL TRIAL REGISTRATION: NCT03111043 https://clinicaltrials.gov/ct2/show/record/NCT03111043.
+
+Citation: Branch KR, et al. Diagnostic accuracy of early computed tomographic coronary angiography to detect coronary artery disease after out-of-hospital circulatory arrest. Diagnostic accuracy of early computed tomographic coronary angiography to detect coronary artery disease after out-of-hospital circulatory arrest. 2020; 153:243-250. doi: 10.1016/j.resuscitation.2020.04.033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32422241/

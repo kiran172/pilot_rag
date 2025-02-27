@@ -1,0 +1,8 @@
+PMID: 34279146
+Title: The INfoMATAS project: Methods for assessing cerebral autoregulation in stroke.
+
+Abstract: Cerebral autoregulation refers to the physiological mechanism that aims to maintain blood flow to the brain approximately constant when blood pressure changes. Impairment of this protective mechanism has been linked to a number of serious clinical conditions, including carotid stenosis, head trauma, subarachnoid haemorrhage and stroke. While the concept and experimental evidence is well established, methods for the assessment of autoregulation in individual patients remains an open challenge, with no gold-standard having emerged. In the current review paper, we will outline some of the basic concepts of autoregulation, as a foundation for experimental protocols and signal analysis methods used to extract indexes of cerebral autoregulation. Measurement methods for blood flow and pressure are discussed, followed by an outline of signal pre-processing steps. An outline of the data analysis methods is then provided, linking the different approaches through their underlying principles and rationale. The methods cover correlation based approaches (e.g. Mx) through Transfer Function Analysis to non-linear, multivariate and time-variant approaches. Challenges in choosing which method may be 'best' and some directions for ongoing and future research conclude this work.
+
+Citation: Simpson DM, et al. The INfoMATAS project: Methods for assessing cerebral autoregulation in stroke. The INfoMATAS project: Methods for assessing cerebral autoregulation in stroke. 2022; 42:411-429. doi: 10.1177/0271678X211029049
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34279146/

@@ -1,0 +1,12 @@
+PMID: 37999657
+Title: Clinical Utility of Computed Tomography-Derived Myocardial Extracellular Volume Fraction: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Computed tomography (CT)-derived extracellular volume fraction (ECV) is a noninvasive method to quantify myocardial fibrosis. Although studies suggest CT is a suitable measure of ECV, clinical use remains limited.
+OBJECTIVES: A meta-analysis was performed to determine the clinical value of CT-derived ECV in cardiovascular diseases.
+METHODS: Electronic database searches of PubMed, Web of Science Core Collection, Cochrane advanced search, and EMBASE were performed. The most pivotal analysis entailed the comparison of ECV ascertained through CT-ECV among the control, aortic stenosis, and cardiac amyloidosis cohorts. The diagnostic test accuracy for detecting cardiac amyloidosis was assessed using summary receiver-operating characteristics curve.
+RESULTS: Pooled CT-derived ECV values were 28.5% (95% CI: 27.3%-29.7%) in the control, 31.9% (95% CI: 30.2%-33.8%) in the aortic stenosis, and 48.9% (95% CI: 44.5%-53.3%) in the cardiac amyloidosis group. ECV was significantly elevated in aortic stenosis (P = 0.002) (vs controls) but further elevated in cardiac amyloidosis (P < 0.001) (vs aortic stenosis). CT-derived ECV had a high diagnostic accuracy for cardiac amyloidosis, with sensitivity of 92.8% (95% CI: 86.7%-96.2%), specificity of 84.8% (95% CI: 68.6%-93.4%), and area under the summary receiver-operating characteristic curve of 0.94 (95% CI: 0.88-1.00).
+CONCLUSIONS: This study is the first comprehensive systematic review and meta-analysis of CT-derived ECV evaluation in cardiac disease. The high diagnostic accuracy of CT-ECV suggests the usefulness of CT-ECV in the diagnosis of cardiac amyloidosis in preoperative CT planning for transcatheter aortic valve replacement.
+
+Citation: Kato S, et al. Clinical Utility of Computed Tomography-Derived Myocardial Extracellular Volume Fraction: A Systematic Review and Meta-Analysis. Clinical Utility of Computed Tomography-Derived Myocardial Extracellular Volume Fraction: A Systematic Review and Meta-Analysis. 2024; 17:516-528. doi: 10.1016/j.jcmg.2023.10.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37999657/

@@ -1,0 +1,12 @@
+PMID: 38752902
+Title: N-of-1 Trial of Angina Verification Before Percutaneous Coronary Intervention.
+
+Abstract: BACKGROUND: In stable coronary artery disease, 30% to 60% of patients remain symptomatic despite successful revascularization. Perhaps not all symptoms reported by a patient with myocardial ischemia are, in fact, angina.
+OBJECTIVES: This study sought to determine whether independent symptom verification using a placebo-controlled ischemic stimulus could distinguish which patients achieve greatest symptom relief from percutaneous coronary intervention (PCI).
+METHODS: ORBITA-STAR was a multicenter, n-of-1, placebo-controlled study in patients undergoing single-vessel PCI for stable symptoms. Participants underwent 4 episodes (60 seconds each) of low-pressure balloon occlusion across their coronary stenosis, randomly paired with 4 episodes of placebo inflation. Following each episode, patients reported the similarity of the induced symptom in comparison with their usual symptom. The similarity score ranged from -10 (placebo replicated the symptom more than balloon occlusion) to +10 (balloon occlusion exactly replicated the symptom). The primary endpoint was the ability of the similarity score to predict symptom relief with PCI.
+RESULTS: Fifty-one patients were recruited, aged 62.9 ± 8.6 years. The median fractional flow reserve was 0.68 (Q1-Q3: 0.57-0.79), and the instantaneous wave-free ratio was 0.80 (Q1-Q3: 0.48-0.89). The median similarity score was 3 (Q1-Q3: 0.875-5.25). The similarity score was a strong predictor of symptom improvement following PCI: a patient with an upper quartile similarity score of 5.25 was significantly more likely to have lower angina frequency at follow-up (OR: 8.01; 95% credible interval: 2.39-15.86) than a patient with a lower quartile similarity score of 0.875 (OR: 1.31; 95% credible interval: 0.71-1.99), Pr<sub>(difference)</sub> &gt;99.9%.
+CONCLUSIONS: Similarity score powerfully predicted symptom improvement from PCI. These data lay the foundation for independent symptom mapping to target PCI to those patients most likely to benefit. (Systematic Trial of Angina Assessment Before Revascularization [ORBITA-STAR]; NCT04280575).
+
+Citation: Rajkumar CA, et al. N-of-1 Trial of Angina Verification Before Percutaneous Coronary Intervention. N-of-1 Trial of Angina Verification Before Percutaneous Coronary Intervention. 2024; 84:1-12. doi: 10.1016/j.jacc.2024.04.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38752902/

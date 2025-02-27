@@ -1,0 +1,11 @@
+PMID: 36717347
+Title: Trend, Predictors, and Outcomes of Transcatheter Aortic Valve Implantation in Patients With End-Stage Renal Disease: Insights From the Nationwide Readmissions Database.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) is the standard of care for patients with severe aortic valve stenosis (AS). However, evidence on its safety in patients with end-stage renal disease (ESRD) is limited.
+METHODS: The Nationwide Readmissions Database (NRD) from 2015 to 2019 was queried to identify patients undergoing TAVI in ESRD versus patients with no ESRD. The in-hospital, 30-day and 180-day outcomes were assessed using a propensity-score matched (PSM) analysis to calculate adjusted odds ratios (aOR).
+RESULTS: A total of 198,816 underwent TAVI, of which 34,546 patients (TAVI-ESRD 16,986 vs. non-ESRD 17,560) were selected using PSM analysis. The adjusted odds of net adverse cardiovascular events (NACE) (aOR 1.65, 95 % CI 1.49-1.82), in-hospital mortality (aOR 2.99, 95 % CI 2.52-3.55), major bleeding (aOR 1.21, 95 % CI 1.05-1.40), postprocedural cardiogenic shock (aOR 1.54, 95 % CI 1.11-2.13), and need for permanent pacemaker implantation (PPM) (aOR 1.24, 95 % CI 1.15-1.38) were significantly higher in TAVI-ESRD patients compared with non-ESRD patients at index admission. There was no significant difference in the odds of stroke (aOR 1.09, 95 % CI 0.86-1.34) and cardiac tamponade (aOR 1.06, 95 % CI 0.78-1.45) between the two groups. At 30- and 180-day follow-up, the odds of readmission, NACE, and mortality remained high in TAVI-ESRD patients.
+CONCLUSION: ESRD patients undergoing TAVI have a high risk of NACE, in-hospital mortality, and major bleeding compared with patients with no ESRD.
+
+Citation: Sandhyavenu H, et al. Trend, Predictors, and Outcomes of Transcatheter Aortic Valve Implantation in Patients With End-Stage Renal Disease: Insights From the Nationwide Readmissions Database. Trend, Predictors, and Outcomes of Transcatheter Aortic Valve Implantation in Patients With End-Stage Renal Disease: Insights From the Nationwide Readmissions Database. 2023; 50:1-7. doi: 10.1016/j.carrev.2023.01.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36717347/

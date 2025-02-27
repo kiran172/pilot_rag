@@ -1,0 +1,11 @@
+PMID: 32369293
+Title: Is the Newly Defined R2CHA2DS2-Vasc Score a Predictor for Late Mortality in Patients Undergoing Transcatheter Aortic Valve Replacement?
+
+Abstract: OBJECTIVE: To assess the performance of the modified R2CHA2DS2-VASc score for predicting mid-to-long-term mortality (> 30 days) in patients undergoing transcatheter aortic valve replacement (TAVR).
+METHODS: Data of 78 patients who underwent TAVR were retrospectively reviewed. R2CHA2DS2-VASc score was compared with the European System for Cardiac Operative Risk Evaluation II (EuroSCORE II or ES II) and the transcatheter valve therapytranscatheter aortic valve replacement (TVT-TAVR) risk score.
+RESULTS: The mean follow-up period was 17.4±9.9 months (maximum 37 months). Early mortality (first 30 days) was observed in 10 (12.8%) patients, whereas mid-to-long-term mortality (> 30 days) was observed in 26 (33.3%) patients. Non-survivors had higher values of R2CHA2DS2-VASc, ES II, and TAVR scores than survivors (P<0.001, P<0.001, and P=0.001, respectively). Analysis of Pearson's correlation revealed that R2CHA2DS2-VASc score was moderately correlated with ES II and TAVR scores (r=0.51, P<0.001; r=0.44, P=0.001, respectively). Pairwise comparisons of R2CHA2DS2-VASc (area under the curve [AUC]: 0.870, 95% confidence interval [CI]: 0.776-0.964; P<0.001), ES II (AUC: 0.801, 95% CI: 0.703-0.899; P<0.001), and TAVR scores (AUC: 0.730, 95% CI: 0.610-852; P=0.002) showed similar accuracy for predicting mortality. R2CHA2DS2-VASc score is an independent predictor of mortality in multivariable Cox regression analysis. A cutoff value of six for R2CHA2DS2-VASc score showed a sensitivity of 74% and a specificity of 89% for predicting mid-to-long-term mortality.
+CONCLUSION: R2CHA2DS2-VASc score, easily calculated from clinical parameters, is associated with prediction of mid-to-longterm mortality in patients undergoing TAVR.
+
+Citation: Kalyoncuoglu M and Ozturk S. Is the Newly Defined R2CHA2DS2-Vasc Score a Predictor for Late Mortality in Patients Undergoing Transcatheter Aortic Valve Replacement?. Is the Newly Defined R2CHA2DS2-Vasc Score a Predictor for Late Mortality in Patients Undergoing Transcatheter Aortic Valve Replacement?. 2020; 35:145-154. doi: 10.21470/1678-9741-2019-0221
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32369293/

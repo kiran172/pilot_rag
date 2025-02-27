@@ -1,0 +1,11 @@
+PMID: 39482610
+Title: Predicting new-onset persistent conduction disturbance following transcatheter aortic valve replacement: the usefulness of FEOPS finite element analysis.
+
+Abstract: BACKGROUND: Despite the frequency of persistent new-onset conduction disturbances after transcatheter aortic valve replacement (TAVR), few preoperative methods of prediction exist.
+METHODS: Patients who underwent TAVR in the Department of Cardiology of the Second Affiliated Hospital of the Army Medical University from December 2020 to September 2021 and postoperative aortic root modeling via the FEOPS finite element analysis were included in this single-center case-control study, divided into persistent conduction disturbances (PCD) and non-PCD groups according to their pre- and postoperative electrocardiograms in the first month. Risk factors affecting PCD were identified by comparing the baseline data of these two groups, including echocardiograms, computed tomography angiography of the aortic root, surgical decision-making, and FEOPS data. Independent risk factors were screened using logistic regression modeling, and the receiver operating characteristic (ROC) curve was used to test the predictive ability.
+RESULTS: A total of 56 patients were included in this study, 37 with bicuspid aortic valve (BAV) and 19 with trileaflet aortic valve (TAV), with 17 cases of PCD. The contact pressure index (CPI) of FEOPS, valve oversize ratio, differences between membranous interventricular septum length and implantation depth (ΔMSID) and valve implantation depth were statistically different (P < 0.05). CPI could be used as an independent risk factor for PCD (P < 0.05), and the ROC curve comparison showed that the CPI was more predictive (AUC = 0.806, 95% CI: 0.684-0.928, P = 0.001).
+CONCLUSIONS: The CPI of FEOPS has better predictive value for new-onset conduction disturbance after TAVR compared to other known predictors.
+
+Citation: Wang M, et al. Predicting new-onset persistent conduction disturbance following transcatheter aortic valve replacement: the usefulness of FEOPS finite element analysis. Predicting new-onset persistent conduction disturbance following transcatheter aortic valve replacement: the usefulness of FEOPS finite element analysis. 2024; 24:607. doi: 10.1186/s12872-024-04302-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39482610/

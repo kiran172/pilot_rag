@@ -1,0 +1,11 @@
+PMID: 32568672
+Title: Analysis of the effect of guidewire position on stenosis diagnosis using computational fluid dynamics.
+
+Abstract: BACKGROUND: Fractional flow reserve is an accurate method for diagnosing stenosis. The difficulty in using this procedure lies in placing the guidewire precisely at the blood vessel centerline. Owing to the long distance between the insertion point and the stenosis, a guidewire inclination can occur. Therefore, the main objective of this study is to investigate how the measured pressure in a blood vessel varies with the guidewire position.
+METHODS: A three-dimensional model of blood flow is developed and numerically simulated. Two positions and two inclination angles from the blood vessel centerline and three throat diameters are investigated. The predicted results are validated using the available experimental data. The predicted results and actual measurements are observed to agree well with each other.
+RESULTS: The pressure drop coefficient (CDP) increases because of guidewire insertion. When the guidewire is placed at inclined positions in moderate stenosis, the values of CDP are 66 and 68, depending on the inclination angle; the errors in CDP are 69% and 76%, respectively. At a high flow rate, the errors are reduced to 67% and 70%, respectively. The error in the CDP ranges from 42% to 61% when the guidewire is placed parallel to the centerline. For severe stenosis, the CDP is nearly the same at all positions and varies between 240 and 250; without a guidewire, the CDP is 163.
+CONCLUSIONS: The findings confirmed that practitioners should be aware of the guidewire position during the operation. The displacement of the guidewire should be estimated, and the corresponding error must be considered.
+
+Citation: Abuouf Y, et al. Analysis of the effect of guidewire position on stenosis diagnosis using computational fluid dynamics. Analysis of the effect of guidewire position on stenosis diagnosis using computational fluid dynamics. 2020; 121:103777. doi: 10.1016/j.compbiomed.2020.103777
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32568672/

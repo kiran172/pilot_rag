@@ -1,0 +1,8 @@
+PMID: 32768462
+Title: A microfluidic computational fluid dynamics model for cellular interaction studies of sickle cell disease vaso-occlusions.
+
+Abstract: Individuals with sickle cell disease are plagued with vaso-occlusions, chronic blockages within the vasculature. Several factors including stiffer sickle red blood cells and increased cell aggregation contribute to vaso-occlusion formation; however much remains to be understood. We present a computational fluid dynamics blood flow simulation within a microfluidic platform using the Carreau model and Murray's law. Vaso-occlusions form preferentially near bifurcations within 60 s in the sickle cell disease simulation. Velocity profiles and shear rates align with clinical and experimental reports. We assert that results from this study can be utilized to inform experimental investigations and microfluidic system design decisions.
+
+Citation: Blakely IP and Horton RE. A microfluidic computational fluid dynamics model for cellular interaction studies of sickle cell disease vaso-occlusions. A microfluidic computational fluid dynamics model for cellular interaction studies of sickle cell disease vaso-occlusions. 2020; 132:104052. doi: 10.1016/j.mvr.2020.104052
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32768462/

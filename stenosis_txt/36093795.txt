@@ -1,0 +1,12 @@
+PMID: 36093795
+Title: Comparison of transcatheter aortic valve replacement with the ACURATE neo2 versus Evolut PRO/PRO+ devices.
+
+Abstract: BACKGROUND: The ACURATE neo2 (NEO2) and Evolut PRO/PRO+ (PRO) bioprostheses are new-generation self-expanding valves developed for transcatheter aortic valve replacement (TAVR).
+AIMS: We sought to compare the performance of the ACURATE neo2 and Evolut PRO/PRO+ devices.
+METHODS: The NEOPRO-2 registry retrospectively included patients who underwent TAVR for severe aortic stenosis with either the NEO2 or PRO devices between August 2017 and December 2021 at 20 centres. In-hospital and 30-day Valve Academic Research Consortium (VARC)-3 defined outcomes were evaluated. Propensity score (PS) matching and binary logistic regression were performed to adjust the treatment effect for PS quintiles. A subgroup analysis assessed the impact of aortic valve calcification.
+RESULTS: A total of 2,175 patients (NEO2: n=763; PRO: n=1,412) were included. The mean age was 82±6.2 years and the mean Society of Thoracic Surgeons score was 4.2%. Periprocedural complications were low, and both groups achieved high rates of technical success (93.1% vs 94.1%; p=0.361) and predischarge intended valve performance (96.0% vs 94.1%; p=0.056), both in the unmatched and matched analysis (452 pairs). Device success at 30 days was comparable (84.3% vs 83.6%; p=0.688), regardless of aortic valve calcification severity (p>0.05 for interaction). A suggestion for higher VARC-3 early safety in the NEO2 group was mainly driven by reduced rates of new permanent pacemaker implantation (7.7% vs 15.6%; p<0.001).
+CONCLUSIONS: This retrospective analysis reports a similar short-term performance of the ACURATE neo2 platform compared with the new-generation Evolut PRO/PRO+ devices. Randomised studies are needed to confirm our exploratory findings.
+
+Citation: Baggio S, et al. Comparison of transcatheter aortic valve replacement with the ACURATE neo2 versus Evolut PRO/PRO+ devices. Comparison of transcatheter aortic valve replacement with the ACURATE neo2 versus Evolut PRO/PRO+ devices. 2023; 18:977-986. doi: 10.4244/EIJ-D-22-00498
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36093795/

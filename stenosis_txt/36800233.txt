@@ -1,0 +1,8 @@
+PMID: 36800233
+Title: Circ_0001052 promotes cardiac hypertrophy via elevating Hipk3.
+
+Abstract: Cardiac hypertrophy (CH) is a crucial risk factor for sudden death. Circular RNAs (circRNAs) exert significant effects in various biological and pathological processes. Circ_0001052 is sourced from Hipk3 (homeodomain-interacting protein kinase 3) and is reported to aggravate myocardial fibrosis. The purpose of the current study was to clarify the role and mechanism of circ-Hipk3 in CH. Transverse aortic constriction (TAC) was used to create an in vivo CH model, and angiotensin II (Ang II) therapy was used to create an in vitro CH model in cardiomyocytes (CMs). It was uncovered that circ_0001052 exerted pro-hypertrophic effects in Ang II-treated CMs. Next, the circular characteristics of circ_0001052 were verified, and we identified that circ_0001052 positively regulated Hipk3. Hipk3 exerted the same functions as circ_0001052 did. It is significant to note that circ_0001052 acted as the ceRNA of Hipk3 by sponging miR-148a-3p and miR-124-3p. According to rescue assays, miR-148a-3p and miR-124-3p partially reversed the effects of circ_0001052. Further, we testified that circ_0001052 recruited Srsf1 to stabilize Hipk3. Finally, rescue assays demonstrated that circ_0001052 promoted CH via up-regulation of Hipk3. In conclusion, our work unveiled that circ_0001052 promoted hypertrophic effects through elevating Hipk3 via sponging miR-148a-3p and miR-124-3p and recruiting Srsf1.
+
+Citation: Yang M, et al. Circ_0001052 promotes cardiac hypertrophy via elevating Hipk3. Circ_0001052 promotes cardiac hypertrophy via elevating Hipk3. 2023; 15:1025-1038. doi: 10.18632/aging.204521
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36800233/

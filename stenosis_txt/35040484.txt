@@ -1,0 +1,12 @@
+PMID: 35040484
+Title: Incremental value of volumetric quantification for myocardial perfusion imaging by computed tomography.
+
+Abstract: UNLABELLED: ackground: The extent of myocardial ischemia is the crucial prognostic factor for interventional treatment decision making for coronary artery disease. The ability of computed tomography per-fusion (CTP) to provide the missing volumetric information and its clinical value remains unknown.
+AIMS: The study aimed to compare a novel ischemic volume quantification method based on dynamic computed tomography perfusion (VOL CTP) with other CT-based imaging modalities for revascularization prediction.
+METHODS: In this prospective study, 53 (25 females, 63.5 [8.5] years old) consecutive symptomatic patients with 50%-90% coronary artery stenosis (n ≥1) on coronary computed tomography angiography underwent computed-tomography-derived fractional flow reserve (CT-FFR) analysis and dynamic CTP. We calculated the percentage of myocardial ischemia on the CTP-derived images. A 10% cut-off was used to define functionally significant ischemia. The outcomes include coronary revas-cularization during the follow-up of 2.5 (interquartile range, 1.4-2.8) years. Physicians were blinded to the results of CTP and CT-FFR.
+RESULTS: Of the 53 patients in the study (68 arteries with 50%-90% stenosis), 16 underwent revascularization (12 elective, 4 event-driven). In the CTP quantitative analysis, 26 patients had ischemia. Overall, 18 patients had ischemia ≥10% on volumetric ischemia quantification based on dynamic computed tomography perfusion (VOL CTP), and 28 patients had CT-FFR <0.8. VOL CTP, standard CTP, CT-FFR, and computed tomography coronary angiography (CTA) ≥70% performed well for the prediction of total revascularization. Area under the curve was 0.973 vs. 0.865, vs. 0.793, vs. 0.668, respectively. The VOL CTP with ≥10% cut-off was superior to the CT-FFR, standard CTP, and CTA ≥70% (P <0.001; P = 0.002 and P <0.001 respectively).
+CONCLUSIONS: VOL CTP quantification is feasible and adds important, actionable information to that provided by standard CTP or CT-FFR in patients with 50%-90% coronary artery stenosis.
+
+Citation: Oleksiak A, et al. Incremental value of volumetric quantification for myocardial perfusion imaging by computed tomography. Incremental value of volumetric quantification for myocardial perfusion imaging by computed tomography. 2022; 80:163-171. doi: 10.33963/KP.a2022.0015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35040484/

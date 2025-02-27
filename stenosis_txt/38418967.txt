@@ -1,0 +1,11 @@
+PMID: 38418967
+Title: Inhibition of valve mesenchymal stromal cell calcium deposition by bFGF through alternative polyadenylation regulation of the CAT gene.
+
+Abstract: OBJECTIVE: Calcific aortic valve disease (CAVD) is the leading cause of angina, heart failure, and death from aortic stenosis. However, the molecular mechanisms of its progression, especially the complex disease-related transcriptional regulatory mechanisms, remain to be further elucidated.
+METHODS: This study used porcine valvular interstitial cells (PVIC) as a model. We used osteogenic induced medium (OIM) to induce calcium deposition in PVICs to calcify them, followed by basic fibroblast growth factor (bFGF) treatment to inhibit calcium deposition. Transcriptome sequencing was used to study the mRNA expression profile of PVICs and its related transcriptional regulation. We used DaPars to further examine alternative polyadenylation (APA) between different treatment groups.
+RESULTS: We successfully induced calcium deposition of PVICs through OIM. Subsequently, mRNA-seq was used to identify differentially expressed mRNAs for three different treatments: control, OIM-induced and OIM-induced bFGF treatment. Global APA events were identified in the OIM and bFGF treatment groups by bioinformatics analysis. Finally, it was discovered and proven that catalase (CAT) is one of the potential targets of bFGF-induced APA regulation.
+CONCLUSION: We described a global APA change in a calcium deposition model related to CAVD. We revealed that transcriptional regulation of the CAT gene may contribute to bFGF-induced calcium deposition inhibition.
+
+Citation: Zhang J, et al. Inhibition of valve mesenchymal stromal cell calcium deposition by bFGF through alternative polyadenylation regulation of the CAT gene. Inhibition of valve mesenchymal stromal cell calcium deposition by bFGF through alternative polyadenylation regulation of the CAT gene. 2024; 24:128. doi: 10.1186/s12872-024-03775-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38418967/

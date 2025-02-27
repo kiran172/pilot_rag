@@ -1,0 +1,12 @@
+PMID: 38089765
+Title: Prevalence and adverse outcomes of pre-operative frailty in patients undergoing carotid artery revascularization: a meta-analysis.
+
+Abstract: INTRODUCTION: Frailty can lead to a decrease in the patient's resistance to interference such as injury and disease, and cause a series of complications. An increasing number of studies have found that pre-operative frailty exacerbates the occurrence of adverse events after carotid artery revascularization, but an integrated quantitative analysis is currently lacking. Therefore, we conducted a meta-analysis to evaluate the impact of pre-operative frailty on patients undergoing carotid artery revascularization.
+METHOD: According to the PRISMA guidelines, we systematically searched for relevant studies on Medline, Embase, Ovid, CINAHL, Web Of Science, and Cochrane Library from establishment until June 2023. Summarize the risk of adverse outcome events through OR and 95% CI.
+RESULTS: A total of 16 cohort studies were included, including 1692338 patients. Among patients who underwent carotid artery revascularization surgery, the prevalence of pre-operative frailty was 36% (95% CI = 0.18-0.53, P &lt; 0.001). Compared with non frail individuals, frail individuals have an increased risk of mortality (OR = 2.35, 95% CI = 1.40-3.92, P = 0.001, I2 = 94%), stroke (OR = 1.33, 95% CI = 1.10-1.61, P = 0.003, I2 = 71%), myocardial infarction (OR = 1.86, 95% CI = 1.51-2.30, P &lt; 0.001, I2 = 61%), and non-home discharge (OR = 2.39, 95% CI = 1.85-3.09, P &lt; 0.001, I2 = 63%).
+CONCLUSION: The results of this article show that patients undergoing carotid artery revascularization have a higher prevalence of pre-operative frailty, which can lead to an increased risk of postoperative death, stroke, myocardial infarction, and non-home discharge. Strengthening the assessment and management of frailty is of great significance for patient prognosis.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=416234, identifier: CRD42023416234.
+
+Citation: Liu Z, et al. Prevalence and adverse outcomes of pre-operative frailty in patients undergoing carotid artery revascularization: a meta-analysis. Prevalence and adverse outcomes of pre-operative frailty in patients undergoing carotid artery revascularization: a meta-analysis. 2023; 10:1297848. doi: 10.3389/fcvm.2023.1297848
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38089765/

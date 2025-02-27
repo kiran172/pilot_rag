@@ -1,0 +1,13 @@
+PMID: 31558777
+Title: Assessment of degenerative cervical stenosis on T2-weighted MR imaging: sensitivity to change and reliability of mid-sagittal and axial plane metrics.
+
+Abstract: STUDY DESIGN: A retrospective cross-sectional study.
+OBJECTIVE: To assess the sensitivity to change and reliability of various mid-sagittal and axial plane metrics in the assessment of patients with single-level degenerative cervical stenosis on T2-weighted MR imaging.
+SETTING: A diagnostic MR imaging facility in Sydney (Australia).
+METHODS: We retrospectively reviewed T2-weighted MR images of 85 consecutive patients (48 M and 37 F) with single-level degenerative cervical stenosis. Canal compromise and cord compression were evaluated using three mid-sagittal plane metrics (M<sub>1</sub>, M<sub>2</sub>, and M<sub>3</sub>) and two axial plane metrics (M<sub>4</sub> and M<sub>5</sub>), at the level of stenosis and nonstenotic cephalad and caudal levels (controls). Sensitivity to change (SC) for each metric was evaluated as the percentage deviation of the measured value from the estimated normal value based on cephalad and caudal controls. Reliability for each metric was evaluated using intraclass correlation coefficients.
+RESULTS: Degenerative cervical stenosis showed a bimodal distribution peaking at C5-6 (n = 32) and C3-4 (n = 29) levels. The changes in the canal and cord geometry along the rostrocaudal axis were inconsistent. Across all individual subjects (reflecting a range of stenosis severity), M<sub>3</sub> (-32.87% ± 10.60%) was more sensitive to change compared with M<sub>1</sub> (16.64% ± 16.48%) and M<sub>2</sub> (-23.95% ± 11.12%). Similarly, M<sub>4</sub> (-24.62% ± 12.17%) was more sensitive to change compared with M<sub>5</sub> (-6.71% ± 11.08%). The level of reliability was "moderate" to "excellent" for mid-sagittal plane measurements, and "poor" to "excellent" for axial plane measurements.
+CONCLUSION: Changes in canal dimensions in the mid-sagittal plane and cord shape in the axial plane are sensitive indicators of degenerative cervical stenosis on T2-weighted MR images.
+
+Citation: Sritharan K, et al. Assessment of degenerative cervical stenosis on T2-weighted MR imaging: sensitivity to change and reliability of mid-sagittal and axial plane metrics. Assessment of degenerative cervical stenosis on T2-weighted MR imaging: sensitivity to change and reliability of mid-sagittal and axial plane metrics. 2020; 58:238-246. doi: 10.1038/s41393-019-0358-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31558777/

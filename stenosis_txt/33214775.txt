@@ -1,0 +1,11 @@
+PMID: 33214775
+Title: Incidence and Predictors of Structural Valve Deterioration after Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR), widely used as an alternative therapy in patients with severe aortic stenosis, is expected to be offered to low-risk patents with a longer life expectancy. The durability of transcatheter aortic valve is becoming of increasing importance.
+METHOD: PubMed, Embase, and Cochrane CENTRAL from the inception to March 2020 were systematically screened for studies reporting on structural valve deterioration (SVD) in TAVR patients. Incidence of SVD was diagnosed according to the latest European consensus as the primary end point. Predictors of SVD evaluated at multivariable analysis and cumulative incidence function (CIF) of SVD were the secondary end point.
+RESULT: Twelve studies encompassing 10031 patients evaluating the incidence of SVD were included, with a follow-up between 1 and 8 years. The pooled incidence of SVD was 4.93% (95% CI, 2.75%-7.70%, I 2 = 96%) at 1 year and 8.97% (95% CI, 6.89%-11.29%, I 2 = 86%) in the long term (≥5 years). Subgroup analysis was performed to identify the valve type that may result in partial heterogeneity. SVD was more frequent in patents with a valve diameter of &lt;26 mm (HR: 3.57, 1.47-8.69), oral anticoagulants (OAC), exposure at discharge (OR: 0.48, 0.38-0.61), or by a disease of renal dysfunction (OR 1.42, 1.03-1.96).
+CONCLUSION: SVD represents infrequent events after TAVR in the long term (>5 years), occurring more commonly in renal dysfunction patients, with small valve diameter and without OAC exposure. There may be an underestimation of the incidence if we assume death as a competing risk.
+
+Citation: Long YX and Liu ZZ. Incidence and Predictors of Structural Valve Deterioration after Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis. Incidence and Predictors of Structural Valve Deterioration after Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis. 2020; 2020:4075792. doi: 10.1155/2020/4075792
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33214775/

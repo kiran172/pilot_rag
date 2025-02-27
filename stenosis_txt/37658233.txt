@@ -1,0 +1,8 @@
+PMID: 37658233
+Title: Deep learning analysis of blood flow sounds to detect arteriovenous fistula stenosis.
+
+Abstract: For hemodialysis patients, arteriovenous fistula (AVF) patency determines whether adequate hemofiltration can be achieved, and directly influences clinical outcomes. Here, we report the development and performance of a deep learning model for automated AVF stenosis screening based on the sound of AVF blood flow using supervised learning with data validated by ultrasound. We demonstrate the importance of contextualizing the sound with location metadata as the characteristics of the blood flow sound varies significantly along the AVF. We found the best model to be a vision transformer trained on spectrogram images. Our model can screen for stenosis at a performance level comparable to that of a nephrologist performing a physical exam, but with the advantage of being automated and scalable. In a high-volume, resource-limited clinical setting, automated AVF stenosis screening can help ensure patient safety via early detection of at-risk vascular access, streamline the dialysis workflow, and serve as a patient-facing tool to allow for at-home, self-screening.
+
+Citation: Zhou G, et al. Deep learning analysis of blood flow sounds to detect arteriovenous fistula stenosis. Deep learning analysis of blood flow sounds to detect arteriovenous fistula stenosis. 2023; 6:163. doi: 10.1038/s41746-023-00894-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37658233/

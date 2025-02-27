@@ -1,0 +1,11 @@
+PMID: 34470789
+Title: Association of residual stenosis after balloon angioplasty with vessel wall geometries in intracranial atherosclerosis.
+
+Abstract: BACKGROUND: Percutaneous transluminal balloon angioplasty (PTBA) may be an alternative treatment for patients with symptomatic intracranial atherosclerotic disease (ICAD) refractory to medical treatment. This study aimed to investigate the association of vessel wall geometric characteristics on high-resolution magnetic resonance vessel wall imaging (MR-VWI) with low residual stenosis in patients with ICAD after PTBA.
+METHODS: Patients with symptomatic ICAD who underwent PTBA were prospectively and consecutively enrolled. High-resolution MR-VWI was performed before the PTBA. Vessel wall geometries of the target artery, including normalized wall index (NWI: wall area/vessel area × 100%), normalized wall thickness index (NWTI: mean wall thickness/vessel radius × 100%), and remodeling index (RI) were evaluated. Low residual stenosis was defined as postprocedural stenosis degree ≤50%. Perioperative complications including symptomatic ischemic stroke/intracranial hemorrhage, death, and arterial dissection were recorded. The baseline characteristics, vessel wall geometries, and perioperative complications were compared between the patients with low residual stenosis and high residual stenosis.
+RESULTS: Among 60 patients prospectively enrolled, low residual stenosis was achieved in 46 participants (77%). Three patients (5%) suffered from symptomatic ischemic stroke within 30 days. Multivariable logistic regression showed that a lower NWI and lower NWTI were associated with low residual stenosis after PTBA (adjusted OR 0.57, 95% CI 0.35 to 0.94, p=0.027; and adjusted OR 0.88, 95% CI 0.80 to 0.98, p=0.015).
+CONCLUSIONS: Lower NWI and NWTI of the target artery on high-resolution MR-VWI were associated with low residual stenosis in patients with ICAD after PTBA.
+
+Citation: Hou Z, et al. Association of residual stenosis after balloon angioplasty with vessel wall geometries in intracranial atherosclerosis. Association of residual stenosis after balloon angioplasty with vessel wall geometries in intracranial atherosclerosis. 2022; 14:762-766. doi: 10.1136/neurintsurg-2021-017997
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34470789/

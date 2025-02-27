@@ -1,0 +1,12 @@
+PMID: 31797079
+Title: Renal artery assessment with non-enhanced MR angiography versus digital subtraction angiography: comparison between 1.5 and 3.0 T.
+
+Abstract: OBJECTIVES: To compare non-enhanced magnetic resonance angiography (NE-MRA) between 1.5 and 3.0-T using a balanced steady-state free precession (bSSFP) sequence in the assessment of renal artery stenosis (RAS) with digital subtraction angiography (DSA) as a reference standard.
+METHODS: From March 2016 to May 2018, 81 patients suspected to have significant RAS were scheduled for DSA. All patients underwent NE-MRA at either 1.5 T or 3.0 T randomly before DSA. In total, 49 patients underwent 1.5-T NE-MRA, and 32 patients underwent 3.0-T NE-MRA. Image quality was assessed. Degree of stenosis evaluated with NE-MRA was compared with that with DSA.
+RESULTS: NE-MRA provided excellent image qualities for segment 1 and segment 2 at 1.5 T and 3.0 T. Image qualities for segment 3 and segment 4 and the degree of renal artery branches were significantly higher at 3.0 T than at 1.5 T (p < 0.01). Stenoses evaluated with NE-MRA at 1.5 T (r = 0.853, p < 0.01) and 3.0 T (r = 0.811, p < 0.01) were highly correlated with those of DSA. The Bland-Altman plots showed overestimated degrees of stenosis at 1.5 T (mean bias, 3.5% ± 20.4) and 3.0 T (mean bias, 8.4% ± 21.7). The sensitivity and specificity for significant stenosis were 97.4% and 89.8% for 1.5 T and 95.7% and 91.1% for 3.0 T.
+CONCLUSIONS: Both 1.5-T and 3.0-T bSSFP NE-MRA can reliably assess RAS, with high image quality and good diagnostic accuracy. Performing NE-MRA at 3.0 T significantly improved visualization of renal artery branches but showed greater tendency to overestimate stenosis compared with that at 1.5 T.
+KEY POINTS: • Both 1.5-T and 3.0-T NE-MRA provide excellent image quality and good diagnostic accuracy for RAS. • NE-MRA at 3.0 T improved visualization of renal artery branches compared with that at 1.5 T.
+
+Citation: Guo X, et al. Renal artery assessment with non-enhanced MR angiography versus digital subtraction angiography: comparison between 1.5 and 3.0 T. Renal artery assessment with non-enhanced MR angiography versus digital subtraction angiography: comparison between 1.5 and 3.0 T. 2020; 30:1747-1754. doi: 10.1007/s00330-019-06440-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31797079/

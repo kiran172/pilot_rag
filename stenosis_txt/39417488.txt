@@ -1,0 +1,12 @@
+PMID: 39417488
+Title: In-Hospital Outcomes in the Brazilian Registry of Transcatheter Aortic Valve Implantation - 14-Year Analysis.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) has had an exponential increase of its indication, being incorporated into the Brazilian Unified Public Health System in 2022, thus requiring assessment of its use in Brazil.
+OBJETICVE: To assess the factors associated with in-hospital mortality and non-fatal complications in both genders in the Brazilian Registry of Transcatheter Aortic Valve Implantation and New Technologies (RIBAC-NT) population.
+METHOD: Analysis of the RIBAC-NT database from 2008 to 2022 was performed. Logistic models and machine learning were used for statistical assessment of the association between variables and outcomes. The software R was used and a 5% significance level, adopted.
+RESULTS: Analysis of 2588 patients (women, 51.2%; in-hospital death, 8.2%). Mortality was associated with procedural complications, of which major vascular complication (VC) and acute kidney injury (AKI) stood out (p<0.001). Major VC occurred in 6% of the patients, with 34% mortality; AKI occurred in 8.8%, with 13% mortality, which increased up to 8 times when AKI coexisted with other complications. Non-fatal complications occurred in 50.5% of all patients, affecting 63% of those with 1st generation (1G) bioprosthesis and 39% of those with 2nd generation (2G) bioprosthesis (p<0,001). Non-femoral access and heart rhythm influenced non-fatal complications in patients with 1G prostheses, while complications in patients with 2G prosthesis associated with the female gender (39.6% vs. 30.4%, p=0.003).
+CONCLUSION: In-hospital mortality in the RIBAC-NT population was directly associated with procedural complications, mainly major VC and AKI. The occurrence of non-fatal complications differed according to gender and bioprosthesis type.
+
+Citation: Ferreira MCM, et al. In-Hospital Outcomes in the Brazilian Registry of Transcatheter Aortic Valve Implantation - 14-Year Analysis. In-Hospital Outcomes in the Brazilian Registry of Transcatheter Aortic Valve Implantation - 14-Year Analysis. 2024; 121:e20230551. doi: 10.36660/abc.20230551
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39417488/

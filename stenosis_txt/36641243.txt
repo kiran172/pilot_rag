@@ -1,0 +1,12 @@
+PMID: 36641243
+Title: Effectiveness of high implantation of SAPIEN 3 in preventing pacemaker implantation: A propensity score analysis.
+
+Abstract: BACKGROUND: In transcatheter aortic valve implantation, high implantation on the aortic annulus may prevent conduction pathway injury, leading to a decrease in the rate of permanent pacemaker implantation.
+AIM: To assess the impact of high implantation of SAPIEN 3 on the prevention of permanent pacemaker implantation.
+METHODS: Since August 2020, we have performed high implantation by fluoroscopically positioning the lower part of the lucent line at the virtual basal ring line on a coplanar view before valve implantation. Patients treated before the adoption of this method were defined as the conventional group. We compared the high implantation group with the conventional group using propensity score analysis.
+RESULTS: Overall, the high implantation group (n=95) showed a significantly shorter ventricular strut length than the conventional group (n=85): median 1.3 (interquartile range 0.2-2.4) mm vs 2.8 (1.8-4.1) mm (P<0.001). The permanent pacemaker implantation rate was significantly lower in the high implantation group than in the conventional group (2.1% vs 11.8%; P=0.009). According to 100 propensity score analyses based on multiple imputation and the selection of appropriate covariates, the median P value for the comparison of permanent pacemaker implantation rates after transcatheter aortic valve implantation between the high implantation group and the conventional group ranged between 0.001 and 0.017, indicating a more significant reduction in the permanent pacemaker implantation rate in the high implantation group than in the conventional group. Neither valve dislodgement nor the need for a second valve was observed in either group.
+CONCLUSIONS: The high implantation of SAPIEN 3 successfully decreases ventricular strut length, reducing the permanent pacemaker implantation rate after transcatheter aortic valve implantation.
+
+Citation: Onishi T, et al. Effectiveness of high implantation of SAPIEN 3 in preventing pacemaker implantation: A propensity score analysis. Effectiveness of high implantation of SAPIEN 3 in preventing pacemaker implantation: A propensity score analysis. 2023; 116:79-87. doi: 10.1016/j.acvd.2022.11.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36641243/

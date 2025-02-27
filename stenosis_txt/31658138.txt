@@ -1,0 +1,11 @@
+PMID: 31658138
+Title: CHA2DS2-Vasc score and saphenous vein graft disease in patients with coronary artery bypass graft surgery.
+
+Abstract: BACKGROUND: Saphenous vein grafts (SVGs) are still frequently used in coronary artery bypass graft surgery (CABG). However, the patency rate of SVGs is lower than arterial grafts. CHA2DS2-VASc score gives important information about the prognosis of various cardiovascular diseases. In this study, we aimed to investigate the association between CHA2DS2-VASc score and saphenous vein graft disease (SVGD) in patients with history of CABG surgery.
+METHODS: A total of 241 patients who had undergone CABG surgery and who underwent coronary angiography due to stable angina pectoris symptoms were reviewed retrospectively. SVGD was defined as ≥50% stenosis in at least one SVG. Patients were divided into two groups according to the presence or absence of SVGD.
+RESULTS: It was found that CHA2DS2-VASc scores were significantly higher in SVGD group. In multivariate logistic regression analysis, time interval after CABG [odds ratio (OR) = 1.077, 95% confidence interval (CI) 1.004-1.155; P = 0.037], and CHA2DS2-VASc score ≥ 4 (OR = 10.10, 95% CI 4.739-21.276; P < 0.001) were found to be independent predictors of SVGD.
+CONCLUSION: For the first time, our results have suggested that CHA2DS2-VASc score, which is commonly used in daily clinical practice and easy to calculate, can provide useful information for the risk assessment of patients with SVGs.
+
+Citation: Yarlioglues M, et al. CHA2DS2-Vasc score and saphenous vein graft disease in patients with coronary artery bypass graft surgery. CHA2DS2-Vasc score and saphenous vein graft disease in patients with coronary artery bypass graft surgery. 2020; 31:243-247. doi: 10.1097/MCA.0000000000000809
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31658138/

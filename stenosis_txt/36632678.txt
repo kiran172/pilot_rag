@@ -1,0 +1,11 @@
+PMID: 36632678
+Title: Data simulation to forecast the outcomes of the FAVOR III China trial.
+
+Abstract: BACKGROUND: FAVOR III China (F3C) is a large-scale randomized trial comparing QFR-guided and angiography-guided percutaneous coronary intervention (PCI) strategies. The aim of current study was to assess the feasibility of predicting the 1-year outcomes of the F3C trial using simulation of retrospectively assessed quantitative flow ratio (QFR) data obtained from the all-comers PANDA III trial.
+METHODS: Among 2348 subjects from the PANDA III trial, angiography from 1391 patients was able to be analyzed with QFR. Each subject from the F3C was matched to a PANDA III patient according to the five baseline characteristics (age, sex, diabetes, multivessel disease, and existence of any vessel with diameter stenosis % >90% and thrombolysis in myocardial infarction flow <3) through a bootstrapping sampling process. Outcome predictions were based on these blinded baseline data. The primary endpoint was a composite of death, myocardial infarction, or revascularization at 1 year.
+RESULTS: Among the patients with analyzable QFR, 814 patients were able to be matched to F3C patients undergoing a QFR-guided treatment strategy. After 10,000 simulations, the patients in the QFR-guided group were simulated to have a 1.9% (95% predictive intervals: -3.5% to -0.3%) absolute reduction of the occurrence of the primary study endpoint compared with the angiography-guided group. In total, 72.7% (7266/10,000) simulated point estimates fell within the actual 95% CI of F3C (-4.7% to -1.4%).
+CONCLUSIONS: Using a simulation process based on a comparison to an existing trial cohort, the primary results of a prospectively conducted randomized controlled trial could be predicted with reasonable precision.
+
+Citation: Wang Y, et al. Data simulation to forecast the outcomes of the FAVOR III China trial. Data simulation to forecast the outcomes of the FAVOR III China trial. 2023; 16:24-31. doi: 10.1111/jebm.12512
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36632678/

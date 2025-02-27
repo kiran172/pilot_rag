@@ -1,0 +1,12 @@
+PMID: 38795109
+Title: Diagnostic Value of Aortic Valve Calcification Levels in the Assessment of Low-Gradient Aortic Stenosis.
+
+Abstract: BACKGROUND: In patients with low-gradient aortic stenosis (AS) and low transvalvular flow, dobutamine stress echocardiography (DSE) is recommended to determine AS severity, whereas the degree of aortic valve calcification (AVC) supposedly correlates with AS severity according to current European and American guidelines.
+OBJECTIVES: The purpose of this study was to assess the relationship between AVC and AS severity as determined using echocardiography and DSE in patients with aortic valve area &lt;1 cm2 and peak aortic valve velocity &lt;4.0 m/s.
+METHODS: All patients underwent DSE to determine AS severity and multislice computed tomography to quantify AVC. Receiver-operating characteristics curve analysis was used to assess the diagnostic value of AVC for AS severity grading as determined using echocardiography and DSE in men and women.
+RESULTS: A total of 214 patients were included. Median age was 78 years (25th-75th percentile: 71-84 years) and 25% were women. Left ventricular ejection fraction was reduced (<50%) in 197 (92.1%) patients. Severe AS was diagnosed in 106 patients (49.5%). Moderate AS was diagnosed in 108 patients (50.5%; in 77 based on resting transthoracic echocardiography, in 31 confirmed using DSE). AVC score was high (≥2,000 for men or ≥1,200 for women) in 47 (44.3%) patients with severe AS and in 47 (43.5%) patients with moderate AS. AVC sensitivity was 44.3%, specificity was 56.5%, and positive and negative predictive values for severe AS were 50.0% and 50.8%, respectively. Area under the receiver-operating characteristics curve was 0.508 for men and 0.524 for women.
+CONCLUSIONS: Multi-slice computed tomography-derived AVC scores showed poor discrimination between grades of AS severity using DSE and cannot replace DSE in the diagnostic work-up of low-gradient severe AS.
+
+Citation: Adrichem R, et al. Diagnostic Value of Aortic Valve Calcification Levels in the Assessment of Low-Gradient Aortic Stenosis. Diagnostic Value of Aortic Valve Calcification Levels in the Assessment of Low-Gradient Aortic Stenosis. 2024; 17:847-860. doi: 10.1016/j.jcmg.2024.03.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38795109/

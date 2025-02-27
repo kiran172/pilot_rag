@@ -1,0 +1,11 @@
+PMID: 37993343
+Title: Low Transvalvular Flow Rate in Patients Undergoing Transcatheter Aortic Valve Implantation (TAVI) Is a Predictor of Mortality: The TFR-TAVI Study.
+
+Abstract: BACKGROUND: Transvalvular flow rate (TFR) represents a better reflection of transvalvular flow than the stroke volume index (SVi), and has recently emerged as a useful prognostic tool in patients undergoing surgical aortic valve replacement. There is a paucity of data investigating the role of TFR and its relationship with other clinical or echocardiographic factors in patients undergoing transcatheter aortic valve implantation (TAVI).
+METHOD: This was a retrospective single-centre study of 629 consecutive patients who underwent TAVI between March 2009 and September 2020. Pre-TAVI low TFR was defined as <200 c/s. The primary study end point was all-cause mortality.
+RESULTS: Low TFR was observed in 41.8% (263/629) of included patients and was associated with increasing age, low body surface area, hypertension, diabetes, atrial fibrillation, left ventricular (LV) dysfunction, and significant mitral regurgitation. LV function status and severity of aortic valve disease were independent predictors of low TFR. Low TFR was significantly associated with long-term all-cause mortality even after adjustment for other risk factors (adjusted hazard ratio [aHR] 1.44; 95% confidence interval [CI] 1.02-2.03; p=0.038). When data were stratified according to SVi, low TFR was an independent predictor of long-term all-cause mortality in patients with normal SVi (aHR 1.98; 95% CI 1.06-3.69; p=0.032) but not in patients with low SVi (HR 1.23; 95% CI 0.71-2.11; p=0.46; p=0.016 for interaction).
+CONCLUSIONS: Low TFR is common in patients undergoing TAVI and is an independent predictor of all-cause mortality, particularly in patients with normal SVi.
+
+Citation: Al-Atta A, et al. Low Transvalvular Flow Rate in Patients Undergoing Transcatheter Aortic Valve Implantation (TAVI) Is a Predictor of Mortality: The TFR-TAVI Study. Low Transvalvular Flow Rate in Patients Undergoing Transcatheter Aortic Valve Implantation (TAVI) Is a Predictor of Mortality: The TFR-TAVI Study. 2023; 32:1489-1499. doi: 10.1016/j.hlc.2023.09.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37993343/

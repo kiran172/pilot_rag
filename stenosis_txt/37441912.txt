@@ -1,0 +1,11 @@
+PMID: 37441912
+Title: Factors related to unfavorable outcome in minor ischemic stroke.
+
+Abstract: BACKGROUND: Stroke recurrence and disability are important challenges to overcome in patients with minor ischemic stroke. The aim of our study was to determine the factors associated with unfavorable outcomes in patients with minor ischemic stroke.
+METHODS: This was a prospective cohort study including patients with minor ischemic stroke with a National Institutes of Health Stroke Scale (NIHSS) score ≤ 4 who were treated at the Bach Mai Hospital stroke center from June 15, 2021, to September 15, 2022. Unfavorable outcome was defined as mRS 2-6 at 90 days. Multivariable logistic regression analysis was conducted to assess risk factors related to clinical outcomes.
+RESULTS: Of 678 patients presenting with minor ischemic stroke, there were 90 (13.3%, 90/678) patients with no intracranial artery imaging. Hence, 588 were patients analyzed, of whom 6.0% received thrombolytic therapy, 8.5% developed NIHSS > 4 in 24 hours, and 30.4% had intracranial stenosis > 50%. Compared with the group of unfavorable outcomes, the favorable outcome group had more NIHSS 0-1 (29.9% vs.8.7%, P<0.001), lower cardioembolic (3.2% vs.7.9%, P=0.021), low IV-tPA ratio (4.8% vs.10.3%, P=0.019), lower NIHSS progression > 4 in the first 24 hours (3.9% vs.25.4%, P<0.001), and lower ICAS rate (28.1% vs.38.9%, P=0.02). Multivariable regression analysis of factors affecting unfavorable outcomes included baseline NIHSS 2-4 (OR, 3.85; 95% CI, 1.97-7.52), NIHSS progression > 4 (OR, 7.57; 95% CI, 3.80-15.10), and ICAS (OR 1.68; 95%CI, 1.07-2.64).
+CONCLUSIONS: In patients with minor ischemic stroke, unfavorable outcomes were associated with baseline NIHSS 2-4, NIHSS progression > 4 points in 24 hours, and ICAS. These factors may identify a patient population in need of close monitoring and at higher risk of adverse outcomes.
+
+Citation: Ton MD, et al. Factors related to unfavorable outcome in minor ischemic stroke. Factors related to unfavorable outcome in minor ischemic stroke. 2023; 32:107203. doi: 10.1016/j.jstrokecerebrovasdis.2023.107203
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37441912/

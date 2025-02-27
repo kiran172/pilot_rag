@@ -1,0 +1,11 @@
+PMID: 32536342
+Title: Evaluation of aortic stenosis using cardiovascular magnetic resonance: a systematic review & meta-analysis.
+
+Abstract: BACKGROUND: As the average age of patients with severe aortic stenosis (AS) who receive procedural intervention continue to age, the need for non-invasive modalities that provide accurate diagnosis and operative planning is increasingly important. Advances in cardiovascular magnetic resonance (CMR) over the past two decades mean it is able to provide haemodynamic data at the aortic valve, along with high fidelity anatomical imaging.
+METHODS: Electronic databases were searched for studies comparing CMR to transthoracic echocardiography (TTE) and transoesophageal echocardiography (TEE) in the diagnosis of AS. Studies were included only if direct comparison was made on matched patients, and if diagnosis was primarily through measurement of aortic valve area (AVA).
+RESULTS: Twenty-three relevant, prospective articles were included in the meta-analysis, totalling 1040 individual patients. There was no significant difference in AVA measured as by CMR compared to TEE. CMR measurements of AVA size were larger compared to TTE by an average of 10.7% (absolute difference: + 0.14cm2, 95% CI 0.07-0.21, p &lt; 0.001). Reliability was high for both inter- and intra-observer measurements (0.03cm2 +/- 0.04 and 0.02cm2 +/- 0.01, respectively).
+CONCLUSIONS: Our analysis demonstrates the equivalence of AVA measurements using CMR compared to those obtained using TEE. CMR demonstrated a small but significantly larger AVA than TTE. However, this can be attributed to known errors in derivation of left ventricular outflow tract size as measured by TTE. By offering additional anatomical assessment, CMR is warranted as a primary tool in the assessment and workup of patients with severe AS who are candidates for surgical or transcatheter intervention.
+
+Citation: Woldendorp K, et al. Evaluation of aortic stenosis using cardiovascular magnetic resonance: a systematic review & meta-analysis. Evaluation of aortic stenosis using cardiovascular magnetic resonance: a systematic review & meta-analysis. 2020; 22:45. doi: 10.1186/s12968-020-00633-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32536342/

@@ -1,0 +1,12 @@
+PMID: 35093281
+Title: Validation of the VARC-3 Technical Success Definition in Patients Undergoing TAVR.
+
+Abstract: OBJECTIVES: The authors aimed to investigate the rates, predictors, and prognostic impact of technical success in patients undergoing transcatheter aortic valve replacement (TAVR).
+BACKGROUND: The Valve Academic Research Consortium-3 (VARC-3) has introduced a composite endpoint to assess the immediate technical success of TAVR.
+METHODS: In the prospective Bern TAVR registry, patients were stratified according to VARC-3 technical success. Technical failure differentiated between vascular and cardiac complications.
+RESULTS: In a total of 1,624 patients undergoing TAVR between March 2012 and December 2019, 1,435 (88.4%) patients had technical success. Among 189 patients with technical failure, 140 (8.6%) had vascular and 49 (3.0%) had cardiac technical failure. Female, larger device landing zone calcium volume, and the early term of the study period were associated with an increased risk for cardiac technical failure, whereas higher body mass index and the use of the Prostar (Abbott Vascular Inc) MANTA (Teleflex) (compared with the ProGlide [Abbott Vascular Inc]) were predictors of vascular technical failure. In multivariable analysis, technical failure conferred an increased risk for cardiovascular death or stroke (HR: 2.01; 95% CI: 1.37-2.95). The adverse effect remained when stratified to cardiac (HR: 2.62; 95% CI: 1.38-4.97) or vascular technical failure (HR: 1.95; 95% CI: 1.28-2.95) and limited to the periprocedural period (0-30 days: HR: 3.42 [95% CI: 2.05-5.69]; 30-360 days: HR: 1.36 [95% CI: 0.79-2.35]; P for interaction = 0.002).
+CONCLUSIONS: Technical failure according to VARC-3 was observed in 1 of 10 patients undergoing TAVR and was associated with a 2-fold increased risk of the composite outcome at 1 year after TAVR. (Swiss TAVI Registry; NCT01368250).
+
+Citation: Tomii D, et al. Validation of the VARC-3 Technical Success Definition in Patients Undergoing TAVR. Validation of the VARC-3 Technical Success Definition in Patients Undergoing TAVR. 2022; 15:353-364. doi: 10.1016/j.jcin.2021.11.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35093281/

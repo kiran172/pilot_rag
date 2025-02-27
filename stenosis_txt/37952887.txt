@@ -1,0 +1,11 @@
+PMID: 37952887
+Title: An Artificial Intelligence-Based Support Tool for Lumbar Spinal Stenosis Diagnosis from Self-Reported History Questionnaire.
+
+Abstract: OBJECTIVES: Symptomatic lumbar spinal stenosis (LSS) leads to functional impairment and pain. While radiologic characterization of the morphological stenosis grade can aid in the diagnosis, it may not always correlate with patient symptoms. Artificial intelligence (AI) may diagnose symptomatic LSS in patients solely based on self-reported history questionnaires.
+METHODS: We evaluated multiple machine learning (ML) models to determine the likelihood of LSS using a self-reported questionnaire in patients experiencing low back pain and/or numbness in the legs. The questionnaire was built from peer-reviewed literature and a multidisciplinary panel of experts. Random forest, lasso logistic regression, support vector machine, gradient boosting trees, deep neural networks, and automated machine learning models were trained and performance metrics were compared.
+RESULTS: Data from 4827 patients (4690 patients without LSS: mean age 62.44, range 27-84 years, 62.8% females, and 137 patients with LSS: mean age 50.59, range 30-71 years, 59.9% females) were retrospectively collected. Among the evaluated models, the random forest model demonstrated the highest predictive accuracy with an area under the receiver operating characteristic curve (AUROC) between model prediction and LSS diagnosis of 0.96, a sensitivity of 0.94, a specificity of 0.88, a balanced accuracy of 0.91, and a Cohen's kappa of 0.85.
+CONCLUSIONS: Our results indicate that ML can automate the diagnosis of LSS based on self-reported questionnaires with high accuracy. Implementation of standardized and intelligence-automated workflow may serve as a supportive diagnostic tool to streamline patient management and potentially lower health care costs.
+
+Citation: Abel F, et al. An Artificial Intelligence-Based Support Tool for Lumbar Spinal Stenosis Diagnosis from Self-Reported History Questionnaire. An Artificial Intelligence-Based Support Tool for Lumbar Spinal Stenosis Diagnosis from Self-Reported History Questionnaire. 2024; 181:e953-e962. doi: 10.1016/j.wneu.2023.11.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37952887/

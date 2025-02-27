@@ -1,0 +1,15 @@
+PMID: 38499062
+Title: Left-digit bias in surgical decision-making for lumbar spinal stenosis.
+
+Abstract: BACKGROUND CONTEXT: Left-digit bias is a behavioral heuristic or cognitive "shortcut" in which the leftmost digit of a number, such as patient age, disproportionately influences surgical decisions.
+PURPOSE: To determine if left-digit bias in patient age influences the decision to perform arthrodesis with instrumentation vs decompression in lumbar spinal stenosis (LSS).
+DESIGN: Retrospective cohort.
+PATIENT SAMPLE: Patients with an ICD-10 diagnosis of lumbar stenosis or spondylolisthesis identified in the 2017-2021 National Surgical Quality Improvement Program (NSQIP) database.
+OUTCOME MEASURES: The primary outcome was the percent of patients who underwent arthrodesis with instrumentation (AwI). Matched age group comparisons without left-digit differences (ie, 76/77 vs 78/79, 80/81 vs 82/83, etc.) were performed to isolate the effect of the heuristic. Secondary outcomes including peri-operative events and complications were also compared within AwI and decompression cohorts.
+METHODS: Using CPT codes, procedures were classified as either AwI or decompression. Patients were grouped into 6 cohorts based on 2-year age windows (74/75, 76/77, 78/79, 80/81, 82/83, 84/85). The cohorts were propensity matched with neighboring age groups based on the presence of spondylolisthesis, demographics, and comorbidities. The primary comparison was between those aged 78/79 vs 80/81.
+RESULTS: After matching, the primary cohort consisted of two groups of 1,550 patients (aged 78/79 and 80/81). Patients aged 80/81 were less likely to undergo AwI than patients aged 78/79 (23.5% vs 27.2%, p=.021). AwI procedures occurred at similar rates between age groups with the same left digit. Within the decompression and AwI cohorts, there were no differences in secondary outcomes between patients aged 78/79 and 80/81.
+CONCLUSIONS: LSS patients aged 80/81 are less likely to undergo AwI than patients aged 78/79, regardless of comorbidities. This was not seen when comparing patients with similar left digits in age. Until objective measures of physiologic capacity are established, left-digit bias may influence clinical decisions.
+
+Citation: Akosman I, et al. Left-digit bias in surgical decision-making for lumbar spinal stenosis. Left-digit bias in surgical decision-making for lumbar spinal stenosis. 2024; 24:1388-1395. doi: 10.1016/j.spinee.2024.03.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38499062/

@@ -1,0 +1,11 @@
+PMID: 36029008
+Title: Automated measurement of spine indices on axial MR images for lumbar spinal stenosis diagnosis using segmentation-guided regression network.
+
+Abstract: PURPOSE: Automated measurement of spine indices on axial magnetic resonance (MR) images plays a significant role in lumbar spinal stenosis diagnosis. Existing direct spine indices measurement approaches fail to explicitly focus on the task-specific region or feature channel with the additional information for guiding. We aim to achieve accurate spine indices measurement by introducing the guidance of the segmentation task.
+METHODS: In this paper, we propose a segmentation-guided regression network (SGRNet) to achieve automated spine indices measurement. SGRNet consists of a segmentation path for generating the spine segmentation prediction and a regression path for producing spine indices estimation. The segmentation path is a U-Net-like network which includes a segmentation encoder and a decoder which generates multilevel segmentation features and segmentation prediction. The proposed segmentation-guided attention module (SGAM) in the regression encoder extracts the attention-aware regression feature under the guidance of the segmentation feature. Based on the attention-aware regression feature, a fully connected layer is utilized to output the accurate spine indices estimation.
+RESULTS: Experiments on the open-access Lumbar Spine MRI data set show that SGRNet achieves state-of-the-art performance with a mean absolute error of 0.49 mm and mean Pearson correlation coefficient of 0.956 for four indices estimation.
+CONCLUSIONS: The proposed SGAM in SGRNet is capable of improving the performance of spine indices measurement by focusing on the task-specific region and feature channel under the guidance of the segmentation task.
+
+Citation: Pang C, et al. Automated measurement of spine indices on axial MR images for lumbar spinal stenosis diagnosis using segmentation-guided regression network. Automated measurement of spine indices on axial MR images for lumbar spinal stenosis diagnosis using segmentation-guided regression network. 2023; 50:104-116. doi: 10.1002/mp.15961
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36029008/

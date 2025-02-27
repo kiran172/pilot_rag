@@ -1,0 +1,8 @@
+PMID: 31854260
+Title: A potential role for the CDH13/CDH15 gene in repeat revascularization after first percutaneous coronary intervention.
+
+Abstract: Aim: Major drawbacks of percutaneous coronary intervention are the high occurrence of repeat revascularization due to restenosis and disease progression. The aim of this study was to find genetic indicators to predict the risk of repeat revascularization. Materials &amp; methods: From April 2015 to June 2016, 143 patients with percutaneous coronary intervention with genetic test results were enrolled. SNPs were measured by OmniZhongHua-8, and the SNPs in pathways genes related to known stenosis-related processes from the KEGG, BioCarta and Gene Cards databases were selected for analysis. Results: Cell-extracellular matrix interactions were the pathways with the most significant SNP (CDH15 rs72819363) association with repeat revascularization. Compared with CDH13 rs11859453G carriers, the adjusted odds ratio for A carriers was 0.25 and 0.33 at 18 and 30 months. Conclusion: We demonstrated a potential role of the cell-extracellular matrix interactions pathway and the possible biomarker CDH13/CDH15 in the development of coronary repeat revascularization.
+
+Citation: Xiang Q, et al. A potential role for the CDH13/CDH15 gene in repeat revascularization after first percutaneous coronary intervention. A potential role for the CDH13/CDH15 gene in repeat revascularization after first percutaneous coronary intervention. 2020; 21:91-99. doi: 10.2217/pgs-2019-0118
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31854260/

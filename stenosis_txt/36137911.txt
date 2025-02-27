@@ -1,0 +1,11 @@
+PMID: 36137911
+Title: Association of spontaneous echo contrast with Systemic Immune Inflammation Index in patients with mitral stenosis.
+
+Abstract: OBJECTIVE: Spontaneous echo contrast (SEC) is the appearance of swirling, smoke-like echoes in the left atrium (LA) and is accepted as an independent predictor of thromboembolic risk. There is an established relationship between the inflammatory state and the prothrombotic state. Therefore, we investigated the relationship between the Systemic Immune Inflammation Index (SII), a new inflammation parameter introduced recently, and SEC in patients with mitral stenosis (MS).
+MATERIAL AND METHODS: A total of 262 patients who underwent percutaneous mitral valvuloplasty (PMBV) for MS were included in this study. The patients were divided into two groups: patients with MS complicated by SEC and patients with MS without SEC, based on whether SEC occurred in the LA.
+RESULTS: There were 79 patients (mean age 47.1 ± 6.6, 30.3% male gender) in the SEC (+) group, while there were 183 patients (mean age 46.4 ± 8.6, 29.5% male gender) in the SEC (-) group. In multivariate analysis, high levels of SII were an independent risk factor for SEC in patients with MS (OR: 1.001, 95% confidence interval (CI): 1.000-1.001, p<0.001) together with high levels of C-reactive protein (OR: 1.145, 95% CI: 1.027-1.277, p=0.014). The receiver operating characteristics (ROC) curve analysis showed that at a cutoff value of 547.6 for SII to predict SEC with 74.6% sensitivity and 77.6% specificity (area under ROC curve=0.736 (95% CI: 0.668-0.805), p<0.001).
+CONCLUSION: Our study showed that the SII levels were independently associated with SEC in patients with MS.
+
+Citation: Kelesoglu S, et al. Association of spontaneous echo contrast with Systemic Immune Inflammation Index in patients with mitral stenosis. Association of spontaneous echo contrast with Systemic Immune Inflammation Index in patients with mitral stenosis. 2022; 41:1001-1008. doi: 10.1016/j.repc.2021.08.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36137911/

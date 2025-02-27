@@ -1,0 +1,12 @@
+PMID: 37449451
+Title: Correlation between measured and predicted mismatch with valve hemodynamics in transcatheter aortic valve replacement: A sex-based analysis.
+
+Abstract: BACKGROUND: Data regarding the reliability of predicted effective orifice area indexed (pEOAi) is scarce in transcatheter aortic valve replacement (TAVR).
+AIMS: To assess the validity of the pEOAi in TAVR by correlating its value with echocardiography-derived hemodynamic data.
+METHODS: A single-center retrospective cohort study of TAVR patients from 2012 to 2021 with available echocardiograms was conducted. Patient-prosthesis mismatch (PPM) was defined based on the Valve Academic Research Consortium 3 criteria. The main endpoints were the congruence of measured effective orifice area indexed (EOAi) and pEOAi with the hemodynamic data obtained by echocardiography. The secondary endpoint included a correlation of predicted PPM (pPPM) and measured PPM (mPPM) with postoperative New York Heart Association (NYHA) status.
+RESULTS: A total of 318 patients were included. pPPM was more frequent than mPPM (54 [17%]; all moderate PPM vs. 39 [12.3%]: 32 moderate and 7 severe PPM). Predicted and measured EOAi were statistically correlated with postprocedural transvalvular mean gradient and Doppler velocity index (all p < 0.001), including in both sex-based subgroups. The positive predictive value and negative predictive value (NPV) of pPPM for postprocedural transvalvular mean gradient ≥ 20 mmHg were 16% and 97%, respectively. Only pPPM was significantly more prevalent in the group in which NYHA failed to improve than in those with symptom improvement (30.1% vs. 16%, p = 0.027).
+CONCLUSION: Predicted PPM has an excellent NPV for postprocedural transvalvular mean gradient ≥ 20 mmHg and seems to be a good predictor of NYHA status evolution as opposed to measured PPM. Predicted EOAi can be used in procedural planning to reduce the risk of PPM in both TAVR male and female patients.
+
+Citation: Natalis A, et al. Correlation between measured and predicted mismatch with valve hemodynamics in transcatheter aortic valve replacement: A sex-based analysis. Correlation between measured and predicted mismatch with valve hemodynamics in transcatheter aortic valve replacement: A sex-based analysis. 2023; 102:505-512. doi: 10.1002/ccd.30764
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37449451/

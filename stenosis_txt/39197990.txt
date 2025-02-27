@@ -1,0 +1,12 @@
+PMID: 39197990
+Title: Impact of Tricuspid Regurgitation on Outcomes of Transcatheter Aortic Valve Replacement With Balloon-Expandable Valves.
+
+Abstract: BACKGROUND: Tricuspid regurgitation (TR) is highly prevalent in the transcatheter aortic valve replacement (TAVR) population, but clear management guidelines are lacking.
+OBJECTIVES: The aims of this study were to elucidate the prevalence and consequences of severe TR in patients with aortic stenosis undergoing TAVR and to examine the change in TR post-TAVR, including predictors of improvement and its impact on longer term mortality.
+METHODS: Using Centers for Medicare and Medicaid Services-linked TVT (Transcatheter Valve Therapy) Registry data, a propensity-matched analysis was performed among patients undergoing TAVR with baseline mild, moderate, or severe TR. Kaplan-Meier estimates were used to assess the impact of TR on 3-year mortality. Multivariable analysis identified predictors of 30-day TR improvement.
+RESULTS: Of the 312,320 included patients, 84% had mild, 13% moderate, and 3% severe TR. In a propensity-matched cohort, severe baseline TR was associated with higher in-hospital mortality (2.5% vs 2.1% for moderate TR and 1.8% for mild TR; P = 0.009), higher 1-year mortality (24% vs 19.6% for moderate TR and 16.6% for mild TR; P < 0.0001), and 3-year mortality (54.2% vs 48.5% for moderate TR and 43.3% for mild TR; P < 0.0001). Among the patients with severe TR at baseline, 76.4% improved to moderate or less TR 30 days after TAVR. Baseline mitral regurgitation moderate or greater, preserved ejection fraction, higher aortic valve gradient, and better kidney function predicted TR improvement after TAVR. However, severe 30-day residual TR was associated with higher 1-year mortality (27.4% vs 18.7% for moderate TR and 16.8% for mild TR; P < 0.0001).
+CONCLUSIONS: Severe baseline and 30-day residual TR after TAVR are associated with increased mortality up to 3 years. This analysis identifies a higher risk group that could be evaluated for the recently approved tricuspid interventions.
+
+Citation: Zahr F, et al. Impact of Tricuspid Regurgitation on Outcomes of Transcatheter Aortic Valve Replacement With Balloon-Expandable Valves. Impact of Tricuspid Regurgitation on Outcomes of Transcatheter Aortic Valve Replacement With Balloon-Expandable Valves. 2024; 17:1916-1931. doi: 10.1016/j.jcin.2024.07.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39197990/

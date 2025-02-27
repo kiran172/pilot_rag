@@ -1,0 +1,12 @@
+PMID: 36074485
+Title: Adjusting RFR by Predictors of Disagreement, "The Adjusted RFR": An Alternative Methodology to Improve the Diagnostic Capacity of Coronary Indices.
+
+Abstract: BACKGROUND: Cutoff thresholds for the "resting full-cycle ratio" (RFR) oscillate in different series, suggesting that population characteristics may influence them. Likewise, predictors of discordance between the RFR and fractional flow reserve (FFR) have been documented. The RECOPA Study showed that diagnostic capacity is reduced in the RFR "grey zone", requiring the performance of FFR to rule out or confirm ischemia.
+OBJECTIVES: To determine predictors of discordance, integrate the information they provide in a clinical-physiological index, the "Adjusted RFR", and compare its agreement with the FFR.
+METHODS: Using data from the RECOPA Study, predictors of discordance with respect to FFR were determined in the RFR "grey zone" (0.86 to 0.92) to construct an index ("Adjusted RFR") that would weigh RFR together with predictors of discordance and evaluate its agreement with FFR.
+RESULTS: A total of 156 lesions were evaluated in 141 patients. Predictors of discordance were: chronic kidney disease, previous ischemic heart disease, lesions not involving the anterior descending artery, and acute coronary syndrome. Though limited, the "Adjusted RFR" improved the diagnostic capacity compared to the RFR in the "grey zone" (AUC-RFR = 0.651 versus AUC-"Adjusted RFR" = 0.749), also showing an improvement in all diagnostic indices when optimal cutoff thresholds were established (sensitivity: 59% to 68%; specificity: 62% to 75%; diagnostic accuracy: 60% to 71%; positive likelihood ratio: 1.51 to 2.34; negative likelihood ratio: 0.64 to 0.37).
+CONCLUSIONS: Adjusting the RFR by integrating the information provided by predictors of discordance to obtain the "Adjusted RFR" improved the diagnostic capacity in our population. Further studies are required to evaluate whether clinical-physiological indices improve the diagnostic capacity of RFR or other coronary indices.
+
+Citation: Fernández-Rodríguez D, et al. Adjusting RFR by Predictors of Disagreement, "The Adjusted RFR": An Alternative Methodology to Improve the Diagnostic Capacity of Coronary Indices. Adjusting RFR by Predictors of Disagreement, "The Adjusted RFR": An Alternative Methodology to Improve the Diagnostic Capacity of Coronary Indices. 2022; 119:705-713. doi: 10.36660/abc.20220176
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36074485/

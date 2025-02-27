@@ -1,0 +1,12 @@
+PMID: 32681697
+Title: Safety-net hospitals versus non-safety centers and clinical outcomes after trans-catheter aortic valve replacement.
+
+Abstract: OBJECTIVE: To compare post-procedural outcomes of trans-catheter valve replacement (TAVR) among safety-net (SNH) and non-safety net hospitals (non-SNH).
+BACKGROUND: SNH treat a large population of un-insured and low income patients; prior studies report worse outcome at these centers. Results of TAVR at these centers is limited.
+METHODS: Adults undergoing TAVR at hospitals in the US participating in the National In-patient sample (NIS) database from January 2014 to December 2015 were included. A 1:1 propensity-matched cohort of patients operated at SNH and non-SNH institutions was analyzed, on the basis of 16 demographic and clinical co-variates. Main outcome was all-cause post-procedural mortality. Secondary outcomes included stroke, acute kidney injury and length of post-operative stay.
+RESULTS: Between 2014 and 2015, 41,410 patients (mean age 80 ± 0.11 years, 46% female) underwent TAVR at 731 centers; 6,996 (16.80%) procedures were performed at SNH comprising 135/731 (18.4%) of all centers performing TAVR. SNH patients were more likely to be female (49% vs. 46%, p < .001); admitted emergently (31% vs. 21%; p < .001; at the lowest quartile for household income (25% % vs. 20%; p < .001) and from minorities (Blacks 5.9% vs. 3.9%; Hispanic 7.2% vs. 3.2%).Adjusted logistic regression was performed on 6,995 propensity-matched patient pairs. Post-procedural mortality [OR 0.99(0.98-1.007); p = .43], stroke [OR 1.009(0.99-1.02); p = .08], acute kidney injury [OR 0.99(0.96-1.01); p = .5] and overall length of stay (6.9 ± 0.1 vs. 7.1 ± 0.2 days; p = .57) were comparable in both cohorts.
+CONCLUSION: Post-procedural outcomes after TAVR at SNH are comparable to national outcomes and wider adoption of TAVR at SNH may not adversely influence outcomes.
+
+Citation: Sheikh MA, et al. Safety-net hospitals versus non-safety centers and clinical outcomes after trans-catheter aortic valve replacement. Safety-net hospitals versus non-safety centers and clinical outcomes after trans-catheter aortic valve replacement. 2021; 97:E425-E430. doi: 10.1002/ccd.29123
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32681697/

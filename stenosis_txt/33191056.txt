@@ -1,0 +1,11 @@
+PMID: 33191056
+Title: Serum levels of C-terminal FGF23 (cFGF23) are associated with 1-year-mortality in patients undergoing transcatheter aortic valve replacement (TAVR).
+
+Abstract: INTRODUCTION: Serum levels of FGF23 have been associated with adverse outcomes in cardiovascular diseases in patients with and without impaired renal function. Hence, this study aimed to explore the prognostic relevance of intact FGF23 (iFGF23) and its derivate C-terminal FGF23 (cFGF23) in patients undergoing transcatheter aortic valve replacement (TAVR) with regard to renal function.
+METHODS: A total of 274 patients undergoing transfemoral TAVR were enrolled in this study. Blood samples were obtained preinterventionally and analyzed for iFGF23 and cFGF23 by means of enzyme linked immunosorbent assay (ELISA). Follow-up was obtained for 12 months.
+RESULTS: Serum levels of cFGF23 and iFGF23 both correlated positively with serum creatinine and inversely with estimated glomerular filtration rate (eGFR). Cox regression analysis revealed a significant association of cFGF23 with 1-year-mortality in patients with eGFR ≥45ml/min/1.73m², but not in patients with an eGFR <45ml/min/1.73m². A cut-off was calculated for cFGF23 (6.82 pmol/l) and patients with eGFR ≥45ml/min/1.73m² were retrospectively divided into two groups (above/below cut-off). Patients above the cut-off had a significantly worse 1-year-mortality than patients below the cut-off (33.3% vs. 19.6%; OR 2.05 (95%CI 1.03-4.07), p= 0.038). The association of cFGF23 with 1-year-mortality in patients with eGFR ≥45ml/min/1.73m² remained statistically significant even after correction for possible confounders in a multivariate Cox regression analysis.
+CONCLUSION: cFGF23 could be an individual risk factor for mortality in patients undergoing TAVR with an eGFR ≥45ml/min/1.73m².
+
+Citation: Mirna M, et al. Serum levels of C-terminal FGF23 (cFGF23) are associated with 1-year-mortality in patients undergoing transcatheter aortic valve replacement (TAVR). Serum levels of C-terminal FGF23 (cFGF23) are associated with 1-year-mortality in patients undergoing transcatheter aortic valve replacement (TAVR). 2021; 85:98-107. doi: 10.1016/j.ejim.2020.09.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33191056/

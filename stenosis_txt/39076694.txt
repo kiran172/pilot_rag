@@ -1,0 +1,11 @@
+PMID: 39076694
+Title: Impact of Radial Wall Strain on Serial Changes in Vascular Physiology in Patients with Intermediate Coronary Stenosis.
+
+Abstract: BACKGROUND: Coronary biomechanical stress contributes to the plaque rupture and subsequent events. This study aimed to investigate the impact of plaque biomechanical stability on the physiological progression of intermediate lesions, as assessed by the radial wall strain (RWS) derived from coronary angiography.
+METHODS: Patients with at least one medically treated intermediate lesion at baseline who underwent follow-up coronary angiography over 6 months were included. The maximal RWS ( RWS max  ) of the interrogated lesion was calculated from the baseline angiogram. The primary endpoint was to determine the association between baseline RWS max  and the functional progression of coronary lesions, defined as an increase in the lesion-specific △ quantitative flow ratio (L- △ QFR, calculated as the absolute change in QFR across the lesion) on serial angiograms.
+RESULTS: Among 175 lesions in 156 patients, 63 lesions showed an increase in L- △ QFR during a median follow-up period of 12.4 months. Baseline RWS max  values were significantly higher in lesions with increased L- △ QFR than in those with stabilized or decreased L- △ QFR (11.8 [10.7, 13.7] vs.10.8 [9.7, 11.7]; p = 0.001). Baseline RWS max  presented an area under the curve of 0.658 (95% confidence interval [CI]: 0.572-0.743, p &lt; 0.001) for the prediction of increased L- △ QFR. After full adjustment for clinical and angiographic factors, a high RWS max  ( &gt; 12) was found to be an independent predictor of functional lesion progression (odds ratio: 2.871, 95% CI: 1.343-6.138, p = 0.007).
+CONCLUSIONS: A high RWS max  calculated from baseline angiograms was independently associated with the subsequent physiological progression in patients with intermediate coronary lesions.
+
+Citation: Chu J, et al. Impact of Radial Wall Strain on Serial Changes in Vascular Physiology in Patients with Intermediate Coronary Stenosis. Impact of Radial Wall Strain on Serial Changes in Vascular Physiology in Patients with Intermediate Coronary Stenosis. 2023; 24:245. doi: 10.31083/j.rcm2408245
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39076694/

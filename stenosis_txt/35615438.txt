@@ -1,0 +1,11 @@
+PMID: 35615438
+Title: Identification of Serum Metabolomics Characteristics in Patients with Stable Angina Pectoris Using UHPLC-QE-MS.
+
+Abstract: BACKGROUND: Stable angina pectoris (SAP) is one of the main types of coronary heart disease (CHD). To improve treatment outcomes, more effective biomarkers are needed. Currently, studies on the metabolic characteristics of SAP are lacking. Here, we explored the serum metabolomic profile of SAP and identified potential biomarkers and related pathways to assist the clinical diagnosis and treatment of SAP.
+METHOD: Thirty patients with SAP patients and 30 healthy controls (CON) without stenosis were selected for this study. All patients underwent coronary angiography. The metabolites of the two groups' serum samples were investigated using UHPLC-QE-MS. Changes in serum metabolic profile were evaluated using multivariate statistical analysis and pathway analysis.
+RESULT: OPLS-DA analysis identified significant differences in the serum metabolic profiles between patients with SAP and CON. Twenty-five differential metabolites were identified between patients from SAP and CON groups, including choline, creatine, L-arginine, beta-guanidinopropionic acid, isopalmitic acid, xanthine, LysoPC (18 : 1), and LysoPC (20 : 3). Pathway analysis found that these differential metabolites were involved in energy metabolism, oxidative stress, purine metabolism, and other metabolic pathways.
+CONCLUSION: By comparing the serum metabolic profiles of SAP patients with a control group, we identified 25 potential biomarkers that could improve the clinical diagnosis and treatment of SAP.
+
+Citation: Zhou Y, et al. Identification of Serum Metabolomics Characteristics in Patients with Stable Angina Pectoris Using UHPLC-QE-MS. Identification of Serum Metabolomics Characteristics in Patients with Stable Angina Pectoris Using UHPLC-QE-MS. 2022; 2022:3900828. doi: 10.1155/2022/3900828
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35615438/

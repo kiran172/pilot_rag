@@ -1,0 +1,10 @@
+PMID: 38593219
+Title: Association between lipoprotein(a), LPA genetic risk score, aortic valve disease, and subsequent major adverse cardiovascular events.
+
+Abstract: AIMS: Cohort studies have demonstrated associations between calcific aortic valve disease (CAVD) and Lp(a). As Lp(a) is almost entirely genetically determined, in this study, we aim to determine whether Lp(a), when predicted from genetic data, is associated with CAVD and major adverse cardiovascular events (MACEs).
+METHODS AND RESULTS: Patients undergoing coronary angiography between January 2012 and May 2013 were invited to participate in the study. Of 752 analysable participants, 446 had their Lp(a) measured and 703 had a calculable LPA genetic risk score (GRS). The primary outcomes were the presence of CAVD at baseline and MACE over a 7-year follow-up. The GRS explained 45% of variation in Lp(a). After adjustment for cardiac risk factors and coronary artery disease (CAD), the odds of CAVD increased with increasing Lp(a) [odds ratio (OR) 1.039 per 10-unit increase, 95% confidence interval (CI) 1.022-1.057, P < 0.001] and GRS (OR 1.054 per 10-unit increase, 95% CI 1.024-1.086; P < 0.001). Lipoprotein(a) and the GRS as continuous variables were not associated with subsequent MACEs. A dichotomized GRS (>54) was associated with MACE, but this relationship became non-significant when CAD classification was added into the model (OR 1.333, 95% CI 0.927-1.912; P = 0.12).
+CONCLUSION: An LPA GRS can explain 45% of variation in Lp(a) levels, and both Lp(a) and the GRS are associated with CAVD. An elevated GRS is associated with future cardiac events in a secondary risk setting, but, if the CAD status is known, it does not provide additional prognostic information.
+
+Citation: Moore MK, et al. Association between lipoprotein(a), LPA genetic risk score, aortic valve disease, and subsequent major adverse cardiovascular events. Association between lipoprotein(a), LPA genetic risk score, aortic valve disease, and subsequent major adverse cardiovascular events. 2024; 31:1303-1311. doi: 10.1093/eurjpc/zwae100
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38593219/

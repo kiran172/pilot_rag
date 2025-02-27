@@ -1,0 +1,15 @@
+PMID: 38950668
+Title: Electronic physician notification to facilitate the recognition and management of severe aortic stenosis: Rationale, design, and methods of the randomized controlled DETECT AS trial.
+
+Abstract: BACKGROUND: Symptomatic severe aortic stenosis causes substantial morbidity and mortality when left untreated, yet recent data suggest its undertreatment.
+OBJECTIVE: To evaluate the efficacy of electronic physician notification to facilitate the guideline-directed management of patients with severe aortic stenosis.
+HYPOTHESIS: We hypothesize that patients with severe aortic stenosis who are in the care of physicians who receive the notification are more likely to undergo aortic valve replacement within one year.
+METHODS/DESIGN: The Electronic Physician Notification to Facilitate the Recognition and Management of Severe Aortic Stenosis (DETECT AS) trial is a randomized controlled trial and quality improvement initiative designed to evaluate the efficacy of electronic provider notification versus usual clinical care in the management of patients with severe aortic stenosis. Providers ordering an echocardiogram with findings potentially indicative of severe aortic stenosis are randomized to receive electronic notification with customized guideline recommendations for the management of severe aortic stenosis or usual care (no notification). Randomization continues until 940 patients are enrolled.
+SETTING: Multicentered, academic health system.
+OUTCOMES: The primary endpoint is the proportion of patients with severe aortic stenosis receiving an aortic valve replacement within one year of the index echocardiogram. Secondary endpoints include mortality, heart failure hospitalization, transthoracic echocardiogram utilization, aortic stenosis billing code, and cardiology/Valve Team referral.
+CONCLUSION: The DETECT AS trial will provide insight into whether electronic notification of providers on the presence of severe aortic stenosis and associated clinical guideline recommendations will facilitate recognition and guideline-directed management of severe aortic stenosis.
+TRIAL REGISTRATION: ClinicalTrials.gov, NCT05230225, https://clinicaltrials.gov/ct2/show/NCT05230225.
+
+Citation: Abou-Karam R, et al. Electronic physician notification to facilitate the recognition and management of severe aortic stenosis: Rationale, design, and methods of the randomized controlled DETECT AS trial. Electronic physician notification to facilitate the recognition and management of severe aortic stenosis: Rationale, design, and methods of the randomized controlled DETECT AS trial. 2024; 276:39-48. doi: 10.1016/j.ahj.2024.06.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38950668/

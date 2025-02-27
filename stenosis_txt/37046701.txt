@@ -1,0 +1,11 @@
+PMID: 37046701
+Title: Renal Safety Profile of BCR-ABL Tyrosine Kinase Inhibitors in a Real-Life Setting: A Study Based on Vigibase®, the WHO Pharmacovigilance Database.
+
+Abstract: BACKGROUND: Alongside their BCR-ABL specificity, TKIs used in chronic myeloid leukemia also target other tyrosine kinases expressed in the kidney such as PDGFR, c-KIT, SRC, and VEGFR, which may result in specific renal adverse drug reaction (ADR). To evaluate the renal safety profile in real-life conditions, a case/non-case study was performed on VigiBase®, the WHO global safety database.
+METHODS: From 7 November 2001 to 2 June 2021, all cases in which the involvement of imatinib, dasatinib, nilotinib, bosutinib, and ponatinib was suspected in the occurrence of renal ADR were extracted from VigiBase®. Disproportionality analyses were assessed using the reporting odds ratio.
+RESULTS: A total of 1409 cases were included. Imatinib accounts for half of the reported cases. A signal of disproportionate reporting (SDR) of renal failure and fluid retention was found for the five TKIs. Only dasatinib and nilotinib were related to an SDR for nephrotic syndrome. Nilotinib and ponatinib were related to an SDR for renal artery stenosis, while dasatinib was related to an SDR for thrombotic microangiopathy. No SDR for tubulointerstitial nephritis was observed.
+CONCLUSION: This study identified a new safety signal, nephrotic syndrome, for nilotinib and highlights the importance of post-marketing safety surveillance.
+
+Citation: Cellier M, et al. Renal Safety Profile of BCR-ABL Tyrosine Kinase Inhibitors in a Real-Life Setting: A Study Based on Vigibase®, the WHO Pharmacovigilance Database. Renal Safety Profile of BCR-ABL Tyrosine Kinase Inhibitors in a Real-Life Setting: A Study Based on Vigibase®, the WHO Pharmacovigilance Database. 2023; 15:(unknown pages). doi: 10.3390/cancers15072041
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37046701/

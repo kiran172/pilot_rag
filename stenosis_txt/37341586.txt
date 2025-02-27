@@ -1,0 +1,13 @@
+PMID: 37341586
+Title: Impact of alirocumab on plaque regression and haemodynamics of non-culprit arteries in patients with acute myocardial infarction: a prespecified substudy of the PACMAN-AMI trial.
+
+Abstract: BACKGROUND: Treatment with proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors on top of statins leads to plaque regression and stabilisation. The effects of PCSK9 inhibitors on coronary physiology and angiographic diameter stenosis (DS%) are unknown.
+AIMS: This study aimed to investigate the effects of the PCSK9 inhibitor alirocumab on coronary haemodynamics as assessed by quantitative flow ratio (QFR) and DS% by three-dimensional quantitative coronary angiography (3D-QCA) in non-infarct-related arteries (non-IRA) among acute myocardial infarction (AMI) patients.
+METHODS: This was a prespecified substudy of the randomised controlled PACMAN-AMI trial, comparing alirocumab versus placebo on top of rosuvastatin. QFR and 3D-QCA were assessed at baseline and 1 year in any non-IRA ≥2.0 mm and 3D-QCA DS% >25%. The prespecified primary endpoint was the number of patients with a mean QFR increase at 1 year, and the secondary endpoint was the change in 3D-QCA DS%.
+RESULTS: Of 300 enrolled patients, 265 had serial follow-up, of which 193 underwent serial QFR/3D-QCA analysis in 282 non-IRA. At 1 year, QFR increased in 50/94 (53.2%) patients with alirocumab versus 40/99 (40.4%) with placebo (Δ12.8%; odds ratio 1.7, 95% confidence interval [CI]: 0.9 to 3.0; p=0.076). DS% decreased by 1.03±7.28% with alirocumab and increased by 1.70±8.27% with placebo (Δ-2.50%, 95% CI: -4.43 to -0.57; p=0.011).
+CONCLUSIONS: Treatment of AMI patients with alirocumab versus placebo for 1 year resulted in a significant regression in angiographic DS%, whereas no overall improvement of coronary haemodynamics was observed.
+CLINICALTRIALS: gov: NCT03067844.
+
+Citation: Bär S, et al. Impact of alirocumab on plaque regression and haemodynamics of non-culprit arteries in patients with acute myocardial infarction: a prespecified substudy of the PACMAN-AMI trial. Impact of alirocumab on plaque regression and haemodynamics of non-culprit arteries in patients with acute myocardial infarction: a prespecified substudy of the PACMAN-AMI trial. 2023; 19:e286-e296. doi: 10.4244/EIJ-D-23-00201
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37341586/

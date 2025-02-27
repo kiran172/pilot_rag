@@ -1,0 +1,11 @@
+PMID: 36270786
+Title: Severity of obstructive coronary artery stenosis after pre-eclampsia.
+
+Abstract: INTRODUCTION: Women with a history of pre-eclampsia are at higher risk of premature coronary artery disease. Assessment of obstructive coronary artery stenosis by invasive coronary angiography has not been evaluated after pre-eclampsia.
+METHODS: A population-based cohort study was completed in Ontario, Canada, where there is universal healthcare and collection of angiographic data. Included were women with a live birth or stillbirth from 2002 to 2020, and without known heart disease. One birth was randomly selected per woman. The main exposure compared women with versus without pre-eclampsia. The primary outcome was angiographically established obstructive coronary artery stenosis, assessed starting 42 days after the index birth. Cause-specific hazard models accounting for competing risks generated HRs, adjusted for age, parity, income, rurality, diabetes, chronic hypertension, renal disease, substance use and dyslipidaemia.
+RESULTS: Among 42 252 women ever with pre-eclampsia and 1359 122 never with pre-eclampsia, mean age was 31.1 years and 30.6 years, respectively. After 9 years of follow-up, obstructive coronary artery stenosis occurred in 186 women with pre-eclampsia (4.53 per 10 000 person-years) versus 1237 women without pre-eclampsia (0.97 per 10 000 person-years)-an unadjusted HR 4.41 (95% CI 3.78 to 5.14) and adjusted HR 2.07 (95% CI 1.77 to 2.43). Relative to those with neither, the adjusted HR for coronary stenosis was highest in women with pre-eclampsia and preterm birth (3.11, 95% CI 2.51 to 3.87), or pre-eclampsia and stillbirth (2.80, 95% CI 1.05 to 7.47).
+CONCLUSIONS: Pre-eclampsia is associated with a greater risk of premature-onset obstructive coronary artery stenosis, especially when it is complicated by a preterm birth or a stillbirth.
+
+Citation: Ray JG, et al. Severity of obstructive coronary artery stenosis after pre-eclampsia. Severity of obstructive coronary artery stenosis after pre-eclampsia. 2023; 109:449-456. doi: 10.1136/heartjnl-2022-321513
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36270786/

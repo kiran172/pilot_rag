@@ -1,0 +1,11 @@
+PMID: 36052916
+Title: The Clinical Significance of Lncrna GAS5 And Mir-222-3p in Carotid Artery Stenosis.
+
+Abstract: BACKGROUND: Carotid artery stenosis (CAS) is the major pathogen of cerebral infarction and brain death. Early detection and risk prediction could help the diagnosis and improve the outcome of patients. The clinical significance of lncRNA GAS5 (GAS5) and miR-222-3p in the diagnosis and prognosis of CAS was evaluated in this study to explore novel effective biomarkers of CAS.
+METHODS: A total of 72 CAS patients and 63 healthy individuals (control) were enrolled in this study. The expression levels of GAS5 and miR-222-3p in study subjects were detected using PCR. The ROC, Kaplan-Meier, and Cox regression analyses were carried out to estimate the diagnostic and prognostic value of GAS5 and miR-222-3p in CAS. The interaction between GAS5 and miR-222-3p was disclosed by the dual-luciferase reporter.
+RESULTS: The reduced expression of GAS5 and elevated expression of miR-222-3p were observed in CAS patients compared with the healthy controls, and a significant correlation between their expression levels in CAS was revealed. GAS5 and miR-222-3p could discriminate CAS patients from the healthy controls with high sensitivity and specificity. The GAS5 downregulation and miR-222-3p upregulation could predict the poor prognosis of CAS patients and may be associated with the severe development of patients. In human vascular smooth muscle cells, miR-222-3p could negatively regulate the luciferase activity of GAS5.
+CONCLUSION: Both GAS5 and miR-222-3p served as the diagnostic and prognostic biomarkers of CAS. The function of GAS5 might result from the regulation of miR-222-3p, which needs further validation.
+
+Citation: Li S, et al. The Clinical Significance of Lncrna GAS5 And Mir-222-3p in Carotid Artery Stenosis. The Clinical Significance of Lncrna GAS5 And Mir-222-3p in Carotid Artery Stenosis. 2022; 25:E530-E535. doi: 10.1532/hsf.4739
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36052916/

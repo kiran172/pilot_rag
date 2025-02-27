@@ -1,0 +1,11 @@
+PMID: 36907185
+Title: Thrombus Enhancement Sign May Differentiate Embolism From Arteriosclerosis-Related Large Vessel Occlusion.
+
+Abstract: BACKGROUND AND PURPOSE: To evaluate whether the thrombus enhancement sign (TES) can be used to differentiate embolic large vessel occlusion (LVO) from in situ intracranial atherosclerotic stenosis (ICAS)-related LVO in the anterior circulation of patients with acute ischemic stroke (AIS).
+METHODS: Patients with LVO in the anterior circulation who underwent both non-contrast computed tomography (CT) and CT angiography and mechanical thrombectomy were retrospectively enrolled. Both embolic LVO (embo-LVO) and in situ ICAS-related LVO (ICAS-LVO) were confirmed by two neurointerventional radiologists after reviewing the medical and imaging data. TES was assessed to predict embo-LVO or ICAS-LVO. The associations between occlusion type and TES, along with clinical and interventional parameters, were investigated using logistic regression analysis and a receiver operating characteristic curve.
+RESULTS: A total of 288 patients with AIS were included and divided into an embo-LVO group (n=235) and an ICAS-LVO group (n=53). TES was identified in 205 (71.2%) patients and was more frequently observed in those with embo-LVO, with a sensitivity of 83.8%, specificity of 84.9%, and area under the curve (AUC) of 0.844. Multivariate analysis showed that TES (odds ratio [OR], 22.2; 95% confidence interval [CI], 9.4-53.8; P<0.001) and atrial fibrillation (OR, 6.6; 95% CI, 2.8-15.8; P<0.001) were independent predictors of embolic occlusion. A predictive model that included both TES and atrial fibrillation yielded a higher diagnostic ability for embo-LVO, with an AUC of 0.899.
+CONCLUSION: TES is an imaging marker with high predictive value for identifying embo- and ICAS-LVO in AIS and provides guidance for endovascular reperfusion therapy.
+
+Citation: Zhang Y, et al. Thrombus Enhancement Sign May Differentiate Embolism From Arteriosclerosis-Related Large Vessel Occlusion. Thrombus Enhancement Sign May Differentiate Embolism From Arteriosclerosis-Related Large Vessel Occlusion. 2023; 25:233-241. doi: 10.5853/jos.2022.03489
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36907185/

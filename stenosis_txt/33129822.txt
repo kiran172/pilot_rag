@@ -1,0 +1,12 @@
+PMID: 33129822
+Title: Transcatheter Aortic Valve Replacement With Balloon-Expandable Valves: Comparison of SAPIEN 3 Ultra Versus SAPIEN 3.
+
+Abstract: OBJECTIVES: The aim of this study was to compare outcomes after transcatheter aortic valve replacement (TAVR) with the SAPIEN 3 Ultra (Ultra) and SAPIEN 3 (S3) transcatheter heart valves (THVs).
+BACKGROUND: The latest generation balloon-expandable Ultra THV incorporates new technical features and might improve outcomes following TAVR.
+METHODS: This registry included all consecutive patients who underwent TAVR with either the Ultra or S3 between January 2014 and January 2020. One-to-one propensity score matching was performed to account for differences in baseline characteristics. In-hospital and 30-day Valve Academic Research Consortium-2-defined outcomes were investigated.
+RESULTS: A total of 310 patients (n = 155 Ultra, n = 155 S3) were included. There were no significant differences in baseline characteristics after propensity score matching. Procedures were significantly more often performed under conscious sedation with Ultra compared with S3 (97.4% vs. 71.6%; p < 0.001). Pre-dilatation was more frequent with S3 compared with Ultra (85.2% vs. 42.6%; p < 0.001). In-hospital outcomes, including device success (91.6% vs. 95.5%; p = 0.165), major vascular complications (12.3% vs. 11.0%; p = 0.723), and new pacemaker implantation (5.8% vs. 4.5%; p = 0.608), were comparable between S3 and Ultra patients, respectively. Post-procedural mean transprosthetic gradients (13.2 ± 5.7 mm Hg vs. 13.1 ± 4.7 mm Hg; p = 0.829) and rate of moderate or greater paravalvular leakage (PVL) (1.3% vs. 2.7%; p = 0.414) were comparable, whereas mild PVL was more frequent with S3 compared with Ultra (43.0% vs. 18.7%; p < 0.001).
+CONCLUSIONS: Device success rates were high with both balloon-expandable THVs, with overall low rates of adverse events up to 30 days after TAVR. Despite a lower frequency of pre-dilatation, significant reduction of mild PVL confirms improved annular sealing properties of the novel Ultra THV.
+
+Citation: Rheude T, et al. Transcatheter Aortic Valve Replacement With Balloon-Expandable Valves: Comparison of SAPIEN 3 Ultra Versus SAPIEN 3. Transcatheter Aortic Valve Replacement With Balloon-Expandable Valves: Comparison of SAPIEN 3 Ultra Versus SAPIEN 3. 2020; 13:2631-2638. doi: 10.1016/j.jcin.2020.07.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33129822/

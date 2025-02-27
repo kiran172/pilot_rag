@@ -1,0 +1,12 @@
+PMID: 37937727
+Title: Fractional flow reserve versus intravascular imaging to guide decision-making for percutaneous coronary intervention in intermediate lesions: A meta-analysis.
+
+Abstract: BACKGROUND: Both fractional flow reserve (FFR) and intravascular imaging (IVI) have been used to guide the decision-making for percutaneous coronary intervention (PCI) in intermediate coronary stenosis. Nevertheless, studies that directly compared the prognostic significance of these two strategies are scarce.
+AIMS: The aim of this meta-analyses was to evaluate the impact of FFR versus IVI to guide the decision-making in PCI for intermediate stenosis on clinical outcomes.
+METHODS: We systematically searched PubMed, Embase, Cochrane, and relevant database from inception date to September 2022 for observational studies and randomized clinical trials (RCTs) which compared FFR and IVI-based decision-making in PCI for intermediate stenosis. The primary outcome was a composite of major adverse cardiac event (MACE). Pooled risk ratios (RR) were calculated using random effects models and heterogeneity were evaluated with the I2 statistic.
+RESULTS: We identified 5 studies (3 RCTs and 2 observational studies) with 3208 patients. The follow-up duration ranged from 12 to 24 months. Among five studies, four compared FFR with intravascular ultrasound while one compared FFR with optical coherence tomography. There was no statistically difference between FFR and IVI in the incidence of MACE (RR: 1.19; 95% confidence interval: 0.85-1.68; p = 0.31) and its individual components. These results were consistent regardless of various cut-off value of PCI across the studies. Compared with IVI, FFR was associated with a lower PCI rate (37.0% vs. 60.3%; p < 0.001).
+CONCLUSIONS: The decision to perform PCI for intermediate stenosis guided by FFR or IVI showed a similar clinical outcome. The use of FFR significantly reduced the need for PCI.
+
+Citation: Liu X, et al. Fractional flow reserve versus intravascular imaging to guide decision-making for percutaneous coronary intervention in intermediate lesions: A meta-analysis. Fractional flow reserve versus intravascular imaging to guide decision-making for percutaneous coronary intervention in intermediate lesions: A meta-analysis. 2023; 102:1198-1209. doi: 10.1002/ccd.30909
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37937727/

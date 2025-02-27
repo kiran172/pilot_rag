@@ -1,0 +1,11 @@
+PMID: 38767442
+Title: Diagnostic Performance of On-Site Automatic Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve.
+
+Abstract: BACKGROUND AND OBJECTIVES: Fractional flow reserve (FFR) is an invasive standard method to identify ischemia-causing coronary artery disease (CAD). With the advancement of technology, FFR can be noninvasively computed from coronary computed tomography angiography (CCTA). Recently, a novel simpler method has been developed to calculate on-site CCTA-derived FFR (CT-FFR) with a commercially available workstation.
+METHODS: A total of 319 CAD patients who underwent CCTA, invasive coronary angiography, and FFR measurement were included. The primary outcome was the accuracy of CT-FFR for defining myocardial ischemia evaluated with an invasive FFR as a reference. The presence of ischemia was defined as FFR ≤0.80. Anatomical obstructive stenosis was defined as diameter stenosis on CCTA ≥50%, and the diagnostic performance of CT-FFR and CCTA stenosis for ischemia was compared.
+RESULTS: Among participants (mean age 64.7±9.4 years, male 77.7%), mean FFR was 0.82±0.10, and 126 (39.5%) patients had an invasive FFR value of ≤0.80. The diagnostic accuracy, sensitivity, specificity, positive predictive value, and negative predictive value of CT-FFR were 80.6% (95% confidence interval [CI], 80.5-80.7%), 88.1% (95% CI, 82.4-93.7%), 75.6% (95% CI, 69.6-81.7%), 70.3% (95% CI, 63.1-77.4%), and 90.7% (95% CI, 86.2-95.2%), respectively. CT-FFR had higher diagnostic accuracy (80.6% vs. 59.1%, p<0.001) and discriminant ability (area under the curve from receiver operating characteristic curve 0.86 vs. 0.64, p<0.001), compared with anatomical obstructive stenosis on CCTA.
+CONCLUSIONS: This novel CT-FFR obtained from an on-site workstation demonstrated clinically acceptable diagnostic performance and provided better diagnostic accuracy and discriminant ability for identifying hemodynamically significant lesions than CCTA alone.
+
+Citation: Hwang D, et al. Diagnostic Performance of On-Site Automatic Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve. Diagnostic Performance of On-Site Automatic Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve. 2024; 54:382-394. doi: 10.4070/kcj.2023.0288
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38767442/

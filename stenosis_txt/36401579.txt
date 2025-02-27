@@ -1,0 +1,11 @@
+PMID: 36401579
+Title: Sp1 Inhibits PGC-1α via HDAC2-Catalyzed Histone Deacetylation in Chronic Constriction Injury-Induced Neuropathic Pain.
+
+Abstract: BACKGROUND: Our previous study has illuminated that PGC-1α downregulation promoted chronification of pain after burn injury. RNA-seq analysis predicted association between Sp1 and chronic constriction injury (CCI)-provoked neuropathic pain. Further ChIP-Atlas data investigation suggested the binding to Sp1 to PGC-1α. Thereby, we performed this study to illustrate the functional relevance of the Sp1/PGC-1α axis in neuropathic pain.
+METHODS: Neuropathic pain was induced by CCI in vivo in rats, followed by assessment of neuropathic pain-like behaviors. The expression of Sp1 and correlated genes was determined in CCI rat spinal cord tissues. Furthermore, microglia were exposed to lipopolysaccharide (LPS) to mimic inflammation and then cocultured with neurons. Knockdown and ectopic expression methods were used in vivo and in vitro to define the role the Sp1/HDAC2/PGC-1α axis.
+RESULTS: Sp1 expression was upregulated in spinal cord tissues of CCI rats. Silencing Sp1 ameliorated CCI-induced neuropathic pain, as reflected by elevated paw withdrawal threshold and paw withdrawal latency, as well as alleviated microglia activation, neuronal dysfunction, inflammatory responses, mitochondrial dysfunction, and oxidative stress in spinal cord tissues. Sp1 knockdown also reversed LPS-induced microglial inflammation and neuronal dysfunction. Sp1 promoted histone deacetylation in the PGC-1α promoter and inhibited PGC-1α expression via recruiting HDAC2. PGC-1α overexpression diminished CCI-induced neuropathic pain and LPS-induced inflammation and mitochondrial dysfunction, based on which Sp1 aggravated microglial inflammation and neuronal dysfunction in neuropathic pain.
+CONCLUSION: This study elucidated the promoting effects of Sp1 on CCI-induced neuropathic pain via the HDAC2/PGC-1α axis.
+
+Citation: Miao J, et al. Sp1 Inhibits PGC-1α via HDAC2-Catalyzed Histone Deacetylation in Chronic Constriction Injury-Induced Neuropathic Pain. Sp1 Inhibits PGC-1α via HDAC2-Catalyzed Histone Deacetylation in Chronic Constriction Injury-Induced Neuropathic Pain. 2022; 13:3438-3452. doi: 10.1021/acschemneuro.2c00440
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36401579/

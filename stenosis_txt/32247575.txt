@@ -1,0 +1,11 @@
+PMID: 32247575
+Title: Transcatheter aortic valve implantation via surgical subclavian versus direct aortic access: A United Kingdom analysis.
+
+Abstract: BACKGROUND: Surgical subclavian (SC) and direct aortic (DA) access are established alternatives to the default transfemoral route for transcatheter aortic valve implantation (TAVI). We sought to find differences in survival and procedure-related outcomes after SC- versus DA-TAVI.
+METHODS: We performed an observational cohort analysis of cases prospectively uploaded to the UK TAVI registry. To ensure the most contemporaneous comparison, the analysis focused on SC and DA procedures performed from 2013 to 2015.
+RESULTS: Between January 2013 and July 2015, 82 (37%) SC and 142 (63%) DA cases were performed that had validated 1-year life status. Multivariable regression analysis showed procedure duration was longer for SC cases (SC 193.5 ± 65.8 vs. DA 138.4 ± 57.7 min; p < .01) but length of hospital stay was shorter (SC 8.6 ± 9.5 vs. DA 11.9 ± 10.8 days; p = .03). Acute kidney injury was observed less frequently after SC cases (odds ratio [OR] 0.35, 95% confidence interval [CI 0.12-0.96]; p = .042) but vascular access site-related complications were more common (OR 9.75 [3.07-30.93]; p < .01). Procedure-related bleeding (OR 0.54 [0.24-1.25]; p = .15) and in-hospital stroke rate (SC 3.7% vs. DA 2.1%; p = .67) were similar. There were no significant differences in in-hospital (SC 2.4% vs. DA 4.9%; p = .49), 30-day (SC 2.4% vs. DA 4.2%; p = .71) or 1-year (SC 14.5% vs. DA 21.9%; p = .344) mortality.
+CONCLUSIONS: Surgical subclavian and direct aortic approaches can offer favourable outcomes in appropriate patients. Neither access modality conferred a survival advantage but there were significant differences in procedural metrics that might influence which approach is selected.
+
+Citation: Myat A, et al. Transcatheter aortic valve implantation via surgical subclavian versus direct aortic access: A United Kingdom analysis. Transcatheter aortic valve implantation via surgical subclavian versus direct aortic access: A United Kingdom analysis. 2020; 308:67-72. doi: 10.1016/j.ijcard.2020.03.059
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32247575/

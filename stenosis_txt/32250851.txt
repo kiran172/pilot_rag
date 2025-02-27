@@ -1,0 +1,8 @@
+PMID: 32250851
+Title: Active dynamic thermography to detect the presence of stenosis in the carotid artery.
+
+Abstract: Unlike passive infrared (IR) thermal imaging/thermography, where no external stimulation is applied, active dynamic thermography (ADT) results in a high contrast thermal image. In ADT, transient thermal images of the skin surface are captured using an IR thermal camera while the skin surface is stimulated externally, followed by a recovery phase. Upon the application of external stimulation, the presence of stenosis in the carotid artery is expected to differ the recovery rate of the external neck skin surface from the case with no stenosis. In this prospective study, using an external cooling stimulation, the ADT procedure was performed on a total of 54 (N) samples (C: N = 19, 0% stenosis; D1: N = 17, 10%-29% stenosis; D2: N = 18, ≥30% stenosis using Duplex Ultrasound). Analyzing the ADT sequence with a parameter called tissue activity ratio (TAR), the samples were classified using a cut-off value: C versus (D1+D2) and (C + D1) versus D2. As the degree of stenosis increases, the value of the TAR parameter depreciates with a significant difference among the sample groups (C:0.97 ± 0.05, D1:0.80 ± 0.04, D2:0.75 ± 0.02; p < 0.05). Under the two classification scenarios, classification accuracies of 90% and 85%, respectively, were achieved. This study suggests the potential of screening CAS with the proposed ADT procedure.
+
+Citation: Saxena A, et al. Active dynamic thermography to detect the presence of stenosis in the carotid artery. Active dynamic thermography to detect the presence of stenosis in the carotid artery. 2020; 120:103718. doi: 10.1016/j.compbiomed.2020.103718
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32250851/

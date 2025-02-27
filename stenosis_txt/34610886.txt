@@ -1,0 +1,11 @@
+PMID: 34610886
+Title: Preoperative Ozaki technique measures on tridimensional engineered root.
+
+Abstract: BACKGROUND: The aortic valve neocuspidalization (AVNeo) is an innovative surgical technique aiming at the reconstruction of the aortic valve using autologous pericardium. One of the main criticisms to AVNeo is the longer duration of the aortic clamping time (ACT) as compared to standard aortic valve replacement due to the sizing of the valve neocusps.
+METHODS: We retrospectively enrolled 30 consecutives patients underwent AVNeo. For each patient we developed a 3D aortic root model (ARM) based on CT-scan datasets. We retrospectively compared the leaflets measurements performed during surgery with those obtained on the corresponding ARMs.
+RESULTS: In 100% of cases no difference between the in vitro and in vivo measurements exceeded the acceptable error limit of 2 ​mm. The correlation of each single in vitro versus in vivo measurements demonstrates a strong coincidence between the two different methods of sizing (r ​> ​0,9, p ​< ​.0001). By analyzing the data considering the annulus perimeter and not the single cusp size, the perfect coincidence was to be found in 89.9% with a slight acceptable discrepancy (2 ​mm on total) in the remaining 10.1%.
+CONCLUSIONS: 3D-ARMs, printed from CT-scan, represent a reproducible process to obtain overlapping cusp sizes compared to those measured in-vivo, possibly reducing the ACT.
+
+Citation: Pirola S, et al. Preoperative Ozaki technique measures on tridimensional engineered root. Preoperative Ozaki technique measures on tridimensional engineered root. 2022; 16:51-53. doi: 10.1016/j.jcct.2021.09.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34610886/

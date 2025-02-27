@@ -1,0 +1,12 @@
+PMID: 33709809
+Title: Perioperative Complications of Surgery for Degenerative Cervical Myelopathy: A Comparison Between 3 Procedures.
+
+Abstract: STUDY DESIGN: Retrospective comparative study.
+OBJECTIVES: To compare the perioperative complications of propensity score-matched cohorts of patients with degenerative cervical myelopathy (DCM), who were treated with anterior cervical discectomy and fusion (ACDF), posterior laminectomy with fusion, or laminoplasty.
+METHODS: The Humana PearlDiver Patient Record Database was queried using the International Classification of Diseases (ICD-9 and ICD-10) and the Current Procedural Terminology (CPT) codes. Propensity score-matched analysis was done using multiple Chi-squared tests with Bonferroni correction of the significance level.
+RESULTS: Cohorts of 11,790 patients who had ACDF, 2,257 patients who had posterior laminectomy with fusion, and 477 patients who had laminoplasty, were identified. After propensity score matching, all the 3 groups included 464 patients. The incidence of dysphagia increased significantly following ACDF compared to laminoplasty, P &lt; 0.001, and in laminectomy with fusion compared to laminoplasty, P &lt; 0.001. The incidence of new-onset cervicalgia was higher in ACDF compared to laminoplasty, P = 0.005, and in laminectomy with fusion compared to laminoplasty, P = 0.004. The incidence of limb paralysis increased significantly in laminectomy with fusion compared to ACDF, P = 0.002. The revision rate at 1 year increased significantly in laminectomy with fusion compared to laminoplasty, P &lt; 0.001, and in ACDF compared to laminoplasty, P &lt; 0.001.
+CONCLUSIONS: The incidence of dysphagia following laminectomy with fusion was not different compared to ACDF. Postoperative new-onset cervicalgia and revisions were least common in laminoplasty. The highest rate of postoperative limb paralysis was noticed in laminectomy with fusion.
+
+Citation: Mesregah MK, et al. Perioperative Complications of Surgery for Degenerative Cervical Myelopathy: A Comparison Between 3 Procedures. Perioperative Complications of Surgery for Degenerative Cervical Myelopathy: A Comparison Between 3 Procedures. 2023; 13:432-442. doi: 10.1177/2192568221998306
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33709809/

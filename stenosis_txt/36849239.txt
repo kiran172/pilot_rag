@@ -1,0 +1,14 @@
+PMID: 36849239
+Title: Decompression alone versus decompression with instrumented fusion in the treatment of lumbar degenerative spondylolisthesis: a systematic review and meta-analysis of randomised trials.
+
+Abstract: OBJECTIVE: To determine the efficacy of adding instrumented spinal fusion to decompression to treat degenerative spondylolisthesis (DS).
+DESIGN: Systematic review with meta-analysis.
+DATA SOURCES: MEDLINE, Embase, Emcare, Cochrane Library, CINAHL, Scopus, ProQuest Dissertations & Theses Global, ClinicalTrials.gov and WHO International Clinical Trials Registry Platform from inception to May 2022.
+ELIGIBILITY CRITERIA FOR STUDY SELECTION: Randomised controlled trials (RCTs) comparing decompression with instrumented fusion to decompression alone in patients with DS. Two reviewers independently screened the studies, assessed the risk of bias and extracted data. We provide the Grading of Recommendations, Assessment, Development and Evaluation assessment of the certainty of evidence (COE).
+RESULTS: We identified 4514 records and included four trials with 523 participants. At a 2-year follow-up, adding fusion to decompression likely results in trivial difference in the Oswestry Disability Index (range 0-100, with higher values indicating greater impairment) with mean difference (MD) 0.86 (95% CI -4.53 to 6.26; moderate COE). Similar results were observed for back and leg pain measured on a scale of 0 to 100, with higher values indicating more severe pain. There was a slightly increased improvement in back pain (2-year follow-up) in the group without fusion shown by MD -5·92 points (95% CI -11.00 to -0.84; moderate COE). There was a trivial difference in leg pain between the groups, slightly favouring the one without fusion, with MD -1.25 points (95% CI -6.71 to 4.21; moderate COE). Our findings at 2-year follow-up suggest that omitting fusion may increase the reoperation rate slightly (OR 1.23; 0.70 to 2.17; low COE).
+CONCLUSIONS: Evidence suggests no benefits of adding instrumented fusion to decompression for treating DS. Isolated decompression seems sufficient for most patients. Further RCTs assessing spondylolisthesis stability are needed to determine which patients would benefit from fusion.
+PROSPERO REGISTRATION NUMBER: CRD42022308267.
+
+Citation: Kaiser R, et al. Decompression alone versus decompression with instrumented fusion in the treatment of lumbar degenerative spondylolisthesis: a systematic review and meta-analysis of randomised trials. Decompression alone versus decompression with instrumented fusion in the treatment of lumbar degenerative spondylolisthesis: a systematic review and meta-analysis of randomised trials. 2023; 94:657-666. doi: 10.1136/jnnp-2022-330158
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36849239/

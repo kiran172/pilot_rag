@@ -1,0 +1,11 @@
+PMID: 34818437
+Title: Adoptability and accuracy of point-of-care ultrasound in screening for valvular heart disease in the primary care setting.
+
+Abstract: PURPOSE: Despite continued efforts, a majority of patients with valvular heart disease (VHD) remain undiagnosed and untreated. This study aimed to assess the adoptability and accuracy of point-of-care handheld echocardiographic assessments (POCE) in the primary care setting.
+METHODS: Eleven previously untrained primary care providers were trained to use the Vscan Extend (GE, WI) POCE to assess VHD, left ventricular function (LVEF), and major extra-cardiac findings. Their assessments were compared to those of three blinded expert readers. A total of 175 patients underwent POCE assessments which were evaluated using Kappa statistics (κ) together with their estimated standard error, p value, and 95% CI bounds.
+RESULTS: Each patient had a mean of 3.3 ± 1.1 (±SD) assessments performed. Identical or nearly identical agreement between previously untrained primary providers and expert readers was evident for the diagnosis of tricuspid regurgitation, mitral regurgitation, pericardial effusion, and volume status. These agreements were strongest in apical long axis (κ = 1, p < 0.001) and parasternal long and short axis views (κ > =0.82 p < 0.001), though agreement remained robust in apical 4-chamber views (κ ≥ 0.76). The agreements in LVEF assessment were identical in the apical long axis view (κ = 1, p < 0.001) and robust in the remaining 3 views (κ > =0.66, p < 0.001). The assessments of aortic stenosis (parasternal/long, κ = 0.42, and parasternal/short, κ = 0.47, both p < 0.001) were weak in their agreement.
+CONCLUSION: Compared to expert echocardiography readers, the untrained providers' use of POCE for VHD shows high user adoptability and diagnostic accuracies in the primary care setting.
+
+Citation: Chugh Y, et al. Adoptability and accuracy of point-of-care ultrasound in screening for valvular heart disease in the primary care setting. Adoptability and accuracy of point-of-care ultrasound in screening for valvular heart disease in the primary care setting. 2022; 50:265-270. doi: 10.1002/jcu.23062
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34818437/

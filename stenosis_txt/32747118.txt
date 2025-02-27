@@ -1,0 +1,11 @@
+PMID: 32747118
+Title: Rapid deployment valves versus conventional tissue valves for aortic valve replacement.
+
+Abstract: OBJECTIVES: Rapid deployment valves have been developed as a means to adjust for limitations in transcatheter aortic valve replacement and surgical aortic valve replacement for the management of aortic valve disease. To date, many studies have shown that although rapid deployment valves facilitate a shorter surgical aortic valve replacement, they offer no clinical benefit. The purpose of this study was to compare the outcomes of rapid deployment valves with conventional surgical aortic valve replacement.
+METHODS: This study was a retrospective review of all patients undergoing tissue aortic valve replacement at a single center. The majority of patients were men and aged more than 60 years. Patients were categorized into 2 groups: (1) rapid deployment valves and (2) conventional sutured valve. Inverse probability treatment weighting method was used to create a cohort of patients with similar baseline characteristics. Kaplan-Meier curves and log-rank tests were used to determine if there were statistically significant differences in outcomes. Primary outcome was all-cause mortality at 30 days, 1 year, and 5 years.
+RESULTS: A total of 2237 patients made up the study population from 2013 to 2019. After inverse probability treatment weighting, there were 295 patients in each group. Shorter cardiopulmonary bypass and crossclamp times were found with the rapid deployment valves. No statistically significant difference was found in the primary and secondary outcomes. There was a significant difference in the rate of permanent pacemaker insertion with a 7% pacemaker rate in the rapid deployment valve group (P < .009).
+CONCLUSIONS: The data suggest that rapid deployment valves offer no benefit in straightforward aortic valve replacement, and further study will help identify which patient population the valve is suited for.
+
+Citation: White A, et al. Rapid deployment valves versus conventional tissue valves for aortic valve replacement. Rapid deployment valves versus conventional tissue valves for aortic valve replacement. 2022; 163:2036-2042. doi: 10.1016/j.jtcvs.2020.06.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32747118/

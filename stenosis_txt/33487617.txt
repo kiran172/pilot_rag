@@ -1,0 +1,11 @@
+PMID: 33487617
+Title: Relationship of Four Blood Pressure Indexes to Subclinical Cerebrovascular Diseases Assessed by Brain MRI in General Japanese Men.
+
+Abstract: AIM: The relationship of blood pressure (BP) indexes (systolic blood pressure [SBP], diastolic blood pressure [DBP], pulse pressure [PP], mean arterial pressure [MAP]) to subclinical cerebrovascular diseases (SCVDs) remains unclear. This study aimed to elucidate the relationship of four BP indexes measured at two visits on SCVDs assessed by magnetic resonance imaging (MRI) in general Japanese men.
+METHODS: In general Japanese men aged 40-79 years (N=616), office BP indexes were measured at two visits (Visits 1 [2006-2008] and 2 [2010-2014]). MRI images obtained on the third visit (2012-2015) were examined for prevalent SCVDs: lacunar infarction, periventricular hyperintensity (PVH), deep subcortical white matter hyperintensity (DSWMH), microbleeds, and intracranial artery stenosis (ICAS). Using a multivariable logistic regression analysis, we computed and estimated the odds ratio of each prevalent SCVD for one standard deviation higher BP indexes. The same analyses were performed using home BP.
+RESULTS: All four office BP indexes at both visits associated with lacunar infarction. Visit 1 and 2 DBP and Visit 1 MAP associated with PVH and DSWMH, and Visit 1 SBP associated with DSWMH. All Visit 2 BP indexes appear to show stronger association with microbleeds than Visit 1 indexes, and Visit 1 and 2 SBP, PP, and MAP showed similar associations with ICAS. Additional analyses using home BP indexes revealed similar relationships; however, the significance of some relationships decreased.
+CONCLUSION: In general Japanese men, BP indexes were associated with most of SCVDs, and BP indexes measured at different periods associated with different SCVDs assessed by MRI.
+
+Citation: Salman E, et al. Relationship of Four Blood Pressure Indexes to Subclinical Cerebrovascular Diseases Assessed by Brain MRI in General Japanese Men. Relationship of Four Blood Pressure Indexes to Subclinical Cerebrovascular Diseases Assessed by Brain MRI in General Japanese Men. 2022; 29:174-187. doi: 10.5551/jat.58537
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33487617/

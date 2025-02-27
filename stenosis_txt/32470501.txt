@@ -1,0 +1,11 @@
+PMID: 32470501
+Title: Central Airway Toxicity After High Dose Radiation: A Combined Analysis of Prospective Clinical Trials for Non-Small Cell Lung Cancer.
+
+Abstract: PURPOSE: To study the dosimetric risk factors for radiation-induced proximal bronchial tree (PBT) toxicity in patients treated with radiation therapy for non-small cell lung cancer (NSCLC).
+METHODS AND MATERIALS: Patients with medically inoperable or unresectable NSCLC treated with conventionally fractionated 3-dimensional conformal radiation therapy (3DCRT) in prospective clinical trials were eligible for this study. Proximal bronchial tree (PBT) and PBT wall were contoured consistently per RTOG 1106 OAR-Atlas. The dose-volume histograms (DVHs) of physical prescription dose (DVHp) and biological effective dose (α/β = 2.5; DVH2.5) were generated, respectively. The primary endpoint was PBT toxicities, defined by CTCAE 4.0 under the terminology of bronchial stricture/atelectasis.
+RESULTS: Of 100 patients enrolled, with a median follow-up of 64 months (95% confidence interval [CI], 50-78), 73% received 70 Gy or greater and 17% developed PBT toxicity (grade 1, 8%; grade 2, 6%; grade 3, 0%; and grade 4, 3%). The median time interval between RT initiation and onset of PBT toxicity was 8.4 months (95% CI, 4.7-44.1). The combined DVHs showed that no patient with a PBT maximum physical dose <65 Gy developed any PBT toxicity. Cox proportional hazards analysis and receiver operating characteristic analysis demonstrated that V75 of PBT was the most significant dosimetric parameter for both grade 1+ (P = .035) and grade 2+ (P = .037) PBT toxicities. The dosimetric thresholds for V75 of PBT were 6.8% and 11.9% for grade 1+ and grade 2+ PBT toxicity, respectively.
+CONCLUSIONS: V75 of PBT appeared be the most significant dosimetric parameter for PBT toxicity after conventionally fractionated thoracic 3DCRT. Constraining V75 of PBT can limit clinically significant PBT toxicity.
+
+Citation: Wang W, et al. Central Airway Toxicity After High Dose Radiation: A Combined Analysis of Prospective Clinical Trials for Non-Small Cell Lung Cancer. Central Airway Toxicity After High Dose Radiation: A Combined Analysis of Prospective Clinical Trials for Non-Small Cell Lung Cancer. 2020; 108:587-596. doi: 10.1016/j.ijrobp.2020.05.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32470501/

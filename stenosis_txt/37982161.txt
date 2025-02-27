@@ -1,0 +1,12 @@
+PMID: 37982161
+Title: One-year clinical outcomes of transcatheter aortic valve implantation with the latest iteration of self-expanding or balloonexpandable devices: insights from the OPERA-TAVI registry.
+
+Abstract: BACKGROUND: Midterm comparative analyses of the latest iterations of the most used Evolut and SAPIEN platforms for transcatheter aortic valve implantation (TAVI) are lacking.
+AIMS: We aimed to compare 1-year clinical outcomes of TAVI patients receiving Evolut PRO/PRO+ (PRO) or SAPIEN 3 Ultra (ULTRA) devices in current real-world practice.
+METHODS: Among patients enrolled in the OPERA-TAVI registry, patients with complete 1-year follow-up were considered for the purpose of this analysis. One-to-one propensity score matching was used to compare TAVI patients receiving PRO or ULTRA devices. The primary endpoint was a composite of 1-year all-cause death, disabling stroke and rehospitalisation for heart failure. Five prespecified subgroups of patients were considered according to leaflet and left ventricular outflow tract calcifications, annulus dimensions and angulation, and leaflet morphology.
+RESULTS: Among a total of 1,897 patients, 587 matched pairs of patients with similar clinical and anatomical characteristics were compared. The primary composite endpoint did not differ between patients receiving PRO or ULTRA devices (Kaplan-Meier [KM] estimates 14.0% vs 11.9%; log-rank p=0.27). Patients receiving PRO devices had higher rates of 1-year disabling stroke (KM estimates 2.6% vs 0.4%; log-rank p=0.001), predominantly occurring within 30 days after TAVI (1.4% vs 0.0%; p=0.004). Outcomes were consistent across all the prespecified subsets of anatomical scenarios (all p<sub>interaction</sub>&gt;0.10).
+CONCLUSIONS: One-year clinical outcomes of patients undergoing transfemoral TAVI and receiving PRO or ULTRA devices in the current clinical practice were similar, but PRO patients had higher rates of disabling stroke. Outcomes did not differ across the different anatomical subsets of the aortic root.
+
+Citation: Costa G, et al. One-year clinical outcomes of transcatheter aortic valve implantation with the latest iteration of self-expanding or balloonexpandable devices: insights from the OPERA-TAVI registry. One-year clinical outcomes of transcatheter aortic valve implantation with the latest iteration of self-expanding or balloonexpandable devices: insights from the OPERA-TAVI registry. 2024; 20:95-103. doi: 10.4244/EIJ-D-23-00720
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37982161/

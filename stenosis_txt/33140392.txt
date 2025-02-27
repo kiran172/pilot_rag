@@ -1,0 +1,11 @@
+PMID: 33140392
+Title: Flow-mediated skin fluorescence: A novel method for the estimation of sleep apnea risk in healthy persons and cardiac patients.
+
+Abstract: BACKGROUND: A pilot study revealed a relationship between the results of flow mediated skin fluorescence (FMSF) and of ECG-Holter-based estimated apnea/hypopnea index (eAHI) in asymptomatic individuals. The aim of this study was to test whether the results of FMSF show a relationship with the eAHI in patients with coronary artery disease or aortic stenosis.
+METHODS: Twenty-one patients (12 coronary disease, 9 aortic stenosis) and 37 healthy volunteers were included. FMSF was assessed before, during and after the pressure occlusion of the brachial artery, using a prototype device allowing the quantification of skin fluorescence. The values of FMSF expressed as baseline (BASE), maximum (MAX), and minimum (MIN) were analyzed. The percentages of ischemic response (IR) and hyperemic response (HR) were calculated. The eAHI was assessed from night ECG-Holter recordings. Differences between the groups and the relationships between the parameters were analyzed statistically.
+RESULTS: Mean ± standard deviation of BASE, MAX, MIN and IR were not significantly different in both groups (p > 0.05). HR was significantly lower in cardiac patients (14.7 ± 7.5 vs. 11.8 ± 5.1; p = 0.048), whose eAHI was significantly higher (11.0 ± 7.4 vs. 36.3 ± 16.5; p < 0.01). Negative correlation for MAX and eAHI was found in volunteers and patients: r = -0.38, p = 0.02 and r = -0.47, p = 0.03, respectively. In volunteers, HR had a negative correlation with eAHI: r = -0.34, p = 0.04.
+CONCLUSIONS: This pioneer study confirms that FMSF can be used to detect the negative correlation between MAX fluorescence and eAHI not only among healthy volunteers, but also among cardiac patients with coronary artery disease or aortic stenosis.
+
+Citation: Rechciński T, et al. Flow-mediated skin fluorescence: A novel method for the estimation of sleep apnea risk in healthy persons and cardiac patients. Flow-mediated skin fluorescence: A novel method for the estimation of sleep apnea risk in healthy persons and cardiac patients. 2022; 29:948-953. doi: 10.5603/CJ.a2020.0139
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33140392/

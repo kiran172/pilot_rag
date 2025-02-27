@@ -1,0 +1,11 @@
+PMID: 31713983
+Title: Ultrasound Criteria for Assessment of Vertebral Artery Origins.
+
+Abstract: BACKGROUND AND PURPOSE: We sought to validate ultrasound as a reliable means of assessing vessel stenosis of vertebral artery origins.
+METHODS: We reviewed 1,135 patient charts with ultrasound of the posterior circulation performed in 2008-2015 in a single hospital. Inclusion criteria for native vessels consisted of ultrasound and digital subtraction angiography (DSA) performed within 3 months. Patients with indwelling stents were analyzed separately from native vessels. Using DSA as the gold standard, we determined sensitivity and specificity of ultrasound in detecting occlusion at vertebral artery origin. All patients with nonoccluded native vertebral artery origins were evaluated for degree of stenosis on DSA, and compared to mean flow velocity (MFV), peak systolic velocity (PSV), and end-diastolic velocity (EDV) on ultrasound.
+RESULTS: Among 218 vertebral artery origins in 139 patients evaluated, ultrasound showed sensitivity of 85.7% (95% confidence interval (CI): 69.7-95.2%) for occlusion and specificity of 99.5% (95%CI: 96.9-99.9%). Among 126 arteries without occlusion, <50% stenosis had average MFV (39 ± 19 cm/s), 50-69% stenosis had average MFV (68 ± 35 cm/s), and severe (70-99%) stenosis had average MFV (120 ± 93 cm/s) (P < .001). MFV cutoff value of 44 cm/s corresponded to 77% sensitivity and 70% specificity to detect vertebral artery origin stenosis >50% (C-statistic: .81). PSV value of 97 cm/s corresponded with 72% sensitivity and 70% specificity to detect >50% stenosis (C-statistic: .77). MFV cutoff value of 60 cm/s corresponded with 70% sensitivity and 82% specificity to predict 70-99% stenosis (C-statistic: .83). PSV cutoff value of 110 cm/s corresponded with 80% sensitivity and 72% specificity to predict 70-99% stenosis (C-statistic: .84).
+CONCLUSION: Ultrasound has good sensitivity and excellent specificity for detecting vertebral origin occlusion. Flow velocity can be used to screen for severe stenosis of vertebral artery at origin.
+
+Citation: Rice CJ, et al. Ultrasound Criteria for Assessment of Vertebral Artery Origins. Ultrasound Criteria for Assessment of Vertebral Artery Origins. 2020; 30:45-49. doi: 10.1111/jon.12674
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31713983/

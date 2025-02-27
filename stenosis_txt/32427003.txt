@@ -1,0 +1,8 @@
+PMID: 32427003
+Title: Numerical study to identify the effect of fluid presence on the mechanical behavior of the stents during coronary stent expansion.
+
+Abstract: In this study, structural analysis and one-way fluid-structure interaction (FSI) analysis were performed to identify the effect of fluid presence on the mechanical behavior of the stents during stent expansion. An idealized vessel model with stenosis was used for simulation, and stents made of metal and polymer were assumed, respectively. The bilinear model was applied to the stents, and the Mooney-Rivlin model was applied to the arterial wall and plaque. The blood used in the FSI analysis was assumed to be a non-Newtonian fluid. As a result of all numerical simulations, the von Mises stress, the first principal stress and the displacement were calculated as the mechanical behaviors. Through the comparison of the results of the structural analysis with those of the one-way FSI analysis, our results indicated the fluid had no significant influence on the expansion of the metal stent. However, it was found that the expansion of the polymer stent affected by the presence of fluid. These findings meant the one-way FSI technique was suggested to achieve an accurate analysis when targeting a polymer stent for numerical simulation.
+
+Citation: Lee W, et al. Numerical study to identify the effect of fluid presence on the mechanical behavior of the stents during coronary stent expansion. Numerical study to identify the effect of fluid presence on the mechanical behavior of the stents during coronary stent expansion. 2020; 23:744-754. doi: 10.1080/10255842.2020.1763967
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32427003/

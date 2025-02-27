@@ -1,0 +1,12 @@
+PMID: 36125595
+Title: A Method Using Longitudinal Laboratory Data to Predict Future Intestinal Complication in Patients with Crohn's Disease.
+
+Abstract: BACKGROUND: Stenosis, fistulization, and perforation of the bowel are severe outcomes which can occur in patients with Crohn's disease. Accurate prediction of these events may enable clinicians to alter treatment strategies and avoid these outcomes.
+AIMS: To study the correlation between longitudinal laboratory testing and subsequent intestinal complications in patients with Crohn's disease.
+METHODS: An observational cohort of patients with Crohn's disease at a single center were analyzed between 01/01/1994 and 06/30/2016. A complication was defined as the development of an intestinal fistula, stenosis, or perforation. Exploratory analysis using Cox regression was performed to select the best statistical method to represent longitudinal laboratory data. Cox regression was used to identify laboratory variables independently associated with the development of a subsequent complication. A clinical scoring tool was designed.
+RESULTS: In 246 patients observed over a median of 5.72 years, 134 complications occurred. Minimum or maximum value in a preceding window period of one year was most strongly associated with subsequent complication. A Longitudinal Laboratory score of ≥ 2 (maximum albumin level &lt; 39 g/L = 1, maximum mean cell volume &lt; 88 fL = 1, minimum platelet count &gt; 355 × 109/L = 1, minimum C reactive protein &gt; 5 mg/L = 1) was 62% sensitive and 91% specific in identifying patients who develop a subsequent complication.
+CONCLUSION: A consistent reduction in serum albumin and mean cell volume, and a consistent increase in platelet count and C reactive protein were associated with a subsequent complication in patients with Crohn's disease. Longitudinal laboratory tests may be used as described in this paper to provide a rational for earlier escalation of therapy.
+
+Citation: Irwin J, et al. A Method Using Longitudinal Laboratory Data to Predict Future Intestinal Complication in Patients with Crohn's Disease. A Method Using Longitudinal Laboratory Data to Predict Future Intestinal Complication in Patients with Crohn's Disease. 2023; 68:596-607. doi: 10.1007/s10620-022-07639-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36125595/

@@ -1,0 +1,12 @@
+PMID: 37933801
+Title: The Impact of Tracheal Stenosis on Distal Airway Pressure with Jet Ventilation.
+
+Abstract: OBJECTIVE: This study investigates the effects of tracheal stenosis on distal airway pressure during low-frequency jet ventilation (LFJV) in tracheal stenosis resection procedures, focusing on variables like stenosis size, depth, scope type, and inlet pressure.
+METHODS: A 3D-printed human airway model was employed, featuring inserted tracheal stenoses of varied sizes and depths. Distal airway pressure was measured with 16 pressure transducers, and data were processed via MATLAB. The study varied stenosis size, depth, scope type, and inlet pressure during five sequential jet bursts under LFJV.
+RESULTS: Using a subglottiscope resulted in significantly reduced distal airway pressure compared to a laryngoscope. Interestingly, neither stenosis size nor depth significantly influenced distal airway pressure. However, increased distance between the scope and stenosis raised normalized pressure. A linear rise in normalized distal airway pressure was noted with increased inlet pressure, regardless of stenosis dimensions.
+CONCLUSION: In this model, scope type and inlet pressure were noted to be significant determinants of distal airway pressure, while stenosis size and depth were not. The distance between the scope and the stenosis did influence distal pressures. These findings may have clinical implications for managing airway pressures in patients undergoing LFJV, potentially reducing the risk of ventilator-induced lung injury.
+LEVEL OF EVIDENCE: NA (Basic Research) Laryngoscope, 134:2300-2305, 2024.
+
+Citation: Gottman DC, et al. The Impact of Tracheal Stenosis on Distal Airway Pressure with Jet Ventilation. The Impact of Tracheal Stenosis on Distal Airway Pressure with Jet Ventilation. 2024; 134:2300-2305. doi: 10.1002/lary.31150
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37933801/

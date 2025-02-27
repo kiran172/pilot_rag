@@ -1,0 +1,8 @@
+PMID: 37673726
+Title: Vertebral artery sparing volumetric modulated arc therapy in nasopharyngeal carcinoma.
+
+Abstract: Vascular stenosis is a late radiation complication that develops in long-term survivors of nasopharyngeal carcinoma. Vertebral arteries (VAs) are major vessels responsible for posterior circulation. In this study, we evaluated the feasibility of VA-sparing volumetric modulated arc therapy (VMAT) techniques. A total of 20 patients with nasopharyngeal carcinoma treated by a TrueBeam linear accelerator were enrolled in this study. The original VMAT plan was designed without the contouring of VAs as organs at risk (OARs). The same image set of the original VMAT plan was used to contour the VAs for each patient. A new VA-sparing VMAT plan was developed by avoiding VAs as OARs. Finally, a paired t-test was used to compare the dosimetric differences. The VA-sparing VMAT plan had similar target coverage and dose to those of other OARs. The VA-sparing plan yielded a significantly low VA dose from 53 to 40 Gy, with V35Gy changing from 97% to 56%, V50Gy changing from 67% to 35%, and V63Gy changing from 15% to approximately 7%-10% (p < 0.001 for all comparisons). VAs should be correctly identified as OARs. Photon VMAT with VA sparing can help substantially decrease the VA dose.
+
+Citation: Lu SH, et al. Vertebral artery sparing volumetric modulated arc therapy in nasopharyngeal carcinoma. Vertebral artery sparing volumetric modulated arc therapy in nasopharyngeal carcinoma. 2023; 48:304-311. doi: 10.1016/j.meddos.2023.08.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37673726/

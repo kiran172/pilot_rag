@@ -1,0 +1,11 @@
+PMID: 35751200
+Title: Significance of aortoseptal angle anomalies to left ventricular hemodynamics and subaortic stenosis: A numerical study.
+
+Abstract: PURPOSE: Discrete subaortic stenosis (DSS) is an obstructive cardiac disease caused by a membranous lesion in the left ventricular (LV) outflow tract (LVOT). Although its etiology is unknown, the higher prevalence of DSS in LVOT anatomies featuring a steep aortoseptal angle (AoSA) suggests a potential role for hemodynamics. Therefore, the objective of this study was to quantify the impact of AoSA steepening on the LV three-dimensional (3D) hemodynamic stress environment.
+METHODS: A 3D LV model reconstructed from cardiac cine-magnetic resonance imaging was connected to four LVOT geometrical variations spanning the clinical AoSA range (115°-160°). LV hemodynamic stresses were characterized in terms of cycle-averaged pressure, temporal shear magnitude (TSM), and oscillatory shear index. The wall shear stress (WSS) topological skeleton was further analyzed by computing the scaled divergence of the WSS vector field.
+RESULTS: AoSA steepening caused an increasingly perturbed subaortic flow marked by LVOT flow skewness and complex 3D secondary flow patterns. These disturbances generated WSS overloads (>45% increase in TSM vs. 160° model) on the inferior LVOT wall, and increased WSS contraction (>66% decrease in WSS divergence vs. 160° model) in regions prone to DSS membrane formation.
+CONCLUSIONS: AoSA steepening generated substantial hemodynamic stress abnormalities in LVOT regions prone to DSS formation. Further studies are needed to assess the possible impact of such mechanical abnormalities on the tissue and cellular responses.
+
+Citation: Shar JA, et al. Significance of aortoseptal angle anomalies to left ventricular hemodynamics and subaortic stenosis: A numerical study. Significance of aortoseptal angle anomalies to left ventricular hemodynamics and subaortic stenosis: A numerical study. 2022; 146:105613. doi: 10.1016/j.compbiomed.2022.105613
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35751200/

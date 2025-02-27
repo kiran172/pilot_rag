@@ -1,0 +1,11 @@
+PMID: 31705817
+Title: Changes in the socioeconomic status of patients receiving TAVR in New York State.
+
+Abstract: BACKGROUND: When transcatheter aortic valve replacement (TAVR) was first approved by the Food and Drug Administration in October 2011, it was an innovative treatment with limited accessibility. However, over the past few years, TAVR has become standard of care in patients with aortic stenosis. The effect of socioeconomic status (SES) on this transition of use of TAVR is unknown.
+METHOD: Using the New York state department Statewide Planning and Research Cooperative System database, we compared baseline patient characteristics and facilities in low-income areas and high-income areas. Trends in residential SES of patients undergoing TAVR were examined over time and assessed with a Poisson regression and Cochran Armitage trend tests.
+RESULT: From October 2011 and 2012 to December 2016, we found that the numbers of TAVR procedures performed among patients from both low (187-1150 in 2016, P < .001) and high (227-1160, P < .001) income areas increased over time. The proportion of TAVR procedures performed in patients from low-income areas increased over time, while those in high-income areas decreased (from 45.2% in 2011 and 2012 to 49.8% in 2016 for low-income and from 54.8%-50.2% for high-income, P = .009).
+CONCLUSION: In the case of TAVR in New York State, when the innovative treatment was introduced in the clinical practice, there were initial SES-based disparities in access to the procedure. However, these disparities resolved over time, probably due to the broader diffusion of the technique.
+
+Citation: Rong LQ, et al. Changes in the socioeconomic status of patients receiving TAVR in New York State. Changes in the socioeconomic status of patients receiving TAVR in New York State. 2020; 35:54-57. doi: 10.1111/jocs.14326
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31705817/

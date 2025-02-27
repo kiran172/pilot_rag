@@ -1,0 +1,11 @@
+PMID: 37857102
+Title: Automated machine learning-based model for predicting benign anastomotic strictures in patients with rectal cancer who have received anterior resection.
+
+Abstract: BACKGROUND: Benign anastomotic strictures (BAS) significantly impact patients' quality of life and long-term prognosis. However, the current clinical practice lacks accurate tools for predicting BAS. This study aimed to develop a machine-learning model to predict BAS in patients with rectal cancer who have undergone anterior resection.
+METHODS: Data from 1973 patients who underwent anterior resection for rectal cancer were collected. Multiple machine learning classification models were integrated to analyze the data and identify the optimal model. Model performance was evaluated using receiver operator characteristic (ROC) curves, decision curve analysis (DCA), and calibration curves. The Shapley Additive exPlanation (SHAP) algorithm was utilized to assess the impact of various clinical characteristics on the optimal model to enhance the interpretability of the model results.
+RESULTS: A total of 10 clinical features were considered in constructing the machine learning model. The model evaluation results indicated that the random forest (RF)model was optimal, with the area under the test set curve (AUC: 0.888, 95% CI: 0.810-0.965), accuracy: 0.792, sensitivity: 0.846, specificity: 0.791. The SHAP algorithm analysis identified prophylactic ileostomy, operative time, and anastomotic leakage as significant contributing factors influencing the predictions of the RF model.
+CONCLUSION: We developed a robust machine-learning model and user-friendly online prediction tool for predicting BAS following anterior resection of rectal cancer. This tool offers a potential foundation for BAS prevention and aids clinical practice by enabling more efficient disease management and precise medical interventions.
+
+Citation: Su Y, et al. Automated machine learning-based model for predicting benign anastomotic strictures in patients with rectal cancer who have received anterior resection. Automated machine learning-based model for predicting benign anastomotic strictures in patients with rectal cancer who have received anterior resection. 2023; 49:107113. doi: 10.1016/j.ejso.2023.107113
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37857102/

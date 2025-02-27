@@ -1,0 +1,11 @@
+PMID: 36528684
+Title: Computer-based airway stenosis quantification from bronchoscopic images: preliminary results from a feasibility trial.
+
+Abstract: PURPOSE: Airway Stenosis (AS) is a condition of airway narrowing in the expiration phase. Bronchoscopy is a minimally invasive pulmonary procedure used to diagnose and/or treat AS. The AS quantification in a form of the Stenosis Index (SI), whether subjective or digital, is necessary for the physician to decide on the most appropriate form of treatment. The literature reports that the subjective SI estimation is inaccurate. In this paper, we propose an approach to quantify the SI defining the level of airway narrowing, using depth estimation from a bronchoscopic image.
+METHODS: In this approach we combined a generative depth estimation technique combined with depth thresholding to provide Computer-based AS quantification. We performed an interim clinical analysis by comparing AS quantification performance of three expert bronchoscopists against the proposed Computer-based method on seven patient datasets.
+RESULTS: The Mean Absolute Error of the subjective Human-based and the proposed Computer-based SI estimation was [Formula: see text] [%] and [Formula: see text] [%], respectively. The correlation coefficients between the CT measurements were used as the gold standard, and the Human-based and Computer-based SI estimation were [Formula: see text] and 0.46, respectively.
+CONCLUSIONS: We presented a new computer method to quantify the severity of AS in bronchoscopy using depth estimation and compared the performance of the method against a human-based approach. The obtained results suggest that the proposed Computer-based AS quantification is a feasible tool that has the potential to provide significant assistance to physicians in bronchoscopy.
+
+Citation: Banach A, et al. Computer-based airway stenosis quantification from bronchoscopic images: preliminary results from a feasibility trial. Computer-based airway stenosis quantification from bronchoscopic images: preliminary results from a feasibility trial. 2023; 18:707-713. doi: 10.1007/s11548-022-02808-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36528684/

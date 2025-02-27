@@ -1,0 +1,11 @@
+PMID: 39138402
+Title: Waterpipe smoking is associated with presence and severity of coronary artery disease: a propensity score-matched study.
+
+Abstract: BACKGROUND: The prevalence of waterpipe smoking (WPS) has been increasing worldwide. This trend is alarming as WPS can negatively impact cardiovascular health. In the present study, we explored the association between WPS and the presence and severity of CAD.
+METHODS: This study was a retrospective analysis of patients who underwent diagnostic coronary angiography at Tehran Heart Center between April 2021 and May 2022. Patients with a previous history of percutaneous coronary intervention and coronary surgery were excluded. Waterpipe smokers were matched with non-smokers based on age, gender, and cigarette smoking using a 1:4 propensity score matching model. Stenosis ≥ 50% in any coronary artery was considered a CAD diagnosis. Gensini score was also calculated to measure the severity of the CAD.
+RESULTS: We reviewed the medical records of 8699 patients, including 380 waterpipe smokers. After matching, 1520 non-smokers with similar propensity scores to the waterpipe smokers were selected. Waterpipe smokers were more likely to have CAD than non-smokers (OR: 1.29; 95% CI: 1.04-1.60, P = 0.021). In addition, WPS increased the natural logarithm of the Gensini score by 1.24 (95% CI: 1.04-1.48, P = 0.014) in patients with atherosclerotic coronary disease.
+CONCLUSION: WPS may increase the risk of CAD independent of age, gender, and cigarette smoking. In addition, among patients with any degree of atherosclerosis in coronary arteries (GS > 0), WPS may lead to higher average GS, suggesting more severe atherosclerosis.
+
+Citation: Masoudkabir F, et al. Waterpipe smoking is associated with presence and severity of coronary artery disease: a propensity score-matched study. Waterpipe smoking is associated with presence and severity of coronary artery disease: a propensity score-matched study. 2024; 24:424. doi: 10.1186/s12872-024-04059-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39138402/

@@ -1,0 +1,11 @@
+PMID: 32168051
+Title: Relationship between cardio-ankle vascular index and obstructive coronary artery disease.
+
+Abstract: BACKGROUND: Cardio-ankle vascular index (CAVI) is an inexpensive, noninvasive, office-based method to evaluate arterial stiffness in the aorta and legs, which reflects the degree of coronary atherosclerosis. It has been applied clinically to assess arterial stiffness in patients who were diagnosed with coronary artery disease (CAD), stroke and those at risk. We intend to evaluate relationship between the CAVI and obstructive CAD.
+METHODS: We enrolled 285 individuals with mean age of 55.8 ± 13.5 years, clinically referred for Coronary Artery Calcium (CAC) scoring and coronary computed tomography angiography (CCTA) at our site. After informed consent, CAVI measurements were done using a vascular screening system, VaSera VS-1500 AU (FUKUDA Denshi) on the same day of CCTA. CAC was measured using the Agatston method. A semiquantitative scale was used by CCTA readers to grade the extent of luminal stenosis as a percentage of the vessel diameter using visual estimations. We evaluated if CAVI was associated with severe stenosis (>50%) or CAC >100, defined as obstructive CAD.
+RESULTS: The degree of CAC and severe coronary stenosis demonstrated significant correlation with CAVI (r = 0.44, P ≤ 0.0001 and r = 0.43, P ≤ 0.0001). Receiver operating characteristic curve analysis indicated that CAVI measure of 7.8 was an optimal cut-point for sensitivity and specificity in detecting obstructive CAD. Unadjusted logistic regression demonstrated CAVI >7.8, significantly associated with obstructive CAD [odds ratio (OR) = 4.60, 95% confidence interval (CI) (2.0-10.56), P = 0.0003] and CAC score >100 [OR = 6.96, 95% CI (3.68-13.17), P < 0.0001].
+CONCLUSION: CAVI reflects coronary atherosclerosis and may be used as a screening tool for early identification of subclinical atherosclerosis in preventive care and optimize management.
+
+Citation: Birudaraju D, et al. Relationship between cardio-ankle vascular index and obstructive coronary artery disease. Relationship between cardio-ankle vascular index and obstructive coronary artery disease. 2020; 31:550-555. doi: 10.1097/MCA.0000000000000872
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32168051/

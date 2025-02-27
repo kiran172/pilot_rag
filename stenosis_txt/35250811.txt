@@ -1,0 +1,12 @@
+PMID: 35250811
+Title: Color Doppler Ultrasonography for the Evaluation of Subclavian Artery Stenosis.
+
+Abstract: BACKGROUND: It is of great significance to evaluate symptomatic subclavian artery (SA) stenosis by color Doppler ultrasonography. More than 50% SA stenosis may induce symptoms. Currently, there is a paucity of published literature and lack of practitioner consensus for how ultrasonic findings should be interpreted in patients with SA stenosis.
+OBJECTIVE: The study aimed to prospectively evaluate SA stenosis using color Doppler ultrasonography, with digital subtraction angiography as a reference. Moreover, we aimed to determine the optimal thresholds to predict SA stenosis (≥50%).
+METHODS: A total of 423 SAs from 234 patients with normal or stenotic lumen were enrolled. The peak systolic velocity (PSV) and acceleration time at the stenotic and distal segments of the SA, peak reversed velocity of the vertebral artery, and waveforms of the stenotic SA, distal SA, and vertebral artery were recorded. The ratios of stenotic PSV to distal PSV (PSVr) and distal AT to stenotic AT were also calculated. The optimal cutoff values were determined using receiver operating characteristic analysis.
+RESULTS: All ultrasonic parameters were significantly correlated with the degree of SA stenosis, whereas PSV (r = 0.624, P &lt; 0.001), PSVr (r = 0.654, P &lt; 0.001) and VA waveform change (r = 0.631, P &lt; 0.001) had the strongest correlation with SA stenosis. The optimal cutoff values were as follows: PSV ≥ 230 cm/s and PSVr ≥ 2.2 to predict ≥ 50% stenosis, and PSV ≥ 340 cm/s and PSVr ≥ 3.0 to predict ≥ 70% stenosis.
+CONCLUSIONS: Symptomatic patients with the ultrasonic parameters of PSV ≥ 230 cm/s and PSVr ≥ 2.2 need to be considered for further verification by computed tomographic angiography or magnetic resonance angiography, or by digital subtraction angiography with a view to percutaneous transluminal angioplasty/stent implantation in the same session. The recommended graded cutoff values can help in long-term management of patients with SA stenosis.
+
+Citation: Zhang J, et al. Color Doppler Ultrasonography for the Evaluation of Subclavian Artery Stenosis. Color Doppler Ultrasonography for the Evaluation of Subclavian Artery Stenosis. 2022; 13:804039. doi: 10.3389/fneur.2022.804039
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35250811/

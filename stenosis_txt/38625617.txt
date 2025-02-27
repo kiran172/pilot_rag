@@ -1,0 +1,10 @@
+PMID: 38625617
+Title: Impact of obesity-related indicators on first-pass effect in patients with ischemic stroke receiving mechanical thrombectomy.
+
+Abstract: PURPOSE: The first-pass effect (FPE), defined as complete revascularization after a single thrombectomy pass in large vessel occlusion, is a predictor of good prognosis in patients with acute ischemic stroke (AIS) receiving mechanical thrombectomy (MT). We aimed to evaluate obesity-related indicators if possible be predictors of FPE.
+METHODS: We consecutively enrolled patients with AIS who were treated with MT between January 2019 and December 2021 at our institution. Baseline characteristics, procedure-related data, and laboratory test results were retrospectively analyzed. A multivariable logistic regression analysis was performed to evaluate the independent predictors of FPE.
+RESULTS: A total of 151 patients were included in this study, of whom 47 (31.1%) had FPE. After adjusting for confounding factors, the independent predictors of achieving FPE were low levels of body mass index (BMI) (OR 0.85, 95% CI 0.748 to 0.971), non-intracranial atherosclerotic stenosis (OR 4.038, 95% CI 1.46 to 11.14), and non-internal carotid artery occlusion (OR 13.14, 95% CI 2.394 to 72.11). Patients with lower total cholesterol (TC) (< 3.11 mmol/L) were more likely to develop FPE than those with higher TC (≥ 4.63 mmol/L) (OR 4.280; 95% CI 1.24 to 14.74) CONCLUSION: Lower BMI, non-intracranial atherosclerotic stenosis, non-internal carotid artery occlusion, and lower TC levels were independently associated with increased rates of FPE in patients with AIS who received MT therapy. FPE was correlated with better clinical outcomes after MT.
+
+Citation: Zhang J, et al. Impact of obesity-related indicators on first-pass effect in patients with ischemic stroke receiving mechanical thrombectomy. Impact of obesity-related indicators on first-pass effect in patients with ischemic stroke receiving mechanical thrombectomy. 2024; 66:1021-1029. doi: 10.1007/s00234-024-03350-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38625617/

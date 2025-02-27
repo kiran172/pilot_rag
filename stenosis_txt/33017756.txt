@@ -1,0 +1,11 @@
+PMID: 33017756
+Title: Absence of electrocardiographic left ventricular hypertrophy in patients undergoing Transcatheter aortic valve replacement is associated with increased mortality.
+
+Abstract: BACKGROUND: We examined the association between the absence ECG LVH and all-cause mortality in patients with severe AS undergoing TAVR.
+METHODS: We conducted a retrospective single center study on 399 TAVR patients from 2012 to 2016. ECGs were reviewed for LVH diagnosed by Sokolow-Lyon's voltage criteria. All patients met echocardiographic criteria for LVH. Logistic regression was used to examine the association between ECG LVH and covariates. Survival analysis was performed using Cox regression analysis and Kaplan Meier curves.
+RESULTS: Patients without ECG LVH were younger (81.0 ± 8.4 vs. 84.0 ± 7.7 years, p = 0.001) with a higher BMI (29.3 ± 7.0 vs. 27.1 ± 5.6 kg/m2, p = 0.006) and lower FEV1 (65.6 ± 22.8 vs. 74.1 ± 21.6%, p = 0.002). In multivariable analysis, increased BMI and decreased FEV1 remained predictive of the absence of ECG LVH. Over a mean follow-up time of 32 (± 17.0) months, the 5-year cumulative survival was 79% in the ECG LVH group and 58% in the group without ECG LVH (p = 0.039). Absence of ECG LVH remained predictive of all-cause mortality (HR 1.56, 95% CI 1.01-2.59, p = 0.045) in multivariable Cox regression analysis. When patients were grouped by comorbidities, patients with the highest mortality were those with increased BMI or decreased FEV1.
+CONCLUSIONS: Absence of LVH by ECG criteria in patients with severe AS undergoing TAVR was associated with increased all-cause mortality. Routinely performed, noninvasive and inexpensive ECG may aid in identification of high-risk patients that may not benefit from TAVR and warrant further evaluation of underlying comorbidities.
+
+Citation: Zhang R, et al. Absence of electrocardiographic left ventricular hypertrophy in patients undergoing Transcatheter aortic valve replacement is associated with increased mortality. Absence of electrocardiographic left ventricular hypertrophy in patients undergoing Transcatheter aortic valve replacement is associated with increased mortality. 2020; 63:12-16. doi: 10.1016/j.jelectrocard.2020.09.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33017756/

@@ -1,0 +1,11 @@
+PMID: 37536835
+Title: Effect of aortic bifurcation geometry on pressure and peak wall stress in abdominal aorta: Fluid-structure interaction study.
+
+Abstract: BACKGROUND AND OBJECTIVE: Geometry of aorto-iliac bifurcation may affect pressure and wall stress in aorta and thus potentially serve as a predictor of abdominal aortic aneurysm (AAA), similarly to hypertension.
+METHODS: Effect of aorto-iliac bifurcation geometry was investigated via parametric analysis based on two-way weakly coupled fluid-structure interaction simulations. The arterial wall was modelled as isotropic hyperelastic monolayer, and non-Newtonian behaviour was introduced for the fluid. Realistic boundary conditions of the pulsatile blood flow were used on the basis of experiments in literature and their time shift was tailored to the pulse wave velocity in the model to obtain physiological wave shapes. Eighteen idealized and one patient-specific geometries of human aortic tree with common iliac and renal arteries were considered with different angles between abdominal aorta (AA) and both iliac arteries and different area ratios (AR) of iliac and aortic luminal cross sections.
+RESULTS: Peak wall stress (PWS) and systolic blood pressure (SBP) were insensitive to the aorto-iliac angles but sensitive to the AR: when AR decreased by 50%, the PWS and SBP increased by up to 18.4% and 18.8%, respectively.
+CONCLUSIONS: Lower AR (as a result of the iliac stenosis or aging), rather than the aorto-iliac angles increases the BP in the AA and may be thus a risk factor for the AAA development.
+
+Citation: Jagos J, et al. Effect of aortic bifurcation geometry on pressure and peak wall stress in abdominal aorta: Fluid-structure interaction study. Effect of aortic bifurcation geometry on pressure and peak wall stress in abdominal aorta: Fluid-structure interaction study. 2023; 118:104014. doi: 10.1016/j.medengphy.2023.104014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37536835/

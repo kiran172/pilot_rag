@@ -1,0 +1,8 @@
+PMID: 33003941
+Title: Transport of blood particles: Chaotic advection even in a healthy scenario.
+
+Abstract: We study the advection of blood particles in the carotid bifurcation, a site that is prone to plaque development. Previously, it has been shown that chaotic advection can take place in blood flows with diseases. Here, we show that even in a healthy scenario, chaotic advection can take place. To understand how the particle dynamics is affected by the emergence and growth of a plaque, we study the carotid bifurcation in three cases: a healthy bifurcation, a bifurcation with a mild stenosis, and the another with a severe stenosis. The result is non-intuitive: there is less chaos for the mild stenosis case even when compared to the healthy, non-stenosed, bifurcation. This happens because the partial obstruction of the mild stenosis generates a symmetry in the flow that does not exist for the healthy condition. For the severe stenosis, there is more irregular motion and more particle trapping as expected.
+
+Citation: Silva IM, et al. Transport of blood particles: Chaotic advection even in a healthy scenario. Transport of blood particles: Chaotic advection even in a healthy scenario. 2020; 30:093135. doi: 10.1063/5.0013460
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33003941/

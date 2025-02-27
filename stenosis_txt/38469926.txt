@@ -1,0 +1,12 @@
+PMID: 38469926
+Title: Risk of supranormal left ventricular ejection fraction in patients with aortic stenosis.
+
+Abstract: BACKGROUND: Cardiovascular events are increasing in patients with supranormal left ventricular ejection fraction (snLVEF). However, the effect of snLVEF in patients with aortic stenosis (AS) remains unclear, especially in patients with moderate AS.
+HYPOTHESIS: This study aimed to evaluate the prognosis of mortality and heart failure (HF) in patients with LVEF ≥ 50% and moderate or severe AS.
+METHODS: This retrospective study targeted patients with moderate or severe AS and LVEF > 50%. LVEF of 50%-65% was classified as normal LVEF (nLVEF, nEF group) and >65% as snLVEF (snEF group). AS severity was stratified based on the aortic valve area into moderate (1.0-1.5 cm²) and severe (<1.0 cm²). Primary outcomes included all-cause mortality and HF hospitalization.
+RESULTS: A total of 226 participants were included in this study. There were 67 and 65 participants with moderate AS in snEF (m-snEF) and nEF groups (m-nEF), respectively, and 41 and 53 participants with severe AS in the snEF (s-snEF) and nEF groups (s-nEF), respectively. During the observation period (median: 554 days), the primary composite outcome occurred in 108 individuals. Cox hazard analysis revealed no significant differences among the four groups in primary composite outcomes. With respect to HF hospitalization, the adjusted hazard ratios (95% confidence intervals) with m-snEF as the reference were as follows: m-nEF, 0.41 (0.19-0.89); s-nEF, 1.43 (0.76-2.67); and s-snEF, 1.83 (1.00-3.35).
+CONCLUSIONS: The risk of HF hospitalization for m-snLVEF was higher than m-nLVEF and not significantly different from s-nLVEF.
+
+Citation: Inoue N, et al. Risk of supranormal left ventricular ejection fraction in patients with aortic stenosis. Risk of supranormal left ventricular ejection fraction in patients with aortic stenosis. 2024; 47:e24255. doi: 10.1002/clc.24255
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38469926/

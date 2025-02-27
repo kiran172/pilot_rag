@@ -1,0 +1,12 @@
+PMID: 35027108
+Title: Risk-Adjusted, 30-Day Home Time After Transcatheter Aortic Valve Replacement as a Hospital-Level Performance Metric.
+
+Abstract: BACKGROUND: Patient-centric measures of hospital performance for transcatheter aortic valve replacement (TAVR) are needed.
+OBJECTIVES: This study evaluated 30-day, risk-adjusted home time as a hospital performance metric for patients who underwent TAVR.
+METHODS: This study identified 160,792 Medicare beneficiaries who underwent elective TAVR from 2015 to 2019. Home time was calculated for each patient as the number of days alive and spent outside the hospital, skilled nursing facility (SNF), and long-term acute care facility for 30 days after the TAVR procedure date. Correlations between risk-adjusted, 30-day home time and other metrics (30-day, risk-adjusted readmission rate [RSRR], 30-day, risk-adjusted mortality rate [RSMR], and annual TAVR volume) were estimated using Pearson's correlation. Meaningful upward or downward reclassification (≥2 quartile ranks) in hospital performance based on quartiles of risk-adjusted, 30-day home time compared with quartiles of other measures were assessed.
+RESULTS: Median risk-adjusted, 30-day home time was 27.4 days (interquartile range [IQR]: 26.3-28.5 days). The largest proportion of days lost from 30-day home time was hospital stay after TAVR and SNF stay. An inverse correlation was observed between hospital-level, risk-adjusted, 30-day home time and 30-day RSRR (r = -0.465; P < 0.001) and 30-day RSMR (r = -0.3996; P < 0.001). The use of the 30-day, risk-adjusted home time was associated with reclassification in hospital performance rank hospitals compared with other metrics (9.1% up-classified, 11.2% down-classified vs RSRR; 9.1% up-classified, 10.3% down-classified vs RSMR; and 20.1% up-classified, 19.3% down-classified vs annual TAVR volume).
+CONCLUSIONS: Risk-adjusted, 30-day home time represents a novel patient-centered performance metric for TAVR hospitals that may provide a complimentary assessment to currently used metrics.
+
+Citation: Mentias A, et al. Risk-Adjusted, 30-Day Home Time After Transcatheter Aortic Valve Replacement as a Hospital-Level Performance Metric. Risk-Adjusted, 30-Day Home Time After Transcatheter Aortic Valve Replacement as a Hospital-Level Performance Metric. 2022; 79:132-144. doi: 10.1016/j.jacc.2021.10.038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35027108/

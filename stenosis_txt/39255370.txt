@@ -1,0 +1,11 @@
+PMID: 39255370
+Title: Difference in Cardiac Response after Transcatheter Aortic Valve Implantation according to Flow and Gradient Pattern.
+
+Abstract: BACKGROUND: In patients undergoing transcatheter aortic valve implantation (TAVI) for severe aortic stenosis (AS), data on the differences in subsequent cardiac structure and function among stratified groups with flow gradient patterns through the aortic valve are insufficient.
+METHODS: In this large multicenter study, 4,523 patients undergoing TAVI for severe AS between 2013 and 2019 were divided into 3 groups according to the following criteria: (1) high-gradient AS (HG-AS) (mean pressure gradient [MPG] ≥40 mmHg), (2) classical low-flow low-gradient AS (cLFLG-AS) (MPG <40 mmHg, left ventricular [LV] ejection fraction [LVEF] <50%), and (3) paradoxical low-flow low-gradient AS (pLFLG-AS) (MPG <40 mmHg, LVEF ≥50% but stroke volume index [SVi] <35 mL/m2). Echocardiography was performed at baseline, post-procedure, and 1 year post-TAVI.
+RESULTS: 3,697, 507, and 319 patients had HG-AS, cLFLG-AS, and pLFLG-AS, respectively. After adjusting for clinical factors, cLFLG-AS and pLFLG-AS had an approximately 1.5-fold higher 2-year all-cause mortality compared with HG-AS. During 1 year following TAVI, compared with HG-AS, cLFLG-AS showed greater reduction of LV systolic diameter (LVDs) and LV diastolic diameter (LVDd) and greater increase of LVEF (p<0.001 for all), and changes in LV mass index (LVMi) and SVi were comparable (p=0.915 and p=0.821, respectively). However, pLFLG-AS demonstrated less reduction of LVDs and LVDd (p=0.039 and p=0.001, respectively), less improvement of LVEF and LVMi (p=0.045 and p<0.001, respectively), and comparable change in SVi (p=0.364).
+CONCLUSIONS: During 1 year post-TAVI, compared with HG-AS, cLFLG-AS achieves smaller LV diameters, greater increase in LVEF, and comparable regression of LVMi, whereas pLFLG-AS does not.
+
+Citation: Yokoyama H, et al. Difference in Cardiac Response after Transcatheter Aortic Valve Implantation according to Flow and Gradient Pattern. Difference in Cardiac Response after Transcatheter Aortic Valve Implantation according to Flow and Gradient Pattern. 2024; (unknown volume):(unknown pages). doi: 10.1093/ehjci/jeae235
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39255370/

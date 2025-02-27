@@ -1,0 +1,11 @@
+PMID: 32007405
+Title: Endovascular Pressure Measurements to Assess the Functional Severity of Mesenteric Arterial Stenoses.
+
+Abstract: PURPOSE: To assess the ability of pressure measurements to discriminate clinically significant celiac artery (CA) or superior mesenteric artery (SMA) stenosis in patients with suspected chronic mesenteric ischemia (CMI).
+MATERIALS AND METHODS: Single-center, retrospective cohort study of 41 intra-arterial pressure measurements during mesenteric angiography with intended revascularization, performed in 37 patients (mean age 67.7 ± 10.8 years, 62% female) between April 2015 and May 2017. Simultaneous prestenotic and poststenotic pressure measurements had been obtained before and after intra-arterial administration of nitroglycerin. Revascularization was performed in 38 of 41 procedures. Definitive diagnosis of CMI was defined as patient-reported symptom relief or improvement after successful revascularization.
+RESULTS: Pressure gradients obtained after vasodilator administration were significantly higher in CAs and SMAs with ≥50% stenosis. Pressure ratios (pressure distal [Pd]/pressure aorta [Pa]) obtained after vasodilator administration were significantly higher in CAs with ≥50% stenosis. Subgroup analysis of 22 patients with a ≥50% stenosis of either CA or SMA showed significantly higher pressure gradients and Pd/Pa ratios after vasodilator administration in CMI patients (median pressure gradient: CMI [interquartile ratio] 36 [21-40] mm Hg versus no-CMI 20 [9-21] mm Hg, P = 0.041; Pd/Pa: CMI 0.703 [0.598-0.769] versus no-CMI 0.827 [0.818-0.906], P = .009). A ≤0.8 Pd/Pa cutoff value after administration of a vasodilator best identified a clinically relevant stenosis, with 86% sensitivity and 83% specificity. Complications related to the pressure measurements were not observed.
+CONCLUSIONS: Intra-arterial pressure measurements are feasible and safe. Low Pd/Pa ratios were associated with clinically relevant CA or SMA stenosis.
+
+Citation: van Dijk LJD, et al. Endovascular Pressure Measurements to Assess the Functional Severity of Mesenteric Arterial Stenoses. Endovascular Pressure Measurements to Assess the Functional Severity of Mesenteric Arterial Stenoses. 2020; 31:430-437. doi: 10.1016/j.jvir.2019.10.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32007405/

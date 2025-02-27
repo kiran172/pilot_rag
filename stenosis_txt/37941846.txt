@@ -1,0 +1,11 @@
+PMID: 37941846
+Title: Diagnostic accuracy of superb microvascular imaging for detecting intraplaque neovascularization: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Atherosclerotic plaques can cause carotid artery stenosis, and "vulnerable plaques" can even lead to ischemic stroke. The objective of this study was to assess the accuracy of superb microvascular imaging (SMI) for the detection of carotid intraplaque neovascularization (IPN) in patients with atherosclerotic plaques.
+METHODS: We searched the Cochrane Library, Embase, Medline, and Wanfang databases until January 17, 2023. We included original studies with information on diagnostic accuracy of SMI for the evaluation of carotid IPN. The primary outcome was the accuracy of SMI for detecting carotid IPN. A meta-analysis was performed to estimate the accuracy of each parameter. We used the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) to assess the risk of bias for each included article. Meta-regression was performed to determine items that may have contributed to heterogeneity in the sensitivity or specificity of the test.
+RESULTS: This meta-analysis included 20 studies with 1,589 carotid plaques in 1,225 patients. The analysis showed a sensitivity and specificity of SMI for detecting IPN of 93% [95% confidence interval (CI): 87-96%] and 80% (95% CI: 71-87%), respectively. The risk of bias across the QUADAS-2 domains was low. Only the proportion of dyslipidemia influenced the estimates of sensitivity and specificity.
+CONCLUSIONS: This review suggests that SMI has a good diagnostic performance for detecting carotid IPN. The very high sensitivity with excellent post-test probability indicated that SMI can be recommended to screen for carotid IPN among patients with carotid plaques.
+
+Citation: Zhao L, et al. Diagnostic accuracy of superb microvascular imaging for detecting intraplaque neovascularization: a systematic review and meta-analysis. Diagnostic accuracy of superb microvascular imaging for detecting intraplaque neovascularization: a systematic review and meta-analysis. 2023; 13:893-905. doi: 10.21037/cdt-23-202
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37941846/

@@ -1,0 +1,11 @@
+PMID: 33070258
+Title: CircRNA TGFBR2/MiR-25-3p/TWIST1 axis regulates osteoblast differentiation of human aortic valve interstitial cells.
+
+Abstract: INTRODUCTION: Calcified aortic valve disease (CAVD) is characterized by valve thickening and calcification. Osteoblast differentiation is one of the key steps of valve calcification. CircRNAs is involved in osteogenic differentiation of multiple mesenchymal cells. However, the function of circRNA TGFBR2 (TGFBR2) in CAVD remained unclear. We explored the effect and mechanism of TGFBR2 in modulating CAVD.
+MATERIALS AND METHODS: Human aortic valve interstitial cells (VICs) were subjected to osteogenic induction, and transfected with TGFBR2, miR-25-3p mimic and siTWIST1. The relationship between miR-25-3p and GFBR2 was predicted by starBase and confirmed by luciferase reporter and Person's correlation test. The relationship between miR-25-3p and TWIST1 was predicted by TargetScan and confirmed by luciferase reporter assay. The expressions of TGFBR2, miR-25-3p, TWIST1, osteoblast markers (RUNX2 and OPN) were detected by Western blot or/and qRT-PCR. Alkaline phosphatase (ALP) activity and calcium nodule was determined by colorimetric method and Alizarin Red S staining.
+RESULTS: The expression of TGFBR2 was down-regulated and that of miR-25-3p was up-regulated in calcific valves and osteogenic VICs. TGFBR2 was inversely correlated with miR-25-3p expression in calcific valves. TGFBR2 sponged miR-25-3p to regulate TWIST1 expression in osteogenic VICs. During osteogenic differentiation, ALP activity, calcium nodule, the levels of osteoblast markers were increased in VICs. MiR-25-3p overexpression or TWIST1 knockdown reversed the inhibitory effect of TGFBR2 overexpression on ALP activity, calcium nodule, the expressions of RUNX2 and OPN in osteogenic VICs.
+CONCLUSION: The findings indicated that TGFBR2/miR-25-3p/TWIST1 axis regulates osteoblast differentiation in VICs, supporting the fact that TGFBR2 is a miRNA sponge in CAVD.
+
+Citation: Yu C, et al. CircRNA TGFBR2/MiR-25-3p/TWIST1 axis regulates osteoblast differentiation of human aortic valve interstitial cells. CircRNA TGFBR2/MiR-25-3p/TWIST1 axis regulates osteoblast differentiation of human aortic valve interstitial cells. 2021; 39:360-371. doi: 10.1007/s00774-020-01164-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33070258/

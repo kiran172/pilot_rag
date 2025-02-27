@@ -1,0 +1,10 @@
+PMID: 35533405
+Title: Impact of age on outcomes after transcatheter aortic valve implantation.
+
+Abstract: AIMS: Usage of transcatheter aortic valve implantation (TAVI) for treatment of severe aortic stenosis is increasing across age groups. However, literature on age-specific TAVI outcomes is lacking. The purpose of this study is to assess the risks of procedural complications, mortality, and readmission in patients undergoing TAVI across different age groups.
+METHODS AND RESULTS: The Nationwide Readmissions Database was used to identify 84 017 patients undergoing TAVI from 2016 to 2018. Patients were stratified into four age groups: younger than 70, 70-79, 80-89, and older than 90. Complications, mortality, and readmission rates were compared between groups in a proportional hazards regression model. Risk of post-procedural stroke, acute kidney injury, and pacemaker or implantable cardioverter defibrillator implantation increased with incremental age grouping. Compared with patients younger than 70, patients aged 70-79 had no significant difference in mortality, whereas patients aged 80-89 and older than 90 had an increased mortality risk [odds ratio (OR) 1.39, confidence interval (CI) 1.14-1.70, P = 0.001 and OR 1.68, CI 1.33-2.12, P < 0.001, respectively]. Patients aged 80-89 and older than 90 had increased overall readmission compared with patients younger than 70 (HR 1.09, CI 1.03-1.14, P = 0.001 and HR 1.33, CI 1.25-1.41, P < 0.001, respectively). Cardiac readmissions followed the same trend.
+CONCLUSION: Patients aged 80-89 and older than 90 undergoing TAVI have increased risk of readmission, complications, and mortality compared with patients younger than 70.
+
+Citation: Delijani D, et al. Impact of age on outcomes after transcatheter aortic valve implantation. Impact of age on outcomes after transcatheter aortic valve implantation. 2023; 9:135-141. doi: 10.1093/ehjqcco/qcac021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35533405/

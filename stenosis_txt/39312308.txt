@@ -1,0 +1,11 @@
+PMID: 39312308
+Title: Causal relationship between smoking and spinal stenosis: Two-sample Mendelian randomization.
+
+Abstract: OBJECTIVE: Currently, the number of patients with spinal stenosis is increasing, and most of the patients are found to have a history of smoking in the clinic. In this study, we used the Mendelian randomization (MR) method to investigate the causal relationship between smoking and spinal stenosis.
+METHODS: Genetic loci independently associated with smoking and spinal stenosis in people of European ancestry were selected as instrumental variables using pooled data from large-scale genome-wide association studies (GWAS). Three MR analyses, MR-Egger, Weighted median and inverse variance weighting (IVW), were used to investigate the causal relationship between smoking and spinal stenosis. The results were tested for robustness by heterogeneity and multiplicity tests, and sensitivity analyses were performed using the "leave-one-out" method.
+RESULTS: The IVW results showed an OR (95% CI) of 2.40 (0.31-18.71), P = .403, indicating that there was no causal relationship between smoking and spinal stenosis. And no heterogeneity and multiplicity were found by the test and sensitivity analysis also showed robust results.
+CONCLUSION: In this study, genetic data were analyzed and explored using 2-sample MR analysis, and the results showed that there is a causal relationship between smoking and the occurrence of spinal stenosis, and more studies need to be included.
+
+Citation: Deng GH. Causal relationship between smoking and spinal stenosis: Two-sample Mendelian randomization. Causal relationship between smoking and spinal stenosis: Two-sample Mendelian randomization. 2024; 103:e39783. doi: 10.1097/MD.0000000000039783
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39312308/

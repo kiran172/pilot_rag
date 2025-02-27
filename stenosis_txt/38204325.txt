@@ -1,0 +1,8 @@
+PMID: 38204325
+Title: Survival of P. falciparum infected red blood cell aggregates in elongational shear flow.
+
+Abstract: Rosetting, the formation of red blood cell aggregates, is a life-threatening condition in malaria tropica and not yet fully understood. We study rosette stability using a set of microfluidic stenotic channels, with varied narrowing angle and erythrocytes of blood groups O and A. We find reduced ability of a rosette to pass a stenosis without disruption, the longer the tapered part of the constriction and the narrower the stenosis is. In general, this ability increases with rosette size and is 5-15% higher in blood group A. The experimental results are substantiated by equivalent experiments using lectin-induced red blood cell aggregates and a simulation of the underlying protein binding kinetics.
+
+Citation: Jötten AM, et al. Survival of P. falciparum infected red blood cell aggregates in elongational shear flow. Survival of P. falciparum infected red blood cell aggregates in elongational shear flow. 2024; 24:787-797. doi: 10.1039/d3lc00552f
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38204325/

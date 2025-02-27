@@ -1,0 +1,11 @@
+PMID: 35610536
+Title: Deep learning prediction of quantitative coronary angiography values using myocardial perfusion images with a CZT camera.
+
+Abstract: PURPOSE: Evaluate the prediction of quantitative coronary angiography (QCA) values from MPI, by means of deep learning.
+METHODS: 546 patients (67% men) undergoing stress 99mTc-tetrofosmin MPI in a CZT camera in the upright and supine position were included (1092 MPIs). Patients were divided into two groups: ICA group included 271 patients who performed an ICA within 6 months of MPI and a control group with 275 patients with low pre-test probability for CAD and a normal MPI. QCA analyses were performed using radiologic software and verified by an expert reader. Left ventricular myocardium was segmented using clinical nuclear cardiology software and verified by an expert reader. A deep learning model was trained using a double cross-validation scheme such that all data could be used as test data as well.
+RESULTS: Area under the receiver-operating characteristic curve for the prediction of QCA, with > 50% narrowing of the artery, by deep learning for the external test cohort: per patient 85% [95% confidence interval (CI) 84%-87%] and per vessel; LAD 74% (CI 72%-76%), RCA 85% (CI 83%-86%), LCx 81% (CI 78%-84%), and average 80% (CI 77%-83%).
+CONCLUSION: Deep learning can predict the presence of different QCA percentages of coronary artery stenosis from MPIs.
+
+Citation: Arvidsson I, et al. Deep learning prediction of quantitative coronary angiography values using myocardial perfusion images with a CZT camera. Deep learning prediction of quantitative coronary angiography values using myocardial perfusion images with a CZT camera. 2023; 30:116-126. doi: 10.1007/s12350-022-02995-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35610536/

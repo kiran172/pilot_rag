@@ -1,0 +1,8 @@
+PMID: 35788526
+Title: [Research on inversion method of intravascular blood flow velocity based on convolutional neural network].
+
+Abstract: Blood velocity inversion based on magnetoelectric effect is helpful for the development of daily monitoring of vascular stenosis, but the accuracy of blood velocity inversion and imaging resolution still need to be improved. Therefore, a convolutional neural network (CNN) based inversion imaging method for intravascular blood flow velocity was proposed in this paper. Firstly, unsupervised learning CNN is constructed to extract weight matrix representation information to preprocess voltage data. Then the preprocessing results are input to supervised learning CNN, and the blood flow velocity value is output by nonlinear mapping. Finally, angiographic images are obtained. In this paper, the validity of the proposed method is verified by constructing data set. The results show that the correlation coefficients of blood velocity inversion in vessel location and stenosis test are 0.884 4 and 0.972 1, respectively. The above research shows that the proposed method can effectively reduce the information loss during the inversion process and improve the inversion accuracy and imaging resolution, which is expected to assist clinical diagnosis.
+
+Citation: Wang Y, et al. [Research on inversion method of intravascular blood flow velocity based on convolutional neural network]. [Research on inversion method of intravascular blood flow velocity based on convolutional neural network]. 2022; 39:561-569. doi: 10.7507/1001-5515.202112038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35788526/

@@ -1,0 +1,13 @@
+PMID: 32557663
+Title: Increased Expression of PD-1 and PD-L1 in Patients With Laryngotracheal Stenosis.
+
+Abstract: OBJECTIVES: Laryngotracheal stenosis (LTS) is a fibrotic condition of the upper airway. Recent evidence suggests dysregulated host immunity plays a role in LTS development and progression. The programmed death-1 (PD-1)/programmed death-ligand 1 (PD-L1) axis, targeted by paradigm-shifting immunotherapies for cancer treatment, has also recently been implicated in the pathogenesis of fibrotic pulmonary disease. However, a role for the PD-1/PD-L1 axis in the proximal airway fibrosis seen in LTS patients has not been explored.
+STUDY DESIGN: Controlled ex vivo study.
+METHODS: Expression of PD-1, PD-L1, CD4, and CD8 were evaluated using immunohistochemical staining of cricotracheal resection specimens from postintubation iatrogenic laryngotracheal stenosis (iLTS), idiopathic subglottic stenosis (iSGS) patients, and normal controls derived from rapid autopsy (n = 8 per group). Fibroblasts derived from iLTS scar were also treated with transforming growth factor beta 1 (TGFβ1) and analyzed for PD-L1 expression by quantitative real-time polymerase chain reaction (n = 6).
+RESULTS: iLTS specimens exhibited increased expression of PD-1, PD-L1, and CD4 (all P < .0167) compared to controls, whereas iSGS specimens exhibited increased expression of PD-1 and CD4 (P < .0167) compared to controls. PD-1, PD-L1, and CD4 showed periepithelial patterns of expression in both disease cohorts. TGFβ1 treatment of iLTS fibroblasts increased expression of PD-L1 (the cognate ligand for PD-1).
+CONCLUSION: Expression of both PD-1 and its ligand PD-L1 are significantly greater in patients with iLTS compared to controls, and PD-1 expression is also elevated in patients with iSGS. Given published evidence implicating the PD-1/PD-L1 axis in pulmonary fibrosis, this suggests a possible role for checkpoint inhibitors targeting the PD-1/PD-L1 axis for the treatment of LTS.
+LEVEL OF EVIDENCE: N/A Laryngoscope, 131:967-974, 2021.
+
+Citation: Davis RJ, et al. Increased Expression of PD-1 and PD-L1 in Patients With Laryngotracheal Stenosis. Increased Expression of PD-1 and PD-L1 in Patients With Laryngotracheal Stenosis. 2021; 131:967-974. doi: 10.1002/lary.28790
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32557663/

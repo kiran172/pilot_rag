@@ -1,0 +1,11 @@
+PMID: 29964128
+Title: Predictors of Benign Ureteroenteric Anastomotic Strictures After Radical Cystectomy and Urinary Diversion.
+
+Abstract: OBJECTIVE: To determine predictors of symptomatic ureteroenteric anastomotic strictures (UAS) formation following radical cystectomy (RC) and urinary diversion (UD).
+MATERIALS AND METHODS: A total of 2,888 consecutive patients who underwent open RC at our institution from 1995 to 2014 were included for analysis. Data were collected from institutional databases and individual medical records. Symptomatic benign UAS was defined as percutaneous nephrostomy tube insertion for rising creatinine or unilateral hydronephrosis by comparing preoperative and postoperative imaging. Univariate and multivariable Cox proportional hazards models were utilized to identify features associated with UAS formation.
+RESULTS: UAS developed in 123 of 2888 patients following RC. There were 94 symptomatic and 29 asymptomatic strictures. Median follow-up was 32 months (IQR 12, 72) for patients without stricture. Higher BMI (P = 0.002), ASA score >2 (P < 0.0001), lymph node positive disease (P = 0.027), and 30-day postoperative grade 3I+ complications (P = 0.017) on univariate analysis and male gender on multivariable analysis were significantly associated with time to stricture development. However, history of prior abdominal surgery (PAS) had the strongest association with time to stricture formation (HR 3.25, 95% CI 1.78, 5.94, P = 0.0001). Risk of developing a stricture within 10 years was 1.9% for patients without PAS vs 9.3% with PAS.
+CONCLUSION: Associated factors with an increased risk of benign UAS include higher BMI, ASA score >2, lymph node involvement, grade 3/4 complications within 30 days, male sex, and a history of PAS. We conclude that while surveillance is important for patients who undergo cystectomy for malignancy, it may be beneficial for patients with history of PAS to undergo more intensive follow-up compared to those patients without history of PAS.
+
+Citation: Amin KA, et al. Predictors of Benign Ureteroenteric Anastomotic Strictures After Radical Cystectomy and Urinary Diversion. Predictors of Benign Ureteroenteric Anastomotic Strictures After Radical Cystectomy and Urinary Diversion. 2020; 144:225-229. doi: 10.1016/j.urology.2018.06.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/29964128/

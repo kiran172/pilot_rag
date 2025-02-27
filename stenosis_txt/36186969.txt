@@ -1,0 +1,11 @@
+PMID: 36186969
+Title: Intraindividual evaluation of effects of image filter function on image quality in coronary computed tomography angiography.
+
+Abstract: OBJECTIVES: To evaluate whether applying image filters (smooth 3D+ and edge-2) improves image quality in coronary CT angiography (CCTA).
+METHODS: Ninety patients (routine group) with suspected coronary artery diseases based on 16-cm wide coverage detector CT findings were retrospectively enrolled at a chest pain center from December 2019 to September 2021. Two image filters, smooth 3D+ and edge-2 available on the Advantage Workstation (AW) were subsequently applied to the images to generate the research group (SE group). Quantitative parameters, including CT value, signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR), image sharpness and image quality score, and diagnostic accuracy were compared between the two groups.
+RESULTS: A total of 900 segments from 270 coronary arteries in 90 patients were analyzed. SNR, CNR, and image sharpness for vessels and image quality scores in the SE group were significantly better than those in the routine group (all p &lt; 0.001). The SE group showed a slightly higher negative predictive value (NPV) on the left anterior descending artery and right coronary artery (RCA) stenosis evaluations, as well as total NPV. The SE group also showed slightly higher sensitivity and accuracy than the routine group on RCA stenosis evaluation.
+CONCLUSION: The use of an image filter combining smooth 3D+ and edge-2 on an AW could improve the image quality of CCTA and increase radiologists' diagnostic confidence.
+
+Citation: Jin L, et al. Intraindividual evaluation of effects of image filter function on image quality in coronary computed tomography angiography. Intraindividual evaluation of effects of image filter function on image quality in coronary computed tomography angiography. 2022; 9:840735. doi: 10.3389/fcvm.2022.840735
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36186969/

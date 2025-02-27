@@ -1,0 +1,11 @@
+PMID: 35390137
+Title: Intestinal Ultrasound for Differentiating Fibrotic or Inflammatory Stenosis in Crohn's Disease: A Systematic Review and Meta-analysis.
+
+Abstract: BACKGROUND AND AIMS: Intestinal ultrasound [IUS] has been increasingly reported to distinguish inflammatory or fibrotic intestinal stenosis in Crohn's disease [CD] patients. However, the diagnostic value is unclear. This systematic review and meta-analysis aimed to assess the diagnostic role of different modes of IUS parameters.
+METHODS: We searched PubMed, Embase, Web of Science, and Cochrane Library from inception to August 2021. Regarding effect sizes, weighted mean differences [WMDs] or standardised mean differences [SMDs] were used. We pooled data using a random-effects or fixed-effects model according to heterogeneity. The diagnostic accuracy of IUS for distinguishing fibrosis was pooled.
+RESULTS: A total of 19 studies were retained for qualitative analysis, and 14 were included in the meta-analysis [with 511 total subjects and 635 bowel segments]. In patients with fibrotic stenosis, the pooled WMDs for bowel wall thickness were 1.30 mm (95% confidence interval [CI]: 0.69-1.91) thicker than in patients with inflammatory stenosis, and the pooled SMDs for strain value and strain ratio were 0.80 [95% CI: 0.41-1.20] and 1.08 [95% CI: 0.55-1.60] harder than in patients with inflammatory stenosis, respectively. The percentage of maximal enhancement of fibrotic stenosis was lower than that of inflammatory stenosis [WMD -10.03; 95% CI: -17.91- -2.16]. The diagnostic accuracy of IUS was not performed because only a few studies provided relevant diagnostic indicators, and these studies used different modes and parameters.
+CONCLUSIONS: IUS currently is inaccurate to differentiate fibrotic or inflammatory stenosis in CD patients, and more studies assessing the significance of each parameter and its cut-off value in different modes of IUS are needed to be conducted in the future.
+
+Citation: Xu C, et al. Intestinal Ultrasound for Differentiating Fibrotic or Inflammatory Stenosis in Crohn's Disease: A Systematic Review and Meta-analysis. Intestinal Ultrasound for Differentiating Fibrotic or Inflammatory Stenosis in Crohn's Disease: A Systematic Review and Meta-analysis. 2022; 16:1493-1504. doi: 10.1093/ecco-jcc/jjac052
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35390137/

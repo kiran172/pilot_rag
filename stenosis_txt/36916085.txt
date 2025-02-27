@@ -1,0 +1,12 @@
+PMID: 36916085
+Title: Triamcinolone acetonide induces the autophagy of Ag85B-treated WI-38 cells via SIRT1/FOXO3 pathway.
+
+Abstract: BACKGROUND: Tracheobronchial stenosis due to tuberculosis (TSTB) seriously threatens the health of tuberculosis patients. The inflammation and autophagy of fibroblasts affect the development of TSTB. Triamcinolone acetonide (TA) can regulate the autophagy of fibroblasts. Nevertheless, the impact of TA on TSTB and underlying mechanism has remained unclear.
+OBJECTIVE: To study the impact of TA on TSTB and underlying mechanism.
+MATERIAL AND METHODS: In order to simulate the TSTB-like model in vitro, WI-38 cells were exposed to Ag85B protein. In addition, the cell counting kit (CCK)-8 assay was applied to assess the function of TA in Ag85B-treated WI-38 cells. Quantitative real-time polymerase chain reaction was applied to detect the mRNA level of sirtuin 1 (SIRT1) and forkhead box O3 (FOXO3a), and autophagy-related proteins were evaluated by Western blot analysis. Vascular endothelial growth factor (VEGF) level was investigated by immunohistochemical staining. Enzyme-linked immunosorbent serologic assay was applied to detect the secretion of inflammatory cytokines. Furthermore, hematoxylin and eosin staining was applied to observe tissue injuries.
+RESULTS: Ag85B affected WI-38 cell viability in a limited manner, while TA notably suppressed Ag85B-treated WI-38 cell viability. TA induced the apoptosis of Ag85B-treated WI-38 cells in a dose-dependent manner. In addition, Ag85B-treated WI-38 cells demonstrated the upregulation of interleukin (IL)-6, tumor necrosis factor-α (TNF-α), interferon gamma (IFN-γ), and fibrotic proteins (transforming growth factor-beta [TGF-β] and vascular endothelial growth factor [VEGF]), which can be significantly destroyed by the TA. Meanwhile, TA reversed Ag85-induced inhibition of cell autophagy by mediation of p62, LC3, and Beclin1. Furthermore, silencing of SIRT1/FOXO3a pathway could reverse the effect of TA on the autophagy of Ag85B-treated cells.
+CONCLUSION: TA significantly induced the autophagy of fibroblasts in Ag85B-treated cells by mediation of SIRT1/FOXO3 pathway. This study established a new theoretical basis for exploring strategies against TSTB.
+
+Citation: Luo L, et al. Triamcinolone acetonide induces the autophagy of Ag85B-treated WI-38 cells via SIRT1/FOXO3 pathway. Triamcinolone acetonide induces the autophagy of Ag85B-treated WI-38 cells via SIRT1/FOXO3 pathway. 2023; 51:27-35. doi: 10.15586/aei.v51i2.775
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36916085/

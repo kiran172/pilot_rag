@@ -1,0 +1,11 @@
+PMID: 38936510
+Title: Characteristics of atypical pulmonary tuberculosis without typical clinical features diagnosed by pathology.
+
+Abstract: PURPOSE: Some patients with pulmonary tuberculosis (PTB) do not display typical clinical features, leading to delays in diagnosis and treatment.
+METHODS: We retrospectively analyzed PTB patients admitted to the Second Affiliated Hospital of Chongqing Medical University between 2017 and 2020. They are divided into pathological group (diagnosed through pathological biopsy) and control group (diagnosed via sputum or lavage fluid). Clinical data of both groups were compared. Based on radiographic features, the pathological group was further divided into the inflammation group, peripheral nodule group, and central occupancy group. We then statistically analyzed the computed tomography (CT) signs, bronchoscopic manifestations and results of pathological biopsy for each subgroup.
+RESULTS: The pathological group consisted of 75 patients, while the control group had 338 patients. Multivariate logistic regression analysis showed that the pathological group had more diabetes (OR = 3.266, 95% CI = 1.609-6.630, P = 0.001), lower ESR (OR = 0.984, 95% CI = 0.971-0.998, P = 0.022), and lower CRP (OR = 0.990, 95% CI = 0.980-0.999, P = 0.036). In the three subgroups, the exudative lesions in the inflammation group were mostly located in atypical areas of PTB. The lobulation sign and spiculation sign were frequently observed in the peripheral nodule group. All presented with significant hilar mediastinal lymphadenopathy in the central occupancy group. In the pathological group, bronchoscopic manifestations typically included mucosal edema and bronchial stenosis.
+CONCLUSION: Diabetes is an independent risk factor for atypical PTB. Expression of erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) in atypical PTB is low. Radiologically, it is most easily misdiagnosed when presented as peripheral solid nodules or masses, so a biopsy is recommended.
+
+Citation: Wang X, et al. Characteristics of atypical pulmonary tuberculosis without typical clinical features diagnosed by pathology. Characteristics of atypical pulmonary tuberculosis without typical clinical features diagnosed by pathology. 2024; 368:569-578. doi: 10.1016/j.amjms.2024.06.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38936510/

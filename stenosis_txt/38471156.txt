@@ -1,0 +1,11 @@
+PMID: 38471156
+Title: Virtual reality to predict paravalvular leak in bicuspid severe aortic valve stenosis in transcatheter aortic valve implants.
+
+Abstract: OBJECTIVES: Severe aortic stenosis (AS) in bicuspid aortic valves (BAV) is associated with an increased risk of paravalvular leak (PVL) after a transcatheter aortic valve replacement (TAVR). Virtual reality (VR) has been shown to be an effective tool in surgical training, but its utility in clinical practice has not been studied. Here we present the first study to evaluate the use of VR simulation in pre-procedure planning and prediction of PVL in TAVR in patients with severe BAV AS.
+METHODS: Twenty-two patients with severe BAV AS undergoing TAVR between 2014 and 2018 at the University of Minnesota were included in the study. VR simulation of TAVR implants was performed and implants were analyzed for PVL. The primary endpoint was the percent circumference of valve malapposition in VR as compared to the severity of PVL on post-procedure echocardiography.
+RESULTS: The median age was 78.26 years (IQR 63.77-86.79) and 40.9% (n = 9) were female. Our VR model accurately predicted the presence and absence of PVL in all patients (17/17 and 5/5, respectively). The mean circumferential PVL was 3.73 % ± 7.71. The receiver operator characteristic curve showed an area under the curve of 0.83 (0.59-1.00, P = .03) for malapposition in the VR-TAVR simulated model.
+CONCLUSIONS: VR-TAVR implantation may predict PVL in severe BAV AS undergoing TAVR.
+
+Citation: Chahine J, et al. Virtual reality to predict paravalvular leak in bicuspid severe aortic valve stenosis in transcatheter aortic valve implants. Virtual reality to predict paravalvular leak in bicuspid severe aortic valve stenosis in transcatheter aortic valve implants. 2024; (unknown volume):(unknown pages). doi: 10.25270/jic/24.00019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38471156/

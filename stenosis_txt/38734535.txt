@@ -1,0 +1,12 @@
+PMID: 38734535
+Title: Association between red blood cell distribution width and the all-cause mortality of patients with aortic stenosis: A retrospective study.
+
+Abstract: BACKGROUND: It is essential to assess the risk stratification of patients with aortic stenosis (AS).
+OBJECTIVE: To clarify the predictive value of red blood cell distribution width (RDW) in AS patients using a large cohort from the MIMIC-IV database.
+METHODS: Restricted cubic spline, the Kaplan-Meier method, and logistic and Cox regression analyses were used to explore the association between RDW and all-cause mortality in AS patients. Multivariate adjustments, propensity score matching and weighting, and subgroup analysis were conducted to exclude confounding factors. Receiver operating characteristic (ROC) and decision curve analysis (DCA) curves were drawn to evaluate the predictive performance of RDW.
+RESULTS: 1,148 patients with AS were included. Their death risks gradually increased with the elevation of RDW. Multivariate-adjusted 90-day (OR: 2.12; HR: 1.90; p = 0.001) and 1-year (OR: 2.07; HR: 1.97; p < 0.001) all-cause mortalities were significantly higher in patients with RDW≥14.7 %, which remained robust after propensity score matching and subgroup analysis. For AS patients with high RDW, those < 75 years old had higher death risks than those ≥ 75 years old. The area under the ROC curve of RDW were 0.741 and 0.75 at 90-day and 1-year follow-ups, respectively, exhibiting comparable performance to acute physiology score III and outperforming other critical illness scores in predicting the prognosis of AS patients. DCA curves also illustrated that RDW had a wide range of net benefits.
+CONCLUSIONS: High RDW was independently associated with increased 90-day and 1-year all-cause mortalities of AS patients, with strong predictive capability of prognosis.
+
+Citation: Liang B, et al. Association between red blood cell distribution width and the all-cause mortality of patients with aortic stenosis: A retrospective study. Association between red blood cell distribution width and the all-cause mortality of patients with aortic stenosis: A retrospective study. 2024; 67:191-200. doi: 10.1016/j.hrtlng.2024.04.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38734535/

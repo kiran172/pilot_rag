@@ -1,0 +1,11 @@
+PMID: 32992190
+Title: Dual Antiplatelet Therapy Beyond 90 days in Symptomatic Intracranial Stenosis in the SAMMPRIS Trial.
+
+Abstract: BACKGROUND: The safety and efficacy of dual antiplatelet use for symptomatic intracranial atherosclerosis beyond 90 days is unknown. Data from SAMMPRIS was used to determine if dual antiplatelet therapy (DAPT) beyond 90 days impacted the risk of ischemic stroke and hemorrhage.
+METHODS: This post hoc exploratory analysis from SAMMPRIS included patients who did not have a primary endpoint within 90 days after enrollment (n = 397). Patients in both the aggressive medical management (AMM) and percutaneous transluminal angioplasty and stenting (PTAS) arms were included. Baseline features and outcomes during follow-up were compared between patients who remained on DAPT beyond 90 days (on clopidogrel) and patients who discontinued clopidogrel and remained on aspirin alone at 90 days (off clopidogrel) using Fisher's exact tests.
+RESULTS: The stroke rate was numerically lower in the group on clopidogrel vs off clopidogrel among both the AMM alone arm (6.0% versus 10.8%, p = 0.31) and the PTAS arm (8.7% versus 9.8%; p = 0.82), but the difference was not significant. The major hemorrhage rates were numerically higher in the group on clopidogrel vs. off clopidogrel group among both the AMM alone arm (4.0% versus 2.5%; p = 0.67) and the PTAS arm (10.9% versus 3.5%; p = 0.08), but were not significant.
+CONCLUSION: This exploratory analysis suggests that prolonged DAPT use may lower the risk of stroke in medically treated patients with intracranial stenosis but may increase the risk of major hemorrhage.
+
+Citation: Abdul Rahman L, et al. Dual Antiplatelet Therapy Beyond 90 days in Symptomatic Intracranial Stenosis in the SAMMPRIS Trial. Dual Antiplatelet Therapy Beyond 90 days in Symptomatic Intracranial Stenosis in the SAMMPRIS Trial. 2020; 29:105254. doi: 10.1016/j.jstrokecerebrovasdis.2020.105254
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32992190/

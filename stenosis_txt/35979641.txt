@@ -1,0 +1,12 @@
+PMID: 35979641
+Title: Impact of diabetes mellitus on the diagnostic performance of fractional flow reserve in patients with severe aortic stenosis.
+
+Abstract: BACKGROUND: The validity of functional assessment of coronary artery disease with fractional flow reserve (FFR) and/or instantaneous wave-free ratio (iFR) in patients with severe aortic stenosis (AS) might be affected by AS per se and other factors, including diabetes mellitus.
+AIMS: We aimed to evaluate the impact of diabetic status on FFR performance in severe AS.
+METHODS: The functional significance of 416 stenoses of intermediate angiographic severity in 221 patients with severe AS was assessed with iFR and FFR. Patients treated with insulin or oral hypoglycemic agents were classified as diabetic patients.
+RESULTS: Of 221 enrolled patients, 68 (32.1%) patients were diabetic. A total of 128 (30.8%) lesions in patients with and 288 in patients without diabetes mellitus were assessed. The mean (SD) FFR was 0.85 (0.07), and iFR was 0.90 (0.04) with no difference between nondiabetic and diabetic patients. Good agreement between iFR and FFR was confirmed for non-diabetic (ICC, 0.83 [95% confidence interval, CI, 0.79-0.86]) and diabetic (ICC, 0.82 [95% CI, 0.76-0.87]) patients. Among patients without diabetes mellitus, the optimal cutoff value for FFR to detect iFR ≤0.89 was 0.81 with sensitivity and specificity of 96.6% and 100.0%. The optimal cutoff value for FFR to detect iFR ≤0.89 for diabetic patients was 0.83 with sensitivity and specificity of 98.0% and 100.0%.
+CONCLUSIONS: In patients with severe AS, FFR correlates well with iFR. However, the optimal threshold for FFR to identify significant ischemia (iFR ≤0.89) in those patients may differ from the standard threshold of FFR ≤0.80 and might be affected by the diabetic status.
+
+Citation: Dziewierz A, et al. Impact of diabetes mellitus on the diagnostic performance of fractional flow reserve in patients with severe aortic stenosis. Impact of diabetes mellitus on the diagnostic performance of fractional flow reserve in patients with severe aortic stenosis. 2022; 80:1217-1223. doi: 10.33963/KP.a2022.0194
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35979641/

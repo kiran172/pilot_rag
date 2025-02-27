@@ -1,0 +1,11 @@
+PMID: 34781290
+Title: Transplant Ureteral Stenosis after Renal Transplantation: Risk Factor Analysis.
+
+Abstract: INTRODUCTION: The results of kidney transplants have improved dramatically in recent years, leading to reduced morbidity and mortality. Despite continuous improvements, urological complications occur at a rate of 2.6%-15%. Ureteral stenosis of graft ureters is the most common complication, with a probability of 0.5%-6.3%. This study aimed to determine the incidence of ureteral stenosis after kidney transplantation and identify risk factors that distinguish transplant patients with and without ureteral stenosis.
+METHODS: This study retrospectively analyzed patients who had undergone kidney transplantation at the Department of Urology of the Friedrich-Alexander University Erlangen-Nuremberg between 2001 and 2015. Forty-seven patients developed ureteral stenosis during the operation. Most of the ureteral stenosis cases occurred in the first 4 months after transplantation. Kaplan-Meier analysis and the log-rank test were used to calculate the cumulative risk, and the Mann-Whitney U test was used nonparametrically. The significance level was set at p < 0.05.
+RESULTS: Statistical analysis showed that residual diuresis (p = 0.008), cold ischemia time (CIT) (p = 0.040), the body mass index (p = 0.027), and donor serum creatinine value (p = 0.039) showed a significantly different distribution between recipients with or without ureteral stenosis after kidney transplantation. In multivariate Cox's regression modeling, residual diuresis and the donor serum creatinine level were identified as the only independent predictors of patients' stenosis-free survival.
+CONCLUSION: Urological complications not diagnosed and treated in time endanger the success of kidney transplantation. After evaluating the kidney transplantation data of the patients at the Transplant Center Erlangen-Nuremberg from 2001 to 2015, residual diuresis, CIT, the body mass index, and donor serum creatinine value were found to influence the development of ureteral stenosis.
+
+Citation: Apel H, et al. Transplant Ureteral Stenosis after Renal Transplantation: Risk Factor Analysis. Transplant Ureteral Stenosis after Renal Transplantation: Risk Factor Analysis. 2022; 106:518-526. doi: 10.1159/000519787
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34781290/

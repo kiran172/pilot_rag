@@ -1,0 +1,11 @@
+PMID: 34844011
+Title: Association of PI3K-Akt Pathway-Related Gene Polymorphisms with Symptomatic Intracranial Atherosclerotic Stenosis with Hypertension in a Chinese Han Population.
+
+Abstract: BACKGROUND: PI3K-Akt signaling has been proved to be closely related to atherosclerosis, and hypertension has been shown to be an important risk factor for atherosclerosis. Studies have shown that genetic susceptibility is important in the etiology of symptomatic intracranial atherosclerotic stenosis (sICAS). However, few candidate genes have been identified. In the present study, we explored latent connections between single nucleotide polymorphisms (SNPs) of PI3K-Akt-related genes and sICAS with hypertension in Han Chinese subjects.
+METHODS: Eight genes related to the PI3K-Akt pathway in 400 patients with sICAS and 1007 healthy controls of Han nationality were sequenced, and further subgroup analysis stratified by the presence of hypertension was performed. The χ2 test and multiple logistic regression in dominant, recessive, and additive models were used to evaluate the association between the SNPs and the risk of sICAS with hypertension. When linkage disequilibrium was found in different loci of the same gene, tagSNP represents the SNP in the haplotype block.
+RESULTS: We found 4 common variants of 1 candidate gene differently distributed between those with sICAS with and without hypertension. Among these 4 common variations, INSR (insulin receptor) rs3745551 was significantly related to the risk of sICAS with hypertension after multiple regression analysis, with the T allele more prevalent in sICAS with hypertension.
+CONCLUSIONS: The variant of the INSR rs3745551 loci might be crucial to the pathogenesis of sICAS with hypertension in Chinese Han populations. Furthermore, the C allele at this locus might be a potentially harmful variant in sICAS with hypertension.
+
+Citation: Zhang L, et al. Association of PI3K-Akt Pathway-Related Gene Polymorphisms with Symptomatic Intracranial Atherosclerotic Stenosis with Hypertension in a Chinese Han Population. Association of PI3K-Akt Pathway-Related Gene Polymorphisms with Symptomatic Intracranial Atherosclerotic Stenosis with Hypertension in a Chinese Han Population. 2022; 161:e25-e38. doi: 10.1016/j.wneu.2021.11.095
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34844011/

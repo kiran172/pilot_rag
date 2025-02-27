@@ -1,0 +1,11 @@
+PMID: 33040553
+Title: Impact of renin-angiotensin system blocker after aortic valve replacement-a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Data reporting the impact of renin-angiotensin system inhibitor (RASi) after aortic valve replacement (AVR) is controversy.
+METHODS: The PubMed database was systematically searched for studies reporting the mortality and hazard ratios (HRs) of RASi following surgical and transcatheter AVR (SAVR, TAVR). Random-effects model was used when the I2 statistic was more than 50% and its P value was less than 0.05, otherwise, the fixed-effects model was conducted.
+RESULTS: Nine articles incorporating 33,063 patients were eligible. Patients having the description of RASi were associated with lower all-cause mortality at 30 days (OR, 0.80, 95% CI, 0.69 to 0.94), 1 year (OR, 0.75, 95% CI, 0.69 to 0.81) and beyond 1 year (OR, 0.52, 95% CI, 0.38 to 0.73) after AVR. Consistently, patients with RASi had lower risk for all-cause mortality (HR, 0.87, 95% CI, 0.84 to 0.91) beyond 1 year following AVR albeit adjusting confounders. Interestingly, beneficial effect of RASi was still observed in patients with preserved ejection fraction following TAVR (HR, 0.90, 95% CI, 0.87 to 0.94). In addition, patients taking RASi had lower cardiovascular mortality than those patients without RASi after TAVR (30 days, OR, 0.63, 95% CI, 0.44 to 0.90; 1 year, OR, 0.60, 95% CI, 0.50 to 0.73; beyond 1 year, OR, 0.63, 95% CI, 0.54 to 0.74).
+CONCLUSIONS: Patients with RASi exhibited better short- and long-term survival following AVR compared to those patients without RASi, which warranted further studies to support such findings.
+
+Citation: Zeng L, et al. Impact of renin-angiotensin system blocker after aortic valve replacement-a systematic review and meta-analysis. Impact of renin-angiotensin system blocker after aortic valve replacement-a systematic review and meta-analysis. 2021; 10:1244-1252. doi: 10.21037/apm-20-1155
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33040553/

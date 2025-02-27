@@ -1,0 +1,12 @@
+PMID: 39030552
+Title: Comparative effects of different posterior decompression techniques for lumbar spinal stenosis: a systematic review and Bayesian network meta-analysis.
+
+Abstract: STUDY DESIGN: A systematic review and Bayesian network meta-analysis (NMA).
+OBJECTIVE: To compare the effectiveness and safety of different posterior decompression techniques for LSS. Lumbar spinal stenosis (LSS) is one of the most common degenerative spinal diseases that result in claudication, back and leg pain, and disability. Currently, posterior decompression techniques are widely used as an effective treatment for LSS.
+METHODS: An electronic literature search was performed using the EMBASE, Web of Science, PubMed, and Cochrane Library databases. Two authors independently performed data extraction and quality assessment. A Bayesian random effects model was constructed to incorporate the estimates of direct and indirect treatment comparisons and rank the interventions in order.
+RESULTS: In all, 14 eligible studies comprising 1,260 patients with LSS were included. Five interventions were identified, namely, spinal processes osteotomy (SPO), conventional laminotomy/laminectomy (CL), unilateral laminotomy/laminectomy (UL), bilateral laminotomy/ laminectomy (BL), and spinous process-splitting laminotomy/laminectomy (SPSL). Among these, SPO was the most promising surgical option for decreasing back and leg pain and for lowering the Oswestry Disability Index (ODI). SSPL had the shortest operation time, while SPSL was associated with maximum blood loss. SPO and UL were superior to other posterior decompression techniques concerning lesser blood loss and shorter length of hospital stay, respectively. Patients who underwent BL had the lowest postoperative complication rates.
+CONCLUSION: Overall, SPO was found to be a good surgical choice for patients with LSS.
+
+Citation: Wu K, et al. Comparative effects of different posterior decompression techniques for lumbar spinal stenosis: a systematic review and Bayesian network meta-analysis. Comparative effects of different posterior decompression techniques for lumbar spinal stenosis: a systematic review and Bayesian network meta-analysis. 2024; 19:417. doi: 10.1186/s13018-024-04792-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39030552/

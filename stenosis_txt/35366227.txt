@@ -1,0 +1,11 @@
+PMID: 35366227
+Title: Generational Differences in Outcomes of Self-Expanding Valves for Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: The Medtronic Evolut Pro valve (EPV) is a new-generation self-expanding valve (SEV), particularly designed to reduce paravalvular leak (PVL) rates in transcatheter aortic valve replacement (TAVR). We aimed to compare the safety and efficacy of EPV with older-generation SEVs, in particular, postprocedural PVL and permanent pacemaker (PPM) implantation rates.
+METHODS: We performed a retrospective, multicenter, propensity-matched analysis of the Israeli TAVR registry between September 2008 and June 2019. Two independent propensity score-matched comparisons were performed comparing EPV with the first-generation CoreValve (CV), and comparing EPV with the second-generation Evolut R valve (ERV).
+RESULTS: The registry included 2591 patients who were propensity-matched into 3 cohorts: EPV (n = 222), CV (n = 212), and ERV (n = 213). Moderate and above PVL rates were lower for EPV (angiographic PVL [aPVL], 0.6%; echocardiographic PVL [ePVL], 3.0%) as compared with CV (aPVL, 7.8% [P<.001] and ePVL, 11.6% [P<.01]), but not as compared with ERV (aPVL, 6.4% [P<.01] and ePVL, 4.4% [P=.57]). Lower rates of PPM were noted for EPV (16.3%) as compared with both CV (33.5%; P<.001) and ERV (24.4%; hazard ratio, 0.61; 95% confidence interval, 0.37-0.995; P=.046). Other safety and efficacy outcome rates were excellent, with significant improvements as compared with older-generation SEVs.
+CONCLUSIONS: The EPV demonstrates excellent procedural safety and efficacy outcomes. Moderate and above PVL rates were significantly reduced in comparison with CV; however, not significantly reduced as compared with ERV. The need for PPM implantation was lower as compared with both older-generation valves.
+
+Citation: Loewenstein I, et al. Generational Differences in Outcomes of Self-Expanding Valves for Transcatheter Aortic Valve Replacement. Generational Differences in Outcomes of Self-Expanding Valves for Transcatheter Aortic Valve Replacement. 2022; 34:E326-E333. doi: 10.25270/jic/21.00203
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35366227/

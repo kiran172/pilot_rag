@@ -1,0 +1,11 @@
+PMID: 32915317
+Title: Magnetic resonance venography for 3-dimensional live guidance during venous sinus stenting.
+
+Abstract: PURPOSE: The purpose of this study was to report the technique for intraprocedural guidance of endovascular Venous Sinus Stenting procedures using 3-Dimensional (3D) Magnetic Resonance Venography (MRV) as an overlay on live biplanar fluoroscopy.
+MATERIALS AND METHODS: Venous sinus stenting procedures performed between April and December, 2017 with 3D MRV fusion for live guidance were reviewed in this study. A thin-slice, contrast-enhanced MR Venogram was used to create 2 3D models - vessels and skull - for procedural guidance via augmented fluoroscopy (Vessel ASSIST, GE Healthcare, Chicago, IL). The skull model was used in the registration of the 3D overlay on both the frontal and lateral planes, which required 1-2 min of procedural time. The vessel model was used to mark landmarks such as the cortical vein ostia and stenosis on the 3D overlay fused with biplanar fluoroscopy. The retrospective imaging review was conducted by 3 neurointerventionalists and relied on a consensus confidence ranking on a 3-point Likert scale from 1- low confidence to 3- high confidence. The neurointerventionalists first reviewed the conventional 2-dimensional pre-stent deployment fluoroscopy images and then reviewed the corresponding images with the 3D MRV overlay. They ranked their confidence in their understanding of cortical venous anatomy for each group. Statistical analysis was performed using a Paired T Test at a 99% confidence interval.
+RESULTS: Ten cases were included in the retrospective image review. Operator confidence regarding the location of cortical veins was significantly increased using 3D MRV fusion during venous sinus stenting procedures (1.9 vs 2.9, p = .001).
+CONCLUSION: 3-Dimensional MRV fusion is feasible and helpful in understanding the venous sinus anatomy and location of important cortical veins during venous sinus stenting procedures.
+
+Citation: Kishore V, et al. Magnetic resonance venography for 3-dimensional live guidance during venous sinus stenting. Magnetic resonance venography for 3-dimensional live guidance during venous sinus stenting. 2020; 3:66. doi: 10.1186/s42155-020-00158-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32915317/

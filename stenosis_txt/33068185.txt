@@ -1,0 +1,12 @@
+PMID: 33068185
+Title: Identification of high-risk carotid plaque with MRI-based radiomics and machine learning.
+
+Abstract: OBJECTIVES: We sought to build a high-risk plaque MRI-based model (HRPMM) using radiomics features and machine learning for differentiating symptomatic from asymptomatic carotid plaques.
+MATERIALS AND METHODS: One hundred sixty-two patients with carotid stenosis were randomly divided into training and test cohorts. Multi-contrast MRI including time of flight (TOF), T1- and T2-weighted imaging, and contrast-enhanced imaging was done. Radiological characteristics of the carotid plaques were recorded and calculated to build a traditional model. After extracting the radiomics features on these images, we constructed HRPMM with least absolute shrinkage and selection operator algorithm in the training cohort and evaluated its performance in the test cohort. A combined model was also built using both the traditional and radiomics features. The performance of all the models in the identification of high-risk carotid plaque was compared.
+RESULTS: Intraplaque hemorrhage and lipid-rich necrotic core were independently associated with clinical symptoms and were used to build the traditional model, which achieved an area under the curve (AUC) of 0.825 versus 0.804 in the training and test cohorts. The HRPMM and the combined model achieved an AUC of 0.988 versus 0.984 and of 0.989 versus 0.986 respectively in the two cohorts. Both the radiomics model and combined model outperformed the traditional model, whereas the combined model showed no significant difference with the HRPMM.
+CONCLUSIONS: Our MRI-based radiomics model can accurately distinguish symptomatic from asymptomatic carotid plaques. It is superior to the traditional model in the identification of high-risk plaques.
+KEY POINTS: • Carotid plaque multi-contrast MRI stores other valuable information to be further exploited by radiomics analysis. • Radiomics analysis can accurately distinguish symptomatic from asymptomatic carotid plaques. • The radiomics model is superior to the traditional model in the identification of high-risk plaques.
+
+Citation: Zhang R, et al. Identification of high-risk carotid plaque with MRI-based radiomics and machine learning. Identification of high-risk carotid plaque with MRI-based radiomics and machine learning. 2021; 31:3116-3126. doi: 10.1007/s00330-020-07361-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33068185/

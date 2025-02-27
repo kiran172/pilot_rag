@@ -1,0 +1,8 @@
+PMID: 35384273
+Title: Genome-wide DNA methylation profiling confirms a case of low-level mosaic Kabuki syndrome 1.
+
+Abstract: Kabuki syndrome is a Mendelian disorder of the epigenetic machinery characterized by typical dysmorphic features, intellectual disability, and postnatal growth deficiency. Pathogenic variants in the genes encoding the chromatin modifiers KMT2D and KDM6A are responsible for Kabuki syndrome 1 (KS1) and Kabuki syndrome 2 (KS2), respectively. In addition, 11 cases of KS1 caused by mosaic variants in KMT2D have been reported in the literature. Some of these individuals display milder craniofacial and growth phenotypes, and most do not have congenital heart defects. We report the case of an infant with severe hypoplastic left heart syndrome with mitral atresia and aortic atresia (HLHS MA-AA), pulmonary vein stenosis, and atypical facies with a somatic mosaic de novo nonsense variant in KMT2D (c.8200C>T, p.R2734*) identified on trio exome sequencing of peripheral blood and present in 11.2% of sequencing reads. KS was confirmed with EpiSign, a diagnostic genome-wide DNA methylation platform used to identify epigenetic signatures. This case suggests that use of this newly available clinical test can guide the interpretation of low-level mosaic variants identified through sequencing and suggests a new lower limit of mosaicism in whole blood required for a diagnosis of KS.
+
+Citation: Montano C, et al. Genome-wide DNA methylation profiling confirms a case of low-level mosaic Kabuki syndrome 1. Genome-wide DNA methylation profiling confirms a case of low-level mosaic Kabuki syndrome 1. 2022; 188:2217-2225. doi: 10.1002/ajmg.a.62754
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35384273/

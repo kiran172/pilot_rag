@@ -1,0 +1,11 @@
+PMID: 33758967
+Title: Is there a benefit of ICD treatment in patients with persistent severely reduced systolic left ventricular function after TAVI?
+
+Abstract: BACKGROUND: In patients with severe aortic stenosis (AS) undergoing transcatheter aortic valve implantation (TAVI) and heart failure with severely reduced ejection fraction, prediction of postprocedural left ventricular ejection fraction (LVEF) improvement is challenging. Decision-making and timing for implantable cardioverter defibrillator (ICD) treatment are difficult and benefit is still unclear in this patient population.
+OBJECTIVE: Aims of the study were to analyse long-term overall mortality in TAVI-patients with a preprocedural LVEF ≤ 35% regarding LVEF improvement and effect of ICD therapy.
+METHODS AND RESULTS: Retrospective analysis of a high-risk TAVI-population suffering from severe AS and heart failure with a LVEF ≤ 35%. Out of 1485 TAVI-patients treated at this center between January 2013 and April 2018, 120 patients revealed a preprocedural LVEF ≤ 35% and had sufficient follow-up. 36.7% (44/120) of the patients suffered from persistent reduced LVEF without a postprocedural increase above 35% within 1 year after TAVI or before death, respectively. Overall mortality was neither significantly reduced by LVEF recovery above 35% (p = 0.31) nor by additional ICD treatment in patients with persistent LVEF ≤ 35% (p = 0.33).
+CONCLUSION: In high-risk TAVI-patients suffering from heart failure with LVEF ≤ 35%, LVEF improvement to more than 35% did not reduce overall mortality. Patients with postprocedural persistent LVEF reduction did not seem to benefit from ICD treatment. Effects of LVEF improvement and ICD treatment on mortality are masked by the competing risk of death from relevant comorbidities.
+
+Citation: Nies RJ, et al. Is there a benefit of ICD treatment in patients with persistent severely reduced systolic left ventricular function after TAVI?. Is there a benefit of ICD treatment in patients with persistent severely reduced systolic left ventricular function after TAVI?. 2022; 111:492-501. doi: 10.1007/s00392-021-01826-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33758967/

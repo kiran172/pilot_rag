@@ -1,0 +1,12 @@
+PMID: 38260582
+Title: CD14 Blockade Does Not Improve Outcomes of Deep Vein Thrombosis Following Inferior Vena Cava Stenosis in Mice.
+
+Abstract: BACKGROUND: Neutrophil-mediated persistent inflammation and neutrophil extracellular trap formation (NETosis) promote deep vein thrombosis (DVT). CD14, a co-receptor for toll-like receptor 4 (TLR4), is actively synthesized by neutrophils, and the CD14/TLR4 signaling pathway has been implicated in proinflammatory cytokine overproduction and several aspects of thromboinflammation. The role of CD14 in the pathogenesis of DVT remains unclear.
+OBJECTIVE: To determine whether CD14 blockade improves DVT outcomes.
+METHODS: Bulk RNA sequencing and proteomic analyses were performed using isolated neutrophils following inferior vena cava (IVC) stenosis in mice. DVT outcomes (IVC thrombus weight and length, thrombosis incidence, neutrophil recruitment, and NETosis) were evaluated following IVC stenosis in mice treated with a specific anti-CD14 antibody, 4C1, or control antibody.
+RESULTS: Mice with IVC stenosis exhibited increased plasma levels of granulocyte colony-stimulating factor (G-CSF) along with a higher neutrophil-to-lymphocyte ratio and increased plasma levels of cell-free DNA, elastase, and myeloperoxidase. Quantitative measurement of total neutrophil mRNA and protein expression revealed distinct profiles in mice with IVC stenosis compared to mice with sham surgery. Neutrophils of mice with IVC stenosis exhibited increased inflammatory transcriptional and proteomic responses, along with increased expression of CD14. Treatment with a specific anti-CD14 antibody, 4C1, did not result in any significant changes in the IVC thrombus weight, thrombosis incidence, or neutrophil recruitment to the thrombus.
+CONCLUSION: The results of the current study are important for understanding the role of CD14 in the regulation of DVT and suggest that CD14 lacks an essential role in the pathogenesis of DVT following IVC stenosis.
+
+Citation: Pandey N, et al. CD14 Blockade Does Not Improve Outcomes of Deep Vein Thrombosis Following Inferior Vena Cava Stenosis in Mice. CD14 Blockade Does Not Improve Outcomes of Deep Vein Thrombosis Following Inferior Vena Cava Stenosis in Mice. 2024; (unknown volume):(unknown pages). doi: 10.1101/2024.01.10.575099
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38260582/

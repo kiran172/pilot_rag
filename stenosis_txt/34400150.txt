@@ -1,0 +1,11 @@
+PMID: 34400150
+Title: Adverse Outcomes with Eccentric Hypertrophy in a Community Based University Cohort with Aortic Stenosis.
+
+Abstract: OBJECTIVE: Aortic stenosis (AS) patients with eccentric hypertrophy (Ecc-LVH) have increased left ventricular (LV) size and possibly reduced ejection fraction (EF). However, previous studies suggest worse outcomes with concentric remodeling and hypertrophy. We hypothesized that Ecc-LVH pattern in AS patients will also be associated with greater heart failure (HF) and all-cause mortality (ACM).
+METHODS: We queried the electronic medical record from a community-based university practice for all AS patients. We included patients with >60 days follow-up and interpretable Doppler echocardiograms. We recorded demographics, Doppler-echo parameters, laboratories, HF readmission and ACM with follow-up to 2083 days. There were 329 patients divided into 4 groups based on the presence of LV hypertrophy (LVH) and relative wall thickness (RWT) by echocardiography. Ecc-LVH had RWT<0.43 and LVH.
+RESULTS: Patients with severe AS were older, had greater coronary disease prevalence, lower hemoglobin, greater LV mass index, more abnormal diastolic function, greater HF and ACM. Multivariate Cox proportional analysis revealed that valvulo-arterial impedance (p=0.017) and Ecc-LVH (p=0.033) were HF predictors. Brain natriuretic peptide>100 pg/ml (p<0.001) and Ecc-LVH (p=0.019) were ACM predictors. ACM was increased in Ecc-LVH patients with both moderate (HR=3.67-8.18 vs other geometries, p=0.007-0.0007) and severe AS (HR=3.94-9.48 vs normal and concentric remodeling, p=0.0002). In patients with HF, Ecc-LVH was associated with greater HF in moderate AS vs normal geometry (HR=3.28, p=0.0135) and concentric remodeling (HR=2.66, p=0.0472).
+CONCLUSIONS: Patients with AS and Ecc-LVH have greater ACM than other LV geometries with both moderate and severe AS and greater HF in moderate AS.
+
+Citation: Lavine SJ and Raby K. Adverse Outcomes with Eccentric Hypertrophy in a Community Based University Cohort with Aortic Stenosis. Adverse Outcomes with Eccentric Hypertrophy in a Community Based University Cohort with Aortic Stenosis. 2021; 362:442-452. doi: 10.1016/j.amjms.2021.08.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34400150/

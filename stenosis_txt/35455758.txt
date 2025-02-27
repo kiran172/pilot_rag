@@ -1,0 +1,8 @@
+PMID: 35455758
+Title: Prioritization of Candidate Biomarkers for Degenerative Aortic Stenosis through a Systems Biology-Based In-Silico Approach.
+
+Abstract: Degenerative aortic stenosis is the most common valve disease in the elderly and is usually confirmed at an advanced stage when the only treatment is surgery. This work is focused on the study of previously defined biomarkers through systems biology and artificial neuronal networks to understand their potential role within aortic stenosis. The goal was generating a molecular panel of biomarkers to ensure an accurate diagnosis, risk stratification, and follow-up of aortic stenosis patients. We used in silico studies to combine and re-analyze the results of our previous studies and, with information from multiple databases, established a mathematical model. After this, we prioritized two proteins related to endoplasmic reticulum stress, thrombospondin-1 and endoplasmin, which have not been previously validated as markers for aortic stenosis, and analyzed them in a cell model and in plasma from human subjects. Large-scale bioinformatics tools allow us to extract the most significant results after using high throughput analytical techniques. Our results could help to prevent the development of aortic stenosis and open the possibility of a future strategy based on more specific therapies.
+
+Citation: Corbacho-Alonso N, et al. Prioritization of Candidate Biomarkers for Degenerative Aortic Stenosis through a Systems Biology-Based In-Silico Approach. Prioritization of Candidate Biomarkers for Degenerative Aortic Stenosis through a Systems Biology-Based In-Silico Approach. 2022; 12:(unknown pages). doi: 10.3390/jpm12040642
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35455758/

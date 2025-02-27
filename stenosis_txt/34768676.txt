@@ -1,0 +1,11 @@
+PMID: 34768676
+Title: Risk Factors for Lead-Related Venous Obstruction: A Study of 2909 Candidates for Lead Extraction.
+
+Abstract: BACKGROUND: our knowledge of lead-related venous stenosis/occlusion (LRVSO) remains limited and there is still controversy regarding the risk factors for LRVSO. Venography is mandatory before transvenous lead extraction (TLE).
+METHODS: we performed a retrospective analysis of venograms in 2909 patients (39.43% females, average age 66.90 years) who underwent TLE between 2008 and 2021 at high-volume centers.
+RESULTS: the severity of LRVSO was likely to be dependent on the number of leads in the system (OR = 1.345; p = 0.003), the number of abandoned leads (OR = 1.965; p &lt; 0.001), the presence of coronary sinus leads (OR = 1.184; p = 0.056), male gender (OR = 1.349; p = 0.003) and patient age at first CIED implantation (OR = 1.008; p = 0.021). The presence of permanent atrial fibrillation (OR = 0.666; p &lt; 0.001) and right ventricular diastolic diameter (OR = 0.978; p = 0.006) showed an inverse correlation with the degree of LRVSO. The combined three-model multivariate analysis provided better prediction of LRSVO using the above-mentioned factors than the CHA2DS2-VASc score.
+CONCLUSIONS: the severity of LRVSO is probably dependent on the mechanical impact of the implanted/abandoned leads on the vein wall, therefore the study has demonstrated the central role of system-/procedure-related risk factors. The thrombotic mechanism may be less important, especially long after implantation, and for this reason the combined prediction model for LRVSO in this study was more effective than the CHA2DS2-VASc score.
+
+Citation: Czajkowski M, et al. Risk Factors for Lead-Related Venous Obstruction: A Study of 2909 Candidates for Lead Extraction. Risk Factors for Lead-Related Venous Obstruction: A Study of 2909 Candidates for Lead Extraction. 2021; 10:(unknown pages). doi: 10.3390/jcm10215158
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34768676/

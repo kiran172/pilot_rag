@@ -1,0 +1,11 @@
+PMID: 39539126
+Title: Early Detection of Left Ventricular Dysfunction With Machine Learning-Based Strain Imaging in Aortic Stenosis Patients.
+
+Abstract: PURPOSE: Aortic stenosis (AS) is a common cardiovascular condition where early detection of left ventricular (LV) dysfunction is essential for timely intervention and optimal management. Current echocardiographic measurements, such as ejection fraction (EF), are insensitive to minor changes in LV function, and strain imaging is typically limited to the global longitudinal strain (GLS) parameter due to robustness issues. This study introduces a novel, fully automatic algorithm to enhance the detection of LV dysfunction in AS patients using multiple strain imaging parameters.
+METHODS: We applied supervised machine-learning techniques to classify data from 82 severe AS patients, 96 chest pain subjects, and 319 healthy volunteers.
+RESULTS: Our model significantly outperformed EF and GLS in distinguishing AS patients from healthy volunteers (area under the curve [AUC] = 0.97 vs. 0.88 and 0.82, respectively). It also surpassed EF and GLS in differentiating AS patients from chest pain subjects (AUC = 0.95 vs. 0.90 and 0.55, respectively).
+CONCLUSION: This novel, clinically interpretable model leverages the potential of strain imaging to enhance diagnostic accuracy and guide clinical decision-making in LV dysfunction, thereby improving clinical practice.
+
+Citation: Yahav A and Adam D. Early Detection of Left Ventricular Dysfunction With Machine Learning-Based Strain Imaging in Aortic Stenosis Patients. Early Detection of Left Ventricular Dysfunction With Machine Learning-Based Strain Imaging in Aortic Stenosis Patients. 2024; 41:e70007. doi: 10.1111/echo.70007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39539126/

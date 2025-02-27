@@ -1,0 +1,11 @@
+PMID: 34096587
+Title: Depressive Symptoms Predict Clinical Recurrence of Inflammatory Bowel Disease.
+
+Abstract: BACKGROUND: Inflammatory bowel disease (IBD) patients are at high risk for depression, and depression has been shown to affect disease course. We examined interrelations between depression, genetic risk factors for depression, and IBD flares.
+METHOD: In 1973 patients (1137 Crohn's disease, 836 ulcerative colitis) of the Swiss IBD Cohort Study (SIBDCS), depressive status (hospital anxiety and depression subscale for depression, HADS-D ≥11) was assessed on a yearly basis. We investigated the impact of depression on IBD-relevant clinical outcomes in Cox proportional hazards models. We used active disease (CDAI ≥150 or MTWAI ≥10) and 2 published composite flare definitions-FNCE (physician-reported flare, nonresponse to therapy, new complication, or extraintestinal manifestation) and AFFSST (active disease, physician-reported flare, fistula, stenosis, and new systemic therapy)-as clinical end points. Additionally, 62 preselected single nucleotide polymorphisms (SNPs) were screened for cross-sectional associations with depression, and if present, their predictive value for future depression and clinical deterioration was assessed.
+RESULTS: Depression was a strong risk factor for disease-related end points, including active disease (adjusted hazard ratio [aHR], 3.55; P < 0.001), AFFSST (aHR, 1.62; P < 0.001), and FNCE (aHR, 1.35; P = 0.019). The SNP rs2522833 was significantly associated with depression at enrollment (q = 0.059). The TC allele of rs588765 was negatively associated with the presence of depression at enrollment (q = 0.050) and after enrollment (aHR, 0.67; P = 0.035) and with fewer active disease states (aHR, 0.72; P = 0.045) during follow-up.
+CONCLUSION: In IBD, depressive symptoms and inflammatory activity are intimately related. Depressive symptoms were a strong predictor of clinical deterioration, and genetic markers may play a role in this relationship.
+
+Citation: Jordi SBU, et al. Depressive Symptoms Predict Clinical Recurrence of Inflammatory Bowel Disease. Depressive Symptoms Predict Clinical Recurrence of Inflammatory Bowel Disease. 2022; 28:560-571. doi: 10.1093/ibd/izab136
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34096587/

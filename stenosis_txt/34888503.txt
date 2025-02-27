@@ -1,0 +1,11 @@
+PMID: 34888503
+Title: Very Long-term Safety and Effectiveness of Drug-Eluting or Bare-Metal Stents for Left Main Coronary Disease.
+
+Abstract: BACKGROUND: Limited data are available on the long-term outcomes of drug-eluting stents (DES) vs bare-metal stents (BMS) in patients with left main coronary artery (LMCA) disease.
+METHODS: In this observational cohort of the Revascularization for Unprotected Left Main Coronary Artery Stenosis: Comparison of Percutaneous Coronary Angioplasty vs Surgical Revascularization (MAIN-COMPARE) registry, we evaluated patients with unprotected LMCA stenosis who received DES or BMS between January 2000 and June 2006. The primary outcome was a composite of all-cause death or myocardial infarction (MI) at 10 years. Adjusted outcomes were compared using propensity scores and inverse probability of treatment weighting.
+RESULTS: A total of 1102 patients underwent DES (n = 784) or BMS (n = 318) during the study period. At 10 years, the adjusted rate of the primary outcome was significantly lower in DES group than in the BMS group (27.9% vs 37.0%; hazard ratio [HR], 0.71; 95% confidence interval [CI], 0.53-0.94; P = 0.02). The adjusted 10-year mortality rate was significantly lower in DES group than in the BMS group (20.6% vs 29.6%; HR, 0.65; 95% CI, 0.46-0.91; P = 0.01), whereas the 10-year rate of MI was similar between the 2 groups (9.9% vs 11.0%; HR, 0.93; 95% CI, 0.54-1.59; P = 0.78). DES use was associated with a significant reduction in the rate of target-lesion revascularization (10.2% vs 21.8%; HR, 0.41; 95% CI, 0.27-0.61; P &lt; 0.001).
+CONCLUSIONS: In this 10-year follow-up study in patients with LMCA disease, DES use was associated with a significant reduction in the rate of the composite of death or MI, mortality, and target-lesion revascularization, when compared with BMS.
+
+Citation: Park H, et al. Very Long-term Safety and Effectiveness of Drug-Eluting or Bare-Metal Stents for Left Main Coronary Disease. Very Long-term Safety and Effectiveness of Drug-Eluting or Bare-Metal Stents for Left Main Coronary Disease. 2021; 3:1199-1206. doi: 10.1016/j.cjco.2021.05.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34888503/

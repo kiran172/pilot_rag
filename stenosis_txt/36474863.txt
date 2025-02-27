@@ -1,0 +1,11 @@
+PMID: 36474863
+Title: Predictive factors for time to full enteral feeding after pyloromyotomy for infantile hypertrophic pyloric stenosis.
+
+Abstract: BACKGROUND: The aim of the study was to evaluate how different parameters in the preoperative, perioperative, and postoperative period affect time to full enteral feeding (TFEF) in children undergoing pyloromyotomy.
+METHODS: A retrospective study of all children operated for infantile hypertrophic pyloric stenosis between 2001 and 2017 was conducted. Parameters in demographics and in the preoperative and postoperative period were evaluated against TFEF (hours) using linear regression models.
+RESULTS: In the whole cohort of 175 children, mean TFEF was 47 hours with Standard Deviation (SD) of ±35. In the multivariate model, TFEF decreased with age [beta (B): -0.62; 95% confidence interval (95% CI) -1.05 to -0.19; p=0.005) and increased with the presence of severe underlying disease (congenital heart defect or syndrome) (B: 26.5; 95% CI 3.3 to 49.7; p=0.026). Hence, for every day of age, the time to fully fed decreased by 0.6 hour, and the presence of an underlying disease increased the time to fully fed with over one day. TFEF did not seem to be affected by prematurity, weight loss, symptom duration, preoperative acid/base balance or electrolyte values, surgical method, or method of postoperative feeding.
+CONCLUSIONS: TFEF decreased with higher age and increased in children with a severe underlying disease. These results may be useful in providing adequate parental information regarding what affects TFEF and the length of hospital stay.
+
+Citation: Eriksson D and Salö M. Predictive factors for time to full enteral feeding after pyloromyotomy for infantile hypertrophic pyloric stenosis. Predictive factors for time to full enteral feeding after pyloromyotomy for infantile hypertrophic pyloric stenosis. 2020; 3:e000081. doi: 10.1136/wjps-2019-000081
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36474863/

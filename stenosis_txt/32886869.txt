@@ -1,0 +1,12 @@
+PMID: 32886869
+Title: Comparison of the Sapien 3 versus the ACURATE neo valve system: A propensity score analysis.
+
+Abstract: OBJECTIVES: To compare the outcomes of transfemoral ACURATE neo (NEO) and Sapien 3 (S3) patients in terms of device success and clinical safety outcomes using a propensity score analysis.
+BACKGROUND: Differences in clinical outcomes between the latest-generation balloon-expandable S3 and self-expanding NEO in a "real-world transfemoral TAVI population" are still unclear.
+METHODS: We compared up to 6 months clinical outcomes using a propensity score analysis (inverse probability of treatment weighting [IPTW]) to account for differences in baseline characteristics.
+RESULTS: A total of 345 patients underwent transfemoral transcatheter aortic valve implantation (TAVI) with either NEO or S3 at two centers in the Netherlands. Composite device success and early safety endpoints were comparable between NEO and S3 (Device success: IPTW-adjusted OR: 0.35 [95% CI: 0.12-1.18], and early safety: IPTW-adjusted OR: 0.51 [95% CI: 0.19-1.38]). Six-months mortality was 5.3 versus 3.6%, stroke was 2.8 versus 3.3%, and pacemaker rate was 6.1 versus 8.6%, respectively with p = NS. Mean aortic gradient was lower in the NEO group (5.72 ± 2.47 vs. 9.05 ± 3.48; p = <.001), with a comparable rate of moderate or severe paravalvular leak (0 versus 2.1%; p = NS).
+CONCLUSIONS: Device success and clinical safety outcomes were comparable for both valves. Up to 6-months follow-up clinical outcomes and mortality rate remained excellent. Mean aortic gradient was lower after ACURATE neo implantation.
+
+Citation: Kooistra NH, et al. Comparison of the Sapien 3 versus the ACURATE neo valve system: A propensity score analysis. Comparison of the Sapien 3 versus the ACURATE neo valve system: A propensity score analysis. 2021; 97:E597-E606. doi: 10.1002/ccd.29240
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32886869/

@@ -1,0 +1,8 @@
+PMID: 36836864
+Title: Artificial Intelligence in Cardiovascular CT and MR Imaging.
+
+Abstract: The technological development of Artificial Intelligence (AI) has grown rapidly in recent years. The applications of AI to cardiovascular imaging are various and could improve the radiologists' workflow, speeding up acquisition and post-processing time, increasing image quality and diagnostic accuracy. Several studies have already proved AI applications in Coronary Computed Tomography Angiography and Cardiac Magnetic Resonance, including automatic evaluation of calcium score, quantification of coronary stenosis and plaque analysis, or the automatic quantification of heart volumes and myocardial tissue characterization. The aim of this review is to summarize the latest advances in the field of AI applied to cardiovascular CT and MR imaging.
+
+Citation: Lanzafame LRM, et al. Artificial Intelligence in Cardiovascular CT and MR Imaging. Artificial Intelligence in Cardiovascular CT and MR Imaging. 2023; 13:(unknown pages). doi: 10.3390/life13020507
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36836864/

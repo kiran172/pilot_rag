@@ -1,0 +1,13 @@
+PMID: 37672056
+Title: Coronary computed tomography angiographic detection of in-stent restenosis via deep learning reconstruction: a feasibility study.
+
+Abstract: OBJECTIVES: Evaluation of in-stent restenosis (ISR), especially for small stents, remains challenging during computed tomography (CT) angiography. We used deep learning reconstruction to quantify stent strut thickness and lumen vessel diameter at the stent and compared it with values obtained using conventional reconstruction strategies.
+METHODS: We examined 166 stents in 85 consecutive patients who underwent CT and invasive coronary angiography (ICA) within 3 months of each other from 2019-2021 after percutaneous coronary intervention with coronary stent placement. The presence of ISR was defined as percent diameter stenosis ≥ 50% on ICA. We compared a super-resolution deep learning reconstruction, Precise IQ Engine (PIQE), and a model-based iterative reconstruction, Forward projected model-based Iterative Reconstruction SoluTion (FIRST). All images were reconstructed using PIQE and FIRST and assessed by two blinded cardiovascular radiographers.
+RESULTS: PIQE had a larger full width at half maximum of the lumen and smaller strut than FIRST. The image quality score in PIQE was higher than that in FIRST (4.2 ± 1.1 versus 2.7 ± 1.2, p < 0.05). In addition, the specificity and accuracy of ISR detection were better in PIQE than in FIRST (p < 0.05 for both), with particularly pronounced differences for stent diameters < 3.0 mm.
+CONCLUSION: PIQE provides superior image quality and diagnostic accuracy for ISR, even with stents measuring < 3.0 mm in diameter.
+CLINICAL RELEVANCE STATEMENT: With improvements in the diagnostic accuracy of in-stent stenosis, CT angiography could become a gatekeeper for ICA in post-stenting cases, obviating ICA in many patients after recent stenting with infrequent ISR and allowing non-invasive ISR detection in the late phase.
+KEY POINTS: • Despite CT technology advancements, evaluating in-stent stenosis severity, especially in small-diameter stents, remains challenging. • Compared with conventional methods, the Precise IQ Engine uses deep learning to improve spatial resolution. • Improved diagnostic accuracy of CT angiography helps avoid invasive coronary angiography after coronary artery stenting.
+
+Citation: Kawai H, et al. Coronary computed tomography angiographic detection of in-stent restenosis via deep learning reconstruction: a feasibility study. Coronary computed tomography angiographic detection of in-stent restenosis via deep learning reconstruction: a feasibility study. 2024; 34:2647-2657. doi: 10.1007/s00330-023-10110-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37672056/

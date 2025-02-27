@@ -1,0 +1,11 @@
+PMID: 31873743
+Title: Incomplete expansion of transcatheter aortic valves is associated with propensity for valve thrombosis.
+
+Abstract: OBJECTIVES: Clinical and subclinical leaflet thromboses are increasingly recognized complications following transcatheter aortic valve replacement. Identification of the risk factors is important to mitigate the occurrence of leaflet thrombosis in transcatheter aortic valves (TAVs) and ensure their long-term function. The goal of this study was to determine the effect of incomplete expansion of TAVs on the likelihood of leaflet thrombosis following transcatheter aortic valve replacement.
+METHODS: Using experimental and computational methods, 3-dimensional unsteady flow fields of 26-mm SAPIEN 3 valves expanded to 3 different diameters (i.e. 26.0 mm, 23.4 mm and 20.8 mm) were determined in patient-specific geometries. The diameters corresponded to 100%, 90% and 80% stent expansion, respectively. To address the potential difference in the likelihood of leaflet thrombosis, blood residence time (i.e. stasis) and viscous shear stress on the surface of TAV leaflets were quantified and compared.
+RESULTS: The results indicated that TAV underexpansion increased blood stasis on the TAV leaflets. Blood residence time on the surface of the leaflets after 80% and 90% TAV expansion on average was 9.4% and 4.1% more than that of the fully expanded TAV, respectively. In addition, areas of blood stasis time of more than 0.5 s, which are highly prone to platelet activation, increased linearly as the degree of TAV underexpansion increased.
+CONCLUSIONS: Incomplete expansion of TAVs increases blood stasis on the surface of TAV leaflets. Regions of blood stasis promote platelet activation and thrombotic events. TAV underexpansion can therefore increase the risk of leaflet thrombosis in patients with transcatheter aortic valve replacement.
+
+Citation: Khodaee F, et al. Incomplete expansion of transcatheter aortic valves is associated with propensity for valve thrombosis. Incomplete expansion of transcatheter aortic valves is associated with propensity for valve thrombosis. 2020; 30:39-46. doi: 10.1093/icvts/ivz213
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31873743/

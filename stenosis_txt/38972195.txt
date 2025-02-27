@@ -1,0 +1,11 @@
+PMID: 38972195
+Title: Role of S100β in Unstable Angina Pectoris: Insights from Quantitative Flow Ratio.
+
+Abstract: BACKGROUND AND OBJECTIVE: Disturbed autonomic nervous system (ANS) may promote inflammatory, immune, and oxidative stress responses, which may increase the risk of acute coronary events. S100β has been proposed as a biomarker of neuronal injury that would provide an insightful understanding of the crosstalk between the ANS, immune-inflammatory cells, and plaques that drive atherosclerosis. This study investigates the correlation between S100β, and functional coronary stenosis as determined by quantitative flow ratio (QFR).
+METHODS: Patients with unstable angina pectoris (UAP) scheduled for coronary angiography and QFR were retrospectively enrolled. Serum S100β levels were determined by enzyme-linked immunosorbent assay. The Gensini score was used to estimate the extent of atherosclerotic lesions and the cumulative sum of three-vessel QFR (3V-QFR) was calculated to estimate the total atherosclerotic burden.
+RESULTS: Two hundred thirty-three patients were included in this study. Receiver operator characteristic (ROC) curve indicated that S100β>33.28 pg/mL predicted functional ischemia in patients with UAP. Multivariate logistic analyses showed that a higher level of S100β was independently correlated with a functional ischemia-driven target vessel (QFR ≤0.8). This was also closely correlated with the severity of coronary lesions, as measured by the Gensini score (OR = 5.058, 95% CI: 2.912-8.793, p <0.001). According to 3V-QFR, S100β is inversely associated with total atherosclerosis burden (B = -0.002, p <0.001).
+CONCLUSIONS: S100β was elevated in the functional ischemia stages of UAP. It was independently associated with coronary lesion severity as assessed by Gensini score and total atherosclerosis burden as estimated by 3V-QFR in patients with UAP.
+
+Citation: Liu Z, et al. Role of S100β in Unstable Angina Pectoris: Insights from Quantitative Flow Ratio. Role of S100β in Unstable Angina Pectoris: Insights from Quantitative Flow Ratio. 2024; 55:103034. doi: 10.1016/j.arcmed.2024.103034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38972195/

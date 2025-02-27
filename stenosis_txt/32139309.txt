@@ -1,0 +1,11 @@
+PMID: 32139309
+Title: A systematic review and meta-analysis of predilation and postdilation in transfemoral carotid artery stenting.
+
+Abstract: OBJECTIVE: In this review, we evaluate the short-term impact of different ballooning combinations on hemodynamic instability neurologic events, and mortality associated with carotid artery stenting.
+METHODS: We used a search strategy to identify studies in the Cochrane Library trials register, PubMed, EMBASE, Google Scholar, and the US National Library of Medicine clinical trial databases up to May 2019. Studies reporting either hemodynamic instability, neurologic events, or mortality were included according to the recommendations of the Preferred Reporting Items for Systematic reviews and Meta-analysis. Fixed and random models were used to summarize the effects.
+RESULTS: Of seven included cohort studies for qualitative review, six were selected for meta-analysis. Patients without postdilation had significantly less hemodynamic instability in the random effects model (risk ratio, 0.53; 95% confidence interval, 0.37-0.77; P = .001). Regardless of the dilation type, the overall summary effect in the fixed model showed a significant decrease in the risk of developing short-term neurologic events (risk ratio, 0.67; 95% confidence interval, 0.47-0.97; P = .03). Last, the exclusion of either of the two dilation techniques had no significant effect on mortality.
+CONCLUSIONS: Avoiding postdilation reduces perioperative hemodynamic instability and this benefit lasts at least up to 30 days. Regardless of the type, fewer dilations during carotid artery stenting possibly decreases the neurologic events during and 30 days after the procedure. The data also suggest that the residual stenoses above current practiced standard may provide a safer threshold to prompt postdilation. Statements about the long-term effects of dilation techniques requires more study.
+
+Citation: Ziapour B, et al. A systematic review and meta-analysis of predilation and postdilation in transfemoral carotid artery stenting. A systematic review and meta-analysis of predilation and postdilation in transfemoral carotid artery stenting. 2020; 72:346-355.e1. doi: 10.1016/j.jvs.2019.11.044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32139309/

@@ -1,0 +1,11 @@
+PMID: 35973283
+Title: Diffusion spectrum imaging of patients with middle cerebral artery stenosis.
+
+Abstract: OBJECTIVE: We aimed to detect microstructural changes in the brains of patients with unilateral middle cerebral artery (MCA) stenosis and to assess the integrity of the fiber structure and the small-world networks using diffusion spectrum imaging (DSI).
+METHODS: A total of 21 healthy controls and 48 patients with unilateral MCA stenosis underwent 3.0 T MRI examination using DSI technique. Differential tractography, diffusion connectometry, and structural networks were performed by using DSI software. The correlation between the stenosis and quantitative anisotropy (QA) were analyzed using multiple regression models in the correlation tractography.
+RESULTS: Differential tractography analysis showed that the left or right MCA stenosis group had decreased fiber connectivity in the brain network compared with the control group. The correlation tractography analysis of the patients with MCA stenosis showed that QA was negatively correlated with stenosis in the bilateral arcuate fasciculus, bilateral corticostriatal and corticothalamic pathway, bilateral corticopontine and corticospinal tract, right superior longitudinal fasciculus, right cingulum, corpus callosum, and left frontal aslant tract. Statistically significant differences were shown between the MCA stenosis groups and control group in graph density, global efficiency, network path length, and rich club coefficient.
+CONCLUSION: DSI revealed that stroke-free patients with unilateral MCA stenosis have a disrupted structural network and damaged white matter fibers. Furthermore, the fiber connection disruption is more severe in the ipsilateral hemisphere and less prominent in the contralateral hemisphere in patients with unilateral MCA stenosis. Therefore, microstructural impairment has happened to patients with unilateral MCA stenosis even at a subclinical stage.
+
+Citation: Wan X, et al. Diffusion spectrum imaging of patients with middle cerebral artery stenosis. Diffusion spectrum imaging of patients with middle cerebral artery stenosis. 2022; 36:103133. doi: 10.1016/j.nicl.2022.103133
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35973283/

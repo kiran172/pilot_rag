@@ -1,0 +1,11 @@
+PMID: 32325047
+Title: Arrhythmias in Relation to Mortality After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: The purpose of this study was to identify predictors of mortality and potentially modifiable factors related to arrhythmias in patients that undergo transcatheter aortic valve replacement (TAVR). Patients that undergo TAVR are at risk for complete heart block requiring pacemaker implant. Additionally, other arrhythmias, specifically atrial fibrillation (AF), are common in this population. It is unclear how arrhythmias and their management contribute to mortality risk.
+METHODS: The study analyzed 176 patients who underwent TAVR at a single center. Factors associated with pacemaker implantation within 30 days were analyzed by logistic regression. Factors associated with mortality were analyzed by Kaplan-Meier and Cox regression analyses.
+RESULTS: Mean age was 80 ± 8.5 years. AF was present in 69 patients, and 39 received anticoagulation. Post-TAVR, a pacemaker was implanted in 25 patients within 30 days. Over a follow up of 566 ± 496 days, 49 patients died. In multivariable analysis, right bundle branch block remained significant (odds ratio 4.212, P = 0.012) for pacemaker implant within 30 days. The AF (hazard ratio [HR] 3.905, P = 0.001), albumin level (HR 0.316, P = 0.034), and diabetes (HR 2.323, P = 0.027) were predictors of death in a multivariate analysis, while pacemaker implant within 30 days was not. Patients with AF who were anticoagulated had improved survival in a stratified Kaplan-Meier analysis compared with those who were not anticoagulated (P = 0.0001).
+CONCLUSION: AF, diabetes, and low albumin levels are independently associated with mortality after TAVR. In particular, patients with AF who are not anticoagulated are at highest risk for death. Efforts to identify AF and consider anticoagulation should be emphasized.
+
+Citation: Dhakal BP, et al. Arrhythmias in Relation to Mortality After Transcatheter Aortic Valve Replacement. Arrhythmias in Relation to Mortality After Transcatheter Aortic Valve Replacement. 2020; 133:1336-1342.e1. doi: 10.1016/j.amjmed.2020.03.032
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32325047/

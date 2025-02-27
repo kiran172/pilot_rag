@@ -1,0 +1,12 @@
+PMID: 37735946
+Title: PRIME score for prediction of permanent pacemaker implantation after transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: We sought to produce a simple scoring system that can be applied at clinical visits before transcatheter aortic valve replacement (TAVR) to stratify the risk of permanent pacemaker (PPM) after the procedure.
+BACKGROUND: Atrioventricular block is a known complication of TAVR. Current models for predicting the risk of PPM after TAVR are not designed to be applied clinically to assist with preprocedural planning.
+METHODS: Patients undergoing TAVR at the University of Colorado were split into a training cohort for the development of a predictive model, and a testing cohort for model validation. Stepwise and binary logistic regressions were performed on the training cohort to produce a predictive model. Beta coefficients from the binary logistic regression were used to create a simple scoring system for predicting the need for PPM implantation. Scores were then applied to the validation cohort to assess predictive accuracy.
+RESULTS: Patients undergoing TAVR from 2013 to 2019 were analyzed: with 483 included in the training cohort and 123 included in the validation cohort. The need for a pacemaker was associated with five preprocedure variables in the training cohort: PR interval > 200 ms, Right bundle branch block, valve-In-valve procedure, prior Myocardial infarction, and self-Expandable valve. The PRIME score was developed using these clinical features, and was highly accurate for predicting PPM in both the training and model validation cohorts (area under the curve 0.804 and 0.830 in the model training and validation cohorts, respectively).
+CONCLUSIONS: The PRIME score is a simple and accurate preprocedural tool for predicting the need for PPM implantation after TAVR.
+
+Citation: Barrett CD, et al. PRIME score for prediction of permanent pacemaker implantation after transcatheter aortic valve replacement. PRIME score for prediction of permanent pacemaker implantation after transcatheter aortic valve replacement. 2023; 102:1357-1363. doi: 10.1002/ccd.30845
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37735946/

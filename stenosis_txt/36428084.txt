@@ -1,0 +1,12 @@
+PMID: 36428084
+Title: Prognosis in asymptomatic patients with discordantly graded aortic valve stenosis based on pressure recovery adjusted valve area.
+
+Abstract: OBJECTIVE: We hypothesised that patients with asymptomatic aortic stenosis (AS) who remain with discordantly graded aortic valve stenosis (DGAS) after adjustment for pressure recovery in the aortic root represents a subgroup of patients with increased cardiovascular risk.
+METHODS: Data from 1353 patients with asymptomatic mild-moderate AS and preserved left ventricular ejection fraction enrolled in the Simvastatin and Ezetimibe in AS study was used. DGAS was identified as combined pressure adjusted valve area (energy loss) &lt;1.0 cm² and mean aortic gradient&lt;40 mm Hg (DGAS<sub>EL</sub>). Outcome was assessed in Cox regression analysis and reported as HR and 95% CI.
+RESULTS: DGAS<sub>EL</sub> was found in 196 (14.5%) patients at baseline, and was associated with older age, female sex, smaller aortic annulus diameter, lower heart rate, more extensive valve calcification and low flow (all p&lt;0.05). In Cox regression analysis, DGAS<sub>EL</sub> was associated with higher rate of heart failure (HF) hospitalisation (HR 3.31 (95% CI 1.54 to 7.09)), cardiovascular death (HR 2.63 (95% CI 1.34 to 5.17)) and all-cause mortality (HR 1.73 (95% CI 1.04 to 2.87)) independent of confounders including low flow and aortic valve calcification (all p&lt;0.05).
+CONCLUSIONS: Patients with asymptomatic AS who remain with discordant grading after adjustment for pressure recovery have increased risk for HF and death.
+TRIAL REGISTRATION NUMBER: NCT00092677.
+
+Citation: Bahlmann E, et al. Prognosis in asymptomatic patients with discordantly graded aortic valve stenosis based on pressure recovery adjusted valve area. Prognosis in asymptomatic patients with discordantly graded aortic valve stenosis based on pressure recovery adjusted valve area. 2022; 9:(unknown pages). doi: 10.1136/openhrt-2022-002159
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36428084/

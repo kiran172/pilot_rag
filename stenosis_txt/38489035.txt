@@ -1,0 +1,11 @@
+PMID: 38489035
+Title: Hemodynamic Impairments of Evaluating Symptomatic Intracranial Atherosclerotic Stenosis using Quantitative Flow Ratio on Digital Subtraction Angiography : A Comparison with Computed Tomography Perfusion, MRI and Fractional Flow Reserve.
+
+Abstract: PURPOSE: Cerebral hemodynamics are important for the management of intracranial atherosclerotic stenosis (ICAS). The quantitative flow ratio (QFR) is a novel angiography-derived index for assessing the functional relevance of ICAS without pressure wires and adenosine. Good diagnostic yield with the hyperemic fractional flow reserve (FFR) have been reported, while data on the comparison of QFR to FFR are scarce.
+METHODS: In this prospective study 56 patients with anterior circulation symptomatic ICAS who received endovascular treatment were included. The new method of computing QFR from a single angiographic view, i.e., the Murray law-based QFR (μQFR), was applied to the examined vessels. An artificial intelligence algorithm was developed to realize the automatic delineation of vascular contour. Pressure gradients were measured before and after treatment within the lesion vessel using a pressure guidewire and the FFR was calculated.
+RESULTS: There was a good correlation between μQFR and FFR. Preoperative FFR predicted DWI watershed infarction (FFR optimal cut-off level: 0.755). Preoperative μQFR predicted DWI watershed infarction (μQFR optimal cut-off level: 0.51). Preoperative FFR predicted CTP hypoperfusion (FFR best predictive value: 0.62). Preoperative μQFR predicted CTP hypoperfusion (μQFR best predictive value: 0.375).
+CONCLUSION: The μQFR based on DSA images can be used as an indicator to assess the functional status of the lesion in patients with ICAS.
+
+Citation: Wu Y, et al. Hemodynamic Impairments of Evaluating Symptomatic Intracranial Atherosclerotic Stenosis using Quantitative Flow Ratio on Digital Subtraction Angiography : A Comparison with Computed Tomography Perfusion, MRI and Fractional Flow Reserve. Hemodynamic Impairments of Evaluating Symptomatic Intracranial Atherosclerotic Stenosis using Quantitative Flow Ratio on Digital Subtraction Angiography : A Comparison with Computed Tomography Perfusion, MRI and Fractional Flow Reserve. 2024; 34:613-624. doi: 10.1007/s00062-024-01395-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38489035/

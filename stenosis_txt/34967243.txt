@@ -1,0 +1,8 @@
+PMID: 34967243
+Title: Determination effect of two different NiTi stents on the vessel wall and studying their flexibility using finite element method.
+
+Abstract: Finite element simulation is used to analysis stent designs, extension as well as interaction between a stent and a vessel. In this paper, two different stents with different geometries have been simulated. One is Zilver stent and the other one is Navalis stent. The aim of this study is to determine the effect of stents deployment with various designs that are made of shape memory alloy (SMA) on the distribution of vessel wall stresses by using computational modeling approach. The constitutive model which described the behavior of SMA is based on Microplane model. In addition, SMA stents have been simulated under torsion loading to compare the flexibility of various designs under different conditions. The superelastic behavior and shape memory effect of SMA stents are investigated in this paper. The numerical simulation results show the different geometries of stents have significant effect on the arterial wall. The results show the Navalis stent causes less stress on the arterial wall and it is more flexible than the Zilver stent under the same torsion loading.
+
+Citation: Salemizadehparizi F and Mehrabi R. Determination effect of two different NiTi stents on the vessel wall and studying their flexibility using finite element method. Determination effect of two different NiTi stents on the vessel wall and studying their flexibility using finite element method. 2022; 25:1520-1530. doi: 10.1080/10255842.2021.2019714
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34967243/

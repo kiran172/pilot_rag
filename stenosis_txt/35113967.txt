@@ -1,0 +1,11 @@
+PMID: 35113967
+Title: Prognostic value of cardiac magnetic resonance in patients with aortic stenosis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: The timing of surgery for aortic stenosis (AS) is imperfect, and the management of moderate AS and asymptomatic severe AS is still challenging. Myocardial fibrosis (MF) is the main pathological basis of cardiac decompensation in patients with AS and can be detected by cardiovascular magnetic resonance (CMR). The aim of this study was to evaluate the prognostic value of MF measured by CMR in patients with AS, which can provide a reference for the timing of aortic valve replacement (AVR).
+METHODS: We searched Medline, Embase, and Web of Science to include all studies that investigated the prognostic value of CMR in patients with AS. The search deadline is March 31, 2021. The pooled relative risk (RR) or hazard ratio (HR) and 95% confidence intervals (CI) of the biomarkers including late gadolinium enhancement (LGE), Native T1 or extracellular volume (ECV) were calculated to evaluate the prognostic value.
+RESULTS: 13 studies and 2,430 patients with AS were included in this study, the mean or medium follow-up duration for each study was ranged from 6 to 67.2 months. Meta-analysis showed the presence of LGE was associated with an increased risk for all-cause mortality (pooled RR: 2.14, 95% CI: 1.67-2.74, P < 0.001), cardiac mortality (pooled RR: 3.50, 95% CI: 2.32-5.30, P < 0.001), and major adverse cardiovascular events (MACEs) (pooled RR: 1.649, 95% CI: 1.23-2.22, P = 0.001). Native T1 was significantly associated with MACEs (pooled RR: 2.23, 95% CI: 1.00-4.95; P = 0.049), and higher ECV was associated with a higher risk of cardiovascular events (pooled HR: 1.69, 95% CI: 1.11-2.58; P = 0.014).
+CONCLUSION: The use of CMR to detect MF has a good prognostic value in patients with AS. LGE, Native T1 and ECV measured by CMR can contribute to risk stratification of AS, thereby helping to optimize the timing of AVR.
+
+Citation: Zhang C, et al. Prognostic value of cardiac magnetic resonance in patients with aortic stenosis: A systematic review and meta-analysis. Prognostic value of cardiac magnetic resonance in patients with aortic stenosis: A systematic review and meta-analysis. 2022; 17:e0263378. doi: 10.1371/journal.pone.0263378
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35113967/

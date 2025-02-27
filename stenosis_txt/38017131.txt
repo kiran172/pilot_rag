@@ -1,0 +1,11 @@
+PMID: 38017131
+Title: Factors affecting endoscopic third ventriculostomy success in adults.
+
+Abstract: BACKGROUND: Endoscopic third ventriculostomy (ETV) is a standard treatment in hydrocephalus of certain aetiologies. The most widely used predictive model is the ETV success score. This is frequently used to predict outcomes following ETV in adult patients; however, this was a model developed in paediatric patients with often distinct aetiologies of hydrocephalus. The aim of this study was to assess the predictive value of the model and to identify factors that influence ETV outcomes in adults.
+METHODS: A retrospective study design was used to analyse consecutive patients who underwent ETV at a tertiary neurosurgical centre between 2012 and 2020. Observed ETV outcomes at 6 months were compared to pre-operative predicted ETV success scores. A multivariable Bayesian logistic regression analysis was used to determine the factors that best predicted ETV success and those factors that were redundant.
+RESULTS: A total of 136 patients were analysed during the 9-year study. Thirty-one patients underwent further cerebrospinal fluid diversion within 6 months. The overall ETV success rate was 77%. Observed ETV outcomes corresponded well with predicted outcomes using the ETV success score for the higher scores, but less well for lower scores. Location of obstruction at the aqueduct irrespective of aetiology was the best predictor of success with odds of 1.65 of success. Elective procedures were also associated with higher success compared to urgent ones, whereas age under 70, nature and location of obstructive lesion (other than aqueductal) did not influence ETV success.
+CONCLUSION: ETV was successful in three-quarters of adult patient with hydrocephalus within 6 months. Obstruction at the level of the aqueduct of any aetiology was a good predictor of ETV success. Clinicians should bear in mind that adult hydrocephalus responds differently to ETV compared to paediatric hydrocephalus, and more research is required to develop and validate an adult-specific predictive tool.
+
+Citation: Goel A, et al. Factors affecting endoscopic third ventriculostomy success in adults. Factors affecting endoscopic third ventriculostomy success in adults. 2023; 165:4021-4029. doi: 10.1007/s00701-023-05882-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38017131/

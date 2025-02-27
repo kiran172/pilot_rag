@@ -1,0 +1,15 @@
+PMID: 31901553
+Title: Predicting prolonged opioid prescriptions in opioid-naïve lumbar spine surgery patients.
+
+Abstract: IMPORTANCE: Preoperative determination of the potential for postoperative opioid dependence in previously naïve patients undergoing elective spine surgery may facilitate targeted interventions.
+OBJECTIVE: The purpose of this study was to develop supervised machine learning algorithms for preoperative prediction of prolonged opioid prescription use in opioid-naïve patients following lumbar spine surgery.
+DESIGN: Retrospective review of clinical registry data. Variables considered for prediction included demographics, insurance status, preoperative medications, surgical factors, laboratory values, comorbidities, and neighborhood characteristics. Five supervised machine learning algorithms were developed and assessed by discrimination, calibration, Brier score, and decision curve analysis.
+SETTING: One healthcare entity (two academic medical centers, three community hospitals), 2000 to 2018.
+PARTICIPANTS: Opioid-naïve patients undergoing decompression and/or fusion for lumbar disk herniation, stenosis, and spondylolisthesis.
+MAIN OUTCOME: Sustained prescription opioid use exceeding 90 days after surgery.
+RESULTS: Overall, of 8,435 patients included, 359 (4.3%) were found to have prolonged postoperative opioid prescriptions. The elastic-net penalized logistic regression achieved the best performance in the independent testing set not used for algorithm development with c-statistic=0.70, calibration intercept=0.06, calibration slope=1.02, and Brier score=0.039. The five most important factors for prolonged opioid prescriptions were use of instrumented spinal fusion, preoperative benzodiazepine use, preoperative antidepressant use, preoperative gabapentin use, and uninsured status. Individual patient-level explanations were provided for the algorithm predictions and the algorithms were incorporated into an open access digital application available here: https://sorg-apps.shinyapps.io/lumbaropioidnaive/.
+CONCLUSION AND RELEVANCE: The clinician decision aid developed in this study may be helpful to preoperatively risk-stratify opioid-naïve patients undergoing lumbar spine surgery. The tool demonstrates moderate discriminative capacity for identifying those at greatest risk of prolonged prescription opioid use. External validation is required to further support the potential utility of this tool in practice.
+
+Citation: Karhade AV, et al. Predicting prolonged opioid prescriptions in opioid-naïve lumbar spine surgery patients. Predicting prolonged opioid prescriptions in opioid-naïve lumbar spine surgery patients. 2020; 20:888-895. doi: 10.1016/j.spinee.2019.12.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31901553/

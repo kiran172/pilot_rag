@@ -1,0 +1,12 @@
+PMID: 38939010
+Title: Residential Racial Segregation in Aortic Stenosis Diagnosis and Transcatheter Aortic Valve Implantation Among Medicare Patients.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) rates are lower among Black compared with White individuals. However, it is unclear whether racial residential segregation, which remains common in the United States, contributes to observed disparities in TAVI rates.
+OBJECTIVES: The purpose of this study was to evaluate the association between county-level racial segregation, and aortic stenosis (AS) diagnosis, management, and outcomes.
+METHODS: We identified Black and White Medicare fee-for-service beneficiaries age ≥65 years living in metropolitan areas of the United States (2016-2019). Using the American Community Survey's Black-White residential segregation index, a measure of geographic racial distribution, we determined segregation in each beneficiary's county of residence. Using hierarchical modeling, we determined the association between racial segregation and rates of AS diagnosis, TAVI receipt, and 30-day clinical outcomes (mortality, readmission, stroke).
+RESULTS: There were 29,264,075 beneficiaries, of whom 22% lived in a high-segregation county. Among Black beneficiaries, high-segregation county residence was associated with decreased rates of AS diagnosis (OR: 0.97; 95% CI: 0.96-0.98) and TAVI (OR: 0.89; 95% CI: 0.86-0.93) compared with low-segregation county residence. In contrast, among White beneficiaries, high-segregation county residence was associated with higher rates of AS diagnosis (OR: 1.02; 95% CI: 1.02-1.03) and no differences in TAVI (OR: 1.00; 95% CI: 0.99-1.00). Segregation and race were not independently associated with 30-day mortality.
+CONCLUSIONS: Among Black Medicare fee-for-service beneficiaries, living in a high-segregation county was independently associated with decreased rates of AS diagnosis and TAVI, an association not seen among White beneficiaries. Residential racial segregation may contribute to racial disparities seen in AS care.
+
+Citation: Sevilla-Cazes J, et al. Residential Racial Segregation in Aortic Stenosis Diagnosis and Transcatheter Aortic Valve Implantation Among Medicare Patients. Residential Racial Segregation in Aortic Stenosis Diagnosis and Transcatheter Aortic Valve Implantation Among Medicare Patients. 2023; 2:100415. doi: 10.1016/j.jacadv.2023.100415
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38939010/

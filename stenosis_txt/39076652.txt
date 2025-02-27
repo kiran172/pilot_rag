@@ -1,0 +1,11 @@
+PMID: 39076652
+Title: NHHR: An Important Independent Risk Factor for Patients with STEMI.
+
+Abstract: BACKGROUND: In this study, we investigated whether the ratio of non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol (NHHR) is associated with the development of acute ST-segment elevation myocardial infarction (STEMI).
+METHODS: 889 STEMI patients who had not previously received lipid-lowering therapy were selected as the test group and 120 patients with less than 50% coronary stenosis were selected as the control group. All patients completed the related blood tests the morning after admission, and Gensini scores were based on coronary angiography results. The differences were compared using a t-test, rank sum test, chi-square test and logistic regression analysis. Linear regression analysis was used to study the correlation between variables. Receiver Operating Characteristic (ROC) curves were used to validate the predictive value of NHHR for STEMI.
+RESULTS: NHHR was shown to be a significant independent risk factor for STEMI according to binary logistic regression analysis (OR = 0.163, 95% CI: 0.065-0.411, p &lt; 0.05). There were shown to be differences in the NHHR depending on the gender of the STEMI patients (z = -1.663, p &lt; 0.1). Linear regression analysis revealed a stronger correlation between NHHR and Gensini score (r = 0.394, p &lt; 0.05) in the test group. Finally, we demonstrated that NHHR has a good predictive effect on STEMI, using an ROC curve (Area Under Curve (AUC): 0.818, 95% CI: 0.777-0.859, p &lt; 0.05).
+CONCLUSIONS: NHHR is a good predictor of coronary artery disease severity in STEMI patients and an important independent risk factor for STEMI, especially for patients who have not received lipid-lowering treatment in the past, and male STEMI patients need more stringent lipids management than female STEMI patients.
+
+Citation: Gao P, et al. NHHR: An Important Independent Risk Factor for Patients with STEMI. NHHR: An Important Independent Risk Factor for Patients with STEMI. 2022; 23:398. doi: 10.31083/j.rcm2312398
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39076652/

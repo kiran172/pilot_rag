@@ -1,0 +1,8 @@
+PMID: 38810422
+Title: FOXO1 regulates RUNX2 ubiquitination through SMURF2 in calcific aortic valve disease.
+
+Abstract: The prevalence of calcific aortic valve disease (CAVD) remains substantial while there is currently no medical therapy available. Forkhead box O1 (FOXO1) is known to be involved in the pathogenesis of cardiovascular diseases, including vascular calcification and atherosclerosis; however, its specific role in calcific aortic valve disease remains to be elucidated. In this study, we identified FOXO1 significantly down-regulated in the aortic valve interstitial cells (VICs) of calcified aortic valves by investigating clinical specimens and GEO database analysis. FOXO1 silencing or inhibition promoted VICs osteogenic differentiation in vitro and aortic valve calcification in Apoe-/- mice, respectively. We identified that FOXO1 facilitated the ubiquitination and degradation of RUNX2, which process was mainly mediated by SMAD-specific E3 ubiquitin ligase 2 (SMURF2). Our discoveries unveil a heretofore unacknowledged mechanism involving the FOXO1/SMURF2/RUNX2 axis in CAVD, thereby proposing the potential therapeutic utility of FOXO1 or SMURF2 as viable strategies to impede the progression of CAVD.
+
+Citation: Jiang C, et al. FOXO1 regulates RUNX2 ubiquitination through SMURF2 in calcific aortic valve disease. FOXO1 regulates RUNX2 ubiquitination through SMURF2 in calcific aortic valve disease. 2024; 73:103215. doi: 10.1016/j.redox.2024.103215
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38810422/

@@ -1,0 +1,8 @@
+PMID: 32885739
+Title: Deep Learning for Carotid Plaque Segmentation using a Dilated U-Net Architecture.
+
+Abstract: Carotid plaque segmentation in ultrasound longitudinal B-mode images using deep learning is presented in this work. We report on 101 severely stenotic carotid plaque patients. A standard U-Net is compared with a dilated U-Net architecture in which the dilated convolution layers were used in the bottleneck. Both a fully automatic and a semi-automatic approach with a bounding box was implemented. The performance degradation in plaque segmentation due to errors in the bounding box is quantified. We found that the bounding box significantly improved the performance of the networks with U-Net Dice coefficients of 0.48 for automatic and 0.83 for semi-automatic segmentation of plaque. Similar results were also obtained for the dilated U-Net with Dice coefficients of 0.55 for automatic and 0.84 for semi-automatic when compared to manual segmentations of the same plaque by an experienced sonographer. A 5% error in the bounding box in both dimensions reduced the Dice coefficient to 0.79 and 0.80 for U-Net and dilated U-Net respectively.
+
+Citation: Meshram NH, et al. Deep Learning for Carotid Plaque Segmentation using a Dilated U-Net Architecture. Deep Learning for Carotid Plaque Segmentation using a Dilated U-Net Architecture. 2020; 42:221-230. doi: 10.1177/0161734620951216
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32885739/

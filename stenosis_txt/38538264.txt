@@ -1,0 +1,11 @@
+PMID: 38538264
+Title: Electroosmotic and Gyrotactic Microorganisms Effects on MHD Al<sub>2</sub>O<sub>3</sub>-Cu/Blood Hybrid Nanofluid Flow through Multi-Stenosed Bifurcated Artery.
+
+Abstract: BACKGROUND: The purpose of this study is to investigate the electroosmotic flow of a hybrid nanofluid (Al2O3-Cu/Blood) with gyrotactic microorganisms through a bifurcated artery with mild stenosis in both parent and daughter arteries. The flow is subjected to a uniform magnetic field, viscous dissipation, and a heat source.
+METHODS: The governing equations undergo the non-dimensional transformation and coordinate conversion to regularize irregular boundaries, then solve the resulting system using the Crank-Nicolson method.
+RESULTS: In both sections of the bifurcated artery (parent and daughter artery), the wall shear stress (WSS) profile decreases with increasing stenotic depth. Nusselt profile increases with an increase in the heat source parameter.
+CONCLUSIONS: The present endeavour can be beneficial for designing better biomedical devices and gaining insight into the hemodynamic flow for therapeutic applications in the biomedical sciences.
+
+Citation: Khanduri U, et al. Electroosmotic and Gyrotactic Microorganisms Effects on MHD Al<sub>2</sub>O<sub>3</sub>-Cu/Blood Hybrid Nanofluid Flow through Multi-Stenosed Bifurcated Artery. Electroosmotic and Gyrotactic Microorganisms Effects on MHD Al<sub>2</sub>O<sub>3</sub>-Cu/Blood Hybrid Nanofluid Flow through Multi-Stenosed Bifurcated Artery. 2024; 29:110. doi: 10.31083/j.fbl2903110
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38538264/

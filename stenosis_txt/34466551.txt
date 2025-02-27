@@ -1,0 +1,11 @@
+PMID: 34466551
+Title: Value of Delta Fractional Flow Reserve (ΔFFR) For Predicting Coronary Ischemic Lesions.
+
+Abstract: BACKGROUND: The decrease in fractional flow reserve (FFR) after adenosine administration from baseline FFR value (termed as ΔFFR) may reflect the compensatory capacity of the microvascular circulation and thus may predict significant coronary stenotic lesions. We aimed to investigate whether baseline FFR and ΔFFR can help identify the coronary ischemic lesion and its severity.
+MATERIALS AND METHODS: This cross-sectional study was performed on 154 consecutive patients (Mean age 62.42 ± 9.36 years) that underwent coronary angiography and with definitive intermediate coronary lesions at any of the coronary vessels. FFR was calculated by dividing the mean distal intracoronary pressure by the mean arterial pressure. ΔFFR was also defined as the difference between baseline FFR and hyperemic FFR (considering FFR<0.75 as the criteria for ischemia).
+RESULTS: The area under receiver-operating characteristic curve for baseline FFR was found as 0.933, and for ΔFFR was 0.946 indicated high values of both indices for predicting ischemic lesions. The best cut-off point for baseline FFR and ΔFFR for discriminating ischemic lesions from the normal condition was 89.5 (yielding a sensitivity of 92.2% and a specificity of 68.0%) and 9.5 (yielding a sensitivity of 96.0% and a specificity of 85.3%), respectively.
+CONCLUSION: Our study could successfully demonstrate the high value of both baseline FFR and ΔFFR for predicting coronary ischemic lesions with the cut-off values of <89.5 and >9.5, respectively.
+
+Citation: Eslami V, et al. Value of Delta Fractional Flow Reserve (ΔFFR) For Predicting Coronary Ischemic Lesions. Value of Delta Fractional Flow Reserve (ΔFFR) For Predicting Coronary Ischemic Lesions. 2020; 9:e1528. doi: 10.31661/gmj.v9i0.1528
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34466551/

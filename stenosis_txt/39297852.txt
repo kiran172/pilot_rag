@@ -1,0 +1,12 @@
+PMID: 39297852
+Title: Deep Learning Model of Diastolic Dysfunction Risk Stratifies the Progression of Early-Stage Aortic Stenosis.
+
+Abstract: BACKGROUND: The development and progression of aortic stenosis (AS) from aortic valve (AV) sclerosis is highly variable and difficult to predict.
+OBJECTIVES: The authors investigated whether a previously validated echocardiography-based deep learning (DL) model assessing diastolic dysfunction (DD) could identify the latent risk associated with the development and progression of AS.
+METHODS: The authors evaluated 898 participants with AV sclerosis from the ARIC (Atherosclerosis Risk In Communities) cohort study and associated the DL-predicted probability of DD with 2 endpoints: 1) the new diagnosis of AS; and 2) the composite of subsequent mortality or AV interventions. Validation was performed in 2 additional cohorts: 1) in 50 patients with mild-to-moderate AS undergoing cardiac magnetic resonance (CMR) imaging and serial echocardiographic assessments; and 2) in 18 patients with AV sclerosis undergoing 18F-sodium fluoride (NaF) and 18F-fluorodeoxyglucose positron emission tomography (PET) combined with computed tomography (CT) to assess valvular inflammation and calcification.
+RESULTS: In the ARIC cohort, a higher DL-predicted probability of DD was associated with the development of AS (adjusted HR: 3.482 [95% CI: 2.061-5.884]; P &lt; 0.001) and subsequent mortality or AV interventions (adjusted HR: 7.033 [95% CI: 3.036-16.290]; P &lt; 0.001). The multivariable Cox model (incorporating the DL-predicted probability of DD) derived from the ARIC cohort efficiently predicted the progression of AS (C-index: 0.798 [95% CI: 0.648-0.948]) in the CMR cohort. Moreover, the predictions of this multivariable Cox model correlated positively with valvular 18F-NaF mean standardized uptake values in the PET/CT cohort (r = 0.62; P = 0.008).
+CONCLUSIONS: Assessment of DD using DL can stratify the latent risk associated with the progression of early-stage AS.
+
+Citation: Tokodi M, et al. Deep Learning Model of Diastolic Dysfunction Risk Stratifies the Progression of Early-Stage Aortic Stenosis. Deep Learning Model of Diastolic Dysfunction Risk Stratifies the Progression of Early-Stage Aortic Stenosis. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jcmg.2024.07.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39297852/

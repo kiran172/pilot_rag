@@ -1,0 +1,11 @@
+PMID: 36594889
+Title: Optimal flow volume measurements in forearm versus arm arteriovenous fistulas.
+
+Abstract: OBJECTIVES: Successful haemodialysis is dependent on optimal arteriovenous (AV) access flow. Although 600 ml/min is frequently quoted as the critical level for functional flow volume (Qa) according to the National Kidney Foundation guideline, this may not be applicable for the different configurations of AV fistulas (AVF) or AV grafts (AVG). This study evaluates ultrasound derived Qa measurement in the inflow brachial artery to autologous AVF in the forearm radiocephalic and arm brachiocephalic/basilic configurations in relation to significant flow related AV dysfunction.
+METHODS: Five hundred and eleven duplex ultrasound (DUS) scans were analysed in 193 patients. The end points were therapeutic intervention and/or thrombosis of AVF versus no complication within 3 months of the scan. Receiver operating characteristic (ROC) curves were used to determine the optimal threshold Qa of the brachial artery supplying the AVF.
+RESULTS: Of the 511 scans, 155 scans were assigned to the intervention group, that is, AVF requiring intervention or thrombosing within 3 months of the DUS. Using ROC curve analysis, the area under the curve (AUC) for all AVF is 0.90 (CI: 0.88-0.93) with an optimal threshold Qa of 686 ml/min. In forearm AVF, the threshold Qa is 589 ml/min while in arm AVF the threshold Qa is 877 ml/min. Forearm Qa is statistically different from arm Qa.
+CONCLUSION: Forearm AVF Qa threshold at 589 ml/min is distinct from arm AVF Qa at 877 ml/min and these are predictive of the need for impending intervention or thrombosis due to flow-limiting stenosis.
+
+Citation: Yii E, et al. Optimal flow volume measurements in forearm versus arm arteriovenous fistulas. Optimal flow volume measurements in forearm versus arm arteriovenous fistulas. 2023; 28:175-180. doi: 10.1111/nep.14142
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36594889/

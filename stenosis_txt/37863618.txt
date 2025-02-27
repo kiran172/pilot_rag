@@ -1,0 +1,8 @@
+PMID: 37863618
+Title: Artificial intelligence-based predictive models in vascular diseases.
+
+Abstract: Cardiovascular disease represents a source of major health problems worldwide, and although medical and technical advances have been achieved, they are still associated with high morbidity and mortality rates. Personalized medicine would benefit from novel tools to better predict individual prognosis and outcomes after intervention. Artificial intelligence (AI) has brought new insights to cardiovascular medicine, especially with the use of machine learning techniques that allow the identification of hidden patterns and complex associations in health data without any a priori assumptions. This review provides an overview on the use of artificial intelligence-based prediction models in vascular diseases, specifically focusing on aortic aneurysm, lower extremity arterial disease, and carotid stenosis. Potential benefits include the development of precision medicine in patients with vascular diseases. In addition, the main challenges that remain to be overcome to integrate artificial intelligence-based predictive models in clinical practice are discussed.
+
+Citation: Lareyre F, et al. Artificial intelligence-based predictive models in vascular diseases. Artificial intelligence-based predictive models in vascular diseases. 2023; 36:440-447. doi: 10.1053/j.semvascsurg.2023.05.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37863618/

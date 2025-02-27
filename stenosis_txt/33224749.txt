@@ -1,0 +1,11 @@
+PMID: 33224749
+Title: Comparison of three-dimensional quantitative coronary angiography and intravascular ultrasound for detecting functionally significant coronary lesions.
+
+Abstract: BACKGROUND: Three-dimensional quantitative coronary angiography (3D-QCA) can provide more accurate measurement of true vessel size and may be comparable to intravascular ultrasound (IVUS) in identifying functionally significant coronary stenosis, as determined by fractional flow reserve (FFR). This study aimed to evaluate the diagnostic accuracy of 3D-QCA for predicting FFR <0.8.
+METHODS: We assessed 175 lesions in 175 patients by FFR, IVUS, and 3D-QCA. Correlations between 3D-QCA values, IVUS values, and FFR values were analyzed. Receiver operating characteristic (ROC) curves were used to evaluate diagnostic accuracy of 3D-QCA for predicting FFR <0.8 and to determine the appropriate cut-off value.
+RESULTS: Upon evaluating 3D-QCA values, minimum lumen area (MLA) correlated with FFR value (r=0.48, P<0.001). Considering IVUS values, MLA correlated with FFR value (r=0.43, P<0.001). Also, 3D-QCA MLA was well correlated with IVUS MLA (r=0.61, P<0.001). The area under the ROC curve (AUC) for 3D-QCA MLA was 0.77, and the best cut-off value was 2.37 (sensitivity: 73%, specificity: 71%). The AUC for IVUS MLA was 0.73, and the best cut-off value was 3.01 (sensitivity: 71%, specificity: 65%). There was no significant difference in AUC for 3D-MLA and IVUS-MLA (P=0.27).
+CONCLUSIONS: 3D-QCA is not inferior to IVUS for functional assessment of intermediate coronary lesions. We can consider 3D-QCA as a suitable substitute for IVUS or FFR in determining coronary intervention.
+
+Citation: Lee J, et al. Comparison of three-dimensional quantitative coronary angiography and intravascular ultrasound for detecting functionally significant coronary lesions. Comparison of three-dimensional quantitative coronary angiography and intravascular ultrasound for detecting functionally significant coronary lesions. 2020; 10:1256-1263. doi: 10.21037/cdt-20-560
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33224749/

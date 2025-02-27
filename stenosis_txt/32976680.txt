@@ -1,0 +1,11 @@
+PMID: 32976680
+Title: Three-dimensional echocardiography to identify right ventricular dilatation in patients with corrected Fallot anomaly or pulmonary stenosis.
+
+Abstract: BACKGROUND: 3-Dimensional Echocardiography allows measuring volumes and parameters of myocardial deformation (strain). Myocardial strain has been suggested to be superior to conventional echo parameters in the assessment of right ventricular (RV) function. Myocardial strain can be assessed by cardiac magnetic resonance (CMR) or two- and three-dimensional echocardiography (2D and 3DEcho). We performed a comprehensive assessment of the RV based on 3DEcho and compared the results with those based on CMR and 2DEcho.
+METHODS: 36 patients with corrected heart defects underwent CMR and 3DEcho to assess RV volume, strain and cardio pulmonary exercise testing with peak VO<sub>2</sub> measurement. 2DEcho was used for reference.
+RESULTS: There was a moderate correlation between 3DEcho and CMR for measuring RV end-diastolic and end-systolic volumes (r = .82 and .72). 3DEcho tended to underestimate the RV volumes, mean difference EDV 8.5 ± 33 ml (CI -2.8; 19.7 ml) and ESV 13.2 ± 29 ml (CI 3.3; 23 ml). According to method-specific reference values for RVEDV, 34/35 (3DEcho) and 29/36 (CMR) were dilated. Among those dilated according to CMR, all were identified by 3DEcho. The coefficient of correlation between RV atrioventricular plane displacement measured by CMR and tricuspid annular plane systolic excursion measured by 3D and 2DEcho was r = .6 for both. 2DEcho measured lower LV volumes than CMR. LVEF and GLS were similar in 2DEcho, 3DEcho and CMR. Patients with CMR-determined RV free wall strain ≤ -14% tended to have lower peak VO<sub>2</sub> .
+CONCLUSIONS: Although 3DEcho underestimated RV volumes, it successfully identified all patients with RV dilatation based on method-specific reference values.
+
+Citation: Trzebiatowska-Krzynska A, et al. Three-dimensional echocardiography to identify right ventricular dilatation in patients with corrected Fallot anomaly or pulmonary stenosis. Three-dimensional echocardiography to identify right ventricular dilatation in patients with corrected Fallot anomaly or pulmonary stenosis. 2021; 41:51-61. doi: 10.1111/cpf.12665
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32976680/

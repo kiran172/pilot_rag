@@ -1,0 +1,11 @@
+PMID: 35753936
+Title: Clinical Evaluation of the Automatic Coronary Artery Disease Reporting and Data System (CAD-RADS) in Coronary Computed Tomography Angiography Using Convolutional Neural Networks.
+
+Abstract: RATIONALE AND OBJECTIVES: The coronary artery disease reporting and data system (CAD-RADS™) was recently introduced to standardise reporting. We aimed to evaluate the utility of an automatic postprocessing and reporting system based on CAD-RADS™ in suspected coronary artery disease (CAD) patients.
+MATERIALS AND METHODS: Clinical evaluation was performed in 346 patients who underwent coronary computed tomography angiography (CCTA). We compared deep learning (DL)-based CCTA with human readers for evaluation of CAD-RADS™ with commercially-available automated segmentation and manual postprocessing in a retrospective validation cohort.
+RESULTS: Compared with invasive coronary angiography, the sensitivity, specificity, positive predictive value, negative predictive value, and accuracy of the DL model for diagnosis of CAD were 79.02%, 86.52%, 89.50%, 73.94%, and 82.08%, respectively. There was no significant difference between the DL-based and the reader-based CAD-RADS™ grading of CCTA results. Consistency testing showed that the Kappa value between the model and the readers was 0.775 (95% confidence interval [CI]: 0.728-0.823, p < 0.001), 0.802 (95% CI: 0.756-0.847, p < 0.001), and 0.796 (95% CI: 0.750-0.843, p < 0.001), respectively. This system reduces the time taken from 14.97 ± 1.80 min to 5.02 ± 0.8 min (p < 0.001).
+CONCLUSION: The standardised reporting of DL-based CAD-RADS™ in CCTA can accurately and rapidly evaluate suspected CAD patients, and has good consistency with grading by radiologists.
+
+Citation: Huang Z, et al. Clinical Evaluation of the Automatic Coronary Artery Disease Reporting and Data System (CAD-RADS) in Coronary Computed Tomography Angiography Using Convolutional Neural Networks. Clinical Evaluation of the Automatic Coronary Artery Disease Reporting and Data System (CAD-RADS) in Coronary Computed Tomography Angiography Using Convolutional Neural Networks. 2023; 30:698-706. doi: 10.1016/j.acra.2022.05.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35753936/

@@ -1,0 +1,8 @@
+PMID: 37848465
+Title: An effective AI model for automatically detecting arteriovenous fistula stenosis.
+
+Abstract: In this study, a novel artificial intelligence (AI) model is proposed to detect stenosis in arteriovenous fistulas (AVFs) using inexpensive and non-invasive audio recordings. The proposed model is a combination of two new input features based on short-time Fourier transform (STFT) and sample entropy, as well as two associated classification models (ResNet50 and ANN). The model's hyper-parameters were optimized through the use of the design of the experiment (DOE). The proposed AI model demonstrates high performance with all essential metrics, including sensitivity, specificity, accuracy, precision, and F1-score, exceeding 0.90 at detecting stenosis greater than 50%. These promising results suggest that our approach can lead to new insights and knowledge in this field. Moreover, the robust performance of our model, combined with the affordability of the audio recording device, makes it a valuable tool for detecting AVF stenosis in home-care settings.
+
+Citation: Song WT, et al. An effective AI model for automatically detecting arteriovenous fistula stenosis. An effective AI model for automatically detecting arteriovenous fistula stenosis. 2023; 13:17659. doi: 10.1038/s41598-023-35444-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37848465/

@@ -1,0 +1,11 @@
+PMID: 35841863
+Title: Application of transcranial doppler in patients after stent-assisted coil embolization.
+
+Abstract: BACKGROUND AND PURPOSE: Patients with intracranial aneurysms treated with stent-assisted coil embolization (SACE) require radiological and clinical follow-up in view of in-stent stenosis (ISS). The aim of the study was to evaluate transcranial Doppler (TCD) as an alternative to more invasive digital subtraction angiography (DSA) in monitoring patients with SACE.
+METHODS: Over the course of 72 months, from January 2016 to December 2021, we analyzed 49 patients treated with SACE because of internal carotid artery (ICA) aneurysms (C6 ophthalmic segment or C7 communicating segment). DSA was performed in all patients at 24-months and TCD was examined preoperatively and at 3, 6, 12, and 24-months postoperatively. The degree of stenosis found on TCD was compared with the results of DSA. Preoperative and postoperative blood flow velocities, including peak systolic blood flow velocity (Vs), end diastolic velocity (Vd), and mean velocity (Vm), were compared and the optimal cutoff velocities for detecting stenosis were calculated.
+RESULTS: Pre-embolization middle cerebral artery (MCA) and intracranial terminal internal cerebral arteries (TICA) velocities and pulsatility index (PI) did not significantly differ between the ipsilateral and contralateral sides. The blood flow velocities, Vs, Vd, and Vm, on the operation side significantly increased after SACE (P &lt; 0.05). Over the 24-month study period, 7 of the 49 patients (14.3%) exhibited angiographic ISS. ISS of TCD and DSA results at 24-months were compared and found to correlate well; the Cohen's κ coefficient was 0.851 (95% CI 0.651-1.051). The optimal cutoff velocity for detecting ISS was MCA Vs = 173.5 cm/s.
+CONCLUSIONS: TCD is a potentially useful adjunct for evaluating ISS after SACE.
+
+Citation: Shi X, et al. Application of transcranial doppler in patients after stent-assisted coil embolization. Application of transcranial doppler in patients after stent-assisted coil embolization. 2022; 220:107347. doi: 10.1016/j.clineuro.2022.107347
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35841863/

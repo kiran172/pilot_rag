@@ -1,0 +1,11 @@
+PMID: 36741406
+Title: Single-cell atlas reveals different immune environments between stable and vulnerable atherosclerotic plaques.
+
+Abstract: INTRODUCTION: Regardless of the degree of stenosis, vulnerable plaque is an important cause of ischemic stroke and thrombotic complications. The changes of the immune microenvironment within plaques seem to be an important factor affecting the characteristics of the plaque. However, the differences of immune microenvironment between stable and vulnerable plaques were remained unknown.
+METHODS: In this study, RNA-sequencing was performed on superficial temporal arteries from 5 traumatic patients and plaques from 3 atherosclerotic patients to preliminary identify the key immune response processes in plaques. Mass cytometry (CyTOF) technology was used to explore differences in immune composition between 9 vulnerable plaques and 12 stable plaques. Finally, immunofluorescence technique was used to validate our findings in the previous analysis.
+RESULTS: Our results showed that more CD86+CD68+ M1 pro-inflammatory macrophages were found in vulnerable plaques, while CD4+T memory cells were mainly found in stable plaques. In addition, a CD11c+ subset of CD4+T cells with higher IFN-r secretion was found within the vulnerable plaque. In two subsets of B cells, CD19+CD20-B cells in vulnerable plaques secreted more TNF-a and IL-6, while CD19-CD20+B cells expressed more PD-1 molecules.
+CONCLUSION: In conclusion, our study suggested that M1-like macrophages are the major cell subset affecting plaque stability, while functional B cells may also contribute to plaque stability.
+
+Citation: Ge P, et al. Single-cell atlas reveals different immune environments between stable and vulnerable atherosclerotic plaques. Single-cell atlas reveals different immune environments between stable and vulnerable atherosclerotic plaques. 2022; 13:1085468. doi: 10.3389/fimmu.2022.1085468
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36741406/

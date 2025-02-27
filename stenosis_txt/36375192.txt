@@ -1,0 +1,15 @@
+PMID: 36375192
+Title: Deep Learning Algorithm Trained on Lumbar Magnetic Resonance Imaging to Predict Outcomes of Transforaminal Epidural Steroid Injection for Chronic Lumbosacral Radicular Pain.
+
+Abstract: BACKGROUND: Transforaminal epidural steroid injections (TFESI) are widely used to alleviate lumbosacral radicular pain. Knowledge of the therapeutic outcomes of TFESI allows clinicians to elucidate therapeutic plans for managing lumbosacral radicular pain. Deep learning (DL) can outperform traditional machine learning techniques and learn from unstructured and perceptual data. A convolutional neural network (CNN) is a representative DL model.
+OBJECTIVES: We developed and investigated the accuracy of a CNN model for predicting therapeutic outcomes after TFESI for controlling chronic lumbosacral radicular pain using T2-weighted sagittal lumbar spine magnetic resonance (MR) images as input data.
+STUDY DESIGN: Imaging study using DL.
+SETTING: At the spine center of a university hospital.
+METHODS: We collected whole T2-weighted sagittal lumbar spine MR images from 503 patients with chronic lumbosacral radicular pain due to a herniated lumbar disc (HLD) and spinal stenosis. A "good outcome" was defined as a >= 50% reduction in the numeric rating scale (NRS-11) score at 2 months after TFESI vs the pretreatment NRS-11 score. A "poor outcome" was defined as a < 50% decrease in the NRS-11 score at 2 months after TFESI vs pretreatment.
+RESULTS: In the prediction of therapeutic outcomes after TFESI on the validation dataset, the area under the curve was 0.827.
+LIMITATIONS: Our study was limited in that we used a small amount of lumbar spine MR imaging data to train the CNN model.
+CONCLUSIONS: We demonstrated that a CNN model trained, using whole lumbar spine sagittal T2-weighted MR images, could help determine outcomes after TFESI in patients with chronic lumbosacral radicular pain due to an HLD or spinal stenosis.
+
+Citation: Kim JK, et al. Deep Learning Algorithm Trained on Lumbar Magnetic Resonance Imaging to Predict Outcomes of Transforaminal Epidural Steroid Injection for Chronic Lumbosacral Radicular Pain. Deep Learning Algorithm Trained on Lumbar Magnetic Resonance Imaging to Predict Outcomes of Transforaminal Epidural Steroid Injection for Chronic Lumbosacral Radicular Pain. 2022; 25:587-592.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36375192/

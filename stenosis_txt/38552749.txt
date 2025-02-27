@@ -1,0 +1,11 @@
+PMID: 38552749
+Title: The minor allele of ANGPTL8 rs2278426 has a protective effect against CAD in T2DM patients.
+
+Abstract: BACKGROUND: Coronary artery disease (CAD) is the leading cause of death worldwide despite advanced treatment and diagnosis strategies. Angiopoietin-like protein 8 (ANGPTL8) mainly functions in the lipid mechanism, which is a dysregulated mechanism during CAD pathogenesis. In this study, we aimed to determine the associations between an ANGPTL8 polymorphism rs2278426 and the severity, presence, and risk factors of CAD.
+METHODS: A total of 1367 unrelated Turkish individuals who underwent coronary angiography were recruited for the study and grouped as CAD (n = 736, ≥50 stenosis) and non-CAD (n = 549, ≤30 stenosis). Also, subjects were further divided into groups regarding type 2 diabetes mellitus (T2DM) status. Subjects were genotyped for rs2278426 (C/T) by quantitative real-time PCR. Secondary structure analyses of protein interactions were revealed using I-TASSER and PyMOL.
+RESULTS: Among CAD patients, T allele carriage frequency was lower in the T2DM group (p = 0.046). Moreover, in male non-CAD group, T allele carriage was more prevalent among T2DM patients than non-T2DM (p = 0.033). In logistic regression analysis adjusted for obesity, T allele carrier males had an increased risk for T2DM in non-CAD group (OR = 2.244, 95 % CI: 1.057-4.761, p = 0.035). Also, in T2DM group, stenosis (p = 0.002) and SYNTAX score (p = 0.040) were lower in T allele carrier males than in non-carriers. Analyzes of secondary structure showed that ANGPTL8 could not directly form complexes with ANGPTL3 or ANGPTL4.
+CONCLUSION: In conclusion, T allele carriage of ANGPTL8 rs2278426 has a protective effect on CAD in T2DM patients. Further research should be conducted to explore the association between ANGPTL8 polymorphism (rs2778426) and CAD.
+
+Citation: Bilgin AG, et al. The minor allele of ANGPTL8 rs2278426 has a protective effect against CAD in T2DM patients. The minor allele of ANGPTL8 rs2278426 has a protective effect against CAD in T2DM patients. 2024; 914:148418. doi: 10.1016/j.gene.2024.148418
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38552749/

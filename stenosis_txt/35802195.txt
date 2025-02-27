@@ -1,0 +1,11 @@
+PMID: 35802195
+Title: Performance of hybrid artificial intelligence in determining candidacy for lumbar stenosis surgery.
+
+Abstract: PURPOSE: Lumbar spinal stenosis (LSS) is a condition affecting several hundreds of thousands of adults in the United States each year and is associated with significant economic burden. The current decision-making practice to determine surgical candidacy for LSS is often subjective and clinician specific. In this study, we hypothesize that the performance of artificial intelligence (AI) methods could prove comparable in terms of prediction accuracy to that of a panel of spine experts.
+METHODS: We propose a novel hybrid AI model which computes the probability of spinal surgical recommendations for LSS, based on patient demographic factors, clinical symptom manifestations, and MRI findings. The hybrid model combines a random forest model trained from medical vignette data reviewed by surgeons, with an expert Bayesian network model built from peer-reviewed literature and the expert opinions of a multidisciplinary team in spinal surgery, rehabilitation medicine, interventional and diagnostic radiology. Sets of 400 and 100 medical vignettes reviewed by surgeons were used for training and testing.
+RESULTS: The model demonstrated high predictive accuracy, with a root mean square error (RMSE) between model predictions and ground truth of 0.0964, while the average RMSE between individual doctor's recommendations and ground truth was 0.1940. For dichotomous classification, the AUROC and Cohen's kappa were 0.9266 and 0.6298, while the corresponding average metrics based on individual doctor's recommendations were 0.8412 and 0.5659, respectively.
+CONCLUSIONS: Our results suggest that AI can be used to automate the evaluation of surgical candidacy for LSS with performance comparable to a multidisciplinary panel of physicians.
+
+Citation: Mourad R, et al. Performance of hybrid artificial intelligence in determining candidacy for lumbar stenosis surgery. Performance of hybrid artificial intelligence in determining candidacy for lumbar stenosis surgery. 2022; 31:2149-2155. doi: 10.1007/s00586-022-07307-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35802195/

@@ -1,0 +1,11 @@
+PMID: 36210789
+Title: Reconsidered surgical aortic valve replacement after declined transcatheter valve implantation.
+
+Abstract: BACKGROUND: Outcomes for high surgical risk patients who declined transcatheter aortic valve implantation (TAVI) and then reconsidered for conventional aortic valve replacement (rSAVR) for severe calcific aortic stenosis are not well known.
+METHODS: This single-centre, case-control study (rSAVR vs Conservative group) retrospectively analysed patients for rSAVR (2009-2019). Multivariable logistic regression was used to identify independent predictors of composite of neurological sequelae/renal failure/deep sternal wound infection/re-exploration and death. Survival was compared using Kaplan-Meier curves and log-rank test. A Cox proportional hazards model was used to determine predictors of survival.
+RESULTS: TAVI was denied in 519/1095 patients, 114(10.4%) had rSAVR (cases) and 405 (37%) were managed conservatively (controls). Mean age for rSAVR was 80 years (IQR: 73.5-85 years). The commonest reason for declining TAVI was prohibitive high risk due to multiple comorbidities. Among rSAVR, hospital mortality was 2.2% and stroke was 4.4%. Median follow-up was conservative; 14.4 months versus rSAVR; 34.8 months. Five-year survival was conservative; 12.6% versus rSAVR; and 59.5% (overall conservative; 38.0% vs. rSAVR; 60.5%, p &lt; 0.001). rSAVR was protective (hazard ratio [HR]: 0.37, 95% confidence interval [CI]: 0.26, 0.51, p &lt; 0.001) and high comorbidities had high hazard (HR: 1.57, 95% CI: 1.19, 2.07, p = 0.001). rSAVR had fewer hospital readmission episodes (Conservative; 13.6/patient-year vs. rSAVR; 6.9/patient-year, p = 0.002).
+CONCLUSIONS: rSAVR may be considered in high surgical risk elderly patients who have been declined TAVI in centres with low operative mortality. rSAVR may be superior to conservative management in carefully selected patients.
+
+Citation: Luthra S, et al. Reconsidered surgical aortic valve replacement after declined transcatheter valve implantation. Reconsidered surgical aortic valve replacement after declined transcatheter valve implantation. 2022; 30:1001-1009. doi: 10.1177/02184923221132202
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36210789/

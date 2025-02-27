@@ -1,0 +1,12 @@
+PMID: 36646235
+Title: Incidence and management of atrioventricular conduction disorders in new-onset left bundle branch block after TAVI: A prospective multicenter study.
+
+Abstract: BACKGROUND: New-onset left bundle branch block (LBBB) is one of the most frequent complications after transcatheter aortic valve implantation (TAVI) and is associated with delayed high degree atrioventricular (AV) block.
+OBJECTIVES: The objectives of this study were to determine the incidence of AV block in such a population and to assess the performance and safety of a risk stratification algorithm on the basis of electrophysiology study (EPS) followed by implantation of a pacemaker or implantable loop recorder (ILR).
+METHODS: This was a prospective open-label study with 12-month follow-up. From June 8, 2015, to November 8, 2018, 183 TAVI recipients (mean age 82.3 ± 5.9 years) were included at 10 centers. New-onset LBBB after TAVI persisting for >24 hours was assessed by electrophysiology study during initial hospitalization. High-risk patients (His-ventricle interval ≥70 ms) were implanted with a dual-chamber pacemaker recording AV conduction disturbance episodes. Patients at lower risk were implanted with an ILR with automatic remote monitoring.
+RESULTS: A high-grade AV conduction disorder was identified in 56 patients (30.6%) at 12 months. Four subjects were symptomatic, all in the ILR group. No complications were associated with the stratification procedure. Patients with His-ventricle interval ≥70 ms displayed more high-grade AV conduction disorders (53.2% [25 of 47] vs 22.8% [31 of 136]; P < .001). In a multivariate analysis, His-ventricle interval ≥70 ms was independently associated with the occurrence of a high-grade conduction disorder (subdistribution hazard ratio 2.4; 95% confidence interval 1.2-4.8; P = .010).
+CONCLUSION: New-onset LBBB after TAVI was associated with high rates of high-grade AV conduction disturbances. The stratification algorithm provided safe and valuable aid to management decisions and reliable guidance on pacemaker implantation.
+
+Citation: Massoullié G, et al. Incidence and management of atrioventricular conduction disorders in new-onset left bundle branch block after TAVI: A prospective multicenter study. Incidence and management of atrioventricular conduction disorders in new-onset left bundle branch block after TAVI: A prospective multicenter study. 2023; 20:699-706. doi: 10.1016/j.hrthm.2023.01.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36646235/

@@ -1,0 +1,11 @@
+PMID: 37328892
+Title: MicroRNA-361-5p acts as a biomarker for carotid artery stenosis and promotes vascular smooth muscle cell proliferation and migration.
+
+Abstract: BACKGROUND: Vascular smooth muscle cells (VSMCs) dysfunction participates in carotid artery stenosis (CAS). The study aimed to examine the expression pattern of miR-361-5p in CAS patients, and explore its role in VSMCs proliferation and migration.
+METHODS: qRT-PCR was performed for the detection of miR-361-5p in serum samples of 150 CAS cases and 150 healthy people. Multiple logistic regression analysis and receiver operating characteristic (ROC) curve was accomplished to detect diagnostic value via SPSS 21.0 statistical software. Cell function of VSMCs was evaluated. Target association was predicted through bioinformatic analysis and confirmed via luciferase activity.
+RESULTS: Serum miR-361-5p was enhanced in CAS cases and was positively correlated with CAS degree. Logistic regression analysis determined the independent influence of miR-361-5p in CAS, and ROC curve demonstrated its diagnostic value with AUC of 0.892. miR-361-5p promoted VSMCs proliferation and migration, but the influence was counteracted by TIMP4.
+CONCLUSIONS: MiR-361-5p is a promising biomarker for CAS, and can be used as a potential target for early diagnosis and treatment of CAS. MiR-361-5p can promote VSMCs proliferation and migration via targeting TIMP4.
+
+Citation: Wang F, et al. MicroRNA-361-5p acts as a biomarker for carotid artery stenosis and promotes vascular smooth muscle cell proliferation and migration. MicroRNA-361-5p acts as a biomarker for carotid artery stenosis and promotes vascular smooth muscle cell proliferation and migration. 2023; 16:134. doi: 10.1186/s12920-023-01563-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37328892/

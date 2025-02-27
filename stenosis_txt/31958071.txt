@@ -1,0 +1,11 @@
+PMID: 31958071
+Title: Impact of Side-Branch Predilation on Angiographic Outcomes in Non-Left Main Coronary Bifurcation Lesions.
+
+Abstract: BACKGROUND: Despite the high prevalence of coronary bifurcation lesions in routine interventional cardiology practice, the best strategy for managing this challenging lesion subset remains debatable. Due to potential for complications, the routine practice of side-branch (SB) predilation is controversial.
+METHODS: An electronic search was performed of online databases up until April 2018 for studies reporting periprocedural angiographic outcomes comparing provisional main-branch stenting with and without SB predilation. Random-effects model odds ratios (ORs) were calculated.
+RESULTS: Eight studies were selected for a qualitative review, with 47.3% (1367/2890) of included subjects having angiographic outcomes following SB predilation reported. Of these, four studies included details of periangiographic outcomes comparing two groups. Bifurcation lesions stented without SB predilation demonstrated lower odds of requiring further SB intervention compared with lesions receiving upfront SB predilation (OR, 2.44; 95% confidence interval [CI], 1.71-3.47; I²=21%; P<.001). No difference was demonstrated regarding final SB TIMI flow <3, SB dissection, or intraprocedural SB occlusion. Although the odds of performing final kissing-balloon inflation were in favor of the group without SB predilation (OR, 1.62; 95% CI, 1.11-2.37; I²=61%; P=.01), there was no statistical difference in long-term major cardiovascular outcome (MACE) between the two groups (risk ratio, 1.29; 95% CI, 0.94-1.75; I²=11%; P=.33).
+CONCLUSION: SB predilation during coronary bifurcation percutaneous coronary intervention did not alter overall procedural angiographic outcomes. However, SB predilation is associated with increased SB intervention, including increased requirement for SB stenting, without demonstrable long-term MACE benefit, compared with a standard strategy without SB predilation.
+
+Citation: Mirzaee S, et al. Impact of Side-Branch Predilation on Angiographic Outcomes in Non-Left Main Coronary Bifurcation Lesions. Impact of Side-Branch Predilation on Angiographic Outcomes in Non-Left Main Coronary Bifurcation Lesions. 2020; 32:42-48. doi: 10.25270/jic/19.00235
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31958071/

@@ -1,0 +1,12 @@
+PMID: 36620770
+Title: A single-center pilot randomized controlled trial of atorvastatin loading for preventing ischemic brain damage after carotid artery stenting.
+
+Abstract: OBJECTIVE: Carotid artery stenting (CAS) performed perioperatively with high-dose atorvastatin may reduce the incidence of new ischemic brain lesions, but more high-level evidence is needed. Furthermore, the optimal dose and course of perioperative statin therapy remain uncertain.
+METHODS: A single-center, prospective, parallel controlled, pilot randomized clinical trial was conducted at Beijing Hospital. The study includes a total of 130 patients with CAS. The patients were randomly assigned to receive a high-dose of 80 mg/day atorvastatin (n = 65) or a standard-dose of 20 mg/day atorvastatin (n = 65) 3 days before and 3 days after planned CAS. The primary endpoint event was the cumulative incidence of silent new ischemic cerebral lesions (sNICL) on post-CAS cerebral diffusion-weighted magnetic resonance imaging (DW-MRI), transient ischemic attack (TIA), or ischemic stroke within 30 days after CAS.
+RESULTS: Among the 130 patients, 123 completed the study, of which 63 were in the high-dose group and 60 were in the standard-dose group. The incidence of major endpoint events was 69.8% (44 cases) and 78.3% (46 cases) in the high-dose and standard-dose groups, respectively. There was no significant difference between the two groups (HR, 0.705; 95% CI, 0.315-1.576; p = 0.393). According to the stratified analysis results, the sNICL incidence was significantly different between the two groups in the symptomatic patients (HR, 0.263; 95% CI, 0.70-0.984; p = 0.04).
+CONCLUSION: Among patients with CAS, a periprocedural high-dose of atorvastatin did not reduce the rate of periprocedural ischemic brain damage. However, high-dose statins can reduce the incidence of sNICL after CAS in patients with symptomatic carotid stenosis.
+CLINICAL TRIAL REGISTRATION: Clinicaltrials.gov, identifier NCT03079115.
+
+Citation: Wang H, et al. A single-center pilot randomized controlled trial of atorvastatin loading for preventing ischemic brain damage after carotid artery stenting. A single-center pilot randomized controlled trial of atorvastatin loading for preventing ischemic brain damage after carotid artery stenting. 2022; 14:1066316. doi: 10.3389/fnagi.2022.1066316
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36620770/

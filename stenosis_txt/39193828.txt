@@ -1,0 +1,12 @@
+PMID: 39193828
+Title: CT-derived simulations to predict outcomes in patients undergoing transcatheter aortic valve implantation with an ACURATE Neo2 valve the PRECISE-TAVI cohort B trial.
+
+Abstract: BACKGROUND: Paravalvular leakage (PVL) and conduction disorders that require permanent pacemaker implantation (PPI) remain clinically relevant challenges after transcatheter aortic valve implantation (TAVI). Computed tomography-based simulations may predict the risk of significant PVL and PPI.
+AIMS: To evaluate the feasibility and accuracy of preprocedural computer simulation with FEops HEARTguide™ to predict >trace PVL and PPI after TAVI with the self-expanding supra-annular ACURATE Neo2 transcatheter heart valve.
+METHODS: Prospective multicenter observational study that included consecutive patients undergoing TAVI with an ACURATE Neo2 valve. Computer simulations were performed before the TAVI procedure as part of the preprocedural planning. Follow-up period for PPI and PVL was 30 days.
+RESULTS: Sixty-five patients were included (median age 81 years (25th-75th percentile 77-84.5)). New left bundle branch block occurred in five patients (7.7%) and PPI in two patients (3%). Contact pressure index (CPI) was similar for patients with vs without new conduction disorders. Patients with PPI had numerically higher CPI than those without PPI (median CPI 20.0% (25th-75th percentile 15.0-25.0) vs. 13.0% (25th-75th percentile 5.5-18), p = 0.27). More than trace PVL occurred in 30%. Median PVL was significantly lower in patients with none-trace PVL (3.2 mL/s [25th-75th percentile 2.2-5.0]), compared to mild PVL (5.2 mL/s [25th-75th percentile 3.2-10.3]) and moderate PVL (12.6 mL/s [25th-75th percentile 3.9-21.3])(p = 0.036). A simulated PVL-cutoff of 9.65 mL/s identified patients with >trace PVL (AUC 0.70 (95% CI 0.55-0.85), sensitivity 42%, specificity 95%).
+CONCLUSION: In our study FEops HEARTguide™ simulations identified patients at risk for >trace PVL with ACURATE Neo2 TAVI but not for PPI.
+
+Citation: Hokken TW, et al. CT-derived simulations to predict outcomes in patients undergoing transcatheter aortic valve implantation with an ACURATE Neo2 valve the PRECISE-TAVI cohort B trial. CT-derived simulations to predict outcomes in patients undergoing transcatheter aortic valve implantation with an ACURATE Neo2 valve the PRECISE-TAVI cohort B trial. 2024; 104:1044-1051. doi: 10.1002/ccd.31194
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39193828/

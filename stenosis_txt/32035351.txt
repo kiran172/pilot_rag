@@ -1,0 +1,11 @@
+PMID: 32035351
+Title: The role of 3D printing in pediatric airway obstruction: A systematic review.
+
+Abstract: BACKGROUND: Tracheomalacia and tracheal stenosis are complicated, patient-specific diseases that require a multidisciplinary approach to diagnose and treat. Surgical interventions such as aortopexy, slide tracheoplasty, and stents potentially have high rates of morbidity. Given the emergence of three-dimensional (3D) printing as a versatile adjunct in managing complex pathology, there is a growing body of evidence that there is a strong role for 3D printing in both surgical planning and implant creation for pediatric airway obstruction.
+METHODS: A structured PubMed.gov literature search was utilized, and a two-researcher systematic review was performed following the PRISMA criteria. The following search query was utilized: (((((3D printing) OR three-dimensional printing) OR 3D printed) OR three-dimensional printed) AND trachea) OR airway.
+RESULTS: Over 23,000 publications were screened. Eight literature reviews and thirty-seven original papers met inclusion criteria. Of the thirty-seven original papers, eleven discussed 3D printing for surgical planning and twenty-six discussed 3D printing implants for interventions.
+CONCLUSION: The reported application of 3D printing for management of pediatric airway obstruction is emerging with positive and broad applications. 3D printing for surgical planning not only improves pre-operative assessment of surgical approach and stent customization, but also helps facilitate patient/family education. 3D printing for custom implantable interventions is focused on bioresorbable external airway splints and biological grafts, with both animal studies and human case reports showing good results in improving symptoms.
+
+Citation: Stramiello JA, et al. The role of 3D printing in pediatric airway obstruction: A systematic review. The role of 3D printing in pediatric airway obstruction: A systematic review. 2020; 132:109923. doi: 10.1016/j.ijporl.2020.109923
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32035351/

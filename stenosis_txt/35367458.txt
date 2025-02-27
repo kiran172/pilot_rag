@@ -1,0 +1,11 @@
+PMID: 35367458
+Title: Meta-analysis of ProGlide versus MANTA vascular closure devices for large-bore access site management.
+
+Abstract: INTRODUCTION: The comparative effectiveness of ProGlide® compared with MANTA® vascular closure devices (VCDs) in large-bore access site management is not entirely certain, and has only been evaluated in underpowered studies. This meta-analysis aimed to evaluate the outcomes of ProGlide® compared with MANTA® VCDs.
+METHODS: PubMed, EMBASE, and Cochrane Central Register of Controlled Trials (CENTRAL) were searched systematically for relevant articles from the inception of the database until August 27, 2021. The outcomes of interest were all bleeding events, major bleeding, major and minor vascular complications, pseudoaneurysm, stenosis or dissection, and VCD failure. Risk ratios were used as point estimates of endpoints. All statistical analyses were carried out using R version 4.0.3.
+RESULTS: Four observational studies and 1 pilot randomized controlled trial (RCT) were included in the final analysis. There was no significant difference between the ProGlide® and MANTA® groups in the risk of all bleeding events, major/life-threatening bleeding, major vascular complications, minor vascular complications, pseudoaneurysms, and/or stenosis or dissection of the entry site vessel. However, the incidence of VCD failure was higher in the ProGlide® group compared with the MANTA® group (RR 1.94; 95% CI 1.31-2.84; I2 = 0%).
+CONCLUSION: In conclusion, both VCDs (ProGlide® and MANTA®) have comparable outcomes with regard to risk of bleeding, vascular complications, pseudoaneurysms, and/or stenosis or dissection of entry vessel. ProGlide® was however associated with higher device failure.
+
+Citation: Mahalwar G, et al. Meta-analysis of ProGlide versus MANTA vascular closure devices for large-bore access site management. Meta-analysis of ProGlide versus MANTA vascular closure devices for large-bore access site management. 2022; 74:251-255. doi: 10.1016/j.ihj.2022.03.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35367458/

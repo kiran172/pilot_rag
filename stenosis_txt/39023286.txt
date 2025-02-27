@@ -1,0 +1,11 @@
+PMID: 39023286
+Title: Prognostic value of extraaortic-valvular cardiac damage in patients with moderate aortic stenosis and reduced left ventricular ejection fraction.
+
+Abstract: PURPOSE: The extraaortic-valvular cardiac damage (EVCD) Stage has shown potential for risk stratification for patients with aortic stenosis (AS). This study aimed to examine the usefulness of the EVCD Stage in risk stratification of patients with moderate AS and reduced left ventricular ejection fraction (LVEF).
+METHODS: Clinical data from patients with moderate AS (aortic valve area, .60-.85 cm2/m2; peak aortic valve velocity, 2.0-4.0 m/s) and reduced LVEF (LVEF 20%-50%) were analyzed during 2010-2019. Patients were categorized into three groups: EVCD Stages 1 (LV damage), 2 (left atrium and/or mitral valve damage), and 3/4 (pulmonary artery vasculature and/or tricuspid valve damage or right ventricular damage). The primary endpoint included a composite of cardiac death and heart failure hospitalization, with non-cardiac death as a competing risk.
+RESULTS: The study included 130 patients (mean age 76.4 ± 6.8 years; 62.3% men). They were categorized into three groups: 26 (20.0%) in EVCD Stage 1, 66 (50.8%) in Stage 2, and 48 (29.2%) in Stage 3/4. The endpoint occurred in 54 (41.5%) patients during a median follow-up of 3.2 years (interquartile range, 1.4-5.1). Multivariate analysis indicated EVCD Stage 3/4 was significantly associated with the endpoint (hazard ratio 2.784; 95% confidence interval 1.197-6.476; P = .017) compared to Stage 1, while Stage 2 did not (hazard ratio 1.340; 95% confidence interval .577-3.115; P = .500).
+CONCLUSION: The EVCD staging system may aid in the risk stratification of patients with moderate AS and reduced LVEF.
+
+Citation: Onishi H, et al. Prognostic value of extraaortic-valvular cardiac damage in patients with moderate aortic stenosis and reduced left ventricular ejection fraction. Prognostic value of extraaortic-valvular cardiac damage in patients with moderate aortic stenosis and reduced left ventricular ejection fraction. 2024; 41:e15892. doi: 10.1111/echo.15892
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39023286/

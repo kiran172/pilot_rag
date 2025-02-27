@@ -1,0 +1,12 @@
+PMID: 32779877
+Title: In-hospital stroke after transcatheter aortic valve implantation: A UK observational cohort analysis.
+
+Abstract: OBJECTIVES: We sought to identify baseline demographics and procedural factors that might independently predict in-hospital stroke following transcatheter aortic valve implantation (TAVI).
+BACKGROUND: Stroke is a recognized, albeit infrequent, complication of TAVI. Established predictors of procedure-related in-hospital stroke; however, remain poorly defined.
+METHODS: We conducted an observational cohort analysis of the multicenter UK TAVI registry. The primary outcome measure was the incidence of in-hospital stroke.
+RESULTS: A total of 8,652 TAVI procedures were performed from 2007 to 2015. There were 205 in-hospital strokes reported by participating centers equivalent to an overall stroke incidence of 2.4%. Univariate analysis showed that the implantation of balloon-expandable valves caused significantly fewer strokes (balloon-expandable 96/4,613 [2.08%] vs. self-expandable 95/3,272 [2.90%]; p = .020). After multivariable analysis, prior cerebrovascular disease (CVD) (odds ratio [OR] 1.51, 95% confidence interval [CI 1.05-2.17]; p = .03), advanced age at time of operation (OR 1.02 [0.10-1.04]; p = .05), bailout coronary stenting (OR 5.94 [2.03-17.39]; p = .008), and earlier year of procedure (OR 0.93 [0.87-1.00]; p = .04) were associated with an increased in-hospital stroke risk. There was a reduced stroke risk in those who had prior cardiac surgery (OR 0.62 [0.41-0.93]; p = .01) and a first-generation balloon-expandable valve implanted (OR 0.72 [0.53-0.97]; p = .03). In-hospital stroke significantly increased 30-day (OR 5.22 [3.49-7.81]; p < .001) and 1-year mortality (OR 3.21 [2.15-4.78]; p < .001).
+CONCLUSIONS: In-hospital stroke after TAVI is associated with substantially increased early and late mortality. Factors independently associated with in-hospital stroke were previous CVD, advanced age, no prior cardiac surgery, and deployment of a predominantly first-generation self-expandable transcatheter heart valve.
+
+Citation: Myat A, et al. In-hospital stroke after transcatheter aortic valve implantation: A UK observational cohort analysis. In-hospital stroke after transcatheter aortic valve implantation: A UK observational cohort analysis. 2021; 97:E552-E559. doi: 10.1002/ccd.29157
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32779877/

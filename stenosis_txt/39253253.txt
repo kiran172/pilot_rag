@@ -1,0 +1,11 @@
+PMID: 39253253
+Title: Systemic immune inflammation index is associated with in-stent neoatherosclerosis and plaque vulnerability: An optical coherence tomography study.
+
+Abstract: BACKGROUND: In-stent neoatherosclerosis (ISNA) is identified as the primary cause of in-stent restenosis (ISR). The systemic immune inflammation index (SII), shows promise for predicting post-percutaneous coronary intervention (PCI) adverse cardiovascular events and is associated with coronary stenosis severity; however, its specific relationship with ISNA remains unclear. This study aimed to investigate the association between the SII and ISNA after drug-eluting stent (DES) implantation.
+METHODS: This cross-sectional study included 195 participants with 195 ISR lesions who underwent optical coherence tomography (OCT)-guided PCI between August 2018 and October 2022. Participants were categorized based on the SII levels into Tertile 1 (SII <432.37, n = 65), Tertile 2 (432.37 ≤ SII ≤751.94, n = 65), and Tertile 3 (SII >751.94, n = 65). Baseline Clinical, angiographic, and OCT characteristics were analyzed. The association of the SII with ISNA and thin-fibroatheroma (TCFA) was investigated using univariate and multivariate logistic regression analyses. Receiver operating characteristic (ROC) curve analysis was performed to evaluate the diagnostic accuracy of the SII in detecting ISNA and TCFA.
+RESULTS: Patients in Tertile 3 had a significantly higher incidences of ISNA and TCFA than did those in Tertile 1. Logistic regression analysis revealed the SII is an independent indicator of ISNA and TCFA in ISR lesions (P = 0.045 and P = 0.002, respectively). The areas under the ROC curves for ISNA and TCFA were 0.611 and 0.671, respectively.
+CONCLUSION: The SII is associated with ISNA and TCFA and may serve as an independent indicator in patients with ISR.
+
+Citation: Sheng J, et al. Systemic immune inflammation index is associated with in-stent neoatherosclerosis and plaque vulnerability: An optical coherence tomography study. Systemic immune inflammation index is associated with in-stent neoatherosclerosis and plaque vulnerability: An optical coherence tomography study. 2024; 10:e36486. doi: 10.1016/j.heliyon.2024.e36486
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39253253/

@@ -1,0 +1,11 @@
+PMID: 33166062
+Title: Transcatheter aortic valve replacement in aortic regurgitation: The U.S. experience.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) can be an effective option for high-risk Aortic Regurgitation (AR) patients. Although international experiences of TAVR for AR are published, U.S. data are limited. This study sought to report the short-term outcomes of TAVR in AR in the U.S.
+METHODS: Study cohorts were derived from the Nationwide Inpatient Sample (NIS) and Nationwide Readmissions Database (NRD) 2016-17. TAVR and AR were identified using ICD-10-CM-codes. The key outcomes were all-cause mortality, disabling stroke, valvular complications, complete heart block (CHB)/permanent pacemaker placement (PPM), open-heart surgery, acute kidney injury (AKI) requiring dialysis, and vascular complications. Multivariate logistic regression was used to adjust for confounders.
+RESULTS: 915 patients from the NIS (male-71%, age ≥65-84.2%) and 822 patients from the NRD (male-69.3%, age ≥65-80.5%) underwent TAVR for AR. The median length of stay (LOS) was 4 days for both cohorts. In-hospital mortality was 2.7%, and 30-day mortality was 3.3%. Disabling strokes were noted in 0.6% peri-procedurally and 1.8% at 30-days. Valve-related complications were 18-19% with paravalvular leak (4-7%) being the most common. Approximately 11% of patients developed CHB and/or needed PPM in both cohorts. In NRD, 2.2% of patients required dialysis for AKI, 1.5% developed vascular complications, and 0.6% required open-heart surgery within 30-days post-procedure. Anemia was predictive of increased overall complications and valvular complications, whereas peripheral vascular disease was a predictor of increased valvular complications and CHB/PPM.
+CONCLUSION: TAVR is a promising option in AR. Further studies are necessary for the expansion of TAVR as the standard treatment in AR.
+
+Citation: Arora S, et al. Transcatheter aortic valve replacement in aortic regurgitation: The U.S. experience. Transcatheter aortic valve replacement in aortic regurgitation: The U.S. experience. 2021; 98:E153-E162. doi: 10.1002/ccd.29379
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33166062/

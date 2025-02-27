@@ -1,0 +1,12 @@
+PMID: 34676958
+Title: Mobility aids predict mortality after transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Selection of appropriate patients for transcatheter aortic valve implantation (TAVI) can be challenging. Many factors can influence post-procedure outcomes. Traditional surgical scoring systems do not discriminate effectively. Medical parameters and functional indices can characterize mortality risk. Mobility is an important predictive functional index but is largely defined using subjective criteria.
+AIM: To describe the relationship between mobility, objectively defined by the requirement for gait aids to ambulate, and all-cause 30-day and long-term mortality in patients undergoing TAVI.
+METHODS: Mobility aid use was assessed in 1444 consecutive patients undergoing TAVI in a single center. Patients were categorized into "unaided," "1-stick," and "higher aid" groups based on the Brighton Mobility Index. Mortality tracking was obtained via the NHS Spine Portal in February 2021.
+RESULTS: Patients were aged 82 (IQR 78-86). 66% of patients walked unaided, 26% walked with 1 stick, and 8% required more assistance (e.g., 2 sticks, a Rollator, a Zimmer frame, or a wheelchair). Overall 30-day mortality for the whole cohort was 3.5%; 1-year mortality was 12.2%. Mobility was a significant predictor of 30-day mortality (p = 0.025). Use of a higher aid was associated with a mortality odds ratio of 2.83 (95% CI: 1.39-5.74). Mobility was also a significant predictor of long-term mortality (p < 0.001). Odds ratios for 1-stick and higher aid groups were 1.45 (95% CI: 1.21-1.72) and 2.01 (95% CI: 1.55-2.60), respectively.
+CONCLUSION: Objective assessment of mobility by gait aid use predicts both short and long-term survival in patients undergoing TAVI. Increased dependence on mobility aids is associated with a worse prognosis.
+
+Citation: Amin R, et al. Mobility aids predict mortality after transcatheter aortic valve implantation. Mobility aids predict mortality after transcatheter aortic valve implantation. 2022; 99:E31-E37. doi: 10.1002/ccd.29981
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34676958/

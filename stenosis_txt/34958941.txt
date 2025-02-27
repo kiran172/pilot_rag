@@ -1,0 +1,12 @@
+PMID: 34958941
+Title: Atrial branch coronary artery stenosis as a mechanism for atrial fibrillation.
+
+Abstract: BACKGROUND: The etiology of atrial fibrillation (AF) is multifactorial and incompletely understood.
+OBJECTIVE: The purpose of this study was to evaluate the association between coronary artery disease (CAD) affecting atrial tissue and AF.
+METHODS: Patients from a single center with obstructive CAD during cardiac catheterization (January 1, 2007, through December 1, 2013) were included in a matched case-control analysis on the basis of the presence or absence of new-onset AF within 12 months of catheterization. Quantitative measurements of stenosis severity were performed for the sinoatrial nodal artery, atrioventricular (AV) nodal artery, and right intermediate atrial artery (RIAA) as well as the right coronary, left circumflex, and left anterior descending proximal to the takeoff for each atrial level artery. A multivariable logistic regression model identified factors associated with AF.
+RESULTS: Of 1794 patients, 115 (6%) developed AF within 1 year of catheterization. The matched cohort included 110 patients with and 110 patients without AF within 12 months of catheterization. Higher odds of AF at 1 year were associated with increasing lesion stenosis severity in the RIAA (odds ratio [OR] 1.41 per 10% increase in lesion severity above 50%; 95% confidence interval [CI] 1.01-1.97; P = .047) and AV nodal artery (OR 1.58 per 10% increase in lesion severity above 50%; 95% CI 1.00-2.49; P = .050). Odds of AF diagnosis during the year after catheterization increased with the number of atrial arteries with >50% lesion (OR 1.53 for each additional artery; 95% CI 1.08-2.15; P = .015).
+CONCLUSION: In patients with obstructive CAD, disease of the AV nodal artery and RIAA as well as a higher burden of CAD within all arteries supplying blood flow to the atrial myocardium were associated with higher odds of new-onset AF at 1 year.
+
+Citation: Pokorney SD, et al. Atrial branch coronary artery stenosis as a mechanism for atrial fibrillation. Atrial branch coronary artery stenosis as a mechanism for atrial fibrillation. 2022; 19:1237-1244. doi: 10.1016/j.hrthm.2021.12.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34958941/

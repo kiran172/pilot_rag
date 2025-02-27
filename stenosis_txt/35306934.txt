@@ -1,0 +1,11 @@
+PMID: 35306934
+Title: Development and validation of a risk score for prediction of clinical success after duodenal stenting for malignant gastric outlet obstruction.
+
+Abstract: BACKGROUND: To develop and validate a risk score for predicting clinical success after duodenal stenting using self-expanding metallic stents (SEMS) for malignant gastric outlet obstruction (GOO).
+RESEARCH DESIGN AND METHODS: Consecutive patients who underwent duodenal stenting for malignant GOO were evaluated. Potential predictors of clinical success were determined by uni/multivariate logistic regression analysis.Multiplication of the regression coefficients of the logistic regression model by a factor of two and rounding to obtain easy-to-use point numbers enabling the calculation of the score. Using 10-fold cross-validation, the model was internally validated.
+RESULTS: One hundred twelve patients were included. Clinical success was achieved in 93 (83.0%) patients. On multivariate logistic regression, selected age ≤65 years (p = 0.05, 1.5 points), stenosis type I (p = 0.04, 3 points), and pancreatic cancer (p = 0.01, 3.5 points) were significant predictors of clinical success. On the Receiver Operating Characteristic (ROC) analysis, a score of 5 had higher specificity and sensitivity.
+CONCLUSION: Our score could be useful at identifying, among poor surgical candidates, patients more likely to benefit from SEMS.
+
+Citation: Conti Bellocchi MC, et al. Development and validation of a risk score for prediction of clinical success after duodenal stenting for malignant gastric outlet obstruction. Development and validation of a risk score for prediction of clinical success after duodenal stenting for malignant gastric outlet obstruction. 2022; 16:393-399. doi: 10.1080/17474124.2022.2056445
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35306934/

@@ -1,0 +1,8 @@
+PMID: 37647392
+Title: Endothelial RIPK1 protects artery bypass graft against arteriosclerosis by regulating SMC growth.
+
+Abstract: RIPK1 is crucial in the inflammatory response. The process of vascular graft remodeling is also involved in endothelial inflammation, which can influence the behavior of smooth muscle cells. However, the role of endothelial RIPK1 in arterial bypass grafts remains unknown. Here, we established an arterial isograft mouse model in wild-type and endothelial RIPK1 conditional knockout mice. Progressive vascular remodeling and neointima formation occurred in the graft artery, showing SMC accumulation together with endothelial inflammatory adhesion molecule and cytokine expression. Endothelial RIPK1 knockout exacerbated graft stenosis by increasing secretion of N-Shh. Mechanistically, RIPK1 directly phosphorylated EEF1AKMT3 at Ser26, inhibiting its methyltransferase activity and global protein synthesis, which further attenuated N-Shh translation and secretion. Consistently, treatment with the Hedgehog pathway inhibitor GDC0449 markedly alleviated RIPK1 knockout-induced graft stenosis. Our results demonstrated that endothelial RIPK1 played a protective role in arterial bypass graft vascular remodeling, highlighting that targeting Hedgehog pathway may be an attractive strategy for graft failure in the future.
+
+Citation: Lu Y, et al. Endothelial RIPK1 protects artery bypass graft against arteriosclerosis by regulating SMC growth. Endothelial RIPK1 protects artery bypass graft against arteriosclerosis by regulating SMC growth. 2023; 9:eadh8939. doi: 10.1126/sciadv.adh8939
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37647392/

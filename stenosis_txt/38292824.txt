@@ -1,0 +1,11 @@
+PMID: 38292824
+Title: The Atherogenic Index of Plasma Predicts Carotid in-Stent Restenosis: Development and Validation of a Nomogram.
+
+Abstract: PURPOSE: To explore the predictive value of atherogenic index of plasma(AIP) for carotid in-stent restenosis(ISR).
+METHODS: Patients who underwent carotid artery stenting (CAS) in hospital from January 2016 to January 2021 were retrospectively enrolled. They were randomly divided into training and validation sets. Based on the results of carotid digital subtraction angiography (DSA) during the follow-up period, the patients were divided into ISR group and non-ISR group. The differences of AIP and lipid levels between the two groups were compared. The independent risk factors of ISR and the predictive value of AIP for ISR were analyzed. A nomogram was developed based on the independent risk factors, and the receiver operating characteristic (ROC) curve, the calibration curve and the decision curve analysis were conducted to assess the predictive ability and clinical practicability of the nomogram in both the training set and validation sets.
+RESULTS: A total of 361 patients were enrolled, including 98 in the ISR group and 263 in the non-ISR group. In the training set, AIP was significantly higher in the ISR group than in the non-ISR group (P < 0.05) and was independently associated with ISR (OR= 10.912, 95% CI: 2.520-47.248). When AIP was 0.10, it had the highest predictive value for ISR, with a sensitivity of 72. 1% and a specificity of 75.0%. Additionally, hypertension, residual stenosis, symptomatic stenosis and Hcy were also independent risk factors for ISR. The nomogram showed good discrimination performance and clinical practicability in both the training set (AUC = 0.827) and the validation set (AUC = 0.880).
+CONCLUSION: AIP was an independent risk factor for ISR and was closely related to ISR. The nomogram developed by AIP and other variables had good predictive ability and clinical practicability for ISR.
+
+Citation: Zhou Y, et al. The Atherogenic Index of Plasma Predicts Carotid in-Stent Restenosis: Development and Validation of a Nomogram. The Atherogenic Index of Plasma Predicts Carotid in-Stent Restenosis: Development and Validation of a Nomogram. 2024; 17:263-274. doi: 10.2147/IJGM.S447008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38292824/

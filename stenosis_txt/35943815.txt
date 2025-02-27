@@ -1,0 +1,13 @@
+PMID: 35943815
+Title: Effects of Prior Tracheostomy on Total Laryngectomy Outcomes.
+
+Abstract: OBJECTIVE: To assess whether preoperative tracheostomy (PreOT) increases risk of complications after total laryngectomy (TL) and to determine if timing of tracheostomy creation is associated with an increased risk.
+STUDY DESIGN: Retrospective cohort study.
+SETTING: Tertiary care hospital between 2007 and 2020.
+METHODS: Inclusion criteria were patients who underwent primary or salvage TL for oncologic treatment. Dependent variables of interest included surgical complications, such as wound dehiscence, infection, hematoma, complete flap failure, fistula formation, and stoma stenosis, as well as medical complications. Categorical variables were compared with chi-square test or Fisher exact test, and continuous variables were compared with an independent t test. Multivariable regression was conducted to assess predictors of complications after laryngectomy.
+RESULTS: A total of 306 patients were included. Primary TL was performed in 161 (53%) patients and salvage in 145 (47%) patients. Of the patients undergoing primary laryngectomy, 105 (65%) received a PreOT. Of the patients undergoing salvage laryngectomy, 86 (59%) received a PreOT. In both primary and salvage cases, there was no association between PreOT and surgical or medical complications. Additionally, there was no significant association between timing of tracheostomy and surgical complications. On multivariable analysis, the presence of a PreOT was not associated with surgical complications. In salvage cases, those with a PreOT had a significantly longer average length of stay than those without a PreOT (12 vs 9 days, P = .008).
+CONCLUSION: PreOT in patients undergoing primary and salvage laryngectomies was not associated with surgical or medical complications postlaryngectomy. Timing of tracheostomy in relation to laryngectomy was not found to adversely affect clinical outcomes.
+
+Citation: Sussman S, et al. Effects of Prior Tracheostomy on Total Laryngectomy Outcomes. Effects of Prior Tracheostomy on Total Laryngectomy Outcomes. 2023; 168:782-789. doi: 10.1177/01945998221116761
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35943815/

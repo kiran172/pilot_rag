@@ -1,0 +1,12 @@
+PMID: 34837113
+Title: Prediction of outcome after spinal surgery-using The Dialogue Support based on the Swedish national quality register.
+
+Abstract: PURPOSE: To evaluate the predictive precision of the Dialogue Support, a tool for additional help in shared decision-making before surgery of the degenerative spine.
+METHODS: Data in Swespine (Swedish national quality registry) of patients operated between 2007 and 2019 found the development of prediction algorithms based on logistic regression analyses, where socio-demographic and baseline variables were included. The algorithms were tested in four diagnostic groups: lumbar disc herniation, lumbar spinal stenosis, degenerative disc disease and cervical radiculopathy. By random selection, 80% of the study population was used for the prediction of outcome and then tested against the actual outcome of the remaining 20%. Outcome measures were global assessment of pain (GA), and satisfaction with outcome.
+RESULTS: Calibration plots demonstrated a high degree of concordance on a group level. On an individual level, ROC curves showed moderate predictive capacity with AUC (area under the curve) values 0.67-0.68 for global assessment and 0.6-0.67 for satisfaction.
+CONCLUSION: The Dialogue Support can serve as an aid to both patient and surgeon when discussing and deciding on surgical treatment of degenerative conditions in the lumbar and cervical spine.
+LEVEL OF EVIDENCE: I.
+
+Citation: Fritzell P, et al. Prediction of outcome after spinal surgery-using The Dialogue Support based on the Swedish national quality register. Prediction of outcome after spinal surgery-using The Dialogue Support based on the Swedish national quality register. 2022; 31:889-900. doi: 10.1007/s00586-021-07065-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34837113/

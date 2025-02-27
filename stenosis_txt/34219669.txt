@@ -1,0 +1,12 @@
+PMID: 34219669
+Title: Outcomes of quantitative flow ratio-based percutaneous coronary intervention in an all-comers study.
+
+Abstract: BACKGROUND: Quantitative flow ratio (QFR) is a novel angiography-based physiological index for fast computation of fractional flow reserve without the use of a pressure wire or induction of hyperaemia.
+AIMS: We sought to investigate the prevalence and prognostic implications of achieving physiology-consistent percutaneous coronary intervention (PCI) according to the baseline angiographic QFR in an all-comers cohort.
+METHODS: QFR was retrospectively analysed from the angiograms of 1,391 patients enrolled in the randomised PANDA III trial. Patients in whom all functionally ischaemic vessels (baseline QFR ≤0.80) were treated and in whom all non-ischaemic vessels (baseline QFR >0.80) were deferred were termed as having had QFR-consistent treatment; otherwise, they were termed as having had QFR-inconsistent treatment. The major outcome was two-year major adverse cardiac events (MACE; a composite of all-cause death, all myocardial infarction (MI), or any ischaemia-driven revascularisation).
+RESULTS: Overall, 814 (58.5%) patients had QFR-consistent PCI, while 577 (41.5%) patients received QFR-inconsistent PCI. Patients with QFR-consistent versus those with QFR-inconsistent treatment had a lower risk of two-year MACE (8.4% vs 14.7%; hazard ratio [HR] 0.56, 95% confidence interval [CI]: 0.41-0.78). After adjusting for differences in baseline covariates, two-year rates of MACE remained significantly lower in the QFR-consistent group (8.8% vs 13.6%; adjusted HR 0.64, 95% CI: 0.44-0.93), due mainly to reduced ischaemia-driven revascularisation (2.9% vs 8.0%; adjusted HR 0.35, 95% CI: 0.20-0.60).
+CONCLUSIONS: In this post hoc analysis of an all-comers PCI trial, approximately 60% of patients were treated in accordance with what the QFR measurement would have recommended, the achievement of which was associated with improved two-year clinical outcomes. ClinicalTrials.gov identifier: NCT02017275.
+
+Citation: Zhang R, et al. Outcomes of quantitative flow ratio-based percutaneous coronary intervention in an all-comers study. Outcomes of quantitative flow ratio-based percutaneous coronary intervention in an all-comers study. 2022; 17:1240-1251. doi: 10.4244/EIJ-D-21-00176
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34219669/

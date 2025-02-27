@@ -1,0 +1,11 @@
+PMID: 35229550
+Title: Comparison of diagnostic accuracy of immediate angiography derived residual quantitative flow ratio after bioresorbable scaffold and drug eluting stent implantation.
+
+Abstract: BACKGROUND: Quantitative flow ratio (QFR) is a novel angiography derived fractional flow reserve (FFR) technique. However, its diagnostic accuracy has only be validated in native coronary lesions but not in vessels after bioresorbable scaffold (BRS) implantation. This study aims to evaluate the diagnostic accuracy of residual QFR in coronary vessels immediately post-BRS implantation.
+METHODS: This is a retrospective, two center, validation cohort study. 73 stable angina patients who received at least one de novo lesion of an everolimus eluting stent (EES)/BRS implantation with subsequent residual FFR assessment were screened. Patients with aorta-ostial stenoses, bridge vessels at the distal segment of targeted vessels, acute coronary syndrome, previous coronary artery bypass grafting, age &lt;18 years, lack of ≥2 final angiographic projections were excluded. Contrast QFR assessment was performed blinded to FFR assessment.
+RESULTS: A good correlation (r = 0.680, p &lt; 0.001) was found between residual QFR and FFR. In the EES implantation cohort, a good correlation (r = 0.769, p &lt; 0.001) was found between residual QFR and FFR, and a moderate correlation (r = 0.446, p = 0.038) in the BRS cohort. The area under the Receiver operator characteristic (ROC) curve for detecting FFR ≤0.86 was 0.883 for all patients.
+CONCLUSION: Residual QFR assessment after BRS implantation is feasible, and has a moderate correlation and agreement with residual FFR. QFR may be a promising tool similar to FFR to evaluate post-BRS effect.
+
+Citation: Li Z, et al. Comparison of diagnostic accuracy of immediate angiography derived residual quantitative flow ratio after bioresorbable scaffold and drug eluting stent implantation. Comparison of diagnostic accuracy of immediate angiography derived residual quantitative flow ratio after bioresorbable scaffold and drug eluting stent implantation. 2022; 23:59. doi: 10.31083/j.rcm2302059
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35229550/

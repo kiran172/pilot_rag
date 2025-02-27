@@ -1,0 +1,11 @@
+PMID: 39067525
+Title: Warfarin use is associated with higher aortic bioprosthetic 18F-fluoride PET uptake.
+
+Abstract: BACKGROUND: Prevalence of bioprosthetic valve degeneration (BVD) is rising as the use of bioprosthetic aortic valves increases. Detecting early signs of BVD remains a challenge, with conventional imaging methods often failing to identify early deterioration stages. 18F-fuoride positron emission tomography (PET-CT) is an emerging technique that offers promising prospects to detect subclinical BVD. This study aimed to compare early PET parameters of fluoride uptake with echocardiographic hemodynamic parameters and compare outcomes according to anticoagulation in patients who received bioprosthetic valves.
+METHODS: This is a sub-study of the ANTIPRO clinical trial, which involved patients undergoing surgical aortic valve replacement (SAVR) with a porcine bioprosthesis and randomized them into anticoagulated and non-anticoagulated groups. Hemodynamic changes were assessed by transthoracic echocardiography (TTE), while 18F-fluoride PET-CT quantified fluoride uptake and divided the patients in two groups: high-uptake and low-uptake. Mean and maximum gradients by TTE at three years were compared between the two uptake groups. Fluoride uptake was also compared between the anticoagulated and control groups.
+RESULTS: We found no significant differences in transprosthetic gradients between high-uptake(21.4 ± 8.6 mmHg) and low-uptake(17.3 ± 11.2 mmHg.p = 0.244) PET-defined groups in this specific timeframe. Notably, anticoagulated patients exhibited significantly risk of higher fluoride uptake(OR = 4.34;95%CI:1.04-18.21.p = 0.045).
+CONCLUSIONS: No association was found between fluoride uptake and hemodynamic evaluation. Anticoagulation was associated with higher fluoride uptake. These findings highlight the emerging role of PET-CT in studying bioprosthetic aortic valves and emphasize the need for extended follow-up to evaluate the impact of anticoagulation on valve degeneration.
+
+Citation: Fernandez A, et al. Warfarin use is associated with higher aortic bioprosthetic 18F-fluoride PET uptake. Warfarin use is associated with higher aortic bioprosthetic 18F-fluoride PET uptake. 2024; 414:132394. doi: 10.1016/j.ijcard.2024.132394
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39067525/

@@ -1,0 +1,11 @@
+PMID: 35638242
+Title: Percutaneous vs. surgical axillary access for transcatheter aortic valve implantation: the TAXI registry.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) is an established management strategy for severe aortic valve stenosis. Percutaneous axillary approach for TAVI holds the promise of improving safety without jeopardizing effectiveness in comparison to surgical access. We aimed at appraising the comparative effectiveness of percutaneous vs. surgical axillary approaches for TAVI.
+METHODS: We performed an international retrospective observational study using de-identified details on baseline, procedural, and 1-month follow-up features. Valve Academic Research Consortium (VARC)-3 criteria were applied throughout. Outcomes of interest were clinical events up to 1 month of follow-up, compared with unadjusted and propensity score-adjusted analyses.
+RESULTS: A total of 432 patients were included, 189 (43.8%) receiving surgical access, and 243 (56.2%) undergoing percutaneous access. Primary hemostasis failure was more common in the percutaneous group (13.2% vs. 4.2%, P<0.001), leading to more common use of covered stent implantation (13.2% vs. 3.7%, P<0.001). Irrespectively, percutaneous access was associated with shorter hospital stay (-2.6 days [95% confidence interval: -5.0; -0.1], P=0.038), a lower risk of major adverse events (a composite of death, myocardial infarction, stroke, type 3 bleeding, and major access-site related complication; odds ratio=0.44 [0.21; 0.95], P=0.036), major access-site non-vascular complications (odds ratio=0.21 [0.06; 0.77], P=0.018), and brachial plexus impairment (odds ratio=0.16 [0.03; 0.76], P=0.021), and shorter hospital stay (-2.6 days [-5.0; -0.1], P=0.038).
+CONCLUSIONS: Percutaneous axillary access provides similar or better results than surgical access in patients undergoing TAVI with absolute or relative contraindications to femoral access.
+
+Citation: Giordano A, et al. Percutaneous vs. surgical axillary access for transcatheter aortic valve implantation: the TAXI registry. Percutaneous vs. surgical axillary access for transcatheter aortic valve implantation: the TAXI registry. 2022; 64:427-437. doi: 10.23736/S0031-0808.22.04750-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35638242/

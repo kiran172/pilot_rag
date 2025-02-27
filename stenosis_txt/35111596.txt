@@ -1,0 +1,11 @@
+PMID: 35111596
+Title: Diagnostic performance of AccuFFRangio in the functional assessment of coronary stenosis compared with pressure wire-derived fractional flow reserve.
+
+Abstract: BACKGROUND: Non-invasive fractional flow reserve (FFR) has been increasingly used in the clinical workflow to assist clinical decision-making for percutaneous coronary intervention (PCI). This clinical study evaluates the diagnostic accuracy of coronary stenosis assessed by a non-invasive FFR analysis method (termed AccuFFRangio) based on invasive coronary angiography (ICA). It is a blinded, self-controlled, retrospective, and dual-center clinical investigation study.
+METHODS: Coronary angiography data and the related information of 320 patients with 320 vessels were collected, and AccuFFRangio was used to assess the FFR for these patients. Compared with the wire-measured FFR values, we evaluated AccuFFRangio performance by its accuracy, sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV).
+RESULTS: The diagnostic accuracy, sensitivity, specificity, PPV, and NPV for AccuFFRangio in identifying hemodynamically significant coronary stenosis were 93.3%, 92.6%, 93.5%, 84.3%, and 97.1%, respectively. The direct correlation between computed AccuFFRangio and measured FFR was 0.812 (P<0.001), and the area under the receiver operating characteristic curve (AUC) value of AccuFFRangio was 0.96.
+CONCLUSIONS: This clinical study demonstrates the efficiency and accuracy of AccuFFRangio for clinical implementation when using invasive wire-measured FFR as a reference. Further validation is required in a large prospective multicenter study.
+
+Citation: Jiang J, et al. Diagnostic performance of AccuFFRangio in the functional assessment of coronary stenosis compared with pressure wire-derived fractional flow reserve. Diagnostic performance of AccuFFRangio in the functional assessment of coronary stenosis compared with pressure wire-derived fractional flow reserve. 2022; 12:949-958. doi: 10.21037/qims-21-463
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35111596/

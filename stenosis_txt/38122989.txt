@@ -1,0 +1,11 @@
+PMID: 38122989
+Title: Shorter Ureters Lead to Fewer Strictures Following Cystectomy and Urinary Diversion.
+
+Abstract: OBJECTIVE: To identify the impact of length of distal ureteral resection on the risk of benign uretero-enteric anastomotic stricture (UEAS) formation following cystectomy and urinary diversion.
+METHODS: A database of patients who underwent cystectomy and urinary diversion from 2015 to 2022 was analyzed. Distal ureteral resections were sent for final pathology. The length of resected ureter was collected from pathology reports. Benign UEAS were confirmed with renal scintigraphy, antegrade nephrostogram, or endoscopic evaluation. The relationship between stricture formation and clinical parameters were assessed using T-tests, chi-square tests, and multivariable analysis.
+RESULTS: A total of 366 patients underwent cystectomy and urinary diversion. Of the cohort, 35 (9.5%) patients developed UEAS. Median time to stricture formation was 12.5months (IQR 4-30). Of the 711 uretero-enteric anastomoses, 40 (5.6%) ultimately formed a UEAS. Median distal ureteral resection was significantly longer among ureteral anastomoses which did not form a UEAS (2.3 cm vs 1.65 cm, P = .028). Multivariable logistic regression adjusting for surgical approach, prior radiation, ureteral side, and urinary diversion type demonstrated that longer distal ureteral resections were inversely associated with odds of UEAS formation (OR 0.73, 95% CI 0.58-0.92). Multivariable Cox regression analysis similarly showed that length of distal ureteral resection was inversely associated with time to stricture formation (HR 0.78, 95% CI 0.62-0.98).
+CONCLUSION: The etiology of benign UIA strictures is multifactorial. Vascular compromise is a critical hypothesis. We found that longer distal ureteral resections (and thus shorter ureters) were associated with a significantly lower risk of stricture formation in cystectomy patients.
+
+Citation: Das A, et al. Shorter Ureters Lead to Fewer Strictures Following Cystectomy and Urinary Diversion. Shorter Ureters Lead to Fewer Strictures Following Cystectomy and Urinary Diversion. 2024; 184:272-277. doi: 10.1016/j.urology.2023.12.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38122989/

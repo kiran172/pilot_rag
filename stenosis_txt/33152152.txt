@@ -1,0 +1,12 @@
+PMID: 33152152
+Title: Predicting Need for Surgery in Recurrent Laryngotracheal Stenosis Using Changes in Spirometry.
+
+Abstract: OBJECTIVES/HYPOTHESIS: We sought to identify changes that occur in spirometric values between surgical interventions in patients with recurrent laryngotracheal stenosis and assess the utility of tracking those changes in predicting the need to return to surgery.
+METHODS: This is a retrospective, case-control study of laryngotracheal stenosis. Charts from a 10 year period were reviewed, and 80 patients were identified with recurrent laryngotracheal stenosis and serial spirometry. Recorded forced expiratory volume in 1 second (FEV<sub>1</sub> ), forced inspiratory volume in 1 second (FIV<sub>1</sub> ), peak expiratory flow (PEF), and peak inspiratory flow (PIF), and body mass index (BMI) were tabulated. Calculations were then performed to determine deviations in spirometric measurements from maximums. Comparing the patients who required intervention to those who did not, we used a regression analysis to generate a decision tree based on factors with the strongest predictive power. We then calculated receiver operating characteristic (ROC) curves for all calculated variables.
+RESULTS: Deviations in PEF, PIF, and FIV<sub>1</sub> from each patient's maximums had strong predictive power in determining return to surgery. PIF was the only fixed measurement found to have a statistically significant role in predicting return to surgery. BMI did not play a role.
+CONCLUSION: For each patient, the deviation from their overall spirometric maximums had the statistically strongest predictive power in determining need to return to surgery. This suggests the importance of the trends in spirometric measures for each individual, and implies these trends have greater import than fixed measures alone.
+LEVEL OF EVIDENCE: 4 Laryngoscope, 131:2199-2203, 2021.
+
+Citation: Crosby T, et al. Predicting Need for Surgery in Recurrent Laryngotracheal Stenosis Using Changes in Spirometry. Predicting Need for Surgery in Recurrent Laryngotracheal Stenosis Using Changes in Spirometry. 2021; 131:2199-2203. doi: 10.1002/lary.29239
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33152152/

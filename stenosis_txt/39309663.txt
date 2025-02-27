@@ -1,0 +1,12 @@
+PMID: 39309663
+Title: AI-Enhanced Prediction of Aortic Stenosis Progression: Insights From the PROGRESSA Study.
+
+Abstract: BACKGROUND: Aortic valve stenosis (AS) is a progressive chronic disease with progression rates that vary in patients and therefore difficult to predict.
+OBJECTIVES: The aim of this study was to predict the progression of AS using comprehensive and longitudinal patient data.
+METHODS: Machine and deep learning algorithms were trained on a data set of 303 patients enrolled in the PROGRESSA (Metabolic Determinants of the Progression of Aortic Stenosis) study who underwent clinical and echocardiographic follow-up on an annual basis. Performance of the models was measured to predict disease progression over long (next 5 years) and short (next 2 years) terms and was compared to a standard clinical model with usually used features in clinical settings based on logistic regression.
+RESULTS: For each annual follow-up visit including baseline, we trained various supervised learning algorithms in predicting disease progression at 2- and 5-year terms. At both terms, LightGBM consistently outperformed other models with the highest average area under curves across patient visits (0.85 at 2 years, 0.83 at 5 years). Recurrent neural network-based models (Gated Recurrent Unit and Long Short-Term Memory) and XGBoost also demonstrated strong predictive capabilities, while the clinical model showed the lowest performance.
+CONCLUSIONS: This study demonstrates how an artificial intelligence-guided approach in clinical routine could help enhance risk stratification of AS. It presents models based on multisource comprehensive data to predict disease progression and clinical outcomes in patients with mild-to-moderate AS at baseline.
+
+Citation: Sanabria M, et al. AI-Enhanced Prediction of Aortic Stenosis Progression: Insights From the PROGRESSA Study. AI-Enhanced Prediction of Aortic Stenosis Progression: Insights From the PROGRESSA Study. 2024; 3:101234. doi: 10.1016/j.jacadv.2024.101234
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39309663/

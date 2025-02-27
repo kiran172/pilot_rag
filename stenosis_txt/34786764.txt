@@ -1,0 +1,11 @@
+PMID: 34786764
+Title: Fundamentals of turbulent flow spectrum imaging.
+
+Abstract: PURPOSE: To introduce a mathematical framework and in-silico validation of turbulent flow spectrum imaging (TFSI) of stenotic flow using phase-contrast MRI, evaluate systematic errors in quantitative turbulence parameter estimation, and propose a novel method for probing the Lagrangian velocity spectra of turbulent flows.
+THEORY AND METHODS: The spectral response of velocity-encoding gradients is derived theoretically and linked to turbulence parameter estimation including the velocity autocorrelation function spectrum. Using a phase-contrast MRI simulation framework, the encoding properties of bipolar gradient waveforms with identical first gradient moments but different duration are investigated on turbulent flow data of defined characteristics as derived from computational fluid dynamics. Based on theoretical insights, an approach using velocity-compensated gradient waveforms is proposed to specifically probe desired ranges of the velocity autocorrelation function spectrum with increased accuracy.
+RESULTS: Practical velocity-encoding gradients exhibit limited encoding power of typical turbulent flow spectra, resulting in up to 50% systematic underestimation of intravoxel SD values. Depending on the turbulence level in fluids, the error due to a single encoding gradient spectral response can vary by 20%. When using tailored velocity-compensated gradients, improved quantification of the Lagrangian velocity spectrum on a voxel-by-voxel basis is achieved and used for quantitative correction of intravoxel SD values estimated with velocity-encoding gradients.
+CONCLUSION: To address systematic underestimation of turbulence parameters using bipolar velocity-encoding gradients in phase-contrast MRI of stenotic flows with short correlation times, tailored velocity-compensated gradients are proposed to improve quantitative mapping of turbulent blood flow characteristics.
+
+Citation: Dillinger H, et al. Fundamentals of turbulent flow spectrum imaging. Fundamentals of turbulent flow spectrum imaging. 2022; 87:1231-1249. doi: 10.1002/mrm.29001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34786764/

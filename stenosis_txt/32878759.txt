@@ -1,0 +1,11 @@
+PMID: 32878759
+Title: Understanding the mechanisms of a combined physical and psychological intervention for people with neurogenic claudication: protocol for a causal mediation analysis of the BOOST trial.
+
+Abstract: INTRODUCTION: Conservative treatments such as exercise are recommended for the management of people with neurogenic claudication from spinal stenosis. However, the effectiveness and mechanisms of effect are unknown. This protocol outlines an a priori plan for a secondary analysis of a multicentre randomised controlled trial of a physiotherapist-delivered, combined physical and psychological intervention (Better Outcomes for Older people with Spinal Trouble (BOOST) programme).
+METHODS AND ANALYSES: We will use causal mediation analysis to estimate the mechanistic effects of the BOOST programme on the primary outcome of disability (measured by the Oswestry Disability Index). The primary mechanism of interest is walking capacity, and secondary mediators include fear-avoidance behaviour, walking self-efficacy, physical function, physical activity and/or symptom severity. All mediators will be measured at 6 months and the outcome will be measured at 12 months from randomisation. Patient characteristics and possible confounders of the mediator-outcome effect will be measured at baseline. Sensitivity analyses will be conducted to evaluate the robustness of the estimated effects to varying levels of residual confounding.
+ETHICS AND DISSEMINATION: Ethical approval was given on 3 March 2016 (National Research Ethics Committee number: 16/LO/0349). The results of this analysis will be disseminated in peer-reviewed journals and at relevant scientific conferences.
+TRIAL REGISTRATION NUMBER: ISRCTN12698674.
+
+Citation: Comer C, et al. Understanding the mechanisms of a combined physical and psychological intervention for people with neurogenic claudication: protocol for a causal mediation analysis of the BOOST trial. Understanding the mechanisms of a combined physical and psychological intervention for people with neurogenic claudication: protocol for a causal mediation analysis of the BOOST trial. 2020; 10:e037121. doi: 10.1136/bmjopen-2020-037121
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32878759/

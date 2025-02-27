@@ -1,0 +1,11 @@
+PMID: 35875621
+Title: The concept of recovery kinetics: an observational study of continuous post-operative monitoring in spine surgery.
+
+Abstract: BACKGROUND: The spine surgeon's understanding of an individual patient's burden of disease and functional disability in daily life is shaped by patient-reported outcome measures (PROMs). Although PROMs are useful in understanding the patient's perception of their disease, the use of PROMs constitutes a "snapshot" approach of single timepoint data capture, omitting day-to-day fluctuations in functional status. We introduce the concept of kinetics when considering continuous and objective postoperative patient monitoring with wearable sensors.
+METHODS: A prospective single-centre series was performed using patients either undergoing lumbar decompression for lumbar spinal stenosis (LSS) (n=12), or posterior lumbar fusion for degenerative spondylolisthesis (n=12). The Oswestry Disability Index (PROM) was conducted preoperatively and 12-weeks postoperatively. During this timeframe, continuous measurements of step count and distance travelled were made using a wrist-based wearable accelerometer.
+RESULTS: Over the 12-week study period, mean daily step count for all participants improved from 4,700 to 7,700 steps per day (P=0.013), following an initial dip in total steps taken. The mean daily distance travelled improved from 3,300 to 5,300 meters per day (P=0.003). Decompression group recovered at a faster rate than the fusion group.
+CONCLUSIONS: Although overall improvement was similar between the decompression and fusion groups, the recovery kinetics varied. The recovery kinetics approach of continuous postoperative monitoring provides additional insight to postoperative patient progress.
+
+Citation: Maharaj M, et al. The concept of recovery kinetics: an observational study of continuous post-operative monitoring in spine surgery. The concept of recovery kinetics: an observational study of continuous post-operative monitoring in spine surgery. 2022; 8:196-203. doi: 10.21037/jss-22-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35875621/

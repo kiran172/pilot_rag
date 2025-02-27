@@ -1,0 +1,8 @@
+PMID: 37077748
+Title: Radiomics-based aortic flow profile characterization with 4D phase-contrast MRI.
+
+Abstract: 4D PC MRI of the aorta has become a routinely available examination, and a multitude of single parameters have been suggested for the quantitative assessment of relevant flow features for clinical studies and diagnosis. However, clinically applicable assessment of complex flow patterns is still challenging. We present a concept for applying radiomics for the quantitative characterization of flow patterns in the aorta. To this end, we derive cross-sectional scalar parameter maps related to parameters suggested in literature such as throughflow, flow direction, vorticity, and normalized helicity. Derived radiomics features are selected with regard to their inter-scanner and inter-observer reproducibility, as well as their performance in the differentiation of sex-, age- and disease-related flow properties. The reproducible features were tested on user-selected examples with respect to their suitability for characterizing flow profile types. In future work, such signatures could be applied for quantitative flow assessment in clinical studies or disease phenotyping.
+
+Citation: Huellebrand M, et al. Radiomics-based aortic flow profile characterization with 4D phase-contrast MRI. Radiomics-based aortic flow profile characterization with 4D phase-contrast MRI. 2023; 10:1102502. doi: 10.3389/fcvm.2023.1102502
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37077748/

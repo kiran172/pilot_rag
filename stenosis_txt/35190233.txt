@@ -1,0 +1,16 @@
+PMID: 35190233
+Title: Nomogram for benign anastomotic stricture after surgery for rectal cancer.
+
+Abstract: BACKGROUND: Benign anastomotic stricture remains among the most prevalent complications following surgery for rectal cancer.
+OBJECTIVE: This study is aimed at identifying risk factors of anastomotic stricture as well as generating an effective nomogram for the stricture.
+METHODS: Design: This is a retrospective study.
+SETTING: This study was conducted from January 2015 to December 2019 in a single tertiary center for rectal cancer.
+PATIENTS: A total of 117 rectal cancer patients after surgery without recurrence were enrolled in this study, of which 39 with anastomotic stricture and 78 without stricture.
+MAIN OUTCOME MEASURES: Their clinical and pathological data were collected. Multiple logistic regression analysis was conducted to identify risk factors for anastomotic stricture and to generate the nomogram prediction model.
+RESULTS: Multivariate analysis of the primary cohort led to the identification of LCA (left colic artery) preservation (OR, 0.074; P = 0.0015), protective stoma (OR, 5.353; P = 0.012), anastomotic leakage (OR, 12.027; P = 0.005), and anastomotic distance (OR, 7.578; P = 0.012) as independent risk factors for anastomotic stricture. The following predictive model was derived: Logit (anastomotic stricture) = 0.074∗ LCA + 5.353∗ Protective stoma +12.027∗ Anastomotic leakage + 7.578∗ Anastomotic distance. Assessment of the predictive model revealed that the area under the curve (AUC) was 0.871, while the cutoff value was 15.444 with a sensitivity of 64.1% and a specificity of 94.8%.
+LIMITATIONS: The main limitation is the research design of a retrospective and case-controlled study with a small sample size from a single center.
+CONCLUSIONS: LCA preservation, protective stoma, anastomotic leakage, and anastomotic distance may affect the occurrence of anastomotic stricture following surgery for rectal cancer. The nomogram model generated in the present study can be valuable in the prediction of anastomotic stricture. This study has been registered at the Chinese Clinical Trial Registry (http://www.chictr.org.cn/, ChiCTR 2100043775).
+
+Citation: Hu X, et al. Nomogram for benign anastomotic stricture after surgery for rectal cancer. Nomogram for benign anastomotic stricture after surgery for rectal cancer. 2023; 46:111-119. doi: 10.1016/j.asjsur.2022.01.045
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35190233/

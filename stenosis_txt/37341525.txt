@@ -1,0 +1,13 @@
+PMID: 37341525
+Title: Effect of Cervical Stenosis and Rate of Impact on Risk of Spinal Cord Injury During Whiplash Injury.
+
+Abstract: STUDY DESIGN: Finite Element Study.
+OBJECTIVE: To determine the risk of spinal cord injury with pre-existing cervical stenosis during a whiplash injury.
+SUMMARY OF BACKGROUND DATA: Patients with cervical spinal stenosis are often cautioned on the potential increased risk of spinal cord injury (SCI) from minor trauma such as rear impact whiplash injuries. However, there is no consensus on the degree of canal stenosis or the rate of impact that predisposes cervical SCI from minor trauma.
+METHODS: A previously validated three-dimensional finite element model of the human head-neck complex with the spinal cord and activated cervical musculature was used. Rear impact acceleration was applied at 1.8 m/s and 2.6 m/s. Progressive spinal stenosis was simulated at the C5 to C6 segment, from 14 mm to 6 mm, at 2 mm intervals of ventral disk protrusion. Spinal cord von Mises stress and maximum principal strain were extracted and normalized with respect to the 14 mm spine at each cervical spine level from C2 to C7.
+RESULTS: The mean segmental range of motion was 7.3 degrees at 1.8 m/s and 9.3 degrees at 2.6 m/s. Spinal cord stress above the threshold for SCI was noted at C5 to C6 for 6 mm stenosis at 1.8 m/s and 2.6 m/s. The segment (C6-C7) inferior to the level of maximum stenosis also showed increasing stress and strain with a higher rate of impact. For 8 mm stenosis, spinal cord stress exceeded SCI thresholds only at 2.6 m/s. Spinal cord strain above SCI thresholds were only noted in the 6 mm stenosis model at 2.6 m/s.
+CONCLUSION: Increased spinal stenosis and rate of impact are associated with greater magnitude and spatial distribution of spinal cord stress and strain during a whiplash injury. Spinal canal stenosis of 6 mm was associated with consistent elevation of spinal cord stress and strain above SCI thresholds at 2.6 m/s.
+
+Citation: Harinathan B, et al. Effect of Cervical Stenosis and Rate of Impact on Risk of Spinal Cord Injury During Whiplash Injury. Effect of Cervical Stenosis and Rate of Impact on Risk of Spinal Cord Injury During Whiplash Injury. 2023; 48:1208-1215. doi: 10.1097/BRS.0000000000004759
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37341525/

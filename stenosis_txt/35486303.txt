@@ -1,0 +1,11 @@
+PMID: 35486303
+Title: Stretched reconstruction based on 2D freehand ultrasound for peripheral artery imaging.
+
+Abstract: PURPOSE: Endovascular revascularization is becoming the established first-line treatment of peripheral artery disease (PAD). Ultrasound (US) imaging is used pre-operatively to make the first diagnosis and is often followed by a CT angiography (CTA). US provides a non-invasive and non-ionizing method for the visualization of arteries and lesion(s). This paper proposes to generate a 3D stretched reconstruction of the femoral artery from a sequence of 2D US B-mode frames.
+METHODS: The proposed method is solely image-based. A Mask-RCNN is used to segment the femoral artery on the 2D US frames. In-plane registration is achieved by aligning the artery segmentation masks. Subsequently, a convolutional neural network (CNN) predicts the out-of-plane translation. After processing all input frames and re-sampling the volume according to the vessel's centerline, the whole femoral artery can be visualized on a single slice of the resulting stretched view.
+RESULTS: 111 tracked US sequences of the left or right femoral arteries have been acquired on 18 healthy volunteers. fivefold cross-validation was used to validate our method and achieve an absolute mean error of 0.28 ± 0.28 mm and a median drift error of 8.98%.
+CONCLUSION: This study demonstrates the feasibility of freehand US stretched reconstruction following a deep learning strategy for imaging the femoral artery. Stretched views are generated and can give rich diagnosis information in the pre-operative planning of PAD procedures. This visualization could replace traditional 3D imaging in the pre-operative planning process, and during the pre-operative diagnosis phase, to identify, locate, and size stenosis/thrombosis lesions.
+
+Citation: Leblanc T, et al. Stretched reconstruction based on 2D freehand ultrasound for peripheral artery imaging. Stretched reconstruction based on 2D freehand ultrasound for peripheral artery imaging. 2022; 17:1281-1288. doi: 10.1007/s11548-022-02636-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35486303/

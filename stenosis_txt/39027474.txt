@@ -1,0 +1,11 @@
+PMID: 39027474
+Title: TG/HDL-C ratio is positively associated with risk and severity of CHD among NAFLD patients: a case control study.
+
+Abstract: OBJECTIVE: This study aimed to explore the association between the triglyceride to high-density lipoprotein cholesterol (TG/HDL-C) ratio and the risk and severity of CHD among NAFLD patients.
+METHODS: This retrospective study included 278 patients with NAFLD and chest pain. The TG/HDL-C ratio was calculated and coronary angiography performed. All individuals were divided into NAFLD + CHD and NAFLD groups. The severity of coronary artery stenosis is quantified using the Gensini score based on angiographic results. In NAFLD patients, the association between the TG/HDL-C ratio and the risk and severity of CHD was explored.
+RESULTS: CHD was detected in 139 of 278 patients. Compared to NAFLD group, multivariate logistic regression showed that TG/HDL-C ratio was a risk factor for CHD among NAFLD patients after adjustment for confounding factors with the odds ratio (OR 1.791, 95% CI 1.344-2.386, P<0.001). Further analysis using multivariate logistic regression based on tertiles revealed that, after adjusting for confounding factors, compared to the T1 group, the risk of CHD in the T2 group was 2.17-fold higher (OR, 2.17; 95% CI, 1.07-4.38; P = 0.031). Similarly, the risk of CHD in the T3 group increased by 2.84-fold (OR, 2.84; 95% CI, 1.36-5.94; P = 0.005). The multifactor linear regression analysis showed each 1-unit increase in TG/HDL-C ratio in the NAFLD + CHD group was associated with a 7.75-point increase in Gensini score (β=7.75, 95% CI 5.35-10.15, P<0.001).
+CONCLUSION: The TG/HDL-C ratio was positively correlated with CHD risk and reflected coronary atherosclerosis severity in NAFLD patients.
+
+Citation: Cheng B, et al. TG/HDL-C ratio is positively associated with risk and severity of CHD among NAFLD patients: a case control study. TG/HDL-C ratio is positively associated with risk and severity of CHD among NAFLD patients: a case control study. 2024; 15:1383489. doi: 10.3389/fendo.2024.1383489
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39027474/

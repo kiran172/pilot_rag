@@ -1,0 +1,12 @@
+PMID: 38479966
+Title: The Impact of Cerebral Embolic Protection Devices on Characteristics and Outcomes of Stroke Complicating TAVR.
+
+Abstract: BACKGROUND: Acute ischemic stroke remains a serious complication of transcatheter aortic valve replacement (TAVR). Cerebral embolic protection devices (CEPD) were developed to mitigate the risk of acute ischemic stroke complicating TAVR (AISCT). However, the existing body of evidence does not clearly support CEPD efficacy in AISCT prevention.
+OBJECTIVES: In a cohort of patients with AISCT, we aimed to compare the characteristics and outcomes of patients who have had unprotected TAVR (CEPD-) vs CEPD-protected TAVR (CEPD+).
+METHODS: Data were derived from an international multicenter registry focusing on AISCT. We included all patients who experienced ischemic stroke within 72 hours of TAVR. Stroke severity was assessed using the National Institutes of Health Stroke Scale (NIHSS). Primary outcomes were neurologic disability status according to the modified Rankin Score at 30 days, and 6-month all-cause death. Propensity score matched analysis was used to control for differences between groups.
+RESULTS: In 18,725 TAVR procedures, 416 AISCT (2.2%) within 72 hours were documented, of which 376 were in the CEPD- TAVR group and 40 in the CEPD+ TAVR group. Although the middle cerebral artery stroke rate was similar in both groups (29.7% CEPD- vs 33.3% CEPD+; P = 0.71), AISCT in the CEPD+ group was characterized by a lower rate of internal carotid artery occlusion (0% vs 4.7%) and higher rate of vertebrobasilar system strokes (15.4% vs 5.7%; P = 0.04). AISCT was severe (NIHSS ≥15) in 21.6% CEPD- and 23.3% CEPD+ AISCT (P = 0.20). Disabling stroke rates (modified Rankin Score >1 at 30 days) were 47.3% vs 42.5% (P = 0.62), and 6-month mortality was 31.3% vs 23.3% (P = 0.61), in the CEPD- and CEPD+ groups, respectively. In the propensity score matched cohort, disabling stroke rates were 56.5% vs 41.6% (P = 0.16), and 6-month mortality was 33% vs 19.5% (P = 0.35), in the CEPD- and CEPD+ groups, respectively.
+CONCLUSIONS: In a large cohort of patients with AISCT, the use of CEPD had little effect on stroke distribution, severity, and outcomes.
+
+Citation: Levi A, et al. The Impact of Cerebral Embolic Protection Devices on Characteristics and Outcomes of Stroke Complicating TAVR. The Impact of Cerebral Embolic Protection Devices on Characteristics and Outcomes of Stroke Complicating TAVR. 2024; 17:666-677. doi: 10.1016/j.jcin.2023.12.033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38479966/

@@ -1,0 +1,11 @@
+PMID: 39518316
+Title: Basilar Stenosis Reduces the Impact of Successful Recanalization on Outcome in Basilar Artery Occlusion.
+
+Abstract: BACKGROUND: Evidence from randomized controlled trials has shown a benefit for endovascular treatment in basilar artery occlusion. We aimed to show the effect of the recanalization result on outcome and determine the role of underlying basilar stenosis in a real-world setting.
+METHODS: A retrospective, single-center study of patients who received endovascular treatment for basilar artery occlusion from March 2008 to June 2022 was conducted. Clinical and outcome characteristics were gathered. Multivariate logistic regression analysis was performed to predict poor outcomes (post-treatment mRS 5 or 6). MRS shift analysis was performed.
+RESULTS: This study includes 210 patients (mean age, 71.4 years +/- 13.3 [standard deviation]; 124 men). The variables age (OR, 1.04; 95% CI: 1.01-1.08; p = 0.014), underlying basilar stenosis (OR: 4.86; 95% CI: 2.15-10.98; p &lt; 0.001), admission NHISS (OR: 1.09; 95% CI: 1.04-1.13; p &lt; 0.001), and TICI (OR: 1.89; 95% CI: 1.09-3.25; p = 0.022) independently predicted a poor outcome. Patients with occlusions due to underlying stenosis had significantly worse recanalization rates. Median post-treatment mRS in all patients with embolic occlusion was 4; IQR, 2-5 (only patients with embolic occlusion: mTICI 0-2a, median: 5 [IQR, 4-5.5]; mTICI 2b, median: 4 [IQR, 2.5-6]; mTICI 3, median: 3 [IQR, 1-5]; p = 0.037). Median post-treatment mRS in all patients with occlusions due to underlying stenosis was 5; IQR, 4-6 (only patients with embolic occlusions: mTICI 0-2a, median: 6 [IQR, 4.5-6]; mTICI 2b, median: 6 [IQR, 4.25-6]; mTICI 3, median: 5 [IQR, 3.5-5.25]; p = 0.059).
+CONCLUSIONS: Successful recanalization is essential for preventing poor outcomes in basilar artery occlusion. Underlying basilar stenosis diminishes the effect of successful recanalization on the overall outcome.
+
+Citation: Hernandez Petzsche MR, et al. Basilar Stenosis Reduces the Impact of Successful Recanalization on Outcome in Basilar Artery Occlusion. Basilar Stenosis Reduces the Impact of Successful Recanalization on Outcome in Basilar Artery Occlusion. 2024; 14:(unknown pages). doi: 10.3390/diagnostics14212348
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39518316/

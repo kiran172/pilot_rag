@@ -1,0 +1,11 @@
+PMID: 35679388
+Title: Automatic Detection of Aortic Valve Events Using Deep Neural Networks on Cardiac Signals From Epicardially Placed Accelerometer.
+
+Abstract: BACKGROUND: Miniaturized accelerometers incorporated in pacing leads attached to the myocardium, are used to monitor cardiac function. For this purpose functional indices must be extracted from the acceleration signal. A method that automatically detects the time of aortic valve opening (AVO) and aortic valve closure (AVC) will be helpful for such extraction. We tested if deep learning can be used to detect these valve events from epicardially attached accelerometers, using high fidelity pressure measurements to establish ground truth for these valve events.
+METHOD: A deep neural network consisting of a CNN, an RNN, and a multi-head attention module was trained and tested on 130 recordings from 19 canines and 159 recordings from 27 porcines covering different interventions. Due to limited data, nested cross-validation was used to assess the accuracy of the method.
+RESULT: The correct detection rates were 98.9% and 97.1% for AVO and AVC in canines and 98.2% and 96.7% in porcines when defining a correct detection as a prediction closer than 40 ms to the ground truth. The incorrect detection rates were 0.7% and 2.3% for AVO and AVC in canines and 1.1% and 2.3% in porcines. The mean absolute error between correct detections and their ground truth was 8.4 ms and 7.2 ms for AVO and AVC in canines, and 8.9 ms and 10.1 ms in porcines.
+CONCLUSION: Deep neural networks can be used on signals from epicardially attached accelerometers for robust and accurate detection of the opening and closing of the aortic valve.
+
+Citation: Wajdan A, et al. Automatic Detection of Aortic Valve Events Using Deep Neural Networks on Cardiac Signals From Epicardially Placed Accelerometer. Automatic Detection of Aortic Valve Events Using Deep Neural Networks on Cardiac Signals From Epicardially Placed Accelerometer. 2022; 26:4450-4461. doi: 10.1109/JBHI.2022.3181148
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35679388/

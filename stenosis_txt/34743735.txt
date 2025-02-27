@@ -1,0 +1,11 @@
+PMID: 34743735
+Title: Dual-layer spectral detector CT to study the correlation between pericoronary adipose tissue and coronary artery stenosis.
+
+Abstract: BACKGROUND: To investigate the relationship of pericoronary adipose tissue (PCAT) with coronary artery stenosis using dual-layer spectral detector CT (SDCT).
+METHODS: 99 patients were retrospectively divided into normal group, non-significant stenosis group and significant stenosis group (n = 33 in each group). Fat attenuation index (FAI) 40kev, spectral curve slope (λHU), effective atomic number (Eff-Z) and epicardial fat volume (EFV) were quantitatively evaluated of the narrowest part of the lesion tissue by SDCT.
+RESULTS: There were significant differences in PCAT parameters on SDCT (FAI40keV, λHU, Eff-Z and EFV) among the three groups (P < 0.05). FAI40keV, λHU, and Eff-Z in significant stenosis group were statistically different from those in normal group and non-significant stenosis group (P < 0.05). FAI40keV, λHU, and Eff-Z in non-significant stenosis group were statistically different from significant stenosis group (P < 0.05). EFV in normal group were significantly lower in non-significant stenosis group and significant stenosis group (P < 0.001). Univariate and multivariate logistic regression analyses identified FAI40keV (OR = 1.50, 95%CI 1.01 to 1.09) and λHU (OR = 6.81, 95%CI 1.87 to 24.86) as independent predictors of significant stenosis. FAI40keV and λHU had quite good discrimination, with an AUC of 0.84 and 0.80 respectively.
+CONCLUSION: FAI40keV, λHU, and Eff-Z on SDCT in significant stenosis group were significantly different from normal and non-significant stenosis group while EFV in normal group were significantly different from non-significant stenosis group and significant stenosis group. FAI40kev and λHU were risk factors for significant stenosis.
+
+Citation: Zhu X, et al. Dual-layer spectral detector CT to study the correlation between pericoronary adipose tissue and coronary artery stenosis. Dual-layer spectral detector CT to study the correlation between pericoronary adipose tissue and coronary artery stenosis. 2021; 16:325. doi: 10.1186/s13019-021-01709-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34743735/

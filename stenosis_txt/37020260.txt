@@ -1,0 +1,11 @@
+PMID: 37020260
+Title: Efficacy and safety of catheter ablation for atrial fibrillation in patients with history of cancer.
+
+Abstract: BACKGROUND: Though the incidence of atrial fibrillation (AF) is increased in patients with cancer, the effectiveness of catheter ablation (CA) for AF in patients with cancer is not well studied.
+METHODS: We conducted a retrospective cohort study of patients who underwent CA for AF. Patients with a history of cancer within 5-years prior to, or those with an exposure to anthracyclines and/or thoracic radiation at any time prior to the index ablation were compared to patients without a history of cancer who underwent AF ablation. The primary outcome was freedom from AF [with or without anti-arrhythmic drugs (AADs), or need for repeat CA at 12-months post-ablation]. Secondary endpoints included freedom from AF at 12 months post-ablation with AADs and without AADs. Safety endpoints included bleeding, pulmonary vein stenosis, stroke, and cardiac tamponade. Multivariable regression analysis was performed to identify independent risk predictors of the primary outcome.
+RESULTS: Among 502 patients included in the study, 251 (50%) had a history of cancer. Freedom from AF at 12 months did not differ between patients with and without cancer (83.3% vs 72.5%, p 0.28). The need for repeat ablation was also similar between groups (20.7% vs 27.5%, p 0.29). Multivariable regression analysis did not identify a history of cancer or cancer-related therapy as independent predictors of recurrent AF after ablation. There was no difference in safety endpoints between groups.
+CONCLUSION: CA is a safe and effective treatment for AF in patients with a history of cancer and those with exposure to potentially cardiotoxic therapy.
+
+Citation: Ganatra S, et al. Efficacy and safety of catheter ablation for atrial fibrillation in patients with history of cancer. Efficacy and safety of catheter ablation for atrial fibrillation in patients with history of cancer. 2023; 9:19. doi: 10.1186/s40959-023-00171-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37020260/

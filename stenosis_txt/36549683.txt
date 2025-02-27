@@ -1,0 +1,11 @@
+PMID: 36549683
+Title: Coronary calcium score in the initial evaluation of suspected coronary artery disease.
+
+Abstract: OBJECTIVE: We evaluated coronary artery calcium (CAC) scoring as an initial diagnostic tool in outpatients and in patients presenting at the emergency department due to suspected coronary artery disease (CAD).
+METHODS: 10 857 patients underwent CAC scoring and coronary CT angiography (CCTA) at Haukeland University Hospital in Norway during 2013-2020. Based on CCTA, obstructive CAD was defined as at least one coronary stenosis ≥50%. High-risk CAD included obstructive stenoses of the left main stem, the proximal left ascending artery or affecting all three major vascular territories with at least one proximal segment involved.
+RESULTS: Median age was 58 years and 49.5% were women. The overall prevalence of CAC=0 was 45.0%. Among those with CAC=0, 1.8% had obstructive CAD and 0.6% had high-risk CAD on CCTA. Overall, the sensitivity, specificity, positive predictive value and negative predictive value (NPV) of CAC=0 for obstructive CAD were 95.3%, 53.4%, 30.0% and 98.2%, respectively. However, among patients <45 years of age, although the NPV was high at 98.9%, the sensitivity of CAC=0 for obstructive CAD was only 82.3%.
+CONCLUSIONS: In symptomatic patients, CAC=0 correctly ruled out obstructive CAD and high-risk CAD in 98.2% and 99.4% of cases. This large registry-based cross-sectional study supports the incorporation of CAC testing in the early triage of patients with chest pain and as a gatekeeper to further cardiac testing. However, a full CCTA may be needed for safely ruling out obstructive CAD in the youngest patients (<45 years of age).
+
+Citation: Pedersen ER, et al. Coronary calcium score in the initial evaluation of suspected coronary artery disease. Coronary calcium score in the initial evaluation of suspected coronary artery disease. 2023; 109:695-701. doi: 10.1136/heartjnl-2022-321682
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36549683/

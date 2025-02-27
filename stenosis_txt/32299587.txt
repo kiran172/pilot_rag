@@ -1,0 +1,12 @@
+PMID: 32299587
+Title: Transvalvular Flow Rate Determines Prognostic Value of Aortic Valve Area in Aortic Stenosis.
+
+Abstract: BACKGROUND: Aortic valve area (AVA) ≤1.0 cm2 is a defining characteristic of severe aortic stenosis (AS). AVA can be underestimated at low transvalvular flow rate. Yet, the impact of flow rate on prognostic value of AVA ≤1.0 cm2 is unknown and is not incorporated into AS assessment.
+OBJECTIVES: This study aimed to evaluate the effect of flow rate on prognostic value of AVA in AS.
+METHODS: In total, 1,131 patients with moderate or severe AS and complete clinical follow-up were included as part of a longitudinal database. The effect of flow rate (ratio of stroke volume to ejection time) on prognostic value of AVA ≤1.0 cm2 for time to death was evaluated, adjusting for confounders. Sensitivity analysis was performed to identify the optimal cutoff for prognostic threshold of AVA. The findings were validated in a separate external longitudinal cohort of 939 patients.
+RESULTS: Flow rate had a significant effect on prognostic value of AVA. AVA ≤1.0 cm2 was not prognostic for mortality (p = 0.15) if AVA was measured at flow rates below median (≤242 ml/s). In contrast, AVA ≤1.0 cm2 was highly prognostic for mortality (p = 0.003) if AVA was measured at flow rates above median (&gt;242 ml/s). Findings were irrespective of multivariable adjustment for age, sex, and surgical/transcatheter aortic valve replacement (as time-dependent covariates); comorbidities; medications; and echocardiographic features. AVA ≤1.0 cm2 was also not an independent predictor of mortality below median flow rate in the validation cohort. The optimal flow rate cutoff for prognostic threshold was 210 ml/s.
+CONCLUSIONS: Transvalvular flow rate determines prognostic value of AVA in AS. AVA measured at low flow rate is not a good prognostic marker and therefore not a good diagnostic marker for truly severe AS. Flow rate assessment should be incorporated into clinical diagnosis, classification, and prognosis of AS.
+
+Citation: Namasivayam M, et al. Transvalvular Flow Rate Determines Prognostic Value of Aortic Valve Area in Aortic Stenosis. Transvalvular Flow Rate Determines Prognostic Value of Aortic Valve Area in Aortic Stenosis. 2020; 75:1758-1769. doi: 10.1016/j.jacc.2020.02.046
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32299587/

@@ -1,0 +1,14 @@
+PMID: 32205703
+Title: miR-29a-5p Targets SATB2 and Regulates the SIRT1/Smad3 Deacetylation Pathway to Inhibit Thoracic Ligamentum Flavum Cell Osteogenesis.
+
+Abstract: STUDY DESIGN: Experimental analysis of the thoracic ligamentum flavum cell osteogenic differentiation process.
+OBJECTIVE: This study aimed to explore the role of miR-29a-5p and special AT-rich sequence-binding protein 2 (SATB2) in a pathological osteogenic process.
+SUMMARY OF BACKGROUND DATA: Thoracic ossification of the ligamentum flavum (TOLF) is an uncommon disease wherein ligaments within the spine undergo progressive ossification, resulting in stenosis of the spinal canal and myelopathy. MiR-29a-5p was found to be downregulated in ligament cells from ossified ligament tissue in a previous study. However, whether miR-29a-5p is involved in the process of TOLF has not been investigated.
+METHODS: The expression of miR-29a-5p in ligament tissues or in the context of TOLF osteogenic cell differentiation was measured via qRT-PCR. Alkaline phosphatase activity assay and Alizarin red staining were used to analyze cellular osteogenesis. The protein-level expression of SATB2, SIRT1, and Smad3 were measured via immunohistochemistry or western blotting. Dual luciferase reporter assays and western blotting were used to confirm that miR-29a targets SATB2.
+RESULTS: SATB2 was found to be upregulated and miR-29a-5p was downregulated in TOLF tissue. We additionally observed decreased miR-29a-5p expression during the process of TOLF osteogenic cell differentiation, and there was a marked reduction in the expression of key mediators of osteogenesis when miR-29a-5p was overexpressed. Consistent with this, when miR-29a-5p was inhibited this led to enhanced osteogenic cell differentiation of these cells. We further found miR-29a-5p to directly target and suppress the expression of SATB2. Knock-down of SATB2 was sufficient to reduce the ability of miR-29a-5p to inhibit osteogenesis, and this also led to decreased SIRT1 expression and Smad3 acetylation.
+CONCLUSION: Together our findings indicate that miR-29a-5p is able to prevent thoracic ligamentum flavum cell osteogenesis at least in part via targeting SATB2 and thereby suppressing the SIRT1/Smad3 deacetylation pathway.
+LEVEL OF EVIDENCE: N/A.
+
+Citation: Feng F, et al. miR-29a-5p Targets SATB2 and Regulates the SIRT1/Smad3 Deacetylation Pathway to Inhibit Thoracic Ligamentum Flavum Cell Osteogenesis. miR-29a-5p Targets SATB2 and Regulates the SIRT1/Smad3 Deacetylation Pathway to Inhibit Thoracic Ligamentum Flavum Cell Osteogenesis. 2020; 45:E1057-E1065. doi: 10.1097/BRS.0000000000003505
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32205703/

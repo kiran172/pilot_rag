@@ -1,0 +1,12 @@
+PMID: 36927824
+Title: Identification of Novel Genetic Markers for the Risk of Spinal Pathologies: A Genome-Wide Association Study of 2 Biobanks.
+
+Abstract: BACKGROUND: Identifying genetic risk factors for spinal disorders may lead to knowledge regarding underlying molecular mechanisms and the development of new treatments.
+METHODS: Cases of lumbar spondylolisthesis, spinal stenosis, degenerative disc disease, and pseudarthrosis after spinal fusion were identified from the UK Biobank. Controls were patients without the diagnosis. Whole-genome regressions were used to test for genetic variants potentially implicated in the occurrence of each phenotype. External validation was performed in FinnGen.
+RESULTS: A total of 389,413 participants were identified from the UK Biobank. A locus on chromosome 2 spanning GFPT1, NFU1, AAK1, and LOC124906020 was implicated in lumbar spondylolisthesis. Two loci on chromosomes 2 and 12 spanning genes GFPT1, NFU1, and PDE3A were implicated in spinal stenosis. Three loci on chromosomes 6, 10, and 15 spanning genes CHST3, LOC102723493, and SMAD3 were implicated in degenerative disc disease. Finally, 2 novel loci on chromosomes 5 and 9, with the latter corresponding to the LOC105376270 gene, were implicated in pseudarthrosis. Some of these variants associated with spinal stenosis and degenerative disc disease were also replicated in FinnGen.
+CONCLUSIONS: This study revealed nucleotide variations in select genetic loci that were potentially implicated in 4 different spinal pathologies, providing potential insights into the pathological mechanisms.
+LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.
+
+Citation: Bovonratwet P, et al. Identification of Novel Genetic Markers for the Risk of Spinal Pathologies: A Genome-Wide Association Study of 2 Biobanks. Identification of Novel Genetic Markers for the Risk of Spinal Pathologies: A Genome-Wide Association Study of 2 Biobanks. 2023; (unknown volume):(unknown pages). doi: 10.2106/JBJS.22.00872
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36927824/

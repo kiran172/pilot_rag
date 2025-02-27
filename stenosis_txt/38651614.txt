@@ -1,0 +1,11 @@
+PMID: 38651614
+Title: Risk factors for surgery in stricturing small bowel Crohn's disease: A retrospective cohort study from the GETAID pédiatrique.
+
+Abstract: OBJECTIVES: Previous studies have shown rates of surgical resection of up to 41% in stricturing pediatric Crohn's disease (CD). In this retrospective multicenter study, our aims were to identify clinical risk factors and magnetic resonance enterography (MRE) features of small bowel strictures associated with surgery.
+METHODS: Pediatric patients with symptomatic stricturing small bowel CD (defined as obstructive symptoms or proximal dilatation on MRE) confirmed by MRE between 2010 and 2020 were recruited from 12 French tertiary hospitals. Patient characteristics were compared by surgical outcome multivariable Cox regression.
+RESULTS: Fifty-six patients (61% boys) aged 12.2 ± 2.7 years at diagnosis of CD were included. Median duration of CD before diagnosis of stricture was 11.7 months (interquartile range [IQR]: 25-75: 1.2-29.9). Nineteen (34%) patients had stricturing phenotype (B2) at baseline. Treatments received  before stricture diagnosis included MODULEN-IBD (n = 31), corticosteroids (n = 35), antibiotics (n = 10), anti-TNF (n = 27), immunosuppressants (n = 28). Thirty-six patients (64%) required surgery, within 4.8 months (IQR: 25-75: 1.8-17.3) after stricture diagnosis. Parameters associated with surgical resection were antibiotic exposure before stricture diagnosis (adjusted odds ratio [aOR]: 15.62 [3.35-72.73], p = 0.0005), Crohn's disease obstructive symptoms score (CDOS) > 4 (aOR: 3.04 [1.15-8.03], p = 0.02) and dilation proximal to stricture >28 mm (aOR: 3.62 [1.17-11.20], p = 0.03).
+CONCLUSION: In this study, antibiotic treatment before stricture diagnosis, intensity of obstructive symptoms, and diameter of dilation proximal to small bowel stricture on MRE were associated with risk for surgical resection.
+
+Citation: Lacotte E, et al. Risk factors for surgery in stricturing small bowel Crohn's disease: A retrospective cohort study from the GETAID pédiatrique. Risk factors for surgery in stricturing small bowel Crohn's disease: A retrospective cohort study from the GETAID pédiatrique. 2024; 78:1261-1272. doi: 10.1002/jpn3.12224
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38651614/

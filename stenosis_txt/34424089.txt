@@ -1,0 +1,11 @@
+PMID: 34424089
+Title: Risk of Pediatric Cardiac Surgery Increased in Patients Undergoing Tracheal Surgery During the Same Hospitalization.
+
+Abstract: BACKGROUND: The impact of complex tracheal surgery (TS) on outcomes of children undergoing cardiac surgery has rarely been investigated in large national databases and could impact anticipated outcomes in those patients.
+METHODS: The Pediatric Health Information System database was reviewed from January 1, 2005 to December 31, 2014, for pediatric (<18 years) patients undergoing select cardiac surgical procedures using International Classification of Disease-9 procedural coding. Patients were divided based upon having TS (excluding tracheostomy) during the same hospitalization. Patients with tracheal and cardiac surgeries (CHS + TS) were propensity matched in a 1 : 2 fashion to patients undergoing isolated cardiac surgeries without TS (CHS) based upon cardiac procedure(s), age at surgery, gender, and discharge year. Hospital mortality and other outcomes were compared between the 2 matched groups.
+RESULTS: The 283 CHS + TS patients were similar to the 566 CHS patients in gender, race, age, cardiac procedures, and presence of chromosomal abnormalities, all P &gt; .05. Hospital mortality was 13.8% (n = 39) for CHS + TS and 5.8% (n = 33) for CHS patients with an unadjusted 2.58 hazard ratio of death (95% confidence interval: 1.59-4.20; P &lt; .001). CHS + TS was also associated with a greater length of stay (63 days vs 12 days), a higher cost per hospitalization ($322 402 vs $80 273), and more readmissions (64.3% [n = 182] vs 41.8% [n = 243]), all P &lt; .001.
+CONCLUSIONS: Patients undergoing cardiac and TS in the same hospitalization are at greater risk of in-hospital mortality than patients undergoing similar cardiac surgeries alone and incur higher resource utilization thereafter. The increased risk of mortality is currently underappreciated, but it is important to recognize when discussing expectations with families and providers.
+
+Citation: Riggs KW, et al. Risk of Pediatric Cardiac Surgery Increased in Patients Undergoing Tracheal Surgery During the Same Hospitalization. Risk of Pediatric Cardiac Surgery Increased in Patients Undergoing Tracheal Surgery During the Same Hospitalization. 2021; 12:730-736. doi: 10.1177/21501351211037624
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34424089/

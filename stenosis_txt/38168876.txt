@@ -1,0 +1,17 @@
+PMID: 38168876
+Title: Cerebral Blood Flow Patterns in Patients With Low-Flow Carotid Artery Stenosis, a 4D-PCMRI Assessment.
+
+Abstract: BACKGROUND: Compromised cerebral blood flow can contribute to future ischemic events in patients with symptomatic carotid artery disease. However, there is limited knowledge of the effects on cerebral hemodynamics resulting from a reduced internal carotid artery (ICA) blood flow rate (BFR).
+PURPOSE: Investigate how reduced ICA-BFR, relates to BFR in the cerebral arteries.
+STUDY TYPE: Prospective.
+SUBJECTS: Thirty-eight patients, age 72 ± 6 years (11 female).
+FIELD STRENGTH/SEQUENCE: 3-Tesla, four-dimensional phase-contrast magnetic resonance imaging (4D-PCMRI).
+ASSESSMENT: Patients with ischemic stroke or transient ischemic attack were evaluated regarding the degree of stenosis. 4D-PCMRI was used to measure cerebral BFR in 38 patients with symptomatic carotid stenosis (≥50%). BFR in the cerebral arteries was assessed in two subgroups based on symptomatic ICA-BFR: reduced ICA-flow (<160 mL/minutes) and preserved ICA-flow (≥160 mL/minutes). BFR laterality was defined as a difference in the paired ipsilateral-contralateral arteries.
+STATISTICAL TESTS: Patients were grouped based on ICA-BFR (reduced vs. preserved). Statistical tests (independent sample t-test/paired t-test) were used to compare groups and hemispheres. Significance was determined at P < 0.05.
+RESULTS: The degree of stenosis was not significantly different, 80% (95% confidence interval [CI] = 73%-87%) in the reduced ICA-flow vs. 72% (CI = 66%-76%) in the preserved ICA-flow; P = 0.09. In the reduced ICA-flow group, a significantly reduced BFR was found in the ipsilateral middle cerebral artery and anterior cerebral artery (A1), while significantly increased in the contralateral A1. Retrograde BFR was found in the posterior communicating artery and ophthalmic artery. Significant BFR laterality was present in all paired arteries in the reduced ICA-flow group, contrasting the preserved ICA-flow group (P = 0.14-0.93).
+DATA CONCLUSIONS: 4D-PCMRI revealed compromised cerebral BFR due to carotid stenosis, not possible to detect by solely analyzing the degree of stenosis. In patients with reduced ICA-flow, collaterals were not sufficient to maintain symmetrical BFR distribution to the two hemispheres.
+EVIDENCE LEVEL: 2 TECHNICAL EFFICACY: Stage 3.
+
+Citation: Zarrinkoob L, et al. Cerebral Blood Flow Patterns in Patients With Low-Flow Carotid Artery Stenosis, a 4D-PCMRI Assessment. Cerebral Blood Flow Patterns in Patients With Low-Flow Carotid Artery Stenosis, a 4D-PCMRI Assessment. 2024; 60:1521-1529. doi: 10.1002/jmri.29216
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38168876/

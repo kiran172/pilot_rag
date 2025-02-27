@@ -1,0 +1,11 @@
+PMID: 32059970
+Title: The Role of JAK-STAT Signaling Activation in Hypertrophied Ligamentum Flavum.
+
+Abstract: BACKGROUND: Although previous studies have reported the expression of JAK1, STAT3, and phosphorylated STAT3 in hypertrophied ligamentum flavum (LF), the role of the Janus kinase-signal transducer and activator of transcription (JAK/STAT) signaling pathway in hypertrophied LF has not been fully elucidated. The aim of this study was to identify the important JAK/STAT gene expression patterns of the 3 main receptors involved in this pathway: interferon (IFN)-γ receptor (IFN-γR), IFN-α receptor (IFNAR), and interleukin (IL)-6 receptor (IL-6R).
+METHODS: The human LF specimens were obtained from 28 patients who underwent lumbar spine surgery for either degenerative lumbar canal stenosis (DLCS) (n = 28) or lumbar disc herniation (LDH) (n = 20). In this design, patients with LDH served as the control group. The degree of fibrosis was demonstrated by Masson's trichrome staining. The location and expression profiling of the JAK/STAT pathway were analyzed by quantitative real-time polymerase chain reaction and Western blotting. The thickness of the LF was measured with axial T1-weighted magnetic resonance imaging.
+RESULTS: The most severe fibrotic changes were on the dorsal side of the LF. IL-6 and IFN-I expression levels were significantly increased on the dorsal side of the LF. While expression levels of IL-6R and IFNAR on the dural and dorsal side were significantly higher in the DLCS samples, IFN-γR and endothelial epidermal growth factor receptor in LF samples showed a significant increase only on the dorsal side. JAK/STAT genes were significantly expressed, especially on the dorsal side.
+CONCLUSIONS: Our data suggest that IFNAR- and IL-6R-dependent JAK/STAT signaling pathways may be significant targets in drug development strategies for the treatment of LF hypertrophy.
+
+Citation: Delen E, et al. The Role of JAK-STAT Signaling Activation in Hypertrophied Ligamentum Flavum. The Role of JAK-STAT Signaling Activation in Hypertrophied Ligamentum Flavum. 2020; 137:e506-e516. doi: 10.1016/j.wneu.2020.02.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32059970/

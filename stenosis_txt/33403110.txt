@@ -1,0 +1,11 @@
+PMID: 33403110
+Title: Inter-reader agreement of 18F-FDG PET/CT for the quantification of carotid artery plaque inflammation.
+
+Abstract: INTRODUCTION: A significant proportion of ischemic strokes are caused by emboli from unstable atherosclerotic carotid artery plaques. Inflammation is a key feature of plaque instability. Positron emission tomography/computed tomography (PET/CT) with 2-deoxy-2-(18F)-fluoro-D-glucose (18F-FDG) is a promising technique to quantify plaque inflammation, but a consensus on the methodology has not been established. High inter-reader agreement is essential if 18F-FDG PET/CT is to be used as a clinical tool for the assessment of unstable plaques and stroke risk.
+METHODS: We assessed the inter-reader variability of different methods for quantification of 18F-FDG uptake in 43 patients with carotid artery stenosis ≥70%. Two independent readers delineated the plaque and collected maximum standardized uptake value (SUV<sub>max</sub>) from all axial PET slices containing the atherosclerotic plaque.
+RESULTS: Uptake values with and without background correction were calculated and intraclass correlation coefficients were highest for uncorrected uptake values (0.97-0.98) followed by those background corrected by subtraction (0.89-0.94) and lowest for those background corrected by division (0.74-0.79).
+CONCLUSION: Quantification methods without background correction have the highest inter-reader agreement for 18F-FDG PET of carotid artery plaque inflammation. The use of the single highest uptake value (max SUV<sub>max</sub>) from the plaque will facilitate the method's clinical utility in stroke prevention.
+
+Citation: Johnsrud K, et al. Inter-reader agreement of 18F-FDG PET/CT for the quantification of carotid artery plaque inflammation. Inter-reader agreement of 18F-FDG PET/CT for the quantification of carotid artery plaque inflammation. 2020; 9:2048004020980941. doi: 10.1177/2048004020980941
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33403110/

@@ -1,0 +1,11 @@
+PMID: 36685295
+Title: Cost effectiveness of rivaroxaban versus warfarin among nonvalvular atrial fibrillation patients in Saudi Arabia: A Single-Center retrospective cohort study.
+
+Abstract: BACKGROUND: Rivaroxaban is a novel oral anticoagulant (NOAC) that is commonly used for stroke prevention among patients with atrial fibrillation (AF). However, its cost effectiveness in reducing the risk of hospitalization and mortality in comparison to warfarin among nonvalvular AF patients in Saudi Arabia is largely unknown.
+METHODS: This was a single-center retrospective chart review of adult patients (≥18 years) with nonvalvular AF who were treated with warfarin or rivaroxaban for at least 12 months. Patients with mitral valve stenosis were excluded from the study. Multiple logistic regression was conducted to examine the risk of hospitalization and mortality as a composite outcome, and all annual healthcare costs were captured. Inverse probability treatment weighting with bootstrapping was conducted to determine the mean costs and effectiveness rates.
+RESULTS: Two-hundred and twenty-six patients (142 on rivaroxaban and 84 on warfarin) met the inclusion criteria and were included in the analysis. Most of the patients were females (65.91 %), had diabetes (50.57 %) and hypertension (73.76 %), and with a mean age of 68.95 ± 12.55 years. No significant difference in the odds of the composite outcome for rivaroxaban versus warfarin was found (OR = 0.785, 95 % CI = [0.427-1.446], p = 0.443). Rivaroxaban resulted in a mean annual cost saving of $13,260.79 with an 87.65 % confidence level that it would be more effective than warfarin with a mean difference in effectiveness rate of 0.168 % (95 % CI [-5.210-18.36]).
+CONCLUSION: Rivaroxaban was associated with lower direct medical costs and non-inferior effectiveness among nonvalvular AF patients in comparison to warfarin.
+
+Citation: AlRuthia Y, et al. Cost effectiveness of rivaroxaban versus warfarin among nonvalvular atrial fibrillation patients in Saudi Arabia: A Single-Center retrospective cohort study. Cost effectiveness of rivaroxaban versus warfarin among nonvalvular atrial fibrillation patients in Saudi Arabia: A Single-Center retrospective cohort study. 2023; 31:119-124. doi: 10.1016/j.jsps.2022.11.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36685295/

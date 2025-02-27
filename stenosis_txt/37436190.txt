@@ -1,0 +1,12 @@
+PMID: 37436190
+Title: Comparison of different percutaneous revascularisation timing strategies in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: The optimal timing to perform percutaneous coronary interventions (PCI) in transcatheter aortic valve implantation (TAVI) patients remains unknown.
+AIMS: We sought to compare different PCI timing strategies in TAVI patients.
+METHODS: The REVASC-TAVI registry is an international registry including patients undergoing TAVI with significant, stable coronary artery disease (CAD) at preprocedural workup. In this analysis, patients scheduled to undergo PCI before, after or concomitantly with TAVI were included. The main endpoints were all-cause death and a composite of all-cause death, stroke, myocardial infarction (MI) or rehospitalisation for congestive heart failure (CHF) at 2 years. Outcomes were adjusted using the inverse probability treatment weighting (IPTW) method.
+RESULTS: A total of 1,603 patients were included. PCI was performed before, after or concomitantly with TAVI in 65.6% (n=1,052), 9.8% (n=157) or 24.6% (n=394), respectively. At 2 years, all-cause death was significantly lower in patients undergoing PCI after TAVI as compared with PCI before or concomitantly with TAVI (6.8% vs 20.1% vs 20.6%; p<0.001). Likewise, the composite endpoint was significantly lower in patients undergoing PCI after TAVI as compared with PCI before or concomitantly with TAVI (17.4% vs 30.4% vs 30.0%; p=0.003). Results were confirmed at landmark analyses considering events from 0 to 30 days and from 31 to 720 days.
+CONCLUSIONS: In patients with severe aortic stenosis and stable coronary artery disease scheduled for TAVI, performance of PCI after TAVI seems to be associated with improved 2-year clinical outcomes compared with other revascularisation timing strategies. These results need to be confirmed in randomised clinical trials.
+
+Citation: Rheude T, et al. Comparison of different percutaneous revascularisation timing strategies in patients undergoing transcatheter aortic valve implantation. Comparison of different percutaneous revascularisation timing strategies in patients undergoing transcatheter aortic valve implantation. 2023; 19:589-599. doi: 10.4244/EIJ-D-23-00186
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37436190/

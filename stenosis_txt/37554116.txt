@@ -1,0 +1,11 @@
+PMID: 37554116
+Title: Impact of postprocedural minimum lumen area on clinical outcome after femoropopliteal drug-eluting stent implantation.
+
+Abstract: INTRODUCTION: Although favorable results of fluoropolymer-based drug-eluting stent (FP-DES) treatment for femoropopliteal lesions have been reported, it is unclear whether minimal lumen area (MLA) after FP-DES implantation affects clinical outcomes. This study aimed to reveal the association between intravascular ultrasound (IVUS)-evaluated MLA and the 1-year risk of restenosis and aneurysmal degeneration after FP-DES implantation for femoropopliteal lesions.
+METHODS: A subanalysis of the CAPSICUM (Contemporary outcomes After Paclitaxel-eluting peripheral Stent implantation for symptomatic lower limb IsChemia with sUperficial feMoral or proximal popliteal lesion) study analyzed 718 limbs in 686 patients with available IVUS-evaluated MLA data. The association of MLA with the 1-year risk of restenosis and aneurysmal degeneration was analyzed using the generalized propensity score method.
+RESULTS: The 1-year incidence rate of restenosis was estimated to be 8.8% (95% CI, 6.1% to 12.5%) for the upper quartile of MLA (21.1 mm2) versus 14.3% (95% CI, 10.7% to 18.7%) for the lower quartile of MLA (15.2 mm2), with an odds ratio of 0.58 (95% CI, 0.36 to 0.93; p = 0.024), whereas the 1-year incidence rate of aneurysmal degeneration was 23.8% (95% CI, 19.5% to 28.8%) for the upper quartile versus 16.8% (95% CI, 12.6% to 22.0%) for the lower quartile, with an odds ratio of 1.55 (95% CI, 1.04 to 2.32; p = 0.031).
+CONCLUSION: A large MLA after FP-DES implantation for femoropopliteal lesions was associated with decreased restenosis risk but increased aneurysmal degeneration risk. These findings suggest that MLA is a valuable predictor of clinical outcomes.
+
+Citation: Haraguchi T, et al. Impact of postprocedural minimum lumen area on clinical outcome after femoropopliteal drug-eluting stent implantation. Impact of postprocedural minimum lumen area on clinical outcome after femoropopliteal drug-eluting stent implantation. 2023; 28:412-421. doi: 10.1177/1358863X231182742
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37554116/

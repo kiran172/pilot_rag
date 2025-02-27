@@ -1,0 +1,12 @@
+PMID: 37182864
+Title: The Potential Role of Selection Bias in the Association Between Coronary Atherosclerosis and Cognitive Impairment.
+
+Abstract: BACKGROUND: Coronary atherosclerosis assessed in vivo was associated with cognitive impairment; however, conflicting findings have been reported in autopsy samples.
+OBJECTIVE: Our aims were to assess the association between atherosclerotic stenosis in the coronary arteries and cognitive impairment and to investigate the possibility of selection bias in an autopsy study.
+METHODS: Coronary arteries were collected, and the largest luminal stenosis was measured. Sociodemographic, clinical, and cognitive information were reported by a reliable next-of-kin. The association was tested using logistic and linear regressions adjusted for sociodemographic and clinical variables. We restricted the sample to individuals that were born in 1935 or earlier and stratified the analysis by cause of death to investigate the role of selection bias.
+RESULTS: In 253 participants (mean age = 78.0±8.5 years old, 48% male), stenosis was not associated with cognitive impairment (OR = 0.85, 95% CI = 0.69; 1.06, p = 0.15). In individuals who were born before 1936 in the absence of cardiovascular disease as the cause of death, greater stenosis was associated with cognitive impairment (OR = 4.02, 95% CI = 1.39; 11.6, p = 0.01). On the other hand, this association was not present among those born in 1935 or earlier who died of cardiovascular diseases (OR = 0.83, 95% CI = 0.60; 1.16, p = 0.28).
+CONCLUSION: We found that higher coronary stenosis was associated with cognitive impairment only in individuals born in 1935 or earlier and who had not died from cardiovascular diseases. Selection bias may be an important issue when investigating risk factors for chronic degenerative diseases in older individuals using autopsy samples.
+
+Citation: Yahagi-Estevam M, et al. The Potential Role of Selection Bias in the Association Between Coronary Atherosclerosis and Cognitive Impairment. The Potential Role of Selection Bias in the Association Between Coronary Atherosclerosis and Cognitive Impairment. 2023; 93:1307-1316. doi: 10.3233/JAD-220820
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37182864/

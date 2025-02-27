@@ -1,0 +1,11 @@
+PMID: 37707400
+Title: Using Ultrahigh b -Value Diffusion-Weighted Imaging to Noninvasively Assess Renal Fibrosis in a Rabbit Model of Renal Artery Stenosis.
+
+Abstract: OBJECTIVE: This study aimed to investigate the feasibility of diffusion-weighted imaging with ultrahigh b values ( ub DWI) for the evaluation of renal fibrosis (RF) induced by renal artery stenosis (RAS) in a rabbit model.
+METHODS: Thirty-two rabbits underwent left RAS operation, whereas 8 rabbits received sham surgery. All rabbits underwent ub DWI ( b = 0-4500 s/mm 2 ). The standard apparent diffusion coefficient (ADC st ), molecular diffusion coefficient ( D ), perfusion fraction ( f ), perfusion-related diffusion coefficient ( D *) and ultrahigh apparent diffusion coefficient (ADC uh ) were longitudinally assessed before operation and at weeks 2, 4, and 6 after operation. The degree of interstitial fibrosis and the expression of aquaporin (AQP) 1 and AQP2 were determined through pathological examination.
+RESULTS: In the stenotic kidney, the ADC st , D , f , and ADC uh values of the renal parenchyma significantly decreased compared with those at baseline (all P < 0.05), whereas the D * values significantly increased after RAS induction ( P < 0.05). The ADC st , D , D *, and f were weakly to moderately correlated with interstitial fibrosis as well as with the expression of AQP1 and AQP2. Furthermore, the ADC uh negatively correlated with interstitial fibrosis ( ρ = -0.782, P < 0.001) and positively correlated with AQP1 and AQP2 expression ( ρ = 0.794, P < 0.001, and ρ = 0.789, P < 0.001, respectively).
+CONCLUSIONS: Diffusion-weighted imaging with ultrahigh b values shows the potential for noninvasive assessment of the progression of RF in rabbits with unilateral RAS. The ADC uh derived from ub DWI could reflect the expression of AQPs in RF.
+
+Citation: Zhang Z, et al. Using Ultrahigh b -Value Diffusion-Weighted Imaging to Noninvasively Assess Renal Fibrosis in a Rabbit Model of Renal Artery Stenosis. Using Ultrahigh b -Value Diffusion-Weighted Imaging to Noninvasively Assess Renal Fibrosis in a Rabbit Model of Renal Artery Stenosis. 2023; 47:713-720. doi: 10.1097/RCT.0000000000001487
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37707400/

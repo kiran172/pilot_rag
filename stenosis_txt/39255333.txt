@@ -1,0 +1,12 @@
+PMID: 39255333
+Title: Elucidating the hemodynamic impact of residual stenosis post-carotid artery stenting: A numerical study.
+
+Abstract: BACKGROUND: Residual stenosis (RS) and hemodynamics demonstrate a significant correlation with postoperative in-stent restenosis/thrombosis following carotid artery stenting (CAS).
+PURPOSE: This study endeavors to elucidate the potential associations between RS and adverse postoperative hemodynamic factors.
+METHODS: This study utilized 46 patient-specific carotid artery models post-stenting, which were categorized into two groups based on the presence of RS: the normal group (N, n = 23) and the RS group (RS, n = 23). A comparative analysis was conducted to evaluate the discrepancies in geometry and adverse hemodynamic parameters, alongside investigating the potential correlation between hemodynamic and geometric parameters.
+RESULTS: The results reveal that a higher reflux flow volume is discernible in the RS group during low-velocity phases of the cardiac cycle, concomitant with an augmented extent of areas exposed to oscillatory shear stress and extended particle residence time. Moreover, the adverse hemodynamic parameters exhibit a positive correlation with the degree of stent expansion, stent length in the common carotid artery (CCA), and the distal slope of the RS.
+CONCLUSION: The distal slope and tortuosity of RS significantly influence the development of adverse hemodynamic conditions post-stenting, exacerbating the hemodynamic environment near the stenosis. Interestingly, while an extended stent length in the internal carotid artery (ICA) region improves hemodynamics by reducing flow disturbance, a longer stent in the CCA significantly worsens these conditions. Hence, it is prudent to analyze the characteristics of the local lesion regions to optimize the strategy for stent implantation.
+
+Citation: Zhang X, et al. Elucidating the hemodynamic impact of residual stenosis post-carotid artery stenting: A numerical study. Elucidating the hemodynamic impact of residual stenosis post-carotid artery stenting: A numerical study. 2024; (unknown volume):(unknown pages). doi: 10.1002/mp.17386
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39255333/

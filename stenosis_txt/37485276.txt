@@ -1,0 +1,11 @@
+PMID: 37485276
+Title: Radiomics and artificial neural networks modelling for identification of high-risk carotid plaques.
+
+Abstract: OBJECTIVE: In this study, we aimed to investigate the classification of symptomatic plaques by evaluating the models generated via two different approaches, a radiomics-based machine learning (ML) approach, and an end-to-end learning approach which utilized deep learning (DL) techniques with several representative model frameworks.
+METHODS: We collected high-resolution magnetic resonance imaging (HRMRI) data from 104 patients with carotid artery stenosis, who were diagnosed with either symptomatic plaques (SPs) or asymptomatic plaques (ASPs), in two medical centers. 74 patients were diagnosed with SPs and 30 patients were ASPs. Sampling Perfection with Application-optimized Contrasts (SPACE) by using different flip angle Evolutions was used for MRI imaging. Repeated stratified five-fold cross-validation was used to evaluate the accuracy and receiver operating characteristic (ROC) of the trained classifier. The two proposed approaches were investigated to train the models separately. The difference in the model performance of the two proposed methods was quantitatively evaluated to find a better model to differentiate between SPs and ASPs.
+RESULTS: 3D-SE-Densenet-121 model showed the best performance among all prediction models (AUC, accuracy, precision, sensitivity, and F1-score of 0.9300, 0.9308, 0.9008, 0.8588, and 0.8614, respectively), which were 0.0689, 0.1119, 0.1043, 0.0805, and 0.1089 higher than the best radiomics-based ML model (MLP). Decision curve analysis showed that the 3D-SE-Densenet-121 model delivered more net benefit than the best radiomics-based ML model (MLP) with a wider threshold probability.
+CONCLUSION: The DL models were able to accurately differentiate between symptomatic and asymptomatic carotid plaques with limited data, which outperformed radiomics-based ML models in identifying symptomatic plaques.
+
+Citation: Gui C, et al. Radiomics and artificial neural networks modelling for identification of high-risk carotid plaques. Radiomics and artificial neural networks modelling for identification of high-risk carotid plaques. 2023; 10:1173769. doi: 10.3389/fcvm.2023.1173769
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37485276/

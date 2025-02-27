@@ -1,0 +1,11 @@
+PMID: 34583689
+Title: Effect of guidewire insertion in fractional flow reserve procedure for real geometry using computational fluid dynamics.
+
+Abstract: BACKGROUND: Coronary artery disease is an abnormal contraction of the heart supply blood vessel. It limits the oxygenated blood flow to the heart. Thus, diagnosing its severity helps physicians to select the appropriate treatment plan. Fractional flow reserve (FFR) is the most accurate method to pinpoint the stenosis severity. However, inserting the guidewire across stenosis may cause a false overestimation of severity.
+METHODS: To estimate the errors due to guidewire insertion, reconstructed three-dimensional coronary artery geometry from a patient-specific scan is used. A comprehensive three-dimensional blood flow model is developed. Blood is considered non-Newtonian and the flow is pulsatile. The model is numerically simulated using realistic boundary conditions.
+RESULTS: The FFR value is calculated and compared with the actual flow ratio. Additionally, the ratio between pressure drop and distal dynamic pressure (CDP) is studied. The obtained results for each case are compared and analyzed with the case without a guidewire. It was found that placing the guidewire leads to overestimating the severity of moderate stenosis. It reduces the FFR value from 0.43 to 0.33 with a 23.26% error compared to 0.44 actual flow ratio and the CDP increases from 5.31 to 7.2 with a 35.6% error. FFR value in mild stenosis does not have a significant change due to placing the guidewire. The FFR value decreases from 0.83 to 0.82 compared to the 0.83 actual flow ratio.
+CONCLUSION: Consequently, physicians should consider these errors while deciding the treatment plan.
+
+Citation: Abuouf Y, et al. Effect of guidewire insertion in fractional flow reserve procedure for real geometry using computational fluid dynamics. Effect of guidewire insertion in fractional flow reserve procedure for real geometry using computational fluid dynamics. 2021; 20:95. doi: 10.1186/s12938-021-00935-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34583689/

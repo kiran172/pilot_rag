@@ -1,0 +1,12 @@
+PMID: 37313990
+Title: Quantitative flow ratio as a continuous predictor of myocardial infarction.
+
+Abstract: BACKGROUND: The quantitative flow ratio (QFR) identifies functionally ischaemic lesions that may benefit more from percutaneous coronary intervention (PCI) than from medical therapy.
+AIMS: This study investigated the association between QFR and myocardial infarction (MI) as affected by PCI versus medical therapy.
+METHODS: All vessels requiring measurement (reference diameter ≥2.5 mm and existence of at least one stenotic lesion with diameter stenosis of 50-90%) in the FAVOR III China (5,564 vessels) and PANDA-III trials (4,471 vessels) were screened and analysed for offline QFR. The present study reported clinical outcomes on a per-vessel level. Interaction between vessel treatment and QFR as a continuous variable was evaluated for the threshold of 2-year MI estimated by Cox proportional hazards model.
+RESULTS: Compared with medical therapy at 2 years, PCI reduced the MI risk in vessels with a QFR ≤0.80 (3.0% vs 4.6%) but increased the MI risk in vessels with a QFR>0.80 (3.6% vs 1.2%). Additionally, continuous QFR showed an inverse association with spontaneous MI (hazard ratio [HR] 0.89, 95% confidence interval [CI]: 0.79-0.99; p=0.04) that was reduced by PCI compared to medical therapy (HR 0.26, 95% CI: 0.17-0.40; p<0.0001). The interaction indicated a net benefit for PCI over medical therapy to reduce total MI beginning at QFR ≤0.64.
+CONCLUSIONS: The present study demonstrated a continuous, inverse relationship between the QFR value of a vessel and its subsequent risk for MI, and PCI, compared to medical therapy, reduced this risk beginning at a QFR value of 0.64. These novel findings provide physicians with an angiographic tool for optimising vessel selection for PCI.
+
+Citation: Guan C, et al. Quantitative flow ratio as a continuous predictor of myocardial infarction. Quantitative flow ratio as a continuous predictor of myocardial infarction. 2023; 19:e374-e382. doi: 10.4244/EIJ-D-23-00026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37313990/

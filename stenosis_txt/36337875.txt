@@ -1,0 +1,11 @@
+PMID: 36337875
+Title: Hemodynamic evaluation of endarterectomy and stenting treatments for carotid web.
+
+Abstract: BACKGROUND AND PURPOSE: A carotid web is a thin, shelf-like luminal protrusion in the internal carotid artery that might cause carotid stenosis and stroke by inducing disturbed flow patterns, thrombosis, and abnormal biomechanical stimulus to the endothelial cells. This study simulated and evaluated how the two main treatments (endarterectomy and stenting) influence hemodynamic environments in the carotid artery and distal carotid siphon arteries, aiming to provide more references for the selection of clinical treatment.
+MATERIALS AND METHODS: The carotid web, endarterectomy, and stenting models were reconstructed based on CT images. The blood flow simulations were conducted, and critical parameters related to thrombosis formation and artery remodeling, including swirling strength, wall shear stress (WSS), vortex Q-criterion, and oscillating shear index (OSI), were analyzed.
+RESULTS: In the model of the carotid web, obvious recirculation formed distal to the web, accompanied by lower velocity, lower WSS, higher relative resident time (RRT), and higher Q value. While in both two treatment models, the velocity increased and the Q value and RRT decreased at the carotid bifurcation. In addition, both treatments provide more kinetic energy to the distal carotid siphon artery, especially the stenting model.
+CONCLUSION: The carotid web can significantly influence the flow environments in the carotid artery. Both endarterectomy and stenting treatments could significantly diminish the side effects of the web and are feasible choices for web patients in terms of hemodynamics. Besides, the treatments for the carotid web would also influence the flow patterns at the distal carotid siphon, especially for the stenting treatment. But more innovational designs are needed to make the minimally invasive stenting treatment more beneficial.
+
+Citation: Ren S, et al. Hemodynamic evaluation of endarterectomy and stenting treatments for carotid web. Hemodynamic evaluation of endarterectomy and stenting treatments for carotid web. 2022; 9:993037. doi: 10.3389/fcvm.2022.993037
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36337875/

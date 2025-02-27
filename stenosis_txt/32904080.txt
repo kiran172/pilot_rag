@@ -1,0 +1,11 @@
+PMID: 32904080
+Title: Diagnostic Screening for Lumbar Spinal Stenosis.
+
+Abstract: PURPOSE: To develop a self-administered diagnostic screening questionnaire for lumbar spinal stenosis (LSS) consisting of items with high content validity and to investigate the diagnostic value of the questionnaire and the items.
+PATIENTS AND METHODS: A self-reported diagnostic LSS screening questionnaire was developed based on items from the existing literature describing key symptoms of LSS. The screening questionnaire (index test) was to be tested in a cohort of patients with persistent lumbar and/or leg pain recruited from a Danish publicly funded outpatient secondary care spine clinic with clinicians performing the reference test. However, to avoid unnecessary collection of data if the screening questionnaire proved to be of limited value, a case-control design was incorporated into the cohort design including an interim analysis. Additional cases for the case-control study were recruited at two Danish publicly funded spine surgery departments. Prevalence, sensitivity, specificity and diagnostic odds ratio (OR) were calculated for each individual item, and AUC (area under the curve) was calculated to examine the performance of the full questionnaire.
+RESULTS: A 13-item Danish questionnaire was developed and tested in 153 cases and 230 controls. The interim analysis was not in favour of continuing the cohort study, and therefore, only results from the case-control study are reported. There was a positive association for all items except the presence of back pain. However, the association was only moderate with ORs up to 3.3. When testing the performance of the whole questionnaire, an AUC of 0.72 was reached with a specificity of 20% for a fixed sensitivity of 95%.
+CONCLUSION: The items were associated with LSS and therefore have some potential to identify LSS patients. However, the association was not strong enough to provide sufficient accuracy for a diagnostic tool. Additional dimensions of symptoms of LSS need identification to obtain a reliable questionnaire for screening purposes.
+
+Citation: Jensen RK, et al. Diagnostic Screening for Lumbar Spinal Stenosis. Diagnostic Screening for Lumbar Spinal Stenosis. 2020; 12:891-905. doi: 10.2147/CLEP.S263646
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32904080/

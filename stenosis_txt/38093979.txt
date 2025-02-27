@@ -1,0 +1,11 @@
+PMID: 38093979
+Title: Comparison of two RT-qPCR methods targeting BK polyomavirus microRNAs in kidney transplant recipients.
+
+Abstract: BACKGROUND: BK polyomavirus replication leads to progressive tubulointerstitial nephritis and ureteral stenosis, with a considerable risk of subsequent graft failure in kidney transplant recipients. Since specific antiviral therapies are lacking, new tools are required to enhance the biological monitoring of the infection. Viral microRNAs are promising new biomarkers, but the performance of RT-qPCR methods limits the clinical application and the validation of a standard method for quantification.
+METHODS: We compared TaqMan microRNA Assays and TaqMan Advanced miRNA Assays for bkv-miR-B1-3p and bkv-miR-B1-5p quantification in synthetic microRNA templates and in 44 urine samples belonging to 14 consecutive kidney transplant recipients with BK polyomavirus replication from Amiens University Medical Center in a 1-year span.
+RESULTS: Cycle threshold values were constantly higher with TaqMan Advanced MicroRNA Assays. TaqMan microRNA Assays showed better performance in predicting the good prognosis of BK polyomavirus nephropathy.
+CONCLUSION: Overall, TaqMan MicroRNA Assays appeared to be a more sensitive and accurate RT-qPCR method than TaqMan Advanced MicroRNA Assays to quantify bkv-miR-B1-3p and bkv-miR-B1-5p BKPyV miRNAs in patients' urine samples.
+
+Citation: Zoubir K, et al. Comparison of two RT-qPCR methods targeting BK polyomavirus microRNAs in kidney transplant recipients. Comparison of two RT-qPCR methods targeting BK polyomavirus microRNAs in kidney transplant recipients. 2023; 10:1281625. doi: 10.3389/fmed.2023.1281625
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38093979/

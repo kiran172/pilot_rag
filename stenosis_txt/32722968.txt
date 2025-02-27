@@ -1,0 +1,12 @@
+PMID: 32722968
+Title: The transluminal attenuation gradient does not add diagnostic accuracy to coronary computed tomography.
+
+Abstract: BACKGROUND: A method for improving the accuracy of coronary computed tomography angiography (CCTA) is highly sought after as it would help to avoid unnecessary invasive coronary angiographies. Measurement of the transluminal attenuation gradient (TAG) has been proposed as an alternative to other existing methods, i.e. CT perfusion and CT fractional flow reserve (FFR).
+PURPOSE: To evaluate the incremental value of three types of TAG in high-pitch spiral CCTA with invasive FFR measurements as reference.
+MATERIAL AND METHODS: TAG was measured using two semi-automatic methods and one manual method. A receiver operating characteristic (ROC) analysis was made to determine the usefulness of TAG alone as well as TAG combined with CCTA for detection of significant coronary artery stenoses defined by an invasive FFR value ≤0.80.
+RESULTS: A total of 51 coronary vessels in 37 patients were included in this retrospective study. Hemodynamically significant stenoses were found in 13 vessels according to FFR. The ROC analysis TAG alone resulted in areas under the curve (AUCs) of 0.530 and 0.520 for the semi-automatic TAG and 0.557 for the manual TAG. TAG and CCTA combined resulted in AUCs of 0.567, 0.562 for semi-automatic TAG, and 0.569 for the manual TAG.
+CONCLUSION: The results from our study showed no incremental value of TAG measured in single heartbeat CCTA in determining the severity of coronary artery stenosis degrees.
+
+Citation: Henriksson L, et al. The transluminal attenuation gradient does not add diagnostic accuracy to coronary computed tomography. The transluminal attenuation gradient does not add diagnostic accuracy to coronary computed tomography. 2021; 62:867-874. doi: 10.1177/0284185120943042
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32722968/

@@ -1,0 +1,11 @@
+PMID: 32547608
+Title: Relationship between high sensitivity C-reactive protein and angiographic severity of coronary artery disease.
+
+Abstract: BACKGROUND: Coronary artery disease (CAD) remains a leading cause of morbidity and mortality. Cytokines play a potential role in atherosclerosis pathogenesis and progression. We investigated the association between high sensitive C-reactive protein (hsCRP) and severity of CAD.
+METHODS: CAD patients were stratified according to hsCRP cut-off value into high levels hsCRP group (≥ 8.4 mg/L) and low levels hsCRP group (< 8.4 mg/L). Severity of CAD was assessed according to artery stenosis degree and the number of vessel involved. Statistical analysis was performed using Statistical Package for the Social Sciences (SPSS, version 23.0).
+RESULTS: The mean age was 60.3 ± 11.0 years. The level of hsCRP was increased and ranged from 0.2 to 1020.0 mg/L. Biochemical risk factors and severity of CAD didn't show significant differences between the two groups. In multivariate linear analysis, cardiac troponin I (cTnI) and serum amyloid A (SAA) were predictors of hsCRP. As shown in receiver operating characteristic (ROC) curve analysis performed in patients with ST-segment elevation myocardial infarction (STEMI) and compared to myonecrosis biomarkers, hsCRP (area under the curve (AUC): 0.905; 95%CI: 0.844-0.966; P &lt; 0.001) could be a powerful predictor marker in evaluating the infarct size after myocardial infarction but not better than cTnI.
+CONCLUSIONS: HsCRP levels were not associated with the severity of CAD but could be useful in the evaluation of myocardial necrosis in patients with STEMI.
+
+Citation: Bouzidi N, et al. Relationship between high sensitivity C-reactive protein and angiographic severity of coronary artery disease. Relationship between high sensitivity C-reactive protein and angiographic severity of coronary artery disease. 2020; 17:256-263. doi: 10.11909/j.issn.1671-5411.2020.05.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32547608/

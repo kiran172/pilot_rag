@@ -1,0 +1,11 @@
+PMID: 39146467
+Title: The Relationship Between Carotid Artery Stenosis and the Development of Open-Angle Glaucoma: A Long-term Cohort Study in Taiwan.
+
+Abstract: PURPOSES: To determine the relationship between carotid artery stenosis (CAS) and the development of open-angle glaucoma (OAG) in the Taiwanese population.
+METHODS: This retrospective cohort study was conducted using Chang Gung Research Database. Cox-proportional hazards model was applied to calculate the hazard ratio for OAG between CAS and the control cohort.
+RESULTS: Among 19,590 CAS patients, 17,238 had mild CAS (&lt;50%), 1,895 had moderate CAS (50-69%), and 457 had severe CAS (≥70%). The CAS cohort had a higher proportion of several comorbidities. After adjusting for comorbidities, no significant difference in OAG development was found between CAS and control cohorts. Matching for key comorbidities, no significant differences in OAG incidence were found between matched cohorts (P = .869). Subdividing the matched CAS cohort by stenosis severity: mild (&lt;50%), moderate (50-69%), and severe (≥70%), a statistically significantly lower OAG risk was observed in patients with mild CAS stenosis (HR: 1.12, 95% CI = 1.03-1.21, P = .006). Kaplan-Meier analysis revealed reduced OAG incidence in CAS patients who underwent surgical intervention, compared to the control cohort (P &lt;.001). Subgroup analysis revealed that patients in the mild CAS stenosis group, those who underwent surgical intervention exhibited a reduced OAG risk (HR: 0.29, 95% CI = 0.15-0.58, P = .001).
+CONCLUSIONS: No statistically significant differences in OAG risk were observed between patients with CAS and the control cohort. The severity of CAS appears to influence OAG risk, with surgical intervention potentially offering protective effects, particularly in patients with mild CAS stenosis (<50%), suggesting that enhanced ocular perfusion post-surgery may act as a protective factor against OAG development.
+
+Citation: Lin WY, et al. The Relationship Between Carotid Artery Stenosis and the Development of Open-Angle Glaucoma: A Long-term Cohort Study in Taiwan. The Relationship Between Carotid Artery Stenosis and the Development of Open-Angle Glaucoma: A Long-term Cohort Study in Taiwan. 2024; (unknown volume):1-9. doi: 10.1080/09286586.2024.2371467
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39146467/

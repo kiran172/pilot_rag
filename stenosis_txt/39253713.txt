@@ -1,0 +1,12 @@
+PMID: 39253713
+Title: Renin-Angiotensin System Inhibition in Patients With Myocardial Injury Complicating Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Periprocedural myocardial injury impacts clinical outcome after transcatheter aortic valve replacement (TAVR). The optimal medical management strategy for TAVR-related periprocedural myocardial injury has not been established.
+OBJECTIVES: The authors aimed to investigate the prognostic association of renin-angiotensin system (RAS) inhibitors in patients with periprocedural myocardial injury after TAVR.
+METHODS: In a prospective TAVR registry, patients were retrospectively stratified according to Valve Academic Research Consortium (VARC)-3 periprocedural myocardial injury and RAS inhibitor prescription after TAVR. The main outcomes of interest were prevalence of myocardial injury and cardiovascular death. Logistic and Cox proportional hazards regression were used to analyze outcomes of interest.
+RESULTS: Among 2,083 eligible patients undergoing TAVR between August 2007 and June 2023, 283 patients (13.8%) developed VARC-3 periprocedural myocardial injury. RAS inhibitors were prescribed in 197 patients (70%) with periprocedural myocardial injury and in 1,251 patients (71.2%) without injury. Compared with patients without periprocedural myocardial injury, patients with myocardial injury had an increased risk of cardiovascular death at 1 year (HR<sub>adjusted:</sub> 2.08; 95% CI: 1.39-3.11). The use of RAS inhibitors after TAVR was associated with a reduced risk of cardiovascular death in patients with and without periprocedural myocardial injury (HR<sub>adjusted:</sub> 0.46; 95% CI: 0.22-0.95, and HR<sub>adjusted:</sub> 0.44; 95% CI: 0.30-0.65, respectively).
+CONCLUSIONS: One out of 7 patients undergoing TAVR experienced periprocedural myocardial injury. VARC-3 periprocedural myocardial injury was associated with a 2-fold increased risk of cardiovascular death at 1 year after TAVR. The favorable association of RAS inhibitor prescription was consistent in patients with and without periprocedural myocardial injury. (SwissTAVI Registry; NCT01368250).
+
+Citation: Tomii D, et al. Renin-Angiotensin System Inhibition in Patients With Myocardial Injury Complicating Transcatheter Aortic Valve Replacement. Renin-Angiotensin System Inhibition in Patients With Myocardial Injury Complicating Transcatheter Aortic Valve Replacement. 2024; 3:101212. doi: 10.1016/j.jacadv.2024.101212
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39253713/

@@ -1,0 +1,12 @@
+PMID: 32771574
+Title: Identifying Cardiac Amyloid in Aortic Stenosis: ECV Quantification by CT in TAVR Patients.
+
+Abstract: OBJECTIVES: The purpose of this study was to validate computed tomography measured ECV (ECV<sub>CT</sub>) as part of routine evaluation for the detection of cardiac amyloid in patients with aortic stenosis (AS)-amyloid.
+BACKGROUND: AS-amyloid affects 1 in 7 elderly patients referred for transcatheter aortic valve replacement (TAVR). Bone scintigraphy with exclusion of a plasma cell dyscrasia can diagnose transthyretin-related cardiac amyloid noninvasively, for which novel treatments are emerging. Amyloid interstitial expansion increases the myocardial extracellular volume (ECV).
+METHODS: Patients with severe AS underwent bone scintigraphy (Perugini grade 0, negative; Perugini grades 1 to 3, increasingly positive) and routine TAVR evaluation CT imaging with ECV<sub>CT</sub> using 3- and 5-min post-contrast acquisitions. Twenty non-AS control patients also had ECV<sub>CT</sub> performed using the 5-min post-contrast acquisition.
+RESULTS: A total of 109 patients (43% male; mean age 86 ± 5 years) with severe AS and 20 control subjects were recruited. Sixteen (15%) had AS-amyloid on bone scintigraphy (grade 1, n = 5; grade 2, n = 11). ECV<sub>CT</sub> was 32 ± 3%, 34 ± 4%, and 43 ± 6% in Perugini grades 0, 1, and 2, respectively (p &lt; 0.001 for trend) with control subjects lower than lone AS (28 ± 2%; p &lt; 0.001). ECV<sub>CT</sub> accuracy for AS-amyloid detection versus lone AS was 0.87 (0.95 for 99mTc-3,3-diphosphono-1,2-propanodicarboxylic acid Perugini grade 2 only), outperforming conventional electrocardiogram and echocardiography parameters. One composite parameter, the voltage/mass ratio, had utility (similar AUC of 0.87 for any cardiac amyloid detection), although in one-third of patients, this could not be calculated due to bundle branch block or ventricular paced rhythm.
+CONCLUSIONS: ECV<sub>CT</sub> during routine CT TAVR evaluation can reliably detect AS-amyloid, and the measured ECV<sub>CT</sub> tracks the degree of infiltration. Another measure of interstitial expansion, the voltage/mass ratio, also performed well.
+
+Citation: Scully PR, et al. Identifying Cardiac Amyloid in Aortic Stenosis: ECV Quantification by CT in TAVR Patients. Identifying Cardiac Amyloid in Aortic Stenosis: ECV Quantification by CT in TAVR Patients. 2020; 13:2177-2189. doi: 10.1016/j.jcmg.2020.05.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32771574/

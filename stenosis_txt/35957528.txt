@@ -1,0 +1,10 @@
+PMID: 35957528
+Title: Feature-tracking computed tomography left atrial strain and long-term survival after transcatheter aortic valve implantation.
+
+Abstract: AIMS: Aortic stenosis (AS) induces left atrial (LA) remodelling through the increase of left ventricular (LV) filling pressures. Peak LA longitudinal strain (PALS), reflecting LA reservoir function, has been proposed as a prognostic marker in patients with AS. Feature-tracking (FT) multi-detector computed tomography (MDCT) allows assessment of LA strain from MDCT data. The aim of this study is to investigate the association between PALS using FT MDCT and survival in patients with severe AS who underwent transcatheter aortic valve implantation (TAVI).
+METHODS AND RESULTS: A total of 376 patients (mean age 80 ± 7 years, 53% male) who underwent MDCT before TAVI and had suitable data for assessment of PALS using dedicated FT software, were included. The patients were classified into four groups according to PALS quartiles; PALS > 19.3% (Q1, highest reservoir function), 15.0-19.3% (Q2), 9.1-14.9% (Q3), and ≤9.0% (Q4, lowest reservoir function). The primary outcome was all-cause mortality. During a median of 45 (22-68) months follow-up, 148 patients (39%) died. On multivariable Cox regression analysis, PALS was independently associated with all-cause mortality [hazard ratio (HR): 1.044, 95% confidence interval (CI): 1.012-1.076, P = 0.006]. Compared with patients in Q1, patients in Q3 and Q4 were associated with higher risk of mortality after TAVI [HR: 2.262 (95% CI: 1.335-3.832), P = 0.002 for Q3, HR: 3.116 (95% CI: 1.864-5.210), P < 0.001 for Q4].
+CONCLUSION: PALS assessed with FT MDCT is independently associated with all-cause mortality after TAVI.
+
+Citation: Hirasawa K, et al. Feature-tracking computed tomography left atrial strain and long-term survival after transcatheter aortic valve implantation. Feature-tracking computed tomography left atrial strain and long-term survival after transcatheter aortic valve implantation. 2023; 24:327-335. doi: 10.1093/ehjci/jeac157
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35957528/

@@ -1,0 +1,11 @@
+PMID: 37525821
+Title: Deep Learning Algorithm Trained on Cervical Magnetic Resonance Imaging to Predict Outcomes of Transforaminal Epidural Steroid Injection for Radicular Pain from Cervical Foraminal Stenosis.
+
+Abstract: PURPOSE: A convolutional neural network (CNN) is one of the representative deep learning (DL) model that is especially useful for image recognition and classification. In the current study, using cervical axial magnetic resonance imaging (MRI) data obtained prior to transforaminal epidural steroid injection (TFESI), we developed a CNN model to predict the therapeutic outcome of cervical TFESI in patients with cervical foraminal stenosis.
+PATIENTS AND METHODS: We retrospectively recruited 288 patients with cervical foraminal stenosis who received cervical TFESI due to cervical radicular pain. We collected single T2-axial spine MR image obtained from each patient. The image showing narrowest width of the neural foramen in the level at which TFESI was performed was used for input data. A "favor outcome" was defined as a ≥ 50% reduction in the NRS score at 2 months post-TFESI vs the pretreatment NRS score. A "poor outcome" was defined as a < 50% reduction in the NRS score at 2 months post-TFESI vs the pretreatment score.
+RESULTS: The area under the curve of our developed model for predicting therapeutic outcome of cervical TFESI in patients with cervical spinal stenosis was 0.801.
+CONCLUSION: We showed that a CNN model trained using cervical axial MRI could be helpful for predicting therapeutic outcome after cervical TFESI in patients with cervical foraminal stenosis.
+
+Citation: Wang MX, et al. Deep Learning Algorithm Trained on Cervical Magnetic Resonance Imaging to Predict Outcomes of Transforaminal Epidural Steroid Injection for Radicular Pain from Cervical Foraminal Stenosis. Deep Learning Algorithm Trained on Cervical Magnetic Resonance Imaging to Predict Outcomes of Transforaminal Epidural Steroid Injection for Radicular Pain from Cervical Foraminal Stenosis. 2023; 16:2587-2594. doi: 10.2147/JPR.S409841
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37525821/

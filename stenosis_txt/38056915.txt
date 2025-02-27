@@ -1,0 +1,11 @@
+PMID: 38056915
+Title: External validation of novel clinical likelihood models to predict obstructive coronary artery disease and prognosis.
+
+Abstract: OBJECTIVES: The risk factor-weighted and coronary artery calcium score-weighted clinical likelihood (RF-CL and CACS-CL, respectively) models improve discrimination of patients with suspected obstructive coronary artery disease (CAD). However, external validation is warranted.Compared to the 2019 European Society of Cardiology pretest probability (ESC-PTP) model, the aims were (1) to validate the RF-CL and CACS-CL models for identification of obstructive CAD and revascularisation, and (2) to investigate prognosis by CL thresholds.
+METHODS: Stable de novo chest pain patients (n=1585) undergoing coronary CT angiography (CTA) were investigated. Obstructive CAD was defined as >70% diameter stenosis in a major epicardial vessel on CTA. Decision of revascularisation within 120 days was based on onsite judgement. The endpoint was non-fatal myocardial infarction or cardiovascular death. The ESC-PTP was calculated based on age, sex and symptom typicality, the RF-CL additionally included number of risk factors, and the CACS-CL incorporated CACS to the RF-CL.
+RESULTS: Obstructive CAD was present in 386/1585 (24.4%) patients, and 91/1585 (5.7%) patients underwent revascularisation. Both the RF-CL and CACS-CL classified more patients to very-low CL (<5%) of obstructive CAD compared with the ESC-PTP model (41.4% and 52.2% vs 19.2%, p<0.001). In very-low CL patients, obstructive CAD and revascularisation prevalences (≤6% and <1%) remained similar combined with low event risk during 5.0 years follow-up.
+CONCLUSION: In an external validation cohort, the novel RF-CL and CACS-CL models improve categorisation to a very-low CL group with preserved prevalences of obstructive CAD, revascularisation and favourable prognosis.
+
+Citation: Rasmussen LD, et al. External validation of novel clinical likelihood models to predict obstructive coronary artery disease and prognosis. External validation of novel clinical likelihood models to predict obstructive coronary artery disease and prognosis. 2023; 10:(unknown pages). doi: 10.1136/openhrt-2023-002457
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38056915/

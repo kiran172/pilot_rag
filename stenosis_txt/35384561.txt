@@ -1,0 +1,11 @@
+PMID: 35384561
+Title: Evaluation of T2-FLAIR combined with ASL on the collateral circulation of acute ischemic stroke.
+
+Abstract: PURPOSE: Using magnetic resonance fluid-attenuated inversion recovery sequence (FLAIR) combined with three-dimensional arterial spin labeling (3D-ASL) cerebral perfusion imaging to explore the effect of collateral circulation on acute ischemic stroke (AIS).
+METHODS: Eighty patients with AIS who had severe stenosis or occlusion at the end of the unilateral middle cerebral artery (MCA) were collected for the study on admission. Arterial transit artifact (ATA) was observed and graded for hyperintense vessel sign (HVS). CBF values were measured and recorded in the ischemic penumbra (IP) area and contralateral to it. The National Institutes of Health Stroke Scale (NIHSS) scores on the day of admission and discharge were recorded, and reductions in relative cerebral blood flow (rCBF) and discharge NIHSS scores were calculated.
+RESULTS: The rCBF and decrease in NIHSS scores were statistically significant (p < 0.05) between all levels of HVS, the groups of ATA, and the combination of the two. Correlation analysis results indicate that both HVS and ATA are positively correlated with rCBF and NIHSS score degradation. The receiver operating characteristic (ROC) curves showed that the sensitivity of HVS and ATA for evaluating cerebral blood flow (CBF) changes was 92.0% and 76.0%, and the specificity was 41.8% and 52.7%, respectively. The combined sensitivity of the two was 68.0%, and the specificity was 65.5%.
+CONCLUSION: The T2-FLAIR sequence combined with ASL can more accurately assess the blood flow changes in the IP area, the open state of collateral circulation, and the clinical prognosis.
+
+Citation: Zhang M, et al. Evaluation of T2-FLAIR combined with ASL on the collateral circulation of acute ischemic stroke. Evaluation of T2-FLAIR combined with ASL on the collateral circulation of acute ischemic stroke. 2022; 43:4891-4900. doi: 10.1007/s10072-022-06042-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35384561/

@@ -1,0 +1,8 @@
+PMID: 36372464
+Title: Intravascular Imaging-Derived Physiology-Basic Principles and Clinical Application.
+
+Abstract: Intravascular imaging-derived physiology is emerging as a promising tool allowing simultaneous anatomic and functional lesion assessment. Recently, several optical coherence tomography-based and intravascular ultrasound-based fractional flow reserve (FFR) indices have been developed that compute FFR through computational fluid dynamics, fluid dynamics equations, or machine-learning methods. This review aims to provide an overview of the currently available intravascular imaging-based physiologic indices, their diagnostic performance, and clinical application.
+
+Citation: Ziedses des Plantes AC, et al. Intravascular Imaging-Derived Physiology-Basic Principles and Clinical Application. Intravascular Imaging-Derived Physiology-Basic Principles and Clinical Application. 2023; 12:83-94. doi: 10.1016/j.iccl.2022.09.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36372464/

@@ -1,0 +1,11 @@
+PMID: 34525217
+Title: Wall shear stress mapping for human femoral artery based on ultrafast ultrasound vector Doppler estimations.
+
+Abstract: PURPOSE: Wall shear stress (WSS), a type of friction exerted on the artery wall by flowing blood, is considered a crucial factor in atherosclerotic plaque development. Currently, achieving a reliable WSS mapping of an artery noninvasively by using existing imaging modalities is still challenging. In this study, a WSS mapping based on vector Doppler flow velocity estimation was proposed to measure the dynamic WSS on the human femoral artery.
+METHODS: Because ultrafast ultrasound imaging was used here, flow-enhanced imaging was also performed to observe the moving blood flow condition. The performance of WSS mapping was verified using both straight (8 mm in diameter) and stenosis (70% of stenosis) phantoms under a pulsatile flow condition. A human study was conducted from five healthy volunteers.
+RESULTS: Experimental results demonstrated that the WSS estimation was close to the standard value that was obtained from maximum velocity estimation in straight phantom experiments. In a stenosis phantom experiment, a low WSS region was observed at a site downstream of an obstruction, which is a high-risk area for plaque formation. Dynamic WSS mapping was accomplished in measurement in the femoral artery bifurcation. In measurements, the time-averaged WSS of the common femoral artery, superficial femoral artery, and deep femoral artery was 0.52± 0.19, 0.44 ± 0.21, and 0.29 ± 0.16 Pa, respectively, for the anterior wall and 0.29 ± 0.11, 0.54 ± 0.24, and 0.23 ± 0.10 Pa, respectively, for the posterior wall.
+CONCLUSIONS: All results indicated that WSS mapping has the potential to be a useful tool for vessel duplex scanning in the future.
+
+Citation: Wang IC, et al. Wall shear stress mapping for human femoral artery based on ultrafast ultrasound vector Doppler estimations. Wall shear stress mapping for human femoral artery based on ultrafast ultrasound vector Doppler estimations. 2021; 48:6755-6764. doi: 10.1002/mp.15230
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34525217/

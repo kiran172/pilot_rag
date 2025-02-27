@@ -1,0 +1,13 @@
+PMID: 36031098
+Title: Clinical risk factors associated with the development of adjacent segment disease in patients undergoing ACDF: A systematic review.
+
+Abstract: BACKGROUND CONTEXT: Cervical fusion for degenerative disorders carries a known risk of adjacent segment disease (ASD), a complication that often requires surgical intervention to relieve symptoms. Proposed risk factors for development of ASD include both clinical and radiographic patient characteristics. However, the true impact of these risk factors is less understood due to limitations in sample sizes and loss to follow-up in individual studies.
+PURPOSE: To review and critically examine current literature on the clinical risk factors associated with development of ASD in the cervical spine following ACDF.
+STUDY DESIGN: Systematic Review and Meta-Analysis.
+METHODS: We systematically reviewed the literature in December 2019 according to the PRISMA guidelines. Methodological quality of included papers and quality of evidence were evaluated according to MINORS and GRADE framework. Meta-analysis was performed to compute the odds ratio(OR)with corresponding 95% confidence interval(CI)for dichotomous data, and mean difference(MD) with 95% CI for continuous variables.
+RESULTS: 6,850 records were obtained using database query. Title/abstract screening resulted in 19 articles for full review, from which 10 papers met the criteria for analysis. There were no significant differences in gender (OR 0.99, 95% CI 0.75-1.30), BMI (MD -0.09, 95% CI -0.46 to 0.29), smoking (OR 1.13, 95% CI 0.80-1.59), alcohol (OR 1.07, 95% CI 0.70-1.64), diabetes (OR 0.85, 95% CI 0.56-1.31), number of segments fused (OR 0.86, 95% CI 0.64-1.16), and preoperative JOA (MD -0.50, 95% CI -1.04 to 0.04). Age (MD 3.21, 95% CI 2.00-4.42), congenital/developmental stenosis (OR 1.94, 95% CI 1.06-3.56), preoperative NDI (MD 4.18, 95% CI 2.11 to 6.26), preoperative VAS (neck) (MD 0.54 95% CI 0.09-0.99), and preoperative VAS (arm) (MD 0.98, 95% CI 0.43-1.34) were found to be statistically significant risk factors.
+CONCLUSION: Patients with congenital stenosis, advanced age, and high preoperative NDI are at increased risk of developing ASD.
+
+Citation: Broida SE, et al. Clinical risk factors associated with the development of adjacent segment disease in patients undergoing ACDF: A systematic review. Clinical risk factors associated with the development of adjacent segment disease in patients undergoing ACDF: A systematic review. 2023; 23:146-156. doi: 10.1016/j.spinee.2022.08.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36031098/

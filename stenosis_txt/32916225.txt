@@ -1,0 +1,11 @@
+PMID: 32916225
+Title: A pairwise meta-analytic comparison of aortic valve area determined by planimetric versus hemodynamic methods in aortic stenosis.
+
+Abstract: BACKGROUND: Aortic valve area (AVA) is commonly determined from 2-dimensional transthoracic echocardiography (2D TTE) by the continuity equation; however, this method relies on geometric assumptions of the left ventricular outflow tract which may not hold true. This study compared mean differences and correlations for AVA by planimetric (2-dimensional transesophageal echocardiography [2D TEE], 3-dimensional transesophageal echocardiography [3D TEE], 3-dimensional transthoracic echocardiography [3D TTE], multi-detector computed tomography [MDCT], and magnetic resonance imaging [MRI]) with hemodynamic methods (2D TTE and catheterization) using pairwise meta-analysis.
+METHOD: Ovid MEDLINE®, Ovid EMBASE, and The Cochrane Library (Wiley) were queried for studies comparing AVA measurements assessed by planimetric and hemodynamic techniques. Pairwise meta-analysis for mean differences (using random effect model) and for correlation coefficients (r) were performed.
+RESULTS: Forty-five studies (3014 patients) were included. Mean differences between planimetric and hemodynamic techniques were 0.12 cm2 (95%CI 0.10-0.15) for AVA (pooled r = 0.84; 95%CI 0.76-0.90); 1.36cm2 (95%CI 1.03-1.69) for left ventricular outflow tract area; and 0.13 cm (95%CI 0.07-0.20) for annular diameter (pooled r = 0.76; 95% CI 0.64-0.94); 0.67 cm2 (95%CI 0.59-0.76) for annular area (pooled r = 0.74; 95%CI 0.55-0.86).
+CONCLUSIONS: Planimetric techniques slightly, but significantly, overestimate AVA when compared to hemodynamic techniques.
+
+Citation: Rong LQ, et al. A pairwise meta-analytic comparison of aortic valve area determined by planimetric versus hemodynamic methods in aortic stenosis. A pairwise meta-analytic comparison of aortic valve area determined by planimetric versus hemodynamic methods in aortic stenosis. 2021; 322:77-85. doi: 10.1016/j.ijcard.2020.09.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32916225/

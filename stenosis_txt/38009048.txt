@@ -1,0 +1,8 @@
+PMID: 38009048
+Title: Hemodynamic analysis of unilateral and bilateral renal artery stenosis based on fluid-structure interaction.
+
+Abstract: Renal artery stenosis (RAS) hypertension is a common type of secondary hypertension. This paper aimed to explore how unilateral renal artery stenosis (Uni-RAS) and bilateral renal artery stenosis (Bi-RAS) caused renovascular hypertension with the fluid-structure interaction (FSI) method. Based on a real RAS model, 20 ideal models with different stenosis degrees were established by modifying the stenosis segment. The hemodynamic parameters at different degrees of stenosis, mass flow rate (MFR), pressure drop (PD), fractional flow reserve (FFR), oscillatory shear index (OSI), and relative residence time (RRT), were numerically calculated by the computational fluid dynamics (CFD) method. The numerical results showed that RAS caused the decrease of MFR, and the increase of PD and the proportion of high OSI and high RRT. In the case of RAS, it could not be regarded as a reference indicator for causing renovascular hypertension that the value of FFR was greater than 0.9. In addition, the results of the statistical analysis indicated that Uni-RAS and Bi-RAS were statistically different for MFR, PD and the proportion of high RRT.
+
+Citation: Liu B, et al. Hemodynamic analysis of unilateral and bilateral renal artery stenosis based on fluid-structure interaction. Hemodynamic analysis of unilateral and bilateral renal artery stenosis based on fluid-structure interaction. 2023; (unknown volume):1-12. doi: 10.1080/10255842.2023.2282949
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38009048/

@@ -1,0 +1,11 @@
+PMID: 37076891
+Title: Long non-coding RNA crnde promotes deep vein thrombosis by sequestering miR-181a-5p away from thrombogenic Pcyox1l.
+
+Abstract: BACKGROUND: Deep vein thrombosis (DVT) is an interplay of genetic and acquired risk factors, where functional interactions in lncRNA-miRNA-mRNA ceRNA networks contribute to disease pathogenesis. Based on the high-throughput transcriptome sequencing prediction, we have assessed the contribution of lncRNA Crnde/miR-181a-5p/Pcyox1l axis to thrombus formation.
+METHODS: DVT was modeled in mice by inferior vena cava stenosis, and inferior vena cava tissues were harvested for high-throughput transcriptome sequencing to screen differentially expressed lncRNAs and mRNAs. The key miRNA binding to Crnde and Pcyox1l was obtained through searching the RNAInter and mirWalk databases. The binding affinity between Crnde, miR-181a-5p, and Pcyox1l was examined by FISH, dual luciferase reporter gene, RNA pull-down, and RIP assays. Functional experiments were conducted in DVT mouse models to assess thrombus formation and inflammatory injury in inferior vena cava.
+RESULTS: It was noted that Crnde and Pcyox1l were upregulated in the blood of DVT mice. Crnde competitively bound to miR-181a-5p and inhibited miR-181a-5p expression, and Pcyox1l was the downstream target gene of miR-181a-5p. Silencing of Crnde or restoration of miR-181a-5p reduced inflammatory injury in the inferior vena cava, thus curtailing thrombus formation in mice. Ectopic expression of Pcyox1l counterweighed the inhibitory effect of Crnde silencing.
+CONCLUSIONS: Therefore, Crnde sequesters miR-181a-5p to release Pcyox1l expression via ceRNA mechanism, thus aggravating thrombus formation in DVT.
+
+Citation: He X, et al. Long non-coding RNA crnde promotes deep vein thrombosis by sequestering miR-181a-5p away from thrombogenic Pcyox1l. Long non-coding RNA crnde promotes deep vein thrombosis by sequestering miR-181a-5p away from thrombogenic Pcyox1l. 2023; 21:44. doi: 10.1186/s12959-023-00480-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37076891/

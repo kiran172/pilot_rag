@@ -1,0 +1,11 @@
+PMID: 33076730
+Title: Non-invasive determination of pressure recovery by cardiac MRI and echocardiography in patients with severe aortic stenosis: short and long-term outcome prediction.
+
+Abstract: OBJECTIVE: To assess the influence of pressure recovery (PR)-corrected haemodynamic parameters on outcome in patients with aortic stenosis.
+METHODS: Aortic stenosis severity parameters were corrected for PR (increase in static pressure due to decreasing dynamic pressure), assessed using transthoracic echocardiography (TTE) or cardiac magnetic resonance imaging (CMR), in patients with aortic stenosis. PR, indexed PR (iPR) and energy loss index (ELI) were determined. Factors that predicted all-cause mortality, and 9-month or 10-year New York Heart Association classification ≥2 were assessed using Cox proportional hazards regression.
+RESULTS: A total of 25 patients, aged 68 ± 10 years, were included. PR was 17 ± 6 mmHg using CMR, and CMR correlated with TTE measurements. PR correction using CMR data reduced the AS-severity classification in 12-20% of patients, and correction using TTE data reduced the AS-severity classification in 16% of patients. Age (Wald 4.774) was a statistically significant predictor of all-cause mortality; effective orifice area (Wald 3.753) and ELI (Wald 3.772) almost reached significance.
+CONCLUSIONS: PR determination may result in significant reclassification of aortic stenosis severity and may hold value in predicting all-cause mortality.
+
+Citation: Sagmeister F, et al. Non-invasive determination of pressure recovery by cardiac MRI and echocardiography in patients with severe aortic stenosis: short and long-term outcome prediction. Non-invasive determination of pressure recovery by cardiac MRI and echocardiography in patients with severe aortic stenosis: short and long-term outcome prediction. 2020; 48:300060520954708. doi: 10.1177/0300060520954708
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33076730/

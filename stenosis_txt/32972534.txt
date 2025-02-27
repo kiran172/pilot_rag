@@ -1,0 +1,12 @@
+PMID: 32972534
+Title: Ross Procedures in Children With Previous Aortic Valve Surgery.
+
+Abstract: BACKGROUND: The Ross procedure in children is performed either as a primary operation, or a secondary operation after initial aortic valve surgery.
+OBJECTIVES: The study aimed to determine whether the outcomes of primary and secondary Ross procedure are similar.
+METHODS: All patients who underwent Ross procedure between 1995 and 2018 were included in the study. Outcomes were compared between those who had primary Ross procedure and those who had secondary Ross procedure, after aortic valve surgery. Propensity score matching for baseline characteristics and risk factors for death and reoperation was performed.
+RESULTS: Of 140 Ross procedures, 51.4% (n = 72 of 140) were primary operations, while 48.6% (n = 68 of 140) were secondary operations. Patients undergoing primary Ross procedure tended to be older (median age 8.6 years vs. 7.0 years; p = 0.10) and have a higher weight (28.9 kg vs. 19.4 kg; p = 0.07). There were no significant differences in survival or freedom from reoperation in the unmatched cohort. Propensity score matching resulted in 50 well-matched pairs. In the matched cohort, survival at 10 years was 90.0% (95% confidence interval [CI]: 77.5% to 95.7%) in the primary Ross group, compared with 96.8% (95% CI: 79.2% to 99.5%) in the secondary Ross group (p = 0.04). Freedom from autograft reoperation at 10 years was 82% (95% CI: 64.1% to 91.5%) in the primary Ross group, compared with 97.0% (95% CI: 80.4% to 99.6%) in the secondary Ross group (p = 0.03).
+CONCLUSIONS: Secondary Ross procedure performed after initial aortic valve surgery achieves superior long-term survival and freedom from autograft reoperation compared with primary Ross procedure. A strategy of initial aortic valve repair followed by delayed Ross procedure may provide better long-term survival and freedom from autograft reoperation.
+
+Citation: Buratto E, et al. Ross Procedures in Children With Previous Aortic Valve Surgery. Ross Procedures in Children With Previous Aortic Valve Surgery. 2020; 76:1564-1573. doi: 10.1016/j.jacc.2020.07.058
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32972534/

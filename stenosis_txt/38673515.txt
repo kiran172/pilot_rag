@@ -1,0 +1,11 @@
+PMID: 38673515
+Title: Virtual Hemodynamic Assessment of Coronary Lesions: The Advent of Functional Angiography and Coronary Imaging.
+
+Abstract: UNLABELLED: The fractional flow reserve (FFR) is well recognized as a gold standard measure for the estimation of functional coronary stenosis. Technological progressions in image processing have empowered the reconstruction of three-dimensional models of the coronary arteries via both non-invasive and invasive imaging modalities. The application of computational fluid dynamics (CFD) techniques to coronary 3D anatomical models allows the virtual evaluation of the hemodynamic significance of a coronary lesion with high diagnostic accuracy.
+METHODS: Search of the bibliographic database for articles published from 2011 to 2023 using the following search terms: invasive FFR and non-invasive FFR. Pooled analysis of the sensitivity and specificity, with the corresponding confidence intervals from 32% to 94%. In addition, the summary processing times were determined.
+RESULTS: In total, 24 studies published between 2011 and 2023 were included, with a total of 13,591 patients and 3345 vessels. The diagnostic accuracy of the invasive and non-invasive techniques at the per-patient level was 89% (95% CI, 85-92%) and 76% (95% CI, 61-80%), respectively, while on the per-vessel basis, it was 92% (95% CI, 82-88%) and 81% (95% CI, 75-87%), respectively.
+CONCLUSION: These opportunities providing hemodynamic information based on anatomy have given rise to a new era of functional angiography and coronary imaging. However, further validations are needed to overcome several scientific and computational challenges before these methods are applied in everyday clinical practice.
+
+Citation: Nikopoulos S, et al. Virtual Hemodynamic Assessment of Coronary Lesions: The Advent of Functional Angiography and Coronary Imaging. Virtual Hemodynamic Assessment of Coronary Lesions: The Advent of Functional Angiography and Coronary Imaging. 2024; 13:(unknown pages). doi: 10.3390/jcm13082243
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38673515/

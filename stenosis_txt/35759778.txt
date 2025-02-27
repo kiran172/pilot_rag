@@ -1,0 +1,11 @@
+PMID: 35759778
+Title: Diagnostic Value of the Iliac Vein Stenosis Percentage Combined With Indicators of Venous Reflux for Iliac Vein Compression Syndrome With Computed Tomography Venography.
+
+Abstract: OBJECTIVES: To identify a cutoff value of iliac vein stenosis in computed tomography venography (CTV) for assisting in the diagnosis of iliac vein compression syndrome (IVCS). Meanwhile, determining whether the inclusion of venous return and collateral imaging findings could further enhance the diagnostic performance.
+METHODS: We conducted a retrospective study on 264 patients suspected of IVCS who underwent both CTV and digital subtraction venography (DSV) from January 2016 to December 2020; they were assigned to either a control group (n = 101) or an IVCS group (n = 163) based on the DSV results. The narrowest anteroposterior diameter of the common iliac vein and the anteroposterior diameter of the distal end were measured to calculate the percentage of iliac vein stenosis. Receiver operating characteristic curve analysis was performed to determine the predictive accuracy of the percentage of iliac vein stenosis for IVCS and whether the inclusion of venous reflux indicators can further improve the diagnostic accuracy.
+RESULTS: With respect to the DSV results, the area under the curve was 0.797 ( P < 0.001). The best cutoff value was 46.67%, corresponding to a sensitivity of 83.44% and a specificity of 69.31% for predicting IVCS. Moreover, the combination diagnostic method had higher sensitivity and accuracy (94.48% vs 83.44% [ P = 0.01] and 84.85% vs 78.03% [ P = 0.04], respectively).
+CONCLUSIONS: The best cutoff percentage of iliac vein stenosis to diagnose IVCS was 46.67% with CTV. The sensitivity and accuracy of the combined diagnostic method were higher than those of the iliac vein stenosis ratio diagnostic method.
+
+Citation: Yin L, et al. Diagnostic Value of the Iliac Vein Stenosis Percentage Combined With Indicators of Venous Reflux for Iliac Vein Compression Syndrome With Computed Tomography Venography. Diagnostic Value of the Iliac Vein Stenosis Percentage Combined With Indicators of Venous Reflux for Iliac Vein Compression Syndrome With Computed Tomography Venography. 2022; 46:722-728. doi: 10.1097/RCT.0000000000001348
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35759778/

@@ -1,0 +1,10 @@
+PMID: 32009065
+Title: Transcatheter Aortic Valve Implantation vs. Surgical Aortic Valve Replacement for Severe Aortic Stenosis in Real-World Clinical Practice.
+
+Abstract: BACKGROUND: There are no data comparing transcatheter aortic valve implantation (TAVI) with surgical aortic valve replacement (SAVR) outcomes in real clinical practice in Japan.
+METHODS AND RESULTS: We combined 2 independent registries, the K-TAVI Registry (a 6-center prospective registry of consecutive patients who underwent TAVI) and the CURRENT AS Registry (a large, 27-center registry of 3,815 consecutive patients with severe aortic stenosis [AS]). In the K-TAVI Registry, 338 patients underwent TAVI with SAPIEN XT balloon-expandable valves from October 2013 to January 2016, whereas in the CURRENT AS Registry 237 patients with severe AS underwent SAVR from January 2003 to December 2011. Propensity score matching was conducted, with final cohort comprising 306 patients. The cumulative 2-year incidence of all-cause death and heart failure (HF) hospitalization did not differ significantly between the TAVI and SAVR groups (13.7% vs. 12.4% [P=0.81] and 7.9% vs 3.9% [P=0.13], respectively). After adjusting for residual confounders, there were no significant differences between the TAVI and SAVR groups in the risk for all-cause death (hazard ratio [HR] 0.74; 95% confidence interval [CI] 0.35-1.58; P=0.43) or HF hospitalization (HR 1.27; 95% CI 0.40-4.59; P=0.69).
+CONCLUSIONS: These findings from 2 independent Japanese registries suggest that the 2-year risk of all-cause mortality and HF does not differ significantly between TAVI and SAVR groups in real-world practice in Japan.
+
+Citation: Takeji Y, et al. Transcatheter Aortic Valve Implantation vs. Surgical Aortic Valve Replacement for Severe Aortic Stenosis in Real-World Clinical Practice. Transcatheter Aortic Valve Implantation vs. Surgical Aortic Valve Replacement for Severe Aortic Stenosis in Real-World Clinical Practice. 2020; 84:806-814. doi: 10.1253/circj.CJ-19-0951
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32009065/

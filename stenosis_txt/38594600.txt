@@ -1,0 +1,12 @@
+PMID: 38594600
+Title: Hemodynamics in nutcracker syndrome: implications for diagnosis.
+
+Abstract: BACKGROUND: Nutcracker syndrome is a disease characterized by complex symptoms, making its diagnosis challenging and often delayed, often resulting in a painful experience for the patients.
+OBJECTIVE: This study aimed to investigate the pathogenesis of nutcracker syndrome through the perspective of hemodynamics by simulating blood flow with varying compression degrees of the left renal vein.
+METHODS: 3D patient-specific vascular models of the abdominal aorta, superior mesenteric artery and left renal vein were constructed based on CT images of patients suspected of having nutcracker syndrome. A hemodynamic simulation was then conducted using computational fluid dynamics to identify the correlation between alterations in hemodynamic parameters and varying degrees of compression.
+RESULTS: The study indicated the presence of an evident gradient in velocity distribution over the left renal vein with relatively high degrees of stenosis (α ≤ 50°), with maximum velocity in the central region of the stenosis. Additionally, when the compression degree of the left renal vein increases, the pressure distribution of the left renal vein presents an increasing number of gradient layers. Furthermore, the wall shear stress shows a correlation with the variation of blood flow velocity, i.e., the increase of wall shear stress correlates with the acceleration of the blood flow velocity.
+CONCLUSIONS: Using computational fluid dynamics as a non-invasive instrument to obtain the hemodynamic characteristics of nutcracker syndrome is feasible and could provide insights into the pathological mechanisms of the nutcracker syndrome supporting clinicians in diagnosis.
+
+Citation: Tang H, et al. Hemodynamics in nutcracker syndrome: implications for diagnosis. Hemodynamics in nutcracker syndrome: implications for diagnosis. 2024; 37:1063-1075. doi: 10.1007/s40620-024-01894-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38594600/

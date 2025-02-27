@@ -1,0 +1,8 @@
+PMID: 38131477
+Title: Hydrodynamics of a multicomponent vesicle under strong confinement.
+
+Abstract: We numerically investigate the hydrodynamics and membrane dynamics of a multicomponent vesicle in two strongly confined geometries. This serves as a simplified model for red blood cells undergoing large deformations while traversing narrow constrictions. We propose a new parameterization for the bending modulus that remains positive for all lipid phase parameter values. For a multicomponent vesicle passing through a stenosis, we establish connections between various properties: lipid phase coarsening, size and flow profile of the lubrication layers, excess pressure, and the tank-treading velocity of the membrane. For a multicomponent vesicle passing through a contracting channel, we find that the lipid always phase separates so that the vesicle is stiffer in the front as it passes through the constriction. For both cases of confinement we find that lipid coarsening is arrested under strong confinement, and resumes at a high rate upon relief from extreme confinement. The results may be useful for efficient sorting lipid domains using microfluidic flows by controlled release of vesicles passing through strong confinement.
+
+Citation: Gannon A, et al. Hydrodynamics of a multicomponent vesicle under strong confinement. Hydrodynamics of a multicomponent vesicle under strong confinement. 2024; 20:599-608. doi: 10.1039/d3sm01087b
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38131477/

@@ -1,0 +1,11 @@
+PMID: 31981500
+Title: Readmission After Surgical Aortic Valve Replacement in the United States.
+
+Abstract: BACKGROUND: Reducing inpatient readmissions is a national priority for improving healthcare quality and decreasing costs. Previous studies have shown that readmissions after surgical aortic valve replacement are frequent and contribute to increased healthcare costs, yet no studies have analyzed risk factors for readmission.
+METHODS: The Nationwide Readmissions Database was used to identify adult patients undergoing surgical aortic valve replacement from 2010 to 2015. Incidence, patient characteristics, causes, resource utilization, and predictors of 30-day readmission were determined. International Classification of Diseases codes were used to capture surgical aortic valve replacement.
+RESULTS: Among 136,051 patients, 18,631 (13.7%) were readmitted within 30 days of discharge. Readmitted patients were more commonly women (47.4% vs 41.6%; P < .001) and were older (70.4 years of age vs 68.3 years of age; P < .001), with higher Elixhauser comorbidity index (5.4 vs 4.8; P < .001), rates of postoperative complications (44.0% vs 37.3%; P < .001), and greater length of stay (10.9 days vs 8.5 days; P < .001). The mean cost of 1 readmission episode was $13,426. On multivariable analysis, significant predictors of readmission were female sex, age greater than 75 years, atrial fibrillation, chronic kidney and liver disease, and lower surgical aortic valve replacement hospital volume. A total of 49.1% of readmissions were related to cardiac causes, with heart failure (13.2%) and arrhythmia (12.5%) being the most common.
+CONCLUSIONS: Using a national inpatient database, we found readmission after surgical aortic valve replacement to be common and resource-intensive. Enhanced management of comorbidities and targeted postdischarge interventions for patients at high risk of readmission may help decrease healthcare utilization.
+
+Citation: Khoury H, et al. Readmission After Surgical Aortic Valve Replacement in the United States. Readmission After Surgical Aortic Valve Replacement in the United States. 2020; 110:849-855. doi: 10.1016/j.athoracsur.2019.11.058
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31981500/

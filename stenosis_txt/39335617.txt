@@ -1,0 +1,8 @@
+PMID: 39335617
+Title: In Silico Investigation of the Interlaminar and Mechanical Fracture of Arteries with Atheromatic Plaque during Angioplasty Treatment.
+
+Abstract: The reduction in the inner diameter of the artery due to the creation of atheromatic plaque on the artery lumen, known as artery stenosis, disrupts the blood flow, leading to medical complications, which can be fatal. The angioplasty procedure aims to reopen the artery and uses a stent to keep it open. In this study, an effort is made to determine the point of the stent, the plaque and the artery during the expansion phase of the angioplasty using the in silico Finite Element Analysis method. A literature-based design was chosen for the stent geometry, whereas simplified shapes of the balloon and the two artery layers were used. Additionally, two plaque designs were the benchmark for the eight distinct artery stenosis models within the Abaqus environment. In the context of stent angioplasty simulations, failure patterns were investigated. An inverse relationship was observed between artery stenosis and pressure at the artery failure point, while an increased danger of interlaminar failure was detected in models with larger artery stenosis. This study verifies the necessity for the inclusion of interlaminar failure in future angioplasty research.
+
+Citation: Psarras S, et al. In Silico Investigation of the Interlaminar and Mechanical Fracture of Arteries with Atheromatic Plaque during Angioplasty Treatment. In Silico Investigation of the Interlaminar and Mechanical Fracture of Arteries with Atheromatic Plaque during Angioplasty Treatment. 2024; 12:(unknown pages). doi: 10.3390/biomedicines12092105
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39335617/

@@ -1,0 +1,11 @@
+PMID: 35962963
+Title: Impact of cerebral small vessel disease on symptomatic in-stent restenosis in intracranial atherosclerosis.
+
+Abstract: OBJECTIVE: Cerebral small vessel disease (CSVD) commonly coexists with intracranial atherosclerotic stenosis (ICAS). In-stent restenosis (ISR) affects the nonprocedural outcome of severe symptomatic ICAS after intracranial stenting. However, only 8%-27% of ISR patients are symptomatic, which highlights the importance of the investigation of risk factors associated with symptomatic ISR (SISR) to improve long-term functional outcome. Whether CSVD is associated with SISR remains unclear. The authors tested the hypothesis that CSVD is associated with SISR in ICAS patients after intracranial stenting.
+METHODS: This retrospective study enrolled 97 patients who were symptomatic due to severe anterior circulation ICAS treated with intracranial stenting. SISR was evaluated with clinical and vascular imaging follow-up. CSVD subtypes, including white matter hyperintensities (WMHs), enlarged perivascular spaces, and chronic lacunar infarctions, were evaluated. Cox regression analysis was used to compare the incidence of SISR between patients with and without CSVD.
+RESULTS: Of the enrolled patients, 58.8% had CSVD. The 1- and 2-year ISR rates were 24.7% and 37.1%, respectively. Of the CSVD subtypes, SISR was associated with deep WMHs (DWMHs; HR 5.39, 95% CI 1.02-28.44). DWMH Fazekas scale grades 2 (HR 85.54, 95% CI 2.42-3018.93) and 3 (HR 66.24, 95% CI 1.87-2352.32) were associated with SISR, but DWMH Fazekas grades 0 and 1 were not. The proportions of SISR in patients with DWMH Fazekas grades 0, 1, 2, and 3 were 16.7%, 33.3%, 50%, and 100%, respectively.
+CONCLUSIONS: Patients with CSVD have a higher risk of SISR than those without CSVD. Of the CSVD subtypes, patients with DWMHs are associated with SISR. The DWMH Fazekas scale score is considered to be a predictor for SISR.
+
+Citation: Fu W, et al. Impact of cerebral small vessel disease on symptomatic in-stent restenosis in intracranial atherosclerosis. Impact of cerebral small vessel disease on symptomatic in-stent restenosis in intracranial atherosclerosis. 2023; 138:750-759. doi: 10.3171/2022.6.JNS221103
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35962963/

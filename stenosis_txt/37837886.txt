@@ -1,0 +1,11 @@
+PMID: 37837886
+Title: Effect of TAVR commissural alignment on coronary flow: A fluid-structure interaction analysis.
+
+Abstract: BACKGROUND AND OBJECTIVES: Coronary obstruction is a complication that may affect patients receiving Transcatheter Aortic Valve Replacement (TAVR), with catastrophic consequences and long-term negative effects. To enable healthy coronary perfusion, it is fundamental to appropriately position the device with respect to the coronary ostia. Nonetheless, most TAVR delivery systems do not control commissural alignment to do so. Moreover, no in silico study has directly assessed the effect of commissural alignment on coronary perfusion. This work aims to evaluate the effect of TAVR commissural alignment on coronary perfusion and device performance.
+METHODS: A two-way computational fluid-structure interaction model is used to predict coronary perfusion at different commissural alignments. Moreover, in each scenario, hemodynamic biomarkers are evaluated to assess device performance.
+RESULTS: Commissural misalignment is shown to reduce the total coronary perfusion by -3.2% and the flow rate to a single coronary branch by -6.8%. It is also observed to impair valvular function by reducing the systolic geometric orifice area by -2.5% and increasing the systolic transvalvular pressure gradients by +5.3% and the diastolic leaflet stresses by +16.0%.
+CONCLUSIONS: The present TAVR patient model indicates that coronary perfusion, hemodynamic and structural performance are minimized when the prosthesis commissures are fully misaligned with the native ones. These results support the importance of enabling axial control in new TAVR delivery catheter systems and defining recommended values of commissural alignment in upcoming clinical treatment guidelines.
+
+Citation: Oks D, et al. Effect of TAVR commissural alignment on coronary flow: A fluid-structure interaction analysis. Effect of TAVR commissural alignment on coronary flow: A fluid-structure interaction analysis. 2023; 242:107818. doi: 10.1016/j.cmpb.2023.107818
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37837886/

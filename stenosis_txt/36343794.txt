@@ -1,0 +1,12 @@
+PMID: 36343794
+Title: Deep learning to detect significant coronary artery disease from plain chest radiographs AI4CAD.
+
+Abstract: BACKGROUND: The predictive role of chest radiographs in patients with suspected coronary artery disease (CAD) is underestimated and may benefit from artificial intelligence (AI) applications.
+OBJECTIVES: To train, test, and validate a deep learning (DL) solution for detecting significant CAD based on chest radiographs.
+METHODS: Data of patients referred for angina and undergoing chest radiography and coronary angiography were analysed retrospectively. A deep convolutional neural network (DCNN) was designed to detect significant CAD from posteroanterior/anteroposterior chest radiographs. The DCNN was trained for severe CAD binary classification (absence/presence). Coronary angiography reports were the ground truth. Stenosis severity of ≥70% for non-left main vessels and ≥ 50% for left main defined severe CAD.
+RESULTS: Information of 7728 patients was reviewed. Severe CAD was present in 4091 (53%). Patients were randomly divided for algorithm training (70%; n = 5454) and fine-tuning/model validation (10%; n = 773). Internal clinical validation (model testing) was performed with the remaining patients (20%; n = 1501). At binary logistic regression, DCNN prediction was the strongest severe CAD predictor (p < 0.0001; OR: 1.040; CI: 1.032-1.048). Using a high sensitivity operating cut-point, the DCNN had a sensitivity of 0.90 to detect significant CAD (specificity 0.31; AUC 0.73; 95% CI DeLong, 0.69-0.76). Adding to the AI chest radiograph interpretation angina status improved the prediction (AUC 0.77; 95% CI DeLong, 0.74-0.80).
+CONCLUSION: AI-read chest radiographs could be used to pre-test significant CAD probability in patients referred for suspected angina. Further studies are required to externally validate our algorithm, develop a clinically applicable tool, and support CAD screening in broader settings.
+
+Citation: D'Ancona G, et al. Deep learning to detect significant coronary artery disease from plain chest radiographs AI4CAD. Deep learning to detect significant coronary artery disease from plain chest radiographs AI4CAD. 2023; 370:435-441. doi: 10.1016/j.ijcard.2022.10.154
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36343794/

@@ -1,0 +1,17 @@
+PMID: 37578214
+Title: Differentiation Between the Low and High Trans-Stenotic Pressure Gradient in Patients With Idiopathic Intracranial Hypertension Using 4D Flow MRI-Derived Hemodynamic Parameters.
+
+Abstract: BACKGROUND: Trans-stenotic pressure gradient (TPG) measurement is essential for idiopathic intracranial hypertension (IIH) patients with transverse sinus (TS) stenosis. Four-D flow MRI may provide a noninvasive imaging method for differentiation of IIH patients with different TPG.
+PURPOSE: To investigate the associations between 4D flow parameters and TPG, and to evaluate the diagnostic performance of 4D flow parameters in differentiating patients with high TPG (Group<sub>HP</sub>) from low TPG (Group<sub>LP</sub>).
+STUDY TYPE: Prospective.
+POPULATION: 31 IIH patients with TS stenosis (age, 38 ± 12 years; 23 females) and 5 healthy volunteers (age, 25 ± 1 years; 2 females).
+FIELD STRENGTH/SEQUENCE: 3T, 3D phase contrast MR venography, and gradient recalled echo 4D flow sequences.
+ASSESSMENT: Scan-rescan reproducibility of 4D flow parameters were performed. The correlation between TPG and flow parameters was analyzed. The netflow and velocity difference between inflow plane, outflow plane, and the stenosis plane were calculated and compared between Group<sub>HP</sub> and Group<sub>LP</sub>.
+STATISTICAL TESTS: Pearson's correlation or Spearman's rank correlation coefficient, Independent samples t-test or Wilcoxon rank-sum test, Intra-class correlation coefficient (ICC), Bland-Altman analyses, Receiver operating characteristic curves. A P value <0.05 was considered significant.
+RESULTS: Significant correlations were found between TPG and netflow parameters including F<sub>avg,out-s</sub>, F<sub>avg,in-s</sub>, F<sub>max,out-s</sub>, and F<sub>max,in-s</sub> (r = 0.525-0.565). Significant differences were found in F<sub>avg,out-s</sub>, F<sub>max,out-s</sub>, F<sub>avg,in-s</sub>, and F<sub>max,in-s</sub> between Group<sub>HP</sub> and Group<sub>LP</sub>. Using the cut-off value of 2.19 mL/sec, the F<sub>avg,out-s</sub> showed good estimate performance in distinguishing Group<sub>HP</sub> from Group<sub>LP</sub> (AUC = 0.856). The ICC (ranged 0.905-0.948) and Bland-Altman plots indicated good scan-rescan reproducibility.
+DATA CONCLUSIONS: 4D flow MRI derived flow parameters showed good correlations with TPG in IIH patients with TS stenosis. Netflow difference between outflow and stenosis location at TS shows the good performance in differentiating Group<sub>HP</sub> and Group<sub>LP</sub> cases.
+LEVEL OF EVIDENCE: 2 TECHNICAL EFFICACY: Stage 2.
+
+Citation: Bi J, et al. Differentiation Between the Low and High Trans-Stenotic Pressure Gradient in Patients With Idiopathic Intracranial Hypertension Using 4D Flow MRI-Derived Hemodynamic Parameters. Differentiation Between the Low and High Trans-Stenotic Pressure Gradient in Patients With Idiopathic Intracranial Hypertension Using 4D Flow MRI-Derived Hemodynamic Parameters. 2024; 59:1569-1579. doi: 10.1002/jmri.28959
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37578214/

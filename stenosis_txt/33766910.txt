@@ -1,0 +1,11 @@
+PMID: 33766910
+Title: Predicting endoscopic remission in Crohn's disease by the modified multiplier SES-CD (MM-SES-CD).
+
+Abstract: BACKGROUND AND AIMS: The Simple Endoscopic Score for Crohn's disease (SES-CD) is the primary tool for measurement of mucosal inflammation in clinical trials but lacks prognostic potential. We set to develop and validate a modified multiplier of the SES-CD (MM-SES-CD), which takes into consideration each individual parameter's prognostic value for achieving endoscopic remission (ER) while on active therapy.
+METHODS: In this posthoc analysis of three CD clinical trial programmes (n=350 patients, baseline SES-CD ≥ 3 with confirmed ulceration), data were pooled and randomly split into a 70% training and 30% testing cohort. The MM-SES-CD was designed using weights for individual parameters as determined by logistic regression modelling, with 1-year ER (SES-CD < 3) being the dependent variable. A cut point score for low and high probability of ER was determined by using the maximum Youden Index and validated in the testing cohort.
+RESULTS: Baseline ulcer size, extent of ulceration and presence of non-passable strictures had the strongest association with 1-year ER as compared with affected surface area, with differential weighting of individual parameters across disease segments being observed during logistic regression. The MM-SES-CD was generated using this weighted regression model and demonstrated strong discrimination for ER in the training dataset (area under the receiver operator curve (AUC) 0.83, 95% CI 0.78 to 0.94) and in the testing dataset (AUC 0.82, 95% CI 0.77 to 0.92). In comparison to the MM-SES-CD scoring model, the original SES-CD score lacks accuracy (AUC 0.60, 95% CI 0.55 to 0.65) for predicting the achievement of ER.
+CONCLUSIONS: We developed and internally validated the MM-SES-CD as an endoscopic severity assessment tool to predict one-year ER in patients with CD on active therapy.
+
+Citation: Narula N, et al. Predicting endoscopic remission in Crohn's disease by the modified multiplier SES-CD (MM-SES-CD). Predicting endoscopic remission in Crohn's disease by the modified multiplier SES-CD (MM-SES-CD). 2022; 71:1078-1087. doi: 10.1136/gutjnl-2020-323799
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33766910/

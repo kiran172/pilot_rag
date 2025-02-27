@@ -1,0 +1,11 @@
+PMID: 32433818
+Title: Dynamics of cerebral oxygenation during rapid ventricular pacing and its impact on outcome in transfemoral transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Cerebral O<sub>2</sub> saturation (ScO<sub>2</sub> ) reflects cerebral perfusion and can be measured noninvasively by near-infrared spectroscopy (NIRS).
+OBJECTIVES: In this pilot study, we describe the dynamics of ScO<sub>2</sub> during TAVI in nonventilated patients and its impact on procedural outcome.
+METHODS AND RESULTS: We measured ScO<sub>2</sub> of both frontal lobes continuously by NIRS in 50 consecutive analgo-sedated patients undergoing transfemoral TAVI (female 58%, mean age 80.8 years). Compared to baseline ScO<sub>2</sub> dropped significantly during RVP (59.3% vs. 53.9%, p &lt; .01). Five minutes after RVP ScO<sub>2</sub> values normalized (post RVP 62.6% vs. 53.9% during RVP, p &lt; .01; pre 61.6% vs. post RVP 62.6%, p = .53). Patients with an intraprocedural pathological ScO<sub>2</sub> decline of &gt;20% (n = 13) had higher EuroSCORE II (3.42% vs. 5.7%, p = .020) and experienced more often delirium (24% vs. 62%, p = .015) and stroke (0% vs. 23%, p &lt; .01) after TAVI. Multivariable logistic regression revealed higher age and large ScO<sub>2</sub> drops as independent risk factors for delirium.
+CONCLUSIONS: During RVP ScO<sub>2</sub> significantly declined compared to baseline. A ScO<sub>2</sub> decline of &gt;20% is associated with a higher incidence of delirium and stroke and a valid cut-off value to screen for these complications. NIRS measurement during TAVI procedure may be an easy to implement diagnostic tool to detect patients at high risks for cerebrovascular complications and delirium.
+
+Citation: Seppelt PC, et al. Dynamics of cerebral oxygenation during rapid ventricular pacing and its impact on outcome in transfemoral transcatheter aortic valve implantation. Dynamics of cerebral oxygenation during rapid ventricular pacing and its impact on outcome in transfemoral transcatheter aortic valve implantation. 2021; 97:E146-E153. doi: 10.1002/ccd.28975
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32433818/

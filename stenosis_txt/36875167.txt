@@ -1,0 +1,11 @@
+PMID: 36875167
+Title: Aortic valve replacement reduces mortality in moderate aortic stenosis: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: With the introduction of transcatheter aortic valve replacement and an evolving understanding of the natural progression and history of aortic stenosis, the potential for earlier intervention in appropriate patients is promising; however, the benefit of aortic valve replacement in moderate aortic stenosis remains unclear.
+METHODS: Pubmed, Embase, and the Cochrane Library databases were searched up until 30th of December 2021 using keywords including moderate aortic stenosis and aortic valve replacement. Studies reporting all-cause mortality and outcomes in early aortic valve replacement (AVR) compared to conservative management in patients with moderate aortic stenosis were included. Hazard ratios were generated using random-effects meta-analysis to determine effect estimates.
+RESULTS: 3470 publications were screened with title and abstract review, which left 169 articles for full-text review. Of these studies, 7 met inclusion criteria and were included, totalling 4,827 patients. All studies treated AVR as a time-dependent co-variable in cox-regression multivariate analysis of all-cause mortality. Intervention with surgical or transcatheter AVR was associated with a 45% decreased risk of all-cause mortality (HR = 0.55 [0.42-0.68], I 2 = 51.5%, P &lt; 0.001). All studies were representative of the overall cohort with appropriate sample sizes, with no evidence of publication, detection, or information biases in any of the studies.
+CONCLUSION: In this systematic review and meta-analysis, we report a 45% reduction in all-cause mortality in patients with moderate aortic stenosis who were treated with early aortic valve replacement compared to a strategy of conservative management. Randomised control trials are awaited to determine the utility of AVR in moderate aortic stenosis.
+
+Citation: Franke KB, et al. Aortic valve replacement reduces mortality in moderate aortic stenosis: a systematic review and meta-analysis. Aortic valve replacement reduces mortality in moderate aortic stenosis: a systematic review and meta-analysis. 2023; 20:61-67. doi: 10.26599/1671-5411.2023.01.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36875167/

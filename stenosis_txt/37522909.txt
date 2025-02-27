@@ -1,0 +1,11 @@
+PMID: 37522909
+Title: Spirometry in laryngotracheal stenosis: a systematic review and meta-analysis.
+
+Abstract: PURPOSE: This study aimed to assess the changes in spirometry parameters or indices after relieving laryngotracheal stenosis (LTS) in adult patients.
+METHODS: A systematic review and meta-analysis of studies from PubMed, Scopus, Web of Science, Cochrane Library, and EBSCO databases was conducted for assessing changes in spirometry values after endoscopic balloon dilatation of LTS in adults. The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were followed. Relevant data, such as changes in mean spirometry values between preoperative and postoperative interventions, and findings of receiver operating characteristic curve analyses for predicting the need for surgical intervention, were extracted.
+RESULTS: Ten studies including 330 patients overall met the inclusion criteria. Significant improvements were observed from preoperative to postoperative mean values of different spirometry parameters and indices. The overall mean differences in peak expiratory flow (ΔPEF), expiratory disproportion index (ΔEDI), and peak inspiratory flow (ΔPIF) were 2.26 L/s (95% CI 2.14-2.38), 27.94 s (95% CI 26.36-29.52), and 1.21 L/s (95% CI 0.95-1.47), respectively. ΔPEF and ΔPIF values increased, while ΔEDI decreased. In predicting the need for surgical intervention, EDI had the highest sensitivity (88%), and forced expiratory volume per second/forced vital capacity had the highest specificity (85%).
+CONCLUSION: Spirometry is a valuable tool for assessing patients with LTS. PEF, EDI, and PIF were the most commonly reported spirometry parameters that significantly improved after airway stenosis was relieved.
+
+Citation: Alshareef W, et al. Spirometry in laryngotracheal stenosis: a systematic review and meta-analysis. Spirometry in laryngotracheal stenosis: a systematic review and meta-analysis. 2023; 280:4783-4792. doi: 10.1007/s00405-023-08159-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37522909/

@@ -1,0 +1,11 @@
+PMID: 35000330
+Title: Five-Repetition Sit-to-Stand Test Performance in Healthy Individuals: Reference Values and Predictors From 2 Prospective Cohorts.
+
+Abstract: OBJECTIVE: The 5-repetition-sit-to-stand (5R-STS) test is an objective test of functional impairment- commonly used in various diseases, including lumbar degenerative disc diseases. It is used to measure the severity of disease and to monitor recovery. We aimed to evaluate reference values for the test, as well as factors predicting 5R-STS performance in healthy adults.
+METHODS: Healthy adults ( > 18 years of age) were recruited, and their 5R-STS time was measured. Their age, sex, weight, height, body mass index (BMI), smoking status, education level, work situation and EuroQOL-5D Healthy & Anxiety category were recorded. Linear regression analysis was employed to identify predictors of 5R-STS performance.
+RESULTS: We included 172 individuals with mean age of 39.4 ± 14.1 years and mean BMI of 24.0 ± 4.0 kg/m2. Females constituted 57%. Average 5R-STS time was 6.21 ± 1.92 seconds, with an upper limit of normal of 12.39 seconds. In a multivariable model, age (regression coefficient [RC], 0.07; 95% confidence interval [CI], 0.05/0.09; p < 0.001), male sex (RC, -0.87; 95% CI, -1.50 to -0.23; p = 0.008), BMI (RC, 0.40; 95% CI, 0.10-0.71; p = 0.010), height (RC, 0.13; 95% CI, 0.04-0.22; p = 0.006), and houseworker status (RC, -1.62; 95% CI, -2.93 to -0.32; p = 0.016) were significantly associated with 5R-STS time. Anxiety and depression did not influence performance significantly (RC, 0.82; 95% CI, -0.14 to 1.77; p = 0.097).
+CONCLUSION: The presented reference values can be applied as normative data for 5R-STS in healthy adults, and are necessary to judge what constitutes abnormal performance. We identified several significant factors associated with 5R-STS performance that may be used to calculate individualized expected test times.
+
+Citation: Klukowska AM, et al. Five-Repetition Sit-to-Stand Test Performance in Healthy Individuals: Reference Values and Predictors From 2 Prospective Cohorts. Five-Repetition Sit-to-Stand Test Performance in Healthy Individuals: Reference Values and Predictors From 2 Prospective Cohorts. 2021; 18:760-769. doi: 10.14245/ns.2142750.375
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35000330/

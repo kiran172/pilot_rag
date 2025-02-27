@@ -1,0 +1,11 @@
+PMID: 32738574
+Title: Progression of valvular calcification and risk of incident stroke: The Multi-Ethnic Study of Atherosclerosis (MESA).
+
+Abstract: BACKGROUND AND AIMS: Prevalent valvular calcification (VC) is associated with stroke but little is known about associations of VC progression with stroke.
+METHODS: Progression (interval increase >0 Agatston units/year) of aortic valvular calcification (AVC) and mitral annular calcification (MAC) was assessed by two cardiac CTs over a median of 2.4 years. We determined the risk of adjudicated total and ischemic stroke using Cox regression adjusted for cardiovascular disease (CVD) risk factors.
+RESULTS: We studied 5,539 MESA participants free of baseline CVD and atrial fibrillation. Baseline mean ± SD age was 62 ± 10 years; 53% were women; 83% had no progression of VC; 15%, progression at one site (AVC or MAC), and 3%, progression at both sites. Over a median of 12 years, 211 total and 167 ischemic strokes occurred. The number of sites with VC progression (range 0-2) was not associated with total and ischemic stroke (all p > 0.05). We found MAC progression to be associated with increased risk of total stroke [adjusted hazard ratio (95% CI) 1.59 (1.11, 2.28)] and ischemic stroke [1.64 (1.10, 2.45)]. Results remained significant after further adjustment for baseline coronary artery calcification. After excluding participants with interim atrial fibrillation and coronary heart disease, findings were no longer statistically significant in fully-adjusted models. There was no interaction by age, sex, or race/ethnicity. There was no association with AVC progression and stroke.
+CONCLUSIONS: Progression of MAC but not AVC over 2.4 years is associated with increased risk of total and ischemic stroke.
+
+Citation: Fashanu OE, et al. Progression of valvular calcification and risk of incident stroke: The Multi-Ethnic Study of Atherosclerosis (MESA). Progression of valvular calcification and risk of incident stroke: The Multi-Ethnic Study of Atherosclerosis (MESA). 2020; 307:32-38. doi: 10.1016/j.atherosclerosis.2020.06.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32738574/

@@ -1,0 +1,12 @@
+PMID: 37389511
+Title: Development and Validation of a Prediction Model and Score for Transthyretin Cardiac Amyloidosis Diagnosis: T-Amylo.
+
+Abstract: BACKGROUND: Although transthyretin cardiac amyloidosis (ATTR-CA) is often underdiagnosed, clinical suspicion is essential for early diagnosis.
+OBJECTIVES: The aim of this study was to develop and validate a feasible prediction model and score to facilitate the diagnosis of ATTR-CA.
+METHODS: This retrospective multicenter study enrolled consecutive patients who underwent 99mTc-DPD scintigraphy for suspected ATTR-CA. ATTR-CA was diagnosed if Grade 2 or 3 cardiac uptake was evidenced on 99mTc-DPD scintigraphy in the absence of a detectable monoclonal component or by demonstration of amyloid by biopsy. A prediction model for ATTR-CA diagnosis was developed in a derivation sample of 227 patients from 2 centers using multivariable logistic regression with clinical, electrocardiography, analytical, and transthoracic echocardiography variables. A simplified score was also created. Both of them were validated in an external cohort (n = 895) from 11 centers.
+RESULTS: The obtained prediction model combined age, gender, carpal tunnel syndrome, interventricular septum in diastole thickness, and low QRS interval voltages, with an area under the curve (AUC) of 0.92. The score had an AUC of 0.86. Both the T-Amylo prediction model and the score showed a good performance in the validation sample (ie, AUC: 0.84 and 0.82, respectively). They were tested in 3 clinical scenarios of the validation cohort: 1) hypertensive cardiomyopathy (n = 327); 2) severe aortic stenosis (n = 105); and 3) heart failure with preserved ejection fraction (n = 604), all with good diagnostic accuracy.
+CONCLUSIONS: The T-Amylo is a simple prediction model that improves the prediction of ATTR-CA diagnosis in patients with suspected ATTR-CA.
+
+Citation: Arana-Achaga X, et al. Development and Validation of a Prediction Model and Score for Transthyretin Cardiac Amyloidosis Diagnosis: T-Amylo. Development and Validation of a Prediction Model and Score for Transthyretin Cardiac Amyloidosis Diagnosis: T-Amylo. 2023; 16:1567-1580. doi: 10.1016/j.jcmg.2023.05.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37389511/

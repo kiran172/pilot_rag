@@ -1,0 +1,12 @@
+PMID: 32656706
+Title: Development of a new risk model for a prognostic prediction after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Current guidelines for transcatheter aortic valve replacement (TAVR) recommend that TAVR should be performed in patients with a life expectancy > 1 year. However, it is challenging to estimate the patients' life expectancy because it is related to various factors, including frailty and nutritional status.
+HYPOTHESIS: A new risk model can estimate the prognosis of patients after TAVR.
+METHODS: We randomly divided 388 patients with aortic stenosis (AS) undergoing TAVR from October 2009 to August 2016 into two groups (2:1 ratio; training cohort, 259; validation cohort, 129). Using 94 baseline factors in the training cohort, we developed possible scoring models by the Cox proportional hazard regression model with the overall survival as the endpoint. Then, cross-validated 5-year C-statistics were calculated to assess the accuracy of the model.
+RESULTS: Of 94 baseline factors, 12 factors were finally identified (5-year C-statistics in the training cohort: 0.709)-age, gender, body mass index, left ventricular ejection fraction, % vital capacity, forced expiratory volume 1.0 (s) %, albumin, hemoglobin, creatine, platelet, creatine kinase, and prothrombin time-international normalized ratio. The cross-validated 1-, 3-, and 5-year C-statistics in the validation cohort were 0.792, 0.758, and 0.778, respectively. Furthermore, calibration plots in the validation cohort revealed that 5-year survival is well predicted (r = 0.962).
+CONCLUSIONS: The new survival prediction model after TAVR could provide appropriate guidance during decision making regarding the TAVR implementation.
+
+Citation: Maeda K, et al. Development of a new risk model for a prognostic prediction after transcatheter aortic valve replacement. Development of a new risk model for a prognostic prediction after transcatheter aortic valve replacement. 2021; 69:44-50. doi: 10.1007/s11748-020-01436-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32656706/

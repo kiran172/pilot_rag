@@ -1,0 +1,12 @@
+PMID: 37943232
+Title: Additive Prognostic Value of Left Ventricular Dispersion and Deformation in Patients With Severe Aortic Stenosis.
+
+Abstract: BACKGROUND: Speckle tracking strain echocardiography allows one to visualize the timing of maximum regional strain and quantifies left ventricular-mechanical dispersion (LV-MD). Whether LV-MD and LV-global longitudinal strain (LV-GLS) provide similar or complementary information in mortality risk stratification in patients with severe aortic stenosis (SAS) remains unknown.
+OBJECTIVES: The authors hypothesized that LV mechanical dyssynchrony assessed by LV-MD is associated with an increased risk of mortality and provides additional prognostic information on top of LV-GLS in patients with SAS.
+METHODS: A total of 364 patients with SAS (aortic valve area indexed ≤0.6 cm2/m2 and/or aortic valve area ≤1 cm2), LV ejection fraction ≥50% and no or mild symptoms were enrolled. The endpoint was overall mortality.
+RESULTS: During a median follow-up period of 41 months, 149 patients died. After adjustment, LV-MD ≥68 ms was significantly associated with an increased risk of mortality (adjusted HR: 1.41; 95% CI: 1.01-1.96; P = 0.044). Adding LV-MD ≥68 ms to a multivariable Cox regression model including LV-GLS ≥-15% improved predictive performance in terms of overall mortality, with improved global model fit, reclassification, and better discrimination. Patients with both criteria had an important increase in mortality compared to patients with none or one criterion (adjusted HR: 2.02; 95% CI: 1.34-3.03; P = 0.001). Interobserver reproducibility of LV-MD was good with an intraclass correlation coefficient of 0.90 (95% CI: 0.72-0.97).
+CONCLUSIONS: LV-MD is a reproducible parameter independently associated with an increased risk of mortality in SAS. Increased LV-MD associated with depressed LV-GLS identifies a subgroup of patients with an increased mortality risk. Whether early aortic valve replacement improves the outcome of these patients deserves further studies.
+
+Citation: Thellier N, et al. Additive Prognostic Value of Left Ventricular Dispersion and Deformation in Patients With Severe Aortic Stenosis. Additive Prognostic Value of Left Ventricular Dispersion and Deformation in Patients With Severe Aortic Stenosis. 2024; 17:235-245. doi: 10.1016/j.jcmg.2023.09.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37943232/

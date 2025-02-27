@@ -1,0 +1,11 @@
+PMID: 30169857
+Title: Acute kidney injury after transcatheter aortic valve implantation and mortality risk-long-term follow-up.
+
+Abstract: BACKGROUND: Acute kidney injury (AKI) complicating transcatheter aortic valve implantation (TAVI) is relatively frequent and associated with significant morbidity. Previous studies have shown a higher 30-day and 1-year mortality risk in patients with periprocedural AKI. Our aim was to identify the prognostic impact of periprocedural AKI on long-term follow-up.
+METHODS: This is a single-center prospective study evaluating patients undergoing TAVI for severe aortic stenosis. AKI was defined according to the Valve Academic Research Consortium 2 definition, as an absolute increase in serum creatinine ≥0.3 mg/dL or an increase >50% within the first week following TAVI. Mortality data were compared between patients who developed AKI and those who did not. Logistic and Cox regressions were used for survival analysis.
+RESULTS: The final analysis included 1086 consecutive TAVI patients. AKI occurred in 201 patients (18.5%). During the follow-up period, 289 patients died. AKI was associated with an increased risk of 30-day mortality {4.5 versus 1.9% in the non-AKI group; hazard ratio [HR] 3.70 [95% confidence interval (CI) 1.35-10.13]}. Although 1-year mortality was higher in the AKI group in univariate analysis, it was not significant after a multivariate regression. AKI was a strong predictor of longer-term mortality [42.3 versus 22.7% for 7-year mortality; HR 1.71 (95% CI 1.30-2.25)]. In 189 of 201 patients we had data regarding recovery from AKI up to 30 days after discharge. In patients with recovery from AKI, the mortality rate was lower (38.2 versus 56.6% in the nonrecovery group; P = 0.022).
+CONCLUSIONS: Periprocedural AKI following TAVI is a strong risk factor for short-term as well as long-term mortality (up to 7 years). Therefore more effort is needed to reduce this complication.
+
+Citation: Kliuk-Ben Bassat O, et al. Acute kidney injury after transcatheter aortic valve implantation and mortality risk-long-term follow-up. Acute kidney injury after transcatheter aortic valve implantation and mortality risk-long-term follow-up. 2020; 35:433-438. doi: 10.1093/ndt/gfy264
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30169857/

@@ -1,0 +1,12 @@
+PMID: 34872422
+Title: Antihypertensive treatment and risk factors for syncope in asymptomatic aortic stenosis patients with hypertension.
+
+Abstract: BACKGROUND: Evidence for treating hypertension in patients with asymptomatic aortic valve stenosis(AS) is scarce.
+OBJECTIVES: Given the paucity of data on the relationship between syncope and antihypertensive treatment in aortic stenosis. This study sought to investigate this association in patients admitted to our hospital.
+METHODS: A total of 158 patients with asymptomatic moderate or severe aortic stenosis were analyzed. Follow-up was conducted by clinic visit, telephone contact, or review of electronic medical records. Outcomes were syncope.
+RESULTS: Hypertension were documented in 90 of the 158 patients with moderate or severe AS, and 77 of them received antihypertensive medications. During an average 28 months follow-up period, the occurrence of syncope was observed in 13 patients. Among them, 8 were in antihypertensive group (n = 77) and 5 in normotensive group (n = 68). There was no significant difference in incidence of syncope between the two groups. Patients with treated hypertension and syncope had a lower stroke volume index (SVi), a higher valve arterial impedance (Z<sub>VA</sub>), a smaller SAC than those without. Kaplan-Meier analysis showed that there was no significant difference in syncope cumulative incidence between antihypertensive group and normotensive group (log rank P = .478). Multivariate cox regression analysis showed that both Z<sub>VA</sub> (hazard ratio:19.006, 95% confidence interval: 4.664 to77.448;P = .002) and LVMI (hazard ratio:1.484, 95% confidence interval: 1.427 to 5.157;P = .016) were associated with development of syncope, whereas hypertension were not related independently to syncope (hazard ratio:0.935, 95% confidence interval: 0.786 to3.173; P = .869).
+CONCLUSIONS: In patients with moderate or severe AS, concomitant hypertension, and antihypertensive treatment didn't increase the occurrence of syncope, whereas higher Z<sub>VA</sub> was independently associated with greater risk of syncope.
+
+Citation: Wu M, et al. Antihypertensive treatment and risk factors for syncope in asymptomatic aortic stenosis patients with hypertension. Antihypertensive treatment and risk factors for syncope in asymptomatic aortic stenosis patients with hypertension. 2022; 44:191-197. doi: 10.1080/10641963.2021.1883047
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34872422/

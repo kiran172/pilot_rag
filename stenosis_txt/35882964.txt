@@ -1,0 +1,8 @@
+PMID: 35882964
+Title: Mathematical analysis of hybrid mediated blood flow in stenosis narrow arteries.
+
+Abstract: In this paper the behavior of flow of blood under stenosis suppositions is studied. Nanoparticles of Ag and Cu are being used with blood as base fluid. The problem governing equations are modeled into PDE's, which are transformed into set of ODE's with the help of useful similarity transformation. We investigated the solution numerically for various parameters on temperature and velocity distribution and shown in the form of tables and graphs. It is found that the velocity of blood increases while the temperature curve goes down by increasing the concentration of nanoparticles and also temperature curve decreases by increasing the values of gamma and Prandtl number. Furthermore, the calculated results shows that increment in flow parameter gamma caused an increase in velocity values. In the field of biomedicine, the important approach of nanotechnology is the use of nanoparticles in chemotherapy.
+
+Citation: Hussain A, et al. Mathematical analysis of hybrid mediated blood flow in stenosis narrow arteries. Mathematical analysis of hybrid mediated blood flow in stenosis narrow arteries. 2022; 12:12704. doi: 10.1038/s41598-022-15117-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35882964/

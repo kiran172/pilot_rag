@@ -1,0 +1,10 @@
+PMID: 39483792
+Title: The Current Landscape of Artificial Intelligence in Imaging for Transcatheter Aortic Valve Replacement.
+
+Abstract: PURPOSE: This review explores the current landscape of AI applications in imaging for TAVR, emphasizing the potential and limitations of these tools for (1) automating the image analysis and reporting process, (2) improving procedural planning, and (3) offering additional insight into post-TAVR outcomes. Finally, the direction of future research necessary to bridge these tools towards clinical integration is discussed.
+RECENT FINDINGS: Transcatheter aortic valve replacement (TAVR) has become a pivotal treatment option for select patients with severe aortic stenosis, and its indication for use continues to broaden. Noninvasive imaging techniques such as CTA and MRA have become routine for patient selection, preprocedural planning, and predicting the risk of complications. As the current methods for pre-TAVR image analysis are labor-intensive and have significant inter-operator variability, experts are looking towards artificial intelligence (AI) as a potential solution.
+SUMMARY: AI has the potential to significantly enhance the planning, execution, and post-procedural follow up of TAVR. While AI tools are promising, the irreplaceable value of nuanced clinical judgment by skilled physician teams must not be overlooked. With continued research, collaboration, and careful implementation, AI can become an integral part in imaging for TAVR, ultimately improving patient care and outcomes.
+
+Citation: Sun S, et al. The Current Landscape of Artificial Intelligence in Imaging for Transcatheter Aortic Valve Replacement. The Current Landscape of Artificial Intelligence in Imaging for Transcatheter Aortic Valve Replacement. 2024; 12:113-120. doi: 10.1007/s40134-024-00431-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39483792/

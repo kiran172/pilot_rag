@@ -1,0 +1,11 @@
+PMID: 34688289
+Title: Association of diabetes mellitus with clinical outcomes in patients with different coronary artery stenosis.
+
+Abstract: BACKGROUND: It has been demonstrated that patients with type 2 diabetes mellitus (DM) is associated with increased cardiovascular risk. However, little is known regarding the long-term prognosis in diabetic patients who experience mild-to-intermediate coronary artery stenosis (CAS). This study was to assess the clinical outcomes of diabetic patients with different severity of CAS.
+METHODS: We consecutively enrolled 10,940 patients hospitalized due to angina-like chest pain and followed up for major adverse cardiovascular events (MACEs) covering cardiac death, myocardial infarction, ischemic stroke, unplanned coronary revascularization and angina-related hospitalization. According to coronary angiography, patients were divided into non-obstructive CAS (NOCAS, < 50% stenosis), intermediate CAS (ICAS, 50-69% stenosis), and severe CAS (SCAS, 70-100% stenosis) subgroups, and were further categorized into six groups as NOCAS with DM and non-DM, ICAS with DM and non-DM, and SCAS with DM and non-DM.
+RESULTS: During a median follow-up of 40 months, 1,017 (11.1%) MACEs occurred. In patients with ICAS or SCAS, the incidence of events was higher when patients coexisted with DM (p < 0.05, respectively). In subgroup analyses, patients with ICAS and DM, SCAS and non-DM, SCAS and DM had increased risk of events [adjusted hazard ratio (HR): 1.709, 95% confidence interval (CI) 1.106-2.641, p = 0.016; HR: 1.911, 95% CI 1.460-2.501, p < 0.001; HR: 2.053, 95% CI 1.514-2.782, p < 0.001] compared to ones with NOCAS and non-DM. Besides, the Kaplan-Meier curves indicated the highest risk of MACEs in patients with SCAS and DM than others (p < 0.001).
+CONCLUSIONS: Diabetic patients with ICAS had the worse outcome, which was comparable to patients with SCAS alone.
+
+Citation: Zhang HW, et al. Association of diabetes mellitus with clinical outcomes in patients with different coronary artery stenosis. Association of diabetes mellitus with clinical outcomes in patients with different coronary artery stenosis. 2021; 20:214. doi: 10.1186/s12933-021-01403-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34688289/

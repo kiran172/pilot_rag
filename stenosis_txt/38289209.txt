@@ -1,0 +1,8 @@
+PMID: 38289209
+Title: CT Colonography Reporting and Data System (C-RADS): Version 2023 Update.
+
+Abstract: The CT Colonography Reporting and Data System (C-RADS) has withstood the test of time and proven to be a robust classification scheme for CT colonography (CTC) findings. C-RADS version 2023 represents an update on the scheme used for colorectal and extracolonic findings at CTC. The update provides useful insights gained since the implementation of the original system in 2005. Increased experience has demonstrated confusion on how to classify the mass-like appearance of the colon consisting of soft tissue attenuation that occurs in segments with acute or chronic diverticulitis. Therefore, the update introduces a new subcategory, C2b, specifically for mass-like diverticular strictures, which are likely benign. Additionally, the update simplifies extracolonic classification by combining E1 and E2 categories into an updated extracolonic category of E1/E2 since, irrespective of whether a finding is considered a normal variant (category E1) or an otherwise clinically unimportant finding (category E2), no additional follow-up is required. This simplifies and streamlines the classification into one category, which results in the same management recommendation.
+
+Citation: Yee J, et al. CT Colonography Reporting and Data System (C-RADS): Version 2023 Update. CT Colonography Reporting and Data System (C-RADS): Version 2023 Update. 2024; 310:e232007. doi: 10.1148/radiol.232007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38289209/

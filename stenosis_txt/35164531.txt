@@ -1,0 +1,11 @@
+PMID: 35164531
+Title: Comparative Effectiveness of Carotid Stenting to Medical Therapy Among Patients With Asymptomatic Carotid Stenosis.
+
+Abstract: BACKGROUND: No completed trials have compared carotid artery stenting (CAS) to medical therapy (MT). We examined the effectiveness of CAS compared with MT in patients with asymptomatic carotid stenosis.
+METHODS: We conducted a retrospective cohort study of 219 979 Veterans ≥65 years who received carotid imaging for asymptomatic carotid stenosis between 2005 and 2009 in the US Veterans Health Administration. We constructed a sample of patients who received MT (n=2509) and comparable patients who received CAS (n=551) and followed them for 5 years. Using target trial methodology, we computed weighted Kaplan-Meier curves and estimated the risk of fatal and nonfatal stroke in each group over 5 years of follow-up. We also estimated the cumulative incidence functions for fatal and nonfatal stroke accounting for nonstroke deaths as competing risks.
+RESULTS: Five hundred fifty-one patients received CAS, and 2509 patients received MT. The observed rate of stroke or death (perioperative complications) within 30 days in the CAS arm was 2.2%. Using the target trial methodology, the 5-year risk of fatal and nonfatal stroke was similar among patients assigned to CAS (6.9%) compared with patients assigned to MT (7.1%; risk difference, -0.1% [95% CI, -2.6% to 2.7%]). In an analysis that incorporated the competing risk of death, the risk difference between the two arms remained nonsignificant (risk difference, -1.5% [95% CI, -3.0% to 0.3%]).
+CONCLUSIONS: In this sample of older male adults, we found no difference between MT and CAS in the treatment of asymptomatic carotid stenosis. Future studies in other settings are needed to confirm these findings.
+
+Citation: Keyhani S, et al. Comparative Effectiveness of Carotid Stenting to Medical Therapy Among Patients With Asymptomatic Carotid Stenosis. Comparative Effectiveness of Carotid Stenting to Medical Therapy Among Patients With Asymptomatic Carotid Stenosis. 2022; 53:1157-1166. doi: 10.1161/STROKEAHA.121.036178
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35164531/

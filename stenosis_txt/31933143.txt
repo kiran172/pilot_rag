@@ -1,0 +1,8 @@
+PMID: 31933143
+Title: Lumped-Parameter Circuit Platform for Simulating Typical Cases of Pulmonary Hypertensions from Point of Hemodynamics.
+
+Abstract: Pulmonary hypertension (PH) presents unusual hemodynamic states characterized by abnormal high blood pressure in pulmonary artery. The objective of this study is to simulate how the hemodynamics develops in typical PH cases without treatment. A lumped-parameter circuit platform of human circulation system is set up to simulate hemodynamic abnormalities of PH in different etiologies and pathogenesis. Four typical cases are considered, which are distal pulmonary artery stenosis, left ventricular diastolic dysfunction, ventricular septal defect, and mitral stenosis. The authors propose regulation laws for chambers and vessels to adapt the abnormal hemodynamic conditions for each PH case. The occurrence and development of each PH case are simulated over time using the lumped-parameter circuit platform. The blood pressure, blood flow, pressure-volume relations for chambers and vessels are numerically calculated for each case of PH progression. The model results could be a quite helpful to understand the hemodynamic mechanism of typical PHs. Graphical Abstract.
+
+Citation: Tang H, et al. Lumped-Parameter Circuit Platform for Simulating Typical Cases of Pulmonary Hypertensions from Point of Hemodynamics. Lumped-Parameter Circuit Platform for Simulating Typical Cases of Pulmonary Hypertensions from Point of Hemodynamics. 2020; 13:826-852. doi: 10.1007/s12265-020-09953-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31933143/

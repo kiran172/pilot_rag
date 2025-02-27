@@ -1,0 +1,12 @@
+PMID: 39372458
+Title: An Artificial Intelligence Algorithm for Detection of Severe Aortic Stenosis: A Clinical Cohort Study.
+
+Abstract: BACKGROUND: Identifying individuals with severe aortic stenosis (AS) at high risk of mortality remains challenging using current clinical imaging methods.
+OBJECTIVES: The purpose of this study was to evaluate an artificial intelligence decision support algorithm (AI-DSA) to augment the detection of severe AS within a well-resourced health care setting.
+METHODS: Agnostic to clinical information, an AI-DSA trained to identify echocardiographic phenotype associated with an aortic valve area (AVA)&lt;1 cm2 using minimal input data (excluding left ventricular outflow tract measures) was applied to routine transthoracic echocardiograms (TTE) reports from 31,141 U.S. Medicare beneficiaries at an academic medical center (2003-2017).
+RESULTS: Performance of AI-DSA to detect the phenotype associated with an AVA&lt;1 cm2 was excellent (sensitivity 82.2%, specificity 98.1%, negative predictive value 9.2%, c-statistic = 0.986). In addition to identifying clinical severe AS cases, AI-DSA identified an additional 1,034 (3.3%) individuals with guideline-defined moderate AS but with a similar clinical and TTE phenotype to those with severe AS with low rates of aortic valve replacement (6.6%). Five-year mortality was 75.9% in those with known severe AS, 73.5% in those with a similar phenotype to severe AS, and 44.6% in those without severe AS. The AI-DSA continued to perform well to identify severe AS among those with a depressed left ventricular ejection fraction. Overall rates of aortic valve replacement remained low, even in those with an AVA&lt;1 cm2 (21.9%).
+CONCLUSIONS: Without relying on left ventricular outflow tract measurements, an AI-DSA used echocardiographic reports to reliably identify the phenotype of severe AS. These results suggest possible utility for this AI-DSA to enhance detection of severe AS individuals at risk for adverse outcomes.
+
+Citation: Strom JB, et al. An Artificial Intelligence Algorithm for Detection of Severe Aortic Stenosis: A Clinical Cohort Study. An Artificial Intelligence Algorithm for Detection of Severe Aortic Stenosis: A Clinical Cohort Study. 2024; 3:101176. doi: 10.1016/j.jacadv.2024.101176
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39372458/

@@ -1,0 +1,11 @@
+PMID: 34974673
+Title: Comparison between conventional duplex ultrasonography and the dual-gate Doppler mode for hemodynamic measurements of the carotid arteries.
+
+Abstract: PURPOSE: This study investigated the correlations of hemodynamic parameters measured to quantify stenosis between the gold-standard duplex ultrasonography and the dual-gate Doppler mode.
+METHODS: Patients examined due to suspicion of carotid artery stenosis or for surveillance of known stenosis were invited to participate in this prospective single-center study. Upon acceptance, the hemodynamic characteristics of the carotid arteries were determined successively in standard duplex and dual-gate Doppler modes. The correlations between the two modes were analyzed by computing Pearson coefficients (r2) and Lin concordance coefficients (ρc). The degree of agreement between the two methods was visualized using Bland-Altman graphical representations.
+RESULTS: The correlation between internal carotid artery peak systolic velocity measured by standard duplex ultrasonography and dual-gate Doppler mode was good (r2=0.642). The same high level of correlation was observed for the carotid ratio (r2=0.544). However, the Bland-Altman graphical representation and the Lin concordance coefficients (ρc=0.75 and ρc=0.74 for the internal carotid artery peak systolic velocity and carotid ratio, respectively) showed that a lack of precision generated some discrepancies between the two measurement methods.
+CONCLUSION: Although some discrepancies were observed, the hemodynamic measurements were closely correlated between the two ultrasonography modes. Therefore, the dual-gate Doppler mode may have obvious advantages over conventional ultrasonography, offering interesting development possibilities.
+
+Citation: Hersant J, et al. Comparison between conventional duplex ultrasonography and the dual-gate Doppler mode for hemodynamic measurements of the carotid arteries. Comparison between conventional duplex ultrasonography and the dual-gate Doppler mode for hemodynamic measurements of the carotid arteries. 2022; 41:373-381. doi: 10.14366/usg.21175
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34974673/

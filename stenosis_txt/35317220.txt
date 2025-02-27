@@ -1,0 +1,8 @@
+PMID: 35317220
+Title: A 2D FSI mathematical model of blood flow to analyze the hyper-viscous effects in atherosclerotic COVID patients.
+
+Abstract: Recent researches on COVID 19 has been extended to analyze the various morphological and anatomical changes in a patient's body due to the invasion of the virus. These latest studies have concluded that there happens a high rise in the viscosity of the blood in a COVID 19 patient, supported by the extensive analysis of the clinical data. In the present paper, a mathematical model in the form of a differential equation system has been proposed to disclose the various changes that occur in the flow across the stenosis of an arterial segment. The consequences of the hyperviscosity of blood on the blood flow characteristics in a stenosed artery are analyzed by solving the model using a finite element method (FEM) solver. A laminar flow coupled with solid mechanics through the Fluid-Structure Interaction (FSI) interface has been studied using an Arbitrary Lagrangian-Eulerian (ALE) method. For the first time, the mathematical model was used to analyze the hyper-viscous flow condition in COVID 19 patients. The present research is mainly based on the numerous clinical reports enlisting the various morphological, hematological, and rheological changes in the blood.
+
+Citation: S SN, et al. A 2D FSI mathematical model of blood flow to analyze the hyper-viscous effects in atherosclerotic COVID patients. A 2D FSI mathematical model of blood flow to analyze the hyper-viscous effects in atherosclerotic COVID patients. 2021; 12:100275. doi: 10.1016/j.rineng.2021.100275
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35317220/

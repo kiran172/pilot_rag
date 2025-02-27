@@ -1,0 +1,11 @@
+PMID: 32036047
+Title: Incidence and outcomes of infective endocarditis after transcatheter aortic valve implantation versus surgical aortic valve replacement.
+
+Abstract: OBJECTIVES: Transcatheter aortic valve implantation (TAVI) is an alternative to surgical aortic valve replacement (AVR) in aortic stenosis (AS). Infective endocarditis (IE) in patients with prosthetic heart valves is associated with significant morbidity and mortality. Data on the incidence, risk factors, and outcomes of IE after TAVI are conflicting. We evaluated these issues in patients with percutaneous TAVI vs. isolated surgical AVR (SAVR) at a nationwide level.
+METHODS: Based on the administrative hospital discharge database, the study collected information for all patients with aortic stenosis treated with AVR in France between 2010 and 2018.
+RESULTS: A total of 47 553 patients undergoing TAVI and 60 253 patients undergoing isolated SAVR were identified. During a mean follow-up of 2.0 years (median (25th to 75th percentile) 1.2 (0.1-3.4) years), the incidence rates of IE were 1.89 (95% confidence interval (CI) 1.78-2.00) and 1.40 (95% CI 1.34-1.46) events per 100 person-years in unmatched TAVI and SAVR patients, respectively. In 32 582 propensity-matched patients (16 291 with TAVI and 16 291 with SAVR), risk of IE was not different in patients treated with TAVI vs. SAVR (incidence rates of IE 1.86 (95% CI 1.70-2.04) %/year vs 1.71 (95% CI 1.58-1.85) %/year respectively, relative risk (RR) 1.09, 95% CI 0.96-1.23). In these matched patients, total mortality was higher in TAVI patients with IE (43.0% 95% CI 37.3-49.3) than in SAVR patients with IE (32.8% 95% CI 28.6-37.3; RR 1.32, 95% CI 1.08-1.60).
+DISCUSSION: In a nationwide cohort of patients with AS, treatment with TAVI was associated with a risk of IE similar to that following SAVR. Mortality was higher for patients with IE following TAVI than for those with IE following SAVR.
+
+Citation: Fauchier L, et al. Incidence and outcomes of infective endocarditis after transcatheter aortic valve implantation versus surgical aortic valve replacement. Incidence and outcomes of infective endocarditis after transcatheter aortic valve implantation versus surgical aortic valve replacement. 2020; 26:1368-1374. doi: 10.1016/j.cmi.2020.01.036
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32036047/

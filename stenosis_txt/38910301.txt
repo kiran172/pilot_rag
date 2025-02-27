@@ -1,0 +1,11 @@
+PMID: 38910301
+Title: Detection of Cervical Foraminal Stenosis from Oblique Radiograph Using Convolutional Neural Network Algorithm.
+
+Abstract: PURPOSE: This study was conducted to develop a convolutional neural network (CNN) algorithm that can diagnose cervical foraminal stenosis using oblique radiographs and evaluate its accuracy.
+MATERIALS AND METHODS: A total of 997 patients who underwent cervical MRI and cervical oblique radiographs within a 3-month interval were included. Oblique radiographs were labeled as "foraminal stenosis" or "no foraminal stenosis" according to whether foraminal stenosis was present in the C2-T1 levels based on MRI evaluation as ground truth. The CNN model involved data augmentation, image preprocessing, and transfer learning using DenseNet161. Visualization of the location of the CNN model was performed using gradient-weight class activation mapping (Grad-CAM).
+RESULTS: The area under the curve (AUC) of the receiver operating characteristic curve based on DenseNet161 was 0.889 (95% confidence interval, 0.851-0.927). The F1 score, accuracy, precision, and recall were 88.5%, 84.6%, 88.1%, and 88.5%, respectively. The accuracy of the proposed CNN model was significantly higher than that of two orthopedic surgeons (64.0%, p&lt;0.001; 58.0%, p&lt;0.001). Grad-CAM analysis demonstrated that the CNN model most frequently focused on the foramen location for the determination of foraminal stenosis, although disc space was also frequently taken into consideration.
+CONCLUSION: A CNN algorithm that can detect neural foraminal stenosis in cervical oblique radiographs was developed. The AUC, F1 score, and accuracy were 0.889, 88.5%, and 84.6%, respectively. With the current CNN model, cervical oblique radiography could be a more effective screening tool for neural foraminal stenosis.
+
+Citation: Kim J, et al. Detection of Cervical Foraminal Stenosis from Oblique Radiograph Using Convolutional Neural Network Algorithm. Detection of Cervical Foraminal Stenosis from Oblique Radiograph Using Convolutional Neural Network Algorithm. 2024; 65:389-396. doi: 10.3349/ymj.2023.0091
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38910301/

@@ -1,0 +1,12 @@
+PMID: 37012043
+Title: Prevalence of pulmonary hypertension in aortic stenosis and its influence on outcomes.
+
+Abstract: OBJECTIVE: The significance of pulmonary hypertension (PHT) complicating aortic stenosis (AS) is poorly characterised. In a large cohort of adults with at least moderate AS, we aimed to describe the prevalence and prognostic importance of PHT in such patients.
+METHODS: In this retrospective study, we analysed the National Echocardiography Database of Australia (data from 2000 to 2019). Adults with an estimated right ventricular systolic pressure (eRVSP), left ventricular ejection fraction (LVEF) >50% and with moderate or greater AS were included (n=14 980). These subjects were then categorised according to their eRVSP. The relationship between PHT severity and mortality outcomes were evaluated (median follow-up of 2.6 years, IQR 1.0-4.6 years).
+RESULTS: Subjects were aged 77±13 years and 57.4% were female. Overall, 2049 (13.7%), 5085 (33.9%), 4380 (29.3%), 1956 (13.1%) and 1510 (10.1%) patients had no (eRVSP<30.00 mm Hg), borderline (30.00-39.99 mm Hg), mild (40.00-49.99 mm Hg), moderate (50.00-59.99 mm Hg) and severe PHT (>60.00 mm Hg), respectively. An echocardiographic phenotype was evident with worsening PHT, showing rising E:e' ratio and right and left atrial sizes(p<0.0001, for all). Adjusted analyses showed that the risk of long-term mortality progressively rose as eRVSP level increased (HR 1.14-2.94, borderline to severe PHT, p<0.0001 for all). A mortality threshold was identified in the 4th decile of eRVSP categories (35.01-38.00 mm Hg; HR 1.19, 95% CI 1.04 to 1.35), with risk progressively increasing through to the 10th decile (HR 2.86, 95% CI 2.54 to 3.21).
+CONCLUSIONS: In this large cohort study, we find that PHT is common in ≥moderate AS and mortality increases as PHT becomes more severe. A threshold for higher mortality lies within the range of 'borderline-mild' PHT.
+TRIAL REGISTRATION NUMBER: ACTRN12617001387314.
+
+Citation: Ratwatte S, et al. Prevalence of pulmonary hypertension in aortic stenosis and its influence on outcomes. Prevalence of pulmonary hypertension in aortic stenosis and its influence on outcomes. 2023; 109:1319-1326. doi: 10.1136/heartjnl-2022-322184
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37012043/

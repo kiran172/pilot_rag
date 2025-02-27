@@ -1,0 +1,10 @@
+PMID: 37689399
+Title: Yeo's index: A novel index that combines anatomic and haemodynamic assessment of the severity of mitral stenosis.
+
+Abstract: BACKGROUND: A mitral leaflet separation index (MLSI), measuring the anatomical separation of the mitral valve (MV) leaflet tips in diastole, was previously described as an accurate method of assessing mitral stenosis (MS). We propose a novel modification of the MLSI by including a hemodynamic assessment which we term Yeo's index that may improve its diagnostic performance.
+METHODS AND RESULTS: We retrospectively studied 174 patients with varying severity of MS without significant mitral regurgitation, aortic valve disease or ventricular septal defect. MLSI was measured in 2 orthogonal views on transthoracic echocardiography as previously described. MV dimensionless index (DI) was calculated by dividing the left ventricular outflow tract pulsed-wave Doppler time velocity integral (TVI) by the MV continuous-wave Doppler TVI. We defined Yeo's index as the product of MLSI and DI. With linear correlation, Yeo's index demonstrated good correlation against MVA by planimetry (r = 0.728), pressure half-time (r = 0.677), and continuity equation (r = 0.829), with improved performance over the MLSI. Using ROC analysis, Yeo's index demonstrated good ability to correctly classify MS as severe (MVA ≤1.5cm2) (AUC 0.874, 95% CI 0.816-0.920). Yeo's index ≤0.260 cm correctly classified severe MS with sensitivity of 82% and specificity of 80%. Presence of AF did not affect the performance of Yeo's index. Yeo's index ≤0.147 cm also identified very severe MS (MVA ≤ 1.0 cm2) with specificity of 94% and sensitivity of 78%.
+CONCLUSION: Yeo's index performed well in identifying severe MS and may be a useful adjunct to existing measures of MS severity.
+
+Citation: Leow R, et al. Yeo's index: A novel index that combines anatomic and haemodynamic assessment of the severity of mitral stenosis. Yeo's index: A novel index that combines anatomic and haemodynamic assessment of the severity of mitral stenosis. 2023; 392:131350. doi: 10.1016/j.ijcard.2023.131350
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37689399/

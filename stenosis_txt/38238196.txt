@@ -1,0 +1,11 @@
+PMID: 38238196
+Title: Predictors of percutaneous coronary intervention derived from CCTA in patients with chronic coronary syndrome.
+
+Abstract: BACKGROUND: To identify anatomical and morphological plaque features predictors of PCI and create a multiparametric score to increase the predictive yield. Moreover, we assessed the incremental predictive value of FFR<sub>CT</sub> (Fractional Flow Reserve derived from CCTA) trans-lesion gradient (ΔFFR<sub>CT</sub>) when integrated into the score.
+METHODS: Observational cohort study including patients undergoing CCTA for suspected coronary artery disease, with FFR<sub>CT</sub> available, referred to invasive coronary angiogram and assessment of fractional flow reserve. Plaque analysis was performed using validated semi-automated software. Logistic regression was performed to identify anatomical and morphological plaque features predictive of PCI. Optimal thresholds were defined by area under the receiver-operating characteristics curve (AUC) analysis. A scoring system was developed in a derivation cohort (70 ​% of the study population) and tested in a validation cohort (30 ​% of patients).
+RESULTS: The overall study population included 340 patients (455 vessels), among which 238 patients (320 vessels) were included in the derivation cohort. At multivariate logistic regression analysis, absence of left main disease, diameter stenosis (DS), non-calcified plaque (NCP) volume, and percent atheroma volume (PAV) were independent predictors of PCI. Optimal thresholds were: DS ​≥ ​50 ​%, volume of NCP&gt;113 ​mm3 and PAV&gt;17 ​%. A weighted score (CT-PCI Score) ranging from 0 to 11 was obtained. The AUC of the score was 0.80 (95%CI 0.74-0.86). The integration of ΔFFR<sub>CT</sub> in the CT-PCI score led to a mild albeit not significant increase in the AUC (0.82, 95%CI 0.77-0.87, p ​= ​0.328).
+CONCLUSIONS: Plaque anatomy and morphology derived from CCTA could aid in identifying patients amenable to PCI.
+
+Citation: Belmonte M, et al. Predictors of percutaneous coronary intervention derived from CCTA in patients with chronic coronary syndrome. Predictors of percutaneous coronary intervention derived from CCTA in patients with chronic coronary syndrome. 2024; 18:154-161. doi: 10.1016/j.jcct.2024.01.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38238196/

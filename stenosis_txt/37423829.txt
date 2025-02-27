@@ -1,0 +1,11 @@
+PMID: 37423829
+Title: Abdominal Ultrasonography After Transrectal Filling With Contrast Agents in Colorectal Cancer With Severely Stenotic Lesions.
+
+Abstract: OBJECTIVE: Abdominal ultrasonography after transrectal filling with contrast agent (AU-TFCA) was retrospectively evaluated with respect to determination of T stage and lesion length in patients with colorectal cancer (CRC) who had previously failed colonoscopy because of severe intestinal stenosis.
+METHODS: The population comprised 83 patients with CRC with intestinal stenosis and previously failed colonoscopy who underwent AU-TFCA, and in addition contrast-enhanced computed tomography (CECT) and/or magnetic resonance imaging (MRI), 2 wk before surgery. The diagnostic performance of AU-TFCA and CECT/MRI was evaluated relative to the post-operative pathological results (PPRs) by paired sample t-test, receiver operator characteristic (ROC) curve, Pearson's χ2-test and κ and intraclass correlation coefficients.
+RESULTS: The T staging identified via AU-TFCA, but not CECT/MRI, was relatively consistent with that of the PPRs (linearly weighted κ coefficient: 0.558, p < 0.001, and linearly weighted κ coefficient: 0.237, p < 0.001, respectively). The overall diagnostic accuracy of T staging based on AU-TFCA (83.1%) was significantly higher than that based on CECT/MRI (50.6%). Regarding lesion length, the results of AU-TFCA and PPRs were comparable (t = 1.852, p = 0.068), but those of CECT/MRI and PPRs were significantly different (t = 8.450, p < 0.001).
+CONCLUSION: AU-TFCA is effective in evaluation of lesion length and T stage in patients with severely stenotic CRC lesions who previously failed colonoscopy. The diagnostic accuracy of AU-TFCA is significantly better compared with that of CECT/MRI.
+
+Citation: Zhong Y, et al. Abdominal Ultrasonography After Transrectal Filling With Contrast Agents in Colorectal Cancer With Severely Stenotic Lesions. Abdominal Ultrasonography After Transrectal Filling With Contrast Agents in Colorectal Cancer With Severely Stenotic Lesions. 2023; 49:2177-2182. doi: 10.1016/j.ultrasmedbio.2023.06.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37423829/

@@ -1,0 +1,12 @@
+PMID: 32077561
+Title: Phasic pressure measurements for coronary and valvular interventions using fluid-filled catheters: Errors, automated correction, and clinical implications.
+
+Abstract: OBJECTIVES: We sought to develop an automatic method for correcting common errors in phasic pressure tracings for physiology-guided interventions on coronary and valvular stenosis.
+BACKGROUND: Effective coronary and valvular interventions rely on accurate hemodynamic assessment. Phasic (subcycle) indexes remain intrinsic to valvular stenosis and are emerging for coronary stenosis. Errors, corrections, and clinical implications of fluid-filled catheter phasic pressure assessments have not been assessed in the current era of ubiquitous, high-fidelity pressure wire sensors.
+METHODS: We recruited patients undergoing invasive coronary physiology assessment. Phasic aortic pressure signals were recorded simultaneously using a fluid-filled guide catheter and 0.014″ pressure wire before and after standard calibration as well as after pullback. We included additional subjects undergoing hemodynamic assessment before and after transcatheter aortic valve implantation. Using the pressure wire as reference standard, we developed an automatic algorithm to match phasic pressures.
+RESULTS: Removing pressure offset and temporal shift produced the largest improvements in root mean square (RMS) error between catheter and pressure wire signals. However, further optimization <1 mmHg RMS error was possible by accounting for differential gain and the oscillatory behavior of the fluid-filled guide. The impact of correction was larger for subcycle (like systole or diastole) versus whole-cycle metrics, indicating a key role for valvular stenosis and emerging coronary pressure ratios.
+CONCLUSIONS: When calibrating phasic aortic pressure signals using a pressure wire, correction requires these parameters: offset, timing, gain, and oscillations (frequency and damping factor). Automatically eliminating common errors may improve some clinical decisions regarding physiology-based intervention.
+
+Citation: Johnson DT, et al. Phasic pressure measurements for coronary and valvular interventions using fluid-filled catheters: Errors, automated correction, and clinical implications. Phasic pressure measurements for coronary and valvular interventions using fluid-filled catheters: Errors, automated correction, and clinical implications. 2020; 96:E268-E277. doi: 10.1002/ccd.28780
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32077561/

@@ -1,0 +1,11 @@
+PMID: 37367409
+Title: Surgical Mortality Risk Scores in Transcatheter Aortic Valve Implantation: Is Their Early Predictive Value Still Strong?
+
+Abstract: BACKGROUND: Surgical mortality risk scores, even if not properly designed and rarely tested in the transcatheter aortic valve implantation (TAVI) setting, still guide the heart team in managing significant aortic stenosis.
+METHODS: After splitting 1763 consecutive patients retrospectively based on their mortality risk thresholds, the composite endpoint early safety (ES) was adjudicated according to Valve Academic Research Consortium (VARC)-2 and -3 consensus documents.
+RESULTS: ES incidence was higher if VARC-2 rather than VARC-3 defined. Despite only patients showing VARC-2 ES had significantly lower absolute values of all three main risk scores, these last still failed to foresee both VARC-2 and -3 ES in intermediate-risk patients. The receiver operating characteristic analysis also showed a significant correlation, but with poor diagnostic accuracy, among the three scores and only VARC-2 ES; moreover, the absence of VARC-2 ES and low-osmolar contrast media administration were identified as independent predictors of 1-year mortality and absence of VARC-3 ES, respectively. Finally, even a single complication included in the ES definition could significantly affect 1-year mortality.
+CONCLUSION: Currently, the most used mortality risk scores do not have adequate diagnostic accuracy in predicting ES after TAVI. The absence of VARC-2, instead of VARC-3, ES is an independent predictor of 1-year mortality.
+
+Citation: Iacovelli F, et al. Surgical Mortality Risk Scores in Transcatheter Aortic Valve Implantation: Is Their Early Predictive Value Still Strong?. Surgical Mortality Risk Scores in Transcatheter Aortic Valve Implantation: Is Their Early Predictive Value Still Strong?. 2023; 10:(unknown pages). doi: 10.3390/jcdd10060244
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37367409/

@@ -1,0 +1,11 @@
+PMID: 31666501
+Title: A meta-analysis of ≥5-year mortality after transcatheter versus surgical aortic valve replacement.
+
+Abstract: INTRODUCTION: It remains unclear whether long-term survival is superior following transcatheter aortic valve implantation (TAVI) than following surgical aortic valve replacement (SAVR). We performed a meta-analysis of mortality with ≥5-year follow-up in randomized controlled trials (RCTs) and propensity-score matched (PSM) studies of TAVI versus SAVR.
+EVIDENCE ACQUISITION: MEDLINE, EMBASE, and the Cochrane Central Register of Controlled Trials were searched through March 2019. Eligible studies were RCTs or PSM studies of TAVI versus SAVR enrolling patients with severe aortic stenosis and reporting all-cause mortality with ≥5-year follow-up as an outcome. A hazard ratio of mortality for TAVI versus SAVR was extracted from each individual study.
+EVIDENCE SYNTHESIS: Our search identified 3 RCTs and 7 PSM studies enrolling 5498 patients. A pooled analysis of all 10 studies demonstrated a statistically significant 38% increase in mortality with TAVI relative to SAVR. A subgroup meta-analysis showed no statistically significant difference between TAVI and AVR in RCTs and a statistically significant 68% increase with TAVI relative to SAVR in PSM studies.
+CONCLUSIONS: On the basis of a meta-analysis of 7 PSM studies, TAVI is associated with greater all-cause mortality with ≥5-year follow-up than SAVR. However, another meta-analysis of 3 RCTs suggests no difference in mortality between TAVI and SAVR.
+
+Citation: Takagi H, et al. A meta-analysis of ≥5-year mortality after transcatheter versus surgical aortic valve replacement. A meta-analysis of ≥5-year mortality after transcatheter versus surgical aortic valve replacement. 2020; 61:107-116. doi: 10.23736/S0021-9509.19.11030-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31666501/

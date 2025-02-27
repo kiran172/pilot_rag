@@ -1,0 +1,12 @@
+PMID: 34633925
+Title: A Personalized Pulmonary Circulation Model to Non-Invasively Calculate Fractional Flow Reserve for Artery Stenosis Detection.
+
+Abstract: OBJECTIVE: Fractional Flow Reserve (FFR) is regarded as a fundamental index to assess pulmonary artery stenosis. The application of FFR can increase the accuracy of detection of pulmonary artery stenosis. However, the invasive examination may carry a number of physiological risks for patients. Therefore, we propose a personalized pulmonary circulation model to non-invasively calculate FFR of pulmonary artery stenosis.
+METHODOLOGY: We have employed a personalized pulmonary circulation model to non-invasively calculate FFR. This model combines boundary condition estimation and 3D pulmonary artery morphology reconstruction for CFD simulation. Firstly, we obtain patient-specific boundary conditions by matching cardiac output and main pulmonary artery pressure. Secondly, the 3D pulmonary artery morphology is reconstructed by semi-automatic segmentation. The CFD simulation is performed to obtain the pressure distribution in the entire pulmonary artery. Finally, the FFR in pulmonary artery stenosis is calculated as the ratio of distal pressure and proximal pressure.
+RESULTS: To validate our model, we compare the simulated FFR with the measured FFR by pressure guide wires examination of 20 patients. The FFR simulated by our model shows a good agreement with the measured FFR by pressure guide wires examination ( r= 0.989, 0.001).
+CONCLUSION: Our proposed personalized pulmonary circulation model is shown to be capable of non-invasively calculating FFR with sufficient accuracy.
+SIGNIFICANCE: The FFR calculated by our personalized circulation model may effectively contribute to non-invasive detection of pulmonary artery stenosis and to a comprehensive evaluation of the entire pulmonary artery vascular tree.
+
+Citation: Chen Z, et al. A Personalized Pulmonary Circulation Model to Non-Invasively Calculate Fractional Flow Reserve for Artery Stenosis Detection. A Personalized Pulmonary Circulation Model to Non-Invasively Calculate Fractional Flow Reserve for Artery Stenosis Detection. 2022; 69:1435-1448. doi: 10.1109/TBME.2021.3119188
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34633925/

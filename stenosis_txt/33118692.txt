@@ -1,0 +1,11 @@
+PMID: 33118692
+Title: Novel Ultrafast Spiral Head MR Angiography Compared to Standard MR and CT Angiography.
+
+Abstract: BACKGROUND AND PURPOSE: Intracranial vessel imaging by time-of-flight MR angiography (TOF-MRA) is one of the most frequently performed investigations in clinical neuroradiology. Particularly in the acute setting, fast imaging is needed for diagnostics, with a sequence ideally depicting even small vessels. The purpose of this study was to compare image and diagnostic quality of a novel ultrashort TOF-MRA sequence accelerated by spiral imaging (TOF-Spiral-short) to a standard TOF-MRA sequence accelerated by compressed sensing (TOF-CS) and to CT angiography (CTA).
+METHODS: Forty-one patients (36.6% showing vessel pathologies) who had undergone TOF-CS (acquisition duration: 4 minutes 8 seconds), TOF-Spiral-short (acquisition duration: 51 seconds; spiral imaging [accelerating factor 1.3], decreased field of view [accelerating factor 1.2], and increased voxel size [accelerating factor 3.3]), and CTA were retrospectively evaluated. Assessment of image quality, diagnostic confidence, and quantification of stenosis or aneurysm diameter were performed by two readers.
+RESULTS: Image quality at the skull base was slightly reduced with TOF-Spiral-short compared to CTA and TOF-CS (P < .05). Delineation of small intracranial vessels was improved by TOF-Spiral-short compared to CTA (P < .0001). In TOF-Spiral-short, diagnostic confidence was not reduced compared to TOF-CS in patients with vessel pathologies. We observed no significant difference in quantitative pathology assessment between TOF-Spiral-short and the other two modalities. TOF-Spiral-short enabled the correct identification of all vessel pathologies.
+CONCLUSIONS: Accelerating TOF-MRA of brain-feeding arteries by a novel ultrashort spiral imaging sequence shows adequate image quality and sufficient diagnostic performance. Thus, TOF-Spiral-short holds potential for fast and reliable diagnostics of vessel pathologies, particularly in the acute setting.
+
+Citation: Greve T, et al. Novel Ultrafast Spiral Head MR Angiography Compared to Standard MR and CT Angiography. Novel Ultrafast Spiral Head MR Angiography Compared to Standard MR and CT Angiography. 2021; 31:45-56. doi: 10.1111/jon.12791
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33118692/

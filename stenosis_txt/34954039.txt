@@ -1,0 +1,11 @@
+PMID: 34954039
+Title: Prediction of Cross-Clamp-Induced Cerebral Ischemia During Carotid Endarterectomy Using Arterial Blood Flow Assessment.
+
+Abstract: BACKGROUND: Cross-clamping during carotid endarterectomy (CEA) is associated with the risk of cerebral ischemia. Various studies have evaluated different criteria for detecting cerebral ischemia, but difficulties arise when ischemic changes appear after the carotid artery is cross-clamped and incised. Here, we explored a parameter that can predict cerebral ischemia prior to cross-clamping during CEA using a blood-flow meter.
+METHODS: The carotid arterial blood flow was measured directly (direct ABF) in the common carotid artery prior to cross-clamping. The anatomical information in preoperative magnetic resonance imaging, cerebral blood flow in xenon-enhanced computed tomography, and carotid peak systolic flow velocity by carotid echo from the skin surface were also evaluated. A decrease in the short-latency somatosensory evoked potentials (SSEP) during cross-clamping to insert a shunt was assessed, and a decrease in amplitude of ≥ 50% was considered an indicator for cerebral ischemia. Surgery was performed under general anesthesia, and a shunt was inserted in all cases.
+RESULTS: Of 156 CEA patients between April 2013 and March 2020, 30 had decreased SSEP during cross-clamping. The baseline characteristics and intra- and postoperative findings were not significantly different between patients with and without a decrease in SSEP. Among the evaluated parameters, only the direct-ABF ratio (ABF-internal carotid artery/ABF-common carotid artery) differed significantly between the 2 groups (P = 0.011). The direct-ABF ratio ≤ 0.58 was predictive of cerebral ischemia during CEA.
+CONCLUSIONS: Direct-ABF measurement with an ultrasonic blood-flow meter can be useful for predicting cerebral ischemia prior to carotid artery cross-clamping during CEA.
+
+Citation: Ishikawa T, et al. Prediction of Cross-Clamp-Induced Cerebral Ischemia During Carotid Endarterectomy Using Arterial Blood Flow Assessment. Prediction of Cross-Clamp-Induced Cerebral Ischemia During Carotid Endarterectomy Using Arterial Blood Flow Assessment. 2022; 83:251-257. doi: 10.1016/j.avsg.2021.11.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34954039/

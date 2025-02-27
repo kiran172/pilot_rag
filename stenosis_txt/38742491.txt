@@ -1,0 +1,12 @@
+PMID: 38742491
+Title: Influence of Pathophysiologic Patterns of Coronary Artery Disease on Immediate Percutaneous Coronary Intervention Outcomes.
+
+Abstract: BACKGROUND: Diffuse coronary artery disease affects the safety and efficacy of percutaneous coronary intervention (PCI). Pathophysiologic coronary artery disease patterns can be quantified using fractional flow reserve (FFR) pullbacks incorporating the pullback pressure gradient (PPG) calculation. This study aimed to establish the capacity of PPG to predict optimal revascularization and procedural outcomes.
+METHODS: This prospective, investigator-initiated, single-arm, multicenter study enrolled patients with at least one epicardial lesion with an FFR ≤0.80 scheduled for PCI. Manual FFR pullbacks were used to calculate PPG. The primary outcome of optimal revascularization was defined as an FFR ≥0.88 after PCI.
+RESULTS: A total of 993 patients with 1044 vessels were included. The mean FFR was 0.68±0.12, PPG 0.62±0.17, and the post-PCI FFR was 0.87±0.07. PPG was significantly correlated with the change in FFR after PCI (r=0.65 [95% CI, 0.61-0.69]; P&lt;0.001) and demonstrated excellent predictive capacity for optimal revascularization (area under the receiver operating characteristic curve, 0.82 [95% CI, 0.79-0.84]; P&lt;0.001). FFR alone did not predict revascularization outcomes (area under the receiver operating characteristic curve, 0.54 [95% CI, 0.50-0.57]). PPG influenced treatment decisions in 14% of patients, redirecting them from PCI to alternative treatment modalities. Periprocedural myocardial infarction occurred more frequently in patients with low PPG (&lt;0.62) compared with those with focal disease (odds ratio, 1.71 [95% CI, 1.00-2.97]).
+CONCLUSIONS: Pathophysiologic coronary artery disease patterns distinctly affect the safety and effectiveness of PCI. PPG showed an excellent predictive capacity for optimal revascularization and demonstrated added value compared with an FFR measurement.
+REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT04789317.
+
+Citation: Collet C, et al. Influence of Pathophysiologic Patterns of Coronary Artery Disease on Immediate Percutaneous Coronary Intervention Outcomes. Influence of Pathophysiologic Patterns of Coronary Artery Disease on Immediate Percutaneous Coronary Intervention Outcomes. 2024; 150:586-597. doi: 10.1161/CIRCULATIONAHA.124.069450
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38742491/

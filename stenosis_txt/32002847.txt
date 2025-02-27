@@ -1,0 +1,11 @@
+PMID: 32002847
+Title: Added value of myocardial blood flow using 18F-flurpiridaz PET to diagnose coronary artery disease: The flurpiridaz 301 trial.
+
+Abstract: BACKGROUND: 18F-Flurpiridaz is a promising investigational radiotracer for PET myocardial perfusion imaging with favorable properties for quantification of myocardial blood flow (MBF). We sought to validate the incremental diagnostic value of absolute MBF quantification in a large multicenter trial against quantitative coronary angiography.
+METHODS: We retrospectively analyzed a subset of patients (N = 231) from the first phase 3 flurpiridaz trial (NCT01347710). Dynamic PET data at rest and pharmacologic stress were fit to a previously validated 2-tissue-compartment model. Absolute MBF and myocardial flow reserve (MFR) were compared with coronary artery disease severity quantified by invasive coronary angiography on a per-patient and per-vessel basis.
+RESULTS: Stress MBF per-vessel accurately identified obstructive disease (c-index 0.79) and progressively declined with increasing stenosis severity (2.35 ± 0.71 in patients without CAD; 1.92 ± 0.49 in non-obstructed territories of CAD patients; and 1.54 ± 0.50 in diseased territories, P < 0.05). MFR similarly declined with increasing stenosis severity (3.03 ± 0.94; 2.69 ± 0.95; and 2.33 ± 0.86, respectively, P < 0.05). In multivariable logistic regression modeling, stress MBF and MFR provided incremental diagnostic value beyond patient characteristics and relative perfusion analysis.
+CONCLUSIONS: Clinical myocardial blood flow measurement with 18F-flurpiridaz cardiac PET shows promise for routine application.
+
+Citation: Moody JB, et al. Added value of myocardial blood flow using 18F-flurpiridaz PET to diagnose coronary artery disease: The flurpiridaz 301 trial. Added value of myocardial blood flow using 18F-flurpiridaz PET to diagnose coronary artery disease: The flurpiridaz 301 trial. 2021; 28:2313-2329. doi: 10.1007/s12350-020-02034-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32002847/

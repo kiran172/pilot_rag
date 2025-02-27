@@ -1,0 +1,11 @@
+PMID: 35943100
+Title: Hypertension and clinical outcomes in patients with familial hypercholesterolemia.
+
+Abstract: BACKGROUND: Hypertension is a known risk factor for cardiovascular disease; however, its impact on clinical outcomes in patients with heterozygous familial hypercholesterolemia (HeFH) is unclear. Hence, we aimed to investigate the effects of hypertension on severity of coronary artery atherosclerosis and cardiovascular outcomes in patients with HeFH.
+METHODS: A total of 480 patients with clinical or molecular diagnosis of definite or probable familial hypercholesterolemia according to Dutch Lipid Clinic Network criteria (DLCN score ≥6) were included in the study. They were divided into the two groups according to their blood pressure status: hypertension group and normotension group. The severity of coronary stenosis was assessed by a number of diseased vessels, Gensini, Syntax, and Jeopardy scores. All individuals were followed up for cardiovascular events (CVEs) and cox proportion hazard models were used to evaluate the association of hypertension with cardiovascular outcomes.
+RESULTS: Patients with hypertension had more severe coronary stenosis and a higher incidence of CVEs compared with the ones with normotension (log-rank P < 0.001). After multivariable adjustment, there was a 2.1-fold increased risk of CVEs among patients with hypertension compared with patients with normotension (adjusted hazard ratio 2.06, 95% confidential interval 1.17-3.65, P < 0.01). Hypertension control status was also associated with CVEs even after adjustment of multiple variables. However, no combined effect on increased cardiovascular risks was detected in this HeFH cohort.
+CONCLUSION: In patients with HeFH, hypertension is an independent risk factor for cardiovascular events. Moreover, blood pressure control status in patients with hypertension is associated with the worse outcomes.
+
+Citation: Liu MM, et al. Hypertension and clinical outcomes in patients with familial hypercholesterolemia. Hypertension and clinical outcomes in patients with familial hypercholesterolemia. 2022; 40:1713-1721. doi: 10.1097/HJH.0000000000003204
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35943100/

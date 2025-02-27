@@ -1,0 +1,11 @@
+PMID: 39109072
+Title: Identifying risk factors for blood culture negative infective endocarditis: An international ID-IRI study.
+
+Abstract: BACKGROUND: Blood culture-negative endocarditis (BCNE) is a diagnostic challenge, therefore our objective was to pinpoint high-risk cohorts for BCNE.
+METHODS: The study included adult patients with definite endocarditis. Data were collected via the Infectious Diseases International Research Initiative (ID-IRI). The study analysing one of the largest case series ever reported was conducted across 41 centers in 13 countries. We analysed the database to determine the predictors of BCNE using univariate and logistic regression analyses.
+RESULTS: Blood cultures were negative in 101 (11.65 %) of 867 patients. We disclosed that as patients age, the likelihood of a negative blood culture significantly decreases (OR 0.975, 95 % CI 0.963-0.987, p < 0.001). Additionally, factors such as rheumatic heart disease (OR 2.036, 95 % CI 0.970-4.276, p = 0.049), aortic stenosis (OR 3.066, 95 % CI 1.564-6.010, p = 0.001), mitral regurgitation (OR 1.693, 95 % CI 1.012-2.833, p = 0.045), and prosthetic valves (OR 2.539, 95 % CI 1.599-4.031, p < 0.001) are associated with higher likelihoods of negative blood cultures. Our model can predict whether a patient falls into the culture-negative or culture-positive groups with a threshold of 0.104 (AUC±SE = 0.707 ± 0.027). The final model demonstrates a sensitivity of 70.3 % and a specificity of 57.0 %.
+CONCLUSION: Caution should be exercised when diagnosing endocarditis in patients with concurrent cardiac disorders, particularly in younger cases.
+
+Citation: Filiz M, et al. Identifying risk factors for blood culture negative infective endocarditis: An international ID-IRI study. Identifying risk factors for blood culture negative infective endocarditis: An international ID-IRI study. 2024; 60-61:101453. doi: 10.1016/j.nmni.2024.101453
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39109072/

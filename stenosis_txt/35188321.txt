@@ -1,0 +1,12 @@
+PMID: 35188321
+Title: TAVR operator volumes, trends, and geographic variations amongst Medicare beneficiaries in the United States.
+
+Abstract: OBJECTIVES: To evaluate transcatheter aortic valve replacement (TAVR) operator procedural volumes, and describe temporal and geographic trends.
+BACKGROUND: TAVR is the standard of care for most patients with severe symptomatic aortic stenosis. Despite an association between operator procedural volume and outcomes, nationwide TAVR operator volumes have been incompletely described.
+METHODS: We queried the National Medicare Provider Utilization and Payment Database for transfemoral TAVRs from 2014 to 2018. Annual operator volume, state and regional volumes, and longitudinal trends were extracted and analyzed using descriptive statistics.
+RESULTS: In 2018, the mean annual operator volume was 23.6 TAVRs. The highest 1% of operators by volume performed 7.6% of total TAVR procedures in the United States, while 35.7% of operators performed 10 or fewer TAVRs per year. From 2014 to 2018, there was a 53.9% annualized increase in TAVRs, and the mean annual volume per operator grew from 12.5 to 23.6. There was more than five-fold variability in the density of operators (range 0.35-1.79 operators per 100,000 population) and mean operator volume by state (range 14.2-52.4 TAVRs per operator).
+CONCLUSIONS: In this nationally representative study of operators performing transfemoral TAVRs among Medicare patients, we found the mean annual volume of TAVR in 2018 to be 23.6 and has increased since 2014. There was considerable variability in operator density and procedural volumes, with a significant proportion of operators performing 10 or fewer TAVRs per year. Ambiguity remains in regard to the optimal balance of procedural requirements to sustain high efficacy outcomes and ensure critical access to TAVR therapies.
+
+Citation: Simpson TF, et al. TAVR operator volumes, trends, and geographic variations amongst Medicare beneficiaries in the United States. TAVR operator volumes, trends, and geographic variations amongst Medicare beneficiaries in the United States. 2022; 99:1181-1185. doi: 10.1002/ccd.30134
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35188321/

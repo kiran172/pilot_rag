@@ -1,0 +1,12 @@
+PMID: 36198484
+Title: Early surgical intervention versus conservative management of asymptomatic severe aortic stenosis: a systematic review and meta-analysis.
+
+Abstract: OBJECTIVE: Timing of intervention for patients with asymptomatic severe aortic stenosis (AS) remains controversial. To compare the outcomes of early aortic valve replacement (AVR) versus watchful waiting (WW) in patients with asymptomatic severe AS.
+METHODS: We systematically searched PubMed, Embase and Cochrane databases, in December 2021, for studies comparing early AVR with WW in the treatment of asymptomatic severe AS. Random-effects meta-analysis was performed.
+RESULTS: Twelve studies were included in which two were randomised clinical trials. A total of 4130 patients were included, providing a 1092 pooled death events. Our meta-analysis showed a significantly lower all-cause mortality for the early AVR compared with WW group, although with a high amount of heterogeneity between studies in the magnitude of the effect (pooled OR 0.40; 95% CI 0.35 to 0.45, p<0.01; I²=61%). An early surgery strategy displayed a significantly lower cardiovascular mortality (pooled OR 0.33; 95% CI 0.19 to 0.56, p<0.01; I²=64%) and heart failure hospitalisation (pooled OR 0.19; 95% CI 0.10 to 0.39, p<0.01, I²=7%). However, both groups had similar rates of stroke (pooled OR 1.30; 95% CI 0.73 to 2.29, p=0.36, I²=0%) and myocardial infarction (pooled OR 0.49; 95% CI 0.19 to 1.27, p=0.14, I²= 0%).
+CONCLUSIONS: This study suggests that for patients with asymptomatic severe AS an early surgical intervention compared with a conservative WW strategy was associated with a lower heart failure hospitalisation and a similar rate of stroke or myocardial infarction, although with significant risk of bias.
+PROSPERO REGISTRATION NUMBER: CRD42021291144.
+
+Citation: Costa GNF, et al. Early surgical intervention versus conservative management of asymptomatic severe aortic stenosis: a systematic review and meta-analysis. Early surgical intervention versus conservative management of asymptomatic severe aortic stenosis: a systematic review and meta-analysis. 2023; 109:314-321. doi: 10.1136/heartjnl-2022-321411
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36198484/

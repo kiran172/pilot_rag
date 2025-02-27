@@ -1,0 +1,11 @@
+PMID: 38663808
+Title: Predictive value of plaque characteristics for identification of lesions causing ischemia.
+
+Abstract: BACKGROUND: Functional assessment using fractional flow reserve (FFR) and anatomical assessment using optical coherence tomography (OCT) are used in clinical practice for patients with intermediate coronary stenosis. Moreover, coronary computed tomography angiography (CTA) is a common noninvasive imaging technique for evaluating suspected coronary artery disease before being referred for angiography. This study aimed to investigate the association between FFR and plaque characteristics assessed using coronary CTA and OCT for intermediate coronary stenosis.
+METHODS: Based on a prospective multicenter registry, 159 patients having 339 coronary lesions with intermediate stenosis were included. All patients underwent coronary CTA before being referred for coronary angiography, and both FFR measurements and OCT examinations were performed during angiography. A stenotic lesion identified with FFR ≤0.80 was deemed diagnostic of an ischemia-causing lesion. The predictive value of plaque characteristics assessed using coronary CTA and OCT for identifying lesions causing ischemia was analyzed.
+RESULTS: Stenosis severity and plaque characteristics on coronary CTA and OCT differed between lesions that caused ischemia and those that did not. In multivariate analysis, low attenuation plaque on coronary CTA (odds ratio [OR]=2.78; P=0.038), thrombus (OR=5.13; P=0.042), plaque rupture (OR=3.25; P=0.017), and intimal vasculature on OCT (OR=2.57; P=0.012) were independent predictors of ischemic lesions. Increasing the number of these plaque characteristics offered incremental improvement in predicting the lesions causing ischemia.
+CONCLUSIONS: Comprehensive anatomical evaluation of coronary stenosis may provide additional supportive information for predicting the lesions causing ischemia.
+
+Citation: Lee YJ, et al. Predictive value of plaque characteristics for identification of lesions causing ischemia. Predictive value of plaque characteristics for identification of lesions causing ischemia. 2024; 406:132097. doi: 10.1016/j.ijcard.2024.132097
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38663808/

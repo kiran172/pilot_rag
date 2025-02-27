@@ -1,0 +1,12 @@
+PMID: 36529306
+Title: Machine learning-based predictive risk models for 30-day and 1-year mortality in severe aortic stenosis patients undergoing transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Predictive risk score for mortality plays an important role in the decision-making in patient selection and risk stratification for TAVI. Existing established predictive risk scores had poor discrimination performance in the prediction of mortality after the TAVI.
+OBJECTIVES: The present study aimed to develop machine learning-based predictive models for 30-day and 1-year mortality in severe aortic stenosis patients undergoing TAVI.
+METHODS: A total of 186 patients in a retrospective cohort study were analyzed. The models were fitted by a decision tree. Each model was tested in 100 iterations of 80:20 stratified random splitting into training/testing samples and 10-fold cross-validation.
+RESULTS: Variables that predict 30-day mortality are a set of factors driven mainly by height, chronic lung disease, STS score, preoperative LVEF, age, and preoperative LVOT VTI. Variables that predict 1-year mortality are a set of factors consisting of preoperative LVEF, STS score, heart rate, systolic blood pressure, home oxygen use, serum creatinine level, and preoperative LVOT Vmax. This decision tree-generated predictive models for 30-day and 1- year mortality provided the most precise accuracy of 0.97 and 0.90 with the AUC-ROC curves of 0.83 and 0.71 on 30-day and 1-year mortality on testing data and had better discrimination performance compared to the existing established TAVI predictive risk scores.
+CONCLUSIONS: These machine learning models show excellent accuracy and have a better prediction for 30-day and 1-year mortality than the existing established TAVI predictive risk scores. A customized predictive model deems to be properly developed for better risk discrimination among cohorts.
+
+Citation: Lertsanguansinchai P, et al. Machine learning-based predictive risk models for 30-day and 1-year mortality in severe aortic stenosis patients undergoing transcatheter aortic valve implantation. Machine learning-based predictive risk models for 30-day and 1-year mortality in severe aortic stenosis patients undergoing transcatheter aortic valve implantation. 2023; 374:20-26. doi: 10.1016/j.ijcard.2022.12.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36529306/

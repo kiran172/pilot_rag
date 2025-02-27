@@ -1,0 +1,12 @@
+PMID: 39484012
+Title: Coronary obstruction analysis in transcatheter aortic valve implantation through patient-specific computational modelling.
+
+Abstract: BACKGROUND: Coronary obstruction (CO) is a rare but devasting complication during transcatheter aortic valve replacement (TAVR).
+OBJECTIVES: We aim to demonstrate that the predicted distance between the coronary ostia and the closest structure derived with patient-specific computer simulation is associated with CO risk during TAVR.
+METHODS: We retrospectively analysed 14 aortic stenosis patients who underwent TAVR through finite element simulation. The frame deformation predicted with patient-specific computer simulation was qualitatively and quantitatively compared to the post-operative device deformation. The minimum distance between each coronary ostium and the closest structure was calculated and compared in patients who developed CO, at high risk of CO, and at no risk of CO.
+RESULTS: Four patients experienced CO during TAVR, 5 patients were at high risk of CO, and the remaining 5 patients had no risk of CO. A high coefficient of determination was obtained for all measurements extracted from the simulated device and the post-operative device (≥0.95). Simulations predicted shorter distance between the coronary ostium and the closest structure in patients who experienced CO, compared to patients at high risk of CO or who did not experience this complication (right coronary: 5.9 vs. 6.8 vs. 8.8 mm, left coronary: 3.0 vs. 3.3 vs. 6.5 mm respectively).
+CONCLUSIONS: The distance between the coronary ostium and the closest structure was lower in patients who experienced CO during TAVR through patient-specific computational simulation. This technology enables coronary obstruction analysis before TAVR in the future.
+
+Citation: Fan J, et al. Coronary obstruction analysis in transcatheter aortic valve implantation through patient-specific computational modelling. Coronary obstruction analysis in transcatheter aortic valve implantation through patient-specific computational modelling. 2024; 11:1432235. doi: 10.3389/fcvm.2024.1432235
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39484012/

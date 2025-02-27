@@ -1,0 +1,12 @@
+PMID: 35066980
+Title: Propensity matched analysis of vascular complications using integrated or expandable sheaths for TAVR.
+
+Abstract: OBJECTIVES: Vascular access site complications increase morbidity and mortality in transcatheter aortic valve replacement (TAVR).
+BACKGROUND: Medtronic's EnVeo PRO® low-profile sheath concept and Edwards' expandable eSheath® aim to lower vascular trauma and access site complications. This study aims to compare Valve Academic Research Consortium (VARC)-3 defined access-related vascular complications using the two different transcatheter heart valve (THV) delivery concepts.
+METHODS: We performed a retrospective, propensity-matched study to compare access site vascular complications in 756 consecutive patients who underwent a transfemoral TAVR using a Medtronic Evolut-R®/Evolut-PRO® or an Edwards Sapien3®/Sapien3ultra® THV.
+RESULTS: Propensity score matching resulted in 275 patient pairs. The primary endpoint of major VARC-3 vascular complication was 7.6% in the Medtronic group and 12.7% in the Edwards group (p = 0.066). Minor VARC-3 vascular complications were 9.1% and 8%, respectively (p = 0.76). VARC-3 bleeding complications (8.4% vs. 12.7%, p = 0.129) length of hospital stay (7.6  + 5.4 vs. 7.5  + 3.7 days, p = 0.783) and in-hospital mortality (1.1% vs. 0.4%, p = 0.624) were comparable between both groups.
+CONCLUSIONS: In a propensity-matched TAVR population, patients treated with the integrated sheath showed a trend towards fewer major vascular complications than patients treated with an expandable sheath, however, the difference was not statistically significant.
+
+Citation: Ruge H, et al. Propensity matched analysis of vascular complications using integrated or expandable sheaths for TAVR. Propensity matched analysis of vascular complications using integrated or expandable sheaths for TAVR. 2022; 99:1611-1618. doi: 10.1002/ccd.30088
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35066980/

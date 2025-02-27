@@ -1,0 +1,12 @@
+PMID: 31649025
+Title: Clinical symptoms and associated vascular imaging findings in Takayasu's arteritis compared to giant cell arteritis.
+
+Abstract: OBJECTIVE: To compare the presence of head, neck and upper extremity symptoms in patients with Takayasu's (TAK) and giant cell arteritis (GCA) and their association with vascular inflammation assessed by 18F-fluorodeoxyglucose positron emission tomography (FDG-PET) or arterial damage assessed by magnetic resonance angiography (MRA).
+METHODS: Patients with TAK and GCA underwent clinical and imaging assessments within 24 hours, blinded to each other. Vascular inflammation was defined as arterial FDG-PET uptake greater than liver by visual assessment. Arterial damage was defined as stenosis, occlusion, or aneurysm by MRA. Clinically reported symptoms were compared with corresponding imaging findings using generalised mixed model regression. Cranial symptoms were studied in association with burden of arterial disease in the neck using ordinal regression.
+RESULTS: Participants with TAK (n=56) and GCA (n=54) contributed data from 270 visits. Carotidynia was reported only in patients with TAK (21%) and was associated with vascular inflammation (p<0.01) but not damage (p=0.33) in the corresponding carotid artery. Posterior headache was reported in TAK (16%) and GCA (20%) but was only associated with corresponding vertebral artery inflammation and damage in GCA (p<0.01). Arm claudication was associated with subclavian artery damage (p<0.01) and inflammation (p=0.04) in TAK and with damage in GCA (p<0.01). Patients with an increased burden of damaged neck arteries were more likely to experience positional lightheadedness (p<0.01) or a major central nervous system event (p=0.01).
+CONCLUSION: The distribution of symptoms and association with imaging abnormalities differs in patients with TAK and GCA. These findings may help clinicians predict associated FDG-PET and MRA findings based on a specific clinical symptom.
+CLINICAL TRIAL REGISTRATION NUMBER: NCT02257866.
+
+Citation: Michailidou D, et al. Clinical symptoms and associated vascular imaging findings in Takayasu's arteritis compared to giant cell arteritis. Clinical symptoms and associated vascular imaging findings in Takayasu's arteritis compared to giant cell arteritis. 2020; 79:262-267. doi: 10.1136/annrheumdis-2019-216145
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31649025/

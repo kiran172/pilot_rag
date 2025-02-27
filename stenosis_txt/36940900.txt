@@ -1,0 +1,11 @@
+PMID: 36940900
+Title: Center-Level Variation in Hospitalization Costs of Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Using a nationally representative database, the present study evaluated the degree of center-level variation in the cost of transcatheter aortic valve replacement (TAVR).
+METHODS: All adults undergoing elective, isolated TAVR were identified in the 2016 to 2018 Nationwide Readmissions Database. Multilevel mixed-effects models were used to identify patient and hospital characteristics associated with hospitalization costs. The random intercept for each hospital was generated and considered to be the baseline cost attributable to care at each center. Hospitals in the highest decile of baseline costs were classified as high-cost hospitals. The association of high-cost hospital status with in-hospital mortality and perioperative complications was subsequently assessed.
+RESULTS: An estimated 119,492 patients, with a mean age of 80 years and a 45.9% prevalence of female sex, met the study criteria. Analysis of random intercepts indicated that 54.3% of variability in costs was attributable to interhospital differences rather than patient factors. Perioperative respiratory failure, neurologic complications, and acute kidney injury were associated with increased episodic expenditure but did not explain the observed center-level variation. The baseline cost associated with each hospital ranged from -$26,000 to $162,000. Notably, high-cost hospital status was not linked to annual TAVR caseload or to odds of mortality (P = .83), acute kidney injury (P = .18), respiratory failure (P = .32), or neurologic complications (P = .55).
+CONCLUSIONS: The present analysis identified significant variation in the cost of TAVR, which was largely attributable to center-level rather than patient factors. Hospital TAVR volume and occurrence of complications were not drivers of the observed variation.
+
+Citation: Sanaiha Y, et al. Center-Level Variation in Hospitalization Costs of Transcatheter Aortic Valve Replacement. Center-Level Variation in Hospitalization Costs of Transcatheter Aortic Valve Replacement. 2024; 117:527-533. doi: 10.1016/j.athoracsur.2023.03.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36940900/

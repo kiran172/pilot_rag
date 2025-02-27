@@ -1,0 +1,12 @@
+PMID: 35981841
+Title: Impact of Moderate Aortic Stenosis on Long-Term Clinical Outcomes: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: The clinical course of patients with moderate aortic stenosis (AS) remains incompletely defined.
+OBJECTIVES: This study sought to analyze the clinical course of moderate AS and compare it with other stages of the disease.
+METHODS: Multiple electronic databases were searched to identify studies on adult moderate AS. Random-effects models were used to derive pooled estimates. The primary endpoint was all-cause death. The secondary endpoints were cardiac death, heart failure, sudden death, and aortic valve replacement.
+RESULTS: Among a total of 25 studies (12,143 moderate AS patients, 3.7 years of follow-up), pooled rates per 100 person-years were 9.0 (95% CI: 6.9 to 11.7) for all-cause death, 4.9 (95% CI: 3.1 to 7.5) for cardiac death, 3.9 (95% CI: 1.9 to 8.2) for heart failure, 1.1 (95% CI: 0.8 to 1.5) for sudden death, and 7.2 (95% CI: 4.3 to 12.2) for aortic valve replacement. Meta-regression analyses detected that diabetes (P = 0.019), coronary artery disease (P = 0.017), presence of symptoms (P < 0.001), and left ventricle (LV) dysfunction (P = 0.009) were associated with a significant impact on the overall estimate of all-cause death. All-cause mortality was higher in patients with reduced LV ejection fraction (<50%) than with normal LV ejection fraction: 16.5 (95% CI: 5.2 to 52.3) and 4.2 (95% CI: 1.4 to 12.8) per 100 person-years, respectively. Compared with moderate AS, the incidence rate difference of all-cause mortality was -3.9 (95% CI: -6.7 to -1.1) for no or mild AS and +2.2 (95% CI: +0.8 to +3.5) for severe AS patients.
+CONCLUSIONS: Moderate AS appears to be associated with a mortality risk higher than no or mild AS but lower than severe AS, which increases in specific population subsets. The impact of early intervention in moderate AS patients having high-risk features deserves further investigation.
+
+Citation: Coisne A, et al. Impact of Moderate Aortic Stenosis on Long-Term Clinical Outcomes: A Systematic Review and Meta-Analysis. Impact of Moderate Aortic Stenosis on Long-Term Clinical Outcomes: A Systematic Review and Meta-Analysis. 2022; 15:1664-1674. doi: 10.1016/j.jcin.2022.06.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35981841/

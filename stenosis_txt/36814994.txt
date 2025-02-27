@@ -1,0 +1,11 @@
+PMID: 36814994
+Title: Genetic Variants in PHACTR1 & LPL Mediate Restenosis Risk in Coronary Artery Patients.
+
+Abstract: BACKGROUND AND OBJECTIVE: Coronary artery disease (CAD) is a major cause of death worldwide. Revascularization via stent placement or coronary artery bypass grafting (CABG) are standard treatments for CAD. Despite a high success rate, these approaches are associated with long-term failure due to restenosis. Risk factors associated with restenosis were investigated using a case-control association study design.
+METHODS: Five thousand two hundred and forty-two patients were enrolled in this study and were assigned as follows: Stenosis Group: 3570 patients with CAD >50% without a prior stent or CABG (1394 genotyped), and Restenosis Group: 1672 patients with CAD >50% and prior stent deployment or CABG (705 genotyped). Binomial regression models were applied to investigate the association of restenosis with diabetes, hypertension, and dyslipidemia. The genetic association with restenosis was conducted using PLINK 1.9.
+RESULTS: Dyslipidemia is a major risk factor (Odds Ratio (OR) = 2.14, P-value &lt;0.0001) for restenosis particularly among men (OR = 2.32, P &lt; 0.0001), while type 2 diabetes (T2D) was associated with an increased risk of restenosis in women (OR = 1.36, P = 0.01). The rs9349379 (PHACTR1) and rs264 (LPL) were associated with an increased risk of restenosis in our patients. PHACTR1 variant was associated with increased risk of restenosis mainly in women and in diabetic patients, while the LPL variant was associated with increased risk of restenosis in men.
+CONCLUSION: The rs9349379 in PHACTR1 gene is significantly associated with restenosis, this association is more pronounced in women and in diabetic patients. The rs264 in LPL gene was associated with increased risk of restenosis in male patients.
+
+Citation: Al Hageh C, et al. Genetic Variants in PHACTR1 & LPL Mediate Restenosis Risk in Coronary Artery Patients. Genetic Variants in PHACTR1 & LPL Mediate Restenosis Risk in Coronary Artery Patients. 2023; 19:83-92. doi: 10.2147/VHRM.S394695
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36814994/

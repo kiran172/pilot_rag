@@ -1,0 +1,11 @@
+PMID: 34585652
+Title: Determinants of Leptomeningeal Collateral Status Variability in Ischemic Stroke Patients.
+
+Abstract: BACKGROUND: Collateral status is an indicator of a favorable outcome in stroke. Leptomeningeal collaterals provide alternative routes for brain perfusion following an arterial occlusion or flow-limiting stenosis. Using a large cohort of ischemic stroke patients, we examined the relative contribution of various demographic, laboratory, and clinical variables in explaining variability in collateral status.
+METHODS: Patients with acute ischemic stroke in the anterior circulation were enrolled in a multi-center hospital-based observational study. Intracranial occlusions and collateral status were identified and graded using multiphase computed tomography angiography. Based on the percentage of affected territory filled by collateral supply, collaterals were graded as either poor (0-49%), good (50-99%), or optimal (100%). Between-group differences in demographic, laboratory, and clinical factors were explored using ordinal regression models. Further, we explored the contribution of measured variables in explaining variance in collateral status.
+RESULTS: 386 patients with collateral status classified as poor (n = 64), good (n = 125), and optimal (n = 197) were included. Median time from symptom onset to CT was 120 (IQR: 78-246) minutes. In final multivariable model, male sex (OR 1.9, 95% CIs [1.2, 2.9], p = 0.005) and leukocytosis (OR 1.1, 95% CIs [1.1, 1.2], p = 0.001) were associated with poor collaterals. Measured variables only explained 44.8-53.0% of the observed between-patient variance in collaterals.
+CONCLUSION: Male sex and leukocytosis are associated with poorer collaterals. Nearly half of the variance in collateral flow remains unexplained and could be in part due to genetic differences.
+
+Citation: Rebchuk AD, et al. Determinants of Leptomeningeal Collateral Status Variability in Ischemic Stroke Patients. Determinants of Leptomeningeal Collateral Status Variability in Ischemic Stroke Patients. 2022; 49:767-773. doi: 10.1017/cjn.2021.226
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34585652/

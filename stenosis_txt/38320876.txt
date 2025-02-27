@@ -1,0 +1,11 @@
+PMID: 38320876
+Title: Transcarotid versus transthoracic transcatheter aortic valve replacement: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Transthoracic approaches may be contraindicated in some patients and may be associated with poorer outcomes. Therefore other alternative access routes are increasingly being performed. We conducted a systematic review of the literature on Transcarotid transcatheter aortic valve replacement (TC-TAVR) and meta-analysis comparing outcomes of TC-TAVR and other access routes.
+METHODS: We comprehensively searched for controlled randomized and non-randomized studies from 4 online databases. We presented data using risk ratios (95 % confidence intervals) and measured heterogeneity using Higgins' I2.
+RESULTS: Sixteen observational studies on Transcarotid TAVR were included in the analysis; 4 studies compared 180 TC-TAVR patients vs 524 TT-TAVR patients. The mean age and STS score for patients undergoing TC-TAVR were 80 years and 7.6 respectively. For TT-TAVR patients, the mean age and STS score were 79.7 years and 8.7 respectively. TC-TAVR patients had lower 30-day MACE [7.8 % vs 13.7 %; OR 0.54 (95 % CI 0.29-0.99, P = 0.05)] and major or life-threatening bleeding [4.0 % vs 14.2 %; OR 0.25 (95 % CI 0.09-0.67, P = 0.006)]. There was no significant difference in 30-day: mortality [5.0 % vs 8.6 %; OR 0.61 (95 % CI 0.29-1.30, P = 0.20)], stroke or transient ischemic attack [2.8 % vs 4.0 %; OR 0.65 (95 % CI 0.25-1.73, P = 0.39)] and moderate or severe aortic valve regurgitation [5.0 % vs 4.6 %; OR 1.14. (95 % CI 0.52-2.52, P = 0.75)]. There was a trend towards fewer major vascular complications in TC-TAVR [3.0 % vs 7.8 %; OR 0.42 (95 % CI 0.16-1.12, P = 0.08)].
+CONCLUSION: Compared with transthoracic TAVR, TC-TAVR patients had lower odds of 30-day MACE and life-threatening bleeding and no differences in 30-day mortality, stroke or TIA, aortic valve regurgitation.
+
+Citation: Munguti C, et al. Transcarotid versus transthoracic transcatheter aortic valve replacement: A systematic review and meta-analysis. Transcarotid versus transthoracic transcatheter aortic valve replacement: A systematic review and meta-analysis. 2024; 63:8-13. doi: 10.1016/j.carrev.2024.01.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38320876/

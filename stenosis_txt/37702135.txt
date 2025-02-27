@@ -1,0 +1,11 @@
+PMID: 37702135
+Title: Prospective validation of a risk score to predict pacemaker implantation after transcatheter aortic valve replacement.
+
+Abstract: INTRODUCTION: The need for pacemaker is a common complication after transcatheter aortic valve replacement (TAVR). We previously described the Emory Risk Score (ERS) to predict the need for new pacemaker implant (PPM) after TAVR. Metrics included in the score are a history of syncope, pre-existing RBBB, QRS duration ≥140 ms, and prosthesis oversizing ≥16%. To prospectively validate the previously described risk score.
+METHODS: We prospectively evaluated all patients without pre-existing pacemakers, ICD, or pre-existing indications for pacing undergoing TAVR with the Edwards SAPIEN 3 prosthesis at our institution from March 2019 to December 2020 (n = 661). Patients were scored prospectively; however, results were blinded from clinical decision-making. The primary endpoint was PPM at 30 days after TAVR. Performance of the ERS was evaluated using logistic regression, a calibration curve to prior performance, and receiver operating characteristic (ROC) analysis.
+RESULTS: A total of 48 patients (7.3%) had PPM after TAVR. A higher ERS predicted an increased likelihood of PPM (OR 2.61, 95% CI: 2.05-3.25 per point, p < 0.001). There was good correlation between observed and expected values on the calibration curve (slope = 1.04, calibration at large = 0.001). The area under the ROC curve was 0.81 (95% CI [0.74-0.88], p < 0.001).
+CONCLUSIONS: The ERS prospectively predicted the need for PPM in a serial, real-world cohort of patients undergoing TAVR with a balloon-expandable prosthesis, confirming findings previously described in retrospective cohorts. Notably, the prospective performance of the score was comparable with that of the initial cohorts. The risk score could serve as a framework for preprocedural risk stratification for PPM after TAVR.
+
+Citation: Black GB, et al. Prospective validation of a risk score to predict pacemaker implantation after transcatheter aortic valve replacement. Prospective validation of a risk score to predict pacemaker implantation after transcatheter aortic valve replacement. 2023; 34:2225-2232. doi: 10.1111/jce.16061
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37702135/

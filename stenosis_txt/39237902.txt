@@ -1,0 +1,11 @@
+PMID: 39237902
+Title: Tudor-SN exacerbates pathological vascular remodeling by promoting the polyubiquitination of PTEN via NEDD4-1.
+
+Abstract: BACKGROUND: Dysregulation of vascular homeostasis can induce cardiovascular diseases and increase global mortality rates. Although lineage tracing studies have confirmed the pivotal role of modulated vascular smooth muscle cells (VSMCs) in the progression of pathological vascular remodeling, the underlying mechanisms are still unclear.
+METHODS: The expression of Tudor-SN was determined in VSMCs of artery stenosis, PDGF-BB-treated VSMCs and atherosclerotic plaque. Loss- and gain-of-function approaches were used to explore the role of Tudor-SN in the modulation of VSMCs phenotype both in vivo and in vitro.
+RESULTS: In this study, we demonstrate that Tudor-SN expression is significantly elevated in injury-induced arteries, atherosclerotic plaques, and PDGF-BB-stimulated VSMCs. Tudor-SN deficiency attenuates, but overexpression aggravates the synthetic phenotypic switching of VSMCs and pathological vascular remodeling. Loss of Tudor-SN also reduces atherosclerotic plaque formation and increases plaque stability. Mechanistically, PTEN, the major regulator of the MAPK and PI3K-AKT signaling pathways, plays a vital role in Tudor-SN-mediated regulation on proliferation and migration of VSMCs. Tudor-SN facilitates the polyubiquitination and degradation of PTEN via NEDD4-1, thus exacerbating vascular remodeling under pathological conditions. BpV (HOpic), a specific inhibitor of PTEN, not only counteracts the protective effect of Tudor-SN deficiency on proliferation and migration of VSMCs, but also abrogates the negative effect of carotid artery injury-induced vascular remodeling in mice.
+CONCLUSIONS: Our findings reveal that Tudor-SN deficiency significantly ameliorated pathological vascular remodeling by reducing NEDD4-1-dependent PTEN polyubiquitination, suggesting that Tudor-SN may be a novel target for preventing vascular diseases.
+
+Citation: Wu Y, et al. Tudor-SN exacerbates pathological vascular remodeling by promoting the polyubiquitination of PTEN via NEDD4-1. Tudor-SN exacerbates pathological vascular remodeling by promoting the polyubiquitination of PTEN via NEDD4-1. 2024; 31:88. doi: 10.1186/s12929-024-01076-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39237902/

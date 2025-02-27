@@ -1,0 +1,12 @@
+PMID: 36889849
+Title: Prognostic Value of Preprocedural LV Global Longitudinal Strain for Post-TAVR-Related Morbidity and Mortality: A Meta-Analysis.
+
+Abstract: BACKGROUND: Left ventricular ejection fraction (LVEF) demonstrates limited prognostic value for post-transcatheter aortic valve replacement (TAVR) outcomes. Evidence regarding the potential role of left ventricular global longitudinal strain (LV-GLS) in this setting is inconsistent.
+OBJECTIVES: The aim of this systematic review and meta-analysis of aggregated data was to evaluate the prognostic value of preprocedural LV-GLS for post-TAVR-related morbidity and mortality.
+METHODS: The authors searched PubMed, Embase, and Web of Science for studies investigating the association between preprocedural 2-dimensional speckle-tracking-derived LV-GLS and post-TAVR clinical outcomes. An inversely weighted random effects meta-analysis was adopted to investigate the association between LV-GLS vs primary (ie, all-cause mortality) and secondary (ie, major cardiovascular events [MACE]) post-TAVR outcomes.
+RESULTS: Of the 1,130 identified records, 12 were eligible, all of which had a low-to-moderate risk of bias (Newcastle-Ottawa scale). On average, 2,049 patients demonstrated preserved LVEF (52.6% ± 1.7%), but impaired LV-GLS (-13.6% ± 0.6%). Patients with a lower LV-GLS had a higher all-cause mortality (pooled HR: 2.01; 95% CI: 1.59-2.55) and MACE (pooled odds ratio [OR]: 1.26; 95% CI: 1.08-1.47) risk compared with patients with higher LV-GLS. In addition, each percentage point decrease of LV-GLS (ie, toward 0%) was associated with an increased mortality (HR: 1.06; 95% CI: 1.04-1.08) and MACE risk (OR: 1.08; 95% CI: 1.01-1.15).
+CONCLUSIONS: Preprocedural LV-GLS was significantly associated with post-TAVR morbidity and mortality. This suggests a potential clinically important role of pre-TAVR evaluation of LV-GLS for risk stratification of patients with severe aortic stenosis. (Prognostic value of left ventricular global longitudinal strain in patients with aortic stenosis undergoing Transcatheter Aortic Valve Implantation: a meta-analysis; CRD42021289626).
+
+Citation: Stens NA, et al. Prognostic Value of Preprocedural LV Global Longitudinal Strain for Post-TAVR-Related Morbidity and Mortality: A Meta-Analysis. Prognostic Value of Preprocedural LV Global Longitudinal Strain for Post-TAVR-Related Morbidity and Mortality: A Meta-Analysis. 2023; 16:332-341. doi: 10.1016/j.jcmg.2023.01.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36889849/

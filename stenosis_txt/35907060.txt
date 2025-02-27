@@ -1,0 +1,11 @@
+PMID: 35907060
+Title: Cardiac valve calcification prevalence and association with neutrophil-to-lymphocyte ratio in newly diagnosed patients with non-dialysis chronic kidney disease stage 3-5.
+
+Abstract: OBJECTIVE: Cardiac valvular calcification (CVC) is the main cause of cardiovascular disease and all-cause death in patients with chronic kidney disease (CKD). However, the relationship between Neutrophil lymphocyte ratio (NLR) and CVC in patients with CKD is not clear. In this study, we aimed to investigate the prevalence of CVC in newly diagnosed patients with non-dialysis CKD stage 3-5 and evaluate the correlation between NLR and CVC.
+METHODS: A total of 483 newly diagnosed patients with non-dialysis CKD stage 3-5 were included. According to the presence of CVC, these patients were retrospectively divided into two groups: CVC group and non-CVC group.
+RESULTS: CVC was found in 80 patients (16.56 %), 53 (10.97 %) of whom had only aortic valve calcification (AVC), 18 (3.73 %) had mitral valve calcification (MVC), and 9 (1.86 %) had both AVC and MVC. The level of NLR in the CVC group was significantly higher than that in the non-CVC group (p=0.002). Multivariate logistic regression analysis showed that NLR was an independent risk factor for CVC (95% CI 1.017~1.225, p=0.020). ROC curve analysis showed that the area under the curve of NLR for predicting CVC was 0.610 (95% CI 0.543-0.676, p=0.002). The best cut-off point of NLR was 3.340, with a sensitivity of 49.4 % and a specificity of 70.0 %.
+CONCLUSION: CVC is not uncommon in newly diagnosed patients with non-dialysis CKD stage 3-5, and NLR is an independent risk factor for CVC (Tab. 4, Fig. 1, Ref. 34).
+
+Citation: Li B, et al. Cardiac valve calcification prevalence and association with neutrophil-to-lymphocyte ratio in newly diagnosed patients with non-dialysis chronic kidney disease stage 3-5. Cardiac valve calcification prevalence and association with neutrophil-to-lymphocyte ratio in newly diagnosed patients with non-dialysis chronic kidney disease stage 3-5. 2022; 123:523-527. doi: 10.4149/BLL_2022_084
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35907060/

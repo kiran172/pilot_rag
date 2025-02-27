@@ -1,0 +1,8 @@
+PMID: 35455768
+Title: Numerical Assessment of the Risk of Abnormal Endothelialization for Diverter Devices: Clinical Data Driven Numerical Study.
+
+Abstract: Numerical modeling is an effective tool for preoperative planning. The present work is devoted to a retrospective analysis of neurosurgical treatments for the occlusion of cerebral aneurysms using flow-diverters and hemodynamic factors affecting stent endothelization. Several different geometric approaches have been considered for virtual flow-diverters deployment. A comparative analysis of hemodynamic parameters as a result of computational modeling has been carried out basing on the four clinical cases: one successful treatment, one with no occlusion and two with in stent stenosis. For the first time, a quantitative assessment of both: the limiting magnitude of shear stresses that are necessary for the occurrence of in stent stenosis (MaxWSS > 1.23) and for conditions in which endothelialization is insufficiently active and occlusion of the cervical part of the aneurysm does not occur (MaxWSS < 1.68)—has been statistacally proven (p < 0.01).
+
+Citation: Tikhvinskii D, et al. Numerical Assessment of the Risk of Abnormal Endothelialization for Diverter Devices: Clinical Data Driven Numerical Study. Numerical Assessment of the Risk of Abnormal Endothelialization for Diverter Devices: Clinical Data Driven Numerical Study. 2022; 12:(unknown pages). doi: 10.3390/jpm12040652
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35455768/

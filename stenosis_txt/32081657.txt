@@ -1,0 +1,11 @@
+PMID: 32081657
+Title: Gout and Progression of Aortic Stenosis.
+
+Abstract: BACKGROUND: Patients with aortic stenosis are nearly twice as likely to have a diagnosis of gout compared with individuals without aortic valve disease.
+METHODS: This retrospective study evaluated consecutive adults age ≥65 years with aortic stenosis between December 2012 and November 2016 who underwent at least 2 transthoracic echocardiograms (TTEs) separated by at least 1 year. Severe aortic stenosis was defined as any combination of an aortic valve peak velocity ≥4.0 m/sec, mean gradient ≥40 mm Hg, aortic valve area ≤1 cm2, or decrease in left ventricular ejection fraction as a result of aortic stenosis.
+RESULTS: Of the 699 study patients, gout was present in 73 patients (10%) and not found in 626 patients (90%). Median follow-up was 903 days [552-1302] for patients with gout and 915 days [601-1303] for patients without gout (P = 0.60). The presence of severe aortic stenosis on follow-up transthoracic echocardiogram was more frequent in patients with gout compared to those without gout (74% vs 54%, P = 0.001; hazard ratio [HR] 1.45 [1.09-1.93]), even among the 502 patients without severe aortic stenosis at baseline (63% vs 39%, P = 0.003; hazard ratio 1.43 [1.07-1.91]). Gout remained associated with the development of severe aortic stenosis after multivariable adjustment (adjusted hazard ratio [aHR] 1.46 [1.03-2.08], P = 0.03). The annualized reduction in aortic valve area was numerically greater in the group with gout compared with the group without gout (-0.10 cm2/y [-0.18, -0.03] vs -0.08 cm2/y [-0.16, -0.01], P = 0.09); annualized change in peak velocity and mean gradient did not differ between groups.
+CONCLUSIONS: Progression to severe aortic stenosis was more frequent in patients with gout compared with those without gout, supporting the hypothesis that gout is a risk factor for aortic stenosis.
+
+Citation: Adelsheimer A, et al. Gout and Progression of Aortic Stenosis. Gout and Progression of Aortic Stenosis. 2020; 133:1095-1100.e1. doi: 10.1016/j.amjmed.2020.01.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32081657/

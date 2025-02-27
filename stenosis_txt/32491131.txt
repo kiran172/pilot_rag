@@ -1,0 +1,12 @@
+PMID: 32491131
+Title: Prediction of Stress Map in Ascending Aorta - Optimization of the Coaxial Position in Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUD: Transcatheter aortic valve replacement (TAVR) can reduce mortality among patients with aortic stenosis. Knowledge of pressure distribution and shear stress at the aortic wall may help identify critical regions, where aortic remodeling process may occur. Here a numerical simulation study of the influence of positioning of the prosthetic valve orifice on the flow field is presented.
+OBJECTIVE: The present analysis provides a perspective of great variance on flow behavior due only to angle changes.
+METHODS: A 3D model was generated from computed tomography angiography of a patient who had undergone a TAVR. Different mass flow rates were imposed at the inlet valve.
+RESULTS: Small variations of the tilt angle could modify the nature of the flow, displacing the position of the vortices, and altering the prerssure distribution and the location of high wall shear stress.
+CONCLUSION: These hemodynamic features may be relevant in the aortic remodeling process and distribution of the stress mapping and could help, in the near future, the optimization of the percutaneous prosthesis implantation. (Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0).
+
+Citation: Celis D, et al. Prediction of Stress Map in Ascending Aorta - Optimization of the Coaxial Position in Transcatheter Aortic Valve Replacement. Prediction of Stress Map in Ascending Aorta - Optimization of the Coaxial Position in Transcatheter Aortic Valve Replacement. 2020; 115:680-687. doi: 10.36660/abc.20190385
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32491131/

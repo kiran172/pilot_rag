@@ -1,0 +1,11 @@
+PMID: 38451558
+Title: Intravascular ultrasound-guided percutaneous coronary intervention for patients with unprotected left main coronary artery lesions.
+
+Abstract: BACKGROUND: In percutaneous coronary intervention (PCI) procedures for patients with unprotected left main coronary artery (ULMCA) lesions, intravascular ultrasonography (IVUS) guidance has shown potential for enhancing clinical outcomes. However, studies confirming its superiority to conventional angiographic-guided PCI remain few. This study aimed to assess if IVUS-guided PCI for patients with unprotected LMCA stenosis improves clinical outcomes compared to angiographic-guided PCI.
+METHODS: This randomized clinical study enrolled 181 patients with ULMCA lesions scheduled for drug-eluting stent implantation. Patients were split into 90 in the IVUS-guided group and 91 in the conventional group. Procedural characteristics, clinical outcomes, and the incidence of major adverse cardiovascular event (MACE) were evaluated for all patients. The risk reduction associated with IVUS-guided PCI was evaluated using a multivariate Cox regression analysis.
+RESULTS: Patients who underwent IVUS demonstrated significantly higher pre-dilatation before stenting (88.9% vs. 72.5%, P  = 0.005), post-dilatation balloon diameter (4.46 ± 0.48 vs. 4.21 ± 0.49, P  < 0.001), stent diameter (3.9 ± 0.4 vs. 3.7 ± 0.3, P  = 0.002), and pressure for post dilatation (18 ± 3 vs. 16 ± 2, P  = 0.001). Regarding 12-month outcomes, patients who underwent IVUS demonstrated significantly lower MACE (3.3% vs. 18.7%, P  < 0.001) than those who underwent the conventional method. Multivariate Cox regression analysis revealed that IVUS was related to 84.4% risk reduction of 1-year MACE (HR = 0.156, 95% CI = 0.044-0.556, P  = 0.004).
+CONCLUSION: Compared to angiographic-guided PCI, IVUS-guided PCI resulted in improved clinical results and a markedly reduced risk of MACE in patients with ULMCA lesions.
+
+Citation: Bendary A, et al. Intravascular ultrasound-guided percutaneous coronary intervention for patients with unprotected left main coronary artery lesions. Intravascular ultrasound-guided percutaneous coronary intervention for patients with unprotected left main coronary artery lesions. 2024; 35:171-178. doi: 10.1097/MCA.0000000000001356
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38451558/

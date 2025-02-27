@@ -1,0 +1,11 @@
+PMID: 37837801
+Title: Plaque enhancement predicts recurrence in acute ischemic stroke patients with large artery intracranial atherosclerosis.
+
+Abstract: BACKGROUND: The association between the degree of plaque enhancement and ischemic brain stroke recurrence remains unclear. We aimed to establish models to predict plaque enhancement and stroke recurrence.
+METHODS: Seventy-eight participants with acute ischemic brain stroke due to intracranial arterial stenosis were recruited and divided into high enhancement (HE) and non-HE groups. The relationship between imaging characteristics (degree of stenosis, minimal lumen area, intraplaque hemorrhage, and plaque burden) and the degree of plaque contrast enhancement was analyzed. Inflammatory cytokine expression was examined by flow cytometry. Independent predictors of stroke recurrence were investigated via multivariate Cox proportional hazards regression analysis. Nomogram was used to construct a prediction model. Harrell's concordance indices (c-indices) and calibration curves were used to assess the discrimination of the nomogram. A risk prediction nomogram for prognosis was constructed.
+RESULTS: Thirty-three participants were assigned to the HE group and 45 to the non-HE group. The degree of stenosis and plaque burden in the HE group was higher than that in the non-HE group (P<0.05). Multiple linear regression analysis showed the degree of stenosis was associated with HE (β=0.513; P=0.000). After adjusting for confounding factors, age (HR=1.115; 95%CI=1.034-1.203, P=0.005) and HE plaques (HR=10.457; 95%CI=1.176-93.018; P=0.035) were independent risk factors of stroke recurrence, whereas cytokine levels were not statistically significant between two group.
+CONCLUSIONS: HE of intracranial atherosclerosis plaques is an independent factor for ischemic brain stroke recurrence.
+
+Citation: Zhao Y, et al. Plaque enhancement predicts recurrence in acute ischemic stroke patients with large artery intracranial atherosclerosis. Plaque enhancement predicts recurrence in acute ischemic stroke patients with large artery intracranial atherosclerosis. 2023; 32:107406. doi: 10.1016/j.jstrokecerebrovasdis.2023.107406
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37837801/

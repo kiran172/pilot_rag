@@ -1,0 +1,12 @@
+PMID: 36193709
+Title: Impact of frailty on mortality and quality of life in patients with a history of cancer undergoing transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) is increasingly offered for aortic stenosis (AS) treatment in patients with a history of cancer. The impact of frailty on outcomes in this specific patient population is not well described.
+HYPOTHESIS: Frailty is associated with mortality and poorer quality of life (QOL) outcomes in patients undergoing TAVR with a history of cancer.
+METHODS: This retrospective single center cohort study included AS patients who underwent TAVR from August 1, 2012 to May 15, 2020. Frailty was measured using serum albumin, hemoglobin, gait speed, functional dependence, and cognitive impairment. The primary outcome was a composite of all-cause mortality and QOL at 1 year. A poor primary outcome was defined as either all-cause mortality, Kansas City Cardiomyopathy Questionnaire overall summary (KCCQ-OS) score <45 or a KCCQ-OS score decline of ≥10 points from baseline. Regression analysis was used to determine the impact of frailty on the primary outcome.
+RESULTS: The study population was stratified into active/recent cancer (n = 107), remote cancer (n = 85), and non-cancer (n = 448). Univariate analysis of each cohort showed that frailty was associated with the primary outcome only in the non-cancer cohort (p = .004). Multivariate analysis showed that cancer history was not associated with a poor primary outcome, whereas frailty was (1.7 odds ratio, 95% confidence interval [CI]: 1.1-2.8; p = .028).
+CONCLUSIONS: Frailty is associated with mortality and poor QOL in the overall and non-cancer cohorts. Further investigation is warranted to understand frailty's effect on the cancer population. Frailty should be heavily considered during TAVR evaluation.
+
+Citation: Kosaraju N, et al. Impact of frailty on mortality and quality of life in patients with a history of cancer undergoing transcatheter aortic valve replacement. Impact of frailty on mortality and quality of life in patients with a history of cancer undergoing transcatheter aortic valve replacement. 2022; 45:977-985. doi: 10.1002/clc.23927
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36193709/

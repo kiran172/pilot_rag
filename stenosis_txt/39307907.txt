@@ -1,0 +1,11 @@
+PMID: 39307907
+Title: Correlation analysis between the expression of serum microRNA-665 and the degree of coronary artery stenosis and major adverse cardiovascular events in patients with acute myocardial infarction.
+
+Abstract: BACKGROUND: The purpose of this study was to explore the expression of miR-665 in acute myocardial infarction (AMI) and evaluate its significance in the diagnosis and prognosis of AMI.
+METHODS: 100 patients with AMI were selected as the study group and 80 healthy subjects were chosen as the control group. The levels of miR-665 were detected by reverse transcription quantitative polymerase chain reaction (RT-qPCR) in the two groups. The diagnostic value of miR-665 expression level in AMI was analyzed by the receiver operator characteristic (ROC) curve. Kaplan-Meier curve and Cox regression were used to evaluate the predictive value of miR-665 for major adverse cardiovascular events (MACEs) in patients with AMI within 30 days after percutaneous coronary intervention (PCI).
+RESULTS: The serum miR-665 level of the study group was significantly lower than that of the control group. The level of miR-665 was significantly correlated with clinical indicators of patients with AMI. ROC curve showed that miR-665 has a high diagnostic value for AMI. Survival analysis showed that Gensini score and miR-665 were independent risk factors for the occurrence of MACEs within 30 days after PCI in patients with AMI.
+CONCLUSIONS: Abnormal decrease of serum miR-665 expression level in patients with AMI may increase the risk of MACEs occurrence after PCI.
+
+Citation: Wang C, et al. Correlation analysis between the expression of serum microRNA-665 and the degree of coronary artery stenosis and major adverse cardiovascular events in patients with acute myocardial infarction. Correlation analysis between the expression of serum microRNA-665 and the degree of coronary artery stenosis and major adverse cardiovascular events in patients with acute myocardial infarction. 2024; 19:543. doi: 10.1186/s13019-024-02998-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39307907/

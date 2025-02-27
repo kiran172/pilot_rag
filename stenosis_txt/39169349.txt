@@ -1,0 +1,13 @@
+PMID: 39169349
+Title: The strategic use of Big Data - A study protocol for a multicenter clinical trial testing if the use of the Swespine Dialogue Support alter outcomes in degenerative spine surgery.
+
+Abstract: BACKGROUND: Patients surgically treated for lumbar spinal stenosis or cervical radiculopathy report improvement in approximately two out of three cases. Advancements in Machine Learning and the utility of large datasets have enabled the development of prognostic prediction models within spine surgery. This trial investigates if the use of the postoperative outcome prediction model, the Dialogue Support, can alter patient-reported outcome and satisfaction compared to current practice.
+METHODS: This is a prospective, multicenter clinical trial. Patients referred to a spine clinic with cervical radiculopathy or lumbar spinal stenosis will be screened for eligibility. Participants will be assessed at baseline upon recruitment and at 12 months follow-up. The Dialogue Support will be used on all participants, and they will thereafter be placed into either a surgical or a non-surgical treatment arm, depending on the decision made between patient and surgeon. The surgical treatment group will be studied separately based on diagnosis of either cervical radiculopathy or lumbar spinal stenosis. Both the surgical and the non-surgical group will be compared to a retrospective matched control group retrieved from the Swespine register, on which the Dialogue Support has not been used. The primary outcome measure is global assessment regarding leg/arm pain in the surgical treatment group. Secondary outcome measures include patient satisfaction, Oswestry Disability Index (ODI), EQ-5D, and Numeric Rating Scales (NRS) for pain. In the non-surgical treatment group primary outcome measures are EQ-5D and mortality, as part of a selection bias analysis.
+DISCUSSION: The findings of this study may provide evidence on whether the use of an advanced digital decision tool can alter patient-reported outcomes after surgery.
+TRIAL REGISTRATION: The trial was retrospectively registered at ClinicalTrials.gov on April 17th, 2023, NCT05817747.
+PROTOCOL VERSION: 1.
+TRIAL DESIGN: Clinical multicenter trial.
+
+Citation: Enger EB, et al. The strategic use of Big Data - A study protocol for a multicenter clinical trial testing if the use of the Swespine Dialogue Support alter outcomes in degenerative spine surgery. The strategic use of Big Data - A study protocol for a multicenter clinical trial testing if the use of the Swespine Dialogue Support alter outcomes in degenerative spine surgery. 2024; 25:654. doi: 10.1186/s12891-024-07714-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39169349/

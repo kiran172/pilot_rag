@@ -1,0 +1,11 @@
+PMID: 37696359
+Title: Transaxillary versus transfemoral access as default access in TAVI: A propensity matched analysis.
+
+Abstract: BACKGROUND: Transfemoral (TF) access is default in transcatheter aortic valve implantation (TAVI). Transaxillary (TAx) access has been shown to be a safe alternative in case of prohibitive iliofemoral anatomy, but whether TAx as preferred access has similar safety and efficacy as TF access is unknown. The aim of this study was to compare outcomes between patients treated with self-expanding devices using TF or TAx route as preferred access in TAVI.
+METHODS: A single center cohort of 354 patients treated using TAx as preferred access and a multi-center cohort of 5980 patients treated using TF access were compared. Propensity score matching was used to reduce selection bias and potential confounding. After propensity score matching, each group consisted of 322 patients. Clinical outcomes according to VARC-2 were compared using chi-square test.
+RESULTS: In 6334 patients undergoing TAVI, mean age was 81.4 ± 7.0 years, 57% was female and median logistic EuroSCORE was 14.7% (IQR 9.5-22.6). In the matched population (age 79.3 ± 7.0, 50% female, logistic EuroSCORE 13.4%, IQR 9.0-21.5), primary outcomes 30-day and one-year all-cause mortality were similar between Tax and TF groups (30 days: 5% versus 6%, p = 0.90; 1 year: 20% versus 16%, p = 0.17). Myocardial infarction was more frequent in patients undergoing Tax TAVI compared with TF (4% versus 1%, p = 0.05), but new permanent pacemakers were less frequently implanted (12% versus 21%, p = 0.001).
+CONCLUSION: TAx as preferred access is feasible and safe with outcomes that are comparable to TF access.
+
+Citation: van Wely M, et al. Transaxillary versus transfemoral access as default access in TAVI: A propensity matched analysis. Transaxillary versus transfemoral access as default access in TAVI: A propensity matched analysis. 2024; 394:131353. doi: 10.1016/j.ijcard.2023.131353
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37696359/

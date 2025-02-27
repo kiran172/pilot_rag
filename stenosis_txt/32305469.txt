@@ -1,0 +1,12 @@
+PMID: 32305469
+Title: Comparison Between the Performance of Quantitative Flow Ratio and Perfusion Imaging for Diagnosing Myocardial Ischemia.
+
+Abstract: OBJECTIVES: This study compared the performance of the quantitative flow ratio (QFR) with single-photon emission computed tomography (SPECT) and positron emission tomography (PET) myocardial perfusion imaging (MPI) for the diagnosis of fractional flow reserve (FFR)-defined coronary artery disease (CAD).
+BACKGROUND: QFR estimates FFR solely based on cine contrast images acquired during invasive coronary angiography (ICA). Head-to-head studies comparing QFR with noninvasive MPI are lacking.
+METHODS: A total of 208 (624 vessels) patients underwent technetium-99m tetrofosmin SPECT and [15O]H<sub>2</sub>O PET imaging before ICA in conjunction with FFR measurements. ICA was obtained without using a dedicated QFR acquisition protocol, and QFR computation was attempted in all vessels interrogated by FFR (552 vessels).
+RESULTS: QFR computation succeeded in 286 (52%) vessels. QFR correlated well with invasive FFR overall (R = 0.79; p < 0.001) and in the subset of vessels with an intermediate (30% to 90%) diameter stenosis (R = 0.76; p < 0.001). Overall, per-vessel analysis demonstrated QFR to exhibit a superior sensitivity (70%) in comparison with SPECT (29%; p < 0.001), whereas it was similar to PET (75%; p = 1.000). Specificity of QFR (93%) was higher than PET (79%; p < 0.001) and not different from SPECT (96%; p = 1.000). As such, the accuracy of QFR (88%) was superior to both SPECT (82%; p = 0.010) and PET (78%; p = 0.004). Lastly, the area under the receiver operating characteristics curve of QFR, in the overall sample (0.94) and among vessels with an intermediate lesion (0.90) was higher than SPECT (0.63 and 0.61; p < 0.001 for both) and PET (0.82; p < 0.001 and 0.77; p = 0.002), respectively.
+CONCLUSIONS: In this head-to-head comparative study, QFR exhibited a higher diagnostic value for detecting FFR-defined significant CAD compared with perfusion imaging by SPECT or PET.
+
+Citation: van Diemen PA, et al. Comparison Between the Performance of Quantitative Flow Ratio and Perfusion Imaging for Diagnosing Myocardial Ischemia. Comparison Between the Performance of Quantitative Flow Ratio and Perfusion Imaging for Diagnosing Myocardial Ischemia. 2020; 13:1976-1985. doi: 10.1016/j.jcmg.2020.02.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32305469/

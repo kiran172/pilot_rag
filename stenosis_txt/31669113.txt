@@ -1,0 +1,11 @@
+PMID: 31669113
+Title: Cardiovascular Outcomes with Transcatheter vs. Surgical Aortic Valve Replacement in Low-Risk Patients: An Updated Meta-Analysis of Randomized Controlled Trials.
+
+Abstract: BACKGROUND: TAVR is an established treatment option in high and intermediate-risk patients with severe AS. There is less data regarding the efficacy of TAVR in low-risk patients. This meta-analysis evaluated efficacy and safety outcomes of transcatheter aortic valve replacement (TAVR) in comparison to surgical aortic valve replacement (SAVR) in low-risk patients with severe aortic stenosis (AS).
+METHODS: Databases were searched for randomized controlled trials (RCTs) that compared TAVR with SAVR for the treatment of low-risk patients with severe AS. We calculated pooled odds ratios (ORs) and 95% confidence intervals (CIs) using the random-effects model.
+RESULTS: The final analysis included 2953 patients from 5 studies. Compared to SAVR, TAVR was associated with similar mid-term mortality [OR 0.67; 95% CI 0.37-1.21; p = 0.18], as well as similar short-term mortality [OR 0.51; 95% CI 0.24-1.11; p = 0.09]. Randomization to TAVR was associated with a reduced risk of developing acute kidney injury [OR 0.26; 95% CI 0.13-0.52; p < 0.001], short-term major bleeding [OR 0.27; 95% CI 0.12-0.60; p < 0.001] and new-onset atrial fibrillation [OR 0.17; 95% CI 0.14-0.21; p < 0.001]. However, TAVR was associated with a higher risk of requiring permanent pacemaker implantation [OR 4.25; 95% CI 1.86-9.73; p < 0.001]. There was no significant difference in the risk of myocardial infarction, stroke, endocarditis or aortic valve re-intervention between the two groups.
+CONCLUSIONS: Our meta-analysis showed that TAVR has similar clinical efficacy to SAVR, with a more favorable safety profile, in patients with severe AS who are at low-surgical risk.
+
+Citation: Kundu A, et al. Cardiovascular Outcomes with Transcatheter vs. Surgical Aortic Valve Replacement in Low-Risk Patients: An Updated Meta-Analysis of Randomized Controlled Trials. Cardiovascular Outcomes with Transcatheter vs. Surgical Aortic Valve Replacement in Low-Risk Patients: An Updated Meta-Analysis of Randomized Controlled Trials. 2020; 21:453-460. doi: 10.1016/j.carrev.2019.08.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31669113/

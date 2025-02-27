@@ -1,0 +1,12 @@
+PMID: 38759056
+Title: Construction of multi-scale feature fusion segmentation model of MRI knee images based on dual attention mechanism weighted aggregation.
+
+Abstract: BACKGROUND: Early diagnosis of knee osteoarthritis is an important area of research in the field of clinical medicine. Due to the complexity in the MRI imaging sequences and the diverse structure of cartilage, there are many challenges in the segmentation of knee bone and cartilage. Relevant studies have conducted semantic fusion processing through splicing or summing forms, which results in reduced resolution and the accumulation of redundant information.
+OBJECTIVE: This study was envisaged to construct an MRI image segmentation model to improve the diagnostic efficiency and accuracy of different grade knee osteoarthritis by adopting the Dual Attention and Multi-scale Feature Fusion Segmentation network (DA-MFFSnet).
+METHODS: The feature information of different scales was fused through the Multi-scale Attention Downsample module to extract more accurate feature information, and the Global Attention Upsample module weighted lower-level feature information to reduce the loss of key information.
+RESULTS: The collected MRI knee images were screened and labeled, and the study results showed that the segmentation effect of DA-MFFSNet model was closer to that of the manually labeled images. The mean intersection over union, the dice similarity coefficient and the volumetric overlap error was 92.74%, 91.08% and 7.44%, respectively, and the accuracy of the differential diagnosis of knee osteoarthritis was 84.42%.
+CONCLUSIONS: The model exhibited better stability and classification effect. Our results indicated that the Dual Attention and Multi-scale Feature Fusion Segmentation model can improve the segmentation effect of MRI knee images in mild and medium knee osteoarthritis, thereby offering an important clinical value and improving the accuracy of the clinical diagnosis.
+
+Citation: Gai X, et al. Construction of multi-scale feature fusion segmentation model of MRI knee images based on dual attention mechanism weighted aggregation. Construction of multi-scale feature fusion segmentation model of MRI knee images based on dual attention mechanism weighted aggregation. 2024; 32:277-286. doi: 10.3233/THC-248024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38759056/

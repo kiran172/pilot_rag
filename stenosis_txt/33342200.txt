@@ -1,0 +1,11 @@
+PMID: 33342200
+Title: Is two-dimensional echocardiography better than electrocardiography for predicting patient outcomes after cardiac arrest?
+
+Abstract: BACKGROUND: Coronary artery stenosis increases hospital mortality and leads to poor neurological recovery in cardiac arrest (CA) patients. However, electrocardiography (ECG) cannot fully predict the presence of coronary artery stenosis in CA patients. Hence, we aimed to determine whether regional wall motion abnormality (RWMA), as observed by two-dimensional echocardiography (2DE), predicted patient survival outcomes with greater accuracy than did ST segment elevation (STE) on ECG in CA patients who underwent coronary angiography (CAG) after return of spontaneous circulation.
+METHODS: This was a retrospective observational study of adult patients with CA of presumed cardiac etiology who underwent CAG at a single tertiary care hospital. We investigated whether RWMA observed on 2DE predicted patient outcomes more accurately than did STE observed on ECG. The primary outcome was incidence of hospital mortality. The secondary outcomes were Glasgow-Pittsburgh Cerebral Performance Category scores measured 6 months after discharge and significant coronary artery stenosis on CAG.
+RESULTS: Among the 145 patients, 36 (24.8%) experienced in-hospital death. In multivariable analysis of survival outcomes, only total arrest time (P=0.011) and STE (P=0.035) were significant. The odds ratio (OR) and 95% confidence interval (CI), which were obtained by adjusting the total arrest time for survival outcomes, were significant only for STE (OR, 0.40; 95% CI, 0.17-0.94). The presence of RWMA was not a significant factor.
+CONCLUSIONS: While STE predicted survival outcomes in adult CA patients, RWMA did not. The decision to perform CAG after CA should include ECG under existing guidelines. The use of RWMA has limited benefits in treatment of this population.
+
+Citation: Kim DK, et al. Is two-dimensional echocardiography better than electrocardiography for predicting patient outcomes after cardiac arrest?. Is two-dimensional echocardiography better than electrocardiography for predicting patient outcomes after cardiac arrest?. 2021; 36:37-45. doi: 10.4266/acc.2020.00773
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33342200/

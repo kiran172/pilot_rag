@@ -1,0 +1,12 @@
+PMID: 36648053
+Title: Aortic Stenosis Progression: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Aortic valve stenosis is a progressive disorder with variable progression rates. The factors affecting aortic stenosis (AS) progression remain largely unknown.
+OBJECTIVES: This systematic review and meta-analysis sought to determine AS progression rates and to assess the impact of baseline AS severity and sex on disease progression.
+METHODS: The authors searched Medline, Embase, and the Cochrane Central Register of Controlled Trials from inception to July 1, 2020, for prospective studies evaluating the progression of AS with the use of echocardiography (mean gradient [MG], peak velocity [PV], peak gradient [PG], or aortic valve area [AVA]) or computed tomography (calcium score [AVC]). Random-effects meta-analysis was performed to evaluate the rate of AS progression for each parameter stratified by baseline severity, and meta-regression was performed to determine the impact of baseline severity and of sex on AS progression rate.
+RESULTS: A total of 24 studies including 5,450 patients (40% female) met inclusion criteria. The pooled annualized progression of MG was +4.10 mm Hg (95% CI: 2.80-5.41 mm Hg), AVA -0.08 cm2 (95% CI: 0.06-0.10 cm2), PV +0.19 m/s (95% CI: 0.13-0.24 m/s), PG +7.86 mm Hg (95% CI: 4.98-10.75 mm Hg), and AVC +158.5 AU (95% CI: 55.0-261.9 AU). Increasing baseline severity of AS was predictive of higher rates of progression for MG (P &lt; 0.001), PV (P = 0.001), and AVC (P &lt; 0.001), but not AVA (P = 0.34) or PG (P = 0.21). Only 4 studies reported AS progression stratified by sex, with only PV and AVC having 3 studies to perform a meta-analysis. No difference between sex was observed for PV (P = 0.397) or AVC (P = 0.572), but the level of confidence was low.
+CONCLUSIONS: This study provides progression rates for both hemodynamic and anatomic parameters of AS and shows that increasing hemodynamic and anatomic baseline severity is associated with faster AS progression. More studies are needed to determine if sex differences affect AS progression. (Aortic Valve Stenosis Progression Rate: A Systematic Review and Meta-Analysis; CRD42021207726).
+
+Citation: Willner N, et al. Aortic Stenosis Progression: A Systematic Review and Meta-Analysis. Aortic Stenosis Progression: A Systematic Review and Meta-Analysis. 2023; 16:314-328. doi: 10.1016/j.jcmg.2022.10.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36648053/

@@ -1,0 +1,11 @@
+PMID: 32920098
+Title: Comprehensive assessment of the associations between maternal diabetes and structural birth defects in offspring: a phenome-wide association study.
+
+Abstract: PURPOSE: Our objective was to comprehensively evaluate the risk of a broad range of birth defects among offspring of women with diabetes, overall and stratified by pregestational versus gestational diagnosis, using the phenome-wide association (PheWAS) methodology.
+METHODS: We performed a registry linkage study of all live births (>6,500,000) and birth defects cases (>290,000) in Texas, 1999-2015. We ascertained diabetes from birth and fetal death certificates. We calculated prevalence rate ratios (PRR) for phenotypes with ≥10 cases among exposed offspring (n = 130).
+RESULTS: Diabetes was associated with the prevalence of any defect (PRR 1.40, 95% confidence interval [CI] 1.38-1.42), multiple defects (PRR 1.86, 95% CI 1.81-1.91), and 60 specific phenotypes, including novel (hypospadias, mitral stenosis) and previously reported phenotypes (renal a-/dysgenesis, spinal anomalies). Pregestational diabetes was a stronger risk factor for any defect (PRR 2.00, 95% CI 1.93-2.07), multiple defects (PRR 3.27, 95% CI 3.11-3.44), and the 60 specific phenotypes evaluated. Gestational diabetes was associated with any defect (PRR 1.21, 95% CI 1.19-1.23) and 47 specific birth defects phenotypes, although associations were weaker than for pregestational diabetes.
+CONCLUSIONS: The PheWAS is an efficient way to identify risk factors for disease using population-based registry data. Pregestational diabetes is associated with a broader range of phenotypes than previously reported. Because diabetes is diagnosed in 1% of women prior to pregnancy and 6%-9% during pregnancy, our results highlight a significant public health concern.
+
+Citation: Schraw JM, et al. Comprehensive assessment of the associations between maternal diabetes and structural birth defects in offspring: a phenome-wide association study. Comprehensive assessment of the associations between maternal diabetes and structural birth defects in offspring: a phenome-wide association study. 2021; 53:14-20.e8. doi: 10.1016/j.annepidem.2020.08.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32920098/

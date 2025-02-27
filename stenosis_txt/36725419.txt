@@ -1,0 +1,11 @@
+PMID: 36725419
+Title: Association of glomerular hyperfiltration with carotid artery plaque in the general population.
+
+Abstract: BACKGROUND AND AIMS: Glomerular hyperfiltration (GHF) is a hemodynamic change of the kidney as an adaptive response to nephron loss. Although GHF is associated with metabolic risk factors and cardiovascular disease (CVD), the mechanisms that explain these relationships remain largely unknown. This is partially caused by a non-unified definition of GHF based on pathophysiologic vascular changes. Thus, the objective of this study was to evaluate the association between various definitions of GHF and carotid plaque in a health checkup cohort.
+METHODS: A total of 4493 individuals without history of CVD who had carotid ultrasonography (USG) results available between January 2016 and June 2018 were enrolled. GHF was defined as >90th percentile of eGFR residuals after adjusting for confounding factors. Carotid plaque score was calculated based on carotid USG results.
+RESULTS: Of 4493 individuals (mean age, 52.3 ± 10.1 years; 3224 [71.8%] males), 449 subjects were included in the GHF group (mean eGFR, 107.0 ± 7.1 ml/min/1.73 m2) and 4044 subjects were included in the non-GHF group (mean eGFR, 92.5 ± 12.3 ml/min/1.73 m2). When the GHF group was compared to the non-GHF group, GHF was associated with the presence of significant carotid plaque (carotid plaque score ≥2) (adjusted OR: 1.46; 95% CI: 1.16 to 1.83; p = 0.001). GHF defined in this study showed higher sensitivity to the presence of carotid plaque than other definitions of GHF.
+CONCLUSIONS: GHF status was associated with risk of carotid plaque in individuals without history of CVD. Presence of subclinical carotid plaque was associated with risk of future CVD. Therefore, GHF based on creatinine could be a useful surrogate marker for surveillance of CVD in asymptomatic individuals.
+
+Citation: Kwon SS, et al. Association of glomerular hyperfiltration with carotid artery plaque in the general population. Association of glomerular hyperfiltration with carotid artery plaque in the general population. 2023; 369:30-36. doi: 10.1016/j.atherosclerosis.2023.01.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36725419/

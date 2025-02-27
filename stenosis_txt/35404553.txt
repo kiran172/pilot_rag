@@ -1,0 +1,12 @@
+PMID: 35404553
+Title: The unintended consequences of Medicare's wage index adjustment on device-intensive hospital procedures.
+
+Abstract: OBJECTIVES: To study the association between Medicare's wage index adjustment and the differential use of labor-intensive surgical procedures and medical device-intensive minimally invasive clinical procedures across the United States.
+STUDY DESIGN: We combine a conceptual model and an empirical investigation of its predictions, applied to aortic valve replacement, to study the relationship between variation in Medicare wage index payment adjustment across hospital referral regions (HRRs) and the utilization of transcatheter aortic valve replacement (TAVR) and surgical aortic valve replacement (SAVR) in these areas.
+METHODS: Using detailed individual Medicare claims data for 2013-2018 and a novel geographical crosswalk to nest information on Medicare's wage index and utilization of TAVR and SAVR, we estimate a mixed effects Poisson regression model across HRRs to test our hypotheses.
+RESULTS: We find regional variation in Medicare wage index adjustment levels to be correlated with differential TAVR and SAVR utilization and growth over time. In particular, in HRRs where the wage index is half the national mean there is a 35% decline in the rate of TAVR use and in HRRs where the wage index is 50% higher than the national mean there is a 52% increase in the rate of TAVR use.
+CONCLUSIONS: Consistent with our framework and hypothesis, our results highlight the importance of adjusting Medicare hospital inpatient payments for device-intensive procedures. Absent such adjustment, access to appropriate interventions may be reduced in areas with low wage index, and lower reimbursement, when driven by wage index adjustment, may influence the treatment approach selected.
+
+Citation: David G, et al. The unintended consequences of Medicare's wage index adjustment on device-intensive hospital procedures. The unintended consequences of Medicare's wage index adjustment on device-intensive hospital procedures. 2022; 28:e96-e102. doi: 10.37765/ajmc.2022.88842
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35404553/

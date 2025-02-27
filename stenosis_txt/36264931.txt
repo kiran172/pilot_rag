@@ -1,0 +1,12 @@
+PMID: 36264931
+Title: Readmission rates and risk factors for readmission after transcatheter aortic valve replacement in patients with end-stage renal disease.
+
+Abstract: OBJECTIVES: We sought to examine readmission rates and predictors of hospital readmission following TAVR in patients with ESRD.
+BACKGROUND: End-stage renal disease (ESRD) is associated with poor outcomes following transcatheter aortic valve replacement (TAVR).
+METHODS: We assessed index hospitalizations for TAVR from the National Readmissions Database from 2017 to 2018 and used propensity scores to match those with and without ESRD. We compared 90-day readmission for any cause or cardiovascular cause. Length of stay (LOS), mortality, and cost were assessed for index hospitalizations and 90-day readmissions. Multivariable logistic regression was performed to identify predictors of 90-day readmission.
+RESULTS: We identified 49,172 index hospitalizations for TAVR, including 1,219 patients with ESRD (2.5%). Patient with ESRD had higher rates of all-cause readmission (34.4% vs. 19.2%, HR 1.96, 95% CI 1.68-2.30, p<0.001) and cardiovascular readmission (13.2% vs. 7.7%, HR 1.85, 95% CI 1.44-2.38, p<0.001) at 90 days. During index hospitalization, patients with ESRD had longer length of stay (mean difference 1.9 days), increased hospital cost (mean difference $42,915), and increased in-hospital mortality (2.6% vs. 0.9%). Among those readmitted within 90 days, patients with ESRD had longer LOS and increased hospital charge, but similar in-hospital mortality. Diabetes (OR 1.86, 95% CI 1.31-2.64) and chronic pulmonary disease (OR 1.51, 95% CI 1.04-2.18) were independently associated with higher odds of 90-day readmission in patients with ESRD.
+CONCLUSION: Patients with ESRD undergoing TAVR have higher mortality and increased cost associated with their index hospitalization and are at increased risk of readmission within 90 days following TAVR.
+
+Citation: Park DY, et al. Readmission rates and risk factors for readmission after transcatheter aortic valve replacement in patients with end-stage renal disease. Readmission rates and risk factors for readmission after transcatheter aortic valve replacement in patients with end-stage renal disease. 2022; 17:e0276394. doi: 10.1371/journal.pone.0276394
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36264931/

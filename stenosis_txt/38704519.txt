@@ -1,0 +1,11 @@
+PMID: 38704519
+Title: Identification of key eRNAs for intervertebral disc degeneration by integrated multinomial bioinformatics analysis.
+
+Abstract: BACKGROUND: Intervertebral disc degeneration (IVDD) is a common degenerative condition leading to abnormal stress distribution under load, causing intervertebral stenosis, facet joint degeneration, and foraminal stenosis. Very little is known about the molecular mechanism of eRNAs in IVDD.
+METHODS: Gene expression profiles of 38 annulus disc samples composed of 27 less degenerated discs (LDs) and 11 more degenerated discs (MDs) were retrieved from the GEO database. Then, differentially expressed enhancer RNAs (DEeRNAs), differentially expressed target genes (DETGs), and differentially expressed transcription factors (DETFs), hallmark of cancer signalling pathways according to GSVA; the types and quantity of immune cells according to CIBERSORT; and immune gene sets according to ssGSEA were analysed to construct an IVDD-related eRNA network. Then, multidimensional validation was performed to explore the interactions among DEeRNAs, DETFs and DEGs in space.
+RESULTS: A total of 53 components, 14 DETGs, 15 DEeRNAs, 3 DETFs, 5 immune cells, 9 hallmarks, and 7 immune gene sets, were selected to construct the regulatory network. After validation by online multidimensional databases, 21 interactive DEeRNA-DEG-DETF axes related to IVDD exacerbation were identified, among which the C1S-CTNNB1-CHD4 axis was the most significant.
+CONCLUSION: Based upon the results of our study, we theorize that the C1S-CTNNB1-CHD4 axis plays a vital role in IVDD exacerbation. Specifically, C1S recruits CTNNB1 and upregulates the expression of CHD4 in IVDD, and subsequently, CHD4 suppresses glycolysis and activates oxidative phosphorylation, thus generating insoluble collagen fibre deposits and leading to the progression of IVDD. Overall, these DEeRNAs could comprise promising therapeutic targets for IVDD due to their high tissue specificity.
+
+Citation: Li Y, et al. Identification of key eRNAs for intervertebral disc degeneration by integrated multinomial bioinformatics analysis. Identification of key eRNAs for intervertebral disc degeneration by integrated multinomial bioinformatics analysis. 2024; 25:356. doi: 10.1186/s12891-024-07438-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38704519/

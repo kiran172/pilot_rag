@@ -1,0 +1,11 @@
+PMID: 35026460
+Title: Hemodynamic Risk Factors for the Development of Carotid Stenosis in Patients with Unilateral Carotid Stenosis.
+
+Abstract: BACKGROUND: It is difficult to predict the development of carotid stenosis by means of the known risk factors. Using a computational fluid dynamics analysis, we examined the hemodynamic risks for carotid stenosis, focusing on wall shear stress (WSS) disturbances.
+METHODS: In 59 patients with unilateral carotid stenosis, the plaque was removed from the original three-dimensional computed tomography angiographic images, and the vessel shape before stenosis was artificially reproduced. A multivariate regression analysis was performed to determine the associations between the degree of area stenosis and hemodynamic and morphologic factors after adjustment for 6 known risk factors.
+RESULTS: Metrics for WSS disturbances were higher at and distal to a bifurcation in the carotid arteries after plaque removal compared with the normal carotid arteries, and metrics for WSS magnitudes were lower. In the plaque-removed arteries, the degree of stenosis was significantly negatively correlated with the ratio of stenotic to distal values of metrics for WSS disturbances and the diameter ratio of the external to common carotid artery, and positively correlated with the ratio of proximal to stenotic values of metrics for WSS magnitudes.
+CONCLUSIONS: Rapid increases in WSS from the common carotid artery toward the bifurcation, rapid decreases in WSS disturbance from the bifurcation toward the internal carotid artery, and lower diameter ratio of the external to common carotid artery are more likely than other risk factors to cause future severe stenosis. In patients with these hemodynamic risks, underlying diseases should be controlled more strictly, with imaging examinations at shorter intervals.
+
+Citation: Fukuda S, et al. Hemodynamic Risk Factors for the Development of Carotid Stenosis in Patients with Unilateral Carotid Stenosis. Hemodynamic Risk Factors for the Development of Carotid Stenosis in Patients with Unilateral Carotid Stenosis. 2022; 160:e353-e371. doi: 10.1016/j.wneu.2022.01.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35026460/

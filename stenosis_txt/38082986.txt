@@ -1,0 +1,8 @@
+PMID: 38082986
+Title: Graph-guided Gaussian Process-based Diagnosis of CVD Severity with Uncertainty Measures.
+
+Abstract: The severity of coronary artery disease can be assessed invasively using the Fractional Flow Reserve (FFR) index which is a useful diagnostic tool for the clinicians to select the treatment approach. The present work capitalizes a Gaussian process (GP) framework over graphs for the prediction of FFR index using only non-invasive imaging and clinical features. More specifically, taking the per-node one-hop connectivity vector as input, we employed a regression-based task by applying an ensemble of graph-adapted Gaussian process experts, with a data-adaptive fashion via online training. The main novelty of the work lies in the fact that for the first time in a medical field the inference model considers only the similarity condition of the patients, instead of their features. Our results demonstrate the impressive merits of the proposed medical EGP (MedEGP) method, in comparison to the single GP, and Linear Regression (LR) models to predict the FFR index, with well-calibrated uncertainty.Clinical Relevance- This paper establishes an accurate non-invasive approach to predict the FFR for the diagnosis of coronary artery disease.
+
+Citation: Tassi S, et al. Graph-guided Gaussian Process-based Diagnosis of CVD Severity with Uncertainty Measures. Graph-guided Gaussian Process-based Diagnosis of CVD Severity with Uncertainty Measures. 2023; 2023:1-4. doi: 10.1109/EMBC40787.2023.10340916
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38082986/

@@ -1,0 +1,12 @@
+PMID: 35829786
+Title: Motion artifact removal in coronary CT angiography based on generative adversarial networks.
+
+Abstract: OBJECTIVES: Coronary motion artifacts affect the diagnostic accuracy of coronary CT angiography (CCTA), especially in the mid right coronary artery (mRCA). The purpose is to correct CCTA motion artifacts of the mRCA using a GAN (generative adversarial network).
+METHODS: We included 313 patients with CCTA scans, who had paired motion-affected and motion-free reference images at different R-R interval phases in the same cardiac cycle and included another 53 CCTA cases with invasive coronary angiography (ICA) comparison. Pix2pix, an image-to-image conversion GAN, was trained by the motion-affected and motion-free reference pairs to generate motion-free images from the motion-affected images. Peak signal-to-noise ratio (PSNR), structural similarity (SSIM), Dice similarity coefficient (DSC), and Hausdorff distance (HD) were calculated to evaluate the image quality of GAN-generated images.
+RESULTS: At the image level, the median of PSNR, SSIM, DSC, and HD of GAN-generated images were 26.1 (interquartile: 24.4-27.5), 0.860 (0.830-0.882), 0.783 (0.714-0.825), and 4.47 (3.00-4.47), respectively, significantly better than the motion-affected images (p < 0.001). At the patient level, the image quality results were similar. GAN-generated images improved the motion artifact alleviation score (4 vs. 1, p < 0.001) and overall image quality score (4 vs. 1, p < 0.001) than those of the motion-affected images. In patients with ICA comparison, GAN-generated images achieved accuracy of 81%, 85%, and 70% in identifying no, < 50%, and ≥ 50% stenosis, respectively, higher than 66%, 72%, and 68% for the motion-affected images.
+CONCLUSION: Generative adversarial network-generated CCTA images greatly improved the image quality and diagnostic accuracy compared to motion-affected images.
+KEY POINTS: • A generative adversarial network greatly reduced motion artifacts in coronary CT angiography and improved image quality. • GAN-generated images improved diagnosis accuracy of identifying no, < 50%, and ≥ 50% stenosis.
+
+Citation: Zhang L, et al. Motion artifact removal in coronary CT angiography based on generative adversarial networks. Motion artifact removal in coronary CT angiography based on generative adversarial networks. 2023; 33:43-53. doi: 10.1007/s00330-022-08971-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35829786/

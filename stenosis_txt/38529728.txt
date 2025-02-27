@@ -1,0 +1,8 @@
+PMID: 38529728
+Title: Unsupervised Denoising and Super-Resolution of Vascular Flow Data by Physics-Informed Machine Learning.
+
+Abstract: We present an unsupervised deep learning method to perform flow denoising and super-resolution without high-resolution labels. We demonstrate the ability of a single model to reconstruct three-dimensional stenosis and aneurysm flows, with varying geometries, orientations, and boundary conditions. Ground truth data was generated using computational fluid dynamics, and then corrupted with multiplicative Gaussian noise. Auto-encoders were used to compress the representations of the flow domain geometry and the (possibly noisy and low-resolution) flow field. These representations were used to condition a physics-informed neural network. A physics-based loss was implemented to train the model to recover lost information from the noisy input by transforming the flow to a solution of the Navier-Stokes equations. Our experiments achieved mean squared errors in the true flow reconstruction of O(1.0 × 10-4), and root mean squared residuals of O(1.0 × 10-2) for the momentum and continuity equations. Our method yielded correlation coefficients of 0.971 for the hidden pressure field and 0.82 for the derived wall shear stress field. By performing point-wise predictions of the flow, the model was able to robustly denoise and super-resolve the field to 20× the input resolution.
+
+Citation: Sautory T and Shadden SC. Unsupervised Denoising and Super-Resolution of Vascular Flow Data by Physics-Informed Machine Learning. Unsupervised Denoising and Super-Resolution of Vascular Flow Data by Physics-Informed Machine Learning. 2024; 146:(unknown pages). doi: 10.1115/1.4065165
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38529728/

@@ -1,0 +1,11 @@
+PMID: 37020291
+Title: Impact of concomitant mitral valve surgery on the clinical outcomes of patients with moderate functional mitral regurgitation and HFpEF undergoing aortic valve replacement: a cohort study.
+
+Abstract: BACKGROUND: Functional mitral regurgitation (FMR) worsens the prognosis of patients with heart failure with preserved ejection fraction (HFpEF). While concomitant mitral valve surgery (MVS) is recommended for severe FMR during aortic valve replacement (AVR), the optimal treatment of moderate FMR, especially in those with HFpEF, remains unclear. This study aimed to evaluate the effect of MVS in patients with moderate FMR and HFpEF undergoing AVR.
+METHODS: A total of 212 consecutive patients (AVR: 34.0%, AVR-MVS: 66.0%) during 2010 and 2019 were enrolled. Survival outcomes were compared. Inverse probability treatment weighting (IPTW) was used to balance the baseline characteristics. Kaplan-Meier curve and log-rank test were applied to compare the survival outcomes. The primary endpoint was the overall mortality.
+RESULTS: The mean age was 58.9 [Formula: see text] 11.9 years, and 27.8% of them were female. During a median follow-up of 16.4 months, AVR-MVS did not reduce the risk of mid-term MACCE (hazard ratio [HR]: 1.53, 95% confidence interval [CI]: 0.57-4.17, P<sub>log-rank</sub> = 0.396), while it showed a tendency toward higher MACCE risk in the IPTW analysis (HR: 2.62, 95% CI: 0.84-8.16, P<sub>log-rank</sub> = 0.096). In addition, AVR-MVS increased the risk of mortality as compared to isolated AVR (0 vs. 10%, P<sub>log-rank</sub> = 0.016), which was sustained in the IPTW analysis  (0 vs. 9.9%, P<sub>log-rank</sub>&lt;0.001).
+CONCLUSION: In patients with moderate FMR and HFpEF, isolated AVR might be more reasonable than AVR-MVS.
+
+Citation: Tiemuerniyazi X, et al. Impact of concomitant mitral valve surgery on the clinical outcomes of patients with moderate functional mitral regurgitation and HFpEF undergoing aortic valve replacement: a cohort study. Impact of concomitant mitral valve surgery on the clinical outcomes of patients with moderate functional mitral regurgitation and HFpEF undergoing aortic valve replacement: a cohort study. 2023; 18:100. doi: 10.1186/s13019-023-02197-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37020291/

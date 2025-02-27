@@ -1,0 +1,14 @@
+PMID: 38070920
+Title: Predictive factors of poor outcome and mortality among anterior ischaemic stroke patients despite successful recanalisation in China: a secondary analysis of the CAPTURE trial.
+
+Abstract: OBJECTIVES: This work aimed to analyse the risk factors for poor outcomes and mortality among patients with anterior large vessel occlusion (LVO) ischaemic stroke, despite successful recanalisation.
+SETTING AND PARTICIPANTS: This study conducted a secondary analysis among patients who underwent successful recanalisation in the CAPTURE trial. The trial took place between March 2018 and September 2020 at 21 sites in China. The CAPTURE trial enrolled patients who had an acute ischaemic stroke aged 18-80 years with LVO in anterior circulation.
+INTERVENTIONS: Thrombectomy was immediately performed using Neurohawk or the Solitaire FR after randomisation in CAPTURE trial. Rescue treatment was available for patients with severe residual stenosis caused by atherosclerosis.
+PRIMARY AND SECONDARY OUTCOME MEASURES: The primary goal was to predict poor 90-day survival or mortality within 90 days post-thrombectomy. Univariate analysis, using the χ2 test or Fisher's exact test, was conducted for each selected factor. Subsequently, a multivariable analysis was performed on significant factors (p≤0.10) identified through univariate analysis using the backward selection logistic regression approach.
+RESULTS: Among the 207 recruited patients, 79 (38.2%) exhibited poor clinical outcomes, and 26 (12.6%) died within 90 days post-thrombectomy. Multivariate analysis revealed that the following factors were significantly associated with poor 90-day survival: age ≥67 years, internal carotid artery (ICA) occlusion (compared with middle cerebral artery (MCA) occlusion), initial National Institutes of Health Stroke Scale (NIHSS) score ≥17 and final modified Thrombolysis in Cerebral Infarction (mTICI) score 2b (compared with mTICI 3). Additionally, the following factors were significantly associated with mortality 90 days post-thrombectomy: initial NIHSS score ≥17, ICA occlusion (compared with MCA occlusion) and recanalisation with more than one pass.
+CONCLUSIONS: Age, NIHSS score, occlusion site, mTICI score and the number of passes can be independently used to predict poor 90-day survival or mortality within 90 days post-thrombectomy.
+TRIAL REGISTRATION NUMBER: NCT04995757.
+
+Citation: Li G, et al. Predictive factors of poor outcome and mortality among anterior ischaemic stroke patients despite successful recanalisation in China: a secondary analysis of the CAPTURE trial. Predictive factors of poor outcome and mortality among anterior ischaemic stroke patients despite successful recanalisation in China: a secondary analysis of the CAPTURE trial. 2023; 13:e078917. doi: 10.1136/bmjopen-2023-078917
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38070920/

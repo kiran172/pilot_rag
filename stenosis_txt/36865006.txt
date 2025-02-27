@@ -1,0 +1,11 @@
+PMID: 36865006
+Title: A deep learning algorithm to quantify AVF stenosis and predict 6-month primary patency: a pilot study.
+
+Abstract: BACKGROUND: A deep convolutional neural network (DCNN) model that predicts the degree of arteriovenous fistula (AVF) stenosis and 6-month primary patency (PP) based on AVF shunt sounds was developed, and was compared with various machine learning (ML) models trained on patients' clinical data.
+METHODS: Forty dysfunctional AVF patients were recruited prospectively, and AVF shunt sounds were recorded before and after percutaneous transluminal angioplasty using a wireless stethoscope. The audio files were converted to melspectrograms to predict the degree of AVF stenosis and 6-month PP. The diagnostic performance of the melspectrogram-based DCNN model (ResNet50) was compared with that of other ML models [i.e. logistic regression (LR), decision tree (DT) and support vector machine (SVM)], as well as the DCNN model (ResNet50) trained on patients' clinical data.
+RESULTS: Melspectrograms qualitatively reflected the degree of AVF stenosis by exhibiting a greater amplitude at mid-to-high frequency in the systolic phase with a more severe degree of stenosis, corresponding to a high-pitched bruit. The proposed melspectrogram-based DCNN model successfully predicted the degree of AVF stenosis. In predicting the 6-month PP, the area under the receiver operating characteristic curve of the melspectrogram-based DCNN model (ResNet50) (≥0.870) outperformed that of various ML models based on clinical data (LR, 0.783; DT, 0.766; SVM, 0.733) and that of the spiral-matrix DCNN model (0.828).
+CONCLUSION: The proposed melspectrogram-based DCNN model successfully predicted the degree of AVF stenosis and outperformed ML-based clinical models in predicting 6-month PP.
+
+Citation: Park JH, et al. A deep learning algorithm to quantify AVF stenosis and predict 6-month primary patency: a pilot study. A deep learning algorithm to quantify AVF stenosis and predict 6-month primary patency: a pilot study. 2023; 16:560-570. doi: 10.1093/ckj/sfac254
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36865006/

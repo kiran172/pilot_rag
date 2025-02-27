@@ -1,0 +1,11 @@
+PMID: 33360530
+Title: Effect of transport parameters on atherosclerotic lesion growth: A parameter sensitivity analysis.
+
+Abstract: BACKGROUND: Atherosclerosis is a degenerative disease of the arterial wall. It results in the formation of progressively growing plaque lesions that can harden and narrow their host arteries. Current computational models of the inflammatory process that govern atherosclerosis growth are reliant on a number of parameters that can freely vary and whose precise values are not well known.
+METHODS: To identify the significance of variation in such parameters, a parametric sensitivity study had been conducted on the blood density, blood viscosity, plasma viscosity and bulk flow low density lipoprotein (LDL) concentration. Using computational modeling, the significance of variation in these parameters was assessed on the transport of LDL. The simulation was performed via the 2k factorial experimental design, which was conducted to identify the significance of the select parameters on the intima LDL concentration and endothelial LDL coverage area.
+RESULTS: Results identified the blood viscosity and bulk flow LDL concentration are the dominant parameters for the atherosclerotic lesion growth. The coverage of LDL on the arterial wall surface was strongly dependent on the blood viscosity. The significance of these findings was discussed.
+CONCLUSION: This statistical study identifies two dominating blood factors, LDL concentration and blood viscosity, and how they influence atherosclerosis which will serves as a guideline for further investigation on the atherosclerosis topic.
+
+Citation: Piemjaiswang R, et al. Effect of transport parameters on atherosclerotic lesion growth: A parameter sensitivity analysis. Effect of transport parameters on atherosclerotic lesion growth: A parameter sensitivity analysis. 2021; 199:105904. doi: 10.1016/j.cmpb.2020.105904
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33360530/

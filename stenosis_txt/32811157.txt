@@ -1,0 +1,12 @@
+PMID: 32811157
+Title: Added value of femoral artery atherosclerosis for determining severity of white matter lesion by carotid atherosclerosis: a magnetic resonance imaging study.
+
+Abstract: BACKGROUND: Previous studies reported that single vascular atherosclerosis was an effective indicator for white matter lesions (WMLs).
+PURPOSE: To investigate the added value of femoral atherosclerosis for determining severity of WMLs by carotid atherosclerosis using three-dimensional vessel wall magnetic resonance imaging (MRI).
+MATERIAL AND METHODS: Elderly individuals without cardiovascular symptoms within the previous six months were recruited. The plaque features of carotid and femoral arteries were evaluated and compared between individuals with WML score ≤ 3 and those with WML score > 3. Logistic regression and receiver operating characteristic (ROC) analyses were used to determine the value of plaque features in discriminating WMLs with score > 3.
+RESULTS: In total, 112 individuals (49 men, mean age 72.0±5.6 years) were included. Participants with a WML score &gt; 3 showed a significantly greater carotid wall area and femoral artery stenosis and higher incidence of carotid calcification and femoral artery calcification and lipid-rich necrotic cores (LRNC) compared to those with a WML score ≤ 3 (all P &lt; 0.05). Carotid artery calcification and femoral artery calcification, LRNC, and stenosis were found to be significantly associated with severe WMLs before and after adjustment for clinical factors (odds ratio 1.51-3.79, all P &lt; 0.05). ROC analysis showed, in discriminating severe WMLs, the area under the curve increased from 0.615 to 0.754 after combining femoral artery LRNC and stenosis with carotid calcification compared to the carotid calcification alone.
+CONCLUSION: Characteristics of femoral artery atherosclerosis determined by vessel wall MRI have added value for carotid atherosclerosis in determining the severity of WMLs.
+
+Citation: Liu Y, et al. Added value of femoral artery atherosclerosis for determining severity of white matter lesion by carotid atherosclerosis: a magnetic resonance imaging study. Added value of femoral artery atherosclerosis for determining severity of white matter lesion by carotid atherosclerosis: a magnetic resonance imaging study. 2021; 62:1112-1121. doi: 10.1177/0284185120950106
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32811157/

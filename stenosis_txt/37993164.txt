@@ -1,0 +1,15 @@
+PMID: 37993164
+Title: Early offering transcatheter aortic valve replacement to patients with moderate aortic stenosis: quantifying costs and benefits - a Markov model-based simulation study.
+
+Abstract: OBJECTIVE: Aortic stenosis (AS) is one of the most common acquired cardiac valvular diseases. The success of transcatheter aortic valve implantation (TAVI) for severe AS has led to increasing interest in its use to earlier disease-moderate AS (MAS).
+DESIGN: Model-based study using a Markov microsimulation technique to evaluate the long-term costs and benefits associated with 'early' TAVI. Key data inputs were sourced from the international literature and costs were obtained from Australian sources.
+SETTING: Australian health care system perspective.
+PARTICIPANTS: 10 000 hypothetical MAS patients with or without left ventricular diastolic dysfunction or impaired left ventricular ejection fraction.
+INTERVENTION: Comparing early TAVI to medical management over a life time horizon for MAS patients aged >65 years. We evaluated the cost-effectiveness of offering early TAVI in five scenarios (10%, 25%, 50%, 75% and 90% take-up rates).
+PRIMARY AND SECONDARY OUTCOME MEASURES: The primary outcome measure is quality-adjusted life years (QALY) gained and the incremental cost-utility ratio (ICUR). Secondary outcomes are life-years gained and the number of heart failure case avoided.
+RESULTS: Offering early TAVI for MAS patients resulted in both higher healthcare costs and greater benefits (an increase of 3.02 QALYs or 3.99 life-years) per person treated. The ICUR was around $A10 867 and $A11 926 per QALY gained for all five scenarios, with the total cost of early TAVI to the healthcare system being anticipated to be up to $A3.66 billion. Sensitivity analyses indicated a 100% probability of being cost-effective with a willingness to pay threshold of $A50 000/QALY. The benefits remained, even with assumptions of high levels of repeat valve replacement after TAVI.
+CONCLUSION: While ongoing randomised controlled trials will define the benefit of TAVI to MAS patients, these results suggest that this intervention is likely to be cost-effective.
+
+Citation: Nguyen D, et al. Early offering transcatheter aortic valve replacement to patients with moderate aortic stenosis: quantifying costs and benefits - a Markov model-based simulation study. Early offering transcatheter aortic valve replacement to patients with moderate aortic stenosis: quantifying costs and benefits - a Markov model-based simulation study. 2023; 13:e073254. doi: 10.1136/bmjopen-2023-073254
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37993164/

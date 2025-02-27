@@ -1,0 +1,11 @@
+PMID: 36967709
+Title: Transcatheter vs Surgical Aortic Valve Replacement in Pure Native Aortic Regurgitation.
+
+Abstract: BACKGROUND: Patients with pure native aortic regurgitation (AR) have been excluded from transcatheter aortic valve replacement (TAVR) trials. We sought to examine midterm outcomes with TAVR in AR compared with surgical AVR (SAVR) in a contemporary cohort.
+METHODS: Medicare beneficiaries who underwent elective TAVR or SAVR for pure AR from 2016 to 2019 were identified. Patients with concomitant aortic stenosis and who underwent a valve-in-valve intervention or concomitant mitral valve or ascending aorta operation were excluded. The primary outcome was all-cause mortality in the longest follow-up. Secondary outcomes included stroke, endocarditis, and redo AVR. Overlap propensity score weighting was used to adjust for confounders.
+RESULTS: During the study period, 11,027 patients with pure AR underwent elective AVR (TAVR, n = 1147; SAVR, n = 9880). SAVR patients were younger, with fewer comorbidities and less frailty compared with TAVR patients. TAVR was associated with adjusted 30-day mortality comparable to SAVR. After a median follow-up of 31 months (interquartile range, 18-44 months), TAVR was associated with higher adjusted risk of death (hazard ratio [HR], 1.41; 95% CI, 1.03-1.93; P = .02) and need for redo-AVR (HR, 2.13; 95% CI, 1.05-4.34; P = .03) compared with SAVR. The risk of stroke (HR, 1.65; 95% CI, 0.95-2.87; P = .07) and endocarditis (HR, 2.60; 95% CI, 0.92-7.36; P = .07) was numerically higher with TAVR.
+CONCLUSIONS: In Medicare patients with pure native AR, TAVR with the current commercially available transcatheter valves has comparable short-term outcomes. Although long-term outcomes were inferior to SAVR, the possibility of residual confounding, biasing long-term outcomes, given older and frailer TAVR patients, cannot be excluded.
+
+Citation: Mentias A, et al. Transcatheter vs Surgical Aortic Valve Replacement in Pure Native Aortic Regurgitation. Transcatheter vs Surgical Aortic Valve Replacement in Pure Native Aortic Regurgitation. 2023; 115:870-876. doi: 10.1016/j.athoracsur.2022.09.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36967709/

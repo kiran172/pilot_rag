@@ -1,0 +1,13 @@
+PMID: 33045904
+Title: Orally Inhaled Drug Particle Transport in Computerized Models of Laryngotracheal Stenosis.
+
+Abstract: OBJECTIVE: Adjuvant management for laryngotracheal stenosis (LTS) may involve inhaled corticosteroids, but metered dose inhalers are designed for pulmonary drug delivery. Comprehensive analyses of drug particle deposition efficiency for orally inhaled corticosteroids in the stenosis of LTS subjects are lacking.
+STUDY DESIGN: Descriptive research.
+SETTING: Academic medical center.
+METHODS: Anatomically realistic 3-dimensional reconstructions of the upper airway were created from computed tomography images of 4 LTS subjects-2 subglottic stenosis and 2 tracheal stenosis subjects. Computational fluid dynamics modeling was used to simulate airflow and drug particle transport in each airway. Three inhalation pressures were simulated, 10 Pa, 25 Pa, and 40 Pa. Drug particle transport was simulated for 100 to 950 nanoparticles and 1 to 50 micron-particles. Particles were released into the airway to mimic varying inhaler conditions with and without a spacer chamber.
+RESULTS: Based on smallest to largest cross-sectional area ratio, the laryngotracheal stenotic segment shrunk by 57% and 47%, respectively, for subglottic stenosis models and by 53% for both tracheal stenosis models. Airflow resistance at the stenotic segment was lower in subglottic stenosis models than in tracheal stenosis models: 0.001 to 0.011 Pa.s/mL vs 0.024 to 0.082 Pa.s/mL. Drug depositions for micron-particles and nanoparticles at stenosis were 0.06% to 2.48% and 0.10% to 2.60% for subglottic stenosis and tracheal stenosis models, respectively. Particle sizes with highest stenotic deposition were 6 to 20 µm for subglottic stenosis models and 1 to 10 µm for tracheal stenosis models.
+CONCLUSION: This study suggests that at most, 2.60% of inhaled drug particles deposit at the stenosis. Particle size ranges with highest stenotic deposition may not represent typical sizes emitted by inhalers.
+
+Citation: Frank-Ito DO and Cohen SM. Orally Inhaled Drug Particle Transport in Computerized Models of Laryngotracheal Stenosis. Orally Inhaled Drug Particle Transport in Computerized Models of Laryngotracheal Stenosis. 2021; 164:829-840. doi: 10.1177/0194599820959674
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33045904/

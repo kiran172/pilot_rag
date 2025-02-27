@@ -1,0 +1,11 @@
+PMID: 38511178
+Title: Energy loss is related to CT fractional flow reserve progression in type 2 diabetes mellitus patients.
+
+Abstract: BACKGROUND: We aimed to investigate the diagnostic value of energy loss (EL) and baseline CT fractional flow reserve (CT-FFR) computed using computational fluid dynamics to predict functional progression of coronary stenosis in patients with type 2 diabetes mellitus.
+METHODS: This single-center prospective study included 61 patients with type 2 diabetes mellitus (mean age, 61 years ±9 [SD]; 43 men) showing 20-70 % stenosis who underwent serial coronary CT performed at 2-year interval between October 2015 and March 2020. A mesh-free simulation was performed to calculate the CT-FFR and EL. Functional progression was defined as ≥ 0.05 decrease in CT-FFR on the second coronary CT. Models using baseline CT-FFR and EL were compared by analyzing the receiver operating characteristic (ROC) curve.
+RESULTS: Of the 94 vessels evaluated, 25 vessels (27 %) showed functional progression. EL at distal stenosis (EL<sub>dis</sub>) of vessels with functional progression was higher than that of vessels without functional progression (27.6 W/m3 [interquartile range (IQR): 15.0, 53.0] vs. 5.7 W/m3 [IQR: 2.3, 10.1], p &lt; 0.001). Multivariable analysis showed that EL<sub>dis</sub> (per unit Ln(EL); odds ratio, 11.8; 95 % CI: 4.0-34.9; p &lt; 0.001) remained as a predictor of functional progression after adjustment for diameter stenosis and baseline CT-FFR. The area under the ROC curve using EL<sub>dis</sub> (0.89; 95 % CI: 0.82-0.96) was higher than that using baseline CT-FFR (0.71; 95 % CI: 0.59-0.83; p &lt; 0.001).
+CONCLUSION: When EL<sub>dis</sub> and baseline CT-FFR were considered, EL<sub>dis</sub> was a better predictor of functional progression of coronary stenosis.
+
+Citation: Tomizawa N, et al. Energy loss is related to CT fractional flow reserve progression in type 2 diabetes mellitus patients. Energy loss is related to CT fractional flow reserve progression in type 2 diabetes mellitus patients. 2023; 35:100328. doi: 10.1016/j.ahjo.2023.100328
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38511178/

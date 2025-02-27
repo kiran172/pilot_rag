@@ -1,0 +1,11 @@
+PMID: 32108906
+Title: Investigation of phase-contrast magnetic resonance imaging underestimation of turbulent flow through the aortic valve phantom: experimental and computational study using lattice Boltzmann method.
+
+Abstract: OBJECTIVE: The accuracy of phase-contrast magnetic resonance imaging (PC-MRI) measurement is investigated using a computational fluid dynamics (CFD) model with the objective to determine the magnitude of the flow underestimation due to turbulence behind a narrowed valve in a phantom experiment.
+MATERIALS AND METHODS: An acrylic stationary flow phantom is used with three insertable plates mimicking aortic valvular stenoses of varying degrees. Positive and negative horizontal fluxes are measured at equidistant slices using standard PC-MRI sequences by 1.5T and 3T systems. The CFD model is based on the 3D lattice Boltzmann method (LBM). The experimental and simulated data are compared using the Bland-Altman-derived limits of agreement. Based on the LBM results, the turbulence is quantified and confronted with the level of flow underestimation.
+RESULTS: LBM gives comparable results to PC-MRI for valves up to moderate stenosis on both field strengths. The flow magnitude through a severely stenotic valve was underestimated due to signal void in the regions of turbulent flow behind the valve, consistently with the level of quantified turbulence intensity.
+DISCUSSION: Flow measured by PC-MRI is affected by noise and turbulence. LBM can simulate turbulent flow efficiently and accurately, it has therefore the potential to improve clinical interpretation of PC-MRI.
+
+Citation: Fučík R, et al. Investigation of phase-contrast magnetic resonance imaging underestimation of turbulent flow through the aortic valve phantom: experimental and computational study using lattice Boltzmann method. Investigation of phase-contrast magnetic resonance imaging underestimation of turbulent flow through the aortic valve phantom: experimental and computational study using lattice Boltzmann method. 2020; 33:649-662. doi: 10.1007/s10334-020-00837-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32108906/

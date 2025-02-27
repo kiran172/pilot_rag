@@ -1,0 +1,8 @@
+PMID: 33018556
+Title: The effect of the degree and location of coronary stenosis on the hemodynamic status of a coronary vessel.
+
+Abstract: The ongoing advances in the field of cardiovascular modelling during the past years have allowed for the creation of accurate three-dimensional models of the major coronary arteries. The aforementioned 3D models can accurately mimic the human coronary vasculature if they are combined with sophisticated computational fluid dynamics algorithms and shed light to non-trivial issues that concern the clinicians. One of these issues is to define whether a coronary lesion is more dangerous to present with ischemia if it is at a proximal or a distal part of the vessel. In this work, we aim to investigate the aforementioned issue by reconstructing in 3D a coronary arterial model from a healthy subject using Computed Tomography Coronary Angiography images and by editing it to create eight diseased arterial models that contain one or two lesions of different severities. After carrying out the appropriate blood flow simulations using the finite element method, we observed that the distal lesions are more dangerous than the proximal ones in terms of hemodynamic significance. Moreover, the distal severe stenosis (i.e. 70% diameter reduction) present with the highest peak Wall Shear Stress (WSS) values in comparison to the proximal ones.
+
+Citation: Siogkas PK, et al. The effect of the degree and location of coronary stenosis on the hemodynamic status of a coronary vessel. The effect of the degree and location of coronary stenosis on the hemodynamic status of a coronary vessel. 2020; 2020:2671-2674. doi: 10.1109/EMBC44109.2020.9175302
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33018556/

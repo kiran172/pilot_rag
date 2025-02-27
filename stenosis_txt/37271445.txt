@@ -1,0 +1,11 @@
+PMID: 37271445
+Title: Comparison of Repair vs Replacement in Calcific and Rheumatic Mitral Disease.
+
+Abstract: BACKGROUND: The benefit of repair over replacement of rheumatic or calcified mitral valve (MV) is debatable.
+METHODS: Patients who underwent MV repair or replacement for rheumatic or calcified MV disease between 2006 and 2020 were identified in the Polish National Registry of Cardiac Surgery Procedures. Patients who underwent additional procedures other than coronary artery bypass grafting or tricuspid valve surgery, as well as redo or emergency cases, were excluded. The long-term survival was verified based on National Health Fund registry data. The survival was compared between MV repair and replacement in the whole cohort and after propensity score matching.
+RESULTS: We included 4338 patients: 1859 (43%) with pure mitral regurgitation and 2479 (57%) with mitral stenosis. MV was repaired in 543 patients (29%) with pure regurgitation and 126 (5.1%) with stenosis (P < .001). In total, 984 (23%) patients underwent concomitant coronary artery bypass grafting and 1358 (32%) tricuspid valve surgery. MV repair improved survival (hazard ratio 0.81; 95% CI 0.68-0.97; P = .022) in patients with no mitral stenosis, and had no effect in mitral stenosis (hazard ratio 1.17; 95% CI 0.85-1.59; P = .332). The results were confirmed in propensity-matched cohorts. The freedom from MV reoperation at 10 years was 95.5% ± 1.2% after repair and 96.0% ± 0.7% after MV replacement (P = .416) in the absence of stenosis and 91.8% ± 3.4% after repair vs 95.9% ± 0.5% after replacement in patients with mitral stenosis (P = .065).
+CONCLUSIONS: Repair of rheumatic/calcified mitral valve should be a preferred option in patients with no mitral stenosis, but confers no benefit if mitral stenosis is present.
+
+Citation: Deja MA, et al. Comparison of Repair vs Replacement in Calcific and Rheumatic Mitral Disease. Comparison of Repair vs Replacement in Calcific and Rheumatic Mitral Disease. 2023; 116:954-961. doi: 10.1016/j.athoracsur.2023.04.048
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37271445/

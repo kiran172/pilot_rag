@@ -1,0 +1,13 @@
+PMID: 37615093
+Title: Long-Term Stroke Risk in Patients With New Ischemic Brain Lesions on MRI After Carotid Revascularization.
+
+Abstract: BACKGROUND: Carotid artery revascularization can result in new ischemic brain lesions on diffusion-weighted magnetic resonance imaging. This study aimed to investigate the relationship between periprocedural ischemic diffusion-weighted imaging (DWI) lesions after carotid artery revascularization and recurrent long-term cerebrovascular events.
+METHODS: A secondary observational prospective cohort analysis of existing clinical trial data was performed on 162 patients with symptomatic carotid stenosis that were previously randomized to carotid artery stenting or carotid endarterectomy in the ICSS (International Carotid Stenting Study) and included in the magnetic resonance imaging substudy. Magnetic resonance imagings were performed 1 to 7 days before and 1 to 3 days after treatment. The primary composite clinical outcome was the time to any stroke or transient ischemic attack during follow-up. Patients with new diffusion-weighted imaging (DWI) lesions on posttreatment magnetic resonance imaging scan (DWI+) were compared with patients without new lesions (DWI-).
+RESULTS: The median time of follow-up was 8.6 years (interquartile range, 5.0-12.5). Kaplan-Meier cumulative incidence for the primary outcome after 12.5-year follow-up was 35.3% (SE, 8.9%) in DWI+ patients and 31.1% (SE, 5.6%) in DWI- patients. Uni- and multivariable regression analyses did not show significant differences (hazard ratio, 1.50 [95% CI, 0.76-2.94] and hazard ratio, 1.30 [95% CI, 0.10-1.02], respectively). Higher event rate of the primary outcome in DWI+ patients in the overall cohort was mainly caused by events in the carotid artery stenting group.
+CONCLUSIONS: Based on our outcome analysis within the ICSS magnetic resonance imaging substudy, DWI lesions following carotid revascularization did not seem to have a relationship with long-term stroke risk.
+REGISTRATION: URL: https://www.
+CLINICALTRIALS: gov; Unique identifier: ISRCTN 25337470.
+
+Citation: Donners SJA, et al. Long-Term Stroke Risk in Patients With New Ischemic Brain Lesions on MRI After Carotid Revascularization. Long-Term Stroke Risk in Patients With New Ischemic Brain Lesions on MRI After Carotid Revascularization. 2023; 54:2562-2568. doi: 10.1161/STROKEAHA.123.043336
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37615093/

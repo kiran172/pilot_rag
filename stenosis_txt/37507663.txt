@@ -1,0 +1,11 @@
+PMID: 37507663
+Title: MRI features of idiopathic intracranial hypertension are not prognostic of visual and headache outcome.
+
+Abstract: BACKGROUND: In idiopathic intracranial hypertension (IIH), certain MRI features are promising diagnostic markers, but whether these have prognostic value is currently unknown.
+METHODS: We included patients from the Vienna-Idiopathic-Intracranial-Hypertension (VIIH) database with IIH according to Friedman criteria and cranial MRI performed at diagnosis. Presence of empty sella (ES), perioptic subarachnoid space distension (POSD) with or without optic nerve tortuosity (ONT), posterior globe flattening (PGF) and transverse sinus stenosis (TSS) was assessed and multivariable regression models regarding visual outcome (persistent visual impairment/visual worsening) and headache outcome (headache improvement/freedom of headache) were fitted.
+RESULTS: We included 84 IIH patients (88.1% female, mean age 33.5 years, median body mass index 33.7). At baseline, visual impairment was present in 70.2% and headache in 84.5% (54.8% chronic). Persistent visual impairment occurred in 58.3%, visual worsening in 13.1%, headache improvement was achieved in 83.8%, freedom of headache in 26.2%. At least one MRI feature was found in 78.6% and 60.0% had ≥3 features with POSD most frequent (64.3%) followed by TSS (60.0%), ONT (46.4%), ES (44.0%) and PGF (23.8%). In multivariable models, there was no association of any single MRI feature or their number with visual impairment, visual worsening, headache improvement or freedom. Visual impairment at baseline predicted persistent visual impairment (odds ratio 6.3, p<0.001), but not visual worsening. Chronic headache at baseline was significantly associated with lower likelihood of headache freedom (odds ratio 0.48, p=0.013), but not with headache improvement.
+CONCLUSIONS: MRI features of IIH are neither prognostic of visual nor headache outcome.
+
+Citation: Bsteh G, et al. MRI features of idiopathic intracranial hypertension are not prognostic of visual and headache outcome. MRI features of idiopathic intracranial hypertension are not prognostic of visual and headache outcome. 2023; 24:97. doi: 10.1186/s10194-023-01641-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37507663/

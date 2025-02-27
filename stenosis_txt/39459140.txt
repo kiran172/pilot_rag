@@ -1,0 +1,8 @@
+PMID: 39459140
+Title: Mechanical Property of Thermoplastic Polyurethane Vascular Stents Fabricated by Fused Filament Fabrication.
+
+Abstract: Vascular stents have many applications in treating arterial stenosis and other vascular-related diseases. The ideal vascular stent for clinical application should have radial support and axial bending mechanical properties that meet the requirements of vascular deformation coordination. The materials used for vascular stents implanted in the human body should have corresponding biocompatibility to ensure that the stents do not cause coagulation, hemolysis, and other reactions in the blood. This study fabricated four types of vascular stents, including inner hexagon, arrowhead, quadrilateral, and outer hexagonal, using fused filament fabrication technology and thermoplastic polyurethane (TPU) as materials. By evaluating the effects of edge width and wall thickness on the radial support and axial bending performance, it was found that the inner hexagonal stent exhibited the best radial support and axial bending performance under the same conditions. The design and fabrication of vascular stents based on 3D printing technology have promising application prospects in personalized customized vascular repair therapy.
+
+Citation: Zhai Y, et al. Mechanical Property of Thermoplastic Polyurethane Vascular Stents Fabricated by Fused Filament Fabrication. Mechanical Property of Thermoplastic Polyurethane Vascular Stents Fabricated by Fused Filament Fabrication. 2024; 15:(unknown pages). doi: 10.3390/mi15101266
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39459140/

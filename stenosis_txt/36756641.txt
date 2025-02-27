@@ -1,0 +1,11 @@
+PMID: 36756641
+Title: Association of renin-angiotensin system inhibitors use with short- and long-term mortality in patients with aortic stenosis: A systematic review and meta-analysis.
+
+Abstract: PURPOSE: The present study aimed to investigate the association of renin-angiotensin system inhibitors (RASi) with short- and long-term mortality in patients with aortic stenosis (AS).
+METHODS: A systematic search was performed in PubMed, Embase, and Cochrane library databases for relevant studies published before March 2022. Studies meeting the inclusion criteria were included to assess the effect of RASi on short-term (≤30 days) and long-term (≥1 year) mortality in patients with AS.
+RESULTS: A total of 11 studies were included in the meta-analysis. Our results demonstrated that RASi reduced short-term mortality (OR = 0.76, 95% CI 0.63-0.93, p = 0.008) after aortic valve replacement (AVR). Subgroup analysis revealed that RASi was still associated with lower short-term mortality after transcatheter aortic valve replacement (TAVR); however, the association was relatively weak in patients who underwent surgical aortic valve replacement (SAVR). For long-term mortality, the pooled OR was 1.04 (95% CI 0.88-1.24, p = 0.63) after sensitivity analysis in patients who did not undergo AVR. In addition, our study confirmed that RASi significantly reduced long-term mortality (OR = 0.57, 95% CI 0.44-0.74, p &lt; 0.0001) in patients who underwent AVR. Subgroup analysis showed that both TAVR and SAVR groups treated with RASi had lower long-term mortality.
+CONCLUSION: Renin-angiotensin system inhibitors did not change long-term mortality in AS patients who did not undergo AVR. However, RASi reduced short- and long-term mortality in patients who underwent AVR.
+
+Citation: Guan Y, et al. Association of renin-angiotensin system inhibitors use with short- and long-term mortality in patients with aortic stenosis: A systematic review and meta-analysis. Association of renin-angiotensin system inhibitors use with short- and long-term mortality in patients with aortic stenosis: A systematic review and meta-analysis. 2022; 9:917064. doi: 10.3389/fcvm.2022.917064
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36756641/

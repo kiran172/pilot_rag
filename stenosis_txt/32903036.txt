@@ -1,0 +1,12 @@
+PMID: 32903036
+Title: Diffusion tensor imaging in renal artery stenosis: a preliminary report.
+
+Abstract: OBJECTIVE: To investigate the diffusion properties in the kidneys affected by renal artery stenosis (RAS) using diffusion tensor imaging (DTI).
+METHODS: In this prospective study, 35 patients with RAS and 15 patients without renal abnormalities were enrolled and examined using DTI. Cortical and medullary regions of interest (ROIs) were located to obtain the corresponding values of the apparent diffusion coefficient (ADC) and fractional anisotropy (FA). The cortical and medullary ADC and FA were compared in the kidney affected by variable degrees of stenosis (RAS 50-75% and &gt;75%) vs controls, using the one-way ANOVA and Student's t-test. The Spearman correlation test was used to correlate the mean ADC and FA values in the cortex and medulla with the estimate glomerular filtration rate (eGFR).
+RESULTS: For the controls, the ADC value was significantly (p = 0.03) higher in the cortex than in the medulla; the FA value was significantly (p = 0.001) higher in the medulla than in the cortex. Compared with the controls, a significant reduction in the cortical ADC was present with a RAS of 50-75% and &gt;75% (p = 0.001 and 0.041, respectively); a significant reduction in the medullary FA was verified only for RAS &gt;75% (p = 0.023). The Spearman correlation test did not show a statistically significant correlation between the cortical and medullary ADC and FA, and the eGFR.
+CONCLUSION: The alterations of the diffusional parameters caused by RAS can be detected by DTI and could be useful in the diagnostic evaluation of these patients.
+ADVANCES IN KNOWLEDGE: 1. Magnetic resonance DTI could provide useful information about renal involvement in RAS.2. Magnetic resonance DTI allows non-invasive repeatable evaluation of the renal parenchyma, without contrast media.
+
+Citation: Gaudiano C, et al. Diffusion tensor imaging in renal artery stenosis: a preliminary report. Diffusion tensor imaging in renal artery stenosis: a preliminary report. 2020; 93:20200101. doi: 10.1259/bjr.20200101
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32903036/

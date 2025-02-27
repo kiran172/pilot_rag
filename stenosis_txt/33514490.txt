@@ -1,0 +1,11 @@
+PMID: 33514490
+Title: Single Versus Dual Antiplatelet Therapy After Transcatheter Aortic Valve Replacement: A Meta-Analysis of Randomized Clinical Trials.
+
+Abstract: BACKGROUND: Guidelines recommend dual antiplatelet therapy (DAPT) after transcatheter aortic valve replacement (TAVR) but guidelines predate the publication of the largest randomized trial. There have been few trials in the field to date, and with a small number of total patients; pooling their results may therefore be helpful.
+METHODS: We systematically identified all randomized trials comparing SAPT to DAPT after TAVR. The primary endpoint was the risk of major bleeding. Secondary endpoints included all bleeding, life-threatening bleeding, stroke, myocardial infarction, death and cardiac death.
+RESULTS: Four trials, randomizing 1086 participants, were eligible (541 randomized to SAPT and 545 randomized to DAPT). The weighted mean follow-up was 9.1 months. The risk of major bleeding was significantly increased after DAPT (relative risk (RR) 2.36, 95% confidence interval (CI) 1.27 to 4.40, P = 0.007). There was a similar increased risk for all bleeding (RR 1.65, 95% CI 1.24 to 2.19, P &lt; 0.001), although not for life-threatening bleeding (RR 1.44, 95% CI 0.74 to 2.77, P = 0.282). There were no significant differences in the risk of stroke, myocardial infarction (MI), death or cardiac death. There was no heterogeneity observed for any endpoint (I2 = 0.0%).
+CONCLUSIONS: DAPT after TAVR is associated with an increased risk of major bleeding and all bleeding. There is no evidence of a significant difference between DAPT or SAPT for the risks of stroke, MI, death or cardiac death. However, the total number of patients randomized is small and the duration of follow-up is short. Larger scale randomized trials with longer follow-up are required to assess for any potential differences in ischemic endpoints or mortality.
+
+Citation: Ahmad Y, et al. Single Versus Dual Antiplatelet Therapy After Transcatheter Aortic Valve Replacement: A Meta-Analysis of Randomized Clinical Trials. Single Versus Dual Antiplatelet Therapy After Transcatheter Aortic Valve Replacement: A Meta-Analysis of Randomized Clinical Trials. 2022; 34:46-53. doi: 10.1016/j.carrev.2021.01.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33514490/

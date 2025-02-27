@@ -1,0 +1,12 @@
+PMID: 32546595
+Title: Estimation of Intraglomerular Pressure Using Invasive Renal Arterial Pressure and Flow Velocity Measurements in Humans.
+
+Abstract: BACKGROUND: Glomerular hyperfiltration resulting from an elevated intraglomerular pressure (Pglom) is an important cause of CKD, but there is no feasible method to directly assess Pglom in humans. We developed a model to estimate Pglom in patients from combined renal arterial pressure and flow measurements.
+METHODS: We performed hemodynamic measurements in 34 patients undergoing renal or cardiac angiography under baseline conditions and during hyperemia induced by intrarenal dopamine infusion (30 μg/kg). For each participant during baseline and hyperemia, we fitted an adapted three-element Windkessel model that consisted of characteristic impedance, compliance, afferent resistance, and Pglom.
+RESULTS: We successfully analyzed data from 28 (82%) patients. Median age was 58 years (IQR, 52-65), median eGFR was 95 ml/min per 1.73 m2 (IQR, 74-100) using the CKD-EPI formula, 30% had microalbuminuria, and 32% had diabetes. The model showed a mean Pglom of 48.0 mm Hg (SD=10.1) at baseline. Under hyperemia, flow increased by 88% (95% CI, 68% to 111%). This resulted in a 165% (95% CI, 79% to 294%) increase in afferent compliance and a 13.1-mm Hg (95% CI, 10.0 to 16.3) decrease in Pglom. In multiple linear regression analysis, diabetes (coefficient, 10.1; 95% CI, 5.1 to 15.1), BMI (0.99 per kg/m2; 95% CI, 0.38 to 1.59), and renal perfusion pressure (0.42 per mm Hg; 95% CI, 0.25 to 0.59) were significantly positively associated with baseline Pglom.
+CONCLUSIONS: We constructed a model on the basis of proximal renal arterial pressure and flow velocity measurements that provides an overall estimate of glomerular pressure and afferent and efferent resistance in humans. The model provides a novel research technique to evaluate the hemodynamics of CKD on the basis of direct pressure and flow measurements.
+CLINICAL TRIAL REGISTRY NAME AND REGISTRATION NUMBER: Functional HEmodynamics in patients with and without Renal Artery stenosis (HERA), NL40795.018.12 at the Dutch national trial registry (toetsingonline.nl).
+
+Citation: Collard D, et al. Estimation of Intraglomerular Pressure Using Invasive Renal Arterial Pressure and Flow Velocity Measurements in Humans. Estimation of Intraglomerular Pressure Using Invasive Renal Arterial Pressure and Flow Velocity Measurements in Humans. 2020; 31:1905-1914. doi: 10.1681/ASN.2019121272
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32546595/

@@ -1,0 +1,12 @@
+PMID: 38887941
+Title: A Contemporary Evaluation of the Centers for Medicare and Medicaid Services High-risk Indicators for Carotid Endarterectomy.
+
+Abstract: OBJECTIVE: Compare stroke/death outcomes across carotid endarterectomy (CEA), transcarotid artery revascularization (TCAR), and transfemoral carotid artery stenting (TFCAS) using Centers for Medicare and Medicaid Services (CMS) high-risk criterion.
+BACKGROUND: Existing literature has revealed inconsistencies with CMS risk guidelines. With recent approval for TCAR and TFCAS in standard-risk patients, an updated analysis of guidelines is needed.
+METHODS: Data from the Vascular Quality Initiative (VQI) (2016-2023) on CEA, TFCAS, or TCAR patients were used. We used inverse probability of treatment weighting to compare in-hospital stroke/death rates across procedures for high-risk criteria: contralateral occlusion (CLO), prior CEA, CAS, radiation, neck surgery, moderate to severe CHF, severe COPD (on home O 2 ), unstable angina, recent MI (<6 mo), and age (≥75 years-old).
+RESULTS: A total of 199,050 patients were analyzed, of whom 122,737 (62%) patients underwent CEA, 50,095 (25%) TCAR, and 26,218 (13%) TFCAS. TCAR had lower odds of stroke/death compared with CEA in patients with CLO [aOR=0.73 (95% CI: 0.55-0.98], P =0.035] and radiation [aOR=0.44 (95% CI: 0.23-0.82), P =0.010]. Contrary to CMS criteria, CEA patients did not have higher stroke/death in patients with prior CEA, CAS, neck surgery, moderate to severe CHF, severe COPD, unstable angina, recent MI, or age (≥75) compared with TCAR and TFCAS.
+CONCLUSIONS: While CMS high-risk criteria have traditionally been recognized as contraindications for CEA, our study reveals inconsistencies-with CEA performing similarly to TCAR and significantly better than TFCAS in patients with prior CEA, moderate to severe CHF, recent MI, or age (≥75). As a result, the definition of high-risk criteria may warrant reconsideration.
+
+Citation: Straus S, et al. A Contemporary Evaluation of the Centers for Medicare and Medicaid Services High-risk Indicators for Carotid Endarterectomy. A Contemporary Evaluation of the Centers for Medicare and Medicaid Services High-risk Indicators for Carotid Endarterectomy. 2024; 280:444-451. doi: 10.1097/SLA.0000000000006397
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38887941/

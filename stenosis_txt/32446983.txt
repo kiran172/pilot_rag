@@ -1,0 +1,11 @@
+PMID: 32446983
+Title: Systematic Review of Cost-Effectiveness Analyses in U.S. Spine Surgery.
+
+Abstract: BACKGROUND: Increasing costs put the value of spine surgery under scrutiny. In health economics, cost-effectiveness analyses (CEA) are used to compare the value of competing procedures. However, inconsistent methodology prevents standardization and implementation of recommendations. The goal of this study is to perform a systematic review of all U.S. CEAs in spine surgery reported to date, highlight their strengths and weaknesses, and define metrics essential for high-quality CEAs.
+METHODS: We followed AMSTAR systematic review methods, identifying all U.S. spine surgery CEAs reported to March 2019 with a structured, reproducible search of PubMed, Embase, and the Tufts CEA Registry.
+RESULTS: We identified 40 CEA studies. Twelve (30%) used outcome data from a randomized controlled trial. To calculate costs, 22 (55%) used allowed charges but costing methods were often unclear or imprecise. Studies applying discounting had mean follow-up of 5.92 years compared with 3.00 years for studies without. Eleven of 15 (73%) cervical studies compared cervical disc arthroplasty with anterior cervical discectomy and fusion, finding cervical disc arthroplasty to be cost-effective (<$100,000/quality-adjusted life year) for 1-level and 2-level procedures. Eleven of 25 lumbar studies (44%) compared operative with nonoperative interventions for intervertebral disc herniation, lumbar stenosis, and lumbar spondylolisthesis. Lumbar studies comparing surgical with nonoperative intervention found surgery at least cost-effective for intervertebral disc herniation and lumbar stenosis, but cost-effective only for lumbar spondylolisthesis at 4 years follow-up. Most studies (70%) lacked appropriate sensitivity analyses.
+CONCLUSIONS: Costing methodology remains obscure and inconsistent and incremental cost-effectiveness ratio results incomparable. The language of costing methodology must be standardized and sensitivity analyses of outcome and cost inputs mandatory for publication.
+
+Citation: Chang D, et al. Systematic Review of Cost-Effectiveness Analyses in U.S. Spine Surgery. Systematic Review of Cost-Effectiveness Analyses in U.S. Spine Surgery. 2020; 142:e32-e57. doi: 10.1016/j.wneu.2020.05.123
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32446983/

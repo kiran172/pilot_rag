@@ -1,0 +1,12 @@
+PMID: 35390747
+Title: CFD study on vesicoureteral reflux in the urinary tract with double J stent.
+
+Abstract: OBJECTIVE: This study investigates the effects of vesicoureteral reflux (VUR) in the upper and lower urinary tracts with and without ureteral stenosis and with a double J stent (DJS).
+METHODS: The entire length of the urinary tract with an implanted DJS was modeled. To assess the possibility of VUR, the measured values were used as boundary conditions for the baseline, the maximum cystometric bladder capacity (MCBC) during the filling phase, and maximum vesical pressure during the voiding phase were computed. The flow rates, flow patterns, wall shear stress (WSS) distribution, impact force induced by reflux urination, and helicity of the bladder were investigated for the urinary system.
+RESULTS: The flow from the bladder to the renal pelvis was detected at maximum vesical pressure (75 cmH2O) during the voiding phase, and a small amount (1.09 mL/s) of VUR was noted at the MCBC during the filling phase. The WSS increased when the reflux was large. Helicity within the bladder varied with the stenosis as well as opening and closing of the urethra. The reflux within the stent was reduced by 40% by inserting a ball into the stent.
+CONCLUSION: The main VUR factor was the opening and closing of the vesicoureteric junction by the detrusor muscle. The largest urine reflux (11.7 mL/s) to the kidney occurred when the detrusor muscle was relaxed.
+SIGNIFICANCE: Ureteral stenosis affected the VUR and reduced urine reflux. Ball insertion in the stent reduced urine reflux through the stent lumen.
+
+Citation: Kim KW, et al. CFD study on vesicoureteral reflux in the urinary tract with double J stent. CFD study on vesicoureteral reflux in the urinary tract with double J stent. 2022; 145:105456. doi: 10.1016/j.compbiomed.2022.105456
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35390747/

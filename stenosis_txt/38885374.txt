@@ -1,0 +1,12 @@
+PMID: 38885374
+Title: Quantitative evaluation using carotid ultrasonography-based high-frame-rate vector flow imaging in patients with low carotid stenosis.
+
+Abstract: OBJECTIVE: To explore the role of quantitative evaluation using carotid ultrasonography (US)-based high-frame-rate vector flow (V Flow) imaging in patients with low carotid stenosis.
+METHODS: This single-centre cross-sectional study consecutively recruited volunteers without carotid plaque and patients with low carotid stenosis from August 2022 to May 2023. Patients were divided into symptomatic and asymptomatic groups according to their head CT or MRI results within 8 weeks. All V Flow imaging examinations were performed using a Mindray Resona R9 US system. The wall shear stress (WSS) values, oscillatory shear index (OSI) values, and turbulence (Tur) indexes in the normal common carotid artery (CCA), normal carotid bifurcation (CB), and on the upstream and downstream surface of carotid plaque were measured. Pearson Chi-square test and Fisher exact test were used for counting data according to their type. For measurement data, independent sample t test and non-parametric rank sum test were used.
+RESULTS: The results proved that patients have higher WSS values and Tur indexes of CB than volunteers, and higher WSS values were detected on the surface of the plaques in symptomatic patients. What's more, the downstream side of the plaque was more vulnerable to plaque rupture than the upstream side due to more dynamic blood flow.
+CONCLUSION: Therefore, carotid US-based high-frame-rate V Flow imaging provides reliable mechanical biomarkers for assessing the haemodynamic change in patients with low stenosis. Our study may provide a new imaging tool for monitoring the progression of atherosclerosis and aiding the management of early atherosclerotic patients.
+ADVANCES IN KNOWLEDGE: Our study firstly investigated the difference of V Flow parameters on the surface of carotid plaques between symptomatic and asymptomatic patients with low carotid stenosis, which is expected to provide haemodynamic information and the mechanical basis for plaque rupture.
+
+Citation: Chen J, et al. Quantitative evaluation using carotid ultrasonography-based high-frame-rate vector flow imaging in patients with low carotid stenosis. Quantitative evaluation using carotid ultrasonography-based high-frame-rate vector flow imaging in patients with low carotid stenosis. 2024; 97:1476-1482. doi: 10.1093/bjr/tqae115
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38885374/

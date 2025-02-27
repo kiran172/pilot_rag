@@ -1,0 +1,11 @@
+PMID: 35662563
+Title: Diagnostic performance of quantitative flow ratio versus fractional flow reserve and resting full-cycle ratio in intermediate coronary lesions.
+
+Abstract: BACKGROUND: Quantitative flow ratio (QFR) is a novel angiography-derived index aimed to assess the functional relevance of coronary stenoses without pressure wires and adenosine. Good diagnostic yield with the hyperemic fractional flow reserve (FFR) have been reported, while data on the comparison of QFR to non-hyperemic pressure ratios (NHPR) are scarce.
+METHODS: In this retrospective, observational and single-center study with a large population representative of the real practice, we assessed and compared the diagnostic performance of contrast flow (cQFR) and fixed flow (fQFR) QFR against the NHPR resting full-cyle ratio (RFR) using FFR as reference standard.
+RESULTS: A total of 626 lesions from 544 patients were investigated. Mean diameter stenosis, FFR, cQFR, fQFR and RFR were 44.8%, 0.842, 0.847, 0.857 and 0.912, respectively. The correlation between cQFR and FFR was stronger (r = 0.830, P < 0.001) compared to that between FFR and RFR (r = 0.777, P < 0.001) and between cQFR and RFR (r = 0.687, P < 0.001). Using FFR ≤0.80 as reference, the sensitivity, specificity, positive predictive value, negative predictive value, and overall diagnostic accuracy for cQFR were 82%, 95%, 87%, 92%, and 91%, respectively. cQFR displayed a higher area under the curve (AUC) than fQFR and RFR (0.938 vs. 0.891 vs. 0.869, P < 0.01). The good diagnostic yield of cQFR appeared to be maintained in different clinical subsets including female gender, aortic valve stenosis and atrial fibrillation, and in different anatomical subsets including focal and non-focal lesions.
+CONCLUSION: cQFR has a high and better diagnostic performance than the NHPR RFR in predicting FFR-based functional significance of coronary stenoses.
+
+Citation: Wienemann H, et al. Diagnostic performance of quantitative flow ratio versus fractional flow reserve and resting full-cycle ratio in intermediate coronary lesions. Diagnostic performance of quantitative flow ratio versus fractional flow reserve and resting full-cycle ratio in intermediate coronary lesions. 2022; 362:59-67. doi: 10.1016/j.ijcard.2022.05.066
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35662563/

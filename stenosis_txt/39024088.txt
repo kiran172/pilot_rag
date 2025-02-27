@@ -1,0 +1,8 @@
+PMID: 39024088
+Title: STQD-Det: Spatio-Temporal Quantum Diffusion Model for Real-Time Coronary Stenosis Detection in X-Ray Angiography.
+
+Abstract: Detecting coronary stenosis accurately in X-ray angiography (XRA) is important for diagnosing and treating coronary artery disease (CAD). However, challenges arise from factors like breathing and heart motion, poor imaging quality, and the complex vascular structures, making it difficult to identify stenosis fast and precisely. In this study, we proposed a Quantum Diffusion Model with Spatio-Temporal Feature Sharing to Real-time detect Stenosis (STQD-Det). Our framework consists of two modules: Sequential Quantum Noise Boxes module and spatio-temporal feature module. To evaluate the effectiveness of the method, we conducted a 4-fold cross-validation using a dataset consisting of 233 XRA sequences. Our approach achieved the F1 score of 92.39% with a real-time processing speed of 25.08 frames per second. These results outperform 17 state-of-the-art methods. The experimental results show that the proposed method can accomplish the stenosis detection quickly and accurately.
+
+Citation: Li X, et al. STQD-Det: Spatio-Temporal Quantum Diffusion Model for Real-Time Coronary Stenosis Detection in X-Ray Angiography. STQD-Det: Spatio-Temporal Quantum Diffusion Model for Real-Time Coronary Stenosis Detection in X-Ray Angiography. 2024; 46:9908-9920. doi: 10.1109/TPAMI.2024.3430839
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39024088/

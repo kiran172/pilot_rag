@@ -1,0 +1,15 @@
+PMID: 36122267
+Title: Effectiveness of Epidural Balloon Neuroplasty in Patients With Chronic Spinal Stenosis Accompanied by Redundant Nerve Roots: A Longitudinal Cohort Study.
+
+Abstract: BACKGROUND: Symptomatic patients with chronic lumbar spinal stenosis (LSS) accompanied by redundant nerve roots (RNR) have poor treatment outcomes. Recently, epidural balloon neuroplasty has been shown to be effective in patients with chronic LSS.
+OBJECTIVE: To evaluate the effectiveness of epidural balloon neuroplasty in patients with chronic LSS accompanied by RNR.
+STUDY DESIGN: Retrospective cohort study.
+SETTING: A single pain clinic of a tertiary medical center in Seoul, Republic of Korea.
+METHODS: Patients with chronic LSS were divided into groups with (RNR group) and without RNR (non-RNR group). The generalized estimating equations (GEE) model was used to evaluate the effectiveness of epidural balloon neuroplasty in both groups based on Numeric Rating Scale (NRS-11) score for pain intensity, Medication Quantification Scale III (MQS III), and proportion of functional improvement at one, 3, and 6 months postprocedure.
+RESULTS: GEE analyses showed a significant reduction of pain intensity in NRS-11 and functional improvement compared to baseline throughout the 6-month follow-up period in both groups (P < 0.001), without differences between groups. After adjusting for potential confounding variables, the NRS-11 of leg pain one month after the procedure in the RNR group was reduced less than that in the non-RNR group (P = 0.016), although we did not find a significant time and group interaction. After adjustment, less functional improvement was observed 3 months after the procedures in the RNR group than in the non-RNR group (P = 0.001), with a significant interaction between time and group (P = 0.003). The estimated mean MQS III values were unchanged at 6 months regardless of adjustment in both groups.
+LIMITATIONS: Retrospective design and a lack of information on adjuvant nonpharmacologic therapies.
+CONCLUSION: Epidural balloon neuroplasty may be an effective option for reducing pain in patients with chronic LSS accompanied by RNR.
+
+Citation: Sim JH, et al. Effectiveness of Epidural Balloon Neuroplasty in Patients With Chronic Spinal Stenosis Accompanied by Redundant Nerve Roots: A Longitudinal Cohort Study. Effectiveness of Epidural Balloon Neuroplasty in Patients With Chronic Spinal Stenosis Accompanied by Redundant Nerve Roots: A Longitudinal Cohort Study. 2022; 25:E841-E850.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36122267/

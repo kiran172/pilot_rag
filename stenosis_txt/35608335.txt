@@ -1,0 +1,13 @@
+PMID: 35608335
+Title: Comparison of Inhaled Drug Delivery in Patients With One- and Two-level Laryngotracheal Stenosis.
+
+Abstract: OBJECTIVES/HYPOTHESIS: Laryngotracheal stenosis (LTS) is a functionally devastating condition with high respiratory morbidity and mortality. This preliminary study investigates airflow dynamics and stenotic drug delivery in patients with one- and two-level LTS.
+STUDY DESIGN: A Computational Modeling Restropective Cohort Study.
+METHODS: Computed tomography scans from seven LTS patients, five with one-level (three subglottic, two tracheal), and two with two-level (glottis + trachea, glottis + subglottis) were used to reconstruct patient-specific three-dimensional upper airway models. Airflow and orally inhaled drug particle transport were simulated using computational fluid dynamics modeling. Drug particle transport was simulated for 1-20 μm particles released into the mouth at velocities of 0 m/s, 1 m/s, 3 m/s, and 10 m/s for metered dose inhaler (MDI) and 0 m/s for dry powder inhaler (DPI) simulations. Airflow resistance and stenotic drug deposition in the patients' airway models were compared.
+RESULTS: Overall, there was increased airflow resistance at stenotic sites in subjects with two-level versus one-level stenosis (0.136 Pa s/ml vs. 0.069 Pa s/ml averages). Subjects with two-level stenosis had greater particle deposition at sites of stenosis compared to subjects with one-level stenosis (average deposition 2.31% vs. 0.96%). One-level stenosis subjects, as well as one two-level stenosis subject, had the greatest deposition using MDI with a spacer (0 m/s): 2.59% and 4.34%, respectively. The second two-level stenosis subject had the greatest deposition using DPI (3.45%). Maximum deposition across all stenotic subtypes except one-level tracheal stenosis was achieved with particle sizes of 6-10 μm.
+CONCLUSIONS: Our results suggest that patients with two-level LTS may experience a more constricted laryngotracheal airflow profile compared to patients with one-level LTS, which may enhance overall stenotic drug deposition.
+LEVEL OF EVIDENCE: NA Laryngoscope, 133:366-374, 2023.
+
+Citation: Gosman RE, et al. Comparison of Inhaled Drug Delivery in Patients With One- and Two-level Laryngotracheal Stenosis. Comparison of Inhaled Drug Delivery in Patients With One- and Two-level Laryngotracheal Stenosis. 2023; 133:366-374. doi: 10.1002/lary.30212
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35608335/

@@ -1,0 +1,17 @@
+PMID: 31944452
+Title: Irregularity of Carotid Plaque Surface Predicts Subsequent Vascular Event: A MRI Study.
+
+Abstract: BACKGROUND: The relationship between plaque compositions and irregular plaque surface and its predictive value for vascular events (VEs) are unknown.
+PURPOSE: To investigate the relationship between irregular carotid plaque surface and plaque compositional features and its predictive values for future VEs utilizing magnetic resonance (MR) vessel wall imaging.
+STUDY TYPE: Prospective study.
+POPULATION: In total, 140 patients with cerebrovascular symptoms were recruited.
+FIELD STRENGTH/SEQUENCE: 3T, black blood T<sub>1</sub> -weighted, black blood T<sub>2</sub> -weighted, 3D time-of-flight, magnetization-prepared rapid acquisition gradient echo (MP-RAGE), and 3D motion sensitized driven equilibrium rapid gradient echo (MERGE).
+ASSESSMENT: The carotid artery stenosis and maximum wall thickness (Max WT) were measured. The presence/absence of irregular carotid plaque surface, calcification, lipid-rich necrotic core (LRNC), intraplaque hemorrhage (IPH), and fibrous cap rupture was determined. After baseline examination, all patients were followed-up for at least 1 year to record the VEs.
+STATISTICAL TESTS: Independent t-test, Mann-Whitney U-test, Chi-square, logistic regression, and Cox regression were used.
+RESULTS: In total, 82 (58.6%) had irregular plaque surfaces. The carotid Max WT, stenosis, and the presence of surface calcification, LRNC and IPH were significantly associated with irregular plaque surface (all P < 0.05). After adjusted for baseline confounding factors, these associations remained statistically significant (all P < 0.05). During the median follow-up time of 12.1 months, 37 (26.4%) patients had VEs. Univariable Cox regression analysis showed that the irregular carotid plaque surface was significantly associated with subsequent VEs (hazard ratio [HR], 11.02; 95% confidence interval [CI], 2.65-45.85; P = 0.001). After adjusted for baseline and follow-up confounding factors, this association remained statistically significant (HR, 13.03; 95% CI, 1.71-99.42, P = 0.013). After further adjusted for intracranial stenosis, this association also remained statistically significant (HR, 12.57; 95% CI, 1.63-96.83, P = 0.015).
+DATA CONCLUSION: The morphology of carotid atherosclerotic plaque surface determined by MR vessel wall imaging, particularly irregular plaque surface, is an independent predictor for subsequent vascular events.
+LEVEL OF EVIDENCE: 1 Technical Efficacy Stage: 5 J. Magn. Reson. Imaging 2020;52:185-194.
+
+Citation: Li J, et al. Irregularity of Carotid Plaque Surface Predicts Subsequent Vascular Event: A MRI Study. Irregularity of Carotid Plaque Surface Predicts Subsequent Vascular Event: A MRI Study. 2020; 52:185-194. doi: 10.1002/jmri.27038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31944452/

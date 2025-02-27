@@ -1,0 +1,11 @@
+PMID: 37837798
+Title: Monocyte-to-lymphocyte ratio correlates with parathyroid hormone concentration in patients with severe symptomatic aortic stenosis.
+
+Abstract: PURPOSE: The normal healthy valve is devoid of inflammatory cells, however background of aortic stenosis (AS) may include inflammatory processes. Moreover, the link between hyperparathyroidism and heart failure is postulated. Simple whole blood analysis with indices is a beneficial tool in cardiovascular diseases' assessment. The purpose of the study was to evaluate correlation between parathyroid hormone (PTH) and simple blood parameters in severe AS.
+MATERIAL AND METHODS: The study included 62 patients with severe AS. Patients with inflammatory or autoimmune co-morbidities were excluded. Blood samples were collected, and clinical and demographic data were analyzed.
+RESULTS: The final study group comprised 55 patients (31 females, 56.4%; mean age 77.13 (SD 6.76)). In 23 patients (41.8%), PTH concentration was markedly increased. The study group was divided into two subgroups according to the PTH concentration. Patients from both groups did not differ significantly in terms of age and co-morbidities. PTH concentration correlated positively with monocyte-lymphocyte ratio (MLR) (p ​= ​0.008, Spearman rho 0.356) and platelet-lymphocyte ratio (PLR) (p ​= ​0.047, Spearman rho 0.269), creatinine level (p ​= ​0.001, Spearman rho 0.425) and glomerular filtration rate (GFR-MDRD) (p ​= ​0.009, Spearman rho -0.349). The multivariable logistic regression with backward analysis revealed MLR (p ​= ​0.029) and GFR (p ​= ​0.028) as independent significant predictors of abnormal PTH values. The receiver operator characteristics (ROC) curve was performed for the model of MLR and GFR-MDRD (AUC ​= ​0.777), yielding the sensitivity of 60.9% and specificity of 90.6%.
+CONCLUSIONS: PTH concentration correlates with monocyte-to-lymphocyte and platelet-to-lymphocyte ratios in calcified AS.
+
+Citation: Olasińska-Wiśniewska A, et al. Monocyte-to-lymphocyte ratio correlates with parathyroid hormone concentration in patients with severe symptomatic aortic stenosis. Monocyte-to-lymphocyte ratio correlates with parathyroid hormone concentration in patients with severe symptomatic aortic stenosis. 2023; 68:396-401. doi: 10.1016/j.advms.2023.09.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37837798/

@@ -1,0 +1,11 @@
+PMID: 34846030
+Title: The effect of stenosis rate and Reynolds number on local flow characteristics and plaque formation around the atherosclerotic stenosis.
+
+Abstract: PURPOSE: Atherosclerosis causes plaque to build-up in arteries. Effect of the specific local hemodynamic environment around an atherosclerotic plaque on the thrombosis formation does not remain quite clear but is believed to be crucial. The aim of this study is to uncover the flow effects on plaques formation.
+METHODS: To study the mechanically regulated plaque formation, the flow fields in artery blood vessels with different stenosis rates at various Reynolds numbers were simulated numerically with the two-dimensional axisymmetric models, and the hemodynamic characteristics around the plaque were scaled with stenosis rate and Reynolds number.
+RESULTS: The results showed that increases of both Reynolds number and stenosis rate facilitated the occurrence of flow separation phenomenon, extended recirculation zone, and upregulated the maximum normalized wall shear stress near the plaque throat section while downregulated the minimal normalized wall shear stress at the front shoulder of plaque, as it should be; in the atherosclerotic plaque leeside of the recirculation zone, an obvious catch bond region of wall shear stress might exist especially under low Reynolds number with stenosis rate smaller than 30%. This catch bond region in the plaque leeside might be responsible for the LBF (low blood flow)-enhanced formation of the atherosclerotic plaque.
+CONCLUSIONS: This work may provide a novel insight into understanding the biomechanical effects behind the formation and damage of atherosclerotic plaques and propose a new strategy for preventing atherosclerotic diseases.
+
+Citation: Chen X, et al. The effect of stenosis rate and Reynolds number on local flow characteristics and plaque formation around the atherosclerotic stenosis. The effect of stenosis rate and Reynolds number on local flow characteristics and plaque formation around the atherosclerotic stenosis. 2021; 23:135-147.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34846030/

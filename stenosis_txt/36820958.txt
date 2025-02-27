@@ -1,0 +1,11 @@
+PMID: 36820958
+Title: A comparison of myocardial magnetic resonance extracellular volume mapping at 3 T against histology of tissue collagen in severe aortic valve stenosis and obstructive hypertrophic cardiomyopathy.
+
+Abstract: OBJECTIVE: Quantitative extracellular volume fraction (ECV) mapping with MRI is commonly used to investigate in vivo diffuse myocardial fibrosis. This study aimed to validate ECV measurements against ex vivo histology of myocardial tissue samples from patients with aortic valve stenosis or hypertrophic cardiomyopathy.
+MATERIALS AND METHODS: Sixteen patients underwent MRI examination at 3 T to acquire native T<sub>1</sub> maps and post-contrast T<sub>1</sub> maps after gadobutrol administration, from which hematocrit-corrected ECV maps were estimated. Intra-operatively obtained myocardial tissue samples from the same patients were stained with picrosirius red for quantitative histology of myocardial interstitial fibrosis. Correlations between in vivo ECV and ex vivo myocardial collagen content were evaluated with regression analyses.
+RESULTS: Septal ECV was 30.3% ± 4.6% and correlated strongly (n = 16, r = 0.70; p = 0.003) with myocardial collagen content. Myocardial native T<sub>1</sub> values (1206 ± 36 ms) did not correlate with septal ECV (r = 0.41; p = 0.111) or with myocardial collagen content (r = 0.32; p = 0.227).
+DISCUSSION: We compared myocardial ECV mapping at 3 T against ex vivo histology of myocardial collagen content, adding evidence to the notion that ECV mapping is a surrogate marker for in vivo diffuse myocardial fibrosis.
+
+Citation: Bakermans AJ, et al. A comparison of myocardial magnetic resonance extracellular volume mapping at 3 T against histology of tissue collagen in severe aortic valve stenosis and obstructive hypertrophic cardiomyopathy. A comparison of myocardial magnetic resonance extracellular volume mapping at 3 T against histology of tissue collagen in severe aortic valve stenosis and obstructive hypertrophic cardiomyopathy. 2023; 36:701-709. doi: 10.1007/s10334-023-01070-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36820958/

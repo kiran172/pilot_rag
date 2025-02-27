@@ -1,0 +1,11 @@
+PMID: 39344357
+Title: The Monocyte-to-Lymphocyte Ratio Was Associated With Intraplaque Neovascularization of the Carotid Artery on AngioPLUS.
+
+Abstract: BACKGROUND: The monocyte-lymphocyte ratio (MLR) is a hematological test parameter that reflects the status of both monocytes and lymphocytes as inflammatory cells. This study aims to investigate the relationship between MLR and carotid intraplaque neovascularization (IPN) in patients with asymptomatic carotid stenosis.
+METHODS: We performed the Angio Planewave Ultrasensitive (AngioPLUS) screening for patients with carotid plaques. The carotid plaque stability was evaluated by semiquantitative visual grading of carotid IPN. Binary logistic regression models were performed to determine the associations between different clinical and laboratory indicators and the presence of high IPN.
+RESULTS: A total of 160 patients were eventually enrolled with 99 in the low IPN group (Scores 0-1) and 61 in the high IPN group (Score 2). Univariate logistic regression showed that age, monocytes, lymphocytes, glycated hemoglobin (HbA1c), fibrinogen, d-dimmer, and MLR were significantly associated with the presence of high IPN (all p < 0.05). Multivariate logistic regression models showed that MLR was significantly associated with the presence of high IPN after adjusting for other covariates. An MLR value of 32.9 was the optimal cutoff value to differentiate high and low IPN. High MLR was also significantly correlated with the presence of high IPN (odds ratio [OR] = 4.08, 95% confidence interval [CI]: 1.69-9.88, p = 0.002) when included in the above multivariate logistic regression model.
+CONCLUSION: Elevated MLR is closely associated with the presence of high IPN and may serve as a surrogate biomarker for carotid IPN.
+
+Citation: Zhai M, et al. The Monocyte-to-Lymphocyte Ratio Was Associated With Intraplaque Neovascularization of the Carotid Artery on AngioPLUS. The Monocyte-to-Lymphocyte Ratio Was Associated With Intraplaque Neovascularization of the Carotid Artery on AngioPLUS. 2024; 14:e70058. doi: 10.1002/brb3.70058
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39344357/

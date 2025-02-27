@@ -1,0 +1,12 @@
+PMID: 37408654
+Title: Impact of atrial fibrillation on outcomes in asymptomatic severe aortic stenosis: a propensity-matched analysis.
+
+Abstract: BACKGROUND: Atrial fibrillation (AF) portends poor prognosis in patients with aortic stenosis (AS).
+OBJECTIVES: This study aimed to study the association of AF vs. sinus rhythm (SR) with outcomes in asymptomatic severe AS during routine clinical practice.
+METHODS: We identified 909 asymptomatic patients from 3,208 consecutive patients with aortic valve area ≤1.0 cm2 and left ventricular ejection fraction ≥50% at a tertiary academic center. Patients were grouped by rhythm at the time of transthoracic echocardiogram [SR: 820/909 (90%) and AF: 89/909 (10%)]. Propensity-matched analyses (2 SR:1 AF) matching 174 SR to 89 AF patients by age, sex, and clinical comorbidities were used to compare outcomes.
+RESULTS: In the propensity-matched cohort, median age (82 ± 8 vs. 81 ± 9 years, p = 0.31), sex distribution (male 58% vs. 52%, p = 0.30), and Charlson comorbidity index (4.0 vs. 3.0, p = 0.26) were not different in AF vs. SR. Median follow-up duration was 2.6 (IQR: 1.0-4.4) years. The 1-year rate of aortic valve replacement (AVR) was not different (AF: 32% vs. SR: 37%, p = 0.31). All-cause mortality was higher in AF [hazard ratio (HR): 1.68 (1.13-2.50), p = 0.009]. Independent predictors of mortality were age [HR: 1.92 (1.40-2.62), p &lt; 0.001], Charlson comorbidity index [1.09 (1.03-1.15), p = 0.002], aortic valve peak velocity [HR: 1.87 (1.20-2.94), p = 0.006], stroke volume index [HR: 0.75 (0.60-0.93), p = 0.01], moderate or more mitral regurgitation [HR: 2.97 (1.43-6.19), p = 0.004], right ventricular systolic dysfunction [HR: 2.39 (1.29-4.43), p = 0.006], and time-dependent AVR [HR: 0.36 (0.19-0.65), p = 0.0008]. There was no significant interaction of AVR and rhythm (p = 0.57).
+CONCLUSIONS: Lower forward flow, right ventricular systolic dysfunction, and mitral regurgitation identified increased risk of subsequent mortality in asymptomatic patients with AF and AS. Additional studies of risk stratification of asymptomatic AS in AF vs. SR are needed.
+
+Citation: Oguz D, et al. Impact of atrial fibrillation on outcomes in asymptomatic severe aortic stenosis: a propensity-matched analysis. Impact of atrial fibrillation on outcomes in asymptomatic severe aortic stenosis: a propensity-matched analysis. 2023; 10:1195123. doi: 10.3389/fcvm.2023.1195123
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37408654/

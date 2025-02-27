@@ -1,0 +1,11 @@
+PMID: 33180381
+Title: Long-term outcomes after transcatheter aortic valve replacement with minimal contrast in chronic kidney disease.
+
+Abstract: BACKGROUND: Patients with renal insufficiency have poor short-term outcomes after transcatheter aortic valve replacement (TAVR).
+METHODS: Retrospective chart review identified 575 consecutive patients not on hemodialysis who underwent TAVR between September 2014 and January 2017. Outcomes were defined by VARC-2 criteria. Primary outcome of all-cause mortality was evaluated at a median follow-up of 811 days (interquartile range 125-1,151).
+RESULTS: Preprocedural glomerular filtration rate (GFR) was ≥60 ml/min in 51.7%, 30-60 ml/min in 42.1%, and < 30 ml/min in 6.3%. Use of transfemoral access (98.8%) and achieved device success (91.0%) did not differ among groups, but less contrast was used with lower GFR (23 ml [15-33], 24 ml [14-33], 13 ml [8-20]; p < .001). Peri-procedural stroke (0.7%, 2.1%, 11.1%; p < .001) was higher with lower GFR. Core lab analysis of preprocedural computed tomography scans of patients who developed a peri-procedural stroke identified potential anatomic substrate for stroke in three out of four patients with GFR 30-60 ml/min and all three with GFR <30 ml/min (severe atheroma was the most common subtype of anatomical substrate present). Compared to GFR ≥60 ml/min, all-cause mortality was higher with GFR 30-60 ml/min (HR 1.61 [1.00-2.59]; aHR 1.61 [0.91-2.83]) and GFR <30 ml/min (HR 2.41 [1.06-5.48]; aHR 2.34 [0.90-6.09]) but not significant after multivariable adjustment. Follow-up echocardiographic data, available in 63%, demonstrated no difference in structural heart valve deterioration over time among groups.
+CONCLUSIONS: Patients with baseline renal insufficiency remain a challenging population with poor long-term outcomes despite procedural optimization with a transfemoral-first and an extremely low-contrast approach.
+
+Citation: Rzucidlo J, et al. Long-term outcomes after transcatheter aortic valve replacement with minimal contrast in chronic kidney disease. Long-term outcomes after transcatheter aortic valve replacement with minimal contrast in chronic kidney disease. 2021; 98:319-327. doi: 10.1002/ccd.29378
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33180381/

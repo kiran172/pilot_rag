@@ -1,0 +1,11 @@
+PMID: 31846642
+Title: Reintervention After Aortic Valve Replacement: Comparison of 3 Aortic Bioprostheses.
+
+Abstract: BACKGROUND: The decision to implant a biological valve prosthesis is influenced by the issue of durability. We investigated the rate and the cause of reintervention in 3 different aortic valve bioprostheses.
+METHODS: The study included all patients who underwent aortic valve replacement with a biological valve prosthesis between October 2009 and December 2018. Three different bioprostheses were compared: Carpentier-Edwards (CE) Magna Ease (Edwards Lifesciences, Irvine, CA), Trifecta (St. Jude Medical, St Paul, MN), and Mitroflow (LivaNova, London, United Kingdom). The primary end point was the rate of explantation. The degree of event-free survival and possible predictors for reintervention were also analyzed using Cox regression analysis.
+RESULTS: In total, 2004 biological aortic valves were implanted, including 923 CE, 719 Trifecta, and 362 Mitroflow bioprostheses. The CE group had a significantly higher degree of event-free survival (917 [99.3%]) compared with the Trifecta (685 [95.3%]) and Mitroflow (340 [93.9%]) groups (P < .0001). The only cause of reintervention in the CE group was prosthetic valve endocarditis (6 [100%]), whereas structural valve deterioration was the most common cause of reintervention in the Trifecta (14 [41.2%]) and Mitroflow (14 [63.6%]) groups. Cox regression analysis revealed that age (hazard ratio [HR] 0.9; 95% confidence interval [CI], 0.9-0.9; P < .0001) and type of prosthesis (Trifecta: HR, 6.3; 95% CI, 2.6-15.2; P < .0001; Mitroflow: HR, 6.0, 95% CI, 2.4-15.1; P < .0001) were associated with lower event-free survival.
+CONCLUSIONS: The freedom from reintervention after implantation of the CE bioprosthesis is significantly greater than that of the Trifecta and Mitroflow bioprostheses. Further investigations with larger patient populations and long-term follow-up are required to establish their durability and long-term efficacy.
+
+Citation: Lam KY, et al. Reintervention After Aortic Valve Replacement: Comparison of 3 Aortic Bioprostheses. Reintervention After Aortic Valve Replacement: Comparison of 3 Aortic Bioprostheses. 2020; 110:615-621. doi: 10.1016/j.athoracsur.2019.10.060
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31846642/

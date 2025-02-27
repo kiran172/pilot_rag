@@ -1,0 +1,11 @@
+PMID: 33122038
+Title: Medicare Accountable Care Organizations and the Adoption of New Surgical Technology.
+
+Abstract: BACKGROUND: Dissemination of new surgical technology is a major contributor to healthcare spending growth. Accountable care organization (ACO) policy aims to control spending while maintaining quality. As a result, ACOs provide incentive for hospitals to selectively adopt newer procedures with high value.
+STUDY DESIGN: We conducted a retrospective cohort study using a 20% sample of national Medicare claims from 2010 to 2015. We identified hospitals that performed 1 of 6 sets of procedures: abdominal aortic aneurysm repair, aortic valve replacement, carotid endarterectomy or stent, lung lobectomy, colectomy, and prostatectomy. We identified hospitals participating in a Medicare Shared Savings Program ACO and a set of matched non-ACO control hospitals. We used a difference-in-differences approach to compare rate of surgical treatment and use of newer surgical technology for each set of procedures in ACO and non-ACO hospitals.
+RESULTS: We included 707 ACO-hospitals and 1,770 control hospitals. ACO hospitals performed surgery for carotid stenosis at a lower rate than non-ACO hospitals. There was no difference in the rate of surgical treatment for all other procedure sets. ACO hospitals were less likely to use an endovascular approach for abdominal aortic aneurysm repair (85.2% vs 88.2%, p < 0.001) and more likely to use a minimally invasive approach for lung lobectomy (42.2% vs 34.7%, p = 0.004) than non-ACO hospitals. In difference-in-differences analysis, ACO participation was not associated with any significant difference in use of surgical care for any of the 6 procedure sets, nor with any significant difference in use of newer surgical technology.
+CONCLUSIONS: Despite ACO policy incentives to selectively adopt newer surgical technology, ACO participation was not associated with differences in rate of surgery or use of newer surgical technology for 6 major surgical procedures.
+
+Citation: Modi PK, et al. Medicare Accountable Care Organizations and the Adoption of New Surgical Technology. Medicare Accountable Care Organizations and the Adoption of New Surgical Technology. 2021; 232:138-145.e2. doi: 10.1016/j.jamcollsurg.2020.10.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33122038/

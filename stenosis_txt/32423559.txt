@@ -1,0 +1,11 @@
+PMID: 32423559
+Title: The predictive value of speckle tracking during dobutamine stress echocardiography in patients with chronic stable angina.
+
+Abstract: OBJECTIVE: Evaluation of the diagnostic value of speckle tracking echocardiography (STE) at rest and during dobutamine stress in predicting the presence and severity of coronary artery disease (CAD) in patients with chronic stable angina.
+METHODS: A total of 100 patients with chronic stable angina were evaluated using STE at rest and during dobutamine stress to detect the presence, severity, and number of affected coronary arteries. Then, the correlation with the SYNTAX score (SS) was analyzed.
+RESULTS: STE at stress showed better agreement with coronary angiography (CA) than dobutamine stress echocardiography (DSE) in detecting the presence of coronary artery stenosis (Kappa = 0.819, p < 0.001). STE at stress suggested involvement of the left anterior descending artery (LAD) with excellent agreement with CA (Kappa = 0.816, p < 0.001). For right coronary artery, STE at rest and stress showed good agreement with the CA results (Kappa = 0.775 and 0.858, respectively, p < 0.001), whereas for left circumflex artery, STE at rest and stress showed a fair agreement with the CA results (Kappa = 0.556 and 0.583, respectively, p < 0.001). Resting global longitudinal peak systolic strain (GLPSS) ≥ -15.2% had the best diagnostic accuracy (sensitivity = 61.8%; specificity = 93.5%) in predicting SS > 22. Stress GLPSS ≥ -12.5% had the best diagnostic accuracy (sensitivity = 82.4%; specificity = 78.3%) in predicting SS > 22.
+CONCLUSION: Speckle tracking during DSE has high sensitivity and specificity for predicting the presence of CAD. It provides quantitative diagnostic information that decreases the false positive and false negative results of DSE.
+
+Citation: Farag SI, et al. The predictive value of speckle tracking during dobutamine stress echocardiography in patients with chronic stable angina. The predictive value of speckle tracking during dobutamine stress echocardiography in patients with chronic stable angina. 2020; 72:40-45. doi: 10.1016/j.ihj.2020.03.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32423559/

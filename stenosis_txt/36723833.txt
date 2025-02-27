@@ -1,0 +1,8 @@
+PMID: 36723833
+Title: A Comparison of Vessel Patch Materials in Tetralogy of Fallot Patients Using Virtual Surgery Techniques.
+
+Abstract: Tetralogy of Fallot (ToF) is characterized by stenosis causing partial obstruction of the right ventricular outflow tract, typically alleviated through the surgical application of a vessel patch made from a biocompatible material. In this study, we use computational simulations to compare the mechanical performance of four patch materials for various stenosis locations. Nine idealized pre-operative ToF geometries were created by imposing symmetrical stenoses on each of three anatomical sub-regions of the pulmonary arteries of three patients with previously repaired ToF. A virtual surgery methodology was implemented to replicate the steps of vessel de-pressurization, surgical patching, and subsequent vessel expansion after reperfusion. Significant differences in patch average stress (p < 0.001) were found between patch materials. Biological patch materials (porcine xenopericardium, human pericardium) exhibited higher patch stresses in comparison to synthetic patch materials (Dacron and PTFE). Observed differences were consistent across the various stenosis locations and were insensitive to patient anatomy.
+
+Citation: Di Nardo A, et al. A Comparison of Vessel Patch Materials in Tetralogy of Fallot Patients Using Virtual Surgery Techniques. A Comparison of Vessel Patch Materials in Tetralogy of Fallot Patients Using Virtual Surgery Techniques. 2023; 51:1420-1435. doi: 10.1007/s10439-023-03144-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36723833/

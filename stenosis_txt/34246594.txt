@@ -1,0 +1,11 @@
+PMID: 34246594
+Title: Value of semiquantitative assessment of high-risk plaque features on coronary CT angiography over stenosis in selection of studies for FFRct.
+
+Abstract: INTRODUCTION: The degree of stenosis on coronary CT angiography (CCTA) guides referral for CT-derived flow reserve (FFRct). We sought to assess whether semiquantitative assessment of high-risk plaque (HRP) features on CCTA improves selection of studies for FFRct over stenosis assessment alone.
+METHODS: Per-vessel FFRct was computed in 1,395 vessels of 836 patients undergoing CCTA with 25-99% maximal stenosis. By consensus analysis, stenosis severity was graded as 25-49%, 50-69%, 70-89%, and 90-99%. HRPs including low attenuation plaque (LAP), positive remodeling (PR), and spotty calcification (SC) were assessed in lesions with maximal stenosis. Lesion FFRct was measured distal to the lesion with maximal stenosis, and FFRct<0.80 was defined as abnormal. Association of HRP and abnormal lesion FFRct was evaluated by univariable and multivariable logistic regression models.
+RESULTS: The frequency of abnormal lesion FFRct increased with increase of stenosis severity across each stenosis category (25-49%:6%; 50-69%:30%; 70-89%:54%; 90-99%:91%, p ​< ​0.001). Univariable analysis demonstrated that stenosis severity, LAP, and PR were predictive of abnormal lesion FFRct, while SC was not. In multivariable analyses considering stenosis severity, presence of PR, LAP, and PR and/or LAP were independently associated with abnormal FFRct: Odds ratio 1.58, 1.68, and 1.53, respectively (p ​< ​0.02 for all). The presence of PR and/or LAP increased the frequency of abnormal FFRct with mild stenosis (p ​< ​0.05) with a similar trend with 70-89% stenosis. The combination of 2 HRP (LAP and PR) identified more lesions with FFR < 0.80 than only 1 HRP.
+CONCLUSIONS: Semiquantitative visual assessment of high-risk plaque features may improve the selection of studies for FFRct.
+
+Citation: Otaki Y, et al. Value of semiquantitative assessment of high-risk plaque features on coronary CT angiography over stenosis in selection of studies for FFRct. Value of semiquantitative assessment of high-risk plaque features on coronary CT angiography over stenosis in selection of studies for FFRct. 2022; 16:27-33. doi: 10.1016/j.jcct.2021.06.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34246594/

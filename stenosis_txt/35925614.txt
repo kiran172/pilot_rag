@@ -1,0 +1,10 @@
+PMID: 35925614
+Title: Echocardiographic predictors of presence of cardiac amyloidosis in aortic stenosis.
+
+Abstract: AIMS: Aortic stenosis (AS) and cardiac amyloidosis (CA) frequently coexist but the diagnosis of CA in AS patients remains a diagnostic challenge. We aim to evaluate the echocardiographic parameters that may aid in the detection of the presence of CA in AS patients.
+METHOD AND RESULTS: We performed a systematic literature search of electronic databases for peer-reviewed articles from inception until 10 January 2022. Of the 1449 patients included, 160 patients had both AS-CA whereas the remaining 1289 patients had AS-only. The result of our meta-analyses showed that interventricular septal thickness [standardized mean difference (SMD): 0.74, 95% CI: 0.36-1.12, P = 0.0001), relative wall thickness (SMD: 0.74, 95% CI: 0.17-1.30, P < 0.0001), posterior wall thickness (SMD: 0.74, 95% CI 0.51 to 0.97, P = 0.0011), LV mass index (SMD: 1.62, 95% CI: 0.63-2.62, P = 0.0014), E/A ratio (SMD: 4.18, 95% CI: 1.91-6.46, P = 0.0003), and LA dimension (SMD: 0.73, 95% CI: 0.43-1.02, P < 0.0001)] were found to be significantly higher in patients with AS-CA as compared with AS-only patients. In contrast, myocardial contraction fraction (SMD: -2.88, 95% CI: -5.70 to -0.06, P = 0.045), average mitral annular S' (SMD: -1.14, 95% CI: -1.86 to -0.43, P = 0.0017), tricuspid annular plane systolic excursion (SMD: -0.36, 95% CI: -0.62 to -0.09, P = 0.0081), and tricuspid annular S' (SMD: -0.77, 95% CI: -1.13 to -0.42, P < 0.0001) were found to be significantly lower in AS-CA patients.
+CONCLUSION: Parameters based on echocardiography showed great promise in detecting CA in patients with AS. Further studies should explore the optimal cut-offs for these echocardiographic variables for better diagnostic accuracy.
+
+Citation: Jaiswal V, et al. Echocardiographic predictors of presence of cardiac amyloidosis in aortic stenosis. Echocardiographic predictors of presence of cardiac amyloidosis in aortic stenosis. 2022; 23:1290-1301. doi: 10.1093/ehjci/jeac146
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35925614/

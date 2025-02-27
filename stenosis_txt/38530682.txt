@@ -1,0 +1,12 @@
+PMID: 38530682
+Title: National Trends and Outcomes of Acute Myocardial Infarction After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Prior studies have reported decreased use of an invasive approach for acute myocardial infarction (AMI) in patients undergoing transcatheter aortic valve replacement (TAVR).
+OBJECTIVES: The aim of this study was to determine whether prior TAVR affects the use of subsequent coronary revascularization and outcomes of AMI in a contemporary national data set.
+METHODS: Consecutive TAVR patients from 2016 to 2022 were identified from the U.S. Vizient Clinical Data Base who were hospitalized after the index TAVR hospitalization with ST-segment elevation myocardial infarction (STEMI) or non-ST-segment elevation myocardial infarction (NSTEMI). Patients with STEMI or NSTEMI with or without prior TAVR from the same time period were compared for the use of coronary angiography, revascularization, and in-hospital outcomes. Propensity score matching was used to account for imbalances in patient characteristics.
+RESULTS: Among 206,229 patients who underwent TAVR, the incidence of STEMI was 25 events per 100,000 person-years of follow-up, and that of NSTEMI was 229 events per 100,000 person-years. After propensity matching, the use of coronary revascularization was similar in the prior TAVR and no TAVR cohorts in both the STEMI (65.3% vs 63.9%; P = 0.81) and NSTEMI (41.4% vs 41.7%; P = 0.88) subgroups. Compared with patients without prior TAVR, in-hospital mortality was higher in the prior TAVR cohort in patients with STEMI (27.1% vs 16.7%; P = 0.03) and lower in those with NSTEMI (5.8% vs 8.2%; P = 0.02).
+CONCLUSIONS: In this large, national retrospective study, AMI events after TAVR were infrequent. There were no differences in the use of coronary revascularization for STEMI or NSTEMI in TAVR patients compared with the non-TAVR population. In-hospital mortality for STEMI is higher in TAVR patients compared with those without prior TAVR.
+
+Citation: Gupta T, et al. National Trends and Outcomes of Acute Myocardial Infarction After Transcatheter Aortic Valve Replacement. National Trends and Outcomes of Acute Myocardial Infarction After Transcatheter Aortic Valve Replacement. 2024; 17:1267-1276. doi: 10.1016/j.jcin.2024.02.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38530682/

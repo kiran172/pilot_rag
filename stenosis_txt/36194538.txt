@@ -1,0 +1,11 @@
+PMID: 36194538
+Title: Effects of Pulsed Electric Fields on the Coronary Arteries in Swine.
+
+Abstract: BACKGROUND: Previous animal studies have shown no significant vascular injury from pulsed electrical field (PEF) ablation. We sought to assess the effect of PEF on swine coronary arteries.
+METHODS: We performed intracoronary and epicardial (near the coronary artery) PEF ablations in swine pretreated with dual antiplatelet and antiarrhythmic therapy. Intracoronary PEF was delivered using MapiT catheters (Biotronik, Berlin), whereas epicardial PEF was delivered using EPT catheters (Boston Scientific, MA). PEF pulse duration was microseconds (Nanoknife 3.0, Angio Dynamics, NY) or nanoseconds (CellFX, Pulse Biosciences, CA).
+RESULTS: We performed 39 intracoronary ablations in 10 swine and 20 epicardial-pericoronary ablations in 4 separate swine. Intracoronary PEF was delivered at higher energy compared with epicardial PEF (46 [interquartile range, IQR 20-85] J versus 10 [IQR 10-11] J, P &lt; 0.01). Reversible coronary spasm occurred in 49% intracoronary ablations and 45% epicardial ablations (P=0.80). At the end study, fixed coronary stenosis was demonstrated in 44% intracoronary ablations (80% for microsecond PEF and 18% for nanosecond PEF) and 0% epicardial ablations. Visible hemorrhagic and/or fibrotic myocardial lesions were observed at necropsy with similar frequency between intracoronary and epicardial PEF (45% versus 50%, P=0.70). Nanosecond PEF (49 ablations in 11 swine), when compared with microsecond PEF (10 intracoronary ablations in 3 swine), resulted in lower energy delivery (21 [IQR 10-46] J versus 129 [IQR 24-143] J, P=0.03) and less incidence of fixed coronary stenosis (18% versus 80%, P=0.04).
+CONCLUSIONS: In the swine model, intracoronary PEF resulted both in significant coronary spasm and fixed coronary stenosis. Epicardial PEF, delivered at lower energy, resulted in reversible spasm but no fixed coronary stenosis.
+
+Citation: Ladejobi A, et al. Effects of Pulsed Electric Fields on the Coronary Arteries in Swine. Effects of Pulsed Electric Fields on the Coronary Arteries in Swine. 2022; 15:e010668. doi: 10.1161/CIRCEP.121.010668
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36194538/

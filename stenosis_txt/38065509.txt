@@ -1,0 +1,11 @@
+PMID: 38065509
+Title: Deep learning-based lesion detection and severity grading of small-bowel Crohn's disease ulcers on double-balloon endoscopy images.
+
+Abstract: BACKGROUND AND AIMS: Double-balloon endoscopy (DBE) is widely used in diagnosing small-bowel Crohn's disease (CD). However, CD misdiagnosis frequently occurs if inexperienced endoscopists cannot accurately detect the lesions. The CD evaluation may also be inaccurate owing to the subjectivity of endoscopists. This study aimed to use artificial intelligence (AI) to accurately detect and objectively assess small-bowel CD for more refined disease management.
+METHODS: We collected 28,155 small-bowel DBE images from 628 patients from January 2018 to December 2022. Four expert gastroenterologists labeled the images, and at least 2 endoscopists made the final decision with agreement. A state-of-the-art deep learning model, EfficientNet-b5, was trained to detect CD lesions and evaluate CD ulcers. The detection included lesions of ulcer, noninflammatory stenosis, and inflammatory stenosis. Ulcer grading included ulcerated surface, ulcer size, and ulcer depth. A comparison of AI model performance with endoscopists was performed.
+RESULTS: The EfficientNet-b5 achieved high accuracies of 96.3% (95% confidence interval [CI], 95.7%-96.7%), 95.7% (95% CI, 95.1%-96.2%), and 96.7% (95% CI, 96.2%-97.2%) for the detection of ulcers, noninflammatory stenosis, and inflammatory stenosis, respectively. In ulcer grading, the EfficientNet-b5 exhibited average accuracies of 87.3% (95% CI, 84.6%-89.6%) for grading the ulcerated surface, 87.8% (95% CI, 85.0%-90.2%) for grading the size of ulcers, and 85.2% (95% CI, 83.2%-87.0%) for ulcer depth assessment.
+CONCLUSIONS: The EfficientNet-b5 achieved high accuracy in detecting CD lesions and grading CD ulcers. The AI model can provide expert-level accuracy and objective evaluation of small-bowel CD to optimize the clinical treatment plans.
+
+Citation: Xie W, et al. Deep learning-based lesion detection and severity grading of small-bowel Crohn's disease ulcers on double-balloon endoscopy images. Deep learning-based lesion detection and severity grading of small-bowel Crohn's disease ulcers on double-balloon endoscopy images. 2024; 99:767-777.e5. doi: 10.1016/j.gie.2023.11.059
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38065509/

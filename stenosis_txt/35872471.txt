@@ -1,0 +1,11 @@
+PMID: 35872471
+Title: Prevalence and predictors of neurological manifestations in systemic AL amyloidosis.
+
+Abstract: INTRODUCTION: Immunoglobulin light chain (AL) amyloidosis is a life-threatening systemic disease due to plasma cell dyscrasias, which is characterized by amyloid deposition in various tissues. Neurological manifestations, in particular peripheral nervous system involvement, play a major role for quality of life and treatment decisions as frequently potentially neurotoxic drugs are used.
+METHODS: We retrospectively investigated the prevalence of neurological manifestations, its risk factors and prognostic value in 155 consecutive patients with AL amyloidosis in a single German tertiary center between 2010 and 2021. Multiple logistic regression was performed to identify predictors of amyloid neuropathy and the impact of peripheral neuropathy on patient survival was assessed by Cox proportional hazard regression analysis.
+RESULTS: Nearly half of patients showed at least one of four neurological manifestations of AL amyloidosis which were frequent in our study: peripheral neuropathy (36.8%), carpal tunnel syndrome (12.9%), lumbar spinal stenosis (7.1%), and amyloid myopathy (3.9%). Male sex (OR 2.943, CI 1.152-8.139, p = 0.029) and cardiac involvement (OR 6.186, CI 1.449-43.38, p = 0.028) were independent predictors of peripheral neuropathy which was closely related to autonomic dysfunction in patients with AL amyloidosis. Peripheral neuropathy had no impact on survival (HR 0.952, CI 0.517-1.754, p = 0.876).
+CONCLUSIONS: Neurological involvement is common in systemic AL amyloidosis. Treatment decisions should take into account peripheral neuropathy, in particular in male patients with amyloid cardiomyopathy, but also amyloid myopathy that seems to be not as rare as previously suggested.
+
+Citation: Thimm A, et al. Prevalence and predictors of neurological manifestations in systemic AL amyloidosis. Prevalence and predictors of neurological manifestations in systemic AL amyloidosis. 2022; 440:120341. doi: 10.1016/j.jns.2022.120341
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35872471/

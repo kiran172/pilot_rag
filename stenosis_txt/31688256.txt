@@ -1,0 +1,11 @@
+PMID: 31688256
+Title: Plain Computed Tomography With Spectral Imaging Findings of Early Cerebral Ischemia.
+
+Abstract: PURPOSE: To investigate the findings of plain spectral computed tomography (CT) with multiparameter of early cerebral ischemia.
+PATIENTS AND METHODS: Thirty-three patients with suspected early cerebral ischemia who received a one-stop CT examination (plain scan with spectral CT imaging mode, CTP and CTA) of the brain were enrolled in this study. No clear lesion was observed in any patient on the plain CT. However, the CTA displayed evidence of vascular stenosis and the CTP displayed a corresponding low perfusion area consistent with early cerebral ischemia. Regions of interest were placed in the abnormal perfusion regions and the contralateral symmetric regions on plain CT. Then, the CT value of the monochromatic images (70 kV), the slope of the spectral HU curve, blood (iodine), iodine (water), and water (iodine) concentrations were measured. A paired t-test was performed for data comparison. The receiver operating characteristic curve was used to evaluate diagnostic performance.
+RESULTS: The CT values of the ischemic regions at 70 keV, the spectral HU curve, water, and blood values of the ischemic measurements were slightly lower than those of the contralateral symmetric regions (P < .05). Monochromatic images at 70 keV had the highest area under the curve value, and the sensitivity and specificity were 90.0% and 63.0%, respectively.
+CONCLUSION: The difference of monochromatic CT values, spectral HU curve, and basic material concentrations between the early cerebral ischemia region and the contralateral symmetric region on spectral CT imaging may provide a reference with the diagnosis of early cerebral ischemia.
+
+Citation: Yongjun L, et al. Plain Computed Tomography With Spectral Imaging Findings of Early Cerebral Ischemia. Plain Computed Tomography With Spectral Imaging Findings of Early Cerebral Ischemia. 2020; 31:125-129. doi: 10.1097/SCS.0000000000005938
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31688256/

@@ -1,0 +1,10 @@
+PMID: 32461504
+Title: Hospital-Acquired Functional Decline and Clinical Outcomes in Older Patients Undergoing Transcatheter Aortic Valve Implantation.
+
+Abstract: BACKGROUND: This study aimed to assess the relationship between hospital-acquired functional decline and the risk of mid-term all-cause death in older patients undergoing transcatheter aortic valve implantation (TAVI).
+METHODS AND RESULTS: In total, 463 patients (mean age 85 years, interquartile range [IQR]: 82, 88) undergoing elective TAVI at Sakakibara Heart Institute between 2010 and 2018, who were followed up for 3 years, were enrolled in the study. Hospital-acquired functional decline after TAVI, which was defined by at least a 1-point decrease on the Short Physical Performance Battery before discharge compared to the preoperative score, was assessed. A total of 113 patients (24.4%) showed hospital-acquired functional decline after TAVI, and 50 (11.3%) patients died over a mean follow-up period of 1.9±0.8 years. Kaplan-Meier survival curves indicated that hospital-acquired functional decline was significantly associated with all-cause mortality (log-rank test, P=0.001). On multivariate Cox regression analysis, hospital-acquired functional decline was associated with a higher risk of all-cause mortality (OR 2.108, 95% CI 1.119-3.968, P=0.021) independent of sex, body mass index, advanced chronic kidney disease, and preoperative frailty, as assessed by the modified essential frail toolkit.
+CONCLUSIONS: Hospital-acquired functional decline is associated with mid-term all-cause mortality in older patients following TAVI. Trajectory of functional status is a vital sign, and it is useful for risk stratification in older patients following TAVI.
+
+Citation: Saitoh M, et al. Hospital-Acquired Functional Decline and Clinical Outcomes in Older Patients Undergoing Transcatheter Aortic Valve Implantation. Hospital-Acquired Functional Decline and Clinical Outcomes in Older Patients Undergoing Transcatheter Aortic Valve Implantation. 2020; 84:1083-1089. doi: 10.1253/circj.CJ-19-1037
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32461504/

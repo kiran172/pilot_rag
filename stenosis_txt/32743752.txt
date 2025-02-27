@@ -1,0 +1,11 @@
+PMID: 32743752
+Title: A preliminary study of relationship among the degree of internal carotid artery stenosis, wall shear stress on MR angiography and 18F-FDG uptake on PET/CT.
+
+Abstract: BACKGROUND: This preliminary study was undertaken to evaluate relationship among the degree of internal carotid artery (ICA) stenosis, wall shear stress (WSS) by computational fluid dynamics (CFD) on magnetic resonance angiography (MRA) and 18F-FDG uptake of ICA on PET/CT.
+METHODS: A total of 40 carotid arteries in 20 patients with carotid atherosclerotic disease were examined with MRA and 18F-FDG PET/CT. Atherosclerotic risk factors were assessed in all patients. Degree of ICA stenosis was calculated according to NASCET method. CFD analysis was performed and maximum WSS (WSSmax) was measured. 18F-FDG uptake in ICA was quantified using maximum target-to-blood pool ratio (TBRmax).
+RESULTS: Atherosclerotic risk factors did not affect imaging findings. There were significant correlations between WSSmax and degree of ICA stenosis (ρ = .81, P < .001), WSSmax and TBRmax (ρ = .64, P < .001), and TBRmax and degree of ICA stenosis (ρ = .50, P = .001).
+CONCLUSIONS: These preliminary results indicate that there may be significant correlations among the degree of ICA stenosis, WSSmax and TBRmax in patients with carotid artery stenosis.
+
+Citation: Takami Y, et al. A preliminary study of relationship among the degree of internal carotid artery stenosis, wall shear stress on MR angiography and 18F-FDG uptake on PET/CT. A preliminary study of relationship among the degree of internal carotid artery stenosis, wall shear stress on MR angiography and 18F-FDG uptake on PET/CT. 2022; 29:569-577. doi: 10.1007/s12350-020-02300-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32743752/

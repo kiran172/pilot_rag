@@ -1,0 +1,12 @@
+PMID: 36348246
+Title: Diagnosis, performance and added value of assessing ventricular dyssynchrony by phase analysis in patients with three-vessel disease: A single-center cross-sectional study in Mexico.
+
+Abstract: BACKGROUND: Three-vessel disease (3VD) is a cardiovascular disorder that affects the three main coronary arteries. Gated myocardial perfusion SPECT (GMPS) evaluates ventricular function, synchrony, and myocardial perfusion. However, the diagnostic performance of GMPS parameters to assess 3VD has not been fully explored.
+AIMS: To assess the univariate performance capacity of GMPS parameters, and to evaluate whether phase parameters could provide additional predictive value for the detection of patients with 3VD compared to control subjects.
+METHODS: We designed paired retrospective samples of GMPS images of patients with 3VD (stenosis > 70% of left anterior descending, right coronary, and circumflex coronary arteries) and without 3VD. A GMPS in rest-stress protocol was performed using 99mTc-Sestamibi and thallium and analyzed with the 3D method. Area under the receiver-operating characteristic curves (AUROC), decision curve analyses and diagnostic test performance were obtained for univariable analyses and stepwise binomial logistic regression for multivariable performance.
+RESULTS: 474 Patients were included: 237 with 3VD (84% males, mean age 61.7 ± 9.9 years) and 237 with normal GMPS (51% women, mean age 63.8 ± 10.6 years). The highest AUROC for perfusion parameters were recorded for SSS, SRS and TID. For dyssynchrony parameters, both entropy and bandwidth in rest and stress phases displayed the highest AUROC and diagnostic capacity to detect 3VD. A multivariate model with SRS ≥ 4, SDS ≥ 2, TID > 1.19 and sBW ≥ 48° displayed the highest diagnostic capacity (0.923 [95% CI 0.897-0.923]) to detect 3VD.
+CONCLUSION: Perfusion and dyssynchrony were the parameters which were most able to discriminate patients with 3VD from those who did not have CAD.
+
+Citation: Garcia-Cardenas M, et al. Diagnosis, performance and added value of assessing ventricular dyssynchrony by phase analysis in patients with three-vessel disease: A single-center cross-sectional study in Mexico. Diagnosis, performance and added value of assessing ventricular dyssynchrony by phase analysis in patients with three-vessel disease: A single-center cross-sectional study in Mexico. 2023; 30:1219-1229. doi: 10.1007/s12350-022-03136-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36348246/

@@ -1,0 +1,8 @@
+PMID: 34698250
+Title: Carotid Phase-Contrast Magnetic Resonance before Treatment: 4D-Flow versus Standard 2D Imaging.
+
+Abstract: The purpose of this study was to evaluate the level of agreement between flow/velocity data obtained from 2D-phase-contrast (PC) and 4D-flow in patients scheduled for treatment of carotid artery stenosis. Image acquisition was performed using a 1.5 T scanner. We compared mean flow rates, vessel areas, and peak velocities obtained during the acquisition with both techniques in 20 consecutive patients, 15 males and 5 females aged 69 ± 5 years (mean ± standard deviation). There was a good correlation between both techniques for the CCA flow (r = 0.65, p &lt; 0.001), whereas for the ICA flow and ECA flow the correlation was only moderate (r = 0.4, p = 0.011 and r = 0.45, p = 0.003, respectively). Correlations of peak velocities between methods were good for CCA (r = 0.56, p &lt; 0.001) and moderate for ECA (r = 0.41, p = 0.008). There was no correlation for ICA (r = 0.04, p = 0.805). Cross-sectional area values between methods showed no significant correlations for CCA (r = 0.18, p = 0.269), ICA (r = 0.1, p = 0.543), and ECA (r = 0.05, p = 0.767). Conclusion: the 4D-flow imaging provided a good correlation of CCA and a moderate correlation of ICA flow rates against 2D-PC, underestimating peak velocities and overestimating cross-sectional areas in all carotid segments.
+
+Citation: Secchi F, et al. Carotid Phase-Contrast Magnetic Resonance before Treatment: 4D-Flow versus Standard 2D Imaging. Carotid Phase-Contrast Magnetic Resonance before Treatment: 4D-Flow versus Standard 2D Imaging. 2021; 7:513-522. doi: 10.3390/tomography7040044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34698250/

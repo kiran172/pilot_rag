@@ -1,0 +1,11 @@
+PMID: 38287454
+Title: Mean compression ratio of a self-expandable valve is associated with the need for pacemaker implantation after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: The risk and timing of permanent pacemaker implantation (PPMI) after transcatheter aortic valve replacement (TAVR) is still hard to predict. We aimed to analyze the relationship between the compression ratio of a self-expandable valve (SEV) and the need for PPMI after TAVR.
+METHODS: A total of 106 patients who were implanted with the VitaFlow transcatheter aortic valve system and for whom complete imaging information was available were included in this retrospective cohort study. Eight lines perpendicular to the long axis of the SEV were drawn (the top and bottom of the SEV and the intersection of each row of wires) for measurement purposes. The compression ratio was calculated as 1 - (in vivo meridian/in vitro meridian) and compared between patients undergoing and those not undergoing PPMI after adjusting for implantation depth. Multivariable logistic regression and Cox proportional hazards models were used to assess factors associated with the risk and timing of the need for PPMI.
+RESULTS: Fifteen (14.2%) patients underwent PPMI after TAVR. Patients with a higher mean compression ratio (20%, odds ratio [OR] = 214.82; p < 0.001) and prior right bundle branch block (OR = 51.77; p = 0.015) had a higher risk of the need for PPMI after TAVR. These two factors were also associated with the timing of PPMI, according to the Cox proportional hazards model.
+CONCLUSIONS: The compression ratio of the SEV was positively associated with the risk of PPMI after TAVR, and the association was most significant in the annular and supravalvular planes. The compression ratio may also affect the time to PPMI.
+
+Citation: Qi Y, et al. Mean compression ratio of a self-expandable valve is associated with the need for pacemaker implantation after transcatheter aortic valve replacement. Mean compression ratio of a self-expandable valve is associated with the need for pacemaker implantation after transcatheter aortic valve replacement. 2024; 29:85. doi: 10.1186/s40001-023-01070-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38287454/

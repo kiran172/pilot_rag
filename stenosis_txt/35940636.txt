@@ -1,0 +1,13 @@
+PMID: 35940636
+Title: Comparison of the Biomechanical Effect of the FFX Device Compared With Other Lumbar Fusion Devices: A Finite Element Study.
+
+Abstract: BACKGROUND: Lumbar decompression can result in postsurgical instability and spondylolisthesis in patients with lumbar spinal stenosis (LSS). While pedicle screw (PS) constructs improve stability and support fusion, their use can lead to adjacent level degeneration due to rigidity and resultant overload of anatomical structures. The FFX device is a facet spacer designed to be a less invasive alternative for obtaining fusion compared with PS.
+OBJECTIVE: The present study aimed to compare biomechanical performance of the FFX device to different lumbar spine procedures using the finite element (FE) method.
+STUDY DESIGN: Comparative biomechanical study by FE method.
+METHODS: An FE model for the lumbar spine was developed and validated to assess vertebral displacement and stress variations in the facet joints and discs following surgery. Modeled scenarios included a healthy spine as a reference model, laminectomy (LAM), and prior to/following L4-L5 fusion for LAM + FFX and LAM + PS.
+RESULTS: LAM increased displacement compared with the healthy spine and both instrumented spine procedures. Facet joint stress at adjacent levels for LAM + PS was significantly higher than with LAM + FFX prior to fusion (+13.5% for L3-L4; +15.7% for L5-S1). Adjacent level disc stress at L5-S1 was 7.7% higher for LAM + PS vs LAM + FFX. Adjacent level facet joint and disc stresses for LAM + FFX were equivalent to LAM + PS once fusion occurred.
+CONCLUSIONS: Instrumented spine fixation prevents the risk of lumbar instability associated with LAM alone. Compared with PS, the FFX device is a less invasive alternative for the treatment of LSS, which potentially lowers the risk of adjacent segment degeneration prior to fusion that provides equivalent stability once fusion is achieved.
+
+Citation: Simon L, et al. Comparison of the Biomechanical Effect of the FFX Device Compared With Other Lumbar Fusion Devices: A Finite Element Study. Comparison of the Biomechanical Effect of the FFX Device Compared With Other Lumbar Fusion Devices: A Finite Element Study. 2022; 16:935-943. doi: 10.14444/8355
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35940636/

@@ -1,0 +1,11 @@
+PMID: 35931001
+Title: Risk factors of transplant renal artery stenosis in kidney transplant recipients.
+
+Abstract: BACKGROUND: Transplant Renal Artery Stenosis (TRAS) is a recognized vascular complication after kidney transplantation. The overall risk predictors of TRAS are poorly understood.
+METHODS: Retrospective analysis of patients with suspected TRAS (Doppler ultrasound PSV > 200 cm/s) who underwent angiographic study in a single center between 2007 and 2014. All patients with stenosis > 50% were considered with TRAS. Stenosis restricted in the body of the artery was also analyzed in a subgroup.
+RESULTS: 274 patients were submitted to a renal angiography and 166 confirmed TRAS. TRAS group featured an older population (46.3 ± 11.0 vs. 40.9 ±14.2 years; p = 0.001), more frequent hypertensive nephropathy (30.1% vs. 15.7%; p = 0.01), higher incidence of Delayed Graft Function (DGF) (52.0% vs. 25.6%; p < 0.001) and longer Cold Ischemia Time (CIT) (21.5 ± 10.6 vs. 15.7 ± 12.9h; p < 0.001). In multivariable analyses, DGF (OR = 3.31; 95% CI 1.78‒6.30; p < 0.0001) was independent risk factors for TRAS. DM and CIT showed a tendency towards TRAS. The compound discriminatory capacity of the multivariable model (AUC = 0.775; 95% CI 0.718‒0.831) is significantly higher than systolic blood pressure and creatinine alone (AUC = 0.62; 95% CI 0.558-0.661). In body artery stenosis subgroup, DGF (OR = 1.86; 95% CI 1.04‒3.36; p = 0.03) and Diabetes Mellitus (DM) (OR = 2.44; 95% CI 1.31‒4.60; p = 0.005) were independent risk factors for TRAS.
+CONCLUSION: In our transplant population, DGF increased more than 3-fold the risk of TRAS. In the subgroup analysis, both DGF and DM increases the risk of body artery stenosis. The addition of other factors to hypertension and renal dysfunction may increase diagnostic accuracy. TRAS TRIAL REGISTRED: clinicaltrials.gov (n° NCT04225338).
+
+Citation: Kanhouche G, et al. Risk factors of transplant renal artery stenosis in kidney transplant recipients. Risk factors of transplant renal artery stenosis in kidney transplant recipients. 2022; 77:100087. doi: 10.1016/j.clinsp.2022.100087
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35931001/

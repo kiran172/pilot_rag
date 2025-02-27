@@ -1,0 +1,11 @@
+PMID: 36788316
+Title: Multi-center retrospective cohort study applying deep learning to electrocardiograms to identify left heart valvular dysfunction.
+
+Abstract: BACKGROUND: Aortic Stenosis and Mitral Regurgitation are common valvular conditions representing a hidden burden of disease within the population. The aim of this study was to develop and validate deep learning-based screening and diagnostic tools that can help guide clinical decision making.
+METHODS: In this multi-center retrospective cohort study, we acquired Transthoracic Echocardiogram reports from five Mount Sinai hospitals within New York City representing a demographically diverse cohort of patients. We developed a Natural Language Processing pipeline to extract ground-truth labels about valvular status and paired these to Electrocardiograms (ECGs). We developed and externally validated deep learning models capable of detecting valvular disease, in addition to considering scenarios of clinical deployment.
+RESULTS: We use 617,338 ECGs paired to transthoracic echocardiograms from 123,096 patients to develop a deep learning model for detection of Mitral Regurgitation. Area Under Receiver Operating Characteristic curve (AUROC) is 0.88 (95% CI:0.88-0.89) in internal testing, and 0.81 (95% CI:0.80-0.82) in external validation. To develop a model for detection of Aortic Stenosis, we use 617,338 Echo-ECG pairs for 128,628 patients. AUROC is 0.89 (95% CI: 0.88-0.89) in internal testing, going to 0.86 (95% CI: 0.85-0.87) in external validation. The model's performance increases leading up to the time of the diagnostic echo, and it performs well in validation against requirement of Transcatheter Aortic Valve Replacement procedures.
+CONCLUSIONS: Deep learning based tools can increase the amount of information extracted from ubiquitous investigations such as the ECG. Such tools are inexpensive, can help in earlier disease detection, and potentially improve prognosis.
+
+Citation: Vaid A, et al. Multi-center retrospective cohort study applying deep learning to electrocardiograms to identify left heart valvular dysfunction. Multi-center retrospective cohort study applying deep learning to electrocardiograms to identify left heart valvular dysfunction. 2023; 3:24. doi: 10.1038/s43856-023-00240-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36788316/

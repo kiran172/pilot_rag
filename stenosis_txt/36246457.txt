@@ -1,0 +1,12 @@
+PMID: 36246457
+Title: Ultra-low-dose non-contrast CT and CT angiography can be used interchangeably for assessing maximal abdominal aortic diameter.
+
+Abstract: BACKGROUND: Routine CT scans may increasingly be used to document normal aortic size and to detect incidental abdominal aortic aneurysms.
+PURPOSE: To determine whether ultra-low-dose non-contrast CT (ULDNC-CT) can be used instead of the gold standard CT angiography (CTA) for assessment of maximal abdominal aortic diameter.
+MATERIALS AND METHODS: This retrospective study included 50 patients who underwent CTA and a normal-dose non-contrast CT for suspected renal artery stenosis. ULDNC-CT datasets were generated from the normal-dose non-contrast CT datasets using a simulation technique. Using the centerline technique, radiology consultants (n = 4) and residents (n = 3) determined maximal abdominal aortic diameter. The limits of agreement with the mean (LOAM) was used to access observer agreement. LOAM represents how much a measurement by a single observer may plausibly deviate from the mean of all observers on the specific subject.
+RESULTS: Observers completed 1400 measurements encompassing repeated CTA and ULDNC-CT measurements. The mean diameter was 24.0 and 25.0 mm for CTA and ULDNC-CT, respectively, yielding a significant but minor mean difference of 1.0 mm. The 95% LOAM reproducibility was similar for CTA and ULDNC-CT (2.3 vs 2.3 mm). In addition, the 95% LOAM and mean diameters were similar for CTA and ULDNC-CT when observers were grouped as consultants and residents.
+CONCLUSIONS: Ultra-low-dose non-contrast CT exhibited similar accuracy and reproducibility of measurements compared with CTA for assessing maximal abdominal aortic diameter supporting that ULDNC-CT can be used interchangeably with CTA in the lower range of aortic sizes.
+
+Citation: Borgbjerg J, et al. Ultra-low-dose non-contrast CT and CT angiography can be used interchangeably for assessing maximal abdominal aortic diameter. Ultra-low-dose non-contrast CT and CT angiography can be used interchangeably for assessing maximal abdominal aortic diameter. 2022; 11:20584601221132461. doi: 10.1177/20584601221132461
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36246457/

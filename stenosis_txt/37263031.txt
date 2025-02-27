@@ -1,0 +1,11 @@
+PMID: 37263031
+Title: Plasma TSH and cardiovascular disease in the general population: A Mendelian randomization study of 105,224 individuals.
+
+Abstract: BACKGROUND AND AIMS: The association between thyroid stimulating hormone (TSH) and cardiovascular disease has mainly been determined using clinical categories of disease. We tested the hypothesis that TSH on a continuous scale is associated with risk of atrial fibrillation (AF), myocardial infarction (MI), stroke, heart failure (HF), aortic valve stenosis (AVS), and major adverse cardiovascular events (MACE) and whether these associations are likely to be causal.
+METHODS: We first tested whether plasma TSH on a continuous scale was observationally associated with incident cardiovascular events in a prospective cohort study of 105,224 individuals from the Copenhagen General Population Study followed for a median 7 years. Next, we tested whether a genetic risk score weighted on TSH was associated with cardiovascular endpoints. Finally, using Mendelian randomization, we tested whether the observed associations were likely to be causal.
+RESULTS: Using restricted cubic splines, lower concentrations of TSH relative to the population median (=1.53 mIU/L) were associated with higher risk of AF, MI, stroke, HF, AVS, and MACE. Comparing individuals with TSH ≤5th percentile (≤0.54 mIU/L) versus >50th percentile (>1.53 mIU/L), hazard ratios (HRs) ranged from 1.12 (1.00-1.26) for stroke to 1.27 (1.11-1.46) for HF. Genetic risk estimates per standard deviation decrease in TSH were 1.28 (1.08-1.52) for AF, 1.35 (1.06-1.71) for MI, 1.06 (0.89-1.26) for stroke, 1.19 (0.94-1.52) for HF, 1.53 (1.03-2.26) for AVS, and 1.09 (0.97-1.23) for MACE.
+CONCLUSIONS: In 105,224 individuals from the general population low plasma TSH was observationally and genetically associated with increased risk of AF, MI, and AVS suggesting that these observations may reflect causal pathways.
+
+Citation: Dalila N, et al. Plasma TSH and cardiovascular disease in the general population: A Mendelian randomization study of 105,224 individuals. Plasma TSH and cardiovascular disease in the general population: A Mendelian randomization study of 105,224 individuals. 2023; 376:26-33. doi: 10.1016/j.atherosclerosis.2023.05.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37263031/

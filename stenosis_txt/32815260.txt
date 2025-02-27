@@ -1,0 +1,11 @@
+PMID: 32815260
+Title: Trainee surgeons and patient outcomes in carotid endarterectomy: a retrospective cohort study.
+
+Abstract: BACKGROUND: In Australia and New Zealand, more than 2000 carotid endarterectomies are performed annually. The major morbidities arising from this procedure are post-operative stroke, cranial nerve injury and death. Carotid endarterectomy surgery is a key component of the vascular surgical training programme. We assessed the impact of having a surgical trainee perform a major component of this procedure on the post-operative rates of stroke, cranial nerve injury and mortality.
+METHODS: We performed a retrospective cohort study of vascular surgical patients undergoing carotid endarterectomy, with data obtained from the Australasian Vascular Audit database between January 2010 and December 2014. The dataset comprised of 6528 carotid endarterectomies performed during this time. The collected data were stratified into two categories - consultant-led cases, and those in which trainee surgeons performed at least a major component of the surgery under consultant supervision. The results were analysed for differences in post-operative stroke, cranial nerve injury and inpatient mortality. Differences between groups were assessed using multivariate analysis, adjusting for potentially confounding covariables.
+RESULTS: On multivariate analysis, there was no statistically significant difference in the rates of post-operative stroke (odds ratio (OR) 0.88, 95% confidence interval (CI) 0.57-1.36, P = 0.55), cranial nerve injury (OR 0.68, 95% CI 0.39-1.21, P = 0.19) or inpatient mortality (OR 0.78, 95% CI 0.29-2.13, P = 0.63) between the two cohorts.
+CONCLUSION: Having surgical trainees perform components of carotid endarterectomies under supervision is not associated with an increased rate of post-operative stroke, cranial nerve injury or mortality.
+
+Citation: Johnson NW, et al. Trainee surgeons and patient outcomes in carotid endarterectomy: a retrospective cohort study. Trainee surgeons and patient outcomes in carotid endarterectomy: a retrospective cohort study. 2020; 90:1710-1715. doi: 10.1111/ans.16209
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32815260/

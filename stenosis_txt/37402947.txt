@@ -1,0 +1,8 @@
+PMID: 37402947
+Title: Mathematical inspection of heat transfer and unsteady viscous flow in a tunnel with trapezoidal shaped slender wall.
+
+Abstract: An exploration is made to investigate numerically and theoretically the time dependent flow of blood along with heat transfer through abnormal artery having trapezoidal shaped plaque. The flow is taken to be Newtonian, laminar, unsteady and incompressible. A suitable geometrical model is constructed to simulate the trapezoidal stenosis affected artery. The governed 2-dimensional momentum and heat transfer equations are conventionalized by assuming mild trapezoidal stenosis. The renovate partial differential equations are further converted into ordinary differential equations by assist of transformations. The novelty of the work is to consider unsteady blood flow through trapezoidal shape stenosed artery. A technique of finite difference is used to discretize the updated dimensionless model numerically. Comprehensive graphical outcomes for a flow of blood are obtained. The effect of trapezoidal plaque on blood velocity, pressure and temperature are shown by surface graph inside the artery and also shown with the help of line graph.
+
+Citation: Riaz Dar MN, et al. Mathematical inspection of heat transfer and unsteady viscous flow in a tunnel with trapezoidal shaped slender wall. Mathematical inspection of heat transfer and unsteady viscous flow in a tunnel with trapezoidal shaped slender wall. 2023; 13:10830. doi: 10.1038/s41598-023-37816-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37402947/

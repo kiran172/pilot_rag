@@ -1,0 +1,11 @@
+PMID: 34107338
+Title: Diagnostic performance of computed tomography-based fraction flow reserve in identifying myocardial ischemia caused by coronary artery stenosis: A meta-analysis.
+
+Abstract: BACKGROUND: As a new noninvasive diagnostic technique, computed tomography (CT)-based fraction flow reserve (FFR) has been used to identify hemodynamically significant coronary artery stenosis. This meta-analysis used invasive FFR as the standard to evaluate the diagnostic performance of FFRCT.
+METHODS: We searched the PubMed, Cochrane library, and EMBASE for articles published between January 2009 and January 2021. The synthesized sensitivity and specificity of invasive FFR and FFRCT were analyzed at both the patient and vessel levels. We generated a summary receiver operating characteristic curve (SROC) and then calculated the area under the curve (AUC).
+RESULTS: We included a total of 23 studies, including 2,178 patients and 3,029 vessels or lesions. Analysis at each patient level demonstrated a synthesized sensitivity of 88%, specificity of 79%, LR+ of 4.16, LR-of 0.15, and AUC of 0.89 for FFRCT. Analysis at the level of each vessel or lesion showed a synthesized sensitivity of 85%, specificity of 81%, LR+ of 4.44, LR-of 0.19, and AUC of 0.87 for FFRCT.
+CONCLUSION: Our research reveals that FFRCT has high diagnostic performance in patients with coronary artery stenosis, regardless of whether it is at the patient level or the vessel level.
+
+Citation: Luo Y, et al. Diagnostic performance of computed tomography-based fraction flow reserve in identifying myocardial ischemia caused by coronary artery stenosis: A meta-analysis. Diagnostic performance of computed tomography-based fraction flow reserve in identifying myocardial ischemia caused by coronary artery stenosis: A meta-analysis. 2022; 63:1-7. doi: 10.1016/j.hjc.2021.05.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34107338/

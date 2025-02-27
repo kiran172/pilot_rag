@@ -1,0 +1,11 @@
+PMID: 37752535
+Title: Semiautomated pipeline for quantitative analysis of heart histopathology.
+
+Abstract: BACKGROUND: Heart diseases are among the leading causes of death worldwide, many of which lead to pathological cardiomyocyte hypertrophy and capillary rarefaction in both patients and animal models, the quantification of which is both technically challenging and highly time-consuming. Here we developed a semiautomated pipeline for quantification of the size of cardiomyocytes and capillary density in cardiac histology, termed HeartJ, by generating macros in ImageJ, a broadly used, open-source, Java-based software.
+METHODS: We have used modified Gomori silver staining, which is easy to perform and digitize in high throughput, or Fluorescein-labeled lectin staining. The latter can be easily combined with other stainings, allowing additional quantitative analysis on the same section, e.g., the size of cardiomyocyte nuclei, capillary density, or single-cardiomyocyte protein expression. We validated the pipeline in a mouse model of cardiac hypertrophy induced by transverse aortic constriction, and in autopsy samples of patients with and without aortic stenosis.
+RESULTS: In both animals and humans, HeartJ-based histology quantification revealed significant hypertrophy of cardiomyocytes reflecting other parameters of hypertrophy and rarefaction of microvasculature and enabling the analysis of protein expression in individual cardiomyocytes. The analysis also revealed that murine and human cardiomyocytes had similar diameters in health and extent of hypertrophy in disease confirming the translatability of our murine cardiac hypertrophy model. HeartJ enables a rapid analysis that would not be feasible by manual methods. The pipeline has little hardware requirements and is freely available.
+CONCLUSIONS: In summary, our analysis pipeline can facilitate effective and objective quantitative histological analyses in preclinical and clinical heart samples.
+
+Citation: Droste P, et al. Semiautomated pipeline for quantitative analysis of heart histopathology. Semiautomated pipeline for quantitative analysis of heart histopathology. 2023; 21:666. doi: 10.1186/s12967-023-04544-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37752535/

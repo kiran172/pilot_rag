@@ -1,0 +1,14 @@
+PMID: 31416674
+Title: Automated Spectral Doppler Profile Tracing.
+
+Abstract: OBJECTIVE: The authors hypothesized that automated tracings of both pulsed wave (PW) and continuous wave (CW) Doppler correlate well with manual measurements performed by an experienced echocardiographer.
+DESIGN: The authors performed a retrospective analysis of spectral Doppler profile measurements performed by automated software and an echocardiographer.
+SETTING: University hospital, single institution.
+PARTICIPANTS: The authors reviewed transesophageal echocardiographic examinations from patients undergoing transcatheter aortic valve (AV) replacement procedures at their institution.
+INTERVENTIONS: No interventions were performed solely for research purposes.
+MEASUREMENTS AND MAIN RESULTS: PW and CW spectral envelopes at the left ventricular outflow tract (LVOT) and AV were analyzed. Blinded, a board-certified echocardiographer performed manual measurements of the identical spectral envelopes. Peak velocities, mean gradients, and velocity time integrals (VTI) were collected. A total of 33 PW as well as 33 CW Doppler spectral envelopes were evaluated. There was no significant difference between the measurements provided by the automated software and manual tracings. LVOT PW VTI automated versus manual: 18.2 cm versus 15.9 cm, p = 0.11. AV CW VTI automated versus manual: 65.8 cm versus 64.8 cm, p = 0.90. AV CW mean gradient automated versus manual: 24.3 mmHg versus 23.4 mmHg, p = 0.84. AV CW peak velocity automated versus manual: 3.00 m/s versus 2.98 m/s, p = 0.93. Correlation coefficients were all above 0.9.
+CONCLUSIONS: Automated measurements of peak velocities, mean gradients, and VTI of spectral Doppler correlate closely with manual measurements performed by an experienced echocardiographer.
+
+Citation: Gosling AF, et al. Automated Spectral Doppler Profile Tracing. Automated Spectral Doppler Profile Tracing. 2020; 34:72-76. doi: 10.1053/j.jvca.2019.06.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31416674/

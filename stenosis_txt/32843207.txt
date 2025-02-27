@@ -1,0 +1,11 @@
+PMID: 32843207
+Title: Assessing the true severity of low-gradient aortic stenosis using resting echocardiography.
+
+Abstract: BACKGROUND: Dobutamine stress echocardiography (DSE) is required to determine whether low-gradient aortic stenosis (AS) with a small aortic valve area (AVA) is truly severe. The purpose of the present study was to evaluate the usefulness of ejection dynamics parameters at resting echocardiography for predicting the result of DSE performed in patients with low-gradient AS.
+METHODS: The results of resting echocardiography and DSE performed on 51 AS patients with low mean-gradient (&lt;40 mmHg) and small indexed AVA (&lt;0.60 cm2/m2) were retrospectively reviewed. Acceleration time (AT) and the ratio of AT to ejection time (ET) were measured on the recorded images. True-severe AS was defined as that with indexed projected AVA &lt; 0.60 cm2/m2.
+RESULTS: Twenty-six (51%) patients had true-severe AS, while 22 (43%) patients had preserved left ventricular ejection fraction (≥50%). Baseline indexed AVA and AT/ET were independently associated with indexed projected AVA at DSE. AT/ET was the only independent determinant of valve compliance. Indexed AVA ≤ 0.493 cm2/m2 and AT/ET &gt; 0.334 at baseline had sensitivities of 69% and 65% and specificities of 84% and 84%, respectively, for predicting true-severe AS. The presence of either indexed AVA ≤ 0.493 cm2/m2 or AT/ET &gt; 0.334 had a higher sensitivity (88%), and their co-occurrence had a higher specificity (100%).
+CONCLUSIONS: Indexed projected AVA at DSE was predicted by AT/ET, which represented valve compliance, along with indexed AVA. The true severity of low-gradient AS can be screened using a combination of resting indexed AVA and AT/ET without performing DSE.
+
+Citation: Abe Y, et al. Assessing the true severity of low-gradient aortic stenosis using resting echocardiography. Assessing the true severity of low-gradient aortic stenosis using resting echocardiography. 2021; 77:327-333. doi: 10.1016/j.jjcc.2020.07.028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32843207/

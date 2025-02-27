@@ -1,0 +1,11 @@
+PMID: 33209723
+Title: An interesting Mybpc3 heterozygous mutation associated with bicuspid aortic valve.
+
+Abstract: BACKGROUND: Bicuspid aortic valve (BAV) is a common congenital heart defect (0.5-2.0% in the adult), potentially an onset factor of aortic stenosis (AS). Increasing evidence demonstrates that genetic risk factors play a key role in the pathogenesis of BAV, but the genetic basis underlying this cardiac malformation remains poorly understood.
+METHODS: Whole exome sequencing (WES) was utilized to uncover genetic variants associated with BAV. Pathogenicity score and mode of inheritance through bioinformatics tools were undertook to identify the possible disease-causing mutation.
+RESULTS: A heterozygous Ala58Val mutation in Myosin binding protein C (Mybpc3) was identified out of 2,840 variants in an 11-year-old female patient. The proband and her father were confirmed to be heterozygous carriers of 173 C>T hybridization, and her mother was homozygous negative of the mutation as confirmed through Sanger sequencing. Expression of mRNA in the proband and her father, who also carries the mutation, were almost half of proband's mother. Indicating Mybpc3 (p.Ala58Val) mutation affected its expression, and may play crucial roles for heritable BAV.
+CONCLUSIONS: To our knowledge, this is the first time to report Mybpc3 heterozygous variant associated with heritable BAV. The relationship between the location of Mybpc3 mutation and BAV may provide a novel perspective of understanding this disorder.
+
+Citation: Zhao X, et al. An interesting Mybpc3 heterozygous mutation associated with bicuspid aortic valve. An interesting Mybpc3 heterozygous mutation associated with bicuspid aortic valve. 2020; 9:610-618. doi: 10.21037/tp-20-81
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33209723/

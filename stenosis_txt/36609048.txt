@@ -1,0 +1,12 @@
+PMID: 36609048
+Title: Real-World Examination of Revascularization Strategies for Left Main Coronary Disease in Ontario, Canada.
+
+Abstract: BACKGROUND: Randomized trials have compared percutaneous coronary intervention and coronary artery bypass grafting (CABG) in patients with left main coronary artery disease undergoing nonemergent revascularization. However, there is a paucity of real-world contemporary observational studies comparing percutaneous coronary intervention (PCI) and CABG.
+OBJECTIVES: The purpose of this study was to compare the long-term clinical outcomes of CABG versus PCI in patients with left main coronary disease.
+METHODS: Clinical and administrative databases for Ontario, Canada, were linked to obtain records of all patients with angiographic evidence of left main coronary artery disease (≥50% stenosis) treated with either isolated CABG or PCI from 2008 to 2020. Emergent, cardiogenic shock, and ST-segment elevation myocardial infarction patients were excluded. Baseline characteristics of patients were compared and 1:1 propensity score matching was performed. Late mortality and major adverse cardiac and cerebrovascular events were compared between the matched groups using a Cox proportional hazard model.
+RESULTS: After exclusions, 1,299 and 21,287 patients underwent PCI and CABG, respectively. Prior to matching, PCI patients were older (age 75.2 vs 68.0 years) and more likely to be women (34.6% vs 20.1%), although they had less CAD burden. Propensity score matching on 25 baseline covariates yielded 1,128 well-matched pairs. There was no difference in early mortality between PCI and CABG (5.5% vs 3.9%; P = 0.075). Over 7-year follow-up, all-cause mortality (53.6% vs 35.2%; HR: 1.63; 95% CI: 1.42-1.87; P < 0.001) and major adverse cardiac and cerebrovascular events (66.8% vs 48.6%; HR: 1.77; 95% CI: 1.57-2.00) were significantly higher with PCI than CABG.
+CONCLUSIONS: CABG was the most common revascularization strategy in this real-world registry. Patients undergoing PCI were much older and of higher risk at baseline. After matching, there was no difference in early mortality but improved late survival and freedom from major adverse cardiac and cerebrovascular events with CABG.
+
+Citation: Tam DY, et al. Real-World Examination of Revascularization Strategies for Left Main Coronary Disease in Ontario, Canada. Real-World Examination of Revascularization Strategies for Left Main Coronary Disease in Ontario, Canada. 2023; 16:277-288. doi: 10.1016/j.jcin.2022.10.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36609048/

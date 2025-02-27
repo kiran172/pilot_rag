@@ -1,0 +1,8 @@
+PMID: 32519914
+Title: Numerical study of hemodynamic and diagnostic parameters affected by stenosis in bifurcated artery.
+
+Abstract: Stenosis in the bifurcated coronary artery has attracted wide attention among the researchers. Many investigations have been carried out by means of Computational Fluid Dynamics (CFD) to better understand the physical mechanism inside the stenotic bifurcated artery. However, the main focus of the existing publications is limited to the variation of hemodynamic parameters affected by the stenosis and bifurcation structure. The present study aims to make further evaluations of stenosis development and diagnostic lesion assessments based on the critical values of hemodynamic and practical diagnostic parameters. The bifurcated coronary artery with initial stenosis source has been studied in 2 D unsteady model. Different locations of initial stenosis source have been found to greatly affect the orientation of the further stenosis development. In addition, different stenosis severities (diameter stenosis: 30%, 50% and 70%), different stenosis lengths (3 mm, 6 mm and 9 mm) and different pulse rates (75 bpm, 100 bpm and 120 bpm) as controlling parameters have been investigated.
+
+Citation: Song J, et al. Numerical study of hemodynamic and diagnostic parameters affected by stenosis in bifurcated artery. Numerical study of hemodynamic and diagnostic parameters affected by stenosis in bifurcated artery. 2020; 23:894-905. doi: 10.1080/10255842.2020.1771557
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32519914/

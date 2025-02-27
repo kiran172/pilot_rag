@@ -1,0 +1,8 @@
+PMID: 34974725
+Title: Modelling of hemodynamics in bifurcation lesions of coronary arteries before and after myocardial revascularization.
+
+Abstract: Modelling of patient-specific hemodynamics for a clinical case of severe coronary artery disease with the bifurcation stenosis was carried out with allowance for standard angiographic data obtained before and after successfully performed myocardial revascularization by stenting of two arteries. Based on a non-Newtonian fluid model and an original algorithm for fluid dynamics computation operated with a limited amount of initial data, key characteristics of blood flow were determined to analyse the features of coronary disease and the consequences of its treatment. The results of hemodynamic modelling near bifurcation sites are presented with an emphasis on physical, physiological and clinical phenomena to demonstrate the feasibility of the proposed approach. The main limitations and ways to minimize them are the subjects of discussion as well. This article is part of the theme issue 'Transport phenomena in complex systems (part 2)'.
+
+Citation: Starodumov IO, et al. Modelling of hemodynamics in bifurcation lesions of coronary arteries before and after myocardial revascularization. Modelling of hemodynamics in bifurcation lesions of coronary arteries before and after myocardial revascularization. 2022; 380:20200303. doi: 10.1098/rsta.2020.0303
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34974725/

@@ -1,0 +1,11 @@
+PMID: 38417624
+Title: Will ChatGPT be Able to Replace a Spine Surgeon in the Clinical Setting?
+
+Abstract: OBJECTIVE: This study evaluates ChatGPT's performance in diagnosing and managing spinal pathologies.
+METHODS: Patients underwent evaluation by two spine surgeons (and the case was discussed and a consensus was reached) and ChatGPT. Patient data, including demographics, symptoms, and available imaging reports, were collected using a standardized form. This information was then processed by ChatGPT for diagnosis and management recommendations. The study assessed ChatGPT's diagnostic and management accuracy through descriptive statistics, comparing its performance to that of experienced spine specialists.
+RESULTS: A total of 97 patients with various spinal pathologies participated in the study, with a gender distribution of 40 males and 57 females. ChatGPT achieved a 70% diagnostic accuracy rate and provided suitable management recommendations for 95% of patients. However, it struggled with certain pathologies, misdiagnosing 100% of vertebral trauma and facet joint syndrome, 40% of spondylolisthesis, stenosis, and scoliosis, and 22% of disc-related pathologies. Furthermore, ChatGPT's management recommendations were poor in 53% of cases, often failing to suggest the most appropriate treatment options and occasionally providing incomplete advice.
+CONCLUSIONS: While helpful in the medical field, ChatGPT falls short in providing reliable management recommendations, with a 30% misdiagnosis rate and 53% mismanagement rate in our study. Its limitations, including reliance on outdated data and the inability to interactively gather patient information, must be acknowledged. Surgeons should use ChatGPT cautiously as a supplementary tool rather than a substitute for their clinical expertise, as the complexities of healthcare demand human judgment and interaction.
+
+Citation: Chalhoub R, et al. Will ChatGPT be Able to Replace a Spine Surgeon in the Clinical Setting?. Will ChatGPT be Able to Replace a Spine Surgeon in the Clinical Setting?. 2024; 185:e648-e652. doi: 10.1016/j.wneu.2024.02.101
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38417624/

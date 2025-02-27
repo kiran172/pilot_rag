@@ -1,0 +1,11 @@
+PMID: 35721067
+Title: Dynamic Changes and Nomogram Prediction for Sinistral Portal Hypertension in Moderate and Severe Acute Pancreatitis.
+
+Abstract: OBJECTIVES: To investigate the dynamic changes in gastric varices in patients with acute pancreatitis (AP) and to develop a novel nomogram for the early prediction of sinistral portal hypertension (SPH).
+METHODS: This was a retrospective, case-control study with an analysis of the quantitative, dynamic computed tomography imaging results of SPH in patients with moderate and severe AP with a long-term follow-up. Multivariate logistic regression analysis and nomogram were employed.
+RESULTS: The SPH group (n = 94) and non-SPH group (n = 94) were matched. The dynamic changes showed an increasing trend in the diameter of gastric fundus, short gastric, gastric coronary, and gastroepiploic veins, which did not recover during the one-year follow-up. Multivariate analysis showed that male (adjusted odds ratio (adjOR), 8.71; 95% confidence interval (CI), 2.86-26.53; P &lt; 0.001), body mass index ≥27.5 kg/m2 (adjOR, 5.49; 95% CI, 1.85-16.29; P = 0.002), prothrombin time ≥12.6 s (adjOR, 2.82; 95% CI, 1.11-7.17; P = 0.03), and the patency of splenic vein [stenosis (adjOR, 8.48; 95% CI, 2.13-33.71; P = 0.002), and occlusion (adjOR, 34.57; 95% CI, 10.87-110.00; P &lt; 0.001)] were independently associated with the development of SPH. The nomogram incorporating these factors demonstrated good discrimination, calibration and clinical utility. The area under the curve was as high as 0.92 (95% CI, 0.87-0.95).
+CONCLUSION: The dynamic changes in varices in SPH are long-term and slowly progressing. Males and obese patients with abnormal splenic veins and coagulopathies are at high risk for developing SPH. A simple nomogram tool helps in the early, accurate prediction of SPH.
+
+Citation: Yu C, et al. Dynamic Changes and Nomogram Prediction for Sinistral Portal Hypertension in Moderate and Severe Acute Pancreatitis. Dynamic Changes and Nomogram Prediction for Sinistral Portal Hypertension in Moderate and Severe Acute Pancreatitis. 2022; 9:875263. doi: 10.3389/fmed.2022.875263
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35721067/

@@ -1,0 +1,11 @@
+PMID: 39405390
+Title: Patient-Specific Myocardial Infarction Risk Thresholds From AI-Enabled Coronary Plaque Analysis.
+
+Abstract: BACKGROUND: Plaque quantification from coronary computed tomography angiography has emerged as a valuable predictor of cardiovascular risk. Deep learning can provide automated quantification of coronary plaque from computed tomography angiography. We determined per-patient age- and sex-specific distributions of deep learning-based plaque measurements and further evaluated their risk prediction for myocardial infarction in external samples.
+METHODS: In this international, multicenter study of 2803 patients, a previously validated deep learning system was used to quantify coronary plaque from computed tomography angiography. Age- and sex-specific distributions of coronary plaque volume were determined from 956 patients undergoing computed tomography angiography for stable coronary artery disease from 5 cohorts. Multicenter external samples were used to evaluate associations between coronary plaque percentiles and myocardial infarction.
+RESULTS: Quantitative deep learning plaque volumes increased with age and were higher in male patients. In the combined external sample (n=1847), patients in the ≥75th percentile of total plaque volume (unadjusted hazard ratio, 2.65 [95% CI, 1.47-4.78]; P=0.001) were at increased risk of myocardial infarction compared with patients below the 50th percentile. Similar relationships were seen for most plaque volumes and persisted in multivariable analyses adjusting for clinical characteristics, coronary artery calcium, stenosis, and plaque volume, with adjusted hazard ratios ranging from 2.38 to 2.50 for patients in the ≥75th percentile of total plaque volume.
+CONCLUSIONS: Per-patient age- and sex-specific distributions for deep learning-based coronary plaque volumes are strongly predictive of myocardial infarction, with the highest risk seen in patients with coronary plaque volumes in the ≥75th percentile.
+
+Citation: Miller RJH, et al. Patient-Specific Myocardial Infarction Risk Thresholds From AI-Enabled Coronary Plaque Analysis. Patient-Specific Myocardial Infarction Risk Thresholds From AI-Enabled Coronary Plaque Analysis. 2024; 17:e016958. doi: 10.1161/CIRCIMAGING.124.016958
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39405390/

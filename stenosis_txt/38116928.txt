@@ -1,0 +1,10 @@
+PMID: 38116928
+Title: Common Carotid Artery Stenosis Degree as a Predictor of Cardiovascular Disease in a General Population: The Suita Study.
+
+Abstract: BACKGROUND: The utility of screening for the degree of common carotid artery (CCA) stenosis as a predictor of cardiovascular disease (CVD) in a general population remains unclear.
+METHODS AND RESULTS: We studied 4775 Japanese men and women whose CCA was measured using bilateral carotid ultrasonography at baseline (April 1994-August 2001). We calculated the degree of stenosis as a percentage of the stenotic area of the lumen in the cross-section perpendicular to the long axis. The Cox proportional hazards model was used to calculate multivariable-adjusted hazard ratios (HRs) with 95% CIs for incident CVD and its subtypes according to the degree of CCA stenosis. During the median 14.2 years of follow-up, 385 incident CVD events (159 coronary heart disease and 226 stroke) were documented. The degree of CCA stenosis was associated with increased risks of incident CVD, coronary heart disease, and stroke, with multivariable-adjusted HRs (95% CIs) for &lt;25%, 25%-49%, and ≥50% stenosis with plaque compared with no CCA plaque of 1.37 (1.07-1.76), 1.72 (1.23-2.40), and 2.49 (1.69-3.67), respectively. Adding the CCA stenosis degree to traditional CVD risk factors increased Harrell's C statistics (0.772 [95% CI, 0.751-0.794] to 0.778 [95% CI, 0.758-0.799]; P=0.04) and improved the 10-year risk prediction ability (integrated discrimination improvement, 0.0129 [95% CI, 0.0078-0.0179]; P&lt;0.001; continuous net reclassification improvement, 0.1598 [95% CI, 0.0297-0.2881]; P=0.01).
+CONCLUSIONS: The degree of CCA stenosis may be used as a predictive marker for the development of CVD in the general population.
+
+Citation: Teramoto M, et al. Common Carotid Artery Stenosis Degree as a Predictor of Cardiovascular Disease in a General Population: The Suita Study. Common Carotid Artery Stenosis Degree as a Predictor of Cardiovascular Disease in a General Population: The Suita Study. 2024; 13:e030828. doi: 10.1161/JAHA.123.030828
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38116928/

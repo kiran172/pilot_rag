@@ -1,0 +1,11 @@
+PMID: 36944990
+Title: CT-derived fractional flow reserve for prediction of major adverse cardiovascular events in diabetic patients.
+
+Abstract: OBJECTIVES: To investigate the prognostic value of computed tomography fractional flow reserve (CT-FFR) in patients with diabetes and to establish a risk stratification model for major adverse cardiac event (MACE).
+METHODS: Diabetic patients with intermediate pre-test probability of coronary artery disease were prospectively enrolled. All patients were referred for coronary computed tomography angiography and followed up for at least 2 years. In the training cohort comprising of 957 patients, two models were developed: model1 with the inclusion of clinical and conventional imaging parameters, model2 incorporating the above parameters + CT-FFR. An internal validation cohort comprising 411 patients and an independent external test cohort of 429 patients were used to validate the proposed models.
+RESULTS: 1797 patients (mean age: 61.0 ± 7.0 years, 1031 males) were finally included in the present study. MACE occurred in 7.18% (129/1797) of the current cohort during follow- up. Multivariate Cox regression analysis revealed that CT-FFR ≤ 0.80 (hazard ratio [HR] = 4.534, p < 0.001), HbA1c (HR = 1.142, p = 0.015) and low attenuation plaque (LAP) (HR = 3.973, p = 0.041) were the independent predictors for MACE. In the training cohort, the Log-likelihood test showed statistical significance between model1 and model2 (p < 0.001). The C-index of model2 was significantly larger than that of model1 (C-index = 0.82 [0.77-0.87] vs. 0.80 [0.75-0.85], p = 0.021). Similar findings were found in internal validation and external test cohorts.
+CONCLUSION: CT-FFR was a strong independent predictor for MACE in diabetic cohort. The model incorporating CT-FFR, LAP and HbA1c yielded excellent performance in predicting MACE.
+
+Citation: Lan Z, et al. CT-derived fractional flow reserve for prediction of major adverse cardiovascular events in diabetic patients. CT-derived fractional flow reserve for prediction of major adverse cardiovascular events in diabetic patients. 2023; 22:65. doi: 10.1186/s12933-023-01801-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36944990/

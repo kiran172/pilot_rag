@@ -1,0 +1,11 @@
+PMID: 38053896
+Title: Efficacy and risks of drug-coated balloon treatment for coronary artery disease: A meta-analysis.
+
+Abstract: INTRODUCTION: Coronary artery disease (CAD) often leads to myocardial ischemia and impaired cardiac function, significantly impacting the well-being and quality of life (QOL) of individuals. The use of drug-coated balloon (DCB) treatment has become a widespread approach in CAD management. However, currently, there is limited evidence available for the meta-analysis of DCB treatment in CAD.
+MATERIALS AND METHODS: A systematic search was conducted across databases including PubMed, Cochrane Library, China National Knowledge Infrastructure (CNKI), Wanfang Database, and VIP Database, covering data from the inception of each database up to April 2023. Randomized controlled trials (RCTs) regarding DCB treatment were meticulously chosen based on independent assessment of eligibility and scope by three researchers. Literature screening and data extraction were independently performed by two researchers, while methodological quality of the enrolled studies was assessed using the risk of bias (ROB) tool developed by the Cochrane Collaboration. Meta-analysis was conducted using RevMan 5.3.
+RESULTS: Following the screening process, seven studies were included. Four studies demonstrated an odds ratio (OR) of 0.66 for target lesion revascularization (TLR), five reported an OR of 0.41 for postoperative myocardial infarction (MI), four indicated a mean difference (MD) of 6.03 in the degree of stenosis (DOS), five exhibited an MD of 0.13 for late lumen loss (LLL), five reported an OR of 0.33 for cardiac death, and two presented an OR of 1.01 for binary restenosis (BR).
+CONCLUSION: DCB demonstrated a comparable efficacy to drug-eluting stents (DES) in treating CAD, with relatively lower associated risks.
+
+Citation: Bai X, et al. Efficacy and risks of drug-coated balloon treatment for coronary artery disease: A meta-analysis. Efficacy and risks of drug-coated balloon treatment for coronary artery disease: A meta-analysis. 2023; 9:e22224. doi: 10.1016/j.heliyon.2023.e22224
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38053896/

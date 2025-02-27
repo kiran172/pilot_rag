@@ -1,0 +1,11 @@
+PMID: 34788825
+Title: Transcatheter aortic valve replacement in mixed aortic valve disease: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Utilization of transcatheter aortic valve replacement (TAVR) has expanded from high-risk patients to intermediate- and select low-risk candidates with severe aortic stenosis (AS). TAVR is currently not indicated for patients with aortic insufficiency, and its outcomes in mixed aortic valve disease (MAVD) are unclear.
+METHODS: A systematic search of PubMed, Medline, CINHAL, and Cochrane databases was performed to identify studies comparing TAVR outcomes in patients with AS vs. MAVD. Primary outcomes included 30-day and late all-cause mortality, and paravalvular regurgitation (PVR). Secondary outcomes were major bleeding, vascular complications, device implantation success, permanent pacemaker, and stroke. Pooled odds ratios (OR) and 95% confidence intervals (CIs) were calculated using Der Simonian-Laird random-effects model.
+RESULTS: Six observational studies with 58 879 patients were included in the analysis. There was no significant difference in 30-day all-cause mortality [OR 1.03 (95% CI 0.92-1.15); P = 0.63], however, MAVD group had higher odds of moderate-to-severe PVR [1.81 (1.41-2.31); P < 0.01]. MAVD patients had lower odds of device implantation success [0.60 (0.40-0.91); P = 0.02] while other secondary outcomes were similar in the two groups.
+CONCLUSIONS: TAVR in MAVD is associated with increased odds of paravalvular regurgitation and lower odds of device implantation success when compared to severe aortic stenosis.
+
+Citation: Guddeti RR, et al. Transcatheter aortic valve replacement in mixed aortic valve disease: a systematic review and meta-analysis. Transcatheter aortic valve replacement in mixed aortic valve disease: a systematic review and meta-analysis. 2022; 8:169-176. doi: 10.1093/ehjqcco/qcab080
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34788825/

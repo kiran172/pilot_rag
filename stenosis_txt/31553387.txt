@@ -1,0 +1,12 @@
+PMID: 31553387
+Title: Longitudinal Shortening of the Left Ventricle by Cine-CMR for Assessment of Diastolic Function in Patients with Aortic Valve Disease.
+
+Abstract: BACKGROUND: Diastolic dysfunction, commonly evaluated by echocardiography, is an important early finding in many cardiomyopathies. Cardiac magnetic resonance (CMR) often requires specialized sequences that extends the test time. Recently, feature-tracking imaging has been made available, but still requires expensive software and lacks clinical validation.
+OBJECTIVE: To assess diastolic function in patients with aortic valve disease (AVD) and compare it with normal controls by evaluating left ventricular (LV) longitudinal displacement by CMR.
+METHODS: We compared 26 AVD patients with 19 normal controls. Diastolic function was evaluated as LV longitudinal displacement in 4-chamber view cine-CMR images using steady state free precession (SSFP) sequence during the entire cardiac cycle with temporal resolution < 50 ms. The resulting plot of atrioventricular junction (AVJ) position versus time generated variables of AVJ motion. Significance level of p < 0.05 was used.
+RESULTS: Maximum longitudinal displacement (0.12 vs. 0.17 cm), maximum velocity during early diastole (MVED, 0.6 vs. 1.4s-1), slope of the best-fit line of displacement in diastasis (VDS, 0.22 vs. 0.03s-1), and VDS/MVED ratio (0.35 vs. 0.02) were significantly reduced in AVD patients compared with controls, respectively. Aortic regurgitation showed significantly worse longitudinal LV shortening compared with aortic stenosis. Higher LV mass indicated worse diastolic dysfunction.
+CONCLUSIONS: A simple linear measurement detected significant differences on LV diastolic function between AVD patients and controls. LV mass was the only independent predictor of diastolic dysfunction in these patients. This method can help in the evaluation of diastolic dysfunction, improving cardiomyopathy detection by CMR, without prolonging exam time or depending on expensive software.
+
+Citation: Ribeiro SM, et al. Longitudinal Shortening of the Left Ventricle by Cine-CMR for Assessment of Diastolic Function in Patients with Aortic Valve Disease. Longitudinal Shortening of the Left Ventricle by Cine-CMR for Assessment of Diastolic Function in Patients with Aortic Valve Disease. 2020; 114:284-292. doi: 10.5935/abc.20190193
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31553387/

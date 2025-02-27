@@ -1,0 +1,11 @@
+PMID: 36680616
+Title: Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR.
+
+Abstract: BACKGROUND: Mutations in the clonal hematopoiesis of indeterminate potential (CHIP)-driver genes DNMT3A and TET2 have been previously shown to be associated with short-term prognosis in patients undergoing TAVR for aortic valve stenosis. We aimed to extend and characterize these findings on long-term outcome in a large cohort.
+METHODS: A total of 453 consecutive patients undergoing TAVR were included in an up to 4-year follow-up study. Next-generation sequencing was used to identify DNMT3A- and/or TET2-CHIP-driver mutations. Primary endpoint was all-cause mortality. Since CHIP-driver mutations appear to be closely related to DNA methylation, results were also assessed in patients who never smoked, a factor known to interfere with DNA methylation.
+RESULTS: DNMT3A-/TET2-CHIP-driver mutations were present in 32.4% of patients (DNMT3A n = 92, TET2 n = 71), and were more frequent in women (52.4% vs. 38.9%, p = 0.007) and older participants (83.3 vs. 82.2 years, p = 0.011), while clinical characteristics or blood-derived parameters did not differ. CHIP-driver mutations were associated with a significantly higher mortality up to 4 years after TAVR in both univariate (p = 0.031) and multivariate analyses (HR 1.429, 95%CI 1.014-2.013, p = 0.041). The difference was even more pronounced (p = 0.011) in never smokers. Compared to TET2 mutation carriers, patients with DNMT3A mutations had significantly less frequently concomitant coronary and peripheral artery disease.
+CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.
+
+Citation: Mas-Peiro S, et al. Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR. Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR. 2023; 112:585-593. doi: 10.1007/s00392-022-02135-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36680616/

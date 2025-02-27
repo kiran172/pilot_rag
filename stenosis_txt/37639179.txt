@@ -1,0 +1,8 @@
+PMID: 37639179
+Title: Toward a Mesoscopic Modeling Approach of Magnetohydrodynamic Blood Flow in Pathological Vessels: A Comprehensive Review.
+
+Abstract: The investigation of magnetohydrodynamic (MHD) blood flow within configurations that are pertinent to the human anatomy holds significant importance in the realm of scientific inquiry because of its practical implications within the medical field. This article presents an exhaustive appraisal of the diverse applications of magnetohydrodynamics and their computational modeling in biological contexts. These applications are classified into two categories: simple flow and pulsatile flow. An alternative approach of traditional CFD methods called Lattice Boltzmann Method (LBM), a mesoscopic method based on kinetic theory, is introduced to solve complex problems, such as hemodynamics. The results show that the flow velocity reduces considerably by increasing the magnetic field intensity, and the flow separation area is minimized by the increase of magnetic field strength. The LBM with BGK collision model has shown good results in terms of precision. Finally, this literature review has revealed a number of potential avenues for further research. Suggestions for future works are proposed accordingly.
+
+Citation: Cherkaoui I, et al. Toward a Mesoscopic Modeling Approach of Magnetohydrodynamic Blood Flow in Pathological Vessels: A Comprehensive Review. Toward a Mesoscopic Modeling Approach of Magnetohydrodynamic Blood Flow in Pathological Vessels: A Comprehensive Review. 2023; 51:2415-2440. doi: 10.1007/s10439-023-03350-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37639179/

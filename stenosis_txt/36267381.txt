@@ -1,0 +1,8 @@
+PMID: 36267381
+Title: Application of AI in cardiovascular multimodality imaging.
+
+Abstract: Technical advances in artificial intelligence (AI) in cardiac imaging are rapidly improving the reproducibility of this approach and the possibility to reduce time necessary to generate a report. In cardiac computed tomography angiography (CCTA) the main application of AI in clinical practice is focused on detection of stenosis, characterization of coronary plaques, and detection of myocardial ischemia. In cardiac magnetic resonance (CMR) the application of AI is focused on post-processing and particularly on the segmentation of cardiac chambers during late gadolinium enhancement. In echocardiography, the application of AI is focused on segmentation of cardiac chambers and is helpful for valvular function and wall motion abnormalities. The common thread represented by all of these techniques aims to shorten the time of interpretation without loss of information compared to the standard approach. In this review we provide an overview of AI applications in multimodality cardiac imaging.
+
+Citation: Muscogiuri G, et al. Application of AI in cardiovascular multimodality imaging. Application of AI in cardiovascular multimodality imaging. 2022; 8:e10872. doi: 10.1016/j.heliyon.2022.e10872
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36267381/

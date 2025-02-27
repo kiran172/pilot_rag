@@ -1,0 +1,12 @@
+PMID: 33034419
+Title: Side branch fractional flow reserve after provisional stenting of calcified bifurcation lesions: The ORBID-FFR study.
+
+Abstract: OBJECTIVES: We examined the incidence of side branch (SB) compromise after provisional stenting of calcified bifurcation lesions treated with rotational atherectomy (RA) or cutting balloon angioplasty (CBA) and the utility of optical coherence tomography (OCT) to detect functionally significant SB stenoses.
+BACKGROUND: The comparative impact of RA versus CBA on SB compromise and functional significance remains poorly characterized.
+METHODS: Seventy-one consecutive patients with 71 calcified bifurcation lesions with angiographically intermediate SB stenoses were randomized to RA (n = 35) or CBA (n = 36). The primary endpoint was SB compromise defined as SB diameter stenosis ≥70%, SB dissection or thrombolysis in myocardial infarction flow grade < 3 after provisional stenting. Secondary endpoints included SB FFR in noncompromised SBs and its correlation with SB ostium area (SBOA) assessed by three-dimensional OCT.
+RESULTS: SB compromise after provisional stenting was observed in 7 (20.0%) lesions that underwent RA and in 9 (25.0%) lesions treated with CBA (p = .62). Mean SB FFR was 0.83 ± 0.08 and was similar between the study arms. Functionally significant SB stenosis (FFR ≤ 0.80) was detected in 17(30.9%) angiographically noncompromised SBs. SBOA after stenting was an independent predictor of FFR ≤ 0.80 (OR 0.002, 95% CI: 0.00-0.15, p = .002). The optimal cutoff value for SBOA to predict functionally significant SB stenosis was 0.76 mm2 (sensitivity 82%, specificity 89% and area under the curve 0.92, 95% CI: 0.84-0.99).
+CONCLUSIONS: The rates of SB compromise and functionally significant stenosis after provisional stenting of calcified bifurcation lesions were similar between two lesion preparation strategies. OCT SBOA can detect SB branches with FFR ≤ 0.80 with high sensitivity and specificity.
+
+Citation: Kini AS, et al. Side branch fractional flow reserve after provisional stenting of calcified bifurcation lesions: The ORBID-FFR study. Side branch fractional flow reserve after provisional stenting of calcified bifurcation lesions: The ORBID-FFR study. 2021; 98:658-668. doi: 10.1002/ccd.29307
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33034419/

@@ -1,0 +1,11 @@
+PMID: 32182442
+Title: Numerical investigation of non-Newtonian blood flow within an artery with cone shape of stenosis in various stenosis angles.
+
+Abstract: BACKGROUND AND OBJECTIVE: In this work, a numerical study is done on the blood flow inside an artery with a cone shape of stenosis. An artery has different stenosis angles. Also, blood flow is energized by constant heat flux which is applied on the wall. The finite volume method is employed to determine blood properties on the basis of a Sisko fluid model with different constant parameters.
+METHODS: Firstly, the effects of applying constant heat flux of q'' = 4 W/m2 are studied on the velocity profile of blood flow inside an artery with stenosis angles of φ = 0.5°. Afterward, effects of different stenosis angles of φ = 0.25, φ = 0.5, φ = 0.75, φ = 1 and φ = 1.25 is studied on blood flow temperature profile. Then, different values of the Sisko model are employed to investigate influences of Newtonian and non-Newtonian behaviors of blood fluid on the temperature profiles of blood flow inside an artery with stenosis angle of φ = 0.5°.
+RESULTS: It is reported that with increasing stenosis angles, blood flow temperature is decreased due to velocity enhancement. This phenomenon is convinced by non-slip condition and sticking non-Newtonian blood fluid to the internal surface of artery wall which reduce velocity from wall surface region to central region of vessel. Also, it is concluded that changing behavior of blood fluid from non-Newtonian to Newtonian behaviors can empower the capability of blood in thermal energy transfer inside human body vessels.
+CONCLUSIONS: Any treatment by balloon angioplasty, percutaneous transluminal angioplasty, and serum injection, which changes the behavior of blood flow inside body veins, can be effective on blood flow temperature.
+
+Citation: Yan SR, et al. Numerical investigation of non-Newtonian blood flow within an artery with cone shape of stenosis in various stenosis angles. Numerical investigation of non-Newtonian blood flow within an artery with cone shape of stenosis in various stenosis angles. 2020; 192:105434. doi: 10.1016/j.cmpb.2020.105434
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32182442/

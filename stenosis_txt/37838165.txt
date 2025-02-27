@@ -1,0 +1,11 @@
+PMID: 37838165
+Title: Impaired Dynamic Cerebral Autoregulation as a Predictor for Cerebral Hyperperfusion After Carotid Endarterectomy: A Prospective Observational Study.
+
+Abstract: OBJECTIVE: Cerebral hyperperfusion syndrome (CHS) is a severe complication of carotid endarterectomy (CEA). Because cerebral hyperperfusion (CH) reduces the benefits of CEA, it is important to identify patients at high risk of developing CH. We investigated dynamic cerebral autoregulation (dCA) as a potential predictor of CH after CEA.
+METHODS: In a prospective observational study of 90 patients, we defined CH as a ≥100% increase in the transcranial Doppler ultrasound-derived mean flow velocity of the middle cerebral artery compared to baseline, with or without clinical manifestations. We examined dCA in the supine position and during squat-stand maneuvers using the transfer function, analyzing phase, gain, and coherence. Logistic regression analysis and receiver operating characteristic (ROC) curves were used to assess the relationships between variables and outcomes.
+RESULTS: Cerebral hyperperfusion (CH) occurred in 18 patients after CEA. The CH group had a lower ipsilateral phase for both body postures than the non-CH group at very low and low frequencies, respectively (both P &lt; 0.01). Postoperative CH was independently associated with the preoperative peak systolic velocity (PSV)<sub>sten</sub>/PSV<sub>dis</sub> ratio and the ipsilateral phase in both body postures at a very low frequency. Receiver operating characteristic (ROC) curve analysis showed that the ipsilateral phase had excellent CH predictive accuracy in the supine position and squat-stand maneuvers at a very low frequency (areas under the curve: 0.809 and 0.839, respectively, both P &lt; 0.001; cutoff values: 24.7 and 11.7, respectively).
+CONCLUSIONS: The lower ipsilateral phase may serve as a predictor of CH after CEA.
+
+Citation: Li N, et al. Impaired Dynamic Cerebral Autoregulation as a Predictor for Cerebral Hyperperfusion After Carotid Endarterectomy: A Prospective Observational Study. Impaired Dynamic Cerebral Autoregulation as a Predictor for Cerebral Hyperperfusion After Carotid Endarterectomy: A Prospective Observational Study. 2024; 181:e312-e321. doi: 10.1016/j.wneu.2023.10.046
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37838165/

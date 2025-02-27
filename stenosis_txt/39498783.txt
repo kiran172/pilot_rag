@@ -1,0 +1,10 @@
+PMID: 39498783
+Title: Incremental Prognostic Value of Left Ventricular and Left Atrial Strain in Moderate Aortic Stenosis.
+
+Abstract: AIMS: Patients with moderate aortic stenosis (AS) show a poor prognosis if they have high-risk features. We investigated the incremental prognostic value of left ventricular (LV) and left atrial (LA) strain in patients with moderate AS.
+METHODS AND RESULTS: In a cohort of 923 patients with moderate AS (median age 74 years, men 55%, aortic valve area 1.18 [IQR 1.08-1.30] cm2, mean pressure gradient 25 [IQR 23-30] mmHg), LV global longitudinal strain (LV-GLS) and LA reservoir strain (LARS), were measured using speckle-tracking echocardiography. Absolute values of myocardial strain were used. The primary endpoint was a composite of all-cause mortality and heart failure hospitalization.During a median of 5.9 years, the primary endpoint occurred in 186 patients (20.2%). The median LV-GLS and LARS were 17.7% (IQR 14.8-19.7) and 24.5% (IQR 18.7-29.3). LV-GLS (adjusted HR 0.92, 95% CI 0.87-0.97) and LARS (adjusted HR 0.97, 95% CI 0.95-0.99) were significant predictors of the primary outcome, independent of clinical and echocardiographic variables including LV ejection fraction. Notably, the prognostic value of LV-GLS was stronger than that of LARS, remaining significant after further adjustment for LARS. LV-GLS<17% and LARS<22% were identified as optimal cutoffs for the primary outcome. Patients with both reduced LV-GLS and LARS had the worst outcome (log-rank p<0.001). LV-GLS<17% and LARS<22% had incremental prognostic value on top of other clinical and echocardiographic variables.
+CONCLUSION: In moderate AS, reduced LV-GLS and LARS have incremental prognostic value, and can refine risk stratification to identify high-risk patients.
+
+Citation: Lee HJ, et al. Incremental Prognostic Value of Left Ventricular and Left Atrial Strain in Moderate Aortic Stenosis. Incremental Prognostic Value of Left Ventricular and Left Atrial Strain in Moderate Aortic Stenosis. 2024; (unknown volume):(unknown pages). doi: 10.1093/ehjci/jeae285
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39498783/

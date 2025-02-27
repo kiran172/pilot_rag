@@ -1,0 +1,11 @@
+PMID: 31449789
+Title: Valuing innovative endoscopic techniques: endoscopic suturing to prevent stent migration for benign esophageal disease.
+
+Abstract: BACKGROUND AND AIMS: Reimbursement often presents a significant barrier to widespread adoption of innovative endoscopic devices. We aimed to determine the value (defined as cost savings to a payer) of endoscopic suturing devices in preventing the migration of esophageal stents placed for benign esophageal diseases.
+METHODS: A decision-analytic model was constructed from a payer perspective evaluating fully covered metal stent placement for benign esophageal diseases (fistula, leak, perforation, or stricture) in a hospital outpatient setting. The model compared 2 strategies: endoscopic suturing to anchor the stent or no suture. Health care outcomes and costs were derived from published systematic reviews and national databases (U.S. Food and Drug Administration Manufacturer and User Facility Device Experience [MAUDE] for safety data; 2018 Medicare Physician Fee Schedule and Provider Utilization and Payment Data databases for reimbursement data).
+RESULTS: From a payer perspective, reimbursement for care increased by US$1487.98 without endoscopic suturing per patient, compared with US$621.06 with endoscopic suturing, to cover the risk of stent migration in addition to usual professional and facility reimbursement for stent placement. Thus, an average cost saving of US$866.92 per patient was achieved with endoscopic suturing to reduce stent migration risks. Cost savings associated with suturing ranged from US$147.48 to US$1586.36 per patient, based on the indication for the procedure in sensitivity analysis. Cost savings increased with higher rates of technical success in suture placement.
+CONCLUSIONS: Creating a defined reimbursement pathway for endoscopic suture fixation of a stent for the treatment of benign esophageal diseases appears to be justified from a payer perspective.
+
+Citation: Shah ED, et al. Valuing innovative endoscopic techniques: endoscopic suturing to prevent stent migration for benign esophageal disease. Valuing innovative endoscopic techniques: endoscopic suturing to prevent stent migration for benign esophageal disease. 2020; 91:278-285. doi: 10.1016/j.gie.2019.08.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31449789/

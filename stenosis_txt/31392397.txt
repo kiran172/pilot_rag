@@ -1,0 +1,11 @@
+PMID: 31392397
+Title: Diffusion-weighted magnetic resonance for assessing fibrosis in Crohn's disease.
+
+Abstract: BACKGROUND: Intestinal fibrosis is a key feature of Crohn's Disease lesions, and mucosal biopsies do not exactly represent transmural damage. Magnetic resonance enterography (MRE) allows for a panoramic study of the bowel loops. Diffusion-weighted imaging (DWI) through the restriction of the apparent diffusion coefficient (ADC) allows for an accurate evaluation of disease activity in Crohn's Disease patients avoiding contrast agents. The aim of this study was to investigate whether DWI sequences were able to identify intestinal fibrosis in candidates for surgery, using histopathology as the gold standard.
+MATERIALS AND METHODS: Thirty Crohn's Disease patients undergoing surgery for stricturing ileo-colonic disease were consecutively enrolled from October 2010 to November 2015. All patients underwent MRE with DWI before surgery. Radiological parameters were calculated in the stenotic segment and in the ileum proximal to the stenosis. The histopathological examination was performed using a histological score for fibrosis and inflammation.
+RESULTS: ADC value correlated with the fibrosis score (r = -0.648; p &lt; 0.0001), inflammation score (r = -0.763; p &lt; 0.0001) and percentage of gain (r = -0.687; p &lt; 0.0001). A correlation emerged between wall thickness and fibrosis score (r = 0.671; p &lt; 0.0001). The threshold of wall thickness for fibrosis was &gt; 6.3 mm (AUC 0.89, specificity 100% and sensitivity 69.23%). The cut-off of ADC value for fibrosis was &lt; 1.1 × 10-3 mm2 s-1 with a sensitivity of 72% and specificity of 94% (AUC = 0.83).
+CONCLUSIONS: The DWI sequence with ADC value could be useful to identify fibrosis in the intestinal wall of Crohn's Disease patients.
+
+Citation: Caruso A, et al. Diffusion-weighted magnetic resonance for assessing fibrosis in Crohn's disease. Diffusion-weighted magnetic resonance for assessing fibrosis in Crohn's disease. 2020; 45:2327-2335. doi: 10.1007/s00261-019-02167-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31392397/

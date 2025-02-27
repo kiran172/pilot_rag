@@ -1,0 +1,11 @@
+PMID: 35571152
+Title: Relationship Between Hypertension and Basilar Atherosclerosis in Chinese Han Population: A High-Resolution Magnetic Resonance Imaging Study.
+
+Abstract: OBJECTIVE: To investigate the relationship between hypertension and basilar atherosclerosis evaluated by high-resolution magnetic resonance imaging (HR-MRI) in the Chinese Han population.
+METHODS: High resolution-MRI vessel wall imaging was performed in selected 193 patients for various indications. Multivariable logistic regression models based on odds ratio (OR) with their associated 95% confidence interval (CI) were used to assess the relationship between hypertension and basilar artery (BA) plaque, moderate or severe stenosis of BA plaque, and vulnerable plaque. A linear regression model was used to assess the relationship between hypertension and BA plaque numbers.
+RESULTS: Patients with hypertension had a higher proportion of BA plaque and vulnerable plaque as well as more number of enhancements of BA plaque and serious plaque compared with normotensive patients (all values of p &lt; 0.05). Multivariable logistic regression analysis indicated that patients with hypertension had an increased risk for and more number of enhancements of BA plaque (adjusted-OR: 4.32, 95% CI 1.89-9.88, p &lt; 0.001; adjusted-β: 0.55, 95% CI 0.14-0.96, p = 0.009, respectively) and had a higher proportion of moderate or severe stenosis of BA plaque and vulnerable plaque (adjusted-OR: 3.08, 95% CI 0.77-12.32, p = 0.111; adjusted-OR: 4.52, 95% CI 1.50-13.64, p = 0.007, respectively) compared with the normotensive group. Moreover, there was a saturation effect of age on the prevalence of BA plaque and vulnerable plaque.
+CONCLUSION: Hypertension was the independent risk factor of BA plaque and vulnerable plaque assessed by HR-MRI in the Chinese Han population.
+
+Citation: Hu F, et al. Relationship Between Hypertension and Basilar Atherosclerosis in Chinese Han Population: A High-Resolution Magnetic Resonance Imaging Study. Relationship Between Hypertension and Basilar Atherosclerosis in Chinese Han Population: A High-Resolution Magnetic Resonance Imaging Study. 2022; 9:830664. doi: 10.3389/fcvm.2022.830664
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35571152/

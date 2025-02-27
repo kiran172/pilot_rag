@@ -1,0 +1,8 @@
+PMID: 34920129
+Title: Evaluation of aortic stenosis: From Bernoulli and Doppler to Navier-Stokes.
+
+Abstract: Uni-dimensional Doppler echocardiography data provide the mainstay of quantative assessment of aortic stenosis, with the transvalvular pressure drop a key indicator of haemodynamic burden. Sophisticated methods of obtaining velocity data, combined with improved computational analysis, are facilitating increasingly robust and reproducible measurement. Imaging modalities which permit acquisition of three-dimensional blood velocity vector fields enable angle-independent valve interrogation and calculation of enhanced measures of the transvalvular pressure drop. This manuscript clarifies the fundamental principles of physics that underpin the evaluation of aortic stenosis and explores modern techniques that may provide more accurate means to grade aortic stenosis and inform appropriate management.
+
+Citation: Gill H, et al. Evaluation of aortic stenosis: From Bernoulli and Doppler to Navier-Stokes. Evaluation of aortic stenosis: From Bernoulli and Doppler to Navier-Stokes. 2023; 33:32-43. doi: 10.1016/j.tcm.2021.12.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34920129/

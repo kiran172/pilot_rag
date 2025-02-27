@@ -1,0 +1,11 @@
+PMID: 37724803
+Title: Intracranial arterial stenosis and recurrence in stroke patients with different risk stratifications by Essen stroke risk score.
+
+Abstract: OBJECTIVES: We sought to investigate whether the prognostic value of intracranial arterial stenosis (ICAS) is consistent across different risk stratifications using the Essen Stroke Risk score (ESRS).
+METHODS: We derived data from the Clopidogrel in High-Risk Patients with Acute Nondisabling Cerebrovascular Events trial. Patients without complete baseline brain imaging data were excluded. Participants were categorized into different risk groups based on ESRS (low risk, 0-2, and high risk ≥ 3). The main outcome was stroke recurrence within 3 and 12 months. Hazard ratios (HRs) and 95% confidence intervals (95%CIs) of ICAS, and other factors associated with stroke recurrence within 3 and 12 months were estimated using the Cox regression method.
+RESULTS: During the 3-month follow-up, 54 patients (7.9%) had recurrent stroke in the low-risk group, and 39 patients (9.6%) had recurrent stroke in the high-risk group. ICAS was associated with a higher risk of stroke within 3 months (HR = 2.761; 95%CI = 1.538-4.957; P &lt; 0.001) in the low-risk group, but not in the high-risk group (HR = 1.501; 95%CI = 0.701-3.213; P = 0.296). ICAS was independently associated with higher recurrent risk in the low-risk group (HR = 2.540; 95%CI = 1.472-4.381; P &lt; 0.001), but not in the high-risk group (HR = 1.951; 95%CI = 0.977-3.893; P = 0.058) within 12 months.
+CONCLUSION: ICAS was an independent predictor of both 3- and 12-month stroke recurrence in low-risk but not high-risk patients with minor ischemic stroke or transient ischemic attack according to ESRS stratification.
+
+Citation: Suo Y, et al. Intracranial arterial stenosis and recurrence in stroke patients with different risk stratifications by Essen stroke risk score. Intracranial arterial stenosis and recurrence in stroke patients with different risk stratifications by Essen stroke risk score. 2023; 45:1069-1078. doi: 10.1080/01616412.2023.2257415
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37724803/

@@ -1,0 +1,8 @@
+PMID: 32595057
+Title: Flow Complexity Estimation in Dysfunctional Arteriovenous Dialysis Fistulas using Vector Flow Imaging.
+
+Abstract: Non-invasive assessment is preferred for monitoring arteriovenous dialysis fistulas (AVFs). Vector concentration assesses flow complexity, which may correlate with stenosis severity. We determined whether vector concentration could assess stenosis severity in dysfunctional AVFs. Vector concentration was estimated in four stenotic phantoms at different pulse repetition frequencies. Spectral Doppler peak velocity and vector concentration were measured in 12 patients with dysfunctional AVFs. Additionally, 5 patients underwent digital subtraction angiography (DSA). In phantoms, vector concentration exhibited an inverse relationship with stenosis severity and was less affected by aliasing in severe stenoses. In nine stenoses of 5 patients undergoing DSA, vector concentration correlated strongly with stenosis severity (first stenosis: r = -0.73, p = 0.04; other stenoses; r = -0.69, p = 0.02) and mid-stenotic diameter (first stenosis: r = 0.87, p = 0.006; other stenoses: r = 0.70, p = 0.02) as opposed to peak velocities (p > 0.05). Vector concentration is less affected by aliasing in severe stenoses and correlates with DSA in patients with dysfunctional AVF.
+
+Citation: Nguyen TQ, et al. Flow Complexity Estimation in Dysfunctional Arteriovenous Dialysis Fistulas using Vector Flow Imaging. Flow Complexity Estimation in Dysfunctional Arteriovenous Dialysis Fistulas using Vector Flow Imaging. 2020; 46:2493-2504. doi: 10.1016/j.ultrasmedbio.2020.05.021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32595057/

@@ -1,0 +1,12 @@
+PMID: 37914512
+Title: Stress Perfusion Cardiac Magnetic Resonance vs SPECT Imaging for Detection of Coronary Artery Disease.
+
+Abstract: BACKGROUND: GadaCAD2 was 1 of 2 international, multicenter, prospective, Phase 3 clinical trials that led to U.S. Food and Drug Administration approval of gadobutrol to assess myocardial perfusion and late gadolinium enhancement (LGE) in adults with known or suspected coronary artery disease (CAD).
+OBJECTIVES: A prespecified secondary objective was to determine if stress perfusion cardiovascular magnetic resonance (CMR) was noninferior to single-photon emission computed tomography (SPECT) for detecting significant CAD and for excluding significant CAD.
+METHODS: Participants with known or suspected CAD underwent a research rest and stress perfusion CMR that was compared with a gated SPECT performed using standard clinical protocols. For CMR, adenosine or regadenoson served as vasodilators. The total dose of gadobutrol was 0.1 mmol/kg body weight. The standard of reference was a 70% stenosis defined by quantitative coronary angiography (QCA). A negative coronary computed tomography angiography could exclude CAD. Analysis was per patient. CMR, SPECT, and QCA were evaluated by independent central core lab readers blinded to clinical information.
+RESULTS: Participants were predominantly male (61.4% male; mean age 58.9 ± 10.2 years) and were recruited from the United States (75.0%), Australia (14.7%), Singapore (5.7%), and Canada (4.6%). The prevalence of significant CAD was 24.5% (n = 72 of 294). Stress perfusion CMR was statistically superior to gated SPECT for specificity (P = 0.002), area under the receiver operating characteristic curve (P < 0.001), accuracy (P = 0.003), positive predictive value (P < 0.001), and negative predictive value (P = 0.041). The sensitivity of CMR for a 70% QCA stenosis was noninferior and nonsuperior to gated SPECT.
+CONCLUSIONS: Vasodilator stress perfusion CMR, as performed with gadobutrol 0.1 mmol/kg body weight, had superior diagnostic accuracy for diagnosis and exclusion of significant CAD vs gated SPECT.
+
+Citation: Arai AE, et al. Stress Perfusion Cardiac Magnetic Resonance vs SPECT Imaging for Detection of Coronary Artery Disease. Stress Perfusion Cardiac Magnetic Resonance vs SPECT Imaging for Detection of Coronary Artery Disease. 2023; 82:1828-1838. doi: 10.1016/j.jacc.2023.08.046
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37914512/

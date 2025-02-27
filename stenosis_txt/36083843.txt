@@ -1,0 +1,8 @@
+PMID: 36083843
+Title: An Oscillatory Shear Index-Based Model to Describe Progressive Carotid Artery Stenosis.
+
+Abstract: Background and aims: This study describes and demonstrates the applicability of a novel in silico method for modeling progressive carotid artery stenosis using the oscillatory shear index (OSI) as the basis of stenosis. Methods: Three-dimensional reconstructions of 11 carotid arteries were generated using patient-derived magnetic resonance angiography and duplex ultrasound data. Computational fluid dynamic simulations were sequentially generated following computational stenosis assessment, and corresponding changes in OSI were observed and used as measure of morphological stabilization. Results: 6 carotid models showed progressive stenosis with statistically significant increases in regions of high OSI (OSI &gt;.2, P &lt; .05) with eventual carotid occlusion in 1 of the cases. Three models remained free or nearly free of increased OSI, whereas 1 model showed an overall decrease in high OSI regions (P &lt; .05) and another trended in that direction but did not achieve statistical significance (P = .145). Conclusions: To our knowledge, this is the first computational model describing progressive stenosis in any peripheral artery including the carotid. Taken together, this study provides a novel framework for computational hemodynamic investigations on progressive atherosclerosis in the carotid artery.
+
+Citation: Patalano P. An Oscillatory Shear Index-Based Model to Describe Progressive Carotid Artery Stenosis. An Oscillatory Shear Index-Based Model to Describe Progressive Carotid Artery Stenosis. 2023; 57:26-34. doi: 10.1177/15385744221116837
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36083843/

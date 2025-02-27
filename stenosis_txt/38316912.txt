@@ -1,0 +1,11 @@
+PMID: 38316912
+Title: Realtime monitoring of thrombus formation in vivo using a self-reporting vascular access graft.
+
+Abstract: BACKGROUND: Chronic kidney disease (CKD) affects 10% of the global population costing over a hundred billion dollars per annum and leading to increased risk of cardiovascular disease. Many patients with CKD require regular haemodialyses. Synthetic arteriovenous grafts (AVG) are increasingly used to provide rapid vascular connection for dialysis. Initially, they have excellent patency rates but are critically limited by neointimal hyperplasia at the venous anastomosis, which drives subsequent thrombosis, graft failure and death.
+METHODS: Here, we describe a system in which electrical impedance spectroscopy sensors are incorporated circumferentially into the wall of a synthetic arteriovenous graft. This is combined with an implantable radiotelemetry system for data transmission outside the patient. The system was tested using monolayers of endothelial and smooth muscle cells as well as swine blood and clots with explanted human carotid artery plaques. Sensor testing was then performed in vitro and the device was implanted in vivo in female swine.
+RESULTS: The device can wirelessly report the accumulation of biological material, both cells and blood. Differences are also detected when comparing controls with pathological atheroma. In swine differences between blockage formation in a graft were remotely obtained and wireless reported.
+CONCLUSIONS: Combining electrical impedance spectroscopy and an implantable radiotelemetry system enables graft surveillance. This has the potential to be used for early detection of venous stenosis and blood clot formation in real-time in vivo. In principle, the concept could apply to other cardiovascular diseases and vascular implantable devices.
+
+Citation: Hoare D, et al. Realtime monitoring of thrombus formation in vivo using a self-reporting vascular access graft. Realtime monitoring of thrombus formation in vivo using a self-reporting vascular access graft. 2024; 4:15. doi: 10.1038/s43856-024-00436-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38316912/

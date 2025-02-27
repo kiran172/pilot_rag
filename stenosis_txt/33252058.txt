@@ -1,0 +1,12 @@
+PMID: 33252058
+Title: Influence of bifurcation angle in left coronary artery with stenosis: A CFD analysis.
+
+Abstract: BACKGROUND: The left coronary artery commonly known as LCA gets divided into two branches, such as the left circumflex (LCX) and left anterior descending (LAD) at a particular angle. This angle is varies from person to person. The present computational study contributes remarkable expertise about the influence of this angle variation on the hemodynamic parameters in the presence of 80% area stenosis at the LAD branch.
+OBJECTIVE: This study aimed to compare the effect of the bifurcation angle on hemodynamic parameters in the left coronary artery with 80% stenosis.
+METHOD: Computational models of left coronary bifurcation angles of 30°, 60°, 90°, 120° were developed to understand the flow behavior of left coronary artery branches. The 80% area stenosis (AS) is considered at the LAD branch immediate to bifurcation.
+RESULTS: Measurements of pressure, velocity and wall shear stress were carried out corresponding to various bifurcation angles. It was found that the drop-in pressure increases as the angle increases from narrow to wider. A slight elevation in the velocity at the stenosis was observed. In addition, the obtained results further reveal a recirculation region immediately after the plaque, which leads to more deposition of plaque in the flow obstructed area. It is known that the shear stress at the arterial wall across the stenosis increases as the angle of bifurcation increases from narrow to wider.
+CONCLUSIONS: The bifurcation of the left coronary artery and size of the stenosis have a notable impact on the pressure and wall shear stress. These two factors should be given due consideration by cardiologists to assess the complexity of stenosis in the LCA branches.
+
+Citation: Kamangar S, et al. Influence of bifurcation angle in left coronary artery with stenosis: A CFD analysis. Influence of bifurcation angle in left coronary artery with stenosis: A CFD analysis. 2020; 31:339-349. doi: 10.3233/BME-201107
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33252058/

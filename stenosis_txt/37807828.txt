@@ -1,0 +1,11 @@
+PMID: 37807828
+Title: Diagnostic clinical prediction rules for categorising low back pain: A systematic review.
+
+Abstract: BACKGROUND: Low back pain (LBP) is a common complex condition, where specific diagnoses are hard to identify. Diagnostic clinical prediction rules (CPRs) are known to improve clinical decision-making. A review of LBP diagnostic-CPRs by Haskins et al. (2015) identified six diagnostic-CPRs in derivation phases of development, with one tool ready for implementation. Recent progress on these tools is unknown. Therefore, this review aimed to investigate developments in LBP diagnostic-CPRs and evaluate their readiness for implementation.
+METHODS: A systematic review was performed on five databases (Medline, Amed, Cochrane Library, PsycInfo, and CINAHL) combined with hand-searching and citation-tracking to identify eligible studies. Study and tool quality were appraised for risk of bias (Quality Assessment of Diagnostic Accuracy Studies-2), methodological quality (checklist using accepted CPR methodological standards), and CPR tool appraisal (GRade and ASsess Predictive).
+RESULTS: Of 5021 studies screened, 11 diagnostic-CPRs were identified. Of the six previously known, three have been externally validated but not yet undergone impact analysis. Five new tools have been identified since Haskin et al. (2015); all are still in derivation stages. The most validated diagnostic-CPRs include the Lumbar-Spinal-Stenosis-Self-Administered-Self-Reported-History-Questionnaire and Diagnosis-Support-Tool-to-Identify-Lumbar-Spinal-Stenosis, and the StEP-tool which differentiates radicular from axial-LBP.
+CONCLUSIONS: This updated review of LBP diagnostic CPRs found five new tools, all in the early stages of development. Three previously known tools have now been externally validated but should be used with caution until impact evaluation studies are undertaken. Future funding should focus on externally validating and assessing the impact of existing CPRs on clinical decision-making.
+
+Citation: Hill CJ, et al. Diagnostic clinical prediction rules for categorising low back pain: A systematic review. Diagnostic clinical prediction rules for categorising low back pain: A systematic review. 2023; 21:1482-1496. doi: 10.1002/msc.1816
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37807828/

@@ -1,0 +1,12 @@
+PMID: 33557606
+Title: Predictive Effect of Intervertebral Foramen Width on Pain Relief After ACDF for the Treatment of Cervical Radiculopathy.
+
+Abstract: STUDY DESIGN: Retrospective cohort study.
+OBJECTIVE: To investigate the relationship between the preoperative width of the intervertebral foramen (WIVF) and the pain relief in patients who underwent anterior cervical discectomy and fusion (ACDF) for the treatment of cervical radiculopathy.
+METHODS: Patients were divided into 2 groups based on pain relief status at the 6-month follow-up (pain relief group: 430 patients; persistent pain group: 108 patients). Possible factors such as age, sex, body mass index (BMI), the symptom duration, the preoperative Japanese Orthopedic Association (JOA) scores, the canal stenosis status, and the graft material were obtained. The C2-C7 Cobb angle, disc space, and width and height of the intervertebral foramen were measured on X-ray and CT 3-dimension reconstruction. Multivariate logistic regression was performed to identify the factors that affected pain relief. A receiver operating characteristic (ROC) curve was drawn for the predictive factors to determine the optimal threshold for foreseeing persistent pain.
+RESULTS: There were significant differences in the preoperative WIVF, symptom duration and ratio of disc space distraction between the 2 groups (each P &lt; 0.05). The regression model showed that pain relief was negatively affected by the symptom duration and ratio of disc space distraction. Besides, an increase in the preoperative width of the intervertebral foramen (WIVF) could significantly decrease the possibility of persistent pain. Based on the ROC curve, the optimal threshold of preoperative WIVF was 4.35 mm.
+CONCLUSION: When the preoperative WIVF is equal to or less than 4.35 mm, the possibility of the occurrence of postoperative persistent pain significantly increased.
+
+Citation: Sun B, et al. Predictive Effect of Intervertebral Foramen Width on Pain Relief After ACDF for the Treatment of Cervical Radiculopathy. Predictive Effect of Intervertebral Foramen Width on Pain Relief After ACDF for the Treatment of Cervical Radiculopathy. 2023; 13:133-139. doi: 10.1177/2192568221993444
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33557606/

@@ -1,0 +1,11 @@
+PMID: 37877538
+Title: Left ventricular reverse remodeling after transcatheter aortic valve replacement for predominant aortic stenosis and mixed aortic valve disease.
+
+Abstract: BACKGROUND: Mixed aortic valve disease (MAVD) is a frequent concomitant valve disease with unique cardiac pathological changes compared to predominant aortic stenosis (PAS). The previous studies about the MAVD are contradictory. Therefore, a new perspective is needed to assess the value of TAVR for this cohort of patients.
+METHODS: From January 2018 to December 2021, 90 MAVD patients and 72 PAS patients who underwent TAVR in our hospital were collected. 1:1 propensity score matching analysis was used to control the bias in patient selection. The dynamic changes in left ventricular morphology and hemodynamics were compared by generalized estimating equations. Univariate or multivariate logistic regression analysis was used to screen for independent risk factors for the non-occurrence of left ventricular reverse remodeling (non-LVRR).
+RESULTS: After the matching procedure, 112 patients were included in the analysis (56 in each group). Baseline characteristics were similar between the two groups. LVRR occurred in both groups, but MAVD had greater left ventricular end-diastolic volume index and left ventricular mass index, a higher incidence of mitral regurgitation (MR), and a more pronounced transformation of ventricular geometry patterns. Post-operative MR (odd ratio [OR]: 10.05; 95% confidence interval [CI]: 2.08-48.57; p < .001) and coronary artery disease (OR: 2.82; 95% CI: 1.08-7.34; p = .034) were independent risk factors for non-LVRR.
+CONCLUSION: LVRR also occurs in patients with MAVD, post-operative MR and coronary artery disease were independent risk factors for non-LVRR.
+
+Citation: Huang L, et al. Left ventricular reverse remodeling after transcatheter aortic valve replacement for predominant aortic stenosis and mixed aortic valve disease. Left ventricular reverse remodeling after transcatheter aortic valve replacement for predominant aortic stenosis and mixed aortic valve disease. 2023; 51:1453-1460. doi: 10.1002/jcu.23585
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37877538/

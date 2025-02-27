@@ -1,0 +1,13 @@
+PMID: 38224375
+Title: Prediction value of pericoronary fat attenuation index for coronary in-stent restenosis.
+
+Abstract: OBJECTIVES: As a novel imaging marker, pericoronary fat attenuation index (FAI) reflects the local coronary inflammation which is one of the major mechanisms for in-stent restenosis (ISR). We aimed to validate the ability of pericoronary FAI to predict ISR in patients undergoing percutaneous coronary intervention (PCI).
+MATERIALS AND METHODS: Patients who underwent coronary CT angiography (CCTA) before PCI within 1 week between January 2017 and December 2019 at our hospital and had follow-up invasive coronary angiography (ICA) or CCTA were enrolled. Pericoronary FAI was measured at the site where stents would be placed. ISR was defined as ≥ 50% diameter stenosis at follow-up ICA or CCTA in the in-stent area. Multivariable analysis using mixed effects logistic regression models was performed to test the association between pericoronary FAI and ISR at lesion level.
+RESULTS: A total of 126 patients with 180 target lesions were included in the study. During 22.5 months of mean interval time from index PCI to follow-up ICA or CCTA, ISR occurred in 40 (22.2%, 40/180) stents. Pericoronary FAI was associated with a higher risk of ISR (adjusted OR = 1.12, p = 0.028). The optimum cutoff was - 69.6 HU. Integrating the dichotomous pericoronary FAI into current state of the art prediction model for ISR improved the prediction ability of the model significantly (△area under the curve =  + 0.064; p = 0.001).
+CONCLUSION: Pericoronary FAI around lesions with subsequent stent placement is independently associated with ISR and could improve the ability of current prediction model for ISR.
+CLINICAL RELEVANCE STATEMENT: Pericoronary fat attenuation index can be used to identify the lesions with high risk for in-stent restenosis. These lesions may benefit from extra anti-inflammation treatment to avoid in-stent restenosis.
+KEY POINTS: • Pericoronary fat attenuation index reflects the local coronary inflammation. • Pericoronary fat attenuation index around lesions with subsequent stents placement can predict in-stent restenosis. • Pericoronary fat attenuation index can be used as a marker for future in-stent restenosis.
+
+Citation: Lu ZF, et al. Prediction value of pericoronary fat attenuation index for coronary in-stent restenosis. Prediction value of pericoronary fat attenuation index for coronary in-stent restenosis. 2024; 34:4950-4959. doi: 10.1007/s00330-023-10527-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38224375/

@@ -1,0 +1,11 @@
+PMID: 31939876
+Title: Computed Tomography Angiography Combined With Knowledge-Based Iterative Algorithm for Transcatheter Aortic Valve Implantation Planning: Image Quality and Radiation Dose Exposure With Low-kV and Low-Contrast-Medium Protocol.
+
+Abstract: OBJECTIVE: To evaluate image quality and radiation dose exposure of low-kV setting and low-volume contrast medium (CM) computed tomography angiography (CTA) protocol for transcatheter aortic valve implantation (TAVI) planning in comparison with standard CTA protocol.
+METHODS: Sixty-patients were examined with 256-row MDCT for TAVI planning: 32 patients (study group) were evaluated using 80-kV electrocardiogram-gated protocol with 60 mL of CM and IMR reconstruction; 28 patients underwent a standard electrocardiogram-gated CTA study (100 kV; 80 mL of CM; iDose4 reconstruction). Subjective and objective image quality was evaluated in each patient at different aortic levels. Finally, we collected radiation dose exposure data (CT dose index and dose-length product) of both groups.
+RESULTS: In study protocol, significant higher mean attenuation values were achieved in all measurements compared with the standard protocol. There were no significant differences in the subjective image quality evaluation in both groups. Mean dose-length product of study group was 56% lower than in the control one (P < 0.0001).
+CONCLUSION: Low-kV and low-CM volume CTA, combined with IMR, allows to correctly performing TAVI planning with high-quality images and significant radiation dose reduction compared with standard CTA protocol.
+
+Citation: Ippolito D, et al. Computed Tomography Angiography Combined With Knowledge-Based Iterative Algorithm for Transcatheter Aortic Valve Implantation Planning: Image Quality and Radiation Dose Exposure With Low-kV and Low-Contrast-Medium Protocol. Computed Tomography Angiography Combined With Knowledge-Based Iterative Algorithm for Transcatheter Aortic Valve Implantation Planning: Image Quality and Radiation Dose Exposure With Low-kV and Low-Contrast-Medium Protocol. 2020; 44:13-19. doi: 10.1097/RCT.0000000000000965
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31939876/

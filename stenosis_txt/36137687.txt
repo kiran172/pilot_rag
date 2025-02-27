@@ -1,0 +1,12 @@
+PMID: 36137687
+Title: Transvalvular Pressure Gradients and All-Cause Mortality Following TAVR: A Multicenter Echocardiographic and Invasive Registry.
+
+Abstract: BACKGROUND: Low ejection fraction (EF) and low flow as determined by an echocardiographic stroke volume index (SVi) &lt;35 mL/m2 are associated with low transvalvular gradients and increased mortality in both severe aortic stenosis (AS) and post-transcatheter aortic valve replacement (TAVR). Absence of an elevated echocardiographic transaortic gradient post-TAVR is considered a marker of procedural success despite the absence of data on its impact on mortality.
+OBJECTIVES: The authors sought to examine the association of invasive and echocardiographic gradients post-TAVR with all-cause mortality in relation to flow and EF.
+METHODS: In a multicenter retrospective registry of patients undergoing TAVR, Cox models with regression splines explored the relationship between invasive and echocardiographic gradients post-TAVR with 2-year mortality. An invasive gradient <5 mm Hg was considered low, between ≥5 and <10 mm Hg was considered intermediate, and ≥10 mm Hg was considered high. An echocardiographic gradient <10 mm Hg was considered low, ≥10 and <20 mm Hg was considered intermediate, and ≥20 mm Hg was considered high.
+RESULTS: Higher mortality occurred in low echocardiographic gradients at discharge relative to intermediate gradients (P < 0.001), and low gradient was associated with lower EF and echocardiographic SVi (P < 0.001 and P < 0.008, respectively). Lower mortality occurred in low invasive gradients relative to intermediate gradients (P = 0.012) with no difference in EF and echocardiographic SVi between groups (P = 0.089 and P = 0.947, respectively). There were insufficient observations to determine the impact of high echocardiographic and invasive gradients on mortality.
+CONCLUSIONS: In this large retrospective analysis, the impact of transaortic gradients on mortality after TAVR was not linear and complex, showing opposite results among echocardiographic and invasive measurements in low-gradient patients.
+
+Citation: Khalili H, et al. Transvalvular Pressure Gradients and All-Cause Mortality Following TAVR: A Multicenter Echocardiographic and Invasive Registry. Transvalvular Pressure Gradients and All-Cause Mortality Following TAVR: A Multicenter Echocardiographic and Invasive Registry. 2022; 15:1837-1848. doi: 10.1016/j.jcin.2022.07.033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36137687/

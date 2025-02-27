@@ -1,0 +1,11 @@
+PMID: 32613474
+Title: Transluminal attenuation gradient derived from coronary CT angiography to predict ischemia in SPECT myocardial perfusion imaging: Effect of coronary cross-sectional area.
+
+Abstract: BACKGROUND: Coronary computed tomography angiography (CCTA)-based transluminal attenuation gradient (TAG) was suggested to determine the functional significance of a stenosis. However, evidence that TAG acquired by wide-volume scanners can assess the hemodynamic significance of stenosis assessed by single-photon emission computed tomography (SPECT) myocardial perfusion imaging (MPI) is lacking. Moreover, coronary cross-sectional area may influence TAG. Hence, we aimed at assessing the diagnostic value of TAG to predict ischemia in SPECT-MPI and the correlation between TAG and the transluminal cross-sectional area gradient (TCG).
+METHODS: Patients undergoing CCTA and SPECT-MPI for suspected coronary artery disease were included. TAG and TCG were calculated measuring the mean vessel attenuation and the cross-sectional area along major coronary vessels at 5-mm intervals.
+RESULTS: A total of 255 coronary arteries of 87 patients were included. TAG and TCG did not discriminate between coronary arteries with or without ischemia as assessed by SPECT-MPI (p = .44 and p = .25, respectively). The area under the curve to predict ischemia was not increased by adding TAG (0.88, 95% CI 0.83-0.92) or TCG (0.87, 95% CI 0.81-0.90) to CCTA alone (0.85, 95% CI 0.80-0.89). There was a significant correlation between TAG and TCG (r = 0.43; p < .001).
+CONCLUSIONS: CCTA-derived TAG and TCG do not offer any value in predicting ischemia assessed by SPECT-MPI. TAG is partly affected by differences in the coronary luminal area.
+
+Citation: von Felten E, et al. Transluminal attenuation gradient derived from coronary CT angiography to predict ischemia in SPECT myocardial perfusion imaging: Effect of coronary cross-sectional area. Transluminal attenuation gradient derived from coronary CT angiography to predict ischemia in SPECT myocardial perfusion imaging: Effect of coronary cross-sectional area. 2022; 29:350-358. doi: 10.1007/s12350-020-02242-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32613474/

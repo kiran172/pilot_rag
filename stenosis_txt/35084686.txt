@@ -1,0 +1,11 @@
+PMID: 35084686
+Title: Three-dimensional echocardiography for predicting mitral stenosis after MitraClip for functional mitral regurgitation.
+
+Abstract: BACKGROUND: Postprocedural mitral stenosis (MS), or increased transmitral mean pressure gradient (TMPG), is one of the limitations of transcatheter edge-to-edge mitral valve repair using MitraClip (Abbott Vascular Inc., Santa Clara, USA); however, the usefulness of three-dimensional transesophageal echocardiography (3D-TEE) for predicting postprocedural MS in functional mitral regurgitation (MR) has not been fully elucidated.
+METHODS: Eighty-two consecutive functional MR patients who underwent transcatheter mitral valve repair using MitraClip were retrospectively studied. Postprocedural MS was defined as TMPG ≥ 5 mmHg by echocardiography.
+RESULTS: Ten patients had postprocedural MS, and 3D-TEE showed that patients with postprocedural MS had smaller preprocedural mitral valve orifice area (MVOA), anteroposterior and mediolateral diameter, leaflet area, and annulus area. Receiver operating characteristic analysis showed that leaflet area (area under the curve (AUC) 0.829), annulus area (AUC 0.813), anteroposterior diameter (AUC 0.797) and mediolateral diameter (AUC 0.803) evaluated using 3D-TEE were predictors of postprocedural MS, and their predictive abilities were higher than those of preprocedural MVOA (AUC 0.756) and preprocedural TMPG (AUC 0.716). Adding leaflet area to TMPG and MVOA resulted in higher C-statistics for predicting postprocedural MS (from 0.716 to 0.845 and from 0.756 to 0.853, respectively).
+CONCLUSIONS: In functional MR patients treated with MitraClip, leaflet area and annulus area evaluated using 3D-TEE had high predictive values for postprocedural MS, and their predictive abilities were higher than those of preprocedural TMPG or MVOA.
+
+Citation: Kato Y, et al. Three-dimensional echocardiography for predicting mitral stenosis after MitraClip for functional mitral regurgitation. Three-dimensional echocardiography for predicting mitral stenosis after MitraClip for functional mitral regurgitation. 2022; 20:151-158. doi: 10.1007/s12574-022-00564-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35084686/

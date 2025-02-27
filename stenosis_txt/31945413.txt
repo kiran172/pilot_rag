@@ -1,0 +1,11 @@
+PMID: 31945413
+Title: LncRNA AFAP1-AS1 promotes osteoblast differentiation of human aortic valve interstitial cells through regulating miR-155/SMAD5 axis.
+
+Abstract: AIM: Degenerative calcific aortic valve disease (DCAVD) is a common valve disease characterized by massive calcium deposits in the aortic valve. Osteoblast differentiation of valve interstitial cells (VICs) is responsible for the formation of calcific nodules. This study aims to explore the function and underlying mechanism of long non-coding RNA (lncRNA) AFAP1-AS1 (actin filament-associated protein 1 antisense RNA 1) in the pathogenesis of DCAVD.
+METHODS: AFAP1-AS1, miR-155 and mRNA levels were detected by qRT-PCR. Protein levels were measured by Western blot. Calcification deposition was examined by Alizarin Red staining. The interaction between AFAP1-AS1 and miR-155, as well as miR-155 and SMAD5 was evaluated using luciferase reporter assay.
+RESULTS: AFAP1-AS1 expression was increased both in calcified aortic valves from DCAVD patients and after osteogenic induction in human VICs. Furthermore, AFAP1-AS1 overexpression promoted osteogenic differentiation of VICs, whereas AFAP1-AS1 knockdown inhibited osteogenic differentiation. Mechanistically, AFAP1-AS1 acted as a sponge for miR-155 to elevate SMAD5 expression. Further functional assays revealed that miR-155 mimic and SMAD5 silencing effectively reversed AFAP1-AS1-promoted osteogenic differentiation of VICs.
+CONCLUSION: Collectively, AFAP1-AS1 promotes osteogenic differentiation of VICs, at least in part, by sponging miR-155 to upregulate SMAD5. This study sheds new light on lncRNA-directed therapeutics in DCAVD.
+
+Citation: He W, et al. LncRNA AFAP1-AS1 promotes osteoblast differentiation of human aortic valve interstitial cells through regulating miR-155/SMAD5 axis. LncRNA AFAP1-AS1 promotes osteoblast differentiation of human aortic valve interstitial cells through regulating miR-155/SMAD5 axis. 2020; 50:101509. doi: 10.1016/j.mcp.2020.101509
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31945413/

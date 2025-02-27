@@ -1,0 +1,11 @@
+PMID: 38955594
+Title: Prediction of Anastomotic Leakage in Esophageal Cancer Surgery: A Multimodal Machine Learning Model Integrating Imaging and Clinical Data.
+
+Abstract: RATIONALE AND OBJECTIVES: Surgery in combination with chemo/radiotherapy is the standard treatment for locally advanced esophageal cancer. Even after the introduction of minimally invasive techniques, esophagectomy carries significant morbidity and mortality. One of the most common and feared complications of esophagectomy is anastomotic leakage (AL). Our work aimed to develop a multimodal machine-learning model combining CT-derived and clinical data for predicting AL following esophagectomy for esophageal cancer.
+MATERIAL AND METHODS: A total of 471 patients were prospectively included (Jan 2010-Dec 2022). Preoperative computed tomography (CT) was used to evaluate celia trunk stenosis and vessel calcification. Clinical variables, including demographics, disease stage, operation details, postoperative CRP, and stage, were combined with CT data to build a model for AL prediction. Data was split into 80%:20% for training and testing, and an XGBoost model was developed with 10-fold cross-validation and early stopping. ROC curves and respective areas under the curve (AUC), sensitivity, specificity, PPV, NPV, and F1-scores were calculated.
+RESULTS: A total of 117 patients (24.8%) exhibited post-operative AL. The XGboost model achieved an AUC of 79.2% (95%CI 69%-89.4%) with a specificity of 77.46%, a sensitivity of 65.22%, PPV of 48.39%, NPV of 87.3%, and F1-score of 56%. Shapley Additive exPlanation analysis showed the effect of individual variables on the result of the model. Decision curve analysis showed that the model was particularly beneficial for threshold probabilities between 15% and 48%.
+CONCLUSION: A clinically relevant multimodal model can predict AL, which is especially valuable in cases with low clinical probability of AL.
+
+Citation: Klontzas ME, et al. Prediction of Anastomotic Leakage in Esophageal Cancer Surgery: A Multimodal Machine Learning Model Integrating Imaging and Clinical Data. Prediction of Anastomotic Leakage in Esophageal Cancer Surgery: A Multimodal Machine Learning Model Integrating Imaging and Clinical Data. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.acra.2024.06.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38955594/

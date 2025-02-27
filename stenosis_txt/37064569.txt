@@ -1,0 +1,12 @@
+PMID: 37064569
+Title: Laparoscopic ureterolithotomy versus percutaneous nephrolithotomy for large proximal ureteral stones: a systematic review and meta-analysis.
+
+Abstract: INTRODUCTION: Both percutaneous nephrolithotomy (PCNL) and laparoscopic ureterolithotomy (LU) are effective treatment options for large proximal ureteral stones.
+AIM: To perform a meta-analysis on this topic to assess the efficacy, safety, and potential complications of the two procedures.
+MATERIAL AND METHODS: A systematic literature search was performed using PubMed, Ovid and Scopus to identify eligible suitable studies until May 2022. All studies comparing LU vs PCNL in large proximal ureteral stones were included. The Cochrane Collaboration's Review Manager (RevMan) 5.4 software was used to analyze statistical significance.
+RESULTS: A total of nine publications involving 933 patients (LU 465; PCNL 468) were included, of which 4 were randomized control trails (RCTs) and 5 were non-RCTs. The meta-analysis of available data showed that compared with PCNL, LU had a higher initial stone-free rate (OR = 3.26; p = 0.004), but longer operative time (WMD = 35.08 min; p = 0.0003). However, the final stone-free rate (OR = 2.08; p = 0.07) and length of hospital stay (WMD = 0.32 d; p = 0.48) were comparable between the two groups. Meanwhile, LU had a lower transfusion rate (OR = 0.13; p = 0.007) than PCNL. There was no significant difference in terms of complications (OR = 0.97; p = 0.84), Clavien-Dindo score ≥ 3 complications (OR = 1.03; p = 0.93), auxiliary procedures (OR = 0.44; p = 0.08), or ureteral stenosis (OR = 0.24; p = 0.13) between LU and PCNL.
+CONCLUSIONS: Our meta-analysis revealed that LU is a safe and feasible option for large proximal ureteral stones with a higher initial stone-free rate and lower transfusion rate compared with PCNL.
+
+Citation: Chang X, et al. Laparoscopic ureterolithotomy versus percutaneous nephrolithotomy for large proximal ureteral stones: a systematic review and meta-analysis. Laparoscopic ureterolithotomy versus percutaneous nephrolithotomy for large proximal ureteral stones: a systematic review and meta-analysis. 2023; 18:42-51. doi: 10.5114/wiitm.2022.119776
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37064569/

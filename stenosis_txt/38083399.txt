@@ -1,0 +1,8 @@
+PMID: 38083399
+Title: Context-aware deep network for coronary artery stenosis classification in coronary CT angiography.
+
+Abstract: Automatic coronary artery stenosis grading plays an important role in the diagnosis of coronary artery disease. Due to the difficulty of learning the informative features from varying grades of stenosis, it is still a challenging task to identify coronary artery stenosis from coronary CT angiography (CCTA). In this paper, we propose a context-aware deep network (CADN) for coronary artery stenosis classification. The proposed method integrates 3D CNN with Transformer to improve the feature representation of coronary artery stenosis in CCTA. We evaluate the proposed method on a multicenter dataset (APOLLO study with NCT05509010). Experimental results show that our proposed method can achieve the accuracy of 0.84, 0.83, and 0.86 for stenosis diagnosis on the lesion, artery, and patient levels, respectively.
+
+Citation: Wang X, et al. Context-aware deep network for coronary artery stenosis classification in coronary CT angiography. Context-aware deep network for coronary artery stenosis classification in coronary CT angiography. 2023; 2023:1-4. doi: 10.1109/EMBC40787.2023.10340650
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38083399/

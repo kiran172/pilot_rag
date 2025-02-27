@@ -1,0 +1,11 @@
+PMID: 37185015
+Title: Carotid Plaque Diagnosis With 3-Dimensional Computed Tomography Angiography: A Comparison With Magnetic Resonance Imaging-Based Plaque Diagnosis.
+
+Abstract: OBJECTIVE: Although a qualitative diagnosis of plaque causing carotid stenosis has been attempted with carotid computed tomography angiography (CaCTA), no clear findings have been reported. We examined the correlation between the plaque CT values and plaque images obtained by magnetic resonance imaging to derive a qualitative diagnosis of the plaque using CaCTA.
+METHODS: Preoperative CaCTA images acquired from patients stented for carotid stenosis were retrospectively analyzed with respect to magnetization-prepared rapid acquisition with gradient echo and time-of-flight magnetic resonance angiography data. Carotid plaques in the stenosed region were quantified in terms of CT density and the plaque/muscle ratio (magnetization-prepared rapid acquisition with gradient echo), and correlations between these 2 features were determined. Plaques were classified as stable or unstable based on the plaque/muscle ratio, with the smallest plaque/muscle ratio observed among plaques positive for intraplaque hemorrhage set as the cutoff value (1.76).
+RESULTS: A total of 165 patients (179 plaques) were included. Perioperative complications included minor stroke (n = 3), major stroke (n = 1, fatal), and hyperperfusion (n = 2). The correlation between CT density and the plaque/muscle ratio was nonlinear ( P = 0.0139) and negative ( P < 0.0001). The cutoff point (1.76) corresponded to a CT density of 83 HU, supporting this value as a standard reference for plaque stability.
+CONCLUSIONS: Computed tomography density exhibits a nonlinear ( P = 0.0139) and highly negative correlation ( P < 0.0001) with the plaque/muscle ratio. Our results demonstrate that plaque characteristics can be meaningfully diagnosed based on CaCTA image data.
+
+Citation: Omi T, et al. Carotid Plaque Diagnosis With 3-Dimensional Computed Tomography Angiography: A Comparison With Magnetic Resonance Imaging-Based Plaque Diagnosis. Carotid Plaque Diagnosis With 3-Dimensional Computed Tomography Angiography: A Comparison With Magnetic Resonance Imaging-Based Plaque Diagnosis. 2023; 47:488-493. doi: 10.1097/RCT.0000000000001416
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37185015/

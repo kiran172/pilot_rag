@@ -1,0 +1,11 @@
+PMID: 37529906
+Title: Echocardiographic measured shunt velocity does not predict pulmonary blood flow in patients with Blalock-Thomas-Taussig shunt.
+
+Abstract: INTRODUCTION: Catheterisation is the gold standard used to evaluate pulmonary blood flow in patients with a Blalock-Thomas-Taussig shunt. It involves risk and cannot be performed frequently. This study aimed to evaluate if echocardiographic measurements obtained in a clinical setting correlate with catheterisation-derived pulmonary blood flow in patients with a Blalock-Thomas-Taussig shunt as the sole source of pulmonary blood flow.
+METHODS: Chart review was performed retrospectively on consecutive patients referred to the catheterisation lab with a Blalock-Thomas-Taussig shunt. Echocardiographic parameters included peak, mean, and diastolic gradients across the Blalock-Thomas-Taussig shunt and forward and reverse velocity time integral across the distal transverse aorta. In addition to direct correlations, we tested a previously published formula for pulmonary blood flow calculated as velocity time integral across the shunt × heart rate × Blalock-Thomas-Taussig shunt area. Catheterisation parameters included pulmonary and systemic blood flow as calculated by the Fick principle.
+RESULTS: 18 patients were included. The echocardiography parameters and oxygen saturation did not correlate with catheterisation-derived pulmonary blood flow, systemic blood flow, or the ratio of pulmonary to systemic blood flow. As the ratio of reverse to forward velocity time integral across the transverse aorta increased, the probability of shunt stenosis decreased.
+CONCLUSION: Echocardiographic measurements obtained outside the catheterisation lab do not correlate with catheterisation-derived pulmonary blood flow. The ratio of reverse to forward velocity time integral across the transverse aortic arch may be predictive of Blalock-Thomas-Taussig shunt narrowing; this finding should be investigated further.
+
+Citation: Tucker S, et al. Echocardiographic measured shunt velocity does not predict pulmonary blood flow in patients with Blalock-Thomas-Taussig shunt. Echocardiographic measured shunt velocity does not predict pulmonary blood flow in patients with Blalock-Thomas-Taussig shunt. 2024; 34:535-539. doi: 10.1017/S104795112300269X
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37529906/

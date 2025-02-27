@@ -1,0 +1,11 @@
+PMID: 32737113
+Title: DAPSA, carotid plaque and cardiovascular events in psoriatic arthritis: a longitudinal study.
+
+Abstract: OBJECTIVE: To examine whether Disease Activity in Psoriatic Arthritis (DAPSA) reflecting the inflammatory component of psoriatic arthritis (PsA) can predict cardiovascular (CV) events independent of traditional CV risk factors and subclinical carotid atherosclerosis.
+METHODS: A cohort analysis was performed in patients with PsA who had been followed since 2006. The outcome of interest was first CV event. Four different CV disease (CVD) risk scores and DAPSA were computed at baseline. The presence of carotid plaque (CP) and carotid intima-media thickness (CIMT) was also determined in a subgroup of patients using high-resolution ultrasound. The association between DAPSA, CVD risk scores, CP, CIMT and the occurrence of CV events was assessed using Cox proportional hazard models.
+RESULTS: 189 patients with PsA (mean age: 48.9 years; male: 104 (55.0%)) were recruited. After a median follow-up of 9.9 years, 27 (14.3%) patients developed a CV event. Higher DAPSA was significantly associated with an increased risk of developing CV events (HR: 1.04, 95% CI (1.01 to 1.08), p=0.009). The association remained significant after adjusting for all CV risk scores in the multivariable models. In the subgroup analysis, 154 patients underwent carotid ultrasound assessment and 23 (14.9%) of them experienced a CV event. CP was associated with increased risk of developing CV events after adjusting for three CV risk scores and DAPSA, with HR ranging from 2.35 to 3.42.
+CONCLUSION: Higher DAPSA and the presence of CP could independently predict CVD events in addition to traditional CV risk scores in patients with PsA.
+
+Citation: Lam SHM, et al. DAPSA, carotid plaque and cardiovascular events in psoriatic arthritis: a longitudinal study. DAPSA, carotid plaque and cardiovascular events in psoriatic arthritis: a longitudinal study. 2020; 79:1320-1326. doi: 10.1136/annrheumdis-2020-217595
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32737113/

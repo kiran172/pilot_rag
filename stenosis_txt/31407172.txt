@@ -1,0 +1,11 @@
+PMID: 31407172
+Title: Short-Term Outcomes of Laparoscopic and Open Total Gastrectomy for Gastric Cancer: A Nationwide Retrospective Cohort Analysis.
+
+Abstract: BACKGROUND: Laparoscopic total gastrectomy is gradually gaining popularity; however, previous studies have produced conflicting results regarding the safety and advantages of the procedure, partly because of small sample sizes. The purpose of this study was to compare short-term outcomes between laparoscopic and open total gastrectomy for gastric cancer.
+METHODS: We analyzed data for patients undergoing laparoscopic or open total gastrectomy for clinical stage I-III gastric cancer from July 2010 to March 2017, using a Japanese nationwide inpatient database. We performed propensity-matched analyses to compare in-hospital mortality, morbidity, duration of anesthesia, time to first oral intake, and length of postoperative stay between the two groups.
+RESULTS: Among 58,689 eligible patients, propensity-score matching created 12,229 pairs. Laparoscopic total gastrectomy was associated with higher incidences of anastomotic leakage (2.9% vs. 1.7%, p < 0.001) and stenosis (0.9% vs. 0.6%, p = 0.02), lower incidences of pancreatic injury (1.4% vs. 1.8%, p = 0.01), endoscopic hemostasis (0.9% vs. 1.7%, p < 0.001), blood transfusion (9.9% vs. 17.7%, p < 0.001) and 30-day readmission, a shorter interval from surgery to first oral intake (4 vs. 5 days, p < 0.001), shorter postoperative hospital stay (14 vs. 15 days, p < 0.001), and a longer duration of anesthesia (323 vs. 304 min, p < 0.001). There was no significant difference in in-hospital mortality (0.6% vs. 0.8%, p = 0.58).
+CONCLUSIONS: Laparoscopic total gastrectomy has some advantages over open surgery for gastric cancer in terms of time to first oral intake and postoperative length of stay, but the incidence of anastomotic leakage was higher than that of open total gastrectomy.
+
+Citation: Sakamoto T, et al. Short-Term Outcomes of Laparoscopic and Open Total Gastrectomy for Gastric Cancer: A Nationwide Retrospective Cohort Analysis. Short-Term Outcomes of Laparoscopic and Open Total Gastrectomy for Gastric Cancer: A Nationwide Retrospective Cohort Analysis. 2020; 27:518-526. doi: 10.1245/s10434-019-07688-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31407172/

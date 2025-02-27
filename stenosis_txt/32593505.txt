@@ -1,0 +1,11 @@
+PMID: 32593505
+Title: Poor Survival with Impaired Valvular Hemodynamics After Aortic Valve Replacement: The National Echo Database Australia Study.
+
+Abstract: BACKGROUND: There are limited data to describe the relationship between the transvalvular gradient and mortality among patients who undergo aortic valve replacement.
+METHODS: Using the National Echo Database Australia, valvular hemodynamics were characterized in 3,943 men (mean age, 62 ± 18 years) and 2,107 women (mean age, 62 ± 19 years) who underwent aortic valve replacement (median follow-up duration, 770 days; interquartile range, 381-1,584 days). The degree of impaired valvular hemodynamics (IVH) was categorized as mild (mean gradient 10.0-19.9 mm Hg, peak velocity 2.0-2.9 m/sec), moderate (mean gradient 20.0-39.9 mm Hg, peak velocity 3.0-3.9 m/sec), or severe (mean gradient ≥ 40.0 mm Hg, peak velocity ≥ 4 m/sec or effective orifice area &lt; 0.8 cm2).
+RESULTS: Overall, 2,175 (36.0%), 2,598 (42.9%), 698 (11.5%), and 579 (9.6%) patients had no, mild, moderate, and severe IVH, respectively. Those with residual moderate or severe IVH had 5-year mortality of 45.5% and 57.3%, respectively, and higher adjusted long-term all-cause mortality (adjusted hazard ratios, 1.44 and 2.02; P < .001) compared with "no IVH." Patients with mild IVH had similar mortality rates to those without IVH. A mortality threshold was evident above a mean transvalvular gradient >22.5 mm Hg after adjusting for age, sex, stroke volume index, aortic regurgitation, and effective orifice area.
+CONCLUSIONS: After aortic valve replacement, most patients displayed an acceptable aortic valve hemodynamic profile. Moderate to severe IVH, however, was associated with poor long-term survival, with a threshold for increased mortality similar to that of native valvular aortic stenosis evident.
+
+Citation: Playford D, et al. Poor Survival with Impaired Valvular Hemodynamics After Aortic Valve Replacement: The National Echo Database Australia Study. Poor Survival with Impaired Valvular Hemodynamics After Aortic Valve Replacement: The National Echo Database Australia Study. 2020; 33:1077-1086.e1. doi: 10.1016/j.echo.2020.04.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32593505/

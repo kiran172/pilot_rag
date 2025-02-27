@@ -1,0 +1,11 @@
+PMID: 39229382
+Title: Lipid on stroke in intracranial artery atherosclerotic stenosis: a mediation role of glucose.
+
+Abstract: OBJECTIVE: Expanding on previous investigations, this study aims to elucidate the role of lipid metabolism disorders in the development of intracranial atherosclerotic stenosis (ICAS) and the determination of stroke risk. The primary objective is to explore the connections between lipid parameters and acute ischemic stroke (AIS), while also examining the potential mediating influence of fasting glucose levels.
+METHODS: Retrospectively, we collected data from symptomatic ICAS patients at the First Affiliated Hospital of Soochow University, including their baseline information such as medical histories and admission blood biochemical parameters. Stenotic conditions were evaluated using magnetic resonance imaging, computed tomography angiography, or digital subtraction angiography. The associations between lipid parameters and AIS risks were investigated via multivariate logistic regression analysis.
+RESULTS: A total of 1103 patients with symptomatic ICAS were recruited, among whom 441 (40.0%) suffered new ischemic events during hospitalization. After adjusting for confounding factors, the RCS curves exhibited a dose-response relationship between the atherogenic index of plasma (AIP), total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), and AIS. Further multivariate analysis revealed significant associations between these parameters and AIS. Furthermore, mediation analysis indicated that fasting blood glucose (FBG) acted as a mediator in the association between lipid parameters (AIP, TC, and TG) and AIS.
+CONCLUSION: Higher lipid parameters in ICAS patients, particularly AIP, TC, and TG, were associated with an increased AIS risk. Additionally, FBG may mediate stroke risk in ICAS patients, highlighting the need for further exploration of underlying mechanisms.
+
+Citation: Li S, et al. Lipid on stroke in intracranial artery atherosclerotic stenosis: a mediation role of glucose. Lipid on stroke in intracranial artery atherosclerotic stenosis: a mediation role of glucose. 2024; 15:1322114. doi: 10.3389/fendo.2024.1322114
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39229382/

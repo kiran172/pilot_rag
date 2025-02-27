@@ -1,0 +1,11 @@
+PMID: 32103376
+Title: Development and internal validation of a diagnostic score for gastric linitis plastica.
+
+Abstract: BACKGROUND: There is no consensual definition for gastric linitis plastica (GLP). We aim to construct a diagnostic score to distinguish this rare tumor from usual gastric adenocarcinomas.
+METHODS: In this retrospective study, all patients who had gastrectomy for cancer between 2007 and 2017 in French tertiary centers were included. The outcome was a diagnosis of GLP based on pathological review of the surgical specimen. The diagnostic score was created by using variables that were most frequently associated with GLP using penalized logistic regression on multiply imputed datasets. We used discrimination measures to assess the performances of the score. Internal validation was performed using bootstrapping methods to correct for over-optimism.
+RESULTS: 220 patients including 71 linitis plastica (female 49%, median age 57 years) were analyzed. The six parameters retained in the diagnosis score were the presence of large folds and/or parietal thickening on at least one segment, pangastric infiltration and presence of gastric stenosis on the upper endoscopy, circumferential thickening on at least one segment and thickening of the third hyperechogenic layer on endoscopic ultrasound and the presence of signet ring cells on endoscopic biopsies. The area under the ROC curve (AUC) was 0.967 with a sensitivity of 94% [89.9-97.3] and a specificity of 88.7% [81.7-95.8] for a threshold of 2.75. After internal validation, the corrected AUC was 0.959.
+CONCLUSION: It is the first study validating a pre-therapeutic diagnostic score (Saint Louis linitis score) with an excellent ability to discriminate GLP from non-GLP adenocarcinomas. An external validation is necessary to confirm our data.
+
+Citation: Vivier-Chicoteau J, et al. Development and internal validation of a diagnostic score for gastric linitis plastica. Development and internal validation of a diagnostic score for gastric linitis plastica. 2020; 23:639-647. doi: 10.1007/s10120-020-01051-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32103376/

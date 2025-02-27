@@ -1,0 +1,12 @@
+PMID: 39308404
+Title: Correlation between common iliac vein geometry and the risk of deep vein thrombosis in patients with May-Thurner syndrome.
+
+Abstract: BACKGROUND: May-Thurner syndrome (MTS) is a continuous pathological change of the left common iliac vein intraluminal wall due to compression between the right common iliac artery and a lumbar vertebra, with clinical signs of compromised venous drainage of the left leg, which eventually leads to development of left-sided deep vein thrombosis (DVT).
+PURPOSE: To analyze the correlation between iliac vessel geometry and probability of DVT in patients with MTS.
+MATERIAL AND METHODS: This study consists of two age-matched female groups: DVT (n = 21) and control (n = 28). Iliac vein geometry, including left common iliac vein (LCIV) diameter, percentage of stenosis, angle between LCIV and right common iliac vein (RCIV), tilt angle of each CIV with horizontal line, and crossing angle between right common iliac artery (RCIA) and LCIV, were measured on computed tomography venography (CTV) images. The probability of DVT development was assessed using logistic regression.
+RESULTS: Comparing the DVT and control groups, the mean LCIV diameter was 2.4 mm and 3.7 mm (P = 0.001), and mean LCIV stenosis was 77.7% and 68.3% (P = 0.001), respectively. After age-adjustment, the odds of left DVT in patients with MTS correlated with LCIV diameter (odds ratio [OR]=0.25, P &lt; 0.001, 95% confidence interval [CI]=0.11-0.54), LCIV stenosis (%) (OR=1.12, P = 0.003, 95% CI=1.04-1.21), LCIV tilt angle (OR=0.95, P &lt; 0.038, 95% CI=0.91-0.99), and angle between two CIVs (OR=1.04, P &lt; 0.039, 95% CI=1.00-1.09).
+CONCLUSION: LCIV diameter and percentage of stenosis, LCIV tilt angle, and CIV angle were independent risk factors for the development of DVT in patients with MTS.
+
+Citation: Ngo DHA, et al. Correlation between common iliac vein geometry and the risk of deep vein thrombosis in patients with May-Thurner syndrome. Correlation between common iliac vein geometry and the risk of deep vein thrombosis in patients with May-Thurner syndrome. 2024; 65:1447-1453. doi: 10.1177/02841851241282084
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39308404/

@@ -1,0 +1,13 @@
+PMID: 34747910
+Title: PROMIS Scores Should Not be Used in Isolation to Measure Outcomes in Lumbar Stenosis Patients.
+
+Abstract: STUDY DESIGN: Retrospective cross-sectional analysis.
+OBJECTIVE: The aim of this study was to establish the strength of relationship between the Patient-reported Outcomes Measurement Information System (PROMIS) Adult Depression (AD), Physical Function (PF), and Pain Interference (PI) with the Swiss Spinal Stenosis Questionnaire (SSSQ) in assessing lumbar spinal stenosis (LSS).
+SUMMARY OF BACKGROUND DATA: In 2009, there were >35,000 surgeries for LSS, which amounted to $1.65 billion in health care cost. By 2021, there will be >2.4 million people in the United States with symptomatic LSS. There is an increasing emphasis on patient-reported outcomes (PROs) to define value in medicine. Therefore, it would be beneficial to compare PROMIS, a universal PRO, against the SSSQ, the "criterion standard" for assessing LSS.
+METHODS: Eighty-two patients with LSS completing the PROMIS and SSSQ were enrolled. Per existing institutional protocol, PROMIS AD, PF, and PI were completed at every clinic visit. Linear regression analysis was then performed to evaluate how well the SSSQ and PROMIS scores correlated to each other.
+RESULTS: When linear regression was performed for pre-treatment values, the R2 value for the SSSQ PF versus PROMIS PF was 0.14 (P = 0.0008), whereas the R2 value for the SSSQ symptom severity versus PROMIS PI was 0.03 (P = 0.13). The R2 value for the combined SSSQ physical function and symptom severity versus PROMIS AD was 0.07 (P = 0.02). When post-treatment SSSQ satisfaction scores were correlated to postoperative PROMIS AD, PI, and PF scores, the R2 values for a good linear fit were 0.13, 0.25, and 0.18 respectively (P values: 0.01, 0.003, and 0.003).
+CONCLUSION: Pre-treatment PROMIS scores do not adequately capture the disease-specific impact of spinal stenosis, but postoperative PROMIS scores better reflect outcomes after surgery for LSS. PROMIS scores should not be used in isolation to assess outcomes in patients with LSS.Level of Evidence: 4.
+
+Citation: Phan A, et al. PROMIS Scores Should Not be Used in Isolation to Measure Outcomes in Lumbar Stenosis Patients. PROMIS Scores Should Not be Used in Isolation to Measure Outcomes in Lumbar Stenosis Patients. 2021; 46:E1262-E1268. doi: 10.1097/BRS.0000000000004092
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34747910/

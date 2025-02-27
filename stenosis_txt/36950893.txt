@@ -1,0 +1,12 @@
+PMID: 36950893
+Title: Implantation of contemporary transcatheter aortic valves in small aortic annuli: the international multicentre TAVI-SMALL 2 registry.
+
+Abstract: BACKGROUND: Treatment of aortic stenosis in patients with small annuli is challenging and can result in prosthesis-patient mismatch (PPM).
+AIMS: We aimed to compare the forward flow haemodynamics and clinical outcomes of contemporary transcatheter valves in patients with small annuli.
+METHODS: The TAVI-SMALL 2 international retrospective registry included 1,378 patients with severe aortic stenosis and small annuli (annular perimeter &lt;72 mm or area &lt;400 mm2) treated with transfemoral self-expanding (SEV; n=1,092) and balloon-expandable valves (BEV; n=286) in 16 high-volume centres between 2011 and 2020. Analyses comparing SEV versus BEV and supra-annular (SAV; n=920) versus intra-annular valves (IAV; n=458) included inverse probability of treatment weighting (IPTW). The primary endpoints were the predischarge mean aortic gradient and incidence of severe PPM. The secondary endpoint was the incidence of more than mild paravalvular leak (PVL).
+RESULTS: The predischarge mean aortic gradient was lower after SAV versus IAV (7.8±3.9 vs 12.0±5.1; p<0.001) and SEV versus BEV implantation (8.0±4.1 vs 13.6±4.7; p<0.001). Severe PPM was more common with IAV and BEV when compared to SAV and SEV implantation, respectively, (8.8% vs 3.6%; p=0.007 and 8.7% vs 4.6%; p=0.041). At multivariable logistic regression weighted by IPTW, SAV protected from severe PPM regardless of its definition. More than mild PVL occurred more often with SEV versus BEV (11.6% vs 2.6%; p<0.001).
+CONCLUSIONS: In small aortic annuli, implantation of SAV and SEV was associated with a more favourable forward haemodynamic profile than after IAV and BEV implantation, respectively. More than mild PVL was more common after SEV than BEV implantation.
+
+Citation: Leone PP, et al. Implantation of contemporary transcatheter aortic valves in small aortic annuli: the international multicentre TAVI-SMALL 2 registry. Implantation of contemporary transcatheter aortic valves in small aortic annuli: the international multicentre TAVI-SMALL 2 registry. 2023; 19:256-266. doi: 10.4244/EIJ-D-22-00843
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36950893/

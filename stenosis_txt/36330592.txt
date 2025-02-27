@@ -1,0 +1,11 @@
+PMID: 36330592
+Title: Predicting progression of aortic stenosis by measuring serum calcification propensity.
+
+Abstract: BACKGROUND: The aim of this prospective, double-blinded study in patients with aortic sclerosis was to determine whether a new calcification propensity measure in the serum could predict disease progression.
+METHODS: We included 129 consecutive patients with aortic sclerosis as assessed during a routine clinical echocardiographic exam. Clinical, echocardiographic, and serum laboratory parameters were collected, including a new blood test providing an overall measure of calcification propensity by monitoring the maturation time of calciprotein particles (T50 test). The echocardiographic exam was repeated after 1 year. Multiple regression analysis was performed to identify independent predictors of the annual increase of peak transvalvular Doppler velocity (∆vmax). Furthermore, the accuracy of the T50 test to detect patients with the most marked stenosis progression was assessed by receiver operating characteristic (ROC)-analysis.
+RESULTS: Mean age was 75 ± 9 years, 79% were men. The T50 was 271 ± 58 min. Overall, there was no significant stenosis progression between baseline and follow-up (∆vmax 3.8 ± 29.8 cm/s, p = ns). The T50 test was not found to be an independent linear predictor in multivariate testing. By ROC-analysis, however, a T50-value ≤ 242 min was able to significantly detect a ∆vmax above the 90th percentile (∆vmax ≥ 43 cm/s, AUC = 0.67, p = .04, Sensitivity = 69%, Specificity = 70%).
+CONCLUSIONS: The T50 test showed a modest but significant ability to identify a pronounced aortic stenosis progression in patients with aortic sclerosis. The test could not be established as an independent linear predictor of disease progression, possibly due to the low valvular disease burden and short follow-up interval.
+
+Citation: Kurmann R, et al. Predicting progression of aortic stenosis by measuring serum calcification propensity. Predicting progression of aortic stenosis by measuring serum calcification propensity. 2022; 45:1297-1302. doi: 10.1002/clc.23922
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36330592/

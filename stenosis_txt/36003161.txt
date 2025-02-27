@@ -1,0 +1,11 @@
+PMID: 36003161
+Title: Inflammatory and immune checkpoint markers are associated with the severity of aortic stenosis.
+
+Abstract: OBJECTIVE: Aortic stenosis (AS) is a disease characterized by narrowing of the aortic valve (AV) orifice. In relation to this disease, the purpose of this study was to elucidate the relationships among factors such as expression of programmed cell death-1 ligand (PD-L1, which is the ligand of PD-1 protein; together, they play a central role in the inhibition of T lymphocyte function), clinicopathologic characteristics, infiltrating immune cells, and disease severity.
+METHODS: We performed immunohistochemical analysis on the surgically-resected AVs of 53 patients with AS. We used the resultant data to identify relationships among PD-L1 expression, disease severity, and the infiltration of immune cells including cluster of differentiation (CD8)-positive T lymphocytes, cluster of differentiation 163 (CD163)-positive macrophages, and forkhead box protein 3 (FOXP3)-positive regulatory T lymphocytes (Tregs).
+RESULTS: PD-L1 expression in resected AVs was significantly associated with being nonsmoker, valve calcification, and the infiltration of CD8-positive T cells and CD163-positive macrophages. Disease severity and valve calcification were significantly associated with low infiltration of FOXP3-positive Tregs and high infiltration of CD8-positive T cells and CD163-positive macrophages. Moreover, calcified AVs with high PD-L1 expression showed active inflammation without FOXP3-positive Tregs but with high levels of CD8-positive T lymphocytes and CD163-positive macrophages.
+CONCLUSIONS: Immune cell infiltration in the AVs and expression of the immune checkpoint protein PD-L1 were associated with the calcification of AS and disease severity.
+
+Citation: Erkhem-Ochir B, et al. Inflammatory and immune checkpoint markers are associated with the severity of aortic stenosis. Inflammatory and immune checkpoint markers are associated with the severity of aortic stenosis. 2021; 5:1-12. doi: 10.1016/j.xjon.2020.11.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36003161/

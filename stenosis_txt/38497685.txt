@@ -1,0 +1,11 @@
+PMID: 38497685
+Title: Incidence and risk factors of acute kidney injury after transcatheter aortic valve replacement.
+
+Abstract: PURPOSE: Acute kidney injury (AKI) is a common early complication secondary to transcatheter aortic valve replacement (TAVR). Studies on the incidence and risk factors for AKI after TAVR surgery are limited to date. Here, we retrospectively analyzed the incidence and risk factors for AKI after TAVR surgery in our hospital.
+MATERIALS AND METHODS: Patients who underwent TAVR surgery at our hospital from November 2017 to February 2023 were selected. AKI was defined using the 2012 KDIGO definition and staging criteria. The relevant data and information between the AKI group and the non-AKI group were compared and analyzed, and a binary logistic regression model was used to analyze the risk factors for AKI.
+RESULTS: A total of 75 patients who underwent TAVR surgery were included in the retrospective analysis. After TAVR, the incidence of AKI was 17.3% (13/75), of which 8 (61.5%) had stage 1 AKI, 2 (15.4%) had stage 2 AKI, 3 (23.1%) had stage 3 AKI, and 3 needed renal replacement therapy. After multivariate logistic analysis, contrast volume (OR = 1.024 (1.001, 1.047)) was found to be an independent risk factor for AKI, while patients with high estimated glomerular filtration rate (eGFR) (OR = 0.903 (0.826, 0.986)) have a reduced risk of AKI.
+CONCLUSION: A retrospective study revealed a 17.3% incidence of AKI after TAVR surgery in our hospital, most of which were stage 1 AKI. A low preoperative eGFR and contrast volume were found to be independent risk factors for AKI.
+
+Citation: Xu Z, et al. Incidence and risk factors of acute kidney injury after transcatheter aortic valve replacement. Incidence and risk factors of acute kidney injury after transcatheter aortic valve replacement. 2024; 101:263-270. doi: 10.5414/CN111269
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38497685/

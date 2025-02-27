@@ -1,0 +1,11 @@
+PMID: 35120463
+Title: Diagnostic performance of deep learning and computational fluid dynamics-based instantaneous wave-free ratio derived from computed tomography angiography.
+
+Abstract: BACKGROUND AND OBJECTIVES: Both fractional flow reserve (FFR) and instantaneous wave-free ratio (iFR) are widely used to evaluate ischemia-causing coronary lesions. A new method of CT-iFR, namely AccuiFRct, for calculating iFR based on deep learning and computational fluid dynamics (CFD) using coronary computed tomography angiography (CCTA) has been proposed. In this study, the diagnostic performance of AccuiFRct was thoroughly assessed using iFR as the reference standard.
+METHODS: Data of a total of 36 consecutive patients with 36 vessels from a single-center who underwent CCTA, invasive FFR, and iFR were retrospectively analyzed. The CT-derived iFR values were computed using a novel deep learning and CFD-based model.
+RESULTS: Mean values of FFR and iFR were 0.80 ± 0.10 and 0.91 ± 0.06, respectively. AccuiFRct was well correlated with FFR and iFR (correlation coefficients, 0.67 and 0.68, respectively). The diagnostic accuracy, sensitivity, specificity, positive predictive value, and negative predictive value of AccuiFRct ≤ 0.89 for predicting FFR ≤ 0.80 were 78%, 73%, 81%, 73%, and 81%, respectively. Those of AccuiFRct ≤ 0.89 for predicting iFR ≤ 0.89 were 81%, 73%, 86%, 79%, and 82%, respectively. AccuiFRct showed a similar discriminant function when FFR or iFR were used as reference standards.
+CONCLUSION: AccuiFRct could be a promising noninvasive tool for detection of ischemia-causing coronary stenosis, as well as facilitating in making reliable clinical decisions.
+
+Citation: Zhang J, et al. Diagnostic performance of deep learning and computational fluid dynamics-based instantaneous wave-free ratio derived from computed tomography angiography. Diagnostic performance of deep learning and computational fluid dynamics-based instantaneous wave-free ratio derived from computed tomography angiography. 2022; 22:33. doi: 10.1186/s12872-022-02469-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35120463/

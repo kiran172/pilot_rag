@@ -1,0 +1,11 @@
+PMID: 39067157
+Title: Comparative Outcomes of Surgical and Transcatheter Aortic Valve Replacement: A Meta-Analysis and Parametric Extrapolation of Clinical Trials.
+
+Abstract: INTRODUCTION: We aimed to pool randomized clinical trials (RCTs) comparing surgical aortic valve replacement (SAVR) with transcatheter aortic valve replacement (TAVR) and extrapolate pooled time-to-event data to compare long-term outcomes.
+METHODS: An electronic database search was performed for RCTs comparing SAVR with TAVR. The most current longest follow-up data for each RCT were included. Data were pooled using a random-effects model. Survival data were pooled for Kaplan-Meier analysis as well as parametric modeling with extrapolation.
+RESULTS: Seven RCTs comprising 7774 patients were included. Mean valve gradient at 5 y was comparable between SAVR [11 mmHg (3.7; 18.3)] and TAVR [8.1 mmHg (1.9; 14.3)] (P = 0.38). TAVR had a higher mean valve area at 30 d, 1 y, and 2 y [1.68 cm2 (1.22; 2.13) versus 1.8 cm2 (1.35; 2.25), P = 0.02]. SAVR had a higher freedom from any paravalvular leak at 30 d and 1 y [86% (81; 90) versus 39% (36; 41), P &lt; 0.01]. All-cause death was lower in the SAVR group at 5 y [39% (29; 50) versus 43% (31; 57), P &lt; 0.01]. Although no differences were seen between SAVR and TAVR in the pooled Kaplan-Meier analysis of all-cause mortality and composite of all-cause mortality or stroke, parametric modeling with extrapolation showed significant divergence for both outcomes.
+CONCLUSIONS: Pooled all-cause mortality as well as pooled composite of all-cause mortality or stroke indicated better survival with SAVR at 5 y. Long-term parametric extrapolation also indicated superior survival with SAVR.
+
+Citation: Ahmad D, et al. Comparative Outcomes of Surgical and Transcatheter Aortic Valve Replacement: A Meta-Analysis and Parametric Extrapolation of Clinical Trials. Comparative Outcomes of Surgical and Transcatheter Aortic Valve Replacement: A Meta-Analysis and Parametric Extrapolation of Clinical Trials. 2024; 302:1-11. doi: 10.1016/j.jss.2024.06.044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39067157/

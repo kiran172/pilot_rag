@@ -1,0 +1,11 @@
+PMID: 32133735
+Title: Statin treatment and accrual of covert cerebral ischaemia on neuroimaging: a systematic review and meta-analysis of randomized trials.
+
+Abstract: BACKGROUND AND PURPOSE: Prevention of ischaemic stroke and cardiovascular events is an established benefit of statin therapy, but the effects of statin treatment on the accrual of magnetic resonance imaging (MRI) markers of ischaemic cerebral injury remain unknown. A systematic review was performed to identify all studies that randomized patients with cardiovascular risk factors to statin treatment and assessed the effect of statin treatment on covert infarcts (asymptomatic, evident only on neuroimaging) and white matter hyperintensity (WMH) accrual on MRI.
+METHODS: A systematic review in MEDLINE and Scopus from inception to 23 October 2019 was performed. A random-effects model was used to calculate the pooled estimates of the crude risk ratios and standardized mean differences.
+RESULTS: Data from three randomized controlled trials (1430 participants) were included evaluating the effect of rosuvastatin (10 mg/day) in 668 hypertensive patients older than 60 years of age over 5 years, pravastatin (40 mg/day) in 554 elderly people more than 70 years of age over 3 years and simvastatin (20 mg/day) in 208 patients with asymptomatic middle cerebral artery stenosis over 2 years. Patients randomized to statin treatment had decreased accrual of new covert infarcts (risk ratio 0.63, 95% confidence interval 0.46-0.88) during a mean follow-up of 2-6 years. Only one study reported WMH decreased volume change in patients randomized to statin treatment compared to patients randomized to non-statin treatment (standardized mean difference -1.17; 95% confidence interval -1.33, -1.00).
+CONCLUSION: Our findings suggest that, in addition to stroke prevention, statin treatment can reduce the accrual of covert MRI markers of ischaemic cerebral injury.
+
+Citation: Katsanos AH, et al. Statin treatment and accrual of covert cerebral ischaemia on neuroimaging: a systematic review and meta-analysis of randomized trials. Statin treatment and accrual of covert cerebral ischaemia on neuroimaging: a systematic review and meta-analysis of randomized trials. 2020; 27:1023-1027. doi: 10.1111/ene.14196
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32133735/

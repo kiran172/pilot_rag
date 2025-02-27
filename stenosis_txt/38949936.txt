@@ -1,0 +1,12 @@
+PMID: 38949936
+Title: Novel closed-loop control system of dual rotary blood pumps in total artificial heart based on the circulatory equilibrium framework: a proof-of-concept in vivo study.
+
+Abstract: OBJECTIVE: Total artificial heart (TAH) using dual rotary blood pumps (RBPs) is a potential treatment for end-stage heart failure. A well-noted challenge with RBPs is their low sensitivity to preload, which can lead to venous congestion and ventricular suction. To address this issue, we have developed an innovative closed-loop control system of dual RBPs in TAH. This system emulates the Frank-Starling law of the heart in controlling RBPs while monitoring stressed blood volume (V) based on the circulatory equilibrium framework. We validated the system in in-vivo experiments.
+METHODS: In 9 anesthetized dogs, we prepared a TAH circuit using 2 centrifugal-type RBPs. We first investigated whether the flow and inlet atrial pressure in each RBP adhered to a logarithmic Frank-Starling curve. We then examined whether the RBP flows and atrial pressures were maintained stably during aortic occlusion (AO) and pulmonary cannula stenosis (PS), whether averaged flow of dual RBPs and bilateral atrial pressures were controlled to their predefined target values for a specific V, and whether this system could maintain the atrial pressures within predefined control ranges under significant changes in V.
+RESULTS: This system effectively emulated the logarithmic Frank-Starling curve. It robustly stabilized the flow and atrial pressures during AO and PS without venous congestion or ventricular suction, accurately achieved target values in averaged flow and atrial pressures, and efficaciously maintained these pressures within the control ranges.
+CONCLUSION: This system controls dual RBPs in TAH accurately and stably.
+SIGNIFICANCE: This system may accelerate clinical application of TAH with dual RBPs.
+
+Citation: Yokota S, et al. Novel closed-loop control system of dual rotary blood pumps in total artificial heart based on the circulatory equilibrium framework: a proof-of-concept in vivo study. Novel closed-loop control system of dual rotary blood pumps in total artificial heart based on the circulatory equilibrium framework: a proof-of-concept in vivo study. 2024; PP:(unknown pages). doi: 10.1109/TBME.2024.3420907
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38949936/

@@ -1,0 +1,12 @@
+PMID: 37466620
+Title: Transcatheter Valve Replacement in Patients with Aortic Valve Stenosis: An Overview of Systematic Reviews and Meta-Analysis with Different Populations.
+
+Abstract: BACKGROUND: Randomized controlled trials (RCTs) and observational studies have compared the efficacy and safety of transcatheter aortic valve replacement (TAVR) and surgical aortic valve replacement (SAVR) in patients with severe aortic stenosis.
+OBJECTIVES: Compare TAVR and SAVR in patients with different surgical risks, population characteristics, and different transcatheter prosthetic valves.
+METHODS: An overview of systematic reviews (SRs) was conducted following a structured protocol. Results were grouped by surgical risk, population characteristics, and different valves. RCTs in the SRs were reanalyzed through meta-analyses, and the results were summarized using the GRADE method. The adopted level of statistical significance was 5%.
+RESULTS: Compared to SAVR, patients with high surgical risk using TAVR had a lower risk of (odds ratio, 95% confidence interval, absolute risk difference) atrial fibrillation (AF) (0.5, 0.29-0.86, -106/1000) and life-threatening bleeding (0.29, 0.2-0.42, -215/1000). Patients with intermediate surgical risk had a lower risk of AF (0.27, 0.23-0.33, -255/1000), life-threatening bleeding (0.15, 0.12-0.19, -330/1000), and acute renal failure (ARF) (0.4, 0.26-0.62, -21/1000). Patients with low surgical risk had a lower risk of death (0.58, 0.34-0.97, -16/1000), stroke (0.51, 0.28-0.94, -15/1000), AF (0.16, 0.12-0.2, -295/1000), life-threatening bleeding (0.17, 0.05-0.55, -76/1000), and ARF (0.27, 0.13-0.55, -21/1000), and had a higher risk of permanent pacemaker implantation (PPI) (4.22, 1.27-14.02, 141/1000). Newer generation devices had a lower risk of AF than older generations, and patients using balloon-expandable devices did not experience higher risks of PPI.
+CONCLUSIONS: This paper provides evidence that patients at low, intermediate, and high surgical risks have better outcomes when treated with TAVR compared with SAVR.
+
+Citation: Diegoli H, et al. Transcatheter Valve Replacement in Patients with Aortic Valve Stenosis: An Overview of Systematic Reviews and Meta-Analysis with Different Populations. Transcatheter Valve Replacement in Patients with Aortic Valve Stenosis: An Overview of Systematic Reviews and Meta-Analysis with Different Populations. 2023; 120:e20220701. doi: 10.36660/abc.20220701
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37466620/

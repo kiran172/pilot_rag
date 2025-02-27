@@ -1,0 +1,11 @@
+PMID: 37980856
+Title: Diagnostic accuracy of coronary artery stenosis and thrombosis assessment using unenhanced multiplanar 3D post-mortem cardiac magnetic resonance imaging.
+
+Abstract: BACKGROUND: A 3D sequence was introduced to unenhanced post-mortem cardiac magnetic resonance imaging (PMCMR) to enable multiplanar coronary artery image analysis and to investigate its diagnostic accuracy for the diagnosis of coronary artery stenosis and thrombosis.
+MATERIALS AND METHODS: N = 200 forensic cases with suspected coronary artery pathology underwent 3 Tesla PMCMR (sequence used: T2 weighted transversal 3D turbo spin echo) before autopsy. Main coronary artery stenosis and thrombosis were assessed in PMCMR by multiplanar image analysis by two observers. Coronary artery histology was determined as the gold standard and compared to PMCMR. Sensitivity, specificity, negative (NPV) and positive predictive values (PPV) with 95% confidence intervals were calculated.
+RESULTS: For all coronary arteries combined, sensitivity was 75% (PPV 73%) for the diagnosis of stenosis and 72% (PPV 71%) for the diagnosis of thrombosis. Specificity was 92% (NPV 90%) for correct diagnosis of non-existing stenosis and 97% (NPV 97%) for non-existing thrombosis. Sensitivity for correct diagnosis of different degrees of stenosis ranged between 67% and 80% (PPVs 67-82%); specificity ranged between 96% and 99% (NPVs 96-99%).
+CONCLUSION: Multiplanar PMCMR coronary artery stenosis and thrombosis assessment based on an unenhanced T2 weighted 3D sequence provide moderate sensitivity and high specificity for the diagnosis of coronary artery stenosis and/or thrombosis. Hence, 3D T2w PMCMR cannot reliably detect existing coronary artery stenosis and thrombosis but may be particularly useful for the exclusion of stenosis or thrombosis of the main coronary arteries.
+
+Citation: Lombardo P, et al. Diagnostic accuracy of coronary artery stenosis and thrombosis assessment using unenhanced multiplanar 3D post-mortem cardiac magnetic resonance imaging. Diagnostic accuracy of coronary artery stenosis and thrombosis assessment using unenhanced multiplanar 3D post-mortem cardiac magnetic resonance imaging. 2023; 353:111878. doi: 10.1016/j.forsciint.2023.111878
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37980856/

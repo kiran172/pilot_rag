@@ -1,0 +1,11 @@
+PMID: 33085162
+Title: The predictive value of CHADS2 score for subclinical cerebral ischemia after carotid artery stenting (from the PREVENT-CAS trial).
+
+Abstract: BACKGROUND: Carotid artery stenting (CAS) is being increasingly used as an alternative revascularization procedure to carotid endarterectomy; however, subclinical ischemic cerebral lesions after CAS remain as a matter of concern. Hence, we aimed to assess the clinical utility of the CHADS<sub>2</sub> score in predicting subclinical ischemic events after CAS.
+METHODS: We prospectively evaluated 107 patients (mean age: 70.4 ± 6.6 years, male:77) who underwent CAS for carotid artery revascularization. The patients having symptomatic transient ischemic attack or stroke after CAS were excluded. The presence of new hyperintense lesion on diffusion-weighted imaging (DWI) without any neurological findings was considered as silent ischemia. Patients were classified into two groups as DWI-positive and DWI-negative patients.
+RESULTS: Among study population, 28 patients (26.2%) had subclinical embolism. The DWI-positive group had a significantly higher CHADS2 scores, older age, more frequent history of stroke, higher proportion of type III aortic arch, and longer fluoroscopy time than the DWI-negative group. Increased CHADS<sub>2</sub> score was identified as one of the independent predictors of silent embolism (OR = 5.584; 95%CI: 1.516-20.566; p = .010), and CHADS<sub>2</sub> score higher than 2.5 predicted subclinical cerebral ischemia with a sensitivity of 72% and a specificity of 71% (AUC: 0.793; 95% CI: 0.696 - 0.890; p &lt; .001).
+CONCLUSIONS: CHADS<sub>2</sub> score was able to predict the risk of periprocedural subclinical ischemic events in CAS and might be of clinical value in the management of patients with carotid artery stenosis.
+
+Citation: Çelik Ö, et al. The predictive value of CHADS2 score for subclinical cerebral ischemia after carotid artery stenting (from the PREVENT-CAS trial). The predictive value of CHADS2 score for subclinical cerebral ischemia after carotid artery stenting (from the PREVENT-CAS trial). 2021; 97:301-309. doi: 10.1002/ccd.29344
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33085162/

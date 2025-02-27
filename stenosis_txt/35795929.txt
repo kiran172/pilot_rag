@@ -1,0 +1,14 @@
+PMID: 35795929
+Title: Predictive Value of Heart Rate Variability Indexes for 2-year Prognosis of the Patients after Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVE: To explore the prognostic value of the heart rate variability (HRV) index in the patients undergoing transcatheter aortic valve replacement (TAVR).
+STUDY DESIGN: A cohort study.
+PLACE AND DURATION OF STUDY: Department of Cardiology, Subei people's Hospital, Yangzhou University, Yangzhou, Jiangsu Province, China, from April 2018 to April 2021.
+METHODOLOGY: Patients with severe symptomatic aortic stenosis (AS), who were treated with TAVR, were enrolled. All the patients had completed a 24-hour ambulatory electrocardiogram (AECG), and detected HRV within one week before TAVR. All-time domain and frequency domain indexes were analysed. According to the standard deviation of NN intervals (SDNN), the patients were divided into the high HRV group (H-HRV), and the low HRV group (L-HRV). Postoperative cardiac function and major adverse cardiovascular events (MACEs) were observed on follow-up for 24 months.
+RESULTS: Compared with the H-HRV group, the L-HRV group had a lower preoperative left ventricular ejection fraction (LVEF) [49.0 (42.5, 60.0) vs. 59.5 (51.0, 62.3), p = 0.028] and higher preoperative cardiac troponin I (cTnI) [0.03(0.02, 0.10) vs. 0.02 (0.02, 0.02), p = 0.007]. The incidence of MACEs after TAVR in the L-HRV group was significantly higher than that in the H-HRV group (45.5% vs. 13.6%, p = 0.021). The results of the Kaplan-Meier survival curve also showed that the prognosis of the L-HRV group was worse than that of the H-HRV group (Log Rank = 4.975, p = 0.026). After adjusting for preoperative standard deviation of the average NN intervals (SDANN) or preoperative low-frequency (LF) domain / high-frequency (HF) domain (LF/HF), preoperative HRV still was an independent risk factor for MACEs in AS patients undergoing TAVR [HR 3.718, 95% CI (1.020, 13.548), p = 0.047]. The receiver operating characteristic (ROC) curve suggested that HRV <61.0ms may be a predictor of MACEs in AS patients undergoing TAVR. The sensitivity and specificity were 83.9% and 76.9%, respectively.
+CONCLUSION: Preoperative HRV had a good short-term predictive value in AS patients undergoing TAVR.
+KEY WORDS: Heart rate variability, Aortic stenosis, Transcatheter aortic valve replacement, Ambulatory electrocardiogram.
+
+Citation: Zhou J, et al. Predictive Value of Heart Rate Variability Indexes for 2-year Prognosis of the Patients after Transcatheter Aortic Valve Replacement. Predictive Value of Heart Rate Variability Indexes for 2-year Prognosis of the Patients after Transcatheter Aortic Valve Replacement. 2022; 32:843-847. doi: 10.29271/jcpsp.2022.07.843
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35795929/

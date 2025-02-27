@@ -1,0 +1,11 @@
+PMID: 38702030
+Title: Stroke risk after transcatheter aortic valve replacement in patients with carotid stenosis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Stroke is a feared complication of transcatheter aortic valve replacement (TAVR). Patients undergoing TAVR typically have multiple comorbidities, such as carotid artery stenosis (CAS). We conducted the present meta-analysis to determine the risk of stroke and mortality following TAVR in patients with CAS.
+METHODS: We searched PubMed/Medline, Scopus, ScienceDirect, and Cochrane Clinical Trials databases for clinical studies that compared CAS ≥50% and CAS ≥70% versus non-CAS TAVR population. The endpoints included the 30-day incidence of stroke or transient ischemic attack (TIA) and 30-day all-cause of mortality.
+RESULTS: We identified seven studies that included 12,418 patients in the CAS group and 102,316 in the control group. CAS ≥50% was not associated with an increased risk of 30-day stroke or TIA after TAVR [risk ratio (RR): 1.38; 95% confidence interval (95% CI): 0.95-2.02; p = 0.09]. However, patients with CAS ≥70% had an increased risk of stroke or TIA (RR: 1.43; 95% CI: 1.02-2.01; p = 0.04). No difference in 30-day all-cause mortality was observed between CAS ≥50% or CAS ≥70% and control groups (RR: 1.09; 95% CI: 0.79-1.52; p = 0.59 and RR: 1.11; 95% CI: 0.85-1.45; p = 0.43, respectively).
+CONCLUSIONS: CAS ≥70% was associated with an increased risk of stroke or TIA following TAVR compared with patients without CAS.
+
+Citation: Garagoli F, et al. Stroke risk after transcatheter aortic valve replacement in patients with carotid stenosis: A systematic review and meta-analysis. Stroke risk after transcatheter aortic valve replacement in patients with carotid stenosis: A systematic review and meta-analysis. 2024; 408:132085. doi: 10.1016/j.ijcard.2024.132085
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38702030/

@@ -1,0 +1,11 @@
+PMID: 35477146
+Title: Differential Association of Serum n-3 Polyunsaturated Fatty Acids with Various Cerebrovascular Lesions in Japanese Men.
+
+Abstract: BACKGROUND: An association between a high intake of marine-derived n-3 polyunsaturated fatty acids (n-3 PUFAs) with a lower risk of coronary heart disease was previously reported. However, the association between n-3 PUFAs and cerebrovascular lesions remains unclear. We evaluated this association in a general-population-based sample of Japanese men.
+METHODS: Participants were community-dwelling men (40-79 years old) living in Kusatsu City, Shiga, Japan. Serum concentrations of n-3 PUFAs, defined as the sum of eicosapentaenoic and docosahexaenoic acids, were measured via gas-liquid chromatography between 2006 and 2008. Magnetic resonance imaging was used to assess cerebrovascular lesions (including intracerebral large-artery stenosis, lacunar infarction, and microbleeds) and white matter lesions between 2012 and 2015. Logistic regression adjusting for conventional cardiovascular risk factors was used to estimate the odds ratio of prevalent cerebrovascular lesions per 1 standard deviation higher serum concentration of n-3 PUFAs.
+RESULTS: Of a total of 739 men, the numbers (crude prevalence in %) of prevalent cerebral large-artery stenoses, lacunar infarctions, microbleeds, and white matter lesions were 222 (30.0), 162 (21.9), 103 (13.9), and 164 (22.2), respectively. A 1 standard deviation higher concentration of n-3 PUFAs (30.5 μmol/L) was independently associated with lower odds of cerebral large-artery stenosis (multivariable-adjusted odds ratio, 0.80; 95% confidential interval, 0.67-0.97). There were no significant associations of n-3 PUFAs with the other types of lesions.
+CONCLUSIONS: n-3 PUFAs may have protective effects against large-artery stenosis, but not small vessel lesions, in the brain.
+
+Citation: Kondo K, et al. Differential Association of Serum n-3 Polyunsaturated Fatty Acids with Various Cerebrovascular Lesions in Japanese Men. Differential Association of Serum n-3 Polyunsaturated Fatty Acids with Various Cerebrovascular Lesions in Japanese Men. 2022; 51:774-780. doi: 10.1159/000524243
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35477146/

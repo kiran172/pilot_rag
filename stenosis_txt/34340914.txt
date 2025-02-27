@@ -1,0 +1,11 @@
+PMID: 34340914
+Title: Impact of New York Heart Association Functional Class on Outcomes After Transcatheter Aortic Valve Implantation.
+
+Abstract: BACKGROUND: In the current guidelines, indications for transcatheter aortic valve implantation (TAVI) are expanded to include several subgroups of asymptomatic patients with severe aortic stenosis (AS), and there is a paucity of data on the prognostic impact of New York Heart Association (NYHA) functional class in patients with severe AS undergoing TAVI.
+METHODS: Among 2588 patients enrolled in the OCEAN-TAVI registry, patients were divided into 4 groups according to baseline NYHA class (class I in 95 patients, class II in 1172 patients, class III in 1126 patients, and class IV in 195 patients).
+RESULTS: Median follow-up was 729 days. The cumulative 2-year incidence of all-cause death was significantly higher in patients with NYHA class IV and III than in those with NYHA class II and I. (30.0%, 21.3%, 13.4%, and 11.2%, respectively, P < 0.001). After adjusting confounders, NYHA class IV and III, but not NYHA class II were independently associated with higher mortality compared with NYHA class I (reference) (adjusted HR: 3.43, 95%CI: 1.83-7.15, P < 0.001; adjusted HR: 2.07, 95%CI: 1.15-4.19, P = 0.013; and adjusted HR: 1.50, 95%CI: 0.83-3.04, P = 0.19, respectively). With increasing NYHA class, there was an incremental increase of heart failure hospitalization in the effect size relative to the reference (NYHA class I).
+CONCLUSIONS: The long-term outcomes of patients with NYHA class I were better than those with NYHA class IV or III in some selected patients undergoing TAVI.
+
+Citation: Taniguchi T, et al. Impact of New York Heart Association Functional Class on Outcomes After Transcatheter Aortic Valve Implantation. Impact of New York Heart Association Functional Class on Outcomes After Transcatheter Aortic Valve Implantation. 2022; 38:19-26. doi: 10.1016/j.carrev.2021.07.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34340914/

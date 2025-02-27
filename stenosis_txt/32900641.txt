@@ -1,0 +1,11 @@
+PMID: 32900641
+Title: Predictors and Prognostic Impact of Nutritional Changes After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Little is known about changes in nutritional status as an index of frailty on clinical outcomes after transcatheter aortic valve replacement (TAVR). This study aimed to assess the clinical impact of serum albumin changes after TAVR.
+METHODS: Changes in serum albumin levels from baseline to 1 year after TAVR were evaluated in 1524 patients who were classified as having hypoalbuminemia (<3.5 g/dl) and normoalbuminemia (≥3.5 g/dl) at each timepoint. The patients were categorized into 4 groups: NN (baseline normoalbuminemia, 1-year normoalbuminemia: n = 1119), HN (baseline hypoalbuminemia, 1-year normoalbuminemia: n = 202), NH (baseline normoalbuminemia, 1-year hypoalbuminemia: n = 121), and HH (baseline hypoalbuminemia, 1-year hypoalbuminemia: n = 82). We also defined late hypoalbuminemia as hypoalbuminemia identified at the 1-year assessment. Clinical outcomes were compared among 4 groups. Multivariable analysis was driven to assess the variables associated with late hypoalbuminemia and long-term mortality.
+RESULTS: The cumulative 3-year mortality was significantly different among the 4 groups (NN: 11.4%, HN: 10.7%, NH: 25.4%, HH: 44.4%, p < 0.001). Multivariable Cox regression analysis revealed that the NH group had a higher mortality risk (hazard ratio [HR]; 2.80 and 3.53, 95% confidence interval [CI]; 1.71-4.57 and 2.06-6.06, p < 0.001 and p < 0.001, respectively), whereas the HN group had a similar risk (HR; 1.16, 95% CI; 0.66-2.06, p = 0.61) compared with the NN group. Baseline hypoalbuminemia, low body mass index, liver disease, peripheral artery disease, and hospital readmission within 1 year were predictors of late hypoalbuminemia (all p < 0.05).
+CONCLUSION: Serial albumin assessment may identify poor prognostic subsets in patients with persistent and late acquired malnutrition after TAVR.
+
+Citation: Shimura T, et al. Predictors and Prognostic Impact of Nutritional Changes After Transcatheter Aortic Valve Replacement. Predictors and Prognostic Impact of Nutritional Changes After Transcatheter Aortic Valve Replacement. 2021; 23:68-76. doi: 10.1016/j.carrev.2020.08.031
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32900641/

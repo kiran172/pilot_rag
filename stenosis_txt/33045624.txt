@@ -1,0 +1,12 @@
+PMID: 33045624
+Title: The Atherogenic Index of Plasma is Independently Associated with Symptomatic Carotid Artery Stenosis.
+
+Abstract: INTRODUCTION: Small, dense low-density lipoprotein (sdLDL) is strongly associated with symptomatic carotid artery stenosis, but is not routinely evaluated in ischemic stroke patients. A method using the logarithmic transformation of the ratio of the plasma concentration of triglycerides (TGY) to HDL-cholesterol (HDL-C)[(Log[TGY/HDL-C])] has been described as a surrogate marker for sdLDL termed the atherogenic index of plasma (AIP).
+OBJECTIVE: To determine if the AIP is independently associated with symptomatic carotid artery stenosis.
+METHODS: We conducted a single center case-controlled study using a sample of ischemic stroke patients and compared risk factors of patients with and without symptomatic carotid artery stenosis. A multivariate logistic regression model was used to determine if the AIP divided into four quartiles was independently associated with symptomatic carotid artery stenosis. This model was compared to three other lipid models. Associations between non-lipid variables and the AIP were also identified.
+RESULTS: 31 cases of ischemic stroke due to symptomatic carotid artery stenosis and 236 controls of ischemic stroke not due to carotid artery stenosis were identified. Of the four lipid models assessed, only the model including the AIP (model 4) was found to be significantly associated with symptomatic carotid artery stenosis. The odd's ratio (OR) for quartile 3 was 3.82 (95% CI 1.03-14.17) and the OR for quartile 4 was 4.13 (95% CI 1.09-15.54) using quartile 1 as a reference. Metabolic syndrome was the only variable associated with the AIP (OR 5.06 95% CI 2.6-9.7).
+CONCLUSION: At our single center, the AIP was the only lipid parameter independently associated with symptomatic carotid artery stenosis; and metabolic syndrome was independently associated with the AIP. The AIP may serve as a useful surrogate of sdLDL in patients with symptomatic carotid artery stenosis.
+
+Citation: Garg R, et al. The Atherogenic Index of Plasma is Independently Associated with Symptomatic Carotid Artery Stenosis. The Atherogenic Index of Plasma is Independently Associated with Symptomatic Carotid Artery Stenosis. 2020; 29:105351. doi: 10.1016/j.jstrokecerebrovasdis.2020.105351
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33045624/

@@ -1,0 +1,10 @@
+PMID: 32076698
+Title: Plasma lipids and risk of aortic valve stenosis: a Mendelian randomization study.
+
+Abstract: AIMS: Aortic valve stenosis is commonly considered a degenerative disorder with no recommended preventive intervention, with only valve replacement surgery or catheter intervention as treatment options. We sought to assess the causal association between exposure to lipid levels and risk of aortic stenosis.
+METHODS AND RESULTS: Causality of association was assessed using two-sample Mendelian randomization framework through different statistical methods. We retrieved summary estimations of 157 genetic variants that have been shown to be associated with plasma lipid levels in the Global Lipids Genetics Consortium that included 188 577 participants, mostly European ancestry, and genetic association with aortic stenosis as the main outcome from a total of 432 173 participants in the UK Biobank. Secondary negative control outcomes included aortic regurgitation and mitral regurgitation. The odds ratio for developing aortic stenosis per unit increase in lipid parameter was 1.52 [95% confidence interval (CI) 1.22-1.90; per 0.98 mmol/L] for low density lipoprotein (LDL)-cholesterol, 1.03 (95% CI 0.80-1.31; per 0.41 mmol/L) for high density lipoprotein (HDL)-cholesterol, and 1.38 (95% CI 0.92-2.07; per 1 mmol/L) for triglycerides. There was no evidence of a causal association between any of the lipid parameters and aortic or mitral regurgitation.
+CONCLUSION: Lifelong exposure to high LDL-cholesterol increases the risk of symptomatic aortic stenosis, suggesting that LDL-lowering treatment may be effective in its prevention.
+
+Citation: Nazarzadeh M, et al. Plasma lipids and risk of aortic valve stenosis: a Mendelian randomization study. Plasma lipids and risk of aortic valve stenosis: a Mendelian randomization study. 2020; 41:3913-3920. doi: 10.1093/eurheartj/ehaa070
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32076698/

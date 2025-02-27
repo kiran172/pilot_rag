@@ -1,0 +1,11 @@
+PMID: 37858239
+Title: A framework of myocardial bridge detection with x-ray angiography sequence.
+
+Abstract: BACKGROUND: Myocardial bridges are congenital anatomical abnormalities in which myocardium covers a segment of coronary arteries, leading to stenocardia, myocardial ischemia, and sudden cardiac death in severe cases. However, automatic diagnosis of myocardial bridge presents significant challenges.
+METHOD: A novel framework of myocardial bridge detection with x-ray angiography sequence is proposed, which can realize automatic detection of vessel stenosis and myocardial bridge. Firstly, we employ a novel neural network model for coronary vessel segmentation, which consists of both CNNs and transformer structures to effectively extract both local and global information of the vessels. Secondly, we describe the vessel segment information, establish the vessel tree in the image, and fuse the vessel tree information between sequences. Finally, based on vessel stenosis detection, we realize automatic detection of the myocardial bridge by querying the blood vessels between the image sequence information.
+RESULTS: In experiment, we evaluate the segmentation results using two metrics, Dice and ASD, and achieve scores of 0.917 and 1.39, respectively. In the stenosis detection, we achieve an average accuracy rate of 92.7% in stenosis detection among 262 stenoses. In multi-frame image processing, vessels in different frames can be well-matched, and the accuracy of myocardial bridge detection achieves 75%.
+CONCLUSIONS: Our experimental results demonstrate that the algorithm can automatically detect stenosis and myocardial bridge, providing a new idea for subsequent automatic diagnosis of coronary vessels.
+
+Citation: Zhou P, et al. A framework of myocardial bridge detection with x-ray angiography sequence. A framework of myocardial bridge detection with x-ray angiography sequence. 2023; 22:101. doi: 10.1186/s12938-023-01163-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37858239/

@@ -1,0 +1,12 @@
+PMID: 36846647
+Title: A microfluidic method to investigate platelet mechanotransduction under extensional strain.
+
+Abstract: BACKGROUND: Blood platelets have evolved a complex mechanotransduction machinery to rapidly respond to hemodynamic conditions. A variety of microfluidic flow-based approaches have been developed to explore platelet mechanotransduction; however, these experimental models primarily focus on the effects of increased wall shear stress on platelet adhesion events and do not consider the critical effects of extensional strain on platelet activation in free flow.
+OBJECTIVES: We report the development and application of a hyperbolic microfluidic assay that allows for investigation of platelet mechanotransduction under quasi-homogenous extensional strain rates in the absence of surface adhesions.
+METHODS: Using a combined computational fluid dynamic and experimental microfluidic approach, we explore 5 extensional strain regimes (geometries) and their effect on platelet calcium signal transduction.
+RESULTS: We demonstrate that in the absence of canonical adhesion, receptor engagement platelets are highly sensitive to both initial increase and subsequent decrease in extensional strain rates within the range of 747 to 3319/s. Furthermore, we demonstrate that platelets rapidly respond to the rate of change in extensional strain and define a threshold of ≥7.33 × 106/s/m, with an optimal range of 9.21 × 107 to 1.32 × 108/s/m. In addition, we demonstrate a key role of both the actin-based cytoskeleton and annular microtubules in the modulation of extensional strain-mediated platelet mechanotransduction.
+CONCLUSION: This method opens a window onto a novel platelet signal transduction mechanism and may have potential diagnostic utility in the identification of patients who are prone to thromboembolic complications associated with high-grade arterial stenosis or are on mechanical circulatory support systems, for which the extensional strain rate is a predominant hemodynamic driver.
+
+Citation: Zainal Abidin NA, et al. A microfluidic method to investigate platelet mechanotransduction under extensional strain. A microfluidic method to investigate platelet mechanotransduction under extensional strain. 2023; 7:100037. doi: 10.1016/j.rpth.2023.100037
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36846647/

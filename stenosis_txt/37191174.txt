@@ -1,0 +1,12 @@
+PMID: 37191174
+Title: The incremental value of CCTA-derived myocardial radiomics signature for ischemia diagnosis with reference to CT myocardial perfusion imaging.
+
+Abstract: OBJECTIVES: To explore the incremental value of myocardial radiomics signature derived from static coronary computed tomography angiography (CCTA) for identifying myocardial ischemia based on stress dynamic CT myocardial perfusion imaging (CT-MPI).
+METHODS: Patients who underwent CT-MPI and CCTA were retrospectively enrolled from two independent institutions, one used as training and the other as testing. Based on CT-MPI, coronary artery supplying area with relative myocardial blood flow (rMBF) value <0.8 was considered ischemia. Conventional imaging features of target plaques which caused the most severe narrowing of the vessel included area stenosis, lesion length (LL), total plaque burden, calcification burden, non-calcification burden, high-risk plaque (HRP) score, and CT fractional flow reserve (CT-FFR). Myocardial radiomics features were extracted at three vascular supply areas from CCTA images. The optimized radiomics signature was added to the conventional CCTA features to build the combined model (radiomics + conventional).
+RESULTS: There were 168 vessels from 56 patients enrolled in the training set, and the testing set consisted of 135 vessels from 45 patients. From either cohort, HRP score, LL, stenosis ≥50% and CT-FFR ≤0.80 were associated with ischemia. The optimal myocardial radiomics signature consisted of nine features. The detection of ischemia using the combined model was significantly improved compared with conventional model in both training and testing set (AUC 0.789 vs 0.608, p &lt; 0.001; 0.726 vs 0.637, p = 0.045).
+CONCLUSIONS: Myocardial radiomics signature extracted from static CCTA combining with conventional features could provide incremental value to diagnose specific ischemia.
+ADVANCES IN KNOWLEDGE: Myocardial radiomics signature extracted from CCTA may capture myocardial characteristics and provide incremental value to detect specific ischemia when combined with conventional features.
+
+Citation: Zhu MM, et al. The incremental value of CCTA-derived myocardial radiomics signature for ischemia diagnosis with reference to CT myocardial perfusion imaging. The incremental value of CCTA-derived myocardial radiomics signature for ischemia diagnosis with reference to CT myocardial perfusion imaging. 2023; 96:20220971. doi: 10.1259/bjr.20220971
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37191174/

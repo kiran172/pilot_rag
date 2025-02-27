@@ -1,0 +1,11 @@
+PMID: 38149491
+Title: Predictive role of monocyte count for significant coronary artery disease identification in patients with stable coronary artery disease.
+
+Abstract: BACKGROUND: The coronary artery disease (CAD) remains the leading cause of morbidity that is characterized by broad spectrum of symptoms. Up to 30% of performed angiographies reveal normal coronary arteries. The aim of the study was to find simple predictor for significant epicardial artery stenosis among patients with chronic coronary syndrome.
+METHODS: There were 187 patients (131 (709%) men and 56 (30%) women) in the median (Q1-Q3) age of 67 [58-72] presenting with stable CAD symptoms enrolled into the present retrospective analysis. The demographical, clinical and laboratory characteristics between patients with normal and significant coronary artery stenosis were compared.
+RESULTS: The multivariable analysis revealed coexistence of hypercholesterolemia as significant differentiation factor (odds ratio [OR]: 4.38, 95% confidence interval [CI]: 1.78-10.80, p = 0.001) for significant CAD and inverse relation to serum high density lipoprotein (OR: 0.19, 95% CI: 0.05-0.72, p = 0.015) and relation to creatinine concentration (OR: 1.03, 95% CI: 1.00-1.05, p = 0.012). Among whole peripheral blood count analysis, the significant relation was noticed to be hemoglobin concentration (OR: 1.09, 95% CI: 1.10-1.18, p = 0.022) and monocyte count (OR: 32.3, 95% CI: 1.09-653.6, p = 0.017). Receiver operator curve revealed (AUC: 0.641, p = 0.001) with the optimal cut-off value above 0.45 K/uL for monocyte, yelding sensitivity of 81.82% and specificity of 58.06%.
+CONCLUSIONS: The peripheral monocyte count above 0.45 k/uL may be considered as a predictor of significant coronary artery disease in symptomatic patients with chronic coronary syndrome.
+
+Citation: Urbanowicz T, et al. Predictive role of monocyte count for significant coronary artery disease identification in patients with stable coronary artery disease. Predictive role of monocyte count for significant coronary artery disease identification in patients with stable coronary artery disease. 2024; 31:722-730. doi: 10.5603/cj.95131
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38149491/

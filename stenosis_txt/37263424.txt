@@ -1,0 +1,11 @@
+PMID: 37263424
+Title: Genitourinary Radiation Injury Following Prostate Cancer Treatment: Assessment of Cost and Health Care System Burden.
+
+Abstract: OBJECTIVE: To evaluate the healthcare resource impact of radiation injury following prostate cancer treatment.
+METHODS: Using IBM MarketScan, we performed a retrospective study of men with prostate cancer who were treated with radiotherapy and subsequently developed low-grade (LGRI) and high-grade radiation injury (HGRI). Radiation injury diagnoses included bladder neck stenosis, hematuria/cystitis, fistula, ureteral stricture, and incontinence. LGRI and HGRI included injury diagnosis without intervention and with intervention, respectively. Health care visits and costs were measured over 5 time periods including 2 years before radiation, 1 year before radiation, radiation to injury diagnosis, injury diagnosis to first intervention (LGRI), and following first intervention (HGRI). Negative binomial regression modeling was used to assess the effect of radiation injury on average cost adjusting for demographics and comorbidities.
+RESULTS: Between 2008 and 2017, we identified 121,027 men who received radiotherapy following prostate cancer diagnosis of which 10,057 (8.3%) experienced a HGRI. The frequency of urologic visits and average costs were similar in those without injury and LGRI. However, men with HGRI experienced higher visit frequency and monthly costs. Amongst high-grade injuries, urinary fistula had the highest frequency of visit utilization at 378 visits before first intervention and 245 visits after first intervention. Following radiation injury diagnosis, the average monthly cost was twice as high in those with HGRI ($85.78) compared to LGRI ($38.66).
+CONCLUSIONS: HGRI was associated with increased urologic health care use and average monthly cost when compared to those who experienced LGRI or no injury. Urinary fistula was associated with the largest resource burden.
+
+Citation: Hebert KJ, et al. Genitourinary Radiation Injury Following Prostate Cancer Treatment: Assessment of Cost and Health Care System Burden. Genitourinary Radiation Injury Following Prostate Cancer Treatment: Assessment of Cost and Health Care System Burden. 2023; 179:166-173. doi: 10.1016/j.urology.2023.03.056
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37263424/

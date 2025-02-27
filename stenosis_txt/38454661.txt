@@ -1,0 +1,12 @@
+PMID: 38454661
+Title: Numerical investigation of quantitative pulmonary pressure ratio in different degrees of stenosis.
+
+Abstract: BACKGROUND: Pulmonary artery stenosis endangers people's health. Quantitative pulmonary pressure ratio (QPPR) is very important for clinicians to quickly diagnose diseases and develop treatment plans.
+OBJECTIVE: Our purpose of this paper is to investigate the effects of different degrees (50% and 80%) of pulmonary artery stenosis on QPPR.
+METHODS: An idealized model is established based on the normal size of human pulmonary artery. The hemodynamic governing equations are solved using fluid-structure interaction.
+RESULTS: The results show that the QPPR decreases with the increase of stenosis degree, and it is closely related to the pressure drop at both ends of stenosis. Blood flow velocity and wall shear stress are sensitive to the stenosis degree. When the degree of stenosis is 80%, the amplitude of changes of blood flow velocity and wall shear stress at both ends of stenosis is lower.
+CONCLUSIONS: The results suggest that the degree of pulmonary artery stenosis has a significant impact on QPPR and hemodynamic changes. This study lays a theoretical foundation for further study of QPPR.
+
+Citation: He F, et al. Numerical investigation of quantitative pulmonary pressure ratio in different degrees of stenosis. Numerical investigation of quantitative pulmonary pressure ratio in different degrees of stenosis. 2024; 21:1806-1818. doi: 10.3934/mbe.2024078
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38454661/

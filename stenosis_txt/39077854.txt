@@ -1,0 +1,13 @@
+PMID: 39077854
+Title: Predicting Tracheostomy Need on Admission to the Intensive Care Unit-A Multicenter Machine Learning Analysis.
+
+Abstract: OBJECTIVE: It is difficult to predict which mechanically ventilated patients will ultimately require a tracheostomy which further predisposes them to unnecessary spontaneous breathing trials, additional time on the ventilator, increased costs, and further ventilation-related complications such as subglottic stenosis. In this study, we aimed to develop a machine learning tool to predict which patients need a tracheostomy at the onset of admission to the intensive care unit (ICU).
+STUDY DESIGN: Retrospective Cohort Study.
+SETTING: Multicenter Study of 335 Intensive Care Units between 2014 and 2015.
+METHODS: The eICU Collaborative Research Database (eICU-CRD) was utilized to obtain the patient cohort. Inclusion criteria included: (1) Age >18 years and (2) ICU admission requiring mechanical ventilation. The primary outcome of interest included tracheostomy assessed via a binary classification model. Models included logistic regression (LR), random forest (RF), and Extreme Gradient Boosting (XGBoost).
+RESULTS: Of 38,508 invasively mechanically ventilated patients, 1605 patients underwent a tracheostomy. The XGBoost, RF, and LR models had fair performances at an AUROC 0.794, 0.780, and 0.775 respectively. Limiting the XGBoost model to 20 features out of 331, a minimal reduction in performance was observed with an AUROC of 0.778. Using Shapley Additive Explanations, the top features were an admission diagnosis of pneumonia or sepsis and comorbidity of chronic respiratory failure.
+CONCLUSIONS: Our machine learning model accurately predicts the probability that a patient will eventually require a tracheostomy upon ICU admission, and upon prospective validation, we have the potential to institute earlier interventions and reduce the complications of prolonged ventilation.
+
+Citation: Nguyen M, et al. Predicting Tracheostomy Need on Admission to the Intensive Care Unit-A Multicenter Machine Learning Analysis. Predicting Tracheostomy Need on Admission to the Intensive Care Unit-A Multicenter Machine Learning Analysis. 2024; (unknown volume):(unknown pages). doi: 10.1002/ohn.919
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39077854/

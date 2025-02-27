@@ -1,0 +1,11 @@
+PMID: 32532859
+Title: Acute carotid stenting in patients undergoing thrombectomy: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: The benefit of acute carotid stenting compared with no acute stenting on clinical outcomes among patients with tandem lesions (TL) undergoing endovascular thrombectomy (EVT) remains unknown.
+METHODS: We conducted a a systematic review and meta-analysis of studies comparing acute carotid stenting versus no stenting among TL patients undergoing EVT with regards to 90 day modified Rankin Scale (mRS) score, symptomatic intracerebral hemorrhage (sICH), and mortality. Four reviewers screened citations for eligibility and two assessed retained studies for risk of bias and data extraction. A random effects model was used for the synthesis of aggregated data.
+RESULTS: 21 studies (n=1635 patients) were identified for the systematic review; 19 were cohort studies, 1 was a post-hoc analysis of an EVT trial, and 1 was a pilot randomized controlled trial. 16 studies were included in the meta-analysis. Acute stenting was associated with a favorable 90 day mRS score: OR 1.43 (95% CI 1.07, 1.91). No significant heterogeneity between studies was found for this outcome (I2=17.0%; χ2=18.07, p=0.26). There were no statistically significant differences for 3 month mortality (OR 0.80 (95% CI 0.50, 1.28)) or sICH (OR 1.41 (95% CI 0.91, 2.19)).
+CONCLUSIONS: This meta-analysis suggests that among TL patients undergoing EVT, acute carotid stenting is associated with a greater likelihood of favorable outcome at 90 days compared with no stenting.
+
+Citation: Dufort G, et al. Acute carotid stenting in patients undergoing thrombectomy: a systematic review and meta-analysis. Acute carotid stenting in patients undergoing thrombectomy: a systematic review and meta-analysis. 2021; 13:141-145. doi: 10.1136/neurintsurg-2020-015817
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32532859/

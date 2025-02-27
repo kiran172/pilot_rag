@@ -1,0 +1,11 @@
+PMID: 32265086
+Title: Blood biomarkers in patients with bicuspid aortic valve disease.
+
+Abstract: BACKGROUND: Patients with a bicuspid aortic valve (BAV) are at risk of developing valve deterioration and aortic dilatation. We aimed to investigate whether blood biomarkers are associated with disease stage in patients with BAV.
+METHODS: Serum levels of high sensitivity C-reactive protein (hsCRP), high sensitivity troponin T (hsTnT), N-terminal pro-B-type natriuretic peptide (NT-proBNP), and total transforming growth factor-beta 1 (TGF-ß1) were measured in adult BAV patients with valve dysfunction or aortic pathology. Age-matched general population controls were included for TGFß-1 measurements. Correlation analyses and multivariable linear regression were used to determine the association between (2log-transformed) biomarker levels and aortic valve regurgitation, aortic valve stenosis, aortic dilatation, or left ventricular function.
+RESULTS: hsCRP and hsTnT were measured in the total group of 183 patients (median age 34 years, 25th-75th percentile 23-46), NT-proBNP in 162 patients, and TGF-ß1 beta in 108 patients. Elevated levels of NT-proBNP were found in 20% of the BAV patients, elevated hsTnT in 6%, and elevated hsCRP in 7%. Higher hsTnT levels were independently associated with aortic regurgitation [odds ratio per doubling (OR<sub>2log</sub>) 1.34, 95% CI 1.01;1.76] and higher NT-proBNP levels with aortic valve maximal velocity (ß<sub>2log</sub> 0.17, 95%CI 0.07;0.28) and aortic regurgitation (OR<sub>2log</sub> 1.41, 95%CI 1.11;1.79). Both BAV patients with (9.9 ± 2.7 ng/mL) and without aortic dilatation (10.4 ± 2.9 ng/mL) showed lower TGF-ß1 levels compared to general population controls (n = 85, 11.8 ± 3.2 ng/mL).
+CONCLUSIONS: Higher NT-proBNP and hsTNT levels were associated with aortic valve disease in BAV patients. TGF-ß1 levels were lower in BAV patients than in the general population, and not related to aortic dilatation. Longitudinal data are needed to further investigate the prognostic value of biomarkers in these patients.
+
+Citation: Bons LR, et al. Blood biomarkers in patients with bicuspid aortic valve disease. Blood biomarkers in patients with bicuspid aortic valve disease. 2020; 76:287-294. doi: 10.1016/j.jjcc.2020.02.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32265086/

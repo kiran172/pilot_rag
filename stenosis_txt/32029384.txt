@@ -1,0 +1,11 @@
+PMID: 32029384
+Title: Annular versus supra-annular sizing for transcatheter aortic valve replacement in bicuspid aortic valve disease.
+
+Abstract: BACKGROUND: CT measurement of supra-annular area (SA) has been proposed as an alternative to annular area (AA) for sizing of trancatheter valves in biscuspid aortic valves (BAV). This study examines the reproducibility of SA and AA measurements and their potential impact on downstream transcatheter heart valve sizing and clinical outcomes.
+METHODS: 44 consecutive patients (mean age: 73 ± 15 years, 57% male) undergoing CTA with subsequent SAPIEN 3 valve insertion for severe bicuspid aortic stenosis (AS) were included. AA was measured at the basal ring. SA was measured by generating a circle defined by the intercommisural distance. AA and SA were measured by 2 independent observers. Baseline characteristics, TAVR procedural data, and discharge echocardiography data were collected.
+RESULTS: The SA was significantly larger than the AA (562 ± 146mm2 vs. 518 ± 112mm2,p = 0.013). Interobserver agreement was high using both techniques (ICC AA = 0.98,p < 0.001; SA = 0.80,p < 0.001), but with narrower limits of agreement with AA measurements (mean difference (limits of agreement): AA = -3mm2 (22; 19), SA = -16mm2 (-92; 76)). AA-based device sizing demonstrated substantial agreement with final valve inserted (κ = 0.72,p < 0.001), while SA demonstrated fair agreement (κ = 0.40,p < 0.001). There was no difference in post TAVR gradients, paravalvular leakage or valve success between patients with concordant sizing between AA and SA, and those in whom SA would have suggested an alternate valve size.
+CONCLUSIONS: Supra-annular sizing is less reproducible than annular sizing, with no difference in procedural complication rates in patients in whom supra-annular sizing would have altered the device size used. These results suggest no role for supra-annular sizing in current clinical practice.
+
+Citation: Weir-McCall JR, et al. Annular versus supra-annular sizing for transcatheter aortic valve replacement in bicuspid aortic valve disease. Annular versus supra-annular sizing for transcatheter aortic valve replacement in bicuspid aortic valve disease. 2020; 14:407-413. doi: 10.1016/j.jcct.2020.01.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32029384/

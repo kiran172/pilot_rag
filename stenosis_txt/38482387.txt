@@ -1,0 +1,11 @@
+PMID: 38482387
+Title: Automated valvular heart disease detection using heart sound with a deep learning algorithm.
+
+Abstract: BACKGROUND: Insufficient clinicians' auscultation ability delays the diagnosis and treatment of valvular heart disease (VHD); artificial intelligence provides a solution to compensate for the insufficiency in auscultation ability by distinguishing between heart murmurs and normal heart sounds. However, whether artificial intelligence can automatically diagnose VHD remains unknown. Our objective was to use deep learning to process and compare raw heart sound data to identify patients with VHD requiring intervention.
+METHODS: Heart sounds from patients with VHD and healthy controls were collected using an electronic stethoscope. Echocardiographic findings were used as the gold standard for this study. According to the chronological order of enrollment, the early-enrolled samples were used to train the deep learning model, and the late-enrollment samples were used to validate the results.
+RESULTS: The final study population comprised 499 patients (354 in the algorithm training group and 145 in the result validation group). The sensitivity, specificity, and accuracy of the deep-learning model for identifying various VHDs ranged from 71.4 to 100.0%, 83.5-100.0%, and 84.1-100.0%, respectively; the best diagnostic performance was observed for mitral stenosis, with a sensitivity of 100.0% (31.0-100.0%), a specificity of 100% (96.7-100.0%), and an accuracy of 100% (97.5-100.0%).
+CONCLUSIONS: Based on raw heart sound data, the deep learning model effectively identifies patients with various types of VHD who require intervention and assists in the screening, diagnosis, and follow-up of VHD.
+
+Citation: Jiang Z, et al. Automated valvular heart disease detection using heart sound with a deep learning algorithm. Automated valvular heart disease detection using heart sound with a deep learning algorithm. 2024; 51:101368. doi: 10.1016/j.ijcha.2024.101368
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38482387/

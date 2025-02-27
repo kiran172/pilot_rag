@@ -1,0 +1,8 @@
+PMID: 39191858
+Title: Pretrained subtraction and segmentation model for coronary angiograms.
+
+Abstract: This study introduces a novel self-supervised learning method for single-frame subtraction and vessel segmentation in coronary angiography, addressing the scarcity of annotated medical samples in AI applications. We pretrain a U-Net model on a large dataset of unannotated coronary angiograms using an image-to-image translation framework, then fine-tune it on a limited set of manually annotated samples. The pretrained model excels at comprehensive single-frame subtraction, outperforming existing DSA methods. Fine-tuning with just 40 samples yields a Dice coefficient of 0.828 for vessel segmentation. On the public XCAD dataset, our model sets a new state-of-the-art benchmark with a Dice coefficient of 0.755, surpassing both unsupervised and supervised learning approaches. This method achieves robust single-frame subtraction and demonstrates that combining pretraining with minimal fine-tuning enables accurate coronary vessel segmentation with limited manual annotations. We successfully apply this approach to assist physicians in visualizing potential vascular stenosis sites during coronary angiography. Code, dataset, and a live demo will be available available at: https://github.com/newfyu/DeepSA .
+
+Citation: Zeng Y, et al. Pretrained subtraction and segmentation model for coronary angiograms. Pretrained subtraction and segmentation model for coronary angiograms. 2024; 14:19888. doi: 10.1038/s41598-024-71063-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39191858/

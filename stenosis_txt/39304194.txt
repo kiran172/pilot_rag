@@ -1,0 +1,11 @@
+PMID: 39304194
+Title: Diagnostic accuracy of hemodynamic assessment of intracranial atherosclerotic stenosis from a single angiographic view: a validation study.
+
+Abstract: BACKGROUND: The aim of this study is to assess the feasibility of identifying the hemodynamic status of intracranial atherosclerotic stenosis (ICAS) using angio-based fractional flow (FF) calculated from a single angiographic view, with wire-based FF as the reference standard.
+METHOD: The study retrospectively recruited 100 ICAS patients who underwent pressure wire measurement and digital subtraction angiography. The AccuICAD software was used to calculate angio-based FF, with the wire-measured value serving as the reference standard for evaluating the accuracy, consistency, and diagnostic performance of angio-based FF.
+RESULTS: The mean±SD value of wire-based FF was 0.77±0.18, while the mean value of angio-based FF was 0.77±0.19. A good correlation between angio-based FF and wire-based FF was evident (r=0.90, P<0.001), with good agreement (mean difference 0.00±0.08). The diagnostic accuracy of angio-based FF and percent diameter stenosis (DS%) were 93.23% versus 72.18%, 91.73% versus 72.93%, and 89.47% versus 78.95% for predicted wire-based FF thresholds of 0.70, 0.75, and 0.80, respectively. The area under the curve (AUC) values for angio-based FF and DS% were 0.975 versus 0.822, 0.970 versus 0.814, and 0.943 versus 0.826 at the respective thresholds, respectively.
+CONCLUSION: The FF calculated from a single angiographic view can be considered an effective tool for functional assessment of cerebral arterial stenosis.
+
+Citation: Xiang J, et al. Diagnostic accuracy of hemodynamic assessment of intracranial atherosclerotic stenosis from a single angiographic view: a validation study. Diagnostic accuracy of hemodynamic assessment of intracranial atherosclerotic stenosis from a single angiographic view: a validation study. 2024; (unknown volume):(unknown pages). doi: 10.1136/jnis-2024-022114
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39304194/

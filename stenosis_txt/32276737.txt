@@ -1,0 +1,12 @@
+PMID: 32276737
+Title: Inflammasome activation by NLRP1 and NLRC4 in patients with coronary stenosis.
+
+Abstract: OBJECTIVE AND DESIGN: We performed an experimental, analytical and prospective study to evaluate the systemic activation of inflammasome in atherosclerosis' patients, in order to shed light into responsible mechanisms for plaque formation.
+SUBJECTS: We included sixty individuals distributed into 3 groups: 2 groups based on the report from the angiography (severe lesions - SL and primary lesions - PL) and 1 group enclosing healthy individuals (HC).
+METHODS: The expression assays of inflammasome genes NLRP1, NLRC4, CASP-1 and IL-1β were performed using Real Time qPCR, with specific Taqman Assays. IL-1β serum levels were analysed by commercial kit. Were applied the Shapiro-Wilk and Student's T-test as statistical tests. Statistical significance was set to p ≤ 0.05.
+RESULTS: Upregulation of NLRP1 (+3.47 FC, p = 0.0001), NLRC4 (+7.06 FC, p = 6.792 × 10-09) and IL-1β (+2.43 FC, p = 0.005) was observed in all atherosclerosis patients when compared to HC. According to stenosis severity, patients with primary lesions showed upregulation of inflammasome genes NLRP1 (+2.87 FC, p = 0.0008), NLRC4 (+6.34 FC, p = 4.134 × 10-07) and IL-1β (+3.39 FC, p = 0.0012) with respect to the HC group. No statistical difference was found in IL-1β serum levels according the assessed groups.
+CONCLUSIONS: Inflammasome activation in atherosclerosis's patients can be systemic altered and may be triggered by NLRP1 and NLRC4 receptors. IL-1β gene expression was identified in our study as an important systemic detectable marker of plaque severity.
+
+Citation: Borborema MEA, et al. Inflammasome activation by NLRP1 and NLRC4 in patients with coronary stenosis. Inflammasome activation by NLRP1 and NLRC4 in patients with coronary stenosis. 2020; 225:151940. doi: 10.1016/j.imbio.2020.151940
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32276737/

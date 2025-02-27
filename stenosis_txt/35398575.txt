@@ -1,0 +1,11 @@
+PMID: 35398575
+Title: Analysing Gait Patterns in Degenerative Lumbar Spine Disease Using Inertial Wearable Sensors: An Observational Study.
+
+Abstract: OBJECTIVE: Using a chest-based inertial wearable sensor, we examined the quantitative gait patterns associated with lumbar disc herniation (LDH), lumbar spinal stenosis (LSS), and chronic mechanical low back pain (CMLBP). 'Pathological gait signatures' were reported as statistically significant group difference (%) from the 'normative' gait values of an age-matched control population.
+METHODS: A sample of patients presenting to the Prince of Wales Private Hospital (Sydney, Australia) with primary diagnoses of LDH, LSS, or CMLBP were recruited. Spatial, temporal, asymmetry, and variability metrics were compared with age-matched (±2 years) control participants recruited from the community. Participants were fitted at the sternal angle with an inertial measurement unit, MetaMotionC, and walked unobserved (at a self-selected pace) for 120 m along an obstacle-free, carpeted hospital corridor.
+RESULTS: LDH, CMLBP, and LSS groups had unique pathological signatures of gait impairment. The LDH group (n = 33) had marked asymmetry in terms of step length, step time, stance, and single-support asymmetry. The LDH group also involved gait variability with increased step length variation. However, distinguishing the CMLBP group (n = 33) was gait variability in terms increased single-support time variation. The gait of participants with LSS (n = 22) was both asymmetric and variable in step length.
+CONCLUSIONS: Wearable sensor-based accelerometry was found to be capable of detecting the gait abnormalities present in patients with LDH, LSS, and CMLBP, when compared to age-matched controls. Objective and quantitative patterns of gait deterioration uniquely varied between these subtypes of lumbar spine disease. With further testing and validation, gait signatures may aid clinical identification of gait-altering pathologies.
+
+Citation: Natarajan P, et al. Analysing Gait Patterns in Degenerative Lumbar Spine Disease Using Inertial Wearable Sensors: An Observational Study. Analysing Gait Patterns in Degenerative Lumbar Spine Disease Using Inertial Wearable Sensors: An Observational Study. 2022; 163:e501-e515. doi: 10.1016/j.wneu.2022.04.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35398575/

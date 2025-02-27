@@ -1,0 +1,11 @@
+PMID: 35533454
+Title: Effect of microcirculatory dysfunction on coronary hemodynamics: A pilot study based on computational fluid dynamics simulation.
+
+Abstract: BACKGROUND: Invasively measured fractional flow reserve (FFR) and index of microcirculatory resistance (IMR) are gold standards for the diagnosis of coronary artery disease (CAD) and coronary microcirculatory dysfunction (CMD). However, the interaction between CAD and CMD has not been comprehensively investigated. We aim to non-invasively investigate hemodynamic effect of CMD in nonobstructive CAD cases using computational fluid dynamics (CFD) simulation.
+METHOD: This study employed CFD simulations on six cases with nonobstructive CAD and CMD in left anterior descending artery (LAD) territories. Two microcirculatory situations were simulated: normal microcirculatory resistance (MR) situation; CMD situation where MR at the outlets of LAD branches were multiplied by the ratio of clinically measured IMR to the cutoff value. Blood flow, translesional pressure drop (Δp<sub>tl</sub>), and simulated FFR (FFR<sub>CT</sub>) of LAD and non-culprit branches were compared between the two microcirculatory situations using Wilcoxon signed rank test.
+RESULTS: The results are in accordance with existing studies and clinical measurements. Compared with normal MR, there were significant decreases in outlet flow velocity and increases in FFR<sub>CT</sub> (p &lt; 0.01 for both in Wilcoxon signed rank tests) in LAD branches with CMD, with minor decreases (0.63-5.64 mmHg) in Δp<sub>tl</sub>. There was no significant influence on outlet flow velocity (&lt; 2%) and FFR<sub>CT</sub> (&lt; 0.02) in non-culprit branches (p &gt; 0.05 for both).
+CONCLUSION: IMR-based CFD simulation could estimate hemodynamic effects of CMD. CMD in a coronary artery branch can decrease its blood flow and Δp<sub>tl</sub>, increase its FFR, with little effect on non-culprit branches.
+
+Citation: Geng Y, et al. Effect of microcirculatory dysfunction on coronary hemodynamics: A pilot study based on computational fluid dynamics simulation. Effect of microcirculatory dysfunction on coronary hemodynamics: A pilot study based on computational fluid dynamics simulation. 2022; 146:105583. doi: 10.1016/j.compbiomed.2022.105583
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35533454/

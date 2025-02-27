@@ -1,0 +1,11 @@
+PMID: 36168873
+Title: Combined atrial fibrillation ablation and balloon mitral commissurotomy in patients with rheumatic mitral stenosis.
+
+Abstract: INTRODUCTION: Ablation of atrial fibrillation (AF) is usually not considered in patients with rheumatic mitral stenosis (RMS). We analyzed the results of a combined procedure of AF ablation and percutaneous balloon mitral commissurotomy (PBMC).
+METHODS: We prospectively included 22 patients with severe RMS to undergo a combined PBMC + AF ablation procedure. Noninvasive mapping of the atria was also performed. A historical sample of propensity-scored matched patients who underwent PBMC alone was used as controls. The primary endpoint was freedom from AF/AT at 1-year. Multivariate analysis evaluated sinus rhythm (SR) predictors.
+RESULTS: Successful pulmonary vein isolation and electrocardiographic imaging-based drivers ablation was performed in 20 patients following PBMC. At 1-year, 75% of the patients in the combined group were in SR compared to 40% in the propensity-score matched group (p = 0.004). The composite of AF recurrence, need for mitral surgery and all-cause mortality was also more frequent in the control group (65% vs. 30%; p = 0.005). Catheter ablation (odds ratio [OR] 1.58; 95% confidence interval [CI] [1.17-17.37]; p = 0.04) and AF type (OR 1.46; 95% CI [1.05-82.64]; p < 0.001) were the only independent predictors of SR at 1-year. Noninvasive mapping in the combined group showed that the number of simultaneous rotors (OR 2.10; 95% CI [1.41-10.2]; p = 0.04) was the only independent predictor of AF.
+CONCLUSION: A combined procedure of AF ablation and PBMC significantly increased the proportion of patients in sinus rhythm at 1-year. Noninvasive mapping may help to improve AF characterization and guide personalized AF treatment.
+
+Citation: Díez-Delhoyo F, et al. Combined atrial fibrillation ablation and balloon mitral commissurotomy in patients with rheumatic mitral stenosis. Combined atrial fibrillation ablation and balloon mitral commissurotomy in patients with rheumatic mitral stenosis. 2022; 33:2485-2495. doi: 10.1111/jce.15686
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36168873/

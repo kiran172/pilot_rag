@@ -1,0 +1,12 @@
+PMID: 37255136
+Title: Investigation of the Relationship Between Triglycerides-Glucose İndex and Coronary Slow Flow: A Retrospective Case-Control Study.
+
+Abstract: BACKGROUND: Coronary slow flow (CSF) refers to delayed distal vessel opacification in the absence of epicardial coronary artery stenosis. The etiopathogenic mechanism of CSF is still unclear.
+OBJECTIVES: This study investigates the relationship between CSF and the triglyceride-glucose (TyG) index.
+METHODS: The study sample consisted of 118 CSF patients and 105 patients with normal coronary flow (NCF). The coronary flow rate was measured via the Thrombolysis in Myocardial Infarction (TIMI) frame count (TFC) method in all patients. The TyG index was calculated as the logarithm of the [fasting triglyceride (mg/dL)×fasting glucose (mg/dL)]/2 value. A significance level of < 0.05 was adopted as statistically significant.
+RESULTS: The TyG index, low-density lipoprotein (LDL), body mass index (BMI), neutrophil-to-lymphocyte ratio (NLR) and TFC values, male ratio, and the ratio of smokers were higher, whereas high-density lipoprotein (HDL) levels were significantly lower in the CSF group compared to the NCF group (p<0,05). The correlation analysis revealed that CSF was significantly correlated with TyG index, BMI, NLR, and HDL values. The strongest of these correlations was between CSF and TyG index (r= 0.57, p<0.001). Additionally, the multivariate analysis revealed that TyG index, BMI, NLR ratio, and male gender were independent predictors for CSF (p<0.05). Receiver operating characteristic (ROC) curve analysis indicated that a cut-off value of ≥ 9.28 for the TyG index predicted CSF with a sensitivity of 78% and a specificity of 78.1% [Area under the curve (AUC): 0.868 and 95% Confidence Interval (CI): 0.823-0.914].
+CONCLUSION: The findings of this study revealed a very strong relationship between CSF and TyG index.
+
+Citation: Kaplangoray M, et al. Investigation of the Relationship Between Triglycerides-Glucose İndex and Coronary Slow Flow: A Retrospective Case-Control Study. Investigation of the Relationship Between Triglycerides-Glucose İndex and Coronary Slow Flow: A Retrospective Case-Control Study. 2023; 120:e20220679. doi: 10.36660/abc.20220679
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37255136/

@@ -1,0 +1,11 @@
+PMID: 37740622
+Title: ECG left ventricular hypertrophy in aortic stenosis: Relationship with cardiac structure, invasive hemodynamics, and long-term mortality.
+
+Abstract: BACKGROUND: In aortic stenosis (AS), left ventricular hypertrophy (LVH) is the response to pressure overload and represents the substrate for a maladaptive cascade, the so-called AS-related cardiac damage. We hypothesized that in AS patients electrocardiogram (ECG) LVH not only predicts echocardiography LVH but also other noninvasive and invasive markers of cardiac damage and prognosis after aortic valve replacement (AVR).
+METHODS: In 279 patients with severe AS undergoing ECG, echocardiography, and cardiac catheterization before AVR, the Sokolow-Lyon index, the Cornell product, the Romhilt-Estes score, and the Peguero-Lo Presti score were assessed.
+RESULTS: The mean left ventricular mass index was 109 ± 34 g/m2 , and 131 (47%) patients had echocardiography LVH. The areas under the receiver operator characteristics curve (AUC) for the Sokolow-Lyon index, the Cornell product, the Romhilt-Estes score, and the Peguero-Lo Presti score for the prediction of echocardiography LVH were 0.59, 0.70, 0.63, and 0.65. The Peguero-Lo Presti score had the numerically greatest AUC for the prediction of left ventricular end-diastolic pressure &gt;15 mmHg, mean pulmonary artery wedge pressure &gt;15 mmHg, pulmonary vascular resistance &gt;3 Wood units, mean right atrial pressure &gt;14 mmHg, and stroke volume index &lt;31 mL/m2 . After a median follow-up of 1365 (interquartile range: 931-1851) days after AVR only the Peguero-Lo Presti score was significantly associated with all-cause mortality [hazard ratio: 1.24 (95% confidence interval: 1.01-1.54); per 1 mV increase; p = .045].
+CONCLUSIONS: Among severe AS patients, the Peguero-Lo Presti score is associated with abnormalities in cardiac structure including LVH, invasive measures of cardiac damage, and long-term mortality after AVR.
+
+Citation: Sager P, et al. ECG left ventricular hypertrophy in aortic stenosis: Relationship with cardiac structure, invasive hemodynamics, and long-term mortality. ECG left ventricular hypertrophy in aortic stenosis: Relationship with cardiac structure, invasive hemodynamics, and long-term mortality. 2024; 47:e24155. doi: 10.1002/clc.24155
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37740622/

@@ -1,0 +1,11 @@
+PMID: 34522766
+Title: Evaluating treatment-specific post-discharge quality-of-life and cost-effectiveness of TAVR and SAVR: Current practice & future directions.
+
+Abstract: BACKGROUND: Aortic stenosis is a prevalent valvular heart disease that is treated primarily by surgical aortic valve replacement (SAVR) or transcatheter aortic valve replacement (TAVR), which are common treatments for addressing symptoms secondary to valvular heart disease. This narrative review article focuses on the existing literature comparing recovery and cost-effectiveness for SAVR and TAVR.
+METHODS: Major databases were searched for relevant literature discussing HRQOL and cost-effectiveness of TAVR and SAVR. We also searched for studies analyzing the use of wearable devices to monitor post-discharge recovery patterns.
+RESULTS: The literature focusing on quality-of-life following TAVR and SAVR has been limited primarily to single-center observational studies and randomized controlled trials. Studies focused on TAVR report consistent and rapid improvement relative to baseline status. Common HRQOL instruments (SF-36, EQ-5D, KCCQ, MLHFQ) have been used to document that TF-TAVR is advantageous over SAVR at 1-month follow-up, with the benefits leveling off following 1 year. TF-TAVR is economically favorable relative to SAVR, with estimated incremental cost-effectiveness ratio values ranging from $50,000 to $63,000/QALY gained. TA-TAVR has not been reported to be advantageous from an HRQOL or cost-effectiveness perspective.
+CONCLUSIONS: While real-world experiences are less described, large-scale trials have advanced our understanding of recovery and cost-effectiveness of aortic valve replacement treatment strategies. Future work should focus on scalable wearable device technology, such as smartwatches and heart-rate monitors, to facilitate real-world evaluation of TAVR and SAVR to support clinical decision-making and outcomes ascertainment.
+
+Citation: Fliegner MA, et al. Evaluating treatment-specific post-discharge quality-of-life and cost-effectiveness of TAVR and SAVR: Current practice & future directions. Evaluating treatment-specific post-discharge quality-of-life and cost-effectiveness of TAVR and SAVR: Current practice & future directions. 2021; 36:100864. doi: 10.1016/j.ijcha.2021.100864
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34522766/

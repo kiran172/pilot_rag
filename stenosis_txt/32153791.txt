@@ -1,0 +1,11 @@
+PMID: 32153791
+Title: Clinical value of the 20% logistic EuroSCORE cut-off for selecting TAVI candidates: a single-centre cohort study analysis.
+
+Abstract: BACKGROUND: A logistic European System for Cardiac Operative Risk Evaluation (logEuroSCORE) ≥20% is frequently recognised as a finite criteria for transcatheter aortic valve implantation (TAVI) reimbursement, despite guideline modifications to reflect the appropriacy of TAVI in selected lower-risk patients. The aim was to evaluate the clinical value of this threshold cut-off in TAVI patients and to identify factors associated with mortality in those below this threshold.
+METHODS: We analysed data from a single-centre, German, observational, TAVI-patient registry, gathered between 2008 and 2016. Patients were stratified by logEuroSCORE (≥ or <20%) for comparisons. Logistic regression was performed to identify predictors of mortality at 1 year, with this analysis used to generate a calculated ('real') risk value for each patient.
+RESULTS: 1679 patients (logEuroSCORE <20%: n=789; logEuroSCORE ≥20%: n=890) were included. LogEuroSCORE <20% patients were significantly younger (80.1 vs 81.6 years; p<0.001) and less comorbid than logEuroSCORE ≥20% patients, with a higher rate of transfemoral TAVI (35.6% vs 26.1%; p<0.001) and predilation (70.0% vs 63.3%; p=0.004). Patients with a logEuroSCORE <20% experienced more vascular complications (3.4% vs 1.5%; p=0.010). One-year survival was 88.3% in the logEuroSCORE <20% and 81.8% in the logEuroSCORE ≥20% group (p=0.005), with the calculated mortality risk falling within 2% of the logEuroSCORE in just 12.9% of patients. In the logEuroSCORE <20% group, only coronary artery disease was significantly predictive of 1-year mortality (OR 2.408; 95% CI 1.361 to 4.262; p=0.003).
+CONCLUSIONS: At our institution, patients with a logEuroSCORE <20% selected for TAVI have excellent outcomes. The decision not to reimburse TAVI in such patients may be viewed as inappropriate.
+
+Citation: Imnadze G, et al. Clinical value of the 20% logistic EuroSCORE cut-off for selecting TAVI candidates: a single-centre cohort study analysis. Clinical value of the 20% logistic EuroSCORE cut-off for selecting TAVI candidates: a single-centre cohort study analysis. 2020; 7:e001194. doi: 10.1136/openhrt-2019-001194
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32153791/

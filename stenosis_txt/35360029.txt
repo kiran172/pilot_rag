@@ -1,0 +1,11 @@
+PMID: 35360029
+Title: Progression of Mitral Regurgitation in Rheumatic Valve Disease: Role of Left Atrial Remodeling.
+
+Abstract: INTRODUCTION: Mitral regurgitation (MR) is the most common valve abnormality in rheumatic heart disease (RHD) often associated with stenosis. Although the mechanism by which MR develops in RHD is primary, longstanding volume overload with left atrial (LA) remodeling may trigger the development of secondary MR, which can impact on the overall progression of MR. This study is aimed to assess the incidence and predictors of MR progression in patients with RHD.
+METHODS: Consecutive RHD patients with non-severe MR associated with any degree of mitral stenosis were selected. The primary endpoint was a progression of MR, which was defined as an increase of one grade in MR severity from baseline to the last follow-up echocardiogram. The risk of MR progression was estimated accounting for competing risks.
+RESULTS: The study included 539 patients, age of 46.2 ± 12 years and 83% were women. At a mean follow-up time of 4.2 years (interquartile range [IQR]: 1.2-6.9 years), 54 patients (10%) displayed MR progression with an overall incidence of 2.4 per 100 patient-years. Predictors of MR progression by the Cox model were age (adjusted hazard ratio [HR] 1.541, 95% CI 1.222-1.944), and LA volume (HR 1.137, 95% CI 1.054-1.226). By considering competing risk analysis, the direction of the association was similar for the rate (Cox model) and incidence (Fine-Gray model) of MR progression. In the model with LA volume, atrial fibrillation (AF) was no longer a predictor of MR progression. In the subgroup of patients in sinus rhythm, 59 had an onset of AF during follow-up, which was associated with progression of MR (HR 2.682; 95% CI 1.133-6.350).
+CONCLUSIONS: In RHD patients with a full spectrum of MR severity, progression of MR occurs over time is predicted by age and LA volume. LA enlargement may play a role in the link between primary MR and secondary MR in patients with RHD.
+
+Citation: Gomes NFA, et al. Progression of Mitral Regurgitation in Rheumatic Valve Disease: Role of Left Atrial Remodeling. Progression of Mitral Regurgitation in Rheumatic Valve Disease: Role of Left Atrial Remodeling. 2022; 9:862382. doi: 10.3389/fcvm.2022.862382
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35360029/

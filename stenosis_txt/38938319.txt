@@ -1,0 +1,12 @@
+PMID: 38938319
+Title: Outcomes of Transcatheter Aortic Valve Replacement in Patients With Coexisiting Amyloidosis: Mortality, Stroke, and Readmission.
+
+Abstract: BACKGROUND: Cardiac amyloidosis can coexist in patients with severe aortic stenosis. There are limited outcomes data on whether this impacts the risk of transcatheter aortic valve replacement (TAVR).
+OBJECTIVES: The authors aimed to investigate the effect of amyloidosis on outcomes of TAVR.
+METHODS: We used the Nationwide Readmissions Database to identify hospitalizations for TAVR between 2016 and 2019. The presence of a diagnosis of amyloidosis was identified. Propensity score-weighted regression analysis was used to identify the association of amyloidosis with in-hospital mortality, acute ischemic stroke, and 30-day readmission rate after TAVR.
+RESULTS: We identified 245,020 hospitalizations for TAVR, including 273 in patients with amyloidosis. The mean age was 79.4 ± 8.4 years. There was no difference in in-hospital mortality or 30-day readmission rate in patients with and without amyloidosis (1.8% vs 1.5%, P = 0.622; and 12.9% vs 12.5%, P = 0.858; respectively). However, there was a higher rate of acute ischemic stroke in patients with amyloidosis (6.2% vs 1.8%, P &lt; 0.001). Propensity score-weighted logistic regression analysis showed the presence of amyloidosis was associated with greater odds of acute ischemic stroke (odds ratio: 3.08, 95% CI: 1.41-6.71, P = 0.005), but no difference in mortality (odds ratio: 0.79, 95% CI: 0.28-2.27, P = 0.666) or 30-day readmission rate after TAVR (HR: 0.72, 95% CI: 0.41-1.25, P = 0.241).
+CONCLUSIONS: This analysis suggests amyloidosis may be associated with a higher thromboembolic risk after TAVR that merits further investigation.
+
+Citation: Elzeneini M, et al. Outcomes of Transcatheter Aortic Valve Replacement in Patients With Coexisiting Amyloidosis: Mortality, Stroke, and Readmission. Outcomes of Transcatheter Aortic Valve Replacement in Patients With Coexisiting Amyloidosis: Mortality, Stroke, and Readmission. 2023; 2:100255. doi: 10.1016/j.jacadv.2023.100255
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38938319/

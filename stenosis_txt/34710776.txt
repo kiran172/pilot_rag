@@ -1,0 +1,11 @@
+PMID: 34710776
+Title: Lipid Levels and Short-Term Risk of Recurrent Brain Infarcts in Symptomatic Intracranial Stenosis.
+
+Abstract: OBJECTIVES: Hyperlipidemia is a strong risk factor for intracranial atherosclerotic disease (ICAD) and clinical stroke recurrence. We explored the effect of serum lipid levels on subclinical infarct recurrence in the Mechanisms of earlY Recurrence in Intracranial Atherosclerotic Disease (MYRIAD) study.
+MATERIALS AND METHODS: We included enrolled MYRIAD patients with lipid measurements and brain MRI at baseline and brain MRI at 6-8 weeks. Infarct recurrence was defined as new infarcts in the territory of the symptomatic artery on brain MRI at 6-8 weeks compared to baseline brain MRI. We assessed the association between baseline total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein cholesterol (HDL-C), and triglyceride (TG) levels and recurrent infarct at 6-8 weeks using multivariable logistic regression.
+RESULTS: Among 74 patients (mean age 64.2±12.9 years, 59.5% were white, 60.8% men), 20 (27.0%) had new or recurrent infarcts. Mean HDL-C (37.2 vs. 43.9 mg/dL, P=0.037) was lower and TG (113.5 vs. 91.3 mg/dL, P=0.008) was higher while TC (199.8 vs. 174.3 mg/dL, P=0.061) and LDL-C (124.3 vs. 101.2 mg/dL, P=0.053) were nominally higher among those with recurrent infarcts than those without. LDL-C (adj. OR 1.022, 95% CI 1.004-1.040, P=0.015) and TG (adj. OR 1.009, 95% CI 1.001-1.016, P=0.021) were predictors of recurrent infarct at 6-8 weeks adjusting for other clinical and imaging factors.
+CONCLUSIONS: Baseline cholesterol markers can predict early infarct recurrence in patients with symptomatic ICAD. More intensive and rapid lipid lowering drugs may be required to reduce risk of early recurrence.
+
+Citation: Prabhakaran S, et al. Lipid Levels and Short-Term Risk of Recurrent Brain Infarcts in Symptomatic Intracranial Stenosis. Lipid Levels and Short-Term Risk of Recurrent Brain Infarcts in Symptomatic Intracranial Stenosis. 2022; 31:106141. doi: 10.1016/j.jstrokecerebrovasdis.2021.106141
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34710776/

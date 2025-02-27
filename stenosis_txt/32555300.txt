@@ -1,0 +1,8 @@
+PMID: 32555300
+Title: A validated computational framework to predict outcomes in TAVI.
+
+Abstract: Transcatheter aortic valve implantation (TAVI) still presents complications: paravalvular leakage (PVL) and onset of conduction abnormalities leading to permanent pacemaker implantation. Our aim was testing a validated patient-specific computational framework for prediction of TAVI outcomes and possible complications. Twenty-eight TAVI patients (14 SapienXT and 14 CoreValve) were retrospectively selected. Pre-procedural CT images were post-processed to create 3D patient-specific implantation sites. The procedures were simulated with finite element analysis. Simulations' results were compared against post-procedural clinical fluoroscopy and echocardiography images. The computational model was in good agreement with clinical findings: the overall stent diameter difference was 2.6% and PVL was correctly identified with a post-processing algorithm in 83% of cases. Strains in the implantation site were studied to assess the risk of conduction system disturbance and were found highest in the patient who required pacemaker implantation. This study suggests that computational tool could support safe planning and broadening of TAVI.
+
+Citation: Bosi GM, et al. A validated computational framework to predict outcomes in TAVI. A validated computational framework to predict outcomes in TAVI. 2020; 10:9906. doi: 10.1038/s41598-020-66899-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32555300/

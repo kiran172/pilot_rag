@@ -1,0 +1,11 @@
+PMID: 34560043
+Title: Aortic Stenosis and Coronary Artery Disease: Cost of Transcatheter vs Surgical Management.
+
+Abstract: BACKGROUND: Surgical aortic valve replacement with coronary artery bypass grafting (SAVR+CABG) is the recommended treatment for aortic stenosis and coronary artery disease; however, percutaneous coronary intervention at the time of transcatheter aortic valve replacement (TAVR+PCI) is used with increasing frequency.
+METHODS: Using the National Inpatient Sample, we identified all adult admissions with a diagnosis of aortic stenosis. Subgroups of SAVR+CABG and TAVR+PCI formed the study group. Outcomes of interest included total hospitalization charges, temporal trends, in-hospital mortality, and complications.
+RESULTS: Between 2012 and 2017, a total of 97 955 admissions (95.9%) received SAVR+CABG, and 4240 (4.1%) received TAVR+PCI; the proportion of TAVR+PCI increased from 1% in 2012 to 9.2% in 2017 (P < .001). Compared with patients receiving TAVR+PCI, admissions receiving SAVR+CABG were younger, more likely to be male, and had lower comorbidity (all P < .001). Adjusted in-hospital mortality was comparable in both groups (odds ratio 0.94; 95% confidence interval, 0.79 to 1.11; P = .45). Higher rates of pacemaker implantation, cardiac arrest, and vascular complications were seen in the TAVR+PCI group, whereas SAVR+CABG was associated with a greater requirement for prolonged ventilation. Admissions receiving TAVR+PCI had shorter lengths of hospital stay and were more likely to be discharged home. Nevertheless, the TAVR+PCI group had higher hospitalization charges compared with the SAVR+CABG group (all P < .001).
+CONCLUSIONS: There has been a steady increase in the use of percutaneous strategies for aortic stenosis and coronary artery disease management. In-hospital mortality was comparable in SAVR+CABG and TAVR+PCI groups, but despite shorter in-hospital stays, TAVR+PCI was associated with higher cardiac and vascular complication rates and hospitalization charges.
+
+Citation: Patlolla SH, et al. Aortic Stenosis and Coronary Artery Disease: Cost of Transcatheter vs Surgical Management. Aortic Stenosis and Coronary Artery Disease: Cost of Transcatheter vs Surgical Management. 2022; 114:659-666. doi: 10.1016/j.athoracsur.2021.08.028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34560043/

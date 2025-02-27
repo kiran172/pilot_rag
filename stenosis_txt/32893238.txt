@@ -1,0 +1,10 @@
+PMID: 32893238
+Title: Hybrid Assessment of Myocardial Ischemia Using Stress-Only Nuclear Myocardial Perfusion Imaging and Rest Computed Tomography Perfusion Imaging.
+
+Abstract: BACKGROUND: Sequential assessment using CT coronary angiography (coronary CT) and nuclear myocardial perfusion imaging (MPI) is considered an anatomical and functional evaluation of coronary artery disease (CAD). However, there can be unexpected radiation exposure. Hybrid MPI with stress-only nuclear MPI and rest CT-MPI using coronary CT may contribute to reducing the radiation dose in sequential assessment with nuclear MPI after coronary CT. We analyzed the diagnostic performance and total radiation dose of hybrid MPI for detection of significant CAD compared with sequential assessment using nuclear MPI after coronary CT.
+METHODS AND RESULTS: The results for 101 patients who underwent coronary CT, nuclear MPI and invasive coronary angiography within 3 months of all imaging were analyzed. We calculated the summed difference score (SDS) from standard nuclear MPI and hybrid SDS from hybrid MPI, which revealed myocardial ischemia. The diagnostic performance of SDS and hybrid SDS for detecting significant CAD was analyzed using receiver-operating characteristic (ROC) curve analysis. We also compared the total radiation dose of both methods. The area under the ROC curve was not different between SDS and hybrid SDS (0.901 and 0.815, P=0.079). Total radiation dose of hybrid MPI was significantly lower than standard nuclear MPI with CT angiography (4.62 mSv vs. 9.72 mSv, P<0.0001).
+CONCLUSIONS: Hybrid MPI showed a precise diagnostic accuracy for significant CAD detection.
+
+Citation: Suzuki Y, et al. Hybrid Assessment of Myocardial Ischemia Using Stress-Only Nuclear Myocardial Perfusion Imaging and Rest Computed Tomography Perfusion Imaging. Hybrid Assessment of Myocardial Ischemia Using Stress-Only Nuclear Myocardial Perfusion Imaging and Rest Computed Tomography Perfusion Imaging. 2020; 84:1818-1825. doi: 10.1253/circj.CJ-20-0499
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32893238/

@@ -1,0 +1,12 @@
+PMID: 33451956
+Title: Skeletal Muscle Characteristics May Inform Preprocedural Risk Stratification in Transcatheter Aortic Valve Replacement Patients.
+
+Abstract: OBJECTIVES: Low psoas muscle mass previously has been associated with mortality after transcatheter aortic valve replacement (TAVR). Evidence from other clinical disciplines suggests that psoas density (PD) may be a better predictor than psoas muscle cross-sectional area indexed to body surface area (PI). The authors hypothesized that PD would be more strongly correlated with patient discharge disposition and survival after TAVR than PI.
+DESIGN: The authors performed a single-center, retrospective study of TAVR patients from 2013 to 2016. PI and PD were assessed at the third lumbar spine level using computed tomography imaging. Propensity-score matching was used to investigate the association of PI and PD with discharge disposition and mortality.
+SETTING: Tertiary university hospital PARTICIPANTS: Cohort of 245 TAVR patients.
+INTERVENTIONS: None MEASUREMENTS AND MAIN RESULTS: A total of 245 patients met inclusion criteria. Following propensity score matching, patients with PI &lt;4 cm2/m2 and PD &lt;25 Hounsfield units (HU) were less likely to survive and to be discharged home compared with patients with PI ≥4 cm2/m2 or PD &gt;25 HU. After repeating the propensity score matching with PI as a covariable, PD remained associated with mortality (90 days: odds ratio [OR] 4.59; 95% confidence interval [CI] 2.96-10.31, p &lt; 0.001, 1 year: OR 6.14; 95% CI 3.45-28.57, p = 0.01, 3 years: OR 4.55; 95% CI 2.41-40.00, p = 0.03).
+CONCLUSIONS: PD may be more relevant than PI in risk stratification for TAVR patients.
+
+Citation: Furzan A, et al. Skeletal Muscle Characteristics May Inform Preprocedural Risk Stratification in Transcatheter Aortic Valve Replacement Patients. Skeletal Muscle Characteristics May Inform Preprocedural Risk Stratification in Transcatheter Aortic Valve Replacement Patients. 2021; 35:2618-2625. doi: 10.1053/j.jvca.2020.12.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33451956/

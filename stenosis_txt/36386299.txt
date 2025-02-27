@@ -1,0 +1,11 @@
+PMID: 36386299
+Title: Clinical assessment of resting full-cycle ratio and fractional flow reserve for coronary artery disease in a real-world cohort.
+
+Abstract: BACKGROUND: There are few reports published on the comparison of the resting full-cycle ratio (RFR) and fractional flow reserve (FFR) on the assessment of the severity of coronary stenosis. We aimed to investigate the diagnostic accuracy of RFR for detection of functionally significant coronary lesions.
+METHODS: This was an observational, retrospective, single-center study. We evaluated both RFR and FFR for 277 coronary lesions of 235 patients who underwent coronary angiography. Patients presenting with chronic coronary syndrome, unstable angina, or non-ST-elevation myocardial infarction were included.
+RESULTS: The mean FFR and RFR values were 0.84 ± 0.08 and 0.90 ± 0.08, respectively. RFR significantly correlated with FFR (r = 0.727, P &lt; 0.001). The agreement rate between the FFR and RFR was 79.8% (221/277). The diagnostic performance of RFR vs. FFR was accuracy 79.8%, sensitivity 70.4%, specificity 83.7%, positive predictive value 64.0%, and negative predictive value 87.2%. The discriminative power of RFR to identify lesions with FFR ≤ 0.80 was acceptable when the RFR value was within the gray zone [0.86 ≤ RFR ≤ 0.93; AUC: 0.72 (95% CI:0.63-0.81)], while it was excellent when the RFR value was out of the gray zone [RFR &gt; 0.93 or &lt; 0.86; AUC: 0.94 (95% CI:0.88-0.99)].
+CONCLUSION: RFR was significantly correlated with FFR in the assessment of intermediate coronary stenosis. An RFR-FFR hybrid approach increases the diagnostic accuracy of RFR in the detection of functionally significant lesions.
+
+Citation: Chuang MJ, et al. Clinical assessment of resting full-cycle ratio and fractional flow reserve for coronary artery disease in a real-world cohort. Clinical assessment of resting full-cycle ratio and fractional flow reserve for coronary artery disease in a real-world cohort. 2022; 9:988820. doi: 10.3389/fcvm.2022.988820
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36386299/

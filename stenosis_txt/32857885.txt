@@ -1,0 +1,13 @@
+PMID: 32857885
+Title: Characterization of Fibroblasts in Iatrogenic Laryngotracheal Stenosis and Type II Diabetes Mellitus.
+
+Abstract: OBJECTIVES: Iatrogenic laryngotracheal stenosis (iLTS) is the pathological narrowing of the glottis, subglottis, and/or trachea due to scar tissue. Patients with type 2 diabetes mellitus (T2DM) are over 8 times more likely to develop iLTS and represent 26% to 53% of all iLTS patients. In this investigation, we compared iLTS scar-derived fibroblasts in patients with and without T2DM.
+STUDY DESIGN: Controlled ex vivo study.
+METHODS: iLTS scar fibroblasts were isolated and cultured from subglottic scar biopsies in iLTS patients diagnosed with or without type 2 diabetes (non-T2DM). Fibroblast proliferation, fibrosis-related gene expression, and metabolic utilization of oxidative phosphorylation (OXPHOS) and glycolysis were assessed. Contractility was measured using a collagen-based assay. Metabolically targeted drugs (metformin, phenformin, amobarbital) were tested, and changes in fibrosis-related gene expression, collagen protein, and contractility were evaluated.
+RESULTS: Compared to non-T2DM, T2DM iLTS scar fibroblasts had increased α-smooth muscle actin (αSMA) expression (8.2× increased, P = .020), increased contractility (mean 71.4 ± 4.3% vs. 51.7 ± 16% Δ area × 90 minute-1 , P = .016), and reduced proliferation (1.9× reduction at 5 days, P &lt; .01). Collagen 1 (COL1) protein was significantly higher in the T2DM group (mean 2.06 ± 0.19 vs. 0.74 ±.44 COL1/total protein [pg/μg], P = .036). T2DM iLTS scar fibroblasts had increased measures of OXPHOS, including basal respiration (mean 86.7 vs. 31.5 pmol/minute/10 μg protein, P = .016) and adenosine triphosphate (ATP) generation (mean 97.5 vs. 25.7 pmol/minute/10 μg protein, P = .047) compared to non-T2DM fibroblasts. Amobarbital reduced cellular contractility; decreased collagen protein; and decreased expression of αSMA, COL1, and fibronectin. Metformin and phenformin did not significantly affect fibrosis-related gene expression.
+CONCLUSION: T2DM iLTS scar fibroblasts demonstrate a myofibroblast phenotype and greater contractility compared to non-T2DM. Their bioenergetic preference for OXPHOS drives their increased contractility, which is selectively targeted by amobarbital.
+LEVEL OF EVIDENCE: NA Laryngoscope, 131:1570-1577, 2021.
+
+Citation: Lina I, et al. Characterization of Fibroblasts in Iatrogenic Laryngotracheal Stenosis and Type II Diabetes Mellitus. Characterization of Fibroblasts in Iatrogenic Laryngotracheal Stenosis and Type II Diabetes Mellitus. 2021; 131:1570-1577. doi: 10.1002/lary.29026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32857885/

@@ -1,0 +1,11 @@
+PMID: 35040739
+Title: Protamine use in transcarotid arterial revascularization.
+
+Abstract: OBJECTIVE: The literature suggests that heparin reversal with protamine in transcarotid arterial revascularization (TCAR) decreases postoperative bleeding complications without an increase in stroke or death. However, the dosing of protamine in TCAR has not yet been evaluated. We aimed to evaluate our experience with intraoperative heparin reversal with protamine.
+METHODS: This was a single-center, retrospective, observational study that evaluated the heparin and protamine doses used during TCAR. All adult patients who underwent TCAR between 9/1/2019 and 4/2/2021 were included. Demographic data was obtained from the Vascular Quality Initiative and protamine/heparin doses were obtained from a chart review. Multivariate logistic regression models were used to assess the association between the protamine/heparin dose ratio and other variables.
+RESULTS: Sixty-two patients were included. The average protamine/heparin dose ratio used was 0.96 ± 0.12 mg/U; seven had a ratio less than 0.8 mg/U, and one was greater than 1.2 mg/U. Two patients experienced bleeding complications, which were managed non-operatively. No patient with a protamine/heparin ratio greater than 0.8 mg/U had postoperative bleeding. Postoperative bradycardia was observed in 32.3% of patients and hypotension in 35%, with 19% requiring vasopressors. No relationship was identified between the protamine/heparin ratio and bleeding, bradycardia, or hypotension. No 30-day myocardial infarction, stroke or death occurred.
+CONCLUSIONS: We identified a near 1:1 ratio of a protamine/heparin dosing regimen for the reversal of heparin during TCAR, with postoperative bleeding complications similar to those reported in the literature. However, patients who received a lower protamine/heparin ratio did not experience bleeding complications. In the era of protamine shortages, a future larger-scale study is needed to evaluate the impact of a lower protamine dose on postoperative complications.
+
+Citation: Kanitra JJ, et al. Protamine use in transcarotid arterial revascularization. Protamine use in transcarotid arterial revascularization. 2023; 31:312-316. doi: 10.1177/17085381211067047
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35040739/

@@ -1,0 +1,12 @@
+PMID: 36602599
+Title: Prognostic impact of resting full-cycle ratio and diastolic non-hyperemic pressure ratios in patients with deferred revascularization.
+
+Abstract: BACKGROUND: Non-hyperemic pressure ratios (NHPRs) like resting full-cycle ratio (RFR), diastolic pressure ratio during entire diastole (dPR[entire]) and diastolic pressure ratio during wave-free period (dPR[WFP]) are increasingly used to guide revascularization. The effect of NHPRs on mid-term prognosis has not been well established.
+OBJECTIVE: We investigated the prognostic implications of NHRPs in patients whose revascularization was deferred based on fractional flow reserve (FFR) in a single-centre population.
+METHODS: NHPRs and FFR were calculated offline from pressure tracings by an independent core laboratory. Follow-up data were acquired through records of hospital visits or telephone interviews. The primary outcome was a vessel-oriented composite outcome (VOCO) (a composite of cardiac death, vessel-related myocardial infarction, and ischemia-driven revascularization) in deferred vessels at 2 years.
+RESULTS: 316 patients with 377 deferred lesions were analysed. Discordance of NHPRs and FFR was found in 13.0-18.3% of lesions. The correlation coefficient between NHPRs was 0.99 (95% confidence interval 0.99-1.00). At 2 years, VOCO occurred in 19 lesions (5.0%). Estimated glomerular filtration rate &lt; 30 mL/min/1.73 m2 [hazard ratio (HR) 5.7, p = 0.002], previous myocardial infarction (HR 3.3, p = 0.018), diabetes (HR 2.7, p = 0.042), RFR ≤ 0.89 (HR 2.7, p = 0.041) and dPR[WFP] ≤ 0.89 (HR 2.7, p = 0.049) were associated with higher incidence of VOCO at 2 years in the univariable analysis. A non-significant trend was found for dPR[entire] (HR 1.9, p = 0.26).
+CONCLUSION: A positive RFR or dPR[WFP] were associated with a worse prognosis in deferred lesions, suggesting that the use of NHPRs in addition to FFR may improve risk estimation.
+
+Citation: Halbach M, et al. Prognostic impact of resting full-cycle ratio and diastolic non-hyperemic pressure ratios in patients with deferred revascularization. Prognostic impact of resting full-cycle ratio and diastolic non-hyperemic pressure ratios in patients with deferred revascularization. 2023; 112:1220-1230. doi: 10.1007/s00392-022-02149-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36602599/

@@ -1,0 +1,11 @@
+PMID: 35580200
+Title: Role of Quantitative Flow Ratio in Predicting Future Cardiac Allograft Vasculopathy in Heart Transplant Recipients.
+
+Abstract: BACKGROUND: Coronary angiography is the gold standard for cardiac allograft vasculopathy (CAV) diagnosis, but it usually detects the disease at an advanced stage. We investigated the role of quantitative flow ratio (QFR), a noninvasive tool to identify potentially flow-limiting lesions, in predicting CAV development in heart transplant recipients.
+METHODS: Consecutive heart transplant recipients with no evidence of angiographic CAV at baseline coronary angiography were retrospectively included between January 2010 and December 2015, and QFR computation was performed. The relationship between vessel QFR and the occurrence of angiographic vessel-related CAV (≥50% stenosis) was assessed.
+RESULTS: One hundred forty-three patients were included and QFR computation was feasible in 241 vessels. The median value of QFR at baseline coronary angiography was 0.98 (interquartile range, 0.94-1.00). During a median follow-up of 6.0 years (interquartile range, 4.6-7.8 years), vessel-related CAV occurred in 25 (10.4%) vessels. Receiver-operating characteristic curve analysis identified a QFR best cutoff of ≤0.95 (area under the curve, 0.81 [95% CI, 0.71-0.90]; P&lt;0.001). QFR≤0.95 was associated with an increased risk of vessel-related CAV (adjusted hazard ratio, 20.87 [95% CI, 5.35-81.43]; P&lt;0.001). In an exploratory analysis, QFR≤0.95 in at least 2 vessels was associated with higher incidence of cardiovascular death or late graft dysfunction (71.4% in recipients with 2-3 vessels affected versus 5.1% in recipients with 0-1 vessels affected, P&lt;0.001).
+CONCLUSIONS: In a cohort of heart transplant recipients, QFR computation at baseline coronary angiography may be a safe and reliable tool to predict vessel-related CAV and clinical outcomes at long-term follow-up.
+
+Citation: Spitaleri G, et al. Role of Quantitative Flow Ratio in Predicting Future Cardiac Allograft Vasculopathy in Heart Transplant Recipients. Role of Quantitative Flow Ratio in Predicting Future Cardiac Allograft Vasculopathy in Heart Transplant Recipients. 2022; 15:e011656. doi: 10.1161/CIRCINTERVENTIONS.121.011656
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35580200/

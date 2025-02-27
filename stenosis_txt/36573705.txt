@@ -1,0 +1,11 @@
+PMID: 36573705
+Title: Lumen diameter is associated with the patency after percutaneous angioplasty of arteriovenous fistulas.
+
+Abstract: AIM: To assess the value of lumen diameter after percutaneous angioplasty (PTA) to predict functional dialysis use (FDU) of arteriovenous fistulas (AVF).
+METHODS: We performed a retrospective study of all patients who underwent first PTA because of AVF stenosis between March 2019 and March 2021. The outcome was FDU of AVF at 6 months follow up. Independent factors of FDU were identified using multivariate regression analyses. Receiver operating characteristic (ROC) curve was performed to investigate the predictive ability of lumen diameter for FDU.
+RESULTS: A total 68 patients were included into this study and the AVF of 53 cases (77.9%) were good for FDU after 6 months. The AVF age was younger in failure group than that in success group (16.1 ± 9.1 months vs 28.3 ± 20.0 months, p = 0.026). Compared with failure group, the post-PTA minimum luminal diameter (MLD) was bigger in success group (4.5 [4.0-4.5 mm] vs 5.5 mm [4.5-5.5 mm], p &lt; 0.001). Meanwhile, the gain of lumen diameter in success group was also bigger than that in failure group (2.5 mm [2.0-3.0 mm] in failure group vs 3.0 mm [2.75-3.5 mm] in success group, p = 0.012). The residual stenosis was higher in failure group than that in success group (30% [10%-40%] vs 10% [0%-20%], p = 0.003). Logistic regression showed that AVF age and post-PTA MLD were independent predictors of FDU. ROC analysis showed that the gain of lumen diameter, post-PTA MLD and improvement of stenosis were comparable to predict FDU. For post-PTA MLD, the area under ROC curve was 0.804 (95% CI, 0.681-0.927, p &lt; 0.001). The best cutoff is 4.75 mm, with the sensitivity and specificity was 71.7% and 80.0%, respectively.
+CONCLUSIONS: AVF age and post-PTA MLD were independently predictors for FDU of AVF after PTA. To get the best performance, a minimum vein diameter of 4.75 mm should be obtained after angioplasty.
+
+Citation: Li D, et al. Lumen diameter is associated with the patency after percutaneous angioplasty of arteriovenous fistulas. Lumen diameter is associated with the patency after percutaneous angioplasty of arteriovenous fistulas. 2024; 25:1087-1092. doi: 10.1177/11297298221112531
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36573705/

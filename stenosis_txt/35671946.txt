@@ -1,0 +1,15 @@
+PMID: 35671946
+Title: Outcome of spine surgery in patients with depressed mental states: a Canadian spine outcome research network study.
+
+Abstract: BACKGROUND CONTEXT: Depression is higher among spine patients than among the general population. Some small studies, but not others, have suggested that depression may be a predictor of worse outcome after surgery.
+PURPOSE: Determination whether there is an association between depression and worse response to surgery among spine patients.
+STUDY DESIGN/SETTING: The national, prospective, Canadian Spine Outcome Research Network (CSORN) surgical outcome registry.
+PATIENT SAMPLE: All patients in the CSORN registry who received surgery for thoracic or lumbar degenerative deformity, stenosis, spondylolisthesis, disc disease, or disc herniation with a minimum of 12 months follow-up postoperation (n = 2310).
+OUTCOME MEASURES: Oswestry Disability Index (ODI), SF12 Physical Component Score (PCS), European Quality of Life (EuroQoL), and pain scales.
+METHODS: Change in preoperative to 12-month postoperative ODI, and secondary measures, were compared to assess if there was an association between preoperative depression, as measured by PHQ9, and smaller response to surgery. Multivariate regression analysis was used to search for preoperative factors which might interact with PHQ9 to predict ODI outcome.
+RESULTS: Patients with PHQ9<5, associated with minimal to no depression, had the smallest ODI improvement (-16.8 [95%CI -18.1 to -15.3]) and patients with severe preoperative depression (PHQ9 ≥ 10) had the largest ODI improvement (-22.8 [95%CI -24.1 to -21.5]; p<.00001). Similar findings were found in the EQ5D and PCS. Pain improvement was not different between depression levels. Multivariate modeling found worse baseline PHQ9 and ODI, greater age, nicotine use, more operative levels, and worse American Society of Anesthesiology score was predictive of worse ODI outcomes.
+CONCLUSIONS: Depressed patients have similar or better relative improvements in disability, quality of life, and pain, when compared to nondepressed patients, although their preoperative and postoperative levels of disability are higher. Surgeons should not be concerned that depression will reduce the patient-reported beneficial response to surgical intervention.
+
+Citation: Cushnie D, et al. Outcome of spine surgery in patients with depressed mental states: a Canadian spine outcome research network study. Outcome of spine surgery in patients with depressed mental states: a Canadian spine outcome research network study. 2022; 22:1700-1707. doi: 10.1016/j.spinee.2022.05.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35671946/

@@ -1,0 +1,11 @@
+PMID: 37407952
+Title: A systematic review and meta-analysis of risk factors for reoperation after degenerative lumbar spondylolisthesis surgery.
+
+Abstract: BACKGROUND: Considering the high reoperation rate in degenerative lumbar spondylolisthesis (DLS) patients undergoing lumbar surgeries and controversial results on the risk factors for the reoperation, we performed a systematic review and meta-analysis to explore the reoperation rate and risk factors for the reoperation in DLS patients undergoing lumbar surgeries.
+METHODS: Literature search was conducted from inception to October 28, 2022 in Pubmed, Embase, Cochrane Library, and Web of Science. Odds ratio (OR) was used as the effect index for the categorical data, and effect size was expressed as 95% confidence interval (CI). Heterogeneity test was performed for each outcome effect size, and subgroup analysis was performed based on study design, patients, surgery types, follow-up time, and quality of studies to explore the source of heterogeneity. Results of all outcomes were examined by sensitivity analysis. Publication bias was assessed using Begg test, and adjusted using trim-and-fill analysis.
+RESULTS: A total of 39 cohort studies (27 retrospective cohort studies and 12 prospective cohort studies) were finally included in this systematic review and meta-analysis. The overall results showed a 10% (95%CI: 8%-12%) of reoperation rate in DLS patients undergoing lumbar surgeries. In surgery types subgroup, the reoperation rate was 11% (95%CI: 9%-13%) for decompression, 10% (95%CI: 7%-12%) for fusion, and 9% (95%CI: 5%-13%) for decompression and fusion. An increased risk of reoperation was found in patients with obesity (OR = 1.91, 95%CI: 1.04-3.51), diabetes (OR = 2.01, 95%CI: 1.43-2.82), and smoking (OR = 1.51, 95%CI: 1.23-1.84).
+CONCLUSIONS: We found a 10% of reoperation rate in DLS patients after lumbar surgeries. Obesity, diabetes, and smoking were risk factors for the reoperation.
+
+Citation: Chen Y, et al. A systematic review and meta-analysis of risk factors for reoperation after degenerative lumbar spondylolisthesis surgery. A systematic review and meta-analysis of risk factors for reoperation after degenerative lumbar spondylolisthesis surgery. 2023; 23:192. doi: 10.1186/s12893-023-02082-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37407952/

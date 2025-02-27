@@ -1,0 +1,11 @@
+PMID: 38702268
+Title: Microvascular resistance reserve before and after PCI: A serial FFR and [15O] H<sub>2</sub>O PET study.
+
+Abstract: BACKGROUND AND AIMS: Microvascular Resistance Reserve (MRR) has recently been introduced as a microvasculature-specific index and hypothesized to be independent of coronary stenosis. The aim of this study was to investigate the change of MRR after percutaneous coronary intervention (PCI).
+METHODS: In this post-hoc analysis from the PACIFC trials, symptomatic patients underwent [15O]H<sub>2</sub>O positron emission tomography (PET) and invasive fractional flow reserve (FFR) before and after revascularization. Coronary flow reserve (CFR) from PET and invasive FFR were used to calculate MRR.
+RESULTS: Among 52 patients (87 % male, age 59.4 ± 9.4 years), 61 vessels with a median FFR of 0.71 (95 % confidence interval: 0.55 to 0.74) and a mean MRR of 3.80 ± 1.23 were included. Following PCI, FFR, hyperemic myocardial blood flow (hMBF) and CFR increased significantly (all p-values ≤0.001). MRR remained unchanged after PCI (3.80 ± 1.23 before PCI versus 3.60 ± 0.97 after PCI; p=0.23). In vessels with a pre-PCI, FFR ≤0.70 pre- and post-PCI MRR were 3.90 ± 1.30 and 3.73 ± 1.14 (p=0.56), respectively. Similar findings were observed for vessels with a FFR between 0.71 and 0.80 (pre-PCI MRR 3.70 ± 1.17 vs. post PCI MRR 3.48 ± 0.76, p=0.19).
+CONCLUSIONS: Our study indicates that MRR, assessed using a hybrid approach of PET and invasive FFR, is independent of the severity of epicardial stenosis. These findings suggest that MRR is a microvasculature-specific parameter.
+
+Citation: Hoshino M, et al. Microvascular resistance reserve before and after PCI: A serial FFR and [15O] H<sub>2</sub>O PET study. Microvascular resistance reserve before and after PCI: A serial FFR and [15O] H<sub>2</sub>O PET study. 2024; 395:117555. doi: 10.1016/j.atherosclerosis.2024.117555
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38702268/

@@ -1,0 +1,12 @@
+PMID: 32403063
+Title: Diagnostic accuracy of various EEG changes during carotid endarterectomy to detect 30-day perioperative stroke: A systematic review.
+
+Abstract: OBJECTIVES: We assessed whether significant intraoperative electroencephalography (EEG) changes have predictive value for perioperative stroke within 30 days after carotid endarterectomy (CEA) procedures for carotid stenosis (CS) patients. We also assessed the diagnostic accuracy of various EEG changes in predicting perioperative stroke.
+METHODS: We searched databases for reports with outcomes of CS patients who underwent CEA with intraoperative EEG monitoring. We calculated the sensitivity, specificity, and diagnostic odds ratio (DOR) of EEG changes for predicting perioperative stroke. Sensitivity and specificity were presented with forest plots and a summary receiver operating characteristic (ROC) curve.
+RESULTS: The meta-analysis included 10,672 patients. Intraoperative EEG changes predicted 30-day stroke with a sensitivity of 46% (95% CI, 38-54%) and specificity of 86% (95% CI, 83-88%). The estimated DOR was 5.79 (95% CI, 3.86-8.69). The estimated DOR for reversible and irreversible EEG changes were 8.25 (95% CI, 3.34-20.34) and 70.84 (95% CI, 36.01-139.37), respectively.
+CONCLUSION: Intraoperative EEG changes have high specificity but modest sensitivity for predicting perioperative stroke following CEA. Patients with irreversible EEG changes are at high risk for perioperative stroke.
+SIGNIFICANCE: Intraoperative EEG changes can help surgeons predict the risk of perioperative stroke for CS patients following CEA.
+
+Citation: Chang R, et al. Diagnostic accuracy of various EEG changes during carotid endarterectomy to detect 30-day perioperative stroke: A systematic review. Diagnostic accuracy of various EEG changes during carotid endarterectomy to detect 30-day perioperative stroke: A systematic review. 2020; 131:1508-1516. doi: 10.1016/j.clinph.2020.03.037
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32403063/

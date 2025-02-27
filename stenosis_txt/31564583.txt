@@ -1,0 +1,11 @@
+PMID: 31564583
+Title: Comparison of nationwide trends in 30-day readmission rates after carotid artery stenting and carotid endarterectomy.
+
+Abstract: OBJECTIVE: Carotid revascularization procedures, carotid artery stenting (CAS) and carotid endarterectomy (CEA), are among the most common vascular interventions performed in the United States, with significant resource utilization. Whereas multiple studies have reported outcomes after these procedures, data regarding 30-day readmission rates after these interventions remain scant.
+METHODS: The U.S. Nationwide Readmission Database (2010-2014) was queried to identify all patients ≥18 years who were readmitted within 30 days after a hospital discharge for CEA or CAS.
+RESULTS: Among 476,260 patients included, 13.5% underwent CAS and 86.5% underwent CEA. The combined 30-day readmission rate for all carotid revascularization procedures was 9.2% (10.6% after CAS and 9.0% after CEA). After 1:3 propensity matching, CAS was associated with higher risk of readmission compared with CEA (10.4% vs 9.4%). Neurologic complications and cardiac conditions were the two most common causes of readmission after both CAS (29.7% and 23.7%, respectively) and CEA (28.2% and 21.7%, respectively). The 30-day readmission rates were higher in CAS patients across all age groups as well as in those with a low or high baseline burden of comorbidities.
+CONCLUSIONS: In this large nationwide study, CAS was associated with higher 30-day readmission rates compared with CEA irrespective of age or baseline burden of comorbidities. Neurologic or cardiac adverse events were responsible for >50% of readmissions after CAS and CEA.
+
+Citation: Edla S, et al. Comparison of nationwide trends in 30-day readmission rates after carotid artery stenting and carotid endarterectomy. Comparison of nationwide trends in 30-day readmission rates after carotid artery stenting and carotid endarterectomy. 2020; 71:1222-1232.e9. doi: 10.1016/j.jvs.2019.06.190
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31564583/

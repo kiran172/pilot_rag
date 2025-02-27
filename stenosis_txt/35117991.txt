@@ -1,0 +1,11 @@
+PMID: 35117991
+Title: A Nomogram for Predicting the Risk of Radiotherapy-Related Esophageal Fistula in Esophageal Cancer Patients.
+
+Abstract: BACKGROUND: To construct and validate a nomogram for predicting the risk of esophageal fistula in esophageal cancer patients receiving radiotherapy.
+METHODS: A retrospective nested case-control study was performed, in which a total of 81 esophageal fistula patients and 243 controls from 2014 to 2020 in the First Affiliated Hospital of Anhui Medical University were enrolled. Factors included in the nomogram were determined by univariate and multiple logistic regression analysis. The following methods including ROC curve, C-index, calibration curves, Brier score, and decision curve analysis (DCA) were adopted to evaluate this nomogram.
+RESULTS: Multivariate logistic regression analysis showed that T4 stage, level 4 stenosis, ulcerative esophageal cancer, prealbumin, and maximum diameters of GTV and NLR were the independent risk factors of esophageal fistula. Accordingly, a nomogram incorporating the aforementioned six parameters was constructed. The AUC was 0.848 (95% CI 0.901-0.895), indicating a high prediction accuracy of this nomogram. Further evaluation of this model showed that the C-index was 0.847, while the bias-corrected C-index after internal validation was 0.833. The Brier score was 0.127. The calibration curves presented good concordance, and the DCA revealed promising clinical application.
+CONCLUSIONS: The nomogram presents accurate and applicable prediction for the esophageal fistula risk in esophageal cancer patients receiving radiotherapy.
+
+Citation: Gui Z, et al. A Nomogram for Predicting the Risk of Radiotherapy-Related Esophageal Fistula in Esophageal Cancer Patients. A Nomogram for Predicting the Risk of Radiotherapy-Related Esophageal Fistula in Esophageal Cancer Patients. 2021; 11:785850. doi: 10.3389/fonc.2021.785850
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35117991/

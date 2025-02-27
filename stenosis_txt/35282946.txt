@@ -1,0 +1,10 @@
+PMID: 35282946
+Title: Simultaneous evaluation of fatty acid and triglycerides after percutaneous coronary intervention.
+
+Abstract: BACKGROUND: Clinical studies have shown that the ratio of eicosapentaenoic acid to arachidonic acid (EPA/AA ratio) as well as the triglyceride (TG) levels can be considered as independent risk factors for cardiovascular diseases. The aim of this study was to investigate whether simultaneous evaluation of the EPA/AA ratio and TG level can affect the incidence of cardiovascular events after percutaneous coronary intervention (PCI).
+METHODS AND RESULTS: We retrospectively examined the clinical records of 1585 patients who underwent successful PCI for acute coronary syndrome or stable angina. They were divided into four categories based on an EPA/AA ratio of 0.4 and a TG level of 150 mg/dl (a method termed the "Fatty Acid Window"). Among the four categories, the incidence of major adverse cardiac events (MACE) was measured for a maximum of five years after PCI. MACE was defined as cardiac death, non-fatal myocardial infarction, or revascularization due to new coronary stenosis or restenosis. The Kaplan-Meier method and the Cox proportional hazards regression analysis demonstrated that patients with both lower EPA/AA ratios and higher TG levels had a significantly higher incidence of MACE. In addition, patients with either lower EPA/AA ratios or higher TG levels also had a higher incidence of MACE compared to patients with both higher EPA/AA ratios and lower TG levels.
+CONCLUSION: Evaluating both EPA/AA ratios and TG levels, a method termed the "Fatty Acid Window", can be useful in predicting the occurrence of cardiovascular events after PCI.
+
+Citation: Matsumoto I, et al. Simultaneous evaluation of fatty acid and triglycerides after percutaneous coronary intervention. Simultaneous evaluation of fatty acid and triglycerides after percutaneous coronary intervention. 2022; 80:149-154. doi: 10.1016/j.jjcc.2022.02.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35282946/

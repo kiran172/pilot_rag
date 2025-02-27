@@ -1,0 +1,12 @@
+PMID: 39135174
+Title: Impact of cerebral protection on observed versus predicted in-hospital stroke in a high stroke risk TAVR cohort.
+
+Abstract: BACKGROUND: Despite impressive improvements in the safety profile of Transcatheter aortic valve replacement (TAVR), the risk for peri-procedural stroke after TAVR has not declined substantially. In an effort to reduce periprocedural stroke, cerebral embolic protection (CEP) devices have been utilized but have yet to demonstrate benefit in all-comers. There is a paucity of data supporting the utilization of CEP in TAVR patients with an anticipated high risk for peri-procedural stroke.
+METHODS: The Transcatheter Aortic Valve Replacement In-Hospital Stroke (TASK) score is a clinical risk tool for predicting the in-hospital stroke risk of patients undergoing transfemoral TAVR. This score was used to identify high-risk patients and calculate the expected in-hospital stroke risk. This was a single-centre cohort study in all consecutive TAVR patients who had placement of CEP. The observed versus expected ratio for peri-procedural stroke was calculated. To obtain 95% credible intervals, we used 1000 bootstrapped samples of the original cohort sample size without replacement and recalculated the TASK predicted scores.
+RESULTS: The study included 103 patients. The median age was 83 (IQR 78,89). 63 were male (61.1%) and 45 (43.69%) had a history of previous Stroke or TIA. Two patients had an in-hospital stroke after TAVR (1.94%). The expected risk of in-hospital stroke based on the TASK score was 3.39% (95% CI 3.07-3.73). The observed versus expected ratio was 0.57 (95% CI 0.52-0.64).
+CONCLUSION: In this single-center study, we found that in patients undergoing TAVR with high stroke risk, CEP reduced the in-hospital stroke risk by 43% when compared with the risk-score predicted rate.
+CLINICAL TRIAL NUMBER: N/A.
+
+Citation: Marcusohn E, et al. Impact of cerebral protection on observed versus predicted in-hospital stroke in a high stroke risk TAVR cohort. Impact of cerebral protection on observed versus predicted in-hospital stroke in a high stroke risk TAVR cohort. 2024; 24:422. doi: 10.1186/s12872-024-04097-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39135174/

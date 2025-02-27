@@ -1,0 +1,11 @@
+PMID: 37620818
+Title: Prognostic value of high-sensitivity C-reactive protein in patients undergoing percutaneous coronary intervention with different glycemic metabolism status.
+
+Abstract: BACKGROUND: High-sensitivity C-reaction protein (hsCRP), a biomarker of residual inflammatory risk, has been demonstrated with poor cardiovascular outcomes. We aimed to investigate the prognostic value of hsCRP in patients undergoing percutaneous coronary intervention (PCI) with or without diabetes mellitus (DM).
+METHODS: In this large-scale, prospective cohort study, we enrolled 8050 consecutive patients who underwent PCI for coronary artery stenosis. All subjects were stratified as high hsCRP (> 3 mg/L) and low hsCRP (≤ 3 mg/L) and were divided into four groups (hsCRP-L/non-DM, hsCRP-H/non-DM, hsCRP-L/DM, hsCRP-H/DM). The primary endpoint of the study was major adverse cardiovascular events (MACEs), including all-cause mortality, myocardial infarction, stroke, and unplanned vessel revascularization, evaluated at a 3 year follow-up.
+RESULTS: After 35.7 months (interquartile range: 33.2 to 36.0 months) of median follow-up time, 674 patients suffered from MACEs. We found elevated hsCRP was highly associated with an increased risk of MACEs in both diabetic (hazard ratio [HR] = 1.68, 95% confidence interval CI 1.29-2.19, P < 0.001) and non-diabetic patients (HR = 1.31, 95% CI: 1.05-1.62, P = 0.007) after adjustment for other confounding factors. Kaplan-Meier survival analysis showed the highest incidence of MACEs in hsCRP-H/DM (P < 0.001). In addition, the results of the restricted cubic spline analysis suggested a positive linear relationship between hsCRP and MACEs.
+CONCLUSION: Elevated hsCRP is an independent risk factors of MACEs in patients undergoing PCI irrespective of glycemic metabolism status.
+
+Citation: Li L, et al. Prognostic value of high-sensitivity C-reactive protein in patients undergoing percutaneous coronary intervention with different glycemic metabolism status. Prognostic value of high-sensitivity C-reactive protein in patients undergoing percutaneous coronary intervention with different glycemic metabolism status. 2023; 22:223. doi: 10.1186/s12933-023-01932-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37620818/

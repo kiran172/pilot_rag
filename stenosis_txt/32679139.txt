@@ -1,0 +1,11 @@
+PMID: 32679139
+Title: Left ventricular myocardial deformation as measure of hemodynamic burden in congenital valvular aortic stenosis.
+
+Abstract: BACKGROUND: Changes in 2D echocardiography (2DE) speckle tracking imaging (STI) derived left ventricular (LV) strain (S) and strain rate (SR) precedes diminution of LV ejection fraction (LVEF) in adult valvular aortic stenosis (AS). We prospectively examined whether 2DE-STI derived multidirectional LV S and SR correlate with AS severity in children using LV mass index (MI) as the principal outcome variable.
+METHODS: 52 children (10.4 ± 7.3 years) with isolated congenital AS were included; 13 mild (2.5 m/s &lt; V<sub>max</sub> &lt; 3.0 m/s), 25 moderate (3.0 m/s &lt; V<sub>max</sub> &lt; 4.0 m/s), and 14 severe (V<sub>max</sub> &gt; 4.0 m/s). 2DE including Doppler and STI longitudinal strain (LS), strain rate (LSR), circumferential strain (CS), and strain rate (CSR) were measured. Univariate and multivariable linear regressions identified correlations between LVMI and strain indices.
+RESULTS: Three clinical and 2DE variables, and four strain indices were independently associated with LVMI. LVMI correlated positively with systolic blood pressure and aortic regurgitation, and negatively with LVEF. LVMI correlated positively with LSR (four-chamber) and CSR (basal), and negatively with segmental CS in the inferior (basal) and anteroseptal (distal) segments. LVMI showed significant inverse association with LS (P = .05), LSR (P < .001), CS (P < .005), and CSR (P < .0001), independent of AS severity.
+CONCLUSIONS: Independent of clinical and 2DE findings including contemporaneous Doppler estimates of AS gradient, both longitudinal and circumferential strain indices correlate with LVMI as a measure of cumulative hemodynamic burden. This association implies subclinical LV dysfunction.
+
+Citation: Reddy SC, et al. Left ventricular myocardial deformation as measure of hemodynamic burden in congenital valvular aortic stenosis. Left ventricular myocardial deformation as measure of hemodynamic burden in congenital valvular aortic stenosis. 2020; 320:133-138. doi: 10.1016/j.ijcard.2020.07.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32679139/

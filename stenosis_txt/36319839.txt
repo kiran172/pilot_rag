@@ -1,0 +1,11 @@
+PMID: 36319839
+Title: Comparing non-invasive diagnostic methods for arteriovenous fistula stenosis: a prospective study.
+
+Abstract: PURPOSE: International guidelines recommend screening for arteriovenous fistula (AVF) stenosis using various non-invasive methods. We evaluate different non-invasive AVF flow measurements for detecting AVF stenosis.
+METHODS: Twenty-three haemodialysis patients with suspected AVF stenosis are enrolled based on abnormal physical signs or high venous pressure during dialysis. Ultrasound dilution, urea dilution, Doppler ultrasonography, and fistulography are performed on all patients. The accuracy of three non-invasive methods is compared.
+RESULTS: Fistulography reveals AVF stenosis in 18 patients, 12 of whom have severe stenosis (greater than 50% stenosis in diameter). Concerning the location of the stenosis lesions, eight are at the inflow site, six at the outflow site, and four on both sites. Receiver operating characteristic curve analysis shows that Doppler ultrasonography has a high discriminative ability and the averaged areas under the curves are 0.933 (95% confidence interval [CI]; 0.81 to 0.99) for stenosis and 0.929 (95% CI 0.82-0.99) for severe stenosis. The sensitivity of each method for the prediction of access stenosis using ultrasound dilution, urea dilution, and Doppler ultrasonography is 73%, 73%, and 80%, respectively. The respective specificity of each method is 40%, 80%, and 100%, respectively. Physical examination (PE) shows an 80% sensitivity and 80% specificity in the detection of AVF stenosis. The combination of Doppler ultrasound with PE produces the highest sensitivity (93%) for detecting AVF stenosis.
+CONCLUSIONS: Doppler ultrasound combined with physical examination is more accurate than other non-invasive methods for detecting AVF stenosis.
+
+Citation: Raksasuk S, et al. Comparing non-invasive diagnostic methods for arteriovenous fistula stenosis: a prospective study. Comparing non-invasive diagnostic methods for arteriovenous fistula stenosis: a prospective study. 2023; 26:687-693. doi: 10.1007/s40477-022-00731-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36319839/

@@ -1,0 +1,11 @@
+PMID: 39481043
+Title: Automatic segmentation and diameter measurement of deep medullary veins.
+
+Abstract: PURPOSE: As one of the pathogenic factors of cerebral small vessel disease, venous collagenosis may result in the occlusion or stenosis of deep medullary veins (DMVs). Although numerous DMVs can be observed in susceptibility-weighted MRI images, their diameters are usually smaller than the MRI resolution, making it difficult to segment them and quantify their sizes. We aim to automatically segment DMVs and measure their diameters from gradient-echo images.
+METHODS: A neural network model was trained for DMV segmentation based on the gradient-echo magnitude and phase images of 20 subjects at 7 T. The diameters of DMVs were obtained by fitting measured complex images with model images that accounted for the DMV-induced magnetic field and point spread function. A phantom study with graphite rods of different diameters was conducted to validate the proposed method. Simulation was carried out to evaluate the voxel-size dependence of measurement accuracy for a typical DMV size.
+RESULTS: The automatically segmented DMV masks had Dice similarity coefficients of 0.68 ± 0.03 (voxel level) and 0.83 ± 0.04 (cluster level). The fitted graphite-rod diameters closely matched their true values. In simulation, the fitted diameters closely matched the true value when voxel size was ≤ 0.45 mm, and 92.2% of DMVs had diameters between 90 μm and 200 μm with a peak at about 120 μm, which agreed well with an earlier ex vivo report.
+CONCLUSION: The proposed methods enabled efficient and quantitative study of DMVs, which may help illuminate the role of DMVs in the etiopathogenesis of cerebral small vessel disease.
+
+Citation: Zhou Y, et al. Automatic segmentation and diameter measurement of deep medullary veins. Automatic segmentation and diameter measurement of deep medullary veins. 2024; (unknown volume):(unknown pages). doi: 10.1002/mrm.30341
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39481043/

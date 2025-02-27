@@ -1,0 +1,11 @@
+PMID: 39374543
+Title: Betablockers and clinical outcome after surgical aortic valve replacement: a report from the SWEDEHEART registry.
+
+Abstract: OBJECTIVES: Previous reports suggest that betablockers appear non-beneficial after surgical aortic valve replacement (SAVR). This study aims to clarify the associations between betablockers and long-term outcome after SAVR.
+METHODS: All patients with isolated SAVR due to aortic stenosis in Sweden between 2006 and 2020, alive at 6 months after surgery, were included. Patients were identified in the SWEDEHEART registry, and records were merged with data from 3 other mandatory national registries. Association between dispensed betablockers and major adverse cardiovascular events (MACE) (all-cause mortality, myocardial infarction and stroke) was analyzed using Cox proportional hazards models, with time-updated data on medication and adjusted for age, sex and comorbidities at baseline.
+RESULTS: In total, 11 849 patients were included [median follow-up 5.4 years (range 0-13.5)]. Betablockers were prescribed to 79.7% of patients at baseline, decreasing to 62.2% after 5 years. Continuing treatment was associated with higher risk of MACE [adjusted hazard ratio 1.14 (95% confidence interval, CI 1.05-1.23)]. The association was consistent over subgroups based on age, sex and comorbidities except atrial fibrillation [hazard ratio (HR) 1.05 (95% CI 0.93-1.19)]. A sensitivity analysis including time-updated data on comorbidites attenuated the difference between the groups [HR 1.04 (95% CI 0.95-1.14, P = 0.33)].
+CONCLUSIONS: Treatment with betablockers did not appear to be associated with inferior long-term outcome after SAVR, when adjusting for new concomitant diseases. Thus, it is likely that it is the underlying cardiac diseases that are associated with MACE rather than betablocker treatment.
+
+Citation: Hansson EC, et al. Betablockers and clinical outcome after surgical aortic valve replacement: a report from the SWEDEHEART registry. Betablockers and clinical outcome after surgical aortic valve replacement: a report from the SWEDEHEART registry. 2024; 66:(unknown pages). doi: 10.1093/ejcts/ezae365
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39374543/

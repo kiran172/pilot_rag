@@ -1,0 +1,11 @@
+PMID: 39399509
+Title: Higher serum phosphate within the normal range is associated with the development of calcified aortic valve disease.
+
+Abstract: BACKGROUND: Despite the essential role of ectopic osteogenic calcium-phosphate metabolism in the development of calcific aortic valve disease (CAVD), the implications of high serum phosphate levels in CAVD development are not fully understood.
+METHODS: Asymptomatic individuals who underwent health screening using serial cardiac computed tomography (CT) and echocardiography were selected from a multicenter registry. CAVD was identified and quantified on CT images using the aortic valve calcification (AVC) score. The associations between initial serum phosphate levels and the presence of baseline CAVD, development of new CAVD, and the AVC score progression rate were investigated using multivariable regression models.
+RESULTS: A total of 736 individuals were selected for analysis, and the median interscan duration was 36.4 months. On initial CT, 83 (13.7%) participants had baseline CAVD, while 52 (7.0%) individuals developed new CAVD during follow-up. Serum phosphate levels were not associated with a higher probability of baseline CAVD but were predictive of newly developed CAVD (odds ratio per 1 mg/dl, 1.05; 95% confidence interval, 1.01-1.10; p = 0.02). Higher phosphate levels were also associated with a faster AVC score progression in those with baseline CAVD (regression coefficient per 1 mg/dl, 15.55 Agatston units/year; 95% confidence interval, 6.02-25.07; p &lt; 0.01), an association which remained significant when the analysis was extended to include newly developed CAVD.
+CONCLUSION: Even slight elevations in serum phosphate are associated with accelerated CAVD progression from an early stage. Further studies are needed to investigate whether the regulation of phosphate metabolism can slow the progression of CAVD to aortic stenosis.
+
+Citation: Kim KA, et al. Higher serum phosphate within the normal range is associated with the development of calcified aortic valve disease. Higher serum phosphate within the normal range is associated with the development of calcified aortic valve disease. 2024; 11:1450757. doi: 10.3389/fcvm.2024.1450757
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39399509/

@@ -1,0 +1,11 @@
+PMID: 32893904
+Title: Dimensionless index of the mitral valve for evaluation of degenerative mitral stenosis.
+
+Abstract: PURPOSE: Degenerative mitral stenosis (DMS) is an increasingly recognized cause of mitral stenosis. The goal of this study was to compare echocardiographic differences between DMS and rheumatic mitral stenosis (RMS), identify echocardiographic variables reflective of DMS severity, and propose a dimensionless mitral stenosis index (DMSI) for assessment of DMS severity.
+METHODS: This is a single-center, retrospective cohort study. We included patients with at least mild MS and a mean transmitral pressure gradient (TMPG) ≥4 mm Hg. Mitral valve area by the continuity equation (MVA<sub>CEQ</sub> ) was used as an independent reference. The DMSI was calculated as follows: DMSI = VTI<sub>LVOT</sub> / VTI<sub>MV.</sub> All-cause mortality data were collected retrospectively.
+RESULTS: A total of 64 patients with DMS and 24 patients with RMS were identified. MVA<sub>CEQ</sub> was larger in patients with DMS (1.43 ± 0.4 cm2 ) than RMS (0.9 ± 0.3 cm2 ) by ~0.5 cm2 (P = &lt;.001), and mean TMPG was lower in the DMS group (6.0 ± 2 vs 7.9 ± 3 mm Hg, P = .003). A DMSI of ≤0.50 and ≤0.351 was associated with MVA<sub>CEQ</sub> ≤1.5 and MVA<sub>CEQ</sub> ≤1.0 cm2 (P &lt; .001), respectively. With the progression of DMS from severe to very severe, there was a significant drop in DMSI. There was a nonsignificant trend toward worse survival in patients with MVA<sub>CEQ</sub> ≤1.0 cm2 and DMSI ≤0.35, suggesting severe stenosis severity.
+CONCLUSION: Our results show that TMPG correlates poorly with MVA in patients with DMS. Proposed DMSI may serve as a simple echocardiographic indicator of hemodynamically significant DMS.
+
+Citation: Oktay AA, et al. Dimensionless index of the mitral valve for evaluation of degenerative mitral stenosis. Dimensionless index of the mitral valve for evaluation of degenerative mitral stenosis. 2020; 37:1533-1542. doi: 10.1111/echo.14847
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32893904/

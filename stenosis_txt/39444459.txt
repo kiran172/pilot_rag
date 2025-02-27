@@ -1,0 +1,12 @@
+PMID: 39444459
+Title: Coronary stent imaging in photon counting computed tomography: improved imaging of in-stent stenoses in a phantom with optimized reconstruction kernels.
+
+Abstract: OBJECTIVES: Coronary CT angiography (CCTA) is becoming increasingly important in the workup of coronary artery disease. Imaging of stents and in-stent stenoses remains a challenge. This work investigates the assessability of in-stent stenoses in photon counting CT (PCCT) using ultra-high-resolution (UHR) imaging and optimized reconstruction kernels.
+METHODS: In an established phantom, 6 stents with inserted hypodense stenoses were scanned in both standard resolution (SRM) and UHR in a clinical PCCT scanner (NAEOTOM Alpha, Siemens Healthineers, Germany). Reconstructions were made both with the clinically established and optimized kernels. The visible stent lumen and the extent of stenosis were quantitatively measured and compared with the angiographic reference standard. Also, region-of-interest (ROI)-based measurements and a qualitative assessment of image quality were performed.
+RESULTS: The visible stent lumen and the extent of stenosis were measured more precisely in UHR compared to SRM (0.11 ± 0.19 vs 0.41 ± 0.22 mm, P &lt; .001). The optimized kernel further improved the accuracy of the measurements and image quality in UHR (0.35 ± 0.23 vs 0.47 ± 0.19 mm, P &lt; .001). Compared to angiography, stenoses were overestimated in PCCT, on average with an absolute difference of 18.20% ± 4.11%.
+CONCLUSIONS: Photon counting CCTA allows improved imaging of in-stent stenoses in a phantom using UHR imaging and optimized kernels. These results support the use of UHR and optimized kernels in clinical practice and further studies.
+ADVANCES IN KNOWLEDGE: UHR imaging and optimized reconstruction kernels should be used in CCTA in the presence of cardiac stents.
+
+Citation: Michael AE, et al. Coronary stent imaging in photon counting computed tomography: improved imaging of in-stent stenoses in a phantom with optimized reconstruction kernels. Coronary stent imaging in photon counting computed tomography: improved imaging of in-stent stenoses in a phantom with optimized reconstruction kernels. 2024; 6:tzae030. doi: 10.1093/bjro/tzae030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39444459/

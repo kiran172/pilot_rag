@@ -1,0 +1,14 @@
+PMID: 35532310
+Title: Clinical characteristics, hospital course, and disposition of patients with nontraumatic spinal cord injury in a large private health care system in the United States.
+
+Abstract: OBJECTIVES: To evaluate the clinical characteristics, hospital courses, outcomes after hospitalization, and factors associated with outcomes in patients with nontraumatic spinal cord injuries (NTSCI).
+DESIGN: Retrospective analysis.
+SETTING: A large for-profit United States health care system.
+PARTICIPANTS: 2807 inpatients with NTSCI between 2014 and 2020 were identified using International Classification of Disease codes.
+MAIN OUTCOME MEASURE: Demographic, clinical characteristics, hospital course, and disposition data collected from electronic health record.
+RESULTS: The mean age was 57.91 ± 16.41 years with 69.83% being male. Incomplete cervical level injury was the most common injury type, spinal stenosis was the most common diagnostic etiology and central cord syndrome was the most common clinical syndrome. The average length of stay was 9.52 ± 15.8 days, with the subgroup of 1308 (46.6%) patients who were discharged home demonstrating a shorter length of stay (6.42 ± 10.24 days). Falls were the most common hospital-acquired complication (n = 424, 15.11%) and 83 patients deceased. There were increased odds of non-home discharge among patients with the following characteristics: older age, Medicare insurance, non-black racial minority, increased Charlson Comorbidity Index (CCI), intensive care unit (ICU) stay, use of steroid or anticoagulant medications, and hospital-acquired pulmonary complications. Increased in-hospital mortality was observed in those with Medicaid insurance, ICU stay, increased CCI, diagnosis of degenerative spine disease, other unspecified level of injury, and hospital-acquired pulmonary complications.
+CONCLUSIONS: NTSCI in this sample were predominantly incomplete cervical central SCIs. Increased CCI, ICU stay, and hospital-acquired pulmonary complications were associated with poorer outcomes after acute care hospitalization among patients with NTSCI.
+
+Citation: Lee SW, et al. Clinical characteristics, hospital course, and disposition of patients with nontraumatic spinal cord injury in a large private health care system in the United States. Clinical characteristics, hospital course, and disposition of patients with nontraumatic spinal cord injury in a large private health care system in the United States. 2023; 46:900-909. doi: 10.1080/10790268.2022.2069533
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35532310/

@@ -1,0 +1,14 @@
+PMID: 37008323
+Title: Prognostic value of coronary computed tomography angiography compared to radionuclide myocardial perfusion imaging in patients With coronary stents.
+
+Abstract: OBJECTIVES: The aim of this study is to compare the prognostic value of coronary computed tomography angiography (CCTA) with single-photon emission computed tomography (SPECT) in predicting cardiovascular events in patients with stents.
+DESIGN: Retrospective analysis.
+SETTING: University Hospital, London, Ontario Canada.
+PARTICIPANTS: Between January 2007 and December 2018, 119 patients post-percutaneous coronary intervention (PCI) who were referred for hybrid imaging with CTA and 2-day rest/stress SPECT were enrolled.
+PRIMARY AND SECONDARY OUTCOME MEASURES: Patients were followed for any major adverse cardiovascular event (MACE) including: All-cause mortality, Non-fatal myocardial infarction (MI), Unplanned revascularization, Cerebrovascular accident and hospitalization for arrhythmia or heart failure. We define hard cardiac events (HCE) as: cardiac death, non-fatal MI or unplanned revascularization. We used two cut-off values to define obstructive lesions with CCTA ≥50% and ≥70% in any coronary segment. SPECT scan defined as abnormal in the presence of >5% reversible myocardial perfusion defect.
+RESULTS: During the follow-up period of 7.2 ± 3.4 years. 45/119 (37.8%) patients experienced 57 MACE: Ten deaths (2 cardiac deaths and 8 of non-cardiac deaths), 29 acute coronary syndrome including non-fatal MI (25 required revascularization), 7 hospitalizations for heart failure, 6 cerebrovascular accidents and 5 new atrial fibrillation. 31 HCEs were reported. Cox regression analysis showed that obstructive coronary stenosis (≥50% and ≥70%) and abnormal SPECT were associated of MACE (p = 0.037, 0.018 and 0.026), respectively. In contrast, HCEs were significantly associated with obstructive coronary stenosis of ≥50% and ≥70% with p = 0.004 and p = 0.007, respectively. In contrast, abnormal SPECT was a nonsignificant predictor of HCEs (p = 0.062).
+CONCLUSION: Obstructive coronary artery stenosis on CCTA can predict MACE and HCE. However, abnormal SPECT can only predict MACE but not HCE in patients post-PCI with a follow-up period of approximately 7 years.
+
+Citation: Abazid RM, et al. Prognostic value of coronary computed tomography angiography compared to radionuclide myocardial perfusion imaging in patients With coronary stents. Prognostic value of coronary computed tomography angiography compared to radionuclide myocardial perfusion imaging in patients With coronary stents. 2023; 10:1087113. doi: 10.3389/fcvm.2023.1087113
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37008323/

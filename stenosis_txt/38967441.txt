@@ -1,0 +1,11 @@
+PMID: 38967441
+Title: Treatment Strategies for Asymptomatic Carotid Stenosis: A Systematic Review and Bayesian Network Meta-Analysis.
+
+Abstract: BACKGROUND AND OBJECTIVES: To compare the safety and efficacy of carotid endarterectomy (CEA), carotid stenting (CAS), and optimal medical therapy (OMT) in patients with asymptomatic carotid stenosis.
+METHODS: Relevant randomized controlled trials were researched with PubMed, Web of Science, and the Cochrane Library databases. Fixed-effects model and random-effects model were used to estimate the relative risks and the hazard ratios (HRs). The results of the probabilistic analysis were reported as surfaces under the cumulative ranking curve.
+RESULTS: Eight randomized controlled trials were included. Data from 10 348 patients (CEA: n = 4758; CAS: n = 3919; OMT: n = 1673) were evaluated. Compared with the previous OMT, CEA, CAS, and the current OMT (c-OMT) were all effective in reducing the risk of stroke (CEA: HR, 0.52; CI, 0.40-0.66; CAS: HR, 0.58; CI, 0.42-0.81; c-OMT: HR, 0.40; CI, 0.15-0.94); CEA and CAS reduced the risk of ipsilateral stroke (CEA: HR, 0.41; CI, 0.28-0.59; CAS: HR, 0.51; CI, 0.31-0.84), and the risk of fatal or disabling stroke (CEA: HR, 0.59; CI, 0.43-0.81; CAS: HR, 0.57; CI, 0.34-0.95). Regarding reducing the risk of stroke, only CEA was statistically significant in patients with any degree of stenosis compared with the previous medical treatment (<80%: HR, 0.48; CI, 0.33%-0.70%; 80%-99%: HR, 0.53; CI, 0.38-0.73).
+CONCLUSION: In the treatment of asymptomatic carotid stenosis, the perioperative outcomes of CAS were similar to that of CEA; CEA, CAS, and c-OMT shared similar long-term outcomes; and CEA and CAS may be more effective in patients with high levels of asymptomatic stenosis.
+
+Citation: Gao X, et al. Treatment Strategies for Asymptomatic Carotid Stenosis: A Systematic Review and Bayesian Network Meta-Analysis. Treatment Strategies for Asymptomatic Carotid Stenosis: A Systematic Review and Bayesian Network Meta-Analysis. 2024; (unknown volume):(unknown pages). doi: 10.1227/ons.0000000000001251
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38967441/

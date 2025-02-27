@@ -1,0 +1,15 @@
+PMID: 34848342
+Title: When does CT myelography add value beyond MRI for lumbar degenerative disease?
+
+Abstract: BACKGROUND CONTEXT: In patients with lumbar spinal stenosis, it is crucial for clinicians to identify all symptomatic levels. Prior studies have demonstrated that CT myelography has a greater sensitivity in revealing stenosis (94.4%) compared to MRI (75.9%). However, this is an invasive test that should be used judiciously. No study has identified subgroups of patients that do or do not benefit from this additional invasive testing.
+PURPOSE: The objective of this study was to identify subgroups of patients with lumbar stenosis for whom CT myelogram could be expected to provide additional information following an MRI scan.
+STUDY DESIGN: Retrospective chart review.
+PATIENT SAMPLE: Consecutive series of patients with lumbar degenerative disease seen at a single multisurgeon tertiary spine center.
+OUTCOME MEASURES: Degree of stenosis on MRI or CT myelo.
+METHODS: Medical records were reviewed to collect standard demographic and surgical data and patient diagnoses. MRI and CT myelo obtained within 6 months of each other in patients >45 years old with a diagnosis of central stenosis, spondylolisthesis or degenerative scoliosis were reviewed. Each lumbar level was recorded as mild, moderate, or severe based on the radiologist's report. Fisher exact test was performed with change in recorded severity of stenosis from MRI to CT myelo as the primary outcome of interest.
+RESULTS: Of 269 patients, 207 (80%) had at least one level of moderate or severe central stenosis on MRI and 62 had mild or no stenosis on MRI. Of the 207, 139 (67%) had multilevel stenosis and 68 (33%) had single level stenosis. CT myelo identified a greater proportion of additional stenotic levels in patients with multilevel stenosis (80/139, 58%) compared to patients with single-level stenosis (27/68, 40%, p=.018). In 62 patients with a clinical diagnosis of lumbar stenosis but no moderate to severe stenosis on MRI, CT myelogram identified three additional stenotic levels (3/65, 5%, p=.836).
+CONCLUSIONS: CT myelography is not as useful in providing additional information in patients with no stenosis or single level stenosis as compared to patients with multilevel stenosis.
+
+Citation: Weisenthal BW, et al. When does CT myelography add value beyond MRI for lumbar degenerative disease?. When does CT myelography add value beyond MRI for lumbar degenerative disease?. 2022; 22:787-792. doi: 10.1016/j.spinee.2021.11.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34848342/

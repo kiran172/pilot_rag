@@ -1,0 +1,11 @@
+PMID: 33272881
+Title: Association Between FFR<sub>CT</sub> and Instantaneous Wave-Free Ratio (iFR) of Intermediate Lesions on Coronary Computed Tomography Angiography.
+
+Abstract: BACKGROUND: New data suggests long term outcomes of coronary revascularization based on instantaneous wave free ratio (iFR) are equivalent to invasive fractional flow reserve (FFR). We aimed to evaluate the correlation between non-invasive FFR derived from cardiac CT (FFR<sub>CT</sub>) and iFR.
+METHODS: Data from 21 patients with 26 vessels, who underwent both FFR<sub>CT</sub> computation and invasive iFR measurement, were analysed. We evaluated diagnostic performance of FFR<sub>CT</sub> according to two cut-off values of ≤0.80 and ≤0.70 with iFR ≤0.89 as the reference standard.
+RESULTS: In a per vessel analysis, the average diameter stenosis was 59%, mean FFR<sub>CT</sub> was 0.81 while mean iFR was 0.90. Using an FFR<sub>CT</sub> cut-off of 0.80, the sensitivity, specificity, positive predictive value, negative predictive value and overall accuracy for FFR<sub>CT</sub> were 86%, 84%, 67%, 94%, and 85% respectively. When the cut-off was lowered to 0.70, the sensitivity, specificity, positive predictive value, negative predictive value and overall accuracy for FFR<sub>CT</sub> were 57%, 100%, 100%, 86% and 88% respectively.
+CONCLUSION: FFR<sub>CT</sub> correlates well with iFR in this small retrospective study. Larger studies are required to confirm this finding.
+
+Citation: Beg F, et al. Association Between FFR<sub>CT</sub> and Instantaneous Wave-Free Ratio (iFR) of Intermediate Lesions on Coronary Computed Tomography Angiography. Association Between FFR<sub>CT</sub> and Instantaneous Wave-Free Ratio (iFR) of Intermediate Lesions on Coronary Computed Tomography Angiography. 2021; 31:57-60. doi: 10.1016/j.carrev.2020.11.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33272881/

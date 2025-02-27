@@ -1,0 +1,11 @@
+PMID: 36966908
+Title: Interrater Reliability of Cervical Neural Foraminal Stenosis Using Traditional and Splayed Reconstructions: Analysis of One Hundred Scans.
+
+Abstract: OBJECTIVE: The oblique sagittal orientation of the cervical neural foramina hinders the evaluation of cervical neural foraminal stenosis (CNFS) on traditional axial and sagittal slices. Traditional image reconstruction techniques to generate oblique slices provide only a view of the foramina unilaterally. We present a simple technique for generating splayed slices that show the bilateral neuroforamina simultaneously and assess its reliability compared with traditional axial windows.
+METHODS: Cervical computed tomography (CT) scans from 100 patients were retrospectively collected and de-identified. The axial slices were reformatted into a curved reformat with the plane of the reformat extending across the bilateral neuroforamina. The foramina along the C2-T1 vertebral levels were assessed by 4 neuroradiologists using the axial and splayed slices. The intrarater agreement across the axial and splayed slices for a given foramen and the interrater agreement for the axial and splayed slices individually were calculated using the Cohen κ statistic.
+RESULTS: Interrater agreement was overall higher for the splayed slices (κ = 0.25) compared with the axial slices (κ = 0.20). The splayed slices were more likely to have fair agreement across raters compared with the axial slices. Intrarater agreement between the axial and splayed slices was poorer for residents compared with fellows.
+CONCLUSIONS: Splayed reconstructions showing the bilateral neuroforamina en face can be readily generated from axial CT imaging. These splayed reconstructions can improve the consistency of CNFS evaluation compared with traditional CT slices and should be considered in the workup of CNFS, particularly for less experienced readers.
+
+Citation: Hersh AM, et al. Interrater Reliability of Cervical Neural Foraminal Stenosis Using Traditional and Splayed Reconstructions: Analysis of One Hundred Scans. Interrater Reliability of Cervical Neural Foraminal Stenosis Using Traditional and Splayed Reconstructions: Analysis of One Hundred Scans. 2023; 175:e314-e319. doi: 10.1016/j.wneu.2023.03.079
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36966908/

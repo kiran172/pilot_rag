@@ -1,0 +1,11 @@
+PMID: 32551159
+Title: Evaluation of 3D printed carotid anatomical models in planning carotid artery stenting.
+
+Abstract: BACKGROUND: We aimed to investigate the potential role of threedimensional printed anatomical models in pre-procedural planning, practice, and selection of carotid artery stent and embolic protection device size and location.
+METHODS: A total of 16 patients (10 males, 6 females; mean age 75.6±4.7 years; range, 68 to 81 years) who underwent carotid artery stenting with an embolic protection device between January 2017 and February 2019 were retrospectively analyzed. The sizing was based on intraprocedural angiography findings with the same brand stent using distal protection device. Pre-procedural computed tomography angiography images used for diagnosis were obtained and modeled with three-dimensional printing method. Pre-procedural and threedimensional data regarding the size of stents and protection devices and implantation sites were compared.
+RESULTS: Measurements obtained from three-dimensional models manually and segmentation images from software were found to be similar and both were smaller than actually used for stent and embolic protection device sizes. The rates of carotid artery stenosis were similar with manual and software methods, but were lower than the quantitative angiographic measurements. Device implantation sites detected by the manual and software methods were different than the actual setting.
+CONCLUSION: The planning and practicing of procedure with threedimensional models may reduce the operator-dependent variables, shorten the operation time, decrease X-ray exposure, and increase the procedural success.
+
+Citation: Göçer H, et al. Evaluation of 3D printed carotid anatomical models in planning carotid artery stenting. Evaluation of 3D printed carotid anatomical models in planning carotid artery stenting. 2019; 28:294-300. doi: 10.5606/tgkdc.dergisi.2020.18939
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32551159/

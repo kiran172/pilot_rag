@@ -1,0 +1,11 @@
+PMID: 34618752
+Title: Low attenuation plaque volume on coronary computed tomography angiography is associated with plaque progression.
+
+Abstract: BACKGROUND: Patient-related clinical factors, laboratory factors, and some imaging factors may lead to statistical bias when investigating coronary plaque progression. In this study, we avoided patient characteristics by comparing morphological characteristics of plaque progression and nonprogression within the same patient with multiple plaques.
+METHODS: From August 2011 to December 2018, 177 consecutive patients with 424 plaques who were followed with coronary computed tomography angiography (CTA) were reviewed retrospectively. Follow-up images of the plaques were used to determine whether the plaque volume or stenosis grade increased. The plaques were divided into progressive and nonprogressive groups. Logistic regression analysis was used to identify the factors associated with plaque progression. Through clinical follow-up, we analyzed whether the factors associated with plaque progression were related to major adverse cardiac events (MACEs).
+RESULTS: There were 223 plaques that progressed during a mean follow-up period of 27.6 ± 15.9 months. The univariate logistic regression model revealed that only low attenuation plaque (LAP) volume (P = 0.02) was associated with plaque progression. After a mean post-CTA follow-up period of 36.7 ± 18.4 months, 37 patients experienced MACEs, and LAP volume was significantly related to future MACEs.
+CONCLUSION: Only a high baseline LAP volume was associated with plaque progression, and patients with progressive plaques and a high LAP volume were more likely to have future MACEs. More attention should be given to plaques with LAP volumes larger than 2.4 mm3.
+
+Citation: Wang GX, et al. Low attenuation plaque volume on coronary computed tomography angiography is associated with plaque progression. Low attenuation plaque volume on coronary computed tomography angiography is associated with plaque progression. 2022; 33:176-181. doi: 10.1097/MCA.0000000000001103
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34618752/

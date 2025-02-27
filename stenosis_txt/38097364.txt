@@ -1,0 +1,12 @@
+PMID: 38097364
+Title: Increased cardiovascular mortality in patients with mechanically expandable transcatheter aortic valve and without permanent pacemaker.
+
+Abstract: INTRODUCTION: Use of the mechanically expandable transcatheter aortic valve (MEV) has been recently linked to increased risks of valve dysfunction and cardiovascular mortality. The risk of developing conduction disturbance with the MEV valve is well known, and the negative prognostic impact of permanent pacemaker implantation (PPI) after transcatheter aortic valve implantation is another consideration.
+AIM: This study aimed to compare the mid-term survival of patients with MEV and self-expandable valves (SEV), and to examine survival of both groups according to the presence or absence of PPI.
+METHODS: This single-centre, retrospective, observational study examined data from MEV and SEV groups comprising 92 and 373 patients, respectively. The mean clinical follow-up was 2.5±1.7 years. Mortality information was obtained from the National Institutes of Health Information and Statistics.
+RESULTS: Baseline characteristics were comparable between the groups. The log-rank test showed higher cardiovascular mortality in the MEV group (p=0.042; the relative risk (RR) 1.594 (95% CI 1.013 to 2.508)). The Cox proportional hazards model identified MEV implantation as an independent predictor of cardiovascular mortality. The rate of PPI was twice as high in the MEV vs SEV group (33.7% vs 16.1%; p<0.001). We compared the survival of both groups according to the presence or absence of PPI and found higher mortality in the MEV group without PPI versus the SEV group without PPI (p=0.007; RR 2.156 (95% CI 1.213 to 3.831)). Survival did not differ in the groups with PPI.
+CONCLUSIONS: A higher mid-term cardiovascular mortality rate was observed with MEV versus SEV implants. Comparing both groups according to the presence or absence of PPI, we observed a higher mortality risk in patients with MEV without PPI than in SEV without PPI. In contrast, mortality did not differ between the groups when PPI was implanted.
+
+Citation: Hájek P, et al. Increased cardiovascular mortality in patients with mechanically expandable transcatheter aortic valve and without permanent pacemaker. Increased cardiovascular mortality in patients with mechanically expandable transcatheter aortic valve and without permanent pacemaker. 2023; 10:(unknown pages). doi: 10.1136/openhrt-2023-002386
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38097364/

@@ -1,0 +1,12 @@
+PMID: 31631514
+Title: Transcatheter aortic valve replacement versus surgical aortic valve replacement in low-surgical-risk patients: An updated meta-analysis.
+
+Abstract: OBJECTIVE: The purpose of this meta-analysis is to compare the safety and efficacy of transcatheter aortic-valve replacement (TAVR) to surgical aortic valve replacement (SAVR) in low-surgical-risk patients.
+BACKGROUND: TAVR is proven to be safe and effective in patients with high- and intermediate-risk aortic stenosis. However, there is limited data on the safety and efficacy of TAVR in patients with low surgical risk.
+METHODS: We conducted an electronic database search of all published data for studies that compared TAVR to SAVR in low-surgical-risk patients (mean society for thoracic surgery [STS] score <4% and/or logistic EuroScore <10%) and reported on subsequent all-cause mortality, cardiac mortality, stroke rates, and other outcomes of interest. Event rates were compared with a forest plot of odds ratio using a random-effects model assuming interstudy heterogeneity.
+RESULTS: A total of seven studies (n = 6,293 patients; TAVR = 2,912; and SAVR = 3,381) were included in the final analysis. There was no significant difference between TAVR and SAVR in terms of all-cause mortality (OR 0.82; 95% CI 0.50-1.36, I2 = 51%), cardiac mortality (OR 0.57; 95% CI 0.32-1.02, I2 = 0%), new pacemaker implantation (OR = 3.11; 95% CI 0.58-16.60, I2 = 89%), moderate/severe paravalvular leak (PVL; OR 3.50; 95% CI 0.64-19.10, I2 = 54%) and rate of stroke (OR 0.63; 95% CI 0.34-1.15, I2 = 39%) at 1-year follow-up. TAVR was found to have a significantly lower incidence of atrial fibrillation (AF; OR 0.15, 95% CI 0.10-0.24, I2 = 38%) as compared to SAVR.
+CONCLUSION: The results of our meta-analysis demonstrate similar rates of all-cause mortality, cardiac mortality, and stroke at 1-year follow-up in patients undergoing TAVR and SAVR. TAVR is associated with a lower incidence of AF relative to SAVR. However, there was a significantly higher incidence of PVL with TAVR compared to SAVR.
+
+Citation: Goel S, et al. Transcatheter aortic valve replacement versus surgical aortic valve replacement in low-surgical-risk patients: An updated meta-analysis. Transcatheter aortic valve replacement versus surgical aortic valve replacement in low-surgical-risk patients: An updated meta-analysis. 2020; 96:169-178. doi: 10.1002/ccd.28520
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31631514/

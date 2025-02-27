@@ -1,0 +1,10 @@
+PMID: 31740939
+Title: Valvular calcification and risk of peripheral artery disease: the Multi-Ethnic Study of Atherosclerosis (MESA).
+
+Abstract: AIMS: The detection of cardiac valvular calcification on routine imaging may provide an opportunity to identify individuals at increased risk for peripheral artery disease (PAD). We investigated the associations of aortic valvular calcification (AVC) and mitral annular calcification (MAC) with risk of developing clinical PAD or a low ankle-brachial index (ABI).
+METHODS AND RESULTS: AVC and MAC were measured on cardiac computed tomography in 6778 Multi-Ethnic Study of Atherosclerosis participants without baseline PAD between 2000 and 2002. Clinical PAD was ascertained through 2015. Incident low ABI, defined as ABI <0.9 and decline of ≥0.15, was assessed among 5762 individuals who had an ABI >0.9 at baseline and at least one follow-up ABI measurement 3-10 years later. Adjusted Cox proportional hazards and Poisson regression modelling were used to determine the association of valvular calcification with clinical PAD and low ABI, respectively. There were 117 clinical PAD and 198 low ABI events that occurred over a median follow-up of 14 years and 9.2 years, respectively. The presence of MAC was associated with an increased risk of clinical PAD [hazard ratio 1.79; 95% confidence interval (CI) 1.04-3.05] but not a low ABI (rate ratio 1.28; 95% CI 0.75-2.19). No significant associations were noted for the presence of AVC and risk of either clinical PAD.
+CONCLUSION: MAC is associated with an increased risk of developing clinical PAD. Future studies are needed to corroborate our findings and better understand whether MAC holds any predictive value as a risk marker for PAD.
+
+Citation: Garg PK, et al. Valvular calcification and risk of peripheral artery disease: the Multi-Ethnic Study of Atherosclerosis (MESA). Valvular calcification and risk of peripheral artery disease: the Multi-Ethnic Study of Atherosclerosis (MESA). 2020; 21:1152-1159. doi: 10.1093/ehjci/jez284
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31740939/

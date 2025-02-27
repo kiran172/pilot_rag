@@ -1,0 +1,11 @@
+PMID: 31770616
+Title: ANRIL polymorphisms (rs1333049 and rs3217992) in relation to plasma CRP levels among in-patients with CHD.
+
+Abstract: BACKGROUND: Single nucleotide polymorphisms (SNPs) in long non-coding RNA ANRIL (antisense noncoding RNA in the INK4 locus) were shown to be associated with coronary heart disease (CHD). The biological background for this association is not fully understood. The primary aim of this study was to investigate whether two leading ANRIL SNPs, namely, rs133049 and rs3217992, were associated with plasma levels of C-reactive protein among a large cohort of in-patients with CHD (n = 933).
+MATERIAL AND METHODS: CHD was defined as previous or current detection of 50% stenosis of a main coronary artery. Severe periodontitis was diagnosed if proximal attachment loss of at least 5 mm was found in at least 30% of teeth. For genotyping rs1333049 we applied PCR using sequence-specific primers and for rs321799 restriction fragment length polymorphism analyses. C-reactive protein (CRP) plasma levels were determined using a particle-enhanced immunological turbidity test. In addition, interleukin (IL)-6, low-density lipoprotein (LDL), total cholesterol, high-density lipoprotein (HDL), triglycerides, and number of leukocytes were determined.
+RESULTS: Genotype CC of rs1333049 was significantly associated with both elevated CRP levels and decreased HDL concentrations after univariate (p = 0.028, p = 0.012) and multivariate analysis (p = 0.041, p = 0.023) stratified for age, gender, body mass index, smoking, diabetes, and severe periodontitis. Furthermore, severe periodontitis (p = 0.031), but not SNP rs3217992, was associated with CRP plasma concentrations.
+CONCLUSIONS: Among patients with CHD, ANRIL SNP rs1333049 is an independent risk indicator for both elevated CRP plasma levels and reduced HDL concentrations. ClinicalTrials.gov Identifier: NCT01045070.
+
+Citation: Reichert S, et al. ANRIL polymorphisms (rs1333049 and rs3217992) in relation to plasma CRP levels among in-patients with CHD. ANRIL polymorphisms (rs1333049 and rs3217992) in relation to plasma CRP levels among in-patients with CHD. 2020; 127:154932. doi: 10.1016/j.cyto.2019.154932
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31770616/

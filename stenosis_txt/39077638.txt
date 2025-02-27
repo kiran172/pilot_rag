@@ -1,0 +1,12 @@
+PMID: 39077638
+Title: Effectiveness and Safety of Different Patch Materials for Supravalvar Aortic Stenosis (Middle-Term Outcomes).
+
+Abstract: BACKGROUND: To determine the effectiveness and safety of different patch materials in the treatment of pediatric patients with congenital supravalvular aortic stenosis (SVAS).
+METHODS: 218 consecutive SVAS patients (age &lt; 14 years) who underwent surgery from Beijing Fuwai and Yunnan Fuwai hospital between 2002 and 2020 were included. Patients were divided into the pericardium patch group (133 (61.0%)), modified patch group (43 (19.7%)) and artificial patch group (42 (19.3%)). The primary safety endpoint was patch-related adverse complications (post-operation patch hemorrhage or aortic sinus aneurysm at 2-year follow-up). The primary effectiveness outcome was the re-operation or restenosis at 2-year follow-up. Multivariable cox regression was used to obtain the hazard ratio (HR).
+RESULTS: The median age at operation was 43.5 months (IQR 24.0-73.0). Only three patients had patch-related adverse complications, and no difference existed among the three groups (p = 0.763). After a median follow-up of 24.0 months (IQR 6.0-48.0), patients with a pericardium patch had a lower re-operation or restenosis rate compared with the other two groups (pericardium patch vs modified patch, HR = 0.30, 95% CI 0.12-0.77; pericardium patch vs artificial patch, HR = 0.33, 95% CI 0.13-0.82), even in the main subgroup and sensitivity analysis.
+CONCLUSIONS: In pediatric patients, the safety of autologous pericardium patch is acceptable, along with lower rates of middle-term re-operation or restenosis.
+CLINICAL TRIAL REGISTRATION: http://www.chictr.org.cn, number: ChiCTR2300067851.
+
+Citation: Lang X, et al. Effectiveness and Safety of Different Patch Materials for Supravalvar Aortic Stenosis (Middle-Term Outcomes). Effectiveness and Safety of Different Patch Materials for Supravalvar Aortic Stenosis (Middle-Term Outcomes). 2024; 25:14. doi: 10.31083/j.rcm2501014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39077638/

@@ -1,0 +1,12 @@
+PMID: 38173248
+Title: Association of radiocephalic arteriovenous anatomical markers with post-angioplasty blood flow volume.
+
+Abstract: BACKGROUND: Doppler ultrasound (DUS) blood volume flow (VF) calculation is the most reliable method for demonstrating the success of endovascular treatment of dysfunctional radiocephalic arteriovenous fistula (AVF). Due to the difficulty of this method for the interventionalist, VF-correlated markers are required during the procedure.
+PURPOSE: To investigate the relationship between intraprocedural anatomical markers (AMs) and changes in VF induced by percutaneous transluminal angioplasty (PTA).
+MATERIAL AND METHODS: The study included 56 patients with dysfunctional radiocephalic AVF who underwent PTA between September 2020 and 2022. The VF of all patients was measured using DUS before and 1 h after PTA. AMs were determined from 10 images, five before and five after balloon angioplasty.
+RESULTS: The mean post-PTA VF was 637 ± 277 mL/min compared to baseline (151 ± 107 mL/min). Before and after balloon angioplasty, vein diameter (VD), artery diameter (AD), stenosis minimum luminal diameter (MLD), stenosis percentage (SP), and VF values were statistically significant (P = 0.001). Spearman's correlation analysis showed a positive strong linear relationship between VF and MLD (r<sub>s</sub> = 0.850, P &lt;0.001), and a negative strong linear relationship between VF and SP (r<sub>s</sub> = 0.815). Receiver operating characteristic curve analysis showed that the sensitivity and specificity for VF ≥400 mL/min at cutoffs of SP &lt;50% and MLD &gt;2.5 mm were 81% and 82%, and 81% and 90%, respectively.
+CONCLUSION: Among the AMs readily available during PTA, first MLD and then SP provided satisfactory results in predicting VF.
+
+Citation: Tanyeri A. Association of radiocephalic arteriovenous anatomical markers with post-angioplasty blood flow volume. Association of radiocephalic arteriovenous anatomical markers with post-angioplasty blood flow volume. 2024; 65:463-469. doi: 10.1177/02841851231223006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38173248/

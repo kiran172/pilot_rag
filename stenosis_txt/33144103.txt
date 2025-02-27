@@ -1,0 +1,11 @@
+PMID: 33144103
+Title: Risk Factors for Anastomotic Complications After Radical McKeown Esophagectomy.
+
+Abstract: BACKGROUND: Surgical resection with esophagogastric anastomosis is the preferred treatment for patients with esophageal cancer. This study aimed to investigate independent risk factors for anastomotic leakage and stricture in patients undergoing radical McKeown esophagectomy.
+METHODS: This single-institution study retrospectively included 1300 patients who had undergone radical McKeown esophagectomy between March 2014 and July 2019. Univariable and multivariable regression analyses were performed to identify independent risk factors of anastomotic leakage and stricture. A point system for leakage was set up on the basis of multivariable regression model.
+RESULTS: Leakage occurred in 135 (10.4%) of the patients. Multivariable analyses showed that sex (male vs female, odds ratio [OR] 2.619), age (OR 1.038), preoperative albumin (OR 0.916), and width of gastric tube (5 cm vs 3 cm, OR 2.063) were associated with the risk of leakage. Stricture was noted in 335 (28.4%) of the 1178 patients and included grade I (258, 21.9%) and grade II (77, 6.5%). Multivariable analyses identified grade II (OR 2.195) or III (OR 12.001) leakage as an independent risk factor for stricture. A point system for risk factors was set up and associated with theoretical risk of leakage from 0.016 to 0.245 (c-statistic = 0.659).
+CONCLUSIONS: Male sex, older age, lower preoperative albumin, and 5-cm-wide gastric tube increased the risk for leakage development with cervical anastomosis. The grade of leakage was significantly associated with the formation of stricture. Valuing these factors could improve the perioperative strategy to prevent anastomotic complications.
+
+Citation: Jiang H, et al. Risk Factors for Anastomotic Complications After Radical McKeown Esophagectomy. Risk Factors for Anastomotic Complications After Radical McKeown Esophagectomy. 2021; 112:944-951. doi: 10.1016/j.athoracsur.2020.09.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33144103/

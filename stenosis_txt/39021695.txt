@@ -1,0 +1,11 @@
+PMID: 39021695
+Title: Prediction of Major Adverse Cardiac Events After Transcatheter Aortic Valve Implantation: A Machine Learning Approach with GRACE Score.
+
+Abstract: OBJECTIVES: Predictive risk scores have a significant impact on patient selection and assessing the likelihood of complications following interventions in patients with severe aortic stenosis (AS). This study aims to explore the utility of machine learning (ML) techniques in predicting 30-day major adverse cardiac events (MACE) by analyzing parameters, including the Global Registry of Acute Coronary Events (GRACE) score.
+METHODS: This retrospective, multi-center, observational study enrolled 453 consecutive patients diagnosed with severe AS who underwent transcatheter aortic valve implantation (TAVI) from April 2020 to January 2023. The primary outcome was defined as a composition of MACE comprising periprocedural myocardial infarction (MI), cerebrovascular events (CVE), and all-cause mortality during the 1-month follow-up period after the procedure. Conventional binomial logistic regression and ML models were utilized and compared for prediction purposes.
+RESULTS: The study population had a mean age of 76.1, with 40.8% being male. The primary endpoint was observed in 7.5% of cases. Among the individual components of the primary endpoint, the rates of all-cause mortality, MI, and CVE were reported as 4.2%, 2.4%, and 1.9%, respectively. The ML-based Extreme Gradient Boosting (XGBoost) model with the GRACE score demonstrated superior discriminative performance in predicting the primary endpoint, compared to both the ML model without the GRACE score and the conventional regression model [Area Under the Curve (AUC)= 0.98 (0.91-0.99), AUC= 0,87 (0.80-0.98), AUC= 0.84 (0.79-0.96)].
+CONCLUSION: ML techniques hold the potential to enhance outcomes in clinical practice, especially when utilized alongside established clinical tools such as the GRACE score.
+
+Citation: Erdogan A, et al. Prediction of Major Adverse Cardiac Events After Transcatheter Aortic Valve Implantation: A Machine Learning Approach with GRACE Score. Prediction of Major Adverse Cardiac Events After Transcatheter Aortic Valve Implantation: A Machine Learning Approach with GRACE Score. 2024; 58:216-225. doi: 10.14744/SEMB.2024.00836
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39021695/

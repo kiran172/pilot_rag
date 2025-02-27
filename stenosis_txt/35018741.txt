@@ -1,0 +1,11 @@
+PMID: 35018741
+Title: Ischemia in intracerebral hemorrhage: A comparative study of small-vessel and large-vessel diseases.
+
+Abstract: OBJECTIVE: This study aimed to compare effects of cerebral small-vessel disease (cSVD) burden and cerebral artery stenosis (CAS) on acute ischemia in intracerebral hemorrhage (ICH) and their interaction with mean arterial pressure (MAP) change.
+METHODS: We recruited consecutive patients with acute primary ICH. Brain magnetic resonance imaging and angiography were performed to quantify diffusion-weighted imaging (DWI) lesions, CAS, and cSVD markers, which were calculated for the total cSVD score. Multivariable regression models were adopted to explore their associations by DWI lesions size (<15 vs. ≥15 mm) and median MAP change stratification.
+RESULTS: Of 305 included patients (mean age 59.5 years, 67.9% males), 77 (25.2%) had DWI lesions (small, 79.2%; large, 20.8%) and 67 (22.0%) had moderate and severe CAS. In multivariable analysis, small DWI lesions were independently associated with higher total cSVD score (odds ratio [OR] 1.81, 95% confidence interval [CI] 1.36-2.41). and large DWI lesions were associated with more severe CAS (OR 2.51, 95% CI 1.17-5.38). This association was modified by MAP change (interaction p = 0.016), with stratified analysis showing an increased risk of large DWI lesions in severe CAS with greater MAP change (≥44 mmHg) (OR 3.48, 95% CI 1.13-10.74) but not with mild MAP change (<44 mmHg) (OR 1.21, 95% CI 0.20-7.34).
+INTERPRETATION: Total cSVD burden is associated with small DWI lesions, whereas the degree of CAS is associated with large DWI lesions, specifically with greater MAP change, suggesting that large-artery atherosclerosis may be involved in ischemic brain injury, which is different from small-vessel pathogenesis in ICH.
+
+Citation: Zhang A, et al. Ischemia in intracerebral hemorrhage: A comparative study of small-vessel and large-vessel diseases. Ischemia in intracerebral hemorrhage: A comparative study of small-vessel and large-vessel diseases. 2022; 9:79-90. doi: 10.1002/acn3.51497
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35018741/

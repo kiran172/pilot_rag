@@ -1,0 +1,11 @@
+PMID: 37209905
+Title: Association of remote dielectric sensing and six-minute walk distance among those with severe aortic stenosis.
+
+Abstract: BACKGROUND: Remote dielectric sensing (ReDS) is a novel non-invasive electromagnetic energy-incorporated technology to quantify lung fluid levels. The six-minute walk test is an established method to assess exercise capacity among those with a variety of chronic conditions related to heart and pulmonary diseases. We aimed to understand the association between ReDS value and six-minute walk distance (6MWD) in patients with severe aortic stenosis being evaluated for valve replacement.
+METHODS: Patients who were hospitalized to receive trans-catheter aortic valve replacement were prospectively included and simultaneous ReDS and 6MWD measurements were performed on admission. We attempted to correlate 6MWD with ReDS value.
+RESULTS: A total of 25 patients (median 85 years, 11 men) were included. Median 6MWD was 168 (133, 244) meters and median ReDS value was 26 % (23 %, 30 %). 6MWD displayed a moderate inverse correlation with ReDS value (r = -0.516, p = 0.008) and significantly distinguished ReDS value ≥30 %, representing mild or greater pulmonary congestion, at a cut-off of 170 m (sensitivity 0.67 and specificity 1.00).
+CONCLUSIONS: 6MWD had a moderate inverse correlation with ReDS values among candidates for trans-catheter aortic valve replacement, indicating that patients with shorter 6MWD had increased pulmonary congestion as assessed by ReDS system.
+
+Citation: Imamura T, et al. Association of remote dielectric sensing and six-minute walk distance among those with severe aortic stenosis. Association of remote dielectric sensing and six-minute walk distance among those with severe aortic stenosis. 2023; 82:257-260. doi: 10.1016/j.jjcc.2023.05.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37209905/

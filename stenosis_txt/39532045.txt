@@ -1,0 +1,12 @@
+PMID: 39532045
+Title: Agreement of echocardiographic and catheterization-based methods of transpulmonary pressure gradient measurement in dogs.
+
+Abstract: INTRODUCTION/OBJECTIVES: Doppler echocardiographic estimation of transpulmonary pressure gradient (PG) is widely used to determine severity of pulmonary valve stenosis and indication for transcatheter intervention. The objective of this study was to describe agreement between Doppler echocardiographic methods of transpulmonary PG estimation and direct peak-to-peak pressure gradient at catheterization (PG<sub>cath</sub>) in dogs. We hypothesized that with reference to PG<sub>cath</sub>, mean echocardiographic PG (PG<sub>echo-mean</sub>) would have less bias than peak modal instantaneous echocardiographic PG (PG<sub>echo-peak</sub>).
+ANIMALS: Client-owned dogs with congenital pulmonary valve stenosis that underwent balloon pulmonary valvuloplasty at one of two veterinary teaching hospitals between June 2012 and May 2022 were included in this study.
+MATERIALS AND METHODS: Cases that underwent transthoracic echocardiography and subsequent balloon pulmonary valvuloplasty separated by 30 or fewer days were retrospectively identified. For each echocardiogram, average PG<sub>echo-mean</sub> (mmHg) and average PG<sub>echo-peak</sub> (mmHg) were calculated from stored spectral Doppler recordings. Peak right ventricular-to-peak pulmonary artery PG data (mmHg) were obtained from catheterization reports. Bland-Altman analysis was used to assess agreement between echocardiographic and catheterization data.
+RESULTS: Data from 209 dogs (n = 215 instances) were evaluated. Proportional bias, greater at higher gradients, was observed for PG<sub>echo-mean</sub> versus PG<sub>cath</sub> (P&lt;0.001). A constant bias of -38.12 mmHg was observed for PG<sub>echo-peak</sub> versus PG<sub>cath</sub> (P=0.62). Bias for both echocardiographic variables had wide limits of agreement that increased with PG.
+CONCLUSIONS: PG<sub>echo-mean</sub> and PG<sub>echo-peak</sub> underestimated and overestimated PG<sub>cath</sub>, respectively, preventing their interchangeability with PG<sub>cath</sub>.
+
+Citation: Murphy KE, et al. Agreement of echocardiographic and catheterization-based methods of transpulmonary pressure gradient measurement in dogs. Agreement of echocardiographic and catheterization-based methods of transpulmonary pressure gradient measurement in dogs. 2024; 56:116-125. doi: 10.1016/j.jvc.2024.10.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39532045/

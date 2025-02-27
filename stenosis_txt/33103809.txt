@@ -1,0 +1,11 @@
+PMID: 33103809
+Title: Association of diabetes, education level, and care dependency with use of temporary vascular access in patients with chronic kidney disease.
+
+Abstract: OBJECTIVE: Temporary vascular access (TVA) is frequently used during the first dialysis in patients with chronic kidney disease (CKD), and it is associated with an increased risk of infection, central vein stenosis, and mortality. Here, factors associated with TVA in patients with CKD were explored.
+METHODS: This study included patients in a single-center CKD care program who initiated long-term renal replacement therapy. The primary outcome was TVA use at first dialysis. Factors possibly associated with TVA use were analyzed using Cox regression.
+RESULTS: Temporary vascular access was used in 53.2% of the patients at first dialysis. In total, 73.2% (n = 865) and 26.8% (n = 317) of the patients were on hemodialysis and peritoneal dialysis, respectively. Multivariate Cox regression analysis showed that TVA use in patients with CKD was associated with diabetes (hazard ratio [HR] 1.52, 95% confidence interval [CI] 1.28-1.81, p < 0.001), lower albumin (HR 0.82, 95% CI 0.75-0.91, p < 0.001), lower education level (HR 0.75, 95% CI 0.56-1.00, p = 0.055), and total care dependency (HR 1.92, CI 1.44-3.43, p = 0.003).
+CONCLUSION: Diabetes, education level, and care dependency are associated with TVA at dialysis initiation in patients with CKD.
+
+Citation: Chen HC, et al. Association of diabetes, education level, and care dependency with use of temporary vascular access in patients with chronic kidney disease. Association of diabetes, education level, and care dependency with use of temporary vascular access in patients with chronic kidney disease. 2021; 34:130-136. doi: 10.1111/sdi.12930
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33103809/

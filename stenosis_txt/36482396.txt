@@ -1,0 +1,11 @@
+PMID: 36482396
+Title: Cost-effectiveness analysis of fractional flow reserve versus angiography among patients with coronary artery disease undergoing borderline coronary lesions treatment in Iran.
+
+Abstract: BACKGROUND: The present study aimed to examine the cost-effectiveness of fractional flow reserve (FFR) versus angiography in treating borderline coronary lesions in patients with coronary artery stenosis in Iran. Cardiovascular disease is a leading cause of morbidity, mortality, readmission and the most important cause of disability in many countries, including Iran.
+METHODS: This was a cost-effectiveness study conducted from the perspective of the Ministry of Health in 2019. The effectiveness was determined using four indicators: Quality Adjusted Life Years (QALYs), major adverse cardiac events (MACE), angina, and number of used stents (mean). Only direct medical costs (DMC) were estimated. To evaluate the cost-effectiveness of FFR versus angiography, A decision tree model was built by patient's level data.To coping with uncertainty Probabilistic sensitivity analysis (PSA) was performed.
+RESULTS: Totally, 98 cases of FFR and 238 cases of angiography were included in the analysis. The average of QALY in FFR and angiography were 0.853 and 0.787, respectively. The cost of these methods were $6128 and $8388, correspondingly. Therefore, FFR was dominant compared to angiography. Results of the scatter plots and acceptability curve showed that FFR was more cost-effective than angiography in 94% and 96% of simulations for a threshold lower than $11,000 PPP. The PSA analysis confirmed the robustness of the study results.
+CONCLUSION: The results indicated that FFR was more cost-effective than angiography in the cases studied in Iran. Consequently, FFR can be used as a high-priority diagnostic method and it is recommendable to be included in insurance coverage.
+
+Citation: Keshavarz K, et al. Cost-effectiveness analysis of fractional flow reserve versus angiography among patients with coronary artery disease undergoing borderline coronary lesions treatment in Iran. Cost-effectiveness analysis of fractional flow reserve versus angiography among patients with coronary artery disease undergoing borderline coronary lesions treatment in Iran. 2022; 20:66. doi: 10.1186/s12962-022-00402-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36482396/

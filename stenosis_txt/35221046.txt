@@ -1,0 +1,8 @@
+PMID: 35221046
+Title: Impact of Postthrombotic Vein Wall Biomechanics on Luminal Flow during Venous Angioplasty and Stent Placement: Computational Modeling Results.
+
+Abstract: This study characterized the impact of vein wall biomechanics on inflow diameter and luminal flow during venous angioplasty and stent placement, using postthrombotic and healthy biomechanical properties from an ovine venous stenosis and thrombosis model. Finite element analysis demonstrated more pronounced inflow channel narrowing in the postthrombotic vein compared with the healthy control vein during angioplasty and stent placement (relative inflow diameter reduction of 42% versus 13%, P &lt; .0001). Computational fluid dynamics modeling showed increased relative areas of low wall shear rate in the postthrombotic vein compared with the normal vein (0.46 vs 0.24 for shear rate &lt; 50 s-1; 0.13 vs 0.07 for shear rate &lt; 15 s-1; P &lt; .05), with flow stagnation and recirculation. Since inflow narrowing and low wall shear rate are associated with in-stent restenosis and reintervention, these computational results based on experimentally obtained biomechanical values highlight the significance of postthrombotic venous properties in optimizing venous intervention outcomes.
+
+Citation: Li N, et al. Impact of Postthrombotic Vein Wall Biomechanics on Luminal Flow during Venous Angioplasty and Stent Placement: Computational Modeling Results. Impact of Postthrombotic Vein Wall Biomechanics on Luminal Flow during Venous Angioplasty and Stent Placement: Computational Modeling Results. 2022; 33:262-267. doi: 10.1016/j.jvir.2021.12.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35221046/

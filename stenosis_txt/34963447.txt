@@ -1,0 +1,11 @@
+PMID: 34963447
+Title: Elevated circulating high-sensitivity cardiac troponin t and cardiac remodeling in obesity.
+
+Abstract: BACKGROUND: It is well established that body mass index (BMI) and troponins are independently associated. However, whether the obesity could cause myocardial injury independent of coronary heart disease (CHD) remains unclear. This study focuses on the relationship between BMI and troponins, and whether this relationship is being attenuated when CHD is accounted for.
+METHODS: In populations without acute ischemic events, 383 patients with coronary artery stenosis less than 75% were included, that is, people who have not yet reached the indications for coronary intervention, and of them 70 patients being obese according to BMI ≥ 28 kg/m2. Continuous variables were represented as mean ± SD or median(inter quartile range[IQR]). Chi-square test was adopted for categorical data. Correlations between variables were evaluated by Spearman analysis, multiple regression or logistic regression.
+RESULTS: The circulating hs-cTnT level was higher in the obese group [8(6,11) ng/L vs. 6(4,9) ng/L; p < 0.001). In subgroup analysis based on the presence or absence of coronary heart disease(CHD), the adjusted β(95%CI) for circulating hs-cTnT exhibited a proportional relationship with BMI when the non-obesity were defined as the reference[β; 2.22(95%CI, 0.73 to 3.71) in non-CHD, 5.58(95%CI, 0.70 to 10.46) in CHD, p < 0.05]. Additionally, the degree of coronary stenosis has shown a positive correlation with circulating hs-cTnT (rho = 0.1162; p < 0.05).
+CONCLUSION: When CHD is taken into account, obesity is independently associated to the elevation of circulating hs-cTnT, a biomarker of myocardial injury, potentially indicating the impact of obesity on non-ischemic subclinical myocardial injury.
+
+Citation: Huang J, et al. Elevated circulating high-sensitivity cardiac troponin t and cardiac remodeling in obesity. Elevated circulating high-sensitivity cardiac troponin t and cardiac remodeling in obesity. 2021; 21:620. doi: 10.1186/s12872-021-02445-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34963447/

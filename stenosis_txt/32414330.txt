@@ -1,0 +1,12 @@
+PMID: 32414330
+Title: Comparison of bioresorbable vs durable polymer drug-eluting stents in unprotected left main (from the RAIN-CARDIOGROUP VII Study).
+
+Abstract: BACKGROUND: There are limited data regarding the impact of bioresorbable polymer drug eluting stent (BP-DES) compared to durable polymer drug eluting stent (DP-DES) in patients treated with percutaneous coronary intervention using ultrathin stents in left main or bifurcations.
+METHODS: In the RAIN registry (ClinicalTrials NCT03544294, june 2018 retrospectively registered) patients with a ULM or bifurcation stenosis treated with PCI using ultrathin stents (struts thinner than 81 μm) were enrolled. The primary endpoint was the rate of target lesion revascularization (TLR); major adverse cardiovascular events (MACE, a composite of all-cause death, myocardial infarction, TLR and stent thrombosis) and its components, along with target vessel revascularization (TVR) were the secondary ones. A propensity score with matching analysis to compare patients treated with BP-DES versus DP-DES was also assessed.
+RESULTS: From 3001 enrolled patients, after propensity score analysis 1400 patients (700 for each group) were selected. Among them, 352 had ULM disease and 1048 had non-LM bifurcations. At 16 months (12-22), rates of TLR (3.7% vs 2.9%, p = 0.22) and MACE were similar (12.3% vs. 11.6%, p = 0.74) as well as for the other endpoints. Sensitivity analysis of outcomes after a two-stents strategy, showed better outcome in term of MACE (20.4% vs 10%, p = 0.03) and TVR (12% vs 4.6%, p = 0.05) and a trend towards lower TLR in patients treated with BP-DES.
+CONCLUSION: In patients with bifurcations or ULM treated with ultrathin stents BP-DES seems to perform similarly to DP-DES: the trends toward improved clinical outcomes in patients treated with the BP-DES might potentially be of value for speculating the stent choice in selected high-risk subgroups of patients at increased risk of ischemic events.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03544294. Retrospectively registered June 1, 2018.
+
+Citation: Iannaccone M, et al. Comparison of bioresorbable vs durable polymer drug-eluting stents in unprotected left main (from the RAIN-CARDIOGROUP VII Study). Comparison of bioresorbable vs durable polymer drug-eluting stents in unprotected left main (from the RAIN-CARDIOGROUP VII Study). 2020; 20:225. doi: 10.1186/s12872-020-01420-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32414330/

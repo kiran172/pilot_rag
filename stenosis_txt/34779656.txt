@@ -1,0 +1,11 @@
+PMID: 34779656
+Title: Role of Frailty in Identifying Benefit From Transcatheter Versus Surgical Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Frailty is associated with a higher risk for adverse outcomes after aortic valve replacement (AVR) for severe aortic valve stenosis, but whether or not frail patients derive differential benefit from transcatheter (TAVR) versus surgical (SAVR) AVR is uncertain.
+METHODS: We linked adults ≥65 years old in the US CoreValve HiR trial (High-Risk) or SURTAVI trial (Surgical or Transcatheter Aortic-Valve Replacement in Intermediate-Risk Patients) to Medicare claims, February 2, 2011, to September 30, 2015. Two frailty measures, a deficit-based and phenotype-based frailty index (FI), were generated. The treatment effect of TAVR versus SAVR was evaluated within FI tertiles for the primary end point of death and nondeath secondary outcomes, using multivariable Cox regression.
+RESULTS: Of 1442 (linkage rate =60.0%) individuals included, 741 (51.4%) individuals received TAVR and 701 (48.6%) received SAVR (mean age 81.8±6.1 years, 44.0% female). Although 1-year death rates in the highest FI tertiles (deficit-based FI 36.7% and phenotype-based FI 33.8%) were 2- to 3-fold higher than the lowest tertiles (deficit-based FI 13.4%; hazard ratio, 3.02 [95% CI, 2.26-4.02], P&lt;0.001; phenotype-based FI 17.9%; hazard ratio, 2.05 [95% CI, 1.58-2.67], P&lt;0.001), there were no significant differences in the relative or absolute treatment effect of SAVR versus TAVR across FI tertiles for all death, nondeath, and functional outcomes (all interaction P&gt;0.05). Results remained consistent across individual trials, frailty definitions, and when considering the nonlinked trial data.
+CONCLUSIONS: Two different frailty indices based on Fried and Rockwood definitions identified individuals at higher risk of death and functional impairment but no differential benefit from TAVR versus SAVR.
+
+Citation: Strom JB, et al. Role of Frailty in Identifying Benefit From Transcatheter Versus Surgical Aortic Valve Replacement. Role of Frailty in Identifying Benefit From Transcatheter Versus Surgical Aortic Valve Replacement. 2021; 14:e008566. doi: 10.1161/CIRCOUTCOMES.121.008566
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34779656/

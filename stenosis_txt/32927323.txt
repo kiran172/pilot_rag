@@ -1,0 +1,11 @@
+PMID: 32927323
+Title: Anastomotic Stricture Definition After Esophageal Atresia Repair: Role of Endoscopic Stricture Index.
+
+Abstract: BACKGROUND: To evaluate the feasibility and efficacy of endoscopic stricture index (SI<sub>EN</sub>) to define anastomotic strictures (ASs) and to predict the need of dilatations.
+MATERIALS AND METHODS: A retrospective longitudinal study was conducted on patients who underwent esophageal atresia repair from 1998-2020 (ethical committee approval CHPED-05-20-AS). SI<sub>EN</sub> was calculated on the first endoscopy performed as follows: (D - d)/D, where D is the maximum diameter of lumen of the upper esophagus close to the AS and d is the diameter of lumen of the stricture. Nonparametric variables were examined using Wilcoxon-Mann-Whitney test, and continuous variables were analyzed using Spearman's test and regression analysis. A P value &lt;0.05 was considered statistically significant. The sensitivity, specificity, and positive and negative predictive values of SI<sub>EN</sub> were also calculated, and a receiver operating characteristic curve was designed.
+RESULTS: A total of 46 patients were included in the study. A statistically significant correlation was found between SI<sub>EN</sub> and number of dilations (Spearman's correlation rate, 0.7; P &lt; 0.0005). A SI<sub>EN</sub> threshold value ≥0.6 showed sensitivity of 100%, specificity of 80%, positive predictive value of 54%, negative predictive value of 100%, and the area under the curve of 84%.
+CONCLUSIONS: SI<sub>EN</sub> seems to be a good AS definer and prognostic tool; our study suggests that an AS could be defined by a SI<sub>EN</sub> ≥0.6.
+
+Citation: Parente G, et al. Anastomotic Stricture Definition After Esophageal Atresia Repair: Role of Endoscopic Stricture Index. Anastomotic Stricture Definition After Esophageal Atresia Repair: Role of Endoscopic Stricture Index. 2021; 257:572-578. doi: 10.1016/j.jss.2020.08.035
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32927323/

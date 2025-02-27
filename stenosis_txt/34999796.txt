@@ -1,0 +1,11 @@
+PMID: 34999796
+Title: Fragmented QRS complex may predict long-term mortality after isolated surgical aortic valve replacement in patients with severe aortic stenosis.
+
+Abstract: OBJECTIVES: Fragmented QRS (fQRS), related to myocardial fibrosis, is an important prognostic marker of cardiovascular events and mortality. Aortic stenosis (AS), the most frequent valvular heart disease in developed countries, causes myocardial fibrosis due to ventricular pressure overload. The current study aimed to investigate whether fQRS is associated with long-term mortality after isolated surgical aortic valve replacement (SAVR) in patients with severe AS.
+METHODS: A total of 289 patients who underwent SAVR for severe AS between May 2009 and January 2020 with interpretable electrocardiogram were included. Patients were divided into 2 groups according to the presence of fQRS. Kaplan-Meier survival analyses were used to detect cumulative survival rates. Univariable and multivariable Cox proportional hazards models were used to determine the predictors of all-cause mortality.
+RESULTS: fQRS occurred in 126 (43.5%) patients. A total of 59 (20.4%) patients died over a follow-up period of 54 ± 32 months. All-cause mortality was higher in the fQRS group (23 [14.1%] vs 36 [28.6], log-rank test P = 0.002) in the long term. The presence of fQRS [hazard ratio (HR): 1.802, confidence interval (CI): 1.035-3.135, P = 0.037], electrocardiographic left ventricular strain (HR: 1.836, CI: 1.036-3.254, P = 0.038) and history of stroke or transient ischaemic attack (HR: 3.130, CI: 1.528-6.412, P = 0.002) were independent predictors of all-cause mortality in the multivariable Cox regression model.
+CONCLUSIONS: fQRS is associated with a 1.8-fold increase in long-term mortality in patients undergoing isolated SAVR for severe AS. Detecting fQRS in electrocardiograms may provide prognostic information about the long-term outcomes.
+
+Citation: Panç C, et al. Fragmented QRS complex may predict long-term mortality after isolated surgical aortic valve replacement in patients with severe aortic stenosis. Fragmented QRS complex may predict long-term mortality after isolated surgical aortic valve replacement in patients with severe aortic stenosis. 2022; 34:26-32. doi: 10.1093/icvts/ivab214
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34999796/

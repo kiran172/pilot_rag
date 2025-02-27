@@ -1,0 +1,12 @@
+PMID: 31794109
+Title: Predictors and outcomes of patient-prosthesis mismatch after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Patient-prosthesis mismatch (PPM) has been shown to be associated with adverse outcomes after surgical aortic valve replacement. There is limited data on its risk and impact after transcatheter aortic valve replacement (TAVR), especially with the newer generation heart valves.
+OBJECTIVES: The objective of this study is to investigate the incidence, predictors, and clinical outcomes of PPM after TAVR.
+METHODS: This is a retrospective study of 991 consecutive patients who underwent TAVR procedure at a tertiary referral center, between April 2012 and February 2019. Patients were stratified by the presence or absence of PPM, defined as an effective orifice area/body surface area ratio ≤0.85 cm2 /m2 . Multivariable logistic regression analysis was used to determine independent predictors of PPM. Kaplan-Meier survival estimates were used to determine overall 5-year survival.
+RESULTS: PPM was encountered in 27.6% of patients. In multivariable analysis, age less than 70 years (P = .062), body mass index (BMI) more than 30 (P = .0057), history of atrial fibrillation (P = .0004), black race (P = .0078), and Sapien 3 sizes 20 and 23 mm (P < .0001)emerged as independent predictors of PPM. Sapien 3 valve size 20/23 mm was associated with higher risk of PPM compared to other valve types. Patients with PPM had comparable postoperative outcomes and overall 5-year survival. There was no significant difference in postoperative complications between patient groups. PPM was not associated with worse overall survival (56% for both PPM and no-PPM patients, log-rank P = .80).
+CONCLUSIONS: Younger age, atrial fibrillation, black race, higher BMI were predictors of PPM. Smaller sizes balloon-expandable valves had a higher risk of PPM.
+
+Citation: Stamou SC, et al. Predictors and outcomes of patient-prosthesis mismatch after transcatheter aortic valve replacement. Predictors and outcomes of patient-prosthesis mismatch after transcatheter aortic valve replacement. 2020; 35:360-366. doi: 10.1111/jocs.14383
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31794109/

@@ -1,0 +1,15 @@
+PMID: 32565316
+Title: Cervical epidural steroid injections: incidence and determinants of subsequent surgery.
+
+Abstract: BACKGROUND CONTEXT: Cervical epidural steroid injections (CESIs) are sometimes used in the management of cervical radicular pain in order to delay or avoid surgery. However, the rate and determinants of surgery following CESIs remain uncertain.
+PURPOSE: This study sought to determine: (1) the proportion of patients having surgery following CESI, and (2) the timing of and factors associated with subsequent surgery.
+STUDY DESIGN: Retrospective analysis of a large, national administrative claims database.
+PATIENT SAMPLE: The study included 192,777 CESI patients (age 50.9±11.3 years, 55.2% female) who underwent CESI for imaging-based diagnoses of cervical disc herniation or stenosis, a clinical diagnosis of radiculopathy, or a combination thereof.
+OUTCOME MEASURES: The primary outcome was the time from index CESI to surgery.
+METHODS: Inclusion criteria were CESI for cervical disc herniation, stenosis, or radiculopathy, age ≥18, and active enrollment for 1 year before CESI to screen for exclusions. Patients were followed until they underwent cervical surgery, or their enrollment lapsed. Rates of surgery were assessed with Kaplan-Meier survival curves and 99% confidence intervals. Factors associated with subsequent surgery were assessed with multivariable Cox proportional hazard models.
+RESULTS: Within 6 months of CESI, 11.2% of patients underwent surgery, increasing to 14.5% by 1 year and 22.3% by 5 years. Male patients and those aged 35 to 54 had an increased likelihood of subsequent surgery. Patients with radiculopathy were less likely to undergo surgery following CESI than those with stenosis or herniation, while patients with multiple diagnoses were more likely. Patients with comorbidities including CHF, other cardiac comorbidities or chronic pain were less likely to undergo surgery, as were patients in the northeast US region. Some 33.5% of patients underwent >1 CESI, with 84.6% of these occurring within 1 year. Additional injections were associated with reduced rates of subsequent surgery.
+CONCLUSIONS: Following CESI, over one in five patients underwent surgery within 5 years. Multiple patient-specific risk factors for subsequent surgery were identified, and patients undergoing repeated injections were at lower risk. Determining which patients may progress to surgery can be used to improve resource utilization and to inform shared decision-making.
+
+Citation: Kleimeyer JP, et al. Cervical epidural steroid injections: incidence and determinants of subsequent surgery. Cervical epidural steroid injections: incidence and determinants of subsequent surgery. 2020; 20:1729-1736. doi: 10.1016/j.spinee.2020.06.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32565316/

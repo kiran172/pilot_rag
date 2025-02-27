@@ -1,0 +1,11 @@
+PMID: 39483265
+Title: Causal effect of psoriasis on aortic valve stenosis: a two-sample Mendelian randomization study.
+
+Abstract: BACKGROUND: Epidemiological studies have suggested a potential connection between psoriasis and an increased risk of aortic valve stenosis (AS), though the impact of psoriasis on AS progression remains uncertain. The study aims to investigate the causal relationship between psoriasis and AS using Mendelian randomization (MR) analysis, as well as to uncover potential mechanisms underlying this association.
+METHODS: A two-sample MR analysis was conducted using publicly available summary statistics from genome-wide association studies (GWAS) of psoriasis and AS. Cis-eQTL and significant genes were identified for each causal single-nucleotide polymorphisms (SNPs), followed by pathway enrichment and protein-protein interaction (PPI) analysis for functional evaluation. Hub genes were pinpointed by Cytospace. The transcriptional profile of AS population was acquired, and interconnected genes networks were clustered using Molecular Complex Detection (MCODE).
+RESULTS: Our results demonstrate a significant causal relationship between psoriasis and AS, with a genetic predisposition to psoriasis associated with a higher AS risk (odds ratio: 1.46). Pathway and PPI analyses unveiled 15 hub genes, including HLA-C, HLA-B, ISG15, IFIT3, and MX2, along with immune-related pathways linking psoriasis and AS. Moreover, the transcriptional profiling of the AS database highlighted the significant involvement of adaptive immune cells in AS development. Notably, among the 15 hub genes, ISG15, MX2, OAS3, OASL, IFI6, and EPSTI1 exhibited higher expression in the AS population.
+CONCLUSION: Our study provides compelling evidence supporting a causal relationship between psoriasis and AS. Furthermore, the identified hub genes and immune-related pathways may play an important role in the development of both diseases.
+
+Citation: Jiang KX, et al. Causal effect of psoriasis on aortic valve stenosis: a two-sample Mendelian randomization study. Causal effect of psoriasis on aortic valve stenosis: a two-sample Mendelian randomization study. 2024; 21:865-873. doi: 10.26599/1671-5411.2024.09.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39483265/

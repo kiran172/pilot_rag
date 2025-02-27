@@ -1,0 +1,11 @@
+PMID: 38072710
+Title: Clinical and prognostic incremental value of FFRCT in screening of patients with obstructive coronary artery disease.
+
+Abstract: BACKGROUND: Coronary computed tomography angiography (CCTA) -derived fractional flow reserve (FFR<sub>CT</sub>) is recommended to evaluate the functional consequences of obstructive coronary artery disease (OCAD). Real-world incremental impacts of FFR<sub>CT</sub> use still remains under debate.
+METHODS: 1601 patients with suspected OCAD on CCTA (&gt;50 ​% stenosis), including 808 (50.5 ​%) patients evaluated by FFR<sub>CT</sub>, were included from a 2013-2021 registry. Propensity adjusted impacts of FFR<sub>CT</sub> use on rates of invasive coronary angiography (ICA), myocardial revascularization (MR) and post MR major adverse cardiac events (MACE) were reported, including a sensitivity analysis in severe OCAD (&gt;70 ​% stenosis) (n ​= ​450). Accuracy of numerical and comprehensive FFR<sub>CT</sub> interpretations in selection of patients requiring a MR were also compared.
+RESULTS: 1160 (72,5 ​%) ICA, 559 (34.9 ​%) MR and 137 (24.5 ​%) post MR MACE occurred at 4.7 ​± ​1.9 years. FFR<sub>CT</sub> use was independently associated with decreased rate of ICA and MR (OR: 0.66; 95 ​% CI 0.53-0.83, p ​&lt; ​0.001 and OR: 0.71; 95 ​% CI 0.58-0.88, p ​&lt; ​0.01, respectively). Compared to the numerical interpretation, the FFR<sub>CT</sub> comprehensive assessment increased the ratio of MR per ICA (61.7 ​% vs 50.1 ​%, p ​&lt; ​0.01) and was more accurate in selection of patients requiring MR. FFR<sub>CT</sub> reduced post MR MACE (OR: 0.64; 95 ​% CI 0.43-0.96, p ​&lt; ​0.05). All these associations were no longer observed in severe OCAD.
+CONCLUSION: Implementing FFR<sub>CT</sub> in OCAD patients reduces ICA use, improves selection of patients requiring MR and reduces post MR MACE. However, these incremental values of FFRCT were no longer observed in severe OCAD.
+
+Citation: Argacha JF, et al. Clinical and prognostic incremental value of FFRCT in screening of patients with obstructive coronary artery disease. Clinical and prognostic incremental value of FFRCT in screening of patients with obstructive coronary artery disease. 2024; 18:62-68. doi: 10.1016/j.jcct.2023.11.078
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38072710/

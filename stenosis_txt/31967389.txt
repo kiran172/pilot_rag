@@ -1,0 +1,12 @@
+PMID: 31967389
+Title: Motorized fractional flow reserve pullback: Accuracy and reproducibility.
+
+Abstract: OBJECTIVES: The present study aimed at determining the accuracy and reproducibility of motorized FFR pullbacks in patients with stable coronary artery disease.
+BACKGROUND: Fractional flow reserve (FFR) is recommended for decision making regarding myocardial revascularization. The distribution of epicardial resistance along coronary vessels can be assessed using FFR pullbacks.
+METHODS: Duplicated FFR pullbacks were acquired using a motorized device at a speed of 1 mm/s in intermediate coronary stenosis. In addition, a single FFR value was measured at an anatomical landmark. The agreement between FFR measurements was assessed using the Bland-Altman method, Pearson's correlation coefficient and area under the pullback curve (AUPC).
+RESULTS: In 20 vessels, 37,326 FFR values were obtained. The mean FFR from the pullbacks was 0.91 ± 0.08 whereas the mean FFR at the distal location was 0.85 ± 0.09. The mean difference between pullbacks was -0.002 (LOA -0.058 to 0.054). The difference in AUPC between the two FFR pullbacks was 2.1 ± 1.6%. At pre-specified anatomical locations, the mean difference between the FFR derived from the pullback data and the measured FFR was 0 (LOA -0.040 to 0.039). The repeatability of the distal FFR measurement was high (bias -0.003, LOA -0.046 to 0.041).
+CONCLUSION: A motorized FFR pullback was accurate to assess the distribution of epicardial resistance in patients with intermediate coronary artery disease. The reproducibility of the FFR pullback was high. Further studies are required to determine the potential usefulness of a hyperemic FFR pullback strategy for decision making and treatment planning.
+
+Citation: Sonck J, et al. Motorized fractional flow reserve pullback: Accuracy and reproducibility. Motorized fractional flow reserve pullback: Accuracy and reproducibility. 2020; 96:E230-E237. doi: 10.1002/ccd.28733
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31967389/

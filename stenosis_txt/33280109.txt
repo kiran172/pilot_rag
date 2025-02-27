@@ -1,0 +1,12 @@
+PMID: 33280109
+Title: Subglottic Stenosis Position Affects Work of Breathing.
+
+Abstract: OBJECTIVES: Subglottic stenosis (SGS) is the most common type of laryngeal stenosis in neonates. SGS severity is currently graded based on percent area of obstruction (%AO) via the Myer-Cotton grading scale. However, patients with similar %AO can have widely different clinical courses. Computational fluid dynamics (CFD) based on patient-specific imaging can quantify the relationship between airway geometry and flow dynamics. We investigated the effect of %AO and axial position of SGS on work of breathing (WOB) in neonates using magnetic resonance imaging.
+METHODS: High-resolution ultrashort echo-time MRI of the chest and airway was obtained in three neonatal patients with no suspected airway abnormalities; images were segmented to construct three-dimensional (3D) models of the neonatal airways. These models were then modified with virtual SGSs of varying %AO and axial positioning. CFD simulations of peak inspiratory flow were used to calculate patient-specific WOB in nonstenotic and artificially stenosed airway models.
+RESULTS: CFD simulations demonstrated a relationship between stenosis geometry and WOB increase. WOB rapidly increased with %AO greater than about 70%. Changes in axial position could also increase WOB by approximately the same amount as a 10% increase in %AO. Increased WOB was particularly pronounced when the SGS lumen was misaligned with the glottic jet.
+CONCLUSION: The results indicate a strong, predictable relationship between WOB and axial position of the stenotic lumen relative to the glottis, which has not been previously reported. These findings may lead to precision diagnosis and treatment prediction tools in individual patients.
+LEVEL OF EVIDENCE: 4 Laryngoscope, 131:E1220-E1226, 2021.
+
+Citation: Yang MM, et al. Subglottic Stenosis Position Affects Work of Breathing. Subglottic Stenosis Position Affects Work of Breathing. 2021; 131:E1220-E1226. doi: 10.1002/lary.29169
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33280109/

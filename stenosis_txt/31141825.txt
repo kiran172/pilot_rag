@@ -1,0 +1,11 @@
+PMID: 31141825
+Title: Improved Carotid Stenosis Quantification on Novel 4D/3D-Doppler Ultrasonography Indexing to the Common Carotid Artery.
+
+Abstract: PURPOSE:  The accuracy of internal carotid artery stenosis (ICAS) quantification depends on the method of stenosis measurement, impacting therapeutic decisions and outcomes. The NASCET method references the stenotic to the distal ICAS lumen, the ECST method to the local outer and the common carotid artery (CC) method to the CC diameter. Direct morphometric stenosis measurement with four-dimensionally guided three-dimensional ultrasonography (4D/3DC-US) demonstrated good validity for the commonly used NASCET method. The NASCET definition has clinically relevant drawbacks. Our purpose was to investigate the validity of the ECST and CC methods.
+MATERIALS AND METHODS:  4D/3DC-US percent-stenosis measures of 103 stenoses (80 patients) were compared to quantitative catheter angiography and duplex ultrasonography (DUS) in a blinded fashion.
+RESULTS:  The 4D/3DC-US versus angiography intermethod standard deviation of differences (SDD, n = 103) was lower for the CC method (5.7 %) compared to the NASCET (8.1 %, p < 0.001) and ECST methods (9.1 %, p < 0.001). Additionally, it was lower than the NASCET angiography interrater SDD of 52 stenoses (SDD 7.2 %, p = 0.047) and non-inferior for the ECST method (p = 0.065). Interobserver analysis of equivalent grading methods showed no differences for the SDDs between angiography and 4D/3DC-US observers (p > 0.076). Binary comparison to angiography showed equal Kappa values > 0.7 and an accuracy ≥ 85 % for the NASCET and CC methods, higher than for the ECST method. The binary accuracy of ICAS grading did not differ from DUS for all methods.
+CONCLUSION:  The new 4D/3DC-US CC method is an accurate and well reproducible alternative to the NASCET and ECST methods and offers potential for clinical application.
+
+Citation: Macharzina RR, et al. Improved Carotid Stenosis Quantification on Novel 4D/3D-Doppler Ultrasonography Indexing to the Common Carotid Artery. Improved Carotid Stenosis Quantification on Novel 4D/3D-Doppler Ultrasonography Indexing to the Common Carotid Artery. 2020; 41:167-174. doi: 10.1055/a-0628-6459
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31141825/

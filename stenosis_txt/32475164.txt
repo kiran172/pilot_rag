@@ -1,0 +1,11 @@
+PMID: 32475164
+Title: Early Cardiac Remodeling Promotes Tumor Growth and Metastasis.
+
+Abstract: BACKGROUND: Recent evidence suggests that cancer and cardiovascular diseases are associated. Chemotherapy drugs are known to result in cardiotoxicity, and studies have shown that heart failure and stress correlate with poor cancer prognosis. However, whether cardiac remodeling in the absence of heart failure is sufficient to promote cancer is unknown.
+METHODS: To investigate the effect of early cardiac remodeling on tumor growth and metastasis colonization, we used transverse aortic constriction (TAC), a model for pressure overload-induced cardiac hypertrophy, and followed it by cancer cell implantation.
+RESULTS: TAC-operated mice developed larger primary tumors with a higher proliferation rate and displayed more metastatic lesions compared with controls. Serum derived from TAC-operated mice potentiated cancer cell proliferation in vitro, suggesting the existence of secreted tumor-promoting factors. Using RNA-sequencing data, we identified elevated mRNA levels of periostin in the hearts of TAC-operated mice. Periostin levels were also found to be high in the serum after TAC. Depletion of periostin from the serum abrogated the proliferation of cancer cells; conversely, the addition of periostin enhanced cancer cell proliferation in vitro. This is the first study to show that early cardiac remodeling nurtures tumor growth and metastasis and therefore promotes cancer progression.
+CONCLUSIONS: Our study highlights the importance of early diagnosis and treatment of cardiac remodeling because it may attenuate cancer progression and improve cancer outcome.
+
+Citation: Avraham S, et al. Early Cardiac Remodeling Promotes Tumor Growth and Metastasis. Early Cardiac Remodeling Promotes Tumor Growth and Metastasis. 2020; 142:670-683. doi: 10.1161/CIRCULATIONAHA.120.046471
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32475164/

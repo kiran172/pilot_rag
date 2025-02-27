@@ -1,0 +1,11 @@
+PMID: 37270296
+Title: Does the Type of Chronic Heart Failure Impact In-Hospital Outcomes for Aortic Valve Replacement Procedures?
+
+Abstract: BACKGROUND: This study assessed in-hospital outcomes of patients with chronic systolic, diastolic, or mixed heart failure (HF) undergoing transcatheter aortic valve replacement (TAVR) or surgical aortic valve replacement (SAVR).
+METHODS: The Nationwide Inpatient Sample database was used to identify patients with aortic stenosis and chronic HF who underwent TAVR or SAVR between 2012 and 2015. Propensity score matching and multivariate logistic regression were used to determine outcome risk.
+RESULTS: A cohort of 9,879 patients with systolic (27.2%), diastolic (52.2%), and mixed (20.6%) chronic HF were included. No statistically significant differences in hospital mortality were noted. Overall, patients with diastolic HF had the shortest hospital stays and lowest costs. Compared with patients with diastolic HF, the risk of acute myocardial infarction (TAVR odds ratio [OR], 1.95; 95% CI, 1.20-3.19; P = .008; SAVR OR, 1.38; 95% CI, 0.98-1.95; P = .067) and cardiogenic shock (TAVR OR, 2.15; 95% CI, 1.43-3.23; P < .001; SAVR OR, 1.89; 95% CI, 1.42-2.53; P ≤ .001) was higher in patients with systolic HF, whereas the risk of permanent pacemaker implantation (TAVR OR, 0.58; 95% CI, 0.45-0.76; P < .001; SAVR OR, 0.58; 95% CI, 0.40-0.84; P = .004) was lower following aortic valve procedures. In TAVR, the risk of acute deep vein thrombosis and kidney injury was higher, although not statistically significant, in patients with systolic HF than in those with diastolic HF.
+CONCLUSION: These outcomes suggest that chronic HF types do not incur statistically significant hospital mortality risk in patients undergoing TAVR or SAVR.
+
+Citation: Mubashir T, et al. Does the Type of Chronic Heart Failure Impact In-Hospital Outcomes for Aortic Valve Replacement Procedures?. Does the Type of Chronic Heart Failure Impact In-Hospital Outcomes for Aortic Valve Replacement Procedures?. 2023; 50:(unknown pages). doi: 10.14503/THIJ-21-7775
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37270296/

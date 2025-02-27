@@ -1,0 +1,12 @@
+PMID: 32215494
+Title: Evaluation of Myocardial Ischemia with iFR (Instantaneous Wave-Free Ratio in the Catheterization Laboratory: A Pilot Study.
+
+Abstract: BACKGROUND: The Instantaneous Wave-Free Ratio (iFR) is an invasive functional evaluation method that does not require vasoactive drugs to induce maximum hyperemia.
+OBJECTIVE: To evaluate the contribution of the iFR to the therapeutic decision-making of coronary lesions in the absence of non-invasive diagnostic methods for ischemia, or in case of discordance between these methods and coronary angiography.
+METHOD: We studied patients older than 18 years, of both sexes, consecutively referred for percutaneous treatment between May 2014 and March 2018. Coronary stenotic lesions were classified by visual estimation of the stenosis diameter into moderate (41-70% stenosis) or severe (71%-90%). An iFR ≤ 0.89 was considered positive for ischemia. Logistic regression was performed using the elastic net, with placement of stents as outcome variable, and age, sex, arterial hypertension, diabetes, dyslipidemia, smoking, family history, obesity and acute myocardial infarction (AMI) as independent variables. Classification trees, ROC curves, and Box Plot graphs were constructed using the R software. A p-value < 0.05 was considered statistically significant.
+RESULTS: Fifty-two patients with 96 stenotic lesions (56 moderate, 40 severe) were evaluated. The iFR cut-off point of 0.87 showed a sensitivity of 0.57 and 1-specificity of 0.88, demonstrating high accuracy in reclassifying the lesions. Diabetes mellitus, dyslipidemia, and presence of moderate lesions with an iFR < 0.87 were predictors of stent implantation. Stents were used in 32% of lesions in patients with stable coronary artery disease and AMI with or without ST elevation (non-culprit lesions).
+CONCLUSION: The iFR has an additional value to the therapeutic decision making in moderate and severe coronary stenotic lesions, by contributing to the reclassification of lesions and decreasing the need for stenting.
+
+Citation: Vieira HCA, et al. Evaluation of Myocardial Ischemia with iFR (Instantaneous Wave-Free Ratio in the Catheterization Laboratory: A Pilot Study. Evaluation of Myocardial Ischemia with iFR (Instantaneous Wave-Free Ratio in the Catheterization Laboratory: A Pilot Study. 2020; 114:256-264. doi: 10.36660/abc.20180298
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32215494/

@@ -1,0 +1,11 @@
+PMID: 35355959
+Title: Association of Neutrophil to Lymphocyte Ratio With Plaque Rupture in Acute Coronary Syndrome Patients With Only Intermediate Coronary Artery Lesions Assessed by Optical Coherence Tomography.
+
+Abstract: OBJECTIVES: Plaque vulnerability and rupture rather than plaque size are the major cause of clinical events in patients with intermediate coronary lesions. Therefore, the present study was aimed to explore potential markers associated with plaque rupture in acute coronary syndrome (ACS) patients with intermediate coronary lesions.
+METHODS: A total of 82 ACS patients presenting with only intermediate coronary lesions (40-70% stenosis demonstrated by quantitative coronary angiography) and no severe stenosis in other main coronary arteries [median age 63 years, 53 male and 29 female] were enrolled. Plaque morphology were assessed by optical coherence tomography (OCT). Hematological indices were assayed by automated hematological analyzer.
+RESULTS: Plaque rupture was identified in 14 patients by OCT. Neutrophil to lymphocyte ratio (NLR) in patients with plaque rupture (n = 14) was significantly higher than that in patients with non-plaque rupture (n = 68) [3.85 (3.28, 4.77) vs. 2.13 (1.40, 2.81), p &lt; 0.001]. Multivariate logistic regression analysis revealed that NLR was one of the independent risk factors for plaque rupture in intermediate coronary artery lesions (odds ratio 1.64, 95% confidence intervals 1.18-2.29, p = 0.003). ROC curve analysis found a cutoff point of NLR &gt; 2.94 for plaque rupture with 93.8% sensitivity and 77.9% specificity.
+CONCLUSION: NLR, an inflammatory biomarker, is closely associated with plaque rupture in intermediate coronary artery lesions. Monitoring NLR may be useful in risk stratification and management for intermediate coronary artery lesions.
+
+Citation: Jiang J, et al. Association of Neutrophil to Lymphocyte Ratio With Plaque Rupture in Acute Coronary Syndrome Patients With Only Intermediate Coronary Artery Lesions Assessed by Optical Coherence Tomography. Association of Neutrophil to Lymphocyte Ratio With Plaque Rupture in Acute Coronary Syndrome Patients With Only Intermediate Coronary Artery Lesions Assessed by Optical Coherence Tomography. 2022; 9:770760. doi: 10.3389/fcvm.2022.770760
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35355959/

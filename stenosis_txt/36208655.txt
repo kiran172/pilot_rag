@@ -1,0 +1,11 @@
+PMID: 36208655
+Title: Risk for Mortality with Increasingly Severe Aortic Stenosis: An International Cohort Study.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) is the most common valvular heart disease in high-income countries. Adjusted for clinical confounders, the risk associated with increasing AS severity across the spectrum of AS severity remains uncertain.
+METHODS: The authors conducted an international, multicenter, parallel-cohort study of 217,599 Australian (mean age, 76.0 ± 7.3 years; 49.3% women) and 30,865 US (mean age, 77.4 ± 7.3 years; 52.2% women) patients aged ≥65 years who underwent echocardiography. Patients with previous aortic valve replacement were excluded. The risk of increasing AS severity, quantified by peak aortic velocity (Vmax), was assessed through linkage to 97,576 and 14,481 all-cause deaths in Australia and the United States, respectively.
+RESULTS: The distribution of AS severity (mean Vmax, 1.7 ± 0.7 m/sec) was similar in both cohorts. Compared with those with Vmax of 1.0 to 1.49 m/sec, those with Vmax of 2.50 to 2.99 m/sec (US cohort) or Vmax of 3.0 to 3.49 m/sec (Australian cohort) had a 1.5-fold increase in mortality risk within 10 years, adjusting for age, sex, presence of left heart disease, and left ventricular ejection fraction. Overall, the adjusted risk for mortality plateaued (1.75- to 2.25-fold increased risk) above a Vmax of 3.5 m/sec. This pattern of mortality persisted despite adjustment for a comprehensive list of comorbidities and treatments within the US cohort.
+CONCLUSIONS: Within large, parallel patient cohorts managed in different health systems, similar patterns of mortality linked to increasingly severe AS were observed. These findings support ongoing clinical trials of aortic valve replacement in patients with nonsevere AS and suggest the need to develop and apply more proactive surveillance strategies in this high-risk population.
+
+Citation: Strange G, et al. Risk for Mortality with Increasingly Severe Aortic Stenosis: An International Cohort Study. Risk for Mortality with Increasingly Severe Aortic Stenosis: An International Cohort Study. 2023; 36:60-68.e2. doi: 10.1016/j.echo.2022.09.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36208655/

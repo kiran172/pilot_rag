@@ -1,0 +1,12 @@
+PMID: 35951103
+Title: Identification of high-risk intracranial plaques with 3D high-resolution magnetic resonance imaging-based radiomics and machine learning.
+
+Abstract: BACKGROUND: Identifying high-risk intracranial plaques is significant for the treatment and prevention of stroke.
+OBJECTIVE: To develop a high-risk plaque model using three-dimensional (3D) high-resolution magnetic resonance imaging (HRMRI) based radiomics features and machine learning.
+METHODS: 136 patients with documented symptomatic intracranial artery stenosis and available HRMRI data were included. Among these patients, 136 and 92 plaques were identified as symptomatic and asymptomatic plaques, respectively. A conventional model was developed by recording and quantifying the radiological plaque characteristics. Radiomics features from T1-weighted images (T1WI) and contrast-enhanced T1WI (CE-T1WI) were used to construct a high-risk plaque model with linear support vector classification (linear SVC). The radiological and radiomics features were combined to build a combined model. Receiver operating characteristic (ROC) curves were used to evaluate these models.
+RESULTS: Plaque length, burden, and enhancement were independently associated with clinical symptoms and were included in the conventional model, which had an AUC of 0.853 vs. 0.837 in the training and test sets. While the radiomics and the combined model showed an improved AUC: 0.923 vs. 0.925 for the training sets and 0.906 vs. 0.903 in the test sets. Both the radiomics model (p = 0.024, p = 0.018) and combined model (p = 0.042, p = 0.049) outperformed the conventional model in the two sets, whereas the performance of the combined model was not significantly different from that of the radiomics model in the two sets (p = 0.583 and p = 0.606).
+CONCLUSION: The radiomics model based on 3D HRMRI can accurately differentiate symptomatic from asymptomatic intracranial arterial plaques and significantly outperforms the conventional model.
+
+Citation: Li H, et al. Identification of high-risk intracranial plaques with 3D high-resolution magnetic resonance imaging-based radiomics and machine learning. Identification of high-risk intracranial plaques with 3D high-resolution magnetic resonance imaging-based radiomics and machine learning. 2022; 269:6494-6503. doi: 10.1007/s00415-022-11315-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35951103/

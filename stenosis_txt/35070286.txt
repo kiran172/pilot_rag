@@ -1,0 +1,11 @@
+PMID: 35070286
+Title: Comparison of Doppler Ultrasound and Digital Subtraction Angiography in extracranial stenosis.
+
+Abstract: OBJECTIVE: Evaluating the degree of extracranial stenosis is important in predicting the risk of cerebrovascular events and to assess if the patient can benefit from any intervention. Non-invasive methods, like Doppler Ultrasonography (DUS) are preferred to invasive methods such as Digital Subtraction Angiography (DSA).
+METHODS: In this retrospective study, the level of agreement between DUS and DSA regarding the degree of stenosis of Internal Carotid Arteries (ICAs) and Vertebral Arteries (VAs) was assessed. The degree of ICA stenosis was classified into 5 groups. DSA was assumed as the gold standard. VA stenosis was classified into two groups of more or less than 50% stenosis.
+RESULTS: A total of 428 ICAs were assessed. Based on DSA results, DUS could estimate the degree of arterial stenosis in groups of 0-15% stenosis and 100% stenosis most accurately, and the least accuracy was in groups of 50-69% and 70-99% stenosis. The overall agreement between DUS and DSA in the classified ICA stenosis was moderate (Weighted Kappa = 0.565, P < 0.001). Also, the agreement of DUS and DSA when classifying ICA stenosis into two groups of above and below 50%, was moderate (Kappa = 0.583, P < 0.001). DUS was most sensitive and specific in the group of 100% stenosis (Sensitivity: 0.75 Specificity: 0.99) as well as the group of 1-15% stenosis (Sensitivity: 0.80 Specificity: 0.76). Also, DUS was least sensitive in group of 50-69% stenosis (Sensitivity: 0.11 Specificity: 0.94). Regarding VAS, 108 arteries were assessed and the agreement between DUS and DSA was fair (Kappa = 0.248, CI95 = -0.013 - 0.509, P < 0.01).
+CONCLUSIONS: DUS can be used as the first-line screening tool for detecting extra cranial arteries stenosis. The practicality of the DUS as a screening tool for extracranial VAs stenosis appears to be limited.
+
+Citation: Maroufi SF, et al. Comparison of Doppler Ultrasound and Digital Subtraction Angiography in extracranial stenosis. Comparison of Doppler Ultrasound and Digital Subtraction Angiography in extracranial stenosis. 2022; 74:103202. doi: 10.1016/j.amsu.2021.103202
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35070286/

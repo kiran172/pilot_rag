@@ -1,0 +1,11 @@
+PMID: 37095753
+Title: Predictive Value of Noninvasive Peripheral Atherosclerosis Measurement for Coronary Artery Disease in Patients with Long T2DM Duration.
+
+Abstract: OBJECTIVE: This study aimed to compare the predictive value of carotid or femoral artery ultrasound for coronary artery disease (CAD) in type 2 Diabetes mellitus (T2DM) patients free from known CAD, and to assess the relationship with the severity of coronary artery stenosis.
+METHODS: Cross-sectional study in adults with a T2DM duration of at least 5 years and without established CAD. Carotid plaque score (CPS) and Gensini score were used to measure the severity of carotid and coronary artery stenosis, respectively, and patients were divided into no or mild group, moderate group, and severe group according to the tertile of the score. Univariate and multivariate logistic regression analysis was used to explore the possible risk factors for CAD. Receiver operating characteristic (ROC) curves were created to determine the most accurate assessment for detecting significant CAD (≥50% stenosis).
+RESULTS: 245 patients (137 male) aged 68.21±9.5 years (range: 36-95 years), with T2DM duration 12.04± 6.17 years (range: 5-34 years), and without CVD were included. CAD was diagnosed in 165 patients (67.3%). Multiple regression analysis showed that CPS, femoral plaque, and smoking were independently and positively correlated with CAD. CPS yielded the highest area under the curve for detecting significant coronary disease (AUC=0.7323). In contrast, the area under the curve of femoral artery plaque and carotid intima-media thickness was lower than 0.7, which was at a lower prediction level.
+CONCLUSION: In patients with long T2DM duration, CPS has a higher ability to predict the occurrence and severity of CAD. However, femoral artery plaque has special value in predicting moderate to severe coronary artery disease in patients with long-term T2DM.
+
+Citation: Chen W, et al. Predictive Value of Noninvasive Peripheral Atherosclerosis Measurement for Coronary Artery Disease in Patients with Long T2DM Duration. Predictive Value of Noninvasive Peripheral Atherosclerosis Measurement for Coronary Artery Disease in Patients with Long T2DM Duration. 2023; 16:1075-1083. doi: 10.2147/DMSO.S404937
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37095753/

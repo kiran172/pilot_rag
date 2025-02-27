@@ -1,0 +1,12 @@
+PMID: 35537922
+Title: Long-term outcomes of new-onset conduction abnormalities following transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Previous studies provided conflicting data on the impact of new conduction abnormalities (CA), including new left bundle branch block (LBBB) and permanent pacemaker (PPM) implantation, on patient outcomes after transcatheter aortic valve implantation (TAVI).
+AIMS: To investigate the effect of new-onset CA after TAVI on long-term clinical outcomes and the impact of new CA depending on patient baseline profile.
+METHODS: Using data from a prospective TAVI registry (NCT01368250), patients without pre-existing LBBB or PPM were included in this study, and were stratified into three groups: no CA, new LBBB and new PPM after TAVI.
+RESULTS: Among 2370 eligible patients, 1533 (64.7%) had no CA, 336 (14.2%) had new LBBB and 501 (21.1%) had new PPM after TAVI. At 5 years, patients with new LBBB had an increased risk of all-cause death (adjusted hazard ratio [HR<sub>adjusted</sub>] 1.41, 95% confidence interval [CI] 1.04-1.92; P=0.026), whereas patients with new PPM had a numerically increased risk of mortality (HR<sub>adjusted</sub> 1.26, 95% CI 0.99-1.60; P=0.065) compared to patients without CA. There was no significant difference in cardiovascular mortality between groups (HR<sub>adjusted</sub> for new LBBB 1.33, 95% CI 0.91-1.97; P=0.15; HR<sub>adjusted</sub> for new PPM 1.25, 95% CI 0.93-1.68; P=0.13]). The adverse effects of new CA were consistent across all subgroups except for the impact of new PPM stratified by balloon-expandable versus self-expanding or mechanically expanding valves (P<sub>interaction</sub>=0.004).
+CONCLUSIONS: New-onset LBBB after TAVI was associated with an increased risk of 5-year all-cause mortality, while new PPM implantation conferred a non-significant trend.
+
+Citation: Tomii D, et al. Long-term outcomes of new-onset conduction abnormalities following transcatheter aortic valve implantation. Long-term outcomes of new-onset conduction abnormalities following transcatheter aortic valve implantation. 2022; 115:214-224. doi: 10.1016/j.acvd.2022.04.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35537922/

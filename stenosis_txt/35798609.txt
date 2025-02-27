@@ -1,0 +1,11 @@
+PMID: 35798609
+Title: Characterizing the anatomic spectrum, surgical treatment, and long-term clinical outcomes for patients with Shone's syndrome.
+
+Abstract: OBJECTIVE: Shone's syndrome (SS) has a varied anatomic spectrum without consensus on need and timing for mitral valve intervention (MVI). We sought to (1) characterize the anatomic spectrum and treatment pathways; (2) describe long-term outcomes and their determinants; and (3) define the impact of MVI timing on survival.
+METHODS: In total, 121 patients with SS who underwent operation at Cleveland Clinic between 1956 and 2021 were reviewed. Multivariable parametric hazard analyses including time-varying covariables, and modulated renewal to account for repeated events, were performed. End points included time-related survival and reintervention.
+RESULTS: Median follow-up was 9.9 years. Mitral stenosis (MS) (98%), coarctation (80%), and aortic stenosis (70%) predominated. The most common combination was MS + aortic stenosis + coarctation (26%). Median initial mean mitral and aortic gradients were 3.6 (15th/85th percentiles: 2.0/6.8) and 9.0 (2.1/46) mm Hg, respectively. Median initial surgery age was 0.041 (0.011/3.2) years. Initial surgeries included coarctation repair (43%), arch repair (18%), and staged biventricular repair (18%). Overall survival was 92% at 20 years. Freedom from reoperation was 66% and 24% at 1 and 20 years. Patients with no MVI or initial MVI (N = 7) tended to be associated with better early survival compared with those with MVI at subsequent operation (N = 29) (P = .06). Risk factors for early reintervention included initial Norwood operation, with younger age and arch hypoplasia increasing later reintervention.
+CONCLUSIONS: Despite excellent long-term survival, reoperation in SS is frequent and occurs most commonly on left ventricular outflow tract and mitral valve. Although MS is present in most, few require MVI. Delaying MVI may compromise early survival.
+
+Citation: Lee LJ, et al. Characterizing the anatomic spectrum, surgical treatment, and long-term clinical outcomes for patients with Shone's syndrome. Characterizing the anatomic spectrum, surgical treatment, and long-term clinical outcomes for patients with Shone's syndrome. 2023; 165:1224-1234.e9. doi: 10.1016/j.jtcvs.2022.05.030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35798609/

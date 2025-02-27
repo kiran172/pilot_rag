@@ -1,0 +1,11 @@
+PMID: 31796984
+Title: Carotid artery stenosis and brain connectivity: the role of white matter hyperintensities.
+
+Abstract: PURPOSE: It is under debate how white matter hyperintensities (WMH) affects the brain connectivity. The objective of this research study is to validate the hypothesis, if and how the WMH influences brain connectivity in a population with carotid artery stenosis (CAS), which are eligible for carotid endarterectomy (CEA). We used resting state functional connectivity (rs-fc) magnetic resonance (MR) to validate our hypothesis, focusing on the effects of the total number of WMH (TNWMH) and of the WMH Burden (WMHB).
+METHODS: Twenty-three patients (sixteen males and seven females, mean age 74.34 years) with mono or bilateral carotid stenosis eligible for carotid endarterectomy (CEA), underwent an MR examination on a 1.5-T scanner. The protocol included a morphologic T1-3D isotropic, an EPI functional sequence for rs-fc MR analysis, and a 3D isotropic FLAIR sequence. For each patient, the TNWMH and the WMHB were obtained using two online tools-volBrain and lesionBrain. The rs-fc region-of-interest to region-of-interest (ROI-to-ROI) analysis was performed with the CONN toolbox v18a: two different multiple regression analyses including both WMHB and TNWMH as second-level covariates evaluated the individual effects of WMHB (Analysis A) and TNWMH (Analysis B), adopting a p value corrected for false discovery rate (p-FDR) < 0.05 to identify statistically significant values.
+RESULTS: Both analyses A and B identified several statistically significant positive and negative correlations associated with WMHB and TNWMH.
+CONCLUSION: WMH influence functional connectivity in patients with carotid artery stenosis eligible for CEA; further, WMHB and TNWMH influence differently functional connectivity.
+
+Citation: Porcu M, et al. Carotid artery stenosis and brain connectivity: the role of white matter hyperintensities. Carotid artery stenosis and brain connectivity: the role of white matter hyperintensities. 2020; 62:377-387. doi: 10.1007/s00234-019-02327-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31796984/

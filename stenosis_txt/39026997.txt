@@ -1,0 +1,11 @@
+PMID: 39026997
+Title: Patient-specific 3D in vitro modeling and fluid dynamic analysis of primary pulmonary vein stenosis.
+
+Abstract: INTRODUCTION: Primary pulmonary vein stenosis (PVS) is a rare congenital heart disease that proves to be a clinical challenge due to the rapidly progressive disease course and high rates of treatment complications. PVS intervention is frequently faced with in-stent restenosis and persistent disease progression despite initial venous recanalization with balloon angioplasty or stenting. Alterations in wall shear stress (WSS) have been previously associated with neointimal hyperplasia and venous stenosis underlying PVS progression. Thus, the development of patient-specific three-dimensional (3D) in vitro models is needed to further investigate the biomechanical outcomes of endovascular and surgical interventions.
+METHODS: In this study, deidentified computed tomography images from three patients were segmented to generate perfusable phantom models of pulmonary veins before and after catheterization. These 3D reconstructions were 3D printed using a clear resin ink and used in a benchtop experimental setup. Computational fluid dynamic (CFD) analysis was performed on models in silico utilizing Doppler echocardiography data to represent the in vivo flow conditions at the inlets. Particle image velocimetry was conducted using the benchtop perfusion setup to analyze WSS and velocity profiles and the results were compared with those predicted by the CFD model.
+RESULTS: Our findings indicated areas of undesirable alterations in WSS before and after catheterization, in comparison with the published baseline levels in the healthy in vivo tissues that may lead to regional disease progression.
+DISCUSSION: The established patient-specific 3D in vitro models and the developed in vitro-in silico platform demonstrate great promise to refine interventional approaches and mitigate complications in treating patients with primary PVS.
+
+Citation: Devlin C, et al. Patient-specific 3D in vitro modeling and fluid dynamic analysis of primary pulmonary vein stenosis. Patient-specific 3D in vitro modeling and fluid dynamic analysis of primary pulmonary vein stenosis. 2024; 11:1432784. doi: 10.3389/fcvm.2024.1432784
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39026997/

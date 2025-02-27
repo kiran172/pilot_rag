@@ -1,0 +1,16 @@
+PMID: 31659847
+Title: Predicting Response to Epidural Steroid Injections for Lumbar Spinal Stenosis with Biomarkers and Electromyography.
+
+Abstract: BACKGROUND: Epidural steroid injections (ESIs) may be beneficial for lumbar spinal stenosis (LSS) symptoms. Past studies found interferon-gamma, fibronectin-aggrecan complex, and electromyography (EMG) to predict patients' response to ESIs for other spinal pathologies, but no similar studies have been done for LSS.
+OBJECTIVE: To explore the ability of biomarkers and EMG to help predict outcome after ESI in LSS.
+DESIGN: Prospective observational cohort.
+SETTING: The physical medicine & rehabilitation spine clinic at a tertiary care center.
+PARTICIPANTS: Eleven patients with LSS were recruited from the spine clinic at a Veterans Affairs Medical Center.
+INTERVENTIONS: Participants underwent one interlaminar ESI. Before ESI, the following data were collected: pain intensity on visual analog scale (VAS), disability via the Pain Disability Questionnaire (PDQ) and LSS symptoms via the Swiss Spinal Stenosis Questionnaire (SSSQ), serum high-sensitivity C-reactive protein level, standard diagnostic EMG, assay of epidural lavasate (epidural saline lavage performed immediately prior to ESI) and serum cytokine biomarkers indicative of inflammation.
+OUTCOME MEASURES: Leg pain intensity (VAS), disability (PDQ), LSS symptoms (SSSQ) and satisfaction (SSSQ satisfaction subscale) were assessed at 1 and 2 months following ESI. Pearson correlational coefficients were calculated between independent variables and outcome measures.
+RESULTS: Serum monocyte chemoattractant protein-1 (MCP-1) level positively correlated with improvement on 2-month satisfaction. Abnormal EMG finding of radiculopathy positively correlated with improvement in PDQ score at 1 month. Epidural cytokine levels were not detectable in most samples, except for scattered marginally elevated levels in a few cytokines such as MCP-1, RANTES (Regulated on Activation, Normal T Cell Expressed and Secreted) and interleukin-1b.
+CONCLUSIONS: This exploratory pilot study revealed that some biomarkers and EMG findings indicative of inflammation and nerve root injury may be predictive of improvement following ESI in patients with LSS. The results of this study will be used to inform a fully powered study to further evaluate these relationships in LSS patients.
+
+Citation: Lin CK, et al. Predicting Response to Epidural Steroid Injections for Lumbar Spinal Stenosis with Biomarkers and Electromyography. Predicting Response to Epidural Steroid Injections for Lumbar Spinal Stenosis with Biomarkers and Electromyography. 2020; 12:663-670. doi: 10.1002/pmrj.12272
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31659847/

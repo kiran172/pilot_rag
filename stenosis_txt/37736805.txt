@@ -1,0 +1,13 @@
+PMID: 37736805
+Title: A novel method of carotid artery wall imaging: black-blood CT.
+
+Abstract: OBJECTIVES: To evaluate the application of black-blood CT (BBCT) in carotid artery wall imaging and its accuracy in disclosing stenosis rate and plaque burden of carotid artery.
+METHODS: A total of 110 patients underwent contrast-enhanced CT scan with two phases, and BBCT images were obtained using contrast-enhancement (CE)-boost technology. Two radiologists independently scored subjective image quality on black-blood computerized tomography (BBCT) images using a 4-point scale and then further analyzed plaque types. The artery stenosis rate on BBCT was measured and compared with CTA. The plaque burden on BBCT was compared with that on high-resolution intracranial vessel wall MR imaging (VW-MR imaging). The kappa value and intraclass correlation coefficient (ICC) were used for consistency analysis. The diagnostic accuracy of BBCT for stenosis rate and plaque burden greater than 50% was evaluated by AUC.
+RESULTS: The subjective image quality scores of BBCT had good consistency between the two readers (ICC = 0.836, p < 0.001). BBCT and CTA had a good consistency in the identification of stenosis rate (p < 0.001). There was good consistency between BBCT and VW-MR in diagnosis of plaque burden (p < 0.001). As for plaque burden over 50%, BBCT had good sensitivity (93.10%) and specificity (73.33%), with an AUC of 0.950 (95%CI 0.838-0.993). Compared with CTA, BBCT had higher consistency with VW-MR in disclosing low-density plaques and mixed plaques (ICC = 0.931 vs 0.858, p < 0.001).
+CONCLUSIONS: BBCT can not only display the carotid artery wall clearly but also accurately diagnose the stenosis rate and plaque burden of carotid artery.
+CLINICAL RELEVANCE STATEMENT: Black-blood CT, as a novel imaging technology, can assist clinicians and radiologists in better visualizing the structure of the vessel wall and plaques, especially for patients with contraindication to MRI.
+KEY POINTS: • Black-blood CT can clearly visualize the carotid artery wall and plaque burden. • Black-blood CT is superior to conventional CTA with more accurate diagnosis of the carotid stenosis rate and plaque burden features.
+
+Citation: Lu Y, et al. A novel method of carotid artery wall imaging: black-blood CT. A novel method of carotid artery wall imaging: black-blood CT. 2024; 34:2407-2415. doi: 10.1007/s00330-023-10247-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37736805/

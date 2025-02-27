@@ -1,0 +1,11 @@
+PMID: 35676704
+Title: Factors associated with low back pain in patients with lumbar spinal stenosis: a cross-sectional study.
+
+Abstract: BACKGROUND: Low back pain (LBP) is a major symptom of symptomatic lumbar spinal stenosis (SLSS). It is important to assess LBP in patients with SLSS to develop better treatment. This study aimed to analyse the factors associated with LBP in patients with SLSS.
+METHODS: This cross-sectional study included consecutive patients with SLSS aged between 51 and 79 years who had symptoms in one or both the legs, with and without LBP. The participants were classified into two groups: the high group (LBP visual analogue scale [VAS] score ≥ 30 mm) and the low group (LBP VAS score < 30 mm). We performed multiple logistic regression analysis with the high and low groups as dependent variables, and a receiver operating characteristic (ROC) analysis.
+RESULTS: A total of 80 patients with LSS were included (35 men and 45 women; mean age 64.5 years), with 47 and 30 patients in the high and low groups, respectively. Multivariate logistic regression analysis revealed that the sagittal vertical axis (SVA; + 10 mm; odds ratio, 1.331; 95% confidence interval, 1.051 - 1.660) and pelvic incidence-lumbar lordosis (PI-LL; + 1°; odds ratio, 1.065; 95% confidence interval, 1.019-1.168) were significantly associated with LBP. A receiver operating characteristic analysis revealed cut-off values of 47.0 mm of SVA and 30.5° of PI-LL, respectively.
+CONCLUSION: Our results indicated that SVA and PI-LL were significant predictors for LBP in SLSS. It is suggested that these parameters should be taken into consideration when assessing LBP in patients with SLSS.
+
+Citation: Ogon I, et al. Factors associated with low back pain in patients with lumbar spinal stenosis: a cross-sectional study. Factors associated with low back pain in patients with lumbar spinal stenosis: a cross-sectional study. 2022; 23:552. doi: 10.1186/s12891-022-05483-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35676704/

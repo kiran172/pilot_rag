@@ -1,0 +1,12 @@
+PMID: 35324060
+Title: Validation of a novel staging classification system based on the extent of cardiac damage among Chinese patients after transcatheter aortic valve replacement: A single-center retrospective study.
+
+Abstract: OBJECTIVES: We aimed to validate a novel staging system for aortic stenosis (AS) in a Chinese patient cohort undergoing transcatheter aortic valve replacement (TAVR), and to compare this classification system to the traditional Society of Thoracic Surgeons (STS) score for TAVR risk stratification.
+BACKGROUND: A novel staging system for AS based on the extent of cardiac damage upon echocardiography was recently proposed.
+METHODS: Patients were prospectively enrolled into the Transcatheter Aortic Valve Replacement Single Center Registry in Chinese Population and analyzed retrospectively following additional exclusion criteria. On the basis of echocardiographic findings of cardiac damage, patients were classified into five stages (0-4).
+RESULTS: A total of 427 patients were included in the current analysis. Forty-eight deaths occurred during a median follow-up of 730 days following TAVR. The staging system showed a statistically significant association between cardiac damage and all-cause mortality; advanced stages were associated with higher mortality. In a multivariate-adjusted Cox proportional hazards regression model, stage and STS scores served as risk factors for 2-year mortality. Each increment in the staging class was associated with an increased risk of mortality (hazard ratio, 1.275; 95% confidence interval [CI], 1.052-1.545). Receiver operating characteristic (ROC) curves were plotted for stage (area under the curve, 0.644; 95% CI, 0.562-0.725) and STS score (0.661; 0.573-0.749), and with no statistically significant differences between ROC curves (p = 0.920).
+CONCLUSIONS: We validated a novel staging system as a key risk factor for 2-year mortality in a Chinese TAVR patient cohort. Efficacy for risk stratification was comparable to the STS score.
+
+Citation: Zhu Q, et al. Validation of a novel staging classification system based on the extent of cardiac damage among Chinese patients after transcatheter aortic valve replacement: A single-center retrospective study. Validation of a novel staging classification system based on the extent of cardiac damage among Chinese patients after transcatheter aortic valve replacement: A single-center retrospective study. 2022; 99 Suppl 1:1482-1489. doi: 10.1002/ccd.30147
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35324060/

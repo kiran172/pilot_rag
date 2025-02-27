@@ -1,0 +1,11 @@
+PMID: 36586243
+Title: Evaluation of carotid plaque vulnerability with different echoes by shear wave elastography and CEUS.
+
+Abstract: OBJECTIVE: Using shear wave elastography (SWE) and contrast enhanced ultrasound (CEUS)to examine carotid plaques with different echoes, and explore a reliable method to quantify characteristics associated with vulnerable carotid plaques.
+METHODS: 2D ultrasound, SWE and CEUS were performed on 244 carotid plaques, and the echoes were evaluated according to the Gray-Weale classification scale and gray-scale median (GSM), and the mean Young's modulus (YM) of the plaque was measured and the intraplaque neovascularization was observed to investigate the relationship between carotid plaque types with different echo characteristics, GSM and the values of each parameter of YM and CEUS. The relationship between GSM and YM and CEUS values was investigated.
+RESULTS: The differences between GSM values (F = 49.742, P < 0.001), with the maximum, mean, and minimum YM values of ultrasound elastography (P < 0.001), and with the number (P < 0.001) and density (P = 0.047) of neovascularization on CEUS were statistically significant for the different echogenic types of plaques, and the lower the echogenicity of the plaque, the lower the GSM values (r = 0.632, P < 0.001), the smaller the YM values (all r > 0, P < 0.001), and the higher the neovascularization number and density values (r < 0, P < 0.001); and there were also statistically significant differences between the above indicators in the vulnerable and stable plaque groups (all P < 0.05).
+CONCLUSION: GSM, SWE, and CEUS techniques can quantitatively evaluate the vulnerability of different echo carotid plaques in a more comprehensive and objective manner, which may help clinical identification of vulnerable plaques, and provide important reference values for early diagnosis and treatment in clinical practice.
+
+Citation: Wang B, et al. Evaluation of carotid plaque vulnerability with different echoes by shear wave elastography and CEUS. Evaluation of carotid plaque vulnerability with different echoes by shear wave elastography and CEUS. 2023; 32:106941. doi: 10.1016/j.jstrokecerebrovasdis.2022.106941
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36586243/

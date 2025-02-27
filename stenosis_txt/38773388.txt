@@ -1,0 +1,11 @@
+PMID: 38773388
+Title: Association between severity of nonalcoholic fatty liver disease and major adverse cardiovascular events in patients assessed by coronary computed tomography angiography.
+
+Abstract: BACKGROUND: The effect of nonalcoholic fatty liver disease (NAFLD) on major adverse cardiovascular events (MACEs) can be influenced by the degree of coronary artery stenosis. However, the association between the severity of NAFLD and MACEs in patients who underwent coronary computed tomography angiography (CCTA) is unclear.
+METHODS: A total of 341 NAFLD patients who underwent CCTA were enrolled. The severity of NAFLD was divided into mild NAFLD and moderate-severe NAFLD by abdominal CT results. The degree of coronary artery stenosis was evaluated by using Coronary Artery Disease Reporting and Data System (CAD-RADS) category. Cox regression analysis and Kaplan-Meier analysis were used to assess poor prognosis.
+RESULTS: During the follow-up period, 45 of 341 NAFLD patients (13.20%) who underwent CCTA occurred MACEs. The severity of NAFLD (hazard ratio [HR] = 2.95[1.54-5.66]; p = 0.001) and CAD-RADS categories 3-5 (HR = 16.31[6.34-41.92]; p < 0.001) were independent risk factors for MACEs. The Kaplan-Meier analysis showed that moderate to severe NAFLD patients had a worsen prognosis than mild NAFLD patients (log-rank p < 0.001). Moreover, the combined receiver operating characteristic curve of the severity of NAFLD and CAD-RADS category showed a good predicting performance for the risk of MACEs, with an area under the curve of 0.849 (95% CI = 0.786-0.911).
+CONCLUSION: The severity of NAFLD was independent risk factor for MACEs in patients with obstructive CAD, having CAD-RADS 3-5 categories on CCTA.
+
+Citation: Shi R, et al. Association between severity of nonalcoholic fatty liver disease and major adverse cardiovascular events in patients assessed by coronary computed tomography angiography. Association between severity of nonalcoholic fatty liver disease and major adverse cardiovascular events in patients assessed by coronary computed tomography angiography. 2024; 24:267. doi: 10.1186/s12872-024-03880-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38773388/

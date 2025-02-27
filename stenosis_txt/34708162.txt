@@ -1,0 +1,10 @@
+PMID: 34708162
+Title: Impact of Transcatheter Aortic Valve Size on Leaflet Stresses: Implications for Durability and Optimal Grey Zone Sizing.
+
+Abstract: AIMS: As indications for transcatheter aortic valve replacement (TAVR) continue to expand towards younger and lower-risk patients, durability becomes an increasingly important question. Durability decreases as leaflet stresses increase, but the impact of transcatheter heart valve (THV) size on stress is unknown. Patient annulus sizes can fall within "grey zones" between 2 TAVR sizes. Our aim was to examine the impact of balloon-expandable THV size on leaflet stresses.
+METHODS AND RESULTS: SapienXT 23mm, 26mm, and 29mm sizes (Edwards Lifesciences, Inc) underwent micro-computed tomography scanning to create THV computational models then loaded to systemic pressure using finite element software. THV leaflet maximum principal stresses were 1.69MPa (23mm), 1.70MPa (26mm), and 2.12MPa (29mm) at mean arterial pressure. For intermediate annulus sizes, undersizing the larger THV yielded lower leaflet stresses than oversizing the smaller THV.
+CONCLUSIONS: Increasing THV size yielded greater leaflet maximum principal stresses, which could suggest a relationship between THV size and long-term durability.. For annulus "grey zones" sizes, undersizing the larger THV resulted in lower leaflet stresses than oversizing the smaller THV. These results may influence optimal device sizing, as THV durability remains an important, unanswered question.
+
+Citation: Xuan Y, et al. Impact of Transcatheter Aortic Valve Size on Leaflet Stresses: Implications for Durability and Optimal Grey Zone Sizing. Impact of Transcatheter Aortic Valve Size on Leaflet Stresses: Implications for Durability and Optimal Grey Zone Sizing. 2020; 6:64-71. doi: 10.4244/aij-d-19-00005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34708162/

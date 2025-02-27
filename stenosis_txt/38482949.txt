@@ -1,0 +1,13 @@
+PMID: 38482949
+Title: Recalcitrant Stenosis Following Pediatric LTR: Contributing Factors and Clinical Impact.
+
+Abstract: OBJECTIVES: Laryngotracheal reconstruction (LTR) has revolutionized the management of pediatric subglottic stenosis (SGS). However, postoperative stenosis remains a difficult hurdle to overcome. Our goal is to determine the clinical impact of recalcitrant stenosis after LTR and the factors contributing to postoperative stenosis.
+STUDY DESIGN: Retrospective review of 181 open LTR patients between 2008 and 2021.
+SETTING: Stand-alone tertiary children's hospital.
+METHODS: Recalcitrant stenosis was defined as new or worsening stenosis despite open LTR. Fisher's exact and Mann-Whitney tests were used to detect differences in categorical and continuous clinical data between patients with and without treatment-resistant stenosis. Time-to-decannulation analysis of both groups was performed using Kaplan-Meier analysis and evaluated with log-rank and Cox proportional hazards regression. Multivariate logistical regression was used to assess the validity of associations found in univariate analysis.
+RESULTS: As expected, the 27 patients with postoperative stenosis were less likely to be decannulated (P < .001, Fisher's Exact), more likely to require a postoperative tracheostomy (P < .001, Fisher's Exact) or revision LTR (P < .001, Fisher's Exact) and had prolonged time to decannulation (P < .001, Log-rank). Children with Grade IV SGS (P = .004, Fisher's Exact), and those with longer suprastomal stent duration (P = .03, Fisher's Exact) were more likely to suffer from recalcitrant stenosis. Stent duration longer than 4 weeks (P = .01) contributed to refractory stenosis when controlling for all aforementioned variables using multivariable logistic regression. Interposition grafts had a protective effect (P = .005).
+CONCLUSION: Maintaining suprastomal stents over 4 weeks after LTR increases the risk for postoperative stenosis and its sequelae.
+
+Citation: Blumenthal D, et al. Recalcitrant Stenosis Following Pediatric LTR: Contributing Factors and Clinical Impact. Recalcitrant Stenosis Following Pediatric LTR: Contributing Factors and Clinical Impact. 2024; 171:247-253. doi: 10.1002/ohn.696
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38482949/

@@ -1,0 +1,11 @@
+PMID: 36212654
+Title: Contribution of intracranial artery stenosis to white matter hyperintensities progression in elderly Chinese patients: A 3-year retrospective longitudinal study.
+
+Abstract: BACKGROUND AND PURPOSE: There have been controversial results in previous studies for the association between intracranial artery stenosis (ICAS) and white matter hyperintensities (WMHs), and the correlation of ICAS with the progression of WMHs is uncertain. The aim of this study was to investigate the association between ICAS and the progression of WMHs.
+METHODS: In this retrospective longitudinal study, we enrolled 302 patients aged 60 years and older who had received two brain MRI scans with a 3-year interval and was examined by CTA in the first MRI scan. We measured the stenosis of major intracranial arteries by CTA and assessed the progression of WMHs using the modified Rotterdam Progression scale (mRPS). We performed binary logistic regression analyses and established linear regression model to determine the relationship between the degree of ICAS and the progression of WMHs.
+RESULTS: A total of 302 patients were enrolled, of which 48.3% experienced WMHs progression. After adjustment for confounding factors, the patients with Grade 2 ICAS had an OR of 2.8 (95% CI 1.4-5.5), and those with Grade 3 ICAS had an OR of 3.0 (95% CI 1.2-7.3) for the progression of WMHs. The ICAS degree remained associated with PVWMHs but had an attenuated relation to SCWMHs. ICAS severity was significantly associated with WMHs progression scores, higher for Grade 3 ICAS [β (SE) = 0.18 (0.18)] followed by Grade 2 ICAS [β (SE) = 0.10 (0.15)] compared with Grade 1 ICAS.
+CONCLUSIONS: Patients with more severe ICAS are more likely to have WMHs progression and have distinct relevancy to PVWMHs and SCWMHs, which may provide clues for understanding mechanisms of WMHs progression.
+
+Citation: Zhong T, et al. Contribution of intracranial artery stenosis to white matter hyperintensities progression in elderly Chinese patients: A 3-year retrospective longitudinal study. Contribution of intracranial artery stenosis to white matter hyperintensities progression in elderly Chinese patients: A 3-year retrospective longitudinal study. 2022; 13:922320. doi: 10.3389/fneur.2022.922320
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36212654/

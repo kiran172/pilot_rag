@@ -1,0 +1,11 @@
+PMID: 37236308
+Title: The Effect of Posterior Lumbar Interbody Fusion in Lumbar Spine Stenosis with Diffuse Idiopathic Skeletal Hyperostosis: A Finite Element Analysis.
+
+Abstract: OBJECTIVE: Lumbar spinal canal stenosis (LSS) with diffuse idiopathic skeletal hyperostosis (DISH) can require revision surgery because of the intervertebral instability after decompression. However, there is a lack of mechanical analyses for decompression procedures for LSS with DISH.
+METHODS: This study used a validated, three-dimensional finite element model of an L1-L5 lumbar spine, L1-L4 DISH, pelvis, and femurs to compare the biomechanical parameters (range of motion [ROM], intervertebral disc, hip joint, and instrumentation stresses) with an L5-sacrum (L5-S) and L4-S posterior lumbar interbody fusion (PLIF). A pure moment with a compressive follower load was applied to these models.
+RESULTS: ROM of L5-S and L4-S PLIF models decreased by more than 50% at L4-L5, respectively, and decreased by more than 15% at L1-S compared with the DISH model in all motions. The L4-L5 nucleus stress of the L5-S PLIF increased by more than 14% compared with the DISH model. In all motions, the hip stress of DISH, L5-S, and L4-S PLIF had very small differences. The sacroiliac joint stress of L5-S and L4-S PLIF models decreased by more than 15% compared with the DISH model. The stress values of the screws and rods in the L4-S PLIF model was higher than in the L5-S PLIF model.
+CONCLUSIONS: The concentration of stress because of DISH may influence adjacent segment disease on the nonunited segment of PLIF. A shorter-level lumbar interbody fixation is recommended to preserve ROM; however, it should be used with caution because it could provoke adjacent segment disease.
+
+Citation: Nishida N, et al. The Effect of Posterior Lumbar Interbody Fusion in Lumbar Spine Stenosis with Diffuse Idiopathic Skeletal Hyperostosis: A Finite Element Analysis. The Effect of Posterior Lumbar Interbody Fusion in Lumbar Spine Stenosis with Diffuse Idiopathic Skeletal Hyperostosis: A Finite Element Analysis. 2023; 176:e371-e379. doi: 10.1016/j.wneu.2023.05.063
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37236308/

@@ -1,0 +1,12 @@
+PMID: 38496873
+Title: Deep learning-based coronary artery calcium score to predict coronary artery disease in type 2 diabetes mellitus.
+
+Abstract: BACKGROUND: Coronary artery disease (CAD) in type 2 diabetes mellitus (T2DM) patients often presents diffuse lesions, with extensive calcification, and it is time-consuming to measure coronary artery calcium score (CACS).
+OBJECTIVES: To explore the predictive ability of deep learning (DL)-based CACS for obstructive CAD and hemodynamically significant CAD in T2DM.
+METHODS: 469 T2DM patients suspected of CAD who accepted CACS scan and coronary CT angiography between January 2013 and December 2020 were enrolled. Obstructive CAD was defined as diameter stenosis ≥50%. Hemodynamically significant CAD was defined as CT-derived fractional flow reserve ≤0.8. CACS was calculated with a fully automated method based on DL algorithm. Logistic regression was applied to determine the independent predictors. The predictive performance was evaluated with area under receiver operating characteristic curve (AUC).
+RESULTS: DL-CACS (adjusted odds ratio (OR): 1.005; 95% CI: 1.003-1.006; P ＜ 0.001) was significantly associated with obstructive CAD. DL-CACS (adjusted OR:1.003; 95% CI: 1.002-1.004; P ＜ 0.001) was also an independent predictor for hemodynamically significant CAD. The AUCs, sensitivities, specificities, positive predictive values and negative predictive values of DL-CACS for obstructive CAD and hemodynamically significant CAD were 0.753 (95% CI: 0.712-0.792), 75.9%, 66.5%, 74.8%, 67.8% and 0.769 (95% CI: 0.728-0.806), 80.7%, 62.1%, 59.6% and 82.3% respectively. It took 1.17 min to perform automated measurement of DL-CACS in total, which was significantly less than manual measurement of 1.73 min (P ＜ 0.001).
+CONCLUSIONS: DL-CACS, with less time-consuming, can accurately and effectively predict obstructive CAD and hemodynamically significant CAD in T2DM.
+
+Citation: Hu J, et al. Deep learning-based coronary artery calcium score to predict coronary artery disease in type 2 diabetes mellitus. Deep learning-based coronary artery calcium score to predict coronary artery disease in type 2 diabetes mellitus. 2024; 10:e27937. doi: 10.1016/j.heliyon.2024.e27937
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38496873/

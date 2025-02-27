@@ -1,0 +1,12 @@
+PMID: 33129819
+Title: Comparisons of Nonhyperemic Pressure Ratios: Predicting Functional Results of Coronary Revascularization Using Longitudinal Vessel Interrogation.
+
+Abstract: OBJECTIVES: The aim of this study was to investigate the accuracy of pre-percutaneous coronary intervention (PCI) predicted nonhyperemic pressure ratios (NHPRs) with actual post-PCI NHPRs and to assess the efficacy of PCI strategy using pre-PCI NHPR pullback.
+BACKGROUND: Predicting the functional results of PCI is feasible using pre-PCI longitudinal vessel interrogation with the instantaneous wave-free ratio (iFR), a pressure-based, adenosine-free NHPR. However, the reliability of novel NHPRs (resting full-cycle ratio [RFR] and diastolic pressure ratio [dPR]) for this purpose remains uncertain.
+METHODS: In this prospective, multicenter, randomized controlled trial, vessels were randomly assigned to receive pre-PCI iFR, RFR, or dPR pullback (50 vessels each). The pre-PCI predicted NHPRs were compared with actual NHPRs after contemporary PCI using intravascular imaging. The number and the total length of treated lesions were compared between NHPR pullback-guided and angiography-guided strategies.
+RESULTS: The predicted NHPRs were strongly correlated with actual NHPRs: iFR, r = 0.83 (95% confidence interval: 0.72 to 0.90; p < 0.001); RFR, r = 0.84 (95% confidence interval: 0.73 to 0.91; p < 0.001), and dPR, r = 0.84 (95% confidence interval: 0.73 to 0.91; p < 0.001). The number and the total length of treated lesions were lower with the NHPR pullback strategy than with the angiography-guided strategy, leading to physiological improvement.
+CONCLUSIONS: Predicting functional PCI results on the basis of pre-procedural RFR and dPR pullbacks yields similar results to iFR. Compared with an angiography-guided strategy, a pullback-guided PCI strategy with any of the 3 NHPRs reduced the number and the total length of treated lesions. (Study to Examine Correlation Between Predictive Value and Post PCI Value of iFR, RFR and dPR; UMIN000033534).
+
+Citation: Omori H, et al. Comparisons of Nonhyperemic Pressure Ratios: Predicting Functional Results of Coronary Revascularization Using Longitudinal Vessel Interrogation. Comparisons of Nonhyperemic Pressure Ratios: Predicting Functional Results of Coronary Revascularization Using Longitudinal Vessel Interrogation. 2020; 13:2688-2698. doi: 10.1016/j.jcin.2020.06.060
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33129819/

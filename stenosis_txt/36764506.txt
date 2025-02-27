@@ -1,0 +1,11 @@
+PMID: 36764506
+Title: Usefulness of lysophosphatidylcholine measurement in the cerebrospinal fluid for differential diagnosis of neuropathic pain: Possible introduction into clinical laboratory testing.
+
+Abstract: BACKGROUND: The differential diagnosis of neuropathic pain, especially discrimination between neuropathic pain caused by spinal canal stenosis (SCS) and neuropathic pain associated with causes other than SCS, is sometimes difficult; however, it is important for surgical application.
+METHODS: We established a reliable method for measuring lysophosphatidylcholine (LPC), a precursor of lysophosphatidic acids which are known as being pain initiators, using a liquid chromatography-tandem mass spectrometry method, and measured the LPC concentrations in the cerebrospinal fluid (CSF) in patients with SCS (SCS group; n = 76), patients with neuropathic pain caused by non-SCS diseases (Others group; n = 49), and control subjects without pain (control group; n = 92).
+RESULTS: Both within-run and between-run CV(%) were almost < 10 %, suggesting an enough performance for clinical introduction. The CSF concentrations of LPC (16:0) and LPC (18:0) were higher in the SCS group than those in the Control or Others group; the concentrations of LPC (18:1), LPC (18:2), LPC (20:4), LPC (22:6) levels were higher in the SCS group than those in the control or others group, but they were also higher in the Others group than those in the control group. The areas under the curve in the ROC curve analyses of LPC (18:1) for discriminating between the SCS and control groups, others and control groups, and SCS and others groups were 0.994, 0.860, and 0.869, respectively.
+CONCLUSIONS: LPC measurement in the CSF is useful for the differential diagnosis of neuropathic pain, especially for surgical decision-making, which is expected for clinical introduction.
+
+Citation: Kurano M, et al. Usefulness of lysophosphatidylcholine measurement in the cerebrospinal fluid for differential diagnosis of neuropathic pain: Possible introduction into clinical laboratory testing. Usefulness of lysophosphatidylcholine measurement in the cerebrospinal fluid for differential diagnosis of neuropathic pain: Possible introduction into clinical laboratory testing. 2023; 541:117249. doi: 10.1016/j.cca.2023.117249
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36764506/

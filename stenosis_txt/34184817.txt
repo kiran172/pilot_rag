@@ -1,0 +1,12 @@
+PMID: 34184817
+Title: Association of hospital procedural volume with incidence and outcomes of surgical bailout in patients undergoing transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: This study sought to examine the association of hospital procedural volume with the incidence and outcomes of surgical bailout (SB) in patients who undergo transcatheter aortic valve replacement (TAVR).
+BACKGROUND: SB is required for serious complications during or after TAVR. It remains unclear whether hospital experiences affect the incidence and outcomes of SB.
+METHODS: We retrospectively identified patients who underwent endovascular TAVR using the Nationwide Readmissions Database 2012-2017. We examined the association of annual hospital procedural volume (annual number of endovascular TAVR cases in each hospital in each year) with the incidence and in-hospital mortality of SB using multivariable logistic regressions and restricted cubic splines.
+RESULTS: Among 82,764 eligible patients, the incidence of SB was 0.95% (n = 789) and decreased from 2012 to 2017 (from 2.66% to 0.49%; P<sub>trend</sub>  &lt; 0.001), while in-hospital mortality of SB remained high over years (from 26.0% to 23.5%; P<sub>trend</sub>  = 0.773). Very-high-volume hospitals (≥200 cases/year), as compared with low-volume hospitals (≤49 cases/year), showed significantly a lower incidence of SB (0.49% vs. 1.81%; adjusted OR = 0.28, 95% CI = 0.21-0.38), but similar in-hospital mortality of SB (26.2% vs. 25.6%; adjusted OR = 0.88, 95% CI = 0.47-1.66). There was a significant nonlinear, inverse association of hospital volume with the incidence of SB, but not with the in-hospital mortality of SB.
+CONCLUSIONS: Hospitals with higher TAVR volumes have a lower risk of SB, but the in-hospital mortality after SB does not change with hospital TAVR volume. Our findings highlight the importance that physicians should always be aware of the high mortality risk of SB following TAVR regardless of hospital procedural experiences.
+
+Citation: Isogai T, et al. Association of hospital procedural volume with incidence and outcomes of surgical bailout in patients undergoing transcatheter aortic valve replacement. Association of hospital procedural volume with incidence and outcomes of surgical bailout in patients undergoing transcatheter aortic valve replacement. 2022; 99:160-168. doi: 10.1002/ccd.29847
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34184817/

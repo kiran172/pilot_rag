@@ -1,0 +1,11 @@
+PMID: 38828052
+Title: Identification of Diagnostic Genes of Aortic Stenosis That Progresses from Aortic Valve Sclerosis.
+
+Abstract: BACKGROUND: Aortic valve sclerosis (AVS) is a pathological state that can progress to aortic stenosis (AS), which is a high-mortality valvular disease. However, effective medical therapies are not available to prevent this progression. This study aimed to explore potential biomarkers of AVS-AS advancement.
+METHODS: A microarray dataset and an RNA-sequencing dataset were obtained from the Gene Expression Omnibus (GEO) database. Differentially expressed genes (DEGs) were screened from AS and AVS samples. Functional enrichment analysis, protein-protein interaction (PPI) network construction, and machine learning model construction were conducted to identify diagnostic genes. A receiver operating characteristic (ROC) curve was generated to evaluate diagnostic value. Immune cell infiltration was then used to analyze differences in immune cell proportion between tissues. Finally, immunohistochemistry was applied to further verify protein concentration of diagnostic factors.
+RESULTS: A total of 330 DEGs were identified, including 92 downregulated and 238 upregulated genes. The top 5% of DEGs (n = 17) were screened following construction of a PPI network. IL-7 and VCAM-1 were identified as the most significant candidate genes via least absolute shrinkage and selection operator (LASSO) regression. The diagnostic value of the model and each gene were above 0.75. Proportion of anti-inflammatory M2 macrophages was lower, but the fraction of pro-inflammatory gamma-delta T cells was elevated in AS samples. Finally, levels of IL-7 and VCAM-1 were validated to be higher in AS tissue than in AVS tissue using immunohistochemistry.
+CONCLUSION: IL-7 and VCAM-1 were identified as biomarkers during the disease progression. This is the first study to analyze gene expression differences between AVS and AS and could open novel sights for future studies on alleviating or preventing the disease progression.
+
+Citation: Yu C, et al. Identification of Diagnostic Genes of Aortic Stenosis That Progresses from Aortic Valve Sclerosis. Identification of Diagnostic Genes of Aortic Stenosis That Progresses from Aortic Valve Sclerosis. 2024; 17:3459-3473. doi: 10.2147/JIR.S453100
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38828052/

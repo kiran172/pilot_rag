@@ -1,0 +1,12 @@
+PMID: 38502720
+Title: Impact of Incomplete Revascularization After PCI in Left Main Disease: The EXCEL Trial.
+
+Abstract: BACKGROUND: The importance of complete revascularization after percutaneous coronary intervention (PCI) in patients with left main coronary artery disease is uncertain. We investigated the clinical impact of complete revascularization in patients with left main coronary artery disease undergoing PCI in the EXCEL trial (Evaluation of XIENCE Versus Coronary Artery Bypass Surgery for Effectiveness of Left Main Revascularization).
+METHODS: Composite rates of death or myocardial infarction (MI) following PCI during 5-year follow-up were examined in 903 patients based on core laboratory definitions of anatomic and functional complete revascularization, residual SYNTAX score (The Synergy Between Percutaneous Coronary Intervention With Taxus and Cardiac Surgery), and residual Jeopardy Score (rJS).
+RESULTS: The risk of death or MI did not vary based on anatomic, functional, or residual SYNTAX score complete revascularization but did differ according to the rJS (5-year rates 17.6%, 19.5%, and 38.9% with rJS 0, 2, and ≥4, respectively; P=0.006). The higher rate of death or MI with rJS≥4 versus rJS≤2 was driven conjointly by increased mortality (adjusted hazard ratio, 2.29 [95% CI, 1.11-4.71]; P=0.02) and spontaneous MI (adjusted hazard ratio, 2.89 [95% CI, 1.17-7.17]; P=0.02). The most common location for untreated severe stenoses in the rJS≥4 group was the left circumflex artery (LCX), and the post-PCI absence, compared with the presence, of any untreated lesion with diameter stenosis ≥70% in the LCX was associated with reduced 5-year rates of death or MI (18.9% versus 35.2%; hazard ratio, 0.48 [95% CI, 0.32-0.74]; P&lt;0.001). The risk was the highest for residual ostial/proximal LCX lesions.
+CONCLUSIONS: Among patients undergoing PCI in EXCEL trial, incomplete revascularization according to the rJS was associated with increased rates of death and spontaneous MI. Post-PCI untreated high-grade lesions in the LCX (especially the ostial/proximal LCX) drove these outcomes.
+REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT01205776.
+
+Citation: Ali ZA, et al. Impact of Incomplete Revascularization After PCI in Left Main Disease: The EXCEL Trial. Impact of Incomplete Revascularization After PCI in Left Main Disease: The EXCEL Trial. 2024; 17:e013192. doi: 10.1161/CIRCINTERVENTIONS.123.013192
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38502720/

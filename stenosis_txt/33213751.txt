@@ -1,0 +1,12 @@
+PMID: 33213751
+Title: Transcatheter Versus Surgical Aortic Valve Replacement in Patients With Prior Mediastinal Radiation.
+
+Abstract: OBJECTIVES: This study sought to evaluate the trends and outcomes of transcatheter aortic valve replacement (TAVR) versus surgical aortic valve replacement (SAVR) among patients with prior mediastinal radiation from a national database.
+BACKGROUND: There is a paucity of data about the temporal trends and outcomes of TAVR versus SAVR in patients with prior mediastinal radiation.
+METHODS: The National Inpatient Sample database years 2012 to 2017 was queried for hospitalizations of patients with prior mediastinal radiation who underwent isolated AVR. Using multivariable analysis, the study compared the outcomes of TAVR versus SAVR. The main study outcome was in-hospital mortality.
+RESULTS: The final analysis included 3,675 hospitalizations for isolated AVR; of whom 2,170 (59.1%) underwent TAVR and 1,505 (40.9%) underwent isolated SAVR. TAVR was increasingly performed over time (p<sub>trend</sub> = 0.01), but there was no significant increase in the rates of utilization of SAVR. The following factors were independently associated with TAVR utilization: older age, chronic lung disease, coronary artery disease, chronic kidney disease, prior cerebrovascular accidents, prior coronary artery bypass grafting, and larger-sized hospitals, while women were less likely to undergo TAVR. Compared with SAVR, TAVR was associated with lower in-hospital mortality (1.2% vs. 2.0%, adjusted odds ratio: 0.27; 95% confidence interval: 0.09 to 0.79; p = 0.02). TAVR was associated with lower rates of acute kidney injury, use of mechanical circulatory support, bleeding and respiratory complications, and shorter length of hospital stay. TAVR was associated with higher rates of pacemaker insertion.
+CONCLUSIONS: This nationwide observational analysis showed that TAVR is increasingly performed among patients with prior mediastinal radiation. TAVR provides an important treatment option for this difficult patient population with desirable procedural safety when using SAVR as a benchmark.
+
+Citation: Elbadawi A, et al. Transcatheter Versus Surgical Aortic Valve Replacement in Patients With Prior Mediastinal Radiation. Transcatheter Versus Surgical Aortic Valve Replacement in Patients With Prior Mediastinal Radiation. 2020; 13:2658-2666. doi: 10.1016/j.jcin.2020.08.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33213751/

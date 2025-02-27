@@ -1,0 +1,12 @@
+PMID: 38296402
+Title: Large-Scale Proteomics Identifies Novel Biomarkers and Circulating Risk Factors for Aortic Stenosis.
+
+Abstract: BACKGROUND: Limited data exist regarding risk factors for aortic stenosis (AS). The plasma proteome is a promising phenotype for discovery of novel biomarkers and potentially causative mechanisms.
+OBJECTIVES: The aim of this study was to discover novel biomarkers with potentially causal associations with AS.
+METHODS: We measured 4,877 plasma proteins (SomaScan aptamer-affinity assay) among ARIC (Atherosclerosis Risk In Communities) study participants in mid-life (visit 3 [V3]; n = 11,430; age 60 ± 6 years) and in late-life (V5; n = 4,899; age 76 ± 5 years). We identified proteins cross-sectionally associated with aortic valve (AV) peak velocity (AVmax) and dimensionless index by echocardiography at V5 and with incident AV-related hospitalization after V3 with the use of multivariable linear and Cox proportional hazard regression. We assessed associations of candidate proteins with changes in AVmax over 6 years and with AV calcification with the use of cardiac computed tomography, replicated analysis in an independent sample, performed Mendelian randomization, and evaluated gene expression in explanted human AV tissue.
+RESULTS: Fifty-two proteins cross-sectionally were associated with AVmax and dimensionless index at V5 and with risk of incident AV-related hospitalization after V3. Among 3,413 participants in the Cardiovascular Health Study, 6 of those proteins were significantly associated with adjudicated moderate or severe AS, including matrix metalloproteinase 12 (MMP12), complement C1q tumor necrosis factor-related protein 1 (C1QTNF1), and growth differentiation factor-15. MMP12 was also associated with greater increase in AVmax over 6 years, greater degree of AV calcification, and greater expression in calcific compared with normal or fibrotic AV tissue. C1QTNF1 had consistent potential causal effects on both AS and AVmax according to Mendelian randomization analysis.
+CONCLUSIONS: These findings identify MMP12 as a potential novel circulating biomarker of AS risk and C1QTNF1 as a new putative target to prevent AS progression.
+
+Citation: Shelbaya K, et al. Large-Scale Proteomics Identifies Novel Biomarkers and Circulating Risk Factors for Aortic Stenosis. Large-Scale Proteomics Identifies Novel Biomarkers and Circulating Risk Factors for Aortic Stenosis. 2024; 83:577-591. doi: 10.1016/j.jacc.2023.11.021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38296402/

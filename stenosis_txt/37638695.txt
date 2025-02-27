@@ -1,0 +1,15 @@
+PMID: 37638695
+Title: Muvalaplin, an Oral Small Molecule Inhibitor of Lipoprotein(a) Formation: A Randomized Clinical Trial.
+
+Abstract: IMPORTANCE: Lipoprotein(a) (Lp[a]) is associated with atherosclerotic disease and aortic stenosis. Lp(a) forms by bonding between apolipoprotein(a) (apo[a]) and apo B100. Muvalaplin is an orally administered small molecule that inhibits Lp(a) formation by blocking the apo(a)-apo B100 interaction while avoiding interaction with a homologous protein, plasminogen.
+OBJECTIVE: To determine the safety, tolerability, pharmacokinetics, and pharmacodynamic effects of muvalaplin.
+DESIGN, SETTING, AND PARTICIPANTS: This phase 1 randomized, double-blind, parallel-design study enrolled 114 participants (55 assigned to a single-ascending dose; 59 assigned to a multiple-ascending dose group) at 1 site in the Netherlands.
+INTERVENTIONS: The single ascending dose treatment evaluated the effect of a single dose of muvalaplin ranging from 1 mg to 800 mg or placebo taken by healthy participants with any Lp(a) level. The multiple ascending dose treatment evaluated the effect of taking daily doses of muvalaplin (30 mg to 800 mg) or placebo for 14 days in patients with Lp(a) levels of 30 mg/dL or higher.
+MAIN OUTCOMES AND MEASURES: Outcomes included safety, tolerability, pharmacokinetics, and exploratory pharmacodynamic biomarkers.
+RESULTS: Among 114 randomized (55 in the single ascending dose group: mean [SD] age, 29 [10] years, 35 females [64%], 2 American Indian or Alaska Native [4%], 50 White [91%], 3 multiracial [5%]; 59 in the multiple ascending dose group: mean [SD] age 32 [15] years; 34 females [58%]; 3 American Indian or Alaska Native [5%], 6 Black [10%], 47 White [80%], 3 multiracial [5%]), 105 completed the trial. Muvalaplin was not associated with tolerability concerns or clinically significant adverse effects. Oral doses of 30 mg to 800 mg for 14 days resulted in increasing muvalaplin plasma concentrations and half-life ranging from 70 to 414 hours. Muvalaplin lowered Lp(a) plasma levels within 24 hours after the first dose, with further Lp(a) reduction on repeated dosing. Maximum placebo-adjusted Lp(a) reduction was 63% to 65%, resulting in Lp(a) plasma levels less than 50 mg/dL in 93% of participants, with similar effects at daily doses of 100 mg or more. No clinically significant changes in plasminogen levels or activity were observed.
+CONCLUSION: Muvalaplin, a selective small molecule inhibitor of Lp(a) formation, was not associated with tolerability concerns and lowered Lp(a) levels up to 65% following daily administration for 14 days. Longer and larger trials will be required to further evaluate safety, tolerability, and effect of muvalaplin on Lp(a) levels and cardiovascular outcomes.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04472676.
+
+Citation: Nicholls SJ, et al. Muvalaplin, an Oral Small Molecule Inhibitor of Lipoprotein(a) Formation: A Randomized Clinical Trial. Muvalaplin, an Oral Small Molecule Inhibitor of Lipoprotein(a) Formation: A Randomized Clinical Trial. 2023; 330:1042-1053. doi: 10.1001/jama.2023.16503
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37638695/

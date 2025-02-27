@@ -1,0 +1,11 @@
+PMID: 32089491
+Title: Meta-Analysis of Hospital-Volume Relationship in Transcatheter Aortic Valve Implantation.
+
+Abstract: BACKGROUND: Whether a volume-outcome relationship, that is, higher volume centres have better outcomes compared with lower volume hospitals, exists in transcatheter aortic valve implantation (TAVI) has not yet been systematically explored.
+METHODS: We performed a systematic review and meta-analysis to evaluate whether highest or intermediate annual TAVI volume hospitals has better short-term (in-hospital or 30-days) mortality compared with the lowest volume hospitals. Odds ratio (OR) and 95% confidence interval (CI) was calculated with the Mantel-Haenszel method.
+RESULTS: We identified 10 publications from nine different countries including TAVI performed between 2005-2017. Included patients were mainly high-risk cohorts. We included five and six studies to assess volume-outcome relationship in the highest and intermediate volume hospitals compared with the lowest volume hospitals, respectively. Our results showed that in both the highest (OR 0.66, 95%CI 0.53-0.83, p=0.0003, I2=78%) and intermediate (OR 0.85, 95%CI 0.79-0.92, p&lt;0.0001, I2=0%) volume hospitals, there was a statistically significant volume-outcome relationship for short-term mortality compared with the lowest volume hospitals.
+CONCLUSIONS: Our review suggests a significant volume-outcome relationship post-TAVI in both the highest and intermediate volume hospitals compared with the lowest volume hospitals mainly in high surgical risk patients. The high heterogeneity in this relationship between the highest and the lowest volume hospitals warrant cautious interpretation. Whether this relationship remains significant in low-risk cohort requires further study.
+
+Citation: Ando T, et al. Meta-Analysis of Hospital-Volume Relationship in Transcatheter Aortic Valve Implantation. Meta-Analysis of Hospital-Volume Relationship in Transcatheter Aortic Valve Implantation. 2020; 29:e147-e156. doi: 10.1016/j.hlc.2019.10.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32089491/

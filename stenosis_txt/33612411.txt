@@ -1,0 +1,11 @@
+PMID: 33612411
+Title: Complications of the MANTA Closure Device: Insights From MAUDE Database.
+
+Abstract: BACKGROUND: The collagen-based MANTA device (Teleflex, PA, USA) is used for closure of large-bore vascular access. There is a paucity of data on complications associated with its use in a real-life setting.
+METHODS: We queried the "Manufacturer and User Facility Device Experience" MAUDE database between February 2019 and December 2020 for reports on MANTA device.
+RESULTS: We identified 250 reports in the MAUDE database from February 2019 through December 2020. The most common failure complication of MANTA is persistent bleeding (48.8%) and vessel occlusion or stenosis (29.6%). Most complications were managed successfully with an endovascular approach (48.4%), but a high number of patients required surgical intervention (40.4%). The most commonly reported failure mechanism was the failure of deployment (22%) followed by subcutaneous deployment (7.6%), intraluminal deployment (4.8%) amd detachment of collagen (2.8%). Access site infection was rare (1.2%). The 18 Fr. MANTA was associated with a lower risk of failure of deployment compared with the 14 Fr. device but was associated with a higher risk of vessel occlusion or stenosis (32.4% vs. 16.3%, p = 0.04) and thrombosis (11.6% vs 0%, p = 0.03).
+CONCLUSIONS: The most common complication of the MANTA device reported to the MAUDE registry was persistent bleeding (48.8% of reports) followed by vessel occlusion (29.6%). These complications were managed successfully using an endovascular approach in 48.4% of the reports.
+
+Citation: Megaly M, et al. Complications of the MANTA Closure Device: Insights From MAUDE Database. Complications of the MANTA Closure Device: Insights From MAUDE Database. 2022; 34:75-79. doi: 10.1016/j.carrev.2021.02.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33612411/

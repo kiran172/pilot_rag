@@ -1,0 +1,11 @@
+PMID: 38014617
+Title: Prevalence of congenital anomalies according to maternal race and ethnicity, Texas, 1999-2018.
+
+Abstract: BACKGROUND: Few studies of congenital anomalies provide prevalence estimates stratified by maternal race/ethnicity. We sought to determine whether the prevalence of a broad spectrum of anomalies varies among offspring of women from different race/ethnic groups.
+METHODS: We obtained information on cases with anomalies from the population-based Texas Birth Defects Registry, and denominator data on livebirths among Texas residents during 1999-2018 from the Texas Center for Health Statistics. We estimated the prevalence ratio (PR) and 95% confidence interval (CI) of N = 145 anomalies among offspring of Hispanic and non-Hispanic Black relative to non-Hispanic White women using Poisson regression, adjusting for maternal age, education, body mass index, and previous livebirths. We performed a two-stage analysis with a Bonferroni-adjusted p &lt; 1.7 × 10-4 in the initial screening phase to identify anomalies with statistically significant variation.
+RESULTS: There were 7,698,768 livebirths and 1,187,385 anomalies diagnosed in 368,393 cases. The prevalence of any monitored congenital anomaly was similar among offspring of non-Hispanic White (referent), non-Hispanic Black (PR 0.98, CI 0.96-1.00), and Hispanic (PR 0.95, CI 0.93-0.96) women. We observed statistically significant racial/ethnic variation for 42 anomalies. Marked differences were observed when comparing offspring of non-Hispanic Black to non-Hispanic White women with respect to polydactyly (PR 4.38, CI 4.07-4.72), pyloric stenosis (PR 0.34, CI 0.29-0.40), and aortic valve atresia/stenosis (PR 0.51, CI 0.36-0.72).
+CONCLUSIONS: Birth prevalence of many major congenital anomalies varies by maternal race and ethnicity. While the reasons for these differences are likely multifactorial, a thorough understanding of racial and ethnic disparities is useful to stimulate etiologic research.
+
+Citation: Schraw JM, et al. Prevalence of congenital anomalies according to maternal race and ethnicity, Texas, 1999-2018. Prevalence of congenital anomalies according to maternal race and ethnicity, Texas, 1999-2018. 2024; 116:e2274. doi: 10.1002/bdr2.2274
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38014617/

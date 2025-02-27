@@ -1,0 +1,11 @@
+PMID: 38860436
+Title: PCSK9 expression in fibrous cap possesses a marker for rupture in advanced plaque.
+
+Abstract: BACKGROUND: To date, PCSK9 inhibitors are well known for eliminating cardiac and cerebral artery ischemia events by lowering the serum lipid level. However, the pathophysiological value of in-plaque PCSK9 expression is still unclear.
+METHODS: Advanced plaques removed by carotid endarterectomy were sectioned and stained to identify the PCSK9 expression pattern and its co-expression with rupture-relevant markers. To investigate the correlation of PCSK9 expression with regional blood shear flow, hemodynamic characteristics were analyzed using computational fluid dynamics, and representative parameters were compared between PCSK9 positive and negative staining plaques. To explore this phenomenon in vitro, human aortic vascular smooth muscle cells were used to overexpress and knock down PCSK9. The impacts of PCSK9 modulations on mechanical sensor activity were testified by western blot and immunofluorescence. Real-time polymerase chain reaction was used to evaluate the transcription levels of downstream rupture-prone effectors.
+RESULTS: PCSK9 distribution in plaque preferred cap and shoulder regions, residing predominantly in smooth muscle actin-positive cells. Cap PCSK9 expression correlated with fibrous cap thickness negatively and co-expressed with MMP-9, both pointing to the direction of plaque rupture. A hemodynamic profile indicated a rupture-prone feature of cap PCSK9 expression. In vitro, overexpression and knockdown of PCSK9 in human aortic vascular smooth muscle cells has positive modulation on mechanical sensor Yes-associated protein 1 (YAP) activity and transcription levels of its downstream rupture-prone effectors. Serial section staining verified in situ colocalization among PCSK9, YAP, and downstream effectors.
+CONCLUSIONS: Cap PCSK9 possesses a biomarker for rupture risk, and its modulation may lead to a novel biomechanical angle for plaque interventions.
+
+Citation: Zhang Y, et al. PCSK9 expression in fibrous cap possesses a marker for rupture in advanced plaque. PCSK9 expression in fibrous cap possesses a marker for rupture in advanced plaque. 2024; 29:483-495. doi: 10.1177/1358863X241252370
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38860436/

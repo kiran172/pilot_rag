@@ -1,0 +1,11 @@
+PMID: 35363219
+Title: Compound Danshen dripping pills in treating with coronary heart disease: A protocol for systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Coronary heart disease (CHD) patients are categorized by occlusion or vascular stenosis leading to myocardial ischemia, hypoxia, and necrosis. In clinical cardiovascular, CHD remains as a leading disease that is primarily prevalent among older people and mid-aged groups. CHD has a drastic impact on their life standard, and is known to have debilitating effects on both mental and physical wellbeing. As a Chinese patent medicine, compound Danshen dripping pills (CDDPs) are commonly administered to treat CHD in China. Despite the common intake of CDDPs, there is a lack of evidence-based clinical practice to inform its efficacy and safety through related systematic reviews. Therefore, the present protocol proposes to conduct a meta-analysis aiming to evaluate the effectivity and safeness of using CDDP for treating CHD patients.
+METHODS: Randomized controlled trials that have evaluated the efficacy and safety of CDDP for treating CHD patients will be searched in MEDLINE, Cochrane Library, EMBASE, China National Knowledge Infrastructure, and WanFang databases. The search will include all related articles published till January 3, 2022. The extracted data will include information on study design, characteristics of the participants, details on intervention, and outcomes. Cochrane risk of bias tool will be employed to assess the quality of the trials. We will use either a random-effects model or fixed-effects model to pool the data. We will present the results as a risk ratio for dichotomous data and weighted mean difference for continuous data. We will visualize publication bias using funnel plots. Disagreements shall be resolved through discussion.
+ETHICS AND DISSEMINATION: Not required.
+OSF REGISTRATION NUMBER: 10.17605/OSF.IO/HJTP8.
+
+Citation: Sun L and Zhang YN. Compound Danshen dripping pills in treating with coronary heart disease: A protocol for systematic review and meta-analysis. Compound Danshen dripping pills in treating with coronary heart disease: A protocol for systematic review and meta-analysis. 2022; 101:e28927. doi: 10.1097/MD.0000000000028927
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35363219/

@@ -1,0 +1,11 @@
+PMID: 37186969
+Title: Factors affecting reasonable duration of continuous electrocardiographic monitoring to detect atrial fibrillation in acute ischemic stroke.
+
+Abstract: BACKGROUND: To examine the reasonable duration of continuous electrocardiographic monitoring (CEM) to detect AF at acute ischemic stroke.
+MATERIALS AND METHOD: 811 consecutive patients admitted to Tsuruga Municipal Hospital by acute ischemic stroke between April 2013 and December 2021 were enrolled in this study. Excluding 78 patients, 733 patients were analyzed by cluster analysis with SurvCART algorithm, followed by Kaplan-Meier analysis.
+RESULTS: The analysis provided step graphs for 8 subgroups. The duration of CEM to achieve the sensitivity of 0.8, 0.9, and 0.95 in each could be calculated. The duration of CEM to achieve the sensitivity of 0.8 are 18 days in female patients with heart failure (HF) (subgroup 1), 24 days in male patients with HF (subgroup 2), 22 days in patients without HF with arterial occlusion and pulse rate (PR) more than 91 (subgroup 3), 24 days in patients without HF with occlusion with PR less than 91 (subgroup 4), 18 days in patients without HF without occlusion with lacuna (subgroup 5), 26 days in patients without HF, occlusion, and lacuna, with arterial stenosis (subgroup 6), 15 days in patients without HF, occlusion, lacuna, and stenosis with BMI more than 21%(subgroup 7), and 44 days in patients without HF, occlusion, lacuna, stenosis and with BMI less than 21% (subgroup 8).
+CONCLUSIONS: Duration of CEM with the sensitivity of 0.8, 0.9, and 0.95 could be determined by presence of HF, female sex, arterial occlusion, PR more than 91/minute, presence of lacuna, presence of stenosis, and BMI more than 21%. (250).
+
+Citation: Tsunetoshi C, et al. Factors affecting reasonable duration of continuous electrocardiographic monitoring to detect atrial fibrillation in acute ischemic stroke. Factors affecting reasonable duration of continuous electrocardiographic monitoring to detect atrial fibrillation in acute ischemic stroke. 2023; 32:107173. doi: 10.1016/j.jstrokecerebrovasdis.2023.107173
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37186969/

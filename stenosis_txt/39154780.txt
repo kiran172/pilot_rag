@@ -1,0 +1,12 @@
+PMID: 39154780
+Title: Early vs. late transcatheter aortic valve replacement in acute heart failure hospitalizations: A comparative nationwide analysis.
+
+Abstract: BACKGROUND: Severe aortic stenosis (AS) is the most common valvular disease in the USA. Patients undergoing urgent or emergent transcatheter aortic valve replacement (TAVR) have worse clinical outcomes than those undergoing non-urgent procedures. No studies have examined the impact of procedural TAVR timing on outcomes in AS complicated by acute heart failure (AHF).
+AIMS: We aimed to evaluate differences in in-hospital mortality and clinical outcomes between early (<48 h) vs. late (≥48 h) TAVR in patients hospitalized with AHF using a real-world US database.
+METHODS: We queried the National Inpatient Sample database to identify hospitalizations with a diagnosis of AHF, aortic valve disease, and a TAVR procedure (2015-2020). The associations between TAVR timing and clinical outcomes were examined using logistic regression model.
+RESULTS: A total of 25,290 weighted AHF hospitalizations were identified, of which 6855 patients (27.1 %) underwent early TAVR, and 18,435 (72.9 %) late TAVR. Late TAVR patients had higher in-hospital mortality rate (2.2 % vs. 2.8 %, p < 0.01) on unadjusted analysis but no significant difference following adjustment for demographic, clinical, and hospital characteristics [aOR 1.00 (0.82-1.23)]. Late TAVR was associated with higher odds of cardiac arrest (aOR 1.50, 95 % CI: 1.18-1.90) and use of mechanical circulatory support (aOR 2.05, 95 % CI: 1.68-2.51). Late TAVR was associated with longer hospital stay (11 days vs. 4 days, p < 0.01) and higher costs ($72,851 vs. $53,209, p < 0.01).
+CONCLUSION: Early TAVR was conducted in approximately 25 % of the AS patients admitted with AHF, showing improved in-hospital outcomes before adjustment, with no significant differences observed after adjustment.
+
+Citation: Hashem A, et al. Early vs. late transcatheter aortic valve replacement in acute heart failure hospitalizations: A comparative nationwide analysis. Early vs. late transcatheter aortic valve replacement in acute heart failure hospitalizations: A comparative nationwide analysis. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jjcc.2024.08.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39154780/

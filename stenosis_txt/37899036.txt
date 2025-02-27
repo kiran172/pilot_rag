@@ -1,0 +1,11 @@
+PMID: 37899036
+Title: Plasma Cell-Free DNA Is a Potential Biomarker for Diagnosis of Calcific Aortic Valve Disease.
+
+Abstract: INTRODUCTION: Calcific aortic valve disease (CAVD) is the third most common cardiovascular disease in aging populations. Despite a growing number of biomarkers having been shown to be associated with CAVD, a marker suitable for routine testing in clinical practice is still needed. Plasma cell-free DNA (cfDNA) has been suggested as a biomarker for diagnosis and prognosis in multiple diseases. In this study, we aimed to test whether cfDNA could be used as a biomarker for the diagnosis of CAVD.
+METHODS: Serum samples were collected from 137 diagnosed CAVD patients and 180 normal controls. The amount of cfDNA was quantified by amplifying a short fragment (ALU 115) and a long fragment (ALU 247) using quantitative real-time PCR. The cfDNA integrity (cfDI) was calculated as the ratio of ALU247 to ALU115. The association between CAVD and cfDI was evaluated using regression analysis.
+RESULTS: CAVD patients had increased ALU 115 fragments (median, 185.14 (416.42) versus 302.83 (665.41), p &lt; 0.05) but a decreased value of cfDI (mean, 0.50 ± 0.25 vs. 0.41 ± 0.26, p &lt; 0.01) in their serum when compared to controls. This difference was more dramatic in non-rheumatic CAVD patients (p &lt; 0.001) versus rheumatic CAVD patients (no significant difference). Similarly, CAVD patients with bicuspid aortic valve (BAV) (p &lt; 0.01) showed a greater difference than non-BAV CAVD patients (p &lt; 0.05). Linear regression and logistic regression showed that cfDI was independently and significantly associated with the presence of CAVD (95% CI, 0.096 to 0.773, p &lt; 0.05). The ROC assay revealed that cfDI combined with clinical characteristics had a better diagnostic value than cfDI alone (AUC = 0.6191, p &lt; 0.001).
+CONCLUSION: cfDI may be a potential biomarker for diagnosis of CAVD.
+
+Citation: Ma W, et al. Plasma Cell-Free DNA Is a Potential Biomarker for Diagnosis of Calcific Aortic Valve Disease. Plasma Cell-Free DNA Is a Potential Biomarker for Diagnosis of Calcific Aortic Valve Disease. 2024; 149:155-162. doi: 10.1159/000534229
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37899036/

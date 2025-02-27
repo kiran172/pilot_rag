@@ -1,0 +1,11 @@
+PMID: 32712098
+Title: Transcarotid Versus Subclavian/Axillary Access for Transcatheter Aortic Valve Replacement With SAPIEN 3.
+
+Abstract: BACKGROUND: Subclavian/axillary (TAx) access has become the most frequently used alternative access route for transcatheter aortic valve replacement (TAVR). Transcarotid (TC) TAVR has grown in popularity recently. Comparative data between these 2 contemporary access methods is lacking.
+METHODS: Data were extracted from The Society of Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy (TVT) Registry™ (June 2015 to October 2019) for patients undergoing TAVR by TC or TAx access with the SAPIEN 3 and SAPIEN 3 Ultra (Edwards Lifesciences, Irvine, CA) transcatheter heart valves. Procedural, index hospitalization, and 30-day outcomes were analyzed for TC vs TAx groups after 1:2 propensity matching of patient baseline characteristics.
+RESULTS: The study included 3903 cases, of which 801 TC and 3102 TAx procedures were compared. After 1:2 propensity matching, TC TAVR was associated with similar 30-day mortality (4.3% vs 5.2%, P = .34) but a significantly lower risk of stroke (4.2% vs 7.4%; hazard ratio, 0.56; 95% confidence interval, 0.38-0.83; P = .003) compared with TAx access. Other outcomes that favored TC over TAx included shorter procedure time (117.0 vs 132.4 minutes; P < .001) and fluoroscopy time (16.6 vs 21.6 min; P < .001), lower contrast volume (78.5 vs 96.7 mL; P < .001), shorter length of stay in the intensive care unit (24.3 vs 25.0 hours; P = .02) and hospital (2.0 vs 3.0 days; P = .002), and more patients discharged to home (82.9% vs 74.6%; P < .001).
+CONCLUSIONS: TC TAVR is associated with similar mortality and a significant reduction in stroke compared with the TAx approach. If femoral access is precluded, TC may be a safe, or at times, preferred avenue of transcatheter valve delivery.
+
+Citation: Kirker E, et al. Transcarotid Versus Subclavian/Axillary Access for Transcatheter Aortic Valve Replacement With SAPIEN 3. Transcarotid Versus Subclavian/Axillary Access for Transcatheter Aortic Valve Replacement With SAPIEN 3. 2020; 110:1892-1897. doi: 10.1016/j.athoracsur.2020.05.141
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32712098/

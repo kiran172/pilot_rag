@@ -1,0 +1,12 @@
+PMID: 36446068
+Title: Left atrial geometric and functional remodeling parameters measured by cardiac magnetic resonance imaging and outcome prediction in patients with severe aortic stenosis.
+
+Abstract: BACKGROUND: Emerging studies are beginning to describe the role of afflicted left atrium (LA) function and strain in cardiovascular diseases including aortic stenosis (AS), especially for risk stratification and outcome prediction. Cardiac magnetic resonance imaging (CMR) is becoming increasingly useful in determining LA parameters; however, in patients with AS, this approach has not been applied yet.
+AIMS: This study sought to evaluate the role of CMR in characterizing LA geometry and function in patients with severe AS.
+METHODS: We prospectively evaluated 70 patients with symptomatic severe AS and 70 controls. LA volumes, function, and strain were determined using CMR. A composite outcome (cardiac death, ventricular tachyarrhythmias, and heart failure hospitalization) was evaluated over a median of 13 months. Time-to-event outcomes were analyzed accordingly.
+RESULTS: Besides increased LA volumes (LAVs) and LA sphericity index (LASI) (P <0.001), LA phasic functions and strain were considerably defective in patients with AS (all P <0.001). LV mass (LVM), end-diastolic and end-systolic volumes were also significantly associated withal LA strain parameters (P <0.001). Regarding outcome prediction, decreased total (LA-εt), active (LA-εa), and passive strain (LA-εp), along with enhanced LASI were independently associated with outcome (P <0.001). Time-to-event analysis showed a significantly higher risk to reach the composite outcome for LA-εt <31.1% (hazard ratio [HR], 6.981; 95% confidence interval [CI], 2.74-17.77; P <0.001), LA-εp <14.5% (HR, 2.68; 95% CI, 1.00-7.18; P <0.01), and LA-εa <21.2% (HR, 2.02; 95% CI, 1.07-3.83, P <0.03).
+CONCLUSION: Patients with severe AS have a significantly remodeled LA, with impaired phasic function and strain. Amongst all CMR parameters, LAVmin, LASI, LAPF, and LA-εp appear to be independent predictors for outcomes.
+
+Citation: Cionca C, et al. Left atrial geometric and functional remodeling parameters measured by cardiac magnetic resonance imaging and outcome prediction in patients with severe aortic stenosis. Left atrial geometric and functional remodeling parameters measured by cardiac magnetic resonance imaging and outcome prediction in patients with severe aortic stenosis. 2023; 81:150-159. doi: 10.33963/KP.a2022.0265
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36446068/

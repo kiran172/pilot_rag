@@ -1,0 +1,11 @@
+PMID: 34785589
+Title: Relationship of age, atherosclerosis and angiographic stenosis using artificial intelligence.
+
+Abstract: OBJECTIVE: The study evaluates the relationship of coronary stenosis, atherosclerotic plaque characteristics (APCs) and age using artificial intelligence enabled quantitative coronary computed tomographic angiography (AI-QCT).
+METHODS: This is a post-hoc analysis of data from 303 subjects enrolled in the CREDENCE (Computed TomogRaphic Evaluation of Atherosclerotic Determinants of Myocardial IsChEmia) trial who were referred for invasive coronary angiography and subsequently underwent coronary computed tomographic angiography (CCTA). In this study, a blinded core laboratory analysing quantitative coronary angiography images classified lesions as obstructive (≥50%) or non-obstructive (<50%) while AI software quantified APCs including plaque volume (PV), low-density non-calcified plaque (LD-NCP), non-calcified plaque (NCP), calcified plaque (CP), lesion length on a per-patient and per-lesion basis based on CCTA imaging. Plaque measurements were normalised for vessel volume and reported as % percent atheroma volume (%PAV) for all relevant plaque components. Data were subsequently stratified by age <65 and ≥65 years.
+RESULTS: The cohort was 64.4±10.2 years and 29% women. Overall, patients &gt;65 had more PV and CP than patients &lt;65. On a lesion level, patients &gt;65 had more CP than younger patients in both obstructive (29.2 mm3 vs 48.2 mm3; p&lt;0.04) and non-obstructive lesions (22.1 mm3 vs 49.4 mm3; p&lt;0.004) while younger patients had more %PAV (LD-NCP) (1.5% vs 0.7%; p&lt;0.038). Younger patients had more PV, LD-NCP, NCP and lesion lengths in obstructive compared with non-obstructive lesions. There were no differences observed between lesion types in older patients.
+CONCLUSION: AI-QCT identifies a unique APC signature that differs by age and degree of stenosis and provides a foundation for AI-guided age-based approaches to atherosclerosis identification, prevention and treatment.
+
+Citation: Jonas R, et al. Relationship of age, atherosclerosis and angiographic stenosis using artificial intelligence. Relationship of age, atherosclerosis and angiographic stenosis using artificial intelligence. 2021; 8:(unknown pages). doi: 10.1136/openhrt-2021-001832
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34785589/

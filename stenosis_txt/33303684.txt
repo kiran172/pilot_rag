@@ -1,0 +1,8 @@
+PMID: 33303684
+Title: Network-based screen in iPSC-derived cells reveals therapeutic candidate for heart valve disease.
+
+Abstract: Mapping the gene-regulatory networks dysregulated in human disease would allow the design of network-correcting therapies that treat the core disease mechanism. However, small molecules are traditionally screened for their effects on one to several outputs at most, biasing discovery and limiting the likelihood of true disease-modifying drug candidates. Here, we developed a machine-learning approach to identify small molecules that broadly correct gene networks dysregulated in a human induced pluripotent stem cell (iPSC) disease model of a common form of heart disease involving the aortic valve (AV). Gene network correction by the most efficacious therapeutic candidate, XCT790, generalized to patient-derived primary AV cells and was sufficient to prevent and treat AV disease in vivo in a mouse model. This strategy, made feasible by human iPSC technology, network analysis, and machine learning, may represent an effective path for drug discovery.
+
+Citation: Theodoris CV, et al. Network-based screen in iPSC-derived cells reveals therapeutic candidate for heart valve disease. Network-based screen in iPSC-derived cells reveals therapeutic candidate for heart valve disease. 2021; 371:(unknown pages). doi: 10.1126/science.abd0724
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33303684/

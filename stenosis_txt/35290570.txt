@@ -1,0 +1,11 @@
+PMID: 35290570
+Title: Endoscopic Balloon Dilation Is Cost-Effective for Crohn's Disease Strictures.
+
+Abstract: BACKGROUND: Endoscopic balloon dilation (EBD) has emerged as an alternative intervention to manage Crohn's disease (CD) strictures. We determined the cost-effectiveness of EBD versus resection surgery for patients with short (< 4-5 cm) primary or secondary/anastomotic small or large bowel strictures.
+METHODS: A microsimulation state-transition model analyzed the benefits and risks of EBD and resection surgery for patients with primary or anastomotic CD strictures. Our primary outcome was quality-adjusted life years (QALYs) over ten years, and strategies were compared using a willingness to pay of $100,000/QALY from a societal perspective. Costs (2021 $US) and incremental cost-effectiveness ratios (ICER) were calculated. Deterministic 1-way and probabilistic analyses assessed model uncertainty.
+RESULTS: The EBD strategy cost $19,822 and resulted in 6.18 QALYs while the surgery strategy cost $41,358 and resulted in 6.37 QALYs. Surgery had an ICER of $113,332 per QALY, making EBD a cost-effective strategy. The median number of EBDs was 5 in the EBD strategy and 0 in the surgery strategy. The median number of surgeries was 2 in the surgery strategy and 1 in the EBD strategy. Of individuals who initially received EBD, 50.4% underwent subsequent surgery. One-way sensitivity analyses showed that the probabilities of requiring repeated interventions, surgery mortality (< 0.7%), and quality of life after interventions were the most influential model parameters. Probabilistic sensitivity analyses favored EBD in 50.9% of iterations.
+CONCLUSIONS: EBD is a cost-effective strategy for managing CD strictures. Differences in patient risk and quality of life after intervention impact cost-effectiveness. Intervention decisions should consider cost-effectiveness, patient risks, and quality of life.
+
+Citation: Lee KE, et al. Endoscopic Balloon Dilation Is Cost-Effective for Crohn's Disease Strictures. Endoscopic Balloon Dilation Is Cost-Effective for Crohn's Disease Strictures. 2022; 67:5462-5471. doi: 10.1007/s10620-022-07420-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35290570/

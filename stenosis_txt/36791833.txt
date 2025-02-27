@@ -1,0 +1,11 @@
+PMID: 36791833
+Title: Outcomes of Transcatheter Aortic Valve Replacement in Patients With Concomitant Aortic Regurgitation.
+
+Abstract: BACKGROUND: This study sought to evaluate outcomes of transcatheter aortic valve replacement (TAVR) in patients with moderate or greater aortic regurgitation (AR).
+METHODS: This was an observational study using an institutional database of TAVRs from November 2012 to April 2022. The study compared outcomes of TAVR in patients with isolated aortic stenosis (AS) vs patients with AS and concomitant AR (moderate or greater). Those patients with trace or mild AR were excluded. Clinical and echocardiographic outcomes were compared, with end points established by the Valve Academic Research Consortium 3. Kaplan-Meier survival estimation and Cox regression for mortality were performed. Competing-risk cumulative incidence estimates for heart failure readmissions were also compared.
+RESULTS: Of 3295 patients, 605 (53.4%) had severe AS with no AR and 529 (46.6%) had severe AS with moderate or severe AR. There were no significant differences in in-hospital mortality, length of stay, stroke, myocardial infarction, permanent pacemaker requirement, transfusion requirement, minor or major vascular complications, or 30-day readmissions between the 2 groups (P > .05). There were also no significant differences in annular dissection or rupture, coronary obstruction, or device embolization. Mean gradient and paravalvular leak rates at 30 days and 1 year were similar between the groups. Survival estimates were comparable, and, on multivariable Cox regression, mixed aortic valvular disease was not associated with an increased hazard of death as compared with isolated AS (hazard ratio, 1.01; 95% CI, 0.81-1.25; P = .962). Cumulative incidence estimates for heart failure readmissions were comparable between groups.
+CONCLUSIONS: TAVR can be safely performed in patients with mixed valvular disease, with outcomes comparable to those in isolated AS.
+
+Citation: Yousef S, et al. Outcomes of Transcatheter Aortic Valve Replacement in Patients With Concomitant Aortic Regurgitation. Outcomes of Transcatheter Aortic Valve Replacement in Patients With Concomitant Aortic Regurgitation. 2023; 116:728-734. doi: 10.1016/j.athoracsur.2023.02.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36791833/

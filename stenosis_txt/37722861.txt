@@ -1,0 +1,12 @@
+PMID: 37722861
+Title: Reliability of tomographic 3D ultrasound in measuring internal carotid artery plaque volume.
+
+Abstract: BACKGROUND: Tomographic 3D ultrasound (t3DUS) is a promise imaging technique for quantifying carotid plaque through measuring the degree of stenosis and plaque volume. Carotid plaque volume (CPV) could add benefit in predicting the potential risk of stroke.
+PURPOSE: To assess the reproducibility and accuracy of t3DUS for measuring CPV within the internal carotid artery in patients undergoing carotid endarterectomy.
+MATERIAL AND METHODS: t3DUS was used to obtain CPV in vivo from 25 symptomatic patients prior to surgery. Ex vivo CPV from the carotid endarterectomy specimen was then measured using a validated saline displacement method as a reference standard. CPV for each patient was measured twice using both methods (total n = 50 per technique). Intraclass correlation coefficient (ICC) and Bland-Altman plot were used to establish bias and limit of agreement between CPV measurements.
+RESULTS: There was an excellent agreement between t3DUS and reference test with respect to measuring CPV with an ICC value of 0.98 (95% confidence interval = 0.97-0.99, P &lt; 0.001). Bias in measurements was 0.02 ± 0.11 cm3 (95% limit of agreement = -0.19 to 0.25). Intra-observer agreement of t3DUS CPV measurements was excellent with an ICC value of 0.95 (95% confidence interval = 0.92-0.97, P &lt; 0.001). Bias in measurements was 0.004 ± 0.07 cm3 (95% limit of agreement = -0.14 to 0.15).
+CONCLUSION: t3DUS is a reproducible imaging method and showed excellent agreement with the reference standard with respect to measuring CPV. These findings suggest that t3DUS has the potential to be a valuable non-invasive tool for assessing carotid plaque burden and predicting the risk of stroke.
+
+Citation: Alzahrani A, et al. Reliability of tomographic 3D ultrasound in measuring internal carotid artery plaque volume. Reliability of tomographic 3D ultrasound in measuring internal carotid artery plaque volume. 2023; 64:2931-2937. doi: 10.1177/02841851231199222
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37722861/

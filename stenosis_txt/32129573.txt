@@ -1,0 +1,11 @@
+PMID: 32129573
+Title: Contemporary trends and outcomes in aortic valve replacement in patients with end-stage liver disease.
+
+Abstract: OBJECTIVE: Even in high-risk trials pertaining to transcatheter aortic valve replacement (TAVR), patients with end-stage liver disease (ESLD) have been under-represented. We sought to study this population group from a large national United States population database.
+METHODS: We used National Inpatient Sample (NIS) database from January 2005 to August 2015. Patients with ESLD were extracted using Goldberg's algorithm. Propensity match analysis was done for comparative analysis between surgical aortic valve replacement (SAVR) and TAVR groups. Logistic regression analysis was used for predictors of in-hospital mortality.
+RESULTS: Out of 309,959 ESLD patients, 1,375 underwent aortic valve replacement and 1,199 patients were included in our study. Mean age was 66.1 (SD, 9.1) years. In matched data, the in-hospital mortality was 5.5% in TAVR group when compared to 19.4% in SAVR group. Ventilator use (16.1 vs. 27.2%, p < .01), tracheostomy (<4 vs. 7.2%, p < .01), and vasopressin use (0 vs. 7.4%, p < .01) were utilized less in TAVR group as compared to SAVR group. The proportion of TAVR has increased from almost zero in 2011 to 51.3% in 2015. Mean cost for hospital stay has increased in SAVR group (from 254,427$ in 2005 to 321,791$ in 2015, p < .01). Similarly, a large decrease in length of stay has been observed for TAVR group (14.5 days in 2011 to 5.4 days in 2015, p < .01). TAVR (odds ratios [OR]: 0.42, 95% confidence interval [CI]: 0.20-0.87, p = .02) was associated with lower in-hospital mortality.
+CONCLUSION: TAVR was associated with lower in-hospital mortality, morbidity, and resource utilization in high-risk ESLD patients.
+
+Citation: Khan MZ, et al. Contemporary trends and outcomes in aortic valve replacement in patients with end-stage liver disease. Contemporary trends and outcomes in aortic valve replacement in patients with end-stage liver disease. 2020; 96:947-955. doi: 10.1002/ccd.28834
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32129573/

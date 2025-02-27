@@ -1,0 +1,12 @@
+PMID: 36925409
+Title: Identification of High-Risk Coronary Lesions by 3-Vessel Optical Coherence Tomography.
+
+Abstract: BACKGROUND: Optical coherence tomography (OCT) may provide a method for detecting histologically defined high-risk plaques in vivo.
+OBJECTIVES: The authors aimed to investigate the prognostic value of OCT for identifying patients and lesions that are at risk for adverse cardiac events.
+METHODS: Between January 2017 and May 2019, OCT of all the 3 main epicardial arteries was performed in 883 patients with acute myocardial infarction (MI) who were referred for primary percutaneous coronary intervention. The primary endpoint was the composite of cardiac death, nonculprit lesion-related nonfatal MI, and unplanned coronary revascularization. Patients were followed for up to 4 years (median 3.3 years).
+RESULTS: The 4-year cumulative rate of the primary endpoint was 7.2%. In patient-level analysis, thin-cap fibroatheroma (TCFA) (adjusted HR: 3.05; 95% CI: 1.67-5.57) and minimal lumen area (MLA) &lt;3.5 mm2 (adjusted HR: 3.71; 95% CI: 1.22-11.34) were independent predictors of the primary endpoint. In lesion-level analysis, nonculprit lesions responsible for subsequent events were not angiographically severe at baseline (mean diameter stenosis 43.8% ± 13.4%). TCFA (adjusted HR: 8.15; 95% CI: 3.67-18.07) and MLA &lt;3.5 mm2 (adjusted HR: 4.33; 95% CI: 1.81-10.38) were predictive of events arising from each specific lesion. TCFAs with an MLA &lt;3.5 mm2 carried a higher risk and were sufficient for identifying patients at risk for the composite of cardiac death and nonculprit lesion-related nonfatal MI.
+CONCLUSIONS: OCT imaging of angiographically nonobstructive territories in patients with acute MI can aid in identifying patients and lesions at increased risk for adverse cardiac events.
+
+Citation: Jiang S, et al. Identification of High-Risk Coronary Lesions by 3-Vessel Optical Coherence Tomography. Identification of High-Risk Coronary Lesions by 3-Vessel Optical Coherence Tomography. 2023; 81:1217-1230. doi: 10.1016/j.jacc.2023.01.030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36925409/

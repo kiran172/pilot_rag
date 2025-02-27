@@ -1,0 +1,11 @@
+PMID: 36505389
+Title: Relationship between the neutrophil to high-density lipoprotein cholesterol ratio and severity of coronary artery disease in patients with stable coronary artery disease.
+
+Abstract: OBJECTIVE: To evaluate the link between the neutrophil to HDL-C ratio (NHR) and the degree of coronary stenosis in patients with stable coronary artery disease (CAD).
+MATERIALS AND METHODS: Totally 766 individuals who attended our clinic for coronary angiography between January 2019 and January 2021 were included in this study. The participants were divided into two groups, including the CAD group and control group. Spearman correlation analysis was used to investigate the association between NHR and Gensini score and logistic regression analysis was performed to determine the influence of NHR on CAD and severe CAD. Receiver operating characteristic (ROC) curve was constructed to analyze the predictive value of NHR for severe CAD.
+RESULTS: The CAD group had a substantially higher median NHR than the control group (3.7 vs. 3.2, P &lt; 0.01). There was a positive correlation between NHR and Gensini score, as well as the frequency of coronary artery plaques. Logistic regression demonstrated that NHR was an independent contributor for CAD and severe CAD. In ROC analysis, the area under the ROC curve (AUC) for NHR was larger than that for neutrophil, HDL-C or LDL-C/HDL-C, and the differences were statistically significant (all P &lt; 0.05). The NHR limit that offered the most accurate prediction of severe CAD according to the greatest possible value of the Youden index, was 3.88, with a sensitivity of 62.6% and a specificity of 66.2%.
+CONCLUSION: NHR was not only associated with the occurrence and seriousness of CAD, but also a better predictor of severe CAD than neutrophil, HDL-C or LDL-C/HDL-C.
+
+Citation: Gao J, et al. Relationship between the neutrophil to high-density lipoprotein cholesterol ratio and severity of coronary artery disease in patients with stable coronary artery disease. Relationship between the neutrophil to high-density lipoprotein cholesterol ratio and severity of coronary artery disease in patients with stable coronary artery disease. 2022; 9:1015398. doi: 10.3389/fcvm.2022.1015398
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36505389/

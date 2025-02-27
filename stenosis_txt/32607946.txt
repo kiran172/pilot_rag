@@ -1,0 +1,11 @@
+PMID: 32607946
+Title: A method to measure the extent of myocardial ischemia and steal with SPECT myocardial blood flow quantitation.
+
+Abstract: OBJECTIVE: We introduced a method to measure the extent of myocardial ischemia and steal with SPECT MBF quantitation.
+METHODS: Eighty-seven patients who received rest/Dipyridamole-stress 99mTc-Sestamibi (MIBI) dynamic SPECT scans and coronary angiography were included. Dynamic SPECT images were reconstructed with full physical corrections. The one-tissue kinetic model was utilized to quantify K1 and further converted to MBF with required corrections. Rest MBF, stress MBF and myocardial flow reserve (MFR) were converted to a flow status polar map by a flow diagram. Extents of 7 flow statuses were verified their cutoff points for detecting stenoses. The diagnostic performance (DP) was compared to that of MFR.
+RESULTS: Cutoff point of the extent to detect ≥ 50% stenosis was 3.01% for ischemia-steal status and 20.3% for the combined status of ischemia-steal and moderate. Using these criteria, sensitivity, specificity and accuracy to detect ≥ 50% stenosis were (80%, 75%, 79%) and (86%, 68%, 80%) for ≥ 70% stenosis. The DP was superior to that of MFR < 2.0 criterion (≥ 50%: 70%, 63%, 69%; ≥ 70%: 73%, 61%, 69%) (all p < 0.015).
+CONCLUSION: SPECT MBF quantitation integrated with the flow diagram can measure the extent of myocardial ischemia and steal which appeared more accurate to detect angiographic stenoses than the single MFR parameter.
+
+Citation: Chen LC, et al. A method to measure the extent of myocardial ischemia and steal with SPECT myocardial blood flow quantitation. A method to measure the extent of myocardial ischemia and steal with SPECT myocardial blood flow quantitation. 2020; 34:682-690. doi: 10.1007/s12149-020-01493-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32607946/

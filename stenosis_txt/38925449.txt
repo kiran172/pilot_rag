@@ -1,0 +1,11 @@
+PMID: 38925449
+Title: Stent-to-vessel diameter ratio is associated with in-stent stenosis after flow-diversion treatment of intracranial aneurysms.
+
+Abstract: BACKGROUND AND PURPOSE: Flow-diversion treatment for intracranial aneurysms has been associated with the development of in-stent stenosis (ISS) for unclear reasons. We assess whether the size of the stent relative to that of the vessel (the stent-to-vessel diameter ratio, or SVR) may be predictive of the development of ISS after treatment with flow diverters.
+METHODS: We retrospectively reviewed patients with unruptured intracranial aneurysms who underwent flow-diversion treatment using either the Pipeline or Tubridge embolization device from September 2018 to September 2022. The relationship between SVR and ISS was analyzed. Multiple logistic regression models were used to determine the significant predictors.
+RESULTS: A total of 458 patients with 481 aneurysms were included. In a mean angiographic follow-up of 10.73 ± 3.97 months, ISS was detected in 68 cases (14.1 %). After adjusting for candidate variables, a higher distal SVR (DSVR) was associated with an increased risk of ISS (adjusted odds ratio [aOR] = 3.420, 95 % confidence interval [CI] = 1.182 - 9.889, p = 0.023). We conducted a subgroup analysis of the two different flow diverters to assess the effects of their individual characteristics. Our results showed a significant association between the DSVR and the incidence of ISS in both the Pipeline (aOR = 4.033, 95 % CI = 1.156-14.072, p = 0.029) and Tubridge groups (aOR = 11.981, 95 % CI=1.005-142.774, p = 0.049).
+CONCLUSION: A higher DSVR was associated with an increased risk of ISS. This may help neurointerventionalists select an appropriate stent size when conducting flow-diversion treatment for intracranial aneurysms.
+
+Citation: Huang C, et al. Stent-to-vessel diameter ratio is associated with in-stent stenosis after flow-diversion treatment of intracranial aneurysms. Stent-to-vessel diameter ratio is associated with in-stent stenosis after flow-diversion treatment of intracranial aneurysms. 2024; 33:107833. doi: 10.1016/j.jstrokecerebrovasdis.2024.107833
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38925449/

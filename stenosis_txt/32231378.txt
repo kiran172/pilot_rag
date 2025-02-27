@@ -1,0 +1,11 @@
+PMID: 32231378
+Title: In-Vitro MPI-guided IVOCT catheter tracking in real time for motion artifact compensation.
+
+Abstract: PURPOSE: Using 4D magnetic particle imaging (MPI), intravascular optical coherence tomography (IVOCT) catheters are tracked in real time in order to compensate for image artifacts related to relative motion. Our approach demonstrates the feasibility for bimodal IVOCT and MPI in-vitro experiments.
+MATERIAL AND METHODS: During IVOCT imaging of a stenosis phantom the catheter is tracked using MPI. A 4D trajectory of the catheter tip is determined from the MPI data using center of mass sub-voxel strategies. A custom built IVOCT imaging adapter is used to perform different catheter motion profiles: no motion artifacts, motion artifacts due to catheter bending, and heart beat motion artifacts. Two IVOCT volume reconstruction methods are compared qualitatively and quantitatively using the DICE metric and the known stenosis length.
+RESULTS: The MPI-tracked trajectory of the IVOCT catheter is validated in multiple repeated measurements calculating the absolute mean error and standard deviation. Both volume reconstruction methods are compared and analyzed whether they are capable of compensating the motion artifacts. The novel approach of MPI-guided catheter tracking corrects motion artifacts leading to a DICE coefficient with a minimum of 86% in comparison to 58% for a standard reconstruction approach.
+CONCLUSIONS: IVOCT catheter tracking with MPI in real time is an auspicious method for radiation free MPI-guided IVOCT interventions. The combination of MPI and IVOCT can help to reduce motion artifacts due to catheter bending and heart beat for optimized IVOCT volume reconstructions.
+
+Citation: Griese F, et al. In-Vitro MPI-guided IVOCT catheter tracking in real time for motion artifact compensation. In-Vitro MPI-guided IVOCT catheter tracking in real time for motion artifact compensation. 2020; 15:e0230821. doi: 10.1371/journal.pone.0230821
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32231378/

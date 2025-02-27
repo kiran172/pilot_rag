@@ -1,0 +1,11 @@
+PMID: 34978755
+Title: Inhibiting pyruvate kinase muscle isoform 2 regresses group 2 pulmonary hypertension induced by supra-coronary aortic banding.
+
+Abstract: INTRODUCTION: Group 2 pulmonary hypertension (PH) has no approved PH-targeted therapy. Metabolic remodelling, specifically a biventricular increase in pyruvate kinase muscle (PKM) isozyme 2 to 1 ratio, occurs in rats with group 2 PH induced by supra-coronary aortic banding (SAB). We hypothesize that increased PKM2/PKM1 is maladaptive and inhibiting PKM2 would improve right ventricular (RV) function.
+METHODS: Male, Sprague-Dawley SAB rats were confirmed to have PH by echocardiography and then randomized to treatment with a PKM2 inhibitor (intraperitoneal shikonin, 2 mg/kg/day) versus 5% DMSO (n = 5/group) or small interfering RNA-targeting PKM2 (siPKM2) versus siRNA controls (n = 7/group) by airway nebulization.
+RESULTS: Shikonin-treated SAB rats had milder PH (PAAT 32.1 ± 1.3 vs 22.1 ± 1.2 ms, P = .0009) and lower RV systolic pressure (RVSP) (31.5 ± 0.9 vs 55.7 ± 1.9 mm Hg, P < .0001) versus DMSO-SAB rats. siPKM2 nebulization reduced PKM2 expression in the RV, increased PAAT (31.7 ± 0.7 vs 28.0 ± 1.3 ms, P = .025), lowered RVSP (30.6 ± 2.6 vs 42.0 ± 4.0 mm Hg, P = .032) and reduced diastolic RVFW thickness (0.69 ± 0.04 vs 0.85 ± 0.06 mm, P = .046). Both shikonin and siPKM2 regressed PH-induced medial hypertrophy of small pulmonary arteries.
+CONCLUSION: Increases in PKM2/PKM1 in the RV contribute to RV dysfunction in group 2 PH. Chemical or molecular inhibition of PKM2 restores the normal PKM2/PKM1 ratio, reduces PH, RVSP and RVH and regresses adverse PA remodelling. PKM2 merits consideration as a therapeutic cardiac target for group 2 PH.
+
+Citation: Xiong PY, et al. Inhibiting pyruvate kinase muscle isoform 2 regresses group 2 pulmonary hypertension induced by supra-coronary aortic banding. Inhibiting pyruvate kinase muscle isoform 2 regresses group 2 pulmonary hypertension induced by supra-coronary aortic banding. 2022; 234:e13764. doi: 10.1111/apha.13764
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34978755/

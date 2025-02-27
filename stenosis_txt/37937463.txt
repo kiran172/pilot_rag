@@ -1,0 +1,11 @@
+PMID: 37937463
+Title: Major Facilitator Superfamily Domain Containing 5 Inhibition Reduces Lipoprotein(a) Uptake and Calcification in Valvular Heart Disease.
+
+Abstract: BACKGROUND: High circulating levels of Lp(a) (lipoprotein[a]) increase the risk of atherosclerosis and calcific aortic valve disease, affecting millions of patients worldwide. Although atherosclerosis is commonly treated with low-density lipoprotein-targeting therapies, these do not reduce Lp(a) or risk of calcific aortic valve disease, which has no available drug therapies. Targeting Lp(a) production and catabolism may provide therapeutic benefit, but little is known about Lp(a) cellular uptake.
+METHODS: Here, unbiased ligand-receptor capture mass spectrometry was used to identify MFSD5 (major facilitator superfamily domain containing 5) as a novel receptor/cofactor involved in Lp(a) uptake.
+RESULTS: Reducing MFSD5 expression by a computationally identified small molecule or small interfering RNA suppressed Lp(a) uptake and calcification in primary human valvular endothelial and interstitial cells. MFSD5 variants were associated with aortic stenosis (P=0.027 after multiple hypothesis testing) with evidence suggestive of an interaction with plasma Lp(a) levels.
+CONCLUSIONS: MFSD5 knockdown suppressing human valvular cell Lp(a) uptake and calcification, along with meta-analysis of MFSD5 variants associating with aortic stenosis, supports further preclinical assessment of MFSD5 in cardiovascular diseases, the leading cause of death worldwide.
+
+Citation: Rogers MA, et al. Major Facilitator Superfamily Domain Containing 5 Inhibition Reduces Lipoprotein(a) Uptake and Calcification in Valvular Heart Disease. Major Facilitator Superfamily Domain Containing 5 Inhibition Reduces Lipoprotein(a) Uptake and Calcification in Valvular Heart Disease. 2024; 149:391-401. doi: 10.1161/CIRCULATIONAHA.123.066822
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37937463/

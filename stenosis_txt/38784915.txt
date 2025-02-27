@@ -1,0 +1,12 @@
+PMID: 38784915
+Title: High-resolution vessel wall imaging for quantitatively and qualitatively evaluating in-stent stenosis of intracranial aneurysms.
+
+Abstract: BACKGROUND: It is critical to accurately and noninvasively evaluate the stented parent artery of intracranial aneurysms (IAs) with endovascular treatment.
+OBJECTIVE: To investigate high-resolution vessel wall imaging (HR-VWI) for quantitative and qualitative evaluation of in-stent stenosis (ISS) in IAs treated with stent placement (SP).
+METHODS: Fifty-five patients (58 aneurysms) underwent HR-VWI, contrast-enhanced (CE)-HR-VWI, CE-MR angiography (MRA), time-of-flight (TOF)-MRA, and digital subtraction angiography (DSA) six months after SP, and the reliability of quantitative stent lumen measurements was evaluated by intraclass correlation coefficient (ICC) analysis. Agreement and correlation of quantitative evaluation were estimated by comparing the four MR imaging modalities with DSA. The diagnostic performance for >0%, ≥25%, and ≥50% of ISS degrees and overall diagnostic accuracy for the ISS degrees of the four MR imaging modalities were calculated to qualitative evaluation.
+RESULTS: The reliability of CE-HR-VWI and HR-VWI for ISS quantitative measurements was excellent (ICC 0.955-0.989). The agreement and correlation of CE-HR-VWI, HR-VWI versus DSA for ISS quantitative measurements were better than those of CE-MRA and TOF-MRA (p &lt; 0.05). The diagnostic performance for distinguishing the degree of ISS &gt;0%, ≥25%, and ≥50% by CE-HR-VWI and HR-VWI was superior to CE-MRA and TOF-MRA, and their overall diagnostic accuracy was 96.55 and 94.83%, respectively. HR-VWI and CE-HR-VWI were not statistically significant in the quantitative and qualitative evaluation of ISS performance (p &gt; 0.05).
+CONCLUSION: HR-VWI and CE-HR-VWI have similar performance and value in the quantitative and qualitative evaluation of ISS, and HR-VWI without contrast media could be used as an ideal long-term follow-up approach after SP treatment for IAs.
+
+Citation: Chen T, et al. High-resolution vessel wall imaging for quantitatively and qualitatively evaluating in-stent stenosis of intracranial aneurysms. High-resolution vessel wall imaging for quantitatively and qualitatively evaluating in-stent stenosis of intracranial aneurysms. 2024; 15:1381438. doi: 10.3389/fneur.2024.1381438
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38784915/

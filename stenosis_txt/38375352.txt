@@ -1,0 +1,11 @@
+PMID: 38375352
+Title: A task-driven cerebral angiographic imaging based on CT perfusion.
+
+Abstract: INTRODUCTION: Current clinical computed tomography arteriography (cCTA) and clinical computed tomography venography (cCTV) images often display restricted cerebrovascular profiles, incomplete brain tissue segmentation, and incomplete artery-vein segmentation. Especially for vessels associated with diseases, capturing their complete profiles proves challenging.
+METHODS: In this work, we developed a Task-driven Cerebral Angiographic Imaging (TDCAI) technique using computed tomography perfusion (CTP) images of stroke patients. A evaluation on intracranial hemorrhagic stroke (IHS) and acute ischemic stroke (AIS) cases was performed with CT perfusion imaging. The TDCAI technique processed the CTP images, resulting in supplementary diagnostic images, including CTA, CTV, centerline images of the vessels-of-interest [internal carotid artery (ICA) for AIS patients, Labbé vein for IHS patients], and straightened images of the vessels-of-interest.
+RESULTS: We conducted a comparison between the obtained CTA/CTV images and the cCTA/cCTV images in terms of overall image quality and visibility of the vessels-of-interest. By constructing a virtual vascular phantom, we extracted its centerline and compared it with the actual centerline to calculate maximum and average deviations. This allowed us to evaluate both the accuracy of the centerline extraction algorithm and its capability to resist the influence of side branches. We assessed whether vascular stenosis and dilatation could be expressed in straightened vessel images, conducting statistical analyses to establish the superiority of TDCAI technique.
+DISCUSSION: This study proposes a TDCAI technique to eliminate bone and soft tissue interference, effectively segregate the comprehensive cerebral venous and arterial systems, and extract centerlines and straighten the vessels-of-interest, which would aid doctors in assessing the outflow profiles of vessels after a stroke and seeking imaging biomarkers correlated with clinical outcomes.
+
+Citation: Wang C, et al. A task-driven cerebral angiographic imaging based on CT perfusion. A task-driven cerebral angiographic imaging based on CT perfusion. 2023; 14:1328184. doi: 10.3389/fneur.2023.1328184
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38375352/

@@ -1,0 +1,11 @@
+PMID: 31378379
+Title: Adenosine-Free Indexes vs. Fractional Flow Reserve for Functional Assessment of Coronary Stenoses: Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Adenosine-free indexes (AFIs), including resting Pd/Pa, instantaneous wave-free ratio (iFR) and contrast-FFR (cFFR), have been proposed to circumvent the use of vasodilators, in order to simplify the functional evaluation of coronary stenoses. Aims of this study were to analyze the correlation between AFIs and Fractional Flow Reserve (FFR) and to compare their diagnostic accuracy when FFR is used as reference.
+METHODS: We conducted a systematic review and meta-analysis of observational studies in which AFIs were compared to FFR. We produced paired forest plots to show the variation of the sensitivity and specificity estimates. We used a hierarchical summary ROC model (HSROC) to summarize the sensitivity and specificity of AFIs in detecting the concordance with FFR assessment.
+RESULTS: Eighteen studies were included in this meta-analysis. Overall, 4424, 4822 and 2021 coronary lesions in 4410, 4472 and 1898 patients, respectively, were evaluated by Pd/Pa, iFR and cFFR, respectively. The overall Pearson's correlations were 0.81 (95%CI 0.78-0.83), 0.80 (95%CI 0.78-0.81) and 0.92 (95%CI 0.90-0.94) for Pd/Pa, iFR and cFFR, respectively. cFFR showed a significantly higher correlation with FFR compared to Pd/Pa and iFR (p < 0.0001). The area under the HSROC estimating the discriminating accuracy of cFFR was 0.95 (95%CI 0.94-0.96) and it was significantly higher compared to Pd/Pa (0.86, 95%CI 0.80-0.93) and iFR (0.89, 95%CI 0.84-0.94) (p < 0.0001).
+CONCLUSIONS: AFIs show a good correlation with the gold standard FFR. Among AFIs, cFFR shows the highest correlation with FFR and the best diagnostic accuracy.
+
+Citation: Leone AM, et al. Adenosine-Free Indexes vs. Fractional Flow Reserve for Functional Assessment of Coronary Stenoses: Systematic Review and Meta-Analysis. Adenosine-Free Indexes vs. Fractional Flow Reserve for Functional Assessment of Coronary Stenoses: Systematic Review and Meta-Analysis. 2020; 299:93-99. doi: 10.1016/j.ijcard.2019.07.035
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31378379/

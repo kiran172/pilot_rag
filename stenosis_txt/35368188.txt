@@ -1,0 +1,11 @@
+PMID: 35368188
+Title: Development of an Artificial Intelligence-Based Support Technology for Urethral and Ureteral Stricture Surgery.
+
+Abstract: PURPOSE: This paper proposes a technological system that uses artificial intelligence to recognize and guide the operator to the exact stenosis area during endoscopic surgery in patients with urethral or ureteral strictures. The aim of this technological solution was to increase surgical efficiency.
+METHODS: The proposed system utilizes the ResNet-50 algorithm, an artificial intelligence technology, and analyzes images entering the endoscope during surgery to detect the stenosis location accurately and provide intraoperative clinical assistance. The ResNet-50 algorithm was chosen to facilitate accurate detection of the stenosis site.
+RESULTS: The high recognition accuracy of the system was confirmed by an average final sensitivity value of 0.96. Since sensitivity is a measure of the probability of a true-positive test, this finding confirms that the system provided accurate guidance to the stenosis area when used for support in actual surgery.
+CONCLUSION: The proposed method supports surgery for patients with urethral or ureteral strictures by applying the ResNet-50 algorithm. The system analyzes images entering the endoscope during surgery and accurately detects stenosis, thereby assisting in surgery. In future research, we intend to provide both conservative and flexible boundaries of the strictures.
+
+Citation: Eun SJ, et al. Development of an Artificial Intelligence-Based Support Technology for Urethral and Ureteral Stricture Surgery. Development of an Artificial Intelligence-Based Support Technology for Urethral and Ureteral Stricture Surgery. 2022; 26:78-84. doi: 10.5213/inj.2244064.032
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35368188/

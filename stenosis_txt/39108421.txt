@@ -1,0 +1,12 @@
+PMID: 39108421
+Title: Machine Learning Identification of Modifiable Predictors of Patient Outcomes After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) is an important treatment option for patients with severe symptomatic aortic stenosis. It is important to identify predictors of excellent outcomes (good clinical outcomes, more time spent at home) after TAVR that are potentially amenable to improvement.
+OBJECTIVES: The purpose of the study was to use machine learning to identify potentially modifiable predictors of clinically relevant patient-centered outcomes after TAVR.
+METHODS: We used data from 8,332 TAVR cases (January 2016-December 2021) from 21 hospitals to train random forest models with 57 patient characteristics (demographics, comorbidities, surgical risk score, lab values, health status scores) and care process parameters to predict the end point, a composite of parameters that designated an excellent outcome and included no major complications (in-hospital or at 30 days), post-TAVR length of stay of 1 day or less, discharge to home, no readmission, and alive at 30 days. We used recursive feature elimination with cross-validation and Shapley Additive Explanation feature importance to identify parameters with the highest predictive values.
+RESULTS: The final random forest model retained 29 predictors (15 patient characteristics and 14 care process components); the area under the curve, sensitivity, and specificity were 0.77, 0.67, and 0.73, respectively. Four potentially modifiable predictors with relatively high Shapley Additive Explanation values were identified: type of anesthesia, direct movement to stepdown unit post-TAVR, time between catheterization and TAVR, and preprocedural length of stay.
+CONCLUSIONS: This study identified four potentially modifiable predictors of excellent outcome after TAVR, suggesting that machine learning combined with hospital-level data can inform modifiable components of care, which could support better delivery of care for patients undergoing TAVR.
+
+Citation: Russo MJ, et al. Machine Learning Identification of Modifiable Predictors of Patient Outcomes After Transcatheter Aortic Valve Replacement. Machine Learning Identification of Modifiable Predictors of Patient Outcomes After Transcatheter Aortic Valve Replacement. 2024; 3:101116. doi: 10.1016/j.jacadv.2024.101116
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39108421/

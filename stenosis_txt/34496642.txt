@@ -1,0 +1,11 @@
+PMID: 34496642
+Title: Pulmonary Function Tests May Better Predict Dyspnea-Severity in Patients with Subglottic Stenosis Compared to Clinician-Reported Stenosis.
+
+Abstract: OBJECTIVE: Patients with subglottic stenosis (SGS) present with varied degree of breathing complaints. The dyspnea index (DI) is a 10-question patient-reported outcome measure designed to measure the severity of upper airway obstruction. We set out to determine whether pulmonary function tests or clinician-reported degree of stenosis best predicted DI scores.
+METHODS: Thirty patients with SGS were retrospectively reviewed over a 6-year period. One visit from each patient was included. Data including peak expiratory flow rate (PEFR), body-mass index (BMI), clinician-reported degree of stenosis, and DI scores were reviewed. Multiple linear regression was performed to determine how degree of stenosis and PEFR % predicted the variation in DI score.
+RESULTS: PEFR % better predicted DI scores compared to degree of stenosis (partial correlation -0.32 vs 0.17). After stepwise elimination, PEFR % remained in the regression and was significantly associated with DI scores (F[1, 29] = 9.38, P = .005). BMI did not demonstrate a linear relationship with DI scores and was not included in the regression (r = -.02). The PEFR % unstandardized coefficient was -0.25 (95% CI: -0.42 to -0.08, P = .005). The model predicts that a 4% increase in the PEFR % results in a 1-point decrease in the DI score (95% CI: -1.68 to -0.32).
+CONCLUSION: This study suggests that pulmonary function tests may be a better in-office measure to substantiate the severity of symptoms in patients with SGS.
+
+Citation: Bhatt NK, et al. Pulmonary Function Tests May Better Predict Dyspnea-Severity in Patients with Subglottic Stenosis Compared to Clinician-Reported Stenosis. Pulmonary Function Tests May Better Predict Dyspnea-Severity in Patients with Subglottic Stenosis Compared to Clinician-Reported Stenosis. 2022; 131:791-796. doi: 10.1177/00034894211045266
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34496642/

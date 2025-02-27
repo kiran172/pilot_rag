@@ -1,0 +1,11 @@
+PMID: 36207628
+Title: Multidetector computed tomography assessment of venous invasion in hepatic alveolar echinococcosis.
+
+Abstract: PURPOSE: The objective of this study was to correlate multidetector computed tomography (MDCT) findings in hepatic alveolar echinococcosis (HAE) with intraoperative and postoperative histopathological results to identify reliable MDCT criteria for the diagnosis of HAE venous invasion.
+METHODS: A total of 136 HAE patients who underwent CT examination were included in this study. The lesion-vessel contact angle, irregular wall, lumen stenosis and occlusion were evaluated.
+RESULTS: A total of 614 veins were estimated. In total, 510 veins were invaded, and 104 veins were not. The invasion rate was 83.06%. In single CT findings, with a cutoff value of > 180° determined by receiver operating characteristic (ROC) curve analysis, the lesion-vessel contact angle performed the best (area under the ROC curve, AUC = 0.907, 95% confidence interval, 95% CI 0.872-0.941, p < 0.001), with a sensitivity, specificity and positive likelihood ratio (PLR) of 84.90%, 88.46%, and 7.35, respectively. Irregular wall and lumen stenosis showed the lowest diagnostic performance. Diagnostic performance was the highest when combining these criteria and signs (AUC = 0.932, 95% CI 0.905-0.960, p < 0.001).
+CONCLUSION: The lesion-vessel contact angle > 180° had the best sensitivity and specificity in the diagnosis of HAE venous invasion, and good interobserver agreement had been noted. The diagnostic performance of the lesion-vessel contact angle > 180° had been further improved with the addition of lumen occlusion accompanied by irregular wall or lumen stenosis.
+
+Citation: Zhang T, et al. Multidetector computed tomography assessment of venous invasion in hepatic alveolar echinococcosis. Multidetector computed tomography assessment of venous invasion in hepatic alveolar echinococcosis. 2023; 48:297-305. doi: 10.1007/s00261-022-03640-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36207628/

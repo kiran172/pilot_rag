@@ -1,0 +1,11 @@
+PMID: 35842813
+Title: A systemic congestive index (systemic pulse pressure to central venous pressure ratio) predicts adverse outcomes in patients undergoing valvular heart surgery.
+
+Abstract: BACKGROUND AND AIMS: Invasive hemodynamics may provide a more nuanced assessment of cardiac function and risk phenotyping in patients undergoing cardiac surgery. The systemic pulse pressure (SPP) to central venous pressure (CVP) ratio represents an integrated index of right and left ventricular function and thus may demonstrate an association with valvular heart surgery outcomes. This study hypothesized that a low SPP/CVP ratio would be associated with mortality in valvular surgery patients.
+METHODS: This retrospective cohort study examined adult valvular surgery patients with preoperative right heart catheterization from 2007 through 2016 at a single tertiary medical center (n = 215). Associations between the SPP/CVP ratio and mortality were investigated with univariate and multivariate analyses.
+RESULTS: Among 215 patients (age 69.7 ± 12.4 years; 55.8% male), 61 died (28.4%) over a median follow-up of 5.9 years. A SPP/CVP ratio <7.6 was associated with increased mortality (relative risk 1.70, 95% confidence interval [CI] 1.08-2.67, p = .019) and increased length of stay (11.56 ± 13.73 days vs. 7.93 ± 4.92 days, p = .016). It remained an independent predictor of mortality (adjusted odds ratio 3.99, 95% CI 1.47-11.45, p = .008) after adjusting for CVP, mean pulmonary artery pressure, aortic stenosis, tricuspid regurgitation, smoking status, diabetes mellitus, dialysis, and cross-clamp time.
+CONCLUSIONS: A low SPP/CVP ratio was associated with worse outcomes in patients undergoing valvular heart surgery. This metric has potential utility in preoperative risk stratification to guide patient selection, prognosis, and surgical outcomes.
+
+Citation: Knio ZO, et al. A systemic congestive index (systemic pulse pressure to central venous pressure ratio) predicts adverse outcomes in patients undergoing valvular heart surgery. A systemic congestive index (systemic pulse pressure to central venous pressure ratio) predicts adverse outcomes in patients undergoing valvular heart surgery. 2022; 37:3259-3266. doi: 10.1111/jocs.16772
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35842813/

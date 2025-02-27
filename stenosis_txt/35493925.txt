@@ -1,0 +1,13 @@
+PMID: 35493925
+Title: Causative Classification of Ischemic Stroke by the Machine Learning Algorithm Random Forests.
+
+Abstract: BACKGROUND: Prognosis, recurrence rate, and secondary prevention strategies differ by different etiologies in acute ischemic stroke. However, identifying its cause is challenging.
+OBJECTIVE: This study aimed to develop a model to identify the cause of stroke using machine learning (ML) methods and test its accuracy.
+METHODS: We retrospectively reviewed the data of patients who had determined etiology defined by the Trial of ORG 10172 in Acute Stroke Treatment (TOAST) from CASE-II (NCT04487340) to train and evaluate six ML models, namely, Random Forests (RF), Logistic Regression (LR), Extreme Gradient Boosting (XGBoost), K-Nearest Neighbor (KNN), Ada Boosting, Gradient Boosting Machine (GBM), for the detection of cardioembolism (CE), large-artery atherosclerosis (LAA), and small-artery occlusion (SAO). Between October 2016 and April 2020, patients were enrolled consecutively for algorithm development (phase one). Between June 2020 and December 2020, patients were enrolled consecutively in a test set for algorithm test (phase two). Area under the curve (AUC), precision, recall, accuracy, and F1 score were calculated for the prediction model.
+RESULTS: Finally, a total of 18,209 patients were enrolled in phase one, including 13,590 patients (i.e., 6,089 CE, 4,539 LAA, and 2,962 SAO) in the model, and a total of 3,688 patients were enrolled in phase two, including 3,070 patients (i.e., 1,103 CE, 1,269 LAA, and 698 SAO) in the model. Among the six models, the best models were RF, XGBoost, and GBM, and we chose the RF model as our final model. Based on the test set, the AUC values of the RF model to predict CE, LAA, and SAO were 0.981 (95%CI, 0.978-0.986), 0.919 (95%CI, 0.911-0.928), and 0.918 (95%CI, 0.908-0.927), respectively. The most important items to identify CE, LAA, and SAO were atrial fibrillation and degree of stenosis of intracranial arteries.
+CONCLUSION: The proposed RF model could be a useful diagnostic tool to help neurologists categorize etiologies of stroke.
+CLINICAL TRIAL REGISTRATION: [www.ClinicalTrials.gov], identifier [NCT01274117].
+
+Citation: Wang J, et al. Causative Classification of Ischemic Stroke by the Machine Learning Algorithm Random Forests. Causative Classification of Ischemic Stroke by the Machine Learning Algorithm Random Forests. 2022; 14:788637. doi: 10.3389/fnagi.2022.788637
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35493925/

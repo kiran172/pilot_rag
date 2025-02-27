@@ -1,0 +1,11 @@
+PMID: 39512486
+Title: Sociodemographic characteristics and outcomes of surgically managed central cord syndrome patients.
+
+Abstract: INTRODUCTION: Undiagnosed cervical spine stenosis is a risk factor for central cord syndrome (CCS), especially in vulnerable individuals. Social determinants of health (SDOH) are correlated with health outcomes. The aim of this study was to characterize the sociodemographic characteristics and outcomes in surgically-treated central cord syndrome (CCS) patients, and explore potential associations between them.
+METHODS: This is a retrospective cohort study of surgically-treated CCS patients at a Level-1 trauma center between 2015 and 2021. Patient demographics, radiological findings, and clinical outcomes were collected. SDOH were estimated using the Social Deprivation Index (SDI) and Area Deprivation Index (ADI). Descriptive statistics and regression analyses assessed associations between SDI/ADI, demographics and clinical outcomes.
+RESULTS: Of 56 patients, 75 % were insured by Medicare/Medicaid and 70 % were discharged to care facilities. Mean SDI was 66.4 ± 24.4, and mean ADI was 7.4 ± 2.2. Three patients required reoperation for post-operative complications. Post-operative neurologic outcomes varied, with 60.7 % stable, 30.4 % improved, and 8.9 % declined. While SDI/ADI did not correlate with outcomes, higher ADI quartiles were associated with decreased likelihood of home discharge (p = 0.048). Decline in neurologic function was associated with Medicare/Medicaid or Military insurance (p = 0.011).
+CONCLUSIONS: The results of this study indicated that CCS patients typically come from lower socioeconomic backgrounds, as indicated by high SDI and ADI scores. Despite this, we did not find significant correlations between SDI or ADI with post-operative outcomes, and most patients had stable or improved neurological function post-surgery in our cohort. Future studies with larger sample sizes will provide a more comprehensive understanding of these findings.
+
+Citation: Tse S, et al. Sociodemographic characteristics and outcomes of surgically managed central cord syndrome patients. Sociodemographic characteristics and outcomes of surgically managed central cord syndrome patients. 2025; 62:94-98. doi: 10.1016/j.jor.2024.10.021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39512486/

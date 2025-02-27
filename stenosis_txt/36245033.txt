@@ -1,0 +1,11 @@
+PMID: 36245033
+Title: Relationship between Coronary Artery Tortuosity and Cardiorespiratory Fitness in Patients without Obstructed Coronaries.
+
+Abstract: OBJECTIVE: This study aimed to analyze the relationship between cardiorespiratory fitness (CRF) and the increasing severity of coronary artery tortuosity (CAT) in patients with non-stenosed coronaries.
+METHODS: A total of 396 patients who underwent coronary angiography and cardiopulmonary exercise testing (CPET) between August 2020 and July 2021 were included in this single-center retrospective study after excluding patients with significant coronary artery disease (≥50% stenosis). Patients were divided into two groups: no or mild coronary artery tortuosity (N/M-CAT) and moderate to severe coronary artery tortuosity (M/S-CAT) and laboratory electrocardiographic, echocardiographic, and CPET parameters were compared between two groups.
+RESULTS: M/S-CAT was found in 46.9% of the study participants, with 66.7% being women. M/S-CAT was significantly associated with advanced age (P=0.014) and females (P=0.001). Diastolic dysfunction parameters, E velocity (P=0.011), and E/A ratio (P=0.004) also revealed significant differences between the M/S-CAT group and N/M-CAT group. VO<sub>2</sub>@peak (1.22±0.39 vs. 1.07±0.39, P&lt;0.01) and VO<sub>2</sub>@AT (0.77±0.22 vs. 0.71±0.21, P=0.017) were significantly lower in the M/S-CAT group than in the N/M-CAT group. Multivariate logistic regression analysis identified females (OR=0.448; 95% CI, 0.296-0.676; P=0.000) and E/A ratio (OR=0.307; 95% CI, 0.139-0.680; P=0.004) to be independent risk factors of M/S-CAT and showed no association of CPET parameters to M/S-CAT.
+CONCLUSION: The results indicate that increasing severity of CAT is strongly associated with female gender and E/A ratio and is not directly correlated with decreasing CRF. Further research with a larger patient population and a longer follow-up time is required to fully comprehend the impact of CAT on CRF.
+
+Citation: Liu WJ, et al. Relationship between Coronary Artery Tortuosity and Cardiorespiratory Fitness in Patients without Obstructed Coronaries. Relationship between Coronary Artery Tortuosity and Cardiorespiratory Fitness in Patients without Obstructed Coronaries. 2022; 42:941-948. doi: 10.1007/s11596-022-2656-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36245033/

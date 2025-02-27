@@ -1,0 +1,12 @@
+PMID: 38211669
+Title: Diagnostic performance of ultrasonic flow ratio versus quantitative flow ratio for assessment of coronary stenosis.
+
+Abstract: BACKGROUND: Ultrasonic flow ratio (UFR) is a novel intravascular ultrasound (IVUS)-derived modality for fast computation of fractional flow reserve (FFR) without pressure wires and adenosine.
+AIMS: This study was sought to compare the diagnostic performance of UFR and quantitative flow ratio (QFR), using FFR as the reference standard.
+METHODS: This is a retrospective study enrolling consecutive patients with intermediate coronary artery lesions (diameter stenosis of 30%-90% by visual estimation) for IVUS and FFR measurement. UFR and QFR were performed offline in a core-lab by independent analysts blinded to FFR.
+RESULTS: From December 2022 to May 2023, a total of 78 eligible patients were enrolled. IVUS and FFR measurements were successfully conducted in 104 vessels, finally 98 vessels with both FFR, UFR and QFR evaluation were analyzed. Mean FFR was 0.79 ± 0.12. UFR showed a strong correlation with FFR similar to QFR (r = 0.83 vs. 0.82, p = 0.795). Diagnostic accuracy of UFR was non-inferior to QFR (94% [89%-97%] versus 90% [84%-94%], p = 0.113). Sensitivity and specificity in identifying hemodynamically significant stenosis were comparable between UFR and QFR (sensitivity: 89% [79%-96%] versus 85% [74%-92%], p = 0.453; specificity: 97% [91%-99%] versus 95% [88%-99%], p = 0.625). The area under curve for UFR was 0.95 [0.90-0.98], non-inferior to QFR (difference = 0.021, p = 0.293), and significantly higher than minimum lumen area (MLA; difference = 0.13, p < 0.001). Diagnostic accuracy of UFR and QFR was not statically different in bifurcation nor non-bifurcation lesions.
+CONCLUSIONS: UFR showed excellent concordance with FFR, non-inferior to QFR, superior to MLA. UFR provides a potentiality for the integration of physiological assessment and intravascular imaging in clinical practice.
+
+Citation: Yang C, et al. Diagnostic performance of ultrasonic flow ratio versus quantitative flow ratio for assessment of coronary stenosis. Diagnostic performance of ultrasonic flow ratio versus quantitative flow ratio for assessment of coronary stenosis. 2024; 400:131765. doi: 10.1016/j.ijcard.2024.131765
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38211669/

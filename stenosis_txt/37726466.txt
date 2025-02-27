@@ -1,0 +1,8 @@
+PMID: 37726466
+Title: 3D modeling and comparative analysis of the double arcus aorta case.
+
+Abstract: We analyzed the double arch of a 51-year-old male patient who applied to the outpatient clinic with chest pain and shortness of breath and compared this rare case with the studies in the literature. Double aortic arch (DAA) is defined as a type of vascular ring malformation. The incidence of congenital heart diseases is less than 1%. DAA makes up 46-76% of all rings. We aimed to contribute to cardiac surgery by examining and modeling the diameters in the 2D and 3D images of the patient. For 3D modeling, an open-source software program ITK-SNAP 3.8 was used, which converts 2D images from MRI, CT, and ultrasound to 3D medical image volumes. CT images of the case taken from the SECTRA system of our hospital were uploaded to ITK-SNAP and segmentation was performed. With 3D modeling, a better understanding of the stenosis in the trachea and the double arch was achieved. The ascending aorta diameter was 30 mm. There were atherosclerotic changes in the aorta and its branches. The diameter of the right aortic arch was 22.2 mm, and the diameter of the left aortic arch was 14.5 mm. Trachea diameter was found to be 17 mm/13.2 mm. Esophageal diameter was 9.8 mm. The patient had no specific complaints and no medical or surgical treatment was recommended because his physical examination was normal. We think that a better understanding of such cases in 3D may contribute to cardiovascular surgery.
+
+Citation: Avnioglu S, et al. 3D modeling and comparative analysis of the double arcus aorta case. 3D modeling and comparative analysis of the double arcus aorta case. 2022; 38:2263-2268. doi: 10.1007/s10554-022-02675-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37726466/

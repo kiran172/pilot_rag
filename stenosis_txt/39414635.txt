@@ -1,0 +1,11 @@
+PMID: 39414635
+Title: N6-methyladenosine-modified circCDK14 promotes ossification of the ligamentum flavum via epigenetic modulation by targeting AFF4.
+
+Abstract: BACKGROUND: The ligamentum flavum (LF) is an important anatomical structure of the spine. Ossification of the LF (OLF) has become the leading cause of thoracic spinal stenosis. Circular RNAs (circRNAs) and N6-methyladenosine (m6A) modification are reported to be associated with several human diseases. However, the role of circRNAs and m6A modification in the pathogenesis of OLF has not been fully investigated. Here, we aimed to explore the vital function of circRNAs and m6A modification in OLF.
+MATERIALS AND METHODS: We analysed the circRNA expression of 4 OLF tissues and 4 normal LF tissues using bioinformatic analysis and identified circCDK14 for further analysis. We investigated the effects of circCDK14 on the osteogenic differentiation of LF cells. We observed that circCDK14 regulated its target genes by binding to miRNAs as a miRNA sponge. Moreover, the circRNA pull-down assay indicated that RNA-binding proteins might regulate the expression of circCDK14 via m6A modification.
+RESULTS: CircCDK14 was significantly upregulated in OLF tissues compared to normal LF tissues. Overexpression of circCDK14 promoted the osteogenic differentiation of LF cells. Mechanistically, CircCDK14 promoted the expression of ALF transcription elongation Factor 4 (AFF4) by serving as a sponge for miR-93-5p. Moreover, Wilms tumour 1-associated protein (WTAP) increased the stability of circCDK14 via N6-methyladenosine modification.
+CONCLUSION: The m6A-modified CircCDK14 binding to miR-93-5p played an important role in the osteogenesis of LF cells by targeting AFF4, providing a promising therapeutic target for OLF.
+
+Citation: Zhao Y, et al. N6-methyladenosine-modified circCDK14 promotes ossification of the ligamentum flavum via epigenetic modulation by targeting AFF4. N6-methyladenosine-modified circCDK14 promotes ossification of the ligamentum flavum via epigenetic modulation by targeting AFF4. 2024; 81:436. doi: 10.1007/s00018-024-05460-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39414635/

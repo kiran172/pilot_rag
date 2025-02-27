@@ -1,0 +1,11 @@
+PMID: 38784978
+Title: Transthoracic echocardiographic Doppler metrics in evaluating bioprosthetic tricuspid valve dysfunction.
+
+Abstract: PURPOSE: There is currently limited information on the utility of transthoracic echocardiography (TTE)-derived Doppler parameters for assessing bioprosthetic tricuspid valve (BTV) dysfunction. Our study aimed to establish the precision and appropriate reference ranges for routinely collected transthoracic Doppler parameters in the assessment of BTV dysfunction.
+METHODS: We retrospectively evaluated 100 BTV patients who underwent TTE. Based on redo surgical confirmation or more than 2 repeat TTE or transesophageal echocardiography (TEE) examinations, patients were allocated to normal (n = 61), regurgitant (n = 24), or stenotic (n = 15) BTV group. Univariate and multivariate binary logistic regression were performed to identify TTE Doppler parameters that detected BTV dysfunction.
+RESULTS: The VTI ratio (VTI<sub>TV</sub>/VTI<sub>LVOT</sub>) was the most accurate Doppler parameter for detecting BTV dysfunction, with a ratio of &gt;2.8 showing 84.6% sensitivity and 90.2% specificity. VTI ratio &gt; 3.2, mean gradient (MG<sub>TV</sub>) &gt; 6.2 mmHg and pressure half-time &gt; 218 ms detected significant BTV stenosis, with sensitivities of 100%, 93.3% and 93.3% and specificities of 82.4%, 75.3% and 87.1%, respectively. After multivariate analysis, the VTI ratio &gt; 2.8 (OR = 9.00, 95% CI = 2.13-41.61, p = .003) and MG<sub>TV</sub> &gt; 5.1 mmHg (OR = 6.50, 95% CI = 1.69-27.78, p = .008) were the independent associations of BTV dysfunction. With these cutoff values, 75.0%-92.2% of normal and 62.5%-96.0% of dysfunctional BTV were identified.
+CONCLUSIONS: Doppler parameters from TTE can accurately identify BTV dysfunction, particularly with VTI ratio &gt; 2.8 and MG<sub>TV</sub> &gt; 5.1 mmHg, to assess the need for additional testing with TEE.
+
+Citation: Zhang X, et al. Transthoracic echocardiographic Doppler metrics in evaluating bioprosthetic tricuspid valve dysfunction. Transthoracic echocardiographic Doppler metrics in evaluating bioprosthetic tricuspid valve dysfunction. 2024; 41:e15835. doi: 10.1111/echo.15835
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38784978/

@@ -1,0 +1,11 @@
+PMID: 38369738
+Title: Diagnostic accuracy of CT and Doppler US for hepatic outflow obstruction after pediatric liver transplantation using left lobe or left lateral section grafts.
+
+Abstract: PURPOSE: The aim of this study was to evaluate diagnostic accuracy and to establish computed tomography (CT) and Doppler ultrasonography (US) criteria for hepatic outflow obstruction after pediatric liver transplantation (LT) using left lobe (LL) or left lateral section (LLS) grafts.
+METHODS: Pediatric patients who underwent LT using LL or LLS grafts between January 1999 and December 2021 were retrospectively included. The diagnostic performance of Doppler US and CT parameters for hepatic outflow obstruction was calculated using receiver operating characteristic (ROC) curve analysis. A diagnostic decision tree model combining the imaging parameters was developed.
+RESULTS: In total, 288 patients (150 girls; median age at LT, 1.8 years [interquartile range, 0.9 to 3.6 years]) were included. Among the Doppler US parameters, venous pulsatility index (VPI) showed excellent diagnostic performance (area under the ROC curve [AUROC], 0.90; 95% confidence interval [CI], 0.86 to 0.93; Youden cut-off value, 0.40). Among the CT parameters, anastomotic site diameter (AUROC, 0.92; 95% CI, 0.88 to 0.95; Youden cut-off, 4.2 mm) and percentage of anastomotic site stenosis (AUROC, 0.88; 95% CI, 0.84 to 0.92; Youden cut-off, 35%) showed excellent and good diagnostic performance, respectively. A decision tree model combining the VPI, peak systolic velocity, and percentage of anastomotic site stenosis stratified patients according to the risk of hepatic outflow obstruction.
+CONCLUSION: VPI, anastomotic site diameter, and percentage of anastomotic site stenosis were reliable imaging parameters for diagnosing hepatic outflow obstruction after pediatric LT using LL or LLS grafts.
+
+Citation: Kim PH, et al. Diagnostic accuracy of CT and Doppler US for hepatic outflow obstruction after pediatric liver transplantation using left lobe or left lateral section grafts. Diagnostic accuracy of CT and Doppler US for hepatic outflow obstruction after pediatric liver transplantation using left lobe or left lateral section grafts. 2024; 43:110-120. doi: 10.14366/usg.23190
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38369738/

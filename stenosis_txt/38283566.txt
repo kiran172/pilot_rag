@@ -1,0 +1,11 @@
+PMID: 38283566
+Title: Diastolic Dysfunction and Health Status Outcomes After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Baseline left ventricular diastolic dysfunction (LVDD) is associated with poor health status in patients with severe aortic stenosis undergoing transcatheter aortic valve replacement (TAVR), but health status improvement after TAVR appears similar across all grades of LVDD. Here, we aim to examine the relationship between changes in LVDD severity and health status outcomes following TAVR.
+METHODS: Patients who underwent TAVR and had evaluable LVDD at both baseline and 1 year in the PARTNER (Placement of Aortic Transcatheter Valves) 2 SAPIEN 3 registries and PARTNER 3 trial were analyzed. LVDD grade was evaluated using echocardiography core lab data and an adapted definition of American Society of Echocardiography guidelines. Health status was assessed using the Kansas City Cardiomyopathy Questionnaire Overall Summary (KCCQ-OS) score. The association between ΔLVDD severity and ΔKCCQ-OS was examined using linear regression models adjusted for baseline KCCQ-OS.
+RESULTS: Of 1100 patients, 724 (65.8%), 283 (25.7%), and 93 (8.5%) had grade 0/1, 2, and 3 LVDD at baseline, respectively. At 1 year, LVDD severity was unchanged in 790 (71.8%) patients, improved in 189 (17.2%), and worsened in 121 (11.0%). Among 376 patients with baseline grade 2 or 3 LVDD, 50.3% had improvement in LVDD. In the overall cohort, KCCQ-OS score improved by 21.9 points at 1 year. There was a statistically significant association between change in LVDD severity (improved, unchanged, and worsened) and ΔKCCQ-OS at 1 year (p = 0.007).
+CONCLUSIONS: Change in LVDD grade was associated with change in health status 1 year following TAVR.
+
+Citation: El-Zein RS, et al. Diastolic Dysfunction and Health Status Outcomes After Transcatheter Aortic Valve Replacement. Diastolic Dysfunction and Health Status Outcomes After Transcatheter Aortic Valve Replacement. 2024; 8:100225. doi: 10.1016/j.shj.2023.100225
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38283566/

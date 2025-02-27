@@ -1,0 +1,15 @@
+PMID: 38588722
+Title: Reassessing the minimum 2-year follow-up standard after lumbar decompression surgery: a 2-month follow-up seems to be an acceptable minimum.
+
+Abstract: BACKGROUND CONTEXT: Academic orthopedic journals and specialty societies emphasize the importance of two-year follow-up for patient-reported outcome measures (PROMS) after spine surgery, but there are limited data evaluating the appropriate length of follow-up.
+PURPOSE: To determine whether PROMs, as measured by the Oswestry Disability Index (ODI), would change significantly after 2-months postoperatively after lumbar decompression surgery for disc herniation or spinal stenosis.
+STUDY DESIGN: Retrospective analysis of prospectively and consecutively enrolled patients undergoing lumbar decompression surgery between 2020 and 2021 from a single surgeon spine registry.
+PATIENT SAMPLE: One hundred sixty-nine patients.
+OUTCOME MEASURES: ODI, achievement of minimum clinically important difference (MCID), revisions.
+METHODS: Patients without a preoperative baseline score were excluded. Completion of the ODI questionnaire was assessed at the follow-up points. The median ODI was compared at time baseline, 2-month, 1-year and 2-year follow-up. Risk of reoperation was assessed with receiver operating characteristic (ROC) analysis to identify at-risk ODI thresholds of requiring reoperation.
+RESULTS: Median ODI significantly improved at all time points compared to baseline (median baseline ODI: 40; 2-month ODI: 16, p=.001; 1-year ODI: 11.1, p=.001; 2-year ODI: 8, p=.001). Posthoc analysis demonstrated no difference between 2-months, 1-year and 2-year postoperative ODI (p=.9, p=.468, p=.606). The MCID was met in 87.9% of patients at 2 months, 80.7% at 1 year, and 87.3% at 2 years postoperatively. Twelve patients (7.7%) underwent revision surgery between 2 months and 2 years after the index surgery (median time to revision: 5.6 months). ROC curve analysis demonstrated that an ODI score ≥24 points at 2-months yielded a sensitivity of 85.7% and a specificity of 71.8% for predicting revision after lumbar decompression (AUC=0.758; 95% CI: 0.613-0.903). The Youden optimal threshold value of ≥24 points at 2-month postop ODI yielded an odd ratio (OR) for revision of 15.3 (CI: 1.8-131.8; p=.004). The positive predictive value (PPV) and negative predictive value (NPV) were 15.4% and 98.8%, respectively.
+CONCLUSION: Two-year clinical follow-up may not be necessary for future peer-reviewed lumbar decompression surgery studies given that ODI plateaus at 8 weeks. Patients with a score ≥24 points at 2-months postoperatively have a higher risk of requiring a second surgery within the first 2 years and warrant continued follow-up.
+
+Citation: Calek AK, et al. Reassessing the minimum 2-year follow-up standard after lumbar decompression surgery: a 2-month follow-up seems to be an acceptable minimum. Reassessing the minimum 2-year follow-up standard after lumbar decompression surgery: a 2-month follow-up seems to be an acceptable minimum. 2024; 24:1244-1252. doi: 10.1016/j.spinee.2024.03.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38588722/

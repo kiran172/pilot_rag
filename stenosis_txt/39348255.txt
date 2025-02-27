@@ -1,0 +1,11 @@
+PMID: 39348255
+Title: Main Coronary Flow Calculation With the Assistance of Physiological Side Branch Flow.
+
+Abstract: OBJECTIVE: Fractional flow reserve (FFR) derived from coronary angiography, referred to as ICA-FFR, is a less-invasive alternative for invasive FFR measurement based on computational fluid dynamics. Blood flow into side branches influences the accuracy of ICA-FFR. However, properly compensating for side branch flow in ICAFFR analysis is challenging. In this study, we proposed a physiological side branch flow model to comprehensively compensate side branch flow for ICA-FFR analysis with no need for reconstructing side branch geometry.
+METHODOLOGY: the physiological side branch flow model employed a reduced-order model to calculate the pressure distribution in vessel segments. The main coronary artery (without side branches) was delineated and divided based on bifurcation nodes. The model compensates for flow to invisible side branches within each segment and flow to visible side branches at each bifurcation node. Lastly, ICA-FFR based on physiological side branch flow model (ICA-FFRPSBF) was calculated from a single angiographic view. Functional stenosis is defined by FFR ≤ 0.80.
+RESULT: Our study involved 223 vessels from 172 patients. Using invasive FFR as a reference, the Pearson correlation coefficient of ICAFFRPSBF was 0.93. ICA-FFRPSBF showed a high AUC (AUC = 0.96) and accuracy (91.9%) in predicting functional stenosis.
+CONCLUSION: The proposed model accurately compensates for flow to side branches without their geometry in ICA-FFR analysis. ICA-FFR analysis exhibits high feasibility and diagnostic performance in identifying functional stenosis.
+
+Citation: Wang A, et al. Main Coronary Flow Calculation With the Assistance of Physiological Side Branch Flow. Main Coronary Flow Calculation With the Assistance of Physiological Side Branch Flow. 2024; PP:(unknown pages). doi: 10.1109/TBME.2024.3469289
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39348255/

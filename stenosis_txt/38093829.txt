@@ -1,0 +1,11 @@
+PMID: 38093829
+Title: Coronary microvascular resistance comparison of coronary arteries with and without considering vascular diameter: A retrospective, single-center study.
+
+Abstract: BACKGROUND AND AIMS: Measurement of coronary microvascular resistance (MR) is essential for diagnosing nonocclusive coronary artery ischemia, but whether coronary branches of different diameters can be similarly assessed using hyperemic microvascular resistance index (hMVRI) calculated from average peak velocity (APV) remains unclear. We investigated the relationship between coronary arteries of different diameters and hMVRI.
+METHODS: Thirty patients with suspected angina pectoris and nonobstructive coronary stenosis with fractional flow reserve &gt;0.8 underwent evaluation of all coronary arteries using a Doppler velocity and pressure-equipped guidewire. Quantitative coronary angiography (QCA) was used to analyze vessel diameter (D<sub>QCA</sub>). Coronary blood flow (CBF<sub>QCA</sub>) was calculated as πD<sub>QCA</sub> 2/4 (0.5 × APV) and hMVRI<sub>QCA</sub> as distal coronary pressure divided by CBF<sub>QCA</sub> during maximal hyperemia.
+RESULTS: The hMVRI was significantly higher for the right coronary artery than for the left anterior descending artery, but no significant differences between arteries were seen for CBF<sub>QCA</sub> and hMVRI<sub>QCA</sub>. Although the correlation between CBF<sub>QCA</sub> and APV was weak, CBF<sub>QCA</sub> divided into three groups according to D<sub>QCA</sub> showed very strong correlations with APV. Slopes of the straight line between APV and CBF<sub>QCA</sub> for small-, middle-, and large-diameter groups were 0.48, 0.30, and 0.21, respectively, with slope decreasing as diameter increased.
+CONCLUSIONS: Comparative evaluation of MR in coronary branches with varying vessel diameters requires vessel diameter to be accounted for.
+
+Citation: Muroya T, et al. Coronary microvascular resistance comparison of coronary arteries with and without considering vascular diameter: A retrospective, single-center study. Coronary microvascular resistance comparison of coronary arteries with and without considering vascular diameter: A retrospective, single-center study. 2023; 6:e1714. doi: 10.1002/hsr2.1714
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38093829/

@@ -1,0 +1,11 @@
+PMID: 38260112
+Title: Systolic Pulmonary Artery Pressure Thresholds Predictive of Dyspnea on Stress Doppler Echocardiography in Mitral Stenosis.
+
+Abstract: BACKGROUND: On Stress Doppler Echocardiography (SDE) in mitral stenosis, the systolic pulmonary artery pressure (SPAP) threshold at peak exercise recommended by the guidelines as an indication for percutaneous mitral commissurotomy (PMC) used to be 60 mmHg. However, because of the paucity of studies, that threshold has been controversial. The Europeans stopped using the value in 2007, followed by the Americans in 2014.
+OBJECTIVE: Determine SPAP thresholds on SDE at peak exercise and post-exercise predictive of dyspnea as an indication for PMC in mitral stenosis.
+METHOD AND RESULTS: Three hundred mitral stenosis patients with a mitral valve area (MVA) ≤ 2 cm2 and NYHA I-II-III were included. A treadmill stress test (Bruce protocol) was used in all cases to distinguish dyspneic patients (n = 182) from non dyspneic patients (n = 118). SDE was performed on a stress echocardiography bed, starting at 30 W and increasing by 30 W every 3 min. At peak exercise, the best SPAP threshold obtained was 75 mmHg: specificity (Sp) = 0.98 (0.94-1), positive likelihood ratio (LR+) = 47 (41-50), positive predictive value (PPV) = 0.99 (0.95-1), and positive predictive error (PPE) = 0.01 (0.002-0.05). This compared with, respectively, 0.34, 1, 0.69 and 0.31 at 60 mmHg. Post-exercise, the best SPAP threshold found was 60 mmHg: Sp = .94 (0.88-0.97), LR = 9 (4-10), PPV = 0.94 (0.87-0.97), and PPE = 0.06 (0.03-0.13).
+CONCLUSION: Regarding the prediction of dyspnea as an indication for PMC, our study shows that a SPAP value at peak exercise of 60 mmHg lacks predictive power (LR+=1). The optimal threshold observed was 75 mmHg at peak exercise (LR+ = 47 [41-50]) and 60 mmHg post-exercise (LR+ = 9 [4-10]).
+
+Citation: Lehachi S, et al. Systolic Pulmonary Artery Pressure Thresholds Predictive of Dyspnea on Stress Doppler Echocardiography in Mitral Stenosis. Systolic Pulmonary Artery Pressure Thresholds Predictive of Dyspnea on Stress Doppler Echocardiography in Mitral Stenosis. 2023; 35:354-362. doi: 10.37616/2212-5043.1354
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38260112/

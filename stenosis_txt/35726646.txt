@@ -1,0 +1,17 @@
+PMID: 35726646
+Title: Perfusion Maps Acquired From Dynamic Angiography MRI Using Deep Learning Approaches.
+
+Abstract: BACKGROUND: A typical stroke MRI protocol includes perfusion-weighted imaging (PWI) and MR angiography (MRA), requiring a second dose of contrast agent. A deep learning method to acquire both PWI and MRA with single dose can resolve this issue.
+PURPOSE: To acquire both PWI and MRA simultaneously using deep learning approaches.
+STUDY TYPE: Retrospective.
+SUBJECTS: A total of 60 patients (30-73 years old, 31 females) with ischemic symptoms due to occlusion or ≥50% stenosis (measured relative to proximal artery diameter) of the internal carotid artery, middle cerebral artery, or anterior cerebral artery. The 51/1/8 patient data were used as training/validation/test.
+FIELD STRENGTH/SEQUENCE: A 3 T, time-resolved angiography with stochastic trajectory (contrast-enhanced MRA) and echo planar imaging (dynamic susceptibility contrast MRI, DSC-MRI).
+ASSESSMENT: We investigated eight different U-Net architectures with different encoder/decoder sizes and with/without an adversarial network to generate perfusion maps from contrast-enhanced MRA. Relative cerebral blood volume (rCBV), relative cerebral blood flow (rCBF), mean transit time (MTT), and time-to-max (T<sub>max</sub> ) were mapped from DSC-MRI and used as ground truth to train the networks and to generate the perfusion maps from the contrast-enhanced MRA input.
+STATISTICAL TESTS: Normalized root mean square error, structural similarity (SSIM), peak signal-to-noise ratio (pSNR), DICE, and FID scores were calculated between the perfusion maps from DSC-MRI and contrast-enhanced MRA. One-tailed t-test was performed to check the significance of the improvements between networks. P values < 0.05 were considered significant.
+RESULTS: The four perfusion maps were successfully extracted using the deep learning networks. U-net with multiple decoders and enhanced encoders showed the best performance (pSNR 24.7 ± 3.2 and SSIM 0.89 ± 0.08 for rCBV). DICE score in hypo-perfused area showed strong agreement between the generated perfusion maps and the ground truth (highest DICE: 0.95 ± 0.04).
+DATA CONCLUSION: With the proposed approach, dynamic angiography MRI may provide vessel architecture and perfusion-relevant parameters simultaneously from a single scan.
+EVIDENCE LEVEL: 3 TECHNICAL EFFICACY: Stage 5.
+
+Citation: Asaduddin M, et al. Perfusion Maps Acquired From Dynamic Angiography MRI Using Deep Learning Approaches. Perfusion Maps Acquired From Dynamic Angiography MRI Using Deep Learning Approaches. 2023; 57:456-469. doi: 10.1002/jmri.28315
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35726646/

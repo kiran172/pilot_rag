@@ -1,0 +1,10 @@
+PMID: 32207408
+Title: Angiography-based quantitative flow ratio versus fractional flow reserve in patients with coronary artery disease and severe aortic stenosis.
+
+Abstract: AIMS: The aim of this study was to investigate the diagnostic performance of quantitative flow ratio (QFR) in assessing the physiological relevance of coronary lesions in the presence of severe aortic valve stenosis (SAS).
+METHODS AND RESULTS: A total of 115 SAS patients (138 coronary arteries) were included. Functional assessment of coronary stenoses was performed with fractional flow reserve (FFR) before transcatheter aortic valve implantation (TAVI). Subsequently, QFR was calculated at a central core laboratory, blinded to FFR results. The diagnostic yield of QFR was assessed using FFR as reference. Coronary stenoses were intermediate (diameter stenosis 48±10%, FFR 0.84 [0.77-0.89], QFR 0.82 [0.73-0.89]). Per-vessel sensitivity, specificity, area under the ROC curve and accuracy of QFR were 84% (95% CI: 71-92%), 80% (95% CI: 69-88%), 0.88 (95% CI: 0.82-0.93) and 81%, respectively. Diagnostic accuracy of QFR decreased significantly in patients with aortic valve area (AVA) <0.60 cm2. Diagnostic performance of QFR was superior to angiography in assessing the FFR-based functional significance (AUC 0.88 [95% CI: 0.82-0.93] vs 0.74 [95% CI: 0.66-0.81], respectively; p=0.0002).
+CONCLUSIONS: Compared with FFR, QFR has a good diagnostic yield and is superior to angiography in assessing the functional relevance of coronary lesions in SAS patients awaiting TAVI, particularly when AVA is ≥0.6 cm2.
+
+Citation: Mejía-Rentería H, et al. Angiography-based quantitative flow ratio versus fractional flow reserve in patients with coronary artery disease and severe aortic stenosis. Angiography-based quantitative flow ratio versus fractional flow reserve in patients with coronary artery disease and severe aortic stenosis. 2020; 16:e285-e292. doi: 10.4244/EIJ-D-19-01001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32207408/

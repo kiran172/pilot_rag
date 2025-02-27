@@ -1,0 +1,11 @@
+PMID: 37437805
+Title: Lumbar Spinal Canal Segmentation in Cases with Lumbar Stenosis Using Deep-U-Net Ensembles.
+
+Abstract: BACKGROUND: Narrowing of the lumbar spinal canal, or lumbar stenosis (LS), may cause debilitating radicular pain or muscle weakness. It is the most frequent indication for spinal surgery in the elderly population. Modern diagnosis relies on magnetic resonance imaging and its inherently subjective interpretation. Diagnostic rigor, accuracy, and speed may be improved by automation. In this work, we aimed to determine whether a deep-U-Net ensemble trained to segment spinal canals on a heterogeneous mix of clinical data is comparable to radiologists' segmentation of these canals in patients with LS.
+METHODS: The deep U-nets were trained on spinal canals segmented by physicians on 100 axial T2 lumbar magnetic resonance imaging selected randomly from our institutional database. Test data included a total of 279 elderly patients with LS that were separate from the training set.
+RESULTS: Machine-generated segmentations (MA) were qualitatively similar to expert-generated segmentations (M<sub>E1</sub>, M<sub>E2</sub>). Machine- and expert-generated segmentations were quantitatively similar, as evidenced by Dice scores (MA vs. M<sub>E1</sub>: 0.88 ± 0.04, MA vs. M<sub>E2</sub>: 0.89 ± 0.04), the Hausdorff distance (MA vs. M<sub>E1</sub>: 11.7 mm ± 13.8, MA vs. M<sub>E2</sub>: 13.1 mm ± 16.3), and average surface distance (MAvs. M<sub>E1</sub>: 0.18 mm ± 0.13, MA vs. M<sub>E2</sub> 0.18 mm ± 0.16) metrics. These metrics are comparable to inter-rater variation (M<sub>E1</sub> vs. M<sub>E2</sub> Dice scores: 0.94 ± 0.02, the Hausdorff distances: 9.3 mm ± 15.6, average surface distances: 0.08 mm ± 0.09).
+CONCLUSION: We conclude that machine learning algorithms can segment lumbar spinal canals in LS patients, and automatic delineations are both qualitatively and quantitatively comparable to expert-generated segmentations.
+
+Citation: Laiwalla AN, et al. Lumbar Spinal Canal Segmentation in Cases with Lumbar Stenosis Using Deep-U-Net Ensembles. Lumbar Spinal Canal Segmentation in Cases with Lumbar Stenosis Using Deep-U-Net Ensembles. 2023; 178:e135-e140. doi: 10.1016/j.wneu.2023.07.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37437805/

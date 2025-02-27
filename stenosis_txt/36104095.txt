@@ -1,0 +1,12 @@
+PMID: 36104095
+Title: Valvular disease burden in the modern era of percutaneous and surgical interventions: the UK Biobank.
+
+Abstract: BACKGROUND: The burden of valvular heart disease (VHD) has increased significantly among ageing populations, yet remains poorly understood in the present-day context of percutaneous and surgical interventions.
+OBJECTIVE: To define the incidence, clinical correlates and associated mortality of VHD in the UK Biobank cohort.
+METHODS: We interrogated data collected in the UK Biobank between 1 January 2000 and 30 June 2020. VHD incidence was determined using International Classification of Disease-10 codes for aortic stenosis (AS), aortic regurgitation (AR), mitral stenosis, mitral regurgitation (MR) and mitral valve prolapse. We calculated HRs for incident VHD and all-cause mortality. Clinical correlates of VHD included demographics, coronary artery disease, heart failure and atrial fibrillation. Surgical and percutaneous interventions for mitral and aortic VHD were considered time-dependent variables.
+RESULTS: Among 486 187 participants, the incidence of any VHD was 16 per 10 000 person-years, with highest rates for MR (8.2), AS (7.2) and AR (5.0). Age, heart failure, coronary artery disease and atrial fibrillation were significantly associated with all types of VHD. In our adjusted model, aortic and mitral VHD had an increased risk of all-cause death compared with no VHD (HR 1.62, 95% CI 1.44 to 1.82, p<0.001 and HR 1.25, 95% CI 1.09 to 1.44, p=0.002 for aortic and mitral VHD, respectively).
+CONCLUSION: VHD continues to constitute a significant public health burden, with MR and AS being the most common. Age and cardiac comorbidities remain strong risk factors for VHD. In the modern era of percutaneous and surgical interventions, mortality associated with VHD remains high.
+
+Citation: Tung M, et al. Valvular disease burden in the modern era of percutaneous and surgical interventions: the UK Biobank. Valvular disease burden in the modern era of percutaneous and surgical interventions: the UK Biobank. 2022; 9:(unknown pages). doi: 10.1136/openhrt-2022-002039
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36104095/

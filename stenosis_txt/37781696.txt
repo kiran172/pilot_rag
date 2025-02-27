@@ -1,0 +1,8 @@
+PMID: 37781696
+Title: Epirubicin and gait apraxia: a real-world data analysis of the FDA Adverse Event Reporting System database.
+
+Abstract: Introduction: Epirubicin is widely used in many malignancies with good efficacy and tolerability. However, investigations about adverse events (AEs) using real-world information are still insufficient. Methods: We extracted Epirubicin-related reports submitted between the first quarter of 2014 and first quarter of 2023 from FAERS database. Four algorithms were utilized to evaluate whether there was a significant correlation between Epirubicin and AEs. Results: After de-duplicating, a total of 3919 cases were extracted. Among the 3919 cases, we identified 1472 AEs, 253 of which were found to be adverse drug reactions (ADRs) associated with Epirubicin. We analysed the occurrence of Epirubicin-induced ADRs and found several unexpected significant ADRs, such as hepatic artery stenosis, hepatic artery occlusion, intestinal atresia and so on. Interestingly, we found gait apraxia, a neurological condition, was also significantly associated with Epirubicin. To our knowledge, there haven't studies that have reported an association between gait disorders and the usage of epirubicin. Discussion: Our study identified new unexpected significant ADRs related to Epirubicin, providing new perspectives to the clinical use of Epirubicin.
+
+Citation: Wang W, et al. Epirubicin and gait apraxia: a real-world data analysis of the FDA Adverse Event Reporting System database. Epirubicin and gait apraxia: a real-world data analysis of the FDA Adverse Event Reporting System database. 2023; 14:1249845. doi: 10.3389/fphar.2023.1249845
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37781696/

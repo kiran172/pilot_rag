@@ -1,0 +1,11 @@
+PMID: 33274771
+Title: Changes in Internal Carotid Artery Doppler Velocity Measurements With Different Angles of Insonation: A Pilot Study.
+
+Abstract: OBJECTIVES: Doppler velocity measurements are fundamental diagnostic criteria for vascular ultrasound examinations. Insonation angles are kept to 60° or less to minimize error. The purpose of this study was to assess variance of Doppler-detected peak systolic velocity (PSV) measurements in the internal carotid arteries at different angles (45°, 50°, 55°, and 60°) with different beam steering.
+METHODS: The PSV was recorded from the right and left internal carotid arteries in 22 asymptomatic volunteers with straight vessels (total of 44 vessels). A standardized approach was used for recording velocities with the Doppler cursor center steered and steered 15° from right to left. An analysis of variance was performed.
+RESULTS: The PSV varied significantly with the 4 different angles of insonation (P < .01). The maximum variation between 45° and 60° angles within a single vessel was 29 cm/s. The average variation over the 4 angles was 14 ± 6 cm/s. Relative to the calculated mean velocity for all patients, the standard deviation for the PSV at 60° was nearly twice that recorded at 50° (7.9 versus 3.9). The best correlation of the calculated mean velocity for all patients existed between the angles of 45° and 50° [r(36) = 0.92; P < .001 for center-steered data; and r(40) = 0.96; P < .001 for right-steered data].
+CONCLUSIONS: These results indicate a statistically significant difference in the PSV measurements taken at varying Doppler angles. The greatest mean, variance, and lowest correlations all result when using 60°. The findings support the need for consistent ultrasound techniques and suggest that further study is warranted regarding the optimal Doppler angle for velocity measurements.
+
+Citation: Campbell KA, et al. Changes in Internal Carotid Artery Doppler Velocity Measurements With Different Angles of Insonation: A Pilot Study. Changes in Internal Carotid Artery Doppler Velocity Measurements With Different Angles of Insonation: A Pilot Study. 2021; 40:1937-1948. doi: 10.1002/jum.15579
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33274771/

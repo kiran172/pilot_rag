@@ -1,0 +1,11 @@
+PMID: 36601375
+Title: Comparative proteome analysis of the ligamentum flavum of patients with lumbar spinal canal stenosis.
+
+Abstract: BACKGROUND: Thickening of the ligamentum flavum is considered to be the main factor for lumbar spinal canal stenosis (LSCS). Although some mechanisms have been speculated in the thickening of the ligamentum flavum, there are only a few comprehensive approaches to investigate its pathology. The objective of this study was to investigate the pathology of thickened ligamentum flavum in patients with LSCS based on protein expression levels using shotgun proteome analysis.
+METHODS: Ligamentum flavum samples were collected from four patients with LSCS (LSCS group) and four patients with lumbar disc herniation (LDH) as controls (LDH group). Protein mixtures were digested and analyzed by liquid chromatography/mass spectrometry analysis. To compare protein expression levels between the LSCS and LDH groups, the mean Mascot score was compared. Biological processes were assessed using Gene Ontology analysis.
+RESULTS: A total of 1151 proteins were identified in some samples of ligamentum flavum. Among these, 145 proteins were detected only in the LSCS group, 315 in the LDH group, and 691 in both groups. The demonstrated biological processes occurring in the LSCS group included: extracellular matrix organization, regulation of peptidase activity, extracellular matrix disassembly, and negative regulation of cell growth. Proteins related to fibrosis, chondrometaplasia, and amyloid deposition were found highly expressed in the LSCS group compared with those in the LDH group.
+CONCLUSIONS: Tissue repair via fibrosis, chondrometaplasia, and amyloid deposits may be important pathologies that occur in the thickened ligamentum flavum of patients with LSCS.
+
+Citation: Yabe Y, et al. Comparative proteome analysis of the ligamentum flavum of patients with lumbar spinal canal stenosis. Comparative proteome analysis of the ligamentum flavum of patients with lumbar spinal canal stenosis. 2022; 5:e1210. doi: 10.1002/jsp2.1210
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36601375/

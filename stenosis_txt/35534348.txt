@@ -1,0 +1,11 @@
+PMID: 35534348
+Title: Differentiating Between Acute Decompensated Aortic Stenosis and Myocardial Infarction.
+
+Abstract: BACKGROUND: Patients with aortic stenosis (AS) are susceptible to myocardial ischemia and often present acutely, making it challenging to differentiate between a type 1 NSTEMI and acute decompensated aortic stenosis. This study aims to evaluate the diagnostic accuracy of Troponin T (TnT) (>5 fold above the upper limit of normal), ischemic ECG and angina, to predict a type 1 non-ST elevation myocardial infarction (NSTEMI) and obstructive coronary artery disease (CAD) among patients with severe AS and acute presentations.
+METHODS: Patients with severe AS and acute symptoms: angina (Canadian Cardiovascular Society Class 3/4), dyspnea (New York Heart Association 4) and/or syncope were included. The endpoints were a type 1 NSTEMI defined by the presence of a coronary thrombus or > 90% stenosis and obstructive CAD defined as >70% stenosis, by computed tomography (CT) and/or invasive coronary angiography (ICA).
+RESULTS: Out of 273 patients, 6.2% had a type 1 NSTEMI. Positive TnT, ischemic ECG and angina demonstrated negative predictive values of 95%, 94% and 97% respectively and positive predictive values of 12%, 9% and 13% respectively. Specificity increased with all three metrics (95%), whilst sensitivity and positive predictive value reduced (18% and 19% respectively). 39.2% of patients had obstructive CAD. Positive TnT, ischemic ECG and angina demonstrated sensitivity of 64%, 34% and 41% respectively and specificity of 57%, 77% and 77% respectively.
+CONCLUSIONS: Angina, ischemic ECG and positive TnT are common among patients with AS presenting acutely and often not associated with a type 1 NSTEMI. These metrics, if positive, cannot reliably differentiate between a type 1 NSTEMI and acute decompensated AS. Coronary imaging using either CT or ICA is necessary to make a definitive diagnosis of a type 1 NSTEMI in patients with severe AS.
+
+Citation: Patel KP, et al. Differentiating Between Acute Decompensated Aortic Stenosis and Myocardial Infarction. Differentiating Between Acute Decompensated Aortic Stenosis and Myocardial Infarction. 2022; 43:13-17. doi: 10.1016/j.carrev.2022.04.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35534348/

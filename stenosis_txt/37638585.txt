@@ -1,0 +1,11 @@
+PMID: 37638585
+Title: An exploratory cost-effectiveness analysis of a novel tissue valve compared with mechanical valves for surgical aortic valve replacement in subgroups of people aged 55-64 and 65+ with aortic stenosis in the UK.
+
+Abstract: OBJECTIVE: Exploratory analysis to conceptualize and evaluate the potential cost-effectiveness and economic drivers of using a novel tissue valve compared with mechanical heart valves for surgical aortic valve replacement (SAVR) in people aged 55-64 and 65+ with aortic stenosis (AS) from a National Health Service (NHS) UK perspective.
+METHODS: A decision-analytic model was developed using a partitioned survival model. Parameter inputs were obtained from published literature. Deterministic and probabilistic sensitivity analyses (DSA and PSA) were conducted to explore the uncertainty around the parameters.
+RESULTS: The novel tissue valve was potentially associated with higher quality-adjusted life years (QALYs) of 0.01 per person. Potential cost savings were greatest for those aged 55-64 (£408) versus those aged 65+(£53). DSA indicated the results to be most dependent on relative differences in general mortality, procedure costs, and reoperation rates. PSA estimated around 75% of the iterations to be cost-effective at £20,000 per QALY for those aged 55-64, and 57% for those aged 65+.
+CONCLUSIONS: The exploratory analysis suggests that the novel tissue valve could be a cost-effective intervention for people over the age of 55 with AS who are suitable for SAVR in the UK.
+
+Citation: Malcolm R, et al. An exploratory cost-effectiveness analysis of a novel tissue valve compared with mechanical valves for surgical aortic valve replacement in subgroups of people aged 55-64 and 65+ with aortic stenosis in the UK. An exploratory cost-effectiveness analysis of a novel tissue valve compared with mechanical valves for surgical aortic valve replacement in subgroups of people aged 55-64 and 65+ with aortic stenosis in the UK. 2023; 23:1087-1099. doi: 10.1080/14737167.2023.2249611
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37638585/

@@ -1,0 +1,14 @@
+PMID: 31072705
+Title: General Anesthesia Versus Local Anesthesia in Carotid Endarterectomy: A Systematic Review and Meta-Analysis.
+
+Abstract: OBJECTIVE: The choice of anesthetic technique in carotid endarterectomy (CEA) has been controversial. This study compared the outcomes of general anesthesia (GA) and local anesthesia (LA) in CEA.
+DESIGN: Systematic review and meta-analysis of comparative studies.
+SETTING: Hospitals.
+PARTICIPANTS: Adult patients undergoing CEA with either LA or GA.
+INTERVENTIONS: The effects of GA and LA on CEA outcomes were compared.
+MEASUREMENTS AND MAIN RESULTS: PubMed, OVID, Scopus, and Embase were searched to June 2018. Thirty-one studies with 152,376 patients were analyzed. A random effect model was used, and heterogeneity was assessed with the I2 and chi-square tests. LA was associated with shorter surgical time (weighted mean difference -9.15 min [-15.55 to -2.75]; p = 0.005) and less stroke (odds ratio [OR] 0.76 [0.62-0.92]; p = 0.006), cardiac complications (OR 0.59 [0.47-0.73]; p &lt; 0.00001), and in-hospital mortality (OR 0.72 [0.59-0.90]; p = 0.003). Transient neurologic deficit rates were similar (OR 0.69 [0.46-1.04]; p = 0.07). Heterogeneity was significant for surgical time (I2 = 0.99, chi-square = 1,336.04; p &lt; 0.00001), transient neurologic deficit (I2 = 0.41, chi-square = 28.81; p = 0.04), and cardiac complications (I2 = 0.42, chi-square = 43.32; p = 0.01) but not for stroke (I2 = 0.22, chi-square = 30.72; p = 0.16) and mortality (I2 = 0.00, chi-square = 21.69; p = 0.65). Randomized controlled trial subgroup analysis was performed, and all the aforementioned variables were not significantly different or heterogenous.
+CONCLUSION: The results from this study showed no inferiority of using LA to GA in patients undergoing CEA. Future investigations should be reported more systematically, preferably with randomization or propensity-matched analysis, and thus registries will facilitate investigation of this subject. Anesthetic choice in CEA should be individualized and encouraged where applicable.
+
+Citation: Harky A, et al. General Anesthesia Versus Local Anesthesia in Carotid Endarterectomy: A Systematic Review and Meta-Analysis. General Anesthesia Versus Local Anesthesia in Carotid Endarterectomy: A Systematic Review and Meta-Analysis. 2020; 34:219-234. doi: 10.1053/j.jvca.2019.03.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31072705/

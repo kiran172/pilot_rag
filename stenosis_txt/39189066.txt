@@ -1,0 +1,11 @@
+PMID: 39189066
+Title: Laser ablation for preventing coronary obstruction and maintaining coronary access in redo-TAVR: A proof of concept.
+
+Abstract: BACKGROUND: Redo-transcatheter aortic valve replacement (TAVR) is a promising treatment for transcatheter aortic valve degeneration, becoming increasingly relevant with an aging population. In redo-TAVR, the leaflets of the initial (index) transcatheter aortic valve (TAV) are displaced vertically when the second TAV is implanted, creating a cylindrical cage that can impair coronary cannulation and flow. Preventing coronary obstruction and maintaining coronary access is essential, especially in young and low-risk patients undergoing TAVR. This study aimed to develop a new leaflet modification strategy using laser ablation to prevent coronary obstruction and facilitate coronary access after repeat TAVR.
+METHODS: To evaluate the feasibility of the leaflet modification technique using laser ablation, the initial phase of this study involved applying a medical-grade ultraviolet laser for ablation through pericardial tissue. Following this intervention, computational fluid dynamics simulations were utilized to assess the efficacy of the resulting perforations in promoting coronary flow. These simulations played a crucial role in understanding the impact of the modifications on blood flow patterns, ensuring these changes would facilitate the restoration of coronary circulation.
+RESULTS: Laser ablation of pericardium leaflets was successful, demonstrating the feasibility of creating openings in the TAV leaflets. Flow simulation results show that ablation of index valve leaflets can effectively mitigate the flow obstruction caused by sinus sequestration in redo-TAVR, with the extent of restoration dependent on the number and location of the ablated openings.
+CONCLUSIONS: Laser ablation could be a viable method for leaflet modification in redo-TAVR, serving as a new tool in interventional procedures.
+
+Citation: Brlansky J, et al. Laser ablation for preventing coronary obstruction and maintaining coronary access in redo-TAVR: A proof of concept. Laser ablation for preventing coronary obstruction and maintaining coronary access in redo-TAVR: A proof of concept. 2024; 104:1086-1095. doi: 10.1002/ccd.31197
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39189066/

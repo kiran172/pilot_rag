@@ -1,0 +1,12 @@
+PMID: 36147027
+Title: Diagnostic performance of exercise stress tests for detection of epicardial and microvascular coronary artery disease: the UZ Clear study.
+
+Abstract: BACKGROUND: Cardiac stress tests remain the cornerstone for evaluating patients suspected of having obstructive coronary artery disease (CAD). Coronary microvascular dysfunction (CMD) can lead to abnormal non-invasive tests.
+AIMS: We sought to assess the diagnostic performance of exercise stress tests with indexes of epicardial and microvascular resistance as reference.
+METHODS: This was a prospective, single-arm, multicentre study of patients with an intermediate pretest probability of CAD and positive exercise stress tests who were referred for invasive angiography. Patients underwent an invasive diagnostic procedure (IDP) with measurement of fractional flow reserve (FFR) and index of microvascular resistance (IMR) in at least one coronary vessel. Obstructive CAD was defined as diameter stenosis (DS) >50% by quantitative coronary angiography (QCA). The objective was to determine the false discovery rate (FDR) of cardiac exercise stress tests with both FFR and IMR as references.
+RESULTS: One hundred and seven patients (137 vessels) were studied. The mean age was 62.1±8.7, and 27.1% were female. The mean diameter stenosis was 37.2±27.5%, FFR was 0.84±0.10, coronary flow reserve was 2.74±2.07, and IMR 20.3±11.9. Obstructive CAD was present in 39.3%, whereas CMD was detected in 20.6%. The FDR was 60.7% and 62.6% with QCA and FFR as references (p-value=0.803). The combination of FFR and IMR as clinical reference reduced the FDR by 25% compared to QCA (45.8% vs 60.7%; p-value=0.006).
+CONCLUSIONS: In patients with evidence of ischaemia, an invasive functional assessment accounting for the epicardial and microvascular compartments led to an improvement in the diagnostic performance of exercise tests, driven by a significant FDR reduction.
+
+Citation: Vandeloo B, et al. Diagnostic performance of exercise stress tests for detection of epicardial and microvascular coronary artery disease: the UZ Clear study. Diagnostic performance of exercise stress tests for detection of epicardial and microvascular coronary artery disease: the UZ Clear study. 2023; 18:e1090-e1098. doi: 10.4244/EIJ-D-22-00270
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36147027/

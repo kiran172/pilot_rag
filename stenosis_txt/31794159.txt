@@ -1,0 +1,12 @@
+PMID: 31794159
+Title: Outcomes of transfemoral balloon expandable transcatheter aortic valve implantation: Comparison of two subsequent valve generations.
+
+Abstract: BACKGROUND: The SAPIEN 3 (S3) addresses several limitations of the SAPIEN XT (SXT) for the performance of transfemoral (TF-) balloon expandable transcatheter aortic valve implantation (TAVI).
+OBJECTIVES: We aimed to determine whether their altered features translate into improved outcomes in a real-world TF-TAVI patient population.
+METHODS: Data for 3,314 patients were extracted from the European registries SOURCE-XT and SOURCE-3. Patients were propensity-score (PS) matched (n = 1,169/group).
+RESULTS: In the PS matched comparison, device success was higher in the S3 (99.2%) compared to the SXT group (98.2%; p = .04). S3 patients experienced a lower rate of procedural death (0.7 vs. 2.6%; p = .0004), moderate/severe paravalvular leakage (PVL; 1.4 vs. 5.5%; p < .0001), and procedure-related stroke (1.2 vs. 2.4%; p = .04) while higher rates of mean aortic valve gradients ≥20 mmHg, and new permanent pacemaker implantations were seen. At 30 days a lower rate of all-cause mortality was seen (2.1% vs. 4.3%; p = .003), which was preserved after 1 year (10.7% vs. 14.9%; p = .002). A Cox regression predicting 1-year mortality resulted in a hazard ratio of 0.684 in favor of S3 (p = .0026). The same was true of stroke (2.8% vs. 5.7%; p = .0007), and moderate/severe PVL (2.7 vs. 7.3%; p = .0002) at 1 year. The rate of new pacemaker implantations (13.6% vs. 9.5%; p = .001) and NYHA III/IV (12.8 vs. 8.6%; p = .004) was higher with the S3.
+CONCLUSIONS: The improved features of the S3 appear to translate into improved survival and reduced rates of adverse complications, with the exception of a higher rate of new pacemaker implantations.
+
+Citation: Schymik G, et al. Outcomes of transfemoral balloon expandable transcatheter aortic valve implantation: Comparison of two subsequent valve generations. Outcomes of transfemoral balloon expandable transcatheter aortic valve implantation: Comparison of two subsequent valve generations. 2020; 96:930-939. doi: 10.1002/ccd.28621
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31794159/

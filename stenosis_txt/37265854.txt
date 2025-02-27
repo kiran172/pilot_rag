@@ -1,0 +1,11 @@
+PMID: 37265854
+Title: Low-Density Lipoprotein Cholesterol Levels Are Associated With Subsequent Stented-Territory Ischemic Stroke After Carotid Artery Stenting: A Single Center Retrospective Study.
+
+Abstract: OBJECTIVE: The role of low-density lipoprotein cholesterol (LDL-C) after carotid artery stenting (CAS) is not well known with respect to stented-territory infarction (STI) and in-stent restenosis (ISR). We hypothesized that LDL-C levels after CAS might be independently associated with STI and ISR.
+METHODS: We conducted a retrospective study for patients with significant extracranial carotid stenosis who were subjected to CAS between September 2013 and May 2021. LDL-C levels were measured after 6 and 12 months following CAS. The association between STI and ISR, and LDL-C was explored using Cox proportional-hazard model.
+RESULTS: Of 244 patients enrolled, STI and ISR were observed in 11 (4.5%) and 10 (4.1%) patients, respectively. In multivariable analysis, higher white blood cell count (hazard ratio [HR], 1.408 per 103/mm3; 95% confidence interval [CI], 1.085-1.828; p=0.010), higher LDL-C levels after 12 months (HR, 1.037 per 1 mg/dL; 95% CI, 1.011-1.063; p=0.005), and ISR (HR, 13.526; 95% CI, 3.405-53.725; p&lt;0.001) were independent predictors of STI. Diabetes (HR, 4.746; 95% CI, 1.026-21.948; p=0.046), smaller stent diameter (HR, 0.725 per 1 mm; 95% CI, 0.537-0.980; p=0.036), and higher LDL-C levels after 12 months (HR, 1.031 per 1 mg/dL; 95% CI, 1.007-1.055; p=0.011) were independent predictors of ISR.
+CONCLUSION: We showed that LDL-C levels after 12 months independently predict STI and ISR after CAS. It is necessary to investigate the optimal target LDL-C level for STI prevention through well designed research in the future.
+
+Citation: Kim SM, et al. Low-Density Lipoprotein Cholesterol Levels Are Associated With Subsequent Stented-Territory Ischemic Stroke After Carotid Artery Stenting: A Single Center Retrospective Study. Low-Density Lipoprotein Cholesterol Levels Are Associated With Subsequent Stented-Territory Ischemic Stroke After Carotid Artery Stenting: A Single Center Retrospective Study. 2023; 12:175-188. doi: 10.12997/jla.2023.12.2.175
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37265854/

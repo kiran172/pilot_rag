@@ -1,0 +1,11 @@
+PMID: 35800353
+Title: Diagnostic performance of quantitative flow ratio, non-hyperaemic pressure indices and fractional flow reserve for the assessment of coronary lesions in severe aortic stenosis.
+
+Abstract: BACKGROUND: Quantitative flow ratio (QFR) may be used to assess the functional significance of coronary lesions. Only limited validation exists for this technology in the setting of severe aortic stenosis.
+METHODS: A prospective study was performed on patients who were being considered for transcatheter aortic valve implantation. QFR analysis was performed (Medis Medical Imaging System, Leiden, The Netherlands) and compared to invasive measurements of haemodynamic assessment [fractional flow reserve (FFR), instantaneous wave-free ratio (iFR), diastolic pressure ratio during the wave-free period (dPR) and distal arterial pressure/arterial pressure (Pd/Pa)].
+RESULTS: A total of 35 patients were included in the study. Mean age was 75.5±6.5 and mean aortic valve gradient was 44.3±11.8 mmHg. There were 57 vessels analysed. The mean FFR was 0.83±0.10 and 22 vessels (39%) had a functionally significant FFR ≤0.80. QFR demonstrated a discriminatory power to predict functionally significant FFR [area under the receiver operating characteristic curve (AUC), 0.92; 95% confidence interval (CI): 0.84 to 1.00], representing a sensitivity of 73%, specificity of 91%, positive predictive value of 84%, negative predictive value of 84% and an accuracy of 84%. QFR also demonstrated a discriminatory power to predict functionally significant iFR ≤0.89 (AUC =0.92; 95% CI: 0.85 to 0.99), dPR ≤0.89 (AUC =0.90; 95% CI: 0.83 to 0.98) and Pd/Pa ≤0.92 (AUC =0.89; 95% CI: 0.80 to 0.97).
+CONCLUSIONS: QFR demonstrates acceptable diagnostic performance in patients with severe aortic stenosis when both FFR and non-hyperaemic pressure indices are used as reference standards.
+
+Citation: Dowling C, et al. Diagnostic performance of quantitative flow ratio, non-hyperaemic pressure indices and fractional flow reserve for the assessment of coronary lesions in severe aortic stenosis. Diagnostic performance of quantitative flow ratio, non-hyperaemic pressure indices and fractional flow reserve for the assessment of coronary lesions in severe aortic stenosis. 2022; 12:314-324. doi: 10.21037/cdt-21-574
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35800353/

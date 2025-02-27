@@ -1,0 +1,11 @@
+PMID: 31284864
+Title: Inhibition of miR-223 Expression Using a Sponge Strategy Decreases Restenosis in Rat Injured Carotids.
+
+Abstract: OBJECTIVE: Restenosis is a frequent complication of angioplasty. It consists of a neointimal hyperplasia resulting from progression and migration of vascular smooth muscle cells (VSMC) into the vessel lumen. microRNA miR-223 has recently been shown to be involved in cardiovascular diseases including atherosclerosis, vascular calcification and arterial thrombosis. In this study, our aim was to assess the impact of miR-223 modulation on restenosis in a rat model of carotid artery after balloon injury.
+METHODS: The over and down-expression of miR-223 was induced by adenoviral vectors, containing either a pre-miR-223 sequence allowing artificial miR-223 expression or a sponge sequence, trapping the native microRNA, respectively. Restenosis was quantified on stained rat carotid sections.
+RESULTS: In vitro, three mRNA (Myocyte Enhancer Factor 2C (MEF2C), Ras homolog gene family, member B (RhoB) and Nuclear factor 1 A-type (NFIA)) reported as miR-223 direct targets and known to be implicated in VSMC differentiation and contractility were studied by RT-qPCR. Our findings showed that down-expression of miR-223 significantly reduced neointimal hyperplasia by 44% in carotids, and was associated with a 2-3-fold overexpression of MEF2C, RhoB and NFIA in a murine monocyte macrophage cell line, RAW 264.7 cells.
+CONCLUSION: Down-regulating miR-223 could be a potential therapeutic approach to prevent restenosis after angioplasty.
+
+Citation: M'baya-Moutoula E, et al. Inhibition of miR-223 Expression Using a Sponge Strategy Decreases Restenosis in Rat Injured Carotids. Inhibition of miR-223 Expression Using a Sponge Strategy Decreases Restenosis in Rat Injured Carotids. 2020; 18:507-516. doi: 10.2174/1570161117666190705141152
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31284864/

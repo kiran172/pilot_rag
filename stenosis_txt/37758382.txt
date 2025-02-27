@@ -1,0 +1,12 @@
+PMID: 37758382
+Title: Cardiac Death After Transcatheter Aortic Valve Replacement With Contemporary Devices.
+
+Abstract: BACKGROUND: The burden of cardiac death after transcatheter aortic valve replacement (TAVR), particularly from advanced heart failure (HF) and sudden cardiac death (SCD), remains largely unknown.
+OBJECTIVES: This study sought to evaluate the incidence and predictors of SCD and HF-related death in TAVR recipients treated with newer-generation devices.
+METHODS: This study included a total of 5,421 consecutive patients who underwent TAVR with newer-generation devices using balloon (75.7%) or self-expandable (24.3%) valves.
+RESULTS: After a median follow-up of 2 (IQR: 1-3) years, 976 (18.0%) patients had died, 50.8% from cardiovascular causes. Advanced HF and SCD accounted for 11.6% and 7.5% of deaths, respectively. Independent predictors of HF-related death were atrial fibrillation (HR: 2.17; 95% CI: 1.47-3.22; P < 0.001), prior pacemaker (HR: 1.79; 95% CI: 1.10-2.92; P = 0.01), reduced left ventricular ejection fraction (HR: 1.08 per 5% decrease; 95% CI: 1.01-1.14; P = 0.02), transthoracic approach (HR: 2.50; 95% CI: 1.37-4.55; P = 0.003), and new-onset persistent left bundle branch block (HR: 1.85; 95% CI: 1.14-3.02; P = 0.01). Two baseline characteristics (diabetes, HR: 1.81; 95% CI: 1.13-2.89; P = 0.01; and chronic kidney disease, HR: 1.72; 95% CI: 1.02-2.90; P = 0.04) and 3 procedural findings (valve in valve, HR: 2.17; 95% CI: 1.01-4.64; P = 0.04; transarterial nontransfemoral approach, HR: 2.23; 95% CI: 1.23-4.48; P = 0.01; and periprocedural ventricular arrhythmia, HR: 7.19; 95% CI: 2.61-19.76; P < 0.001) were associated with an increased risk of SCD after TAVR.
+CONCLUSIONS: Advanced HF and SCD accounted for a fifth of deaths after TAVR in contemporary practice. Potentially treatable factors leading to increased risk of HF deaths and SCD were identified, such as arrhythmia/dyssynchrony factors for HF and valve-in-valve TAVR or periprocedural ventricular arrhythmias for SCD.
+
+Citation: Mesnier J, et al. Cardiac Death After Transcatheter Aortic Valve Replacement With Contemporary Devices. Cardiac Death After Transcatheter Aortic Valve Replacement With Contemporary Devices. 2023; 16:2277-2290. doi: 10.1016/j.jcin.2023.07.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37758382/

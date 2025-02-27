@@ -1,0 +1,11 @@
+PMID: 38654415
+Title: Cost-effectiveness analysis of transcatheter aortic valve implantation in aortic stenosis patients at low- and intermediate-surgical risk in Japan.
+
+Abstract: OBJECTIVE: To analyze the cost-effectiveness of transcatheter aortic valve implantation (TAVI) using the SAPIEN 3 (Edwards Lifesciences, Irvine, CA) compared to surgical aortic valve replacement (SAVR) in low- and intermediate-risk patients from a Japanese public healthcare payer perspective.
+METHODS: A Markov model cost-effectiveness analysis was developed. Clinical and utility data were extracted from a systematic literature review. Cost inputs were obtained from analysis of the Medical Data Vision claims database and supplemented with a targeted literature search. The robustness of the results was assessed using sensitivity analyses. Scenario analyses were performed to determine the impact of lower mean age (77.5 years) and the effect of two different long-term mortality hazard ratios (TAVI versus SAVR: 0.9-1.09) on both risk-level populations. This analysis was conducted according to the guidelines for cost-effectiveness evaluation in Japan from Core 2 Health.
+RESULTS: In intermediate-risk patients, TAVI was a dominant procedure (TAVI had lower cost and higher effectiveness). In low-risk patients, the incremental cost effectiveness ratio (ICER) for TAVI was ¥750,417/quality-adjusted-life-years (QALY), which was below the cost-effectiveness threshold of ¥5 million/QALY. The ICER for TAVI was robust to all tested sensitivity and scenario analyses.
+CONCLUSIONS: TAVI was dominant and cost-effective compared to SAVR in intermediate- and low-risk patients, respectively. These results suggest that TAVI can provide meaningful value to Japanese patients relative to SAVR, at a reasonable incremental cost for patients at low surgical risk and potentially resulting in cost-savings in patients at intermediate surgical risk.
+
+Citation: Kobayashi J, et al. Cost-effectiveness analysis of transcatheter aortic valve implantation in aortic stenosis patients at low- and intermediate-surgical risk in Japan. Cost-effectiveness analysis of transcatheter aortic valve implantation in aortic stenosis patients at low- and intermediate-surgical risk in Japan. 2024; 27:697-707. doi: 10.1080/13696998.2024.2346397
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38654415/

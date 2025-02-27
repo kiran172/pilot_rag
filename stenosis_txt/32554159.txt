@@ -1,0 +1,12 @@
+PMID: 32554159
+Title: The effect of P wave indices on new onset atrial fibrillation after trans-catheter aortic valve replacement.
+
+Abstract: OBJECTIVES: Data is scarce regarding the relation between P wave indices and new onset atrial fibrillation (NOAF) after trans-catheter aortic valve replacement (TAVR).
+AIMS: The present study aimed to find out certain characteristics of P wave that may predict NOAF after TAVR procedure.
+METHOD: Patients with severe calcific aortic stenosis who had undergone TAVR procedure between 2013 and 2019 in two centers were investigated. P wave abnormalities that have been resumed to reflect impaired atrial conduction; partial and advanced inter atrial block (IAB), P-wave terminal force in lead V1, P wave dispersion, reduced amplitude of P- wave in lead I, P wave peak time in D2 and V1 were evaluated on pre- procedural 12 derivation surface electrocardiography (ECG). The relationship between these parameters and incidence of NOAF during index hospitalization was evaluated.
+RESULTS: A total of 227 consecutive patients (median age 79 [74-83]; 134 [59%] female) were included in the study. NOAF occurred in 46 (20.3%) patients. P wave duration, P wave dispersion, number of patients with partial and advanced IAB, left atrium diameter, STS score were higher in NOAF patients. Use of general anesthesia and history of prior open heart surgery were also more frequent in NOAF group. In multivariable logistic regression analysis; advanced IAB (OR 6.413 [2.555-16.095] p < 0.01), P wave dispersion (OR 3.544 [1.431-8.780] p = 0.006) and use of general anesthesia (OR 2.736 [1.225-6.109] p = 0.014) were independent predictors of NOAF.
+CONCLUSION: Among P wave abnormalities evaluated on pre-procedural 12-derivation surface ECG, advanced IAB and P wave dispersion may predict NOAF after TAVR procedure.
+
+Citation: Gulsen K, et al. The effect of P wave indices on new onset atrial fibrillation after trans-catheter aortic valve replacement. The effect of P wave indices on new onset atrial fibrillation after trans-catheter aortic valve replacement. 2020; 61:71-76. doi: 10.1016/j.jelectrocard.2020.06.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32554159/

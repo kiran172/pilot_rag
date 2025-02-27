@@ -1,0 +1,12 @@
+PMID: 31145542
+Title: Elevated ventricular filling pressures and long-term survival in adults post-Fontan.
+
+Abstract: OBJECTIVE: To assess the association between elevated ventricular-end diastolic pressures (VEDP) and pulmonary artery wedge pressure (PAWP) on long-term survival in adult Fontan patients.
+BACKGROUND: The impact of ventricular filling pressures on long-term survival in adults post-Fontan palliation is unknown.
+METHODS: We included 148 adult Fontan patients (age ≥ 18 years) without atrioventricular valve prosthesis or pulmonary vein stenosis undergoing arterial and venous catheterization between December 1999 and November 2017. VEDP was defined as ≥12 mmHg and PAWP as >12 mmHg based on optimal cut-offs for prediction of mortality on receiver-operator curves (AUC 0.63 and 0.66, respectively).
+RESULTS: Mean age was 31.3 ± 9.2 years and 48.6% of patients were females. Most common congenital defects were tricuspid atresia (36.4%) and double-inlet left ventricle (28.3%); 59.5% patients had atriopulmonary Fontan connections. Mean VEDP was 11.5 ± 4.7 mmHg and PAWP 10.6 ± 4.5 mmHg (correlation coefficient .76). During a follow-up of 6.0 ± 4.8 years (median 5.4, IQR 1.4-9.4), there were 45 deaths (30.4%). Overall survival was lower in patients with VEDP ≥ 12 compared to those with VEDP < 12 mmHg (p = .02). Similarly, survival was lower in patients with PAWP>12 compared to patients with PAWP ≤ 12 mmHg (p < .0001). In the multivariate model, PAWP was an independent predictor of death (HR 1.1 per mmHg, 95% CI 1.02-1.15, p = .009) whereas VEDP was not (HR 1.1 per mmHg, 95% CI 1.0-1.13; p = .08).
+CONCLUSION: PAWP but not VEDP was independently associated with long-term overall mortality in adult Fontan patients. Perhaps PAWP rather than VEDP should be used in the risk stratification of these patients.
+
+Citation: Miranda WR, et al. Elevated ventricular filling pressures and long-term survival in adults post-Fontan. Elevated ventricular filling pressures and long-term survival in adults post-Fontan. 2020; 95:803-809. doi: 10.1002/ccd.28340
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31145542/

@@ -1,0 +1,12 @@
+PMID: 36797085
+Title: Association between socioeconomic position and coronary artery calcium score in patients with symptoms suggestive of obstructive coronary artery disease.
+
+Abstract: AIM: Low socioeconomic-position (SEP) is associated with increased prevalence of cardiovascular disease. Whether this is caused by earlier development of atherosclerotic calcifications is not well understood. This study aimed to investigate the association between SEP and coronary artery calcium score (CACS) in a population presenting with symptoms suggestive of obstructive coronary artery disease.
+METHODS: We included 50,561 patients (mean age 57 ​± ​11, 53% women) from a national registry undergoing coronary computed tomography angiography (CTA) from 2008 to 2019. CACS was used as outcome in categories; 1-399 and ​≥ ​400 in regression analyses. SEP was obtained from central registries and defined as mean personal income and length of education.
+RESULTS: The number of risk factors were negatively associated with income and education among both men and women. The adjusted OR of having a CACS≥400 was 1.67(1.50-1.86) among women with <10 years of education compared to >13 years. For men the corresponding OR was 1.03(0.91-1.16). For women with low income the adjusted OR of CACS ≥400 was 2.29(1.96-2.69) using high income as a reference. For men the corresponding OR was 1.13(0.99-1.29).
+CONCLUSION: In patients referred for coronary CTA we found an increased level of risk factors among men and women with short education and low income. Among women with longer education and a higher income we demonstrated a lower CACS compared to other women and men. Socioeconomic differences seem to affect the development of CACS beyond what can be explained by traditional risk factors. Part of the observed result may be due to referral bias.
+GOV IDENTIFIER: None.
+
+Citation: Nissen L, et al. Association between socioeconomic position and coronary artery calcium score in patients with symptoms suggestive of obstructive coronary artery disease. Association between socioeconomic position and coronary artery calcium score in patients with symptoms suggestive of obstructive coronary artery disease. 2023; 17:138-143. doi: 10.1016/j.jcct.2023.02.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36797085/

@@ -1,0 +1,11 @@
+PMID: 35680055
+Title: Impact of post physiological assessment after treatment for de novo coronary lesions using drug-coated balloons.
+
+Abstract: BACKGROUND: Acute physiological changes after balloon angioplasty are very important because of acute recoil and dissection. However, serial physiological assessments after drug-coated balloons (DCB) have not been investigated.
+METHODS: This prospective observational single-center study evaluated 50 lesions that underwent optical coherence tomography (OCT)-guided percutaneous coronary intervention (PCI) with DCB and a 9-months angiographical and OCT follow-up. Fractional flow reserve (FFR) and instantaneous wave-free ratio (iFR) were measured immediately (FFR0m and, iFR0m) and 15 min (FFR15m and iFR15m) after DCB, and the difference (dif-FFR and, dif-iFR) was calculated. The iFR gradients during lesions treated with DCB were measured. For OCT and quantitative coronary angiography (QCA) data, delta values were calculated.
+RESULTS: At index PCI, three lesions were needed for bailout stenting. At follow-up, 47 lesions were divided into two groups according to the delta minimal lumen area (MLA) on OCT: late lumen enlargement (LLE) (n = 29) and non-LLE (n = 18). In LLE group, FFR15m and iFR15m were significantly high (0.90 ± 0.03 vs. 0.85 ± 0.07, p < 0.001, 0.97 ± 0.02 vs. 0.92 ± 0.10, p = 0.008, respectively) and %AS on OCT, dif-FFR and dif-iFR were significantly low (38.5% (33.6, 42.3) vs. 45.1% (38.9, 54.6), p = 0.03, -0.001 ± 0.006 vs. 0.036 ± 0.032, p < 0.001, -0.002 ± 0.008 vs. 0.019 ± 0.017, p < 0.001, respectively) compared with non-LLE group. However, there were no significant differences in FFR0m, iFR0m, or any other OCT or QCA data.
+CONCLUSIONS: Post-physiological assessment and a decrease in physiological indices in the first 15 min after PCI are important for treating de novo lesions using the DCB strategy.
+
+Citation: Yamamoto T, et al. Impact of post physiological assessment after treatment for de novo coronary lesions using drug-coated balloons. Impact of post physiological assessment after treatment for de novo coronary lesions using drug-coated balloons. 2022; 363:11-19. doi: 10.1016/j.ijcard.2022.06.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35680055/

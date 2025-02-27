@@ -1,0 +1,11 @@
+PMID: 31755678
+Title: Meta-analysis of impact of troponins on mortality after transcatheter aortic valve implantation.
+
+Abstract: INTRODUCTION: To determine whether troponin (Tn) can predict mortality after transcatheter aortic valve implantation (TAVI), we performed a meta-analysis of currently available studies investigating impact of baseline and postprocedural Tn.
+EVIDENCE ACQUISITION: MEDLINE and EMBASE were searched through April 2019 using PubMed and OVID. Studies considered for inclusion met the following criteria: the study investigating impact of baseline and postprocedural Tn on mortality; the study population was patients undergoing TAVI for aortic stenosis (AS); outcomes included early (30-day or in-hospital)/late (including early) mortality. For each study, data regarding early/late mortality in both high and low (defined in each study) level of baseline/postprocedural Tn groups were used to generate odds ratios (ORs) and 95% confidence intervals (CIs), or reported ORs and hazard ratios (HRs) with 95% CIs were directly extracted. Study-specific estimates were combined using inverse variance-weighted averages of logarithmic ORs/HRs in the random-effects model.
+EVIDENCE SYNTHESIS: We identified 19 eligible studies including a total of 7555 patients undergoing TAVI. Pooled analyses demonstrated associations of high levels of baseline Tn with statistically significant increases in both 30-day (P=0.002) and midterm mortality (P<0.00001), no correlation of high postprocedural Tn with 30-day mortality (P=0.13), and an association of high postprocedural Tn with a statistically significant increase in midterm mortality (P=0.002). High levels of baseline/postprocedural TnT predicted statistically significant increases in both 30-day (P=0.002/<0.0001) and midterm mortality (P<0.00001/0.0003).
+CONCLUSIONS: Both baseline and postprocedural Tn, especially TnT, may predict mortality after TAVI for AS.
+
+Citation: Takagi H, et al. Meta-analysis of impact of troponins on mortality after transcatheter aortic valve implantation. Meta-analysis of impact of troponins on mortality after transcatheter aortic valve implantation. 2020; 61:98-106. doi: 10.23736/S0021-9509.19.11023-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31755678/

@@ -1,0 +1,11 @@
+PMID: 38171315
+Title: Limaprost and the Risk of Bleeding: A Self-Controlled Case Series Study.
+
+Abstract: OBJECTIVE: To investigate the association between the use of limaprost and the risk of bleeding.
+METHODS: A self-controlled case series analysis was conducted using the National Health Insurance Service-National Sample Cohort database in South Korea. We identified patients aged 18 years or older who had at least one prescription of limaprost and were diagnosed with at least one case of bleeding between 2003 and 2019. The incidence rate ratio (IRR) of bleeding was calculated by dividing the incidence rate in the exposed period to limaprost by that in the unexposed period and adjusted for age using conditional Poisson regression model.
+RESULTS: Among 72,860 patients with limaprost prescriptions and bleeding diagnoses, there were 184,732 events of bleeding. After adjusting for age, the IRR was 1.47 (95% confidence interval [CI], 1.43-1.50), wherein the IRR was the highest during the 0-7 days after limaprost initiation (IRR, 2.11; 95% CI, 2.03-2.18). Risk of bleeding was higher when limaprost was concomitantly used with antithrombotics or other drugs for spinal stenosis treatment, and when higher daily doses of limaprost were administered.
+CONCLUSION: Our findings suggest that the risk of bleeding increased by 1.5-fold in periods of limaprost exposure compared to unexposed periods, with particularly higher risks observed during the first week after limaprost initiation, with concomitant drugs related to bleeding, and with a higher daily dose. A careful risk-benefit assessment is warranted when initiating limaprost, especially when administered with other medications or in higher daily doses.
+
+Citation: Lee EJ, et al. Limaprost and the Risk of Bleeding: A Self-Controlled Case Series Study. Limaprost and the Risk of Bleeding: A Self-Controlled Case Series Study. 2023; 20:1490-1500. doi: 10.14245/ns.2346640.320
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38171315/

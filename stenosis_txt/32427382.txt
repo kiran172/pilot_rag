@@ -1,0 +1,11 @@
+PMID: 32427382
+Title: Impact of anatomical variations of the left ventricular outflow tract on stroke volume calculation by Doppler echocardiography in aortic stenosis.
+
+Abstract: BACKGROUND: Accurate calculation of stroke volume (SV) by Doppler echocardiography is important for the assessment of aortic stenosis (AS), which may be impacted by anatomical variations of left ventricular outflow tract (LVOT).
+METHODS: Patients with AS (n = 64) were studied using computed tomography (CT) and transthoracic echocardiography (TTE). Anatomical variations of LVOT areas were measured at (a) the aortic annulus (A<sub>a</sub> ); (b) 5 mm (A<sub>5</sub> ); and (c) 10 mm below the annulus (A<sub>10</sub> ) by CT. LVOT diameters were also measured by 2D TTE at these three levels for calculation of LVOT areas. Stroke volumes (SV) were calculated using continuity equation. The impacts of anatomical variations of LVOT on SV calculation were evaluated.
+RESULTS: Anatomical LVOT area increased from A<sub>a</sub> to A<sub>10</sub> (5.0 ± 0.9 cm2 vs 5.8 ± 1.9 cm2 , P &lt; .01). Differences between TTE-calculated LVOT areas and anatomical areas were most significant at A<sub>10</sub> due to elongation of mediolateral diameters with variable changes in anteroposterior diameters (5.8 ± 1.9 cm2 vs 3.4 ± 1.1 cm2 , P &lt; .001). Although mean calculated SV by TTE was not significant at different LVOT levels (A<sub>a</sub> 69 ± 22 mL, vs A<sub>5</sub> 66 ± 21 mL, vs A<sub>10</sub> 66 ± 28 ± 22 mL, P &gt; .05), the most significant variations in individuals were at A<sub>10</sub> levels (ΔSV: 8.2 ± 6.4 mL, 12 ± 9%).
+CONCLUSION: Variations of LVOT anatomy in individuals with AS significantly impact the SV calculated by Doppler echocardiography. These features should be taken into account for AS diagnosis and a clinical decision-making for intervention.
+
+Citation: Pu M, et al. Impact of anatomical variations of the left ventricular outflow tract on stroke volume calculation by Doppler echocardiography in aortic stenosis. Impact of anatomical variations of the left ventricular outflow tract on stroke volume calculation by Doppler echocardiography in aortic stenosis. 2020; 37:815-821. doi: 10.1111/echo.14681
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32427382/

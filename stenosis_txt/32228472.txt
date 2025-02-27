@@ -1,0 +1,11 @@
+PMID: 32228472
+Title: Diagnosis of vascular invasion in pancreatic ductal adenocarcinoma using endoscopic ultrasound elastography.
+
+Abstract: BACKGROUND: Vascular invasion is an important criterion for resectability and deciding the therapeutic strategy for pancreatic ductal adenocarcinoma (PDAC), but imaging diagnosis is currently difficult. Endoscopic ultrasound (EUS) elastography (EG) images have band-like artifacts on the border between tumor and vessel due to different movement if the tumor is not connected to the vessel, i.e., no invasion. Based on this phenomenon, we assessed the usefulness of EUS-EG in the diagnosis of vascular invasion in PDAC.
+METHODS: The subjects were 44 out of 313 patients with PDAC who underwent EUS between January 2015 and November 2018, followed by surgery, no chemotherapy or radiotherapy, and pathological evaluation. Diagnostic accuracies of vascular invasion using dynamic computed tomography (CT), EUS B-mode and EUS-EG were compared with histopathological diagnosis.
+RESULTS: In 44 subjects (48 sites) who underwent both dynamic CT and EUS-B mode, the sensitivity, specificity and accuracy were 0.733, 0.697 and 0.708 on dynamic CT (48 sites); 0.733, 0.606 and 0.646 in EUS B-mode (48 sites); and 0.917, 0.900 and 0.906 in EUS-EG (32 sites). In 27 subjects (29 sites) with a tumor contacting a vessel with no vascular obstruction or stenosis on dynamic CT, the sensitivity, specificity and accuracy were 0.556, 0.750 and 0.690 on dynamic CT; 0.667, 0.700 and 0.690 in EUS B-mode; and 0.889, 0.850 and 0.862 in EUS-EG.
+CONCLUSIONS: These results suggest that EUS combined with EG improves diagnostic performance of vascular invasion in PDAC, especially in cases of which vascular invasion cannot be clearly assessed by dynamic CT.
+
+Citation: Yamada K, et al. Diagnosis of vascular invasion in pancreatic ductal adenocarcinoma using endoscopic ultrasound elastography. Diagnosis of vascular invasion in pancreatic ductal adenocarcinoma using endoscopic ultrasound elastography. 2020; 20:81. doi: 10.1186/s12876-020-01228-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32228472/

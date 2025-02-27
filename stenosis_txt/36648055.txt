@@ -1,0 +1,12 @@
+PMID: 36648055
+Title: Impact of Prosthesis-Patient Mismatch After Transcatheter Aortic Valve Replacement: Meta-Analysis of Kaplan-Meier-Derived Individual Patient Data.
+
+Abstract: BACKGROUND: It remains controversial whether prosthesis-patient mismatch (PPM) (in general considered moderate if indexed effective orifice area is 0.65-0.85 cm2/m2 and severe when &lt;0.65 cm2/m2) affects the outcomes after transcatheter aortic valve replacement (TAVR).
+OBJECTIVES: The purpose of this study is to evaluate the time-varying effects and association of PPM with the risk of overall mortality.
+METHODS: Study-level meta-analysis of reconstructed time-to-event data from Kaplan-Meier curves of studies published by December 30, 2021.
+RESULTS: In total, 23 studies met our eligibility criteria and included a total of 81,969 patients included in the Kaplan-Meier curves (19,612 with PPM and 62,357 without PPM). Patients with moderate/severe PPM had a significantly higher risk of mortality compared with those without PPM (HR: 1.09 [95% CI: 1.04-1.14]; P < 0.001). In the first 30 months after the procedure, mortality rates were significantly higher in the moderate/severe PPM group (HR: 1.1 [95% CI: 1.05-1.16]; P < 0.001). In contrast, the landmark analysis beyond 30 months yielded a reversal of the HR (0.83 [95% CI: 0.68-1.01]; P = 0.064), but without statistical significance. In the sensitivity analysis, although the authors observed that severe PPM showed higher risk of mortality in comparison with no PPM (HR: 1.25 [95% CI: 1.16-1.36]; P < 0.001), they did not observe a statistically significant difference for mortality between moderate PPM and no PPM (HR: 1.03 [95% CI: 0.96-1.10]; P = 0.398).
+CONCLUSIONS: Severe PPM, but not moderate PPM, was associated with higher risk of mortality following TAVR. These results provide support to implementation of preventive strategies to avoid severe PPM following TAVR.
+
+Citation: Sá MP, et al. Impact of Prosthesis-Patient Mismatch After Transcatheter Aortic Valve Replacement: Meta-Analysis of Kaplan-Meier-Derived Individual Patient Data. Impact of Prosthesis-Patient Mismatch After Transcatheter Aortic Valve Replacement: Meta-Analysis of Kaplan-Meier-Derived Individual Patient Data. 2023; 16:298-310. doi: 10.1016/j.jcmg.2022.07.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36648055/

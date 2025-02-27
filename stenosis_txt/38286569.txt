@@ -1,0 +1,11 @@
+PMID: 38286569
+Title: Effect of ischaemic postconditioning on markers of myocardial injury in ST-elevation myocardial infarction: a meta-analysis.
+
+Abstract: OBJECTIVES: This study aimed to perform a meta-analysis of the short-term impact of ischaemic postconditioning (IPoC) on myocardial injury in ST elevation myocardial infarction (STEMI) using surrogate cardiac biomarkers.
+METHODS: Eligible studies were identified using several article databases. Randomised controlled trials published between 1 January 2000 and 1 December 2021 comparing IPoC to standard of therapy in STEMI patients were included in the search. Outcomes included surrogates of myocardial injury, specifically peak troponin, creatine-kinase (CK) and CK myoglobin binding (CK-MB) enzyme levels.
+RESULTS: 11 articles involving 1273 patients reported on CK-MB and 8 studies involving 505 patients reported on CK. Few studies used troponin as an outcome, thus, a subanalysis of troponin dynamics was not performed. Meta-regression analysis demonstrated no significant effect of IPoC on peak CK-MB (effect size -0.41, 95% CI -1.15 to 0.34) or peak CK (effect size -0.42, 95% CI -1.20 to 0.36). Linear regression analysis demonstrated a significant correlation between a history of smoking and CK-MB in the IPoC group (p=0.038).
+CONCLUSIONS: IPoC does not seem to protect against myocardial injury in STEMI, except possibly in smokers. These results resonate with some studies using imaging techniques to ascertain myocardial damage. More research using troponin and cardiac imaging should be pursued to better assess the effects of IPoC on cardiovascular outcomes in STEMI.
+
+Citation: Bergman I, et al. Effect of ischaemic postconditioning on markers of myocardial injury in ST-elevation myocardial infarction: a meta-analysis. Effect of ischaemic postconditioning on markers of myocardial injury in ST-elevation myocardial infarction: a meta-analysis. 2024; 11:(unknown pages). doi: 10.1136/openhrt-2023-002281
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38286569/

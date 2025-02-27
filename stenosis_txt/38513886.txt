@@ -1,0 +1,10 @@
+PMID: 38513886
+Title: Pulmonary Artery Diastolic Pressure as a Surrogate for Pulmonary Capillary Wedge Pressure in Cardiogenic Shock.
+
+Abstract: BACKGROUND: It is common for clinicians to use the pulmonary artery diastolic pressure (PADP) as a surrogate for the pulmonary capillary wedge pressure (PCWP). Here, we determine the validity of this relationship in patients with various phenotypes of cardiogenic shock (CS).
+METHODS AND RESULTS: In this analysis of the Critical Care Cardiology Trials Network registry, we identified 1225 people admitted with CS who received pulmonary artery catheters. Linear regression, Bland-Altman and receiver operator characteristic analyses were performed to determine the strength of the association between PADP and PCWP in patients with left-, right-, biventricular, and other non-myocardia phenotypes of CS (eg, arrhythmia, valvular stenosis, tamponade). There was a moderately strong correlation between PADP and PCWP in the total population (r = 0.64, n = 1225) and in each CS phenotype, except for right ventricular CS, for which the correlation was weak (r = 0.43, n = 71). Additionally, we found that a PADP ≥ 24 mmHg can be used to infer a PCWP ≥ 18 mmHg with ≥ 90% confidence in all but the right ventricular CS phenotype.
+CONCLUSIONS: This analysis validates the practice of using PADP as a surrogate for PCWP in most patients with CS; however, it should generally be avoided in cases of right ventricular-predominant CS.
+
+Citation: Papolos AI, et al. Pulmonary Artery Diastolic Pressure as a Surrogate for Pulmonary Capillary Wedge Pressure in Cardiogenic Shock. Pulmonary Artery Diastolic Pressure as a Surrogate for Pulmonary Capillary Wedge Pressure in Cardiogenic Shock. 2024; 30:853-856. doi: 10.1016/j.cardfail.2024.02.021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38513886/

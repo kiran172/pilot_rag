@@ -1,0 +1,11 @@
+PMID: 37988322
+Title: Perioperative Outcomes in Transcarotid Artery Revascularization Versus Carotid Endarterectomy or Stenting Nationwide.
+
+Abstract: BACKGROUND AND OBJECTIVES: Transcarotid artery revascularization (TCAR) is a newer treatment for carotid stenosis where the carotid artery is accessed directly in the neck for stenting. It is less invasive than carotid endarterectomy (CEA) and has less embolic potential than carotid artery stenting (CAS), but population-level utilization of TCAR and outcomes are currently unknown. Our study compares outcomes of TCAR with those of CEA and CAS.
+METHODS: The National Inpatient Database was used for years 2015 to 2019. A multivariate logistic regression model was used to compare CEA, CAS, and TCAR outcomes with age, sex, race, hospital teaching status, symptomatic carotid disease status, side of procedure, intraoperative monitoring, and the weighted Elixhauser comorbidity score as covariates.
+RESULTS: TCAR comprised 0.69% of these procedures in 2016, rising to 1.35% in 2019. The inpatient rates of death, stroke, and myocardial infarction for TCAR were 0.63% (95% confidence interval: 0.36%, 1.06%), 0.42% (0.21%, 0.80%), and 1.46% (1.04%, 2.05%), respectively. Compared with CEA, TCAR had statistically insignificant difference odds of death, odds ratio (95% CI) for stroke was 0.47 (0.25, 0.87), and for myocardial infarction, it was 0.66 (0.37, 0.94). Compared with CAS, for TCAR, the odds ratio for death was 0.41 (0.24, 0.71), and for stroke, it was 0.48 (0.26, 0.91).
+CONCLUSION: TCAR is underutilized relative to other revascularization techniques yet has favorable outcomes compared with CEA and CAS. TCAR may be preferred to CAS in patients not surgical candidates for CEA and has a less invasive possibility for those eligible for CEA.
+
+Citation: Ramsay IA, et al. Perioperative Outcomes in Transcarotid Artery Revascularization Versus Carotid Endarterectomy or Stenting Nationwide. Perioperative Outcomes in Transcarotid Artery Revascularization Versus Carotid Endarterectomy or Stenting Nationwide. 2023; 25:453-460. doi: 10.1227/ons.0000000000000865
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37988322/

@@ -1,0 +1,11 @@
+PMID: 35962464
+Title: Comparison of axial and sagittal spinal cord motion measurements in degenerative cervical myelopathy.
+
+Abstract: BACKGROUND AND PURPOSE: The timing of decision-making for a surgical intervention in patients with mild degenerative cervical myelopathy (DCM) is challenging. Spinal cord motion phase contrast MRI (PC-MRI) measurements can reveal the extent of dynamic mechanical strain on the spinal cord to potentially identify high-risk patients. This study aims to determine the comparability of axial and sagittal PC-MRI measurements of spinal cord motion with the prospect of improving the clinical workup.
+METHODS: Sixty-four DCM patients underwent a PC-MRI scan assessing spinal cord motion. The agreement of axial and sagittal measurements was determined by means of intraclass correlation coefficients (ICCs) and Bland-Altman analyses.
+RESULTS: The comparability of axial and sagittal PC-MRI measurements was good to excellent at all cervical levels (ICCs motion amplitude: .810-.940; p &lt; .001). Significant differences between axial and sagittal amplitude values could be found at segments C3 and C4, while its magnitude was low (C3: 0.07 ± 0.19 cm/second; C4: -0.12 ± 0.30 cm/second). Bland-Altman analysis showed a good agreement between axial and sagittal PC-MRI scans (coefficients of repeatability: minimum -0.23 cm/second at C2; maximum -0.58 cm/second at C4). Subgroup analysis regarding anatomic conditions (stenotic vs. nonstenotic segments) and different velocity encoding (2 vs. 3 cm/second) showed comparable results.
+CONCLUSIONS: This study demonstrates good comparability between axial and sagittal spinal cord motion measurements in DCM patients. To this end, axial and sagittal PC-MRI are both accurate and sensitive in detecting pathologic cord motion. Therefore, such measures could identify high-risk patients and improve clinical decision-making (ie, timing of decompression).
+
+Citation: Pfender N, et al. Comparison of axial and sagittal spinal cord motion measurements in degenerative cervical myelopathy. Comparison of axial and sagittal spinal cord motion measurements in degenerative cervical myelopathy. 2022; 32:1121-1133. doi: 10.1111/jon.13035
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35962464/

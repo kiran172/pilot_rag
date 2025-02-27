@@ -1,0 +1,12 @@
+PMID: 35019840
+Title: Early outcomes of transcatheter versus surgical aortic valve implantation in patients with bicuspid aortic valve stenosis.
+
+Abstract: BACKGROUND: Limited information is available on outcomes in patients with bicuspid aortic valve (BAV) stenosis undergoing transcatheter aortic valve implantation (TAVI) compared with surgical aortic valve replacement (SAVR), as pivotal randomised trials excluded patients with BAV pathology due to anatomic complexity.
+AIMS: The aim of the study was to compare early outcomes between TAVI and SAVR in patients with BAV stenosis.
+METHODS: We queried the Nationwide Readmission Database (NRD) between 2016 and 2018 to identify adults who underwent TAVI or SAVR for BAV stenosis. The study's primary outcome was in-hospital mortality. Secondary outcomes were 30-day and six-month major adverse cardiovascular events (MACE). We matched both cohorts using propensity score matching, and applied logistic and Cox-proportional hazard regression to compute the odds ratio (OR), the hazard ratio (HR), and the 95% confidence interval (CI).
+RESULTS: Out of 17,068 patients with BAV stenosis, 1,629 (9.5%) patients underwent TAVI and 15,439 (90.5%) underwent SAVR. After propensity score matching (PSM), we found 1,393 matched pairs. Of the matched pairs, 848 had complete six-month follow-ups. In the PSM cohort, TAVI was associated with reduced in-hospital mortality (0.7% vs 1.8%, OR: 0.35, 95% CI: 0.13-0.93; p=0.035), and a similar rate of MACE at 30 days (1% vs 1.5%, OR: 0.65, 95% CI: 0.27-1.58; p=0.343) and at six months (4.2% vs 4.9%, HR 0.86, 95% CI: 0.44-1.69; p=0.674), compared with SAVR.
+CONCLUSIONS: In the propensity score-matched cohort, TAVI was associated with reduced odds of in-hospital mortality and a similar risk of 30-day and six-month MACE, supporting the feasibility of TAVI in BAV patients without a need for concurrent aortic root repair.
+
+Citation: Majmundar M, et al. Early outcomes of transcatheter versus surgical aortic valve implantation in patients with bicuspid aortic valve stenosis. Early outcomes of transcatheter versus surgical aortic valve implantation in patients with bicuspid aortic valve stenosis. 2022; 18:23-32. doi: 10.4244/EIJ-D-21-00757
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35019840/

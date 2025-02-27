@@ -1,0 +1,11 @@
+PMID: 33020228
+Title: Computed tomography aortic valve calcium scoring for the assessment of aortic stenosis progression.
+
+Abstract: OBJECTIVE: CT quantification of aortic valve calcification (CT-AVC) is useful in the assessment of aortic stenosis severity. Our objective was to assess its ability to track aortic stenosis progression compared with echocardiography.
+METHODS: Subjects were recruited in two cohorts: (1) a reproducibility cohort where patients underwent repeat CT-AVC or echocardiography within 4 weeks and (2) a disease progression cohort where patients underwent annual CT-AVC and/or echocardiography. Cohen's d-statistic (d) was computed from the ratio of annualised progression and measurement repeatability and used to estimate group sizes required to detect annualised changes in CT-AVC and echocardiography.
+RESULTS: A total of 33 (age 71±8) and 81 participants (age 72±8) were recruited to the reproducibility and progression cohorts, respectively. Ten CT scans (16%) were excluded from the progression cohort due to non-diagnostic image quality. Scan-rescan reproducibility was excellent for CT-AVC (limits of agreement -12% to 10 %, intraclass correlation (ICC) 0.99), peak velocity (-7% to +17%; ICC 0.92) mean gradient (-25% to 27%, ICC 0.96) and dimensionless index (-11% to +15%; ICC 0.98). Repeat measurements of aortic valve area (AVA) were less reliable (-44% to +28%, ICC 0.85).CT-AVC progressed by 152 (65-375) AU/year. For echocardiography, the median annual change in peak velocity was 0.1 (0.0-0.3) m/s/year, mean gradient 2 (0-4) mm Hg/year and AVA -0.1 (-0.2-0.0) cm2/year. Cohen's d-statistic was more than double for CT-AVC (d=3.12) than each echocardiographic measure (peak velocity d=0.71 ; mean gradient d=0.66; AVA d=0.59, dimensionless index d=1.41).
+CONCLUSION: CT-AVC is reproducible and demonstrates larger increases over time normalised to measurement repeatability compared with echocardiographic measures.
+
+Citation: Doris MK, et al. Computed tomography aortic valve calcium scoring for the assessment of aortic stenosis progression. Computed tomography aortic valve calcium scoring for the assessment of aortic stenosis progression. 2020; 106:1906-1913. doi: 10.1136/heartjnl-2020-317125
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33020228/

@@ -1,0 +1,11 @@
+PMID: 39343368
+Title: The role of inflammation biomarkers in carotid artery stenosis procedures.
+
+Abstract: BACKGROUND: Carotid revascularization procedures, such as carotid endarterectomy (CEA) and carotid artery stenting (CAS), can lead to restenosis. Monitoring restenosis onset through biomarkers is crucial in clinical practice. This study aimed to evaluate inflammation biomarkers in CEA and CAS to determine their predictive value for restenosis risk postprocedure.
+METHODS: A retrospective analysis was conducted on the clinical records of patients with carotid stenosis who underwent CEA or CAS over 1 year at the vascular surgery departments of an interuniversity center. Eligible asymptomatic patients with carotid stenosis (70%-99%) underwent revascularization. Differences between preprocedural and early postprocedural inflammation indices were assessed, and restenosis risk was evaluated using receiver operating curve analysis and logistic regression.
+RESULTS: The cohort comprised 100 patients, 68 undergoing CEA and 32 undergoing CAS. Significant values were observed for inflammation ratios post-CEA: neutrophils to lymphocytes ratio (NLR) (P = 0.036), platelets to lymphocytes ratio (PLR) (P = 0.009), monocytes to lymphocytes ratio (MLR) (P < 0.001), systemic inflammation index (SII) (P = 0.024), systemic immune response index (SIRI) (P = 0.003), and aggregate inflammation response index (AISI) (P < 0.001). At 12-month follow-up, 12% of patients experienced restenosis; 50% were men and 50% women. Women showed a higher restenosis rate (26.1% vs 7.8%). Preintervention NLR (odds ratio {OR} [95% confidence interval {CI}] = 13.38 [1.88 to 95.44], P = 0.010) and SIRI (OR [95% CI] = 10.22 [2.65 to 39.43], P = 0.001) remained significantly associated with restenosis after adjusting for sex and smoking.
+CONCLUSIONS: The study provided a predictive model for restenosis, identifying preintervention NLR and SIRI as independent predictors of restenosis at 12-month follow-up.
+
+Citation: Scalise E, et al. The role of inflammation biomarkers in carotid artery stenosis procedures. The role of inflammation biomarkers in carotid artery stenosis procedures. 2024; 110:34-46. doi: 10.1016/j.avsg.2024.08.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39343368/

@@ -1,0 +1,11 @@
+PMID: 33359282
+Title: Transcatheter aortic valve replacement after chest radiation: A propensity-matched analysis.
+
+Abstract: BACKGROUND: Chest radiation therapy (CRT) for malignant thoracic neoplasms is associated with development of valvular heart disease years later. As previous radiation exposure can complicate surgical treatment, transcatheter aortic valve replacement (TAVR) has emerged as an alternative. However, outcomes data are lacking for TAVR patients with a history of CRT.
+METHODS: We conducted a retrospective study of all patients who underwent a TAVR procedure at a single institution between September 2012 and November 2018. Among 1341 total patients, 50 had previous CRT. These were propensity-matched in a 1:2 ratio to 100 patients without history of CRT. Thirty-day adverse events were analyzed with generalized estimating equation models. Overall mortality was analyzed with stratified Cox regression modelling.
+RESULTS: Median clinical follow-up was 24 months (interquartile range [IQR], 12-44 months). There was no difference between CRT and non-CRT patients in overall mortality (hazard ratio [HR] 0.84 [0.37-1.90], P = 0.67), 30-day mortality (HR 3.1 [0.49-20.03], P = 0.23), or 30-day readmission rate (HR 1.0 [0.43-2.31], P = 1). There were no differences in the rates of most adverse events, but patients with CRT history had higher rates of postprocedural respiratory failure (HR 3.63 [1.32-10.02], P = 0.01) and permanent pacemaker implantation (HR 2.84 [1.15-7.01], P = 0.02).
+CONCLUSIONS: For patients with aortic valve stenosis and previous CRT, TAVR is safe and effective, with outcomes similar to those in the general aortic stenosis population. Patients with history of CRT are more likely to have postprocedural respiratory failure and to require permanent pacemaker implantation.
+
+Citation: Kherallah RY, et al. Transcatheter aortic valve replacement after chest radiation: A propensity-matched analysis. Transcatheter aortic valve replacement after chest radiation: A propensity-matched analysis. 2021; 329:50-55. doi: 10.1016/j.ijcard.2020.12.054
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33359282/

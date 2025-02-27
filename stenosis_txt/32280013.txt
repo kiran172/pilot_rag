@@ -1,0 +1,11 @@
+PMID: 32280013
+Title: Outcomes of Transcatheter Versus Surgical Aortic Valve Replacement in Low-Risk Patients.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) has revolutionised the treatment of severe aortic stenosis (AS), though its safety and efficacy in low-risk patients remains to be established.
+METHODS: A systematic review of PubMed, Medline and EMBASE identified four randomised controlled trials (RCTs) in patients at low surgical risk comparing TAVR to surgical aortic valve replacement (SAVR). A meta-analysis was performed with a primary outcome of a composite of all-cause mortality and stroke at longest available follow-up.
+RESULTS: A total of four RCTs with 2,836 patients was included in the final analysis. 1,363 patients were randomised to SAVR and 1,473 to TAVR. The composite of all-cause mortality and stroke was significantly lower in patients undergoing TAVR compared with SAVR (OR 0.59, 95%CI 0.37-0.95, p=0.03) with low heterogeneity (I2=31%). The difference in the primary composite outcome was driven by a difference in mortality (OR 0.66, 95%CI 0.44-0.98, p=0.04; I2=0%) without significant differences in stroke (OR 0.75 95%CI 0.45-1.26, p=0.28; I2=37%). Weighted absolute risk difference (ARD) of the primary composite outcome also favoured TAVR (ARD -2.0% 95%CI -3.3 to -0.7%, p=0.002) with a number needed to treat (NNT) of 50 to prevent one death or stroke. Patients undergoing TAVR had a significantly higher risk of permanent pacemaker implantation (OR 3.9, 95%CI 1.8-8.4, p&lt;0.001, I2=84%) and moderate or severe paravalvular leak (OR 5.0, 95%CI 1.6-15.7, p=0.01; I2=19%).
+CONCLUSIONS: In patients with severe AS at low surgical risk, the rate of the composite of death and stroke was significantly lower with TAVR than with SAVR. Longer term follow-up with a focus on the impact of permanent pacemaker (PPM) implantation, paravalvular leak (PVL) and structural valve deterioration is essential before the use of TAVR can be generalised to the broader population of patients with AS.
+
+Citation: Koshy AN, et al. Outcomes of Transcatheter Versus Surgical Aortic Valve Replacement in Low-Risk Patients. Outcomes of Transcatheter Versus Surgical Aortic Valve Replacement in Low-Risk Patients. 2020; 29:1527-1533. doi: 10.1016/j.hlc.2020.03.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32280013/

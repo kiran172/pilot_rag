@@ -1,0 +1,11 @@
+PMID: 35332049
+Title: Novel predictive role for mid-regional proadrenomedullin in moderate to severe aortic stenosis.
+
+Abstract: OBJECTIVE: We investigated the prognostic significance of selected known and novel circulating biomarkers in aortic stenosis (AS).
+METHODS: N-terminal pro-BNP (NT-proBNP), high-sensitivity troponin-T (hsTnT), growth differentiation factor-15 (GDF-15), suppression of tumorigenicity-2 (ST2), mid-regional proadrenomedullin (MR-proADM) and mid-regional proatrial natriuretic peptide (MR-proANP) were measured in patients with moderate to severe AS, New York Heart Association (NYHA) class I-II and left ventricular ejection fraction ≥50%, recruited consecutively across five centres from 2011 to 2018. Their ability to predict both primary (all-cause mortality, heart failure hospitalisation or progression to NYHA class III-IV) and secondary (additionally incorporating syncope and acute coronary syndrome) outcomes was determined by competing risk analyses.
+RESULTS: Among 173 patients with AS (age 69±11 years, 55% male, peak transaortic velocity (Vmax) 4.0±0.8 m/s), the primary and secondary outcomes occurred in 59 (34%) and 66 (38%), respectively. With aortic valve replacement as a competing risk, the primary outcome was determined consistently by the comorbidity index and each selected biomarker except ST2 (p<0.05), independent of NYHA class, Vmax, LV-global longitudinal strain and serum creatinine. MR-proADM had the highest discriminative value for both primary (subdistribution HR (SHR) 11.3, 95% CI 3.9 to 32.7) and secondary outcomes (SHR 12.6, 95% CI 4.7 to 33.5). Prognostic assessment of dual-biomarker combinations identified MR-proADM plus either hsTnT or NT-proBNP as the best predictive model for both clinical outcomes. Paired biomarker models were not superior to those including MR-proADM as the sole circulating biomarker.
+CONCLUSION: MR-proADM most powerfully portended worse prognosis and should be further assessed as possibly the biomarker of choice for risk stratification in AS.
+
+Citation: Tan ESJ, et al. Novel predictive role for mid-regional proadrenomedullin in moderate to severe aortic stenosis. Novel predictive role for mid-regional proadrenomedullin in moderate to severe aortic stenosis. 2022; 108:1319-1327. doi: 10.1136/heartjnl-2021-320707
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35332049/

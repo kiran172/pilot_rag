@@ -1,0 +1,11 @@
+PMID: 31923598
+Title: The Impact of the Affordable Care Act Medicaid Expansion on Vascular Surgery.
+
+Abstract: BACKGROUND: The Affordable Care Act (ACA) Medicaid expansion increased Medicaid eligibility such that all adults with an income level up to 138% of the federal poverty threshold in 2014 qualified for Medicaid benefits. Prior studies have shown that the ACA Medicaid expansion was associated with increased access to care. The impact of the ACA Medicaid expansion on patients undergoing complex care for major vascular pathology has not been evaluated.
+METHODS: The Healthcare Cost and Utilization Project State Inpatient Database was used to identify patients undergoing care for major vascular pathology in 6 states from 2010 to 2014. The analysis cohort included adult patients between the ages of 18 and 64 years who underwent a nonemergent surgical procedure for an abdominal aortic aneurysm, thoracic aortic aneurysm, carotid artery stenosis, peripheral vascular disease, or chronic kidney disease. Poisson regression was used to determine the incidence rate ratios (IRRs).
+RESULTS: There were a total of 83,960 patients in the study cohort. Compared with nonexpansion states, inpatient admissions for Medicaid patients with an abdominal or thoracic aneurysm and carotid stenosis diagnosis increased significantly (IRR, 1.20, 1.27, 1.06, respectively; P < 0.05) in states that expanded Medicaid. Vascular-related surgeries increased for carotid endarterectomy, lower extremity revascularization, lower extremity amputation, and arteriovenous fistula in expansion states (IRR, 1.24, 1.10, 1.11, 1.16, respectively; P < 0.05) compared with nonexpansion states.
+CONCLUSIONS: In states that expanded Medicaid coverage under the ACA, the rate of vascular-related surgeries and admissions for Medicaid patients increased. We conclude that expanding insurance coverage results in enhanced access to vascular surgery.
+
+Citation: Eguia E, et al. The Impact of the Affordable Care Act Medicaid Expansion on Vascular Surgery. The Impact of the Affordable Care Act Medicaid Expansion on Vascular Surgery. 2020; 66:454-461.e1. doi: 10.1016/j.avsg.2020.01.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31923598/

@@ -1,0 +1,11 @@
+PMID: 36573263
+Title: High resolution 7T MR imaging in characterizing culprit intracranial atherosclerotic plaques.
+
+Abstract: BACKGROUND: Current imaging modalities underestimate the severity of intracranial atherosclerotic disease (ICAD). High resolution vessel wall imaging (HR-VWI) MRI is a powerful tool in characterizing plaques. We aim to show that HR-VWI MRI is more accurate at detecting and characterizing intracranial plaques compared to digital subtraction angiography (DSA), time-of-flight (TOF) MRA, and computed tomography angiogram (CTA).
+METHODS: Patients with symptomatic ICAD prospectively underwent 7T HR-VWI. We calculated: degree of stenosis, plaque burden (PB), and remodeling index (RI). The sensitivity of detecting a culprit plaque for each modality as well as the correlations between different variables were analyzed. Interobserver agreement on the determination of a culprit plaque on every imaging modality was evaluated.
+RESULTS: A total of 44 patients underwent HR-VWI. Thirty-four patients had CTA, 18 TOF-MRA, and 18 DSA. The sensitivity of plaque detection was 88% for DSA, 78% for TOF-MRA, and 76% for CTA. There's significant positive correlation between PB and degree of stenosis on HR-VWI MRI (p < 0.001), but not between PB and degree of stenosis in DSA (p = 0.168), TOF-MRA (p = 0.144), and CTA (p = 0.253). RI had a significant negative correlation with degree of stenosis on HR-VWI MRI (p = 0.003), but not on DSA (p = 0.783), TOF-MRA (p = 0.405), or CTA (p = 0.751). The best inter-rater agreement for culprit plaque detection was with HR-VWI (p = 0.001).
+CONCLUSIONS: The degree of stenosis measured by intra-luminal techniques does not fully reflect the true extent of ICAD. HR-VWI is a more accurate tool in characterizing atherosclerotic plaques and may be the default imaging modality in clinical practice.
+
+Citation: Fakih R, et al. High resolution 7T MR imaging in characterizing culprit intracranial atherosclerotic plaques. High resolution 7T MR imaging in characterizing culprit intracranial atherosclerotic plaques. 2022; (unknown volume):15910199221145760. doi: 10.1177/15910199221145760
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36573263/

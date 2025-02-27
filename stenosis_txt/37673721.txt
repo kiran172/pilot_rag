@@ -1,0 +1,11 @@
+PMID: 37673721
+Title: Disparity among Asian Americans in transcatheter and surgical aortic valve replacement.
+
+Abstract: BACKGROUND: Racial disparities in transcatheter aortic valve replacement (TAVR) and surgical aortic valve replacement (SAVR) outcomes have been established, but research has predominantly focused on African Americans and Hispanics, leaving a gap in Asian Americans. This study aimed to investigate disparities in aortic valve replacement outcomes among Asian Americans.
+METHODS: Patients who underwent SAVR and TAVR were identified in National Inpatient Sample from the last quarter of 2015-2020. A 1:2 propensity score matching was applied to Asian Americans and Caucasians. In-hospital perioperative outcomes, length of stay, days from admission to operation, and total hospital charge, were compared.
+RESULTS: In TAVR, 51,394 (84.41 %) were Caucasians and 795 (1.31 %) were Asian Americans. In SAVR, there were 50,080 (78.52 %) Caucasians and 1233 (1.93 %) Asian Americans. No significant difference was found in post-TAVR complications. However, Asian Americans experienced longer waiting time until operation (p = 0.03) and higher costs (p < 0.01) in TAVR. In SAVR, Asian Americans had higher risks of in-hospital mortality (3.91 % vs 2.39 %, p = 0.01), cardiogenic shock (8.71 % vs 6.74 %, p = 0.03), respiratory complications (14.08 % vs 11.2 %, p = 0.01), mechanical ventilation (13.83 % vs 9.09 %, p < 0.01), acute kidney injury (25.47 % vs 20.13 %, p < 0.01), and hemorrhage/hematoma (72.01 % vs 62.95 %, p < 0.01). Additionally, Asian Americans underwent SAVR had longer lengths of stay (p < 0.01) and higher costs (p < 0.01).
+CONCLUSIONS: Asian Americans were underrepresented in aortic valve replacement. Asian Americans, while having similar post-TAVR outcomes to Caucasians, faced greater risks of post-SAVR mortality and surgical complications. These disparities among Asian Americans call for targeted actions to ensure equitable health outcomes.
+
+Citation: Li R, et al. Disparity among Asian Americans in transcatheter and surgical aortic valve replacement. Disparity among Asian Americans in transcatheter and surgical aortic valve replacement. 2024; 59:84-90. doi: 10.1016/j.carrev.2023.08.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37673721/

@@ -1,0 +1,11 @@
+PMID: 36330666
+Title: Relationship between carotid intima-media thickness and periodontal disease in a Japanese urban population with and without hypertension: The Suita Study.
+
+Abstract: AIM: To investigate the association between periodontal disease and atherosclerosis and to examine whether the association is modified by hypertension status.
+MATERIALS AND METHODS: In this cross-sectional study, 1472 Japanese individuals aged 50-79 years who underwent a medical check-up, dental examination, and carotid ultrasonography were studied. Carotid atherosclerosis was expressed as the maximum and mean carotid intima-media thickness (max-IMT, mean-IMT) and the presence of stenosis (≥75%). Periodontal status was examined by the Community Periodontal Index (CPI, codes 0-4). The participants were divided into three groups according to the periodontal status (CPI0-2, CPI3, CPI4).
+RESULTS: A positive correlation was found between mean-IMT and periodontal disease after adjustment for cardiovascular risk factors in the entire cohort (mean-IMT in hypertensives: CPI0-2: 0.848 mm, CPI3: 0.857 mm, CPI4: 0.877 mm; normotensives: 0.782, 0.802, 0.826). In the entire cohort, the multivariable-adjusted odds ratio of stenosis based on mean-IMT significantly increased according to periodontal status in normotensives (odds ratio; CPI0-2: 1, CPI3: 1.39, CPI4: 2.53; p-value for trend = .004) but showed only marginal significant increase in hypertensives (1, 1.15, 1.55; p-value for trend = .063). No significant relationships were observed for max-IMT in all analyses.
+CONCLUSION: We observed an association between periodontal disease and atherosclerosis in normotensive and hypertensive participants.
+
+Citation: Kida M, et al. Relationship between carotid intima-media thickness and periodontal disease in a Japanese urban population with and without hypertension: The Suita Study. Relationship between carotid intima-media thickness and periodontal disease in a Japanese urban population with and without hypertension: The Suita Study. 2023; 50:265-275. doi: 10.1111/jcpe.13740
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36330666/

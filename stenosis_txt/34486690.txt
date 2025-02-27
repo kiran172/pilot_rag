@@ -1,0 +1,11 @@
+PMID: 34486690
+Title: Monocyte-to-high density lipoprotein cholesterol ratio as a predictor of mortality in patients with transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVE: We aim to evaluate the prognostic value of monocyte-to-high density lipoprotein cholesterol ratio (MHR) in patients undergoing transcatheter aortic valve replacement (TAVR).
+PATIENTS AND METHODS: This was a retrospective observational study and all patients who underwent TAVR for symptomatic and/or severe aortic stenosis between January 2014 and October 2019 were evaluated. Demographic characteristics, clinical features and laboratory data were retrieved from hospital electronic database and patient charts. We evaluated independent predictors of all-cause mortality with logistic regression test. p-value <0.05 was accepted as statistically significant.
+RESULTS: A total of 145 patients (mean age 78.1±7.2 years, 49.7% female) who underwent TAVR were included in the study. The median MHR was 13.73 (interquartile range (IQR) 10.0-25.9). In correlation analysis, MHR positively correlated with only serum CRP level (R: 0.383, p=<0.001). The mortality rates during the observation period were 76.1% and 4.1% in patients who had MHT over and below the median MHR value, respectively (p<0.001). Based on the results of multivariate binary logistic regression analysis, MHR and presence of cerebrovascular accident emerged as independent predictors of all-cause mortality (OR: 1.514, 95% CI:1.231-1.862).
+CONCLUSIONS: This is the first study of the independent predictive ability of MHR in TAVR patients. The strong independent predictive power of MHR possibly stems from the underlying coronary artery disease. Further studies particularly examining the predictive role of MHR on cardiovascular adverse events and cardiovascular death in TAVR patients are needed.
+
+Citation: Karahan S and Okuyan E. Monocyte-to-high density lipoprotein cholesterol ratio as a predictor of mortality in patients with transcatheter aortic valve replacement. Monocyte-to-high density lipoprotein cholesterol ratio as a predictor of mortality in patients with transcatheter aortic valve replacement. 2021; 25:5153-5162. doi: 10.26355/eurrev_202108_26529
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34486690/

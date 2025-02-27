@@ -1,0 +1,11 @@
+PMID: 38814015
+Title: Dimensionless index and outcome in patients with aortic valve disease.
+
+Abstract: PURPOSE: Assessment of aortic stenosis (AS) is based on aortic valve (AV) gradients and calculation of aortic valve area (AVA). These parameters are influenced by flow and dependent on geometric assumptions. The dimensionless index (DI), the ratio of the LVOT time-velocity integral to that of the AV jet, is simple to perform, and is less susceptible to error but has only been examined in small selected groups of AS patients. The objective of this study was to assess the DI and prognosis in a large cohort.
+METHODS: All subjects who underwent echocardiography with an assessment of the AV that included DI were included. Association between AV parameters including mean gradient, AVA, DI and AV resistance and mortality and cardiovascular hospitalizations was examined.
+RESULTS: A total of 9393 patients (mean age 71 ± 16 years; 53% male) were included. 731 (7.7%) patients had DI less than .25. Increasing age and a diagnosis of heart failure were significantly associated with lower DI. Subjects with low DI had significantly lower ventricular function, a higher incidence of mitral and tricuspid regurgitation, worse diastolic function and more elevated pulmonary pressures. Decreasing DI was associated with significantly decreased survival and event-free survival which remained highly significant on multivariate analysis.
+CONCLUSIONS: In a large population of patients with AV disease, decreased DI, was associated with increased mortality and decreased event-free survival. The easily obtained DI identifies a broad range of AS subjects with worse prognosis and should be integrated into the assessment of these complex patients.
+
+Citation: Leibowitz D, et al. Dimensionless index and outcome in patients with aortic valve disease. Dimensionless index and outcome in patients with aortic valve disease. 2024; 41:e15848. doi: 10.1111/echo.15848
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38814015/

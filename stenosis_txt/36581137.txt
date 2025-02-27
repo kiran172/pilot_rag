@@ -1,0 +1,11 @@
+PMID: 36581137
+Title: Early acute kidney injury after transcatheter aortic valve implantation: predictive value of currently available risk scores.
+
+Abstract: BACKGROUND: Acute kidney injury (AKI) after transcatheter aortic valve implantation (TAVI) is a frequent complication associated with adverse outcomes and mortality. Various scores have been developed to predict this complication in the coronary setting. However, none have ever been tested in a large TAVI population. This study aimed to evaluate the power of four different scores in predicting AKI after TAVI.
+METHODS: Overall, 1535 consecutive TAVI patients from the observational multicentric "Magna Graecia" TAVI registry were included in the analysis. Of the study population, 235 (15.31%) developed AKI early. The Mehran, William Beaumont Hospital, CR<sub>4</sub>EATME<sub>3</sub>AD<sub>3</sub>, and ACEF scores were calculated retrospectively.
+RESULTS: The patients who developed TAVI-related AKI had significantly higher absolute values of all risk scores than those who did not. The receiver-operating characteristic analysis also showed a significant correlation between these four scores and AKI, but without a significant difference among all of them (p value = 0.176). Nevertheless, based on their area under the curve values (≤0.604 for all), none had adequate diagnostic accuracy in predicting TAVI-related AKI. Importantly, multivariate analysis identified myocardial revascularization close to the TAVI procedure and implantation of self-expanding prostheses, as well as atrial fibrillation, low-osmolar contrast media administration, corrected contrast medium volume, and any transfusion (p value < 0.05 for all) as independent risk factors for AKI.
+CONCLUSIONS: Although high values of current AKI risk scores are significantly associated with the development of this complication, these are not sufficiently accurate. Further studies are needed so that a TAVI-dedicated AKI risk score may be created.
+
+Citation: Loizzi F, et al. Early acute kidney injury after transcatheter aortic valve implantation: predictive value of currently available risk scores. Early acute kidney injury after transcatheter aortic valve implantation: predictive value of currently available risk scores. 2023; 70:19-27. doi: 10.1016/j.hjc.2022.12.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36581137/

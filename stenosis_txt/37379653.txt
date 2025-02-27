@@ -1,0 +1,11 @@
+PMID: 37379653
+Title: ERCP 2.0: Biliary 3D-reconstruction in patients with malignant hilar stricture.
+
+Abstract: BACKGROUND: Endoscopic retrograde cholangiopancreatography (ERCP) for malignant hilar strictures is challenging. The correlation between Magnetic resonance cholangiopancreatography (MRCP) and per ERCP 2D fluoroscopic images is not obvious. The aim of this study was to evaluate the feasibility and potential usefulness of MRCP-based handmade biliary 3D reconstruction in this setting.
+METHODS: Methods Patients who underwent MRCP followed by ERCP for biliary drainage of a malignant hilar stricture at our institution between 2018 and 2020 were reviewed. A handmade 3D segmentation using 3D slicer© (Kitware, France) was fashioned and reviewed with an expert radiologist. The primary outcome was the feasibility of biliary segmentation.
+RESULTS: A total of 16 patients were included. The mean age was 70.1 (+/- 8.6) years-old and 68.8% had hilar cholangiocarcinoma. Handmade segmentation was successful in all cases. The agreement between the MRCP interpretation and the 3D reconstruction was 37.5%, as per the Bismuth classification. 3D reconstruction available prior to ERCP could have helped guide for better stent placement in 11 cases (68.8%).
+CONCLUSIONS: MRCP-based biliary 3D segmentation-reconstruction, in patients with malignant hilar stricture is feasible and seems to provide a better anatomical understanding compared to MRCP and could help improve endoscopic management.
+
+Citation: Becq A, et al. ERCP 2.0: Biliary 3D-reconstruction in patients with malignant hilar stricture. ERCP 2.0: Biliary 3D-reconstruction in patients with malignant hilar stricture. 2023; 47:102172. doi: 10.1016/j.clinre.2023.102172
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37379653/

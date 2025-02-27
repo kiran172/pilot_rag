@@ -1,0 +1,12 @@
+PMID: 31974798
+Title: Association between serum bilirubin and asymptomatic intracranial atherosclerosis: results from a population-based study.
+
+Abstract: INTRODUCTION: The effects of bilirubin on asymptomatic intracranial atherosclerosis (aICAS) remain uncertain.
+OBJECTIVES: To investigate the association between bilirubin and aICAS in rural-dwelling Chinese people.
+METHODS: This population-based study included 2013 participants from the Kongcun Town Study, which aimed to investigate the prevalence of aICAS in people aged ≥ 40 years who were free of stroke and hepatic and gall disease history. Baseline data were collected via interviews, clinical examinations, and laboratory tests. Total bilirubin (Tbil), direct bilirubin (Dbil), and indirect bilirubin (Ibil) levels were divided into high-concentration group and low-concentration group, respectively. We diagnosed aICAS and moderate-to-severe aICAS (m-saICAS) (≥ 50% stenosis) by integrating transcranial Doppler ultrasound with magnetic resonance angiography. The association between bilirubin and aICAS, as well as m-saICAS, was analyzed using logistic regression.
+RESULTS: Of the 2013 participants, those in the high-concentration group of Tbil (odds ratio (OR), 0.50; 95% confidence interval (CI), 0.42-0.87), Dbil (OR 0.60, 95%CI 0.41-0.87), and Ibil (OR 0.67; 95%CI 0.47-0.97) had a lower risk of aICAS than those in the low-concentration group after adjusting all confounders. The high concentrations of Tbil, Dbil, and Ibil were also negatively associated with m-saICAS. After stratification according to age, Tbil, Dbil, and Ibil were significantly negatively associated with aICAS among participants aged ≥ 60 years.
+CONCLUSION: Tbil, Dbil, and Ibil might be independent protective factors for aICAS and moderate-to-severe aICAS in rural-dwelling Chinese people, especially among older participants aged ≥ 60 years.
+
+Citation: Zhong K, et al. Association between serum bilirubin and asymptomatic intracranial atherosclerosis: results from a population-based study. Association between serum bilirubin and asymptomatic intracranial atherosclerosis: results from a population-based study. 2020; 41:1531-1538. doi: 10.1007/s10072-020-04268-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31974798/

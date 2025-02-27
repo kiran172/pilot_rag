@@ -1,0 +1,11 @@
+PMID: 35514877
+Title: Prognosis of patients with active cancer undergoing transcatheter aortic valve implantation: An insight from Japanese multicenter registry.
+
+Abstract: BACKGROUND: Malignancy is common in older adults undergoing transcatheter aortic valve implantation (TAVI), and may affect prognosis. The present study aimed to examine whether active cancer affects all-cause mortality rates among patients undergoing TAVI.
+METHODS: This retrospective study examined data from 1,114 consecutive patients treated between April 2010 and June 2019. Patients with life expectancy of <1 year due to non-cardiac causes were excluded.
+RESULTS: Active cancer was defined as cancer under treatment or cured within 1 year, and was recognized in 62 patients (5.6%) with (n = 17) and without (n = 45) metastases. In multivariate analysis, being female (hazard ratio [HR] 0.55, 95% confidence interval [CI] 0.39-0.77, p &lt; 0.001), body mass index (BMI) (HR = 0.92 per 1 kg/m2 increase, 95% CI 0.87-0.97, p = 0.001), New York Heart Association (NYHA) class III/IV (HR = 1.53, 95% CI 1.06-2.20, p = 0.022), atrial fibrillation (HR = 2.40, 95% CI 1.70-3.38, p &lt; 0.001), albumin levels (HR = 0.41 per 1-g/dl, 95% CI 0.30-0.57, p &lt; 0.001), and cancer metastasis (HR = 5.28, 95% CI 1.86-14.9, p = 0.001) were associated with all-cause mortality after TAVI.
+CONCLUSION: In patients undergoing TAVI, being female, high BMI, NYHA class III/IV, atrial fibrillation, albumin levels, and cancer metastasis were factors associated with mortality. Meanwhile, active cancer without metastasis was not associated with increased mortality rates. These findings would help clinical decision-making by patients and physicians.Clinical trial registration: UMIN000031133.
+
+Citation: Kojima Y, et al. Prognosis of patients with active cancer undergoing transcatheter aortic valve implantation: An insight from Japanese multicenter registry. Prognosis of patients with active cancer undergoing transcatheter aortic valve implantation: An insight from Japanese multicenter registry. 2022; 40:101045. doi: 10.1016/j.ijcha.2022.101045
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35514877/

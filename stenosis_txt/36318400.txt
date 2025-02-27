@@ -1,0 +1,11 @@
+PMID: 36318400
+Title: Troponin as a predictor of outcomes in transcatheter aortic valve implantation: systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) is emerging as a therapeutic gold standard in the management of aortic stenosis. However, post-procedural complications of this procedure are being increasingly recognised. We therefore performed this systematic review and meta-analysis on the prognostic value of elevated troponin prior to TAVI to predict risk of post-procedural complications.
+METHODS: We searched Medline (Ovid), Embase (Ovid), and the Cochrane Library from inception until May 2022, and included studies on the association between elevated pre-procedural troponin with 30-day mortality, long-term mortality, and post-procedural myocardial injury (PPMI). We generated summary odds ratios (OR) and hazards ratios (HR) using random-effects meta-analysis and performed subgroup analyses to evaluate differences in troponin threshold selection. Inter-study heterogeneity was tested using the I2 test.
+RESULTS: We included 10 studies involving 4200 patients. Serum troponin elevation prior to TAVI was significantly associated with long-term mortality [HR = 2.09 (95% CI 1.30-3.36)], but not with 30-day mortality [OR 1.76 (95% CI 0.96-3.22)]. Subgroup analysis showed a trend towards increased effect size and statistical significance for 30-day mortality as troponin elevation was more narrowly defined. Two studies reported on PPMI and found no statistically significant mean difference between groups.
+CONCLUSIONS: Raised serum troponin is associated with increased long-term mortality following TAVI. Further clarification on the optimal troponin threshold for risk identification is required. High-quality studies that utilise ROC analysis for threshold selection are warranted.
+
+Citation: Khuong JN, et al. Troponin as a predictor of outcomes in transcatheter aortic valve implantation: systematic review and meta-analysis. Troponin as a predictor of outcomes in transcatheter aortic valve implantation: systematic review and meta-analysis. 2023; 71:12-19. doi: 10.1007/s11748-022-01888-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36318400/

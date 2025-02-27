@@ -1,0 +1,11 @@
+PMID: 34648811
+Title: Sex and Permanent Pacemaker Implantation After Surgical Aortic Valve Replacement.
+
+Abstract: BACKGROUND: We performed a nationwide population-based cohort study to investigate sex differences in the rate of permanent pacemaker implantation after surgical aortic valve replacement (AVR).
+METHODS: This study included all adult patients who underwent primary AVR in Sweden between 2005 and 2018. Study data were obtained from the Swedish Web system for Enhancement and Development of Evidence-based care in Heart disease Evaluated According to Recommended Therapies (SWEDEHEART) registry and other Swedish national health-data registers. The rate of permanent pacemaker implantation within 30 days of surgery AVR was compared between men and women. We estimated propensity scores that were used for inverse probability of treatment weighting to account for sex differences in patient characteristics.
+RESULTS: A total of 18 131 patients were included, 11 657 men (64%) and 6474 women (36%). The rate of permanent pacemaker implantation did not differ between women (3.8%; 95% CI, 3.2%-4.3%) and men (3.7%; 95% CI, 3.3%-4.1%; P = .831). In patients aged <60 years, the rate of permanent pacemaker implantation was significantly higher in women (6.2%; 95% CI, 4.3%-8.0%) than in men (3.6%; 95% CI, 2.8%-4.4%; P = .006). The odds of pacemaker implantation in patients aged <60 years was significantly higher in women (odds ratio, 1.76; 95% CI, 1.17-2.63; P = .006). In patients aged 60 to 79 years and ≥80 years, the rate of pacemaker implantation did not differ between men and women.
+CONCLUSIONS: The rate of permanent pacemaker implantation after surgical AVR in patients aged <60 years was higher in women than in men. The susceptibility to conduction disturbances requiring permanent pacemaker implantation in women aged <60 years warrants further investigation and should be recognized as transcatheter aortic valve replacement expands into younger patients.
+
+Citation: Dalén M, et al. Sex and Permanent Pacemaker Implantation After Surgical Aortic Valve Replacement. Sex and Permanent Pacemaker Implantation After Surgical Aortic Valve Replacement. 2022; 114:1621-1627. doi: 10.1016/j.athoracsur.2021.09.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34648811/

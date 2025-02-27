@@ -1,0 +1,11 @@
+PMID: 32366520
+Title: Invasive versus non-invasive assessment of valvuloarterial impedance in severe aortic stenosis.
+
+Abstract: BACKGROUND: As a measure of the global left ventricular afterload, valvuloarterial impedance (ZVA) can be estimated using transthoracic echocardiography (TTE) and invasive measuring methods. The objective of this study was to compare the performance of TTE in measuring ZVA with invasive haemodynamics, direct Fick and thermodilution (TD), in patients with severe aortic stenosis (AS).
+METHODS: This is a retrospective cohort study of 66 patients with severe AS who underwent TTE and bilateral heart catheterisation preaortic valve replacement. ZVA was calculated non-invasively from TTE and invasively using TD and Fick. The differences in measurements were estimated using a generalised estimating equation approach. The exchangeability of the measurements from different methods was evaluated under binary risk stratification rules.
+RESULTS: The mean±SD ZVA by TTE was 4.6±1.4 vs 4.9±1.6 by TD vs 4.3±1.2 mm Hg m2/mL by Fick. From multivariate analyses, ZVA by TTE was 5.9% (95% CI -15.0 to 2.5) lower than by TD and 5.9% (95% CI -1.5 to 12.8) higher than by Fick. At the same time, ZVA by TD was 12.5% (3.0 to 22.9) higher than with Fick. Risk classifications for ZVA-based binary decision rules showed poor agreement between TTE and invasive methods (kappa ≤0.3).
+CONCLUSIONS: The differences in ZVA estimates between TTE and invasive standards do not appear to exceed those between the standards. As such TTE-based estimates may be deemed acceptable as a clinical measure of global haemodynamic load. However, TTE-based and invasive measurements may not be interchangeable to identify patients at risk using binary classification rules based on ZVA.
+
+Citation: Stanberry L, et al. Invasive versus non-invasive assessment of valvuloarterial impedance in severe aortic stenosis. Invasive versus non-invasive assessment of valvuloarterial impedance in severe aortic stenosis. 2020; 7:(unknown pages). doi: 10.1136/openhrt-2020-001240
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32366520/

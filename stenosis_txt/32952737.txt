@@ -1,0 +1,11 @@
+PMID: 32952737
+Title: Pathologic Shear and Elongation Rates Do Not Cause Cleavage of Von Willebrand Factor by ADAMTS13 in a Purified System.
+
+Abstract: INTRODUCTION: Pathological flows in patients with severe aortic stenosis are associated with acquired von Willebrand syndrome. This syndrome is characterized by excessive cleavage of von Willebrand factor by its main protease, A Disintegrin and Metalloproteinase with a Thrombospondin Type 1 Motif, Member 13 (ADAMTS13) leading to decreased VWF function and mucocutaneous bleeding. Aortic valve replacement and correction of the flow behavior to physiological levels reverses the syndrome, supporting the association between pathological flow and acquired von Willebrand syndrome. We investigated the effects of shear and elongational rates on von Willebrand factor cleavage in the presence of ADAMTS13.
+METHODS: We identified acquired von Willebrand syndrome in five patients with severe aortic stenosis. Doppler echography values from these patients were used to develop three computational fluid dynamic (CFD) aortic valve models (normal, mild and severe stenosis). Shear, elongational rates and exposure times identified in the CFD simulations were used as parameters for the design of microfluidic devices to test the effects of pathologic shear and elongational rates on the structure and function of von Willebrand factor.
+RESULTS: The shear rates (0-10,000s-1), elongational rates (0-1000 s-1) and exposure times (1-180 ms) tested in our microfluidic designs mimicked the flow features identified in patients with aortic stenosis. The shear and elongational rates tested in vitro did not lead to excessive cleavage or decreased function of von Willebrand factor in the presence of the protease.
+CONCLUSIONS: High shear and elongational rates in the presence of ADAMTS13 are not sufficient for excessive cleavage of von Willebrand Factor.
+
+Citation: Bortot M, et al. Pathologic Shear and Elongation Rates Do Not Cause Cleavage of Von Willebrand Factor by ADAMTS13 in a Purified System. Pathologic Shear and Elongation Rates Do Not Cause Cleavage of Von Willebrand Factor by ADAMTS13 in a Purified System. 2020; 13:379-390. doi: 10.1007/s12195-020-00631-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32952737/

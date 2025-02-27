@@ -1,0 +1,11 @@
+PMID: 33872074
+Title: A New Parameter, the Smallest Oblique Sagittal Area of the Neural Foramen, as an Index to Diagnose Cervical Neural Foramen Stenosis.
+
+Abstract: OBJECTIVE: The objective was to reconstruct the cervical neural foramen and accurately measure the minimum oblique sagittal area of the neural foramen. Then, a quantitative diagnostic standard for cervical neural foramen stenosis was proposed and its value as an indication for surgery was evaluated.
+METHODS: (1) CT data were used to reconstruct the neural foramen using Mimics software, and the minimum area was measured. (2) The optimal cut-off value was determined using a receiver operating characteristic (ROC) curve. (3) Patients who underwent single-segment surgery were divided into 2 groups according to the cut-off value. Then the postoperative neurological function improvement rate was analyzed to identify any significant difference between the 2 groups.
+RESULTS: A total of 1056 neural foramens were measured in 132 patients, of which 495 (46.88%) were diagnosed as radiculopathy by clinical neurological examination. The optimal cut-off value determined by the ROC curve was 25.95 mm2 (sensitivity 74.1%, specificity 80.9%) and the area under the curve (AUC) was 0.827 (95%CI: 0.803-0.849). There was a significant difference in the neurological function improvement rate between the 2 groups after surgery (P &lt; 0.05). The intraclass correlation coefficient (ICC) was 0.969.
+CONCLUSION: Three-dimensional digital simulation reconstruction of CT data is a good measurement method. The optimal cut-off value determined here not only has a certain reference value for the diagnosis of cervical neural foramen bony stenosis, but also helps to select patients suitable for neural foramen decompression and can be used as a reference for surgical indication.
+
+Citation: Jia Y, et al. A New Parameter, the Smallest Oblique Sagittal Area of the Neural Foramen, as an Index to Diagnose Cervical Neural Foramen Stenosis. A New Parameter, the Smallest Oblique Sagittal Area of the Neural Foramen, as an Index to Diagnose Cervical Neural Foramen Stenosis. 2022; 73:170-178. doi: 10.1177/08465371211005540
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33872074/

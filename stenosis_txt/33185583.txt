@@ -1,0 +1,12 @@
+PMID: 33185583
+Title: Influence of near-wall PIV data on recirculation hemodynamics in a patient-specific moderate stenosis: Experimental-numerical comparison.
+
+Abstract: BACKGROUND: Recirculation zones within the blood vessels are known to influence the initiation and progression of atherosclerotic lesions. Quantification of recirculation parameters with accuracy remains subjective due to uncertainties in measurement of velocity and derived wall shear stress (WSS).
+OBJECTIVE: The primary aim is to determine recirculation height and length from PIV experiments while validating with two different numerical methods: finite-element (FE) and -volume (FV). Secondary aim is to analyze how FE and FV compare within themselves.
+METHODS: PIV measurements were performed to obtain velocity profiles at eight cross sections downstream of stenosis at flow rate of 200 ml/min. WSS was obtained by linear/quadratic interpolation of experimental velocity measurements close to wall.
+RESULTS: Recirculation length obtained from PIV technique was 1.47 cm and was within 2.2% of previously reported in-vitro measurements. Derived recirculation length from PIV agreed within 6.8% and 8.2% of the FE and FV calculations, respectively. For lower shear rate, linear interpolation with five data points results in least error. For higher shear rate either higher order (quadratic) interpolation with five data points or lower order (linear) with lesser (three) data points leads to better results.
+CONCLUSION: Accuracy of the recirculation parameters is dependent on number of near wall PIV data points and the type of interpolation algorithm used.
+
+Citation: Sharma N, et al. Influence of near-wall PIV data on recirculation hemodynamics in a patient-specific moderate stenosis: Experimental-numerical comparison. Influence of near-wall PIV data on recirculation hemodynamics in a patient-specific moderate stenosis: Experimental-numerical comparison. 2020; 57:53-76. doi: 10.3233/BIR-201001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33185583/

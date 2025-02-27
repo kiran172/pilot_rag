@@ -1,0 +1,13 @@
+PMID: 37192310
+Title: Transcatheter Aortic Valve Replacement in Patients With Reduced Ejection Fraction and Nonsevere Aortic Stenosis.
+
+Abstract: BACKGROUND: The potential benefit of transcatheter aortic valve replacement (TAVR) in patients with nonsevere aortic stenosis (AS) and heart failure is controversial. This study aimed to assess outcomes of patients with nonsevere low-gradient AS (LGAS) and reduced left ventricular ejection fraction undergoing TAVR or medical management.
+METHODS: Patients undergoing TAVR for LGAS and reduced left ventricular ejection fraction (<50%) were included in a multinational registry. True-severe low-gradient AS (TS-LGAS) and pseudo-severe low-gradient AS (PS-LGAS) were classified according to computed tomography-derived aortic valve calcification thresholds. A medical control group with reduced left ventricular ejection fraction and moderate AS or PS-LGAS was used (Medical-Mod). Adjusted outcomes between all groups were compared. Among patients with nonsevere AS (moderate or PS-LGAS), outcomes after TAVR and medical therapy were compared using propensity score-matching.
+RESULTS: A total of 706 LGAS patients undergoing TAVR (TS-LGAS, N=527; PS-LGAS, N=179) and 470 Medical-Mod patients were included. After adjustment, both TAVR groups showed superior survival compared with Medical-Mod patients (all P&lt;0.001), while no difference was found between TS-LGAS and PS-LGAS TAVR patients (P=0.96). After propensity score-matching among patients with nonsevere AS, PS-LGAS TAVR patients showed superior 2-year overall (65.4%) and cardiovascular survival (80.4%) compared with Medical-Mod patients (48.8% and 58.5%, both P≤0.004). In a multivariable analysis including all patients with nonsevere AS, TAVR was an independent predictor of survival (hazard ratio, 0.39 [95% CI, 0.27-0.55]; P&lt;0.0001).
+CONCLUSIONS: Among patients with nonsevere AS and reduced left ventricular ejection fraction, TAVR represents a major predictor of superior survival. These results reinforce the need for randomized-controlled trials comparing TAVR versus medical management in heart failure patients with nonsevere AS.
+REGISTRATION: URL: https://www.
+CLINICALTRIALS: gov; Unique identifier: NCT04914481.
+
+Citation: Ludwig S, et al. Transcatheter Aortic Valve Replacement in Patients With Reduced Ejection Fraction and Nonsevere Aortic Stenosis. Transcatheter Aortic Valve Replacement in Patients With Reduced Ejection Fraction and Nonsevere Aortic Stenosis. 2023; 16:e012768. doi: 10.1161/CIRCINTERVENTIONS.122.012768
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37192310/

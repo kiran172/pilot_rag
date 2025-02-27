@@ -1,0 +1,11 @@
+PMID: 32910999
+Title: Clinical relevance and prognostic implications of contrast quantitative flow ratio in patients with coronary artery disease.
+
+Abstract: BACKGROUND: We sought to evaluate the diagnostic performance of contrast quantitative flow ratio (cQFR) in all-comer patients with coronary artery disease, and to compare the vessel-oriented composite outcomes (VOCO) according to cQFR values.
+METHOD: 599 vessels with 452 patients who underwent clinically indicated fractional flow reserve (FFR) and cQFR measurement were evaluated. The cQFR, derived from 3-dimensional quantitative coronary angiography combined with TIMI frame-counts was compared with FFR as a reference standard. The risk of VOCO at 2 years, a composite of cardiac death, target-vessel myocardial infarction, and ischemia-driven target lesion revascularization, was compared according to cQFR and FFR value.
+RESULTS: cQFR strongly correlated with FFR (r=0.860, p<0.001) and showed diagnostic accuracy of 91.2% to predict FFR≤0.80. cQFR showed significantly higher c-index to predict FFR≤0.80 (0.953, 95%CI 0.937-0.969) than %DS, percent area stenosis, resting distal coronary pressure/aortic pressure, and fixed QFR (p<0.001). Diagnostic accuracy of cQFR was not different according to various subgroups including non-culprit vessel of acute coronary syndrome and diabetes mellitus. Vessels with low cQFR (≤0.80) showed a significantly higher risk of VOCO at 2-year compared to those with high cQFR (>0.80) (HR 4.650, 95%CI 1.254-17.240, p=0.022). Discriminatory ability of cQFR for VOCO was similar with that of FFR (0.672 vs. 0.643, p=0.147).
+CONCLUSION: cQFR showed excellent correlation and diagnostic accuracy with FFR in diverse clinical presentations or patient characteristics. Low cQFR was significantly associated with a higher risk of VOCO at 2 years compared with high cQFR and cQFR showed similar discriminatory ability for VOCO with FFR.
+
+Citation: Choi KH, et al. Clinical relevance and prognostic implications of contrast quantitative flow ratio in patients with coronary artery disease. Clinical relevance and prognostic implications of contrast quantitative flow ratio in patients with coronary artery disease. 2021; 325:23-29. doi: 10.1016/j.ijcard.2020.09.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32910999/

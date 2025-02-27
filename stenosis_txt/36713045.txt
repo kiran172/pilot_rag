@@ -1,0 +1,12 @@
+PMID: 36713045
+Title: Safe and effective delivery of high-power, short-duration radiofrequency ablation lesions with a flexible-tip ablation catheter.
+
+Abstract: BACKGROUND: High-power, short-duration (HPSD) radiofrequency ablation (RFA) may reduce ablation time. Concerns that catheter-mounted thermocouples (TCs) can underestimate tissue temperature, resulting in elevated risk of steam pop formation, potentially limit widespread adoption of HPSD ablation.
+OBJECTIVE: The purpose of this study was to compare the safety and efficacy of HPSD and low-power, long-duration (LPLD) RFA in the context of pulmonary vein isolation (PVI).
+METHODS: An open-irrigated ablation catheter with a contact force sensor and a flexible-tip electrode containing a TC at its distal end (TactiFlexTM Ablation Catheter, Sensor EnabledTM, Abbott) was used to isolate the left pulmonary veins (PVs) in 12 canines with HPSD RFA (50 W for 10 seconds) and LPLD RFA (30 W for a maximum of 60 seconds). PVI was assessed at 30 minutes and 28 ± 3 days postablation. Computed tomographic scans were performed to assess PV stenosis after RFA. Lesions were evaluated with histopathology.
+RESULTS: A total of 545 ablations were delivered: 252 with LPLD (0 steam pops) and 293 with HPSD RFA (2 steam pops) (P = .501). Ablation time required to achieve PVI was &gt;3-fold shorter for HPSD than for LPLD RFA (P = .001). All 24 PVs were isolated 30 minutes after ablation, with 12/12 LPLD-ablated and 11/12 HPSD-ablated PVs still isolated at follow-up. Histopathology revealed transmural ablations for HPSD and LPLD RFA. No major adverse events occurred.
+CONCLUSION: An investigational ablation catheter effectively delivered RFA lesions. Ablation time required to achieve PVI with HPSD with this catheter was >3-fold shorter than with LPLD RFA.
+
+Citation: Ptaszek LM, et al. Safe and effective delivery of high-power, short-duration radiofrequency ablation lesions with a flexible-tip ablation catheter. Safe and effective delivery of high-power, short-duration radiofrequency ablation lesions with a flexible-tip ablation catheter. 2023; 4:42-50. doi: 10.1016/j.hroo.2022.10.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36713045/

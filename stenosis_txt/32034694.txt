@@ -1,0 +1,8 @@
+PMID: 32034694
+Title: Serum Uric Acid Levels and Risk of Intracranial Atherosclerotic Stenosis: A Cross-Sectional Study.
+
+Abstract: Elevated serum uric acid (SUA) has been reported to be associated with an increased risk of cardiovascular diseases, but the role of SUA in intracranial atherosclerosis remains unclear. To investigate the association between SUA and intracranial atherosclerotic stenosis (ICAS), we evaluated 1522 subjects (305 with ICAS, 1217 without ICAS) with magnetic resonance angiography (MRA). Subjects were classified into ten groups according to the deciles of the SUA level. The rate of ICAS reached a minimum in the seventh decile (6.0-6.3 mg/dL; reference group). After adjusting for confounding factors, multivariate logistic regression analysis demonstrated that both low SUA level (≤ 3.8 mg/dL; OR, 2.34; 95% CI, 1.29-4.39; p = 0.006) and high SUA level (≥ 7.8 mg/dL; OR, 2.10; 95% CI, 1.15-3.92; p = 0.017) conferred greater risk for ICAS. In multivariable analysis with a quadratic model which used SUA as a continuous variable, a U-shaped association between SUA and the rate of ICAS was confirmed (α > 0; p < 0.001). The estimated SUA level associated with the lowest rate of ICAS was 6.2 mg/dL. In conclusion, our findings suggest a U-shaped association between ICAS and SUA.
+
+Citation: Li L, et al. Serum Uric Acid Levels and Risk of Intracranial Atherosclerotic Stenosis: A Cross-Sectional Study. Serum Uric Acid Levels and Risk of Intracranial Atherosclerotic Stenosis: A Cross-Sectional Study. 2020; 37:936-943. doi: 10.1007/s12640-020-00171-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32034694/

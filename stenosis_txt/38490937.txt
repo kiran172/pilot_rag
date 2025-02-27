@@ -1,0 +1,11 @@
+PMID: 38490937
+Title: Impact of left ventricular ejection fraction and aortic valve gradient on mortality following transcatheter aortic valve intervention.
+
+Abstract: BACKGROUND: Data regarding the impact of reduced left ventricular ejection fraction (LVEF) and/or reduced mean aortic valve gradient (AVG) on outcomes following transcatheter aortic valve intervention (TAVI) have been conflicting. We sought to assess the relationship between LVEF, AVG, and 1-year mortality in patients undergoing TAVI.
+METHODS: We prospectively evaluated 298 consecutive adults undergoing TAVI from 2015 to 2018 at an academic tertiary medical center. Patients were categorized according to LVEF and mean AVG. The primary outcome of interest was all-cause mortality at 1 year.
+RESULTS: Of 298 adults undergoing TAVI, 66 (22.1%) had baseline LVEF ≤45% while 232 (77.9%) had baseline LVEF >45%; 173 (58.1%) had baseline AVG < 40mmHg while 125 (41.9%) had baseline AVG ≥ 40mmHg. Rates of 1-year all-cause mortality were significantly higher in patients with LVEF ≤45% (28.8% vs 12.1%, p = 0.001) and those with AVG < 40mmHg (19.7% vs 10.4%, p = 0.031) compared to those with LVEF >45% and AVG ≥ 40mmHg respectively. In multivariable analysis, higher AVG (per mmHg) (OR 0.97, 95% CI 0.94-0.99, p = 0.026) was noted to be independently associated with lower rates of 1-year mortality, while LVEF was not (OR 0.98, 95% CI 0.96-1.01).
+CONCLUSIONS: In this prospective, contemporary registry of adults undergoing TAVI, while 1-year unadjusted mortality rates are significantly higher in patients with reduced LVEF and reduced AVG, risk-adjusted mortality at 1 year is only higher in those with reduced AVG - not in those with reduced LVEF.
+
+Citation: Gilchrist IC, et al. Impact of left ventricular ejection fraction and aortic valve gradient on mortality following transcatheter aortic valve intervention. Impact of left ventricular ejection fraction and aortic valve gradient on mortality following transcatheter aortic valve intervention. 2024; 65:32-36. doi: 10.1016/j.carrev.2024.03.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38490937/

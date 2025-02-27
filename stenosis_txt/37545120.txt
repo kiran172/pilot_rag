@@ -1,0 +1,11 @@
+PMID: 37545120
+Title: Predicting stroke and mortality in mitral stenosis with atrial flutter: A machine learning approach.
+
+Abstract: BACKGROUND: Our study hypothesized that an intelligent gradient boosting machine (GBM) model can predict cerebrovascular events and all-cause mortality in mitral stenosis (MS) with atrial flutter (AFL) by recognizing comorbidities, electrocardiographic and echocardiographic parameters.
+METHODS: The machine learning model was used as a statistical analyzer in recognizing the key risk factors and high-risk features with either outcome of cerebrovascular events or mortality.
+RESULTS: A total of 2184 patients with their chart data and imaging studies were included and the GBM analysis demonstrated mitral valve area (MVA), right ventricular systolic pressure, pulmonary artery pressure (PAP), left ventricular ejection fraction (LVEF), New York Heart Association (NYHA) class, and surgery as the most significant predictors of transient ischemic attack (TIA/stroke). MVA, PAP, LVEF, creatinine, hemoglobin, and diastolic blood pressure were predictors for all-cause mortality.
+CONCLUSION: The GBM model assimilates clinical data from all diagnostic modalities and significantly improves risk prediction performance and identification of key variables for the outcome of MS with AFL.
+
+Citation: Rauf A, et al. Predicting stroke and mortality in mitral stenosis with atrial flutter: A machine learning approach. Predicting stroke and mortality in mitral stenosis with atrial flutter: A machine learning approach. 2023; 28:e13078. doi: 10.1111/anec.13078
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37545120/

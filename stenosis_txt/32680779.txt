@@ -1,0 +1,11 @@
+PMID: 32680779
+Title: Prognostic implications of coronary physiological indices in patients with diabetes mellitus.
+
+Abstract: INTRODUCTION AND OBJECTIVES: Has been performed of the prognostic value of coronary physiological indices in patients with diabetes mellitus (DM) after coronary revascularization deferral.
+METHODS: We analyzed 714 patients (235 with DM) with deferred revascularization according to fractional flow reserve (> 0.80). A comprehensive physiological evaluation including coronary flow reserve (CFR), index of microcirculatory resistance, and fractional flow reserve was performed at the time of revascularization deferral. The median values of the CFR (2.88), fractional flow reserve (0.88), and index of microcirculatory resistance (17.85) were used to classify patients into high- or low-index groups. The primary outcome was the patient-oriented composite outcome (POCO) at 5 years, comprising all-cause death, any myocardial infarction, and any revascularization.
+RESULTS: Compared with the non-DM population, the DM population showed higher risk of POCO (HR, 2.49; 95%CI, 1.64-3.78; P<.001). In the DM population, the low-CFR group had a higher risk of POCO than the high-CFR group (HR, 3.22; 95%CI, 1.74-5.97; P <.001). In contrast, CFR values could not differentiate the risk of POCO in the non-DM population. There was a significant interaction between CFR and the presence of DM regarding the risk of POCO (P for interaction=.025). Independent predictors of POCO were a low CFR and family history of coronary artery disease in the DM population and percent diameter stenosis and multivessel disease in the non-DM population.
+CONCLUSIONS: The association between coronary physiological indices and clinical outcomes differs according to the presence of DM. In deferred patients, CFR is the most important prognostic factor in patients with DM, but not in those without DM.
+
+Citation: Hwang D, et al. Prognostic implications of coronary physiological indices in patients with diabetes mellitus. Prognostic implications of coronary physiological indices in patients with diabetes mellitus. 2021; 74:682-690. doi: 10.1016/j.rec.2020.06.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32680779/

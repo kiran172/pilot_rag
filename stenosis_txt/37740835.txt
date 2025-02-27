@@ -1,0 +1,11 @@
+PMID: 37740835
+Title: Incoherent optical fluctuation flowmetry for detecting limbs with hemodynamically significant stenoses in patients with type 2 diabetes.
+
+Abstract: INTRODUCTION: The development of new highly accurate, inexpensive and accessible methods for the detection of lower-extremity peripheral artery disease (LE-PAD) in diabetic patients is required. The aim of this study was to evaluate the accuracy of a new incoherent optical fluctuation flowmetry (IOFF) method in detecting legs with hemodynamically significant stenoses compared to ankle brachial index (ABI) and transcutaneous oximetry (TcPO2) in patients with diabetes mellitus (DM).
+MATERIALS AND METHODS: Patients were recruited into 2 groups. Group 1 included patients with DM without LE-PAD and/or diabetic foot syndrome; Group 2 included patients with DM and LE-PAD. All patients underwent the following measurements: ultrasound (reference method), ABI, TcPO2, and the new IOFF method.
+RESULTS: The new IOFF method showed a sensitivity of 79.5% and a specificity of 89.8% in detecting limbs with hemodynamically significant stenosis (AUC 0.890, CI 0.822-0.957). TcpO2 allows the diagnosis of LE-PAD with 69.2% sensitivity and 86.2% specificity (AUC 0.817, CI 0.723-0.911). Using a standard ABI cut-off of less than 0.9, the sensitivity and specificity for this parameter were 34.5% and 89.7%, respectively. Increasing the diagnostic cut-off of the ABI on the study group to 0.99 improved sensitivity to 84.6% and specificity to 78% (AUC,0.824 CI 0.732-0.915).
+CONCLUSIONS: The new IOFF technique has demonstrated high sensitivity and specificity in the detection of LE-PAD in patients with DM. The high accuracy, rapid measurement, and potential availability suggest that the new IOFF method has a high potential for clinical application in the detection of PAD.
+
+Citation: Glazkova P, et al. Incoherent optical fluctuation flowmetry for detecting limbs with hemodynamically significant stenoses in patients with type 2 diabetes. Incoherent optical fluctuation flowmetry for detecting limbs with hemodynamically significant stenoses in patients with type 2 diabetes. 2023; 82:550-559. doi: 10.1007/s12020-023-03506-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37740835/

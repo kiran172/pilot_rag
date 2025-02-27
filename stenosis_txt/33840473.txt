@@ -1,0 +1,11 @@
+PMID: 33840473
+Title: Clinical impact of the heart team on the outcomes of surgical aortic valve replacement among octogenarians.
+
+Abstract: OBJECTIVES: The effectiveness of a multidisciplinary heart team in the management of patients with severe symptomatic aortic stenosis is unknown. This study evaluated the impact of a heart team on the outcomes of surgical aortic valve replacement in octogenarians.
+METHODS: Between May 2007 and January 2016, 528 patients aged 80 years or more were referred to our institutional heart team for a transcatheter aortic valve replacement. Among these, 101 were redirected to surgical aortic valve replacement (heart team group). These patients were compared with a surgical aortic valve replacement cohort (n = 506) without prior heart team screening (non-heart team group), taken from the same time period. Propensity score matching with bootstrap analysis was performed; 76 heart team patients were matched to 76 non-heart team patients. Early and late outcomes including survival and readmission for cardiovascular causes were compared.
+RESULTS: Matched subgroups were largely comparable; congestive heart failure and echocardiographic pulmonary hypertension were more prevalent in the heart team group. In-hospital mortality was significantly lower in the matched heart team group (0% vs 6.0%, bootstrap mean difference 6.0%, 95% confidence interval, 2.2-9.8). The risk of stroke, low cardiac output state, reexploration for bleeding, pneumonia, and prolonged ventilation was also significantly lower in the heart team group. There was no significant between-group difference regarding late survival (hazard ratio, 0.86, 95% confidence interval, 0.55-1.33, P = .49) or readmission for cardiovascular reasons (hazard ratio, 0.70, 95% confidence interval, 0.41-1.20, P = .19).
+CONCLUSIONS: Preoperative multidisciplinary assessment of octogenarians by a heart team was associated with lower in-hospital mortality and adverse events after surgical aortic valve replacement.
+
+Citation: Porterie J, et al. Clinical impact of the heart team on the outcomes of surgical aortic valve replacement among octogenarians. Clinical impact of the heart team on the outcomes of surgical aortic valve replacement among octogenarians. 2023; 165:1010-1019.e5. doi: 10.1016/j.jtcvs.2021.03.030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33840473/

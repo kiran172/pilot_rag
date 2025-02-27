@@ -1,0 +1,11 @@
+PMID: 38455720
+Title: Virtual calcium removal in calcified coronary arteries with photon-counting detector CT-first in-vivo experience.
+
+Abstract: PURPOSE: To evaluate the feasibility and accuracy of quantification of calcified coronary stenoses using virtual non-calcium (VNCa) images in coronary CT angiography (CCTA) with photon-counting detector (PCD) CT compared with quantitative coronary angiography (QCA).
+MATERIALS AND METHODS: This retrospective, institutional-review board approved study included consecutive patients with calcified coronary artery plaques undergoing CCTA with PCD-CT and invasive coronary angiography between July and December 2022. Virtual monoenergetic images (VMI) and VNCa images were reconstructed. Diameter stenoses were quantified on VMI and VNCa images by two readers. 3D-QCA served as the standard of reference. Measurements were compared using Bland-Altman analyses, Wilcoxon tests, and intraclass correlation coefficients (ICC).
+RESULTS: Thirty patients [mean age, 64 years ± 8 (standard deviation); 26 men] with 81 coronary stenoses from calcified plaques were included. Ten of the 81 stenoses (12%) had to be excluded because of erroneous plaque subtraction on VNCa images. Median diameter stenosis determined on 3D-QCA was 22% (interquartile range, 11%-35%; total range, 4%-88%). As compared with 3D-QCA, VMI overestimated diameter stenoses (mean differences -10%, p &lt; .001, ICC: .87 and -7%, p &lt; .001, ICC: .84 for reader 1 and 2, respectively), whereas VNCa images showed similar diameter stenoses (mean differences 0%, p = .68, ICC: .94 and 1%, p = .07, ICC: .93 for reader 1 and 2, respectively).
+CONCLUSION: First experience in mainly minimal to moderate stenoses suggests that virtual calcium removal in CCTA with PCD-CT, when feasible, has the potential to improve the quantification of calcified stenoses.
+
+Citation: Mergen V, et al. Virtual calcium removal in calcified coronary arteries with photon-counting detector CT-first in-vivo experience. Virtual calcium removal in calcified coronary arteries with photon-counting detector CT-first in-vivo experience. 2024; 11:1367463. doi: 10.3389/fcvm.2024.1367463
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38455720/

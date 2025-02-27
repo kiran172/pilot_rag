@@ -1,0 +1,11 @@
+PMID: 39231649
+Title: Non-HDL-C, Symptomatic Intracranial Arterial Stenosis, and Recurrent Vascular Risk in Minor Stroke.
+
+Abstract: AIM: We aimed to assess the association between non-high-density lipoprotein cholesterol (non-HDL-C) and symptomatic intracranial artery stenosis (sICAS), as well as the impact of non-HDL-C on recurrent vascular events in patients with mild ischemic stroke ( NIHSS score ≤ 5).
+METHODS: This prospective study was based on data from patients presenting within 72 hours of stroke occurrence. We included patients admitted to 8 Chinese hospitals between September 2019 and November 2021. The associations of non-HDL-C with sICAS and recurrent vascular risk were assessed using multivariate regression models and a restricted cubic spline analysis.
+RESULTS: Among the 2,544 patients analyzed at 12 months, 652 (25.6%) were diagnosed with sICAS. Elevated non-HDL-C was linked to a higher incidence of sICAS, and the adjusted odd ratios for quintile variables and continuous variables were 1.36 ([95% CI, 1.01-1.81]) and 1.14 ([95% CI, 1.04-1.24). In comparison to those in the first quintile, the adjusted hazard ratio of the fifth quintile of non-HDL-C was 1.19 ([95% CI 0.78-1.80]) for recurrent ischemic stroke and was 0.39 ([95% CI, 0.17-0.91]) for intracranialhemorrhage.
+CONCLUSIONS: The non-HDL-C level may be a useful predictor of sICAS. Higher non-HDL-C levels may be associated with a lower risk of intracranial hemorrhage in mild, noncardiogenic stroke, but not a higher risk of recurrent ischemic stroke.
+
+Citation: Fan H, et al. Non-HDL-C, Symptomatic Intracranial Arterial Stenosis, and Recurrent Vascular Risk in Minor Stroke. Non-HDL-C, Symptomatic Intracranial Arterial Stenosis, and Recurrent Vascular Risk in Minor Stroke. 2024; (unknown volume):(unknown pages). doi: 10.5551/jat.64987
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39231649/

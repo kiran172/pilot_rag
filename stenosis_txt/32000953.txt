@@ -1,0 +1,12 @@
+PMID: 32000953
+Title: Utilization and Outcomes of Measuring Fractional Flow Reserve in Patients With Stable Ischemic Heart Disease.
+
+Abstract: BACKGROUND: The use and clinical outcomes of fractional flow reserve (FFR) measurement in patients with stable ischemic heart disease (SIHD) are uncertain, as prior studies have been based on selected populations.
+OBJECTIVES: This study sought to evaluate contemporary, real-world patterns of FFR use and its effect on outcomes among unselected patients with SIHD and angiographically intermediate stenoses.
+METHODS: The authors used data from the Veterans Affairs Clinical Assessment, Reporting, and Tracking (CART) Program to analyze patients who underwent coronary angiography between January 1, 2009, and September 30, 2017, and had SIHD with angiographically intermediate disease (40% to 69% diameter stenosis on visual inspection). The authors documented trends in FFR utilization and evaluated predictors using generalized mixed models. They applied Cox proportional hazards models to determine the association between an FFR-guided revascularization strategy and all-cause mortality at 1 year.
+RESULTS: A total of 17,989 patients at 66 sites were included. The rate of FFR use gradually increased from 14.8% to 18.5% among all patients with intermediate lesions, and from 44% to 75% among patients who underwent percutaneous coronary intervention. One-year mortality was 2.8% in the FFR group and 5.9% in the angiography-only group (p < 0.0001). After adjustment for patient, site-level, and procedural factors, FFR-guided revascularization was associated with a 43% lower risk of mortality at 1 year compared with angiography-only revascularization (hazard ratio: 0.57; 95% confidence interval: 0.45 to 0.71; p < 0.0001).
+CONCLUSIONS: In patients with SIHD and angiographically intermediate stenoses, use of FFR has slowly risen, and was associated with significantly lower 1-year mortality.
+
+Citation: Parikh RV, et al. Utilization and Outcomes of Measuring Fractional Flow Reserve in Patients With Stable Ischemic Heart Disease. Utilization and Outcomes of Measuring Fractional Flow Reserve in Patients With Stable Ischemic Heart Disease. 2020; 75:409-419. doi: 10.1016/j.jacc.2019.10.060
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32000953/

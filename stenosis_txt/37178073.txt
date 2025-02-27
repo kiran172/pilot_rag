@@ -1,0 +1,12 @@
+PMID: 37178073
+Title: Prevalence of Aortic Valve Calcium and the Long-Term Risk of Incident Severe Aortic Stenosis.
+
+Abstract: BACKGROUND: Aortic valve calcification (AVC) is a principal mechanism underlying aortic stenosis (AS).
+OBJECTIVES: This study sought to determine the prevalence of AVC and its association with the long-term risk for severe AS.
+METHODS: Noncontrast cardiac computed tomography was performed among 6,814 participants free of known cardiovascular disease at MESA (Multi-Ethnic Study of Atherosclerosis) visit 1. AVC was quantified using the Agatston method, and normative age-, sex-, and race/ethnicity-specific AVC percentiles were derived. The adjudication of severe AS was performed via chart review of all hospital visits and supplemented with visit 6 echocardiographic data. The association between AVC and long-term incident severe AS was evaluated using multivariable Cox HRs.
+RESULTS: AVC was present in 913 participants (13.4%). The probability of AVC >0 and AVC scores increased with age and were generally highest among men and White participants. In general, the probability of AVC >0 among women was equivalent to men of the same race/ethnicity who were approximately 10 years younger. Incident adjudicated severe AS occurred in 84 participants over a median follow-up of 16.7 years. Higher AVC scores were exponentially associated with the absolute risk and relative risk of severe AS with adjusted HRs of 12.9 (95% CI: 5.6-29.7), 76.4 (95% CI: 34.3-170.2), and 380.9 (95% CI: 169.7-855.0) for AVC groups 1 to 99, 100 to 299, and ≥300 compared with AVC = 0.
+CONCLUSIONS: The probability of AVC >0 varied significantly by age, sex, and race/ethnicity. The risk of severe AS was exponentially higher with higher AVC scores, whereas AVC = 0 was associated with an extremely low long-term risk of severe AS. The measurement of AVC provides clinically relevant information to assess an individual's long-term risk for severe AS.
+
+Citation: Whelton SP, et al. Prevalence of Aortic Valve Calcium and the Long-Term Risk of Incident Severe Aortic Stenosis. Prevalence of Aortic Valve Calcium and the Long-Term Risk of Incident Severe Aortic Stenosis. 2024; 17:31-42. doi: 10.1016/j.jcmg.2023.02.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37178073/

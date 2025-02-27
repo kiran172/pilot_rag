@@ -1,0 +1,8 @@
+PMID: 38929357
+Title: Insights into Atresia Ani Type IV in Felis catus: Preliminary Epidemiolocal Findings Associated with Surgery.
+
+Abstract: Atresia Ani (AA) is a rare congenital anomaly in companion animals affecting rectal and anal development. Its incidence in cats remains unreported. This retrospective study aimed to characterize age, body condition, fistula size, and perioperative outcomes in Type IV Atresia Ani (with recto-vaginal fistula) in female cats. Surgical intervention is the primary treatment. Conducted over 2 years, the study included nine female cats diagnosed with Type IV Atresia Ani and recto-vaginal fistula undergoing surgery. Statistical analysis used the R program (version 4.2.1) with Rstudio®® extension. Significant results were observed at a 95% confidence interval and p &lt; 0.05. The condition had an incidence of 4.7% among the 192 cats evaluated over a 2-year period. The findings suggest that a body condition score of 3, an age of 3 to 4 weeks, and a fistula length of 1 to 2 mm correlated with better surgical outcomes, reducing the likelihood of fecal incontinence and anal stenosis development, and enhancing defecation awareness during the perioperative period. This study is the first to report the disease incidence in cats undergoing surgery, according to the authors' knowledge.
+
+Citation: Nascimento D, et al. Insights into Atresia Ani Type IV in Felis catus: Preliminary Epidemiolocal Findings Associated with Surgery. Insights into Atresia Ani Type IV in Felis catus: Preliminary Epidemiolocal Findings Associated with Surgery. 2024; 14:(unknown pages). doi: 10.3390/ani14121738
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38929357/

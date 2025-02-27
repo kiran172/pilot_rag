@@ -1,0 +1,12 @@
+PMID: 32138963
+Title: Tricuspid Intervention Following Pulmonary Valve Replacement in Adults With Congenital Heart Disease.
+
+Abstract: BACKGROUND: Tricuspid regurgitation (TR) is common among adults with corrected tetralogy of Fallot (TOF) or pulmonary stenosis (PS) referred for pulmonary valve replacement (PVR). Yet, combined valve surgery remains controversial.
+OBJECTIVES: This study sought to evaluate the impact of concomitant tricuspid valve intervention (TVI) on post-operative TR, length of hospital stay, and on a composite endpoint consisting of 7 early adverse events (death, reintervention, cardiac electronic device implantation, infection, thromboembolic event, hemodialysis, and readmission).
+METHODS: The national Canadian cohort enrolled 542 patients with TOF or PS and mild to severe TR who underwent isolated PVR (66.8%) or PVR+TVI (33.2%). Outcomes were abstracted from charts and compared between groups using multivariable logistic and negative binomial regression.
+RESULTS: Median age at reintervention was 35.3 years. Regardless of surgery type, TR decreased by at least 1 echocardiographic grade in 35.4%, 66.9%, and 92.8% of patients with pre-operative mild, moderate, and severe insufficiency. In multivariable analyses, PVR+TVI was associated with an additional 2.3-fold reduction in TR grade (odds ratio [OR]: 0.44; 95% confidence interval [CI]: 0.25 to 0.77) without an increase in early adverse events (OR: 0.85; 95% CI: 0.46 to 1.57) or hospitalization time (incidence rate ratio: 1.17; 95% CI: 0.93 to 1.46). Pre-operative TR severity and presence of transvalvular leads independently predicted post-operative TR. In contrast, early adverse events were strongly associated with atrial tachyarrhythmia, extracardiac arteriopathy, and a high body mass index.
+CONCLUSIONS: In patients with TOF or PS and significant TR, concomitant TVI is safe and results in better early tricuspid valve competence than isolated PVR.
+
+Citation: Deshaies C, et al. Tricuspid Intervention Following Pulmonary Valve Replacement in Adults With Congenital Heart Disease. Tricuspid Intervention Following Pulmonary Valve Replacement in Adults With Congenital Heart Disease. 2020; 75:1033-1043. doi: 10.1016/j.jacc.2019.12.053
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32138963/

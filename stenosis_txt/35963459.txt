@@ -1,0 +1,11 @@
+PMID: 35963459
+Title: The role of patch closure in current-day carotid endarterectomy.
+
+Abstract: BACKGROUND: It has long been debated whether it is preferable to perform conventional carotid endarterectomy (CEA) with or without patch closure. Although most contemporary surgeons patch, many still do not. Recent small studies have surfaced implying patching is unnecessary. The objective of our analysis was to determine the difference in short- and long-term outcomes according to patch use in a large modern, cross-specialty database.
+METHODS: Analyzing more than 118,000 records from the Vascular Quality Initiative, multimodel inference was used to evaluate the effect of patch use on important outcomes of conventional CEA. The composite short-term outcome included any ipsilateral neurological event, return to the operating room for a neurological event, and an increase in the Rankin score postoperatively. Late composite outcome incorporated restenosis as well as early and late ipsilateral neurological events.
+RESULTS: Patch use for conventional CEA closure was found to be a strong predictor of both early and late outcomes, as evidenced by its Akaike importance weight of 0.99. Examining predischarge events, patch closure is associated with a decrease in major negative events (odds ratio, 0.5; 95% confidence interval, 0.4-0.6). For long-term events, such closure offers a decrease in untoward outcome (odds ratio, 0.8; 95% confidence interval, 0.7-0.9).
+CONCLUSIONS: Analysis in a large current-day database suggests that patch closure of conventional CEA effects superior short- and long-term outcomes.
+
+Citation: Zaza SI and Bennett KM. The role of patch closure in current-day carotid endarterectomy. The role of patch closure in current-day carotid endarterectomy. 2023; 77:170-175.e2. doi: 10.1016/j.jvs.2022.08.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35963459/

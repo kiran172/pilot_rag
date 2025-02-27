@@ -1,0 +1,14 @@
+PMID: 39052898
+Title: Toward a Diagnostic Imaging Algorithm for Undifferentiated Pulsatile Tinnitus.
+
+Abstract: OBJECTIVE: Decisions around the diagnostic evaluation for pulsatile tinnitus (PT) remain challenging. We describe the usage patterns and diagnostic accuracy of imaging modalities and propose an evidence-based diagnostic approach for undifferentiated PT.
+STUDY DESIGN: Retrospective.
+SETTING: Single otology/neurotology clinic.
+SUBJECTS: Patients with PT presenting between 2009 and 2020.
+MAIN OUTCOME MEASURES: Sensitivity, specificity, diagnostic yield, and diagnostic accuracy.
+RESULTS: A total of 315 subjects met inclusion criteria (74% female, mean ± SD age = 52 ± 17 years). Subjects were divided into four cohorts based on exam findings: normal (n = 229), venous cohort (n = 34), arterial cohort (n = 16), and outer/middle ear pathology cohort (n = 40). In total, 53% of patients received a nonidiopathic diagnosis for PT. The most common identifiable cause was sigmoid sinus dehiscence (78%) in the venous cohort, carotid stenosis (36%) in the arterial cohort, and glomus tumor (56%) in the outer/middle ear pathology cohort. There was a higher diagnostic rate among patients with positive exam findings compared to those with unrevealing exams ( p = 0.04). Imaging studies with the highest diagnostic yield were computed tomography (CT) venography (44%), formal angiography (42%), and magnetic resonance venography (40%); studies with the highest specificity were formal angiography (0.82), CT angiography (0.67), and CT venography (0.67). A diagnostic algorithm is proposed.
+CONCLUSIONS: Reaching a diagnosis in patients with PT requires a systematic approach, taking into account both clinical and radiographic information. Physical examination is a key first step for differentiating patients into venous, arterial, and other cohorts to narrow down the likely pathology and determine which radiographic studies have the highest yield and accuracy.
+
+Citation: Cavarocchi C, et al. Toward a Diagnostic Imaging Algorithm for Undifferentiated Pulsatile Tinnitus. Toward a Diagnostic Imaging Algorithm for Undifferentiated Pulsatile Tinnitus. 2024; 45:895-900. doi: 10.1097/MAO.0000000000004254
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39052898/

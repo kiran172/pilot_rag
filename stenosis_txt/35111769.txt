@@ -1,0 +1,11 @@
+PMID: 35111769
+Title: Non-alcoholic Fatty Liver Disease and Longitudinal Cognitive Changes in Middle-Aged and Elderly Adults.
+
+Abstract: BACKGROUND AND PURPOSE: Non-alcoholic fatty liver disease (NAFLD) and cognitive impairment are common aging-related disorders. This study aims to explore the changes of cognitive function in middle-aged and elderly population with NAFLD from a Jidong impairment cohort.
+METHODS: A total of 1,651 middle-aged and elderly participants (>40 years) without cognitive impairment were recruited into the current study in 2015 and were followed up until to 2019. Abdominal ultrasonography was used for diagnosis of NAFLD. Global cognitive function was assessed with the Mini-Mental State Examination (MMSE). Cognitive impairment was defined as a score <18 for illiterates, a score <21 for primary school graduates, and a score <25 for junior school graduates or above. Multivariable regression analysis was performed to evaluate the association between NAFLD and the four-year cognitive changes.
+RESULTS: Out of 1,651 participants, 795 (48.2%) of them had NAFLD in 2015. Cognitive impairment occurred in 241 (14.6%) participants in 2019. Patients with NAFLD had higher 4-year incidence of cognitive impairment than non-NAFLD patients did (17.7 vs. 11.7%, p &lt; 0.001). Multivariable linear regression analysis showed significant association of baseline NAFLD with lower MMSE score in 2019 (β = -0.36, p &lt; 0.05). Multivariable logistic analysis found that the adjusted odds ratio (OR) with 95% confidence interval (CI) of baseline NAFLD was 1.45 (1.00-2.11) for cognitive impairment in 2019 (p = 0.05). We also identified effects of baseline NAFLD on subsequent cognitive impairment as modified by age (interaction p &lt; 0.01) and carotid stenosis (interaction p = 0.05) but not by gender.
+CONCLUSIONS: NAFLD is associated with cognitive decline, especially in middle-aged and with carotid stenosis population.
+
+Citation: Liu Q, et al. Non-alcoholic Fatty Liver Disease and Longitudinal Cognitive Changes in Middle-Aged and Elderly Adults. Non-alcoholic Fatty Liver Disease and Longitudinal Cognitive Changes in Middle-Aged and Elderly Adults. 2021; 8:738835. doi: 10.3389/fmed.2021.738835
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35111769/

@@ -1,0 +1,10 @@
+PMID: 37259126
+Title: Effect of cartilaginous rings in tracheal flow with stenosis.
+
+Abstract: BACKGROUND: In respiratory fluid dynamics research, it is typically assumed that the wall of the trachea is smooth. However, the trachea is structurally supported by a series of cartilaginous rings that create undulations on the wall surface, which introduce perturbations into the flow. Even though many studies use realistic Computer Tomography (CT) scan data to capture the complex geometry of the respiratory system, its limited spatial resolution does not resolve small features, including those introduced by the cartilaginous rings.
+RESULTS: Here we present an experimental comparison of two simplified trachea models with Grade II stenosis (70% blockage), one with smooth walls and second with cartilaginous rings. The use a unique refractive index-matching method provides unprecedented optical access and allowed us to perform non-intrusive velocity field measurements close to the wall (e.g., Particle Image Velocimetry (PIV)). Measurements were performed in a flow regime comparable to a resting breathing state (Reynolds number Re<sub>D</sub> = 3350). The cartilaginous rings induce velocity fluctuations in the downstream flow, enhancing the near-wall transport of momentum flux and thus reducing flow separation in the downstream flow. The maximum upstream velocity in the recirculation region is reduced by 38%, resulting in a much weaker recirculation zone- a direct consequence of the cartilaginous rings.
+CONCLUSIONS: These results highlight the importance of the cartilaginous rings in respiratory flow studies and the mechanism to reduce flow separation in trachea stenosis.
+
+Citation: Bocanegra Evans H, et al. Effect of cartilaginous rings in tracheal flow with stenosis. Effect of cartilaginous rings in tracheal flow with stenosis. 2023; 5:5. doi: 10.1186/s42490-023-00068-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37259126/

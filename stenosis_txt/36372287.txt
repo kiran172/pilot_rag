@@ -1,0 +1,12 @@
+PMID: 36372287
+Title: Combined use of hyperemic and non-hyperemic pressure ratios for revascularization decision-making: From the ILIAS registry.
+
+Abstract: OBJECTIVE: The aim of this study is to evaluate the diagnostic and prognostic value of non-hyperaemic Pd/Pa and to determine its additional value when combined with the gold standard hyperaemic pressure ratio (FFR) to guide revascularization.
+METHODS: In a large, multi-center, retrospective registry, we included a total of 2141 patients with a clinical indication for coronary angiography providing physiological data in 2726 vessels. A classification was made based on the FFR (cut-off value: 0.80) and non-hyperaemic Pd/Pa (cut-off value: 0.92) values and the primary outcome was target-vessel failure (TVF) at 5-year follow-up.
+RESULTS: Mean age was 63 ± 10.0 and 75% of the study population were men. Regression analysis showed an overall good correlation between FFR and non-hyperaemic Pd/Pa (r = 0.73, p < 0.005) and discordance was present in 17% of the vessels. Resting Pd/Pa was independently associated with TVF at 5-year follow-up (HR 0.08, 95%CI: 0.02-0.27; p < 0.005). The risk for TVF was the lowest in vessles with concordant normal pressure ratio's, with the highest risk in vessels with any abnormal pressure ratio in which revascularization was deferred. In these vessels, there was no difference in risk for TVF between the discordant and concordant abnormal values.
+CONCLUSION: Abnormal pressure ratios in both non-hyperemic and hyperemic conditions portend important prognostic value. Combined application of FFR and non-hyperemic Pd/Pa efficiently identifies those vessels with concordant normal resting and hyperemic pressure ratios of which long-term clinical outcomes are excellent. These data lead to hypothesize that the decision to defer revascularization should potentially be based on combined non-hyperemic and hyperemic pressure ratios.
+CLINICAL TRIAL REGISTRATION: Inclusive Invasive Physiological Assessment in Angina Syndromes Registry (ILIAS Registry), NCT04485234.
+
+Citation: Boerhout CKM, et al. Combined use of hyperemic and non-hyperemic pressure ratios for revascularization decision-making: From the ILIAS registry. Combined use of hyperemic and non-hyperemic pressure ratios for revascularization decision-making: From the ILIAS registry. 2023; 370:105-111. doi: 10.1016/j.ijcard.2022.11.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36372287/

@@ -1,0 +1,11 @@
+PMID: 37855304
+Title: Performance of a novel artificial intelligence software developed to derive coronary fractional flow reserve values from diagnostic angiograms.
+
+Abstract: BACKGROUND: Although invasive measurement of fractional flow reserve (FFR) is recommended to guide revascularization, its routine use is underutilized. Recently, a novel non-invasive software that can instantaneously produce FFR values from the diagnostic angiograms, derived completely from artificial intelligence (AI) algorithms has been developed. We aim to assess the accuracy and diagnostic performance of AI-FFR in a real-world retrospective study.
+METHODS: Retrospective, three-center study comparing AI-FFR values with invasive pressure wire-derived FFR obtained in patients undergoing routine diagnostic angiography. The accuracy, sensitivity, and specificity of AI-FFR were analyzed.
+RESULTS: A total of 304 vessels from 297 patients were included. Mean invasive FFR was 0.86 vs. 0.85 AI-FFR (mean difference: -0.005, P  = 0.159). The diagnostic performance of AI-FFR demonstrated sensitivity of 91%, specificity 95%, positive predictive value 83% and negative predictive value 97%. Overall accuracy was 94% and the area under curve was 0.93 (95% CI 0.88-0.97). 105 lesions fell around the cutoff value (FFR = 0.75-0.85); in this sub-group, AI-FFR demonstrated sensitivity of 95%, and specificity 94%, with an AUC of 0.94 (95% CI 88.2-98.0). AI-FFR calculation time was 37.5 ± 7.4 s for each angiographic video. In 89% of cases, the software located the target lesion and in 11%, the operator manually marked the target lesion.
+CONCLUSION: AI-FFR calculated by an AI-based, angio-derived method, demonstrated excellent diagnostic performance against invasive FFR. AI-FFR calculation was fast with high reproducibility.
+
+Citation: Ben-Assa E, et al. Performance of a novel artificial intelligence software developed to derive coronary fractional flow reserve values from diagnostic angiograms. Performance of a novel artificial intelligence software developed to derive coronary fractional flow reserve values from diagnostic angiograms. 2023; 34:533-541. doi: 10.1097/MCA.0000000000001305
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37855304/

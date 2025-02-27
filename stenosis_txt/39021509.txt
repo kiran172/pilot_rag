@@ -1,0 +1,8 @@
+PMID: 39021509
+Title: Unlocking the potential of photon counting detector CT for paediatric imaging: a pictorial essay.
+
+Abstract: Recent advancements in CT technology have introduced a revolutionary innovation to practice known as the Photon-Counting detector (PCD) CT imaging. The pivotal hardware enhancement of the PCD-CT scanner lies in its detectors, which consist of smaller pixels than standard detectors and allow direct conversion of individual X-rays to electrical signals. As a result, CT images are reconstructed at higher spatial resolution (as low as 0.2 mm) and reduced overall noise, at no expense of an increased radiation dose. These features are crucial for paediatric imaging, especially for infants and young children, where anatomical structures are notably smaller than in adults and in whom keeping dose as low as possible is especially relevant. Since January 2022, our hospital has had the opportunity to work with PCD-CT technology for paediatric imaging. This pictorial review will showcase clinical examples of PCD-CT imaging in children. The aim of this pictorial review is to outline the potential paediatric applications of PCD-CT across different anatomical regions, as well as to discuss the benefits in utilizing PCD-CT in comparison to conventional standard energy integrating detector CT.
+
+Citation: Aliukonyte I, et al. Unlocking the potential of photon counting detector CT for paediatric imaging: a pictorial essay. Unlocking the potential of photon counting detector CT for paediatric imaging: a pictorial essay. 2024; 6:tzae015. doi: 10.1093/bjro/tzae015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39021509/

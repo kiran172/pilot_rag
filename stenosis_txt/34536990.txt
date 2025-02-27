@@ -1,0 +1,11 @@
+PMID: 34536990
+Title: Prognostic implications of valvular heart disease in patients with non-valvular atrial fibrillation.
+
+Abstract: BACKGROUND: Valvular heart disease (VHD) in non-valvular atrial fibrillation (AF) is a puzzling clinical entity. The aim of this study was to evaluate the prognostic effect of significant VHD (sVHD) among patients with non-valvular AF.
+METHODS: This is a post-hoc analysis of the MISOAC-AF trial (NCT02941978). Consecutive inpatients with non-valvular AF who underwent echocardiography were included. sVHD was defined as the presence of at least moderate aortic stenosis (AS) or aortic/mitral/tricuspid regurgitation (AR/MR/TR). Cox regression analyses with covariate adjustments were used for outcome prediction.
+RESULTS: In total, 983 patients with non-valvular AF (median age 76 [14] years) were analyzed over a median follow-up period of 32 [20] months. sVHD was diagnosed in 575 (58.5%) AF patients. sVHD was associated with all-cause mortality (21.6%/yr vs. 6.5%/yr; adjusted HR [aHR] 1.55, 95% confidence interval [CI] 1.17-2.06; p = 0.02), cardiovascular mortality (16%/yr vs. 4%/yr; aHR 1.70, 95% CI 1.09-2.66; p = 0.02) and heart failure-hospitalization (5.8%/yr vs. 1.8%/yr; aHR 2.53, 95% CI 1.35-4.63; p = 0.02). The prognostic effect of sVHD was particularly evident in patients aged < 80 years and in those without history of heart failure (p for interaction < 0.05, in both subgroups). After multivariable adjustment, moderate/severe AS and TR were associated with mortality, while AS and MR with heart failure-hospitalization.
+CONCLUSION: Among patients with non-valvular AF, sVHD was highly prevalent and beared high prognostic value across a wide spectrum of clinical outcomes, especially in patients aged < 80 years or in the absence of heart failure. Predominantly AS, as well as MR and TR, were associated with worse prognosis.
+
+Citation: Samaras A, et al. Prognostic implications of valvular heart disease in patients with non-valvular atrial fibrillation. Prognostic implications of valvular heart disease in patients with non-valvular atrial fibrillation. 2021; 21:453. doi: 10.1186/s12872-021-02264-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34536990/

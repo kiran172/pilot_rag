@@ -1,0 +1,12 @@
+PMID: 32012438
+Title: Optical coherence tomography-defined plaque vulnerability in relation to functional stenosis severity stratified by fractional flow reserve and quantitative flow ratio.
+
+Abstract: OBJECTIVES: We sought to investigate that the quantitative flow ratio (QFR) might be associated with optical coherence tomography (OCT)-defined plaque vulnerability.
+BACKGROUND: Both functional stenosis severity and plaque instability are related to adverse clinical outcomes in patients with coronary artery disease. Recent studies have shown an association between physiological stenosis severity and the presence of thin-cap fibroatheroma (TCFA). Measurement of QFR is a novel method for rapid computational estimation of fractional flow reserve (FFR).
+METHODS: We investigated 327 de novo intermediate-to-severe coronary lesions in 295 stable patients who underwent OCT, FFR, and QFR computation. The lesions were divided into tertiles based on either the FFR or QFR. The OCT findings were compared among these tertiles of FFR and QFR. Each tertile was defined as follows: FFR-T1 (FFR < 0.72), FFR-T2 (0.72 ≤ FFR ≤ 0.79), and FFR-T3 (FFR > 0.79) and QFR-T1 (QFR < 0.73), QFR-T2 (0.73 ≤ QFR ≤ 0.78), and QFR-T3 (QFR > 0.78).
+RESULTS: The prevalence of OCT-defined TCFA showed graded differences in proportion to the QFR tertiles (25.0% vs. 12.8% vs. 6.6%, p = .003). An overall significant difference in the prevalence of TCFA was found among FFR tertiles (p = .048), although pairwise comparison did not show statistical significance. Compared with FFR-based classifications, the model that integrated the FFR and QFR categorization improved the incremental reclassification efficacy (relative integrated discrimination improvement, 0.069; p = .002; continuous net reclassification improvement, 0.356; p = .022) for predicting the presence of TCFA.
+CONCLUSIONS: OCT-defined plaque instability was associated with the QFR in angiographically intermediate-to-severe lesions. Compared with the FFR alone, the QFR can provide incremental efficacy in predicting the presence of TCFA.
+
+Citation: Kanno Y, et al. Optical coherence tomography-defined plaque vulnerability in relation to functional stenosis severity stratified by fractional flow reserve and quantitative flow ratio. Optical coherence tomography-defined plaque vulnerability in relation to functional stenosis severity stratified by fractional flow reserve and quantitative flow ratio. 2020; 96:E238-E247. doi: 10.1002/ccd.28756
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32012438/

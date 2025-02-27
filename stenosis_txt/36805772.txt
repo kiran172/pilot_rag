@@ -1,0 +1,12 @@
+PMID: 36805772
+Title: Soluble low-density lipoprotein receptor-related protein 1 as a surrogate marker of carotid plaque inflammation assessed by 18F-FDG PET in patients with a recent ischemic stroke.
+
+Abstract: BACKGROUND: 18F-fluorodeoxyglucose positron emission tomography (18F-FDG PET) identifies carotid plaque inflammation and predicts stroke recurrence.
+AIM: Our aim was to evaluate the performance of soluble low-density lipoprotein receptor-related protein 1 (sLRP1) as an indicator of carotid plaque inflammation.
+METHODS: A prospective study was conducted among adult patients with recent (&lt; 7 days) anterior circulation ischemic stroke and at least one atherosclerotic plaque in the ipsilateral internal carotid artery. Patients underwent an early (&lt; 15 days from inclusion) 18F-FDG PET, and the maximum standardized uptake value (SUVmax) within the plaque was measured. sLRP1 levels were measured in plasma samples by ELISA. The association of sLRP1 with SUVmax was assessed using bivariate and multivariable linear regression analyses. Hazard ratios (HR) were estimated with Cox regression to evaluate the association between circulating sLRP1 and stroke recurrence.
+RESULTS: The study was conducted with 64 participants, of which 57.8% had ≥ 50% carotid stenosis. The multivariable linear and logistic regression analyses showed that sLRP1 was independently associated with (i) SUVmax within the plaque (β = 0.159, 95% CI 0.062-0.257, p = 0.002) and (ii) a probability of presenting SUVmax ≥ 2.85 g/mL (OR = 1.31, 95% CI 1.00-1.01, p = 0.046), respectively. Participants with stroke recurrence showed higher sLRP1 levels at baseline [6447 ng/mL (4897-11163) vs. 3713 ng/mL (2793-4730); p = 0.018].
+CONCLUSIONS: sLRP1 was independently associated with carotid plaque inflammation as measured by 18F-FDG PET in patients with recent ischemic stroke and carotid atherosclerosis.
+
+Citation: Garcia E, et al. Soluble low-density lipoprotein receptor-related protein 1 as a surrogate marker of carotid plaque inflammation assessed by 18F-FDG PET in patients with a recent ischemic stroke. Soluble low-density lipoprotein receptor-related protein 1 as a surrogate marker of carotid plaque inflammation assessed by 18F-FDG PET in patients with a recent ischemic stroke. 2023; 21:131. doi: 10.1186/s12967-022-03867-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36805772/

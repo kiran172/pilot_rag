@@ -1,0 +1,13 @@
+PMID: 36776531
+Title: Effects of different stent size selection on pipeline embolization device treatment of intracranial aneurysms.
+
+Abstract: BACKGROUND: Pipeline embolization device (PED) is becoming increasingly common in therapeutic practice. In idealized model studies, treatment effectiveness may vary with different stent sizes in the same vasculature. The true effect of stent size selection in the clinical setting remains unknown, however.
+OBJECTIVE: To determine the true effect of stent size selection in the clinical setting.
+DESIGN: It is a retrospective review.
+METHODS: A retrospective review was conducted on consecutive patients with aneurysms treated with a PED at our institution. The primary exposures were the difference between the diameter of the stent and the parent artery (DD) and the difference between the length of the stent and the aneurysm neck (DL). The outcomes were the clinical and angiographic results, perioperative complications, balloon application, and in-stent stenosis. The results were generated using univariable and multivariable logistic regression and restricted cubic spline (RCS) curves.
+RESULTS: A larger DD was significantly associated with incomplete occlusion [odds ratio (OR) = 2.37; 95% confidence interval (CI) = 1.43-3.98; p &lt; 0.001], while a larger DL was significantly associated with balloon application (OR = 1.12; 95% CI = 1.02-1.23; p = 0.021) and in-stent stenosis (&gt;25%) (OR = 1.07; 95% CI = 1.01-1.16; p = 0.042). The RCS curve indicated that the risk of incomplete occlusion increased as the DD became larger, the possibility of balloon application increased as the DL increased when the DL was &gt;5.7 mm, and the risk of in-stent stenosis (&gt;25%) increased as the DL increased.
+CONCLUSION: In the clinical setting, stent selection was associated with treatment effectiveness and may add to the treatment burden. These occurrences should be considered for aneurysms treated with PED.
+
+Citation: Tong X, et al. Effects of different stent size selection on pipeline embolization device treatment of intracranial aneurysms. Effects of different stent size selection on pipeline embolization device treatment of intracranial aneurysms. 2023; 16:17562864231151475. doi: 10.1177/17562864231151475
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36776531/

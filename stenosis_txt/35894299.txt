@@ -1,0 +1,8 @@
+PMID: 35894299
+Title: Biomechanical analysis of tracheal stent during cough reflex.
+
+Abstract: Tracheal stenting is a common method which is widely used to cure different tracheal disorders including airways stenosis, chronic coughs, and accidents. In this study, we aimed to analyze the reaction of the trachea wall to exhale in three phases of light, moderate, and vigorous activities at air flows of 15 L/min (light), 26 L/min (medium), and 30 L/min (vigorous). Fluid structure interaction (FSI) was used for the numerical analysis using computed tomography (CT) images. The flow was assumed incompressible and turbulent. The stent is silicone with a Young's modulus equal to 1 MPa, Poisson's ratio 0.28, and density of 2330 kg/m3. The stent length was 60 mm and fix support boundary condition was applied for all inputs and outputs. Numerical simulation was performed using ANSYS software. The induced stresses, strains, wall deformation, flow pressure, and the flow velocity were obtained. The results showed that the stent prevented the local deformation of the wall of trachea and it reduced the induced strain in the position. But the stenting could lead to stress concentration. Finally, the stent prevented the damage to the trachea muscles during coughs in row.
+
+Citation: Hassani K and Kazem Golmohammadi M. Biomechanical analysis of tracheal stent during cough reflex. Biomechanical analysis of tracheal stent during cough reflex. 2022; 236:1449-1456. doi: 10.1177/09544119221112533
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35894299/

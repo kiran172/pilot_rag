@@ -1,0 +1,11 @@
+PMID: 39350479
+Title: Predictors of recurrent restenosis after repeat drug-coated balloon therapy for drug-coated balloon restenosis in femoropopliteal lesions: Results of the RECURRENCE study.
+
+Abstract: BACKGROUND: Despite the widespread use of drug-coated balloons (DCBs) for femoropopliteal (FP) lesions, there is still no consensus on treatment strategies for DCB restenosis. This study aimed to determine the risk factors for recurrent restenosis after repeat DCB therapy for DCB restenosis in FP lesions.
+METHODS: This multicenter retrospective study assessed 1176 consecutive limbs in 860 patients who successfully received initial DCB therapy for FP lesions at four cardiovascular centers between May 2018 and December 2022. Among these patients, 118 consecutive limbs of 104 patients treated via repeat DCB for primary DCB restenosis were enrolled.
+RESULTS: The Kaplan-Meier estimate of freedom from recurrent restenosis was 74.6% at 1 year. Cox proportional hazard multivariate analysis revealed that recurrent restenosis was independently associated with the time from initial DCB to primary restenosis (hazard ratio [HR], 0.85; 95% confidence interval [CI], 0.79-0.92; p < 0.001), history of ≥2 endovascular therapies (EVTs) (HR, 3.11; 95%CI, 1.36-7.12; p = 0.007), and PACSS grade 3 or 4 (HR, 2.76; 95%CI, 1.15-6.63; p = 0.023). Furthermore, receiver operating characteristic curve analysis showed that the cutoff value of the time from initial DCB to primary restenosis to prevent recurrent restenosis was 12.6 months, with an area under the curve of 0.841 (p < 0.001).
+CONCLUSION: Repeat DCB therapy for DCB restenosis might be an acceptable strategy, particularly for restenosis that occurred more than 12.6 months after initial DCB, given the rate of freedom from recurrent restenosis.
+
+Citation: Yanagiuchi T, et al. Predictors of recurrent restenosis after repeat drug-coated balloon therapy for drug-coated balloon restenosis in femoropopliteal lesions: Results of the RECURRENCE study. Predictors of recurrent restenosis after repeat drug-coated balloon therapy for drug-coated balloon restenosis in femoropopliteal lesions: Results of the RECURRENCE study. 2024; 104:1241-1250. doi: 10.1002/ccd.31245
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39350479/

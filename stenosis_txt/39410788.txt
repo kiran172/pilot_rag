@@ -1,0 +1,11 @@
+PMID: 39410788
+Title: Comparative analysis of retinal microvascular parameters in healthy individuals with or without carotid artery stenosis or plaque.
+
+Abstract: PURPOSE: To evaluate the correlations between retinal microvascular changes and carotid artery stenosis (CAS) with and without plaques using fundus photography.
+METHODS: Patients who had undergone bilateral carotid ultrasonography and bilateral fundus photography were divided into the following groups based on the carotid intima-media thickness (IMT) determined via ultrasonography in this retrospective, observational study: the control and CAS (comprising CAS with and without plaque subgroups) groups. The following retinal indicators were determined via fundus photography based on a deep learning algorithm: the arteriole-to-venule ratio (AVR), whole retinal fractal dimension (FD), arteriolar fractal dimension (AFD), venular fractal dimension (VFD), vascular density (VD), and VD within 3 mm (VD<sub>3mm</sub>) and 5 mm (VD<sub>5mm</sub>) from the macular fovea. The correlations between these indicators and IMT were also assessed.
+RESULTS: In total, 715 participants, comprising 313 participants with CAS (CAS group; 91 with plaque and 222 without plaque) and 402 participants without CAS (control group), participated in this study. AFD, VFD, and FD in the CAS group were significantly lower than those in the control group (all p &lt; 0.001). VD, VD<sub>3mm</sub>, and VD<sub>5mm</sub> showed significant differences between the groups (all p &lt; 0.05). VFD in the CAS with plaque group was lower than that in the group without plaque (p = 0.014). VD<sub>3mm</sub>, and VD<sub>5mm</sub> showed significantly negative correlations with IMT<sub>min</sub> in the CAS subgroup.
+CONCLUSIONS: AFD, VFD, FD, VD, VD<sub>3 mm</sub>, and VD<sub>5 mm</sub> decreased, and fundus photography based on deep learning algorithm may provide new approaches for screening of CAS.
+
+Citation: Fang X, et al. Comparative analysis of retinal microvascular parameters in healthy individuals with or without carotid artery stenosis or plaque. Comparative analysis of retinal microvascular parameters in healthy individuals with or without carotid artery stenosis or plaque. 2024; (unknown volume):11206721241291224. doi: 10.1177/11206721241291224
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39410788/

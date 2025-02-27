@@ -1,0 +1,11 @@
+PMID: 34558867
+Title: Transcatheter Aortic Valve Replacement versus Sutureless Aortic Valve Replacement: A Single Center Retrospective Cohort Study.
+
+Abstract: PURPOSE: This study sought to compare clinical outcomes between transcatheter aortic valve replacement (TAVR) and sutureless aortic valve replacement (SU-AVR).
+MATERIALS AND METHODS: In total, 320 patients with symptomatic severe aortic stenosis who underwent TAVR (n=254) or SU-AVR (n=66) at Severance Cardiovascular Hospital between July 2011 and September 2019 were included for analysis. Propensity score matching and inverse probability weighted adjustment were performed to adjust for confounding baseline characteristics. Outcomes defined by the Valve Academic Research Consortium-2 in 62 patients pairs were compared.
+RESULTS: Device success (79.0% vs. 79.0%, p&gt;0.999) and 30-day mortality (4.8% vs. 0.0%, p=0.244) did not differ between the TAVR and SU-AVR groups. The TAVR group developed more frequent mild or moderate paravalvular leakage (59.7% vs. 8.1%, p&lt;0.001), whereas SU-AVR was associated with higher rates of major or life-threatening bleeding (9.7% vs. 22.6%, p=0.040), acute kidney injury (8.1% vs. 21.0%, p=0.041), and new-onset atrial fibrillation (4.8% vs. 32.3%. p&lt;0.001) at 30 days, along with longer stays in the intensive care unit (ICU) (1.9±1.6 days vs. 5.9±9.2 days, p=0.009) and hospital (7.1±7.9 days vs. 13.1±8.8 days, p&lt;0.001). The TAVR group showed a trend towards a higher 1-year all-cause mortality, compared with the SU-AVR group (7.0% vs 1.7%, p=0.149). Cardiovascular mortality, however, did not differ significantly (1.6% vs 1.7%, p=0.960).
+CONCLUSION: TAVR achieved a similar 1-year survival rate free from cardiovascular mortality as SU-AVR and was associated with a lower incidence of complications, except for paravalvular leakage, and shorter stays in the ICU and hospital.
+
+Citation: Chung YH, et al. Transcatheter Aortic Valve Replacement versus Sutureless Aortic Valve Replacement: A Single Center Retrospective Cohort Study. Transcatheter Aortic Valve Replacement versus Sutureless Aortic Valve Replacement: A Single Center Retrospective Cohort Study. 2021; 62:885-894. doi: 10.3349/ymj.2021.62.10.885
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34558867/

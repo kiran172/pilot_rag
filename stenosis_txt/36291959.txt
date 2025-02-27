@@ -1,0 +1,8 @@
+PMID: 36291959
+Title: Autoantibodies to Oxidatively Modified Peptide: Potential Clinical Application in Coronary Artery Disease.
+
+Abstract: Coronary artery disease (CAD) is a global health issue. Lipid peroxidation produces various by-products that associate with CAD, such as 4-hydroxynonenal (HNE) and malondialdehyde (MDA). The autoantibodies against HNE and MDA-modified peptides may be useful in the diagnosis of CAD. This study included 41 healthy controls (HCs) and 159 CAD patients with stenosis rates of <30%, 30−70%, and >70%. The plasma level of autoantibodies against four different unmodified and HNE-modified peptides were measured in this study, including CFAH1211−1230, HPT78−108, IGKC2−19, and THRB328−345. Furthermore, feature ranking, feature selection, and machine learning models have been utilized to exploit the diagnostic performance. Also, we combined autoantibodies against MDA and HNE-modified peptides to improve the models’ performance. The eXtreme Gradient Boosting (XGBoost) model received a sensitivity of 78.6% and a specificity of 90.4%. Our study demonstrated the combination of autoantibodies against oxidative modification may improve the model performance.
+
+Citation: Tsai IJ, et al. Autoantibodies to Oxidatively Modified Peptide: Potential Clinical Application in Coronary Artery Disease. Autoantibodies to Oxidatively Modified Peptide: Potential Clinical Application in Coronary Artery Disease. 2022; 12:(unknown pages). doi: 10.3390/diagnostics12102269
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36291959/

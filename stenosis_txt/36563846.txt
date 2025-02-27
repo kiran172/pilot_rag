@@ -1,0 +1,11 @@
+PMID: 36563846
+Title: Feasibility and Accuracy of Measuring Carotid Plaque Volume (Burden) With Contrast-Enhanced Tomographic 3D Ultrasound and Ultrasound Image Fusion.
+
+Abstract: BACKGROUND: Stenosis severity has been the indication for carotid endarterectomy (CEA) for 4 decades, but the annual stroke risk in asymptomatic carotid stenosis >70% is under 2%. Atherosclerotic volume has emerged as a risk factor for future stroke, but needs to be measured noninvasively. Tomographic ultrasound (tUS) is a novel technology that assembles 3D images in seconds. We evaluated accuracy of measuring Carotid Plaque Volume (CPV) with tUS in patients undergoing CEA.
+METHOD: Consecutive patients were imaged immediately before CEA by tUS and contrast-enhanced tUS (CEtUS). CPV was measured using tUS, CEtUS, and a fused images incorporating both tUS and CEtUS by trained vascular scientists. Precise volume of the endarterectomy specimen was measured using Archimedes technique.
+RESULTS: Mean ± sd (range) CPV in 129 endarterectomy specimens was 0.75 ± 0.43 cm3 (0.10-2.47 cm3). Mean ± sd CPV measured by tUS (n = 114) was 0.87 ± 0.51 cm3, CEtUS (n = 104) was 0.75 ± 0.45 cm3 and with fusion (n = 95) was 0.83 ± 0.49 cm3. Differences between specimen volume and CPV measured by tUS (0.13 ± 0.24 cm3), CEtUS (-0.01 ± 0.21 cm3) or fusion (-0.08 ± 0.20) were clinically insignificant. Intra-/interobserver differences were minimal.
+CONCLUSIONS: tUS accurately measures CPV with excellent intra-/interobserver agreement. CEtUS improves accuracy if precise CPV measurement is needed for research but tUS alone would be sufficient for population screening.
+
+Citation: Rogers SK, et al. Feasibility and Accuracy of Measuring Carotid Plaque Volume (Burden) With Contrast-Enhanced Tomographic 3D Ultrasound and Ultrasound Image Fusion. Feasibility and Accuracy of Measuring Carotid Plaque Volume (Burden) With Contrast-Enhanced Tomographic 3D Ultrasound and Ultrasound Image Fusion. 2023; 91:168-175. doi: 10.1016/j.avsg.2022.11.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36563846/

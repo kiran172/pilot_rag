@@ -1,0 +1,11 @@
+PMID: 36250307
+Title: ACURATE neo2 versus SAPIEN 3 Ultra for transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: No comparative data exist with the latest generation self-expanding ACURATE neo2 (Neo2) and the balloon-expandable SAPIEN 3 Ultra (Ultra) transcatheter heart valves (THV).
+AIMS: We aimed to compare the outcomes after transcatheter aortic valve implantation (TAVI) using the Neo2 and the Ultra THV.
+METHODS: A total of 1,356 patients at 4 centres were treated either with the Neo2 (n=608) or the Ultra (n=748). The primary endpoint was device success according to the latest Valve Academic Research Consortium definitions. The association of the THV used and the primary endpoint was assessed using inverse probability treatment weighting (IPTW) and 1:1 propensity score matching (PSM), which identified 472 matched pairs.  Results: After PSM, there were no relevant differences between the groups. While rates of moderate to severe paravalvular leakage (PVL) were overall low (0.6% vs 1.1%; p=0.725), elevated transvalvular gradients (≥20 mmHg) were less frequent with the Neo2 (2.4% vs 7.7%; p<0.001), which translated into a significantly higher rate of device success with the Neo2 compared with the Ultra (91.9% vs 85.0%; p<0.001). Consistently, the Neo2 was associated with higher rates of device success in the IPTW analysis (odds ratio [OR] 1.961, 95% confidence interval [CI]: 1.269-3.031; p=0.002). Rates of mild PVL were significantly lower with the Ultra compared with the Neo2 (20.0% vs 32.8%; p<0.001). Clinical events at 30 days were comparable between the 2 groups.
+CONCLUSIONS: Short-term outcomes after TAVI using the Neo2 or Ultra THV were excellent and, overall, comparable. However, transvalvular gradients were lower with the Neo2, which translated into higher rates of device success. Rates of mild PVL were significantly lower with the Ultra THV.
+
+Citation: Pellegrini C, et al. ACURATE neo2 versus SAPIEN 3 Ultra for transcatheter aortic valve implantation. ACURATE neo2 versus SAPIEN 3 Ultra for transcatheter aortic valve implantation. 2023; 18:987-995. doi: 10.4244/EIJ-D-22-00164
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36250307/

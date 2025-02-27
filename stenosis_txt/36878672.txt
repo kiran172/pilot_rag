@@ -1,0 +1,12 @@
+PMID: 36878672
+Title: Likelihood reclassification by an acoustic-based score in suspected coronary artery disease.
+
+Abstract: OBJECTIVE: Validation studies of the 2019 European Society of Cardiology pretest probability model (ESC-PTP) for coronary artery disease (CAD) report that 35%-40% of patients have low pretest probability (ESC-PTP 5% to <15%). Acoustic detection of coronary stenoses could potentially improve clinical likelihood stratification. Aims were to (1) investigate the diagnostic performance of an acoustic-based CAD score and (2) study the reclassification potential of a dual likelihood strategy by the ESC-PTP and a CAD score.
+METHODS: Consecutive patients (n=1683) with stable angina symptoms referred for coronary CT angiography (CTA) underwent heart sound analyses by an acoustic CAD-score device. All patients with ≥50% luminal stenosis in any coronary segment at coronary CTA were referred to investigation with invasive coronary angiography (ICA) with fractional flow reserve (FFR).A predefined CAD-score cut-off ≤20 was used to rule out obstructive CAD.
+RESULTS: In total, 439 patients (26%) had ≥50% luminal stenosis on coronary CTA. The subsequent ICA with FFR showed obstructive CAD in 199 patients (11.8%). Using the ≤20 CAD-score cut-off for obstructive CAD rule-out, sensitivity was 85.4% (95% CI 79.7 to 90.0), specificity 40.4% (95% CI 37.9 to 42.9), positive predictive value 16.1% (95% CI 13.9 to 18.5) and negative predictive value 95.4% (95% CI 93.4 to 96.9) in all patients. Applying the cut-off in ESC-PTP 5% to <15% patients, 316 patients (48%) were down-classified to very-low likelihood. The obstructive CAD prevalence was 3.5% in this group.
+CONCLUSION: In a large contemporary cohort of patients with low CAD likelihood, the additional use of an acoustic rule-out device showed a clear potential to downgrade likelihood and could supplement current strategies for likelihood assessment to avoid unnecessary testing.
+TRIAL REGISTRATION NUMBER: NCT03481712.
+
+Citation: Rasmussen LD, et al. Likelihood reclassification by an acoustic-based score in suspected coronary artery disease. Likelihood reclassification by an acoustic-based score in suspected coronary artery disease. 2023; 109:1223-1230. doi: 10.1136/heartjnl-2023-322357
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36878672/

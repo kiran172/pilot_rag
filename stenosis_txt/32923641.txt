@@ -1,0 +1,8 @@
+PMID: 32923641
+Title: 3D printed patient-specific aortic root models with internal sensors for minimally invasive applications.
+
+Abstract: Minimally invasive surgeries have numerous advantages, yet complications may arise from limited knowledge about the anatomical site targeted for the delivery of therapy. Transcatheter aortic valve replacement (TAVR) is a minimally invasive procedure for treating aortic stenosis. Here, we demonstrate multimaterial three-dimensional printing of patient-specific soft aortic root models with internally integrated electronic sensor arrays that can augment testing for TAVR preprocedural planning. We evaluated the efficacies of the models by comparing their geometric fidelities with postoperative data from patients, as well as their in vitro hemodynamic performances in cases with and without leaflet calcifications. Furthermore, we demonstrated that internal sensor arrays can facilitate the optimization of bioprosthetic valve selections and in vitro placements via mapping of the pressures applied on the critical regions of the aortic anatomies. These models may pave exciting avenues for mitigating the risks of postoperative complications and facilitating the development of next-generation medical devices.
+
+Citation: Haghiashtiani G, et al. 3D printed patient-specific aortic root models with internal sensors for minimally invasive applications. 3D printed patient-specific aortic root models with internal sensors for minimally invasive applications. 2020; 6:eabb4641. doi: 10.1126/sciadv.abb4641
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32923641/

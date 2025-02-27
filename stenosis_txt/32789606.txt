@@ -1,0 +1,11 @@
+PMID: 32789606
+Title: Biological age is a novel biomarker to predict stroke recurrence.
+
+Abstract: BACKGROUND: Stroke recurrence (SR) after an ischemic stroke is an important cause of death and disability. We conducted a hospital-based study to evaluate the role of biological age (b-Age: age-related DNA-methylation changes) as a risk factor for SR.
+METHODS: We included 587 patients in the acute phase of stroke, assessed at one tertiary stroke center (Hospital del Mar: Barcelona, Spain). B-Age was estimated with 5 different methods based on DNA methylation, and Hannum's method was the one that better performed. We analyzed the relationships between b-Age, chronological age, sex, vascular risk factors, coronary and peripheral arterial disease, atrial fibrillation, initial neurological severity assessed by National Institutes of Health Stroke Scale (NIHSS), transient ischemic attack (TIA) in the 7 days preceding the index stroke, and symptomatic atherosclerosis. Stroke recurrence definition include: new symptoms that suggest a new ischemic event had occurred within 3 months after stroke onset and worsening by four points in the initial neurological severity (measured by National Institutes of Health Stroke Scale (NIHSS) score).
+RESULTS: Logistic regression analysis associated b-Age with SR [p = 0.003; OR = 1.06 (95% CI: 1.02-1.09)], independently of chronological age [p = 0.022; OR = 0.96 (95% CI 0.94-1.00)], symptomatic atherosclerosis (stenosis > 50% in the symptomatic territory), transient ischemic attack (TIA) in the 7 days preceding the index stroke, and initial NIHSS. The b-Age of patients with SR was 2.7 years older than patients without SR.
+CONCLUSIONS: Patients with SR were biologically older than those without SR. B-Age was independently associated with high risk of developing SR.
+
+Citation: Soriano-Tárraga C, et al. Biological age is a novel biomarker to predict stroke recurrence. Biological age is a novel biomarker to predict stroke recurrence. 2021; 268:285-292. doi: 10.1007/s00415-020-10148-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32789606/

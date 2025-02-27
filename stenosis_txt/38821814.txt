@@ -1,0 +1,11 @@
+PMID: 38821814
+Title: Predicting Left Ventricular Adverse Remodeling After Transcatheter Aortic Valve Replacement: A Radiomics Approach.
+
+Abstract: RATIONALE AND OBJECTIVES: To develop a radiomics model based on cardiac computed tomography (CT) for predicting left ventricular adverse remodeling (LVAR) in patients with severe aortic stenosis (AS) who underwent transcatheter aortic valve replacement (TAVR).
+MATERIALS AND METHODS: Patients with severe AS who underwent TAVR from January 2019 to December 2022 were recruited. The cohort was divided into adverse remodeling group and non-adverse remodeling group based on LVAR occurrence, and further randomly divided into a training set and a validation set at an 8:2 ratio. Left ventricular radiomics features were extracted from cardiac CT. The least absolute shrinkage and selection operator regression was utilized to select the most relevant radiomics features and clinical features. The radiomics features were used to construct the Radscore, which was then combined with the selected clinical features to build a nomogram. The predictive performance of the models was evaluated using the area under the curve (AUC), while the clinical value of the models was assessed using calibration curves and decision curve analysis.
+RESULTS: A total of 273 patients were finally enrolled, including 71 with adverse remodeling and 202 with non-adverse remodeling. 12 radiomics features and five clinical features were extracted to construct the radiomics model, clinical model, and nomogram, respectively. The radiomics model outperformed the clinical model (training AUC: 0.799 vs. 0.760; validation AUC: 0.766 vs. 0.755). The nomogram showed highest accuracy (training AUC: 0.859, validation AUC: 0.837) and was deemed most clinically valuable by decision curve analysis.
+CONCLUSION: The cardiac CT-based radiomics features could predict LVAR after TAVR in patients with severe AS.
+
+Citation: Yan T, et al. Predicting Left Ventricular Adverse Remodeling After Transcatheter Aortic Valve Replacement: A Radiomics Approach. Predicting Left Ventricular Adverse Remodeling After Transcatheter Aortic Valve Replacement: A Radiomics Approach. 2024; 31:3560-3569. doi: 10.1016/j.acra.2024.04.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38821814/

@@ -1,0 +1,8 @@
+PMID: 36727519
+Title: Network-Guided Multiomic Mapping of Aortic Valve Calcification.
+
+Abstract: Despite devastating clinical sequelae of calcific aortic valve disease that range from left ventricular remodeling to arrhythmias, heart failure, and early death, the molecular insights into disease initiation and progression are limited and pharmacotherapies remain unavailable. The pathobiology of calcific aortic valve disease is complex and comprehensive studies are challenging valvular calcification is heterogeneous and occurs preferentially on the aortic surface, along a fibrocalcific spectrum. Here, we review efforts to study (epi-)genomic, transcriptomic, proteomic, and metabolomic aspects of aortic valve calcification in combination with network medicine-/systems biology-based strategies to integrate multilayered omics datasets and prioritize druggable targets for experimental validation studies. Ultimately, such holistic approach efforts may open therapeutic avenues that go beyond invasive and costly valve replacement therapy.
+
+Citation: Blaser MC, et al. Network-Guided Multiomic Mapping of Aortic Valve Calcification. Network-Guided Multiomic Mapping of Aortic Valve Calcification. 2023; 43:417-426. doi: 10.1161/ATVBAHA.122.318334
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36727519/

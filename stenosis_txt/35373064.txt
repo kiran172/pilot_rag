@@ -1,0 +1,11 @@
+PMID: 35373064
+Title: The Transcription Factor Sox6 Controls Renin Expression during Renal Artery Stenosis.
+
+Abstract: BACKGROUND: Renal artery stenosis (RAStenosis) or renal artery occlusion is an intractable problem affecting about 6% of people >65 and up to 40% of people with coronary or peripheral vascular disease in the Unites States. The renal renin-angiotensin-aldosterone system plays a key role in RAStenosis, with renin (which is mainly produced in the kidney) being recognized as the driver of the disease. In this study, we will determine a new function for the transcription factor Sox6 in the control of renal renin during RAStenosis.
+METHODS: We hypothesize that knocking out Sox6 in Ren1d-positive cells will protect mice against renovascular hypertension and kidney injury. To test our hypothesis, we used a new transgenic mouse model, Ren1dcre/Sox6fl/fl (Sox6 KO), in which Sox6 is knocked out in renin-expressing cells. We used a modified two-kidney, one-clip (2K1C) Goldblatt mouse model to induce RAStenosis and renovascular hypertension. BP was measured using the tail-cuff method. Renin, prorenin, Sox6, and NGAL expressions levels were measured with Western blot, in situ hybridization, and immunohistochemistry. Creatinine levels were measured using the colorimetric assay.
+RESULTS: Systolic BP was significantly lower in Sox6 KO 2 weeks after RAStenosis compared with Sox6 WT (Ren1dcre/Sox6wt/wt). Renin, prorenin, and NGAL expression levels in the stenosed kidney were lower in Sox6 KO compared with Sox6 WT mice. Furthermore, creatinine clearance was preserved in Sox6 KO compared with Sox6 WT mice.
+CONCLUSIONS: Our data indicate that Sox6 controls renal renin and prorenin expression and, as such, has a function in renovascular hypertension induced by RAStenosis. These results point to a novel transcriptional regulatory network controlled by Sox6.
+
+Citation: Saleem M, et al. The Transcription Factor Sox6 Controls Renin Expression during Renal Artery Stenosis. The Transcription Factor Sox6 Controls Renin Expression during Renal Artery Stenosis. 2021; 2:842-856. doi: 10.34067/KID.0002792020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35373064/

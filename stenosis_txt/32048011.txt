@@ -1,0 +1,12 @@
+PMID: 32048011
+Title: Strictureplasty versus bowel resection for the surgical management of fibrostenotic Crohn's disease: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Strictureplasty (SPX) conserves bowel length and minimizes the risk of developing short bowel syndrome in patients undergoing surgery for Crohn's disease (CD). However, SPX may be associated with a higher risk of recurrence compared with bowel resection (BR).
+AIM: We sought to compare morbidity and recurrence following SPX and BR in patients with fibrostenotic CD.
+METHODS: A systematic review was performed according to PRISMA and MOOSE guidelines. Observational studies that compared outcomes of CD patients undergoing either SPX or BR were identified. Log hazard ratios (InHR) for recurrence-free survival (RFS) and their standard errors were calculated from Kaplan-Meier plots or Cox regression models and pooled using the inverse variance method. Dichotomous variables were pooled as odds ratios (OR) using the Mantel-Haenszel method. Continuous variables were pooled as weighted mean differences.
+RESULTS: Twelve studies of 1026 CD patients (SPX n = 444, 43.27%; BR with or without SPX n = 582, 56.72%) were eligible for inclusion. There was an increased likelihood of disease recurrence with SPX than with BR (OR 1.61; 95% CI, 1.03, 2.52; p = 0.04; I2 = 0%). Patients who had a SPX alone had a significantly reduced RFS than those who underwent BR (HR 1.47; 95% CI, 1.08, 2.01; p = 0.02; I2 = 0%). There was no difference in morbidity between the groups (OR 0.58; 95% CI, 0.26, 1.28; p = 0.18; I2 = 0%).
+CONCLUSION: SPX should only be performed in those patients with Crohn's strictures that are at high risk for short bowel syndrome and intestinal failure; otherwise, BR is the favored surgical technique for the management of fibrostenotic CD.
+
+Citation: Butt WT, et al. Strictureplasty versus bowel resection for the surgical management of fibrostenotic Crohn's disease: a systematic review and meta-analysis. Strictureplasty versus bowel resection for the surgical management of fibrostenotic Crohn's disease: a systematic review and meta-analysis. 2020; 35:705-717. doi: 10.1007/s00384-020-03507-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32048011/

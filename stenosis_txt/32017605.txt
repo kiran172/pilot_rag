@@ -1,0 +1,8 @@
+PMID: 32017605
+Title: Development and application of artificial intelligence in cardiac imaging.
+
+Abstract: In this review, we describe the technical aspects of artificial intelligence (AI) in cardiac imaging, starting with radiomics, basic algorithms of deep learning and application tasks of algorithms, until recently the availability of the public database. Subsequently, we conducted a systematic literature search for recently published clinically relevant studies on AI in cardiac imaging. As a result, 24 and 14 studies using CT and MRI, respectively, were included and summarized. From these studies, it can be concluded that AI is widely applied in cardiac applications in the clinic, including coronary calcium scoring, coronary CT angiography, fractional flow reserve CT, plaque analysis, left ventricular myocardium analysis, diagnosis of myocardial infarction, prognosis of coronary artery disease, assessment of cardiac function, and diagnosis and prognosis of cardiomyopathy. These advancements show that AI has a promising prospect in cardiac imaging.
+
+Citation: Jiang B, et al. Development and application of artificial intelligence in cardiac imaging. Development and application of artificial intelligence in cardiac imaging. 2020; 93:20190812. doi: 10.1259/bjr.20190812
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32017605/

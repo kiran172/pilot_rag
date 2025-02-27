@@ -1,0 +1,11 @@
+PMID: 32141644
+Title: Quantitative susceptibility mapping of carotid plaques using nonlinear total field inversion: Initial experience in patients with significant carotid stenosis.
+
+Abstract: PURPOSE: To develop a nonlinear preconditioned total field-inversion algorithm using the MEDI toolbox (MEDInpt) for robust QSM of carotid plaques and evaluate its performance in comparison with a local field-inversion algorithm (STI Suite) previously applied to carotid QSM.
+METHODS: Numerical simulation and in vivo carotid QSM were performed to compare the MEDInpt and STI Suite algorithms. Multicontrast MRI was used as the reference standard for detecting calcified plaque and intraplaque hemorrhage (IPH). A total of 5 healthy volunteers and 11 patients with at least one significant carotid artery stenosis were enrolled in this study.
+RESULTS: In the numerical carotid phantom, the relative susceptibility errors for calcified plaque and IPH were reduced from -63.2% and -56.5% with STI Suite to -13.0% and -24.2% with MEDInpt, respectively. In humans, MEDInpt provided a higher QSM quality score and better detection of calcification and IPH than STI Suite. Although all calcifications and IPHs detected on multicontrast MRI could be seen on QSM obtained with MEDInpt, only 50% of calcified plaques and 83% of IPHs could be captured on QSM obtained with STI Suite.
+CONCLUSION: MEDInpt can resolve calcification and IPH in advanced atherosclerotic carotid plaques. Compared with STI Suite, MEDInpt provided better QSM quality and has the potential to improve the detection of these plaque components.
+
+Citation: Nguyen TD, et al. Quantitative susceptibility mapping of carotid plaques using nonlinear total field inversion: Initial experience in patients with significant carotid stenosis. Quantitative susceptibility mapping of carotid plaques using nonlinear total field inversion: Initial experience in patients with significant carotid stenosis. 2020; 84:1501-1509. doi: 10.1002/mrm.28227
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32141644/

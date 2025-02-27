@@ -1,0 +1,11 @@
+PMID: 32893848
+Title: Preprocedural circulating galectin-3 and the risk of mortality after transcatheter aortic valve replacement: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Galectin-3 may predict mortality for patients with aortic stenosis (AS) after transcatheter aortic valve replacement (TAVR). However, the results were inconsistent. We aimed to evaluate the association between baseline galectin and mortality after TAVR in a meta-analysis.
+METHODS: Related follow-up studies were obtained by systematic search of PubMed, Cochrane's Library, and Embase databases. Both the fixed- and the random-effect models were used for the meta-analysis. Subgroup analyses were performed to evaluate the influences of study characteristics on the outcome.
+RESULTS: Five prospective cohort studies with 854 patients were included, with a follow-up period between 1 and 1.9 years. Patients with higher baseline circulating galectin-3 had an increased risk of all-cause mortality after TAVR (random-effects model: risk ratio [RR]: 1.63, 95% confidence interval [CI]: 1.19-2.23, P=0.002; fixed-effects model: RR: 1.62, 95% CI: 1.19-2.20, P=0.002; I2 = 4%). Adjustment of estimated glomerular filtration rate (RR: 1.73, P=0.02) or B-type natriuretic peptide (BNP) or N-terminal pro-BNP (RR: 1.83, P=0.02) did not significantly affect the result. A trend of stronger association between higher baseline circulating galectin-3 and increased risk of all-cause mortality after TAVR was observed in studies with an enzyme-linked fluorescent assay (ELFA) (RR: 3.04, P=0.003) compared with those with an enzyme-linked immunosorbent assay (ELISA) (RR: 1.42, P=0.04; P for subgroup difference =0.06).
+CONCLUSION: Higher circulating galectin-3 before the procedure may predict all-cause mortality of AS patients after TAVR.
+
+Citation: Zhang HL, et al. Preprocedural circulating galectin-3 and the risk of mortality after transcatheter aortic valve replacement: a systematic review and meta-analysis. Preprocedural circulating galectin-3 and the risk of mortality after transcatheter aortic valve replacement: a systematic review and meta-analysis. 2020; 40:(unknown pages). doi: 10.1042/BSR20202306
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32893848/

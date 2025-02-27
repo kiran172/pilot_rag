@@ -1,0 +1,12 @@
+PMID: 33525913
+Title: Multimodal ultrasound parameters aided carotid plaque risk stratification in patients with asymptomatic carotid stenosis.
+
+Abstract: BACKGROUND: Risk stratification of asymptomatic carotid plaque remains an issue in stroke prevention in clinical practice.
+PURPOSE: To investigate whether a multimodal ultrasound (MMU) model would help plaque risk stratification in patients with asymptomatic carotid stenosis.
+MATERIAL AND METHODS: A prospective study was conducted of symptomatic and asymptomatic patients with > 50% proximal internal carotid artery (ICA) stenosis. All patients underwent MMU examination. Multivariable regression analyses were performed to identify parameters associated with ischemic vascular events (IVE). These parameters were used to develop a scoring nomogram to assess the probability of IVE. We elaborated the diagnostic performance of the MMU nomogram using receiver operating characteristic (ROC) curves.
+RESULTS: From December 2018 to December 2019, 98 patients (75 men, mean age 67 ± 8 years) were included; 50 were symptomatic and 48 were asymptomatic. Multivariable regression analyses revealed that plaque surface morphology (PSM) (odds ratio [OR] 2.99, 95% confidence interval [CI] 1.26-7.12, P = 0.013), intraplaque neovascularization (IPN) grades (OR 3.23, 95% CI 1.77-5.89, P&lt;0.001), and carotid stenosis degree (CSD) (OR 4.12, 95% CI 1.47-11.55, P = 0.007) were independently associated with IVE. For the nomogram, the area under the ROC curve was 0.85 (95% CI 0.77-0.92) and the Hosmer-Lemeshow test P value was 0.822.
+CONCLUSIONS: In patients with proximal ICA > 50%, PSM, IPN grades, and CSD were independent variables associated with IVE. The MMU nomogram provided favorable value to risk stratification of IVE. Future large-scale studies with long-term follow-up are needed to validate these findings.
+
+Citation: Li Y, et al. Multimodal ultrasound parameters aided carotid plaque risk stratification in patients with asymptomatic carotid stenosis. Multimodal ultrasound parameters aided carotid plaque risk stratification in patients with asymptomatic carotid stenosis. 2022; 63:278-286. doi: 10.1177/0284185121989189
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33525913/

@@ -1,0 +1,11 @@
+PMID: 37820979
+Title: Transient susceptibility imaging as a measure of hemodynamic compromise: A pilot study.
+
+Abstract: BACKGROUND AND PURPOSE: The purpose of this study was to test the hypothesis that hemodynamically compromised brains exhibit transient changes in magnetic susceptibility throughout the cardiac cycle, and to model these changes using Linear System Theory to extract an index that reflects cerebrovascular reserve.
+MATERIALS AND METHODS: Eleven patients with angiographically-confirmed intracranial atherosclerotic disease with >50% stenosis were imaged with susceptibility weighted, cardiac-gated single shot images of cerebral Oxygen Extraction Fraction (OEF) at different timepoints of the cardiac cycle. Cardiac gating of the OEF acquisition allowed interrogation of oxygenated blood and the detection of changes throughout the cardiac cycle. Independent component analysis (ICA) of raw k-space data across the cardiac phase allowed MRI signal decomposition into dynamic and static components for image reconstruction. An asymmetry index score of the resultant parametric images were compared to test the hypothesis that variation in hemoglobin-induced susceptibility across the cardiac cycle indeed reflects pathophysiology of cerebrovascular disease. A mathematical model was derived to parameterize physiologic changes induced by the presence of a hemodynamically significant stenosis in the brain as a tissue impulse response parameter (β).
+RESULTS: OEF was elevated in the affected hemisphere (50.34 ± 12.13% vs 46.93 ± 12.34%), but failed to reach statistical significance (p &lt; .0796). Transient changes in the OEF signal showed significant distinction between healthy and compromised tissue (0.56 ± 0.067 vs 0.44 ± 0.067, p &lt; .019)). The derived tissue impulse response function was found to be significant as well (10.72 ± 3.48 10-3 ms-1, 9.69 ± 3.51 10-3 ms-1; p &lt; .037).
+CONCLUSION: In this pilot study, we found transient OEF and β to be significant predictors of hemispheric compromise.
+
+Citation: Cantrell CG, et al. Transient susceptibility imaging as a measure of hemodynamic compromise: A pilot study. Transient susceptibility imaging as a measure of hemodynamic compromise: A pilot study. 2023; 104:105-114. doi: 10.1016/j.mri.2023.10.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37820979/

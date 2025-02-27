@@ -1,0 +1,11 @@
+PMID: 34450123
+Title: Thirty-Year Survival after Cardiac Surgery for Patients with Turner Syndrome.
+
+Abstract: OBJECTIVE: To evaluate long-term survival in patients with Turner syndrome after congenital heart surgery with a focus on left heart obstructive lesions (LHOLs).
+STUDY DESIGN: We queried the Pediatric Cardiac Care Consortium, a US-based registry of congenital heart surgery, for patients with Turner syndrome undergoing congenital heart surgery at <21 years of age between 1982 and 2011. Outcomes were obtained from the Pediatric Cardiac Care Consortium and from national death and transplant registries through 2019. Survival of patients with Turner syndrome and nonsyndromic patients with similar LHOL was compared by Kaplan-Meier survival curves and Cox regression adjusted for age, congenital heart disease, and era.
+RESULTS: We identified 179 patients with Turner syndrome operated for LHOL: 161 with 2-ventricle lesions (coarctation n = 149, aortic stenosis n = 12) and 18 with hypoplastic left heart (HLH) variants. There were 157 with 2-ventricle LHOL and 6 with HLH survived to discharge. Among survivors to hospital discharge, the 30-year transplant-free survival was 90.4% for Turner syndrome with 2-ventricle lesions and 90.9% for nonsyndromic comparators (adjusted hazard ratio [aHR] 1.15, 95% CI 0.64-2.04). The postdischarge survival for HLH was 33% for Turner syndrome and 51% for nonsyndromic patients, with these numbers being too small for meaningful comparisons. There was a higher risk for cardiovascular disease events in patients with Turner syndrome vs male (aHR 3.72, 95% CI 1.64-8.39) and female comparators (aHR 4.55, 95% CI 1.87-11.06) excluding heart failure deaths.
+CONCLUSIONS: The 30-year transplant-free survival is similar for patients with Turner syndrome and nonsyndromic comparators with operated 2-ventricle LHOL without excess congenital heart disease risk. However, patients with Turner Syndrome still face increased cardiovascular disease morbidity, stressing the importance of lifelong comorbidity surveillance in this population.
+
+Citation: Alam S, et al. Thirty-Year Survival after Cardiac Surgery for Patients with Turner Syndrome. Thirty-Year Survival after Cardiac Surgery for Patients with Turner Syndrome. 2021; 239:187-192.e1. doi: 10.1016/j.jpeds.2021.08.034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34450123/

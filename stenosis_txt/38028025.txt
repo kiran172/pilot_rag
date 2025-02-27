@@ -1,0 +1,11 @@
+PMID: 38028025
+Title: Center Volumes Correlate with Likelihood of Stent Implantation in German Coronary Angiography.
+
+Abstract: AIMS: Literature on percutaneous coronary intervention (PCI) stated an inverse relationship between hospital volume and mortality, but the effects on other characteristics are unclear.
+METHODS: Using German national records, all coronary angiographies with coronary artery disease in 2017 were identified. We applied risk-adjustment to account for differences in population characteristics.
+RESULTS: Of overall 528,188 patients, 55.22% received at least one stent, with on average 1.01 stents implanted in all patients. Based on those patients who received at least one stent, this corresponds to an average number of 1.82 stents. In-hospital mortality across all patients was 2.93%, length of hospital stay was 6.46 days, and mean reimbursement was €5,531. There were comparatively more emergency admissions in low volume centers and more complex cases (3-vessel disease, left main stenosis, and in-stent stenosis) in high volume centers. In multivariable regression analysis, volume and likelihood of stent implantation (p=0.003) as well as number of stents (p=0.020) were positively correlated. No relationship was seen for in-hospital mortality (p=0.105), length of stay (p=0.201), and reimbursement (p=0.108). Nonlinear influence of volume suggests a ceiling effect: In hospitals with ≤100 interventions, likelihood and number of implanted stents are lowest (∼34% and 0.6). After that, both rise steadily until a volume of 500 interventions. Finally, both remain stable in the categories of over 500 interventions (∼60% and 1.1).
+CONCLUSION: In PCI, lower volume centers contribute to emergency care. Higher volume centers treat more complex cases and show a higher likelihood of stent implantations, with a stable safety.
+
+Citation: Oettinger V, et al. Center Volumes Correlate with Likelihood of Stent Implantation in German Coronary Angiography. Center Volumes Correlate with Likelihood of Stent Implantation in German Coronary Angiography. 2023; 2023:3723657. doi: 10.1155/2023/3723657
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38028025/

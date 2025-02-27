@@ -1,0 +1,11 @@
+PMID: 38101507
+Title: Intra-aortic balloon pump in patients with extracorporeal cardiopulmonary resuscitation after cardiac arrest caused by acute coronary syndrome.
+
+Abstract: BACKGROUND: This study evaluated the association between intra-aortic balloon pump (IABP) use in patients with out-of-hospital cardiac arrest (OHCA) caused by acute coronary syndrome (ACS) who received extracorporeal cardiopulmonary resuscitation (ECPR) and 30-day outcomes.
+METHODS: This study was a secondary analysis of data from the SAVE-J II study, a retrospective, multicenter registry study involving 36 participating institutions in Japan. Patients with cardiac arrest caused by ACS who received ECPR were divided into two groups depending on whether or not they received IABP. The primary outcome was 30-day survival. Subgroup analysis was performed to detect what type of patients were mostly associated with improved outcomes.
+RESULTS: Of 2,157 patients registered in the SAVE-J II study, 877 patients were enrolled in this study, 702 patients in the IABP group and 175 patients in the non-IABP group. Multivariable logistic regression analysis did not reveal a significant difference in 30-day survival (OR 1.37, 95% CI 0.91-2.07, p = 0.13). In the subgroup analysis, 30-day survival among patients without percutaneous coronary intervention (PCI) and stenosis of multiple coronary vessels were associated with IABP use.
+CONCLUSIONS: IABP use in patients with OHCA with ACS who received ECPR is not associated with 30-day survival. The use of IABP in patients who did not have PCI and have multiple coronary vessel stenoses warrants further study.
+
+Citation: Nishimura T, et al. Intra-aortic balloon pump in patients with extracorporeal cardiopulmonary resuscitation after cardiac arrest caused by acute coronary syndrome. Intra-aortic balloon pump in patients with extracorporeal cardiopulmonary resuscitation after cardiac arrest caused by acute coronary syndrome. 2024; 195:110091. doi: 10.1016/j.resuscitation.2023.110091
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38101507/

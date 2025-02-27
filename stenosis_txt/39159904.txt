@@ -1,0 +1,11 @@
+PMID: 39159904
+Title: Risk factors and operative risk of large vessel occlusion and stroke during cardiac surgery.
+
+Abstract: OBJECTIVE: Perioperative Large Vessel Occlusions (LVOs) occurring during and following surgery are of immense clinical importance. As such, we aim to present risk factors and test if the Society of Thoracic Surgery (STS) mortality and stroke risk scores can be used to assess operative risk.
+METHODS: Using data containing 7 index cardiac operations at a single tertiary referral center from 2010 to 2022, logistic and multivariate regression analysis was performed to identify factors that correlate to higher operative LVO and stroke rate. Odds ratios and confidence intervals were also obtained to test if the STS-Predicted Risk of Mortality (PROM) and -Predicted Risk of Stroke (PROS) scores were positively correlated to operative LVO and stroke rate.
+RESULTS: Multivariate modeling showed primary risk factors for an operative LVO were diabetes (OR: 1.727 [95 % CI: 1.060-2.815]), intracranial or extracranial carotid stenosis (OR: 3.661 [95 % CI: 2.126-6.305]), and heart failure as defined by NYHA class (Class 4, OR: 3.951 [95 % CI: 2.092-7.461]; compared to Class 1). As the STS-PROM increased, the relative rate of LVO occurrence increased (very high risk, OR: 6.576 [95 % CI: 2.92-14.812], high risk, OR: 2.667 [1.125-6.322], medium risk, OR: 2.858 [1.594-5.125]; all compared to low risk). STS-PROS quartiles showed a similar relation with LVO risk (quartile 4, OR: 7.768 [95 % CI: 2.740-22.027], quartile 3, OR: 5.249 [1.800-15.306], quartile 2, OR:2.980 [0.960-9.248]; all compared to quartile 1).
+CONCLUSIONS: Patients with diabetes, carotid disease and heart failure are at high risk for operative LVO. Both STS-PROM and -PROS can be useful metrics for preoperative measuring of LVO risks.
+
+Citation: Jain U, et al. Risk factors and operative risk of large vessel occlusion and stroke during cardiac surgery. Risk factors and operative risk of large vessel occlusion and stroke during cardiac surgery. 2024; 33:107958. doi: 10.1016/j.jstrokecerebrovasdis.2024.107958
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39159904/

@@ -1,0 +1,14 @@
+PMID: 31915161
+Title: Association between cardiovascular risk factors and coronary artery disease assessed using CAD-RADS classification: a cross-sectional study in Romanian population.
+
+Abstract: OBJECTIVES: This study aimed to evaluate the association between cardiovascular risk factors and Coronary Artery Disease-Reporting and Data System (CAD-RADS) score in the Romanian population. CAD-RADS is a new, standardised method to assess coronary artery disease (CAD) using coronary CT angiography (CCTA).
+DESIGN: A cross-sectional observational, patient-based study.
+SETTING: Referred imaging centre for CAD in Transylvania, Romania.
+PARTICIPANTS: We retrospectively reviewed 674 patients who underwent CCTA between January 2017 and August 2018. The exclusion criteria included: previously known CAD, defined as prior myocardial infarction, percutaneous coronary intervention or coronary artery bypass graft surgery (n=91), cardiac CT for other than evaluation of possible CAD (n=85), significant arrhythmias compromising imaging quality (n=23). Finally, 475 patients fulfilled the inclusion criteria.
+METHODS: Demographical, clinical and CCTA characteristics of the patients were obtained. CAD was evaluated using CAD-RADS score. Obstructive CAD was defined as ≥50% stenosis of ≥1 coronary segment on CCTA.
+RESULTS: We evaluated the association between risk factors and CAD-RADS score in univariate and multivariable analysis. We divided the patients into two groups according to the CAD-RADS system: group 1: CAD-RADS score between 0 and 2 (stenosis <50%) and group 2: CAD-RADS score ≥3 (stenosis ≥50%). On univariate analysis, male gender, age, hypertension, dyslipidaemia, smoking and diabetes mellitus were positively associated with a CAD-RADS score ≥3. The multivariate analysis showed that male sex, age, dyslipidaemia, hypertension and smoking were independently associated with obstructive CAD.
+CONCLUSION: This study demonstrated a significant association between multiple cardiovascular risk factors and a higher coronary atherosclerotic burden assessed using CAD-RADS system in the Romanian population.
+
+Citation: Popa LE, et al. Association between cardiovascular risk factors and coronary artery disease assessed using CAD-RADS classification: a cross-sectional study in Romanian population. Association between cardiovascular risk factors and coronary artery disease assessed using CAD-RADS classification: a cross-sectional study in Romanian population. 2020; 10:e031799. doi: 10.1136/bmjopen-2019-031799
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31915161/

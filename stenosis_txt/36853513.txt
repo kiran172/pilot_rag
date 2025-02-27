@@ -1,0 +1,8 @@
+PMID: 36853513
+Title: A parametric geometry model of the aortic valve for subject-specific blood flow simulations using a resistive approach.
+
+Abstract: Cardiac valves simulation is one of the most complex tasks in cardiovascular modeling. Fluid-structure interaction is not only highly computationally demanding but also requires knowledge of the mechanical properties of the tissue. Therefore, an alternative is to include valves as resistive flow obstacles, prescribing the geometry (and its possible changes) in a simple way, but, at the same time, with a geometry complex enough to reproduce both healthy and pathological configurations. In this work, we present a generalized parametric model of the aortic valve to obtain patient-specific geometries that can be included into blood flow simulations using a resistive immersed implicit surface (RIIS) approach. Numerical tests are presented for geometry generation and flow simulations in aortic stenosis patients whose parameters are extracted from ECG-gated CT images.
+
+Citation: Pase G, et al. A parametric geometry model of the aortic valve for subject-specific blood flow simulations using a resistive approach. A parametric geometry model of the aortic valve for subject-specific blood flow simulations using a resistive approach. 2023; 22:987-1002. doi: 10.1007/s10237-023-01695-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36853513/

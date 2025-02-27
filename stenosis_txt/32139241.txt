@@ -1,0 +1,11 @@
+PMID: 32139241
+Title: Transcatheter aortic valve replacement with the balloon-expandable SAPIEN 3 valve: Impact of calcium score on valve performance and clinical outcomes.
+
+Abstract: BACKGROUND: Aortic valve calcification severity has been associated with higher rates of aortic regurgitation (AR) following TAVR, but scarce data exist on its impact with the use of newer generation transcatheter heart valves.
+METHODS: This was a multicenter study including 626 patients with severe aortic stenosis who underwent TAVR with the SAPIEN 3 valve. Patients were divided in 2 groups according to the median index calcium score (iCS) for each sex: high CS (HCS, iCS ≥ median), and low iCS (LCS, iCS < median). Another analysis was performed in those patients with extreme iCS (ECS, iCS >75th percentile for each sex). Clinical and echocardiographic data were collected prospectively in a dedicated database.
+RESULTS: The mean CS was 3758 ± 1417 AU and 1616 ± 691 AU in the HCS and LCS groups, respectively (p < 0.001). There were no differences between groups in 30-day mortality (HCS:2.6%, LCS:1.0%, p = 0.13) and stroke (HCS:2.6%,LCS:2.6%, p = 1.0) rates, but all cases (n = 5) of annulus rupture occurred in the HCS group (1.6% vs. 0%, p = 0.061). The incidence of moderate-severe AR post-TAVR was low in both groups (HCS:1.6%,LCS:1.6%, p = 1.0), and valve gradient and area were similar between groups. The results remained similar in the ECS group (mean CS:4607 ± 1424 AU), but a mildly increased mean transvalvular gradient post-TAVR was observed in ECS patients (12.1 ± 5.6 vs 11.0 ± 4.3 mmHg; p = 0.015).
+CONCLUSION: Aortic valve calcification severity failed to impact mortality/stroke rates following TAVR with the SAPIEN 3 valve. Low rates of significant AR were observed irrespective of CS, and a mild increase in transvalvular gradient was observed in ECS patients.
+
+Citation: Guimarães L, et al. Transcatheter aortic valve replacement with the balloon-expandable SAPIEN 3 valve: Impact of calcium score on valve performance and clinical outcomes. Transcatheter aortic valve replacement with the balloon-expandable SAPIEN 3 valve: Impact of calcium score on valve performance and clinical outcomes. 2020; 306:20-24. doi: 10.1016/j.ijcard.2020.02.047
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32139241/

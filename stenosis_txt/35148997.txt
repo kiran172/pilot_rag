@@ -1,0 +1,11 @@
+PMID: 35148997
+Title: CT multivessel aggregate stenosis score: A novel point-of-care tool for predicting major adverse cardiac events.
+
+Abstract: BACKGROUND: We evaluated the utility of a novel 15-point multivessel aggregate stenosis (MVAS) score for predicting major adverse cardiac events (MACE) in low-risk patients with suspected ischaemic symptoms undergoing CTCA. Prognostic performance was compared with the Coronary Artery Disease Reporting and Data System (CAD-RADS) classification and the 16-point Segment Involvement Score (SIS).
+METHODS: 772 consecutive patients underwent CTCA and coronary artery calcification scoring (CACS) from 2010 to 2015. Coronary artery disease severity was calculated according to CAD-RADS class (0-5 ​± ​vulnerability modifier), the SIS (0-16), and an MVAS score (0-15) based on the aggregate stenosis severity in all 4 coronary vessels (maximum 12 points) plus the presence of any high-risk plaque features (additional 3 points). 52 patients were referred directly for coronary angiography based on CTCA findings and were excluded; the remainder were followed-up for 64.6 ​± ​19.1 months.
+RESULTS: 54 ​MACE were observed in 720 patients (7.5%); MACE patients had higher CAD-RADS class (3.92 ​± ​0.7 vs 0.91 ​± ​1.2, p ​< ​0.0001), SIS (4.59 ​± ​2.7 vs 0.79 ​± ​1.2, p ​< ​0.0001), and MVAS scores (10.1 ​± ​1.7 vs 1.7 ​± ​2.1, p ​< ​0.0001). Adjusted Cox proportional hazards analysis identified CAD-RADS class (HR 2.96 (2.2-4), p ​< ​0.0001), SIS (HR 1.29 (1.2-1.4, p ​< ​0.0001), and MVAS score (HR 1.82 (1.6-2.1), p ​< ​0.0001) as predictors of MACE. Adjusted receiver operating characteristic (ROC) analysis found MVAS a more powerful predictor of MACE than CAD-RADS and SIS (AUC: 0.92 vs 0.84 vs 0.83, p ​= ​0.018).
+CONCLUSIONS: CAD-RADS and SIS are reliable predictors of MACE, and the MVAS score provided incremental prognostic data. MVAS may potentiate risk stratification, particularly in institutions without advanced plaque analysis software.
+
+Citation: Maclean E, et al. CT multivessel aggregate stenosis score: A novel point-of-care tool for predicting major adverse cardiac events. CT multivessel aggregate stenosis score: A novel point-of-care tool for predicting major adverse cardiac events. 2022; 16:350-354. doi: 10.1016/j.jcct.2022.01.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35148997/

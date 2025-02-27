@@ -1,0 +1,11 @@
+PMID: 32529023
+Title: Prognostic assessment of relative apical sparing pattern of longitudinal strain for severe aortic valve stenosis.
+
+Abstract: BACKGROUNDS: The relative apical sparing pattern (RASP) of left ventricular (LV) longitudinal strain (LS) is frequently associated with cardiac amyloidosis. Elderly patients with aortic valve stenosis (AS) complicated by transthyretin amyloid cardiomyopathy have poor prognosis. Furthermore, deteriorated basal LS in AS patients has been reported to be associated with adverse outcome. We investigated the association between RASP and outcomes in patients with severe AS.
+METHODS: We retrospectively studied 156 consecutive patients with severe AS and preserved LV ejection fraction. RASP was assessed by both of semi-quantitative (sRASP) and quantitative (qRASP) methods. sRASP was defined as a deterioration of LS (≥-10%) in ≥ 5 (of 6) basal segments, relative to preserved LS (<-15%) in at least 1 apical segment. qRASP was calculated using the following formula: average apical LS/(average basal LS + average mid-ventricle LS); qRASP ≥ 1 was defined as positive. Patients were followed up to determine outcomes, which included sudden cardiac death or unexpected admission due to heart failure, over a median of 1.9 years.
+RESULTS: sRASP and qRASP were assessed in all patients, but 24 and 42 patients fulfilled the criteria for sRASP and qRASP, respectively. Both assessments were significantly associated with outcomes (n = 44; 28%). Furthermore, sRASP was significantly associated with outcome after adjusting for EuroSCORE, NYHA ≥ II, or global longitudinal strain. A model based on these covariates for predicting outcomes significantly improved by adding sRASP.
+CONCLUSION: RASP is observed in some patients with severe AS and provides additive prognostic information over conventional parameters.
+
+Citation: Saito M, et al. Prognostic assessment of relative apical sparing pattern of longitudinal strain for severe aortic valve stenosis. Prognostic assessment of relative apical sparing pattern of longitudinal strain for severe aortic valve stenosis. 2020; 29:100551. doi: 10.1016/j.ijcha.2020.100551
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32529023/

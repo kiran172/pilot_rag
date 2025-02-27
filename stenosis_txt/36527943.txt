@@ -1,0 +1,11 @@
+PMID: 36527943
+Title: Non-association of stroke risk with intracranial hemodynamic steal in patients with symptomatic internal carotid artery occlusions.
+
+Abstract: OBJECTIVES: Paradoxical intracranial hemodynamic steal (IHS) is known in patients having persistent proximal arterial occlusions and is linked with early neurological worsening. However, stroke risk specific to symptomatic internal carotid artery occlusions (SICAO) having paradoxical IHS is unknown. Therefore, we aimed to investigate the association of paradoxical IHS in SICAO patients with stroke recurrence during a one-year follow-up.
+MATERIALS AND METHODS: We prospectively enrolled adult patients having SICAO with a recent history of ischemic events. Steal magnitude (SM) to classify patients in IHS and non-IHS categories was evaluated by a breath-holding test using bilateral transcranial doppler (TCD). Patients were prescribed optimal medical therapy and followed up for one year for any ischemic stroke/TIA/cardiovascular death.
+RESULTS: 36 SICAO patients, mean age of 56 years, were assessed using TCD at median 22.5 days (Interquartile range, IQR= 9-42), and 11 (30.6%) had paradoxical IHS with median SM 12% (IQR= 6%-18%). On follow-up, 7 (19.4%) patients had event recurrence and its association with IHS was non-significant (IHS vs non-IHS, 18.2% vs 20%; Log-rank statistics=0.006; P=0.940). On Cox regression analysis, event recurrence was independently associated with the presence of significant contralateral stenosis only (regression coefficient= 2.237; P= 0.012; 95% CI= 1.63-53.89).
+CONCLUSIONS: IHS prevalence among SICAO is high. However, paradoxical IHS was not associated with an increased risk of stroke in SICAO. Therefore, the presence of paradoxical IHS in SICAO may be considered a transit state and does not necessarily imply an increased risk of stroke.
+
+Citation: Kumar M, et al. Non-association of stroke risk with intracranial hemodynamic steal in patients with symptomatic internal carotid artery occlusions. Non-association of stroke risk with intracranial hemodynamic steal in patients with symptomatic internal carotid artery occlusions. 2023; 32:106797. doi: 10.1016/j.jstrokecerebrovasdis.2022.106797
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36527943/

@@ -1,0 +1,11 @@
+PMID: 34016548
+Title: Cost-effectiveness analysis of the SAPIEN 3 transcatheter aortic valve implant in patients with symptomatic severe aortic stenosis.
+
+Abstract: INTRODUCTION AND OBJECTIVES: Transcatheter aortic valve implant has become a widely accepted treatment for inoperable patients with aortic stenosis and patients at high surgical risk. Its indications have recently been expanded to include patients at intermediate and low surgical risk. Our aim was to evaluate the efficiency of SAPIEN 3 vs conservative medical treatment (CMT) or surgical aortic valve replacement (SAVR) in symptomatic inoperable patients at high or intermediate risk.
+METHODS: We conducted a cost-effectiveness analysis of SAPIEN 3 vs SAVR/CMT, using a Markov model (monthly cycles) with 8 states defined by the New York Heart Association and a time horizon of 15 years, including major complications and management after hospital discharge, from the perspective of the National Health System. Effectiveness parameters were based on the PARTNER trials. Costs related to the procedure, hospitalization, complications, and follow-up were included (euros in 2019). An annual discount rate of 3% was applied to both costs and benefits. Deterministic and probabilistic sensitivity analyses (Monte Carlo) were performed.
+RESULTS: Compared with SAVR (high and intermediate risk) and CMT (inoperable), SAPIEN 3 showed better clinical results in the 3 populations and lower hospital stay. Incremental cost-utility ratios (€/quality-adjusted life years gained) were 5471 (high risk), 8119 (intermediate risk) and 9948 (inoperable), respectively. In the probabilistic analysis, SAPIEN 3 was cost-effective in more than 75% of the simulations in the 3 profiles.
+CONCLUSIONS: In our health system, SAPIEN 3 facilitates efficient management of severe aortic stenosis in inoperable and high- and intermediate-risk patients.
+
+Citation: Pinar E, et al. Cost-effectiveness analysis of the SAPIEN 3 transcatheter aortic valve implant in patients with symptomatic severe aortic stenosis. Cost-effectiveness analysis of the SAPIEN 3 transcatheter aortic valve implant in patients with symptomatic severe aortic stenosis. 2022; 75:325-333. doi: 10.1016/j.rec.2021.02.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34016548/

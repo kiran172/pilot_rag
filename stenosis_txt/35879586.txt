@@ -1,0 +1,11 @@
+PMID: 35879586
+Title: Multivariable Technique for the Evaluation of the Trans-stenotic Pressure Gradient.
+
+Abstract: PURPOSE: This study establishes a reliable image-based multivariable technique for measuring the trans-stenotic pressure gradient.
+METHODS: A self-made in vitro steady flow model based on adjustable velocities and stenotic properties were used as the experimental subject. The pre-stenotic flow velocity, severity, and length of the stenosis were used as the input variables. Based on equations used to fit the plots of the physically measured pressure gradient values versus each input variable, a multivariable formula for the pressure gradient measurement could then be derived. The flow model was scanned using velocity-encoded phase-contrast magnetic resonance imaging (PC-MRI) to validate the derived formula while simultaneously measuring the trans-stenotic pressure gradient. The correlation between the physically-measured pressure gradient values and the pressure gradient values calculated using the new formula were subsequently analyzed.
+RESULTS: The results of linear regression analysis using the physically measured pressure gradient values for the new method were compared to values obtained using the simplified Bernoulli equation (R2, 0.991, and 0.975, respectively). In a paired t-test, no statistically significant difference was found between the new method and the physical measurements.
+CONCLUSIONS: The derived multivariable technique was found to reliably measure the trans-stenotic pressure gradient, with better performance than a traditional procedure based on the simplified Bernoulli equation.
+
+Citation: Park J, et al. Multivariable Technique for the Evaluation of the Trans-stenotic Pressure Gradient. Multivariable Technique for the Evaluation of the Trans-stenotic Pressure Gradient. 2023; 14:104-114. doi: 10.1007/s13239-022-00638-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35879586/

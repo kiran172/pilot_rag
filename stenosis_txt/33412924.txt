@@ -1,0 +1,12 @@
+PMID: 33412924
+Title: MRI features of responsible contacts in vascular compressive trigeminal neuralgia and prediction modeling.
+
+Abstract: BACKGROUND: Multiple neurovascular contacts in patients with vascular compressive trigeminal neuralgia often challenge the diagnosis of responsible contacts.
+PURPOSE: To analyze the magnetic resonance imaging (MRI) features of responsible contacts and establish a predictive model to accurately pinpoint the responsible contacts.
+MATERIAL AND METHODS: Sixty-seven patients with unilateral trigeminal neuralgia were enrolled. A total of 153 definite contacts (45 responsible, 108 non-responsible) were analyzed for their MRI characteristics, including neurovascular compression (NVC) grading, distance from pons to contact (D<sub>pons-contact</sub>), vascular origin of compressing vessels, diameter of vessel (D<sub>vessel</sub>) and trigeminal nerve (D<sub>trigeminal nerve</sub>) at contact. The MRI characteristics of the responsible and non-responsible contacts were compared, and their diagnostic efficiencies were further evaluated using a receiver operating characteristic (ROC) curve. The significant MRI features were incorporated into the logistics regression analysis to build a predictive model for responsible contacts.
+RESULTS: Compared with non-responsible contacts, NVC grading and arterial compression ratio (84.44%) were significantly higher, D<sub>pons-contact</sub> was significantly lower at responsible contacts (P &lt; 0.001, 0.002, and 0.033, respectively). NVC grading had a highest diagnostic area under the ROC curve (AUC) of 0.742, with a sensitivity of 64.44% and specificity of 75.00%. The logistic regression model showed a higher diagnostic efficiency, with an AUC of 0.808, sensitivity of 88.89%, and specificity of 62.04%.
+CONCLUSION: Contact degree and position are important MRI features in identifying the responsible contacts of the trigeminal neuralgia. The logistic predictive model based on D<sub>pons-contact</sub>, NVC grading, and vascular origin can qualitatively improve the prediction of responsible contacts for radiologists.
+
+Citation: Zhao Y, et al. MRI features of responsible contacts in vascular compressive trigeminal neuralgia and prediction modeling. MRI features of responsible contacts in vascular compressive trigeminal neuralgia and prediction modeling. 2022; 63:100-109. doi: 10.1177/0284185120983971
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33412924/

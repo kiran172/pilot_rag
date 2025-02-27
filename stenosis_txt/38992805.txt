@@ -1,0 +1,11 @@
+PMID: 38992805
+Title: Using electronic medical records to identify patients at risk for underlying cardiac amyloidosis.
+
+Abstract: BACKGROUND: Identification of transthyretin cardiac amyloidosis (ATTR-CA) patients is largely based on pattern recognition by providers, and this can be automated through electronic medical systems (EMR).
+METHODS: All patients in a large academic hospital with age > 60, ICD-10 code for chronic diastolic heart failure and no previous diagnosis of any amyloidosis were included. An Epic EMR scoring logic assigned risk scores to patients for ICD-10 and CPT codes associated with ATTR-CA, as follows: carpal tunnel syndrome (score 5), aortic stenosis/TAVR (5), neuropathy (4), bundle branch block (4), etc. The individual patients' scores were added, and patients were arranged in descending order of total scores- ranging from 50 to 0. Data is reported as median (interquartile range) and analyzed with non-parametric tests.
+RESULTS: Of the total 11,648 patients identified, 132 consecutive patients with highest risk scores (score ≥ 30) were enrolled as cases, while 132 patients with scores between 10 and 19 with available echocardiography data served as age-matched controls. Strain echocardiography is not routinely performed. Patients with high scores were more likely to have CA associated findings- African-American race, higher left ventricular (LV) mass index and left atrial volume and lower LV ejection fraction. High score patients had higher troponin and a trend towards high NT-proBNP.
+CONCLUSION: The modern EMR can be used to flag patients with high risk for ATTR-CA (score ≥ 30 using the proposed logic) through best practice advisory. This could encourage screening during echocardiography using strain or during unsuspected clinic visits.
+
+Citation: Pascoe MA, et al. Using electronic medical records to identify patients at risk for underlying cardiac amyloidosis. Using electronic medical records to identify patients at risk for underlying cardiac amyloidosis. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jjcc.2024.07.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38992805/

@@ -1,0 +1,11 @@
+PMID: 37951297
+Title: Single Nucleotide Polymorphisms of the MEFV Gene E148Q Are Highly Associated With Disease Phenotype in Crohn's Disease.
+
+Abstract: BACKGROUND: Single nucleotide polymorphisms (SNPs) of the MEFV gene may modify inflammatory bowel disease (IBD) activity. The prevalence of MEFV gene SNPs in IBD patients and their involvement in IBD pathophysiology remains unclear.
+METHODS: We analyzed 12 MEFV gene SNPs in peripheral leukocytes of Japanese IBD patients (Crohn's disease [CD]: 69 patients, ulcerative colitis: 32 patients) by polymerase chain reaction using next-generation DNA sequencing and evaluated their prevalence and association with the disease characteristics. Inflammasome activity and mature interleukin (IL)-1β and IL-18 production were evaluated in peripheral blood mononuclear cells obtained from CD patients stimulated with lipopolysaccharides and adenosine triphosphate, and compared between those with and without the E148Q SNP. COL1A1 and HSP47 gene expression was analyzed in CCD-18Co cells costimulated with IL-1β and other inflammatory cytokines.
+RESULTS: The prevalence of MEFV gene SNPs in IBD patients was similar to that in the human gene database. E148Q was the most common SNP. Compared with CD patients without E148Q, those with E148Q had a significantly greater frequency of the stricture phenotype, and their peripheral blood mononuclear cells exhibited significantly higher IL-1β and IL-18 levels and higher caspase-1 activity. IL-1β and IL-17A synergistically increased COL1A1 and HSP47 gene expression.
+CONCLUSIONS: MEFV gene SNPs, including E148Q, modify the behavior of CD. IL-1β and IL-18 are produced through enhanced caspase-1 activity in monocytes of CD patients with E148Q. IL-1β promotes gene expression of fibrosis-related genes by cooperating with IL-17A in myofibroblasts. Therefore, E148Q might be a disease-modifying gene associated with the fibrostenosis phenotype in CD patients.
+
+Citation: Yamada S, et al. Single Nucleotide Polymorphisms of the MEFV Gene E148Q Are Highly Associated With Disease Phenotype in Crohn's Disease. Single Nucleotide Polymorphisms of the MEFV Gene E148Q Are Highly Associated With Disease Phenotype in Crohn's Disease. 2024; 30:970-980. doi: 10.1093/ibd/izad259
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37951297/

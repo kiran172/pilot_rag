@@ -1,0 +1,11 @@
+PMID: 35715736
+Title: Predictive value of LDL/HDL ratio in coronary atherosclerotic heart disease.
+
+Abstract: BACKGROUND: Dyslipidemia is one of independent risk factors for coronary atherosclerotic heart disease (CAHD). We determined whether the LDL/HDL ratio is better than LDL-C or HDL-C alone in predicting the severity of CAHD.
+METHODS: We performed a retrospective study of 1351 patients with myocardial ischemia who underwent coronary angiography between January 2018 and December 2019 in Shanghai Ninth People's Hospital. Spearman correlation analysis, logistic regression model, Cox proportional hazards model and multicollinearity were used to evaluate LDL/HDL ratio for predicting CAHD severity compared to LDL-C or HDL-C alone.
+RESULTS: Higher LDL/HDL ratio was seen in CAHD patients than controls (2.94 ± 1.06 vs 2.36 ± 0.78, P < 0.05). LDL/HDL ratio was significantly associated with the severity of coronary vascular stenosis. The area under the ROC curve of LDL-C, HDL-C, LDL/HDL ratio used to predict CAHD are 0.574 (95% CI 0.547-0.600, P < 0.001), 0.625 (95% CI 0.598-0.651, P < 0.001), 0.668 (95% CI 0.639-0.697, P = 0.000), respectively. The cut-off value of LDL/HDL ratio is 2.517, and the sensitivity and specificity are 65% and 61%, respectively. LDL/HDL ratio was related to the prevalence of CAHD and the odds ratio (OR) was 2.39 [95% confidence interval (CI) 1.698-2.593, P = 0.00] in multicollinearity regression model.
+CONCLUSION: LDL/HDL ratio may become a better predictor of CAHD severity, compared to LDL-C or HDL-C.
+
+Citation: Sun T, et al. Predictive value of LDL/HDL ratio in coronary atherosclerotic heart disease. Predictive value of LDL/HDL ratio in coronary atherosclerotic heart disease. 2022; 22:273. doi: 10.1186/s12872-022-02706-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35715736/

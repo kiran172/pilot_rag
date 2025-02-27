@@ -1,0 +1,8 @@
+PMID: 34628201
+Title: Local and global growth and remodeling in calcific aortic valve disease and aging.
+
+Abstract: Aging and calcific aortic valve disease (CAVD) are the main factors leading to aortic stenosis. Both processes are accompanied by growth and remodeling pathways that play a crucial role in aortic valve pathophysiology. Herein, a computational growth and remodeling (G&R) framework was developed to investigate the effects of aging and calcification on aortic valve dynamics. Particularly, an algorithm was developed to couple the global growth and stiffening of the aortic valve due to aging and the local growth and stiffening due to calcification with the aortic valve transient dynamics. The aortic valve dynamics during baseline were validated with available data in the literature. Subsequently, the changes in aortic valve dynamic patterns during aging and CAVD progression were studied. The results revealed the patterns in geometric orifice area reduction and an increase in the valve stress during local and global growth and remodeling of the aortic valve. The proposed algorithm provides a framework to couple mechanobiology models of disease growth with tissue-scale transient structural mechanics models to study the biomechanical changes during cardiovascular disease growth and aging.
+
+Citation: Sadrabadi MS, et al. Local and global growth and remodeling in calcific aortic valve disease and aging. Local and global growth and remodeling in calcific aortic valve disease and aging. 2021; 128:110773. doi: 10.1016/j.jbiomech.2021.110773
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34628201/

@@ -1,0 +1,8 @@
+PMID: 38245614
+Title: Non-invasive fractional flow reserve estimation using deep learning on intermediate left anterior descending coronary artery lesion angiography images.
+
+Abstract: This study aimed to design an end-to-end deep learning model for estimating the value of fractional flow reserve (FFR) using angiography images to classify left anterior descending (LAD) branch angiography images with average stenosis between 50 and 70% into two categories: FFR > 80 and FFR ≤ 80. In this study 3625 images were extracted from 41 patients' angiography films. Nine pre-trained convolutional neural networks (CNN), including DenseNet121, InceptionResNetV2, VGG16, VGG19, ResNet50V2, Xception, MobileNetV3Large, DenseNet201, and DenseNet169, were used to extract the features of images. DenseNet169 indicated higher performance compared to other networks. AUC, Accuracy, Sensitivity, Specificity, Precision, and F1-score of the proposed DenseNet169 network were 0.81, 0.81, 0.86, 0.75, 0.82, and 0.84, respectively. The deep learning-based method proposed in this study can non-invasively and consistently estimate FFR from angiographic images, offering significant clinical potential for diagnosing and treating coronary artery disease by combining anatomical and physiological parameters.
+
+Citation: Arefinia F, et al. Non-invasive fractional flow reserve estimation using deep learning on intermediate left anterior descending coronary artery lesion angiography images. Non-invasive fractional flow reserve estimation using deep learning on intermediate left anterior descending coronary artery lesion angiography images. 2024; 14:1818. doi: 10.1038/s41598-024-52360-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38245614/

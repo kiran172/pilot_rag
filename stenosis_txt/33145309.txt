@@ -1,0 +1,11 @@
+PMID: 33145309
+Title: Expressions and relationship of Krüppel-like factor 15 and endothelial nitric oxide synthase in experimental deep venous thrombosis.
+
+Abstract: BACKGROUND: Deep vein thrombosis (DVT) is an early postoperative complication. Thrombosis formation, which is potentially life-threatening, seriously affects the rehabilitation of patients after surgery. We aimed to establish a C57 mouse model of DVT and to examine the changes in the expression of Krüppel-like factor 15 (KLF15) and endothelial nitric oxide synthase (eNOS) in venous wall tissues, and we also investigated the regulatory relationship of KLF15 and eNOS in the thrombin-induced human umbilical vein endothelial cell (HUVEC) injury cell model.
+METHODS: The DVT model was established using the inferior vena cava (IVC) stenosis method. The expression levels of KLF15 and eNOS were analyzed using quantitative reverse transcription-polymerase chain reaction (qRT-PCR). In cell experiments, the expression of KLF15 and eNOS was analyzed in the model of thrombin-induced HUVEC injury with KLF15 siRNA.
+RESULTS: Compared to the control and sham-operated groups, KLF15 in the DVT group was upregulated, while eNOS was downregulated. The results of cell experiments revealed that KLF15 was downregulated in the thrombin+KLF15 siRNA group compared with the thrombin group. Meanwhile, eNOS was upregulated in the thrombin+KLF15 siRNA group compared with the thrombin group. These findings suggested that KLF15 regulated the expression of eNOS in the DVT model.
+CONCLUSIONS: We successfully constructed a DVT mouse model. In the early stage of DVT formation, KLF15 regulated the expression and inhibited the antithrombotic effect of eNOS, resulting in thrombi formation.
+
+Citation: Yang X, et al. Expressions and relationship of Krüppel-like factor 15 and endothelial nitric oxide synthase in experimental deep venous thrombosis. Expressions and relationship of Krüppel-like factor 15 and endothelial nitric oxide synthase in experimental deep venous thrombosis. 2020; 8:1090. doi: 10.21037/atm-20-5828
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33145309/

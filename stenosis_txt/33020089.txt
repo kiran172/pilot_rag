@@ -1,0 +1,14 @@
+PMID: 33020089
+Title: Antihypertensive therapies in moderate or severe aortic stenosis: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Hypertension confers a poor prognosis in moderate or severe aortic stenosis (AS), however, antihypertensive therapy (AHT) is often not prescribed due to the perceived deleterious effects of vasodilation and negative inotropes.
+OBJECTIVE: To assess the efficacy and safety outcomes of AHT in adults with moderate or severe AS.
+DESIGN: Systematic review and meta-analysis.
+DATA SOURCES: The Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE and grey literature were searched without language restrictions up to 9 September 2019.
+STUDY ELIGIBILITY CRITERIA, APPRAISAL AND SYNTHESIS METHODS: Two independent reviewers performed screening, data extraction and risk of bias assessments from a systematic search of observational studies and randomised controlled trials comparing AHT with a placebo or no AHT in adults with moderate or severe AS for any parameter of efficacy and safety outcomes. Conflicts were resolved by the third reviewer. Meta-analysis with pooled effect sizes using random-effects model, were estimated in R.
+MAIN OUTCOME MEASURES: Mortality, Left Ventricular (LV) Mass Index, systolic blood pressure, diastolic blood pressure and LV ejection fraction RESULTS: From 3025 publications, 31 studies (26 500 patients) were included in the qualitative synthesis and 24 studies in the meta-analysis. AHT was not associated with mortality when all studies were pooled, but heterogeneity was substantial across studies. The effect size of AHT differed according to drug class. Renin-angiotensin-aldosterone system inhibitors (RAASi) were associated with reduced risk of mortality (Pooled HR 0.58, 95% CI 0.43 to 0.80, p=0.006), The differences in changes of haemodynamic or echocardiographic parameters from baseline with and without AHT did not reach statistical significance.
+CONCLUSION: AHT appears safe, is well tolerated. RAASi were associated with clinical benefit in patients with moderate or severe AS.
+
+Citation: Sen J, et al. Antihypertensive therapies in moderate or severe aortic stenosis: a systematic review and meta-analysis. Antihypertensive therapies in moderate or severe aortic stenosis: a systematic review and meta-analysis. 2020; 10:e036960. doi: 10.1136/bmjopen-2020-036960
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33020089/

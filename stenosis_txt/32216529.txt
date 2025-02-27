@@ -1,0 +1,11 @@
+PMID: 32216529
+Title: miR-128-3p Is a Novel Regulator of Vascular Smooth Muscle Cell Phenotypic Switch and Vascular Diseases.
+
+Abstract: RATIONALE: MicroRNAs (miRNAs, miRs) are small noncoding RNAs that modulate gene expression by negatively regulating translation of target genes. Although the role of several miRNAs in vascular smooth muscle cells (VSMCs) has been extensively characterized, the function of miRNA-128-3p (miR-128) is still unknown.
+OBJECTIVE: To determine if miR-128 modulates VSMC phenotype and to define the underlying mechanisms.
+METHODS AND RESULTS: We screened for miRNAs whose expression is modulated by an altered DNA methylation status in VSMCs, and among the hits, we selected miR-128. We found that miR-128 was expressed in various tissues, primary murine cells, and pathological murine and human vascular specimens. Through gain- and loss-of-function approaches, we determined that miR-128 affects VSMC proliferation, migration, differentiation, and contractility. The alterations of those properties were dependent upon epigenetic regulation of key VSMC differentiation genes; notably, Kruppel-like factor 4 was found to be a direct target of miR-128 and able to modulate the methylation status of the pivotal VSMC gene myosin heavy chain 11 (Myh11). Finally, in vivo lentiviral delivery of miR-128 prevented intimal hyperplasia in a mouse model of carotid restenosis without modifying vital cardiovascular parameters.
+CONCLUSION: miR-128 is a critical modulator of VSMCs and is regulated by epigenetic modifications upon stress. Its modulation in the context of disease could be exploited for therapeutic purposes.
+
+Citation: Farina FM, et al. miR-128-3p Is a Novel Regulator of Vascular Smooth Muscle Cell Phenotypic Switch and Vascular Diseases. miR-128-3p Is a Novel Regulator of Vascular Smooth Muscle Cell Phenotypic Switch and Vascular Diseases. 2020; 126:e120-e135. doi: 10.1161/CIRCRESAHA.120.316489
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32216529/

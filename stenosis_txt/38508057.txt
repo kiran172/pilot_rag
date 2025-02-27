@@ -1,0 +1,8 @@
+PMID: 38508057
+Title: Identification of hub genes in calcific aortic valve disease.
+
+Abstract: Calcific aortic valve disease (CAVD) is a heart valve disorder characterized primarily by calcification of the aortic valve, resulting in stiffness and dysfunction of the valve. CAVD is prevalent among aging populations and is linked to factors such as hypertension, dyslipidemia, tobacco use, and genetic predisposition, and can result in becoming a growing economic and health burden. Once aortic valve calcification occurs, it will inevitably progress to aortic stenosis. At present, there are no medications available that have demonstrated effectiveness in managing or delaying the progression of the disease. In this study, we mined four publicly available microarray datasets (GSE12644 GSE51472, GSE77287, GSE233819) associated with CAVD from the GEO database with the aim of identifying hub genes associated with the occurrence of CAVD and searching for possible biological targets for the early prevention and diagnosis of CAVD. This study provides preliminary evidence for therapeutic and preventive targets for CAVD and may provide a solid foundation for subsequent biological studies.
+
+Citation: Lai QC, et al. Identification of hub genes in calcific aortic valve disease. Identification of hub genes in calcific aortic valve disease. 2024; 172:108214. doi: 10.1016/j.compbiomed.2024.108214
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38508057/

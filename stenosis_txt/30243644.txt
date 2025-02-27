@@ -1,0 +1,11 @@
+PMID: 30243644
+Title: Accuracy of stridor-based diagnosis of post-intubation subglottic stenosis in pediatric patients.
+
+Abstract: OBJECTIVE: To assess the accuracy of stridor in comparison to endoscopic examination for diagnosis of pediatric post-intubation subglottic stenosis.
+METHOD: Children who required endotracheal intubation for >24h were included in this prospective cohort study. Children were monitored daily and underwent flexible fiberoptic laryngoscopy after extubation. Those with moderate-to-severe abnormalities underwent another examination 7-10 days later. If lesions persisted or symptoms developed, laryngoscopy under general anesthesia was performed. Patients were assessed daily for stridor after extubation.
+RESULTS: A total of 187 children were included. The incidence of post-extubation stridor was 44.38%. Stridor had a sensitivity of 77.78% (95% confidence interval [95% CI]: 51.9-92.6) and specificity of 59.18% (95% CI: 51.3-66.6) in detecting subglottic stenosis. The positive predictive value was 16.87% (95% CI: 9.8-27.1), and the negative predictive value was 96.15% (95% CI: 89.9-98.8). Stridor persisting longer than 72h or starting more than 72h post-extubation had a sensitivity of 66.67% (95% CI: 41.2-85.6), specificity of 89.1% (95% CI: 83.1-93.2), positive predictive value of 40.0% (95% CI: 23.2-59.3), and negative predictive value of 96.07% (95% CI: 91.3-98.4). The area under the receiver operating characteristic (ROC) curve was 0.78 (95% CI: 0.65-0.91).
+CONCLUSIONS: Absence of stridor was appropriate to rule out post-intubation subglottic stenosis. The specificity of this criterion improved when stridor persisted longer than 72h or started more than 72h post-extubation. Thus, endoscopy under general anesthesia can be used to confirm subglottic stenosis only in patients who develop or persist with stridor for more than 72h following extubation.
+
+Citation: Schweiger C, et al. Accuracy of stridor-based diagnosis of post-intubation subglottic stenosis in pediatric patients. Accuracy of stridor-based diagnosis of post-intubation subglottic stenosis in pediatric patients. 2020; 96:39-45. doi: 10.1016/j.jped.2018.08.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30243644/

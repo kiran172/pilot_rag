@@ -1,0 +1,11 @@
+PMID: 36124737
+Title: Myofibroblast-dominant proliferation associated with severe fibrosis in bulbar urethral strictures.
+
+Abstract: OBJECTIVES: Myofibroblast-dominant proliferation (relative to fibroblast proliferation) is the key process in urethral fibrosis, but its association with clinical features is not understood. We conducted a histological analysis of urethral strictures and examined the association between myofibroblast proliferation and stricture characteristics.
+METHODS: Formalin-fixed, paraffin-embedded urethral sections sliced axially from 175 male patients with bulbar urethral strictures were retrospectively analyzed. All patients underwent excision and primary anastomosis between September 2008 and January 2021 by a surgeon (AH). Masson's trichrome stain was used to estimate the area of fibrosis. Corresponding unstained slides with the largest area of fibrosis were selected and double-immunostained with anti-smooth muscle actin (SMA) and anti-TE-7 mouse monoclonal antibodies for the assessment of myofibroblasts and fibroblasts, respectively. The ratio of the number of SMA-positive cells to the number of TE-7-positive cells (SMA/TE-7 ratio) was calculated.
+RESULTS: The area of fibrosis in strictures due to perineal trauma (n = 85, median 108.9 mm2 ) was significantly larger than that in non-traumatic strictures (n = 90, median 42.9 mm2 , p &lt; 0.0001). The area of fibrosis positively correlated with SMA expression (r = 0.35, p &lt; 0.0001) and the SMA/TE-7 ratio (r = 0.36, p &lt; 0.0001), but not with TE-7 expression (r = -0.01, p = 0.75). In a multivariate linear regression model, traumatic etiology (standard coefficient 0.37, t value 3.9, p &lt; 0.0001) and increased SMA expression (standard coefficient 0.17, t value 2.1, p = 0.03) were the predictors of wide fibrosis area.
+CONCLUSIONS: Myofibroblast-dominant proliferation may contribute to the pathogenesis of severe urethral fibrosis.
+
+Citation: Hirano Y, et al. Myofibroblast-dominant proliferation associated with severe fibrosis in bulbar urethral strictures. Myofibroblast-dominant proliferation associated with severe fibrosis in bulbar urethral strictures. 2023; 30:107-112. doi: 10.1111/iju.15053
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36124737/

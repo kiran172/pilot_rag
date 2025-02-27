@@ -1,0 +1,11 @@
+PMID: 36137868
+Title: The effect of occlusive polytetrafluoroethylene outflow graft protectors in left ventricular assist device recipients.
+
+Abstract: BACKGROUND: The use of polytetrafluoroethylene (PTFE) material as a protective cover for left ventricular assist device (LVAD) outflow grafts (OG) is a common practice. However, it has descriptively been linked to the development of blood flow obstruction (BFO).
+METHODS: Patient data from 194 consecutive HVAD (Medtronic Inc; Medtronic, Minneapolis, MN) recipients implanted between March 2006 and January 2021 were retrospectively analyzed. PTFE covers were used in 102 patients. Study outcomes included the incidence of BFO and survival on LVAD support.
+RESULTS: Thirty-seven patients (19.1%) developed BFO during the study period. On a multivariable Cox regression analysis, PTFE use was an independent predictor for the development of BFO (HR 2.15, 95% CI 1.03-4.48, p = .04). BFO comprised of 2 types of device malfunction: eleven patients (5.7%) developed outflow graft stenosis (OGS), and 31 patients (16.0%) developed pump thrombosis (PT). There was a significantly higher cumulative incidence of OGS in patients with PTFE cover than in those without (Gray's test, p =.03). However, the observed higher cumulative incidence of PT in PTFE patients was non-significant (Gray's test, p =.06). In a multivariable Cox regression model, the effect of PTFE use on survival was non-significant (HR 0.95, 95% CI 0.60-1.48, p =.81), while the development of BFO was independently associated with increased mortality (HR 3.43, 95% CI 1.94-6.06, p < .0001).
+CONCLUSIONS: The use of PTFE OG cover in LVAD patients is associated with an increased cumulative probability of development of BFO, the latter adversely impacting survival and is therefore, harmful.
+
+Citation: Dimitrov K, et al. The effect of occlusive polytetrafluoroethylene outflow graft protectors in left ventricular assist device recipients. The effect of occlusive polytetrafluoroethylene outflow graft protectors in left ventricular assist device recipients. 2022; 41:1850-1857. doi: 10.1016/j.healun.2022.07.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36137868/

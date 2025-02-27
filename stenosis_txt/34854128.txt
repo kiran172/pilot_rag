@@ -1,0 +1,11 @@
+PMID: 34854128
+Title: Severe aortic stenosis echocardiographic thresholds revisited.
+
+Abstract: BACKGROUND: In view of inconsistencies in threshold values of severe aortic stenosis (AS) hemodynamic indices, it is unclear what is the relative contribution of each variable in a binary classification of AS based on aortic valve replacement (AVR) indication. We aimed to assess relative discriminative value and optimal threshold of each constituent hemodynamic parameter for this classification and confirm additional prognostic value.
+METHODS: Echocardiography studies of 168 patients with ≥ moderate AS were included. AS types were dichotomized into Group-A, comprising moderate and Normal-Flow Low-Gradient (NFLG), and Group-B, comprising High-Gradient(HG), Low Ejection Fraction Low-Flow Low-Gradient(Low EF-LFLG), and Paradoxical Low-Flow Low-Gradient(PLFLG) AS. Aortic valve area (AVA), Doppler velocity index (DVI), peak aortic velocity, mean gradient, stroke volume index and transaortic flow rate(TFR) were assessed for A/B Group discrimination value and optimal thresholds were determined. Dichotomized values were assessed for predictive value for AVR or death.
+RESULTS: C-statistic values for binary AS classification was .74-.9 for the tested variables. AVA and DVI featured the highest score, and SVI the lowest one. AVA≤.81 cm2 and DVI≤.249 had 87.6% and 86% respective sensitivity for Group B patients, and a similar specificity of 80.9%. During a mean follow-up of 9.1±10.1 months, each of the tested dichotomized variables except for SVI predicted AVR or death on multivariate analysis.
+CONCLUSION: An AVA value ≤.81 cm2 or a DVI ≤ .249 threshold carry the highest discriminative value for severe AS in patients with aortic stenosis, translating into an independent prognostic value, and can be helpful in making clinical decisions.
+
+Citation: Schwartzenberg S, et al. Severe aortic stenosis echocardiographic thresholds revisited. Severe aortic stenosis echocardiographic thresholds revisited. 2021; 38:2016-2024. doi: 10.1111/echo.15241
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34854128/

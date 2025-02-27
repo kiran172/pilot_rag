@@ -1,0 +1,12 @@
+PMID: 36214517
+Title: Length of Stay in Patients Undergoing Tracheoplasty: A NSQIP Study.
+
+Abstract: BACKGROUND: Prolonged length of stay (LOS) has been associated with increased morbidity and resource utilization in various surgical procedures. We aim to determine factors associated with increased hospital stay in patient undergoing tracheoplasty.
+METHODS: The 2012-2018 National Surgical Quality Improvement Program (NSQIP) database was queried for patients undergoing tracheoplasty. Patient LOS was the primary clinical outcome. A LOS >75th percentile was considered as prolonged and was utilized for bivariate analysis of demographic, comorbidity, and operative characteristics. LOS was utilized as a continuous variable for multivariate linear regression analysis.
+RESULTS: A total of 252 patients were queried. The majority of patients were female (67.5%), white (82.4%), and over the age of 65 (77.0%). Patients had a median LOS of 7 days with the 75th percentile cutoff being defined at 10 days. On bivariate analysis of associated comorbidities, patients with prolonged LOS were more commonly obese (72.4% vs. 53.1%, p = 0.009), diabetic (37.9% vs. 16.5%, p < 0.001), dyspneic (58.6% vs. 40.7%, p = 0.016), and had chronic steroid use (25.9% vs. 12.9%, p = 0.018). Multivariable logistic regression analysis demonstrated significant associations between prolonged LOS and both chronic obstructive pulmonary disorder (COPD) (OR: 3.43, p = 0.020) and chronic steroid use (OR: 3.81, p = 0.018).
+CONCLUSIONS: This study elucidates factors associated with prolonged LOS in patients undergoing tracheoplasty. Patients with COPD and chronic steroid use were significantly associated with prolonged LOS.
+LEVEL OF EVIDENCE: 4 Laryngoscope, 133:1938-1942, 2023.
+
+Citation: Patel R, et al. Length of Stay in Patients Undergoing Tracheoplasty: A NSQIP Study. Length of Stay in Patients Undergoing Tracheoplasty: A NSQIP Study. 2023; 133:1938-1942. doi: 10.1002/lary.30424
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36214517/

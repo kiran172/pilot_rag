@@ -1,0 +1,12 @@
+PMID: 35983718
+Title: Cost-utility and cost-benefit analysis of TAVR availability in the US severe symptomatic aortic stenosis patient population.
+
+Abstract: AIMS: We evaluated the availability of transcatheter aortic valve replacement (TAVR) to determine its value across all severe symptomatic aortic stenosis (SSAS) patients, especially those untreated because of concerns regarding invasive surgical AVR (SAVR) and its impact on active aging.
+METHODS: We performed payer perspective cost-utility analysis (CUA) and societal perspective cost-benefit analysis (CBA). The CBA's benefit measure is active time: salaried labor, unpaid work, and active leisure. The study population is a cohort of US elderly SSAS patients. We compared a "TAVR available" scenario in which SSAS patients distribute themselves across TAVR, SAVR, and medical management (MM); and a "TAVR not available" scenario with only SAVR and MM. We structured each scenario with a decision-tree model of SSAS patient treatment allocation. We measured the association between health and active time in the US Health and Retirement Study and used this association to impute active time to SSAS patients given their health.
+RESULTS: The incremental cost-effectiveness ratio (ICER) and rate of return (RoR) of TAVR availability were $8,533 and 395%, respectively. CUA net monetary benefits (NMB) were $212,199 per patient and $43.4 billion population-wide. CBA NMB were $50,530 per patient and $10.3 billion population-wide.
+LIMITATIONS: Among study limitations were scarcity of evidence regarding key parameters and the lack of long-term survival, health utility, and treatment cost data. Our analysis did not account for TAVR durability, retreatments, and valve-in-valve treatments.
+CONCLUSION: Across risk-, age-, and treatment-eligibility groups, TAVR is the economically optimal treatment choice. It represents strong value-for-money per patient and population-wide. The vast majority of TAVR value involves raising treatment uptake among the untreated.
+
+Citation: Sevilla JP, et al. Cost-utility and cost-benefit analysis of TAVR availability in the US severe symptomatic aortic stenosis patient population. Cost-utility and cost-benefit analysis of TAVR availability in the US severe symptomatic aortic stenosis patient population. 2022; 25:1051-1060. doi: 10.1080/13696998.2022.2112442
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35983718/

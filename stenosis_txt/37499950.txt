@@ -1,0 +1,11 @@
+PMID: 37499950
+Title: Sarcopenia evaluation on cardiac magnetic resonance imaging in older adults for outcomes prediction following surgical aortic valve replacement.
+
+Abstract: BACKGROUND: Sarcopenia refers to a reduction in skeletal muscle mass and strength. Despite the known association between single-slice muscle measurements on lumbar computed tomography and poor outcomes in various clinical settings, studies using thoracic muscle measurements on cardiac magnetic resonance imaging (CMR) have been limited.
+METHODS: Patients undergoing surgical aortic valve replacement (SAVR) between 2010 and 2020 were included if they were ≥ 50 years of age with preoperative CMR. Manual unilateral pectoralis major and minor skeletal muscle area measurements were made at the carina and normalized for body size by height to obtain skeletal muscle index (SMI). Sarcopenia was defined as the lowest sex-stratified SMI tertile and higher-risk as the highest fiftieth percentile Society of Thoracic Surgeons' (STS) mortality score.
+RESULTS: A total of 133 patients were included, 35 (26.3%) females. The average age was 64 ± 9 years, with most Caucasian (93.2%). Compared to non-sarcopenic patients, sarcopenic patients were older with lower body mass index. During a median follow-up of 27.3 (7.6-60.4) months, 10 (22.2%) deaths occurred in the sarcopenic group and 8 (9.1%) in the non-sarcopenic group (p = 0.039 by log-rank test). On subgroup analysis (66 patients), higher-risk sarcopenic patients had 10 (37.0%) deaths compared to 8 (20.5%) in higher-risk non-sarcopenic patients (p = 0.011 by log-rank test).
+CONCLUSIONS: Simple unilateral pectoralis muscle measurements on preoperative CMR can be used as an adjunct to traditional risk scores for predicting mortality post-SAVR.
+
+Citation: Mirzai S, et al. Sarcopenia evaluation on cardiac magnetic resonance imaging in older adults for outcomes prediction following surgical aortic valve replacement. Sarcopenia evaluation on cardiac magnetic resonance imaging in older adults for outcomes prediction following surgical aortic valve replacement. 2023; 391:131216. doi: 10.1016/j.ijcard.2023.131216
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37499950/

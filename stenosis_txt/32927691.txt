@@ -1,0 +1,11 @@
+PMID: 32927691
+Title: Comparison between Percutaneous Gastrostomy and Self-Expandable Metal Stent Insertion for the Treatment of Malignant Esophageal Obstruction, after Propensity Score Matching.
+
+Abstract: BACKGROUND: The outcomes of the two procedures; self-expandable metal stent (SEMS) insertion and percutaneous gastrostomy (PG) feeding procedures, used in patients with malignant esophageal obstruction, are still controversial. We aimed to compare the outcomes between the two procedures, following propensity score (PS) matching.
+METHODS: We retrospectively reviewed 568 esophageal cancer patients who underwent SEMS insertion (stent group) or PG (gastrostomy group) at the Samsung Medical Center between January 1996 and December 2018. Procedures for reasons other than malignant obstruction were excluded. We analyzed the datasets after PS matching. Primary outcomes were the post-procedural nutritional status, and need for additional intervention (AI). The secondary outcome was overall survival (OS).
+RESULTS: In a matched cohort, the gastrostomy group showed less decrease in albumin level after the procedure (-0.15 ± 0.57 vs. stent group; 0.41 ± 0.59, p = 0.021). The gastrostomy group required less need for, and number of, AIs (2.1% vs. stent group; 23.4%, p &lt; 0.001 and 0.04 ± 0.25 vs. stent group; 0.31 ± 0.61, p &lt; 0.001). After matching, there was no significant difference between the two groups in OS. However, PG was associated with OS based on multivariable analysis of the matched cohort (vs. stent group, hazard ratio 0.69, 95% confidence interval 0.5-0.95).
+CONCLUSIONS: PG tends to provide better post-procedure nutritional status than SEMS insertion in patients with malignant esophageal obstruction.
+
+Citation: Song JH, et al. Comparison between Percutaneous Gastrostomy and Self-Expandable Metal Stent Insertion for the Treatment of Malignant Esophageal Obstruction, after Propensity Score Matching. Comparison between Percutaneous Gastrostomy and Self-Expandable Metal Stent Insertion for the Treatment of Malignant Esophageal Obstruction, after Propensity Score Matching. 2020; 12:(unknown pages). doi: 10.3390/nu12092756
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32927691/

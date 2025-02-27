@@ -1,0 +1,11 @@
+PMID: 36317252
+Title: Outcome and Cost Comparisons Between Surgical and Transcatheter Aortic Valve Replacements.
+
+Abstract: OBJECTIVE: Surgical aortic valve replacement (SAVR) has been the standard of care for severe aortic stenosis. In 2019, annual transcatheter aortic valve replacement (TAVR) implantations surpassed SAVR. We compared in-hospital costs and outcomes between these two procedures.
+METHODS: A single-center retrospective review was performed of patients who underwent isolated SAVR or TAVR from October 2013 to December 2019. Baseline patient characteristics, operating room (OR) time, intensive care unit (ICU) length of stay (LOS), total LOS, cumulative cost, and complication rates were collected. Propensity matching was performed to identify differences in costs and outcomes between comparable groups.
+RESULTS: There were 515 patients who met inclusion criteria. TAVR was performed in 402 patients, while SAVR was performed in 113. Propensity matching resulted in 82 matched pairs. The SAVR cohort more frequently spent >1 day in the ICU, had longer total hospital LOS, longer OR time, and higher hospitalization cost. However, TAVR was associated with higher mean OR cost and higher valve cost. The cumulative index admission costs were not significantly different between groups. TAVR patients had less postoperative atrial fibrillation but more frequent pacemaker placement. One-year mortality was similar between SAVR (2.4%) and TAVR (3.8%), but 3-year (5.8% vs 19.2%) and 5-year (5.8% vs 37.2%) mortality favored SAVR.
+CONCLUSIONS: In propensity-matched groups, TAVR was associated with shorter ICU and hospital LOS and OR times but increased permanent pacemaker rates. In addition, while 1-year survival was similar between groups, SAVR had significantly improved 3-year and 5-year survival.
+
+Citation: Falasa M, et al. Outcome and Cost Comparisons Between Surgical and Transcatheter Aortic Valve Replacements. Outcome and Cost Comparisons Between Surgical and Transcatheter Aortic Valve Replacements. 2022; 17:482-490. doi: 10.1177/15569845221125474
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36317252/

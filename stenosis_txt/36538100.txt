@@ -1,0 +1,11 @@
+PMID: 36538100
+Title: Radiomics assessment of carotid intraplaque hemorrhage: detecting the vulnerable patients.
+
+Abstract: BACKGROUND: Intraplaque hemorrhage (IPH), one of the key features of vulnerable plaques, has been shown to be associated with increased risk of stroke. The aim is to develop and validate a CT-based radiomics nomogram incorporating clinical factors and radiomics signature for the detection of IPH in carotid arteries.
+METHODS: This retrospective study analyzed the patients with carotid plaques on CTA from January 2013 to January 2021 at two different institutions. Radiomics features were extracted from CTA images. Demographics and CT characteristics were evaluated to build a clinical factor model. A radiomics signature was constructed by the least absolute shrinkage and selection operator method. A radiomics nomogram combining the radiomics signature and independent clinical factors was constructed. The area under curves of three models were calculated by receiver operating characteristic analysis.
+RESULTS: A total of 46 patients (mean age, 60.7 years ± 10.4 [standard deviation]; 36 men) with 106 carotid plaques were in the training set, and 18 patients (mean age, 61.4 years ± 10.1; 13 men) with 38 carotid plaques were in the external test sets. Stenosis was the independent clinical factor. Eight features were used to build the radiomics signature. The area under the curve (AUC) of the radiomics nomogram was significantly higher than that of the clinical factor model in both the training (p = 0.032) and external test (p = 0.039) sets.
+CONCLUSIONS: A CT-based radiomics nomogram showed satisfactory performance in distinguishing carotid plaques with and without intraplaque hemorrhage.
+
+Citation: Zhang S, et al. Radiomics assessment of carotid intraplaque hemorrhage: detecting the vulnerable patients. Radiomics assessment of carotid intraplaque hemorrhage: detecting the vulnerable patients. 2022; 13:200. doi: 10.1186/s13244-022-01324-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36538100/

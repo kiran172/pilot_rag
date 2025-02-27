@@ -1,0 +1,11 @@
+PMID: 34548269
+Title: Comparison of coronary artery measurements between echocardiograms and cardiac CT in Kawasaki disease patients with aneurysms.
+
+Abstract: BACKGROUND: American Heart Association (AHA) guidelines for management of Kawasaki disease (KD) rely on coronary artery (CA) z-scores from echocardiograms. Compared with echocardiography, cardiac CT (CCT) offers better visualization of distal segments and evaluation for thrombosis and stenosis. Despite increasing use of CCT in KD, CA z-scores for CCT are not available and measurement concordance between imaging modalities is a critical knowledge gap.
+METHODS: We retrospectively reviewed KD patients with CA aneurysms who had concurrent echocardiography and CCT between 2016 and 2020. Patients were included if they had history of CA z-scores of ≥3 on echocardiography during their clinical course. Agreement between CCT and echocardiography was assessed using Bland-Altman analysis.
+RESULTS: Paired CCT and echocardiography studies were available in 18 patients (21 studies). The largest CA aneurysms were large/giant (z-score ≥10) in 14 studies, medium (z-score ≥5, <10) in 3 studies, and small (z score ≥2.5, <5) in 2 studies. Intra- and inter-observer reliability for CCT measurements were high for all CA segments (ICC 99.7% and 98.6%). For the LMCA, proximal LAD and proximal and distal RCA there was high correlation between echocardiogram and CCT absolute measurements with wider variation between modalities for the distal LAD and circumflex. Overall, CCT measurements tended to be smaller than echocardiogram measurements, and led to a lower AHA z-score risk classification in 24% of studies.
+CONCLUSION: CCT and echocardiography have high agreement for absolute measurements of proximal CA segments, but more measurement discrepancy exists for distal CA segments with bias toward lower dimensions on CCT.
+
+Citation: Gellis L, et al. Comparison of coronary artery measurements between echocardiograms and cardiac CT in Kawasaki disease patients with aneurysms. Comparison of coronary artery measurements between echocardiograms and cardiac CT in Kawasaki disease patients with aneurysms. 2022; 16:43-50. doi: 10.1016/j.jcct.2021.09.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34548269/

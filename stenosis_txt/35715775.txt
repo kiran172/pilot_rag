@@ -1,0 +1,12 @@
+PMID: 35715775
+Title: Biomechanical comparison of different interspinous process devices in the treatment of lumbar spinal stenosis: a finite element analysis.
+
+Abstract: BACKGROUND: Lumbar spinal stenosis (LSS) is a common disease among elderly individuals, and surgery is an effective treatment. The development of minimally invasive surgical techniques, such as the lumbar interspinous process device (IPD), has provided patients with more surgical options.
+OBJECTIVE: To investigate the biomechanical properties of different IPDs, including BacFuse, X-Stop and Coflex, in the treatment of LSS.
+METHODS: Based on the computed tomography images of a patient with LSS, four finite element (FE) models of L3-S5 were created in this study. The FE models included a surgical model of the intact lumbar spine and surgical models of the lumbar IPDs BacFuse, X-Stop, and Coflex. After validating the models, they were simulated for four physiological motions: flexion, extension, lateral bending and axial rotation, and range of motion (ROM). Stress distribution of discs and facet joints in each segment, stress distribution of the spinous process in the operated section, and stress distribution of the internal fixation were compared and analysed.
+RESULTS: Compared to the model of the intact lumbar spine, the other three models showed a decrease in ROM and disc and facet joint stresses in the surgical segment during movement and an increase in ROM and disc and facet joint stresses in the adjacent segments. These effects were greater for the proximal adjacent segment with BacFuse and more pronounced for the distal adjacent segment with Coflex, while X-Stop had the greatest stress effect on the spinous process in the surgical segment.
+CONCLUSION: BacFuse, Coflex and X-Stop could all be implemented to effectively reduce extension and disc and facet joint stresses, but they also increase the ROM and disc and facet joint stresses in adjacent segments, which may cause degeneration.
+
+Citation: Liu Z, et al. Biomechanical comparison of different interspinous process devices in the treatment of lumbar spinal stenosis: a finite element analysis. Biomechanical comparison of different interspinous process devices in the treatment of lumbar spinal stenosis: a finite element analysis. 2022; 23:585. doi: 10.1186/s12891-022-05543-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35715775/

@@ -1,0 +1,11 @@
+PMID: 34555213
+Title: Resting echocardiographic predictors for true-severe aortic stenosis in patients with low-gradient severe aortic stenosis: A dobutamine stress echocardiography study.
+
+Abstract: OBJECTIVE: Dobutamine stress echocardiography (DSE) is not always feasible in patients with low-gradient severe aortic stenosis (LG-SAS), and there are limited data available on the resting echocardiographic predictors for true-severe aortic stenosis (TSAS). This study investigated resting echocardiographic predictors for TSAS.
+METHODS: Clinical data of 106 LG-SAS patients who underwent DSE were retrospectively analyzed. LG-SAS was defined as an aortic valve area index (AVAi) &lt; .6 cm2 /m2 , and a mean AV pressure gradient &lt; 40 mm Hg. The velocity ratio (VR) was calculated as the peak left ventricular outflow tract velocity/peak AV velocity. TSAS was defined as a projected AVAi &lt; .6 cm2 /m2 .
+RESULTS: The mean age was 79.3 ± 7.3 years, and 45 (42.5%) were men. The resting AV data were as follows: AVAi, .50 ± .07 cm2 /m2 ; mean AV pressure gradient, 23.0 ± 7.4 mm Hg; and VR, .25 ± .05. The projected AVAi was .58 ± .09 cm2 /m2 , and TSAS was documented in 65 (61.3%) patients. In multivariate analysis, the independent predictors of TSAS were AVAi (p = 0.012) and VR (p = 0.004) with respective best cut-off values of .52 cm2 /m2 and .25 on receiver-operating characteristic curve analysis. According to incremental numbers of the predictors, correct classification percentages of TSAS significantly increased with the Cochran-Armitage trend test (16.2% in no predictors, 65.2% in one predictor, and 95.7 % in two predictors; p &lt; 0.001).
+CONCLUSIONS: Resting AVAi and VR were independent predictors of TSAS in LG-SAS patients. The true severity might be predictable using the combination of resting parameters.
+
+Citation: Onishi H, et al. Resting echocardiographic predictors for true-severe aortic stenosis in patients with low-gradient severe aortic stenosis: A dobutamine stress echocardiography study. Resting echocardiographic predictors for true-severe aortic stenosis in patients with low-gradient severe aortic stenosis: A dobutamine stress echocardiography study. 2021; 38:1731-1740. doi: 10.1111/echo.15201
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34555213/

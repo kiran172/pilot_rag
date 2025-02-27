@@ -1,0 +1,11 @@
+PMID: 33959170
+Title: Prediction of Patient's Adherence to the Post-Intubation Tracheal Stenosis Follow-up Plan in Iran: Application of two Data Mining Techniques.
+
+Abstract: BACKGROUND: Timely diagnosis of post-intubation tracheal stenosis (PITS), which is one of the most serious complications of endotracheal intubation, may change its natural history. To prevent PITS, patients who are discharged from the intensive care unit (ICU) with more than 24 hours of intubation should be actively followed-up for three months after extubation. This study aimed to evaluate the abilities of artificial neural network (ANN) and decision tree (DT) methods in predicting the patients' adherence to the follow-up plan and revealing the knowledge behind PITS screening system development requirements.
+MATERIALS AND METHODS: In this cohort study, conducted in 14 ICUs during 12 months in ten cities of Iran, the data of 203 intubated ICU-discharged patients were collected. Ten influential factors were defined for adherences to the PITS follow-up (P<0.05). A feed-forward multilayer perceptron algorithm was applied using a training set (two-thirds of the entire data) to develop a model for predicting the patients' adherence to the follow-up plan three months after extubation. The same data were used to develop a C5.0 DT in MATLAB 2010a. The remaining one-third of data was used for model testing, based on the holdout method.
+RESULTS: The accuracy, sensitivity, and specificity of the developed ANN classifier were 83.30%, 72.70%, and 89.50%, respectively. The accuracy of the DT model with five nodes, 13 branches, and nine leaves (producing nine rules for active follow-up) was 75.36%.
+CONCLUSION: The developed classifier might aid care providers to identify possible cases of non-adherence to the follow-up and care plans. Overall, active follow-up of these patients may prevent the adverse consequences of PITS after ICU discharge.
+
+Citation: Farzanegan B, et al. Prediction of Patient's Adherence to the Post-Intubation Tracheal Stenosis Follow-up Plan in Iran: Application of two Data Mining Techniques. Prediction of Patient's Adherence to the Post-Intubation Tracheal Stenosis Follow-up Plan in Iran: Application of two Data Mining Techniques. 2020; 19:330-339.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33959170/

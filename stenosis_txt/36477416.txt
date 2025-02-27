@@ -1,0 +1,12 @@
+PMID: 36477416
+Title: Predictors of five-repetition sit-to-stand test performance in patients with lumbar degenerative disease.
+
+Abstract: BACKGROUND: The five-repetition sit-to-stand test (5R-STS) has recently been validated as an objective measure of functional impairment in patients with lumbar degenerative disease (LDD). Knowledge of factors influencing 5R-STS performance is useful to correct for confounders, create personalized adjusted test times, and potentially identify prognostic subgroups. We evaluate factors predicting the 5R-STS performance in patients with LDD.
+METHODS: Patients with LDD requiring surgery were included. Each participant performed the 5R-STS and completed a questionnaire that included their age, gender, weight, height, body mass index (BMI), smoking status, education level, employment type, ability to work, analgesic drug usage, history of previous spinal surgery, and EQ5D depression and anxiety domain. Surgical indication and index level of the spinal pathology were also recorded. Predictors of 5R-STS were identified through multivariable linear regression.
+RESULTS: The cohort consisted of 240 patients, 47.9% being female (mean age, 47.7 ± 13.6 years). In the final multivariable model incorporating confounders, height (regression coefficient (RC), 0.08; 95% confidence interval (CI), 0.003/0.16, p = 0.042) and being an active smoker (RC, 2.44; 95%CI, 0.56/4.32, p = 0.012) were significant predictors of worse 5R-STS performance. Full ability to work (RC, - 2.39; 95%CI, - 4.39/ - 0.39, p = 0.020) was associated with a better 5R-STS performance. Age, height, surgical indication, index level of pathology, history of previous spine surgery, history of pain, analgesic drug use, employment type, and severity of anxiety and depression symptoms demonstrated confounding effect on the 5R-STS time.
+CONCLUSIONS: Greater height, being an active smoker, and inability to work are significant predictors of worse 5R-STS performance in patients with LDD.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03303300 and NCT03321357.
+
+Citation: Klukowska AM, et al. Predictors of five-repetition sit-to-stand test performance in patients with lumbar degenerative disease. Predictors of five-repetition sit-to-stand test performance in patients with lumbar degenerative disease. 2023; 165:107-115. doi: 10.1007/s00701-022-05441-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36477416/

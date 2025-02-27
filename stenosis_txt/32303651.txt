@@ -1,0 +1,11 @@
+PMID: 32303651
+Title: Association between kidney disease measures and intracranial atherosclerosis: The ARIC study.
+
+Abstract: OBJECTIVE: To test the association between reduced kidney function (assessed by estimated glomerular filtration rate [eGFR] and cystatin C [CysC]) and kidney damage (assessed by urinary albumin-to-creatinine ratio [ACR]) and intracranial atherosclerotic disease (ICAD) by high-resolution vessel wall MRI (VWMRI) in the Atherosclerosis Risk in Communities Neurocognitive Study (ARIC-NCS).
+METHODS: We conducted a cross-sectional analysis of ARIC participants with data on kidney measures and VWMRI in 2011 to 2013. The main outcomes were presence of intracranial plaques and luminal stenosis. Multivariable models were adjusted for demographics, cardiovascular risk factors, and use of antithrombotic medications.
+RESULTS: A total of 1,762 participants (mean ± SD age, 76.3 ± 5.3) were included. eGFR based on CysC (eGFRcysc) &lt;60 mL/min/1.73 m2 (vs ≥60 mL/min/1.73 m2) was associated with plaque presence (adjusted odds ratio [OR] 1.29, 95% confidence interval [CI] 1.04-1.60), any detectable stenosis (adjusted OR 1.31, 95% CI 1.04-1.63), and &gt;70% stenosis or occlusion (adjusted OR 2.15, 95% CI 1.32-3.50). Neither ACR nor CysC showed statistically significant associations with ICAD features in adjusted models. In adjusted multinomial models, participants with eGFRcysc &lt;60 mL/min/1.73 m2 (vs ≥60 mL/min/1.73 m2) had an increased OR of 1.41 (95% CI 1.06-1.87) for having 1 plaque (vs none) but no significant increase for multiple plaques; ACR ≥30 was associated with moderate (50%-70%) stenosis (OR 2.01, 95% CI 1.14-3.55) vs absent or less than 50% stenosis.
+CONCLUSION: In community-dwelling older adults, reduced kidney function or elevated kidney damage was associated with ICAD measured by VWMRI. This finding may help to better identify a population at high risk for ICAD.
+
+Citation: Hao Q, et al. Association between kidney disease measures and intracranial atherosclerosis: The ARIC study. Association between kidney disease measures and intracranial atherosclerosis: The ARIC study. 2020; 94:e2361-e2372. doi: 10.1212/WNL.0000000000009311
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32303651/

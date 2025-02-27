@@ -1,0 +1,12 @@
+PMID: 33213720
+Title: Incorporating Coronary Calcification Into Pre-Test Assessment of the Likelihood of Coronary Artery Disease.
+
+Abstract: BACKGROUND: The prevalence of obstructive coronary artery disease (CAD) in symptomatic patients referred for diagnostic testing has declined, warranting optimization of individualized diagnostic strategies.
+OBJECTIVES: This study sought to present a simple, clinically applicable tool enabling estimation of the likelihood of obstructive CAD by combining a pre-test probability (PTP) model (Diamond-Forrester approach using sex, age, and symptoms) with clinical risk factors and coronary artery calcium score (CACS).
+METHODS: The new tool was developed in a cohort of symptomatic patients (n = 41,177) referred for diagnostic testing. The risk factor-weighted clinical likelihood (RF-CL) was calculated through PTP and risk factors, while the CACS-weighted clinical likelihood (CACS-CL) added CACS. The 2 calculation models were validated in European and North American cohorts (n = 15,411) and compared with a recently updated PTP table.
+RESULTS: The RF-CL and CACS-CL models predicted the prevalence of obstructive CAD more accurately in the validation cohorts than the PTP model, and markedly increased the area under the receiver-operating characteristic curves of obstructive CAD: for the PTP model, 72 (95% confidence intervals [CI]: 71 to 74); for the RF-CL model, 75 (95% CI: 74 to 76); and for the CACS-CL model, 85 (95% CI: 84 to 86). In total, 38% of the patients in the RF-CL group and 54% in the CACS-CL group were categorized as having a low clinical likelihood of CAD, as compared with 11% with the PTP model.
+CONCLUSIONS: A simple risk factor and CACS-CL tool enables improved prediction and discrimination of patients with suspected obstructive CAD. The tool empowers reclassification of patients to low likelihood of CAD, who need no further testing.
+
+Citation: Winther S, et al. Incorporating Coronary Calcification Into Pre-Test Assessment of the Likelihood of Coronary Artery Disease. Incorporating Coronary Calcification Into Pre-Test Assessment of the Likelihood of Coronary Artery Disease. 2020; 76:2421-2432. doi: 10.1016/j.jacc.2020.09.585
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33213720/

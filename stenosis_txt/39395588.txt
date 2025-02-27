@@ -1,0 +1,11 @@
+PMID: 39395588
+Title: Prediction of Health Status in Patients Undergoing Lower Extremity Intervention for Claudication.
+
+Abstract: BACKGROUND: Identifying predictors of generic and disease-specific health status outcomes in patients with lower extremity peripheral artery disease who undergo femoral-popliteal peripheral vascular intervention (PVI) for claudication remains an understudied area. We aimed to identify important predictors of health status after PVI as the foundation for risk-based approaches to deploying therapies that improve patient outcomes.
+METHOD: Baseline characteristics of 468 participants with claudication and femoral/popliteal stenosis treated with either the Stellarex paclitaxel-based drug-coated balloon or plain balloon angioplasty from 2013 to 2019 were included. The study examined 59 baseline variables and aimed to identify the most important predictors of generic (EQ-5D-3L and EQ-5D visual analog scale [VAS]) and disease-specific (Walking Impairment Questionnaire [WIQ]) health status at 1 year. A random forest model was used to generate a rank variables based on their importance in predicting 1-year health status.
+RESULTS: Among included patients, mean ± standard deviation age was 68.3 ± 9 years with 67.9% and 87% being male and White, respectively. Baseline mean EQ-5D-3L, EQ-5D VAS, and WIQ were 0.7 ± 0.3, 64.6 ± 16.0, and 30.7 ± 22.1, respectively. The most important variables for predicting EQ-5D-3L, EQ-5D VAS, and WIQ were a history of deep venous thrombosis, chronic lung disease, and hypertension, respectively.
+CONCLUSIONS: Among patients undergoing PVI for claudication, comorbidities were the most important predictors of future health status, underscoring the need for an integrated approach for peripheral artery disease management. Utilization of machine learning approaches can facilitate development of models to inform risk-based approaches to treatment.
+
+Citation: Peri-Okonny PA, et al. Prediction of Health Status in Patients Undergoing Lower Extremity Intervention for Claudication. Prediction of Health Status in Patients Undergoing Lower Extremity Intervention for Claudication. 2024; 110:314-322. doi: 10.1016/j.avsg.2024.08.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39395588/

@@ -1,0 +1,11 @@
+PMID: 39050839
+Title: Risk Factors for Pulmonary Tuberculosis with Tracheobronchial Tuberculosis: Propensity Score Matching Analysis.
+
+Abstract: BACKGROUND: Pulmonary tuberculosis (PTB) with tracheobronchial tuberculosis (TBTB) can lead to tracheal stenosis and atelectasis, but the specific risk factors are currently unclear. Therefore, the goal of this retrospective study is to address this issue and help with the early diagnosis of TBTB.
+METHODS: Please include PTB hospitalized in our hospital from January 2021 to October 2023 in the study. After conducting bronchoscopy examinations, the patients were divided into two groups: the PTB group and the PTB&TBTB group. We used the propensity score matching (PSM) to align the baseline data of the two groups of patients, and then performed multiple logistic regression analysis to identify risk factors.
+RESULTS: 643 patients with PTB were included in the study, 227 of whom (35.30%) were diagnosed with TBTB. A total of 204 pairs of patients were successfully matched using the PSM. After matching, there were no statistically significant differences in basic information between the two groups of patients (P&gt;0.05). Multivariate logistic regression analysis revealed that disease course ≥ 1 month (OR=1.85, 95% CI: 1.21-2.83), complicated with diabetes (OR=3.00, 95% CI: 1.91-4.70), and concomitant pulmonary cavity (OR=3.46, 95% CI: 2.23-5.36) were risk factors for PTB accompanied by TBTB (all P&lt;0.05).
+CONCLUSION: After adjusting for various influencing factors using PSM, the analysis demonstrated that disease course ≥ 1 month, complicated with diabetes, and concomitant pulmonary cavity are risk factors for PTB combined with TBTB. This emphasizes the significance of improving screening and implementing early intervention measures.
+
+Citation: Feng Y, et al. Risk Factors for Pulmonary Tuberculosis with Tracheobronchial Tuberculosis: Propensity Score Matching Analysis. Risk Factors for Pulmonary Tuberculosis with Tracheobronchial Tuberculosis: Propensity Score Matching Analysis. 2024; 17:3145-3151. doi: 10.2147/IDR.S470886
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39050839/

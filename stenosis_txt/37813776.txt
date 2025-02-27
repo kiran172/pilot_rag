@@ -1,0 +1,11 @@
+PMID: 37813776
+Title: Enhancing Risk Stratification on Coronary Computed Tomography Angiography: The Role of Artificial Intelligence.
+
+Abstract: PURPOSE: To describe and outline the role of artificial intelligence (AI) in assisting coronary computed tomography angiography (CCTA) in enhancing risk stratification.
+METHODS: A comprehensive review of the literature was performed to identify published work investigating the utility of applying AI to CCTA.
+FINDINGS: CCTA is an excellent diagnostic tool for the detection of atherosclerotic cardiovascular disease. The noninvasive nature and high diagnostic accuracy have made CCTA a viable alternative to invasive coronary angiography to detect luminal stenosis. However, it is now understood that stenosis is just one factor that predicts cardiac risk and other factors need to be considered. CCTA-derived plaque biomarkers have since emerged as established predictors of cardiac events to improve risk stratification. Despite awareness of these biomarkers, they are still yet to be incorporated into routine clinical practice. The major barriers to implementation include the specialized skills required for image evaluation and the time intensive nature of analysis. With the many recent advancements in the technology, AI presents itself as a promising solution. AI is attractive because it has the potential to rapidly automate technically challenging tasks with exceptional accuracy.
+IMPLICATIONS: Developments in the field of AI are occurring at a rapid rate. There is already increasing evidence of the potential AI has to greatly improve the utility of CCTA by improving analysis time and extracting additional prognostic data from new plaque biomarkers. There are, however, technical and ethical challenges that need to be considered before implementing such technology into routine clinical practice.
+
+Citation: Jaltotage B, et al. Enhancing Risk Stratification on Coronary Computed Tomography Angiography: The Role of Artificial Intelligence. Enhancing Risk Stratification on Coronary Computed Tomography Angiography: The Role of Artificial Intelligence. 2023; 45:1023-1028. doi: 10.1016/j.clinthera.2023.09.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37813776/

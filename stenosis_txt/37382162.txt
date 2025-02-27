@@ -1,0 +1,13 @@
+PMID: 37382162
+Title: Localizing Hormone Receptor Expression to Cellular Compartments in Idiopathic Subglottic Stenosis.
+
+Abstract: OBJECTIVES: Idiopathic subglottic stenosis (iSGS) is an unexplained progressive fibrosis of the upper airway. iSGS almost exclusively affects women; as a result, female hormones (estrogen and progesterone) have been proposed to participate in the pathogenesis of iSGS. Our aim was to localize cell-specific gene expression of estrogen receptors (ESR1 and ESR2) and progesterone receptor (PGR) using an established iSGS single-cell RNA sequencing (scRNAseq) cell atlas.
+STUDY DESIGN: Ex vivo molecular study of airway scar and healthy mucosa from iSGS patients.
+METHODS: An established scRNAseq atlas consisting of 25,974 individually sequenced cells from subglottic scar (n = 7) or matched unaffected mucosa (n = 3) in iSGS patients was interrogated for RNA expression of ESR1, ESR2, and PGR. Results were quantified and compared across cell subsets, then visualized using Uniform Manifold Approximation and Projection (UMAP). Confirmatory protein assessment of endocrine receptors in fibroblasts from iSGS patients (n = 5) was performed via flow cytometry.
+RESULTS: The proximal airway mucosa in iSGS patients demonstrates differential expression of endocrine receptors (ESR1, ESR2, PGR). Within airway scar, endocrine receptors are primarily expressed by fibroblasts, immune cells, and endothelial cells. Fibroblasts show strong ESR1 and PGR expression, while immune cells possess RNA for both ESR1 and ESR2. Endothelial cells predominantly express ESR2. Epithelial cells in unaffected mucosa express all three receptors, which are all reduced in airway scar.
+CONCLUSIONS: scRNAseq data localized endocrine receptor expression to specific cell subsets. These results provide the foundation for future work interrogating how hormone-dependent mechanisms promote, sustain, or participate in iSGS disease pathogenesis.
+LEVEL OF EVIDENCE: NA; Basic science Laryngoscope, 133:3506-3511, 2023.
+
+Citation: Talatala ERR, et al. Localizing Hormone Receptor Expression to Cellular Compartments in Idiopathic Subglottic Stenosis. Localizing Hormone Receptor Expression to Cellular Compartments in Idiopathic Subglottic Stenosis. 2023; 133:3506-3511. doi: 10.1002/lary.30856
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37382162/

@@ -1,0 +1,13 @@
+PMID: 37139814
+Title: Prevalence and Procedural Risk of Intracranial Atherosclerotic Stenosis Coexisting With Unruptured Intracranial Aneurysm.
+
+Abstract: BACKGROUND: Coexistence of intracranial atherosclerotic stenosis (ICAS) and unruptured intracranial aneurysms (UIAs) is increasingly encountered in clinical practice. This study aims to determine the prevalence of ICAS in patients with UIAs and procedural ischemic risk associated with ICAS when treating UIAs.
+METHODS: Based on the CAIASA study (Coexistence of Atherosclerotic Intracranial Arterial Stenosis With Intracranial Aneurysms), we prospectively included patients undergoing treatment procedures for UIAs from October 2015 to December 2020 at Beijing Tiantan Hospital, China. We used computed tomography angiography or digital subtraction angiography to diagnose ICAS (stenosis≥50%). Multivariable logistic regression and propensity-score matching were performed to evaluate the risk of procedure-related ischemic stroke and unfavorable outcome associated with ICAS. The ICAS score was used to explore the association between different burden of ICAS and procedure-related ischemic risk.
+RESULTS: Among 3949 patients who underwent endovascular or open surgical procedures for UIAs, 245 (6.2%) had ICAS. After exclusion, 15.7% (32/204) of patients with ICAS experienced procedure-related ischemic stroke compared with 5.0% (141/2825) of patients without ICAS. From the unmatched and matched cohort, ICAS was significantly associated with increased risk of procedure-related ischemic stroke (unmatched: adjusted odds ratio=3.11 [1.89-5.11]; and matched: adjusted odds ratio=2.99 [1.38-6.48]). This association became more evident among patients not receiving antiplatelet therapy (P<sub>interaction</sub>=0.022). For patients undergoing different treatment modalities, similar increased risks were observed (clipping: adjusted odds ratio=3.43 [1.73-6.79]; and coiling: adjusted odds ratio=3.59 [1.94-6.65]). Higher ICAS score was correlated with higher procedural ischemic risk (P<sub>trend</sub>&lt;0.001).
+CONCLUSIONS: The occurrence of ICAS is not infrequent in patients with UIAs. ICAS confers an ~2-fold increased procedural ischemic risk, irrespective of clipping or coiling. Previous antiplatelet therapy may decrease the risk.
+REGISTRATION: URL: https://www.
+CLINICALTRIALS: gov; Unique identifier: NCT02795078.
+
+Citation: Yin Z, et al. Prevalence and Procedural Risk of Intracranial Atherosclerotic Stenosis Coexisting With Unruptured Intracranial Aneurysm. Prevalence and Procedural Risk of Intracranial Atherosclerotic Stenosis Coexisting With Unruptured Intracranial Aneurysm. 2023; 54:1484-1493. doi: 10.1161/STROKEAHA.122.041553
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37139814/

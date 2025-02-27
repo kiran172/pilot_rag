@@ -1,0 +1,11 @@
+PMID: 38492543
+Title: Utilizing RNA sequencing to identify gene expression markers of stroke-causing thrombi origin: A pilot study.
+
+Abstract: INTRODUCTION: Stroke embolic source have an unknown origin in 30-40% of cases. Mechanical thrombectomy for acute large vessel occlusion stroke has provided us with a method to directly retrieve the thrombi from patients for analysis. By collecting stroke-causing thrombi from known sources, we can then use high-throughput RNA sequencing (RNAseq) technology to directly measure the gene expression signatures of these clots. This may allow us to identify genetic markers to predict the cause of cryptogenic embolism.
+METHODS: This is a prospective study in which RNAseq was used to analyze cerebral thrombi retrieved by mechanical thrombectomy devices in acute ischemic stroke patients. Samples were separated into two groups based on known stroke thrombus etiology, including Carotid group (patients with ipsilateral >70% carotid stenosis) and Atrial fibrillation (AF) group (patients with atrial fibrillation). Gene expression was compared by RNAseq analysis between the groups.
+RESULTS: From October 2016 to September 2017, 8 thrombi (4 in Carotid group, 4 in Afib group) were included in this study. There were 131 genes that were significantly up- or down-regulated between the two groups defined as a false discovery rate ≤ 0.05 and a fold change ≥ 2. Twenty-six genes were selected as candidate gene biomarkers based on the criteria in the methods section. Candidate genes HSPA1B, which encodes a heatshock protein, and GPRC5B, which encodes a G-protein, showed the greatest fold differences in expression between the two groups.
+CONCLUSION: This study has shown that RNA sequencing of acute ischemic stroke thrombi is feasible and indentified potential novel biomarkers for identifying stroke-causing thrombi origin, especially in cryptogenic stroke.
+
+Citation: Atchaneeyasakul K, et al. Utilizing RNA sequencing to identify gene expression markers of stroke-causing thrombi origin: A pilot study. Utilizing RNA sequencing to identify gene expression markers of stroke-causing thrombi origin: A pilot study. 2024; 33:107518. doi: 10.1016/j.jstrokecerebrovasdis.2023.107518
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38492543/

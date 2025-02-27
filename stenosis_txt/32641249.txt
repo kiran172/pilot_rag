@@ -1,0 +1,12 @@
+PMID: 32641249
+Title: Respiratory problems owing to severe metabolic alkalosis in infants presenting with hypertrophic pyloric stenosis.
+
+Abstract: OBJECTIVE: Uncorrected metabolic alkalosis in infantile hypertrophic pyloric stenosis (IHPS) could lead to perioperative apnea. However, the precise incidence of preoperative respiratory problems and the association with metabolic alkalosis are unknown. Therefore, we aimed to determine the incidence of preoperative respiratory problems in IHPS and to assess the association with metabolic alkalosis.
+METHODS: We retrospectively reviewed all patients diagnosed with IHPS during 2007-2017. Respiratory problems were classified as present or absent. With multivariate logistic regression we analyzed the association between bicarbonate and respiratory problems, corrected for gestational age and birth weight.
+RESULTS: We included 459 infants, of whom 23 developed preoperative respiratory problems (5.0%). Infants with preoperative respiratory problems were more often female (43.5% vs. 13.3% p = 0.001) and had significantly higher median serum levels of bicarbonate (32.0 mmol/L vs. 30.0 mmol/L), base excess (6.5 mmol/L vs. 5.3 mmol/L) and pCO2 (6.4 kPa vs. 5.9 kPa), compared to infants without respiratory problems. Multivariate analysis of serum bicarbonate and presence of respiratory problems showed an OR of 2.18 per 10 mmol/L (95% CI 1.21-4.71) (p = 0.009). The optimal bicarbonate cutoff point was 25.7 mmol/L (sensitivity 100%, specificity 13.4%).
+CONCLUSION: IHPS with metabolic alkalosis potentially results in preoperative respiratory problems. A lower bicarbonate target before surgery might be recommended and respiratory monitoring should be considered.
+LEVEL OF EVIDENCE: Level IV.
+
+Citation: van den Bunder FAIM, et al. Respiratory problems owing to severe metabolic alkalosis in infants presenting with hypertrophic pyloric stenosis. Respiratory problems owing to severe metabolic alkalosis in infants presenting with hypertrophic pyloric stenosis. 2020; 55:2772-2776. doi: 10.1016/j.jpedsurg.2020.05.041
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32641249/

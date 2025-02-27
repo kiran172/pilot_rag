@@ -1,0 +1,12 @@
+PMID: 35289303
+Title: Clinical outcomes of no stenting in patients with ST-segment elevation myocardial infarction undergoing deferred primary percutaneous coronary intervention.
+
+Abstract: BACKGROUND: ST-segment elevation myocardial infarction (STEMI) is treated with stenting, but the underlying stenosis is often not severe, and stenting may potentially be omitted.
+AIMS: The aim of the study was to investigate outcomes of patients with STEMI treated with percutaneous coronary intervention (PCI) without stenting.
+METHODS: Patients were identified through the DANAMI-3-DEFER study. Stenting was omitted in the patients with stable flow after initial PCI and no significant residual stenosis on the deferral procedure, who were randomised to deferred stenting. These patients were compared to patients randomised to conventional PCI treated with immediate stenting. The primary endpoint was a composite of all-cause mortality, recurrent myocardial infarction (MI), and target vessel revascularisation (TVR).
+RESULTS: Of 603 patients randomised to deferred stenting, 84 were treated without stenting, and in patients randomised to conventional PCI (n=612), 590 were treated with immediate stenting. Patients treated with no stenting had a median stenosis of 40%, median vessel diameter of 2.9 mm, and median lesion length of 11.4 mm. During a median follow-up of 3.4 years, the composite endpoint occurred in 14% and 16% in the no and immediate stenting groups, respectively (unadjusted hazard ratio [HR] 0.87, 95% confidence interval [CI]: 0.48-1.60; p=0.66). The association remained non-significant after adjusting for confounders (adjusted HR 0.53, 95% CI: 0.22-1.24; p=0.14). The rates of TVR and recurrent MI were 2% vs 4% (p=0.70) and 4% vs 6% (p=0.43), respectively.
+CONCLUSIONS: Patients with STEMI, with no significant residual stenosis and stable flow after initial PCI, treated without stenting, had comparable event rates to patients treated with immediate stenting.
+
+Citation: Madsen JM, et al. Clinical outcomes of no stenting in patients with ST-segment elevation myocardial infarction undergoing deferred primary percutaneous coronary intervention. Clinical outcomes of no stenting in patients with ST-segment elevation myocardial infarction undergoing deferred primary percutaneous coronary intervention. 2022; 18:482-491. doi: 10.4244/EIJ-D-21-00950
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35289303/

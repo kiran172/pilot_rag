@@ -1,0 +1,12 @@
+PMID: 37485260
+Title: Predicting the risk of iliofemoral vascular complication in complex transfemoral-TAVR using new generation transcatheter devices.
+
+Abstract: OBJECTIVE: Design a predictive risk model for minimizing iliofemoral vascular complications (IVC) in a contemporary era of transfemoral-transcatheter aortic valve replacement (TF-TAVR).
+BACKGROUND: IVC remains a common complication of TF-TAVR despite the technological improvement in the new-generation transcatheter systems (NGTS) and enclosed poor outcomes and quality of life. Currently, there is no accepted tool to assess the IVC risk for calcified and tortuous vessels.
+METHODS: We reconstructed CT images of 516 propensity-matched TF-TAVR patients using the NGTS to design a predictive anatomical model for IVC and validated it on a new cohort of 609 patients. Age, sex, peripheral artery disease, valve size, and type were used to balance the matched cohort.
+RESULTS: IVC occurred in 214 (7.2%) patients. Sheath size (p = 0.02), the sum of angles (SOA) (p &lt; .0001), number of curves (NOC) (p &lt; .0001), minimal lumen diameter (MLD) (p &lt; .001), and sheath-to-femoral artery diameter ratio (SFAR) (p = 0.012) were significant predictors for IVC. An indexed risk score (CSI) consisting of multiplying the SOA and NOC divided by the MLD showed 84.3% sensitivity and 96.8% specificity, when set to &gt;100, in predicting IVC (C-stat 0.936, 95% CI 0.911-0.959, p &lt; 0.001). Adding SFAR &gt; 1.00 in a tree model increased the overall accuracy to 97.7%. In the validation cohort, the model predicted 89.5% of the IVC cases with an overall 89.5% sensitivity, 98.9% specificity, and 94.2% accuracy (C-stat 0.842, 95% CI 0.904-0.980, p &lt; .0001).
+CONCLUSION: Our CT-based validated-model is the most accurate and easy-to-use tool assessing IVC risk and should be used for calcified and tortuous vessels in preprocedural planning.
+
+Citation: Koren O, et al. Predicting the risk of iliofemoral vascular complication in complex transfemoral-TAVR using new generation transcatheter devices. Predicting the risk of iliofemoral vascular complication in complex transfemoral-TAVR using new generation transcatheter devices. 2023; 10:1167212. doi: 10.3389/fcvm.2023.1167212
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37485260/

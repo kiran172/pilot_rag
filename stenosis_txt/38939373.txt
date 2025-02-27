@@ -1,0 +1,12 @@
+PMID: 38939373
+Title: Multimarker Approach to Improve Risk Stratification of Patients Undergoing Transcatheter Aortic Valve Implantation.
+
+Abstract: BACKGROUND: A blood multimarker approach may be useful to enhance risk stratification in patients undergoing TAVI.
+OBJECTIVES: The objective of this study was to determine the prognostic value of multiple blood biomarkers in transcatheter aortic valve implantation (TAVI) patients.
+METHODS: In this prospective study, several blood biomarkers of cardiovascular function, inflammation, and renal function were measured in 362 patients who underwent TAVI. The cohort was divided into 3 groups according to the number of elevated blood biomarkers (ie, ≥ median value for the whole cohort) for each patient before the procedure. Survival analyses were conducted to evaluate the association between blood biomarkers and risk of adverse event following TAVI.
+RESULTS: During a median follow-up of 2.5 (IQR: 1.9-3.2) years, 34 (9.4%) patients were rehospitalized for heart failure, 99 (27%) patients died, and 113 (31.2%) met the composite endpoint of all-cause mortality or heart failure rehospitalization. Compared to patients with 0 to 3 elevated biomarkers (referent group), those with 4 to 7 and 8 to 9 elevated biomarkers had a higher risk of all-cause mortality (HR: 1.54 [95% CI: 0.84-2.80], P = 0.16, and HR: 2.81 [95% CI: 1.53-5.15], P &lt; 0.001, respectively) and of the composite endpoint (HR: 1.65 [95% CI: 0.95-2.84], P = 0.07, and HR: 2.67 [95% CI: 1.52-4.70] P &lt; 0.001, respectively). Moreover, adding the number of elevated blood biomarkers into the clinical multivariable model provided significant incremental predictive value for all-cause mortality (Net Reclassification Index = 0.71, P &lt; 0.001).
+CONCLUSIONS: An increasing number of elevated blood biomarkers is associated with higher risks of adverse clinical outcomes following TAVI. The blood multimarker approach may be helpful to enhance risk stratification in TAVI patients.
+
+Citation: Hecht S, et al. Multimarker Approach to Improve Risk Stratification of Patients Undergoing Transcatheter Aortic Valve Implantation. Multimarker Approach to Improve Risk Stratification of Patients Undergoing Transcatheter Aortic Valve Implantation. 2024; 3:100761. doi: 10.1016/j.jacadv.2023.100761
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38939373/

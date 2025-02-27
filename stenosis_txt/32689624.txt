@@ -1,0 +1,11 @@
+PMID: 32689624
+Title: Clinical outcomes of radiation-induced carotid stenosis: A systematic review and meta-analysis.
+
+Abstract: OBJECTIVES: Clinical outcomes of radiation-induced carotid stenosis are still unclear. Therefore, a systematic review and meta-analysis is needed to evaluate the short- and long-term outcomes after interventions to treat radiation-induced carotid stenosis.
+METHODS: PubMed, EMBASE, the Cochrane Library and Web of Science were searched from 1 January 2000 for relevant RCTs and observational studies which reported outcomes after carotid endarterectomy (CEA) and carotid angioplasty and stenting (CAS) for carotid stenosis induced by radiation. Risk of bias were assessed through different scales according to study design. I2 statistic were used to evaluate the heterogeneity, and meta-regression were performed to investigate the source of heterogeneity. Visual inspection of funnel plots was used to judge publication bias.
+RESULTS: A total of 26 studies with 1002 patients were included. CEA was performed in 364 patients and CAS in 638 patients. The overall estimated rate of short-term stroke was 0.19% (95% CI: 0-0.90%), and the rate of long-term stroke was 2.68 % (95% CI: 1.19-4.57%). The rate of cranial nerve injury in CEA group was significantly higher than that in CAS group [risk ratio (RR): 6.03, 95% CI: 1.63-22.22, P = .007]. The univariate regression analysis showed that the risk of stroke in CAS group were significantly higher than CEA group in both short- and long-term [incidence rate ratio (IRR): 3.62, 95% CI: 1.21-10.85, P = 0.22; IRR: 2.95, 95% CI: 1.02-8.59, P = .046, respectively].
+CONCLUSIONS: This systematic review provided the worldwide profile of outcome of treatment for radiation-induced carotid stenosis, and also found that CEA can yield better results for these patients than CAS. Nonetheless, as large-scale studies have not yet been conducted, and there is a definite need for further studies in the future.
+
+Citation: Zhang X, et al. Clinical outcomes of radiation-induced carotid stenosis: A systematic review and meta-analysis. Clinical outcomes of radiation-induced carotid stenosis: A systematic review and meta-analysis. 2020; 29:104929. doi: 10.1016/j.jstrokecerebrovasdis.2020.104929
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32689624/

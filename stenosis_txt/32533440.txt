@@ -1,0 +1,12 @@
+PMID: 32533440
+Title: Predicting the presence of coronary artery disease by transesophageal echocardiography.
+
+Abstract: BACKGROUND: The accuracy of ultrasound signs as predictors for the presence of coronary artery disease (CAD) has been evaluated extensively in the 1990s and 2000s. Imaging quality has improved tremendously over the last decades.
+HYPOTHESIS: High-end ultrasound systems allow for accurate prediction of the presence or absence of CAD.
+METHODS: All patients who underwent a transesophageal echocardiography examination (TEE) between 2007 and 2016 and who had coronary angiography within 24 months before or after the TEE were retrospectively evaluated.
+RESULTS: A total of 242 patients fulfilled the inclusion criteria, 60% were male. Mean age was 70 years (SD ± 13 years). In multivariate regression analysis, plaque in the ascending aorta (odds ratio [OR] 2.51, 95% confidence interval [CI] 1.18-5.32, p = 0.017), plaque in at least one of the thoracic aortic segments (OR 2.07, 95% CI 1.02-4.22, p = 0.045), and the presence of mitral annular calcification (MAC, OR 1.84, 95% CI 1.01-3.36, p = 0.046) were predictors of significant CAD. The isolated finding of aortic stenosis (AS) (OR 2.53, 95%CI 1.23-5.21, p = 0.012) was a significant predictor for the absence of normal coronary arteries.
+CONCLUSION: With an negative predictive value (NPV) of 80%, the absence of MAC, AS, and aortic plaque makes the presence of significant CAD unlikely. If at least mild AS is present, normal coronary arteries are improbable.
+
+Citation: Schneider M, et al. Predicting the presence of coronary artery disease by transesophageal echocardiography. Predicting the presence of coronary artery disease by transesophageal echocardiography. 2020; 132:708-715. doi: 10.1007/s00508-020-01686-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32533440/

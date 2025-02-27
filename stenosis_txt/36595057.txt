@@ -1,0 +1,12 @@
+PMID: 36595057
+Title: Efficacy assessment of superficial temporal artery-middle cerebral artery bypass surgery in treating moyamoya disease from a hemodynamic perspective: a pilot study using computational modeling and perfusion imaging.
+
+Abstract: BACKGROUND: Superficial temporal artery-middle cerebral artery (STA-MCA) bypass is a common surgery in treating moyamoya disease (MMD) with occluded MCA. Computational fluid dynamics (CFD) simulation might provide a simple, non-invasive, and low-cost tool to evaluate the efficacy of STA-MCA surgery.
+AIM: We aim to quantitatively investigate the treatment efficacy of STA-MCA surgery in improving the blood flow of MMD patients using CFD simulation.
+METHODS: This retrospective study included 11 MMD patients with occlusion around proximal MCA who underwent STA-MCA bypass surgery. CFD simulation was performed using patient-specific blood pressure and postoperative artery geometry. The volumetric flow rates of STA and the bypass, average flow velocity in the proximal segment of transcranial bypass, transcranial pressure drop, and transcranial flow resistance were measured and compared with a postoperative increment of cerebral blood flow (CBF) in MCA territories derived from perfusion imaging. Per-branch pressure drop from model inlet to bypass branch outlet was calculated.
+RESULTS: The volumetric flow rates of STA and the bypass were 80.84 ± 14.54 mL/min and 46.03 ± 4.21 mL/min. Average flow velocity in proximal bypass, transcranial pressure drop, and transcranial flow resistance were 0.19 ± 0.07 m/s, 3.72 ± 3.10 mmHg, and 6.54 ± 5.65 10-8 Pa s m-3. Postoperative mean increment of CBF in MCA territories was 16.03 ± 11.72 mL·100 g-1·min-1. Per-branch pressure drop was 10.96 ± 5.59 mmHg and 7.26 ± 4.25 mmHg in branches with and without stenosis.
+CONCLUSIONS: CFD simulation results are consistent with CBF observation in verifying the efficacy of STA-MCA bypass, where postoperative stenosis may influence the hemodynamics.
+
+Citation: Wang X, et al. Efficacy assessment of superficial temporal artery-middle cerebral artery bypass surgery in treating moyamoya disease from a hemodynamic perspective: a pilot study using computational modeling and perfusion imaging. Efficacy assessment of superficial temporal artery-middle cerebral artery bypass surgery in treating moyamoya disease from a hemodynamic perspective: a pilot study using computational modeling and perfusion imaging. 2023; 165:613-623. doi: 10.1007/s00701-022-05455-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36595057/

@@ -1,0 +1,11 @@
+PMID: 39449149
+Title: High expression of PLA2G2A in fibroblasts plays a crucial role in the early progression of carotid atherosclerosis.
+
+Abstract: BACKGROUND: In mouse models of atherosclerosis, knockout of the PLA2G2A gene has been shown to reduce the volume of atherosclerotic plaques. Clinical trials have demonstrated the potential of using the sPLA2 inhibitor Varespladib in combination with statins to reduce lipid levels. However, this approach has not yielded the expected results in reducing the risk of cardiovascular events. Therefore, it is necessary to further investigate the mechanisms of PLA2G2A.
+METHODS: Single-cell transcriptome data from two sets of carotid plaques, combined with clinical patient information. were used to describe the expression characteristics of PLA2G2A in carotid plaques at different stages. In order to explore the mechanisms of PLA2G2A, we conducted enrichment analysis, cell-cell communication analysis and single-cell regulatory network inference and clustering analyses. We validated the above findings at the cellular level.
+RESULTS: Our findings indicate that PLA2G2A is primarily expressed in vascular fibroblasts and shows significant cell interactions with macrophages in the early-stage, especially in complement and inflammation-related pathways. We also found that serum sPLA2 levels have stronger diagnostic value in patients with mild carotid artery stenosis. Subsequent comparisons of single-cell transcriptomic data from early and late-stage carotid artery plaques corroborated these findings and predicted transcription factors that might regulate the progression of early carotid atherosclerosis (CA) and the expression of PLA2G2A.
+CONCLUSIONS: Our study discovered and validated that PLA2G2A is highly expressed by vascular fibroblasts and promotes plaque progression through the activation of macrophage complement and coagulation cascade pathways in the early-stage of CA.
+
+Citation: Wang X, et al. High expression of PLA2G2A in fibroblasts plays a crucial role in the early progression of carotid atherosclerosis. High expression of PLA2G2A in fibroblasts plays a crucial role in the early progression of carotid atherosclerosis. 2024; 22:967. doi: 10.1186/s12967-024-05679-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39449149/

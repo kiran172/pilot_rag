@@ -1,0 +1,11 @@
+PMID: 37270295
+Title: Increased Plasma Non-High-Density Lipoprotein Levels and Poor Coronary Collateral Circulation in Patients With Stable Coronary Artery Disease.
+
+Abstract: BACKGROUND: This study investigated the relationship between coronary collateral circulation (CCC) and non-high-density lipoprotein cholesterol (non-HDL-C) in patients with stable coronary artery disease (CAD). Coronary collateral circulation plays a critical role in supporting blood flow, particularly in the ischemic myocardium. Previous studies show that non-HDL-C plays a more important role in the formation and progression of atherosclerosis than do standard lipid parameters.
+METHODS: A total of 226 patients with stable CAD and stenosis of more than 95% in at least 1 epicardial coronary artery were included in the study. Rentrop classification was used to assign patients into group 1 (n = 85; poor collateral) or 2 (n = 141; good collateral). To adjust for the observed imbalance in baseline covariates between study groups, propensity-score matching was used. Covariates were diabetes, Gensini score, and angiotensin-converting enzyme inhibitor use.
+RESULTS: In the propensity-matched population, the plasma non-HDL-C level (mean [SD], 177.86 [44.0] mg/dL vs 155.6 [46.21] mg/dL; P = .001) was statistically higher in the poor-collateral group. LDL-C (odds ratio [OR], 1.23; 95% CI, 1.11-1.30; P = .01), non-HDL-C (OR, 1.34; 95% CI, 1.20-1.51; P = .01), C-reactive protein (OR, 1.21; 95% CI, 1.11-1.32; P = .03), systemic immune-inflammation index (OR, 1.14; 95% CI, 1.05-1.21; P = .01), and C-reactive protein to albumin ratio (OR, 1.11; 95% CI, 1.06-1.17; P = .01) remained independent predictors of CCC in multivariate logistic regression analysis.
+CONCLUSION: Non-HDL-C was an independent risk factor for developing poor CCC in stable CAD.
+
+Citation: Sivri F and Öztürk Ceyhan B. Increased Plasma Non-High-Density Lipoprotein Levels and Poor Coronary Collateral Circulation in Patients With Stable Coronary Artery Disease. Increased Plasma Non-High-Density Lipoprotein Levels and Poor Coronary Collateral Circulation in Patients With Stable Coronary Artery Disease. 2023; 50:(unknown pages). doi: 10.14503/THIJ-22-7934
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37270295/

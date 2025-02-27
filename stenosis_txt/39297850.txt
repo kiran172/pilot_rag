@@ -1,0 +1,12 @@
+PMID: 39297850
+Title: Myocardial Blood Flow Quantification Using Stress Cardiac Magnetic Resonance Improves Detection of Coronary Artery Disease.
+
+Abstract: BACKGROUND: Myocardial blood flow (MBF) and myocardial perfusion reserve (MPR) using stress cardiovascular magnetic resonance (CMR) have been shown to identify epicardial coronary artery disease. However, comparative analysis between quantitative perfusion and conventional qualitative assessment (QA) remains limited.
+OBJECTIVES: The aim of this multicenter study was to test the hypothesis that quantitative stress MBF (sMBF) and MPR analysis can identify obstructive coronary artery disease (obCAD) with comparable performance as QA of stress CMR performed by experienced physicians in interpretation.
+METHODS: The analysis included 127 individuals (mean age 62 ± 16 years, 84 men [67%]) who underwent stress CMR. obCAD was defined as the presence of stenosis ≥50% in the left main coronary artery or ≥70% in a major vessel. Each patient, coronary territory, and myocardial segment was categorized as having either obCAD or no obCAD (noCAD). Global, per coronary territory, and segmental MBF and MPR values were calculated. QA was performed by 4 CMR experts.
+RESULTS: At the patient level, global sMBF and MPR were significantly lower in subjects with obCAD than in those with noCAD, with median values of sMBF of 1.5 mL/g/min (Q1-Q3: 1.2-1.8 mL/g/min) vs 2.4 mL/g/min (Q1-Q3: 2.1-2.7 mL/g/min) (P < 0.001) and median values of MPR of 1.3 (Q1-Q3: 1.0-1.6) vs 2.1 (Q1-Q3: 1.6-2.7) (P < 0.001). At the coronary artery level, sMBF and MPR were also significantly lower in vessels with obCAD compared with those with noCAD. Global sMBF and MPR had areas under the curve (AUCs) of 0.90 (95% CI: 0.84-0.96) and 0.86 (95% CI: 0.80-0.93). The AUCs for QA by 4 physicians ranged between 0.69 and 0.88. The AUC for global sMBF and MPR was significantly better than the average AUC for QA.
+CONCLUSIONS: This study demonstrates that sMBF and MPR using dual-sequence stress CMR can identify obCAD more accurately than qualitative analysis by experienced CMR readers.
+
+Citation: Wang S, et al. Myocardial Blood Flow Quantification Using Stress Cardiac Magnetic Resonance Improves Detection of Coronary Artery Disease. Myocardial Blood Flow Quantification Using Stress Cardiac Magnetic Resonance Improves Detection of Coronary Artery Disease. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jcmg.2024.07.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39297850/

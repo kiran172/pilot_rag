@@ -1,0 +1,11 @@
+PMID: 32153249
+Title: Aortic valve calcium is associated with left ventricular diastolic function in patients without evidence of ischaemic heart disease: assessment by gated single-photon emission computed tomography.
+
+Abstract: BACKGROUND: Several studies have shown that aortic valve calcium (AVC) is associated with cardiovascular events. Furthermore, the extent of AVC is associated with adverse prognosis even in patients without significant aortic stenosis. We investigated the relationship between AVC and left ventricular (LV) diastolic parameters determined by gated single-photon emission computed tomography (SPECT) in patients with no evidence of ischaemic heart disease.
+METHODS: This study included 157 patients with no evidence of ischaemic heart disease who underwent both coronary computed tomography and gated SPECT. The AVC scores were calculated by the Agatston method, and peak filling rate (PFR) and one-third mean filling rate (1/3 MFR) were determined as LV diastolic parameters.
+RESULTS: There were 93 (59%) and 64 (41%) patients with and without AVC, respectively, and the AVC scores ranged from 0 to 1251. There was no significant difference in LV end-diastolic volume (EDV) (60 ± 18 vs 62 ± 25 mL, p = 0.52) or LV ejection fraction (67% ± 10% vs 66% ± 8%, p = 0.60) between the two groups. Patients with AVC had lower PFR (2.2 ± 0.5 vs 2.4 ± 0.5 EDV/s, p = 0.002) and 1/3 MFR (1.3 ± 0.3 vs 1.5 ± 0.4 EDV/s, p = 0.003) than those without AVC. Multivariate linear regression analysis showed that ln(AVC score + 1) was significantly associated with PFR and 1/3 MFR.
+CONCLUSION: In patients without evidence of ischaemic heart disease, the extent of AVC was inversely correlated with gated SPECT-derived parameters of LV diastolic function.
+
+Citation: Nitta K, et al. Aortic valve calcium is associated with left ventricular diastolic function in patients without evidence of ischaemic heart disease: assessment by gated single-photon emission computed tomography. Aortic valve calcium is associated with left ventricular diastolic function in patients without evidence of ischaemic heart disease: assessment by gated single-photon emission computed tomography. 2021; 76:359-364. doi: 10.1080/00015385.2020.1737781
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32153249/

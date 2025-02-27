@@ -1,0 +1,12 @@
+PMID: 31607667
+Title: Plasma ACE2 Activity Predicts Mortality in Aortic Stenosis and Is Associated With Severe Myocardial Fibrosis.
+
+Abstract: OBJECTIVES: This study investigated the relationship between plasma angiotensin-converting enzyme 2 (ACE2) activity levels and the severity of stenosis and myocardial remodeling in patients with aortic stenosis (AS) and determined if plasma ACE2 levels offered incremental prognostic usefulness to predict all-cause mortality.
+BACKGROUND: ACE2 is an integral membrane protein that degrades angiotensin II and has an emerging role as a circulating biomarker of cardiovascular disease.
+METHODS: Plasma ACE2 activity was measured in 127 patients with AS; a subgroup had myocardial tissue collected at the time of aortic valve replacement.
+RESULTS: The median plasma ACE2 activity was 34.0 pmol/ml/min, and levels correlated with increased valvular calcification (p = 0.023) and the left ventricular (LV) mass index (r = 0.34; p &lt; 0.001). Patients with above-median plasma ACE2 had higher LV end-diastolic volume (57 ml/m2 vs. 48 ml/m2; p = 0.021). Over a median follow-up of 5 years, elevated plasma ACE2 activity was an independent predictor of all-cause mortality after adjustment for relevant clinical, imaging, and biochemical parameters (HR: 2.28; 95% CI: 1.03 to 5.06; p = 0.042), including brain natriuretic peptide activation (integrated discrimination improvement: 0.08; p &lt; 0.001). In 22 patients with plasma and tissue, increased circulating ACE2 was associated with reduced myocardial ACE2 gene expression (0.7-fold; p = 0.033) and severe myocardial fibrosis (p = 0.027).
+CONCLUSIONS: In patients with AS, elevated plasma ACE2 was a marker of myocardial structural abnormalities and an independent predictor of mortality with incremental value over traditional prognostic markers. Loss of ACE2 from the myocardium was associated with increased fibrosis and higher circulating ACE2 levels.
+
+Citation: Ramchand J, et al. Plasma ACE2 Activity Predicts Mortality in Aortic Stenosis and Is Associated With Severe Myocardial Fibrosis. Plasma ACE2 Activity Predicts Mortality in Aortic Stenosis and Is Associated With Severe Myocardial Fibrosis. 2020; 13:655-664. doi: 10.1016/j.jcmg.2019.09.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31607667/

@@ -1,0 +1,11 @@
+PMID: 35761291
+Title: Assessing organ at risk position variation and its impact on delivered dose in kidney SABR.
+
+Abstract: BACKGROUND: Delivered organs at risk (OARs) dose may vary from planned dose due to interfraction and intrafraction motion during kidney SABR treatment. Cases of bowel stricture requiring surgery post SABR treatment were reported in our institution. This study aims to provide strategies to reduce dose deposited to OARs during SABR treatment and mitigate risk of gastrointestinal toxicity.
+METHODS: Small bowel (SB), large bowel (LB) and stomach (STO) were delineated on the last cone beam CT (CBCT) acquired before any dose had been delivered (PRE CBCT) and on the first CBCT acquired after any dose had been delivered (MID CBCT). OAR interfraction and intrafraction motion were estimated from the shortest distance between OAR and the internal target volume (ITV). Adaptive radiation therapy (ART) was used if dose limits were exceeded by projecting the planned dose on the anatomy of the day.
+RESULTS: In 36 patients, OARs were segmented on 76 PRE CBCTs and 30 MID CBCTs. Interfraction motion was larger than intrafraction motion in STO (p-value = 0.04) but was similar in SB (p-value = 0.8) and LB (p-value = 0.2). LB was inside the planned 100% isodose in all PRE CBCTs and MID CBCTs in the three patients that suffered from bowel stricture. SB D0.03cc was exceeded in 8 fractions (4 patients). LB D1.5cc was exceeded in 4 fractions (2 patients). Doses to OARs were lowered and limits were all met with ART on the anatomy of the day.
+CONCLUSIONS: Interfraction motion was responsible for OARs overdosage. Dose limits were respected by using ART with the anatomy of the day.
+
+Citation: Gaudreault M, et al. Assessing organ at risk position variation and its impact on delivered dose in kidney SABR. Assessing organ at risk position variation and its impact on delivered dose in kidney SABR. 2022; 17:112. doi: 10.1186/s13014-022-02041-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35761291/

@@ -1,0 +1,11 @@
+PMID: 33021233
+Title: RAQ: a novel surrogate for the craniospinal pressure-volume relationship.
+
+Abstract: OBJECTIVE: The intracranial pressure-volume relation contains information relevant for diagnostics of hydrocephalus and other space-occupying pathologies. We aimed to design a noise-resilient surrogate for this relationship that can be calculated from intracranial pressure (ICP) signals.
+APPROACH: The new surrogate, termed respiratory amplitude quotient (RAQ), characterizes the modulation of the cardiac pulse wave amplitude by the respiratory wave in the ICP time course. RAQ is defined as the ratio of the amplitude of the respiratory wave in the ICP signal to the amplitude of the respiration-induced variation in the course of the cardiac pulse wave amplitude. We validated the calculation of RAQ on synthetically generated ICP waveforms. We further extracted RAQ retrospectively from overnight ICP recordings in a cohort of hydrocephalus patients with aqueductal stenosis, age 55.8 ± 18.0 years, and a comparison group with hydrocephalus diagnosed by morphology in MRI, but not responsive to either external lumbar drainage or ventriculo-peritoneal shunting, age 72.5 ± 6.1 years. RAQ was determined for the full recordings, and separately for periods containing B-waves.
+MAIN RESULTS: We found a mean difference of less than 2% between the calculated values of RAQ and the theoretically determined equivalent descriptors of the synthetic ICP waveforms. In the overnight recordings, we found significantly different RAQ values during B-waves in the aqueductal stenosis (0.86 ± 0.11) and non-responsive hydrocephalus patient groups (1.07 ± 0.20), p = 0.027. In contrast, there was no significant difference in other tested parameters, namely pressure-volume index, elastance coefficient, and resistance to outflow. Neither did we find significant difference when considering RAQ over the full recordings.
+SIGNIFICANCE: Our results indicate that RAQ may function as a potential surrogate for the intracranial pressure-volume relation.
+
+Citation: Spiegelberg A, et al. RAQ: a novel surrogate for the craniospinal pressure-volume relationship. RAQ: a novel surrogate for the craniospinal pressure-volume relationship. 2020; 41:094002. doi: 10.1088/1361-6579/abb145
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33021233/

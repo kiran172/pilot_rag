@@ -1,0 +1,11 @@
+PMID: 36417036
+Title: Which Anastomotic Techniques Is the Best Choice for Cervical Esophagogastric Anastomosis in Esophagectomy? A Bayesian Network Meta-Analysis.
+
+Abstract: INTRODUCTION: The optimal choice of anastomotic techniques for cervical esophagogastric anastomosis in esophagectomy remains unclear.
+METHODS: An electronic literature search of PubMed, Embase, and Web of Science (data up to April 2022) was conducted and screened to compare hand sewn (HS), circular stapling (CS), side-to-side linear stapling (LS), and triangulating stapling (TS) for cervical esophagogastric anastomosis. Anastomotic leak, pulmonary complications, anastomotic stricture, and reflux esophagitis of the 4 anastomotic techniques were evaluated using a Bayesian network meta-analysis by R.
+RESULT: Twenty-nine studies were ultimately included, with a total of 5,020 patients from 9 randomized controlled trials, 7 prospect cohort studies, and 13 retrospective case-control studies in the meta-analysis. The present study demonstrates that the incidence of anastomotic leakage is lower in TS than HS and CS (TS vs. HS: odds ratio (OR) = 0.32, 95% CI: 0.1 to 0.9; TS vs. CS: OR = 0.37, 95% CI: 0.13 to 1.0), and the incidence of anastomotic stricture is lower in TS than in HS and CS (TS vs. HS: OR = 0.32, 95% CI: 0.11 to 0.86; TS vs. CS: OR = 0.23, 95% CI: 0.08 to 0.58). TS ranks best in terms of anastomotic leakage, pulmonary complication, anastomotic stricture, and reflux esophagitis.
+CONCLUSION: TS for cervical esophagogastric anastomosis of esophagectomy had a lower incidence of anastomotic leakage and stricture. TS should be preferentially recommended. Large-scale RCTs will be needed to provide more evidence in future studies.
+
+Citation: Chen B, et al. Which Anastomotic Techniques Is the Best Choice for Cervical Esophagogastric Anastomosis in Esophagectomy? A Bayesian Network Meta-Analysis. Which Anastomotic Techniques Is the Best Choice for Cervical Esophagogastric Anastomosis in Esophagectomy? A Bayesian Network Meta-Analysis. 2023; 27:422-432. doi: 10.1007/s11605-022-05482-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36417036/

@@ -1,0 +1,11 @@
+PMID: 35701250
+Title: A modified method of noninvasive computed tomography derived fractional flow reserve based on the microvascular growth space.
+
+Abstract: OBJECTIVE: To establish a modified method for optimizing outlet boundary conditions (BC) of computed tomography-derived fractional flow reserve (CT-FFR), considering the myocardium as a growth space for microcirculation. The feasibility and diagnostic performance of the modified method in stable coronary artery disease (CAD) were compared with invasive fractional flow reserve (FFR).
+METHODS: Nineteen patients (19 lesions) underwent coronary computed tomography angiography (CCTA) and following invasive FFR were included. The microcirculation resistance model generated based on patient-specific anatomical structures and physiological principles was used as the outlet BC, considering the myocardium as a growth space. Brachial artery pressure (BAP) plus or minus 10 mmHg was used as the inlet pressure BC to investigate the effect of the circadian rhythm. After simulation, CT-FFR was compared with invasive FFR with a threshold of 0.80.
+RESULTS: Compared with invasive FFR, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and accuracy of CT-FFR with an optimal threshold of 0.80 were 100%, 100%, 100%, 100%, 100%, respectively. There were a good correlation and consistency between CT-FFR and invasive FFR. Little effect of the circadian fluctuation of BAP was found on the simulation.
+CONCLUSIONS: A modified method for CT-FFR with high diagnostic accuracy compared with invasive FFR was established, considering the whole myocardial as the growth space for microcirculation. Circadian fluctuations in BAP could be ignored when it was used as the inlet BC.
+
+Citation: He W, et al. A modified method of noninvasive computed tomography derived fractional flow reserve based on the microvascular growth space. A modified method of noninvasive computed tomography derived fractional flow reserve based on the microvascular growth space. 2022; 221:106926. doi: 10.1016/j.cmpb.2022.106926
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35701250/

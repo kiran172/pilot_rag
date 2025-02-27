@@ -1,0 +1,11 @@
+PMID: 33712230
+Title: Biological versus mechanical prostheses for aortic valve replacement.
+
+Abstract: OBJECTIVES: Long-term real-world outcomes are critical for informing decisions about biological (Bio) or mechanical (Mech) prostheses for aortic valve replacement, particularly in patients aged between 50 and 65 years. The objective was to compare long-term survival and major adverse cardiac and cardiovascular events (ie, stroke, reoperation, and major bleeding) within this population.
+METHODS: This was a multicenter observational study including all patients aged between 50 and 65 years who underwent an aortic valve replacement because of severe isolated aortic stenosis between the years 2000 and 2018. A total of 5215 patients from 27 Spanish hospitals were registered with a follow-up of 15 years. Multivariable analyses, including a 2:1 propensity score matching (1822 Mech and 911 Bio) and competing risks analyses were applied.
+RESULTS: Bio prostheses were implanted in 19% of patients (n = 992). No significant differences were observed between matched groups in long-term survival (hazard ratio [HR], 1.14; 95% confidence interval [CI], 0.88-1.47; P = .33). Stroke rates were higher for Mech prostheses, but not significant (HR, 0.72; 95% CI, 0.50-1.03; P = .07). Finally, higher rates of major bleeding were found in the Mech group (HR, 0.65; 95% CI, 0.49-0.87; P = .004), whereas reoperation was more frequent among the Bio group (HR, 3.04; 95% CI, 1.80-5.14; P < .001). Bio prostheses increased from 13% in the period from 2000 to 2008 to 24% in 2009 to 2018.
+CONCLUSIONS: Long-term survival was comparable among groups in patients between 50 and 65 years of age. Mech prostheses were associated with a higher risk of major bleeding, whereas Bio prostheses entailed higher reoperation rates. Bio prostheses seem a reasonable choice for patients between 50 and 65 years in Spain.
+
+Citation: Rodríguez-Caulo EA, et al. Biological versus mechanical prostheses for aortic valve replacement. Biological versus mechanical prostheses for aortic valve replacement. 2023; 165:609-617.e7. doi: 10.1016/j.jtcvs.2021.01.118
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33712230/

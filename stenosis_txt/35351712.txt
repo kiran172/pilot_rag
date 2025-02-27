@@ -1,0 +1,14 @@
+PMID: 35351712
+Title: Association of serum cardiac troponin I and severity of coronary stenosis in patients with varied renal functions: a retrospective cohort study.
+
+Abstract: BACKGROUND AND OBJECTIVE: Recent studies showed cardiac troponin I (cTnI) might be a non-invasive biomarker to estimate the severity of coronary stenosis. However, serum cTnI is also found associated with renal function. The study objective is to analyse the association of serum cTnI and severity of coronary stenosis in patients with varied renal functions.
+DESIGN: A retrospective cohort study.
+SETTING: The First Affiliated Hospital, College of Medicine, Zhejiang University in Hangzhou, China.
+POPULATION: A total of 6487 subjects who underwent elective coronary angiography between January 2017 to June 2020 were involved in this study.
+PRIMARY OUTCOMES: Severity of coronary stenosis was divided into three degrees based on Gensini score, mild coronary stenosis, moderate coronary stenosis and severe coronary stenosis.
+RESULTS: By using ordinal logistic regression, serum cTnI was associated with severity of coronary stenosis (OR=1.14, p<0.05). By construction and comparison of two models for predicting severity of coronary stenosis, the addition of cTnI significantly improved the predictive ability of the model. Differences between areas under the curves were 0.03, 0.03, 0.03, 0.12 (all p<0.05). Net reclassification improvements were 0.08, 0.05, 0.05, 0.35, respectively, in varied renal functions. Compared with the participants with normal renal function and without hypertroponinaemia, groups of participants with hypertroponinaemia showed higher ORs. ORs were 3.52, 4.20, 4.45, 6.00, respectively, as renal function decreased (all p<0.05).
+CONCLUSIONS: In this cohort of patients with stable coronary artery disease and varied renal functions, cTnI was intensely associated with severity of coronary stenosis which based on Gensini score. The presentation of hypertroponinaemia in patients with impaired renal function always indicates a higher risk of severe coronary stenosis.
+
+Citation: Zhang Q, et al. Association of serum cardiac troponin I and severity of coronary stenosis in patients with varied renal functions: a retrospective cohort study. Association of serum cardiac troponin I and severity of coronary stenosis in patients with varied renal functions: a retrospective cohort study. 2022; 12:e054722. doi: 10.1136/bmjopen-2021-054722
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35351712/

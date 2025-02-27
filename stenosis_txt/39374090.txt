@@ -1,0 +1,12 @@
+PMID: 39374090
+Title: Simplification of continuous intracoronary thermodilution.
+
+Abstract: BACKGROUND: Continuous intracoronary thermodilution with saline allows for the accurate measurement of volumetric blood flow (Q) and absolute microvascular resistance (R<sub>μ</sub>). However, this requires repositioning of the temperature sensor by the operator to measure the entry temperature of the saline infusate, denoted as T<sub>i</sub>.
+AIMS: We evaluated whether Ti could be predicted based on known parameters without compromising the accuracy of calculated Q. This would significantly simplify the technique and render it completely operator independent.
+METHODS: In a derivation cohort of 371 patients with Q measured both at rest and during hyperaemia, multivariate linear regression was used to derive an equation for the prediction of T<sub>i</sub>. Agreement between standard Q (calculated with measured T<sub>i</sub>) and simplified Q (calculated with predicted T<sub>i</sub>) was assessed in a validation cohort of 120 patients that underwent repeat Q measurements. The accuracy of simplified Q was assessed in a second validation cohort of 23 patients with [15O]H<sub>2</sub>O positron emission tomography (PET)-derived Q measurements.
+RESULTS: Simplified Q exhibited strong agreement with standard Q (r=0.94, confidence interval [CI]: 0.93-0.95; intraclass correlation coefficient [ICC] 0.94, CI: 0.92-0.95; both p<0.001). Simplified Q exhibited excellent agreement with PET-derived Q (r=0.86, CI: 0.75-0.92; ICC=0.84, CI: 0.72-0.91; both p<0.001). Compared with standard Q, there were no statistically significant differences between correlation coefficients (p=0.29) or standard deviations of absolute differences with PET-derived Q (p=0.85).
+CONCLUSIONS: Predicting T<sub>i</sub> resulted in an excellent agreement with measured T<sub>i</sub> for the assessment of coronary blood flow. It significantly simplifies continuous intracoronary thermodilution and renders absolute coronary flow measurements completely operator independent.
+
+Citation: Mahendiran T, et al. Simplification of continuous intracoronary thermodilution. Simplification of continuous intracoronary thermodilution. 2024; 20:e1217-e1226. doi: 10.4244/EIJ-D-24-00215
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39374090/

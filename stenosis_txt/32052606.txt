@@ -1,0 +1,11 @@
+PMID: 32052606
+Title: Diagnostic Value of Lesion-specific Measurement of Myocardial Blood Flow Using Hybrid PET/CT.
+
+Abstract: BACKGROUND: We evaluated whether lesion-specific measurement of myocardial blood flow (MBF) and flow reserve (MFR) by hybrid imaging of myocardial perfusion positron emission tomography (PET) and coronary computed tomography (CT) can provide additional diagnostic value.
+METHODS: Forty-three patients with stable angina underwent N-13 ammonia PET and coronary CT before invasive coronary angiography (CAG). The lesion-specific MBF was calculated from the average MBF of the myocardial segments downstream of a coronary stenosis using hybrid PET/CT images. The hyperemic MBF, resting MBF, and MFR were measured for the left anterior descending artery (LAD) using conventional and lesion-specific methods. The diagnostic accuracy was compared between the two methods for significant LAD stenoses (≥ 70% reference diameter on CAG).
+RESULTS: There were 19 significant LAD stenoses. The sensitivity, specificity, negative predictive value, positive predictive value, and accuracy were 71%, 68%, 74%, 65%, and 70% for conventional hyperemic MBF (optimal cutoff = 2.15 mL/min/g), 79%, 63%, 74%, 65%, and 70% for conventional MFR (optimal cutoff = 1.82), 83%, 74%, 80%, 78%, and 80% for lesion-specific hyperemic MBF (optimal cutoff = 1.75 mL/min/g), and 79%, 79%, 83%, 75%, and 79% for lesion-specific MFR (optimal cutoff = 1.86), respectively. The lesion-specific measurement was more accurate and had a better linear correlation with anatomical stenosis severity for both hyperemic MBF and MFR.
+CONCLUSIONS: Lesion-specific measurement using hybrid PET/CT imaging showed significant improvement in the diagnostic accuracy of PET-measured hyperemic MBF and MFR.
+
+Citation: Cho SG, et al. Diagnostic Value of Lesion-specific Measurement of Myocardial Blood Flow Using Hybrid PET/CT. Diagnostic Value of Lesion-specific Measurement of Myocardial Blood Flow Using Hybrid PET/CT. 2020; 28:94-105. doi: 10.4250/jcvi.2019.0087
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32052606/

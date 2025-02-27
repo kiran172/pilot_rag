@@ -1,0 +1,8 @@
+PMID: 33076768
+Title: Endoscopic Multipoint Laser System for Objective Pediatric Airway Assessment.
+
+Abstract: Recent technological advances within aeronautical engineering have demonstrated the delivery of objective quantitative endoscopic measurements to within one-hundredth of a millimeter. We sought to validate this emerging laser technology in a simulation-based assessment of pediatric airway stenosis. A 4.4-mm flexible endoscope, incorporating a laser measurement system projecting 49 laser points into the endoscopic view, was used to assess a simulated model of subglottic stenosis. Multiple anteroposterior and lateral measurements were obtained for each stenosis and compared with standard airway assessment techniques. Intra- and interobserver reliability was assessed. A total of 240 multipoint laser measurements were obtained of simulated airway stenosis. The mean difference from manual measurement was 0.1886 mm. The Bland-Altman plot showed low bias (0.011) and narrow 95% limits of agreement (-0.46 to 0.48). This advanced endoscopic measurement technique shows great promise for clinical development to benefit ongoing assessment and treatment of evolving pediatric airway stenosis.
+
+Citation: Hall AC, et al. Endoscopic Multipoint Laser System for Objective Pediatric Airway Assessment. Endoscopic Multipoint Laser System for Objective Pediatric Airway Assessment. 2021; 164:1354-1356. doi: 10.1177/0194599820966302
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33076768/

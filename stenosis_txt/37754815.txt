@@ -1,0 +1,11 @@
+PMID: 37754815
+Title: Liraglutide Attenuates Aortic Valve Calcification in a High-Cholesterol-Diet-Induced Experimental Calcific Aortic Valve Disease Model in Apolipoprotein E-Deficient Mice.
+
+Abstract: BACKGROUND: Calcific aortic valve disease (CAVD) is a significant cause of morbidity and mortality among elderly people. However, no effective medications have been approved to slow or prevent the progression of CAVD. Here, we examined the effect of liraglutide on aortic valve stenosis.
+METHODS: Male Apoe-/- mice were fed with a high-cholesterol diet for 24 weeks to generate an experimental CAVD model and randomly assigned to a liraglutide treatment group or control group. Echocardiography and immunohistological analyses were performed to examine the aortic valve function and morphology, fibrosis, and calcium deposition. Plasma Glucagon-like peptide-1 (GLP-1) levels and inflammatory contents were measured via ELISA, FACS, and immunofluorescence. RNA sequencing (RNA-seq) was used to identify liraglutide-affected pathways and processes.
+RESULTS: Plasma GLP-1 levels were reduced in the CAVD model, and liraglutide treatment significantly improved aortic valve calcification and functions and attenuated inflammation. RNA-seq showed that liraglutide affects multiple myofibroblastic and osteogenic differentiations or inflammation-associated biological states or processes in the aortic valve. Those liraglutide-mediated beneficial effects were associated with increased GLP-1 receptor (GLP-1R) expression.
+CONCLUSIONS: Liraglutide blocks aortic valve calcification and may serve as a potential therapeutic drug for CAVD treatment.
+
+Citation: Zhou Y, et al. Liraglutide Attenuates Aortic Valve Calcification in a High-Cholesterol-Diet-Induced Experimental Calcific Aortic Valve Disease Model in Apolipoprotein E-Deficient Mice. Liraglutide Attenuates Aortic Valve Calcification in a High-Cholesterol-Diet-Induced Experimental Calcific Aortic Valve Disease Model in Apolipoprotein E-Deficient Mice. 2023; 10:(unknown pages). doi: 10.3390/jcdd10090386
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37754815/

@@ -1,0 +1,11 @@
+PMID: 37598907
+Title: Clinical outcomes of coronary intravascular lithotripsy in patients with stent failure (COIL registry).
+
+Abstract: BACKGROUND: Intravascular lithotripsy (IVL) has been demonstrated to be an effective treatment of calcified de novo coronary lesions. Safety data on the use of IVL within stented segments are lacking. We sought to evaluate the safety, feasibility, and long-term outcomes of IVL in patients with stent failure.
+METHODS: This was a retrospective multi-centre registry that included consecutive patients with stent failure who had undergone IVL treatment. The primary efficacy endpoint was procedural success defined as residual stenosis <30% (determined by quantitative coronary angiography analysis) in patients who survived hospital admission without in-hospital adverse events. Major adverse cardiovascular events (MACE) were defined as the composite endpoints of cardiovascular death, spontaneous myocardial infarction, and target vessel revascularisation at one-year follow up.
+RESULTS: 102 patients were included in this study. Mean age was 73 ± 9 years and 81% were male. The duration from previous stent implantation and IVL treatment was 24 (interquartile range 7-76) months, of which 10.8% received IVL for acute under-expanded stent. IVL treatment allowed significant improvement in both minimal lumen diameter (1.14 ± 0.60 to 2.53 ± 0.59, P < 0.001) and degree of stenosis (66.8 ± 19.9 to 20.3 ± 11.3%, P < 0.001). The rate of procedural success was 78.4% (80/102 of patients). The one-year MACE was 15.7%. Ostial disease (HR 5.16; 95% CI 1.19 to 22.33; P = 0.028) and lesion length (HR 1.05; 95% CI 1.01 to 1.10; P = 0.010) were independently associated with one-year MACE.
+CONCLUSIONS: In patients with stent failure, IVL is a safe and feasible treatment for this high-risk group.
+
+Citation: Kuzemczak M, et al. Clinical outcomes of coronary intravascular lithotripsy in patients with stent failure (COIL registry). Clinical outcomes of coronary intravascular lithotripsy in patients with stent failure (COIL registry). 2023; 391:131274. doi: 10.1016/j.ijcard.2023.131274
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37598907/

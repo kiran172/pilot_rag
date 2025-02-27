@@ -1,0 +1,11 @@
+PMID: 36350384
+Title: Identifying urethral strictures using machine learning: a proof-of-concept evaluation of convolutional neural network model.
+
+Abstract: INTRODUCTION: To evaluate urethral strictures and to determine appropriate surgical reconstructive options, retrograde urethrograms (RUG) are used. Herein, we develop a convolutional neural network (CNN)-based machine learning algorithm to characterize RUG images between those with urethral strictures and those without urethral strictures.
+METHODS: Following approval from institutional REB from participating institutions (The Hospital for Sick Children [Toronto, Canada], St. Luke's Medical Centre [Quezon City, Philippines], East Virginia Medical School [Norfolk, United States of America]), retrograde urethrogram images were collected and anonymized. Additional RUG images were downloaded online using web scraping method through Selenium and Python 3.8.2. A CNN with three convolutional layers and three pooling layers were built (Fig. 1). Data augmentation was applied with zoom, contrast, horizontal flip, and translation. The data were split into 90% training and 10% testing set. The model was trained with one hundred epochs.
+RESULTS: A total of 242 RUG images were identified. 196 were identified as strictures and 46 as normal. Following training, our model achieved accuracy of up to 92.2% with its training data set in characterizing RUG images to stricture and normal images. The validation accuracy using our testing set images showed that it was able to characterize 88.5% of the images correctly.
+CONCLUSION: It is feasible to use a machine learning algorithm to accurately differentiate between a stricture and normal RUG. Further development of the model with additional RUGs may allow characterization of stricture location and length to suggest optimal operative approach for repair.
+
+Citation: Kim JK, et al. Identifying urethral strictures using machine learning: a proof-of-concept evaluation of convolutional neural network model. Identifying urethral strictures using machine learning: a proof-of-concept evaluation of convolutional neural network model. 2022; 40:3107-3111. doi: 10.1007/s00345-022-04199-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36350384/

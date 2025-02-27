@@ -1,0 +1,11 @@
+PMID: 35090845
+Title: Evaluation of a deep learning model on coronary CT angiography for automatic stenosis detection.
+
+Abstract: PURPOSE: The purpose of this study was to evaluate a deep-learning model (DLM) for classifying coronary arteries on coronary computed tomography -angiography (CCTA) using the Coronary Artery Disease-Reporting and Data System (CAD-RADS).
+MATERIALS AND METHODS: The DLM was trained with 10,800 curved multiplanar reformatted (cMPR) CCTA images classified by an expert radiologist using the CAD-RADS. For each of the three main coronary arteries, nine cMPR images 40° apart acquired around each arterial circumference were then classified by the DLM using the highest probability. For the validation set composed of 159 arteries from 53 consecutive patients, the images were read by two senior and two junior readers; consensus of the two seniors was the reference standard. With the DLM, the majority vote for the nine images was used to classify each artery. Three groups (CAD-RADS 0, 1-2, or 3-4-5) and 2 groups CAD-RADS 0-1-2 or 3-4-5 (<50% vs. ≥50% stenosis) were used for comparisons with readers and consensus. Performance of the model and readers was compared to the consensus reading using the intraclass coefficient (ICC) and Cohen's kappa coefficient at the artery and patient levels.
+RESULTS: With the three groups at the artery level, the ICC of the DLM was 0.82 (95% CI: 0.75-0.88) and not significantly different from those of 3/4 readers; accuracy was 81%. With the binary classification, Cohen kappa coefficient of the DLM was 0.85 (95% CI: 0.69-0.94) and not significantly different from that of 3/4 readers; accuracy was 96%. At the patient level, sensitivity and specificity were 93% and 97% respectively, and the negative predictive value was 97%.
+CONCLUSION: The DLM detected ≥50% stenoses with performances similar to those achieved by senior radiologists.
+
+Citation: Paul JF, et al. Evaluation of a deep learning model on coronary CT angiography for automatic stenosis detection. Evaluation of a deep learning model on coronary CT angiography for automatic stenosis detection. 2022; 103:316-323. doi: 10.1016/j.diii.2022.01.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35090845/

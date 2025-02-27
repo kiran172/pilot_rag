@@ -1,0 +1,14 @@
+PMID: 33223382
+Title: Differential Effects of Aortic Valve Replacement on Aortic Circumferential Strain in Aortic Stenosis and Aortic Insufficiency.
+
+Abstract: OBJECTIVES: Aortic valve replacement (AVR) potentially can modify pulse-wave propagation to the distal aorta. Echo-derived global circumferential strain (GCS) was used to test whether AVR for aortic stenosis (AS) or aortic insufficiency (AI) resulted in differential aortic biomechanics in the descending thoracic aorta.
+DESIGN: This was a prospective observational study of patients who underwent cardiac surgery between 2016 and 2019.
+SETTING: Weill Cornell Medicine, a single large academic medical center.
+PARTICIPANTS: The population comprised 48 patients undergoing AVR (62 ± 15 y/o, 79% male; 22 with AI and 26 with AS) and 11 patients undergoing coronary bypass surgery as controls.
+INTERVENTIONS: Elective cardiac surgery, transesophageal echocardiography (TEE), pulmonary artery catheter.
+MEASUREMENTS AND MAIN RESULTS: Pre- and postprocedural TEEs were collected. Descending aorta short-axis images were analyzed for GCS, time-to-peak strain, aortic end-diastolic, end-systolic area, and fractional area changes. Pulse pressure (PP) and stroke volume were quantified. Preprocedural GCS significantly differed between patients with AI and AS, with AI patients having greater GCS (median/interquartile range, 9.6 95.3,13.6) than patients with AS (4.3 [3.4-5.1]). After AVR, in AI patients, strain significantly decreased (5.5 [3.8,8.2], p = 0.001), along with PP (mean ± standard deviation) (66.4 ± 0.8 to 54.1 ± 13.7, p < 0.001), and PP corrected strain did not (GCS/PP = 14.8 [6.9-19.9] v 12.7[8.2-18.6], p = 0.34). In AS patients, GCS significantly increased after AVR to (5.45 [4.2-6.8], p = 0.003), as did PP-corrected strain (6.9 [5.8-9.2] v 9.7 [6.5-13.4], p = 0.016). Surgical AVR produced decrements in time-to-peak strain in AI and AS groups (both p < 0.001).
+CONCLUSIONS: After AVR for AI and AS, the direction of change in distal aortic strain from baseline depends on valve pathology. This finding may have important clinical implications in terms of indication for surgery and postoperative surveillance, especially in patients with aortopathies.
+
+Citation: Rong LQ, et al. Differential Effects of Aortic Valve Replacement on Aortic Circumferential Strain in Aortic Stenosis and Aortic Insufficiency. Differential Effects of Aortic Valve Replacement on Aortic Circumferential Strain in Aortic Stenosis and Aortic Insufficiency. 2021; 35:2707-2714. doi: 10.1053/j.jvca.2020.10.044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33223382/

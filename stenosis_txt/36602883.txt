@@ -1,0 +1,12 @@
+PMID: 36602883
+Title: Evaluation of the R-One robotic system for percutaneous coronary intervention: the R-EVOLUTION study.
+
+Abstract: BACKGROUND: R-One is a robotic percutaneous coronary intervention (PCI) system (CE mark 2019) designed to reduce operator radiation exposure, improve ergonomics, and accurately navigate, position, and deliver guidewires/devices during PCI.
+AIMS: We aimed to evaluate the safety and efficacy of the R-One system for PCI.
+METHODS: The European multicentre prospective R-EVOLUTION study included patients with a de novo coronary artery stenosis (length <38 mm, reference diameter 2.5-4.0 mm) undergoing stent implantation. Patients with recent ST-segment elevation myocardial infarction, ostial or left main lesion, bifurcation, severe tortuosity, or calcification were excluded. Clinical success was defined as the absence of major intraprocedural complications. Technical success was defined as the successful advancement and retraction of all PCI devices (guidewires/balloon/stents) without total manual conversion. Radiation exposure to patients, to a simulated manual operator, and to robotic PCI operators was measured.
+RESULTS: Sixty-two consecutive patients (B2/C lesions: 25.0% [16/64]) underwent robotic PCI. Radial access was used in 96.8% (60/62) of procedures. The mean robotic procedure duration was 19.9±9.6 min and the mean fluoroscopy time was 10.3±5.4 min. Clinical success was 100% with no complications at 30 days. Technical success was 95.2% (59/62). Total manual conversion was required in 4.8% (3/62) cases, with 1 case directly related to the robotic system. Operator radiation exposure was reduced by 84.5% under and 77.1% on top of the lead apron, compared to doses received on the patient table.
+CONCLUSIONS: This study suggests that robotic PCI using R-One is safe and effective with markedly lower radiation exposure to the operator. Further studies are needed to evaluate R-One in larger patient populations with more complex lesions. (ClinicalTrials.gov: NCT04163393).
+
+Citation: Durand E, et al. Evaluation of the R-One robotic system for percutaneous coronary intervention: the R-EVOLUTION study. Evaluation of the R-One robotic system for percutaneous coronary intervention: the R-EVOLUTION study. 2023; 18:e1339-e1347. doi: 10.4244/EIJ-D-22-00642
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36602883/

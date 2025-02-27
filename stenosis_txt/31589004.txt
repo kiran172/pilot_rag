@@ -1,0 +1,12 @@
+PMID: 31589004
+Title: New candidate genes for ST-elevation myocardial infarction.
+
+Abstract: BACKGROUND: Despite extensive research in atherosclerosis, the mechanisms of coronary atherothrombosis in ST-elevation myocardial infarction (STEMI) patients are undetermined.
+OBJECTIVES: Our aim was to find candidate genes involved in STEMI by analysing leucocyte gene expression in STEMI patients, without the influence of secondary inflammation from innate immunity, which was assumed to be a consequence rather than the cause of coronary atherothrombosis.
+METHODS: Fifty-one patients were included at coronary angiography because of STEMI. Arterial blood was sampled in the acute phase (P1), at 24-48 h (P2) and at 3 months (P3). Leucocyte RNA was isolated and gene expression analysis was performed by Affymetrix Human Transcriptome Array 2.0. By omission of up- or downregulated genes at P2, secondary changes from innate immunity were excluded. Genes differentially expressed in P1 when compared to the convalescent sample in P3 were determined as genes involved in STEMI.
+RESULTS: Three genes were upregulated at P1 compared to P3; ABCG1 (P = 5.81 × 10-5 ), RAB20 (P = 3.69 × 10-5 ) and TMEM2 (P = 7.75 × 10-6 ) whilst four were downregulated; ACVR1 (P = 9.01 × 10-5 ), NFATC2IP (P = 8.86 × 10-5 ), SUN1 (P = 3.87 × 10-5 ) and TTC9C (P = 7.18 × 10-6 ). These genes were also highly expressed in carotid atherosclerotic plaques.
+CONCLUSIONS: We found seven genes involved in STEMI. The study is unique regarding the blood sampling in the acute phase and omission of secondary expressed genes from innate immunity. However, the results need to be replicated by future studies.
+
+Citation: Cederström S, et al. New candidate genes for ST-elevation myocardial infarction. New candidate genes for ST-elevation myocardial infarction. 2020; 287:66-77. doi: 10.1111/joim.12976
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31589004/

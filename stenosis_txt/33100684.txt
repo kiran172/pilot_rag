@@ -1,0 +1,11 @@
+PMID: 33100684
+Title: Determining the normal effective diameter of thoracic aorta in pediatric population of India.
+
+Abstract: BACKGROUND: It is imperative to establish normative ranges of aortic diameter to diagnose various aortic pathologies. There have been very few studies establishing the normal aortic diameter on cross-sectional imaging, and none pertaining to the Indian pediatric population. The objective of this study was, therefore, to establish the normal effective diameter of thoracic aorta at multiple levels using computed tomographic data, calculate z-scores, and plot reference curves.
+SUBJECTS AND METHODS: The effective thoracic aorta diameters (average of anteroposterior and lateral diameters) were measured at predefined levels (aortic root, ascending aorta at the level of right pulmonary artery, aortic arch, proximal descending aorta, and aorta at the level of diaphragmatic hiatus) on double-oblique reconstructed computed tomography (CT) images perpendicular to the direction of the vessel. Multiple functional forms relating the effective diameter to subjects' age were evaluated with least square regression methods, and further R2 was used to ascertain the best model. Age-based formulas to derive normal aorta diameters and mean squared errors (MSEs) were established.
+RESULTS: Two hundred and seven contrast-enhanced CT (CECT) thorax studies of children without known cardiovascular disease were studied. The polynomial regression model relating the effective diameter that included linear, quadratic, and cubic age terms as independent variables were found to the best statistical model. The z scores were calculated, and normative curves were plotted.
+CONCLUSIONS: We have established normative effective diameters of the thoracic aorta at multiple levels in Indian children of different age groups. Measurements outside of the normal ranges are indicators of ectasia, aneurysm, hypoplasia, or stenosis.
+
+Citation: Kale SV and Alam S. Determining the normal effective diameter of thoracic aorta in pediatric population of India. Determining the normal effective diameter of thoracic aorta in pediatric population of India. 2020; 30:170-176. doi: 10.4103/ijri.IJRI_2_20
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33100684/

@@ -1,0 +1,12 @@
+PMID: 35466686
+Title: Different hemodynamics of basal ganglia between moyamoya and non-moyamoya diseases using intravoxel incoherent motion imaging and single-photon emission computed tomography.
+
+Abstract: BACKGROUND: Moyamoya disease (MMD) and non-MMD have different pathogenesis, clinical presentation, and treatment policy.
+PURPOSE: To identify differences in hemodynamics between MMD and non-MMD using intravoxel incoherent motion (IVIM) magnetic resonance imaging (MRI) and single-photon emission computed tomography (SPECT).
+MATERIAL AND METHODS: Patients who had undergone 99mTc-ECD or 123I-IMP SPECT, and IVIM imaging were retrospectively studied. IVIM imaging was acquired using six different b-values. Cerebral blood flow ratio (CBF<sub>R</sub>) in the basal ganglia was calculated using a standardized volume-of-interest template. The cerebellum was used as a reference region. IVIM perfusion fraction (f) was obtained using a two-step fitting algorithm. Elliptical regions of interest were placed in bilateral basal ganglia on the IVIM f map. Patients were classified into MMD and non-MMD groups. The correlation between CBF<sub>R</sub> and mean IVIM f (f<sub>mean</sub>) in the basal ganglia was evaluated using Spearman's rank correlation coefficient.
+RESULTS: In total, 20 patients with MMD and 28 non-MMD patients were analyzed. No significant differences in f<sub>mean</sub> were observed among MMD, affected hemisphere with non-MMD (non-MMD<sub>aff</sub>), and unaffected hemispheres with non-MMD (non-MMD<sub>unaff</sub>). A negative correlation was seen between f<sub>mean</sub> and CBF<sub>R</sub> in the MMD group (r = -0.40, P = 0.0108), but not in the non-MMD group (non-MMD<sub>aff</sub>, r = 0.07, P = 0.69; non-MMD<sub>unaff</sub>, r = -0.22, P = 0.29). No significant differences were found among MMD and non-MMD patients, irrespective of SPECT tracers.
+CONCLUSION: The combination of IVIM MRI and SPECT appears to allow non-invasive identification of differences in hemodynamics between MMD and non-MMD.
+
+Citation: Yamashita K, et al. Different hemodynamics of basal ganglia between moyamoya and non-moyamoya diseases using intravoxel incoherent motion imaging and single-photon emission computed tomography. Different hemodynamics of basal ganglia between moyamoya and non-moyamoya diseases using intravoxel incoherent motion imaging and single-photon emission computed tomography. 2023; 64:769-775. doi: 10.1177/02841851221092895
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35466686/

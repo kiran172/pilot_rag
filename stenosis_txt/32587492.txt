@@ -1,0 +1,12 @@
+PMID: 32587492
+Title: Frequency Responses of Conventional and Amplified Stethoscopes for Measuring Heart Sounds.
+
+Abstract: BACKGROUND: Frequencies of normal and abnormal heart sounds have previously been reported, but the acoustic analyses of the frequency responses of conventional and amplified stethoscopes for different heart sounds have not yet been reported.
+OBJECTIVES: To compare the acoustic analysis of frequency responses of three stethoscopes (conventional and amplified) for measuring simulated heart sounds.
+MATERIALS AND METHODS: This exploratory study used Starkey SLI-ST3, Cardionics E-Scope II (both electronic) and Littmann Classic S.E. II (conventional) stethoscopes, as they share the same basic design with twin ear tubes coupled to ear tips and chest piece options (bell vs. diaphragm modes). Acoustic analyses using the diaphragm were performed in a soundproof booth and frequency response curves at 85 (the largest), 250, 400, 550 and 1050 Hz were compared for three different digitized heart sound simulations: normal, aortic valvular stenosis (AVS) and pulmonic valvular stenosis.
+RESULTS: Amplified stethoscopes provided the most amplification of normal and abnormal heart sounds across all five frequencies compared with the conventional stethoscope. The Starkey SLI-ST3 stethoscope was better at amplifying normal heartbeats than the Cardionics E-Scope II and Littman Classic S.E. II; however, it came last for amplifying normal heartbeats of ~85 Hz. Cardionics E-Scope II had advantages in amplifying abnormal heartbeats (i.e., aortic valvular stenosis and pulmonic valvular stenosis) over the other two stethoscopes.
+CONCLUSION: This study showed that amplified stethoscopes provided better amplification of normal and abnormal heart sounds across the five measured frequencies. Therefore, health professionals should interpret manufacturer claims regarding gain (dB) and frequency (Hz) with caution, and those with hearing loss should carefully investigate the "audio performance" of the stethoscopes. Future research should focus on these effects through coupling with hearing aids.
+
+Citation: Alanazi AA, et al. Frequency Responses of Conventional and Amplified Stethoscopes for Measuring Heart Sounds. Frequency Responses of Conventional and Amplified Stethoscopes for Measuring Heart Sounds. 2020; 8:112-117. doi: 10.4103/sjmms.sjmms_118_19
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32587492/

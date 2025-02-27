@@ -1,0 +1,11 @@
+PMID: 32865765
+Title: Efficacy of preoperative electrocardiographic-gated computed tomography in predicting the accurate aortic annulus diameter in surgical aortic valve replacement.
+
+Abstract: OBJECTIVE: Electrocardiographic (ECG)-gated computed tomography (CT) can be used to determine which valve and size should be used in transcatheter aortic valve replacement (TAVR). It is beneficial to predict the accurate annulus diameter in surgical aortic valve replacement (SAVR), which can help in determining the surgical strategy. We aimed to compare the predicted aortic annulus size with the actual annulus size measured intraoperatively and to examine its validity.
+METHODS: A total of 88 patients underwent isolated or concomitant SAVR in 2018 at our hospital. The study population consisted of 45 patients who underwent preoperative CT assessment and intraoperative measurement. The perimeter- and area-derived diameters at the level of basal attachments were determined using CT, and the lower value among the two was defined as the predicted aortic annulus (CTpredict). The predicted aortic annulus (TTEpredict) was measured by transthoracic echography in the parasternal long-axis view. An actual-sized ball sizer was inserted into the annulus intraoperatively. True annulus size was determined as the labeled size that just fits on the annulus, and labeled size plus 1 mm was determined as one that passes through the annulus.
+RESULTS: There was better agreement with minimal bias between CTpredict and true annulus size as demonstrated in the Bland-Altman analysis with an intraclass correlation coefficient of 0.796 compared with TTEpredict.
+CONCLUSION: ECG-gated CT is also helpful in predicting the annulus diameter even in patients undergoing SAVR. This has important clinical implications for planning SAVR, including the surgical approach.
+
+Citation: Kimura S, et al. Efficacy of preoperative electrocardiographic-gated computed tomography in predicting the accurate aortic annulus diameter in surgical aortic valve replacement. Efficacy of preoperative electrocardiographic-gated computed tomography in predicting the accurate aortic annulus diameter in surgical aortic valve replacement. 2021; 69:466-471. doi: 10.1007/s11748-020-01469-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32865765/

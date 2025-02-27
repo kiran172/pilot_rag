@@ -1,0 +1,11 @@
+PMID: 38158216
+Title: Regional assessment of availability for transcatheter aortic valve implantation in Sweden: a long-term observational study.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) is an increasingly important treatment option for patients with severe aortic stenosis. Its best implementation is debated, as few centres with high volumes are associated with better outcomes, while centralization might lead to an inferior availability of treatment for patients living far away. The aim of this study was to investigate the implementation of TAVI in Sweden with a focus on regional differences in terms of availability, short-term mortality, and waiting times.
+METHODS: All patients undergoing TAVI between 2008 and 2020 from the Swedish Transcatheter Cardiac Intervention Registry (SWENTRY) were included. SWENTRY was linked to the National Cause of Death Registry and to publicly available geospatial data from Statistics Sweden.
+RESULTS: A total of 7280 patients were included. Over time, TAVI interventions increased markedly, while surgical aortic valve replacement (SAVR) remained constant. There were no statistically significant regional differences in incidence between counties with or without a local TAVI centre (P = 0.7) and no clustering tendencies around regions with a local TAVI centre (P = 0.99). Thirty-day mortality improved over time without evidence of regional differences. No regional differences in waiting time from decision to intervention were found for TAVI centre regions and non-TAVI centre regions (P = 0.7).
+CONCLUSION: This nationwide study indicated no regional differences in terms of availability, short-term mortality, or waiting times. An organization with a few specialized centres was found to be sufficient to provide national coverage of TAVI interventions.
+
+Citation: Nilsson K, et al. Regional assessment of availability for transcatheter aortic valve implantation in Sweden: a long-term observational study. Regional assessment of availability for transcatheter aortic valve implantation in Sweden: a long-term observational study. 2024; 10:641-649. doi: 10.1093/ehjqcco/qcad076
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38158216/

@@ -1,0 +1,8 @@
+PMID: 38443416
+Title: Modeling and analysis of hybrid-blood nanofluid flow in stenotic artery.
+
+Abstract: Current communication deals with the flow impact of blood inside cosine shape stenotic artery. The under consideration blood flow is treated as Newtonian fluid and flow is assumed to be two dimensional. The governing equation are modelled and solved by adopting similarity transformation under the stenosis assumptions. The important quantities like Prandtl number, flow parameter, blood flow rate and skin friction are attained to analyze the blood flow phenomena in stenosis. The variations of different parameters have been shown graphically. It is of interest to note that velocity increases due to change in flow parameter gamma and temperature of blood decreases by increasing nanoparticles volume fraction and Prandtl number. In the area of medicine, the most interesting nanotechnology approach is the nanoparticles applications in chemotherapy. This study provides further motivation to include more convincing consequences in the present model to represent the blood rheology.
+
+Citation: Sarwar L, et al. Modeling and analysis of hybrid-blood nanofluid flow in stenotic artery. Modeling and analysis of hybrid-blood nanofluid flow in stenotic artery. 2024; 14:5409. doi: 10.1038/s41598-024-55621-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38443416/

@@ -1,0 +1,11 @@
+PMID: 32925391
+Title: Early intervention or watchful waiting for asymptomatic severe aortic valve stenosis: a systematic review and meta-analysis.
+
+Abstract: BACKGROUND: The management of patients with severe but asymptomatic aortic stenosis is challenging. Evidence on early aortic valve replacement (AVR) versus symptom-driven intervention in these patients is unknown.
+METHODS: Electronic databases were searched, articles comparing early-AVR with conservative management for severe aortic stenosis were identified. Pooled adjusted odds ratio (OR) was computed using a random-effect model to determine all-cause and cardiovascular mortality.
+RESULTS: A total of eight studies consisting of 2201 patients were identified. Early-AVR was associated with lower all-cause mortality [OR 0.24, 95% confidence interval (CI) 0.13-0.45, P ≤ 0.00001] and cardiovascular mortality (OR 0.21, 95% CI 0.06-0.70, P = 0.01) compared with conservative management. The number needed to treat to prevent 1 all-cause and cardiovascular mortality was 4 and 9, respectively. The odds of all-cause mortality in a selected patient population undergoing surgical AVR (SAVR) (OR 0.16, 95% CI 0.09-0.29, P ≤ 0.00001) and SAVR or transcatheter AVR (TAVR) (OR 0.53, 95% CI 0.35-0.81, P = 0.003) were significantly lower compared with patients who are managed conservatively. A subgroup sensitivity analysis based on severe aortic stenosis (OR 0.24, 95% CI 0.11-0.52, P = 0.0004) versus very severe aortic stenosis (OR 0.20, 95% CI 0.08-0.51, P = 0.0008) also mirrored the findings of overall results.
+CONCLUSION: Patients with asymptomatic aortic valve stenosis have lower odds of all-cause and cardiovascular mortality when managed with early-AVR compared with conservative management. However, because of significant heterogeneity in the classification of asymptomatic patients, large scale studies are required.
+
+Citation: Ullah W, et al. Early intervention or watchful waiting for asymptomatic severe aortic valve stenosis: a systematic review and meta-analysis. Early intervention or watchful waiting for asymptomatic severe aortic valve stenosis: a systematic review and meta-analysis. 2020; 21:897-904. doi: 10.2459/JCM.0000000000001110
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32925391/

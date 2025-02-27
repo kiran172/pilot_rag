@@ -1,0 +1,11 @@
+PMID: 32139209
+Title: Comparison of the CAD consortium and updated Diamond-Forrester scores for predicting obstructive coronary artery disease.
+
+Abstract: OBJECTIVE: Current guidelines recommend the use of the updated Diamond-Forrester (DF) method and Coronary Artery Disease (CAD) Consortium models to assess the pretest probability of obstructive CAD. The present study aimed to compare the performance of these models among patients with chest pain evaluated in an emergency department (ED).
+METHODS: We compared three scores (DF, CAD consortium basic, and clinical) among 1247 consecutive patients with chest pain who underwent coronary computed tomographic angiography (CTA). Invasive angiography was performed to confirm the stenosis for those who showed obstructive CAD on CTA, if clinically indicated. Primary outcome was the presence of obstructive CAD (≧50% stenosis).
+RESULTS: Overall, 426 (34.2%) patients were diagnosed with obstructive CAD. The expected prevalence of CAD was underestimated by the CAD consortium clinical model (23.4%) and overestimated by the DF model (53.1%). For the prediction of obstructive CAD, the CAD consortium clinical model had superior area under the receiver-operating curve (0.754), followed by the CAD consortium basic (0.736), and finally, the DF model (0.718). Whereas the CAD consortium models more accurately classified patients without any CAD or nonobstructive CAD as low-risk patients, the DF model more accurately classified high-risk patients with obstructive CAD. The net reclassification improvement of CAD consortium basic and clinical models were 24.7% and 27.9%, respectively.
+CONCLUSIONS: Compared with the DF model, the CAD consortium clinical model appears to improve the prediction of low-risk patients with <15% probability of having obstructive CAD. However, this model needs caution when using in high-risk population.
+
+Citation: Lee UW, et al. Comparison of the CAD consortium and updated Diamond-Forrester scores for predicting obstructive coronary artery disease. Comparison of the CAD consortium and updated Diamond-Forrester scores for predicting obstructive coronary artery disease. 2021; 43:200-204. doi: 10.1016/j.ajem.2020.02.056
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32139209/

@@ -1,0 +1,11 @@
+PMID: 37641058
+Title: The diagnostic accuracy of spirometry as screening tool for adult patients with a benign subglottic stenosis.
+
+Abstract: BACKGROUND: There is a considerable diagnostic delay in the diagnosis 'benign acquired subglottic stenosis in adults' (SGS, diagnosed by the reference standard, i.e. laryngo- or bronchoscopy). Patients are frequently misdiagnosed since symptoms of this rare disease may mimic symptoms of 'asthma.' The 'Expiratory Disproportion Index' (EDI) obtained by spirometry, may be a simple instrument to detect an SGS-patient. The aim of this study was to evaluate the diagnostic accuracy of the EDI in differentiating SGS patients from asthma patients.
+METHODS: We calculated the EDI from spirometry results of all SGS-patients in the Leiden University Medical Center (LUMC), who had not received treatment 2 years before their spirometry examination. We compared these EDI results with the EDI results of all true asthma patients between 2011 and 2019, who underwent a bronchoscopy (exclusion of SGS by laryngo- or bronchoscopy).
+RESULTS: Fifty patients with SGS and 32 true asthma patients were included. Median and IQR ranges of the EDI for SGS and asthma patients were 67.10 (54.33-79.18) and 37.94 (32.41-44.63), respectively. Area under the curve (ROC) of the accuracy of the EDI at discriminating SGS and asthma patients was 0.92 (95% CI = 0.86-0.98). The best cut-off point for the EDI was > 48 (i.e. possible upper airway obstruction), with a sensitivity of 88.0%% (95%CI = 77.2-95.0%%) and specificity of 84.4% (95%CI = 69.4-94.1%).
+CONCLUSIONS: The EDI has a good diagnostic accuracy discriminating subglottic stenosis patients from asthma patients, when compared to the reference standard. This measurement from spirometry may potentially shorten the diagnostic delay of SGS patients. Further studies are needed to evaluate clinical reproducibility.
+
+Citation: Schuering JHC, et al. The diagnostic accuracy of spirometry as screening tool for adult patients with a benign subglottic stenosis. The diagnostic accuracy of spirometry as screening tool for adult patients with a benign subglottic stenosis. 2023; 23:314. doi: 10.1186/s12890-023-02592-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37641058/

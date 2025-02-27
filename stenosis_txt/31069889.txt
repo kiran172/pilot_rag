@@ -1,0 +1,17 @@
+PMID: 31069889
+Title: Combination of Plaque Characteristics, Pial Collaterals, and Hypertension Contributes to Misery Perfusion in Patients With Symptomatic Middle Cerebral Artery Stenosis.
+
+Abstract: BACKGROUND: Atherosclerotic plaque in the middle cerebral artery (MCA) is linked to ischemic stroke events, but the relationship between plaque characteristics and cerebral perfusion is unclear.
+PURPOSE: To investigate MCA plaque characteristics between intracranial atherosclerotic patients with and without hypoperfusion area, and to identify the variables affecting hypoperfusion volume.
+STUDY TYPE: Retrospective.
+POPULATION: Seventy-one patients with MCA stenosis (>50%), and all with ischemic onset in recent 2 weeks.
+FIELD STRENGTH/SEQUENCE: 3.0T MRI / diffusion-weighted imaging (DWI), time-of-flight magnetic resonance angiography (TOF-MRA), inversion-recovery prepared sampling perfection with application-optimized contrast using different flip angle evolutions (IR-SPACE), dynamic susceptibility contrast perfusion-weighted imaging (DSC-PWI).
+ASSESSMENT: Plaque characteristics including eccentric index (EI), eccentricity, plaque length, and enhancement on MCA were measured on IR-SPACE. Pial collaterals (PCs) were evaluated on axial TOF-MRA source images. Time-to-maximum (Tmax) maps with a threshold more than 6 seconds were assessed by rapid processing of perfusion and diffusion (RAPID) software.
+STATISTICAL TESTS: Two independent-samples t-tests, Mann-Whitney U-test, chi-square test, Z test, univariate and multivariate logistic analysis, and receiver operating characteristic (ROC) curve were used.
+RESULTS: Patients with hypoperfusion had fewer eccentric plaque, lower EI, longer plaque length, and poor PCs compared with those without (P = 0.002, 0.016, 0.003, and 0.001). Eccentricity, plaque length, PCs, and hypertension were the factors independently associated with the occurrence of hypoperfusion after adjustment for risk factors of cerebrovascular disease (P = 0.014, 0.017, 0.035, and 0.018). The area under the curve (AUC) (95% confidence interval) was 0.865 (0.763-0.934) for a combination of the above four variables, which was significantly higher than any variable alone (P < 0.001, 0.016, < 0.001, and < 0.001). Patients with lower EI, concentric morphology, and grade 2 enhancement trended to have larger hypoperfusion volume (P = 0.028, 0.037, and 0.009).
+DATA CONCLUSION: Plaque eccentricity, plaque length, PCs, and hypertension showed an association with the occurrence of hypoperfusion.
+LEVEL OF EVIDENCE: 4 Technical Efficacy Stage: 2 J. Magn. Reson. Imaging 2020;51:195-204.
+
+Citation: Liu S, et al. Combination of Plaque Characteristics, Pial Collaterals, and Hypertension Contributes to Misery Perfusion in Patients With Symptomatic Middle Cerebral Artery Stenosis. Combination of Plaque Characteristics, Pial Collaterals, and Hypertension Contributes to Misery Perfusion in Patients With Symptomatic Middle Cerebral Artery Stenosis. 2020; 51:195-204. doi: 10.1002/jmri.26778
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31069889/

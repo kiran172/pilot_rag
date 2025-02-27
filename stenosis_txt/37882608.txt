@@ -1,0 +1,11 @@
+PMID: 37882608
+Title: Transcatheter aortic valve implantation versus sutureless aortic valve replacement: a single-centre cost analysis.
+
+Abstract: AIMS: Sutureless aortic valve replacement (SU-AVR) and transcatheter aortic valve implantation (TAVI) are both viable therapeutic interventions for aortic stenosis in elderly patients. Meta-analyses show similar all-cause mortality for both techniques albeit with a different pattern of adverse effects. This study means to compare costs and, to a lesser extent, clinical outcomes of both techniques.
+METHODS: A retrospective single-centre analysis was performed for patients receiving SU-AVR or TAVI from 2008 to 2019. Perioperative clinical data were collected from patient files. Costs were assessed by a cost allocation tool. In an attempt to avoid confounding, propensity score matching was carried out.
+RESULTS: A total of 368 patients underwent either TAVI (n = 100) or SU-AVR (n = 268). After matching, there were 61 patients per treatment group. Length of stay was significantly longer in the SU-AVR group. Excluding device costs, total expenses for SU-AVR (median: €11,630) were significantly higher than TAVI (median: €9240). For both groups, these costs were mostly incurred on intensive care units, followed by nursing units. Non-medical staff was the largest contributor to expenses. Including device costs, SU-AVR (median: €14,683) was shown to be cost-saving compared to TAVI (median: €24,057).
+CONCLUSIONS: To conclude, we found SU-AVR to be cost-saving compared to TAVI, largely due to higher device costs associated with the latter. Excluding device costs, TAVI was associated with lower expenses and shorter length of stay. Non-medical staff was the largest source of costs, suggesting length of stay to be a major financial determinant.
+
+Citation: De Paepe J, et al. Transcatheter aortic valve implantation versus sutureless aortic valve replacement: a single-centre cost analysis. Transcatheter aortic valve implantation versus sutureless aortic valve replacement: a single-centre cost analysis. 2024; 79:30-40. doi: 10.1080/00015385.2023.2268441
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37882608/

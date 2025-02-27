@@ -1,0 +1,11 @@
+PMID: 38573764
+Title: Improving accuracy of vascular access quality classification in hemodialysis patients using deep learning with K highest score feature selection.
+
+Abstract: OBJECTIVE: To develop and evaluate a novel feature selection technique, using photoplethysmography (PPG) sensors, for enhancing the performance of deep learning models in classifying vascular access quality in hemodialysis patients.
+METHODS: This cross-sectional study involved creating a novel feature selection method based on SelectKBest principles, specifically designed to optimize deep learning models for PPG sensor data, in hemodialysis patients. The method effectiveness was assessed by comparing the performance of multiple deep learning models using the feature selection approach versus complete feature set. The model with the highest accuracy was then trained and tested using a 70:30 approach, respectively, with the full dataset and the SelectKBest dataset. Performance results were compared using Student's paired t-test.
+RESULTS: Data from 398 hemodialysis patients were included. The 1-dimensional convolutional neural network (CNN1D) displayed the highest accuracy among different models. Implementation of the SelectKBest-based feature selection technique resulted in a statistically significant improvement in the CNN1D model's performance, achieving an accuracy of 92.05% (with feature selection) versus 90.79% (with full feature set).
+CONCLUSION: These findings suggest that the newly developed feature selection approach might aid in accurately predicting vascular access quality in hemodialysis patients. This advancement may contribute to the development of reliable diagnostic tools for identifying vascular complications, such as stenosis, potentially improving patient outcomes and their quality of life.
+
+Citation: Julkaew S, et al. Improving accuracy of vascular access quality classification in hemodialysis patients using deep learning with K highest score feature selection. Improving accuracy of vascular access quality classification in hemodialysis patients using deep learning with K highest score feature selection. 2024; 52:3000605241232519. doi: 10.1177/03000605241232519
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38573764/

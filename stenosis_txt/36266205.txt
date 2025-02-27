@@ -1,0 +1,12 @@
+PMID: 36266205
+Title: The effect of patient and imaging characteristics on coronary CT angiography assessed pericoronary adipose tissue attenuation and gradient.
+
+Abstract: BACKGROUND: Coronary CT angiography (CCTA) pericoronary adipose tissue (PCAT) markers are promising indicators of inflammation.
+OBJECTIVE: To determine the effect of patient and imaging parameters on the associations between non-calcified plaque (NCP) and PCAT attenuation and gradient.
+METHODS: This was a single-center, retrospective analysis of consecutive patients with stable chest pain who underwent CCTA and had zero calcium scores. CCTA images were evaluated for the presence of NCP, obstructive stenosis, segment stenosis and involvement score (SSS, SIS), and high-risk plaque (HRP). PCAT markers were assessed using semi-automated software. Uni- and multivariable regression models correcting for patient and imaging characteristics between plaque and PCAT markers were evaluated.
+RESULTS: Overall, 1652 patients had zero calcium score (mean age: 51 years ​± ​11 [SD], 871 women); PCAT attenuation values ranged between -123 HU and -51 HU, and 649 patients had plaque. In univariable analysis, the presence of NCP, SSS, SIS, and HRP were associated with PCAT attenuation (2, 1, 1, 6 HU; respectively; p ​&lt; ​.001 all); while obstructive stenosis was not (1 HU, p ​= ​.58). In multivariable analysis, none of the plaque markers were associated with PCAT attenuation (0 HU p ​= ​.93, 0 HU p ​= ​.39, 1 HU p ​= ​.18, 2 HU p ​= ​.10, 1 HU p ​= ​.71, respectively), while patient and imaging characteristics showed significant associations, such as: male sex (1 HU, p ​= ​.003), heart rate [1/min] (-0.2 HU, p ​&lt; ​.001), 120 ​kVp (8 HU, p ​&lt; ​.001) and pixel spacing [mm3] (32 HU, p ​&lt; ​.001). Similar results were observed for PCAT gradient.
+CONCLUSION: PCAT markers were significantly associated with NCP, however the associations did not persist following correction for patient and imaging characteristics.
+
+Citation: Boussoussou M, et al. The effect of patient and imaging characteristics on coronary CT angiography assessed pericoronary adipose tissue attenuation and gradient. The effect of patient and imaging characteristics on coronary CT angiography assessed pericoronary adipose tissue attenuation and gradient. 2023; 17:34-42. doi: 10.1016/j.jcct.2022.09.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36266205/

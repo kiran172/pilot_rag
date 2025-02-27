@@ -1,0 +1,12 @@
+PMID: 36813643
+Title: Development and Validation of a Risk Score for Predicting Ischemic Stroke After Transient Ischemic Attack.
+
+Abstract: BACKGROUND: A risk stratification scale is essential to identify high-risk patients who had transient ischemic attack (TIA) to prevent subsequent permanent disability caused by ischemic stroke.
+OBJECTIVE: This study aimed to develop and validate a scoring system to predict acute ischemic stroke within 90 days after TIA in an emergency department (ED).
+METHODS: We retrospectively analyzed the data of patients with TIA in a stroke registry between January 2011 and September 2018. Characteristics, medication history, electrocardiogram (ECG), and imaging findings were collected. Univariable and multivariable stepwise logistic regression analyses were performed to create an integer point system. The area under the receiver operating characteristic curve (AUC) and the Hosmer-Lemeshow (HL) test were used to examine discrimination and calibration. Youden's Index was also used to determine the best cutoff value.
+RESULTS: A total of 557 patients were included, and the occurrence rate of acute ischemic stroke within 90 days after TIA was 5.03%. After multivariable analysis, a new integer point system was created-MESH (Medication Electrocardiogram Stenosis Hypodense) score-which contained medication history (antiplatelet medication taken before admission, 1 point), right bundle branch block on electrocardiogram (1 point), intracranial stenosis ≥ 50% (1 point), and size of the hypodense area on computed tomography (diameter ≥ 4 cm, 2 points). The MESH score showed adequate discrimination (AUC = 0.78) and calibration (HL test = 0.78). The best cutoff value was 2 points, with a sensitivity of 60.71% and specificity of 81.66%.
+CONCLUSIONS: The MESH score indicated improved accuracy for TIA risk stratification in the ED setting.
+
+Citation: Chiu YC, et al. Development and Validation of a Risk Score for Predicting Ischemic Stroke After Transient Ischemic Attack. Development and Validation of a Risk Score for Predicting Ischemic Stroke After Transient Ischemic Attack. 2023; 64:167-174. doi: 10.1016/j.jemermed.2022.12.027
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36813643/

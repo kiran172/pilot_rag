@@ -1,0 +1,11 @@
+PMID: 37658584
+Title: Impact of cerebral collateral flow on stroke outcomes after carotid stenting.
+
+Abstract: OBJECTIVE: Internal carotid artery stenosis is a main contributor to recurrent ischemic stroke. This study aimed to evaluate associations between recurrent stroke and changes in prestenting flow direction in the primary collaterals or both primary and secondary collaterals, and the potential interaction between extra- and intracranial arteries.
+METHODS: This longitudinal study recruited stroke patients without intracranial stenosis who underwent right-side carotid stenting between 2011 and 2019. The main study outcome was recurrent stroke. Predictive factors were anterior circulation flow direction change (ACFDC), posterior circulation flow direction change, and reversal of ophthalmic artery/leptomeningeal anastomosis (ROALA) detected by transcranial color-coded duplex (TCCD) before carotid stenting. Patient follow-up was 9 years. Risk factors for recurrent stroke were identified by Kaplan-Meier plot and Cox regression analyses.
+RESULTS: A total of 234 patients (mean age 70.88 ± 10.3 years, 86.32% male) were included, and 115 had recurrent stroke. Kaplan-Meier plot showed that patients with left ACFDC and ROALA had worse outcomes than those with ACFDC only, while patients with left ACFDC had worse outcome than those with right ACFDC (both p < 0.001). Cox regression analysis showed that recurrent stoke was associated with ACFDC at right (hazard ratio [95% CI]: 20.988 [2.549-172.790], p < 0.01), left (151.441 [20.100-1140.993], p < 0.001), and both sides (144.889 [19.089-1099.710], p < 0.001).
+INTERPRETATION: Anterior circulation flow direction change is significantly associated with recurrent stroke in patients with unilateral carotid stenosis. Patients with ACFDC and ROALA together have worse outcomes compared to those with ACFDC only. Prestenting TCCD images help provide definitive information to predict outcomes after carotid stenting.
+
+Citation: Chen LJ, et al. Impact of cerebral collateral flow on stroke outcomes after carotid stenting. Impact of cerebral collateral flow on stroke outcomes after carotid stenting. 2023; 10:2065-2073. doi: 10.1002/acn3.51894
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37658584/

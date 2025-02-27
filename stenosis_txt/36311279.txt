@@ -1,0 +1,11 @@
+PMID: 36311279
+Title: Uric Acid to High-Density Lipoprotein Cholesterol Ratio is a Novel Marker to Predict Functionally Significant Coronary Artery Stenosis.
+
+Abstract: BACKGROUND: Intermediate coronary stenosis (ICS) is defined as a visually estimated percentage of diameter stenosis ranging between 40% and 70% by conventional coronary angiography (CAG). Whether to perform percutaneous coronary intervention (PCI) for these lesions is a challenge in clinical practice. The fractional flow reserve (FFR) can guide treatment by determining the functional significance of ICS. Studies have shown that some clinical indicators can be used to predict FFR. However, there is little research on this in the Chinese population.
+METHODS: We retrospectively analyzed 690 patients who underwent FFR measurements to determine the functional significance of a single ICS. Patients were divided into 2 groups: FFR ≤0.8 (n = 280) and FFR &gt;0.8 (n = 410). We compared the clinical factors between the two groups and performed multivariate logistic regression analyses to explore the risk factors. In addition, receiver-operating characteristic (ROC) curves were constructed for FFR ≤0.8 diagnoses.
+RESULTS: The mean UHR (uric acid to high-density lipoprotein cholesterol ratio) level was significantly higher in the FFR ≤0.8 group (p &lt; 0.001). UHR corrects negatively with FFR (r = -0.44, p &lt; 0.001). High-level UHR was an independent risk factor for the FFR ≤0.8 (OR = 7.17, 95% CI 4.17-12.34). The area under the curve (AUC) of the UHR diagnostic capacity for the FFR ≤0.8 is 0.77, with 77.3% sensitivity and 68.2% specificity.
+CONCLUSION: UHR levels were significantly increased in patients with hemodynamically significant coronary lesions. UHR is a novel predictor of functionally significant lesions in patients with a single-vessel disease of ICS.
+
+Citation: Li F, et al. Uric Acid to High-Density Lipoprotein Cholesterol Ratio is a Novel Marker to Predict Functionally Significant Coronary Artery Stenosis. Uric Acid to High-Density Lipoprotein Cholesterol Ratio is a Novel Marker to Predict Functionally Significant Coronary Artery Stenosis. 2022; 2022:9057832. doi: 10.1155/2022/9057832
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36311279/

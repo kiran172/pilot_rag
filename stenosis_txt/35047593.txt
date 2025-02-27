@@ -1,0 +1,12 @@
+PMID: 35047593
+Title: Association between neutrophil-to-lymphocyte ratio and major postoperative complications after carotid endarterectomy: A retrospective cohort study.
+
+Abstract: BACKGROUND: Carotid artery cross-clamping during carotid endarterectomy (CEA) may damage local cerebral perfusion and induce cerebral ischemia-reperfusion injury to activate local inflammatory responses. Neutrophil-to-lymphocyte ratio (NLR) is an indicator that reflects systemic inflammation. However, the correlation between NLR and complications after CEA remains unclear.
+AIM: To investigate the association between NLR and major complications after surgery in patients undergoing CEA.
+METHODS: This retrospective cohort study included patients who received CEA between January 2016 and July 2018 at Beijing Tiantan Hospital. Neutrophil and lymphocyte counts in whole blood within 24 h after CEA were collected. The primary outcome was the composite of major postoperative complications including neurological, pulmonary, cardiovascular and acute kidney injuries. The secondary outcomes included infections, fever, deep venous thrombosis, length of hospitalization and cost of hospitalization. Statistical analyses were performed using EmpowerStats software and R software.
+RESULTS: A total of 224 patients who received CEA were screened for review and 206 were included in the statistical analyses; of whom, 40 (19.42%) developed major postoperative complications. NLR within 24 h after CEA was significantly correlated with major postoperative complications (P = 0.026). After confounding factors were adjusted, the odds ratio was 1.15 (95%CI: 1.03-1.29, P = 0.014). The incidence of major postoperative complications in the high NLR group was 8.47 times that in the low NLR group (P = 0.002).
+CONCLUSION: NLR is associated with major postoperative complications in patients undergoing CEA.
+
+Citation: Yu Y, et al. Association between neutrophil-to-lymphocyte ratio and major postoperative complications after carotid endarterectomy: A retrospective cohort study. Association between neutrophil-to-lymphocyte ratio and major postoperative complications after carotid endarterectomy: A retrospective cohort study. 2021; 9:10816-10827. doi: 10.12998/wjcc.v9.i35.10816
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35047593/

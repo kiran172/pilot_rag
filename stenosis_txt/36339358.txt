@@ -1,0 +1,12 @@
+PMID: 36339358
+Title: Risk Stratification in Acute Coronary Syndrome by Comprehensive Morphofunctional Assessment With Optical Coherence Tomography.
+
+Abstract: BACKGROUND: Artificial intelligence enables simultaneous evaluation of plaque morphology and computational physiology from optical coherence tomography (OCT).
+OBJECTIVES: This study sought to appraise the predictive value of major adverse cardiovascular events (MACE) by combined plaque morphology and computational physiology.
+METHODS: A total of 604 patients with acute coronary syndrome who underwent OCT imaging in ≥1 nonculprit vessel during index coronary angiography were retrospectively enrolled. A novel morphologic index, named the lipid-to-cap ratio (LCR), and a functional parameter to evaluate the physiologic significance of coronary stenosis from OCT, namely, the optical flow ratio (OFR), were calculated from OCT, together with classical morphologic parameters, like thin-cap fibroatheroma (TCFA) and minimal lumen area.
+RESULTS: The 2-year cumulative incidence of a composite of nonculprit vessel-related cardiac death, cardiac arrest, acute myocardial infarction, and ischemia-driven revascularization (NCV-MACE) at 2 years was 4.3%. Both LCR (area under the curve [AUC]: 0.826; 95% CI: 0.793-0.855) and OFR (AUC: 0.838; 95% CI: 0.806-0.866) were superior to minimal lumen area (AUC: 0.618; 95% CI: 0.578-0.657) in predicting NCV-MACE at 2 years. Patients with both an LCR of &gt;0.33 and an OFR of ≤0.84 had significantly higher risk of NCV-MACE at 2 years than patients in whom at least 1 of these 2 parameters was normal (HR: 42.73; 95% CI: 12.80-142.60; P &lt; 0.001). The combination of thin-cap fibroatheroma and OFR also identified patients at higher risk of future events (HR: 6.58; 95% CI: 2.83-15.33; P &lt; 0.001).
+CONCLUSIONS: The combination of LCR with OFR permits the identification of a subgroup of patients with 43-fold higher risk of recurrent cardiovascular events in the nonculprit vessels after acute coronary syndrome.
+
+Citation: Hong H, et al. Risk Stratification in Acute Coronary Syndrome by Comprehensive Morphofunctional Assessment With Optical Coherence Tomography. Risk Stratification in Acute Coronary Syndrome by Comprehensive Morphofunctional Assessment With Optical Coherence Tomography. 2022; 2:460-472. doi: 10.1016/j.jacasi.2022.03.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36339358/

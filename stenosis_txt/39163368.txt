@@ -1,0 +1,11 @@
+PMID: 39163368
+Title: Differentiating Left Ventricular Remodeling in Aortic Stenosis From Systemic Hypertension.
+
+Abstract: BACKGROUND: Left ventricular (LV) hypertrophy occurs in both aortic stenosis (AS) and systemic hypertension (HTN) in response to wall stress. However, differentiation of hypertrophy due to these 2 etiologies is lacking. The aim was to study the 3-dimensional geometric remodeling pattern in severe AS pre- and postsurgical aortic valve replacement and to compare with HTN and healthy controls.
+METHODS: Ninety-one subjects (36 severe AS, 19 HTN, and 36 healthy controls) underwent cine cardiac magnetic resonance. Cardiac magnetic resonance was repeated 8 months post-aortic valve replacement (n=18). Principal component analysis was performed on the 3-dimensional meshes reconstructed from 109 cardiac magnetic resonance scans of 91 subjects at end-diastole. Principal component analysis modes were compared across experimental groups together with conventional metrics of shape, strain, and scar.
+RESULTS: A unique AS signature was identified by wall thickness linked to a LV left-right axis shift and a decrease in short-axis eccentricity. HTN was uniquely linked to increased septal thickness. Combining these 3 features had good discriminative ability between AS and HTN (area under the curve, 0.792). The LV left-right axis shift was not reversible post-aortic valve replacement, did not associate with strain, age, or sex, and was predictive of postoperative LV mass regression (R2=0.339, P=0.014).
+CONCLUSIONS: Unique remodeling signatures might differentiate the etiology of LV hypertrophy. Preliminary findings suggest that LV axis shift is characteristic in AS, is not reversible post-aortic valve replacement, predicts mass regression, and may be interpreted to be an adaptive mechanism.
+
+Citation: Mahmod M, et al. Differentiating Left Ventricular Remodeling in Aortic Stenosis From Systemic Hypertension. Differentiating Left Ventricular Remodeling in Aortic Stenosis From Systemic Hypertension. 2024; 17:e016489. doi: 10.1161/CIRCIMAGING.123.016489
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39163368/

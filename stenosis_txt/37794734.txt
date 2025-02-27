@@ -1,0 +1,12 @@
+PMID: 37794734
+Title: Incidence and predictors of 30-day and 6-month stroke after TAVR: Insights from the multicenter OBSERVANT II study.
+
+Abstract: BACKGROUND: The incidence and predictors of 30-day stroke after transcatheter aortic valve replacement (TAVR) were derived from early studies investigating first-generation devices. The incidence of 6-month stroke and its related predictors are unknown.
+AIMS: To investigate the incidence and to identify procedural and patient-related predictors of 30-day and 6-month stroke after TAVR.
+METHODS: Data from 2753 consecutive patients with severe aortic stenosis undergoing TAVR were obtained from the OBSERVANT-II study, an observational, prospective, multicenter cohort study. The study endpoints were symptomatic 30-day and 6-month stroke after TAVR.
+RESULTS: The occurrence of a 30-day and 6-month stroke was low (1.3% and 2.4%, respectively) but with significant impact on survival. Aortic valve predilatation (odds ratio [OR]: 2.28, 95% confidence interval [CI]: 1.12-4.65, p = 0.023), diabetes (OR: 3.10, 95% CI: 1.56-6.18, p = 0.001), and left ventricle ejection fraction < 50% (OR: 2.15, 95% CI: 1.04-4.47, p = 0.04) were independent predictors of 30-day stroke, whereas diabetes (sub-distribution hazard ratio [SHR]: 2.07, 95% CI: 1.25-3.42, p = 0.004), pre-existing neurological dysfunction (SHR: 3.92, 95% CI: 1.54-10, p = 0.004), bicuspid valve (SHR: 4.75, 95% CI: 1.44-15.7, p = 0.011), and critical status (SHR: 3.05, 95% CI: 1.21-7.72, p = 0.018) were predictive of 6-month stroke. Conversely, antiplatelet therapy and anticoagulation were protective factors at both 30 days and 6 months.
+CONCLUSIONS: Stroke after TAVR was rare. Predilatation was the only procedural factor predictive of 30-day stroke, whereas the remaining were patient-related risk factors, suggesting appropriate risk stratification preoperatively.
+
+Citation: Gorla R, et al. Incidence and predictors of 30-day and 6-month stroke after TAVR: Insights from the multicenter OBSERVANT II study. Incidence and predictors of 30-day and 6-month stroke after TAVR: Insights from the multicenter OBSERVANT II study. 2023; 102:1122-1131. doi: 10.1002/ccd.30848
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37794734/

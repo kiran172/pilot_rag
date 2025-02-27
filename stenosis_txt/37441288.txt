@@ -1,0 +1,11 @@
+PMID: 37441288
+Title: Correlation of CT perfusion with MRI brain in symptomatic carotid artery stenosis.
+
+Abstract: BACKGROUND: Cerebral white matter disease and large vessel cerebral steno-occlusive are both associated with high incidence of strokes and mortality. There is a lack of literature correlating the cerebral perfusion downstream of a stenotic lesion with white matter changes in the cerebral hemispheres. The aim of this study was to correlate the white matter changes in magnetic resonance imaging (MRI) with computed tomography (CT) perfusion parameters in patients with symptomatic carotid stenosis.
+METHODS: A total of 50 patients with symptomatic carotid stenosis underwent MRI brain and CT Perfusion. Percentage differences in cerebral blood flow (CBF) and mean transit time (MTT) were correlated with symmetric and asymmetric small vessel ischemic disease (SVID) on MRI. Receiver operating characteristic (ROC) curve analysis was performed to determine sensitivity and specificity for different values of percentage CBF and MTT difference.
+RESULTS: A total of 17 patients with symmetrical SVID had a mean CBF difference of 6.58 (SD of 3.17) and mean MTT difference of 11.61 (SD of 4.32). 33 patients with asymmetrical SVID had a mean CBF difference of 34.73 (SD of 6.87) and mean MTT difference of 44.63 (SD of 9.12). ROC curve analysis showed percentage CBF and MTT differences of 12.5% and 26.5% respectively to be associated with 100% specificity and sensitivity.
+CONCLUSION: In patients with symptomatic carotid stenosis, CT perfusion parameters correlate with MRI features of SVID.
+
+Citation: Mohimen A, et al. Correlation of CT perfusion with MRI brain in symptomatic carotid artery stenosis. Correlation of CT perfusion with MRI brain in symptomatic carotid artery stenosis. 2023; 79:421-427. doi: 10.1016/j.mjafi.2022.04.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37441288/

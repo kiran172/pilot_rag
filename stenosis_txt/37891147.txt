@@ -1,0 +1,11 @@
+PMID: 37891147
+Title: Role of diffusion tensor imaging in stenotic and non-stenotic spinal canal.
+
+Abstract: BACKGROUND AND PURPOSE: Cervical Spondylotic Myelopathy (CSM) is a gradually escalating spinal cord disturbance set in motion by the degenerative narrowing of the vertebral canal. Routine MRI may fail to detect the subtle early alterations of the cord. MRI Diffusion Tensor Imaging (DTI) possesses the potential to detect these changes. This study intends to estimate the potential of the DTI technique in non-stenotic & stenotic spinal canals in individuals affected with CSM.
+METHODOLOGY: Sixty-four subjects who met the requirements of the inclusion criteria were incorporated into the investigation. All subjects underwent routine MRI sequences in addition to DTI of the cervical spine region. Scalars such as Fractional Anisotropy (FA), besides Apparent Diffusion Coefficient (ADC), were computed at each cervical intervertebral fibrocartilaginous disc level for all subjects. DTI fiber tractography was then performed to qualitatively assess the microstructural integrity of the tracts.
+RESULTS: A noteworthy difference (p<0.05) was seen in the FA parameter and ADC parameter values between the stenotic and non-stenotic groups, with the non-stenotic group having a higher mean FA and a lower ADC than the stenotic group (at the level of stenosis). A significant difference in age was seen between both groups, with most of the patients in the stenotic group belonging to 40 years and above. Tractography helped in demonstrating the morphology of the fiber tracts.
+CONCLUSION: DTI parameters, namely FA and ADC, are sensitive to damage to the white matter and can be used to detect microstructural changes in the cord. However, standardization of the protocol is necessary when imaging the spinal canal.
+
+Citation: Atchut KA, et al. Role of diffusion tensor imaging in stenotic and non-stenotic spinal canal. Role of diffusion tensor imaging in stenotic and non-stenotic spinal canal. 2023; 54:699-706. doi: 10.1016/j.jmir.2023.09.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37891147/

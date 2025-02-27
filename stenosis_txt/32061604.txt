@@ -1,0 +1,12 @@
+PMID: 32061604
+Title: Balloon Aortic Valvuloplasty as a Bridge to Aortic Valve Replacement: A Contemporary Nationwide Perspective.
+
+Abstract: OBJECTIVES: This study sought to use a national representative database to assess the incidence, predictors, and outcomes of balloon aortic valvuloplasty (BAV) as a bridge to transcatheter aortic valve replacement (TAVR) in contemporary practice.
+BACKGROUND: Nationwide data on the use and outcomes of BAV as a bridge to TAVR are limited.
+METHODS: Patients who underwent BAV between January and June in 2015 and 2016 were identified in the National Readmission Database. We assessed rate of subsequent TAVR following BAV, and predictors and timing of subsequent TAVR. We then identified a group of patients who had direct TAVR (without prior BAV) in the original 2015 to 2016 National Readmission Database dataset. We compared in-hospital outcomes following TAVR between patients with prior bridging BAV and those undergoing direct TAVR.
+RESULTS: Among the 3,691 included patients 1,426 (38.6%) had subsequent TAVR. Timing of TAVR was pre-discharge in 7.4%, within 30 days in 35%, between 31 and 90 days in 47%, between 91 and 180 days in 14%, and >180 days in 4%. Negative predictors of subsequent TAVR included prior defibrillator (odds ratio [OR]: 0.56; 95% confidence interval [CI]: 0.36 to 0.85), dementia (OR: 0.60; 95% CI: 0.46 to 0.79), malnutrition (OR: 0.64; 95% CI: 0.45 to 0.90), and malignancy (OR: 0.62; 95% CI: 0.47 to 0.82). In propensity-score matched cohorts of patients who underwent direct TAVR versus those with prior BAV, in-hospital mortality during TAVR admission was similar (3.7% vs. 3.5%; p = 0.91). Major complications, length of stay, and discharge disposition were also comparable. However, cost of the hospitalization was higher in the direct TAVR group.
+CONCLUSIONS: About 40% of BAV patients undergo subsequent TAVR mostly within 90 days. In-hospital outcomes of TAVR in these patients were comparable with propensity-score matched patients who underwent TAVR without prior BAV. Further investigations are needed to define the role of BAV in contemporary practice.
+
+Citation: Kawsara A, et al. Balloon Aortic Valvuloplasty as a Bridge to Aortic Valve Replacement: A Contemporary Nationwide Perspective. Balloon Aortic Valvuloplasty as a Bridge to Aortic Valve Replacement: A Contemporary Nationwide Perspective. 2020; 13:583-591. doi: 10.1016/j.jcin.2019.11.041
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32061604/

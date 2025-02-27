@@ -1,0 +1,11 @@
+PMID: 34162296
+Title: miR-28-5p improved carotid artery stenosis by regulating vascular smooth muscle cell proliferation and migration.
+
+Abstract: OBJECTIVES: Abnormal proliferation and migration of vascular smooth muscle cells (VSMCs) are involved in carotid artery stenosis. The purpose of this study was to investigate the diagnostic value of serum miR-28-5p in asymptomatic carotid artery stenosis and its regulation on the proliferation and migration of VSMCs.
+METHODS: Serum miR-28-5p levels in 65 healthy controls and 68 asymptomatic carotid artery stenosis patients were detected by qRT-PCR. The receiver-operating characteristic curve was applied to elucidate the diagnostic value of serum miR-28-5p for carotid artery stenosis patients. The specificity of miRNA targets was detected by luciferase reporter assay. CCK-8 and Transwell assay were applied to detect proliferation and migration of cells. Pearson correlation test was used to investigate the correlation between Forkhead box subclass O 1 (FOXO1) and serum miR-28-5p.
+RESULTS: Serum miR-28-5p was significantly reduced in asymptomatic carotid artery stenosis patients. Moreover, miR-28-5p could distinguish asymptomatic carotid artery stenosis patients from healthy controls, with sensitivity and specificity of 86.8% and 81.5%, respectively, indicating its high diagnostic value. The overexpression of miR-28-5p inhibited the proliferation and migration of VSMCs, while inhibition of miR-28-5p resulted in the opposite effect. What is more, FOXO1, a direct target of miR-28-5p, was significantly increased in asymptomatic carotid artery stenosis patients. Inhibition of miR-28-5p in VSMCs reversed the reduction of FOXO1 levels in patients.
+CONCLUSIONS: miR-28-5p is a valuable diagnostic biomarker for asymptomatic carotid artery stenosis and can affect the proliferation and migration of VSMCs by regulating FOXO1.
+
+Citation: Liu Q, et al. miR-28-5p improved carotid artery stenosis by regulating vascular smooth muscle cell proliferation and migration. miR-28-5p improved carotid artery stenosis by regulating vascular smooth muscle cell proliferation and migration. 2022; 30:764-770. doi: 10.1177/17085381211019510
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34162296/

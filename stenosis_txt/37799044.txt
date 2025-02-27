@@ -1,0 +1,11 @@
+PMID: 37799044
+Title: Cardiac catheterization, coronary intervention, and wait times for transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: Prolonged wait times for transcatheter aortic valve replacement (TAVR) are associated with increased morbidity and mortality. The incidence and predictors of short TAVR wait times (STWT: defined as ≤ 30 days from referral to TAVR procedure) have not been defined. This study examined the impact of clinical characteristics, demographics, and pre-TAVR cardiac catheterization on wait times for TAVR.
+METHODS: This was a retrospective observational analysis of 831 patients with severe aortic stenosis undergoing TAVR from 2019 to mid-2022 at the University of Vermont Medical Center. Demographics, timing of treatment [stratified by COVID-19 onset (1 March 2020)], TAVR center travel distance, baseline clinical factors, and process-related variables were analyzed to determine univariate STWT predictors (P < 0.10). Multivariable analysis was performed to determine independent STWT predictors.
+RESULTS: Approximately 50% of TAVR patients in this study achieved a STWT. The proportion of patients with STWT was higher (54.7% vs. 45.2%; P = 0.008) after the onset of COVID-19 pandemic. STWT was not related to travel distance (P = 0.61). Patients with left ventricular ejection fraction (LVEF) > 60% were less likely to achieve STWT compared to patients with LVEF < 40% (OR 0.45, P = 0.003). Patients who required catheterization or percutaneous coronary intervention (PCI) before TAVR were significantly less likely to achieve STWT (OR 0.65, P = 0.01).
+CONCLUSION: TAVR wait times were not affected by the COVID-19 pandemic or single rural TAVR center travel distance. Sicker patients were more likely to achieve STWT while catheterization/PCI before TAVR was associated with longer wait times.
+
+Citation: Srinivasan S, et al. Cardiac catheterization, coronary intervention, and wait times for transcatheter aortic valve replacement. Cardiac catheterization, coronary intervention, and wait times for transcatheter aortic valve replacement. 2023; 34:475-482. doi: 10.1097/MCA.0000000000001275
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37799044/

@@ -1,0 +1,14 @@
+PMID: 31445834
+Title: Association of Primary Anesthesia Type with Postoperative Adverse Events After Transcarotid Artery Revascularization.
+
+Abstract: OBJECTIVES: The literature remains sparse regarding the influence of primary anesthesia type (monitored anesthesia care [MAC] v general anesthesia) on 30-day adverse events after transcarotid artery revascularization (TCAR). The objective of this study was to report the association of primary anesthesia type with 30-day adverse events after TCAR.
+DESIGN: Retrospective cohort analysis of the American College of Surgeons National Surgical Quality Improvement Program Registry from 2012-2016.
+SETTING: Multi-institutional.
+PARTICIPANTS: The final analysis included 625 patients who underwent TCAR.
+INTERVENTIONS: The primary exposure was anesthesia type, categorized as MAC (defined as regional anesthesia, local anesthesia, or MAC) or general anesthesia. The primary endpoint was 30-day mortality. Secondary 30-day endpoints included pulmonary, renal, and cardiac complications; sepsis; deep venous thrombosis; stroke; blood transfusion; embolism/thrombosis of ipsilateral carotid vessel; and redo surgery.
+MEASUREMENTS AND MAIN RESULTS: The prevalence of MAC was 73.4%. A 93% decrease was observed in the odds of 30-day mortality (p = 0.003) in patients who received MAC. Mean (standard deviation) hospital stay (2.99 [5.92] d v 4.30 [9.15] d; p = 0.037) and case duration (88.45 [39.48] min v 105.85 [63.77] min; p < 0.001) were shorter among patients who received MAC. The odds of pulmonary complications (odds ratio 0.19, 95% confidence interval 0.05-0.65; p = 0.009) were significantly lower in the MAC group. No other differences in secondary endpoints were found between the anesthesia type cohorts.
+CONCLUSIONS: The majority of studies on this topic pertain to carotid endarterectomy patients, and this retrospective analysis sheds light on outcomes after TCAR. Overall, the authors urge additional risk stratification and preprocedural optimization to carefully select patients who may undergo MAC.
+
+Citation: Burton BN, et al. Association of Primary Anesthesia Type with Postoperative Adverse Events After Transcarotid Artery Revascularization. Association of Primary Anesthesia Type with Postoperative Adverse Events After Transcarotid Artery Revascularization. 2020; 34:136-142. doi: 10.1053/j.jvca.2019.07.142
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31445834/

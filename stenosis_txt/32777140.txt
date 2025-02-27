@@ -1,0 +1,11 @@
+PMID: 32777140
+Title: Relation between left atrial strain and exercise tolerance in patients with mild mitral stenosis: An insight from 2D speckle-tracking echocardiography.
+
+Abstract: BACKGROUND: Mild mitral stenosis (MS) is a progressive disease but unfortunately, its clinical course is still unclearly studied. We aimed to study the left atrial (LA) deformation in such patients and how it is related to exercise intolerance.
+METHODS: Seventy-five patients with mitral valve area of 1.81 ± 0.13 cm2 and 40 healthy control subjects were enrolled. All participants had sinus rhythm, and they underwent conventional echocardiography and LA strain analysis with speckle-tracking study. The following parameters were obtained: left atrial reservoir strain (LAS-s), LA conduit strain (LAS-e), and LA contraction strain (LAS-a). All participants underwent symptoms limited stress ECG using modified Bruce protocol.
+RESULTS: Comparing with control subjects, patients with mild MS had significant lower LAS-s value (P < .01) and LAS-e (<0.03). Patients with exercise intolerance (METs < 8) had lower LAS-s (P < .001), LAS-e (P < .01), and LAS-a (P < .05) values compared to those with METs ≥ 8. We found that METs was significantly related to LAS-s (P < .001), brain natriuretic peptide (P < .001), and Δ TAPSE (P < .03). Multivariate analysis showed that LAS-s was an independent predictor of reduced exercise capacity. With ROC analysis, LAS-s ≤ 26.5% was the optimal value for prediction of exercise intolerance in patients with mild MS.
+CONCLUSION: A significant percentage of patients with mild mitral stenosis had exercise intolerance. We found that LAS-s was significantly associated with exercise capacity in patients with mild MS. Hence, we thought that LA deformation could be of great value in the follow-up of patients with mild MS.
+
+Citation: Mahfouz RA, et al. Relation between left atrial strain and exercise tolerance in patients with mild mitral stenosis: An insight from 2D speckle-tracking echocardiography. Relation between left atrial strain and exercise tolerance in patients with mild mitral stenosis: An insight from 2D speckle-tracking echocardiography. 2020; 37:1406-1412. doi: 10.1111/echo.14818
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32777140/

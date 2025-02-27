@@ -1,0 +1,12 @@
+PMID: 36495541
+Title: Utilization Trends and Short-Term Outcomes for Transcatheter and Surgical Aortic Valve Replacement Surgery in New York.
+
+Abstract: BACKGROUND: Population-based utilization trends and outcomes of transcatheter aortic valve replacement (TAVR) and surgical aortic valve replacement (SAVR) remain unknown.
+OBJECTIVES: To examine the utilization trends and outcomes of TAVR and SAVR in New York using all-inclusive aggregated statewide cardiac registries.
+METHODS: We described the utilization trends, compared baseline characteristics, and evaluated short-term outcomes of TAVR vs SAVR during 2011-2018 in New York. We applied Cox proportional hazards models to analyze changes in 30-day postoperative mortality for TAVR and SAVR.
+RESULTS: Of a total 37,566 aortic valve replacement (AVR) patients, 50.8% underwent TAVR and 49.2% received SAVR. TAVR's annual volume increased from 715 in 2012 to 4849 in 2018 (578.18% increase) whereas SAVR's annual volume decreased from 2619 in 2012 to 1855 in 2018 (29.17% decrease). TAVR patients were older, more likely to be female and white, and less likely to be Hispanic. Younger patients (<65 years) and Medicare managed-care patients received TAVR (vs SAVR) a lower percentage of the time relative to older patients (≥65 years) and Medicare fee-for-service patients, respectively. In 2018, the unadjusted 30-day mortality rate was 2.37% for TAVR whereas the rate was 0.97% for SAVR. There was significant annual improvement in 30-day mortality for TAVR (annual adjusted hazard ratio, 0.84, 95% confidence interval, 0.80-0.88) but not for SAVR (annual adjusted hazard ratio, 0.96; 95% confidence interval, 0.91-1.01).
+CONCLUSION: TAVR and AVR experienced massive growth whereas SAVR decreased in New York. Younger and Medicare managed-care patients had unique utilization trends. TAVR was associated with continuous improvement in 30-day postoperative mortality.
+
+Citation: Qian F, et al. Utilization Trends and Short-Term Outcomes for Transcatheter and Surgical Aortic Valve Replacement Surgery in New York. Utilization Trends and Short-Term Outcomes for Transcatheter and Surgical Aortic Valve Replacement Surgery in New York. 2023; 35:E7-E16. doi: 10.25270/jic/22.00212
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36495541/

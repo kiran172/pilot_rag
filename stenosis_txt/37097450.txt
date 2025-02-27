@@ -1,0 +1,11 @@
+PMID: 37097450
+Title: Crohn's disease phenotype analysis with iodine density from dual-energy CT enterography.
+
+Abstract: PURPOSE: To compare dual-source dual-energy CT enterography (dsDECTE) obtained iodine density (I) (mg/mL) and I normalized to the aorta (I%) with Crohn's disease (CD) phenotypes defined by the SAR-AGA small bowel CD consensus statement.
+METHODS: Fifty CD patients (31 male, 19 female; mean [SD] age: 50.4 [15.2] years) who underwent dsDECTE were retrospectively identified. Two abdominal radiologists assigned CD phenotypes: no active inflammation (group-2), active inflammation without (group-3) or with luminal narrowing (group-4), stricture with active inflammation (group-5), stricture without active inflammation (group-1), and penetrating disease (group-6). Semiautomatic prototype software was used to determine the median I and I% of CD-affected small bowel mucosa for each patient. The means of the I and I% medians were compared among 4 groups ("1 + 2", "3 + 4", "5", "6") using one-way ANOVA (significance level 0.05 for each outcome) for each outcome individually followed by Tukey's range test for pairwise comparisons with adjusted p-values (overall alpha = 0.05).
+RESULTS: Mean [SD] I was 2.14 [1.07] mg/mL for groups 1 + 2 (n = 16), 3.54 [1.71] mg/mL for groups 3 + 4 (n = 15), 5.5 [3.27] mg/mL for group- "5" (n = 9), and 3.36 [1.43] mg/mL for group-"6" (n = 10) (ANOVA p = .001; group "1 + 2" versus "5" adj-p = .0005). Mean [SD] I% was 21.2 [6.13]% for groups 1 + 2, 39.47 [9.71]% for groups 3 + 4, 40.98 [11.76]% for group-5, and 35.01 [7.58]% for group-6 (ANOVA p < .0001; groups "1 + 2" versus "3 + 4" adj-p < .0001, group "1 + 2" versus "5" adj-p < .0001, and groups "1 + 2" versus "6" adj-p = .002).
+CONCLUSION: Iodine density obtained from dsDECTE significantly differed among CD phenotypes defined by SAR-AGA, with I (mg/mL) increasing with phenotype severity and decreasing for penetrating disease. I and I% can be used to phenotype CD.
+
+Citation: Dane B, et al. Crohn's disease phenotype analysis with iodine density from dual-energy CT enterography. Crohn's disease phenotype analysis with iodine density from dual-energy CT enterography. 2023; 48:2219-2227. doi: 10.1007/s00261-023-03923-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37097450/

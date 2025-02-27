@@ -1,0 +1,11 @@
+PMID: 31941833
+Title: Incidence and Predictors of Acute Kidney Injury Following Transcatheter Aortic Valve Replacement: Role of Changing Definitions of Renal Function and Injury.
+
+Abstract: BACKGROUND: Acute kidney injury (AKI) following transcatheter aortic valve replacement (TAVR) is a known complication. The prospective validation of various AKI definitions and estimated baseline renal function equations in the context of TAVR remains an ongoing area of research. This study examined the Valve Academic Research Consortium (VARC) 1 and 2 criteria for AKI, and impact of three estimated glomerular filtration rate (eGFR) equations (CKD-EPI, MDRD, and Cockcroft-Gault) on AKI incidence in TAVR patients.
+METHODS: Retrospective review of 120 consecutive TAVR procedures over a 4-year period was performed. AKI, including stage, was defined using the VARC 1 and VARC 2 criteria. Univariate and multivariate analyses were performed for association between AKI and known patient, hemodynamic, and procedural variables. Further logistic regression, stepwise logistic regression, and association plots were performed for the three different eGFR calculations.
+RESULTS: AKI occurred in 22% of VARC 1 patients and 23% of VARC 2 patients. On multivariate analysis, baseline eGFR was predictive of stage 1 AKI by CKD-EPI classification (VARC 1: odds ratio [OR], 0.93; 95% confidence interval [CI], 0.88-0.99; P=.02; VARC 2: OR, 0.93; 95% CI, 0.87-0.99; P=.03) and MDRD (OR, 0.93; 95% CI, 0.88-0.99; P=.03). Non-transfemoral approach was predictive of stage 1 AKI by VARC 2 (OR, 33.33; 95% CI, 1.6-696.41; P=.02).
+CONCLUSIONS: The risk factor associations for AKI post TAVR vary by definitions used. Decreased GFR at baseline by both MDRD and CKD-EPI and non-transfemoral approach were associated with an increased risk of AKI post TAVR.
+
+Citation: Rodriguez R, et al. Incidence and Predictors of Acute Kidney Injury Following Transcatheter Aortic Valve Replacement: Role of Changing Definitions of Renal Function and Injury. Incidence and Predictors of Acute Kidney Injury Following Transcatheter Aortic Valve Replacement: Role of Changing Definitions of Renal Function and Injury. 2020; 32:138-141.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31941833/

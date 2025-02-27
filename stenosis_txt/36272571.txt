@@ -1,0 +1,11 @@
+PMID: 36272571
+Title: Subclinical leaflet thrombosis and antithrombotic therapy post-TAVI: An LRT substudy.
+
+Abstract: BACKGROUND: Subclinical leaflet thrombosis (SLT) is characterized on computed tomography (CT) imaging as hypoattenuated leaflet thickening (HALT), reduced leaflet motion (RELM), and hypoattenuation affecting motion (HAM). How antithrombotic regimen type impacts SLT remains poorly understood. We evaluated how antithrombotic regimen type impacts SLT in low-risk subjects following transcatheter aortic valve implantation (TAVI).
+METHODS: This substudy is a post hoc analysis of the LRT 1.0 and 2.0 trials to assess SLT in subjects who underwent CT or transoesophageal echocardiogram (TOE) imaging at 30 days, stratified by antithrombotic regimen received (single antiplatelet therapy [SAPT], dual antiplatelet therapy [DAPT], or oral anticoagulation). We also utilized univariable logistic regression modelling to identify echocardiographic predictors of HALT.
+RESULTS: Rates of HALT, RELM, and HAM were all significantly lower with oral anticoagulation compared to SAPT or DAPT at 30 days (HALT: 2.6% vs 14.3% vs 17.2%, respectively, with p < 0.001; RELM: 1.8% vs 9.6% vs 13.1%, respectively, with p = 0.004; and HAM: 0.9% vs 8.5% vs 9.8%, respectively, with p = 0.011). Additionally, short-term oral anticoagulation was not associated with higher bleeding rates compared to SAPT or DAPT (0.8% vs. 1.8% vs. 3.6%, p = 0.291). The presence of HALT did not significantly impact echocardiographic haemodynamic parameters at 30 days.
+CONCLUSION: This is the largest study to date that evaluated the impact of different antithrombotic regimens on SLT in low-risk TAVI patients. Oral anticoagulation was associated with significantly lower rates of SLT at 30 days compared to DAPT or SAPT, and there was no apparent benefit of DAPT over SAPT.
+
+Citation: Bhogal S, et al. Subclinical leaflet thrombosis and antithrombotic therapy post-TAVI: An LRT substudy. Subclinical leaflet thrombosis and antithrombotic therapy post-TAVI: An LRT substudy. 2023; 371:305-311. doi: 10.1016/j.ijcard.2022.10.134
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36272571/

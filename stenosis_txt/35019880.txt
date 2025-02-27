@@ -1,0 +1,14 @@
+PMID: 35019880
+Title: Thermal Dynamics of a Novel Radio-Frequency Device for Endoscopic Spine Surgery: An Experimental Model.
+
+Abstract: STUDY DESIGN: Experimental study.
+OBJECTIVE: In this study, the ambient temperature of a radiofrequency (RF) electrode tip was compared and analyzed in terms of products, mode, flow quantity, and flow rate.
+SUMMARY OF BACKGROUND DATA: Endoscopic spine surgery is a widely used operation for degenerative lumbar stenosis and herniated lumbar disc. To perform endoscopic spine surgery, dedicated instruments like a RF generator and electrode are essential.
+METHODS: An evaluation system capable of measuring temperature under equal conditions at a certain distance from the electrode tip was manufactured. The distance between the electrode tip and the temperature sensor was set to 1, 5, and 10 mm. The flow quantities of 0, 50, 100, and 150 mL/min and the flow rates of 0, 0.20, 0.53, and 0.80 m/s were compared and statistically analyzed.
+RESULTS: The temperatures measured in the experiments conducted on the four combinations of RF device showed similar values, and showed differences according to the characteristics of each mode of the RF. As the distance between the electrode tip and the temperature sensor increased, the temperature decreased, and as flow quantity or flow rate increased, the temperature decreased. The maximum temperatures differed significantly according to flow quantity, between flow quantities of 0 and 100 mL/min (P  = 0.03) and between 0 and 150 mL/min (P ≤ 0.01). The maximum temperatures also differed significantly between the flow rate of 0 m/s, and the flow rates of 0.20, 0.53, and 0.80 m/s, with P ≤ 0.01 in all three comparisons.
+CONCLUSION: This is the first study in which we made a customized RF temperature evaluation system and verified the temperature changes in various environments. When irrigation was performed, we could confirm that the maximum temperature was less than 60°C. Irrigation is considered essential in endoscopic spine surgery.
+LEVEL OF EVIDENCE: 3.
+
+Citation: Lee HJ, et al. Thermal Dynamics of a Novel Radio-Frequency Device for Endoscopic Spine Surgery: An Experimental Model. Thermal Dynamics of a Novel Radio-Frequency Device for Endoscopic Spine Surgery: An Experimental Model. 2022; 47:720-729. doi: 10.1097/BRS.0000000000004320
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35019880/

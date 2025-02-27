@@ -1,0 +1,20 @@
+PMID: 35289460
+Title: Presurgical Magnetic Resonance Imaging Indicators of Revascularization Response in Adults With Moyamoya Vasculopathy.
+
+Abstract: BACKGROUND: Moyamoya is a progressive intracranial vasculopathy, primarily affecting distal segments of the internal carotid and middle cerebral arteries. Treatment may comprise angiogenesis-inducing surgical revascularization; however, lack of randomized trials often results in subjective treatment decisions.
+HYPOTHESIS: Compensatory presurgical posterior vertebrobasilar artery (VBA) flow-territory reactivity, including greater cerebrovascular reactivity (CVR) and reduced vascular delay time, portends greater neoangiogenic response verified on digital subtraction angiography (DSA) at 1-year follow-up.
+STUDY TYPE: Prospective intervention cohort.
+SUBJECTS: Thirty-one patients with moyamoya (26 females; age = 45 ± 13 years; 41 revascularized hemispheres).
+METHODS: Anatomical MRI, hypercapnic CVR MRI, and DSA acquired presurgically in adult moyamoya participants scheduled for clinically indicated surgical revascularization. One-year postsurgery, DSA was repeated to evaluate collateralization.
+FIELD STRENGTH: 3 T.
+SEQUENCE: Hypercapnic T 2 *  -weighted gradient-echo blood-oxygenation-level-dependent, T<sub>2</sub> -weighted turbo-spin-echo fluid-attenuated-inversion-recovery, T<sub>1</sub> -weighted magnetization-prepared-rapid-gradient-echo, and T<sub>2</sub> -weighted diffusion-weighted-imaging.
+ASSESSMENT: Presurgical maximum CVR and response times were evaluated in VBA flow-territories. Revascularization success was determined using an ordinal scoring system of neoangiogenic collateralization from postsurgical DSA by two cerebrovascular neurosurgeons (R.V.C. with 8 years of experience; M.R.F. with 9 years of experience) and one neuroradiologist (L.T.D. with 8 years of experience). Stroke risk factors (age, sex, race, vasculopathy, and diabetes) were recorded.
+STATISTICAL TESTS: Fisher's exact and Wilcoxon rank-sum tests were applied to compare presurgical variables between cohorts with angiographically confirmed good (>1/3 middle cerebral artery [MCA] territory revascularized) vs. poor (<1/3 MCA territory revascularized) outcomes.
+SIGNIFICANCE: two-sided P < 0.05. Normalized odds ratios (ORs) were calculated.
+RESULTS: Criteria for good collateralization were met in 25 of the 41 revascularized hemispheres. Presurgical normalized VBA flow-territory CVR was significantly higher in those with good (1.12 ± 0.13 unitless) vs. poor (1.04 ± 0.05 unitless) outcomes. Younger (OR = -0.60 ± 0.67) and White (OR = -1.81 ± 1.40) participants had highest revascularization success (good outcomes: age = 42 ± 14 years, race = 84% White; poor outcomes: age = 49 ± 11 years, race = 44% White).
+DATA CONCLUSION: Presurgical MRI-measures of VBA flow-territory CVR are highest in moyamoya participants with better angiographic responses to surgical revascularization.
+LEVEL OF EVIDENCE: 1 TECHNICAL EFFICACY STAGE: 4.
+
+Citation: L Waddle S, et al. Presurgical Magnetic Resonance Imaging Indicators of Revascularization Response in Adults With Moyamoya Vasculopathy. Presurgical Magnetic Resonance Imaging Indicators of Revascularization Response in Adults With Moyamoya Vasculopathy. 2022; 56:983-994. doi: 10.1002/jmri.28156
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35289460/

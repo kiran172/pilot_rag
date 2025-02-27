@@ -1,0 +1,12 @@
+PMID: 32004345
+Title: Comprehensive multimodality characterization of hemodynamically significant and non-significant coronary lesions using invasive and noninvasive measures.
+
+Abstract: BACKGROUND: There is limited knowledge about morphological molecular-imaging-derived parameters to further characterize hemodynamically relevant coronary lesions.
+OBJECTIVE: The aim of this study was to describe and differentiate specific parameters between hemodynamically significant and non-significant coronary lesions using various invasive and non-invasive measures.
+METHODS: This clinical study analyzed patients with symptoms suggestive of coronary artery disease (CAD) who underwent native T1-weighted CMR and gadofosveset-enhanced CMR as well as invasive coronary angiography. OCT of the culprit vessel to determine the plaque type was performed in a subset of patients. Functional relevance of all lesions was examined using quantitative flow reserve (QFR-angiography). Hemodynamically significant lesions were defined as lesions with a QFR <0.8. Signal intensity (contrast-to-noise ratios; CNRs) on native T1-weighted CMR and gadofosveset-enhanced CMR was defined as a measure for intraplaque hemorrhage and endothelial permeability, respectively.
+RESULTS: Overall 29 coronary segments from 14 patients were examined. Segments containing lesions with a QFR <0.8 (n = 9) were associated with significantly higher signal enhancement on Gadofosveset-enhanced CMR as compared to segments containing a lesions without significant stenosis (lesion-QFR>0.8; n = 19) (5.32 (4.47-7.02) vs. 2.42 (1.04-5.11); p = 0.042). No differences in signal enhancement were seen on native T1-weighted CMR (2.2 (0.68-6.75) vs. 2.09 (0.91-6.57), p = 0.412). 66.7% (4 out of 6) of all vulnerable plaque and 33.3% (2 out of 6) of all non-vulnerable plaque (fibroatheroma) as assessed by OCT were hemodynamically significant lesions.
+CONCLUSION: The findings of this pilot study suggest that signal enhancement on albumin-binding probe-enhanced CMR but not on T1-weighted CMR is associated with hemodynamically relevant coronary lesions.
+
+Citation: Engel LC, et al. Comprehensive multimodality characterization of hemodynamically significant and non-significant coronary lesions using invasive and noninvasive measures. Comprehensive multimodality characterization of hemodynamically significant and non-significant coronary lesions using invasive and noninvasive measures. 2020; 15:e0228292. doi: 10.1371/journal.pone.0228292
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32004345/

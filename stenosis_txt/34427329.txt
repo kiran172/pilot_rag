@@ -1,0 +1,13 @@
+PMID: 34427329
+Title: Long-Term Voice Outcomes Following Cricotracheal Resection for Subglottic Stenosis: A Retrospective Analysis.
+
+Abstract: OBJECTIVES/HYPOTHESIS: Cricotracheal resection (CTR) is an effective treatment for refractory idiopathic subglottic stenosis (iSGS) but is associated with persistent dysphonia. Outcomes were measured longitudinally to characterize how patients' voices and self-perceived voice handicaps changed after CTR.
+STUDY DESIGN: Retrospective case-series.
+METHODS: We conducted a retrospective cohort study of patients with refractory iSGS treated by CTR from 2006 to 2017. Voice Handicap Index (VHI), Consensus Auditory-Perceptual Evaluation of Voice (CAPE-V), and acoustic analysis were prospectively collected preoperatively and postoperatively at 1, 3, 6, 12, and 24-month intervals. A linear mixed model was used to evaluate temporal change.
+RESULTS: Thirty-three patients (97% female) were included. VHI scores increased significantly from baseline preoperative score (27.2 ± 22.7) to a mean value of 44.3 ± 25.6 (P < .001) 1-month postoperatively but decreased below preoperative scores after 2 years (18.8 ± 11.9, P = .795). Mean fundamental frequency (F0) values in speech decreased significantly from 192.0 ± 24.9 Hz preoperatively to 167.1 ± 19.8 Hz at a 2-year follow-up (P = .002), with a nadir value at 1-month postoperatively (148.4 ± 20.5, P < .001). CAPE-V scores increased significantly from preoperative to 1-month postoperative (3.0 ± 2.3 vs. 21.9 ± 17.3, P < .001) but returned toward baseline values at 24 months after CTR (6.9 ± 4.8, P = .027). CAPE-V measurements postoperatively were correlated with VHI and F0 (Pearson coefficient = 0.54 (VHI), -0.46 (F0), P < .001).
+CONCLUSIONS: Following CTR, mean F0 values were significantly and consistently lower but did increase over time, correlating with patients' improving VHI and CAPE-V scores. VHI values indicate that patient's perception of their voice is not significantly impacted in long term. These results provide a framework to counsel patients about long term voice expectations.
+LEVEL OF EVIDENCE: 4 Laryngoscope, 132:1054-1060, 2022.
+
+Citation: Compton EC, et al. Long-Term Voice Outcomes Following Cricotracheal Resection for Subglottic Stenosis: A Retrospective Analysis. Long-Term Voice Outcomes Following Cricotracheal Resection for Subglottic Stenosis: A Retrospective Analysis. 2022; 132:1054-1060. doi: 10.1002/lary.29827
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34427329/

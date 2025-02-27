@@ -1,0 +1,12 @@
+PMID: 36951521
+Title: Airway Resistance and Respiratory Distress in Laryngeal Cancer: A Computational Fluid Dynamics Study.
+
+Abstract: BACKGROUND: Obstructive upper airway pathologies are a great clinical challenge for the airway surgeon. Protection against acute obstruction is critical, but avoidance of unnecessary tracheostomy must also be considered. Decision-making regarding airway, although supported by some objective findings, is largely guided by subjective experience and training. This investigation aims to study the relationship between clinical respiratory distress and objective measures of airway resistance in laryngeal cancer as determined by computational fluid dynamic (CFD) and morphometric analysis.
+METHODS: Retrospective CT and clinical data were obtained for series of 20 cases, defined as newly diagnosed laryngeal cancer patients who required admission or urgent airway surgery, and 20 controls. Cases and controls were matched based on T-staging. Image segmentation and morphometric analysis were first performed. Computational models based on the lattice Boltzmann method were then created and used to quantify the continuous mass flow, rigid wall, and constant static pressure inlet boundary conditions.
+RESULTS: The analysis demonstrated a significant relationship between airway resistance and acute obstruction (OR 1.018, 95% CI 1.001-1.045). Morphometric analysis similarly demonstrated a significant relationship when relating measurements based on the minimum cross-section, but not on length of stenosis. Morphometric measurements also showed significance in predicting CFD results, and their relationship demonstrated that airway pressures increase exponentially below 2.5 mm. Tumor subsite did not show a significant difference, although the glottic subgroup tended to have higher resistances.
+CONCLUSION: Airway resistance analysis from CFD computation correlated with presence of acute distress requiring emergent management. Morphometric analysis showed a similar correlation, demonstrating a radiologic airway assessment technique on which future risk estimation could be performed.
+LEVEL OF EVIDENCE: 4 (case-control study) Laryngoscope, 133:2734-2741, 2023.
+
+Citation: Hudson TJ, et al. Airway Resistance and Respiratory Distress in Laryngeal Cancer: A Computational Fluid Dynamics Study. Airway Resistance and Respiratory Distress in Laryngeal Cancer: A Computational Fluid Dynamics Study. 2023; 133:2734-2741. doi: 10.1002/lary.30649
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36951521/

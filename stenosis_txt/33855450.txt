@@ -1,0 +1,10 @@
+PMID: 33855450
+Title: Prognostic implications of cardiac damage classification based on computed tomography in severe aortic stenosis.
+
+Abstract: AIMS: An echocardiographic staging system of severe aortic stenosis (AS) based on additional extra-valvular cardiac damage has been associated with prognosis after transcatheter aortic valve implantation (TAVI). Multidetector row computed tomography (MDCT) is key in the evaluation of AS patients undergoing TAVI and can potentially detect extra-valvular cardiac damage. This study aimed at evaluating the prognostic implications of an MDCT staging system of severe AS in patients undergoing TAVI.
+METHODS AND RESULTS: A total of 405 patients (80 ± 7 years, 52% men) who underwent full-beat MDCT prior to TAVI were included. The extent of cardiac damage was assessed by MDCT and classified in five categories; Stage 0 (no cardiac damage), Stage 1 (left ventricular damage), Stage 2 (left atrium and mitral valve damage), Stage 3 (right atrial damage), and Stage 4 (right ventricular damage). Twenty-seven (7%) patients were stratified as Stage 0, 96 (24%) as Stage 1, 152 (38%) as Stage 2, 78 (19%) as Stage 3, and 52 (13%) as Stage 4. During a median follow-up of 3.7 (IQR 1.7-5.5) years, 150 (37%) died. On multivariable Cox regression analysis, cardiac damage Stage 3 (HR vs. Stage 0: 4.496, P = 0.039) and Stage 4 (HR vs. Stage 0: 5.565, P = 0.020) were independently associated with all-cause mortality.
+CONCLUSION: The MDCT-based staging system of cardiac damage in severe AS effectively identifies the patients who are at higher risk of death after TAVI.
+
+Citation: Hirasawa K, et al. Prognostic implications of cardiac damage classification based on computed tomography in severe aortic stenosis. Prognostic implications of cardiac damage classification based on computed tomography in severe aortic stenosis. 2022; 23:578-585. doi: 10.1093/ehjci/jeab071
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33855450/

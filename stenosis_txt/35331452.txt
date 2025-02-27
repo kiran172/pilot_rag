@@ -1,0 +1,12 @@
+PMID: 35331452
+Title: New-Onset Atrial Fibrillation After Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis.
+
+Abstract: OBJECTIVES: The authors aimed to identify risk factors and outcomes associated with new-onset atrial fibrillation (NOAF) after transcatheter aortic valve replacement (TAVR).
+BACKGROUND: NOAF is a common complication after TAVR, although estimates of the precise occurrence are variable. This study sought to quantify the occurrence of NOAF after TAVR and to explore the outcomes and predictors associated with this complication.
+METHODS: We searched Medline, EMBASE, and the Cochrane database from 2016 to 2020 for articles that reported NOAF after TAVR. We extracted data for studies published before 2016 from a previous systematic review. We pooled data using a random effects model.
+RESULTS: We identified 179 studies with 241,712 total participants (55,271 participants with pre-existing atrial fibrillation (AF) were excluded) that reported NOAF from 2008 to 2020. The pooled occurrence of NOAF after TAVR was 9.9% (95% CI: 8.1%-12%). NOAF after TAVR was associated with a longer index hospitalization (mean difference = 2.66 days; 95% CI: 1.05-4.27), a higher risk of stroke in the first 30 days (risk ratio [RR]: 2.35; 95% CI: 2.12-2.61), 30-day mortality (RR: 1.76; 95% CI: 1.12-2.76), major or life-threatening bleeding (RR: 1.60; 95% CI: 1.39-1.84), and permanent pacemaker implantation (RR: 1.12; 95% CI: 1.05-1.18). Risk factors for the development of NOAF after TAVR included higher Society of Thoracic Surgeons score, transapical access, pulmonary hypertension, chronic kidney disease, peripheral vascular disease, and severe mitral regurgitation, suggesting that the risk for NOAF is highest in more comorbid TAVR patients.
+CONCLUSIONS: NOAF is common after TAVR. Whether AF after TAVR is a causal factor or a marker of sicker patients remains unclear.
+
+Citation: Ryan T, et al. New-Onset Atrial Fibrillation After Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis. New-Onset Atrial Fibrillation After Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis. 2022; 15:603-613. doi: 10.1016/j.jcin.2022.01.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35331452/

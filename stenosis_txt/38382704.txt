@@ -1,0 +1,11 @@
+PMID: 38382704
+Title: Preprocedural Computed Tomography Planning for Surgical Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Selection of transcatheter valve size using preprocedural computed tomography (CT) is standardized and well established. However, valve sizing for surgical aortic valve replacement (SAVR) is currently performed intraoperatively by using sizers, which may result in variation among operators and risk for prosthesis-patient mismatch. This study evaluated the usefulness of CT annulus measurement for SAVR valve sizing.
+METHODS: This study included patients who underwent SAVR using Inspiris or Magna Ease and received preoperative electrocardiogram-gated CT imaging. Starting from June 2022, study investigators applied a CT sizing algorithm using CT-derived annulus size to guide minimum SAVR label size. The final decision of valve selection was left to the operating surgeon during SAVR. The study compared the appropriateness of valve selection (comparing implanted size with CT-predicted size) and prosthesis-patient mismatch rates without aortic root enlargement between 2 cohorts: 102 cases since June 2022 (CT sizing cohort) and 180 cases from 2020 to 2021 (conventional sizing cohort).
+RESULTS: Implanted size smaller than CT predicted size and severe prosthesis-patient mismatch were significantly lower by CT sizing than by conventional sizing (12% vs 31% [P = .001] and 0% vs 6% [P = .039], respectively). Interoperator variability was a factor associated with implanted size smaller than CT predicted with conventional sizing, whereas it became nonsignificant with CT sizing.
+CONCLUSIONS: Applying CT sizing to SAVR led to improved valve size selection, less prosthesis-patient mismatch, and less interoperator variability. CT sizing for SAVR could also be used to predict prosthesis-patient mismatch before SAVR and identify patients who need aortic root enlargement.
+
+Citation: Okada A, et al. Preprocedural Computed Tomography Planning for Surgical Aortic Valve Replacement. Preprocedural Computed Tomography Planning for Surgical Aortic Valve Replacement. 2024; 117:1154-1162. doi: 10.1016/j.athoracsur.2024.02.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38382704/

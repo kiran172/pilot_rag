@@ -1,0 +1,10 @@
+PMID: 34491334
+Title: Comparison of left atrial strain measured by feature tracking computed tomography and speckle tracking echocardiography in patients with aortic stenosis.
+
+Abstract: AIMS: Peak left atrial longitudinal strain (PALS) is a marker of the left atrial (LA) reservoir function. Novel feature tracking (FT) software allows assessment of LA strain from multidetector computed tomography (MDCT) data. This study aimed at evaluating the agreement between speckle tracking echocardiography (STE) and FT MDCT for the measurement of PALS in patients with sinus rhythm (SR) and with atrial fibrillation (AF).
+METHODS AND RESULTS: The current study included 318 patients (80 ± 7 years, 54% male) with dynamic MDCT data acquired prior to transcatheter aortic valve implantation. PALS was measured by transthoracic echocardiography using STE (PALSecho) and MDCT using dedicated FT software (PALSCT). In the overall population, the median values of PALSecho and PALSCT were 19.0 [interquartile range (IQR) 12.0-25.0] % and 15.3 (IQR 9.2-19.7) %, respectively. High correlation between PALSecho and PALSCT was observed (r = 0.789, P < 0.001) with a mean bias of -3.7%. The correlation between PALSecho and PALSCT was better among patients with SR (N = 258; r = 0.704, P < 0.001) as compared to patients with AF (N = 60; r = 0.622, P < 0.001).
+CONCLUSION: PALSecho and PALSCT showed a good agreement in patients with severe aortic stenosis (AS) regardless of the cardiac rhythm. FT MDCT may be an important adjuvant modality for assessing LA reservoir function in patients with severe AS.
+
+Citation: Hirasawa K, et al. Comparison of left atrial strain measured by feature tracking computed tomography and speckle tracking echocardiography in patients with aortic stenosis. Comparison of left atrial strain measured by feature tracking computed tomography and speckle tracking echocardiography in patients with aortic stenosis. 2021; 23:95-101. doi: 10.1093/ehjci/jeab166
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34491334/

@@ -1,0 +1,11 @@
+PMID: 36586762
+Title: Subtraction Improves the Accuracy of Coronary CT Angiography in Patients with Severe Calcifications in Identifying Moderate and Severe Stenosis: A Multicenter Study.
+
+Abstract: RATIONALE AND OBJECTIVES: To investigate the diagnostic accuracy of subtraction coronary computed tomographic angiography (CCTA<sub>sub</sub>) in identifying ≥ 50% and ≥ 70% coronary stenosis in patients with different degrees of calcification.
+MATERIALS AND METHODS: In this study, 180 patients with coronary calcified plaques who underwent both coronary CT angiography and invasive coronary angiography (ICA) were prospectively enrolled at five centers. Patients were divided into three groups according to the Agatston score: group A (low to moderate, &lt; 400), group B (high, 400-999), and group C (very high, ≥ 1000). Diagnostic accuracies estimated by area under the receiver operating characteristic curve (AUC) were compared between conventional CCTA (CCTA<sub>con</sub>) and CCTA<sub>sub</sub>, with ICA as a reference standard.
+RESULTS: There were 86 patients in group A, 44 in group B, and 50 in group C. In identifying ≥ 70% coronary stenosis, subtraction improved the diagnostic accuracies on a per-segment basis in group B (AUC: 0.80 vs 0.92, p = 0.001) and group C (AUC: 0.75 vs 0.84, p = 0.001) after subtraction. When identifying ≥ 50% coronary stenosis, the per-segment AUC of CCTA<sub>sub</sub> in group B and C were significantly higher than that in CCTA<sub>con</sub> (group B: 0.81 vs 0.92, p &lt; 0.001; group C: 0.77 vs 0.88, p &lt; 0.001). However, no improvement was observed in group A.
+CONCLUSION: Subtraction achieved better diagnostic accuracy in patients with Agatston score ≥ 400, both in identifying ≥ 50% and ≥ 70% coronary stenosis, which was instructive for the application of subtraction in clinical practice.
+
+Citation: Qiao J, et al. Subtraction Improves the Accuracy of Coronary CT Angiography in Patients with Severe Calcifications in Identifying Moderate and Severe Stenosis: A Multicenter Study. Subtraction Improves the Accuracy of Coronary CT Angiography in Patients with Severe Calcifications in Identifying Moderate and Severe Stenosis: A Multicenter Study. 2023; 30:2801-2810. doi: 10.1016/j.acra.2022.11.033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36586762/

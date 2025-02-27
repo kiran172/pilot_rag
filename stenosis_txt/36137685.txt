@@ -1,0 +1,12 @@
+PMID: 36137685
+Title: Impact of Right Ventricle-Pulmonary Artery Coupling on Clinical Outcomes in the PARTNER 3 Trial.
+
+Abstract: BACKGROUND: Physiologic right ventricle-pulmonary artery (RV-PA) coupling may be impaired in patients with aortic stenosis (AS).
+OBJECTIVES: This study aimed to assess the incidence and prognostic significance of impaired RV-PA coupling in low-risk patients with symptomatic severe AS undergoing transcatheter aortic valve replacement or surgical aortic valve replacement.
+METHODS: RV-PA coupling was measured by transthoracic echocardiography as the ratio of tricuspid annular plane systolic excursion (TAPSE) to pulmonary artery systolic pressure (PASP) in patients in the PARTNER (Placement of Aortic Transcatheter Valve) 3 trial. The primary endpoint was the composite of all-cause mortality, stroke, and rehospitalization at the 2-year follow-up.
+RESULTS: Among 570 low-risk patients included in the analysis, RV-PA uncoupling was defined by a TAPSE/PASP ratio ≤ 0.55 mm/mm Hg. At baseline, 222 of 570 (38.9%) patients had RV-PA uncoupling. At 2 years, patients with baseline RV-PA uncoupling had an increased incidence of the primary endpoint (19.1% vs 9.9%, P = 0.002), all-cause mortality (5.9% vs 0.6%, P < 0.001), cardiovascular mortality (4.1% vs 0.6%, P = 0.003), and rehospitalization (13.5% vs 7.3%, P = 0.018). On multivariable analysis, baseline RV-PA uncoupling remained an independent predictor of the primary endpoint at 2 years (HR: 1.92; 95% CI: 1.04-3.57; P = 0.038).
+CONCLUSIONS: In patients with symptomatic severe AS at low surgical risk undergoing transcatheter aortic valve replacement or surgical aortic valve replacement, baseline RV-PA uncoupling defined by TAPSE/PASP ≤ 0.55 mm Hg was associated with adverse clinical outcomes at 2 years, including all-cause mortality, cardiovascular mortality, and rehospitalization.
+
+Citation: Cahill TJ, et al. Impact of Right Ventricle-Pulmonary Artery Coupling on Clinical Outcomes in the PARTNER 3 Trial. Impact of Right Ventricle-Pulmonary Artery Coupling on Clinical Outcomes in the PARTNER 3 Trial. 2022; 15:1823-1833. doi: 10.1016/j.jcin.2022.07.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36137685/

@@ -1,0 +1,11 @@
+PMID: 33293184
+Title: Personalized 0D models of normal and stenosed carotid arteries.
+
+Abstract: BACKGROUND AND OBJECTIVE: Recent advances in medical imaging like MRI, CT-Scan, Doppler ultrasound, etc. have made it possible to study the hemodynamics of cardiovascular system having different levels of vessel abnormalities.
+METHODS: Within this work, we have developed two different personalized lumped-parameter models of the human carotid arteries having elastic and viscoelastic vessel wall behaviors. The data used in developing the models of the carotid arteries is taken from a healthy subject and a patient having mild carotid stenosis (55%) near a bifurcation using doppler ultrasound. The data consists measurements of blood flow velocities and geometrical parameters at selected locations. Prior to the measurements, the key measurable geometrical parameters are identified by normalized local sensitivity analysis.
+RESULTS: Finally, both developed and personalized models of carotid arteries are validated against the blood flow measurements obtained near carotid bifurcation. We observe a good agreement between model simulations and blood flow measurements taken near the bifurcation i.e. (r=0.94) for the healthy subject and (r=0.96) for the patient having a stenosis near the bifurcation.
+CONCLUSIONS: This work provides further evidence, that the hemodynamics near a bifurcation can be modelled well with a 0D approach, even with different levels of stenosis.
+
+Citation: Khan AS, et al. Personalized 0D models of normal and stenosed carotid arteries. Personalized 0D models of normal and stenosed carotid arteries. 2021; 200:105888. doi: 10.1016/j.cmpb.2020.105888
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33293184/

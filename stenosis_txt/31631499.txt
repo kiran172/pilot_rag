@@ -1,0 +1,11 @@
+PMID: 31631499
+Title: Assessment of intermediate coronary lesions by fractional flow reserve and quantitative flow ratio in patients with small-vessel disease.
+
+Abstract: BACKGROUND: Quantitative flow ratio (QFR) has recently been introduced as a novel, less-invasive, adenosine-free measure for functional coronary lesion assessment. Whether reference vessel dimensions affect functional lesion assessment is uncertain.
+METHODS: A total of 436 patients with 516 interrogated coronary vessels by means of FFR were included in the study. Patients were dichotomized according to the median reference vessel diameter (group 1: ≤2.8 mm and group 2: >2.8 mm). QFR analyses were performed offline at the institution's core laboratories.
+RESULTS: Reference vessel diameter was 2.5 [2.3-2.7] mm in group 1 and 3.3 [3.0-3.6] mm in group 2. Diameter stenosis (41.4 [36.4-47.6] % vs. 41.4 [36.4-45.7] %, p = .20) did not differ among groups. Median FFR values were lower in group 1 (0.87 [0.81-0.92]) as compared with group 2 (0.89 [0.84-0.93], p = .001). Consistently, QFR values were lower in group 1 (0.88 [0.82-0.92]) than in group 2 (0.91 [0.85-0.94], p = .001). The proportions of functionally significant coronary lesions as defined by FFR ≤0.80 were 24.1% and 14.2% in groups 1 and 2 (p = .005), and as defined by cQFR ≤0.80 20.4% and 11.8% (p = 0.009), respectively. In ROC analysis for an FFR ≤.80, the AUC was 0.89 (95% CI 0.85-0.93, p < .001) in group 1 and 0.81 (95% CI 0.76-0.86, p < .001) in group 2.
+CONCLUSIONS: These results suggest that QFR measurements are accurate irrespective of the reference vessel diameter. Future studies are needed to elucidate the higher percentage of functionally significant lesions observed in small vessels despite a similar angiographic lesion severity.
+
+Citation: Erbay A, et al. Assessment of intermediate coronary lesions by fractional flow reserve and quantitative flow ratio in patients with small-vessel disease. Assessment of intermediate coronary lesions by fractional flow reserve and quantitative flow ratio in patients with small-vessel disease. 2020; 96:743-751. doi: 10.1002/ccd.28531
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31631499/

@@ -1,0 +1,12 @@
+PMID: 32928694
+Title: Risk Factors for the Development of Carotid Artery In-Stent Restenosis: Multivariable Analysis.
+
+Abstract: OBJECTIVES: In this study, we evaluated the relationship between certain patient and stent characteristics with regards to their association with the development of restenosis.
+BACKGROUND: Carotid artery stenosis is a major cause of stroke. Carotid artery stenting is an FDA approved method for the treatment of carotid artery stenosis. However, carotid artery stenting has been fraught with lumen loss and in-stent restenosis. The literature is limited in regard to variables affecting long term patency after carotid artery stenting.
+METHODS: This is a retrospective chart review study investigating the variables affecting the long term patency in patients who underwent carotid artery stenting. The data was analyzed using a Multivariable logistic regression models.
+RESULTS: 148 patients were included in the study. 123 patients did not develop signs of restenosis after 1 year, while 25 patients developed restenosis defined on annual follow up carotid duplex ultrasound. The odds ratio of developing restenosis for current/former smokers vs. never smokers was 10.1 (p = 0.018), closed vs. open cell design stents was 12.5 (p = 0.008). The odds ratio of developing restenosis decreases by 50.1% for every 1 mm increase in the diameter (p = 0.021). Data was collected and reanalyzed at 3 years to look for any changes in risk factors that become significant which showed that the chance of developing restenosis increases by 11.2% for every 1 mm increase in the length of the stent.
+CONCLUSIONS: Our data suggest that the risk of developing restenosis is elevated in those with a history of previous/current tobacco use; those treated with closed-cell as opposed to open-cell design. We also found that restenosis is positively associated with stent length and inversely associated with stent diameter. The aforementioned factors should be considered in the management of carotid artery stenosis.
+
+Citation: Megaly M, et al. Risk Factors for the Development of Carotid Artery In-Stent Restenosis: Multivariable Analysis. Risk Factors for the Development of Carotid Artery In-Stent Restenosis: Multivariable Analysis. 2021; 24:65-69. doi: 10.1016/j.carrev.2020.09.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32928694/

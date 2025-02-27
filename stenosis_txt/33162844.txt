@@ -1,0 +1,11 @@
+PMID: 33162844
+Title: Angio-Based Index of Microcirculatory Resistance for the Assessment of the Coronary Resistance: A Proof of Concept Study.
+
+Abstract: BACKGROUND: The study of coronary microcirculation has gained increasing consideration and importance in cath lab. Despite the increase of evidence, its use still remains very limited. QFR is a novel angio-based approach for the evaluation of coronary stenosis. The aim of our study was to use the QFR assessment in stable patients to recreate the IMR formula and to correlate the result of the two techniques.
+METHODS: From June 1, 2019, to February 29, 2019, 200 patients with CCS and indication of coronary artery angiography and referred to the cath lab of the University Hospital of Ferrara (Italy) were enrolled. After baseline coronary angiogram, quantitative flow ratio, fractional flow reserve, and index of microcirculatory resistance evaluation were performed.
+RESULTS: Pearson correlation (r) between angio-based index of microcirculatory resistance (A-IMR) and IMR 0.32 with R 2 = 0.098, P=0.03: McNemar test showed a difference between the two tests of 6.82% with 95% CI from -12.05% to 22.89%, which is not significant (P=0.60). Bland and Altman plot showed a mean difference of 23.3 (from -26.5 to 73.1). Sensitivity, specificity, NPV, and PPV were 70%, 83.3%, 75%, and 70% for A-IMR value &gt;44.2. The area under the ROC curve for A-IMR was 0.76 (95% CI 0.61-0.88, P=0.0003).
+CONCLUSION: We have validated for the first time the formula of the A-IMR, a tool for the calculation of microvascular resistance which does not require the use of pressure guides and the induction of hyperemia.
+
+Citation: Tebaldi M, et al. Angio-Based Index of Microcirculatory Resistance for the Assessment of the Coronary Resistance: A Proof of Concept Study. Angio-Based Index of Microcirculatory Resistance for the Assessment of the Coronary Resistance: A Proof of Concept Study. 2020; 2020:8887369. doi: 10.1155/2020/8887369
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33162844/

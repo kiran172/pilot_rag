@@ -1,0 +1,11 @@
+PMID: 39182065
+Title: Predictors and clinical outcomes of permanent pacemaker implantation after transcatheter aortic valve implantation.
+
+Abstract: OBJECTIVE: This study aimed to identify the incidence, risk factors, and outcomes of permanent pacemaker (PPM) implantation after transcatheter aortic valve implantation (TAVI) procedures.
+METHODS: A retrospective analysis was conducted on 70 patients who underwent TAVI at the Department of Cardiology, Fujian Provincial Hospital, from January 2018 to March 2022. Based on whether a new PPM was implanted after TAVI, all patients were divided into two groups: NEW PPM and NO PPM. Baseline characteristics and clinical data were compared between the two groups. Univariate analysis was used to analyze different variables between the two groups. A binary logistic regression analysis was used to evaluate independent correlates for PPM implantation after TAVI.
+RESULTS: The mean age of the 70 patients was 73.1 ± 8.8 years. The incidence of PPM implantation was 17.1%. Patients with diabetes and chronic kidney disease were more likely to require PPM (50% vs. 20.7%, p = 0.042, 25% vs. 5.2%, p = 0.042). Our study did not identify any significant differences in the incidence of electrocardiographic conduction disturbances except for the previous right bundle branch block (RBBB) (NO PPM 6.9% vs. NEW PPM 33.3%, p < 0.05). We found that prosthesis size, implantation depth, procedural duration, and length of hospital and intensive care unit (ICU) stays were comparable between the two groups. The leading independent predictors of PPM implantation were previous RBBB (odds ratio 10.129, p = 0.034).
+CONCLUSION: The previous RBBB was the leading independent predictor of PPM implantation. New PPM was not associated with significantly new-onset left BBB, extended post-procedure hospitalization, ICU stay, or procedural duration.
+
+Citation: Chen BY, et al. Predictors and clinical outcomes of permanent pacemaker implantation after transcatheter aortic valve implantation. Predictors and clinical outcomes of permanent pacemaker implantation after transcatheter aortic valve implantation. 2024; 24:448. doi: 10.1186/s12872-024-04101-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39182065/

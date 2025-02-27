@@ -1,0 +1,11 @@
+PMID: 37863759
+Title: In-vitro validation of coronary physiology assessment with 5 French guiding catheters.
+
+Abstract: BACKGROUND: The trans-radial approach for cardiac catheterization led to an increasing adoption of 5 French (F) catheters. We aim to evaluate reliability and reproducibility of coronary physiology assessment performed with 5F guiding catheter (GC).
+METHODS: Physiological measurements were performed in a coronary flow simulator, which provides two pulsatile flows, the baseline and hyperaemic flows. Two screws, positioned proximally and distally to the distal sensor of a pressure-temperature guidewire, were used to determine various combinations of stenoses and distal obstructions, simulating different pathophysiological conditions. For each setting, 5 measurements of fractional flow reserve (FFR), coronary flow reserve (CFR) and index of microvascular resistance (IMR) were performed with 6F and 5F GCs.
+RESULTS: A total amount of 190 measurements were performed, 95 with 6F GC and 95 with 5F GC. Minimal differences between 6F and 5F GCs were detected for FFR [0.91 (IQR: 0.87-0.94) and 0.87 (IQR: 0.82-0.92) respectively, p < 0.001] and IMR (16.5 ± 8.8 and 15.4 ± 8.3 respectively, p = 0.001). Mean CFR was comparable between 6F and 5F GCs (3.6 ± 1.1 and 3.5 ± 0.7 respectively, p = 0.38). Misclassification rates were 1.0 %, 1.0 % and 0 % for FFR, CFR and IMR, respectively. According to Passing-Bablok analysis, an excellent agreement between 6F and 5F GCs was demonstrated for FFR and IMR, and a modest agreement for CFR. All measurements with 5F GC showed high reproducibility.
+CONCLUSIONS: In our in-vitro model, a complete physiological assessment including FFR, CFR and IMR resulted substantially comparable between 6F and 5F GCs. Further in-vivo analysis is required to support these findings.
+
+Citation: Benedetti A, et al. In-vitro validation of coronary physiology assessment with 5 French guiding catheters. In-vitro validation of coronary physiology assessment with 5 French guiding catheters. 2024; 60:55-63. doi: 10.1016/j.carrev.2023.10.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37863759/

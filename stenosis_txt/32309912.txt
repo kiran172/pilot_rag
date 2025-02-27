@@ -1,0 +1,11 @@
+PMID: 32309912
+Title: Bioinformatics analysis and verification of gene targets for benign tracheal stenosis.
+
+Abstract: BACKGROUND: Tracheal injury could cause intratracheal scar hyperplasia which in turn causes benign tracheal stenosis (TS). With the increasing use of mechanical ventilation and ventilator, the incidence of TS is increasing. However, the molecular mechanisms of TS have not been elucidated. It is significant to further explore the molecular mechanisms of TS.
+METHODS: The repeatability of public data was verified. Differently expressed genes (DEGs) and most significant genes were identified between TS and normal samples. Enrichment analysis of Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) were analyzed. The comparative toxicogenomics database were analyzed. TS patients were recruited and RT-qPCR were performed to verify the most significant genes.
+RESULTS: There exist strong correlations among samples of TS and normal group. There was a total of 194 DEGs, including 61 downregulated DEGs and 133 upregulated DEGs. GO were significantly enriched in mitotic nuclear division, cell cycle, and cell division. Analysis of KEGG indicated that the top pathways were cell cycle, and p53 pathway. MKI67(OMIM:176741), CCNB1(OMIM:123836), and CCNB2(OMIM:602755) were identified as the most significant genes of TS, and validated by the clinical samples.
+CONCLUSION: Bioinformatics methods might be useful method to explore the mechanisms of TS. In addition, MKI67, CCNB1, and CCNB2 might be the most significant genes of TS.
+
+Citation: Li XZ, et al. Bioinformatics analysis and verification of gene targets for benign tracheal stenosis. Bioinformatics analysis and verification of gene targets for benign tracheal stenosis. 2020; 8:e1245. doi: 10.1002/mgg3.1245
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32309912/

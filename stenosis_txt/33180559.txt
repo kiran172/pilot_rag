@@ -1,0 +1,12 @@
+PMID: 33180559
+Title: Comparison of time-of-flight MR angiography and intracranial vessel wall MRI for luminal measurements relative to CT angiography.
+
+Abstract: OBJECTIVE: To assess whether intracranial vessel wall (IVW) MRI luminal measurements are more accurate than non-contrast 3D-TOF-MRA measurements for intracranial atherosclerotic stenosis, relative to CTA.
+METHODS: Consecutive patients with non-calcified intracranial atherosclerotic stenosis seen on CTA, who had non-contrast 3D-TOF-MRA and IVW performed between 1 January 2013 and 20 April 2014 were selected, and images with stenosis were pre-selected by a single independent rater. The pre-selected CTA, MRA, and IVW (T<sub>1</sub>-weighted) images were then reviewed by two independent raters blinded to the other measurements in random order. Measurements were made in a plane perpendicular to the lumen on each modality. MRA and IVW measurements were compared to CTA, to determine which more accurately matched the degree of stenosis.
+RESULTS: 18 patients with 33 intracranial atherosclerotic stenoses were included. Relative to CTA, IVW had 40% less variance than MRA (p = .004). IVW had a significantly higher concordance correlation coefficient (CCC) relative to CTA than MRA (.87 vs .68, p = .002). IVW and MRA did not have significant bias relative to CTA, however, 8/33 lesions showed &gt;20% overestimation of the degree of stenosis on MRA, compared to 1/33 for IVW. CCC between raters were 0.84 (95% CI 0.67-0.93) for CTA, 0.83 (0.67-0.93) for TOF-MRA, and 0.85 (0.71-0.94) for IVW. For stenosis &gt;50% sensitivity was 82% for IVW and 64% for MRA, while specificity was 73% for both.
+CONCLUSION: IVW provides more accurate stenosis measurements than MRA when compared to CTA.
+ADVANCES IN KNOWLEDGE: Considering higher stenosis measurement accuracy of IVW, it can be more reliably used for quantitative evaluation relative to MRA.
+
+Citation: Sarikaya B, et al. Comparison of time-of-flight MR angiography and intracranial vessel wall MRI for luminal measurements relative to CT angiography. Comparison of time-of-flight MR angiography and intracranial vessel wall MRI for luminal measurements relative to CT angiography. 2021; 94:20200743. doi: 10.1259/bjr.20200743
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33180559/

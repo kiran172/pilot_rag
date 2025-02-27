@@ -1,0 +1,11 @@
+PMID: 36378939
+Title: Minimally invasive versus conventional aortic valve replacement: The network meta-analysis.
+
+Abstract: BACKGROUND: Outcome comparisons after surgical aortic valve replacement (SAVR) with minimally invasive approaches including mini-sternotomy (MS) and right mini-thoracotomy (RMT) and full sternotomy (FS) have been conflicting. Furthermore, the synthesis of mid-term mortality has not been performed.
+METHODS: MEDLINE and EMBASE were searched through April 2022 to identify propensity score matched (PSM) studies or randomized controlled trial (RCT) which compared outcomes following SAVR among three incisional approaches: FS, MS, or RMT. The network analysis was performed to compare these approaches with random effects model. Mid-term mortality was defined as 1-year mortality.
+RESULTS: A total of 42 studies met the inclusion criteria enrolling 14,925 patients. RCT and PSM were performed in 13 and 29 studies, respectively. The operative mortality was significantly lower with MS compared to FS (risk ratio [RR]: 0.60, 95% confidence interval [CI]: 0.41-0.90, p = .01, I2  = 25.8%) or RMT (RR: 0.51, 95% CI: 0.27-0.97, p = .03, I2  = 25.8%). RMT had significantly higher risk of reoperation for bleeding compared to MS (RR: 1.65, 95% CI: 1.18-2.30, p = .003, I2  = 0%). Hospital length of stay was significantly shorter with MS compared to FS (mean difference: -0.89 days, 95% CI: -1.58 to -0.2, p = .01, I2  = 95.5%) while it was equivocal between FS and RMT. The mid-term mortality was similar among the three approaches.
+CONCLUSIONS: While mid-term mortality was comparable among approaches, MS may be a safe and potentially more effective approach than FS and RMT for SAVR in the short term.
+
+Citation: Ogami T, et al. Minimally invasive versus conventional aortic valve replacement: The network meta-analysis. Minimally invasive versus conventional aortic valve replacement: The network meta-analysis. 2022; 37:4868-4874. doi: 10.1111/jocs.17126
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36378939/

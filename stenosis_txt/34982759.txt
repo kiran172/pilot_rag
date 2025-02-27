@@ -1,0 +1,14 @@
+PMID: 34982759
+Title: Postoperative Acute Kidney Injury in Williams Syndrome Compared With Matched Controls.
+
+Abstract: OBJECTIVES: Cardiovascular manifestations occur in over 80% of Williams syndrome (WS) patients and are the leading cause of morbidity and mortality. One-third of patients require cardiovascular surgery. Renal artery stenosis (RAS) is common in WS. No studies have assessed postoperative cardiac surgery-related acute kidney injury (CS-AKI) in WS. Our objectives were to assess if WS patients have higher risk of CS-AKI postoperatively than matched controls and if RAS could contribute to CS-AKI.
+DESIGN: This was a retrospective study of all patients with WS who underwent cardiac surgery at our center from 2010 to 2020. The WS study cohort was compared with a group of controls matched for age, sex, weight, and surgical procedure.
+SETTING: Patients underwent cardiac surgery and postoperative care at Lucile Packard Children's Hospital Stanford.
+PATIENTS: There were 27 WS patients and 43 controls (31% vs 42% female; p = 0.36). Median age was 1.8 years (interquartile range [IQR], 0.7-3.8 yr) for WS and 1.7 years (IQR, 0.8-3.1 yr) for controls.
+INTERVENTIONS: None.
+MEASUREMENTS AND MAIN RESULTS: Postoperative hemodynamics, vasopressor, total volume input, diuretic administration, and urine output were collected in the first 72 hours. Laboratory studies were collected at 8-hour intervals. Multivariable analysis identified predictors of CS-AKI.Controlled for renal perfusion pressure (RPP) and vasoactive inotrope score (VIS), compared with controls, the odds ratio (OR) of CS-AKI in WS was 4.2 (95% CI, 1.1-16; p = 0.034). Higher RPP at postoperative hours 9-16 was associated with decreased OR of CS-AKI (0.88 [0.8-0.96]; p = 0.004). Increased VIS at hour 6 was associated with an increased OR of CS-AKI (1.47 [1.14-1.9]; p = 0.003). Younger age was associated with an increased OR of CS-AKI (1.9 [1.13-3.17]; p = 0.015).
+CONCLUSIONS: The OR of CS-AKI is increased in pediatric patients with WS compared with controls. CS-AKI was associated with VIS at the sixth postoperative hour. Increases in RPP and mean arterial pressure were associated with decreased odds of CS-AKI.
+
+Citation: Yokota R, et al. Postoperative Acute Kidney Injury in Williams Syndrome Compared With Matched Controls. Postoperative Acute Kidney Injury in Williams Syndrome Compared With Matched Controls. 2022; 23:e162-e170. doi: 10.1097/PCC.0000000000002872
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34982759/

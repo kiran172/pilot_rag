@@ -1,0 +1,14 @@
+PMID: 36763843
+Title: Deep Learning Algorithm for Identifying Cervical Cord Compression Due to Degenerative Canal Stenosis on Radiography.
+
+Abstract: STUDY DESIGN: Cross-sectional study.
+OBJECTIVE: Validate the diagnostic accuracy of a deep-learning algorithm for cervical cord compression due to degenerative canal stenosis on radiography.
+SUMMARY OF BACKGROUND DATA: The diagnosis of degenerative cervical myelopathy is often delayed, resulting in improper management. Screening tools for suspected degenerative cervical myelopathy would help identify patients who require detailed physical evaluation.
+MATERIALS AND METHODS: Data from 240 patients (120 with cervical stenosis on magnetic resonance imaging and 120 age and sex-matched controls) were randomly divided into training (n = 198) and test (n = 42) data sets. The deep-learning algorithm, designed to identify the suspected stenosis level on radiography, was constructed using a convolutional neural network model called EfficientNetB2, and radiography and magnetic resonance imaging data from the training data set. The accuracy and area under the curve of the receiver operating characteristic curve were calculated for the independent test data set. Finally, the number of correct diagnoses was compared between the algorithm and 10 physicians using the test cohort.
+RESULTS: The diagnostic accuracy and area under the curve of the deep-learning algorithm were 0.81 and 0.81, respectively, in the independent test data set. The rate of correct responses in the test data set was significantly higher for the algorithm than for the physician's consensus (81.0% vs . 66.2%; P = 0.034). Furthermore, the accuracy of the algorithm was greater than that of each individual physician.
+CONCLUSIONS: We developed a deep-learning algorithm capable of suggesting the presence of cervical spinal cord compression on cervical radiography and highlighting the suspected levels on radiographic imaging when cord compression is identified. The diagnostic accuracy of the algorithm was greater than that of spine physicians.
+LEVEL OF EVIDENCE: Level IV.
+
+Citation: Tamai K, et al. Deep Learning Algorithm for Identifying Cervical Cord Compression Due to Degenerative Canal Stenosis on Radiography. Deep Learning Algorithm for Identifying Cervical Cord Compression Due to Degenerative Canal Stenosis on Radiography. 2023; 48:519-525. doi: 10.1097/BRS.0000000000004595
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36763843/

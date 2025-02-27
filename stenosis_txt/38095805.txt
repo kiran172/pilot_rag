@@ -1,0 +1,9 @@
+PMID: 38095805
+Title: Machine Learning in Invasive and Noninvasive Coronary Angiography.
+
+Abstract: PURPOSE OF REVIEW: The objective of this review is to shed light on the transformative potential of machine learning (ML) in coronary angiography. We aim to understand existing developments in using ML for coronary angiography and discuss broader implications for the future of coronary angiography and cardiovascular medicine.
+RECENT FINDINGS: The developments in invasive and noninvasive imaging have revolutionized diagnosis and treatment of coronary artery disease (CAD). However, CAD remains underdiagnosed and undertreated. ML has emerged as a powerful tool to further improve image analysis, hemodynamic assessment, lesion detection, and predictive modeling. These advancements have enabled more accurate identification of CAD, streamlined workflows, reduced the need for invasive diagnostic procedures, and improved the diagnostic value of invasive procedures when they are needed. Further integration of ML with coronary angiography will advance the prevention, diagnosis, and treatment of CAD. The integration of ML with coronary angiography is ushering in a new era in cardiovascular medicine. We highlight five use cases to leverage ML in coronary angiography: (1) improvement of quality and efficacy, (2) characterization of plaque, (3) hemodynamic assessment, (4) prediction of future outcomes, and (5) diagnosis of non-atherosclerotic coronary disease.
+
+Citation: Unlu O and Fahed AC. Machine Learning in Invasive and Noninvasive Coronary Angiography. Machine Learning in Invasive and Noninvasive Coronary Angiography. 2023; 25:1025-1033. doi: 10.1007/s11883-023-01178-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38095805/

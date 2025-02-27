@@ -1,0 +1,11 @@
+PMID: 31105127
+Title: Clinical Impact of Carotid Plaque Score rather than Carotid Intima-Media Thickness on Recurrence of Atherosclerotic Cardiovascular Disease Events.
+
+Abstract: AIM: Carotid plaque score (cPS) reflecting throughout the carotid artery plaque burden may be a better marker than carotid intima-media thickness (cIMT) is. We aimed to compare the prognostic utility of these measurements in patients with atherosclerotic cardiovascular disease (ASCVD).
+METHODS: We retrospectively examined 2,035 Japanese patients with ASCVD who underwent carotid ultrasonography between January 2008 and December 2015 at Kanazawa University Hospital. Median follow-up period was 4 years. We used Cox models that adjusted for established risk factors of ASCVD, including age, gender, hypertension, diabetes, smoking, and serum lipids to assess the association of cIMT as well as cPS with major adverse cardiac events (MACE). MACE was defined as all-cause mortality or rehospitalization for a cardiovascular-related illness.
+RESULTS: During follow-up, 243 participants experienced MACE. After adjustment for established risk factors, cPS was associated with MACE (hazard ratio [HR]=3.38 for top quintile vs. bottom quintile of cPS; 95% confidence interval [CI] 1.82-6.27; P trend ＜0.001), while cIMT was not (HR=0.88, P=0.57). Addition of the cPS to established risk factors significantly improved risk discrimination (C-index 0.726 vs. 0.746; P=0.017).
+CONCLUSION: These results suggest that cPS, rather than cIMT may be a better marker to identify increased risk for recurrence of MACE among patients with secondary prevention setting.
+
+Citation: Tada H, et al. Clinical Impact of Carotid Plaque Score rather than Carotid Intima-Media Thickness on Recurrence of Atherosclerotic Cardiovascular Disease Events. Clinical Impact of Carotid Plaque Score rather than Carotid Intima-Media Thickness on Recurrence of Atherosclerotic Cardiovascular Disease Events. 2020; 27:38-46. doi: 10.5551/jat.49551
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31105127/

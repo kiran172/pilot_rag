@@ -1,0 +1,11 @@
+PMID: 31806362
+Title: DW-MRI predictive factors for radiation-induced vaginal stenosis in patients with cervical cancer.
+
+Abstract: AIM: To find diffusion-weighted (DW) magnetic resonance imaging (MRI) parameters predictive for radiation-induced vaginal stenosis (VS) in locally advanced cervical cancer (LACC) treated with neoadjuvant chemoradiation therapy (CRT).
+MATERIALS AND METHODS: Retrospective analysis of 43 patients with LACC who underwent 1.5 T DW-MRI before (baseline), after 2 weeks (early), and at the end of CRT (final). At MRI, vaginal length, thickness, width, and cervical tumour volume (TV) were measured. Vaginal signal intensity at DW-MRI was analysed at final MRI. CRT-induced VS was graded using Common Terminology Criteria for Adverse Events (CTCAE) v4.03. Correlations between DW-MRI and clinical data were made using Wilcoxon's test, Mann-Whitney test, Fisher's exact test, or chi-squared test as appropriate. Receiver operating characteristic (ROC) curves were generated for variables to evaluate diagnostic ability to predict CRT-induced VS using a logistic regression model.
+RESULTS: Asymptomatic vaginal toxicity (CTCAE Grade 1) was observed in 14 patients and symptomatic CRT-induced VS (CTCAE Grade ≥2) was detected in 29 patients. Baseline TV was higher in Grade 1 than in Grade ≥2 (p=0.013). Median vaginal length, thickness, and width decreased between baseline and final MRI in all patients (p&lt;0.0001) without significant variances between CTCAE grades. Significant differences were observed in DW-MRI patterns (p&lt;0.0001). In Grade ≥2, DWI showed signal loss of vaginal mucosa in 17 patients (63%) and diffuse restricted diffusion of vaginal wall in eight patients (30%). AUC was 0.938 (coefficient=4.72; p&lt;0.001) for DWI and 0.712 (coefficient=-2.623×10 -5; p=0.004) for TV.
+CONCLUSIONS: This is the first study using DW-MRI for predicting CRT-induced VS. DWI is useful tool in patients with LACC after CRT for early prevention and management strategies for VS.
+
+Citation: Miccò M, et al. DW-MRI predictive factors for radiation-induced vaginal stenosis in patients with cervical cancer. DW-MRI predictive factors for radiation-induced vaginal stenosis in patients with cervical cancer. 2020; 75:216-223. doi: 10.1016/j.crad.2019.10.021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31806362/

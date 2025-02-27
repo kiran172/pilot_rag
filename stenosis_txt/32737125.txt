@@ -1,0 +1,11 @@
+PMID: 32737125
+Title: Sudden cardiac death in asymptomatic patients with aortic stenosis.
+
+Abstract: OBJECTIVE: We retrospectively analysed outcome data from the Simvastatin and Ezetimibe in Aortic Stenosis (SEAS) study to assess the incidence and potential risk factors of sudden cardiac death (SCD) in this prospectively followed cohort of asymptomatic patients with aortic stenosis (AS).
+METHODS: Of the 1873 patients included in SEAS, 1849 (99%) with mild to moderate AS (jet velocity 2.5-4.0 m/s at baseline) and available clinical, echocardiographic and follow-up data were analysed. Patients undergoing aortic valve replacement were censored at the time of operation.
+RESULTS: During an overall follow-up of 46.1±14.6 months, SCD occurred in 27 asymptomatic patients (1.5%) after a mean of 28.3±16.6 months. The annualised event rate was 0.39%/year. The last follow-up echocardiography prior to the event showed mild to moderate stenosis in 22 and severe stenosis (jet velocity &gt;4 m/s) in 5 victims of SCD. The annualised event rate after the diagnosis of severe stenosis was 0.60%/year compared with 0.46%/year in patients who did not progress to severe stenosis (p=0.79). Patients with SCD were older (p=0.01), had a higher left ventricular mass index (LVMI, p=0.001) and had a lower body mass index (BMI, p=0.02) compared with patients surviving follow-up. Cox regression analysis identified age (HR 1.06, 95% CI 1.01 to 1.11 per year, p=0.02), increased LVMI (HR 1.20, 95% CI 1.10 to 1.32 per 10 g/m2, p&lt;0.001) and lower BMI (HR 0.87, 95% CI 0.79 to 0.97 per kg/m2, p=0.01) as independent risk factors of SCD.
+CONCLUSION: SCD in patients with asymptomatic mild to moderate AS is rare and strongly related to left ventricular hypertrophy but not stenosis severity.
+
+Citation: Minners J, et al. Sudden cardiac death in asymptomatic patients with aortic stenosis. Sudden cardiac death in asymptomatic patients with aortic stenosis. 2020; 106:1646-1650. doi: 10.1136/heartjnl-2019-316493
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32737125/

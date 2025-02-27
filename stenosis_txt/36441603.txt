@@ -1,0 +1,11 @@
+PMID: 36441603
+Title: Impact of magnetic resonance angiography parameters on stroke prevention therapy in pediatric patients with sickle cell anemia.
+
+Abstract: BACKGROUND: Degree of cerebrovascular stenosis in pediatric patients with sickle cell anemia (SCA) informs need for chronic transfusion therapy, which has significant risks. Flow artifact, intrinsic to magnetic resonance angiography (MRA), is dependent on technical parameters and can lead to overinterpretation of stenosis. The primary objective of this study was to document any change in stroke prevention therapy that could be attributed to the implementation of a standardized MRA scanning protocol for patients with SCA.
+METHODS: A standardized MRA scanning protocol with an echo time of less than 5 ms was implemented at Montefiore Medical Center (MMC), NY in May 2016. Retrospective chart review identified 21 pediatric patients with SCA, with an MRA head both pre- and post-May 2016. Arterial stenosis on MRA, machine parameters, and treatment plans were compared pre- and post-implementation.
+RESULTS: Ten of the 21 patients met inclusion criteria. Previously seen stenosis was re-classified to a lower degree in six of the 10 patients, leading to discontinuation of transfusions in five patients. No patients required escalation of therapy to chronic transfusions.
+CONCLUSION: Optimizing flow artifact by decreasing echo time to less than 5 ms can improve accurate interpretation of cerebrovascular disease, and ensure appropriate treatment plans are in place for stroke prevention. This is especially important for implementing "TCD With Transfusions Changing to Hydroxyurea (TWiTCH)" clinical trial results in the real-world setting.
+
+Citation: Strumph K, et al. Impact of magnetic resonance angiography parameters on stroke prevention therapy in pediatric patients with sickle cell anemia. Impact of magnetic resonance angiography parameters on stroke prevention therapy in pediatric patients with sickle cell anemia. 2023; 70:e30109. doi: 10.1002/pbc.30109
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36441603/

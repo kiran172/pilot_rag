@@ -1,0 +1,11 @@
+PMID: 35738652
+Title: Diagnostic accuracy of CCTA-derived versus angiography-derived quantitative flow ratio (CAREER) study: a prospective study protocol.
+
+Abstract: INTRODUCTION: Coronary CT angiography (CCTA)-derived quantitative flow ratio (CT-QFR) is a novel non-invasive technology to assess the physiological significance of coronary stenoses, which enables fast and on-site computation of fractional flow reserve (FFR) from CCTA images. The objective of this investigator-initiated, prospective, single-centre clinical trial is to evaluate the diagnostic performance of CT-QFR with respect to angiography-derived QFR, using FFR as the reference standard.
+METHODS AND ANALYSIS: A total of 216 patients who have at least one lesion with a diameter stenosis of 30%-90% in an artery with ≥2.0 mm reference diameter will be enrolled in the study. FFR will be measured during invasive coronary angiography. CT-QFR and QFR will be assessed in two independent core laboratories in a blinded fashion. The primary endpoint is the diagnostic accuracy of CT-QFR in identifying haemodynamically significant coronary stenosis with FFR as the reference standard. The major secondary endpoint is the non-inferiority of CT-QFR compared with QFR in the patients without extensively calcified lesions.
+ETHICS AND DISSEMINATION: The study was approved by the Ethics Committee of Huadong Hospital Affiliated to Fudan University (2020K192). Outcomes will be disseminated through publications in peer-reviewed journals and presentations at scientific conferences.
+TRIAL REGISTRATION NUMBER: NCT04665817.
+
+Citation: Weng T, et al. Diagnostic accuracy of CCTA-derived versus angiography-derived quantitative flow ratio (CAREER) study: a prospective study protocol. Diagnostic accuracy of CCTA-derived versus angiography-derived quantitative flow ratio (CAREER) study: a prospective study protocol. 2022; 12:e055481. doi: 10.1136/bmjopen-2021-055481
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35738652/

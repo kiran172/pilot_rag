@@ -1,0 +1,12 @@
+PMID: 34476303
+Title: Association between radicular low back pain and constipation: a retrospective cohort study using a real-world national database.
+
+Abstract: INTRODUCTION: Previous observational studies have reported an association between lumbosacral radiculopathy (LSR), a form of low back pain (LBP) with nerve root involvement, and constipation. However, it is unclear whether this association is due to confounding variables such as comorbidities and medications.
+OBJECTIVES: This study explores the possible association between LSR and constipation, with the hypothesis that adults with LSR have increased odds of developing constipation compared with those with nonradicular LBP.
+METHODS: Adults aged 18 to 49 years with incident LSR and nonradicular LBP were identified from a national 70 million patient electronic health records network (TriNetX). Propensity score matching (PSM) was used to control for covariates and determine the odds ratio (OR) of constipation over a 1-year follow-up. Lumbar stenosis, cauda equina syndrome, and inflammatory bowel diseases were excluded.
+RESULTS: After PSM, 503,062 patients were in each cohort. Before PSM, the likelihood of constipation was identical between cohorts (LSR 10.8% vs 10.9%; OR [confidence interval] = 0.99 [0.98-1.0], P = 0.251). This association was unchanged after PSM (LSR 10.8% vs 11.1%; OR [confidence interval] = 0.98 [0.97-0.99]; P = 0.003).
+CONCLUSIONS: The study hypothesis can be refuted given that the OR approximated the null in a large propensity-matched sample. Patients with LSR have equivalent odds of constipation compared with those with nonradicular LBP, suggesting that LSR is not a direct cause of constipation. The similar risk of constipation between cohorts could be explained by factors common to LBP in general, such as pain severity, physical inactivity, and constipating medications.
+
+Citation: Trager RJ, et al. Association between radicular low back pain and constipation: a retrospective cohort study using a real-world national database. Association between radicular low back pain and constipation: a retrospective cohort study using a real-world national database. 2021; 6:e954. doi: 10.1097/PR9.0000000000000954
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34476303/

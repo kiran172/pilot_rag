@@ -1,0 +1,11 @@
+PMID: 34391999
+Title: Precise laminae segmentation based on neural network for robot-assisted decompressive laminectomy.
+
+Abstract: BACKGROUND AND OBJECTIVE: The decompressive laminectomy is one of the most common operations to treat lumbar spinal stenosis by removing the laminae above the spinal nerve. Recently, an increasing number of robots are deployed during the surgical process to reduce the burden on surgeons and to reduce complications. However, for the robot-assisted decompressive laminectomy, an accurate 3D model of laminae from a CT image is highly desired. The purpose of this paper is to precisely segment the laminae with fewer calculations.
+METHODS: We propose a two-stage neural network SegRe-Net. In the first stage, the entire intraoperative CT image is inputted to acquire the coarse segmentation of vertebrae with low resolution and the probability map of the laminar centers. The second stage is trained to refine the segmentation of laminae.
+RESULTS: Three public available datasets were used to train and validate the models. The experimental results demonstrated the effectiveness of the proposed network on laminar segmentation with an average Dice coefficient of 96.38% and an average symmetric surface distance of 0.097 mm.
+CONCLUSION: The proposed two-stage network can achieve better results than those baseline models in the laminae segmentation task with less calculation amount and learnable parameters. Our methods improve the accuracy of laminar models and reduce the image processing time. It can be used to provide a more precise planning trajectory and may promote the clinical application for the robot-assisted decompression laminectomy surgery.
+
+Citation: Li Q, et al. Precise laminae segmentation based on neural network for robot-assisted decompressive laminectomy. Precise laminae segmentation based on neural network for robot-assisted decompressive laminectomy. 2021; 209:106333. doi: 10.1016/j.cmpb.2021.106333
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34391999/

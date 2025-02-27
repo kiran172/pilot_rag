@@ -1,0 +1,8 @@
+PMID: 38493264
+Title: Mathematical formulation and computation of the dynamics of blood flow, heat and mass transfer during MRI scanning.
+
+Abstract: Computational modeling of arterial blood flow, heat and mass transfer during MRI scanning is studied. The flow is assumed to be unsteady, in-compressible, and asymmetric. Mathematical formulation considers the presence of stenosis, joule heating viscous dissipation and chemical reaction. The explicit finite difference scheme is used to numerically solve the model equations. The MATLAB software was used to plot the graphical results. The study reveals that, during MRI scanning, both radial and axial velocities diminish with increase in the strength of magnetic fields. Besides, the study found that, Eckert number and Hartman number enhance the blood's temperature and the same, diminishes with increase in Prandtl and Reynolds numbers. Concentration profile is observed to decline with increase in chemical reaction parameter, Schmidt number and Reynolds number. Soret number on the other hand, is observed to positively influence the concentration.
+
+Citation: Mwapinga A. Mathematical formulation and computation of the dynamics of blood flow, heat and mass transfer during MRI scanning. Mathematical formulation and computation of the dynamics of blood flow, heat and mass transfer during MRI scanning. 2024; 14:6364. doi: 10.1038/s41598-024-56844-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38493264/

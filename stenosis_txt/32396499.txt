@@ -1,0 +1,11 @@
+PMID: 32396499
+Title: Value of prognostic nutritional index for survival prediction in trans-catheter aortic valve replacement compared to other common nutritional indexes.
+
+Abstract: BACKGROUND: Nutritional status predicts outcomes after TAVR. Predictive value of Prognostic Nutritional Index (PNI) was investigated in patients undergoing TAVR, and compared to other nutritional indexes.
+METHODS: A cohort of 114 patients undergoing TAVR in a high-volume centre was studied. A prospective 1-year follow-up was completed. PNI was estimated as follows: (10 × serum albumin[g/dl])+(0.005 × total lymphocytes [1000/μl]). One-year survival was compared in patients with PNI above vs below median; Kaplan-Meier curves were created. A multivariate analysis was used to assess predictive value of PNI for 1-year mortality. ROC curves were used to assess discrimination by PNI, and to compare it with Geriatric Nutritional Risk Index (GNRI) and Body Mass Index (BMI).
+RESULTS: Mean age was 82.2 years, 59.6% were male. Mean PNI was 46 ± 5. Pre-procedurally, no differences were found between patients with high vs. low PNI. One-year mortality was significantly higher in patients with low PNI values (19/57 vs. 4/57; p &lt; .001). Complications did not differ. A higher PNI predicted 1-year survival, even after adjusting for clinical factors (model 1: HR 0.8, 95% CI 0.7-0.9, p &lt; .0001) and laboratory parameters (NT-proBNP, IL-6, CRP, eGFR, cystatin C, haemoglobin) (model 2: HR 0.8, 95% CI 0.7-0.9, p &lt; .05). ROC curves revealed a stronger predictive value for PNI (AUC 0.80) compared to GNRI (0.77) and BMI (0.6). The optimal cut-off for PNI was 45.
+CONCLUSION: PNI is a useful and practical nutritional marker reflecting malnutrition and inflammation prior to the intervention, and strongly predicts 1-year survival. PNI seems to be a better prognostic marker than BMI or GNRI after TAVR.
+
+Citation: Mas-Peiro S, et al. Value of prognostic nutritional index for survival prediction in trans-catheter aortic valve replacement compared to other common nutritional indexes. Value of prognostic nutritional index for survival prediction in trans-catheter aortic valve replacement compared to other common nutritional indexes. 2021; 76:615-622. doi: 10.1080/00015385.2020.1757854
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32396499/

@@ -1,0 +1,11 @@
+PMID: 32037394
+Title: The Cardiac Genome Clinic: implementing genome sequencing in pediatric heart disease.
+
+Abstract: PURPOSE: This study investigated the diagnostic utility of nontargeted genomic testing in patients with pediatric heart disease.
+METHODS: We analyzed genome sequencing data of 111 families with cardiac lesions for rare, disease-associated variation.
+RESULTS: In 14 families (12.6%), we identified causative variants: seven were de novo (ANKRD11, KMT2D, NR2F2, POGZ, PTPN11, PURA, SALL1) and six were inherited from parents with no or subclinical heart phenotypes (FLT4, DNAH9, MYH11, NEXMIF, NIPBL, PTPN11). Outcome of the testing was associated with the presence of extracardiac features (p = 0.02), but not a positive family history for cardiac lesions (p = 0.67). We also report novel plausible gene-disease associations for tetralogy of Fallot/pulmonary stenosis (CDC42BPA, FGD5), hypoplastic left or right heart (SMARCC1, TLN2, TRPM4, VASP), congenitally corrected transposition of the great arteries (UBXN10), and early-onset cardiomyopathy (TPCN1). The identified candidate genes have critical functions in heart development, such as angiogenesis, mechanotransduction, regulation of heart size, chromatin remodeling, or ciliogenesis.
+CONCLUSION: This data set demonstrates the diagnostic and scientific value of genome sequencing in pediatric heart disease, anticipating its role as a first-tier diagnostic test. The genetic heterogeneity will necessitate large-scale genomic initiatives for delineating novel gene-disease associations.
+
+Citation: Reuter MS, et al. The Cardiac Genome Clinic: implementing genome sequencing in pediatric heart disease. The Cardiac Genome Clinic: implementing genome sequencing in pediatric heart disease. 2020; 22:1015-1024. doi: 10.1038/s41436-020-0757-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32037394/

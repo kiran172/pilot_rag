@@ -1,0 +1,11 @@
+PMID: 37275588
+Title: Validation of a Three-Dimensional Computed Tomography Reconstruction Tool for Aortic Valve Calcium Quantification.
+
+Abstract: BACKGROUND: Aortic valve calcification correlates with the severity of aortic valve stenosis and a high calcium score is associated with conduction disturbances and paravalvular leakage after transcatheter aortic valve replacement. The 3mensio Structural Heart is a semiautomated software package to facilitate aortic root analysis by multislice computed tomography.The aim of the contemporary study is to validate a semiautomated calcium quantification scoring tool with a conventional manual calcium quantification tool.
+METHODS: Fifty randomly selected patients who underwent multislice computed tomography for preprocedural planning were retrospectively selected to compare the semiautomated aortic valve Agatston calcium score by 3mensio with the manually obtained score using IntelliSpace Portal as standard reference.
+RESULTS: Patients had a mean age of 76.7 ± 7.4 years and 60% were male. The median Agatston score was 3390 [interquartile range 1877-4509] with 3mensio and 3434 [interquartile range 1839-4620] with IntelliSpace.The mean difference was -0.18 [95% confidence interval (CI) -53.8 to 53.4]. The intraclass correlation coefficient between the Agatston scores using IntelliSpace and 3mensio showed an excellent correlation of 0.995 [95% CI 0.992-0.997], p ≤ 0.001. The interobserver and intraobserver variability was 0.993 ([95% CI 0.961-0.998], p ≤ 0.001) and 0.995([95%CI 0.981-0.999], p = &lt;0.001), respectively.
+CONCLUSIONS: The semiautomated calcium quantification module in 3mensio Structural Heart highly correlated with a conventional manual calcium scoring tool.
+
+Citation: Hokken TW, et al. Validation of a Three-Dimensional Computed Tomography Reconstruction Tool for Aortic Valve Calcium Quantification. Validation of a Three-Dimensional Computed Tomography Reconstruction Tool for Aortic Valve Calcium Quantification. 2023; 7:100122. doi: 10.1016/j.shj.2022.100122
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37275588/

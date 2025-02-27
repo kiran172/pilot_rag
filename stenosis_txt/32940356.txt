@@ -1,0 +1,11 @@
+PMID: 32940356
+Title: Updated size index valid for both neurogenic and myogenic changes.
+
+Abstract: BACKGROUND: Size index (SI) is a motor unit potential (MUP) parameter in concentric needle electromyography calculated from amplitude and area/amplitude, which can sensitively discriminate between control and neurogenic MUPs. In this study, we investigated the application of SI to myogenic MUPs based on expanded data.
+METHODS: MUPs were collected from the biceps brachii (BB) and tibialis anterior (TA) muscles. Muscles showing unequivocal neurogenic or myogenic changes by visual inspection were selected for patients. In addition to the original SI, a revised SI (rSI) was defined using the logarithmic scale for area/amplitude. The coefficient for area/amplitude was varied and that achieving the best sensitivity both for BB and TA was selected.
+RESULTS: Analyzed were 1619, 340, and 498 MUPs from the BB of 26, 10, and 14 subjects (control, neurogenic, and myogenic), respectively, and 1245, 536, and 473 MUPs from the TA of 23, 18, and 13 subjects (control, neurogenic, and myogenic), respectively. For neurogenic MUPs, the original SI and the newly defined rSIn were similarly sensitive (82.1% and 81.8% sensitivity for SI and rSIn, respectively, for BB, and 68.1% and 69.6% for TA), and were more sensitive than area (72.6% for BB and 57.6% for TA), the most sensitive parameter among conventional ones. For myogenic MUPs, the sensitivity of rSIm was 9.0% for BB and 24.5% for TA, which was not significantly different from duration (7.4% for BB and 21.8% for TA), the most sensitive parameter among conventional ones.
+CONCLUSIONS: SI, rSIn, and rSIm are promising as new MUP parameters.
+
+Citation: Sonoo M, et al. Updated size index valid for both neurogenic and myogenic changes. Updated size index valid for both neurogenic and myogenic changes. 2020; 62:735-741. doi: 10.1002/mus.27072
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32940356/

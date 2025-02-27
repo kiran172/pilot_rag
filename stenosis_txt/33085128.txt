@@ -1,0 +1,11 @@
+PMID: 33085128
+Title: Performance of the heart team approach in daily clinical practice in high-risk patients with aortic stenosis.
+
+Abstract: OBJECTIVE: The heart team (HT) approach plays a key role in selecting the optimal treatment strategy for patients with aortic stenosis (AS). However, little is known about the HT decision process and its impact on outcomes. The aim of this study was to identify the factors associated with the HT decision and evaluate clinical outcomes according to the treatment choice.
+METHODS: The study included a total of 286 consecutive patients with AS referred for discussion in the weekly HT meeting in a cardiovascular institute over 2 years. Patients were stratified according to the selected therapeutic approach: medical treatment (MT), surgical (SAVR), or transcatheter (TAVR) aortic valve replacement. Baseline characteristics involved in making a therapeutic choice were identified and a decision-making tree was built using classification and regression tree methodology.
+RESULTS: Based on HT discussion, 53 patients were assigned to SAVR, 210 to TAVR, and 23 to MT. Older patients (≥88 years old) were mainly assigned to TAVR or MT according to the logistic EuroSCORE (<or≥28, respectively). While among younger patients (<88 years), significant mitral regurgitation (≥grade III), frailty, Society of Thoracic Surgeons score, and estimated glomerular filtration rate were the most relevant factors influencing treatment allocation. One-year all-cause mortality was 16.6% in the invasive groups (TAVR = 17.2%, SAVR = 14.0%) and 68.7% in the MT arm.
+CONCLUSION: The HT decision was determined by well-recognized risk factors that were used to define a treatment decision algorithm. Future studies with younger and lower-risk patients may identify new contributory factors that may alter the selection process and treatment choice.
+
+Citation: Tirado-Conte G, et al. Performance of the heart team approach in daily clinical practice in high-risk patients with aortic stenosis. Performance of the heart team approach in daily clinical practice in high-risk patients with aortic stenosis. 2021; 36:31-39. doi: 10.1111/jocs.15116
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33085128/

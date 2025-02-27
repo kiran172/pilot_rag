@@ -1,0 +1,10 @@
+PMID: 31746761
+Title: Fractional flow reserve-guided PCI in patients with and without left ventricular hypertrophy: a DANAMI-3-PRIMULTI substudy.
+
+Abstract: AIMS: The aim of this substudy was to investigate the correlation between fractional flow reserve (FFR) and diameter stenosis in patients with STEMI with and without left ventricular hypertrophy (LVH), and the influence of LVH on complete FFR-guided revascularisation versus culprit only, in terms of risk of clinical outcome.
+METHODS AND RESULTS: In this DANAMI-3-PRIMULTI substudy, 279 patients with STEMI had cardiac magnetic resonance (CMR) imaging for assessment of left ventricular mass index. Ninety-six patients had FFR evaluation of a non-culprit lesion. Diameter stenosis of the non-culprit lesion was determined with two-dimensional quantitative coronary analysis. The diameter stenosis (56.9% vs 54.3%, p=0.38) and FFR value (0.83 vs 0.85, p=0.34) were significantly correlated in both groups (Spearman's ρ=-0.40 and -0.41 without LVH and with LVH, respectively; p<0.001) but were not different between patients without and with LVH (p for interaction=0.87). FFR-guided complete revascularisation was associated with reduced risk of death, myocardial infarction or ischaemia-driven revascularisation both for patients without LVH (HR 0.42, 95% CI: 0.20-0.85) and for patients with LVH (HR 0.50, 95% CI: 0.17-1.47), with no interaction between the FFR-guided complete revascularisation and LVH (p for interaction=0.82).
+CONCLUSIONS: LVH did not interact with the correlation between diameter stenosis and FFR and did not modify the impact of complete revascularisation on the occurrence of subsequent clinical events.
+
+Citation: Sabbah M, et al. Fractional flow reserve-guided PCI in patients with and without left ventricular hypertrophy: a DANAMI-3-PRIMULTI substudy. Fractional flow reserve-guided PCI in patients with and without left ventricular hypertrophy: a DANAMI-3-PRIMULTI substudy. 2020; 16:584-590. doi: 10.4244/EIJ-D-19-00577
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31746761/

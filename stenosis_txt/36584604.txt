@@ -1,0 +1,11 @@
+PMID: 36584604
+Title: A token-mixer architecture for CAD-RADS classification of coronary stenosis on multiplanar reconstruction CT images.
+
+Abstract: BACKGROUND AND OBJECTIVE: In patients with suspected Coronary Artery Disease (CAD), the severity of stenosis needs to be assessed for precise clinical management. An automatic deep learning-based algorithm to classify coronary stenosis lesions according to the Coronary Artery Disease Reporting and Data System (CAD-RADS) in multiplanar reconstruction images acquired with Coronary Computed Tomography Angiography (CCTA) is proposed.
+METHODS: In this retrospective study, 288 patients with suspected CAD who underwent CCTA scans were included. To model long-range semantic information, which is needed to identify and classify stenosis with challenging appearance, we adopted a token-mixer architecture (ConvMixer), which can learn structural relationship over the whole coronary artery. ConvMixer consists of a patch embedding layer followed by repeated convolutional blocks to enable the algorithm to learn long-range dependences between pixels. To visually assess ConvMixer performance, Gradient-Weighted Class Activation Mapping (Grad-CAM) analysis was used.
+RESULTS: Experimental results using 5-fold cross-validation showed that our ConvMixer can classify significant coronary artery stenosis (i.e., stenosis with luminal narrowing ≥50%) with accuracy and sensitivity of 87% and 90%, respectively. For CAD-RADS 0 vs. 1-2 vs. 3-4 vs. 5 classification, ConvMixer achieved accuracy and sensitivity of 72% and 75%, respectively. Additional experiments showed that ConvMixer achieved a better trade-off between performance and complexity compared to pyramid-shaped convolutional neural networks.
+CONCLUSIONS: Our algorithm might provide clinicians with decision support, potentially reducing the interobserver variability for coronary artery stenosis evaluation.
+
+Citation: Penso M, et al. A token-mixer architecture for CAD-RADS classification of coronary stenosis on multiplanar reconstruction CT images. A token-mixer architecture for CAD-RADS classification of coronary stenosis on multiplanar reconstruction CT images. 2023; 153:106484. doi: 10.1016/j.compbiomed.2022.106484
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36584604/

@@ -1,0 +1,12 @@
+PMID: 33221243
+Title: Heterogenous Distribution of Risk for Cardiovascular Disease Events in Patients With Stable Ischemic Heart Disease.
+
+Abstract: OBJECTIVES: The authors sought to assess the distribution of 5-year risk of cardiovascular disease (CVD) events (myocardial infarction, revascularizations, ischemic stroke) and death among symptomatic patients with varying degrees of coronary artery disease (CAD) ascertained from computed tomography angiography (CTA).
+BACKGROUND: CTA is used increasingly as the first-line test for evaluating patients with symptoms suggestive of CAD. This creates the daily clinical challenge of best using the information available from CTA to guide appropriate downstream allocation of preventive treatments.
+METHODS: Among 21,275 patients from the Western Denmark Heart Registry, the authors developed a model predicting 5-year risk for CVD and death based on traditional risk factors and CAD severity. Only events occurring >90 days after CTA were included.
+RESULTS: During a median follow-up of 4.2 years, 1,295 CVD events and deaths occurred. The median 5-year risk for events was 4% (interquartile range: 3% to 8%), and ranged from <5% to >50% in individual patients. The degree of CAD severity was the strongest risk factor; however, traditional risk factors also contributed significantly to risk. Thus, risk distributions in patients with varying degree of CAD overlapped considerably, and patients with extensive nonobstructive CAD could have higher estimated risk than patients with obstructive CAD (stenosis >50%). Among patients with obstructive CAD, 12% had 5-year risk <10% whereas 24% had risk >20%. A similar large overlap in risk was found when revascularizations were excluded from the endpoint.
+CONCLUSIONS: The 5-year risk for CVD events and death varies substantially in symptomatic patients undergoing CTA, even in the presence of obstructive CAD. These results provide support for individual risk assessment to improve potential benefit when allocating preventive therapies following CTA.
+
+Citation: Mortensen MB, et al. Heterogenous Distribution of Risk for Cardiovascular Disease Events in Patients With Stable Ischemic Heart Disease. Heterogenous Distribution of Risk for Cardiovascular Disease Events in Patients With Stable Ischemic Heart Disease. 2021; 14:442-450. doi: 10.1016/j.jcmg.2020.08.039
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33221243/

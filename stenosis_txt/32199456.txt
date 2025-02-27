@@ -1,0 +1,11 @@
+PMID: 32199456
+Title: Influence of microcirculation load on FFR in coronary artery stenosis model.
+
+Abstract: BACKGROUND: The coronary artery hemodynamics are impacted by both the macrocirculation and microcirculation. Whether microcirculation load impact the functional assessment of a coronary artery stenosis is unknown. The purpose of this study is to investigate the effect of porous media of the microcirculation on fractional flow reserve (FFR) in stenotic coronary artery model.
+METHODS: A three dimensional computational simulation of blood flow in coronary artery symmetric stenotic model was constructed. The computational fluid dynamics (CFD) model was developed with Fluent 16.0. Blood was modeled as a shear thinning, non-Newtonian fluid with the Carreau model. A seepage outlet boundary condition and transient inlet conditions were imposed on the model. Coronary physiologica diagnostic parameter such as pressure, velocity and fractional flow reserve (FFR) were investigated in the model and compared with the microcirculation load (ML) and constant pressure load (PL) condition.
+RESULTS: The present study showed the different hemodynamics in the ML and PL condition. The pre-stenotic pressure is almost the same in the two model. However the pressure in the post-stenotic artery domain is much lower in the PL model. The fluctuation range of the pressures is much higher in ML model than those in PL model. The velocity flow was more steady and lower in the ML model. For the PL model with 75% artery stenosis the FFR was 0.776, while for the ML model with the same stenosis, the FFR was 0.813.
+CONCLUSIONS: This study provides evidence that FFR increased in the presentation of ML condition. There is a strong hemodynamic effect of microcirculation on coronary artery stenosis.
+
+Citation: Xu H, et al. Influence of microcirculation load on FFR in coronary artery stenosis model. Influence of microcirculation load on FFR in coronary artery stenosis model. 2020; 20:144. doi: 10.1186/s12872-020-01437-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32199456/

@@ -1,0 +1,12 @@
+PMID: 39082574
+Title: Learning Curve for In-Hospital Mortality of Transcatheter Aortic Valve Replacement: Insights from the Brazilian National Registry.
+
+Abstract: BACKGROUND: Robust data on the learning curve (LC) of transcatheter aortic valve replacement (TAVR) are lacking in developing countries.
+OBJECTIVE: To assess TAVR's LC in Brazil over time.
+METHODS: We analyzed data from the Brazilian TAVR registry from 2008 to 2023. Patients from each center were numbered chronologically in case sequence numbers (CSNs). LC was performed using restricted cubic splines adjusted for EuroSCORE-II and the use of new-generation prostheses. Also, in-hospital outcomes were compared between groups defined according to the level of experience based on the CSN: 1st to 40th (initial-experience), 41st to 80th (early-experience), 81st to 120th (intermediate-experience), and over 121st (high-experience). Additional analysis was performed grouping hospitals according to the number of cases treated before 2014 (>40 and ≤40 procedures). The level of significance adopted was <0.05.
+RESULTS: A total of 3,194 patients from 25 centers were included. Mean age and EuroSCORE II were 80.7±8.1 years and 7±7.1, respectively. LC analysis demonstrated a drop in adjusted in-hospital mortality after treating 40 patients. A leveling off of the curve was observed after case #118. In-hospital mortality across the groups was 8.6%, 7.7%, 5.9%, and 3.7% for initial-, early-, intermediate-, and high-experience, respectively (p<0.001). High experience independently predicted lower mortality (OR 0.57, p=0.013 vs. initial experience). Low-volume centers before 2014 showed no significant decrease in the likelihood of death with gained experience, whereas high-volume centers had a continuous improvement after case #10.
+CONCLUSION: A TAVR LC phenomenon was observed for in-hospital mortality in Brazil. This effect was more pronounced in centers that treated their first 40 cases before 2014 than those that reached this milestone after 2014.
+
+Citation: Bernardi FLM, et al. Learning Curve for In-Hospital Mortality of Transcatheter Aortic Valve Replacement: Insights from the Brazilian National Registry. Learning Curve for In-Hospital Mortality of Transcatheter Aortic Valve Replacement: Insights from the Brazilian National Registry. 2024; 121:e20230622. doi: 10.36660/abc.20230622
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39082574/

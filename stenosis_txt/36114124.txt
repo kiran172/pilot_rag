@@ -1,0 +1,11 @@
+PMID: 36114124
+Title: Early Hemodynamic Outcomes in Self-Expandable Valves: Comparison of ACURATE Neo Versus ACURATE Neo2.
+
+Abstract: BACKGROUND: Comparisons of hemodynamic results between ACURATE Neo and ACURATE Neo 2, which have updated outer sealing skirts, are limited. This retrospective study aimed to demonstrate the differences in hemodynamic outcomes between the two transcatheter heart valves (THVs).
+METHODS: We included 449 patients who underwent transfemoral transcatheter aortic valve replacement (TAVR) with either ACURATE Neo2 (n = 100) or ACURATE Neo (n = 348) between January 2016 and November 2021. The primary endpoint was the incidence of moderate or severe paravalvular leakage (PVL). The mean aortic pressure gradient (APG), peak aortic velocity (AV), and early clinical outcomes were assessed as secondary outcomes.
+RESULTS: In the propensity-score matching comparison (94 pairs), there were no significant differences in the incidence of moderate or severe PVL (4.3 % in Neo2 group vs. 8.5 % in Neo group, p = 0.233), and peak AV and mean APG were significantly higher in Neo2 group (Peak AV: 2.1 ± 0.4 vs. 1.9 ± 0.5 m/s, p = 0.003; mean APG: 10.6 ± 4.8 vs. 9.0 ± 6.1 mmHg, p = 0.045). In the multivariate logistic regression analysis, the THV type (ACURATE Neo2) was not an independent predictor of moderate or severe PVL.
+CONCLUSION: The incidence of moderate or severe PVL did not significantly differ between TAVR with ACURATE Neo2 and ACURATE Neo; however, it was numerically lower in ACURATE Neo2. In contrast, the Neo2 group had a higher residual mean APG and peak AV. A larger study with long-term follow-up is warranted to assess the clinical relevance of these findings.
+
+Citation: Miyashita H, et al. Early Hemodynamic Outcomes in Self-Expandable Valves: Comparison of ACURATE Neo Versus ACURATE Neo2. Early Hemodynamic Outcomes in Self-Expandable Valves: Comparison of ACURATE Neo Versus ACURATE Neo2. 2023; 47:62-69. doi: 10.1016/j.carrev.2022.08.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36114124/

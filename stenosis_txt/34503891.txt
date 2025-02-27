@@ -1,0 +1,14 @@
+PMID: 34503891
+Title: Risk Factors of Midterm Mortality After Aortic Valve Replacement for Severe Calcified Tricuspid Aortic Valve Stenosis: A retrospective analysis of Perioperative Events Assessment in Adult Cardiac surgery (PESSAC) Registry.
+
+Abstract: OBJECTIVE: The European System for Cardiac Operative Risk Evaluation II (EuroSCORE II) initially developed for predicting early postoperative mortality of all types of cardiac surgery, is less able to predict, more specifically, long-term outcomes after aortic valve replacement (AVR). The study authors here evaluated the risk factors for three-year mortality after isolated aortic valve replacement (AVR) for severe calcified tricuspid aortic valve stenosis and compared them with EuroSCORE II to predict long-term outcomes.
+DESIGN: A retrospective study.
+SETTING: A university teaching hospital.
+PARTICIPANTS: This study included 1,101 adults who underwent isolated AVR for severe calcified tricuspid aortic valve stenosis between September 2010 to June 2015.
+INTERVENTIONS: None.
+MEASUREMENTS AND MAIN RESULTS: The primary endpoint was that of three-year all-cause mortality after AVR. By three years, 168 patients (15.3%) had died. Risk factors for all-cause mortality were: male gender (odds ratio [OR] = 1.78; 95% confidence interval [CI] = 1.21-2.62; p < 0.01), peripheral arterial disease (OR = 1.77; 95% CI = 1.08-2.92; p = 0.03), age (OR = 1.06 per year increase; 95% CI =1.04-1.09; p < 0.01), pulmonary artery systolic pressure (OR = 1.02 per mmHg increase; 95% CI = 1.01-1.03; p < 0.01), platelet count (OR = 1.003 per G/L increase; 95% CI = 1.000-1.005; p = 0.04), and valve area (OR = 0.97 per cm²/m² increase; 95% CI= 0.95-0.99; p < 0.01). The area under the receiver operating characteristic curves were 0.67 (95% CI = 0.60-0.75) and 0.60 (95% CI = 0.56-0.65) for the authors' logistic regression model and EuroSCORE II, respectively (p = 0.11).
+CONCLUSIONS: The study authors identified six independent risk factors for three-year mortality after isolated AVR. The logistic regression model had relatively modest predictive performance for three-year mortality.
+
+Citation: Beurton A, et al. Risk Factors of Midterm Mortality After Aortic Valve Replacement for Severe Calcified Tricuspid Aortic Valve Stenosis: A retrospective analysis of Perioperative Events Assessment in Adult Cardiac surgery (PESSAC) Registry. Risk Factors of Midterm Mortality After Aortic Valve Replacement for Severe Calcified Tricuspid Aortic Valve Stenosis: A retrospective analysis of Perioperative Events Assessment in Adult Cardiac surgery (PESSAC) Registry. 2021; 35:3547-3556. doi: 10.1053/j.jvca.2021.08.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34503891/

@@ -1,0 +1,11 @@
+PMID: 36131523
+Title: Risk factors and mortality associated with permanent pacemaker after surgical or transcatheter aortic valve replacement: Early versus late implantation.
+
+Abstract: INTRODUCTION: Inflation of transcatheter aortic valve replacement (TAVR) procedures compared to surgical aortic valve replacement (SAVR) has increased the number of patients requiring a postprocedure permanent pacemaker (PPM). We investigate the impact of PPM on mid-term mortality comparing SAVR versus TAVR procedures and risk factors for early and late (>14 days) need of PPM.
+METHODS: We conducted a retrospective, single-center evaluation of 903 patients that underwent either SAVR or TAVR procedures at the Yale New Haven Hospital from 2012 to 2017. Patients were stratified into PPM and non-PPM groups. We performed Kaplan-Meier and Cox proportional hazard analysis to characterize mid-term mortality. Further subgroup analysis was performed to identify risk factors for early and late PPM implantation in the TAVR cohort.
+RESULTS: There was no correlation between PPM implantation and mid-term mortality in both SAVR (hazard ratio [HR] = 0.69; confidence interval [CI] = 0.21-2.30; p = .56) and TAVR (HR = 0.70; CI = 0.42-1.17; p = .18) patients. The presence of the right bundle branch block (Odds ratio = 24.07; 95% CI = 2.34-247.64, p = .007) was associated with higher odds of early PPM requirement after TAVR procedures.
+CONCLUSION: PPM placement after SAVR or TAVR procedures is not associated with increased mid-term mortality. In-depth characterization of risk factors for early and late PPM implantation will require further analysis in the growing TAVR patient population.
+
+Citation: Bin Mahmood SU, et al. Risk factors and mortality associated with permanent pacemaker after surgical or transcatheter aortic valve replacement: Early versus late implantation. Risk factors and mortality associated with permanent pacemaker after surgical or transcatheter aortic valve replacement: Early versus late implantation. 2022; 37:4295-4300. doi: 10.1111/jocs.16938
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36131523/

@@ -1,0 +1,11 @@
+PMID: 38872825
+Title: Patchy profile sign in RAPID software: a specific marker for intracranial atherosclerotic stenosis in acute ischemic stroke.
+
+Abstract: PURPOSE: Identifying the etiology of acute ischemic stroke (AIS) before endovascular treatment (EVT) is important but challenging. In CT perfusion imaging processed by perfusion software, we observed a phenomenon called patchy profile sign (PPS), that is, the hypoperfusion morphology in RAPID software is a discontinuous sheet pattern. This phenomenon is predominantly observed in patients diagnosed with intracranial atherosclerotic stenosis (ICAS). The study intends to assess whether the PPS can be used to differentiate ICAS from intracranial embolism.
+METHOD: Patients with AIS due to M1 segment occlusion of the MCA who underwent mechanical thrombectomy were retrospectively enrolled. The receiver operating characteristic (ROC) curve analysis was performed to assess the value of PPS in predicting ICAS. Sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and accuracy of the PPS for prediction of ICAS were calculated.
+RESULTS: A total of 51 patients were included in the study. The PPS was observed in 10 of 19 (52.6%) patients with ICAS, and in 2 of 32 (6.3%) patients with intracranial embolism (p &lt; 0.001). Interobserver agreement for identifying PPS was excellent (κ = 0.944). The sensitivity, specificity, PPV, NPV, and accuracy of the PPS for predicting ICAS were 52.6, 93.8, 83.3, 76.9, and 78.4%, respectively.
+CONCLUSION: The PPS on RAPID software is an imaging marker with high specificity for ICAS. Larger sample sizes are imperative to validate the findings.
+
+Citation: Zhang L, et al. Patchy profile sign in RAPID software: a specific marker for intracranial atherosclerotic stenosis in acute ischemic stroke. Patchy profile sign in RAPID software: a specific marker for intracranial atherosclerotic stenosis in acute ischemic stroke. 2024; 15:1414959. doi: 10.3389/fneur.2024.1414959
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38872825/

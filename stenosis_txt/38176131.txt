@@ -1,0 +1,12 @@
+PMID: 38176131
+Title: Iodine contrast volume reduction in preoperative transcatheter aortic valve implantation computed tomography: Comparison with 64- and 256-multidetector row computed tomography.
+
+Abstract: INTRODUCTION: This study aimed to compare the vascular enhancement and radiation dose in preoperative transcatheter aortic valve implantation (TAVI) computed tomography (CT) with a reduced contrast medium (CM) using volume scans in 256-multidetector row CT (MDCT) with a standard CM using 64-MDCT.
+METHODS: This study included 78 patients with preoperative TAVI CT with either 64- or 256-MDCT. The CM was injected at 1.5 mL/kg in the 64-MDCT group and 1.0 mL/kg in the 256-MDCT group. We compared vascular enhancement of the aortic root and access routes, image quality (IQ) scores, and radiation dose in both groups.
+RESULTS: Despite the reduced CM (by 33 %) in the 256-MDCT group, the mean vascular enhancement of the right and left subclavian arteries was significantly higher than that in the 64-MDCT group [284 and 267 Hounsfield units (HU) vs. 376 and 359 HU; p < 0.05]; however, no significant differences in the mean vascular enhancement in the ascending aorta, abdominal aorta at the celiac level, and bilateral common femoral arteries were observed between the two groups (p > 0.05 for all). The median IQ scores at the aortic root were higher in the 256-MDCT group than in the 64-MDCT group (3 vs. 4; p < 0.05), and those at the femoral access routes were comparable (4 vs. 4; p = 0.33). The mean effective dose was significantly reduced by 30 % in the 256-MDCT group (23.6 vs. 16.3 mSv; p < 0.05).
+CONCLUSION: In preoperative TAVI CT, volume scans using 256-MDCT provide comparable or better vascular enhancement and IQ with a 30 % reduction in CM and radiation dose than those using 64-MDCT.
+IMPLICATIONS FOR PRACTICE: Volume scan using 256-MDCT for preoperative TAVI CT may reduce CM and radiation dose in TAVI patients with renal dysfunction.
+
+Citation: Yoshiura T, et al. Iodine contrast volume reduction in preoperative transcatheter aortic valve implantation computed tomography: Comparison with 64- and 256-multidetector row computed tomography. Iodine contrast volume reduction in preoperative transcatheter aortic valve implantation computed tomography: Comparison with 64- and 256-multidetector row computed tomography. 2024; 30:408-415. doi: 10.1016/j.radi.2023.12.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38176131/

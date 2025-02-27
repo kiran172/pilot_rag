@@ -1,0 +1,12 @@
+PMID: 31603579
+Title: The Role of Spirometry and Dyspnea Index in the Management of Subglottic Stenosis.
+
+Abstract: OBJECTIVES: We aimed to assess the role of spirometry measures and Dyspnea Index (DI) in response to treatment of subglottic stenosis (SGS) and ability to predict need for surgery. We also assessed correlations between spirometry measures, DI, and physical SGS parameters.
+METHODS: Thirty-seven adult female SGS patients were prospectively enrolled. Spirometry data and DI were obtained at serial clinic visits; physical SGS parameters were obtained intraoperatively. PIFR, PEFR, EDI, FEV1/FVC, and DI were compared preoperatively to postoperatively for patients who underwent operative intervention. Spirometry data, DI, and physical SGS parameters were analyzed for correlations, and receiver operating characteristic (ROC) curves were created for spirometry measures and DI to determine optimal cutoffs for recommending surgery.
+RESULTS: Means of all measured spirometry measures changed significantly from preoperative to postoperative visits (P &lt; .05). Mean DIs changed significantly between preoperative (27.5, n = 13, SD = 8.6) and postoperative visits (8.6, n = 13, SD = 5.5, P &lt; 5 × 10-5 ). All Pearson correlations were negligible to moderate. The area under the curve (AUC) for peak inspiratory flow rate (PIFR) was 0.903 (95% CI, 0.832-0.974) with cutoff at 2.10 L/s; the AUC for DI was 0.874 (95% CI, 0.791-0.956) with cutoff between 22-25; the AUC for peak expiratory flow rate (PEFR) was 0.806 (95% CI, 0.702-0.910) with cutoff at 2.5 L/s; all other ROC curves were less than good.
+CONCLUSION: PIFR, PEFR, EDI, FEV1/FVC, and DIs significantly improve after treatment for SGS. No strong correlations exist between spirometry measures, DI, and physical SGS parameters. PIFR was the most sensitive and specific for predicting timing of operative intervention in our cohort.
+LEVEL OF EVIDENCE: 1b Laryngoscope, 2019.
+
+Citation: Tie K, et al. The Role of Spirometry and Dyspnea Index in the Management of Subglottic Stenosis. The Role of Spirometry and Dyspnea Index in the Management of Subglottic Stenosis. 2020; 130:2760-2766. doi: 10.1002/lary.28337
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31603579/

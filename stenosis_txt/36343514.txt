@@ -1,0 +1,8 @@
+PMID: 36343514
+Title: Generation and characterization of a human induced pluripotent stem cell (iPSC) line from a patient with congenital heart disease (CHD).
+
+Abstract: Epstein-Barr virus (EBV) immortalized lymphoblastoid cell lines (LCLs) are widely used for banking. This bioresource could be leveraged for creating human iPSC lines to model diseases including CHD. We generated an LCL-derived iPSC line (NCHi001-A) from a patient with congenital aortic valve stenosis. NCHi001-A was EBV and transgenes free, exhibited stem cell-like morphology, expressed pluripotency markers, has a normal karyotype, and could be differentiated into cells of three germ layers in vitro. Relationship inference via a microarray-based analysis showed NCHi001-A is identical to the parental cell line. NCHi001-A can be used for disease modeling, drug discovery, and cell therapy development.
+
+Citation: Lin H, et al. Generation and characterization of a human induced pluripotent stem cell (iPSC) line from a patient with congenital heart disease (CHD). Generation and characterization of a human induced pluripotent stem cell (iPSC) line from a patient with congenital heart disease (CHD). 2022; 65:102958. doi: 10.1016/j.scr.2022.102958
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36343514/

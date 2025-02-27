@@ -1,0 +1,11 @@
+PMID: 32212352
+Title: On the limitations of echo planar 4D flow MRI.
+
+Abstract: PURPOSE: To compare EPI and GRE readout in high-flow velocity regimes and evaluate their impact on measurement accuracy in silico and in vitro.
+THEORY AND METHODS: Phase-contrast sequences for EPI and GRE were simulated using CFD velocity data to assess displacement artifacts as well as effective spatial resolution. In silico findings were validated experimentally using a steady flow phantom.
+RESULTS: For EPI factor 5 and simulated stenotic flow with peak velocity of 2.2 m s-1 , displacement artifacts resulted in misregistration of 7.3 mm at echo time and the effective resolution was locally reduced by factors 5 and 8 compared to GRE for flow along phase and frequency encoding directions, respectively. In vitro, a maximum velocity difference between EPI factor 5 and GRE of 0.97 m s-1 was found.
+CONCLUSIONS: Four-dimensional flow MRI using EPI readout results not only in considerable velocity misregistration but also in spatially varying degradation of resolution. The proposed work indicates that EPI is inferior to standard GRE for 4D flow MRI.
+
+Citation: Dillinger H, et al. On the limitations of echo planar 4D flow MRI. On the limitations of echo planar 4D flow MRI. 2020; 84:1806-1816. doi: 10.1002/mrm.28236
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32212352/

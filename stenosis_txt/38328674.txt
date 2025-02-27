@@ -1,0 +1,11 @@
+PMID: 38328674
+Title: Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort.
+
+Abstract: OBJECTIVE: This study aims to assess the ability of state-of-the-art machine learning algorithms to detect valvular heart disease (VHD) from digital heart sound recordings in a general population that includes asymptomatic cases and intermediate stages of disease progression.
+METHODS: We trained a recurrent neural network to predict murmurs from heart sound audio using annotated recordings collected with digital stethoscopes from four auscultation positions in 2,124 participants from the Tromsø7 study. The predicted murmurs were used to predict VHD as determined by echocardiography.
+RESULTS: The presence of aortic stenosis (AS) was detected with a sensitivity of 90.9%, a specificity of 94.5%, and an area under the curve (AUC) of 0.979 (CI: 0.963-0.995). At least moderate AS was detected with an AUC of 0.993 (CI: 0.989-0.997). Moderate or greater aortic and mitral regurgitation (AR and MR) were predicted with AUC values of 0.634 (CI: 0.565-703) and 0.549 (CI: 0.506-0.593), respectively, which increased to 0.766 and 0.677 when clinical variables were added as predictors. The AUC for predicting symptomatic cases was higher for AR and MR, 0.756 and 0.711, respectively. Screening jointly for symptomatic regurgitation or presence of stenosis resulted in an AUC of 0.86, with 97.7% of AS cases (n = 44) and all 12 MS cases detected.
+CONCLUSIONS: The algorithm demonstrated excellent performance in detecting AS in a general cohort, surpassing observations from similar studies on selected cohorts. The detection of AR and MR based on HS audio was poor, but accuracy was considerably higher for symptomatic cases, and the inclusion of clinical variables improved the performance of the model significantly.
+
+Citation: Waaler PN, et al. Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort. Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort. 2023; 10:1170804. doi: 10.3389/fcvm.2023.1170804
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38328674/

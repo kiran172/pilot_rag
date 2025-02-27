@@ -1,0 +1,12 @@
+PMID: 34647890
+Title: Vessel fractional flow reserve (vFFR) for the assessment of stenosis severity: the FAST II study.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR)-guided percutaneous coronary intervention (PCI) is superior to angiography-guided PCI. The clinical uptake of FFR has been limited, however, by the need to advance a wire in the coronary artery, the additional time required and the need for hyperaemic agents which can cause patient discomfort. FFR derived from routine coronary angiography eliminates these issues.
+AIMS: The aim of this study was to assess the diagnostic performance and accuracy of three-dimensional quantitative coronary angiography (3D-QCA)-based vessel FFR (vFFR) compared to pressure wire-based FFR (≤0.80).
+METHODS: The FAST II (Fast Assessment of STenosis severity) study was a prospective observational multicentre study designed to evaluate the diagnostic accuracy of vFFR compared to the reference standard (pressure wire-based FFR ≤0.80). A total of 334 patients from six centres were enrolled. Both site-determined and blinded independent core lab vFFR measurements were compared to FFR.
+RESULTS: The core lab vFFR was 0.83±0.09 and pressure wire-based FFR 0.83±0.08. A good correlation was found between core lab vFFR and pressure wire-based FFR (R=0.74; p<0.001; mean bias 0.0029±0.0642). vFFR had an excellent diagnostic accuracy in identifying lesions with an invasive wire-based FFR ≤0.80 (area under the curve [AUC] 0.93; 95% confidence interval [CI]: 0.90-0.96; p<0.001). Positive predictive value, negative predictive value, diagnostic accuracy, sensitivity and specificity of vFFR were 90%, 90%, 90%, 81% and 95%, respectively.
+CONCLUSIONS: 3D-QCA-based vFFR has excellent diagnostic performance to detect FFR ≤0.80. The study was registered on clinicaltrials.gov under identifier NCT03791320.
+
+Citation: Masdjedi K, et al. Vessel fractional flow reserve (vFFR) for the assessment of stenosis severity: the FAST II study. Vessel fractional flow reserve (vFFR) for the assessment of stenosis severity: the FAST II study. 2022; 17:1498-1505. doi: 10.4244/EIJ-D-21-00471
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34647890/

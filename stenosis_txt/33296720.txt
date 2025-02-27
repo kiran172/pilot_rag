@@ -1,0 +1,11 @@
+PMID: 33296720
+Title: Prognostic value of myocardial scar by magnetic resonance imaging in patients undergoing coronary artery bypass graft.
+
+Abstract: BACKGROUND: Previous studies demonstrated that scar tissue assessed by late gadolinium enhancement cardiovascular magnetic resonance imaging (LGE-CMR) is associated with recovery of cardiac function after coronary artery bypass graft (CABG) in patients with a history of myocardial infarction (MI). However, information on the association between myocardial scar at baseline and long-term survival after CABG in these patients is lacking.
+METHODS: From April 2010 to May 2013, consecutive patients with multivessel coronary artery disease (CAD, > 70% stenosis in ≥2 vessels) and MI (> 3 months) who underwent LGE-CMR within 1 month prior to isolated CABG were enrolled. Left ventricular functional parameters and scar tissue were assessed by LGE-CMR before surgery. A standard 17-segment model was used for scar quantification. Predictors for cardiovascular events (CVEs) were analyzed.
+RESULTS: Of 148 patients who met the study inclusion/exclusion criteria, 140 cases had follow-up data and were included in final analysis. Of the latter, 27 (19.3%) patients suffered CVEs perioperatively or during mean 89.6 ± 12.0 months follow-up. In Cox proportional hazard regression model, the most significant predictor for CVEs after CABG was the number of scar segments on LGE-CMR (Hazard ratio 2.078, 95% Confidence Interval 1.133-3.814, P= 0.018). In Receiver-Operator-Characteristic (ROC) analysis, number of scar segments ≥6 predicted CVEs (sensitivity, 74.1%; specificity, 95.6%; area under the curve [AUC] = 0.934, P < 0.001).
+CONCLUSIONS: Scar tissue identified by LGE-CMR appears to be an independent predictor of CVEs after CABG in patients with a history of MI, which might allow preoperative risk stratification.
+
+Citation: Yang T, et al. Prognostic value of myocardial scar by magnetic resonance imaging in patients undergoing coronary artery bypass graft. Prognostic value of myocardial scar by magnetic resonance imaging in patients undergoing coronary artery bypass graft. 2021; 326:49-54. doi: 10.1016/j.ijcard.2020.10.052
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33296720/

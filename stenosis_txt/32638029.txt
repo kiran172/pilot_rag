@@ -1,0 +1,11 @@
+PMID: 32638029
+Title: Microstructural Alterations Analogous to Accelerated Aging of the Cerebral Cortex in Carotid Occlusive Disease.
+
+Abstract: PURPOSE: To investigate cortical thickness and cortical quantitative T2 values as imaging markers of microstructural tissue damage in patients with unilateral high-grade internal carotid artery occlusive disease (ICAOD).
+METHODS: A total of 22 patients with ≥70% stenosis (mean age 64.8 years) and 20 older healthy control subjects (mean age 70.8 years) underwent structural magnetic resonance imaging (MRI) and high-resolution quantitative (q)T2 mapping. Generalized linear mixed models (GLMM) controlling for age and white matter lesion volume were employed to investigate the effect of ICAOD on imaging parameters of cortical microstructural integrity in multivariate analyses.
+RESULTS: There was a significant main effect (p < 0.05) of the group (patients/controls) on both cortical thickness and cortical qT2 values with cortical thinning and increased cortical qT2 in patients compared to controls, irrespective of the hemisphere. The presence of upstream carotid stenosis had a significant main effect on cortical qT2 values (p = 0.01) leading to increased qT2 in the poststenotic hemisphere, which was not found for cortical thickness. The GLMM showed that in general cortical thickness was decreased and cortical qT2 values were increased with increasing age (p < 0.05).
+CONCLUSION: Unilateral high-grade carotid occlusive disease is associated with widespread cortical thinning and prolongation of cortical qT2, presumably reflecting hypoperfusion-related microstructural cortical damage similar to accelerated aging of the cerebral cortex. Cortical thinning and increase of cortical qT2 seem to reflect different aspects and different pathophysiological states of cortical degeneration. Quantitative T2 mapping might be a sensitive imaging biomarker for early cortical microstructural damage.
+
+Citation: Seiler A, et al. Microstructural Alterations Analogous to Accelerated Aging of the Cerebral Cortex in Carotid Occlusive Disease. Microstructural Alterations Analogous to Accelerated Aging of the Cerebral Cortex in Carotid Occlusive Disease. 2021; 31:709-720. doi: 10.1007/s00062-020-00928-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32638029/

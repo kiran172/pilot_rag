@@ -1,0 +1,8 @@
+PMID: 34590694
+Title: Computational Modeling of Aortic Stenosis With a Reduced Degree-of-Freedom Fluid-Structure Interaction Valve Model.
+
+Abstract: In this study, a novel reduced degree-of-freedom (rDOF) aortic valve model is employed to investigate the fluid-structure interaction (FSI) and hemodynamics associated with aortic stenosis. The dynamics of the valve leaflets are determined by an ordinary differential equation with two parameters and this rDOF model is shown to reproduce key features of more complex valve models. The hemodynamics associated with aortic stenosis is studied for three cases: a healthy case and two stenosed cases. The focus of the study is to correlate the hemodynamic features with the source generation mechanism of systolic murmurs associated with aortic stenosis. In the healthy case, extremely weak flow fluctuations are observed. However, in the stenosed cases, simulations show significant turbulent fluctuations in the ascending aorta, which are responsible for the generation of strong wall pressure fluctuations after the aortic root mostly during the deceleration phase of the systole. The intensity of the murmur generation increases with the severity of the stenosis, and the source locations for the two diseased cases studied here lie around 1.0 inlet duct diameters (Do) downstream of the ascending aorta.
+
+Citation: Zhu C, et al. Computational Modeling of Aortic Stenosis With a Reduced Degree-of-Freedom Fluid-Structure Interaction Valve Model. Computational Modeling of Aortic Stenosis With a Reduced Degree-of-Freedom Fluid-Structure Interaction Valve Model. 2022; 144:(unknown pages). doi: 10.1115/1.4052576
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34590694/

@@ -1,0 +1,12 @@
+PMID: 36348992
+Title: Effect of TAVR Approach and Other Baseline Factors on the Incidence of Acute Kidney Injury: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Acute kidney injury (AKI) is a well-known complication following a transcatheter aortic valve replacement (TAVR) and is associated with higher morbidity and mortality.
+OBJECTIVE: We aim to compare the risk of developing AKI after transfemoral (TF), transapical (TA), and transaortic (TAo) approaches following TAVR.
+METHODS: We searched Medline and EMBASE databases from January 2009 to January 2021. We included studies that evaluated the risk of AKI based on different TAVR approaches. After extracting each study's data, we calculated the risk ratio and 95% confidence intervals using RevMan software 5.4. Publication bias was assessed by the forest plot.
+RESULTS: Thirty-six (36) studies, consisting of 70,406 patients undergoing TAVR were included. Thirty-five studies compared TF to TA, and only seven investigations compared TF to TAo. AKI was documented in 4,857 out of 50,395 (9.6%) patients that underwent TF TAVR compared to 3,155 out of 19,721 (16%) patients who underwent TA-TAVR, with a risk ratio of 0.49 (95% CI, 0.36-0.66; p &lt; 0.00001). Likewise, 273 patients developed AKI out of the 1,840 patients (14.8%) that underwent TF-TAVR in contrast to 67 patients out of the 421 patients (15.9%) that underwent TAo-TAVR, with a risk ratio of 0.51 (95% CI, 0.27-0.98; p = 0.04). There was no significant risk when we compared TA to TAo approaches, with a risk ratio of 0.89 (95% CI, 0.29-2.75; p = 0.84).
+CONCLUSION: The risk of post-TAVR AKI is significantly lower in patients who underwent TF-TAVR than those who underwent TA-TAVR or TAo-TAVR.
+
+Citation: Alzu'bi H, et al. Effect of TAVR Approach and Other Baseline Factors on the Incidence of Acute Kidney Injury: A Systematic Review and Meta-Analysis. Effect of TAVR Approach and Other Baseline Factors on the Incidence of Acute Kidney Injury: A Systematic Review and Meta-Analysis. 2022; 2022:3380605. doi: 10.1155/2022/3380605
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36348992/

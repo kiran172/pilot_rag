@@ -1,0 +1,11 @@
+PMID: 39388030
+Title: Generation of a virtual cohort of TAVI patients for in silico trials: a statistical shape and machine learning analysis.
+
+Abstract: PURPOSE: In silico trials using computational modeling and simulations can complement clinical trials to improve the time-to-market of complex cardiovascular devices in humans. This study aims to investigate the significance of synthetic data in developing in silico trials for assessing the safety and efficacy of cardiovascular devices, focusing on bioprostheses designed for transcatheter aortic valve implantation (TAVI).
+METHODS: A statistical shape model (SSM) was employed to extract uncorrelated shape features from TAVI patients, enabling the augmentation of the original patient population into a clinically validated synthetic cohort. Machine learning techniques were utilized not only for risk stratification and classification but also for predicting the physiological variability within the original patient population.
+RESULTS: By randomly varying the statistical shape modes within a range of ± 2σ, a hundred virtual patients were generated, forming the synthetic cohort. Validation against the original patient population was conducted using morphological measurements. Support vector machine regression, based on selected shape modes (principal component scores), effectively predicted the peak pressure gradient across the stenosis (R-squared of 0.551 and RMSE of 11.67 mmHg). Multilayer perceptron neural network accurately predicted the optimal device size for implantation with high sensitivity and specificity (AUC = 0.98).
+CONCLUSION: The study highlights the potential of integrating computational predictions, advanced machine learning techniques, and synthetic data generation to improve predictive accuracy and assess TAVI-related outcomes through in silico trials.
+
+Citation: Scuoppo R, et al. Generation of a virtual cohort of TAVI patients for in silico trials: a statistical shape and machine learning analysis. Generation of a virtual cohort of TAVI patients for in silico trials: a statistical shape and machine learning analysis. 2024; (unknown volume):(unknown pages). doi: 10.1007/s11517-024-03215-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39388030/

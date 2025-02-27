@@ -1,0 +1,12 @@
+PMID: 38638095
+Title: Side branch predilatation during percutaneous coronary bifurcation intervention: Long-term mortality analysis.
+
+Abstract: BACKGROUND: Side branch predilatation (SBPD) during coronary bifurcation interventions is a technique that is not recommended by the latest guidelines. However, the data about the clinical outcomes after SBPD are surprisingly few.
+AIMS: The current study aimed to explore the association between SBPD and mortality in long-term follow-up.
+METHODS: All patients with coronary bifurcation stenoses revascularized with percutaneous coronary intervention were included in a prospective registry. Patients with stable angina and a bifurcation lesion with ≥50% diameter stenosis were included in the current analysis. Patients were assigned to two groups - those with SBPD(+) and those without SBPD(-). Propensity score matching was performed to equalize the risk factors and severity of coronary artery disease between the groups. A Kaplan-Meier analysis with a log-rank test for between-group differences was also performed.
+RESULTS: From January 2013 to June 2021, 813 patients were included in the final study population. The mean age was 67 (10) years. After propensity score matching, 648 patients remained for analysis - 324 in each group. At a median follow-up of 57 months patients in the SBPD(+) group had a higher all-cause mortality (n = 107 (33%) vs. n = 98 [30.2%]; P = 0.045) and cardiovascular mortality (n = 82 [25.3%] vs. n = 70 [21.6%]; P = 0.03) when compared with SBPD(-) patients. SBPD was independently associated with all-cause and cardiovascular mortality.
+CONCLUSION: SBPD treatment of coronary bifurcation stenoses is associated with worse patient survival in the follow-up of up to 8 years. SBPD treatment gives better angiographic results, but this did not translate into better clinical outcomes.
+
+Citation: Vassilev D, et al. Side branch predilatation during percutaneous coronary bifurcation intervention: Long-term mortality analysis. Side branch predilatation during percutaneous coronary bifurcation intervention: Long-term mortality analysis. 2024; 82:398-406. doi: 10.33963/v.phj.100213
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38638095/

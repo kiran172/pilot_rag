@@ -1,0 +1,8 @@
+PMID: 36053074
+Title: Numerical simulation of the fractional Maxwell fluid flow in locally narrow artery.
+
+Abstract: Research on hemorheology and blood flow behavior in non-uniform vessels is of extreme significance for diagnosis and treatment of many cardiovascular diseases. The aim of this study is to reveal the hemodynamics in stenotic vessels, and provide a reference for formulating a clinical operation plan. A set of rheological data of human blood at 37° is utilized in the paper to construct the fractional Maxwell constitutive equation of blood. Consequently, the continuity and momentum equations of a fractional Maxwell fluid passing through a stenosis artery in a two-dimensional cylindrical coordinate system are established. With the help of the vorticity and stream function, the finite difference method combined with the fractional order derivative L1 algorithm is applied to acquire the numerical solutions of the velocity, wall shear stress and intravascular pressure gradient, and the validity of the algorithm is verified. Furthermore, the effects of the stenosis degree, stenosis shoulder length, various Reynolds numbers and fractional parameter α on the blood flow characteristics in stenosis are analyzed.
+
+Citation: Zhang Y, et al. Numerical simulation of the fractional Maxwell fluid flow in locally narrow artery. Numerical simulation of the fractional Maxwell fluid flow in locally narrow artery. 2023; 26:1272-1287. doi: 10.1080/10255842.2022.2113781
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36053074/

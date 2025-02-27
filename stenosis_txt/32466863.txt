@@ -1,0 +1,11 @@
+PMID: 32466863
+Title: Impaired cerebrovascular reactivity is associated with recurrent stroke in patients with severe intracranial arterial stenosis: A C02 BOLD fMRI study.
+
+Abstract: BACKGROUND AND PURPOSE: Severe intracranial atherosclerotic stenosis (SIAS) remains at risk of recurrent ischemic events despite intensive medical management. Exhausted cerebrovascular reserve seems to be associated with higher risk of recurrent stroke.
+MATERIALS AND METHODS: We used whole brain MRI to estimate basal perfusion using dynamic susceptibility contrast and cerebrovascular reactivity (CVR) to hypercapnic challenge (CO2 inhalation) using BOLD contrast, in 20 patients with symptomatic SIAS (>70%) of the middle cerebral artery (MCA) or the distal internal carotid artery. We studied relationships between individual clinical, biological, radiological baseline characteristics, recurrent ischemic events, basal perfusion parameters (mean transit time, delay, time to peak, cerebral blood flow and volume), and CVR measured in MCA territories (CVRMCA), and reported using laterality indices (LI).
+RESULTS: Ten patients had an impaired CVR with (|LI| CVRMCA≥0.08). During a mean follow-up of 3.3 years, all recurrent ipsilateral ischemic events occurred within the first year. They were more frequent in impaired CVRMCA group (n=7/10 patients) than in normal CVRMCA group (n=1/10), with different survival curves (log rank, P=0.007).
+CONCLUSION: Impaired CVR is associated with an increased rate of recurrent stroke in patients with symptomatic SIAS. CVR mapping should be used as a well tolerated method to select higher-risk patients in further therapeutic trials such as endovascular procedures.
+
+Citation: Papassin J, et al. Impaired cerebrovascular reactivity is associated with recurrent stroke in patients with severe intracranial arterial stenosis: A C02 BOLD fMRI study. Impaired cerebrovascular reactivity is associated with recurrent stroke in patients with severe intracranial arterial stenosis: A C02 BOLD fMRI study. 2021; 48:339-345. doi: 10.1016/j.neurad.2020.04.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32466863/

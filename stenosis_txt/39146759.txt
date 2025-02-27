@@ -1,0 +1,11 @@
+PMID: 39146759
+Title: Pathophysiology of the ascending aorta: Impact of dilation and valve phenotype on large-scale blood flow coherence detected by 4D flow MRI.
+
+Abstract: BACKGROUND AND OBJECTIVE: The evidence on the role of hemodynamics in aorta pathophysiology has yet to be robustly translated into clinical applications, to improve risk stratification of aortic diseases. Motivated by the need to enrich the current understanding of the pathophysiology of the ascending aorta (AAo), this study evaluates in vivo how large-scale aortic flow coherence is affected by AAo dilation and aortic valve phenotype.
+METHODS: A complex networks-based approach is applied to 4D flow MRI data to quantify subject-specific AAo flow coherence in terms of correlation between axial velocity waveforms and the aortic flow rate waveform along the cardiac cycle. The anatomical length of persistence of such correlation is quantified using the recently proposed network metric average weighted curvilinear distance (AWCD). The analysis considers 107 subjects selected to allow an ample stratification in terms of aortic valve morphology, absence/presence of AAo dilation and of aortic valve stenosis.
+RESULTS: The analysis highlights that the presence of AAo dilation as well as of bicuspid aortic valve phenotype breaks the physiological AAo flow coherence, quantified in terms of AWCD. Of notice, it emerges that cycle-average blood flow rate and relative AAo dilation are main determinants of AWCD, playing opposite roles in promoting and hampering the persistence of large-scale flow coherence in AAo, respectively.
+CONCLUSIONS: The findings of this study can contribute to broaden the current mechanistic link between large-scale blood flow coherence and aortic pathophysiology, with the prospect of enriching the existing tools for the in vivo non-invasive hemodynamic risk assessment for aortic diseases onset and progression.
+
+Citation: Calò K, et al. Pathophysiology of the ascending aorta: Impact of dilation and valve phenotype on large-scale blood flow coherence detected by 4D flow MRI. Pathophysiology of the ascending aorta: Impact of dilation and valve phenotype on large-scale blood flow coherence detected by 4D flow MRI. 2024; 255:108369. doi: 10.1016/j.cmpb.2024.108369
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39146759/

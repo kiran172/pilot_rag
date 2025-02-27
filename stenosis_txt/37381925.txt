@@ -1,0 +1,11 @@
+PMID: 37381925
+Title: Impact of Neighborhood Social Deprivation on Health Care Costs Associated With TAVR.
+
+Abstract: BACKGROUND: Cumulative costs of transcatheter aortic valve replacement (TAVR) differ in the referral, procedural and postprocedural phases depending on patient comorbidities, type of procedure, and procedural complications. Our goal was to determine the association between neighborhood measures of social deprivation and TAVR costs in each of the 3 phases.
+METHODS: Demographics, patient comorbidities, procedural details, in-hospital complications, and costs for adults undergoing TAVR between 2017 and 2020 in Ontario, Canada were obtained from administrative databases and linked to social deprivation data using the Ontario Marginalization Index. The 3 dimensions of social deprivation assessed were (1) material deprivation, (2) residential instability, and (3) ethnic concentration. Hierarchical generalized linear models were used to determine the association between neighborhood social deprivation and cumulative TAVR costs, reported in 2018 Canadian dollars.
+RESULTS: We identified a total of 7617 TAVR referrals with 3784 patients undergoing TAVR within our study period. Cumulative mean costs in the referral, procedural and postprocedural phases were $8116±$11 374, $32 790±$17 766, and $18 901±$32 490, respectively. After adjustment for clinical and demographic variables, higher factor scores in residential instability were associated with greater cumulative costs in the postprocedural phase, whereas higher factor scores in the other 2 dimensions of marginalization were not significantly associated with higher costs in any of the 3 phases.
+CONCLUSIONS: This analysis shows that residential instability is associated with higher cumulative costs in the postprocedural phase of TAVR. This lays the foundation for future studies to understand the mechanism of this finding and identify potential mitigation policies.
+
+Citation: Sidhu H, et al. Impact of Neighborhood Social Deprivation on Health Care Costs Associated With TAVR. Impact of Neighborhood Social Deprivation on Health Care Costs Associated With TAVR. 2023; 16:e009761. doi: 10.1161/CIRCOUTCOMES.122.009761
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37381925/

@@ -1,0 +1,8 @@
+PMID: 32548214
+Title: REACT - A novel flow-independent non-gated non-contrast MR angiography technique using magnetization-prepared 3D non-balanced dual-echo dixon method: Preliminary clinical experience.
+
+Abstract: Flow-independent relaxation-based non-contrast MR angiography techniques yield good signal-to-noise ratio and high blood-tissue contrast, complementing non-contrast flow-dependent and contrast-enhanced MR angiography techniques in the assessment of vascular disorders. However, these techniques often suffer from imaging artifacts at high magnetic field strengths or across large fields-of-view. Relaxation-Enhanced Angiography without Contrast and Triggering (REACT) is a recently introduced flow-independent non-gated non-contrast three-dimensional MR angiography technique that has been developed to mitigate some of these issues. We present our initial experience with the clinical applications of REACT in imaging disorders of the central and peripheral vascular systems.
+
+Citation: Tan EJ, et al. REACT - A novel flow-independent non-gated non-contrast MR angiography technique using magnetization-prepared 3D non-balanced dual-echo dixon method: Preliminary clinical experience. REACT - A novel flow-independent non-gated non-contrast MR angiography technique using magnetization-prepared 3D non-balanced dual-echo dixon method: Preliminary clinical experience. 2020; 7:100238. doi: 10.1016/j.ejro.2020.100238
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32548214/

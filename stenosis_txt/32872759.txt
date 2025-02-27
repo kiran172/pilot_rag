@@ -1,0 +1,13 @@
+PMID: 32872759
+Title: Diffusion Tensor Imaging of the Spinal Canal in Quantitative Assessment of Patients with Lumbar Spinal Canal Stenosis.
+
+Abstract: STUDY DESIGN: Retrospective observational study.
+PURPOSE: Lumbar spinal stenosis (LSS) has traditionally been evaluated morphologically, there is a paucity of literature on quantitative assessment of LSS. The purpose of this study was to investigate whether intraspinal diffusion tensor imaging (DTI) parameters such as apparent diffusion coefficient (ADC) and fractional anisotropy (FA) are useful for assessing LSS.
+OVERVIEW OF LITERATURE: Quantitative assessment of LSS is challenging.
+METHODS: Study participants comprised five healthy volunteers (mean age, 27.2 years) and 27 patients with LSS (mean age, 58.4 years) who were individually assessed using 3.0 Tesla magnetic resonance imaging. Intraspinal ADC and FA values of 10 intervertebral discs from healthy volunteers and 52 intervertebral discs from LSS patients were measured. Also, intraspinal canal area, Schizas classification (A: normal, B: mild stenosis, C: severe stenosis) and correlations with symptoms were investigated. Clinical symptoms were checked for the presence of low back pain (LBP), intermittent claudication (IMC), and bladder and bowel dysfunction (BBD).
+RESULTS: Compared to healthy individuals, LSS patients had significantly lower ADC (p<0.05) and significantly higher FA values (p<0.01). In Schizas classification, stenosis worsened from A to C. ADC values decreased significantly while FA values increased significantly in that order (p<0.05). A positive correlation was found between intraspinal canal area and ADC values (r=0.63, p<0.01) and a negative correlation between intraspinal canal area and FA values (p=-0.61, p<0.01). No correlations were noted between LBP and ADC or FA values. On the other hand, ADC values were significantly lower (p<0.05) and FA values were significantly higher (p<0.05) in patients with IMC or BBD.
+CONCLUSIONS: Intraspinal DTI parameters such as ADC and FA values were associated with the Schizas classification, intraspinal canal area, and clinical symptoms, suggesting that ADC and FA may be useful for quantitative assessment of LSS.
+
+Citation: Norimoto M, et al. Diffusion Tensor Imaging of the Spinal Canal in Quantitative Assessment of Patients with Lumbar Spinal Canal Stenosis. Diffusion Tensor Imaging of the Spinal Canal in Quantitative Assessment of Patients with Lumbar Spinal Canal Stenosis. 2021; 15:207-215. doi: 10.31616/asj.2020.0026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32872759/

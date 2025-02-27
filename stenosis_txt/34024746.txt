@@ -1,0 +1,11 @@
+PMID: 34024746
+Title: Quantitative flow ratio for evaluation of borderline coronary lesions in patients with severe aortic stenosis.
+
+Abstract: INTRODUCTION AND OBJECTIVES: Quantitative flow ratio (QFR) is a novel noninvasive method for evaluating coronary physiology. However, data on the QFR in patients with aortic stenosis (AS) and coronary artery disease are scarce. Thus, we compared the diagnostic performance of the QFR with that of the resting distal to aortic coronary pressure (Pd/Pa) ratio, fractional flow reserve (FFR), and instantaneous wave-free ratio (iFR), as well as angiographic indices.
+METHODS: A total of 221 AS patients with 416 vessels undergoing FFR/iFR measurements were enrolled in the study.
+RESULTS: The mean percent diameter stenosis (%DS) was 58.6%±13.4% and the mean Pd/Pa ratio, FFR, iFR, and QFR were 0.95±0.03, 0.85±0.07, 0.90±0.04, and 0.84±0.07, respectively. A FFR ≤ 0.80 was noted in 26.0% of interrogated vessels, as well as an iFR ≤ 0.89 in 33.2% and QFR ≤ 0.80 in 31.7%. The QFR had better agreement with FFR (intraclass correlation coefficient [ICC], 0.96; 95% confidence interval [95%CI], 0.95-0.96) than with the iFR (ICC, 0.79; 95%CI, 0.75-0.82) and Pd/Pa ratio (ICC, 0.52; 95%CI, 0.44-0.58). In addition, the QFR showed better diagnostic accuracy (98.6% vs 94.2%; P <.001) and discriminant function (area under the curve=0.996 vs 0.988; P <.001) when the iFR was used as the reference instead of FFR.
+CONCLUSIONS: In patients with AS, the QFR has good agreement with both FFR and iFR. However, the agreement appears to be even better when the iFR is used as the reference, presumably due to the complex nature of the coronary physiology in the assessment of coronary artery disease in patients with severe AS.
+
+Citation: Kleczynski P, et al. Quantitative flow ratio for evaluation of borderline coronary lesions in patients with severe aortic stenosis. Quantitative flow ratio for evaluation of borderline coronary lesions in patients with severe aortic stenosis. 2022; 75:472-478. doi: 10.1016/j.rec.2021.04.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34024746/

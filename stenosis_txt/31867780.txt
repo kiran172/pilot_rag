@@ -1,0 +1,12 @@
+PMID: 31867780
+Title: Comparison of usual care and the HEART score for effectively and safely discharging patients with low-risk chest pain in the emergency department: would the score always help?
+
+Abstract: BACKGROUND: Triage decisions for chest pain patients receiving usual care are based on a dynamic and comprehensive strategy performed in the physician's mind. It remains controversial whether simple, structured risk tools can surpass real, complex judgments.
+HYPOTHESIS: The potentially used History, Electrocardiogram, Age, Risk factors, Troponin (HEART) score would help identify low-risk patients for discharge.
+METHODS: Patients with acute, non-traumatic chest pain managed according to usual care were consecutively enrolled in a tertiary university hospital in China from August 24, 2015 to September 30, 2017. Major adverse cardiac events (MACE) included death, acute myocardial infarction, revascularization, and significant coronary stenosis (>50%) within 30 days. We compared the efficacy and safety of usual care and the potentially used HEART score in this population.
+RESULTS: Of 2185 patients analyzed, 926 (42.4%) patients were directly discharged by usual care, whereas HEART≤3 would have identified 524 (24.0%) patients as low-risk (P < .001). The MACE rate in discharged patients was 2.2% (20/926) and would have been 5.2% (27/524) in those with HEART≤3 (P = .002). For discharged patients, the MACE rates in HEART≤3 vs HEART>3 groups were not significantly different (1.5% vs 2.7%, P = .225). Negative predictive value (NPV) was higher with usual care than with the HEART score (P = .003), but sensitivity was similar. For 340 patients with serial troponins, usual care was superior to the potentially used HEART score in regard to efficacy.
+CONCLUSIONS: At this institution, usual care identified many more patients for discharge than the HEART score would have without apparently different outcomes in discharged patients with lower vs higher HEART scores. The HEART score would not appear to provide helpful risk stratification.
+
+Citation: Wang G, et al. Comparison of usual care and the HEART score for effectively and safely discharging patients with low-risk chest pain in the emergency department: would the score always help?. Comparison of usual care and the HEART score for effectively and safely discharging patients with low-risk chest pain in the emergency department: would the score always help?. 2020; 43:371-378. doi: 10.1002/clc.23325
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31867780/

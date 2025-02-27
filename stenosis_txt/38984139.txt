@@ -1,0 +1,11 @@
+PMID: 38984139
+Title: Defining reference values of arterioles in healthy individuals for studies with adaptive optics imaging.
+
+Abstract: PURPOSE: To investigate age-dependent wall to lumen ratio (WLR) reference values for healthy individuals in adaptive optics imaging (AO). WLR serves as an objective, dimensionless parameter for the evaluation of structural changes in vessels caused by conditions like arterial hypertension, diabetes or vascular stenosis.
+METHODS: 50 right eyes of healthy individuals were examined by adaptive optics imaging. The central big arterioles and smaller arterial branches at least one disc diameter away from the optic disc, approximately above or below the macula were measured by the manufacturer's software. The wall-lumen-ratio (WLR), the wall cross-sectional area (WCSA) and lumen diameter (LD) were assessed. Subsequent data analysis was performed with a focus on variables including age, gender and blood pressure.
+RESULTS: Normative values for WLR, WCSA and LD in 5 different age groups could be established. However, no significant differences between the age groups were found. Intra-subject comparisons revealed significantly higher WLRs on peripheral branches when compared to central arterioles. WLR showed in this normotensive cohort no relevant correlation with the systolic, diastolic and mean blood pressure. Gender and intraocular pressure had no influence on the vascular parameters.
+CONCLUSION: AO is capable of examining vascular alterations in arterioles at an almost microscopic level. Age did not seem to alter WLR, normotensive blood pressure parameters showed also no significant impact. AO-based vessel analysis may provide clinically useful biomarkers for cardiovascular health and should be tested in future studies.
+
+Citation: Kortuem FC, et al. Defining reference values of arterioles in healthy individuals for studies with adaptive optics imaging. Defining reference values of arterioles in healthy individuals for studies with adaptive optics imaging. 2024; 4:1348900. doi: 10.3389/fopht.2024.1348900
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38984139/

@@ -1,0 +1,12 @@
+PMID: 32311209
+Title: Impact of renin-angiotensin system inhibitors on outcomes after transcatheter aortic valve replacement: A meta-analysis.
+
+Abstract: OBJECTIVES: We aimed to evaluate the impact of renin-angiotensin system (RAS) inhibitors on outcomes after transcatheter aortic valve replacement (TAVR).
+BACKGROUND: The impact of RAS inhibitors on outcomes after TAVR was unclear.
+METHODS: A systematic review of articles comparing outcomes of patients using and not using RAS inhibitors after TAVR was performed through PubMed, Embase, and Cochrane. Primary outcome was midterm all-cause mortality. Risk ratios (RRs) were calculated with the corresponding 95% confidence interval using random effect models.
+RESULTS: Five studies with 23,319 patients were included. Patients treated with RAS inhibitors had lower midterm all-cause mortality after TAVR than those without RAS inhibitors in both the unmatched (13.3 vs. 17.2%, RR 0.77, p = .005) and propensity score matched cohorts (13.5 vs 16.2%, RR 0.83, p < .001). Cardiovascular mortality (10.4 vs. 15.6%, RR 0.68, p < .001), rate of heart failure readmission (12.2 vs. 14.5%, RR 0.80, p = .006), and new-onset atrial fibrillation (14.0 vs. 23.7%, RR 0.73, p = .003) were also lower with RAS inhibitors. No difference was found between two groups regarding cerebrovascular events, myocardial infarction, major bleeding, major vascular complications, acute kidney injury, permanent pacemaker implantation, and moderate/severe paravalvular aortic regurgitation.
+CONCLUSIONS: RAS inhibitors were associated with lower midterm all-cause mortality after TAVR.
+
+Citation: Sun Y, et al. Impact of renin-angiotensin system inhibitors on outcomes after transcatheter aortic valve replacement: A meta-analysis. Impact of renin-angiotensin system inhibitors on outcomes after transcatheter aortic valve replacement: A meta-analysis. 2021; 97:E88-E94. doi: 10.1002/ccd.28899
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32311209/

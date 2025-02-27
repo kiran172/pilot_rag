@@ -1,0 +1,11 @@
+PMID: 37199567
+Title: Tryptophan metabolism, gut microbiota, and carotid artery plaque in women with and without HIV infection.
+
+Abstract: OBJECTIVE: The perturbation of tryptophan (TRP) metabolism has been linked with HIV infection and cardiovascular disease (CVD), but the interrelationship among TRP metabolites, gut microbiota, and atherosclerosis remain unclear in the context of HIV infection.
+METHODS: We included 361 women (241 HIV+, 120 HIV-) with carotid artery plaque assessments from the Women's Interagency HIV Study, measured 10 plasma TRP metabolites and profiled fecal gut microbiome. TRP metabolite-related gut bacteria were selected through the Analysis of Compositions of Microbiomes with Bias Correction method. Associations of TRP metabolites and related microbial features with plaque were examined using multivariable logistic regression.
+RESULTS: Although plasma kynurenic acid (KYNA) [odds ratio (OR) = 1.93, 95% confidence interval (CI): 1.12-3.32 per one SD increase; P  = 0.02) and KYNA/TRP [OR = 1.83 (95% CI 1.08-3.09), P  = 0.02] were positively associated with plaque, indole-3-propionate (IPA) [OR = 0.62 (95% CI 0.40-0.98), P  = 0.03] and IPA/KYNA [OR = 0.51 (95% CI 0.33-0.80), P  < 0.01] were inversely associated with plaque. Five gut bacterial genera and many affiliated species were positively associated with IPA (FDR-q < 0.25), including Roseburia spp ., Eubacterium spp., Lachnospira spp., and Coprobacter spp.; but no bacterial genera were found to be associated with KYNA. Furthermore, an IPA-associated-bacteria score was inversely associated with plaque [OR = 0.47 (95% CI 0.28-0.79), P  < 0.01]. But no significant effect modification by HIV serostatus was observed in these associations.
+CONCLUSION: In a cohort of women living with and without HIV infection, plasma IPA levels and related gut bacteria were inversely associated with carotid artery plaque, suggesting a potential beneficial role of IPA and its gut bacterial producers in atherosclerosis and CVD.
+
+Citation: Luo K, et al. Tryptophan metabolism, gut microbiota, and carotid artery plaque in women with and without HIV infection. Tryptophan metabolism, gut microbiota, and carotid artery plaque in women with and without HIV infection. 2024; 38:223-233. doi: 10.1097/QAD.0000000000003596
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37199567/

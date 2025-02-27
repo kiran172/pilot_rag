@@ -1,0 +1,11 @@
+PMID: 32467743
+Title: Feature-tracking-based strain analysis - a comparison of tracking algorithms.
+
+Abstract: PURPOSE: Optical flow feature-tracking (FT) strain assessment is increasingly being employed scientifically and clinically. Several software packages, employing different algorithms, enable computation of FT-derived strains. The aim of this study is to investigate the impact of the underlying algorithm on the validity and robustness of FT-derived strain results.
+MATERIAL AND METHODS: CSPAMM and SSFP cine sequences were acquired in 30 subjects (15 patients with aortic stenosis and associated secondary hypertrophic cardiomyopathy, and 15 controls) in identical midventricular short-axis locations. Global peak systolic circumferential strain (PSCS) was calculated using tagging and feature-tracking software with different algorithms (non-rigid, elastic image registration, and blood myocardial border tracing). Intermodality agreement and intra- as well inter-observer variability were assessed.
+RESULTS: Intermodality/inter-algorithm comparison for global PSCS using Friedman's test revealed statistically significant differences (tagging vs. blood myocardial border tracing algorithm). Intermodality assessment revealed the highest correlation between tagging and non-rigid, elastic image registration (r = 0.84), while correlation between tagging and blood myocardial border tracing (r = 0.36) and between the two feature-tracking software packages (r = 0.5) were considerably lower.
+CONCLUSIONS: The type of algorithm employed during feature-tracking strain assessment has a significant impact on the results. The non-rigid, elastic image registration algorithm produces more precise and reproducible results than the blood myocardium tracing algorithm.
+
+Citation: Thomas D, et al. Feature-tracking-based strain analysis - a comparison of tracking algorithms. Feature-tracking-based strain analysis - a comparison of tracking algorithms. 2020; 85:e97-e103. doi: 10.5114/pjr.2020.93610
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32467743/

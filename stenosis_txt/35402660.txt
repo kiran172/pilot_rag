@@ -1,0 +1,11 @@
+PMID: 35402660
+Title: Correlation between quantification of myocardial area at risk and ischemic burden at cardiac computed tomography.
+
+Abstract: PURPOSE: This study aims to investigate the correlation between myocardial area at risk at coronary computed tomography angiography (CCTA) and the ischemic burden derived from myocardial computed tomography perfusion (CTP) by using the 17-segment model.
+METHODS: Forty-two patients with chest pain complaints who underwent a combined CCTA and CTP protocol were identified. Patients with reversible ischemia at CTP and at least one stenosis of ≥ 50% at CCTA were selected. Myocardial area at risk was calculated using a Voronoi-based segmentation algorithm at CCTA and was defined as the sum of all territories related to a ≥ 50% stenosis as a percentage of the total left ventricular (LV) mass. The latter was calculated using LV contours which were automatically drawn using a machine learning algorithm. Subsequently, the ischemic burden was defined as the number of segments demonstrating relative hypoperfusion as a percentage of the total amount of segments (=17). Finally, correlations were tested between the myocardial area at risk and the ischemic burden using Pearson's correlation coefficient.
+RESULTS: A total of 77 coronary lesions were assessed. Average myocardial area at risk and ischemic burden for all lesions was 59% and 23%, respectively. Correlations for ≥ 50% and ≥ 70% stenosis based myocardial area at risk compared to ischemic burden were moderate (r = 0.564; p < 0.01) and good (r = 0.708; p < 0.01), respectively.
+CONCLUSION: The relation between myocardial area at risk as calculated by using a Voronoi-based algorithm at CCTA and ischemic burden as assessed by CTP is dependent on stenosis severity.
+
+Citation: van Driest FY, et al. Correlation between quantification of myocardial area at risk and ischemic burden at cardiac computed tomography. Correlation between quantification of myocardial area at risk and ischemic burden at cardiac computed tomography. 2022; 9:100417. doi: 10.1016/j.ejro.2022.100417
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35402660/

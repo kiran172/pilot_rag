@@ -1,0 +1,11 @@
+PMID: 38125618
+Title: Elevated plasma pyruvate kinase M2 concentrations are associated with the clinical severity and prognosis of coronary artery disease.
+
+Abstract: INTRODUCTION: Pyruvate kinase M2 (PKM2) was involved in the pathophysiology of atherosclerosis and coronary artery disease (CAD). We tested whether plasma PKM2 concentrations were correlated with clinical severity and major adverse cardiovascular events (MACEs) in CAD patients.
+MATERIALS AND METHODS: A total of 2443 CAD patients and 238 controls were enrolled. The follow-up time was two years. Plasma PKM2 concentrations were detected by enzyme-linked immunosorbent assay (ELISA) kits (Cloud-Clone, Wuhan, China) using SpectraMax i3x Multi-Mode Microplate Reader (Molecular Devices, San Jose, USA). The predictors of acute coronary syndrome (ACS) were assessed by logistic regression analysis. The association between PKM2 concentration in different quartiles and MACEs was evaluated by Kaplan-Meier (KM) curves with log-rank test and Cox proportional hazard models. The predictive value of PKM2 and a cluster of conventional risk factors was determined by Receiver operating characteristic (ROC) curves. The net reclassification improvement (NRI) and the integrated discrimination improvement (IDI) were utilized to evaluate the enhancement in risk prediction when PKM2 was added to a predictive model containing a cluster of conventional risk factors.
+RESULTS: In CAD patients, PKM2 concentration was the independent predictor of ACS (P < 0.001). Kaplan-Meier cumulative survival curves and Cox proportional hazards analyses revealed that patients with a higher PKM2 concentration had higher incidence of MACEs compared to those with a lower PKM2 concentration (P < 0.001). The addition of PKM2 to a cluster of conventional risk factors significantly increased its prognostic value of MACEs.
+CONCLUSION: Baseline plasma PKM2 concentrations predict the clinical severity and prognosis of CAD.
+
+Citation: Zhao ZW, et al. Elevated plasma pyruvate kinase M2 concentrations are associated with the clinical severity and prognosis of coronary artery disease. Elevated plasma pyruvate kinase M2 concentrations are associated with the clinical severity and prognosis of coronary artery disease. 2024; 34:010704. doi: 10.11613/BM.2024.010704
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38125618/

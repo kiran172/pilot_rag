@@ -1,0 +1,11 @@
+PMID: 35578755
+Title: Agreement between Murray law-based quantitative flow ratio (μQFR) and three-dimensional quantitative flow ratio (3D-QFR) in non-selected angiographic stenosis: A multicenter study.
+
+Abstract: BACKGROUND: The agreement between single-projection Murray-based quantitative flow ratio (mQFR) and conventional three-dimensional quantitative flow ratio (3D-QFR) has not been reported hitherto.
+METHODS: Patients from a multinational database were randomly selected for the study of agreement, according to sample size calculation. Both conventional 3D-QFR and mQFR were analyzed for all available arteries at a central corelab by independent analysts, blinded to each other's results.
+RESULTS: Ninety-eight coronary arteries from 35 patients were finally analyzed. Median 3D-QFR was 0.82 (interquartile range 0.78-0.87). The intraclass correlation coefficient for the absolute agreement between 3D-QFR and mQFR was 0.996 (95% confidence interval [CI]: 0.993-0.997); Lin's coefficient 0.996 (95% CI: 0.993-0.997), without constant or proportional bias (intercept = 0 and slope = 1 in orthogonal regression). As dichotomous variable, there was absolute agreement between mQFR and 3D-QFR, resulting in no single false positive or negative. Kappa index was 1 and the diagnostic accuracy 100%.
+CONCLUSIONS: mQFR using a single angiographic projection showed almost perfect agreement with standard 3D-QFR. These results encourage the interchangeable use of mQFR and 3D-QFR, which can be interesting to improve QFR feasibility in retrospective studies, wherein appropriate double angiographic projections might be challenging to obtain.
+
+Citation: Cortés C, et al. Agreement between Murray law-based quantitative flow ratio (μQFR) and three-dimensional quantitative flow ratio (3D-QFR) in non-selected angiographic stenosis: A multicenter study. Agreement between Murray law-based quantitative flow ratio (μQFR) and three-dimensional quantitative flow ratio (3D-QFR) in non-selected angiographic stenosis: A multicenter study. 2022; 29:388-395. doi: 10.5603/CJ.a2022.0030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35578755/

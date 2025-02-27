@@ -1,0 +1,12 @@
+PMID: 36345580
+Title: VWI-APP: Vessel wall imaging-dedicated automated processing pipeline for intracranial atherosclerotic plaque quantification.
+
+Abstract: BACKGROUND: Quantitative plaque assessment based on 3D magnetic resonance (MR) vessel wall imaging (VWI) has been shown to provide valuable numerical markers of the burden and risk of intracranial atherosclerotic disease (ICAD). However, plaque quantification is currently time-consuming and observer-dependent due to the demand for heavy manual effort. A VWI-dedicated automated processing pipeline (VWI-APP) is desirable.
+PURPOSE: To develop and evaluate a VWI-APP for end-to-end quantitative analysis of intracranial atherosclerotic plaque.
+METHODS: We retrospectively enrolled 91 subjects with ICAD (80 for pipeline development, 10 for an end-to-end pipeline evaluation, and 1 for demonstrating longitudinal plaque assessment) who had undergone VWI and MR angiography. In an end-to-end evaluation, diameter stenosis (DS), normalized wall index (NWI), remodeling ratio (RR), plaque wall contrast ratio (CR), and total plaque volume (TPV) were quantified at each culprit lesion using the developed VWI-APP and a computer-aided manual approach by a neuroradiologist, respectively. The time consumed in each quantification approach was recorded. Two-sided paired t-tests and intraclass correlation coefficient (ICC) were used to determine the difference and agreement in each plaque metric between VWI-APP and manual quantification approaches.
+RESULTS: There was no significant difference between VWI-APP and manual quantification in each plaque metric. The ICC was 0.890, 0.813, 0.827, 0.891, and 0.991 for DS, NWI, RR, CR, and TPV, respectively, suggesting good to excellent accuracy of the pipeline method in plaque quantification. Quantitative analysis of each culprit lesion on average took 675.7 s using the manual approach but shortened to 238.3 s with the aid of VWI-APP.
+CONCLUSIONS: VWI-APP is an accurate and efficient approach to intracranial atherosclerotic plaque quantification. Further clinical assessment of this automated tool is warranted to establish its utility in the risk assessment of ICAD lesions.
+
+Citation: Zhou H, et al. VWI-APP: Vessel wall imaging-dedicated automated processing pipeline for intracranial atherosclerotic plaque quantification. VWI-APP: Vessel wall imaging-dedicated automated processing pipeline for intracranial atherosclerotic plaque quantification. 2023; 50:1496-1506. doi: 10.1002/mp.16074
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36345580/

@@ -1,0 +1,11 @@
+PMID: 38162141
+Title: Comparison of the value of various complex indexes of blood cell types and lipid levels in coronary heart disease.
+
+Abstract: BACKGROUND: Inflammation and lipid infiltration play crucial roles in the development of atherosclerosis. This study aimed to investigate the association between various complex indexes of blood cell types and lipid levels with the severity of coronary artery stenosis and their predictive value in coronary heart disease (CHD).
+METHODS: The retrospective study was conducted on 3,201 patients who underwent coronary angiography at the Department of Zhongnan Hospital of Wuhan University. The patients were divided into two groups: CHD group and non-CHD group. The CHD group was further classified into three subgroups (mild, moderate, severe) based on the tertiles of their Gensini score or SYNTAX score I. Various complex indexes of blood cell types and lipid levels were compared between the groups.
+RESULTS: It revealed a positive correlation between all complex indexes and the severity of coronary artery stenosis. The systemic inflammation-response index/high-density lipoprotein cholesterol count (SIRI/HDL) exhibited the strongest correlation with both severity scores (Gensini score: r = 0.257, P &lt; 0.001; SYNTAX score I: r = 0.171, P &lt; 0.001). The monocyte to high-density lipoprotein cholesterol ratio (MHR) was identified as a stronger independent risk factor for CHD. However, SIRI/HDL had higher diagnostic efficacy for CHD (sensitivity 66.7%, specificity 60.4%, area under curve 0.680, 95% CI: 0.658-0.701). Notably, the pan-immune-inflammation value multiplied by low-density lipoprotein cholesterol count (PIV × LDL) exhibited the highest sensitivity of 85.2%.
+CONCLUSION: All complex indexes which we investigated exhibited positive correlations with the severity of coronary artery stenosis. SIRI/HDL demonstrated higher diagnostic efficiency for CHD and a significant correlation with the severity of coronary artery stenosis.
+
+Citation: Peng A, et al. Comparison of the value of various complex indexes of blood cell types and lipid levels in coronary heart disease. Comparison of the value of various complex indexes of blood cell types and lipid levels in coronary heart disease. 2023; 10:1284491. doi: 10.3389/fcvm.2023.1284491
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38162141/

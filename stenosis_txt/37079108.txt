@@ -1,0 +1,11 @@
+PMID: 37079108
+Title: Queckenstedt's test repurposed for the quantitative assessment of the cerebrospinal fluid pulsatility curve.
+
+Abstract: PURPOSE: Before the era of spinal imaging, presence of a spinal canal block was tested through gross changes in cerebrospinal fluid pressure (CSFP) provoked by manual compression of the jugular veins (referred to as Queckenstedt's test; QT). Beyond these provoked gross changes, cardiac-driven CSFP peak-to-valley amplitudes (CSFPp) can be recorded during CSFP registration. This is the first study to assess whether the QT can be repurposed to derive descriptors of the CSF pulsatility curve, focusing on feasibility and repeatability.
+METHOD: Lumbar puncture was performed in lateral recumbent position in fourteen elderly patients (59.7±9.3 years, 6F) (NCT02170155) without stenosis of the spinal canal. CSFP was recorded during resting state and QT. A surrogate for the relative pulse pressure coefficient was computed from repeated QTs (i.e., RPPC-Q).
+RESULTS: Resting state mean CSFP was 12.3 mmHg (IQR 3.2) and CSFPp was 1.0 mmHg (0.5). Mean CSFP rise during QT was 12.5 mmHg (7.3). CSFPp showed an average 3-fold increase at peak QT compared to the resting state. Median RPPC-Q was 0.18 (0.04). There was no systematic error in the computed metrics between the first and second QT.
+CONCLUSION: This technical note describes a method to reliably derive, beyond gross CSFP increments, metrics related to cardiac-driven amplitudes during QT (i.e., RPPC-Q). A study comparing these metrics as obtained by established procedures (i.e., infusion testing) and by QT is warranted.
+
+Citation: Kheram N, et al. Queckenstedt's test repurposed for the quantitative assessment of the cerebrospinal fluid pulsatility curve. Queckenstedt's test repurposed for the quantitative assessment of the cerebrospinal fluid pulsatility curve. 2023; 165:1533-1543. doi: 10.1007/s00701-023-05583-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37079108/

@@ -1,0 +1,14 @@
+PMID: 37848296
+Title: Volume-outcome relationship in balloon aortic valvuloplasty: results of a consecutive, patient-level data analysis from a Japanese nationwide multicentre registry (J-SHD).
+
+Abstract: OBJECTIVE: Transcatheter balloon aortic valvuloplasty (BAV) remains an important alternative treatment for severe, symptomatic aortic stenosis. With increasing numbers of BAVs being performed, the need for large-scale volume-outcome relationship assessments has become evident. Here, we aimed to explain such relationships by analysing consecutive, patient-level BAV data recorded in a prospective Japanese nationwide multicentre registry.
+DESIGN: Prospective study.
+SETTING: Data of 1920 BAVs performed in 200 Japanese hospitals from January 2015 to December 2019.
+PARTICIPANTS: The mean patient age was 85 years, and 36.9% of procedures involved male patients.
+METHODS: The efficacy of BAV was assessed by reducing the mean transaortic valve gradient after the procedure. We also assessed in-hospital complication rates, including in-hospital death, bleeding, urgent surgery, distal embolism, vessel rupture and contrast-induced nephropathy. Based on the distribution of case volume (median 20, IQR 10-46), we divided the patients into high-volume (≥20) and low-volume (<20) groups. In-hospital complication risk was assessed with adjustment by logistic regression modelling.
+RESULTS: Indications for BAV included palliative/destination (44.2%), bridge to transcatheter aortic valve replacement (34.5%), bridge to surgical aortic valve replacement (7.4%) and salvage (9.7%). Reduction of the mean transaortic valve gradient was similar between the high-volume and low-volume groups (20 mm Hg vs 20 mm Hg, p=0.12). The proportion of in-hospital complications during BAV was 4.2%, and the incidence of complications showed no difference between the high-volume and low-volume groups (4.2% vs 4.1%, p=1.00). Rather than hospital volume, salvage procedure was an independent predictor of in-hospital complications (OR, 4.04; 95% CI, 2.03 to 8.06; p<0.001).
+CONCLUSION: The current study demonstrated that procedural outcomes of BAV were largely independent of its institutional volume.
+
+Citation: Iwasaki M, et al. Volume-outcome relationship in balloon aortic valvuloplasty: results of a consecutive, patient-level data analysis from a Japanese nationwide multicentre registry (J-SHD). Volume-outcome relationship in balloon aortic valvuloplasty: results of a consecutive, patient-level data analysis from a Japanese nationwide multicentre registry (J-SHD). 2023; 13:e073597. doi: 10.1136/bmjopen-2023-073597
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37848296/

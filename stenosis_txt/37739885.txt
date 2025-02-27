@@ -1,0 +1,11 @@
+PMID: 37739885
+Title: Correlation between physiological assessment and imaging findings during drug-coated balloon treatment for femoropopliteal diseases.
+
+Abstract: BACKGROUND: This prospective cross-sectional study evaluated the correlation between physiological assessment (PA) and minimum lumen area (MLA) by intravascular ultrasound (IVUS) during drug-coated balloon (DCB) treatment for femoropopliteal (FP) diseases.
+METHODS: A total of 51 limbs of 44 patients undergoing endovascular treatment with DCB for de novo FP disease were examined from April 2022 to February 2023. PA was conducted at baseline, after balloon dilatation, and after DCB treatment. PA was measured before (pressure ratio; PR) and after vasodilation (peripheral flow fractional flow reserve; pFFR) with the administration of 30 mg papaverine through a guiding catheter. The correlation of PA with percent diameter stenosis (%DS) and MLA was examined, and factors correlated with higher pFFR after balloon dilatation were evaluated in a multivariate analysis.
+RESULTS: At baseline, there were correlations between pressure ratio (PR) and %DS (coefficients: 0.641 [p < 0.001]) and between pFFR and %DS (0.666 [p < 0.001]). After balloon dilatation, there was no correlation between PR and %DS (coefficients: 0.33 [p = 0.27]) or between pFFR and %DS (0.41 [p = 0.71]). At baseline, PR and MLA were correlated (coefficients: 0.757 [p < 0.001]) as were pFFR and MLA (0.762 [p < 0.001]). After balloon dilatation, PR and MLA were correlated (coefficients: 0.524 [p < 0.001]) as were pFFR and MLA (0.601 [p < 0.001]). Balloon/EEM ratio, calcification >270°, and chronic total occlusion were associated with pFFR after balloon dilatation.
+CONCLUSION: After balloon dilatation, PA was correlated with MLA by IVUS but not with %DS based on angiography.
+
+Citation: Iwasaki Y, et al. Correlation between physiological assessment and imaging findings during drug-coated balloon treatment for femoropopliteal diseases. Correlation between physiological assessment and imaging findings during drug-coated balloon treatment for femoropopliteal diseases. 2024; 60:66-71. doi: 10.1016/j.carrev.2023.09.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37739885/

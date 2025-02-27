@@ -1,0 +1,12 @@
+PMID: 38939627
+Title: Angiotensin-Converting Enzyme Inhibitors or Angiotensin Receptor Blockers After Transcatheter Aortic Valve Replacement: A Meta-Analysis.
+
+Abstract: BACKGROUND: Persistent left ventricular hypertrophy after transcatheter aortic valve replacement (TAVR) has been associated with poor outcomes. Angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin receptor blockers (ARBs), due to their favorable effects on ventricular remodeling, have been hypothesized to improve outcomes post-TAVR, yet there are no recommendations regarding their use.
+OBJECTIVES: This study aimed to compare the outcomes of patients receiving ACEIs/ARBs with those not receiving ACEIs/ARBs after TAVR.
+METHODS: We performed a literature search on PubMed and Cochrane Library until June 14, 2023, and included all studies comparing clinical outcomes between patients given ACEIs/ARBs and those not given ACEIs/ARBs after TAVR. All-cause mortality was the primary outcome. We used a random effects model with appropriate corrections to calculate relative risk (RR) and CIs, with all analyses carried out using R v4.0.3.
+RESULTS: We included ten studies on the use of ACEIs/ARBs post-TAVR. Patients on ACEIs/ARBs had lower risk of all-cause mortality (RR: 0.74, 95% CI: 0.65-0.86, I2 = 62%, chi-square P &lt; 0.01), cardiovascular mortality (RR: 0.70, 95% CI: 0.56-0.88, I2 = 0%, chi-square P = 0.54), and new-onset atrial fibrillation (RR: 0.71, 95% CI: 0.52-0.96, I2 = 0%, chi-square P = 0.59). Patients on ACEIs/ARBs had a similar risk of myocardial infarction, heart failure, stroke, new permanent pacemaker implantation, acute kidney injury, major bleeding, vascular complications, aortic regurgitation, and mitral regurgitation.
+CONCLUSIONS: We found that patients receiving ACEIs/ARBs had a lower risk of all-cause mortality, cardiovascular mortality, and new-onset atrial fibrillation. Risk of other outcomes was similar to patients not receiving ACEIs/ARBs. Randomized clinical trials are needed to explore the benefits of ACEIs/ARBs post-TAVR, so that definitive guidelines can be developed.
+
+Citation: Bhat V, et al. Angiotensin-Converting Enzyme Inhibitors or Angiotensin Receptor Blockers After Transcatheter Aortic Valve Replacement: A Meta-Analysis. Angiotensin-Converting Enzyme Inhibitors or Angiotensin Receptor Blockers After Transcatheter Aortic Valve Replacement: A Meta-Analysis. 2024; 3:100927. doi: 10.1016/j.jacadv.2024.100927
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38939627/

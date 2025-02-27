@@ -1,0 +1,12 @@
+PMID: 35037475
+Title: Differences in cerebral blood flow measurement using arterial spin labeling MRI between patients with moyamoya disease and patients with arteriosclerotic cerebrovascular disease.
+
+Abstract: BACKGROUND: It is unclear whether the accuracy of arterial spin labeling (ASL) magnetic resonance imaging (MRI) is the same between moyamoya disease (MMD), which is known to have markedly elevated cerebral blood volume (CBV), and atherosclerotic intracranial arterial stenosis (AS), which has relatively less elevated CBV.
+PURPOSE: To investigate how the differences in hemodynamics affect measurement of ASL-cerebral blood flow (CBF) using ASL for patients with MMD and AS.
+MATERIAL AND METHODS: Fourteen MMD and ten AS patients were evaluated with ASL-MRI, magnetic resonance angiography (MRA), and 15O-gas positron emission computed tomography (PET). The regional CBF values of ASL using two post-labeling delays (PLDs; 1525 ms and 2525 ms) were compared with the PET-derived CBF, CBV, and mean transit time (MTT). Corresponding anterior circulation results were evaluated by flow territory map-based analysis.
+RESULTS: The correlation between the ASL-CBF values (2525 ms) and PET-CBF declined in the MMD group (r = 0.28; P &lt; 0.01), while the AS group showed good correlation (r = 0.77; P &lt; 0.01). In the MMD group, the ASL-CBF values (2525 ms) overestimated the PET-CBF values as the regional CBV values increased (r = 0.35; P &lt; 0.01). When the regions of interest were divided into two subgroups according to the degree of arterial stenosis by MRA, the correlation coefficient between the ASL-CBF (2525 ms) and PET-CBF values improved (mild stenosis: r = 0.36; P = 0.06; severe stenosis: r = 0.51; P &lt; 0.01).
+CONCLUSION: The accuracy of CBF measurements using ASL-MRI differed between patients with MMD and AS. The prominent increase of CBV and the degree of arterial stenosis may have affected the accuracy of ASL-CBF in patients with MMD.
+
+Citation: Ueda Y, et al. Differences in cerebral blood flow measurement using arterial spin labeling MRI between patients with moyamoya disease and patients with arteriosclerotic cerebrovascular disease. Differences in cerebral blood flow measurement using arterial spin labeling MRI between patients with moyamoya disease and patients with arteriosclerotic cerebrovascular disease. 2023; 64:311-319. doi: 10.1177/02841851211069245
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35037475/

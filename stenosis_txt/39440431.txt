@@ -1,0 +1,11 @@
+PMID: 39440431
+Title: Causal associations between kidney function and aortic valve stenosis: a bidirectional Mendelian randomization analysis.
+
+Abstract: BACKGROUND: Aortic valve stenosis (AVS) is currently the most common heart valve disease. The results of observational studies on the incidence of AVS in the renal dysfunction population are contradictory due to the short follow-up period and different diagnostic criteria, etc. This study aimed to explore the causal relationship between kidney function and AVS using Mendelian randomization (MR) analysis.
+METHODS: We acquired summary statistics of estimated glomerular filtration rate (eGFR) and chronic kidney disease (CKD) from the CKDGen Consortium and a study on AVS from the FinnGen biobank. Univariate and multivariable MR analyses were conducted to evaluate the causal associations. The MR-Egger intercept and MR-PRESSO Global test were applied to assess the pleiotropic effects. The heterogeneity of MR results was tested by Cochran's Q statistic. Moreover, the Bonferroni and FDR corrections were performed for multiple tests.
+RESULTS: Genetically predicted decreased eGFR may be associated with a raised risk of AVS (OR = 0.045, p = 1.317e-04 by IVW; OR = 0.002, p = 0.004 by MR-Egger, OR = 0.091, p = 0.057 by WM). The causal association still established after multiple comparisons. Quality control analyses indicated the absence of heterogeneity and pleiotropy in our MR research. In addition, the causality of eGFR and AVS remained significant in multivariable MR analysis after adjusting BMI, hypertension, T2DM, LDL-C, and smoking.
+CONCLUSION: Our MR study discovered that reduced eGFR may be a causative risk factor for AVS. In addition, the evidence did not support a significant causal association of AVS on kidney function.
+
+Citation: Pan W, et al. Causal associations between kidney function and aortic valve stenosis: a bidirectional Mendelian randomization analysis. Causal associations between kidney function and aortic valve stenosis: a bidirectional Mendelian randomization analysis. 2024; 46:2417742. doi: 10.1080/0886022X.2024.2417742
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39440431/

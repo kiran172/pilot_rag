@@ -1,0 +1,11 @@
+PMID: 32271246
+Title: Computational fluid dynamic study of multiple sequential coronary artery bypass anastomoses in a native coronary stenosis model.
+
+Abstract: BACKGROUND: The objective of this study was to evaluate the hemodynamic characteristics of multiple sequential coronary artery bypass grafting using a computational fluid dynamics study.
+METHODS: First anastomosis was configured into parallel and diamond anastomoses, and the second anastomosis was set as end-side anastomosis. The anastomosis incision lengths were fixed at 2 mm. Various combinations of the degree of first and second stenoses were studied. The diameter of both the native and graft vessels was set at 2 mm. The inlet boundary condition was set by a sample of the transient time flow measurement, which was measured intraoperatively.
+RESULTS: Both swirl and stagnation were observed at the outlets of the stenosis and the anastomosis sites. When the severity of the second stenosis was larger than that of the first, the flow at the outlet of the second stenosis was more unstable. Higher wall shear stress and larger oscillatory shear index regions were observed when the severe stenosis was bypassed by the first anastomosis, especially with diamond anastomoses. Less energy loss and higher energy efficiency were present when the vessel with more severe stenosis was bypassed as the second anastomosis. Energy loss was lower and energy efficiency was higher with parallel anastomosis than diamond anastomosis when the severity of the two stenoses was the same.
+CONCLUSIONS: It is ideal to bypass the less severe stenosis vessel first with a parallel anastomosis method when employing multiple sequential bypass grafting. This improves hemodynamic stability and energy efficiency, according to a computational fluid dynamics model.
+
+Citation: Matsuura K, et al. Computational fluid dynamic study of multiple sequential coronary artery bypass anastomoses in a native coronary stenosis model. Computational fluid dynamic study of multiple sequential coronary artery bypass anastomoses in a native coronary stenosis model. 2020; 31:458-463. doi: 10.1097/MCA.0000000000000864
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32271246/

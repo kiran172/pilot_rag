@@ -1,0 +1,11 @@
+PMID: 38153750
+Title: The Impact of Carotid Endarterectomy on Choriocapillaris Perfusion.
+
+Abstract: PURPOSE: The impact of carotid endarterectomy (CEA) on choriocapillaris (CC) perfusion was investigated using swept-source optical coherence tomography angiography (SS-OCTA) imaging before and after surgery in patients with clinically significant carotid artery stenosis (CAS).
+METHODS: In this prospective observational study, patients with clinically significant CAS undergoing unilateral CEA had SS-OCTA imaging performed in both eyes before and within 1 week after surgery. The percent CC flow deficits (CC FD%) and CC thickness were assessed using previously validated algorithms. Multivariable regression analysis was conducted to evaluate the impact of variables on the change in CC measurements.
+RESULTS: A total of 112 eyes from 56 patients with an average age of 72.6 ± 6.9 years were enrolled. At baseline, significantly higher CC FD% and thinner CC thickness were observed on the surgical side (eyes ipsilateral to the side of CEA) versus the nonsurgical side (eyes contralateral to the side of CEA) (P = 0.001 and P = 0.03, respectively). Following CEA, a significant reduction in CC FD% and a significant increase in CC thickness were detected on the surgical as compared with the nonsurgical side (P = 0.008 and P = 0.01, respectively). Smoking status positively affected CC FD% change (coefficient of variation [CV] = 0.84, P = 0.01) on the surgical side and negatively affected CC thickness change on both the surgical side (CV = -0.382, P = 0.009) and the nonsurgical side (CV = -0.321, P = 0.04). The degree of stenosis demonstrated a positive influence on CC FD% change (CV = 0.040, P = 0.02) on the surgical side.
+CONCLUSIONS: Unilateral CEA on the side of clinically significant CAS increases carotid blood flow, which further results in improved CC perfusion.
+
+Citation: Zhou SW, et al. The Impact of Carotid Endarterectomy on Choriocapillaris Perfusion. The Impact of Carotid Endarterectomy on Choriocapillaris Perfusion. 2023; 64:42. doi: 10.1167/iovs.64.15.42
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38153750/

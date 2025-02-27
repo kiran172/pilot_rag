@@ -1,0 +1,11 @@
+PMID: 33012741
+Title: Development of Novel Artificial Intelligence to Detect the Presence of Clinically Meaningful Coronary Atherosclerotic Stenosis in Major Branch from Coronary Angiography Video.
+
+Abstract: AIM: The clinically meaningful coronary stenosis is diagnosed by trained interventional cardiologists. Whether artificial intelligence (AI) could detect coronary stenosis from CAG video is unclear.
+METHODS: The 199 consecutive patients who underwent coronary arteriography (CAG) with chest pain between December 2018 and May 2019 was enrolled. Each patient underwent CAG with multiple view resulting in total numbers of 1,838 videos. A multi-layer 3-dimensional convolution neural network (CNN) was trained as an AI to detect clinically meaningful coronary artery stenosis diagnosed by the expert interventional cardiologist, using data from 146 patients (resulted in 1,359 videos) randomly selected from the entire dataset (training dataset). This training dataset was further split into 109 patients (989 videos) for derivation and 37 patients (370 videos) for validation. The AI developed in derivation cohort was tuned in validation cohort to make final model.
+RESULTS: The final model was selected as the model with best performance in validation dataset. Then, the predictive accuracy of final model was tested with the remaining 53 patients (479 videos) in test dataset. Our AI model showed a c-statistic of 0.61 in validation dataset and 0.61 in test dataset, respectively.
+CONCLUSION: An artificial intelligence applied to CAG videos could detect clinically meaningful coronary atherosclerotic stenosis diagnosed by expert cardiologists with modest predictive value. Further studies with improved AI at larger sample size is necessary.
+
+Citation: Yabushita H, et al. Development of Novel Artificial Intelligence to Detect the Presence of Clinically Meaningful Coronary Atherosclerotic Stenosis in Major Branch from Coronary Angiography Video. Development of Novel Artificial Intelligence to Detect the Presence of Clinically Meaningful Coronary Atherosclerotic Stenosis in Major Branch from Coronary Angiography Video. 2021; 28:835-843. doi: 10.5551/jat.59675
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33012741/

@@ -1,0 +1,8 @@
+PMID: 36399789
+Title: Kinetic and Dynamic Effects on Degradation of von Willebrand Factor.
+
+Abstract: The loss of high molecular weight multimers (HMWM) of von Willebrand factor (vWF) in aortic stenosis (AS) and continuous-flow left ventricular assist devices (cf-LVADs) is believed to be associated with high turbulent blood shear. The objective of this study is to understand the degradation mechanism of HMWM in terms of exposure time (kinetic) and flow regime (dynamics) within clinically relevant pathophysiologic conditions. A custom high-shear rotary device capable of creating fully controlled exposure times and flows was used. The system was set so that human platelet-poor plasma flowed through at 1.75 ml/sec, 0.76 ml/sec, or 0.38 ml/sec resulting in the exposure time ( texp ) of 22, 50, or 100 ms, respectively. The flow was characterized by the Reynolds number (Re). The device was run under laminar (Re = 1,500), transitional (Re = 3,000; Re = 3,500), and turbulent (Re = 4,500) conditions at a given texp followed by multimer analysis. No degradation was observed at laminar flow at all given texp . Degradation of HMWM at a given texp increases with the Re. Re ( p < 0.0001) and texp ( p = 0.0034) are significant factors in the degradation of HMWM. Interaction between Re and texp , however, is not always significant ( p = 0.73).
+
+Citation: Jhun CS, et al. Kinetic and Dynamic Effects on Degradation of von Willebrand Factor. Kinetic and Dynamic Effects on Degradation of von Willebrand Factor. 2023; 69:467-474. doi: 10.1097/MAT.0000000000001848
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36399789/

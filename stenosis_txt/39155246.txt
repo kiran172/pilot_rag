@@ -1,0 +1,8 @@
+PMID: 39155246
+Title: [Deep Learning-Based Artificial Intelligence Model for Automatic Carotid Plaque Identification].
+
+Abstract: This study aims at developing a dataset for determining the presence of carotid artery plaques in ultrasound images, composed of 1761 ultrasound images from 1165 participants. A deep learning architecture that combines bilinear convolutional neural networks with residual neural networks, known as the single-input BCNN-ResNet model, was utilized to aid clinical doctors in diagnosing plaques using carotid ultrasound images. Following training, internal validation, and external validation, the model yielded an ROC AUC of 0.99 (95% confidence interval: 0.91 to 0.84) in internal validation and 0.95 (95% confidence interval: 0.96 to 0.94) in external validation, surpassing the ResNet-34 network model, which achieved an AUC of 0.98 (95% confidence interval: 0.99 to 0.95) in internal validation and 0.94 (95% confidence interval: 0.95 to 0.92) in external validation. Consequently, the single-input BCNN-ResNet network model has shown remarkable diagnostic capabilities and offers an innovative solution for the automatic detection of carotid artery plaques.
+
+Citation: He L, et al. [Deep Learning-Based Artificial Intelligence Model for Automatic Carotid Plaque Identification]. [Deep Learning-Based Artificial Intelligence Model for Automatic Carotid Plaque Identification]. 2024; 48:361-366. doi: 10.12455/j.issn.1671-7104.240009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39155246/

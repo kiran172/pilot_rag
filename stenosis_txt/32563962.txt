@@ -1,0 +1,11 @@
+PMID: 32563962
+Title: Comparison of compressed sensing and conventional coronary magnetic resonance angiography for detection of coronary artery stenosis.
+
+Abstract: PURPOSE: This study aimed to compare the efficacy of compressed sensing (CS) and conventional coronary magnetic resonance angiography (CMRA) in detecting coronary artery stenosis.
+METHOD: Twenty-eight patients underwent 3 T contrast-enhanced CS and conventional CMRA; for late gadolinium enhancement (LGE) imaging, 0.1 mmol/kg gadolinium medium was infused. CS CMRA was scanned within the LGE waiting time. After the LGE image acquisition, conventional CMRA was performed. The diagnostic performance of both CMRA for the detection of significant stenosis was evaluated using coronary angiography as a reference. The analysis was conducted to examine the three main coronary artery vessels: left anterior descending artery (LAD), left circumflex artery (LCX), and right coronary artery (RCA). These arteries were subdivided into 8 segments (LAD; main, proximal, and middle, LCX; proximal and distal, RCA; proximal, middle, and distal). Of these, hypoplastic segments and vessels after coronary stent implantation were excluded. The acquisition time of CS CMRA was compared with that of conventional CMRA.
+RESULTS: The coronary arteries were evaluated in 197 segments. The sensitivity, specificity, and accuracy of CS CMRA in detecting significant stenosis were 85.2 %, 82.5 %, and 83.2 %, respectively, on a per-segment basis. Those of conventional CMRA were 85.2 %, 86.7 %, and 86.3 %, respectively. The acquisition time was 207 s (range, 144-258 s) for CS and 975 s (range, 787-1226s) for conventional CMRA (p < 0.001).
+CONCLUSIONS: Similar to conventional CMRA, CS CMRA has shown potential for the detection of significant coronary artery stenosis.
+
+Citation: Ogawa R, et al. Comparison of compressed sensing and conventional coronary magnetic resonance angiography for detection of coronary artery stenosis. Comparison of compressed sensing and conventional coronary magnetic resonance angiography for detection of coronary artery stenosis. 2020; 129:109124. doi: 10.1016/j.ejrad.2020.109124
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32563962/

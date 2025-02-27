@@ -1,0 +1,11 @@
+PMID: 34529944
+Title: Effect of intensive versus limited monitoring on clinical trial conduct and outcomes: A randomized trial.
+
+Abstract: BACKGROUND: Regulatory agencies have endorsed more limited approaches to clinical trial site monitoring. However, the impact of different monitoring strategies on trial conduct and outcomes is unclear.
+METHODS: We conducted a patient-level block-randomized controlled trial evaluating the effect of intensive versus limited monitoring on cardiovascular clinical trial conduct and outcomes nested within the CoreValve Continued Access and Expanded Use Studies. Intensive monitoring included complete source data verification of all critical datapoints whereas limited monitoring included automated data checks only. This study's endpoints included clinical trial outcome ascertainment as well as monitoring action items, protocol deviations, and adverse event ascertainment.
+RESULTS: A total of 2,708 patients underwent transcatheter aortic valve replacement (TAVR) and were randomized to either intensive monitoring (n = 1,354) or limited monitoring (n = 1,354). Monitoring action items were more common with intensive monitoring (52% vs 15%; P < .001), but there was no difference in the percentage of patients with any protocol deviation (91.6% vs 90.4%; P = .314). The reported incidence of trial outcomes between intensive and limited monitoring was similar for mortality (30 days: 4.8% vs 5.5%, P = .442; 1 year: 20.3% vs 21.3%, P = .473) and stroke (30 days: 2.8% vs 2.4%, P = .458), as well as most secondary trial outcomes with the exception of bleeding (intensive: 36.3% vs limited: 32.0% at 30 days, P = .019). There was a higher reported incidence of cardiac adverse events reported in the intensive monitoring group at 1 year (76.7% vs 72.4%; P = .019).
+CONCLUSIONS: Tailored limited monitoring strategies can be implemented without influencing the integrity of TAVR trial outcomes.
+
+Citation: Butala NM, et al. Effect of intensive versus limited monitoring on clinical trial conduct and outcomes: A randomized trial. Effect of intensive versus limited monitoring on clinical trial conduct and outcomes: A randomized trial. 2022; 243:77-86. doi: 10.1016/j.ahj.2021.09.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34529944/

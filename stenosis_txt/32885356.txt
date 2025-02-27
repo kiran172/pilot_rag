@@ -1,0 +1,11 @@
+PMID: 32885356
+Title: Contrast optimization in arterial spin labeling with multiple post-labeling delays for cerebrovascular assessment.
+
+Abstract: OBJECTIVE: Improving the readout for arterial spin labeling with multiple post-labeling delays (multi-PLD ASL) through a flip angle (FA) sweep towards increasing contrast-to-noise ratio for long PLD images.
+METHODS: Images were acquired from 20 healthy subjects and 14 patients with severe, asymptomatic carotid artery stenosis (ACAS) in a 3T MRI scanner. Multi-PLD ASL images with conventional and proposed (FA sweep) readouts were acquired. For patients, magnetic resonance angiography was used to validate the multi-PLD ASL results. Perfusion values were calculated for brain regions irrigated by the main cerebral arteries and compared by analysis of variance.
+RESULTS: For healthy subjects, better contrast was obtained for long PLDs when using the proposed multi-PLD method compared to the conventional. For both methods, no hemispheric difference of perfusion was observed. For patients, the proposed method facilitated the observation of delayed tissue perfusion, which was not visible for long PLD using the conventional multi-PLD ASL.
+CONCLUSION: We successfully assessed brain perfusion of patients with asymptomatic CAS using multi-PLD ASL with FA sweep. We were able to show subtle individual differences. Moreover, prolonged arterial transit time in patients was observed, although they were considered asymptomatic, suggesting that it may not be an adequate term to characterize them.
+
+Citation: Paschoal AM, et al. Contrast optimization in arterial spin labeling with multiple post-labeling delays for cerebrovascular assessment. Contrast optimization in arterial spin labeling with multiple post-labeling delays for cerebrovascular assessment. 2021; 34:119-131. doi: 10.1007/s10334-020-00883-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32885356/

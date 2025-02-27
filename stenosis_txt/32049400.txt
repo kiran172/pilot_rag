@@ -1,0 +1,12 @@
+PMID: 32049400
+Title: Correlation between Doppler echocardiography and right heart catheterization assessment of systolic pulmonary artery pressure in patients with severe aortic stenosis.
+
+Abstract: OBJECTIVES: The aim of this study was to investigate reliability and accuracy of noninvasive measurement method by echocardiography compared to invasive measurement of systolic pulmonary artery pressure (SPAP) in a large cohort of aortic stenosis (AS) patients.
+BACKGROUND: Pulmonary hypertension (PH) is common in patients with cardiac disease, especially in left heart disease like severe AS. Invasive measurement by right heart catheterization (RHC) is the gold standard to assess pulmonary pressures. Nevertheless, echocardiography is widely used in everyday practice for estimation of pulmonary pressures and diagnosing PH.
+METHODS: A total of 1400 patients with AS and full invasive hemodynamic assessment by RHC and noninvasive measurements by Doppler echocardiography were included.
+RESULTS: Mean patient age was 81.5 ± 6.8 years, and 46.3% were males. SPAP was 44.7 ± 15.1 mm Hg by echocardiography and 45.3 ± 15.2 mm Hg by RHC. Pearson's correlation coefficient was r = .820 (P < .0001). Bland-Altman analysis showed a bias of -0.56 mm Hg (95% limits of agreement -18.38 to + 17.26 mm Hg) and 80.6% measurement accuracy. Pulmonary hypertension defined by RHC as a mean PAP ≥25 mm Hg was reliably diagnosed via an echocardiographically measured SPAP of >40 mm Hg (82.2% sensitivity, 80.2% specificity, 83.1% positive predictive value, 79.2% negative predictive value).
+CONCLUSIONS: In a large cohort of patients with severe aortic stenosis, we could demonstrate a very good correlation of SPAP between Doppler echocardiography and invasive RHC measurement. Pulmonary hypertension could be diagnosed by echocardiography with high sensitivity and specificity.
+
+Citation: Schewel J, et al. Correlation between Doppler echocardiography and right heart catheterization assessment of systolic pulmonary artery pressure in patients with severe aortic stenosis. Correlation between Doppler echocardiography and right heart catheterization assessment of systolic pulmonary artery pressure in patients with severe aortic stenosis. 2020; 37:380-387. doi: 10.1111/echo.14611
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32049400/

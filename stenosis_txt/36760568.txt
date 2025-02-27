@@ -1,0 +1,12 @@
+PMID: 36760568
+Title: Assessment of fractional flow reserve in intermediate coronary stenosis using optical coherence tomography-based machine learning.
+
+Abstract: OBJECTIVES: This study aimed to evaluate and compare the diagnostic accuracy of machine learning (ML)- fractional flow reserve (FFR) based on optical coherence tomography (OCT) with wire-based FFR irrespective of the coronary territory.
+BACKGROUND: ML techniques for assessing hemodynamics features including FFR in coronary artery disease have been developed based on various imaging modalities. However, there is no study using OCT-based ML models for all coronary artery territories.
+METHODS: OCT and FFR data were obtained for 356 individual coronary lesions in 130 patients. The training and testing groups were divided in a ratio of 4:1. The ML-FFR was derived for the testing group and compared with the wire-based FFR in terms of the diagnosis of ischemia (FFR ≤ 0.80).
+RESULTS: The mean age of the subjects was 62.6 years. The numbers of the left anterior descending, left circumflex, and right coronary arteries were 130 (36.5%), 110 (30.9%), and 116 (32.6%), respectively. Using seven major features, the ML-FFR showed strong correlation (r = 0.8782, P &lt; 0.001) with the wire-based FFR. The ML-FFR predicted wire-based FFR ≤ 0.80 in the test set with sensitivity of 98.3%, specificity of 61.5%, and overall accuracy of 91.7% (area under the curve: 0.948). External validation showed good correlation (r = 0.7884, P &lt; 0.001) and accuracy of 83.2% (area under the curve: 0.912).
+CONCLUSION: OCT-based ML-FFR showed good diagnostic performance in predicting FFR irrespective of the coronary territory. Because the study was a small-size study, the results should be warranted the performance in further large-scale research.
+
+Citation: Cha JJ, et al. Assessment of fractional flow reserve in intermediate coronary stenosis using optical coherence tomography-based machine learning. Assessment of fractional flow reserve in intermediate coronary stenosis using optical coherence tomography-based machine learning. 2023; 10:1082214. doi: 10.3389/fcvm.2023.1082214
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36760568/

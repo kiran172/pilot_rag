@@ -1,0 +1,12 @@
+PMID: 37125542
+Title: Numerical simulation of hemodynamics in patient-specific pulmonary artery stenosis.
+
+Abstract: BACKGROUND: The incidence rate of pulmonary artery stenosis is increasing year by year and its numerical simulation has become a key project of biomedical engineering.
+OBJECTIVE: The purpose of this work is to study the changes of hemodynamic parameters in patient-specific pulmonary artery stenosis.
+METHODS: A pulmonary artery stenosis model is established based on patient-specific computed tomography (CT) images. According to the actual anatomy of patient-specific pulmonary artery stenosis, the stenosis area is simulated using a porous medium to study its hemodynamic changes. The computational fluid dynamics (CFD) method is used to simulate the hemodynamic changes of pulmonary artery stenosis, and to explore the mechanical characteristics between blood flow and vessel wall.
+RESULTS: The results suggest that the blood pressures of arterial branches increase and the pressure drop at both ends of the stenosis is higher. There is a high flow rate and wall shear stress at the stenosis.
+CONCLUSION: This study shows that the hemodynamic model of pulmonary artery stenosis can be accurately reconstructed by achieving numerical simulation of the local stenosis through CT images, and this work has important implications for improving the confidence of clinical diagnosis and treatment of pulmonary artery diseases.
+
+Citation: He F, et al. Numerical simulation of hemodynamics in patient-specific pulmonary artery stenosis. Numerical simulation of hemodynamics in patient-specific pulmonary artery stenosis. 2023; 34:427-437. doi: 10.3233/BME-222523
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37125542/

@@ -1,0 +1,11 @@
+PMID: 36155268
+Title: Association Between Race, Gender, and Pediatric Postoperative Outcomes: An Updated Retrospective Review.
+
+Abstract: INTRODUCTION: There has not been a recent evaluation of the association between racial and gender and surgical outcomes in children. We aimed to evaluate improvements in race- and gender-related pediatric postoperative outcomes since a report utilizing the Kids' Inpatient Database data from 2003 to 2006.
+METHODS: Using Kids' Inpatient Database (2009, 2012, 2016), we identified 245,976 pediatric patients who underwent appendectomy for acute appendicitis (93.6%), pyloromyotomy for pyloric stenosis (2.7%), empyema decortication (1.6%), congenital diaphragmatic hernia repair (0.7%), small bowel resection for intussusception (0.5%), or colonic resection for Hirschsprung disease (0.2%). The primary outcome was the development of postoperative complications. Multivariable logistic regression was used to evaluate risk-adjusted associations among race, gender, income, and postoperative complications.
+RESULTS: Most patients were male (61.5%) and 45.7% were White. Postoperative complications were significantly associated with male gender (P < 0.0001) and race (P < 0.0001). After adjustment, Black patients were more likely to experience any complication than White patients (adjusted odds ratio 1.3, confidence interval 1.2-1.4), and males were more likely than females (adjusted odds ratio 1.3, confidence interval 1.2-1.4).
+CONCLUSIONS: No clear progress has been made in eliminating race- or gender-based disparities in pediatric postoperative outcomes. New strategies are needed to better understand and address these disparities.
+
+Citation: Jackson JE, et al. Association Between Race, Gender, and Pediatric Postoperative Outcomes: An Updated Retrospective Review. Association Between Race, Gender, and Pediatric Postoperative Outcomes: An Updated Retrospective Review. 2023; 281:112-121. doi: 10.1016/j.jss.2022.08.027
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36155268/

@@ -1,0 +1,11 @@
+PMID: 34139187
+Title: Enhanced Detection of Heart Valve Disease Using Integrated Artificial Intelligence at Scale.
+
+Abstract: BACKGROUND: Undertreatment of heart valve disease creates unnecessary patient risk. Poorly integrated healthcare data systems are unequipped to solve this problem. A software program using a rules-based algorithm to search the electronic health record for heart valve disease among patients treated by healthcare systems in the United States may provide a solution.
+METHODS: A software interface allowed concurrent access to picture archiving communication systems, the electronic health record, and other sources. The software platform was created to programmatically run a rules engine to search structured and unstructured data for identification of moderate or severe heart valve disease using guideline-reported values. Incidence and progression of disease as well as compliance with a care pathway were assessed.
+RESULTS: In 2 health institutions in the United States 60,145 patients had 77,215 echocardiograms. Moderate or severe aortic stenosis (AS) was identified at a rate of 9.1% of patients (5474 and 6910 echocardiograms) in this population. The precision and accuracy of the algorithm for the detection of moderate or severe AS was 92.9% and 98.6%, respectively. Thirty-five percent of patients (441/1265) with moderate stenosis and a subsequent echocardiogram progressed to severe stenosis (mean interval, 358 days). In 1 sample 70.3% of moderate AS patients lacked a 6-month echocardiogram or appointment. The platform enabled 100% accountability for all patients with severe AS.
+CONCLUSIONS: A rules-based software program enhances detection of heart valve disease and can be used to measures disease progression and care pathway compliance.
+
+Citation: O'Hair DP, et al. Enhanced Detection of Heart Valve Disease Using Integrated Artificial Intelligence at Scale. Enhanced Detection of Heart Valve Disease Using Integrated Artificial Intelligence at Scale. 2022; 113:1499-1504. doi: 10.1016/j.athoracsur.2021.04.106
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34139187/

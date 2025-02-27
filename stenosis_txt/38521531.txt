@@ -1,0 +1,14 @@
+PMID: 38521531
+Title: Association of the triglyceride-glucose index with severity of coronary stenosis and in-hospital mortality in patients with acute ST elevation myocardial infarction after percutaneous coronary intervention: a multicentre retrospective analysis cohort study.
+
+Abstract: OBJECTIVES: To explore the impact of the triglyceride-glucose (TyG) index on the severity of coronary stenosis and the risk of in-hospital mortality in patients with acute ST segment elevation myocardial infarction (STEMI) after percutaneous coronary intervention (PCI).
+DESIGN: A multicentre retrospective cohort study.
+SETTING: Patients with STEMI undergoing PCI from three centres in China from 2015 to 2019.
+PARTICIPANTS: A total of 1491 individuals presenting with STEMI were enrolled.
+PRIMARY OUTCOME MEASURE: The degree of coronary stenosis was quantified by the Gensini score (GS). The association between the TyG index and the severity of coronary stenosis was explored by using a logistic regression analysis. Cox proportional hazards regression analyses were used to investigate the associations between the variables and in-hospital mortality.
+RESULTS: We found a significant correlation between the TyG index and the degree of coronary stenosis in the present study. The TyG index was an independent risk factor for the severity of coronary stenosis (OR 2.003, p<0.001). Using the lowest tertile of the TyG (T1) group as a reference, the adjusted ORs for the T2 group and the T3 group and a high GS were 1.732 (p<0.001), 1.968 (p<0.001), respectively, and all p for trend <0.001. For predicting a high GS, the TyG index's area under the curve was 0.668 (95% CI 0.635 to 0.700, p<0.001). Additionally, the TyG index was further demonstrated to be an independent predictor of in-hospital mortality in patients with STEMI (HR 1.525, p<0.001).
+CONCLUSIONS: The TyG index was associated with the severity of coronary stenosis and all-cause in-hospital mortality in patients with STEMI, which may help physicians precisely risk-stratify patients and implement individualised treatment.
+
+Citation: Lu X, et al. Association of the triglyceride-glucose index with severity of coronary stenosis and in-hospital mortality in patients with acute ST elevation myocardial infarction after percutaneous coronary intervention: a multicentre retrospective analysis cohort study. Association of the triglyceride-glucose index with severity of coronary stenosis and in-hospital mortality in patients with acute ST elevation myocardial infarction after percutaneous coronary intervention: a multicentre retrospective analysis cohort study. 2024; 14:e081727. doi: 10.1136/bmjopen-2023-081727
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38521531/

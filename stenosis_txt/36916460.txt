@@ -1,0 +1,10 @@
+PMID: 36916460
+Title: Enlargement of opisthenar microcirculatory area predicts impaired heart function in severe acute coronary syndrome patients.
+
+Abstract: BACKGROUND: Impaired microcirculation in acute coronary syndrome (ACS) patients manifests inadequate recovery and adverse clinical outcome. Here, we analyzed correlations between peripheral microcirculation and heart function in ACS patients.
+METHODS: Opisthenar microvessel area (OMA) were measured with optical coherence tomography angiography (OCTA), cardiac functional indexes (echocardiograph) were assessed 48-72 h after therapeutic interventions.
+RESULTS: Results showed that OMA normalized with heart rate (OMA-HR) were significantly greater in ACS patients with percutaneous intervention (ACS-PCI, n = 25, stenosis &gt;80%) compared to those with pharmacological intervention (ACS-PI, n = 23, stenosis &lt;50%, p = .02). Ejection fraction (EF) and fractional shortening (FS), which were not different between two groups, showed negative correlations with OMA-HR in ACS-PCI (EF: r = -0.512, p = .009; FS: r = -0.594, p = .002). Cardiac output (CO) inversely correlated with OMA-HR in both groups (r = -0.697, p &lt; .0001; r = -0.527, p = .01). Neutrophil to lymphocyte ratio (NLR) on admission was greater in ACS-PCI group. NLR, which was negatively associated with EF or FS, was positively associated with OMA-HR in all patients. The area under the curve (AUC) for OMA-HR was 0.683 (specificity 0.696 and sensitivity 0.72, p = .02). OMA-HR at &gt;376.5 μm2 predicts reduced FS and CO (p = .002, p = .005, respectively). Summary OMA-HR predicts inadequate recovery of the heart in severe ACS patients post-PCI.
+
+Citation: Chen C, et al. Enlargement of opisthenar microcirculatory area predicts impaired heart function in severe acute coronary syndrome patients. Enlargement of opisthenar microcirculatory area predicts impaired heart function in severe acute coronary syndrome patients. 2023; 30:e12803. doi: 10.1111/micc.12803
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36916460/

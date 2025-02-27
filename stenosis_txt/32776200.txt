@@ -1,0 +1,11 @@
+PMID: 32776200
+Title: Validation of computed tomography angiography using mean arterial pressure gradient as a reference in stented superior mesenteric artery.
+
+Abstract: PURPOSE: The aim of this prospective study was to validate the diagnostic performance of computed tomography angiography (CTA) in endoprosthesis stenosis in the superior mesenteric artery (SMA) using mean arterial pressure (MAP) gradients during angiography as a reference method.
+METHODS: Twenty-nine patients with mesenteric atherosclerotic disease underwent 45 paired measurements of endoprosthesis stenosis in the SMA with CTA and MAP gradients between March 2009 and July 2015. The grade of endoprosthesis stenosis in the SMA at CTA using the TeraRecon Aquarius workstation was correlated with MAP gradients.
+RESULTS: Grade of endoprosthesis stenosis in the SMA (r = 0.37, p = 0.013) correlated with MAP gradients. The intraclass correlations between the first and second CTA rater was 0.76 (95% CI 0.56-0.87) for estimation of grade of endoprosthesis stenosis in the SMA. The area under the receiver operating characteristics curve was 0.79 for diagnosis of significant endoprosthesis stenosis in the SMA at CTA for different threshold values using MAP gradient of ≥ 10 mmHg as reference. Sensitivity, specificity and positive predictive value for endoprosthesis stenosis in the SMA ≥ 50% at CTA were 52.4% (95% CI 31.0-73.7), 87.5% (95% CI 74.3-100.0) and 78.6 (95% CI 57.1-1.00), respectively.
+CONCLUSION: Grading endoprosthesis stenosis in the SMA with CTA performed fair when using trans-stenotic MAP gradient as reference. Software development towards reduction of endoprosthesis artefacts may result in more accurate CTA assessment of the narrowest part.
+
+Citation: Lundin N, et al. Validation of computed tomography angiography using mean arterial pressure gradient as a reference in stented superior mesenteric artery. Validation of computed tomography angiography using mean arterial pressure gradient as a reference in stented superior mesenteric artery. 2021; 46:792-798. doi: 10.1007/s00261-020-02700-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32776200/

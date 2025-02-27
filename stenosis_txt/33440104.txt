@@ -1,0 +1,11 @@
+PMID: 33440104
+Title: The predictive value of HEART score for acute coronary syndrome and significant coronary artery stenosis.
+
+Abstract: OBJECTIVE: Rapid determination of acute coronary syndrome (ACS) in the emergency department (ED) is very important for patients presenting with ischemic symptoms. The aim of this study was to determine the predictive value of HEART score for ACS and significant coronary artery stenosis (SCS).
+METHODS: We retrospectively analyzed data of patients who visited the ED with chest discomfort and were admitted to the cardiology department. Enrolled patients were classified into ACS and non-ACS groups according to their discharge diagnosis. Patients who underwent imaging were further divided into SCS and non-SCS groups according to study results. We compared age, sex, vital signs, risk factors, electrocardiogram, troponin, and HEART score for each group. For ACS and SCS predictive performance, the test characteristics of HEART score was calculated using sensitivity, specificity, predictive value, likelihood ratio, and receiver operating characteristic (ROC) curve analysis.
+RESULTS: Of 207 patients, 112 had ACS. Among enrolled patients, 155 underwent imaging workup, of whom 67 had SCS. HEART score ≤3 had 93% sensitivity for ACS and 97% for SCS. HEART score ≥7 had 82% specificity for ACS and 83% for SCS. HEART score area under ROC curve for ACS was 0.706 (95% confidence interval, 0.627-0.776) and 0.737 (95% confidence interval, 0.660-0.804) for SCS.
+CONCLUSION: HEART score was a fair predictor of ACS and SCS in ED patients who presented with chest symptoms and were admitted to the cardiology department. The predictive power of HEART score was better for SCS than for ACS.
+
+Citation: Han C, et al. The predictive value of HEART score for acute coronary syndrome and significant coronary artery stenosis. The predictive value of HEART score for acute coronary syndrome and significant coronary artery stenosis. 2020; 7:267-274. doi: 10.15441/ceem.19.084
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33440104/

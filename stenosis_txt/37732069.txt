@@ -1,0 +1,11 @@
+PMID: 37732069
+Title: The diagnostic value of circulating miR-532-5p in patients with asymptomatic carotid artery stenosis and its predictive significance for the occurrence of cerebral ischaemic events.
+
+Abstract: INTRODUCTION: Circulating microRNAs (miRNAs) are widely identified as promising and novel biomarkers for the diagnosis of human diseases. This study investigated the clinical value of miR-532-5p for asymptomatic carotid artery stenosis (CAS) patients and detected its predictive value for the occurrence of future cerebral ischaemic events (CIE).
+MATERIAL AND METHODS: Serum expression of miR-532-5p was measured using qRT-PCR. A receiver operating characteristic (ROC) analysis was performed to evaluate the diagnostic value of miR-532-5p in asymptomatic CAS patients, and the area under the curve (AUC) was calculated. The predictive value of miR-532-5p for the occurrence of CIE was evaluated by using Kaplan-Meier methods and Cox regression analysis.
+RESULTS: Serum expression of miR-532-5p was identified to be significantly decreased in CAS patients compared with healthy controls. The ROC curve with an AUC of 0.903 indicated high diagnostic accuracy of serum miR-532-5p expression in asymptomatic CAS patients. As Kaplan-Meier analysis results suggested, more CIE events were observed in cases with low miR-532-5p expression. Low miR-532-5p and high degree of carotid stenosis were independent factors for the occurrence of CIE in asymptomatic CAS patients.
+CONCLUSIONS: The study suggests the potential clinical value of miR-532-5p for the early diagnosis of asymptomatic CAS patients. MiR-532-5p might have predictive value for the risk of future CIE in asymptomatic CAS patients.
+
+Citation: Du D, et al. The diagnostic value of circulating miR-532-5p in patients with asymptomatic carotid artery stenosis and its predictive significance for the occurrence of cerebral ischaemic events. The diagnostic value of circulating miR-532-5p in patients with asymptomatic carotid artery stenosis and its predictive significance for the occurrence of cerebral ischaemic events. 2023; 19:1236-1242. doi: 10.5114/aoms.2020.96627
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37732069/

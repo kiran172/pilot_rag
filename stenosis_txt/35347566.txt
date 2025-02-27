@@ -1,0 +1,9 @@
+PMID: 35347566
+Title: Current State and Future Perspectives of Artificial Intelligence for Automated Coronary Angiography Imaging Analysis in Patients with Ischemic Heart Disease.
+
+Abstract: PURPOSE OF REVIEW: Artificial intelligence (AI) applications in (interventional) cardiology continue to emerge. This review summarizes the current state and future perspectives of AI for automated imaging analysis in invasive coronary angiography (ICA).
+RECENT FINDINGS: Recently, 12 studies on AI for automated imaging analysis In ICA have been published. In these studies, machine learning (ML) models have been developed for frame selection, segmentation, lesion assessment, and functional assessment of coronary flow. These ML models have been developed on monocenter datasets (in range 31-14,509 patients) and showed moderate to good performance. However, only three ML models were externally validated. Given the current pace of AI developments for the analysis of ICA, less-invasive, objective, and automated diagnosis of CAD can be expected in the near future. Further research on this technology in the catheterization laboratory may assist and improve treatment allocation, risk stratification, and cath lab logistics by integrating ICA analysis with other clinical characteristics.
+
+Citation: Molenaar MA, et al. Current State and Future Perspectives of Artificial Intelligence for Automated Coronary Angiography Imaging Analysis in Patients with Ischemic Heart Disease. Current State and Future Perspectives of Artificial Intelligence for Automated Coronary Angiography Imaging Analysis in Patients with Ischemic Heart Disease. 2022; 24:365-376. doi: 10.1007/s11886-022-01655-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35347566/

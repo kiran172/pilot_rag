@@ -1,0 +1,8 @@
+PMID: 34320881
+Title: Estimation of coronary stenosis severity based on flow distribution ratios.
+
+Abstract: We suggest improving minimally-invasive stenosis severity estimation, using a combination of existing geometry-based methods with Transluminal Attenuation Gradient measurements. Instead of local flow values, the method uses flow distribution ratios along the entire tree. The tree geometry is used to derive a lumped model and predict the 'theoretical' ratios in each bifurcation, while attenuation measurements are used for extracting 'actual' ratios. The discrepancies between the measured and the theoretical values are utilized to assess a functional degree of stenosis. Our experimental and numerical analyses show that the quantitative value of discrepancy is proportional to stenosis severity, regardless of boundary conditions.
+
+Citation: Avrahami I, et al. Estimation of coronary stenosis severity based on flow distribution ratios. Estimation of coronary stenosis severity based on flow distribution ratios. 2022; 25:424-438. doi: 10.1080/10255842.2021.1957099
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34320881/

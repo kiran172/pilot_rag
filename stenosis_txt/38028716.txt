@@ -1,0 +1,11 @@
+PMID: 38028716
+Title: Association of NFKB1 gene polymorphism (rs28362491) with cardiometabolic risk factor in patients undergoing coronary angiography.
+
+Abstract: INTRODUCTION: Genetic and environmental factors are involved in the pathogenesis of cardiovascular diseases (CVDs). The aim of the study was to investigate between the genotype of the NFKB1 gene and the cardiometabolic risk factor in patients undergoing coronary angiography.
+METHODS: This cross-sectional study was conducted on 462 adults (male and women) aged between 35 and 75 years who referred to Afshar Hospital for coronary angiography in 2021- 2022. The polymerase chain reaction restriction fragment length polymorphism method was used to detect the genotype of rs28362491. Biochemical parameters were measured using commercial kits. Gensini and Syntax scores were calculated using the angiography result to assess the extent of coronary artery stenosis. We used multivariate logistic regression analysis to examine the relationship between genotype variants and cardiometabolic risk factors.
+RESULTS: There was no association between variant genotypes and abnormally levels of serum alanine aminotransferase (ALT) (P value=0.51), aspartate aminotransferase (AST) (P value=0.99), triglyceride (TG) (P value=0.48), total cholesterol (P value=0.79), low density lipoprotein-cholestero (LDL-C) (P value=0.31), high-density lipoprotein-cholesterol (HDL-C) (P value=0.53), fast blood sugar (FBS) (P value=0.39), systolic blood pressure (P value=0.14), diastolic blood pressure (P value=0.64), Gensini score (P value=0.48) and syntax score (P value=0.74) in the crude model even after adjustment for confounding factors.
+CONCLUSION: We found no association between the ATTG polymorphism and cardiometabolic risk factors in patients who had coronary angiography. Further investigations are needed to assess the association between variants of 28362491 and cardiometabolic markers.
+
+Citation: Darabi Z, et al. Association of NFKB1 gene polymorphism (rs28362491) with cardiometabolic risk factor in patients undergoing coronary angiography. Association of NFKB1 gene polymorphism (rs28362491) with cardiometabolic risk factor in patients undergoing coronary angiography. 2023; 15:161-167. doi: 10.34172/jcvtr.2023.31834
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38028716/

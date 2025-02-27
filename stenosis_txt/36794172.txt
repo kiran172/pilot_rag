@@ -1,0 +1,8 @@
+PMID: 36794172
+Title: Grayscale median (GSM) post-processing, posterizing, and color mapping for carotid ultrasound.
+
+Abstract: Factors related to atherosclerotic plaques may indicate instability, such as ulcerations, intraplaque hemorrhages, lipid core, thin or irregular fibrous cap, and inflammation. The grayscale median (GSM) value is one of the most widespread methods of studying atherosclerotic plaques and it is therefore important to comprehensively standardize image post-processing. Post-processing was performed using Photoshop 23.1.1.202. Images were standardized by adjusting the grayscale histogram curves, setting the darkest point of the vascular lumen (blood) to zero and the distal adventitia to 190. Posterization and color mapping were performed. A methodology that presents the current state of the art in an accessible and illustrative way should contribute to the dissemination of GSM analysis. This article describes and illustrates the process step by step.
+
+Citation: Mellucci PL, et al. Grayscale median (GSM) post-processing, posterizing, and color mapping for carotid ultrasound. Grayscale median (GSM) post-processing, posterizing, and color mapping for carotid ultrasound. 2023; 22:e20220081. doi: 10.1590/1677-5449.202200811
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36794172/

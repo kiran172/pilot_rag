@@ -1,0 +1,10 @@
+PMID: 33249517
+Title: Thirty-day incidence of stroke after transfemoral transcatheter aortic valve implantation: meta-analysis and mixt-treatment comparison of self-expandable versus balloon-expandable valve prostheses.
+
+Abstract: AIMS: Stroke is a major complication after transcatheter aortic valve implantation (TAVI). Although multifactorial, it remains unknown whether the valve deployment system itself has an impact on the incidence of early stroke. We performed a meta- and network analysis to investigate the 30-day stroke incidence of self-expandable (SEV) and balloon-expandable (BEV) valves after transfemoral TAVI.
+METHODS AND RESULTS: Overall, 2723 articles were searched directly comparing the performance of SEV and BEV after transfemoral TAVI, from which 9 were included (3086 patients). Random effects models were used for meta- and network meta-analysis based on a frequentist framework. Thirty-day incidence of stroke was 1.8% in SEV and 3.1% in BEV (risk ratio of 0.62, 95% confidence interval (CI) 0.49-0.80, p = 0.004). Treatment ranking based on network analysis (P-score) revealed CoreValve with the best performance for 30-day stroke incidence (75.2%), whereas SAPIEN had the worst (19.0%). However, network analysis showed no inferiority of SAPIEN compared with CoreValve (odds ratio 2.24, 95% CI 0.70-7.2).
+CONCLUSION: Our analysis indicates higher 30-day stroke incidence after transfemoral TAVI with BEV compared to SEV. We could not find evidence for superiority of a specific valve system. More randomized controlled trials with head-to-head comparison of SEV and BEV are needed to address this open question.
+
+Citation: Seppelt PC, et al. Thirty-day incidence of stroke after transfemoral transcatheter aortic valve implantation: meta-analysis and mixt-treatment comparison of self-expandable versus balloon-expandable valve prostheses. Thirty-day incidence of stroke after transfemoral transcatheter aortic valve implantation: meta-analysis and mixt-treatment comparison of self-expandable versus balloon-expandable valve prostheses. 2021; 110:640-648. doi: 10.1007/s00392-020-01775-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33249517/

@@ -1,0 +1,11 @@
+PMID: 36382769
+Title: Fractional myocardial blood volume by ferumoxytol-enhanced MRI: Estimation of ischemic burden.
+
+Abstract: PURPOSE: To investigate model-fitted fractional myocardial blood volume (fMBV) derived from ferumoxytol-enhanced MRI as a measure of myocardial tissue hypoperfusion at rest.
+METHODS: We artificially induced moderate to severe focal coronary stenosis in the left anterior descending artery of 19 swine by percutaneous delivery of a 3D-printed coronary implant. Using the MOLLI pulse sequence, we acquired T<sub>1</sub> maps at 3 T after multiple incremental ferumoxytol doses (0.0-4.0 mg/kg). We computed pixel-wise fMBV using a multi-compartmental modeling approach in 19 ischemic swine and 4 healthy swine.
+RESULTS: Ischemic myocardial segments showed a mean MRI-fMBV of 11.72 ± 3.00%, compared with 8.23 ± 2.12% in remote segments and 8.38 ± 2.23% in normal segments. Ischemic segments showed a restricted transvascular water-exchange rate (k<sub>i</sub>  = 15.32 ± 8.69 s-1 ) relative to remote segments (k<sub>i</sub>  = 17.78 [11.60, 26.36] s-1 ). A mixed-effects model found significant difference in fMBV (p = 0.002) and water-exchange rate (p &lt; 0.001) between ischemic and remote myocardial regions after adjusting for biological sex and slice location. Analysis of fMBV as a predictor of impaired myocardial contractility using receiver operating characteristics showed an area under the curve of 0.89 (95% confidence interval [CI] 0.80, 0.95). An MRI-fMBV threshold of 9.60% has a specificity of 90.0% (95% CI 76.3, 97.2) and a sensitivity of 72.5% (95% CI 56.1, 83.4) for prediction of impaired myocardial contractility.
+CONCLUSIONS: Model-fitted fMBV derived from ferumoxytol-enhanced MRI can distinguish regions of ischemia from remote myocardium in a swine model of myocardial hypoperfusion.
+
+Citation: Colbert CM, et al. Fractional myocardial blood volume by ferumoxytol-enhanced MRI: Estimation of ischemic burden. Fractional myocardial blood volume by ferumoxytol-enhanced MRI: Estimation of ischemic burden. 2023; 89:1557-1566. doi: 10.1002/mrm.29530
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36382769/

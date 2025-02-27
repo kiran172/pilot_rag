@@ -1,0 +1,12 @@
+PMID: 33211381
+Title: Comparison of quantitative flow ratio, Pd/Pa and diastolic hyperemia-free ratio versus fractional flow reserve in non-culprit lesion of patients with non ST-segment elevation myocardial infarction.
+
+Abstract: OBJECTIVES: To investigate the correlation between quantitative flow ratio (QFR), Pd/Pa, diastolic hyperemia-free ratio (DFR) and fractional flow reserve (FFR, gold standard) in non-culprit lesion (NCL) of patients with non ST-segment elevation myocardial infarction (NSTEMI).
+BACKGROUND: The non-hyperemic pressure ratio (NHPR) and the angiography-based indexes have been developed to overcome the limitation of the use of the FFR.
+METHODS: Between January and December 2019, 184 NCL from 116 NSTEMI patients underwent physiologic assessment and were included in the study. NCLs were investigated with QFR, Pd/Pa, DFR, and FFR. Mean values of QFR, Pd/Pa, DFR and FFR were 0.85 ± 0.10, 0.92 ± 0.07, 0.93 ± 0.05 and 0.84 ± 0.07, respectively.
+RESULTS: DFR and FFR showed a good correlation (r = 0.76). Bland and Altman plot showed a mean difference of 0.080. DFR Diagnostic accuracy was 88%. The area under the ROC curve (AUC) for DFR was 0.946 (95%CI 0.90-0.97, p = .0001). Similar findings were reported for Pd/Pa (r = 0.73; mean difference 0.095, diagnostic accuracy 84%, AUC 0.909 [95%CI 0.85-0.94, p = .0001]) and QFR (r = 0.68; mean difference 0.01; diagnostic accuracy 88%, AUC 0.964 [95% CI 0.91-0.98, p = .0001]). FFR, QFR, Pd/Pa and DFR identified 31%, 32%, 30% and 32% potentially flow-limiting lesions, respectively.
+CONCLUSIONS: In NSTEMI patients, QFR, Pd/Pa and DFR showed equivalence as compared to gold standard FFR in the discrimination of non-culprit lesions requiring revascularization.
+
+Citation: Tebaldi M, et al. Comparison of quantitative flow ratio, Pd/Pa and diastolic hyperemia-free ratio versus fractional flow reserve in non-culprit lesion of patients with non ST-segment elevation myocardial infarction. Comparison of quantitative flow ratio, Pd/Pa and diastolic hyperemia-free ratio versus fractional flow reserve in non-culprit lesion of patients with non ST-segment elevation myocardial infarction. 2021; 98:1057-1065. doi: 10.1002/ccd.29380
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33211381/

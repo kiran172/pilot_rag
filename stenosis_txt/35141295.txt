@@ -1,0 +1,11 @@
+PMID: 35141295
+Title: Identification of Rare Variants in Right Ventricular Outflow Tract Obstruction Congenital Heart Disease by Whole-Exome Sequencing.
+
+Abstract: BACKGROUND: Pulmonary atresia (PA) is a kind of congenital heart disease characterized by right ventricular outflow tract obstruction. It is divided into PA with intact ventricular septum (PA/IVS) whose favorable form is pulmonary valvular stenosis (PS), and PA with ventricular septal defect (PA/VSD) whose favorable form is tetralogy of Fallot (TOF). Due to limitations in genetics etiology, whole-exome sequencing (WES) was utilized to identify new variants associated with the diseases.
+METHODS: The data from PS-PA/IVS (n = 74), TOF-PA/VSD (n = 100), and 100 controls were obtained. The common sites between PS and PA/IVS, PA/VSD and TOF, were compared. The novel rare damage variants, and candidate genes were identified by gene-based burden analysis. Finally, the enrichment analysis of differential genes was conducted between case and control groups.
+RESULTS: Seventeen rare damage variants located in seven genes were predicted to be associated with the PS through burden analysis. Enrichment analysis identified that the Wnt and cadherin signaling pathways were relevant to PS-PA/IVS.
+CONCLUSION: This study put forth seven candidate genes (APC, PPP1R12A, PCK2, SOS2, TNR, MED13, and TIAM1), resulting in PS-PA/IVS. The Wnt and cadherin signaling pathways were identified to be related to PS-PA/IVS by enrichment analysis. This study provides new evidence for exploring the genetic mechanism of PS-PA/IVS.
+
+Citation: Zhou Y, et al. Identification of Rare Variants in Right Ventricular Outflow Tract Obstruction Congenital Heart Disease by Whole-Exome Sequencing. Identification of Rare Variants in Right Ventricular Outflow Tract Obstruction Congenital Heart Disease by Whole-Exome Sequencing. 2021; 8:811156. doi: 10.3389/fcvm.2021.811156
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35141295/

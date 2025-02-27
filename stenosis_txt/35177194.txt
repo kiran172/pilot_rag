@@ -1,0 +1,12 @@
+PMID: 35177194
+Title: Predictors of Left Main Coronary Artery Disease in the ISCHEMIA Trial.
+
+Abstract: BACKGROUND: Detection of ≥50% diameter stenosis left main coronary artery disease (LMD) has prognostic and therapeutic implications. Noninvasive stress imaging or an exercise tolerance test (ETT) are the most common methods to detect obstructive coronary artery disease, though stress test markers of LMD remain ill-defined.
+OBJECTIVES: The authors sought to identify markers of LMD as detected on coronary computed tomography angiography (CTA), using clinical and stress testing parameters.
+METHODS: This was a post hoc analysis of ISCHEMIA (International Study of Comparative Health Effectiveness With Medical and Invasive Approaches), including randomized and nonrandomized participants who had locally determined moderate or severe ischemia on nonimaging ETT, stress nuclear myocardial perfusion imaging, or stress echocardiography followed by CTA to exclude LMD. Stress tests were read by core laboratories. Prior coronary artery bypass grafting was an exclusion. In a stepped multivariate model, the authors identified predictors of LMD, first without and then with stress testing parameters.
+RESULTS: Among 5,146 participants (mean age 63 years, 74% male), 414 (8%) had LMD. Predictors of LMD were older age (P < 0.001), male sex (P < 0.01), absence of prior myocardial infarction (P < 0.009), transient ischemic dilation of the left ventricle on stress echocardiography (P = 0.05), magnitude of ST-segment depression on ETT (P = 0.004), and peak metabolic equivalents achieved on ETT (P = 0.001). The models were weakly predictive of LMD (C-index 0.643 and 0.684).
+CONCLUSIONS: In patients with moderate or severe ischemia, clinical and stress testing parameters were weakly predictive of LMD on CTA. For most patients with moderate or severe ischemia, anatomical imaging is needed to rule out LMD. (International Study of Comparative Health Effectiveness With Medical and Invasive Approaches [ISCHEMIA]; NCT01471522).
+
+Citation: Senior R, et al. Predictors of Left Main Coronary Artery Disease in the ISCHEMIA Trial. Predictors of Left Main Coronary Artery Disease in the ISCHEMIA Trial. 2022; 79:651-661. doi: 10.1016/j.jacc.2021.11.052
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35177194/

@@ -1,0 +1,11 @@
+PMID: 33070386
+Title: Outcome implication of sex-related effective orifice area normalized to body size in aortic stenosis.
+
+Abstract: INTRODUCTION: Although several echocardiographic parameters have different values according to sex, there are no studies in echocardiographic variables of aortic stenosis (AS) severity. Our aim was to evaluate the sex-related prognosis of several echocardiographic parameters in AS.
+METHODS: Two hundred and twenty-five patients with at least moderate AS (effective orifice area [EOA] ≤ 1.50 cm2 ) were prospectively enrolled. EOA was normalized to body surface area (BSA), height, and body mass index (BMI). Receiver operating characteristic curves, in women and men separately, were plotted to determine the best cutoff value for predicting cardiovascular death.
+RESULTS: The largest area under the curve (AUC) to predict cardiovascular death was EOA in men (AUC 0.74, P &lt; .001) and EOA/height in women (AUC 0.81, P &lt; .001). An EOA/height cutoff value of 0.55 cm2 /m in women had a sensitivity of 100% and specificity of 61%; a cutoff of 0.50 cm2 /m in men obtained a sensitivity of 92% and a specificity of 56%. During a mean follow-up of 247 ± 183 days, there were 33 cardiovascular deaths. Women with EOA/height ≤ 0.55 cm2 /m had higher cardiovascular mortality (22% vs 0%, P &lt; .001) and men with EOA/height ≤ 0.50 cm2 /m (21% vs 2%, P &lt; .001). One-year survival in women with EOA/height ≤ 0.55 cm2 /m was 67 ± 8% and 100 ± 0% in EOA/height &gt; 0.55 cm2 /m (P &lt; .001). In men, 1-year survival was 70 ± 8% in EOA/height ≤ 0.50 cm2 /m, and 93 ± 6% in EOA/height &gt; 0.50 cm2 /m (P = .004).
+CONCLUSIONS: Normalization of EOA is useful in AS, especially in women. We recommend using an EOA/height cutoff value of 0.55 cm2 /m in women, and 0.50 cm2 /m in men to identify a subgroup with higher cardiovascular risk.
+
+Citation: Gamaza S, et al. Outcome implication of sex-related effective orifice area normalized to body size in aortic stenosis. Outcome implication of sex-related effective orifice area normalized to body size in aortic stenosis. 2020; 37:1732-1740. doi: 10.1111/echo.14868
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33070386/

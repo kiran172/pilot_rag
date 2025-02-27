@@ -1,0 +1,12 @@
+PMID: 37164601
+Title: The Association Between Angiographically Derived Radial Wall Strain and the Risk of Acute Myocardial Infarction.
+
+Abstract: BACKGROUND: The radial wall strain (RWS) is a novel angiography-based method to assess the biomechanical property of the coronary artery and whether it can predict future acute myocardial infarction (AMI) events remains to be elucidated.
+OBJECTIVES: This study aimed to investigate the association between angiography-derived RWS and future AMI events in mild to intermediate lesions.
+METHODS: We performed a matched case-control analysis nested in a retrospective cohort of patients who had received prior angiography (the index procedure) at least 1 month before and were hospitalized again for repeat angiography. Patients with at least 1 de novo mild to intermediate lesion identified at the index procedure and eligible for RWS analysis were enrolled. The study identified cases with target lesion-related AMI diagnosed at the repeat angiography, matching each case to 3 control subjects without AMI.
+RESULTS: Altogether 44 patients with lesion-related AMI and 132 matched controls were enrolled. The median diameter stenosis of the overall interrogated lesions was 34.0%. The baseline maximum RWS (RWS<sub>max</sub>), which was defined as the highest RWS in the stenotic segment, was significantly higher in lesions responsible for AMI than those that remained quiescent (median 13% vs 10%; P &lt; 0.001). RWS<sub>max</sub> was predictive of lesion-related AMI, with an area under the curve of 0.83 (95% CI: 0.76-0.90; P &lt; 0.001) and an optimal cutoff &gt;12%. RWS<sub>max</sub> &gt;12% was found to be independently associated with subsequent AMI events with a risk ratio of 7.25 (95% CI: 3.94-13.37; P &lt; 0.001).
+CONCLUSIONS: Among angiographically mild to intermediate lesions, a high-strain pattern identified by angiography-derived RWS was associated with an increased risk of AMI events.
+
+Citation: Li C, et al. The Association Between Angiographically Derived Radial Wall Strain and the Risk of Acute Myocardial Infarction. The Association Between Angiographically Derived Radial Wall Strain and the Risk of Acute Myocardial Infarction. 2023; 16:1039-1049. doi: 10.1016/j.jcin.2023.02.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37164601/

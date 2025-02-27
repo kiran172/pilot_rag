@@ -1,0 +1,11 @@
+PMID: 36943615
+Title: Evaluating the Arteriotomy Size of a New Sutureless Coronary Anastomosis Using a Finite Volume Approach.
+
+Abstract: OBJECTIVES: The ELANA® Heart Bypass creates a standardized sutureless anastomosis. Hereby, we investigate the influence of arteriotomy and graft size on coronary hemodynamics.
+METHODS: A computational fluid dynamics (CFD) model was developed. Arteriotomy size (standard 1.43 mm2; varied 0.94 - 3.6 mm2) and graft diameter (standard 2.5 mm; varied 1.5 - 5.0 mm) were independent parameters. Outcome parameters were coronary pressure and flow, and fractional flow reserve (FFR).
+RESULTS: The current size ELANA (arteriotomy 1.43 mm2) presented an estimated FFR 0.65 (39 mL/min). Enlarging arteriotomy increased FFR, coronary pressure, and flow. All reached a maximum once the arteriotomy (2.80 mm2) surpassed the coronary cross-sectional area (2.69 mm2, i.e. 1.85 mm diameter), presenting an estimated FFR 0.75 (46 mL/min). Increasing graft diameter was positively related to FFR, coronary pressure, and flow.
+CONCLUSION: The ratio between the required minimal coronary diameter for application and the ELANA arteriotomy size effectuates a pressure drop that could be clinically relevant. Additional research and eventual lengthening of the anastomosis is advised.
+
+Citation: Crielaard H, et al. Evaluating the Arteriotomy Size of a New Sutureless Coronary Anastomosis Using a Finite Volume Approach. Evaluating the Arteriotomy Size of a New Sutureless Coronary Anastomosis Using a Finite Volume Approach. 2023; 16:916-926. doi: 10.1007/s12265-023-10367-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36943615/

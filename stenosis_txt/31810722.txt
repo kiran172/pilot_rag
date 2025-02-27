@@ -1,0 +1,11 @@
+PMID: 31810722
+Title: Blood Flow Pattern Analysis for Carotid Plaque Evaluation.
+
+Abstract: BACKGROUND AND PURPOSE: Previous studies suggested that turbulent flow is closely related to plaque vulnerability. Two-dimensional (2D) flow analysis is a novel modality that enables real-time blood flow analysis by picturing particle movement in the contrast medium. We evaluated flow patterns in the carotid plaque to investigate the correlation between blood flow and plaque vulnerability.
+MATERIAL AND METHODS: A total of 36 consecutive patients with cervical carotid artery stenosis were evaluated. The flow pattern of carotid artery stenosis was evaluated using 2D real-time flow analysis in the digital subtraction angiography (DSA). The flow pattern was classified into either turbulent or laminar flow as vectors. Plaque vulnerability was evaluated on MR plaque imaging. Univariate analysis was performed to assess the correlation between the flow pattern and plaque features.
+RESULTS: The turbulent pattern was identified in 28 of 36 plaques (77.8%). Turbulence around plaques was significantly associated with Gadolinium enhancement (P = .0004). The maximum degree of stenosis (P = .0005) and concomitant ulceration (P = .02) were significantly associated with the turbulent pattern. There was no relationship between the turbulent pattern and clinical neurological symptoms.
+CONCLUSIONS: In the present study, the majority of carotid plaques exhibited a turbulent flow pattern, which was significantly associated with Gadolinium enhancement on MR plaque imaging and morphologic factors. Thus, real-time flow analysis may clarify the pathophysiology of plaque instability and the formation of ulceration.
+
+Citation: Shimonaga K, et al. Blood Flow Pattern Analysis for Carotid Plaque Evaluation. Blood Flow Pattern Analysis for Carotid Plaque Evaluation. 2020; 29:104539. doi: 10.1016/j.jstrokecerebrovasdis.2019.104539
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31810722/

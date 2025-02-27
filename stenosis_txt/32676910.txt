@@ -1,0 +1,11 @@
+PMID: 32676910
+Title: Quantitative myocardial perfusion 82Rb-PET assessed by hybrid PET/coronary-CT: Normal values and diagnostic performance.
+
+Abstract: PURPOSE: We aimed to assess normal values for quantified myocardial blood flow (MBF) on a hybrid PET/coronary-CT scanner and to test their diagnostic performance in patients with suspected CAD.
+MATERIALS AND METHODS: Patients underwent 82Rb-PET/CT and integrated CT-based coronary angiography (CCTA) and were classified as normal (no stenosis), with non-obstructive stenosis (&lt; 50%) and with CAD (≥ 50%). Global and regional stress MBF (sMBF), rest MBF and myocardial flow reserve (MFR) were calculated. Ischemia was defined as SDS ≥ 2, severe ischemia as SDS ≥ 7.
+RESULTS: 357 consecutive patients were included. Global sMBF and MFR were higher in normal patients than in patients with CAD (3.61 ± 0.71 vs 3.04 ± 0.77, P &lt; 0.0001; 3.08 ± 0.84 vs 2.68 ± 0.79, P = 0.0001), but not different compared to patients with non-obstructive stenosis (3.61 ± 0.71 vs 3.43 ± 0.69, P = 0.052; 3.08 ± 0.84 vs 2.99 ± 0.82, P = 0.45). sMBF yielded superior accuracy over MFR in identifying both ischemia (AUC 0.74 vs 0.62, P = 0.003) and severe ischemia (AUC 0.88 vs 0.78, P = 0.012). Optimal threshold for global sMBF to rule out myocardial ischemia was 3.5 mL g-1 min-1.
+CONCLUSIONS: Normal quantitative values are provided. Global sMBF provided higher diagnostic accuracy than MFR. Using sMBF-threshold of 3.5 mL·g-1·min-1 on 82Rb-PET/CT yielded similar NPV (96%) as CCTA to rule out CAD. Hence, resting scan could be omitted in patients with sMBF values above reference.
+
+Citation: Freitag MT, et al. Quantitative myocardial perfusion 82Rb-PET assessed by hybrid PET/coronary-CT: Normal values and diagnostic performance. Quantitative myocardial perfusion 82Rb-PET assessed by hybrid PET/coronary-CT: Normal values and diagnostic performance. 2022; 29:464-473. doi: 10.1007/s12350-020-02264-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32676910/

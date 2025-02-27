@@ -1,0 +1,11 @@
+PMID: 37927252
+Title: Multiple techniques to evaluate the relationship between carotid artery plaque and acute stroke.
+
+Abstract: AIM: To evaluate the important characteristics of the plaque vulnerability using multimodal ultrasound imaging methods (2D, contrast-enhanced ultrasound, and elastography), and to explore the relationship between plaque and acute stroke.
+METHODS: A total of 244 patients with carotid plaque were enrolled, including 104 patients with acute stroke ipsilateral to the plaque as the case group and 140 patients as the control group. All patients underwent conventional carotid ultrasound, contrast-enhanced ultrasound (CEUS) and elastography (SWE). The results of each examination were compared and analyzed, and the relationship between the results and the occurrence of stroke was discussed.
+RESULTS: In the acute stroke group, the men, with a history of alcohol consumption the direction of contrast media diffusion was higher than that in the control group, but the plaque gray value (GSM), maximum, average and minimum Young's elastic modulus imaging values (YM) were slightly lower than those in the control group (P < 0.05). Logistic regression analysis showed that waist to body ratio (WHtR), GSM, YM, neovascularization density and contrast diffusion direction were independent risk factors for predicting acute ischemic stroke. The influence degree of each factor from strong to weak was waist to body ratio, neovascularity density, GSM and YM, respectively. The area under the curve (AUC) for the diagnosis of acute ischemic stroke by regression model was 0.746.
+CONCLUSION: The combination of multiple ultrasound techniques to evaluate the vulnerability of carotid plaque and predict the occurrence of acute stroke provides valuable information for clinical decision making.
+
+Citation: Chen J, et al. Multiple techniques to evaluate the relationship between carotid artery plaque and acute stroke. Multiple techniques to evaluate the relationship between carotid artery plaque and acute stroke. 2024; 86:327-337. doi: 10.3233/CH-231959
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37927252/

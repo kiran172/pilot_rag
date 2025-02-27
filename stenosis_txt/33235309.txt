@@ -1,0 +1,8 @@
+PMID: 33235309
+Title: Optical coherence tomography-based machine learning for predicting fractional flow reserve in intermediate coronary stenosis: a feasibility study.
+
+Abstract: Machine learning approaches using intravascular optical coherence tomography (OCT) to predict fractional flow reserve (FFR) have not been investigated. Both OCT and FFR data were obtained for left anterior descending artery lesions in 125 patients. Training and testing groups were partitioned in the ratio of 5:1. The OCT-based machine learning-FFR was derived for the testing group and compared with wire-based FFR in terms of ischemia diagnosis (FFR ≤ 0.8). The OCT-based machine learning-FFR showed good correlation (r = 0.853, P < 0.001) with the wire-based FFR. The sensitivity, specificity, positive predictive value, negative predictive value, and accuracy of the OCT-based machine learning-FFR for the testing group were 100%, 92.9%, 87.5%, 100%, and 95.2%, respectively. The OCT-based machine learning-FFR can be used to simultaneously acquire information on both image and functional modalities using one procedure, suggesting that it may provide optimized treatments for intermediate coronary artery stenosis.
+
+Citation: Cha JJ, et al. Optical coherence tomography-based machine learning for predicting fractional flow reserve in intermediate coronary stenosis: a feasibility study. Optical coherence tomography-based machine learning for predicting fractional flow reserve in intermediate coronary stenosis: a feasibility study. 2020; 10:20421. doi: 10.1038/s41598-020-77507-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33235309/

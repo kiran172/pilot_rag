@@ -1,0 +1,11 @@
+PMID: 37748522
+Title: 13N-ammonia positron emission tomography for diagnosis and monitoring of ischemia without obstructive coronary artery disease.
+
+Abstract: BACKGROUND: Ischemia with no obstructive coronary arteries (INOCA), a chronic disorder with a poor prognosis, remains challenging to diagnose. 13N-ammonia positron emission tomography (13NH3 PET), which can quantify microcirculation, is its most reliable detection method. We aimed to investigate the differences in 13NH3 PET findings between INOCA and coronary artery disease (CAD).
+METHODS: Overall, consecutive 433 patients with known or suspected CAD underwent adenosine-stress 13NH3 PET. Based on the European Society of Cardiology guidelines, INOCA was defined as typical angina without coronary stenosis (INOCA n = 45, CAD n = 293, no CAD n = 95). Papillary muscle ischemia (PMI) and global myocardial flow reserve (MFR) were examined as microvascular injuries using 13NH3 PET.
+RESULTS: PMI was observed significantly more frequently in patients with INOCA than in those with CAD (40.0% vs. 11.6%, respectively; p = 0.02). Global MFR (1.84 ± 0.54 vs. 2.08 ± 0.66, respectively; p < 0.0001) and reactive hyperemia index were significantly lower in patients with INOCA than in those with CAD. Forty-five major adverse cardiac events (MACE) were recorded in a median follow-up time of 827 days. Kaplan-Meier analysis revealed that the survival rate worsened in patients with INOCA and PMI (log-rank test, p = 0.001). In the Cox proportional hazards model, PMI was an independent predictive factor for MACE (odds ratio, 4.16; 95% confidence interval, 2.13-8.15; p < 0.0001).
+CONCLUSIONS: PMI presence and decreased MFR were 13NH3 PET findings characteristic of INOCA. 13NH3 PET can be used to monitor the treatment course.
+
+Citation: Sakai A, et al. 13N-ammonia positron emission tomography for diagnosis and monitoring of ischemia without obstructive coronary artery disease. 13N-ammonia positron emission tomography for diagnosis and monitoring of ischemia without obstructive coronary artery disease. 2024; 395:131392. doi: 10.1016/j.ijcard.2023.131392
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37748522/

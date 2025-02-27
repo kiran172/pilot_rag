@@ -1,0 +1,12 @@
+PMID: 31834183
+Title: Sound Measurement in Patient-Specific 3D Printed Bench Models of Venous Pulsatile Tinnitus.
+
+Abstract: HYPOTHESIS: We hypothesize patient-specific flow models to be an adequate in vitro surrogate to allow for characterization of pulsatile tinnitus (PT) that affects three to five million Americans.
+BACKGROUND: PT, rhythmic sounds without an extracorporeal source that patients appreciate, can be caused by aberrant blood flow in large cerebral veins near the cochlea. To investigate the sound production mechanism, we created 3D printed flow models based on patient-specific cerebral venous anatomies.
+METHODS: Magnetic resonance angiography datasets from two patients with PT were used to generate patient-specific 3D printed flow models. A flow circuit connecting the patient-specific models to a pulsatile, continuous flow pump simulating cardiac cycle was created. Sound recordings were made along the surface of the models using an electronic stethoscope. Peak-to-rms amplitude, and area under the power spectral density (PSD) curve values were computed to evaluate the sound measurements. Wilcoxon rank sum test was used to statistically determine the differences in measurements between the patient-specific models.
+RESULTS: In patient-1, the recordings (peak-to-rms) from the internal jugular vein stenosis of baseline model (4.29 ± 1.26 for 146 samples) were significantly louder (p < 0.001) than that of the altered model (3.29 ± 0.96 for 143 samples). In patient-2, the sound measured at the transverse sinus stenosis in the pre-lumbar puncture model (4.84 ± 1.11 for 148 samples) was significantly louder (p < 0.0001) than that of the post-lumbar puncture model (3.14 ± 0.87 for 135 samples).
+CONCLUSIONS: The models are able to generate sounds very similar to those appreciated by patients and examiners in the cases of objective PT.
+
+Citation: Valluru K, et al. Sound Measurement in Patient-Specific 3D Printed Bench Models of Venous Pulsatile Tinnitus. Sound Measurement in Patient-Specific 3D Printed Bench Models of Venous Pulsatile Tinnitus. 2020; 41:e7-e14. doi: 10.1097/MAO.0000000000002452
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31834183/

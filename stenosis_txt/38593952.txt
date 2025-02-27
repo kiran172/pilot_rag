@@ -1,0 +1,11 @@
+PMID: 38593952
+Title: Prognostic impact of coronary microvascular dysfunction in patients with atrial fibrillation.
+
+Abstract: BACKGROUND: Coronary microvascular dysfunction (CMD) is frequently observed in atrial fibrillation (AF), the most commonly sustained arrhythmia. Nevertheless, an in-depth prognostic significance of CMD in AF is lacking. We aimed to provide insight into the predictive impact of CMD assessed by a novel non-invasive coronary angiography-derived index of microcirculatory resistance (caIMR) for major adverse events (MACE) in AF patients.
+METHOD: This study included patients with AF who underwent invasive coronary angiography due to suspected cardiac ischemia and did not exhibit obstructive epicardial coronary artery disease (≤50 % stenosis). The caIMR was prospectively evaluated, and the optimal cutoff value for predicting MACE was determined through ROC analysis.
+RESULT: A total of 463 patients with AF were enrolled. During a median of 33 months of follow-up, 111 (23.97 %) patients had MACE endpoints. The best caIMR cutoff value was 39.28. In patients with MACE, both the mean caIMR and the prevalence of elevated caIMR (caIMR>39.28) were significantly higher compared to those without MACE. An elevated caIMR was linked to a higher risk of MACE (log-rank P < 0.001) and emerged as an independent predictor of clinical outcomes (HR: 4.029; 95 % CI: 2.529-6.418; P < 0.001). In addition, the risk of MACE was higher in high caIMR patients with non-paroxysmal AF (log-rank P < 0.001) and no catheter ablation (log-rank P < 0.001).
+CONCLUSION: Elevated caIMR is common and showed a vital independent prognostic significance in AF patients. In addition to well-known risk factors, assessment of microvascular function can be a feasible approach for early prevention and a therapeutic target in AF patients.
+
+Citation: Mohammed AA, et al. Prognostic impact of coronary microvascular dysfunction in patients with atrial fibrillation. Prognostic impact of coronary microvascular dysfunction in patients with atrial fibrillation. 2024; 154:104685. doi: 10.1016/j.mvr.2024.104685
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38593952/

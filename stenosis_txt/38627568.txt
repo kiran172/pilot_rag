@@ -1,0 +1,13 @@
+PMID: 38627568
+Title: Quantification of cervical spinal stenosis by automated 3D MRI segmentation of spinal cord and cerebrospinal fluid space.
+
+Abstract: DESIGN: Prospective diagnostic study.
+OBJECTIVES: Anatomical evaluation and graduation of the severity of spinal stenosis is essential in degenerative cervical spine disease. In clinical practice, this is subjectively categorized on cervical MRI lacking an objective and reliable classification. We implemented a fully-automated quantification of spinal canal compromise through 3D T2-weighted MRI segmentation.
+SETTING: Medical Center - University of Freiburg, Germany.
+METHODS: Evaluation of 202 participants receiving 3D T2-weighted MRI of the cervical spine. Segments C2/3 to C6/7 were analyzed for spinal cord and cerebrospinal fluid space volume through a fully-automated segmentation based on a trained deep convolutional neural network. Spinal canal narrowing was characterized by relative values, across sever segments as adapted Maximal Canal Compromise (aMCC), and within the index segment as adapted Spinal Cord Occupation Ratio (aSCOR). Additionally, all segments were subjectively categorized by three observers as "no", "relative" or "absolute" stenosis. Computed scores were applied on the subjective categorization.
+RESULTS: 798 (79.0%) segments were subjectively categorized as "no" stenosis, 85 (8.4%) as "relative" stenosis, and 127 (12.6%) as "absolute" stenosis. The calculated scores revealed significant differences between each category (p ≤ 0.001). Youden's Index analysis of ROC curves revealed optimal cut-offs to distinguish between "no" and "relative" stenosis for aMCC = 1.18 and aSCOR = 36.9%, and between "relative" and "absolute" stenosis for aMCC = 1.54 and aSCOR = 49.3%.
+CONCLUSION: The presented fully-automated segmentation algorithm provides high diagnostic accuracy and objective classification of cervical spinal stenosis. The calculated cut-offs can be used for convenient radiological quantification of the severity of spinal canal compromise in clinical routine.
+
+Citation: Hohenhaus M, et al. Quantification of cervical spinal stenosis by automated 3D MRI segmentation of spinal cord and cerebrospinal fluid space. Quantification of cervical spinal stenosis by automated 3D MRI segmentation of spinal cord and cerebrospinal fluid space. 2024; 62:371-377. doi: 10.1038/s41393-024-00993-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38627568/

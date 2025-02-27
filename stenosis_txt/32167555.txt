@@ -1,0 +1,11 @@
+PMID: 32167555
+Title: The role of fractional flow reserve in coronary artery bypass graft surgery: a meta-analysis.
+
+Abstract: OBJECTIVES: Fractional flow reserve (FFR) measures the drop in perfusion pressure across a stenosis, therefore representing its physiological effect on myocardial blood flow. Its use is widespread in percutaneous coronary interventions, though its role in coronary artery bypass graft (CABG) surgery remains uncertain. This systematic review and meta-analysis aims to evaluate current evidence on outcomes following FFR-guided CABG compared to angiography-guided CABG.
+METHODS: A literature search was conducted following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines to identify all relevant articles. Patient demographics and characteristics were extracted. The following outcomes were analysed: repeat revascularization, myocardial infarction (MI) and all-cause mortality. Pooled relative risks were analysed and their 95% confidence intervals (CIs) were estimated using random-effects models; P-value <0.05 was considered statistically significant. Heterogeneity was assessed with Cochran's Q score and quantified by I2 index.
+RESULTS: Nine studies with 1146 patients (FFR: 574, angiography: 572) were included. There was no difference in MI or repeat revascularization between the 2 groups (relative risk 0.76, 95% CI 0.41-1.43; P = 0.40, and relative risk 1.28, 95% CI 0.75-2.19; P = 0.36, respectively). There was a significant reduction in all-cause mortality in the FFR-guided CABG group compared to angiography-guided CABG, which was not specifically cardiac related (relative risk 0.58, 95% CI 0.38-0.90; P = 0.02).
+CONCLUSIONS: There was no reduction in repeat revascularization or postoperative MI with FFR. In this fairly small cohort, FFR-guided CABG provided a reduction in mortality, but this was not reported to be due to cardiac causes. There may be a role for FFR in CABG, but large-scale randomized trials are required to establish its value.
+
+Citation: Jayakumar S, et al. The role of fractional flow reserve in coronary artery bypass graft surgery: a meta-analysis. The role of fractional flow reserve in coronary artery bypass graft surgery: a meta-analysis. 2020; 30:671-678. doi: 10.1093/icvts/ivaa006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32167555/

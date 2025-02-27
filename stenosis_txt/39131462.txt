@@ -1,0 +1,11 @@
+PMID: 39131462
+Title: Quantitative Flow Ratio Based on Murray Fractal Law: Accuracy of Single Versus Two Angiographic Views.
+
+Abstract: BACKGROUND: Murray bifurcation fractal law-based quantitative flow ratio (QFR), namely, μQFR, is a novel method for the fast computation of fractional flow reserve (FFR) from a single angiographic view. We aimed to compare the diagnostic accuracy of computational QFR based on single vs 2 angiographic views in patients with intermediate coronary stenosis.
+METHODS: The algorithm of μQFR was extended to develop a Murray law-based 3-dimensional (3D) μQFR from 2 angiographic projections. Patients with both angiographic views acquired according to the protocol-specified recommended views in the FAVOR (Functional Diagnostic Accuracy of Quantitative Flow Ratio in Online Assessment of Coronary Stenosis) II China study were included. μQFR was computed separately from the first (μQFR1) and second (μQFR2) angiographic projections, whereas the 3D-μQFR was computed based on both projections, all blinded to FFR data. Hemodynamically significant coronary stenosis was defined by wire-based FFR of ≤0.80.
+RESULTS: Altogether, 280 vessels from 262 patients had 2 protocol-specified recommended angiographic views; μQFR1, μQFR2, and 3D-μQFR were successfully computed in all these vessels. The mean FFR was 0.82 ± 0.12. The vessel-level diagnostic accuracy for μQFR1, μQFR2, and 3D-μQFR to identify hemodynamically significant stenosis was 92.1% (95% CI, 89.0%-95.3%), 92.5% (95% CI, 89.4%-95.6%), and 93.2% (95% CI, 90.3%-96.2%), respectively, with similar areas under the receiver operating characteristic curve for μQFR1 (0.96, P &lt; .001), μQFR2 (0.95, P &lt; .001), and 3D-μQFR (0.95, P &lt; .001). μQFR1 and μQFR2 had excellent correlation (r = 0.95) and agreement (mean difference = 0.00 ± 0.03).
+CONCLUSIONS: Computation of μQFR from a single angiographic view had comparably good diagnostic performance as 2-view 3D-μQFR in identifying hemodynamically significant coronary stenosis.
+
+Citation: Ding D, et al. Quantitative Flow Ratio Based on Murray Fractal Law: Accuracy of Single Versus Two Angiographic Views. Quantitative Flow Ratio Based on Murray Fractal Law: Accuracy of Single Versus Two Angiographic Views. 2022; 1:100399. doi: 10.1016/j.jscai.2022.100399
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39131462/

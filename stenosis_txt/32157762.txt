@@ -1,0 +1,11 @@
+PMID: 32157762
+Title: Mismatch of cognition and neural networks in asymptomatic middle cerebral artery steno-occlusive disease.
+
+Abstract: BACKGROUND AND PURPOSE: The role of intracranial steno-occlusive disease in cognitive impairment and dementia is unclear and has not been well studied.
+METHODS: A total of 32 consecutive patients (13 males, aged 54 ± 12 years) with asymptomatic steno-occlusive middle cerebral artery (MCA) disease, defined as >70% stenosis on maximum intensity projection images or a complete signal loss of MCA trunk on magnetic resonance angiography, and 20 age- and education-matched normal controls (12 males, 60 ± 8 years old) were compared for neuropsychological performance, gray matter volume and neural network analysis.
+RESULTS: The patient group did not show a significant decrease in gray matter volume or cognitive tests except for their performance on the grooved pegboard test. However, graph analysis of resting-state functional magnetic resonance imaging showed significant decreases in network strength, global efficiency and the clustering coefficient, as well as a longer characteristic path length (P < 0.05). The diffusive decrease pattern was particularly located in interhemispheric connectivity and there was no compensatory hyperconnectivity in any brain regions.
+CONCLUSION: In asymptomatic steno-occlusive MCA disease, cognition and neural network changes are mismatched and have underlying pathophysiological mechanisms that are different from those of neurodegenerative disease.
+
+Citation: Liu CY, et al. Mismatch of cognition and neural networks in asymptomatic middle cerebral artery steno-occlusive disease. Mismatch of cognition and neural networks in asymptomatic middle cerebral artery steno-occlusive disease. 2020; 27:1062-1065. doi: 10.1111/ene.14210
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32157762/

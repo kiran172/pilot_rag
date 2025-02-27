@@ -1,0 +1,12 @@
+PMID: 35290444
+Title: Pacemaker implantation after sutureless or stented valve: results from a controlled randomized trial.
+
+Abstract: OBJECTIVES: Sutureless aortic valves demonstrated non-inferiority to standard stented valves for major cardiovascular and cerebral events at 1 year after aortic valve replacement. We aim to assess the factors correlating with permanent pacemaker implantation (PPI) in both cohorts.
+METHODS: PERSIST-AVR is a prospective, randomized, open-label trial. Patients undergoing aortic valve replacement were randomized to receive a sutureless aortic valve replacement (Su-AVR) or stented sutured bioprosthesis (SAVR). Multivariable analysis was performed to identify possible independent risk factors associated with PPI. A logistic regression analysis was performed to estimate the risk of PPI associated to different valve size.
+RESULTS: The 2 groups (Su-AVR; n = 450, SAVR n = 446) were well balanced in terms of preoperative risk factors. Early PPI rates were 10.4% in the Su-AVR group and 3.1% in the SAVR. PPI prevalence correlated with valve size XL (P = 0.0119) and preoperative conduction disturbances (P = 0.0079) in the Su-AVR group. No predictors were found in the SAVR cohort. Logistic regression analysis showed a significantly higher risk for PPI with size XL compared to each individual sutureless valve sizes [odds ratio (OR) 0.272 vs size S (95%confidence interval 0.07-0.95), 0.334 vs size M (95% CI 0,16-0; 68), 0.408 vs size L (95% CI 0,21-0.81)] but equivalent risk of PPI rates for all other combination of valve sizes.
+CONCLUSIONS: Su-AVR is associated with higher PPI rate as compared to SAVR. However, the increased PPI rate appears to be size-dependent with significant higher rate only for size XL. The combination of preoperative conduction disorder and a size XL can lead to a higher probability of early PPI in Su-AVR.
+CLINICAL TRIAL REGISTRATION NUMBER: NCT02673697.
+
+Citation: Lorusso R, et al. Pacemaker implantation after sutureless or stented valve: results from a controlled randomized trial. Pacemaker implantation after sutureless or stented valve: results from a controlled randomized trial. 2022; 62:(unknown pages). doi: 10.1093/ejcts/ezac164
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35290444/

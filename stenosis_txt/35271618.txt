@@ -1,0 +1,11 @@
+PMID: 35271618
+Title: Cortical and medullary oxygenation evaluation of kidneys with renal artery stenosis by BOLD-MRI.
+
+Abstract: AIM: Blood oxygen level-dependent magnetic resonance imaging (BOLD-MRI) can measure deoxyhemoglobin content. This study aims to evaluate the capacity of BOLD-MRI, which is possible to evaluate the oxygenation state of kidneys with renal artery stenosis (RAS).
+MATERIALS AND METHODS: We performed BOLD-MRI for 40 patients with RAS and for 30 healthy volunteers. We then performed post-scan processing and analysis of manually drawn regions of interest to determine R2* values (relaxation rates) for the renal cortex and medulla. We compared R2* values in patients with RAS with those in the control group, and also compared these values for subgroups with varying degrees of stenosis.
+RESULTS: Medulla R2* values were higher than cortex R2* values in the control group. There was no significant difference in R2* values for different segments (upper, middle, lower) of the kidneys. Both cortex and medulla R2* values in patients with RAS were significantly higher than corresponding R2* values in the control group (P < 0.05), and BOLD-MRI was more sensitive to changes in the R2* values in the medulla than in the cortex. Among different subgroups in the RAS group, the medulla R2* values were significantly higher in kidneys with severe stenosis than in those with no obvious obstruction, mild stenosis, or moderate stenosis (P < 0.05).
+CONCLUSION: BOLD-MRI is an effective, noninvasive method for evaluating kidney oxygenation, which is important for proper treatment in RAS. It is sufficiently sensitive for detecting medulla ischemia and anoxia of the kidneys.
+
+Citation: Zhao L, et al. Cortical and medullary oxygenation evaluation of kidneys with renal artery stenosis by BOLD-MRI. Cortical and medullary oxygenation evaluation of kidneys with renal artery stenosis by BOLD-MRI. 2022; 17:e0264630. doi: 10.1371/journal.pone.0264630
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35271618/

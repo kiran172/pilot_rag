@@ -1,0 +1,11 @@
+PMID: 31444857
+Title: Patterns of Arterial Disease in Takayasu Arteritis and Giant Cell Arteritis.
+
+Abstract: OBJECTIVE: To identify and validate, using computer-driven methods, patterns of arterial disease in Takayasu arteritis (TAK) and giant cell arteritis (GCA).
+METHODS: Patients with TAK or GCA were studied from the Diagnostic and Classification Criteria for Vasculitis (DCVAS) cohort and a combined North American cohort. Case inclusion required evidence of large-vessel involvement, defined as stenosis, occlusion, or aneurysm by angiography/ultrasonography, or increased 18 F-fluorodeoxyglucose (FDG) uptake by positron emission tomography (PET) in at least 1 of 11 specified arterial territories. K-means cluster analysis identified groups of patients based on the pattern of arterial involvement. Cluster groups were identified in the DCVAS cohort and independently validated in the North American cohort.
+RESULTS: A total of 1,068 patients were included (DCVAS cohort: TAK = 461, GCA = 217; North American cohort: TAK = 225, GCA = 165). Six distinct clusters of patients were identified in DCVAS and validated in the North American cohort. Patients with TAK were more likely to have disease in the abdominal vasculature, bilateral disease of the subclavian and carotid arteries, or focal disease limited to the left subclavian artery than GCA (P < 0.01). Patients with GCA were more likely to have diffuse disease, involvement of bilateral axillary/subclavian arteries, or minimal disease without a definable pattern than TAK (P < 0.01). Patients with TAK were more likely to have damage by angiography, and patients with GCA were more likely to have arterial FDG uptake by PET without associated vascular damage.
+CONCLUSION: Arterial patterns of disease highlight both shared and divergent vascular patterns between TAK and GCA and should be incorporated into classification criteria for large-vessel vasculitis.
+
+Citation: Gribbons KB, et al. Patterns of Arterial Disease in Takayasu Arteritis and Giant Cell Arteritis. Patterns of Arterial Disease in Takayasu Arteritis and Giant Cell Arteritis. 2020; 72:1615-1624. doi: 10.1002/acr.24055
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31444857/

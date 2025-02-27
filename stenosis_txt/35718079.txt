@@ -1,0 +1,12 @@
+PMID: 35718079
+Title: Circ-Ddx60 contributes to the antihypertrophic memory of exercise hypertrophic preconditioning.
+
+Abstract: INTRODUCTION: We previously reported a phenomenon called exercise hypertrophic preconditioning (EHP), the underlying mechanisms of which need further clarification.
+OBJECTIVES: We aimed to investigate whether circular RNAs (circRNAs) are involved in EHP.
+METHODS: CircRNA sequencing of myocardial tissue was performed in male C57BL/6 mice with EHP and sedentary. Bioinformatics analysis and Sanger sequencing were used to screen hub circRNA expression and to detect full-length circRNAs, respectively. Loss-of-function analyses were conducted to assess the effects of circ-Ddx60 (c-Ddx) on EHP. After 21 days of swimming training or resting, mice underwent transverse aortic constriction (TAC) or sham surgery. Echocardiography, invasive hemodynamic measurement and histological analysis were used to evaluate cardiac remodeling and function. The presence of interaction between c-Ddx and proteins was investigated using comprehensive identification of RNA-binding proteins by mass spectrometry (ChIRP-MS).
+RESULTS: In this study, we identified a novel circRNA, named c-Ddx that was preferentially expressed in myocardial tissue and significantly up-regulated in EHP mice. Silencing of c-Ddx attenuated the antihypertrophic effect of EHP and worsened heart failure in mice that underwent TAC. ChIRP-MS and molecular docking analysis validated the combination of c-Ddx and eukaryotic elongation factor 2 (eEF2). Mechanistically, c-Ddx silencing inhibited the increase of phosphorylation of eEF2 and its upstream AMP-activated protein kinase (AMPK) induced by EHP.
+CONCLUSIONS: C-Ddx contributes to the antihypertrophic memory of EHP by binding and activating eEF2, which would provide opportunity to search new therapeutic targets for pathological hypertrophy of heart.
+
+Citation: Zhu Y, et al. Circ-Ddx60 contributes to the antihypertrophic memory of exercise hypertrophic preconditioning. Circ-Ddx60 contributes to the antihypertrophic memory of exercise hypertrophic preconditioning. 2023; 46:113-121. doi: 10.1016/j.jare.2022.06.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35718079/

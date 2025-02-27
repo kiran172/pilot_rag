@@ -1,0 +1,14 @@
+PMID: 34039891
+Title: Responsiveness and Minimal Clinically Important Difference of the 6-minute Walk Distance in Patients Undergoing Lumbar Spinal Canal Stenosis Surgery.
+
+Abstract: STUDY DESIGN: This was a retrospective review of prospectively collected data.
+OBJECTIVE: We aimed to evaluate the responsiveness of the 6-minute walk distance (6MWD) and determine the threshold of the minimal clinically important difference (MCID) in the 6MWD in patients who underwent surgery for lumbar spinal canal stenosis (LSS) surgery.
+SUMMARY OF BACKGROUND DATA: The 6MWD rapidly and objectively assesses the walking distance in patients with LSS. To date, no study has assessed the MCID in the 6MWD in patients who underwent LSS surgery.
+MATERIALS AND METHODS: A total of 41 patients (16 women; average age: 69.4 y, SD: 7.8 y) were included and assessed preoperatively and at 6 months postoperatively. We evaluated the 6MWD and Oswestry Disability Index (ODI), which is a health-related patientrReported outcome, used as an anchor to calculate the MCID for in the 6MWD. We used 2 different approaches to examine the responsiveness of the 6MWD: internal and external responsiveness. The external responsiveness was assessed in 2 ways: one based on the anchoring questionnaire and the other based on the scale distribution of the scale. The anchor-based approach was evaluated using the Spearman rank correlation coefficient and the receiver operating characteristic curve. The distribution-based approach was evaluated using the minimal detectable change.
+RESULTS: The ODI scores and 6MWD for each anchor significantly improved postoperatively. The correlation coefficient between changes in the 6MWD and ODI was r=-0.58. The area under the receiver operating characteristic curve for the ODI anchor was 0.70 (95% confidence interval: 0.52-0.89), and the cutoff value for the ODI anchor was 50 m (sensitivity=0.57, specificity=0.71). In the distribution-based approach, the minimal detectable change for the 6MWD was 105.9 m.
+CONCLUSIONS: Both the internal and the external responsiveness of the 6MWD were validated using the ODI. Therefore, the MCID in the 6MWD in patients undergoing LSS surgery ranges from 50 to 105.9 m.
+LEVEL OF EVIDENCE: Level III.
+
+Citation: Takenaka H, et al. Responsiveness and Minimal Clinically Important Difference of the 6-minute Walk Distance in Patients Undergoing Lumbar Spinal Canal Stenosis Surgery. Responsiveness and Minimal Clinically Important Difference of the 6-minute Walk Distance in Patients Undergoing Lumbar Spinal Canal Stenosis Surgery. 2022; 35:E345-E350. doi: 10.1097/BSD.0000000000001196
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34039891/

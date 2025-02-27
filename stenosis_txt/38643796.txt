@@ -1,0 +1,11 @@
+PMID: 38643796
+Title: Psychosocial distress and health status as risk factors for ten-year major adverse cardiac events and mortality in patients with non-obstructive coronary artery disease.
+
+Abstract: BACKGROUND: We examined the risk of psychosocial distress, including Type D personality, depressive symptoms, anxiety, positive mood, hostility, and health status fatigue and disease specific and generic quality of life for MACE in patients with non-obstructive coronary artery disease (NOCAD).
+METHODS: In the Tweesteden mild stenosis (TWIST) study, 546 patients with NOCAD were followed for 10 years to examine the occurrence of cardiac mortality, a major cardiac event, or non-cardiac mortality in the absence of a cardiac event. Cox proportional hazard models were used to examine the impact of psychosocial distress and health status on the occurrence of MACE while adjusting for age, sex, disease severity, and lifestyle covariates.
+RESULTS: In total 19% of the patients (mean age baseline = 61, SD 9 years; 52% women) experienced MACE, with a lower risk for women compared to men. Positive mood (HR 0.97, 95%CI 0.95-1.00), fatigue (HR 1.03, 95%CI 1.00-1.06), and physical limitation (HR 0.99, 95%CI 0.98-1.00) were associated with MACE in adjusted models. No significant interactions between sex and psychosocial factors were present. Depressive symptoms were predictive of MACE, but no longer after adjustment.
+CONCLUSIONS: In patients with NOCAD fatigue, low positive mood, and a lower physical limitation score were associated with MACE, without marked sex differences. Type D personality, psychosocial factors, and health status were not predictive of adverse outcomes. Reducing psychosocial distress is a valid intervention goal by itself, though it is less likely to affect MACE in patients with NOCAD.
+
+Citation: Mommersteeg PMC, et al. Psychosocial distress and health status as risk factors for ten-year major adverse cardiac events and mortality in patients with non-obstructive coronary artery disease. Psychosocial distress and health status as risk factors for ten-year major adverse cardiac events and mortality in patients with non-obstructive coronary artery disease. 2024; 406:132062. doi: 10.1016/j.ijcard.2024.132062
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38643796/

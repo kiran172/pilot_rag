@@ -1,0 +1,11 @@
+PMID: 31669690
+Title: Magnetic Resonance Imaging Atlas-Based Volumetric Mapping of the Cervical Cord Gray Matter in Cervical Canal Stenosis.
+
+Abstract: BACKGROUND: White matter volume loss may be an anatomic driver in the development of clinical symptoms in cervical spondylotic myelopathy (CSM). Considerably less attention has been devoted to gray matter (GM) injury. Newly developed atlas-based mapping techniques may allow evaluation of GM cord volume alterations in CSM.
+METHODS: There were 29 subjects evaluated: 15 patients with CSM (61.1 ± 8.7 years old) and 14 age-matched control subjects (56.1 ± 5.3 years old). All subjects underwent 3T magnetic resonance imaging of the cervical spine. Post-processing with the Spinal Cord Toolbox (v3.0) provided GM volumetric analysis. Clinical scores collected included modified Japanese Orthopaedic Association, neck and arm numeric rating scales, Nurick Scale, and Neck Disability Index. All volumes were normalized to account for anatomic variability.
+RESULTS: Normalized mean ventral GM volume in the compression region was significantly lower in patients compared with control subjects (1.103 ± 0.21 vs. 1.35 ± 0.32, P = 0.027). Normalized mean dorsal volume in the compression region was decreased in patients compared with control subjects (0.90 ± 0.17 vs. 1.04 ± 0.15, P = 0.049). GM volumes were associated with clinical scores, including Neck Disability Index, arm numeric rating scale, modified Japanese Orthopaedic Association, and Nurick Scale scores (P = 0.022, P = 0.004, P = 0.027, and P = 0.016).
+CONCLUSIONS: GM volume loss may be evaluated through atlas-based post-processing techniques and may correlate with clinical symptoms in CSM.
+
+Citation: Smith ZA, et al. Magnetic Resonance Imaging Atlas-Based Volumetric Mapping of the Cervical Cord Gray Matter in Cervical Canal Stenosis. Magnetic Resonance Imaging Atlas-Based Volumetric Mapping of the Cervical Cord Gray Matter in Cervical Canal Stenosis. 2020; 134:e497-e504. doi: 10.1016/j.wneu.2019.10.109
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31669690/

@@ -1,0 +1,11 @@
+PMID: 39077668
+Title: Diagnostic Performance of Noninvasive Coronary Computed Tomography Angiography-Derived FFR for Coronary Lesion-Specific Ischemia Based on Deep Learning Analysis.
+
+Abstract: BACKGROUND: The noninvasive computed tomography angiography-derived fractional flow reserve (CT-FFR) can be used to diagnose coronary ischemia. With advancements in associated software, the diagnostic capability of CT-FFR may have evolved. This study evaluates the effectiveness of a novel deep learning-based software in predicting coronary ischemia through CT-FFR.
+METHODS: In this prospective study, 138 subjects with suspected or confirmed coronary artery disease were assessed. Following indication of 30%-90% stenosis on coronary computed tomography (CT) angiography, participants underwent invasive coronary angiography and fractional flow reserve (FFR) measurement. The diagnostic performance of the CT-FFR was determined using the FFR as the reference standard.
+RESULTS: With a threshold of 0.80, the CT-FFR displayed an impressive diagnostic accuracy, sensitivity, specificity, area under the receiver operating characteristic curve (AUC), positive predictive value (PPV), and negative predictive value (NPV) of 97.1%, 96.2%, 97.7%, 0.98, 96.2%, and 97.7%, respectively. At a 0.75 threshold, the CT-FFR showed a diagnostic accuracy, sensitivity, specificity, AUC, PPV, and NPV of 84.1%, 78.8%, 85.7%, 0.95, 63.4%, and 92.8%, respectively. The Bland-Altman analysis revealed a direct correlation between the CT-FFR and FFR (p &lt; 0.001), without systematic differences (p = 0.085).
+CONCLUSIONS: The CT-FFR, empowered by novel deep learning software, demonstrates a strong correlation with the FFR, offering high clinical diagnostic accuracy for coronary ischemia. The results underline the potential of modern computational approaches in enhancing noninvasive coronary assessment.
+
+Citation: Wu H, et al. Diagnostic Performance of Noninvasive Coronary Computed Tomography Angiography-Derived FFR for Coronary Lesion-Specific Ischemia Based on Deep Learning Analysis. Diagnostic Performance of Noninvasive Coronary Computed Tomography Angiography-Derived FFR for Coronary Lesion-Specific Ischemia Based on Deep Learning Analysis. 2024; 25:20. doi: 10.31083/j.rcm2501020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39077668/

@@ -1,0 +1,11 @@
+PMID: 36042948
+Title: Visceral adipose volume is correlated with surgical tissue fibrosis in Crohn's disease of the small bowel.
+
+Abstract: BACKGROUND: This study explored the diagnostic performance of visceral adiposity to predict the degree of intestinal inflammation and fibrosis.
+METHODS: The patients with Crohn's disease (CD) who underwent surgical small bowel resection at the First Affiliated Hospital of Sun Yat-sen University (Guangzhou, China) between January 2007 and December 2017 were enrolled. We evaluated the intestinal imaging features of computed tomography enterography (CTE), including mesenteric inflammatory fat stranding, the target sign, mesenteric hypervascularity, bowel wall thickening, lymphadenopathy, stricture diameter, and maximal upstream diameter. We used A.K. software (Artificial Intelligence Kit, version 1.1) to calculate the visceral fat (VF) and subcutaneous fat (SF) volumes at the third lumbar vertebra level. Pathological tissue information was recorded. Diagnostic models were established based on the multivariate regression analysis results, and their effectiveness was evaluated by area under the curve (AUC) and decision curve analyses.
+RESULTS: Overall, 48 patients with CD were included in this study. The abdominal VF/SF volume ratio (odds ratio, 1.20; 95% confidence interval, 1.05-1.38; P = 0.009) and the stenosis diameter/upstream intestinal dilatation diameter (ND) ratio (odds ratio, 0.90; 95% confidence interval, 0.82-0.99; P = 0.034) were independent risk factors for the severe fibrosis of the small intestine. The AUC values of the VF/SF ratio, the ND ratio, and their combination were 0.760, 0.673, and 0.804, respectively. The combination of the VS/SF volume ratio and ND ratio achieved the highest net benefit on the decision curve.
+CONCLUSION: The VF volume on CTE can reflect intestinal fibrosis. The combination of the VF/SF volume ratio and ND ratio of CD patients assessed using CTE can help predict severe fibrosis stenosis of the small intestine.
+
+Citation: Yuan G, et al. Visceral adipose volume is correlated with surgical tissue fibrosis in Crohn's disease of the small bowel. Visceral adipose volume is correlated with surgical tissue fibrosis in Crohn's disease of the small bowel. 2022; 10:goac044. doi: 10.1093/gastro/goac044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36042948/

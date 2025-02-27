@@ -1,0 +1,11 @@
+PMID: 35845036
+Title: Improved Functional Assessment of Ischemic Severity Using 3D Printed Models.
+
+Abstract: OBJECTIVE: To develop a novel in vitro method for evaluating coronary artery ischemia using a combination of non-invasive coronary CT angiograms (CCTA) and 3D printing (FFR<sub>3D</sub>).
+METHODS: Twenty eight patients with varying degrees of coronary artery disease who underwent non-invasive CCTA scans and invasive fractional flow reserve (FFR) of their epicardial coronary arteries were included in this study. Coronary arteries were segmented and reconstructed from CCTA scans using Mimics (Materialize). The segmented models were then 3D printed using a Carbon M1 3D printer with urethane methacrylate (UMA) family of rigid resins. Physiological coronary circulation was modeled in vitro as flow-dependent stenosis resistance in series with variable downstream resistance. A range of physiological flow rates (Q) were applied using a peristaltic steady flow pump and titrated with a flow sensor. The pressure drop (ΔP) and the pressure ratio (P<sub>d</sub>/P<sub>a</sub>) were assessed for patient-specific aortic pressure (P<sub>a</sub>) and differing flow rates (Q) to evaluate FFR<sub>3D</sub> using the 3D printed model.
+RESULTS: There was a good positive correlation (r = 0.87, p &lt; 0.0001) between FFR<sub>3D</sub> and invasive FFR. Bland-Altman analysis revealed a good concordance between the FFR<sub>3D</sub> and invasive FFR values with a mean bias of 0.02 (limits of agreement: -0.14 to 0.18; p = 0.2).
+CONCLUSIONS: 3D printed patient-specific models can be used in a non-invasive in vitro environment to quantify coronary artery ischemia with good correlation and concordance to that of invasive FFR.
+
+Citation: Kolli KK, et al. Improved Functional Assessment of Ischemic Severity Using 3D Printed Models. Improved Functional Assessment of Ischemic Severity Using 3D Printed Models. 2022; 9:909680. doi: 10.3389/fcvm.2022.909680
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35845036/

@@ -1,0 +1,11 @@
+PMID: 33051334
+Title: Troponin T but not C reactive protein is associated with future surgery for aortic stenosis: a population-based nested case-referent study.
+
+Abstract: AIMS: High-sensitivity troponin T (hs-TnT) and high-sensitivity C reactive protein (hs-CRP) may convey prognostic information in patients with aortic stenosis (AS). This study evaluated if hs-TnT and hs-CRP associate with myocardial mass, and risk of future surgery for AS.
+METHODS: In total, 336 patients (48% women) with surgery for AS with previous participation in large population surveys were identified. Preoperatively, myocardial mass and the presence of coronary artery disease (CAD) were assessed. Two matched referents were allocated for each case, and hs-TnT and hs-CRP were determined in stored plasma from the baseline survey. Conditional logistic regression analysis was used to estimate the risk (OR (95% CI)) related to one (natural logarithm) SD increase in hs-TnT and hs-CRP. Kaplan-Mayer and Cox regression analyses were used to evaluate time to surgery.
+RESULTS: Median age (IQR) was 59.8 (10.3) years at survey, and median time between survey and surgery was 10.9 (9.3) years. Hs-TnT was independently associated with surgery for AS (1.24 (1.06-1.44)) irrespective of CAD, whereas Hs-CRP was not (1.05 (0.90-1.22)). Elevated hs-TnT levels at survey associated with shorter time to surgery (p<0.001), and with increased myocardial mass (p=0.002). Hs-CRP did not associate with time to surgery or with myocardial mass.
+CONCLUSIONS: Hs-TnT-but not hs-CRP-was associated with increased risk of-and shorter time to-future surgery for AS. Hs-TnT associated with myocardial mass at surgery which indicates that hs-TnT could be a potential biomarker for determining intervention.
+
+Citation: Holmgren A, et al. Troponin T but not C reactive protein is associated with future surgery for aortic stenosis: a population-based nested case-referent study. Troponin T but not C reactive protein is associated with future surgery for aortic stenosis: a population-based nested case-referent study. 2020; 7:(unknown pages). doi: 10.1136/openhrt-2020-001325
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33051334/

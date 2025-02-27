@@ -1,0 +1,12 @@
+PMID: 37363848
+Title: Compliant Aortic Annulus Sizing With Different Elliptical Ratios Through a Valvuloplasty Balloon Catheter.
+
+Abstract: OBJECTIVE: Aortic stenos (AS) is a heart valve disease that commonly affects the elderly. Transcatheter aortic valve implantation is a minimally invasive treatment that allows to replace the function of the diseased native valve with a prosthetic device, relying on catheters for device implantation. According to the current clinical guidelines, the choice of the implanted device is based on preoperative sizing determined by image-based technology. However, this assessment faces inherent limitations that can lead to sub-optimal sizing of the prosthesis; in turn, this can cause major post-operative complications like aortic regurgitation or cardiac electrical signal disruption.
+METHOD: By utilizing balloon pressure and volume data, this article proposes an intra-operative method for determining the dimension of the aortic annulus which takes into account its compliance and geometric irregularity. The intra-balloon pressure-volume curves were obtained using an Automated Balloon Inflation Device operating a commercially available valvuloplasty balloon catheter. A sizing algorithm to estimate the dimensions of the annulus was integrated via a validated analytical model and a numerical model for balloon free-inflation. Tests were performed on circular and elliptical idealised aortic phantoms.
+RESULTS: Experimental results confirm that the pressure-volume data processed with the sizing algorithm can be used to determine the circular annular diameter for all tissue rigidities.
+CONCLUSION: The measurement of stiffer elliptical annulus phantoms shows good accuracy and high repeatability.
+SIGNIFICANCE: This work represents substantial progress toward improving the selection of TAVI devices by using balloon catheters to improve the sizing of compliant aortic annuli with complex geometry.
+
+Citation: Yao J, et al. Compliant Aortic Annulus Sizing With Different Elliptical Ratios Through a Valvuloplasty Balloon Catheter. Compliant Aortic Annulus Sizing With Different Elliptical Ratios Through a Valvuloplasty Balloon Catheter. 2023; 70:3469-3479. doi: 10.1109/TBME.2023.3289300
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37363848/

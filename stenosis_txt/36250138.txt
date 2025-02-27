@@ -1,0 +1,11 @@
+PMID: 36250138
+Title: Can clot size and stenotic degree predict perfusion defects on conventional computed tomographic pulmonary angiography in diagnoses of pulmonary embolism?
+
+Abstract: PURPOSE: To evaluate clot size and stenotic degree on conventional computed tomographic pulmonary angiography (CTPA) with perfusion defect.
+MATERIAL AND METHODS: Fifty-two pulmonary embolism (PE) patients with 144 PE locations underwent dual-energy CTPA with an iodine distribution map. Each PE location was rated as to whether there was a perfusion defect. Clot size, stenotic degree, and other associated PE findings were evaluated. These findings were then correlated with whether the perfusion defect was present.
+RESULTS: There were no associations between demographics, clinical characteristics, anatomical data, and perfusion defect. The median iodine concentration ratio was 0.11. Imaging interpretation by 2 thoracic radiologists had excellent agreement. The clot size and stenotic degree in PE were significant predictors of perfusion defect on conventional CTPA. Lesions with higher degrees of stenosis had higher percentages of perfusion defect. The generalized estimating equation (GEE) logistic regression confirmed that clot size and stenotic degree could predict PE perfusion defects on conventional CTPA.
+CONCLUSIONS: The 2 significant predictors of perfusion defect were occluded vessels in both small and large branches together, or complete occlusion of the pulmonary artery.
+
+Citation: Choochuen P, et al. Can clot size and stenotic degree predict perfusion defects on conventional computed tomographic pulmonary angiography in diagnoses of pulmonary embolism?. Can clot size and stenotic degree predict perfusion defects on conventional computed tomographic pulmonary angiography in diagnoses of pulmonary embolism?. 2022; 87:e530-e538. doi: 10.5114/pjr.2022.119809
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36250138/

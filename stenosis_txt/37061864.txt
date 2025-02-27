@@ -1,0 +1,8 @@
+PMID: 37061864
+Title: [State of the art mathematical methods of the coronary blood flow modelling: background and clinical value].
+
+Abstract: X-ray computed tomography coronary angiography (CTCA) is a current method for diagnosing ischemic heart disease. Although this method has a high specificity and a negative predictive value in diagnosing coronary obstructions, there are limitations in determining the hemodynamic significance of the stenosis. Extensive use of noninvasive methods for evaluation of coronary hemodynamics, specifically evaluation of the fractional flow reserve (FFR) is limited due to its high cost and risks of complications. Mathematical modeling of coronary circulation and its reserve based on CTCA data is an up-to-date method that has been experimentally confirmed and clinically validated. This method showed a high diagnostic efficacy in several large studies that used the invasive determination of FFR as a "gold standard". This review addresses the current state of studies on mathematical modeling for fractional coronary reserve in patients with ischemic heart disease, as well as the limitations and prospects of this method.
+
+Citation: Suyundukova AT, et al. [State of the art mathematical methods of the coronary blood flow modelling: background and clinical value]. [State of the art mathematical methods of the coronary blood flow modelling: background and clinical value]. 2023; 63:77-84. doi: 10.18087/cardio.2023.3.n1930
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37061864/

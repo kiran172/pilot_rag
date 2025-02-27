@@ -1,0 +1,10 @@
+PMID: 36908813
+Title: Abnormal mechanical stress on bicuspid aortic valve induces valvular calcification and inhibits Notch1/NICD/Runx2 signal.
+
+Abstract: BACKGROUND: Bicuspid aortic valve (BAV) is a congenital cardiac deformity, increasing the risk of developing calcific aortic valve disease (CAVD). The disturbance of hemodynamics can induce valvular calcification, but the mechanism has not been fully identified.
+METHODS: We constructed a finite element model (FEM) of the aortic valve based on the computed tomography angiography (CTA) data from BAV patients and tricuspid aortic valve (TAV) individuals. We analyzed the hemodynamic properties based on our model and investigated the characteristics of mechanical stimuli on BAV. Further, we detected the expression of Notch, NICD and Runx2 in valve samples and identified the association between mechanical stress and the Notch1 signaling pathway.
+RESULTS: Finite element analysis showed that at diastole phase, the equivalent stress on the root of BAV was significantly higher than that on the TAV leaflet. Correspondingly, the expression of Notch1 and NICH decreased and the expression of Runx2 elevated significantly on large BAV leaflet belly, which is associated with equivalent stress on leaflet. Our findings indicated that the root of BAV suffered higher mechanical stress due to the abnormal hemodynamic environment, and the disturbance of the Notch1/NICD/Runx2 signaling pathway caused by mechanical stimuli contributed to valvular calcification.
+
+Citation: Li G, et al. Abnormal mechanical stress on bicuspid aortic valve induces valvular calcification and inhibits Notch1/NICD/Runx2 signal. Abnormal mechanical stress on bicuspid aortic valve induces valvular calcification and inhibits Notch1/NICD/Runx2 signal. 2023; 11:e14950. doi: 10.7717/peerj.14950
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36908813/

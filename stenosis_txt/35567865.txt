@@ -1,0 +1,10 @@
+PMID: 35567865
+Title: Magnetohydrodynamic blood flow study in stenotic coronary artery using lattice Boltzmann method.
+
+Abstract: BACKGROUND AND OBJECTIVE: Cardiovascular diseases such as atherosclerosis are the first engender of death in the world. The malfunctioning of cardiovascular system is attributed mainly to hemodynamics. However, blood magnetic properties are of major haemodynamic interest, with significant clinical applications. The aim of this work is to study numerically the effect of high magnetic field on blood flow in stenotic artery.
+METHODS: In this paper, a double population D<sub>2</sub>Q<sub>9</sub> lattice Boltzmann model is proposed. Velocity and magnetic field are both solved using Lattice Boltzmann method with single relaxation time. Blood is considered homogeneous and Newtonian bio-magnetic fluid. The results of the proposed model are compared and validated by recent numerical and experimental studies in the literature and show good agreement. In this study, simulations are carried out for both hydrodynamics and magneto-hydrodynamics. For the magneto-hydrodynamic case, five values of Hartmann number of 10, 30, 50, 75 and 100 at Reynolds number of 400, 600 and 800 are investigated Results: The results show that velocity and recirculation zone increase with the increase of the degree of stenosis and Reynolds number. In addition, a considerable decrease in velocity, recirculation zones and pressure drop across the stenotic artery is noticed with the increase of Hartmann number.
+CONCLUSION: The suggested model is found to be effective and accurate in the treatment of magneto-hydrodynamic blood flow in stenotic artery. The found results can be used by clinicians in the treatment of certain cardiovascular disorders and in regulating blood flow movement, especially during surgical procedures.
+
+Citation: Cherkaoui I, et al. Magnetohydrodynamic blood flow study in stenotic coronary artery using lattice Boltzmann method. Magnetohydrodynamic blood flow study in stenotic coronary artery using lattice Boltzmann method. 2022; 221:106850. doi: 10.1016/j.cmpb.2022.106850
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35567865/

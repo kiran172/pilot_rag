@@ -1,0 +1,8 @@
+PMID: 39443560
+Title: Machine learning for pacemaker implantation prediction after TAVI using multimodal imaging data.
+
+Abstract: Pacemaker implantation (PMI) after transcatheter aortic valve implantation (TAVI) is a common complication. While computed tomography (CT) scan data are known predictors of PMI, no machine learning (ML) model integrating CT with clinical, ECG, and transthoracic echocardiography (TTE) data has been proposed. This study investigates the contribution of ML methods to predict PMI after TAVI, with a focus on the role of CT imaging data. A retrospective analysis was conducted on a cohort of 520 patients who underwent TAVI. Recursive feature elimination with SHAP values was used to select key variables from clinical, ECG, TTE, and CT data. Six ML models, including Support Vector Machines (SVM), were trained using these selected variables. The model's performance was evaluated using AUC-ROC, F1 score, and accuracy metrics. The PMI rate was 18.8%. The best-performing model achieved an AUC-ROC of 92.1% ± 4.7, an F1 score of 71.8% ± 9.9, and an accuracy of 87.9% ± 4.7 using 22 variables, 9 of which were CT-based. Membranous septum measurements and their dynamic variations were critical predictors. Our ML model provides robust PMI predictions, enabling personalized risk assessments. The model is implemented online for broad clinical use.
+
+Citation: El Ouahidi A, et al. Machine learning for pacemaker implantation prediction after TAVI using multimodal imaging data. Machine learning for pacemaker implantation prediction after TAVI using multimodal imaging data. 2024; 14:25008. doi: 10.1038/s41598-024-76128-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39443560/

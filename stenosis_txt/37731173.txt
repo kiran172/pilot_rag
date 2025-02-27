@@ -1,0 +1,12 @@
+PMID: 37731173
+Title: Safety and efficacy of tenecteplase versus alteplase in stroke patients with carotid tandem lesions: Results from the AcT trial.
+
+Abstract: BACKGROUND: Carotid tandem lesions ((TL) ⩾70% stenosis or occlusion) account for 15-20% of acute stroke with large vessel occlusion.
+AIMS: We investigated the safety and efficacy of intravenous tenecteplase (0.25 mg/kg) versus intravenous alteplase (0.9 mg/kg) in patients with carotid TL.
+METHODS: This is a substudy of the alteplase compared with the tenecteplase trial. Patients with ⩾70% stenosis of the extracranial internal carotid artery (ICA) and concomitant occlusion of the intracranial ICA, M1 or M2 segments of the middle cerebral artery on baseline computed tomography angiography (CTA) were included. Primary outcome was 90-day-modified Rankin Scale (mRS) 0-1. Secondary outcomes were mRS 0-2, mortality, and symptomatic ICH (sICH). Angiographic outcomes were successful recanalization (revised Arterial Occlusive Lesion (rAOL) 2b-3) on first and successful reperfusion (eTICI 2b-3) on final angiographic acquisitions. Multivariable mixed-effects logistic regression was performed.
+RESULTS: Among 1577 alteplase versus tenecteplase randomized controlled trial (AcT) patients, 128 (18.8%) had carotid TL. Of these, 93 (72.7%) underwent intravenous thrombolysis plus endovascular thrombectomy (IVT + EVT), while 35 (27.3%) were treated with IVT alone. In the IVT + EVT group, tenecteplase was associated with higher odds of 90-day-mRS 0-1 (46.0% vs. 32.6%, adjusted OR (aOR) 3.21; 95% CI = 1.06-9.71) compared with alteplase. No statistically significant differences in rates of mRS 0-2 (aOR 1.53; 95% CI = 0.51-4.55), initial rAOL 2b-3 (16.3% vs. 28.6%), final eTICI 2b-3 (83.7% vs. 85.7%), and mortality (18.0% vs. 16.3%) were found. SICH only occurred in one patient. There were no differences in outcomes between thrombolytic agents in the IVT-only group.
+CONCLUSION: In patients with carotid TL treated with EVT, intravenous tenecteplase may be associated with similar or better clinical outcomes, similar angiographic reperfusion rates, and safety outcomes as compared with alteplase.
+
+Citation: Bala F, et al. Safety and efficacy of tenecteplase versus alteplase in stroke patients with carotid tandem lesions: Results from the AcT trial. Safety and efficacy of tenecteplase versus alteplase in stroke patients with carotid tandem lesions: Results from the AcT trial. 2024; 19:322-330. doi: 10.1177/17474930231205208
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37731173/

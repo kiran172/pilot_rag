@@ -1,0 +1,11 @@
+PMID: 34699088
+Title: Late onset atrial fibrillation in patients undergoing surgical aortic valve replacement.
+
+Abstract: OBJECTIVE: Aortic valve disease is a risk factor for atrial fibrillation (AF), and AF is associated with increased late mortality and morbidity after cardiac surgery. The evolution of alternative approaches to AF prophylaxis, including less invasive technologies and medical therapies, has altered the balance between risk and potential benefit for prophylactic intervention at the time of surgical aortic valve replacement (SAVR). Such interventions impose incremental risk, however, making an understanding of predictors of new onset AF that persists beyond the perioperative episode relevant.
+METHODS: We conducted a retrospective single-institution cohort analysis of patients undergoing SAVR with no history of preoperative AF (n = 1014). These patients were cross-referenced against an institutional electrocardiogram (ECG) database to identify those with ECGs 3-12 months after surgery. Logistic regression was used to identify predictors of late AF.
+RESULTS: Among the 401 patients (40%), who had ECGs in our institution 3-12 months after surgery, 16 (4%) had late AF. Patients with late AF were older than patients without late AF (73 vs. 65, p = .025), and underwent procedures that were more urgent/emergent (38% vs. 15%, p = .015), with higher predicted risk of mortality (2.2% vs. 1.3%, p = .012). Predictors associated with the development of late AF were advanced age, higher preoperative creatinine level and urgent/emergent surgery.
+CONCLUSIONS: The incidence of late AF 3-12 months after SAVR, is low. Prophylactic AF interventions at the time of SAVR may not be warranted.
+
+Citation: Ong CS, et al. Late onset atrial fibrillation in patients undergoing surgical aortic valve replacement. Late onset atrial fibrillation in patients undergoing surgical aortic valve replacement. 2022; 37:285-289. doi: 10.1111/jocs.16093
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34699088/

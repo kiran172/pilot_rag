@@ -1,0 +1,8 @@
+PMID: 35041643
+Title: Genome-wide chromatin contacts of super-enhancer-associated lncRNA identify LINC01013 as a regulator of fibrosis in the aortic valve.
+
+Abstract: Calcific aortic valve disease (CAVD) is characterized by a fibrocalcific process. The regulatory mechanisms that drive the fibrotic response in the aortic valve (AV) are poorly understood. Long noncoding RNAs derived from super-enhancers (lncRNA-SE) control gene expression and cell fate. Herein, multidimensional profiling including chromatin immunoprecipitation and sequencing, transposase-accessible chromatin sequencing, genome-wide 3D chromatin contacts of enhancer-promoter identified LINC01013 as an overexpressed lncRNA-SE during CAVD. LINC01013 is within a loop anchor, which has contact with the promoter of CCN2 (CTGF) located at ~180 kb upstream. Investigation showed that LINC01013 acts as a decoy factor for the negative transcription elongation factor E (NELF-E), whereby it controls the expression of CCN2. LINC01013-CCN2 is part of a transforming growth factor beta 1 (TGFB1) network and exerts a control over fibrogenesis. These findings illustrate a novel mechanism whereby a dysregulated lncRNA-SE controls, through a looping process, the expression of CCN2 and fibrogenesis of the AV.
+
+Citation: Chignon A, et al. Genome-wide chromatin contacts of super-enhancer-associated lncRNA identify LINC01013 as a regulator of fibrosis in the aortic valve. Genome-wide chromatin contacts of super-enhancer-associated lncRNA identify LINC01013 as a regulator of fibrosis in the aortic valve. 2022; 18:e1010010. doi: 10.1371/journal.pgen.1010010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35041643/

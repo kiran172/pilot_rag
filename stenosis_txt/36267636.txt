@@ -1,0 +1,13 @@
+PMID: 36267636
+Title: Using artificial intelligence in the development of diagnostic models of coronary artery disease with imaging markers: A scoping review.
+
+Abstract: BACKGROUND: Coronary artery disease (CAD) is a progressive disease of the blood vessels supplying the heart, which leads to coronary artery stenosis or obstruction and is life-threatening. Early diagnosis of CAD is essential for timely intervention. Imaging tests are widely used in diagnosing CAD, and artificial intelligence (AI) technology is used to shed light on the development of new imaging diagnostic markers.
+OBJECTIVE: We aim to investigate and summarize how AI algorithms are used in the development of diagnostic models of CAD with imaging markers.
+METHODS: This scoping review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guideline. Eligible articles were searched in PubMed and Embase. Based on the predefined included criteria, articles on coronary heart disease were selected for this scoping review. Data extraction was independently conducted by two reviewers, and a narrative synthesis approach was used in the analysis.
+RESULTS: A total of 46 articles were included in the scoping review. The most common types of imaging methods complemented by AI included single-photon emission computed tomography (15/46, 32.6%) and coronary computed tomography angiography (15/46, 32.6%). Deep learning (DL) (41/46, 89.2%) algorithms were used more often than machine learning algorithms (5/46, 10.8%). The models yielded good model performance in terms of accuracy, sensitivity, specificity, and AUC. However, most of the primary studies used a relatively small sample (n &lt; 500) in model development, and only few studies (4/46, 8.7%) carried out external validation of the AI model.
+CONCLUSION: As non-invasive diagnostic methods, imaging markers integrated with AI have exhibited considerable potential in the diagnosis of CAD. External validation of model performance and evaluation of clinical use aid in the confirmation of the added value of markers in practice.
+SYSTEMATIC REVIEW REGISTRATION: [https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022306638], identifier [CRD42022306638].
+
+Citation: Wang X, et al. Using artificial intelligence in the development of diagnostic models of coronary artery disease with imaging markers: A scoping review. Using artificial intelligence in the development of diagnostic models of coronary artery disease with imaging markers: A scoping review. 2022; 9:945451. doi: 10.3389/fcvm.2022.945451
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36267636/

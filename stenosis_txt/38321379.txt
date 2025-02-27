@@ -1,0 +1,12 @@
+PMID: 38321379
+Title: Prediction Model and Risk Factor Analysis of Adjacent Segment Disease After L4-5 Transforaminal Lumbar Interbody Fusion Through Preoperative Radiographic Features.
+
+Abstract: STUDY DESIGN: A retrospective study.
+OBJECTIVE: To investigate the risk of adjacent segment disease (ASD) after L4-5 transforaminal lumbar interbody fusion (TLIF) in patients diagnosed with lumbar spinal stenosis (LSS), a prediction model for ASD is established and validated.
+METHODS: A retrospective study was carried out on a sample of 290 patients who underwent L4-5 TLIF at Zhongda Hospital, Southeast University, from January 2015 to January 2021. The study collected baseline data and preoperative radiographic features of L3-4 and L5-S1. The determination of the outcome variable was based on X-ray results spanning over 24 months and JOA scores. Multivariate logistic regression was used to identify the risk factors in constructing a nomogram.
+RESULTS: Independent risk factors for L3-4 degeneration after TLIF included osteoarthritis of L3-4 facet joints, L3-4 foraminal stenosis, L4 upper endplate osteochondritis, L3-4 local lordosis angle, and L3-4 spinal stenosis. Independent risk factors for L5-S1 degeneration after TLIF included osteoarthritis of L5-S1 facet joints, L5-S1 intervertebral disc degeneration, L5-S1 spinal stenosis, L5-S1 coronal imbalance, and S1 upper endplate osteochondritis. A predictive model was developed. The AUC for the prediction models at L3-4 and L5-S1 were .945 and .956. The calibration curve demonstrated good consistency between the predicted and actual probabilities. The DCA curve indicated the clinical benefit and practical value of this predictive model.
+CONCLUSION: This study established nomograms for postoperative degeneration at L3-4 and L5-S1 based on selected preoperative radiographic features. These models provide a valuable auxiliary decision-making system for clinicians and aid in early surgical decisions.
+
+Citation: Zhang ZJ, et al. Prediction Model and Risk Factor Analysis of Adjacent Segment Disease After L4-5 Transforaminal Lumbar Interbody Fusion Through Preoperative Radiographic Features. Prediction Model and Risk Factor Analysis of Adjacent Segment Disease After L4-5 Transforaminal Lumbar Interbody Fusion Through Preoperative Radiographic Features. 2024; (unknown volume):21925682241231764. doi: 10.1177/21925682241231764
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38321379/

@@ -1,0 +1,11 @@
+PMID: 38907296
+Title: Exploring the mediating role of calcium homeostasis in the association between diabetes mellitus, glycemic traits, and vascular and valvular calcifications: a comprehensive Mendelian randomization analysis.
+
+Abstract: BACKGROUND: The interplay between diabetes mellitus (DM), glycemic traits, and vascular and valvular calcifications is intricate and multifactorial. Exploring potential mediators may illuminate underlying pathways and identify novel therapeutic targets.
+METHODS: We utilized univariable and multivariable Mendelian randomization (MR) analyses to investigate associations and mediation effects. Additionally, the multivariable MR analyses incorporated cardiometabolic risk factors, allowing us to account for potential confounders.
+RESULTS: Type 2 diabetes mellitus (T2DM) and glycated hemoglobin (HbA1c) were positively associated with both coronary artery calcification (CAC) and calcific aortic valvular stenosis (CAVS). However, fasting glucose (FG) was only linked to CAVS and showed no association with CAC. Additionally, CAVS demonstrated a causal effect on FG. Calcium levels partially mediated the impact of T2DM on both types of calcifications. Specifically, serum calcium was positively associated with both CAC and CAVS. The mediation effects of calcium levels on the impact of T2DM on CAC and CAVS were 6.063% and 3.939%, respectively. The associations between T2DM and HbA1c with calcifications were influenced by body mass index (BMI) and smoking status. However, these associations were generally reduced after adjusting for hypertension.
+CONCLUSION: Our findings suggest a genetically supported causal relationship between DM, glycemic traits, and vascular and valvular calcifications, with serum calcium playing a critical mediating role.
+
+Citation: Zhu XG, et al. Exploring the mediating role of calcium homeostasis in the association between diabetes mellitus, glycemic traits, and vascular and valvular calcifications: a comprehensive Mendelian randomization analysis. Exploring the mediating role of calcium homeostasis in the association between diabetes mellitus, glycemic traits, and vascular and valvular calcifications: a comprehensive Mendelian randomization analysis. 2024; 16:136. doi: 10.1186/s13098-024-01383-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38907296/

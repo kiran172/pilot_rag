@@ -1,0 +1,11 @@
+PMID: 33275842
+Title: Leveraging a phenome-wide approach to identify novel exposure-birth defect associations: A proof of concept using maternal smoking and a spectrum of birth defects.
+
+Abstract: BACKGROUND: There are often questions about the impact of exposures on a range of birth defects, but there are few rigorous approaches for evaluating these associations. Using maternal smoking as an example we applied a phenome-wide association study (PheWAS) approach to evaluate the impact of this exposure on a comprehensive range of birth defects.
+METHODS: Cases were obtained from the Texas Birth Defects Registry for the period 1999-2015. A total of 127 birth defects were examined. Maternal smoking at any time during the pregnancy was ascertained from the vital record. Data were randomly divided into discovery (60%) and replication (40%) partitions. Poisson regression models were run in the discovery partition, using a Bonferroni threshold of p &lt; 3.9×10-4 . Birth defects passing that threshold in adjusted models were evaluated in the replication partition using p &lt; 0.05 to determine statistical significance.
+RESULTS: Four birth defects were positively and significantly associated with maternal smoking in both partitions: cleft palate, anomalies of the pulmonary artery, other specified anomalies of the mouth and pharynx, and congenital hypertrophic pyloric stenosis. Obstructive defects of the renal pelvis and ureter showed consistent negative associations. All five defects exhibited significant dose-response relationships.
+CONCLUSIONS: We demonstrated that a statistically rigorous approach can be applied to birth defects registry data to examine the association between specified exposures and a range of birth defects. While we confirmed previously reported associations, others were not validated, likely due to misclassification in exposure based on vital records.
+
+Citation: Langlois PH, et al. Leveraging a phenome-wide approach to identify novel exposure-birth defect associations: A proof of concept using maternal smoking and a spectrum of birth defects. Leveraging a phenome-wide approach to identify novel exposure-birth defect associations: A proof of concept using maternal smoking and a spectrum of birth defects. 2021; 113:439-445. doi: 10.1002/bdr2.1851
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33275842/

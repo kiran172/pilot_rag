@@ -1,0 +1,11 @@
+PMID: 38065713
+Title: Systemic inflammatory response syndrome in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Data on systemic inflammatory response syndrome (SIRS) after transcatheter aortic valve implantation (TAVI) are scarce and limited to small cohorts. We aimed to investigate its incidence and mid-term impact in a large cohort of TAVI patients.
+METHODS: From January 2018 to December 2020, 717 patients with severe aortic valve stenosis undergoing TAVI were included. SIRS was defined as fulfilling at least two of the following criteria within 48 h from the procedure: leucocyte count &gt;12.0 or &lt;4.0 × 109/l, respiratory rate &gt; 20 breaths per minute or PaCO<sub>2</sub> ≤ 4.3 kPa/32 mmHg, heart rate &gt; 90 beats per minute and temperature &gt; 38.0 °C or &lt;36.0 °C. Clinical endpoints were 1-year rehospitalization for chronic heart failure (CHF) and 2-years all-cause mortality. Event rates during follow-up were calculated as Kaplan-Meier estimates.
+RESULTS: SIRS developed in 56.3 % (404/717) of patients after TAVI. SIRS occurred more frequently in patients with post-dilatation (SIRS 34.7 % (140/404) vs. no SIRS 23.3 % (73/313); p < 0.001) and major vascular complications (SIRS 16.1 % (65/404) vs. no SIRS 8.6 % (27/313); p = 0.004). Further, ICU days were more in patients who developed SIRS (SIRS 1.56 ± 1.50 days vs. no SIRS 1.22 ± 1.02 days; p = 0.001). At 2-years, all-cause mortality in the entire population was 23.9 %. However, there was no difference in CHF at 1-year (5.9 % vs. 4.1 %; log-rank = 0.347) nor in all-cause mortality at 2-years (22.0 % vs. 26.2 %; log-rank = 0.690) between the groups.
+CONCLUSIONS: SIRS is a common finding after TAVI, which may prolong hospital stay but is without effect on mortality during 2-years follow-up.
+
+Citation: Syryca F, et al. Systemic inflammatory response syndrome in patients undergoing transcatheter aortic valve implantation. Systemic inflammatory response syndrome in patients undergoing transcatheter aortic valve implantation. 2024; 62:27-33. doi: 10.1016/j.carrev.2023.11.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38065713/

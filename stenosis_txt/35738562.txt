@@ -1,0 +1,12 @@
+PMID: 35738562
+Title: Correlation of 3D Quantitative Coronary-Angiography Based Vessel FFR With Diastolic Pressure Ratio: A Single-Center Pooled Analysis of the FAST EXTEND and FAST II Studies.
+
+Abstract: BACKGROUND: Vessel fractional flow reserve (vFFR) has a high diagnostic accuracy in assessing functional lesion significance compared with FFR. Nonhyperemic pressure ratios (NHPRs) were noninferior to FFR to guide revascularization of intermediate lesions. Therefore, the diagnostic performance of vFFR compared with NHPR warrants interest.
+AIM: To evaluate the diagnostic performance of vFFR with a generic diastolic pressure ratio (dPR) as a reference.
+METHODS: The study population was derived from the FAST EXTEND and FAST II studies. Between January 2016 and September 2020, a total of 475 patients were enrolled.
+RESULTS: Median dPR was 0.92 (interquartile range [IQR], 0.87-0.95), median vFFR was 0.86 (IQR, 0.80-0.90). The sensitivity, specificity, positive and negative predictive values, and diagnostic accuracy of vFFR ≤0.80 for dPR ≤0.89 were 66%, 92%, 79%, 85%, and 84%, respectively. Vessel FFR showed a good agreement with dPR (r=0.68), consistent among specific clinical lesion subsets and a high diagnostic accuracy for dPR ≤0.89 (area under the curve=0.89). Discordance between vFFR and dPR was observed in 78/492 cases (15.6%) and logistic regression analysis did not reveal any clinical, angiographic, or hemodynamic variables associated with vFFR and dPR discordance.
+CONCLUSION: Vessel FFR shows a good agreement with dPR and a high diagnostic accuracy for dPR ≤0.89.
+
+Citation: Scoccia A, et al. Correlation of 3D Quantitative Coronary-Angiography Based Vessel FFR With Diastolic Pressure Ratio: A Single-Center Pooled Analysis of the FAST EXTEND and FAST II Studies. Correlation of 3D Quantitative Coronary-Angiography Based Vessel FFR With Diastolic Pressure Ratio: A Single-Center Pooled Analysis of the FAST EXTEND and FAST II Studies. 2022; 34:E686-E688. doi: 10.25270/jic/21.00438
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35738562/

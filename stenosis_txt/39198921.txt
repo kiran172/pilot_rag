@@ -1,0 +1,8 @@
+PMID: 39198921
+Title: Deep learning for automatic calcium detection in echocardiography.
+
+Abstract: Cardiovascular diseases are the main cause of death in the world and cardiovascular imaging techniques are the mainstay of noninvasive diagnosis. Aortic stenosis is a lethal cardiac disease preceded by aortic valve calcification for several years. Data-driven tools developed with Deep Learning (DL) algorithms can process and categorize medical images data, providing fast diagnoses with considered reliability, to improve healthcare effectiveness. A systematic review of DL applications on medical images for pathologic calcium detection concluded that there are established techniques in this field, using primarily CT scans, at the expense of radiation exposure. Echocardiography is an unexplored alternative to detect calcium, but still needs technological developments. In this article, a fully automated method based on Convolutional Neural Networks (CNNs) was developed to detect Aortic Calcification in Echocardiography images, consisting of two essential processes: (1) an object detector to locate aortic valve - achieving 95% of precision and 100% of recall; and (2) a classifier to identify calcium structures in the valve - which achieved 92% of precision and 100% of recall. The outcome of this work is the possibility of automation of the detection with Echocardiography of Aortic Valve Calcification, a lethal and prevalent disease.
+
+Citation: Elvas LB, et al. Deep learning for automatic calcium detection in echocardiography. Deep learning for automatic calcium detection in echocardiography. 2024; 17:27. doi: 10.1186/s13040-024-00381-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39198921/

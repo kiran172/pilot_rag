@@ -1,0 +1,11 @@
+PMID: 32582904
+Title: Impact of Chronic Kidney Disease on Outcomes in Transcatheter Aortic Valve Implantation.
+
+Abstract: INTRODUCTION: Chronic kidney disease (CKD) is a significant comorbidity in aortic stenosis (AS) patients. We examined the impact of baseline CKD, postoperative acute kidney injury (AKI) and CKD progression on clinical outcomes in patients who underwent transcatheter aortic valve implantation (TAVI).
+MATERIALS AND METHODS: Consecutive patients with severe AS who underwent TAVI were classified into CKD stages 1-2 (≥60 mL/min/1.72m2), 3 (30-59 mL/min/1.73m2) and 4-5 (&lt;30 mL/min/1.73m2 or dialysis) based on estimated glomerular filtration rate (eGFR). Primary outcome was mortality and secondary outcomes included 1-year echocardiographic data on aortic valve area (AVA), mean pressure gradient (MPG) and aortic regurgitation (AR).
+RESULTS: A total of 216 patients were included. Higher eGFR was associated with lower overall mortality (adjusted hazards ratio [AHR] 0.981, 95% confidence interval [CI] 0.968-0.993, P = 0.002). CKD 4-5 were associated with significantly higher mortality from non-cardiovascular causes (P &lt;0.05). Patients with CKD 3-5 had higher incidence of moderate AR than those with CKD 1-2 (P = 0.010); no difference in AVA and MPG was seen. AKI patients had higher mortality (P = 0.008), but the effect was attenuated on multivariate analysis (AHR 1.823, 95% CI 0.977-3.403, P = 0.059). Patients with CKD progression also had significantly higher mortality (AHR 2.969, 95% CI 1.373-6.420, P = 0.006).
+CONCLUSION: CKD in severe AS patients undergoing TAVI portends significantly higher mortality and morbidity. Renal disease progression impacts negatively on outcomes and identifies a challenging subgroup of patients for optimal management.
+
+Citation: Yap JJ, et al. Impact of Chronic Kidney Disease on Outcomes in Transcatheter Aortic Valve Implantation. Impact of Chronic Kidney Disease on Outcomes in Transcatheter Aortic Valve Implantation. 2020; 49:273-284.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32582904/

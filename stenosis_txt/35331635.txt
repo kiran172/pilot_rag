@@ -1,0 +1,12 @@
+PMID: 35331635
+Title: Risk factors and management of hepatic artery stenosis post liver transplantation.
+
+Abstract: BACKGROUND: Hepatic Artery Stenosis (HAS) after liver transplantation (LT), if untreated, can lead to hepatic artery thrombosis (HAT) that carries significant morbidity.
+AIMS: To identify risk factors associated with HAS and determine if endovascular therapy (EVT) reduces the occurrence of HAT.
+METHODS: This is a retrospective cohort study of adult LT patients between 2013 and 2018. The primary outcome was development of HAT, and secondary outcomes included graft failure and mortality. Logistic regression was used to ascertain the odds ratio of developing HAS. Outcomes between intervention types were compared with Fisher's-exact test.
+RESULTS: The odds of HAS doubled in DCD-donor recipients (OR=2.27; P = 0.04) and transplants requiring vascular reconstruction for donor arterial variation (OR=2.19, P = 0.046). Of the 63 identified HAS patients, 44 underwent EVT, 7 with angioplasty alone, 37 combined with stenting. HAT was not significantly different in those who underwent angioplasty with or without stenting than conservative treatment (P = 0.71). However, compared to patients without HAS, patients with HAS had higher odds of biliary stricture and decreased graft and overall patient survival (log-rank P < 0.001 & P = 0.019, respectively).
+CONCLUSION: HAS is significantly higher in DCD-graft recipients. EVT was not associated with reduction in HAT progression. HAS has poor graft and overall survival.
+
+Citation: Bommena S, et al. Risk factors and management of hepatic artery stenosis post liver transplantation. Risk factors and management of hepatic artery stenosis post liver transplantation. 2022; 54:1052-1059. doi: 10.1016/j.dld.2022.02.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35331635/

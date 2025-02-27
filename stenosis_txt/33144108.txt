@@ -1,0 +1,11 @@
+PMID: 33144108
+Title: Long-term Healthcare Expenditures Over Time for Tissue and Mechanical Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Guidelines currently indicate the use of surgical aortic valve replacement (SAVR) to treat severe cases of aortic stenosis, particularly for low- to medium-risk patients. Although several studies have compared health outcomes of tissue and mechanical SAVR, this economic simulation model estimates the difference in long-term healthcare costs associated with tissue relative to mechanical SAVR.
+METHODS: The deterministic and Monte Carlo simulation models used literature-based epidemiologic and cost inputs to calculate annual expenditures related to SAVR for up to 25 years after initial surgery. A series of 3 cohort studies across different age groups provided the health outcome probabilities for tissue valve patients. Outcome probabilities for mechanical valve patients were based on relative risks reported in comparative meta-analyses or large cohort studies.
+RESULTS: Relative to mechanical SAVR the expected net discounted savings for a patient receiving tissue SAVR at ages 45, 55, and 65 years were $12,266, $15,462, and $16,008, respectively (based on 2018 US dollars) over a 25-year horizon (95% confidence intervals exceed $0). For a 45-year-old tissue SAVR patient, the estimated per-patient cost difference (relative to mechanical SAVR) of reoperation over 25 years ($16,201) were offset by expected savings on anticoagulation monitoring ($26,257) over the same period. In a sensitivity analysis in which mortality risk was assumed equal, significant long-term savings associated with tissue SAVR still accrued in each of the 3 age cohorts.
+CONCLUSIONS: Payers, providers, and the healthcare system may financially benefit from the use of tissue valves because significant savings were associated with the use of tissue valves relative to mechanical valves for SAVR.
+
+Citation: Nguyen TC, et al. Long-term Healthcare Expenditures Over Time for Tissue and Mechanical Aortic Valve Replacement. Long-term Healthcare Expenditures Over Time for Tissue and Mechanical Aortic Valve Replacement. 2021; 112:526-531. doi: 10.1016/j.athoracsur.2020.07.106
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33144108/

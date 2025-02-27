@@ -1,0 +1,11 @@
+PMID: 36592969
+Title: Cortical Thinning in High-Grade Asymptomatic Carotid Stenosis.
+
+Abstract: BACKGROUND AND PURPOSE: High-grade carotid artery stenosis may alter hemodynamics in the ipsilateral hemisphere, but consequences of this effect are poorly understood. Cortical thinning is associated with cognitive impairment in dementia, head trauma, demyelination, and stroke. We hypothesized that hemodynamic impairment, as represented by a relative time-to-peak (TTP) delay on MRI in the hemisphere ipsilateral to the stenosis, would be associated with relative cortical thinning in that hemisphere.
+METHODS: We used baseline MRI data from the NINDS-funded Carotid Revascularization and Medical Management for Asymptomatic Carotid Stenosis-Hemodynamics (CREST-H) study. Dynamic contrast susceptibility MR perfusion-weighted images were post-processed with quantitative perfusion maps using deconvolution of tissue and arterial signals. The protocol derived a hemispheric TTP delay, calculated by subtraction of voxel values in the hemisphere ipsilateral minus those contralateral to the stenosis.
+RESULTS: Among 110 consecutive patients enrolled in CREST-H to date, 45 (41%) had TTP delay of at least 0.5 seconds and 9 (8.3%) subjects had TTP delay of at least 2.0 seconds, the maximum delay measured. For every 0.25-second increase in TTP delay above 0.5 seconds, there was a 0.006-mm (6 micron) increase in cortical thickness asymmetry. Across the range of hemodynamic impairment, TTP delay independently predicted relative cortical thinning on the side of stenosis, adjusting for age, sex, hypertension, hemisphere, smoking history, low-density lipoprotein cholesterol, and preexisting infarction (P=0.032).
+CONCLUSIONS: Our findings suggest that hemodynamic impairment from high-grade asymptomatic carotid stenosis may structurally alter the cortex supplied by the stenotic carotid artery.
+
+Citation: Marshall RS, et al. Cortical Thinning in High-Grade Asymptomatic Carotid Stenosis. Cortical Thinning in High-Grade Asymptomatic Carotid Stenosis. 2023; 25:92-100. doi: 10.5853/jos.2022.02285
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36592969/

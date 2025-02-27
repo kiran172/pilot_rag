@@ -1,0 +1,11 @@
+PMID: 34471485
+Title: LncRNA DRAIC regulates cell proliferation and migration by affecting the miR-34a-5p/ITGA6 signal axis in Hirschsprung's disease.
+
+Abstract: BACKGROUND: Hirschsprung's disease (HSCR) is a common defect in newborns, and studies have revealed that long non-coding RNA (lncRNA) is involved in the progression of HSCR. This research study aims to investigate the mechanism of downregulated RNA in cancer (DRAIC) on cell proliferation and migration in HSCR.
+METHODS: Quantitative reverse transcription-polymerase chain reaction (qRT-PCR) was used to detect the expression of DRAIC in HSCR bowel stenosis tissues and normal colon tissues. Cell-counting kit-8 (CCK-8) and Transwell assays were employed to explore whether cellular functions change after overexpression or knockdown of the DRAIC in SH-SY5Y cells and human 293T cells. Protein expression levels were determined by Western blot analysis. RNA pull-down and dual-luciferase reporter assays were used to confirm the competitive relationship of DRAIC and integrin subunit alpha 6 (ITGA6) through their association with miR-34a-5p.
+RESULTS: The lncRNA DRAIC was significantly increased in colon tissue from HSCR patients. The overexpression of DRAIC inhibited SH-SY5Y cell and human 293T cell proliferation and migration. Knockdown of DRAIC, however, promoted cell proliferation and migration. The RNA pull-down and dual-luciferase reporter assays have proven the competitive relationship between DRAIC and ITGA6 through their association with miR-34a-5p. Further rescue experiments have confirmed that DRAIC regulates cell proliferation and migration by affecting the miR-34a-5p/ITGA6 signal axis in HSCR.
+CONCLUSION: DRAIC promoted cell proliferation and migration by regulating the miR-34a-5p/ITGA6 signal axis in HSCR.
+
+Citation: Sun C, et al. LncRNA DRAIC regulates cell proliferation and migration by affecting the miR-34a-5p/ITGA6 signal axis in Hirschsprung's disease. LncRNA DRAIC regulates cell proliferation and migration by affecting the miR-34a-5p/ITGA6 signal axis in Hirschsprung's disease. 2021; 126:(unknown pages). doi: 10.48101/ujms.v126.7895
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34471485/

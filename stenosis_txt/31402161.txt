@@ -1,0 +1,11 @@
+PMID: 31402161
+Title: Transcatheter aortic valve replacement outcomes in mixed aortic valve disease compared to predominant aortic stenosis.
+
+Abstract: BACKGROUND: MAVD, defined as severe aortic stenosis with moderate or severe aortic regurgitation, is frequently encountered in clinical practice. However, the data regarding TAVR outcomes in MAVD are sparse. We compared Transcatheter Aortic Valve Replacement (TAVR) outcomes between Mixed Aortic Valve Disease (MAVD) and Predominant Aortic Stenosis (PAS) patients.
+METHODS: Patients who underwent TAVR at Mayo Clinic from February 7, 2012 to December 16, 2016 were enrolled. The primary end point was all-cause mortality. Secondary end points were central or paravalvular regurgitation, device success, and Valve Academic Research Consortium (VARC)-2 defined post TAVR complications (access site complications, bleedings, myocardial infarction, stroke, and cardiac arrest).
+RESULTS: A total of 622 patients were enrolled. Mean age was 81 ± 8.9 years, and 263 (42.3%) were female. Median follow-up duration was 1.5 years. One hundred and sixteen patients (18.6%) had MAVD. Central or paravalvular leak was higher in MAVD patients post-TAVR (15.5% vs 6.7%, P = 0.004). Device success and VARC-2 in-hospital complications were similar between the two groups. The cumulative probability of survival at 3 years was 71.3% in MAVD patients vs. 62.6% in PAS patients (Log-Rank P = 0.024). In a multi-variant logistic regression analysis, MAVD was an independent negative predictor of all-cause mortality (HR = 0.53, 95% CI 0.3-0.89, P = 0.015).
+CONCLUSIONS: A significant number of patients referred for TAVR have MAVD disease. Despite higher rates of paravalvular regurgitation, all-cause mortality at mid-term was lower in patients with MAVD compared with those with PAS. Our results show the safety and efficacy of TAVR in MAVD patients.
+
+Citation: Heidari B, et al. Transcatheter aortic valve replacement outcomes in mixed aortic valve disease compared to predominant aortic stenosis. Transcatheter aortic valve replacement outcomes in mixed aortic valve disease compared to predominant aortic stenosis. 2020; 299:209-214. doi: 10.1016/j.ijcard.2019.07.099
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31402161/

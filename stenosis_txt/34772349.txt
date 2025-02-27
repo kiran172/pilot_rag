@@ -1,0 +1,11 @@
+PMID: 34772349
+Title: Effect of renal function on high-density lipoprotein particles in patients with coronary heart disease.
+
+Abstract: BACKGROUND: Although renal insufficiency and dyslipidemia are known to be closely associated, the effect of kidney function on the size and clinical value of high-density lipoprotein (HDL) particles remains largely unknown, especially in patients with coronary heart disease.
+METHODS: A total of 419 coronary heart disease patients and 105 non-coronary heart disease patients were included. HDL particle size, represented by HDL-C/apoA-I, was compared between groups stratified by estimated glomerular filtration rate (eGFR) and Gensini scores using standard Student's t test and one-way ANOVA. Pearson's correlation test was performed to analyze the association between eGFR and HDL-C/apoA-I in patients with coronary heart disease. The relationship between HDL particle size and the occurrence of coronary heart disease was explored using Univariate logistic regression analysis.
+RESULTS: In patients with coronary heart disease, between-group analysis revealed that HDL-C/apoA-I increased as eGFR declined, and significance appeared as eGFR declined to under 60 ml/min·1.73 m2 (P &lt; 0.001), and Pearson's correlation test also confirmed an inverse correlation between eGFR and HDL-C/apoA-I levels in coronary heart disease patients. When stratified by Gensini scores, in coronary heart disease patients with eGFR ≥ 90 mL/(min·1.73 m2), those with higher Gensini scores had smaller HDL-C/apoA-I. However, with or without kidney insufficiency, smaller HDL-C/apoA-I was associated with a higher occurrence of coronary heart disease (P &lt; 0.05).
+CONCLUSION: With the presence of renal insufficiency, HDL-C/apoA1 was higher in patients with coronary heart disease. Lower HDL-C/apoA1 was still associated with a higher occurrence of coronary heart disease, but the original association between lower HDL-C/apoA1 and more severe coronary artery stenosis was lost in patients with renal insufficiency.
+
+Citation: Jieni L, et al. Effect of renal function on high-density lipoprotein particles in patients with coronary heart disease. Effect of renal function on high-density lipoprotein particles in patients with coronary heart disease. 2021; 21:534. doi: 10.1186/s12872-021-02354-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34772349/

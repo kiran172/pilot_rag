@@ -1,0 +1,11 @@
+PMID: 37501631
+Title: Post-prostatectomy anastomotic stenosis: systematic review and meta-analysis of endoscopic treatment.
+
+Abstract: OBJECTIVE: To perform a systematic review and meta-analysis of endoscopic procedures for treating vesico-urethral anastomotic stenosis (VUAS) after prostatectomy, as initial VUAS management remains unclear.
+METHODS: A search of the MEDLINE database, the Cochrane database, and clinicaltrials.gov was performed (last search February 2023) using the following query: (['bladder neck' OR 'vesicourethral anastomotic' OR 'anastomotic'] AND ['stricture' OR 'stenosis' OR 'contracture'] AND 'prostatectomy'). The primary outcome was the success rate of VUAS treatment, defined by the proportion (%) of patients without VUAS recurrence at the end of follow-up.
+RESULTS: The literature search identified 420 studies. After the screening, 78 reports were assessed for eligibility, and 40 studies were included in the review. The pooled characteristics of the 40 studies provided a total of 1452 patients, with a median (interquartile range [IQR]) follow-up of 23.7 (13-32) months and age of 66 (64-68) years. The overall success rate (95% confidence interval [CI]) of all endoscopic procedures for VUAS treatment was 72.8% (64.4%-79.9%). Meta-regression models showed a negative influence of radiotherapy on the overall success rate (P = 0.012). After trim-and-fill (addition of 10 studies), the corrected overall success rate (95% CI) was 62.9% (53.6%-71.4%).
+CONCLUSION: This first meta-analysis of endoscopic treatment success rate after VUAS reported an overall success rate of 72.8%, lowered to 62.9% after correcting for significant publication bias. This study also highlighted the need for a more thorough reporting of post-prostatectomy VUAS data to understand the treatment pathway and provide higher-quality evidence-based care.
+
+Citation: Delchet O, et al. Post-prostatectomy anastomotic stenosis: systematic review and meta-analysis of endoscopic treatment. Post-prostatectomy anastomotic stenosis: systematic review and meta-analysis of endoscopic treatment. 2024; 133:237-245. doi: 10.1111/bju.16141
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37501631/

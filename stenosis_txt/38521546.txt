@@ -1,0 +1,11 @@
+PMID: 38521546
+Title: Morphological and dynamic analysis of the normal aortic valve with 4D computed tomography.
+
+Abstract: OBJECTIVES: To evaluate the precise dimensions of the normal aortic root, especially the true aortic annulus, during the cardiac cycle using an innovative reconstruction method based on multiphase cardiac computed tomography and to assess the feasibility and the reproducibility of this method for aortic root analysis.
+METHODS: Between January 2019 and June 2021, 30 optimal consecutive ECG-gated multiphase cardiac computed tomography of patients with normal tricuspid aortic valve were analysed using an in-house software. Aortic annulus border was pinpointed on 9 reconstructed planes and the 3D coordinates of the 18 consecutive points were interpolated into a 3D curve using a cubic spline. Three additional planes were generated at the level of the left ventricular outflow tract, the level of the Valsalva sinus and the level of the sinotubular junction. This procedure was repeated for all the 10 temporal phases of the RR interval.
+RESULTS: The aortic annulus mean 3D and 2D areas were 7.67 ± 1.51 and 5.16 ± 1.40 cm2, respectively. The mean 2D diameter was 2.51 ± 0.23 cm. The mean global area expansion was 11.8 ± 3.5% and the mean perimeter expansion of 7.1 ± 2.6%. During the cardiac cycle, the left ventricle outflow tract expands, reaching its maximum surface at the end of diastole, followed by the aortic annulus, the Valsalva sinuses and the sinotubular junction. The aorta changes from a clover-shaped cone during diastole to more cylindrical shape during systole. Compared to the 3D measurements, the analysis of the virtual basal ring significantly underestimates the annulus area, perimeter, and mean diameter.
+CONCLUSIONS: 4D morphometric analysis enables to have a precise and reproducible evaluation of the aortic annulus. The aortic annulus and root are deformable structures that undergo a unique expansion sequence during the cardiac cycle which should be considered for procedural planning.
+
+Citation: Fikani A, et al. Morphological and dynamic analysis of the normal aortic valve with 4D computed tomography. Morphological and dynamic analysis of the normal aortic valve with 4D computed tomography. 2024; 65:(unknown pages). doi: 10.1093/ejcts/ezae113
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38521546/

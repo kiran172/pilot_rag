@@ -1,0 +1,11 @@
+PMID: 37817079
+Title: Relationship between quantitative epicardial adipose tissue based on coronary computed tomography angiography and coronary slow flow.
+
+Abstract: BACKGROUND: The purpose of this study was to explore the relationship between quantitative epicardial adipose tissue (EAT) based on coronary computed tomography angiography (CCTA) and coronary slow flow (CSF).
+METHODS: A total of 85 patients with < 40% coronary stenosis on diagnostic coronary angiography were included in this retrospective study between January 2020 and December 2021. A semi-automatic method was developed for EAT quantification on CCTA images. According to the thrombolysis in myocardial infarction flow grade, the patients were divided into CSF group (n = 39) and normal coronary flow group (n = 46). Multivariate logistic regression was used to explore the relationship between EAT and CSF. Receiver operating characteristic (ROC) curve was plotted to evaluate the diagnostic value of EAT in CSF.
+RESULTS: EAT volume in the CSF group was significantly higher than that of the normal coronary flow group (128.83± 21.59 mL vs. 101.87± 18.56 mL, P < 0.001). There was no significant difference in epicardial fat attenuation index between the two groups (P > 0.05). Multivariate logistic regression analysis showed that EAT volume was independently related to CSF [odds ratio (OR) = 4.82, 95% confidence interval (CI): 3.06-7.27, P < 0.001]. The area under ROC curve for EAT volume in identifying CSF was 0.86 (95% CI: 0.77-0.95). The optimal cutoff value of 118.46 mL yielded a sensitivity of 0.80 and a specificity of 0.94.
+CONCLUSIONS: Increased EAT volume based on CCTA is strongly associated with CSF. This preliminary finding paves the way for future and larger studies aimed to definitively recognize the diagnostic value of EAT in CSF.
+
+Citation: Tong J, et al. Relationship between quantitative epicardial adipose tissue based on coronary computed tomography angiography and coronary slow flow. Relationship between quantitative epicardial adipose tissue based on coronary computed tomography angiography and coronary slow flow. 2023; 23:500. doi: 10.1186/s12872-023-03541-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37817079/

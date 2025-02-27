@@ -1,0 +1,11 @@
+PMID: 32405883
+Title: Factors associated with temporal window failure in transcranial Doppler sonography.
+
+Abstract: BACKGROUND: Temporal window failure (TWF) is found in 8-20% of subjects. There are still insufficient studies about the factors affecting TWF. We aimed to elucidate the underlying causes of TWF.
+METHODS: We analyzed 376 patients who underwent both transcranial Doppler sonography and cerebral angiographic imaging. They were divided into two groups: with and without TWF. Demographics, cardiovascular factors, degree of stenosis from the proximal intracranial artery to the middle cerebral artery (MCA), MCA diameter, and skull features were examined.
+RESULTS: The subjects were 314 TWF-negative patients and 62 TWF-positive patients. The TWF-negative group was younger than that of the TWF-positive group (67.0 ± 12.1 vs. 75.2 ± 9.4, p < 0.001). The proportion of men in the TWF-negative group was higher than in the TWF-positive group (71% vs. 29%; p < 0.001). The TWF-negative group had a higher smoking rate than the TWF-positive group (34.4% vs. 12.9%; p = 0.001). In multivariate logistic regression analysis, age (odds ratio (OR), 1.05; p = 0.019), sex (OR, 4.64; p = 0.002), temporal bone thickness (OR, 6.03; p < 0.001), temporal bone density (OR, 0.996; p = 0.002), and soft tissue thickness (OR, 1.31; p = 0.004) significantly affected TWF.
+CONCLUSIONS: In addition to age, sex, temporal bone thickness, and temporal bone density which were previously reported as variables associated with TWF, we confirmed that soft tissue thickness of the temporal area is a new associated factor of TWF. Measuring soft tissue thickness of the temporal area for patients with suspected TWF could be useful in identifying measurement error due to technical problems.
+
+Citation: Lee CH, et al. Factors associated with temporal window failure in transcranial Doppler sonography. Factors associated with temporal window failure in transcranial Doppler sonography. 2020; 41:3293-3299. doi: 10.1007/s10072-020-04459-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32405883/

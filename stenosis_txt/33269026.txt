@@ -1,0 +1,11 @@
+PMID: 33269026
+Title: HDL cholesterol is associated with PBMC expression of genes involved in HDL metabolism and atherogenesis.
+
+Abstract: BACKGROUND: To reveal the association of plasma level of high density lipoprotein cholesterol (HDL-C) level with the transcript level of annotated genes in peripheral blood mononuclear cells (PBMC) and involved in HDL metabolism and atherogenesis at the absence of morphologically evident coronary stenosis.
+METHODS: Transcript levels of 63 genes in PBMC from 38 male patients 40-60 years without coronary atherosclerosis with widely varied HDL-C level were measured. The protein interactions were analyzed with STRING database.
+RESULTS: Among 22 HDL-related genes, the transcript levels for 10 genes (ABCA1, BMP1, CUBN, HDLBP, LCAT, LDLR, PRKACB, PRKACG, SCARB1 and ZDHHC8) negatively correlated with HDL-C, while positively for APOA1 gene. Among 41 atherosclerosis-prone genes, the transcript levels for 11 genes (CSF1R, CSF2RB, IL18R1, ITGAM, ITGB3, PRKCQ, SREBF1, TLR5, TLR8, TNFRSF1A and TNFRSF1B) negatively correlated with HDL-C only, not with LDL-C and plasma TG. The protein products efficiently interacted within each cluster while only two intersection nodes existed between clusters.
+CONCLUSIONS: Coordinate regulation of cholesterol influx and efflux in PBMC in atherosclerosis-free subjects with widely varied HDL-C level is suggested. The decreased synthesis and transport of cholesteryl ester to the liver may contribute to hyperalphalipoproteinemia. HDL-C increase is associated with the decrease of expression of innate immunity and inflammation genes. Visualization of 22 responder genes is suggested to be useful in the validation of HDL functionality and atherogenesis even at the absence of morphologically evident coronary stenosis.
+
+Citation: Dergunova LV, et al. HDL cholesterol is associated with PBMC expression of genes involved in HDL metabolism and atherogenesis. HDL cholesterol is associated with PBMC expression of genes involved in HDL metabolism and atherogenesis. 2020; 39:372-383. doi: 10.2478/jomb-2019-0052
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33269026/

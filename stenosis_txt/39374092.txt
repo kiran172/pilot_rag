@@ -1,0 +1,12 @@
+PMID: 39374092
+Title: Prediction of fractional flow reserve using intravascular ultrasound.
+
+Abstract: BACKGROUND: In order to identify coronary lesions that cause myocardial ischaemia and require revascularisation, fractional flow reserve (FFR) is widely recommended. Recently, a method of estimating the FFR using morphological features measured by an imaging device was developed. However, all the previously developed methods are conducted offline, and such analysis takes approximately 10 minutes.
+AIMS: The aim of this present study was to develop an online measurement of the FFR using an intravascular ultrasound (IVUS) quantitative method (IQ-FFR).
+METHODS: This prospective, single-centre study included coronary lesions that met the following criteria: (1) presence of at least one stenosis (25-99%); (2) both IVUS and FFR measurement performed just before and after stent implantation, with the wire-derived FFR measured with a standard method; and (3) acquisition of clear images throughout the entire coronary branch.
+RESULTS: We developed an IVUS analysis system that automatically measures the cross-sectional area every 0.5 mm, and we calculated the IQ-FFR. In the prediction study, we calculated the IQ-FFR on the assumption that one stent of arbitrary length and diameter was implanted. After stent implantation, the wire-derived FFR was measured and compared with the calculated IQ-FFR. We compared 270 coronary lesions with stenosis rates of 32-99%. IQ-FFR measurements were strongly correlated with the wire-derived FFR (r=0.896). In the prediction study, the clinical accuracy of predicting whether the FFR would be greater or less than 0.80 after stent implantation was 87.5%.
+CONCLUSIONS: The IQ-FFR is a promising method to identify coronary lesions requiring revascularisation and to predict the FFR after stent implantation.
+
+Citation: Okubo M, et al. Prediction of fractional flow reserve using intravascular ultrasound. Prediction of fractional flow reserve using intravascular ultrasound. 2024; 20:e1237-e1247. doi: 10.4244/EIJ-D-24-00010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39374092/

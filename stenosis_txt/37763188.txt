@@ -1,0 +1,8 @@
+PMID: 37763188
+Title: AI-Driven Decision Support for Early Detection of Cardiac Events: Unveiling Patterns and Predicting Myocardial Ischemia.
+
+Abstract: Cardiovascular diseases (CVDs) account for a significant portion of global mortality, emphasizing the need for effective strategies. This study focuses on myocardial infarction, pulmonary thromboembolism, and aortic stenosis, aiming to empower medical practitioners with tools for informed decision making and timely interventions. Drawing from data at Hospital Santa Maria, our approach combines exploratory data analysis (EDA) and predictive machine learning (ML) models, guided by the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology. EDA reveals intricate patterns and relationships specific to cardiovascular diseases. ML models achieve accuracies above 80%, providing a 13 min window to predict myocardial ischemia incidents and intervene proactively. This paper presents a Proof of Concept for real-time data and predictive capabilities in enhancing medical strategies.
+
+Citation: Elvas LB, et al. AI-Driven Decision Support for Early Detection of Cardiac Events: Unveiling Patterns and Predicting Myocardial Ischemia. AI-Driven Decision Support for Early Detection of Cardiac Events: Unveiling Patterns and Predicting Myocardial Ischemia. 2023; 13:(unknown pages). doi: 10.3390/jpm13091421
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37763188/

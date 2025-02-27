@@ -1,0 +1,11 @@
+PMID: 33629471
+Title: Retinal microvasculature impairments in patients with coronary artery disease: An optical coherence tomography angiography study.
+
+Abstract: PURPOSE: To investigate the association between retinal microvasculature and the presence and severity of coronary artery disease (CAD) using optical coherence tomography angiography (OCTA).
+METHODS: The cross-sectional study was conducted in Guangdong Provincial People's Hospital, China. Retinal microvasculature parameters were measured by OCTA of the optic disc, including the vessel density (VD) and retinal nerve fibre thickness of the radial peripapillary capillary. In terms of the entire macula, VD of the superficial capillary plexus (SCP), deep capillary plexus (DCP) and foveal density (FD-300) were included. The Gensini score was used to evaluate the severity of coronary artery obstructive lesions in CAD patients.
+RESULTS: A total of 410 participants (270 CAD patients and 140 controls) were included. Overall, participants showed significantly greater odds of having CAD in the lower versus higher VD for mean SCP, OR = 2.33 (95% CI 1.49-3.65); in the parafoveal SCP, OR = 2.68 (95% CI 1.70-4.23); and in the perifoveal SCP, OR = 2.36 (95% CI 1.49-3.72). Additionally, participants showed significantly greater odds of having CAD in the lower versus higher VD for mean DCP, OR = 4.04 (95% CI 2.53-6.45); in the parafoveal DCP, OR = 4.08 (95% CI 2.54-6.55); and in the perifoveal DCP, OR = 3.88 (95% CI 2.43-6.19). Among CAD patients, lower VD of DCP was associated with significantly greater adjusted Gensini scores (p = 0.004 for mean DCP; p = 0.035 for parafoveal DCP; p = 0.006 for perifoveal DCP).
+CONCLUSIONS: SCP and DCP were found to be associated with the presence of CAD among the whole population, while DCP was found to be associated with Gensini scores in CAD patients. Retinal microvasculature was associated with the presence and severity of coronary artery stenosis in CAD patients.
+
+Citation: Zhong P, et al. Retinal microvasculature impairments in patients with coronary artery disease: An optical coherence tomography angiography study. Retinal microvasculature impairments in patients with coronary artery disease: An optical coherence tomography angiography study. 2022; 100:225-233. doi: 10.1111/aos.14806
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33629471/

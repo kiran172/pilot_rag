@@ -1,0 +1,11 @@
+PMID: 35515128
+Title: Using New Vaginal Doses Evaluation System to Assess the Dose-Effect Relationship for Vaginal Stenosis After Definitive Radio(Chemo)Therapy for Cervical Cancer.
+
+Abstract: OBJECTIVE: The study aims to investigate if a relationship exists between vaginal doses and vaginal stenosis (VS) using posterior-inferior border of symphysis (PIBS) points and the International Commission on Radiation Units-Rectum (ICRU-R) point evaluation system for definitive radio(chemo)therapy in locally advanced cervical cancer.
+METHODS AND MATERIALS: From a vaginal dose study in China, 351 patients were prospectively assessed. For every reference point of the PIBS system and ICRU-R point was calculated for all BT and summed with EBRT. Pearson's chi-square test and Student's unpaired t-test compared variables with and without vaginal stenosis (VS) G ≥2. The risk factors were assessed for VS G ≥2 in multi- and univariate analyses through Cox proportional hazards model followed by a dose-effect curve construction. The VS morbidity rate was compared via the log-rank test using the median vaginal reference length (VRL).
+RESULTS: The patients (38-month median follow-up) had 21.3% three-year actuarial estimate for VS G ≥2. Compared to G <2 patients, VS G ≥2 patients received higher doses to PIBS points except for PIBS - 2 and had significantly shorter VRL. VRL (HR = 1.765, P = 0.038), total EBRT and BT ICRU-R point dose (HR = 1.017, p = 0.003) were risk factors for VS. With VRL >4.6 cm, the 3-year actuarial estimate was 12.8% vs. 29.6% for VRL ≤4.6 cm. According to the model curve, the risks were 21, 30, and 39% at 75, 85, and 95 Gy, respectively (ICRU-R point dose).
+CONCLUSIONS: PIBS system point doses correlated with late vaginal toxicity. VRL combined with both EBRT and BT dose to the ICRU-R point contribute to VS risk.
+
+Citation: Wang J, et al. Using New Vaginal Doses Evaluation System to Assess the Dose-Effect Relationship for Vaginal Stenosis After Definitive Radio(Chemo)Therapy for Cervical Cancer. Using New Vaginal Doses Evaluation System to Assess the Dose-Effect Relationship for Vaginal Stenosis After Definitive Radio(Chemo)Therapy for Cervical Cancer. 2022; 12:840144. doi: 10.3389/fonc.2022.840144
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35515128/

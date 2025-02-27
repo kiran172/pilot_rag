@@ -1,0 +1,11 @@
+PMID: 31493967
+Title: Risk factors associated with microembolization after carotid intervention.
+
+Abstract: BACKGROUND: Microembolization after carotid artery stenting (CAS) and carotid endarterectomy (CEA) has been documented and may confer risk for neurocognitive impairment. Patients undergoing stenting are known to be at higher risk for microembolization. In this prospective cohort study, we compare the microembolization rates for patients undergoing CAS and CEA and perioperative characteristics that may be associated with microembolization.
+METHODS: Patients undergoing CAS and CEA were prospectively recruited under local institutional review board approval from an academic medical center. All patients also received 3T brain magnetic resonance imaging with a diffusion-weighted imaging sequence preoperatively and within 24 hours postoperatively to identify procedure-related new embolic lesions. Preoperative, postoperative, procedural factors, and plaque characteristics were collected. Factors were tested for statistical significance with logistic regression.
+RESULTS: A total of 202 patients were enrolled in the study. There were 107 patients who underwent CAS and 95 underwent CEA. Patients undergoing CAS were more likely to have microemboli than patients undergoing CEA (78% vs 27%; P < .0001). For patients undergoing CAS, patency of the external carotid artery (odds ratio [OR], 11.4; 95% confidence interval [CI], 1.11-117.6; P = .04), lesion calcification (OR, 5.68; 95% CI, 1.12-28.79; P = .04), and lesion length (OR, 0.29; 95% CI, 0.08-1.01; P = .05) were all found to be independent risk factors for perioperative embolization. These factors did not confer increased risk to patients undergoing CEA.
+CONCLUSIONS: Patients undergoing CAS are at higher risk for perioperative embolization. The risk for perioperative embolization is related to the length of the lesion and calcification. Identifying the preoperative risk factors may help to guide patient selection and, thereby, reduce embolization-related neurocognitive impairment.
+
+Citation: Sabat J, et al. Risk factors associated with microembolization after carotid intervention. Risk factors associated with microembolization after carotid intervention. 2020; 71:1572-1578. doi: 10.1016/j.jvs.2019.06.202
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31493967/

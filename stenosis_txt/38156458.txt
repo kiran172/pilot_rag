@@ -1,0 +1,10 @@
+PMID: 38156458
+Title: Impact of Acute Kidney Injury After Transcatheter Aortic Valve Replacement: A Nationwide Study.
+
+Abstract: BACKGROUND: In patients undergoing transcatheter aortic valve replacement (TAVR), the impact of acute kidney injury (AKI) on the prognosis and especially on future kidney function has been sparsely examined, and data from large cohorts are warranted.
+METHODS AND RESULTS: With Danish nationwide registries, we identified all patients undergoing TAVR from 2014 to 2021 with no previous dialysis treatment. According to 2 plasma creatinine samples, we identified those suffering a postprocedural AKI within 21 days after TAVR. With 1 year of follow-up, we compared the associated rates of dialysis treatment and death between patients with and without an AKI using multivariable Cox analysis. Finally, according to the lowest recorded creatinine sample, we assessed the kidney function among AKI survivors between 90 and 180 days after the index date. We identified 4091 TAVRs: 193 (4.7%) with AKI (55.4% men; median age, 82 years) and 3898 (95.3%) without AKI (57.0% men; median age, 81 years). Compared with those without AKI, patients with AKI showed increased associated 1-year rates of dialysis treatment (hazard ratio [HR], 7.20 [95% CI, 4.10-12.66]) and death (HR, 2.39 [95% CI, 1.59-3.58]). After 6 months, 74% of AKI survivors had complete kidney recovery, 14.7% had incomplete kidney recovery, 6.3% failed to recover, and 5.1% were on dialysis treatment.
+CONCLUSIONS: We identified that AKI after TAVR was associated with an increased rate of future dialysis treatment and all-cause death. Among survivors, 74% had complete kidney recovery within 6 months.
+
+Citation: Petersen JK, et al. Impact of Acute Kidney Injury After Transcatheter Aortic Valve Replacement: A Nationwide Study. Impact of Acute Kidney Injury After Transcatheter Aortic Valve Replacement: A Nationwide Study. 2024; 13:e031019. doi: 10.1161/JAHA.123.031019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38156458/

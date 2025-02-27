@@ -1,0 +1,11 @@
+PMID: 36148060
+Title: Role of endothelial CXCR4 in the development of aortic valve stenosis.
+
+Abstract: BACKGROUND: CXCL12/CXCR4 signaling is essential in cardiac development and repair, however, its contribution to aortic valve stenosis (AVS) remains unclear. In this study, we tested the role of endothelial CXCR4 on the development of AVS.
+MATERIALS AND METHODS: We generated CXCR4 endothelial cell-specific knockout mice (EC CXCR4 KO) by crossing CXCR4fl/fl mice with Tie2-Cre mice to study the role of endothelial cell CXCR4 in AVS. CXCR4fl/fl mice were used as controls. Echocardiography was used to assess the aortic valve and cardiac function. Heart samples containing the aortic valve were stained using Alizarin Red for detection of calcification. Masson's trichrome staining was used for the detection of fibrosis. The apex of the heart samples was stained with wheat germ agglutinin (WGA) to visualize ventricular hypertrophy.
+RESULTS: Compared with the control group, the deletion of CXCR4 in endothelial cells led to significantly increased aortic valve peak velocity and aortic valve peak pressure gradient, with decreased aortic valve area and ejection fraction. EC CXCR4 KO mice also developed cardiac hypertrophy as evidenced by increased diastolic and systolic left ventricle posterior wall thickness (LVPW), cardiac myocyte size, and heart weight (HW) to body weight (BW) ratio. Our data also confirmed increased microcalcifications, interstitial fibrosis, and thickened valvular leaflets of the EC CXCR4 KO mice.
+CONCLUSION: The data collected throughout this study suggest the deletion of CXCR4 in endothelial cells is linked to the development of aortic valve stenosis and left ventricular hypertrophy. The statistically significant parameters measured indicate that endothelial cell CXCR4 plays an important role in aortic valve development and function. We have compiled compelling evidence that EC CXCR4 KO mice can be used as a novel model for AVS.
+
+Citation: Winnicki A, et al. Role of endothelial CXCR4 in the development of aortic valve stenosis. Role of endothelial CXCR4 in the development of aortic valve stenosis. 2022; 9:971321. doi: 10.3389/fcvm.2022.971321
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36148060/

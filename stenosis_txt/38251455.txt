@@ -1,0 +1,13 @@
+PMID: 38251455
+Title: Lumbar Decompression With and Without Fusion for Lumbar Stenosis With Spondylolisthesis: A Cost Utility Analysis.
+
+Abstract: STUDY DESIGN: Markov model.
+OBJECTIVE: To compare the cost-effectiveness of lumbar decompression alone (DA) with lumbar decompression with fusion (DF) for the management of adults undergoing surgery for lumbar stenosis with associated degenerative spondylolisthesis.
+SUMMARY OF BACKGROUND DATA: Rates of lumbar fusion have increased for all indications in the United States over the last 20 years. Recent randomized controlled trial data, however, have suggested comparable functional outcomes and lower reoperation rates for lumbar decompression and fusion as compared with DA in the treatment of lumbar stenosis with degenerative spondylolisthesis.
+MATERIALS AND METHODS: A multistate Markov model was constructed from the US payer perspective of a hypothetical cohort of patients with lumbar stenosis with associated spondylolisthesis requiring surgery. Data regarding clinical improvement, costs, and reoperation were generated from contemporary randomized trial evidence, meta-analyses of recent prospective studies, and large retrospective cohorts. Base case, one-way sensitivity analysis, and probabilistic sensitivity analyses were conducted, and the results were compared with a WTP threshold of $100,000 (in 2022 USD) over a two-year time horizon. A discount rate of 3% was utilized.
+RESULTS: The incremental cost and utility of DF relative to DA were $12,778 and 0.00529 aggregated quality adjusted life years. The corresponding incremental cost-effectiveness ratio of $2,416,281 far exceeded the willingness to pay threshold of $100,000. In sensitivity analysis, the results varied the most with respect to rate of improvement after DA, rate of improvement after lumbar decompression and fusion, and odds ratio of reoperation between the two groups. Zero percent of one-way and probabilistic sensitivity analyses achieved cost-effectiveness at the willingness-to-pay threshold.
+CONCLUSIONS: Within the context of contemporary surgical data, DF is not cost-effective compared with DA in the surgical management of lumbar stenosis with associated spondylolisthesis over a two-year time horizon.
+
+Citation: Sastry RA, et al. Lumbar Decompression With and Without Fusion for Lumbar Stenosis With Spondylolisthesis: A Cost Utility Analysis. Lumbar Decompression With and Without Fusion for Lumbar Stenosis With Spondylolisthesis: A Cost Utility Analysis. 2024; 49:847-856. doi: 10.1097/BRS.0000000000004928
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38251455/

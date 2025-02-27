@@ -1,0 +1,11 @@
+PMID: 33224755
+Title: A machine learning-based approach for the prediction of periprocedural myocardial infarction by using routine data.
+
+Abstract: BACKGROUND: Periprocedural myocardial infarction (PMI) after percutaneous coronary intervention (PCI) is associated with the bad prognosis in patients. Current approaches to predict PMI fail to identify many people who would benefit from preventive treatment, and machine learning (ML) offers opportunity to improve the performance of ML models for PMI based on the big routine data.
+METHODS: By using electronic medical records, we retrospectively extracted all records of patients from 2007 to 2019 in our cardiovascular center. The main enrollment criterion was that inpatients with one single coronary stenosis with stents implantation this time. The primary outcome was PMI [PMI3: cTnI >3-fold upper reference limit (URL); PMI5: cTnI >5-fold URL]. Four different ML algorithms [Support Vector Machine (SVM), Logistic Regression (LR), Random Forest (RF), Artificial Neural Networks (ANN)] were evaluated and their diagnostic accuracy measures were compared.
+RESULTS: A total of (10,886) patients who were admitted in our hospital. PMI3 and PMI5 results were analyzed respectively. The incidence of PMI3 and PMI5 was 20.9% and 13.7%. In PMI3 Drop group, ANN (accuracy: 0.72; AUC: 0.77) showed the best power to predict the presence of PMI; In PMI3 Mean Group, RF (accuracy: 0.72; AUC: 0.77) showed the best power; In PMI5 Drop group, RF (accuracy: 0.67; AUC: 0.67) showed the best power; In PMI5 Mean group, RF (accuracy: 0.61; AUC: 0.67) showed the best power.
+CONCLUSIONS: ML methods may provide accurate prediction of PMI in CAD patients, and could be used as a precise model in the preventive treatment of PMI.
+
+Citation: Wang Y, et al. A machine learning-based approach for the prediction of periprocedural myocardial infarction by using routine data. A machine learning-based approach for the prediction of periprocedural myocardial infarction by using routine data. 2020; 10:1313-1324. doi: 10.21037/cdt-20-551
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33224755/

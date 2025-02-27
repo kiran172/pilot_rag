@@ -1,0 +1,11 @@
+PMID: 35109802
+Title: MiR-138-5p targets RUNX2 to inhibit osteogenic differentiation of aortic valve interstitial cells via Wnt/β-catenin signaling pathway.
+
+Abstract: BACKGROUND: Human aortic valve interstitial cells (hAVICs) are a key factor in the pathogenesis of calcific aortic valve disease (CAVD). This research examines the role and mechanism of microRNA miR-138-5p in osteogenic differentiation of hAVICs.
+METHODS: RT-qPCR analysis was applied for detecting miR-138-5p and RUNX2 expression in valve tissues of CAVD patients and controls. On completion of induction of osteogenic differentiation of hAVICs, and after overexpression or interference of miR-138-5p expression, the condition of osteogenic differentiation and calcification of hAVICs was confirmed using alkaline phosphatase staining and alizarin red staining. Subsequently, western blot was utilized to detect the expression of osteogenesis-related proteins OPN and ALP, and Wnt/β-catenin signaling pathway-related proteins. Finally, the relationship between miR-138-5p and RUNX2 was validated by dual-luciferase reporter assay and Pearson's correlation test.
+RESULTS: Down-regulation of miR-138-5p was found in CAVD patients and during osteogenic differentiation of hAVICs. Overexpression of miR-138-5p contribute to the inhibition of osteoblast differentiation and calcium deposition in hAVICs, and of ALP and OPN protein expression. RUNX2 was a target gene of miR-138-5p, and it was negatively correlated with miR-138-5p in CAVD. Additionally, overexpression of RUNX2 could reverse the inhibitory effect of miR-138-5p on osteogenic differentiation of hAVICs.
+CONCLUSION: miR-138-5p can act as a positive regulator of osteogenic differentiation in CAVD patients to involve in inhibiting valve calcification, which is achieved through RUNX2 and Wnt/β-catenin signaling pathway.
+
+Citation: Yan F, et al. MiR-138-5p targets RUNX2 to inhibit osteogenic differentiation of aortic valve interstitial cells via Wnt/β-catenin signaling pathway. MiR-138-5p targets RUNX2 to inhibit osteogenic differentiation of aortic valve interstitial cells via Wnt/β-catenin signaling pathway. 2022; 22:24. doi: 10.1186/s12872-022-02471-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35109802/

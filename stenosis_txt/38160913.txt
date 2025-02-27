@@ -1,0 +1,11 @@
+PMID: 38160913
+Title: Left ventricular global work index and prediction of cardiovascular mortality after transcatheter aortic valve implantation.
+
+Abstract: INTRODUCTION: Echocardiography is used for assessment of patients after transcatheter aortic valve implantation (TAVI). Global work index (GWI) integrates LV deformation throughout the cardiac cycle and LV afterload and may be advantageous for long-term follow-up.
+METHODS: We analysed 144 patients with severe aortic stenosis who underwent TAVI and echocardiography within two weeks afterwards. GE EchoPAC v2.6 was applied for determining LV ejection fraction, global longitudinal strain (GLS), stroke work (SW), cardiac power output (CPO), and GWI. The endpoint was cardiovascular mortality.
+RESULTS: During median follow-up of 625 [IQR: 511-770] days, 20 (14%) patients died. Clinical baseline characteristics were comparable between non-survivors and survivors. GWI (p = 0.003) and LVEF (p = 0.039) were lower in non-survivors, while GLS, SW, and CPO were not different. In Kaplan-Meier analysis patients with GWI ≤1234 mmHg% exhibited a lower survival probability (P = 0.006). In univariable Cox regression, a significant mortality association was identified for GWI (P = 0.004), weaker for LVEF (P = 0.014), but not for the other parameters. In multivariable Cox regression, GWI independently improved an LV systolic function model including LVEF and GLS. Similarly, GWI but not LVEF independently improved outcome association of different clinical models.
+CONCLUSIONS: GWI was lower in non-survivors than survivors, differentiated non-survivors from survivors, was associated with mortality independent of clinical or LV parameters, and improved the fitness of clinical or LV prediction models. In contrast, GLS, SW, and CPO did not show any of these properties. GWI provides added value for follow-up after TAVI possibly by integrating LV deformation throughout the cardiac cycle.
+
+Citation: Anwer S, et al. Left ventricular global work index and prediction of cardiovascular mortality after transcatheter aortic valve implantation. Left ventricular global work index and prediction of cardiovascular mortality after transcatheter aortic valve implantation. 2024; 399:131660. doi: 10.1016/j.ijcard.2023.131660
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38160913/

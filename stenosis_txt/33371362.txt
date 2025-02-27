@@ -1,0 +1,8 @@
+PMID: 33371362
+Title: Carotid Artery Plaque Identification and Display System (MRI-CAPIDS) Using Opensource Tools.
+
+Abstract: Magnetic resonance imaging (MRI) represents one modality in atherosclerosis risk assessment, by permitting the classification of carotid plaques into either high- or low-risk lesions. Although MRI is generally used for observing the impact of atherosclerosis on vessel lumens, it can also show both the size and composition of itself, as well as plaque information, thereby providing information beyond that of simple stenosis. Software systems are a valuable aid in carotid artery stenosis assessment wherein commercial software is readily available but is not accessible to all practitioners because of its often high cost. This study focuses on the development of a software system designed entirely for registration, marking, and 3D visualization of the wall and lumen, using freely available open-source tools and libraries. It was designed to be free from "feature bloat" and avoid "feature-creep." The image loading and display module of the modified QDCM library was improved by a minimum of 10,000%. A Bezier function was used in order to smoothen the curve of the polygon (referring to the shape formed by the marked points) by interpolating additional points between the marked points. This smoother curve led to a smoother 3D view of the lumen and wall.
+
+Citation: Vista FP, et al. Carotid Artery Plaque Identification and Display System (MRI-CAPIDS) Using Opensource Tools. Carotid Artery Plaque Identification and Display System (MRI-CAPIDS) Using Opensource Tools. 2020; 10:(unknown pages). doi: 10.3390/diagnostics10121111
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33371362/

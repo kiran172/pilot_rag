@@ -1,0 +1,11 @@
+PMID: 30499069
+Title: Analytical quantification of aortic valve 18F-sodium fluoride PET uptake.
+
+Abstract: BACKGROUND: Challenges to cardiac PET-CT include patient motion, prolonged image acquisition and a reduction of counts due to gating. We compared two analytical tools, FusionQuant and OsiriX, for quantification of gated cardiac 18F-sodium fluoride (18F-fluoride) PET-CT imaging.
+METHODS: Twenty-seven patients with aortic stenosis were included, 15 of whom underwent repeated imaging 4 weeks apart. Agreement between analytical tools and scan-rescan reproducibility was determined using the Bland-Altman method and Lin's concordance correlation coefficients (CCC).
+RESULTS: Image analysis was faster with FusionQuant [median time (IQR) 7:10 (6:40-8:20) minutes] compared with OsiriX [8:30 (8:00-10:10) minutes, p = .002]. Agreement of uptake measurements between programs was excellent, CCC = 0.972 (95% CI 0.949-0.995) for mean tissue-to-background ratio (TBR<sub>mean</sub>) and 0.981 (95% CI 0.965-0.997) for maximum tissue-to-background ratio (TBR<sub>max</sub>). Mean noise decreased from 11.7% in the diastolic gate to 6.7% in motion-corrected images (p = .002); SNR increased from 25.41 to 41.13 (p = .0001). Aortic valve scan-rescan reproducibility for TBR<sub>max</sub> was improved with FusionQuant using motion correction compared to OsiriX (error ± 36% vs ± 13%, p &lt; .001) while reproducibility for TBR<sub>mean</sub> was similar (± 10% vs ± 8% p = .252).
+CONCLUSION: 18F-fluoride PET quantification with FusionQuant and OsiriX is comparable. FusionQuant with motion correction offers advantages with respect to analysis time and reproducibility of TBR<sub>max</sub> values.
+
+Citation: Massera D, et al. Analytical quantification of aortic valve 18F-sodium fluoride PET uptake. Analytical quantification of aortic valve 18F-sodium fluoride PET uptake. 2020; 27:962-972. doi: 10.1007/s12350-018-01542-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30499069/

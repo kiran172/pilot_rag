@@ -1,0 +1,12 @@
+PMID: 34627022
+Title: A disease-specific language representation model for cerebrovascular disease research.
+
+Abstract: BACKGROUND: Effectively utilizing disease-relevant text information from unstructured clinical notes for medical research presents many challenges. BERT (Bidirectional Encoder Representation from Transformers) related models such as BioBERT and ClinicalBERT, pre-trained on biomedical corpora and general clinical information, have shown promising performance in various biomedical language processing tasks.
+OBJECTIVES: This study aims to explore whether a BERT-based model pre-trained on disease-related clinical information can be more effective for cerebrovascular disease-relevant research.
+METHODS: This study proposed the StrokeBERT which was initialized from BioBERT and pre-trained on large-scale cerebrovascular disease related clinical text information. The pre-trained corpora contained 113,590 discharge notes, 105,743 radiology reports, and 38,199 neurological reports. Two real-world empirical clinical tasks were conducted to validate StrokeBERT's performance. The first task identified extracranial and intracranial artery stenosis from two independent sets of radiology angiography reports. The second task predicted the risk of recurrent ischemic stroke based on patients' first discharge information.
+RESULTS: In stenosis detection, StrokeBERT showed improved performance on targeted carotid arteries, with an average AUC compared to that of ClinicalBERT of 0.968 ± 0.021 and 0.956 ± 0.018, respectively. In recurrent ischemic stroke prediction, after 10-fold cross-validation on 1,700 discharge information, StrokeBERT presented better prediction ability (AUC±SD = 0.838 ± 0.017) than ClinicalBERT (AUC±SD = 0.808 ± 0.045). The attention scores of StrokeBERT showed better ability to detect and associate cerebrovascular disease related terms than current BERT based models.
+CONCLUSIONS: This study shows that a disease-specific BERT model improved the performance and accuracy of various disease-specific language processing tasks and can readily be fine-tuned to advance cerebrovascular disease research and further developed for clinical applications.
+
+Citation: Lin CH, et al. A disease-specific language representation model for cerebrovascular disease research. A disease-specific language representation model for cerebrovascular disease research. 2021; 211:106446. doi: 10.1016/j.cmpb.2021.106446
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34627022/

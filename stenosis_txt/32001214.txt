@@ -1,0 +1,11 @@
+PMID: 32001214
+Title: Bicuspid aortic valve sizing for transcatheter aortic valve implantation: Development and validation of an algorithm based on multi-slice computed tomography.
+
+Abstract: BACKGROUND: No indication are available for transcatheter aortic valve implantation (TAVI) sizing in bicuspid aortic valve (BAV). Aim of the study is to develop and validate a Multi-Slice Computed Tomography (MSCT)-based algorithm for transcatheter heart valve (THV) sizing in patients with stenotic BAV under evaluation for TAVI.
+METHODS: A two steps method was applied: 1)evaluation of a cohort of 19 consecutive patients with type I BAV stenosis undergoing TAVI through pre and post-procedural MSCT, and development of an algorithm for THV sizing; 2)validation of the algorithm on a new cohort of 21 patients.
+RESULTS: In the first cohort, a high correlation was found between the raphe-level area measured at pre-procedural MSCT and the smallest THV area measured at post-procedural MSCT (p < 0.001). Moreover, reduced THV expansion was observed among patients with higher calcium burden (p = 0.048). Then, a new algorithm for TAVI sizing in BAV was develop (CASPER: Calcium Algorithm Sizing for bicusPid Evaluation with Raphe). This algorithm is based on the reassessment of the perimeter/area derived annulus diameter, according to three main anatomical features: 1) the ratio between raphe length and annulus diameter; 2)calcium burden; 3)calcium distribution in relation to the raphe. The algorithm was then validated in a new cohort of 21 patients, achieving 100% of procedural success and excellent TAVI performance.
+CONCLUSION: MSCT assessment of raphe length, calcium burden and its distribution is of crucial relevance in the pre-procedural evaluation of patients with BAV. These anatomical features can be combined in a new and simple algorithm for TAVI sizing.
+
+Citation: Petronio AS, et al. Bicuspid aortic valve sizing for transcatheter aortic valve implantation: Development and validation of an algorithm based on multi-slice computed tomography. Bicuspid aortic valve sizing for transcatheter aortic valve implantation: Development and validation of an algorithm based on multi-slice computed tomography. 2020; 14:452-461. doi: 10.1016/j.jcct.2020.01.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32001214/

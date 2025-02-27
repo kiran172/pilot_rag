@@ -1,0 +1,12 @@
+PMID: 38269629
+Title: Elevated uric acid/albumin ratio as a predictor of poor coronary collateral circulation development in patients with non-ST segment elevation myocardial infarction.
+
+Abstract: BACKGROUND: Uric acid/albumin ratio (UAR) is a novel composite biomarker with superior predictive value for cardiovascular disease.
+OBJECTIVE: To investigate the relationship between UAR and coronary collateral circulation (CCC) in patients with non-ST segment elevation myocardial infarction (NSTEMI).
+METHODS: A total of 205 NSTEMI patients who underwent coronary arteriography with at least one major coronary stenosis, 95% were included. Patients were divided into two groups according to CCC development: poorly-developed CCC group (Rentrop 0-1) and well-developed CCC (Rentrop 2-3). Univariate analysis and logistic regression analysis were utilized to investigate the factors influencing adverse CCC formation in NSTEMI patients. The receiver operating characteristic (ROC) curve was plotted to evaluate the predictive value of UAR, C-reactive protein (CRP), uric acid, and albumin for patients with poorly developed CCC, and the area under the curve (AUC) was compared.
+RESULTS: The UAR values of NSTEMI patients were significantly higher in the poorly developed CCC group than those in the well-developed CCC group (10.19 [8.80-11.74] vs. 7.79 [6.28-9.55], p < .001). In the multiple logistic regression tests, UAR (odds ratio [OR]: 1.365, 95% confidence interval [CI]: 1.195-1.560, p < .001), CRP (OR: 1.149, 95% CI: 1.072-1.231, p < .001), and diabetes (OR: 2.924, 95% CI: 1.444-5.920, p = .003) were independent predictors of poorly developed CCC. The ROC curve analysis showed that the optimal cut-off value of UAR was 8.78 in predicting poorly developed CCC with a sensitivity of 76.8% and specificity of 62.4%, with the AUC of 0.737 (95% Cl: 0.668-0.805, p < .001).
+CONCLUSION: Elevated UAR may be an independent and effective biomarker for predicting poorly-developed CCC development in NSTEMI patients.
+
+Citation: Yin R, et al. Elevated uric acid/albumin ratio as a predictor of poor coronary collateral circulation development in patients with non-ST segment elevation myocardial infarction. Elevated uric acid/albumin ratio as a predictor of poor coronary collateral circulation development in patients with non-ST segment elevation myocardial infarction. 2024; 47:e24215. doi: 10.1002/clc.24215
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38269629/

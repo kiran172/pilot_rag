@@ -1,0 +1,12 @@
+PMID: 39374094
+Title: Absolute coronary flow and microvascular resistance before and after transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Severe aortic stenosis (AS) is associated with left ventricular (LV) remodelling, likely causing alterations in coronary blood flow and microvascular resistance.
+AIMS: We aimed to evaluate changes in absolute coronary flow and microvascular resistance in patients with AS undergoing transcatheter aortic valve implantation (TAVI).
+METHODS: Consecutive patients with AS undergoing TAVI with non-obstructive coronary artery disease in the left anterior descending artery (LAD) were included. Absolute coronary flow (Q) and microvascular resistance (R<sub>μ</sub>) were measured in the LAD using continuous intracoronary thermodilution at rest and during hyperaemia before and after TAVI, and at 6-month follow-up. Total myocardial mass and LAD-specific mass were quantified by echocardiography and cardiac computed tomography. Regional myocardial perfusion (Q<sub>N</sub>) was calculated by dividing absolute flow by the subtended myocardial mass.
+RESULTS: In 51 patients, Q and R were measured at rest and during hyperaemia before and after TAVI; in 20 (39%) patients, measurements were also obtained 6 months after TAVI. No changes occurred in resting and hyperaemic flow and resistance before and after TAVI nor after 6 months. However, at 6-month follow-up, a notable reverse LV remodelling resulted in a significant increase in hyperaemic perfusion (Q<sub>N,hyper</sub>: 0.86 [interquartile range {IQR} 0.691.06] vs 1.20 [IQR 0.99-1.32] mL/min/g; p=0.008; pre-TAVI and follow-up, respectively) but not in resting perfusion (Q<sub>N,rest</sub>: 0.34 [IQR 0.30-0.48] vs 0.47 [IQR 0.36-0.67] mL/min/g; p=0.06).
+CONCLUSIONS: Immediately after TAVI, no changes occurred in absolute coronary flow or coronary flow reserve. Over time, the remodelling of the left ventricle is associated with increased hyperaemic perfusion.
+
+Citation: Gallinoro E, et al. Absolute coronary flow and microvascular resistance before and after transcatheter aortic valve implantation. Absolute coronary flow and microvascular resistance before and after transcatheter aortic valve implantation. 2024; 20:e1248-e1528. doi: 10.4244/EIJ-D-24-00075
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39374094/

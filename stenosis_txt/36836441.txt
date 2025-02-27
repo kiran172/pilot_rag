@@ -1,0 +1,8 @@
+PMID: 36836441
+Title: Identification and Validation of Hub Genes in the Stenosis of Arteriovenous Fistula.
+
+Abstract: Arteriovenous fistula (AVF) is the most widely used hemodialysis vascular access in China. However, stenosis of the AVF limits its use. The mechanism of AVF stenosis is currently unknown. Therefore, the purpose of our study was to explore the mechanisms of AVF stenosis. In this study, we identified the differentially expressed genes (DEGs) based on the Gene Expression Omnibus (GEO) dataset (GSE39488) between venous segments of AVF and normal veins. A protein-protein interaction (PPI) network was constructed to identify hub genes of AVF stenosis. Finally, six hub genes (FOS, NR4A2, EGR2, CXCR4, ATF3, and SERPINE1) were found. Combined with the results of the PPI network analysis and literature search, FOS and NR4A2 were selected as the target genes for further investigation. We validated the bioinformatic results via reverse transcription PCR (RT-PCR) and Western blot analyses on human and rat samples. The expression levels of the mRNA and protein of FOS and NR4A2 were upregulated in both human and rat samples. In summary, we found that FOS may play an important role in AVF stenosis, which could be a potential therapeutic target of AVF stenosis.
+
+Citation: Li Y, et al. Identification and Validation of Hub Genes in the Stenosis of Arteriovenous Fistula. Identification and Validation of Hub Genes in the Stenosis of Arteriovenous Fistula. 2023; 13:(unknown pages). doi: 10.3390/jpm13020207
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36836441/

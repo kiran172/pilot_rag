@@ -1,0 +1,8 @@
+PMID: 36908778
+Title: Ischemic stroke prediction of patients with carotid atherosclerotic stenosis via multi-modality fused network.
+
+Abstract: Carotid atherosclerotic stenosis of the carotid artery is an important cause of ischemic cerebrovascular disease. The aim of this study was to predict the presence or absence of clinical symptoms in unknown patients by studying the existence or lack of symptoms of patients with carotid atherosclerotic stenosis. First, a deep neural network prediction model based on brain MRI imaging data of patients with multiple modalities is constructed; it uses the multi-modality features extracted from the neural network as inputs and the incidence of diagnosis as output to train the model. Then, a machine learning-based classification algorithm is developed to utilize the clinical features for comparison and evaluation. The experimental results showed that the deep learning model using imaging data could better predict the clinical symptom classification of patients. As part of preventive medicine, this study could help patients with carotid atherosclerosis narrowing to prepare for stroke prevention based on the prediction results.
+
+Citation: Lv P, et al. Ischemic stroke prediction of patients with carotid atherosclerotic stenosis via multi-modality fused network. Ischemic stroke prediction of patients with carotid atherosclerotic stenosis via multi-modality fused network. 2023; 17:1118376. doi: 10.3389/fnins.2023.1118376
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36908778/

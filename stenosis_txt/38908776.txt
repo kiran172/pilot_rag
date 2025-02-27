@@ -1,0 +1,12 @@
+PMID: 38908776
+Title: The link between carotid artery stenosis and outcomes in patients with refractory out-of-hospital cardiac arrest.
+
+Abstract: BACKGROUND: Mortality of out-of-hospital cardiac arrest (OHCA) remains high. Extracorporeal cardiopulmonary resuscitation (ECPR) has revolutionized OHCA treatment, but our understanding of the ECPR responder's clinical profile is incomplete. Carotid artery stenosis (CAS) is a well-established cardiovascular disease risk factor. The impact of CAS on OHCA outcomes remains unelucidated.
+OBJECTIVE: To assess whether CAS burden affects the outcomes of OHCA patients treated with ECPR.
+METHODS: This study included patients with OHCA admitted for ECPR consideration, who had carotid ultrasonography performed. A numeric scale was applied to the plaque to create a CAS burden numeric scale. The primary outcome of the study was survival at discharge, compared among the different degrees of CAS. Neurologically intact survival and surrogate markers of neurologic injury were the secondary study endpoints. To assess the independent effect of CAS burden on survival to hospital discharge, we conducted a logistic regression analysis.
+RESULTS: Between 2019 and 2023, carotid ultrasonography was performed on 163 patients who were admitted for refractory OHCA. CAS burden was equally distributed between the right and left carotid arteries. Logistic regression analysis indicated that the CAS burden was significantly associated with both overall and neurologically intact survival at discharge (p = 0.004). A linear relationship between the CAS burden and neuron-specific and S-100 levels was identified. Patients with normal carotids were significantly less likely to have encephalopathy on electroencephalograms.
+CONCLUSION: CAS burden independently predicts the risk for worse survival and neurologic outcomes in patients suffering refractory OHCA who are treated with ECPR.
+
+Citation: Kosmopoulos M, et al. The link between carotid artery stenosis and outcomes in patients with refractory out-of-hospital cardiac arrest. The link between carotid artery stenosis and outcomes in patients with refractory out-of-hospital cardiac arrest. 2024; 201:110289. doi: 10.1016/j.resuscitation.2024.110289
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38908776/

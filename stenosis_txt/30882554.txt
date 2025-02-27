@@ -1,0 +1,11 @@
+PMID: 30882554
+Title: Transient Neurological Events After Surgery for Pediatric Moyamoya Disease: A Retrospective Study of Postoperative Sedation Practices.
+
+Abstract: BACKGROUND: Moyamoya disease is a cerebrovascular disease characterized by bilateral stenosis of the intracranial internal carotid arteries and an abnormal collateral vascular network at the base of the brain. Transient neurological events (TNEs), which are episodes of neurological dysfunction lasting <24 hours, are associated with stroke in pediatric patients with Moyamoya disease. Perioperative agitation often occurs in pediatric patients. We hypothesized that anesthetic technique and postoperative sedation would modify the association between TNE and superficial temporal artery-middle cerebral artery (STA-MCA) bypass in pediatric patients with Moyamoya disease.
+METHODS: We retrospectively reviewed the medical records of patients with Moyamoya disease aged 15 years and below who underwent STA-MCA bypass under general anesthesia at a single cerebrovascular center in Japan between January 1999 and March 2016. The primary outcome was TNE. Mixed-effects logistic regression was used to evaluate whether postoperative sedation and anesthetic agents were associated with TNE.
+RESULTS: Among 277 hemispheres in 154 pediatric patients who underwent STA-MCA bypass, 107 patients (39%) experienced TNE within 1 week after surgery. Crying (adjusted odds ratio, 3.11; 95% confidence interval, 1.01-9.59; P=0.048) was an independent risk factor for TNE. Postoperative sedation was associated with a lower incidence of TNE (adjusted odds ratio, 0.514; 95% confidence interval, 0.264-0.997; P=0.049), but premedication and anesthetic agents were not associated with TNE.
+CONCLUSION: In pediatric patients with Moyamoya disease, crying was associated with increased TNE and postoperative sedation is associated with decreased TNE.
+
+Citation: Matsuura H, et al. Transient Neurological Events After Surgery for Pediatric Moyamoya Disease: A Retrospective Study of Postoperative Sedation Practices. Transient Neurological Events After Surgery for Pediatric Moyamoya Disease: A Retrospective Study of Postoperative Sedation Practices. 2020; 32:182-185. doi: 10.1097/ANA.0000000000000593
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30882554/

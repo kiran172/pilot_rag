@@ -1,0 +1,17 @@
+PMID: 38018669
+Title: Investigating the Association of Carotid Atherosclerotic Plaque MRI Features and Silent Stroke After Carotid Endarterectomy.
+
+Abstract: BACKGROUND: The predictive value of carotid plaque characteristics for silent stroke (SS) after carotid endarterectomy (CEA) is unclear.
+OBJECTIVE: To investigate the associations between carotid plaque characteristics and postoperative SS in patients undergoing CEA.
+STUDY TYPE: Prospective.
+POPULATION: One hundred fifty-three patients (mean age: 65.4 ± 7.9 years; 126 males) with unilateral moderate-to-severe carotid stenosis (evaluated by CT angiography) referred for CEA.
+FIELD STRENGTH/SEQUENCE: 3 T, brain-MRI:T2-PROPELLER, T1-/T2-FLAIR, diffusion weighted imaging (DWI) and T2*, carotid-MRI:black-blood T1-/T2W, 3D TOF, Simultaneous Non-contrast Angiography intraplaque hemorrhage.
+ASSESSMENT: Patients underwent carotid-MRI within 1-week before CEA, and brain-MRI within 48-hours pre-/post-CEA. The presence and size (volume, maximum-area-percentage) of carotid lipid-rich necrotic core (LRNC), intraplaque hemorrhage (Type-I/Type-II IPH) and calcification were evaluated on carotid-MR images. Postoperative SS was assessed from pre-/post-CEA brain DWI. Patients were divided into moderate-carotid-stenosis (50%-69%) and severe-carotid-stenosis (70%-99%) groups and the associations between carotid plaque characteristics and SS were analyzed.
+STATISTICAL TESTS: Independent t test, Mann-Whitney U-test, chi-square test and logistic regressions (OR: odds ratio, CI: confidence interval). P value <0.05 was considered statistically significant.
+RESULTS: SS was found in 8 (16.3%) of the 49 patients with moderate-carotid-stenosis and 21 (20.2%) of the 104 patients with severe-carotid-stenosis. In patients with severe-carotid-stenosis, those with SS had significantly higher IPH (66.7% vs. 39.8%) and Type-I IPH (66.7% vs. 38.6%) than those without. The presence of IPH (OR 3.030, 95% CI 1.106-8.305) and Type-I IPH (OR 3.187, 95% CI 1.162-8.745) was significantly associated with SS. After adjustment, the associations of SS with presence of IPH (OR 3.294, 95% CI 1.122-9.669) and Type-I IPH (OR 3.633, 95% CI 1.216-10.859) remained significant. Moreover, the volume of Type-II IPH (OR 1.014, 95% CI 1.001-1.028), and maximum-area-percentage of Type-II IPH (OR 1.070, 95% CI 1.002-1.142) and LRNC (OR 1.030, 95% CI 1.000-1.061) were significantly associated with SS after adjustment. No significant (P range: 0.203-0.980) associations were found between carotid plaque characteristics and SS in patients with moderate-carotid-stenosis.
+DATA CONCLUSIONS: In patients with unilateral severe-carotid-stenosis, carotid vulnerable plaque MR features, particularly presence and size of IPH, might be effective predictors for SS after CEA.
+EVIDENCE LEVEL: 2 TECHNICAL EFFICACY: Stage 2.
+
+Citation: Huo R, et al. Investigating the Association of Carotid Atherosclerotic Plaque MRI Features and Silent Stroke After Carotid Endarterectomy. Investigating the Association of Carotid Atherosclerotic Plaque MRI Features and Silent Stroke After Carotid Endarterectomy. 2024; 60:138-149. doi: 10.1002/jmri.29115
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38018669/

@@ -1,0 +1,11 @@
+PMID: 39231642
+Title: Low Serum Albumin Levels are Associated with Short-Term Recurrence of Arteriovenous Fistula Failure.
+
+Abstract: BACKGROUND: Vascular access intervention therapy (VAIVT) is widely used as a treatment for arteriovenous fistula (AVF) failure. However, recurrent AVF failure is a major concern for dialysis patients. By prospectively observing patients after an initial VAIVT, we attempted to identify risk factors for developing restenosis of AVF.
+METHODS: This single-center prospective study evaluated 57 patients who underwent their first VAIVT procedure at our hospital from April 2022 through March 2023. We performed blood and biochemical tests during the first VAIVT to collect data on clinical variables. Ultrasonography was used to measure vessel diameter reduction rate, flow volume (FV) reduction rate, and increase in resistance index (RI) rate over a 3-month period.
+RESULTS: Within 3 months, 24 patients developed short-term shunt stenosis and 30 did not. Three were not traceable. In a comparison of the two groups, significant differences were observed in albumin (ALB), FV, RI, and elbow shunt. Analysis of change rates in the three ultrasound findings identified five factors (hematocrit, platelet count, activated partial thromboplastin time, ALB, and FV). The results of logistic regression models revealed that ALB was the most significant predictive factor for short-term shunt stenosis (p = 0.031).
+CONCLUSION: In conclusion, our findings suggest that low serum ALB at the time of initial VAIVT is a significant risk factor for short-term recurrence of AVF failure in hemodialysis patients. These findings emphasize the importance of careful routine monitoring to reduce the risk of AVF failure and associated complications.
+
+Citation: Okuhata Y, et al. Low Serum Albumin Levels are Associated with Short-Term Recurrence of Arteriovenous Fistula Failure. Low Serum Albumin Levels are Associated with Short-Term Recurrence of Arteriovenous Fistula Failure. 2024; 91:383-390. doi: 10.1272/jnms.JNMS.2024_91-408
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39231642/

@@ -1,0 +1,12 @@
+PMID: 31202755
+Title: Prediction of Stroke Risk by Detection of Hemorrhage in Carotid Plaques: Meta-Analysis of Individual Patient Data.
+
+Abstract: OBJECTIVES: The goal of this study was to compare the risk of stroke between patients with carotid artery disease with and without the presence of intraplaque hemorrhage (IPH) on magnetic resonance imaging.
+BACKGROUND: IPH in carotid stenosis increases the risk of cerebrovascular events. Uncertainty remains whether risk of stroke alone is increased and whether stroke is predicted independently of known risk factors.
+METHODS: Data were pooled from 7 cohort studies including 560 patients with symptomatic carotid stenosis and 136 patients with asymptomatic carotid stenosis. Hazards of ipsilateral ischemic stroke (primary outcome) were compared between patients with and without IPH, adjusted for clinical risk factors.
+RESULTS: IPH was present in 51.6% of patients with symptomatic carotid stenosis and 29.4% of patients with asymptomatic carotid stenosis. During 1,121 observed person-years, 66 ipsilateral strokes occurred. Presence of IPH at baseline increased the risk of ipsilateral stroke both in symptomatic (hazard ratio [HR]: 10.2; 95% confidence interval [CI]: 4.6 to 22.5) and asymptomatic (HR: 7.9; 95% CI: 1.3 to 47.6) patients. Among patients with symptomatic carotid stenosis, annualized event rates of ipsilateral stroke in those with IPH versus those without IPH were 9.0% versus 0.7% (<50% stenosis), 18.1% versus 2.1% (50% to 69% stenosis), and 29.3% versus 1.5% (70% to 99% stenosis). Annualized event rates among patients with asymptomatic carotid stenosis were 5.4% in those with IPH versus 0.8% in those without IPH. Multivariate analysis identified IPH (HR: 11.0; 95% CI: 4.8 to 25.1) and severe degree of stenosis (HR: 3.3; 95% CI: 1.4 to 7.8) as independent predictors of ipsilateral stroke.
+CONCLUSIONS: IPH is common in patients with symptomatic and asymptomatic carotid stenosis and is a stronger predictor of stroke than any known clinical risk factors. Magnetic resonance imaging might help identify patients with carotid disease who would benefit from revascularization.
+
+Citation: Schindler A, et al. Prediction of Stroke Risk by Detection of Hemorrhage in Carotid Plaques: Meta-Analysis of Individual Patient Data. Prediction of Stroke Risk by Detection of Hemorrhage in Carotid Plaques: Meta-Analysis of Individual Patient Data. 2020; 13:395-406. doi: 10.1016/j.jcmg.2019.03.028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31202755/

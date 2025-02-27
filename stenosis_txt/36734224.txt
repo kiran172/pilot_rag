@@ -1,0 +1,11 @@
+PMID: 36734224
+Title: Epidemiology and Outcomes of Aortic Stenosis in Acute Decompensated Heart Failure: The ARIC Study.
+
+Abstract: BACKGROUND: Few studies characterize the epidemiology and outcomes of aortic stenosis (AS) in acute decompensated heart failure (ADHF). This study investigates the significance of AS in contemporary patients who have experienced an ADHF hospitalization.
+METHODS: The ARIC study (Atherosclerosis Risk in Communities) surveilled ADHF hospitalizations for residents ≥55 years of age in 4 US communities. ADHF cases were stratified by left ventricular ejection fraction (LVEF). Demographic differences in AS burden and the association of varying AS severities with mortality were estimated using multivariable logistic regression.
+RESULTS: From 2005 through 2014, there were 3597 (weighted n=16 692) ADHF hospitalizations of which 48.6% had an LVEF <50% and 51.4% an LVEF ≥50%. AS prevalence was 12.1% and 18.7% in those with an LVEF <50% and ≥50%, respectively. AS was less likely in Black than White patients regardless of LVEF: LVEF <50% (odds ratio [OR], 0.34 [95% CI, 0.28-0.42]); LVEF ≥50% (OR, 0.51 [95% CI, 0.44-0.59]). Higher AS severity was independently associated with 1-year mortality in both LVEF subgroups: LVEF <50% (OR, 1.16 [95% CI, 1.04-1.28]); LVEF ≥50% (OR, 1.40 [95% CI, 1.28-1.54]). Sensitivity analyses excluding severe AS patients detected that mild/moderate AS was independently associated with 1-year mortality in both LVEF subgroups: LVEF <50% (OR, 1.23 [95% CI, 1.02-1.47]); LVEF ≥50% (OR, 1.31 [95% CI, 1.14-1.51]).
+CONCLUSIONS: Among patients who have experienced an ADHF hospitalization, AS is prevalent and portends poor mortality outcomes. Notably, mild/moderate AS is independently associated with 1-year mortality in this high-risk population.
+
+Citation: Sivaraj K, et al. Epidemiology and Outcomes of Aortic Stenosis in Acute Decompensated Heart Failure: The ARIC Study. Epidemiology and Outcomes of Aortic Stenosis in Acute Decompensated Heart Failure: The ARIC Study. 2023; 16:e009653. doi: 10.1161/CIRCHEARTFAILURE.122.009653
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36734224/

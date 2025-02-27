@@ -1,0 +1,11 @@
+PMID: 37969929
+Title: Determinants of Aortic Stenosis Progression in Bicuspid and Tricuspid Aortic Valves.
+
+Abstract: BACKGROUND: Bicuspid aortic valve (BAV) is associated with a faster progression of aortic stenosis (AS). Whether the determinants of AS progression are the same or different in patients with BAV vs tricuspid aortic valve (TAV) is unknown. The aim of this study was to identify the factors associated with the progression of AS in patients with BAV vs patients with TAV.
+METHODS: Patients with AS were prospectively recruited in the Metabolic Determinants of the Progression of Aortic Stenosis (PROGRESSA) study (ClinicalTrials.gov Identifier: NCT01679431). The haemodynamic progression rate of AS was assessed by the annualized progression rate of peak aortic jet velocity (V<sub>peak</sub>). Univariable and multivariable linear regression analyses were used to identify the factors associated with a faster progression of AS in patients with BAV vs patients with TAV.
+RESULTS: There were 79 patients with BAV and 208 patients with TAV. The baseline severity of AS was similar between the 2 groups of patients as well as the annualized progression rate of AS. In patients with BAV, obesity (β = 0.25, P = 0.04), diabetes (β = 0.26, P = 0.02), and BAV with right-noncoronary cusp fusion (β = 0.29, P = 0.01) were found to be independently associated with a faster progression of AS, whereas in patients with TAV, AS baseline severity (baseline V<sub>peak</sub>, β = 0.14, P = 0.04) and chronic kidney disease (β = 0.16, P = 0.02) were significantly associated with AS progression.
+CONCLUSION: Factors associated with progression rate of AS are different in BAV and TAV. The main factors associated with a faster progression of AS appear to be obesity, diabetes, right-noncoronary cusp fusion in patients with BAV vs chronic kidney disease in patients with TAV.
+
+Citation: Shen M, et al. Determinants of Aortic Stenosis Progression in Bicuspid and Tricuspid Aortic Valves. Determinants of Aortic Stenosis Progression in Bicuspid and Tricuspid Aortic Valves. 2022; 1:184-192. doi: 10.1016/j.cjcpc.2022.06.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37969929/

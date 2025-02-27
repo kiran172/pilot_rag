@@ -1,0 +1,11 @@
+PMID: 36577905
+Title: EUS-guided versus PTC-guided rendezvous in case of failed ERCP: a case-control study.
+
+Abstract: BACKGROUND: Endoscopic ultrasound-guided rendezvous (EUS-RV) is a recently added alternative salvage technique to percutaneous transhepatic cholangiography rendezvous (PTC-RV) for achieving biliary cannulation in failed ERCP. Comparative data on these two techniques are lacking. The aim of this study is to evaluate the efficacy and safety of EUS-RV versus PTC-RV in a tertiary referral center.
+METHODS: A case-control study was conducted in the tertiary referral center, Ghent University Hospital. All consecutive patients that underwent a rendezvous procedure between February 2014 and March 2022 for failed biliary cannulation were included. Patients that underwent PTC-RV (between February 2014 and February 2018) were compared to those who underwent EUS-RV (between March 2018 and March 2022). A sub-analysis was performed for malignant biliary strictures (MBO), benign biliary strictures (BBO) and common bile duct stones (CBDS). The primary endpoints of interest were technical success rate and complication rate. These outcome variables were compared among techniques using Fisher's exact test. Statistical analyses were performed using STATA version 15.
+RESULTS: A total of 59 consecutive procedures in 57 patients were included for analysis; 20/59 (33.9%) were PTC-RV; the remaining 39/59 (66.1%) procedures were EUS-RV. Two patients in the PTC-RV group underwent two procedures. Of the PTC-RV procedures, 18/20 (90.0%) were technically successful, as compared to 28/39 EUS-RV procedures (71.8%) (P = 0.184; Fig. 1). Adverse events were reported in 7/20 PTC-RV procedures (35.0%) and in 13/39 EUS-RV procedures (33.3%) (P = 1.000). In 5/20 PTC-RV procedures (25.0%) and 4/39 EUS-RV procedures (10.3%), the adverse event was considered major (defined as AGREE classification of 3 or more; P = 0.249).
+CONCLUSIONS: EUS-RV has an acceptable success rate and is not associated with an increased risk of adverse events as compared to PTC-RV.
+
+Citation: Hanssens M, et al. EUS-guided versus PTC-guided rendezvous in case of failed ERCP: a case-control study. EUS-guided versus PTC-guided rendezvous in case of failed ERCP: a case-control study. 2023; 37:3492-3497. doi: 10.1007/s00464-022-09827-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36577905/

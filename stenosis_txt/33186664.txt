@@ -1,0 +1,10 @@
+PMID: 33186664
+Title: Prognostic impact of FFR/contrast FFR discordance.
+
+Abstract: BACKGROUND: Contrast fractional flow reserve (cFFR) is a relatively new tool for the assessment of intermediate coronary artery stenosis and represents a reliable surrogate of FFR with the advantage of potentially simplifying functional evaluation. We aimed to compare the incidence of major adverse cardiac events (MACE) in patients undergoing functional evaluation with both FFR and cFFR based on the results of the two indexes.
+METHOD AND RESULT: We retrospectively analyzed outcomes in 488 patients who underwent functional evaluation with FFR and cFFR. Patients were divided into four groups using the cutoff values of 0.80 for FFR and 0.85 for cFFR: -/- (n = 298), +/+ (n = 134), -/+(n = 31) and +/- (n = 25). All patients were treated according to FFR value. MACE rate was assessed in each group, including death, myocardial infarction and urgent target vessel revascularization (TVR). Mean follow-up time was 22 ± 15 months. Incidence of MACE at follow-up was 8.3% in FFR-/cFFR-, 14.0% in FFR+/cFFR+, 16.0% in FFR-/cFFR+ and 8.0% in FFR+/cFFR- without a significant difference amongst the 4 groups (p = 0.2). Nevertheless, a significant difference in the rate of TVR comparing FFR-/cFFR- (n = 17) and FFR-/cFFR+ (n = 5) was found at 24 months (5.7% vs 16.0%; p = 0.027).
+CONCLUSION: cFFR is accurate in predicting FFR and consequently reliable in guiding coronary revascularization. In the rare case of discordance, while FFR+/cFFR- patients show a prognosis similar to FFR-/cFFR- patients, FFR-/cFFR+ patients show a prognosis similar to FFR+/cFFR+ patients.
+
+Citation: Leone AM, et al. Prognostic impact of FFR/contrast FFR discordance. Prognostic impact of FFR/contrast FFR discordance. 2021; 327:40-44. doi: 10.1016/j.ijcard.2020.11.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33186664/

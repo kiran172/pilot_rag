@@ -1,0 +1,12 @@
+PMID: 36567512
+Title: Effect of nonobstructive coronary stenosis on coronary microvascular dysfunction and long-term outcomes in patients with INOCA.
+
+Abstract: BACKGROUND: Ischemic pain with no-obstructive coronary artery (INOCA) is clinically significant and defined by nonobstructive coronary stenosis <50%. Coronary microvascular dysfunction (CMD) is a relevant cause associated with adverse outcomes.
+OBJECTIVES: Investigated the effect of no-stenosis (0% stenosis) and non-obstructive (0% < stenosis < 50%) on the prognostic impact of CMD in INOCA.
+METHOD: A retrospective study assessed the coronary microvascular function in 151 INOCA patients who underwent invasive angiography by the coronary angiography-derived index of microcirculation-resistance (caIMR). CZT-SPECT was performed to evaluate myocardial perfusion imaging (MPI) abnormalities. Chi-square test/Fisher exact test, Student t-test, Kaplan-Meier curve, and Uni-multivariable Cox proportional models were used for analysis. Clinical outcomes were major adverse cardiovascular events (MACE) during a median follow-up of 35 months.
+RESULT: No-stenosis was present in 71 (47%) INOCA patients, and 80 (53%) were with nonobstructive. CMD (caIMR ≥ 25) was more prevalent in patients with no-stenosis than nonobstructive (76.1% vs. 48.8%, p = .001), along with abnormal MPI (39.4% vs. 22.5%, p = .024). The MACE rates were not different between no-stenosis and nonobstructive stenosis. CMD showed an increased risk of MACE for all INOCA. No-stenosis with CMD had the worst prognosis. Cox regression analysis identified CMD and abnormal MPI as predictors of MACE in all INOCA and patients with no-stenosis. However, no-stenosis and nonobstructive stenosis were not predictors of MACE in INOCA.
+CONCLUSION: CMD was more frequently present in INOCA with no-stenosis. However, there was no difference in long-term clinical outcomes between no-stenosis and nonobstructive stenosis. CMD could independently predict poor outcomes in INOCA, particularly in patients with no-stenosis.
+
+Citation: Mohammed AA, et al. Effect of nonobstructive coronary stenosis on coronary microvascular dysfunction and long-term outcomes in patients with INOCA. Effect of nonobstructive coronary stenosis on coronary microvascular dysfunction and long-term outcomes in patients with INOCA. 2023; 46:204-213. doi: 10.1002/clc.23962
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36567512/

@@ -1,0 +1,11 @@
+PMID: 37193289
+Title: Insomnia symptoms and postoperative healthcare utilization in veterans undergoing decompressive laminectomy for lumbar spinal stenosis.
+
+Abstract: STUDY OBJECTIVES: Lumbar spinal stenosis is an age-related spine condition that contributes to pain and disability. Decompressive laminectomy (DL) is regularly performed to alleviate symptoms. Insomnia symptoms are common among people living with chronic pain and may affect key DL outcomes, such as healthcare utilization. We examined associations of insomnia symptom severity with post-DL healthcare utilization in veterans with lumbar spinal stenosis.
+METHODS: Veterans (N = 200) with lumbar spinal stenosis undergoing DL were recruited into a prospective cohort study and self-reported insomnia symptom severity on the Insomnia Severity Index prior to DL. Post-DL, veterans reported on pain and non-pain-related monthly healthcare office visits, emergency room visits, hospitalizations, and mental health visits for 1 year. Incident rate ratios (IRRs) obtained via negative binomial regression evaluated associations of insomnia symptom severity with healthcare utilization rates.
+RESULTS: Approximately 51% of participants endorsed insomnia symptoms of at least mild severity. Participants who reported at least mild insomnia symptoms had more healthcare office visits (IRR = 1.23, p = .04), general mental health visits (IRR = 3.98, p &lt; .0001), and pain-related mental health visits (IRR = 9.55, p = .01) than those without insomnia symptoms. Adjusting for covariates, rates of mental health visits, overall (IRR = 3.13, p = .001) and pain-related (IRR = 6.93, p = .02), remained statistically significantly higher.
+CONCLUSIONS: Insomnia symptoms are associated with postoperative healthcare utilization lending support for future work to examine the value of assessing and intervening on insomnia symptoms prelaminectomy.
+
+Citation: Tighe CA, et al. Insomnia symptoms and postoperative healthcare utilization in veterans undergoing decompressive laminectomy for lumbar spinal stenosis. Insomnia symptoms and postoperative healthcare utilization in veterans undergoing decompressive laminectomy for lumbar spinal stenosis. 2023; 4:zpad005. doi: 10.1093/sleepadvances/zpad005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37193289/

@@ -1,0 +1,11 @@
+PMID: 38623198
+Title: Factors influencing ultrasound cardiac output monitor waveform quality in patients admitted to the emergency intensive care unit.
+
+Abstract: OBJECTIVE: The ultrasonic cardiac output monitor (USCOM), an instrument that monitors the evolution of a patient's hemodynamic status and determines the type of shock, has become an important tool for assessing cardiac pathology and predicting changes in disease, but there are some variations in the instrumental findings for different physical conditions of patients. This article examines whether there are differences in the quality of USCOM waveforms measured in different types of critically ill patients based on clinical characteristics and test parameters.
+METHODS: Baseline data, diagnoses, echocardiograms, ventilation patterns, and USCOM results were retrospectively collected from patients in the emergency intensive care unit. Waveform quality was quantified using the Fremantle score to determine the extent to which age, body mass index (BMI), chronic obstructive pulmonary disease (COPD), respiratory failure, cardiac enlargement, valvular heart disease, and ventilation pattern influenced USCOM waveform quality.
+RESULTS: Age, body mass index, chronic obstructive pulmonary disease, respiratory failure, right and left heart enlargement, aortic valve disease (excluding aortic stenosis), and ventilation mode did not have a significant effect on USCOM waveform quality in critically ill patients (P &gt; 0.05).
+CONCLUSIONS: Various physical conditions of critically ill patients may have limited effect on the quality of the USCOM waveform, potentially rendering USCOM suitable for early assessment of hemodynamic status during ICU admission.
+
+Citation: Gao H, et al. Factors influencing ultrasound cardiac output monitor waveform quality in patients admitted to the emergency intensive care unit. Factors influencing ultrasound cardiac output monitor waveform quality in patients admitted to the emergency intensive care unit. 2024; 10:e29242. doi: 10.1016/j.heliyon.2024.e29242
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38623198/

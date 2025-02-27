@@ -1,0 +1,11 @@
+PMID: 36602576
+Title: Rapid lumbar MRI protocol using 3D imaging and deep learning reconstruction.
+
+Abstract: BACKGROUND AND PURPOSE: Three-dimensional (3D) imaging of the spine, augmented with AI-enabled image enhancement and denoising, has the potential to reduce imaging times without compromising image quality or diagnostic performance. This work evaluates the time savings afforded by a novel, rapid lumbar spine MRI protocol as well as image quality and diagnostic differences stemming from the use of an AI-enhanced 3D T2 sequence combined with a single Dixon acquisition.
+MATERIALS AND METHODS: Thirty-five subjects underwent MRI using standard 2D lumbar imaging in addition to a "rapid protocol" consisting of 3D imaging, enhanced and denoised using a prototype DL reconstruction algorithm as well as a two-point Dixon sequence. Images were graded by subspecialized radiologists and imaging times were collected. Comparison was made between 2D sagittal T1 and Dixon fat images for neural foraminal stenosis, intraosseous lesions, and fracture detection.
+RESULTS: This study demonstrated a 54% reduction in total acquisition time of a 3D AI-enhanced imaging lumbar spine MRI rapid protocol combined with a sagittal 2D Dixon sequence, compared to a 2D standard-of-care protocol. The rapid protocol also demonstrated strong agreement with the standard-of-care protocol with respect to osseous lesions (κ = 0.88), fracture detection (κ = 0.96), and neural foraminal stenosis (ICC > 0.9 at all levels).
+CONCLUSION: 3D imaging of the lumbar spine with AI-enhanced DL reconstruction and Dixon imaging demonstrated a significant reduction in imaging time with similar performance for common diagnostic metrics. Although previously limited by long postprocessing times, this technique has the potential to enhance patient throughput in busy radiology practices while providing similar or improved image quality.
+
+Citation: Chazen JL, et al. Rapid lumbar MRI protocol using 3D imaging and deep learning reconstruction. Rapid lumbar MRI protocol using 3D imaging and deep learning reconstruction. 2023; 52:1331-1338. doi: 10.1007/s00256-022-04268-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36602576/

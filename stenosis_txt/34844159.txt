@@ -1,0 +1,11 @@
+PMID: 34844159
+Title: Correlation between neutrophil-to-lymphocyte ratio and stability of carotid plaques.
+
+Abstract: OBJECTIVE: The neutrophil-to-lymphocyte ratio (NLR) has been proved to be a strong predictor of carotid atherosclerotic plaque, but the correlation between NLR and the stability of carotid plaque is not clear. Thus we conducted a study to evaluate the correlation between NLR and the stability of carotid atherosclerotic plaque, and to develop a new evaluation scale for rapid clinical evaluation of carotid plaque stability.
+METHODS: We recruited 528 patients with acute anterior circulation ischemic stroke who were in accordance with extracranial and intracranial large artery atherosclerosis of Chinese ischemic stroke subtype. Blood routine examination and carotid ultrasound examination were performed on admission. According to the ultrasonic characteristics, the patients were divided into plaque stabilization group and plaque instability group.
+RESULTS: There was significant difference in NLR between plaque stability and instability groups (P < 0.001). The risk of plaque instability increased with the increase of NLR (odds ratio (OR), 4.737; 95% confidence interval (CI), 3.404-6.592; P < 0.001). Receiver operating characteristic (ROC) curve showed that the critical point of NLR is 2.55 and the area under the curve (AUC) was 0.782 (95%CI, 0.740-0.823; P < 0.001). The best cut-off value of the evaluation scale was ≥ 4 points (sensitivity, 0.77; specificity, 0.75; accuracy, 0.76).
+CONCLUSION: There is a correlation between NLR and carotid plaque instability. NLR may be useful as a potential inflammation biomarker indicating the risk of unstable carotid plaques. The new scoring scale is a reliable index to predict the stability of carotid plaque.
+
+Citation: Ruan W, et al. Correlation between neutrophil-to-lymphocyte ratio and stability of carotid plaques. Correlation between neutrophil-to-lymphocyte ratio and stability of carotid plaques. 2022; 212:107055. doi: 10.1016/j.clineuro.2021.107055
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34844159/

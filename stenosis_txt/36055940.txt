@@ -1,0 +1,11 @@
+PMID: 36055940
+Title: Regional Variation in the Use and Outcomes of Transcatheter Aortic Valve Replacement in California.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) has been widely adopted for management of aortic stenosis. The purpose of this study was to examine regional access to and outcomes following TAVR in California.
+METHODS: Patients undergoing TAVR or isolated surgical aortic valve replacement (SAVR) from 2008 to 2019 in California were identified in the Office of Statewide Health Planning and Development database. California was divided into seven regions: Northern California, San Francisco Bay Area, Central California, Los Angeles, Inland Empire, Orange, and San Diego. Regional TAVR volumes were normalized to Medicare beneficiaries or isolated SAVR volume. Outcomes included risk-adjusted 30-day mortality and major adverse cardiovascular and cerebral events (MACCE). Trends were studied using non-parametric tests, and regional outcomes using logistic regression.
+RESULTS: TAVR volume increased annually since 2011, with 7148 cases performed in California in 2019. After normalization, variation in utilization of TAVR was evident, with the least performed in Central California. TAVR to SAVR ratios in 2019 were greatest in Northern California, Los Angeles, and San Diego, and least in the Inland Empire. After risk adjustment, there were no significant regional differences in 30-day mortality, but lower 30-day MACCE in the San Francisco Bay Area.
+CONCLUSIONS: Regional differences in TAVR utilization exist, with limited access in Central California and the Inland Empire, but risk-adjusted outcomes are similar. Efforts to reach underserved areas through existing program expansion or regional referrals may distribute transcatheter technology more equitably across California.
+
+Citation: Hadaya J, et al. Regional Variation in the Use and Outcomes of Transcatheter Aortic Valve Replacement in California. Regional Variation in the Use and Outcomes of Transcatheter Aortic Valve Replacement in California. 2023; 47:55-61. doi: 10.1016/j.carrev.2022.08.033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36055940/

@@ -1,0 +1,11 @@
+PMID: 36357649
+Title: Effect of Native Aortic Leaflet Geometry Modification on Transcatheter Aortic Valve Neo-sinus and Aortic Sinus Flow: An In-vitro Study.
+
+Abstract: PURPOSE: Leaflet thrombosis is a potentially fatal complication after transcatheter aortic valve replacement (TAVR). Blood flow stagnation in the neo-sinus and aortic sinuses are associated with increased thrombus severity. Native aortic leaflet modification may be a potential strategy to improve the neo-sinus and aortic sinus fluid dynamics. However, limited data exist on the effect of leaflet geometry modification on the flow within the neo-sinus and aortic sinus regions. We evaluate the effect of aortic leaflet modification on the neo-sinus and aortic sinus flow stagnation after simulated TAVR.
+METHODS: Particle image velocimetry measurements were performed under nominal (5 LPM) and low (2.5 LPM) cardiac output conditions for an intact leaflet (control) case, and 3 modified leaflet geometries. Aortic leaflet geometry modification via leaflet splay was simulated with increasing splay geometry (leaflet splay distance: 5 mm-narrow, 10 mm-medium, and 20 mm-wide).
+RESULTS: Leaflet geometry modification influenced flow features throughout the cardiac cycle, at both cardiac outputs, and allowed for flow communication between the neo-sinus and aortic sinus regions compared to the control. In the aortic sinus, flow stagnation reduced by over 64% at 5LPM, and over 36% at 2.5LPM for all simulated modified leaflet geometries compared to the control. However, only the medium and wide splay geometries enabled a reduction in neo-sinus flow stagnation compared to the control case.
+CONCLUSIONS: These findings suggest that aortic leaflet geometry modification (of at least 10 mm leaflet splay distance) may reduce flow stasis and potentially decrease valve thrombosis risk.
+
+Citation: Ncho BE, et al. Effect of Native Aortic Leaflet Geometry Modification on Transcatheter Aortic Valve Neo-sinus and Aortic Sinus Flow: An In-vitro Study. Effect of Native Aortic Leaflet Geometry Modification on Transcatheter Aortic Valve Neo-sinus and Aortic Sinus Flow: An In-vitro Study. 2023; 14:182-193. doi: 10.1007/s13239-022-00647-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36357649/

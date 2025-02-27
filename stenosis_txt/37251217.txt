@@ -1,0 +1,11 @@
+PMID: 37251217
+Title: Morphological features predicting in-stent stenosis after pipeline implantation for unruptured intracranial aneurysm.
+
+Abstract: PURPOSE: Elongation denotes the regularity of an aneurysm and parent artery. This retrospective research study was conducted to identify the morphological factors that could predict postoperative in-stent stenosis (ISS) after Pipeline Embolization Device (PED) implantation for unruptured intracranial aneurysms (UIAs).
+METHODS: Patients with UIA and treated with PED at our institute between 2015 and 2020 were selected. Preoperative morphological features including both manually measured shape features and radiomics shape features were extracted and compared between patients with and without ISS. Logistic regression analysis was performed for factors associated with postoperative ISS.
+RESULTS: A total of 52 patients (18 men and 34 women) were involved in this study. The mean angiographic follow-up time was 11.87 ± 8.26 months. Of the patients, 20 of them (38.46%) were identified with ISS. Multivariate logistic analysis showed that elongation (odds ratio = 0.008; 95% confidence interval, 0.001-0.255; p = 0.006) was an independent risk factor for ISS. The area under the curve (AUC) of the receiver operating characteristic curve(ROC) was 0.734 and the optimal cut-off value of elongation for ISS classification was 0.595. The sensitivity and specificity of prediction were 0.6 and 0.781, respectively. The ISS degree of elongation of less than 0.595 was larger than the ISS degree of elongation of more than 0.595.
+CONCLUSION: Elongation is a potential risk factor associated with ISS after PED implantation for UIAs. The more regular an aneurysm and parent artery, the less likelihood of an ISS occurrence.
+
+Citation: Jin H, et al. Morphological features predicting in-stent stenosis after pipeline implantation for unruptured intracranial aneurysm. Morphological features predicting in-stent stenosis after pipeline implantation for unruptured intracranial aneurysm. 2023; 14:1121134. doi: 10.3389/fneur.2023.1121134
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37251217/

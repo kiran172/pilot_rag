@@ -1,0 +1,15 @@
+PMID: 37531996
+Title: Influence of Carotid Endarterectomy on Choroidal Perfusion: The INFLATE Study.
+
+Abstract: PURPOSE: Patients with clinically significant carotid artery stenosis (CAS) undergoing carotid artery endarterectomy (CEA) were imaged with swept-source OCT angiography (SS-OCTA) imaging protocol to determine if there were changes in choroidal blood flow after surgery.
+DESIGN: Prospective observational study.
+PARTICIPANTS: Patients with clinically significant CAS undergoing unilateral CEA.
+METHODS: All participants underwent SS-OCTA imaging using a 6 × 6-mm scan pattern on both eyes before CEA and within 1 week after CEA. Previously validated automated algorithms were used to measure the mean choroidal thickness (MCT) and choroidal vascular index (CVI) within 2.5-mm and 5-mm circles centered on the fovea. Multivariable regression analysis was conducted to evaluate the impact of various baseline factors including age, mean arterial blood pressure, and degree of stenosis, on both baseline of MCT and CVI, and the changes in MCT and CVI.
+MAIN OUTCOME MEASURES: Changes in MCT and CVI.
+RESULTS: One hundred sixteen eyes from 60 patients with a mean age of 71.57 ± 7.37 years were involved in the study. At baseline, MCT in both the 2.5-mm and 5-mm circles was significantly thinner on the surgical side compared with the nonsurgical side (P = 0.03), while no significant differences were seen in the CVI at baseline between the 2 sides (2.5-mm circle: P = 0.24; 5-mm circle: P = 0.09). Within 1 week after CEA, there were significant increases in the MCT on the surgical side, as compared with the nonsurgical side, in both the 2.5-mm (P < 0.001) and the 5-mm (P < 0.001) circles. No significant change in mean CVI was noted before and after CEA on the surgical side versus the nonsurgical side (2.5-mm circle: P = 0.30; 5-mm circle: P = 0.97). Multivariable regression analysis revealed that baseline MCT before CEA significantly decreased with age on both the surgical (P < 0.001) and nonsurgical sides (P = 0.003) while the changes in MCT and CVI after CEA were not associated with age, mean arterial blood pressure, or degree of stenosis.
+CONCLUSION: A rapid and significant increase in MCT was observed on the ipsilateral side of CEA, suggesting an improvement in choroidal perfusion within 1 week after surgery.
+FINANCIAL DISCLOSURE(S): Proprietary or commercial disclosure may be found in the Footnotes and Disclosures at the end of this article.
+
+Citation: Zhang Y, et al. Influence of Carotid Endarterectomy on Choroidal Perfusion: The INFLATE Study. Influence of Carotid Endarterectomy on Choroidal Perfusion: The INFLATE Study. 2024; 8:62-71. doi: 10.1016/j.oret.2023.07.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37531996/

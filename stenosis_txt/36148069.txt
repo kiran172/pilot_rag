@@ -1,0 +1,16 @@
+PMID: 36148069
+Title: Assessment of three types of surgical procedures for supravalvar aortic stenosis: A systematic review and meta-analysis.
+
+Abstract: IMPORTANCE: The safety and efficacy of different surgical repairs of supravalvar aortic stenosis (SVAS) are inconsistent.
+OBJECTIVE: To compare the prognosis of single-, two- and three-patch repair for patients with SVAS.
+DATA SOURCES: PubMed, EMBASE, Cochrane Library, Web of Science, and clinicaltrials.gov were searched until April 17, 2022.
+STUDY SELECTION: Study reported SVAS patients treated with single-, two- or three-patch repair.
+DATA EXTRACTION AND SYNTHESIS: Two reviewers independently extracted the data of study characteristics and clinical outcomes. Multiple pairwise and frequentist network meta-analyses were conducted. And a fixed-effect model was used when no heterogeneity existed.
+MAIN OUTCOMES AND MEASURES: Outcomes included the rate of reintervention, aortic insufficiency, early mortality and late mortality, cardiopulmonary bypass (CPB) time, cross-clamping (CCP) time, and postoperative/ follow-up pressure gradient. Binary variables were evaluated by odds ratio (OR) and its 95% confidence interval (CI), while continuous variables were assessed by standardized mean difference (SMD) and its 95% CI.
+RESULTS: Twenty-seven retrospective cohort studies were included, comprising 1,162 patients, undergoing single-patch (46.6% of cases), two-patch (33.9%), and three-patch repair (19.4%). Two-patch method had a lower rate of reintervention compared with single-patch (OR = 0.47, 95 % CI 0.28-0.89), and three-patch (OR = 0.31, 95 % CI 0.15-0.64). This finding also applied to juvenile and non-Asian patients. Three-patch method had a lower rate of aortic insufficiency compared with single-patch (OR = 0.11, 95 % CI 0.01-0.63), and two-patch (OR = 0.11, 95 % CI 0.02-0.83). But this repair had the longest CCP time, which was significantly longer than that of single- (SMD = 0.76, 95 % CI 0.36-1.17) or two-patch repair (SMD = 0.61, 95 % CI 0.06-1.16). No significant difference was found in mortality and pressure gradient among three procedures.
+CONCLUSION AND RELEVANCE: Two-patch repair has the lowest reintervention rate and relatively reasonable operation time. Complex and severe SVAS is suggested to be treated with two-patch repair. Further prospective studies of a reasonable sample size will be required with a special focus on the use of different patch materials and surgeons' unique working experience.
+SYSTEMATIC REVIEW REGISTRATION: http://www.crd.york.ac.uk/PROSPERO/, identifier: CRD42022328146.
+
+Citation: Lv L, et al. Assessment of three types of surgical procedures for supravalvar aortic stenosis: A systematic review and meta-analysis. Assessment of three types of surgical procedures for supravalvar aortic stenosis: A systematic review and meta-analysis. 2022; 9:987522. doi: 10.3389/fcvm.2022.987522
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36148069/

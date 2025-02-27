@@ -1,0 +1,11 @@
+PMID: 35732565
+Title: Life expectancy after surgical aortic valve replacement for low-gradient aortic stenosis with preserved ejection fraction.
+
+Abstract: INTRODUCTION AND OBJECTIVES: Surgical aortic valve replacement (SAVR) can modify the natural history of severe aortic stenosis (SAS). However, compared with the general population, these patients have a loss of life expectancy. The life expectancy of patients who undergo SAVR due to low-gradient SAS with preserved left ventricular ejection fraction (LVEF) is unknown.
+METHODS: We included all patients between 50 and 65 years who underwent isolated SAVR in 27 Spanish centers during an 18-year period. We analyzed observed and expected survival at 18 years in patients with low-gradient SAS with preserved LVEF and all other types of SAS. We used propensity score matching to compare the life expectancy of patients with low-gradient SAS with preserved LVEF vs those with high-gradient SAS with preserved LVEF.
+RESULTS: We analyzed 5084 patients, of whom 413 had low-gradient SAS with preserved LVEF. For these patients, observed survival at 10, 15 and 18 years was 86.6% (95%CI, 85.3-87.8), 75% (95%CI, 72.7-77.2), and 63.5% (95%CI, 58.8-67.8). Expected survival at 10, 15 and 18 years was 90.2%, 82.1%, and 75.7%. In the matched sample, survival of patients with low-gradient SAS with preserved LVEF was similar to that of patients with high-gradient with preserved LVEF, log-rank test, P=.95; HR=1 (95%CI, 0.7-1.4; P=.95).
+CONCLUSIONS: There is a loss of life expectancy in patients with all types of SAS undergoing SAVR. This loss is higher in patients with left ventricular dysfunction and lower in patients with low-gradient or high-gradient aortic stenosis with preserved LVEF. The benefit of surgery is similar between these last 2 groups.
+
+Citation: Hernández-Vaquero D, et al. Life expectancy after surgical aortic valve replacement for low-gradient aortic stenosis with preserved ejection fraction. Life expectancy after surgical aortic valve replacement for low-gradient aortic stenosis with preserved ejection fraction. 2023; 76:32-39. doi: 10.1016/j.rec.2022.05.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35732565/

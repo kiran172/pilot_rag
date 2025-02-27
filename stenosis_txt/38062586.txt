@@ -1,0 +1,13 @@
+PMID: 38062586
+Title: The Impact of <em>SARS-CoV-2</em> Infection on Patients with Aortic Stenosis.
+
+Abstract: OBJECTIVE: To investigate the potential treatments for aortic stenosis and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) using bioinformatics and systems biology.
+STUDY DESIGN: Observational study. Place and Duration of the Study: Jiading District Central Hospital affiliated Shanghai University of Medicine & Health Sciences, Shanghai, China, from August to December 2022.
+METHODOLOGY: GSE147507 was chosen as the SARS-CoV-2 infection dataset from the Biotechnology Information (NCBI) GEO database, while GSE153555 was chosen as the dataset of patients with aortic stenosis (AS). This analysis predicted protein-drug interactions (PDIs) and found therapeutic compounds for AS and COVID-19.
+RESULTS: One hundred and four DEGs were shared between the two datasets. Researchers built a PPI network to identify 10 hub genes from the network. Researchers discovered that COVID-19 and AS shared certain pathogenic pathways and found a relationship between hub genes and transcription factors and miRNAs, as well as a connection between hub genes and proposed treatments.
+CONCLUSION: Hub genes were identified as potential pathogenic pathways in SARS-CoV-2 infection and AS. In addition, new prescription medication options for treating both illnesses were provided.
+KEY WORDS: SARS-CoV-2 infection, COVID-19, Aortic stenosis, Differentially expressed genes, Hub genes, Gene-disease, Drug molecule.
+
+Citation: Yao M, et al. The Impact of <em>SARS-CoV-2</em> Infection on Patients with Aortic Stenosis. The Impact of <em>SARS-CoV-2</em> Infection on Patients with Aortic Stenosis. 2023; 33:1344-1348. doi: 10.29271/jcpsp.2023.12.1344
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38062586/

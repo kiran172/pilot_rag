@@ -1,0 +1,11 @@
+PMID: 39002619
+Title: Prognostic relevance of pre-procedural plasma volume status estimation in patients undergoing transcatheter aortic valve implantation: A meta-analysis.
+
+Abstract: BACKGROUND: To systematically evaluate the prognostic utility of estimated plasma volume status (ePVS) on the outcomes of patients undergoing transcatheter aortic valve implantation (TAVI).
+METHODS: The exposure variable of interest was the ePVS, enumerating the percentage change of the actual plasma volume from the ideal plasma volume, and being calculated on the basis of weight and hematocrit using sex-specific constants. A random-effects meta-analysis was performed after a systematic literature search in PubMed, Scopus and Web Of Science.
+RESULTS: The systematic literature search yielded 5 eligible observational cohort studies encompassing a total of 7,121 patients undergoing TAVI. The meta-analysis suggested that "high ePVS" status was independently associated with increased risk for 1-year all-cause mortality (pooled adjusted hazard ratio: 1.63, 95 % confidence intervals: 1.36-1.95) compared to "low ePVS". Also, the pooled unadjusted odds for 1-year mortality, 30-day mortality, peri-procedural stroke, major bleeding, and acute kidney injury were significantly increased in the "high ePVS" group of patients. Conversely, the unadjusted risk of pacemaker implantation and major vascular complications did not differ significantly between the 2 groups.
+CONCLUSIONS: Plasma volume expansion appears to be linked with a worse peri-procedural and long-term prognostic course in TAVI. Its use in clinical practice could refine risk stratification and candidate selection practices.
+
+Citation: Papazoglou AS, et al. Prognostic relevance of pre-procedural plasma volume status estimation in patients undergoing transcatheter aortic valve implantation: A meta-analysis. Prognostic relevance of pre-procedural plasma volume status estimation in patients undergoing transcatheter aortic valve implantation: A meta-analysis. 2024; 49:102749. doi: 10.1016/j.cpcardiol.2024.102749
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39002619/

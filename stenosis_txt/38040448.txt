@@ -1,0 +1,11 @@
+PMID: 38040448
+Title: Coronary microvascular dysfunction in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: OBJECTIVES: This study aimed to evaluate the prognostic value of coronary microvascular dysfunction (CMD) at long term after transcatheter aortic valve implantation (TAVI) and to explore its relationship with extravalvular cardiac damage (EVCD). Moreover, we sought to test the correlation between angiography-derived index of microcirculatory resistance (IMR<sub>angio</sub>) and invasive IMR in patients with aortic stenosis (AS).
+METHODS: This was a retrospective analysis of the Verona Valvular Heart Disease Registry (Italy) including 250 patients (83 (80-86) years, 53% female) with severe AS who underwent TAVI between 2019 and 2021. IMR<sub>angio</sub> was calculated offline using a computational flow model applied to coronary angiography obtained during the TAVI workup. CMD was defined as IMR<sub>angio</sub> ≥30 units.The primary endpoint was the composite of cardiovascular death and rehospitalisation for heart failure (HF). Advanced EVCD was defined as pulmonary circulation impairment, severe tricuspid regurgitation or right ventricular dysfunction.The correlation between IMR and IMR<sub>angio</sub> was prospectively assessed in 31 patients undergoing TAVI.
+RESULTS: The primary endpoint occurred in 28 (11.2%) patients at a median follow-up of 22 (IQR 12-30) months. Patients with CMD met the primary endpoint more frequently than those without CMD (22.9% vs 2.8%, p&lt;0.0001). Patients with CMD were more frequently characterised by advanced EVCD (33 (31.4%) vs 27 (18.6%), p=0.024). CMD was an independent predictor of adverse outcomes (adjusted HR 6.672 (2.251 to 19.778), p=0.001) and provided incremental prognostic value compared with conventional clinical and imaging variables. IMR<sub>angio</sub> demonstrated fair correlation with IMR.
+CONCLUSIONS: CMD is an independent predictor of cardiovascular mortality and HF after TAVI.
+
+Citation: Scarsini R, et al. Coronary microvascular dysfunction in patients undergoing transcatheter aortic valve implantation. Coronary microvascular dysfunction in patients undergoing transcatheter aortic valve implantation. 2024; 110:603-612. doi: 10.1136/heartjnl-2023-323461
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38040448/

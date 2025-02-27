@@ -1,0 +1,8 @@
+PMID: 33018589
+Title: The effect of the stenosis location at a coronary arterial bifurcation: a parametric study.
+
+Abstract: The advances in cardiovascular modelling over the past two decades have given the opportunity to create accurate three dimensional models of the coronary vasculature which, combined with advanced computational fluid dynamics algorithms can shed light to intriguing matters that concern clinicians. One of these issues is the presence of a stenosis near bifurcations in one of the major coronary vessels. In this work, we try to shed light on the aforementioned matter by creating a healthy arterial bifurcation reconstructed using the fusion of Optical Coherence Tomography and X-Ray angiography images. The healthy model was edited by adding an artificial stenosis of 50% diameter reduction into three different locations after the bifurcation, thus creating three diseased models. After performing the appropriate blood flow simulations, we observed that the location of the stenosis affects the Wall Shear Stress (WSS) distribution but it does not affect the functional significance of the stenosis itself.
+
+Citation: Siogkas PK, et al. The effect of the stenosis location at a coronary arterial bifurcation: a parametric study. The effect of the stenosis location at a coronary arterial bifurcation: a parametric study. 2020; 2020:2804-2807. doi: 10.1109/EMBC44109.2020.9175971
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33018589/

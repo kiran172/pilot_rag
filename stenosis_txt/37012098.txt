@@ -1,0 +1,8 @@
+PMID: 37012098
+Title: Ultrasound Speckle Decorrelation-Based Blood Flow Measurements.
+
+Abstract: Ultrasound imaging is the preferred noninvasive technique to measure blood flow to diagnose cardiovascular disease such as heart failure, carotid stenosis, and renal failure. Conventional ultrasound techniques such as Doppler ultrasound, ultrasound imaging velocimetry, vector Doppler and transverse oscillation beamforming have been used for blood flow velocity profile measurement. However, these techniques were limited to measuring blood flow velocities within the 2-D lateral (across the ultrasound beam) plane of a vessel, and the blood flow velocity profile was derived by assuming that blood vessels have a circular cross-section with axis symmetry. This assumption is incorrect because most vessels have complex geometries, such as tortuosity and branches, and an asymmetric flow profile in the presence of vascular plaque. Consequently, ultrasound speckle decorrelation has been proposed to measure blood flow from transverse views of blood vessels wherein the ultrasound beam is perpendicular to the vessel axis. In this review, we present a summary of recent progress in ultrasound speckle decorrelation-based blood flow measurement techniques.
+
+Citation: Park DC and Park DW. Ultrasound Speckle Decorrelation-Based Blood Flow Measurements. Ultrasound Speckle Decorrelation-Based Blood Flow Measurements. 2023; 49:1491-1498. doi: 10.1016/j.ultrasmedbio.2023.03.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37012098/

@@ -1,0 +1,11 @@
+PMID: 38739467
+Title: Impact of prior coronary artery bypass grafting and coronary lesion complexity on outcomes of transcatheter aortic valve replacement for severe aortic stenosis.
+
+Abstract: OBJECTIVE: To investigate the impact of prior coronary artery bypass grafting (CABG) and coronary lesion complexity on transcatheter aortic valve replacement (TAVR) outcomes for aortic stenosis.
+METHODS: Clinical outcomes of TAVR were retrospectively compared between patients with and without prior CABG, and between patients with prior CABG and without coronary artery disease (CAD). The impact of the CABG SYNTAX score was also evaluated in patients with prior CABG.
+RESULTS: The study included 1042 patients with a median age and follow-up of 82 years and 25 (range: 0-72) months, respectively. Of these, 175 patients had a history of CABG, while 401 were free of CAD. Patients with prior CABG were more likely to be male and had higher rates of diabetes, peripheral artery disease and atrial fibrillation compared with patients without prior CABG. After 2 : 1 propensity score matching, all-cause mortality ( P  = 0.17) and the composite of all-cause mortality, stroke and coronary intervention ( P  = 0.16) were similar between patients with (n = 166) and without (n = 304) prior CABG. A 1 : 1 propensity score-matched analysis, however, showed lower rates of all-cause mortality ( P  = 0.04) and the composite outcome ( P  = 0.04) in patients with prior CABG (n = 134) compared with patients without CAD (n = 134). The median CABG SYNTAX score was 16 (interquartile range: 9.0-23), which was not associated with better/worse clinical outcomes in patients with prior CABG.
+CONCLUSION: Prior CABG may positively affect mid-term TAVR outcomes for aortic stenosis compared with no CAD when adjusted for other comorbidities. The CABG SYNTAX score did not influence the prognosis after TAVR.
+
+Citation: Yamashita Y, et al. Impact of prior coronary artery bypass grafting and coronary lesion complexity on outcomes of transcatheter aortic valve replacement for severe aortic stenosis. Impact of prior coronary artery bypass grafting and coronary lesion complexity on outcomes of transcatheter aortic valve replacement for severe aortic stenosis. 2024; 35:547-555. doi: 10.1097/MCA.0000000000001386
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38739467/

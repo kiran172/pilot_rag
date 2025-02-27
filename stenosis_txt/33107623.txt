@@ -1,0 +1,12 @@
+PMID: 33107623
+Title: Prevalence of atrial fibrillation dependent on coronary artery status: Insights from the LIFE-Heart Study.
+
+Abstract: BACKGROUND: Coronary artery disease (CAD) is a significant risk factor for atrial fibrillation (AF). Experimental studies demonstrated that atrial ischemia induced by right coronary artery (RCA) stenosis promote AF triggers and development of electro-anatomical substrate for AF.
+AIM: To analyze the association between AF prevalence and coronary arteries status in the LIFE-Heart Study.
+METHODS: This analysis included patients with available coronary catheterization data recruited between 2006 and 2014. Patients with acute myocardial infarction were excluded. CAD was defined as stenosis ≥75%, while coronary artery sclerosis (CAS) was defined as non-critical plaque(s) <75%.
+RESULTS: In total, 3.458 patients (median age 63 years, 34% women) were included into analysis. AF was diagnosed in 238 (6.7%) patients. There were 681 (19.7%) patients with CAS and 1.411 (40.8%) with CAD (27.5% with single, 32.4% with double, and 40.1% with triple vessel CAD). In multivariable analysis, there was a significant association between prevalent AF and coronary artery status (OR 0.64, 95% CI 0.53-0.78, P<sub>trend</sub>  &lt; .001). Similarly, AF risk was lower in patients with higher CAD extent (OR 0.54, 95%CI 0.35-0.83, P<sub>trend</sub> = .005). Compared to single vessel CAD, the risk of AF was lower in double (OR 0.42, 95%CI 0.19-0.95, P = .037) and triple CAD (OR 0.31, 95%CI 0.13-0.71, P = .006). Finally, no association was found between AF prevalence and CAD origin among patients with single vessel CAD.
+CONCLUSION: In the LIFE-Heart Study, CAS but not CAD was associated with increased risk of AF.
+
+Citation: Kornej J, et al. Prevalence of atrial fibrillation dependent on coronary artery status: Insights from the LIFE-Heart Study. Prevalence of atrial fibrillation dependent on coronary artery status: Insights from the LIFE-Heart Study. 2020; 43:1616-1623. doi: 10.1002/clc.23490
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33107623/

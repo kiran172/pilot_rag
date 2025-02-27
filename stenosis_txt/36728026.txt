@@ -1,0 +1,11 @@
+PMID: 36728026
+Title: Role of Quantitative Plaque Analysis and Fractional Flow Reserve Derived From Coronary Computed Tomography Angiography to Assess Plaque Progression.
+
+Abstract: PURPOSE: To explore the role of quantitative plaque analysis and fractional flow reserve (CT-FFR) derived from coronary computed angiography (CCTA) in evaluating plaque progression (PP).
+METHODS: A total of 248 consecutive patients who underwent serial CCTA examinations were enrolled. All patients' images were analyzed quantitatively by plaque analysis software. The quantitative analysis indexes included diameter stenosis (%DS), plaque length, plaque volume (PV), calcified PV, noncalcified PV, minimum lumen area (MLA), and remodeling index (RI). PP is defined as PAV (percentage atheroma volume) change rate >1%. CT-FFR analysis was performed using the cFFR software.
+RESULTS: A total of 76 patients (30.6%) and 172 patients (69.4%) were included in the PP group and non-PP group, respectively. Compared with the non-PP group, the PP group showed greater %DS, smaller MLA, larger PV and non-calcified PV, larger RI, and lower CT-FFR on baseline CCTA (all P <0.05). Logistic regression analysis showed that RI≥1.10 (odds ratio [OR]: 2.709, 95% CI: 1.447-5.072), and CT-FFR≤0.85 (OR: 5.079, 95% CI: 2.626-9.283) were independent predictors of PP. The model based on %DS, quantitative plaque features, and CT-FFR (area under the receiver-operating characteristics curve [AUC]=0.80, P <0.001) was significantly better than that based rarely on %DS (AUC=0.61, P =0.007) and that based on %DS and quantitative plaque characteristics (AUC=0.72, P <0.001).
+CONCLUSIONS: Quantitative plaque analysis and CT-FFR are helpful to identify PP. RI and CT-FFR are important predictors of PP. Compared with the prediction model only depending on %DS, plaque quantitative markers and CT-FFR can further improve the predictive performance of PP.
+
+Citation: Qiao HY, et al. Role of Quantitative Plaque Analysis and Fractional Flow Reserve Derived From Coronary Computed Tomography Angiography to Assess Plaque Progression. Role of Quantitative Plaque Analysis and Fractional Flow Reserve Derived From Coronary Computed Tomography Angiography to Assess Plaque Progression. 2023; 38:186-193. doi: 10.1097/RTI.0000000000000697
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36728026/

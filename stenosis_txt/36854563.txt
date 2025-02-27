@@ -1,0 +1,8 @@
+PMID: 36854563
+Title: [Research progress on image-based calculation of coronary artery fractional flow reserve].
+
+Abstract: Coronary artery fractional flow reserve (FFR) is a critical physiological indicator for assessment of impaired blood flow caused by coronary artery stenosis. The wire-based invasive measurement of blood flow pressure gradient across stenosis is the gold standard for clinical measurement of FFR. However, it has the risk of vascular injury and requires the use of vasodilators, increasing the time and overall cost of interventional examination. Coronary imaging is playing an important role in clinical diagnosis of stenotic lesions, evaluation of severity of lesions, and planning of therapies. In recent years, the computation of FFR based on the physiological information of blood flow obtained from routinely collected coronary image data has become a research focus in this field. This technique reduces the cost of physiological assessment of coronary lesions and the use of pressure wires. It is beneficial to strengthen the physiological guidance in interventional therapy. In order to better understand this emerging technique, this paper highlights its implementation principle and diagnostic performance, analyzes practical problems and current challenges in clinical applications, and discusses possible future development.
+
+Citation: Sun Z and Jiao W. [Research progress on image-based calculation of coronary artery fractional flow reserve]. [Research progress on image-based calculation of coronary artery fractional flow reserve]. 2023; 40:171-179. doi: 10.7507/1001-5515.202206044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36854563/

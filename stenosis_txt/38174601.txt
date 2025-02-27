@@ -1,0 +1,11 @@
+PMID: 38174601
+Title: Toward accurate and fast velocity quantification with 3D ultrashort TE phase-contrast imaging.
+
+Abstract: PURPOSE: Traditional phase-contrast MRI is affected by displacement artifacts caused by non-synchronized spatial- and velocity-encoding time points. The resulting inaccurate velocity maps can affect the accuracy of derived hemodynamic parameters. This study proposes and characterizes a 3D radial phase-contrast UTE (PC-UTE) sequence to reduce displacement artifacts. Furthermore, it investigates the displacement of a standard Cartesian flow sequence by utilizing a displacement-free synchronized-single-point-imaging MR sequence (SYNC-SPI) that requires clinically prohibitively long acquisition times.
+METHODS: 3D flow data was acquired at 3T at three different constant flow rates and varying spatial resolutions in a stenotic aorta phantom using the proposed PC-UTE, a Cartesian flow sequence, and a SYNC-SPI sequence as reference. Expected displacement artifacts were calculated from gradient timing waveforms and compared to displacement values measured in the in vitro flow experiments.
+RESULTS: The PC-UTE sequence reduces displacement and intravoxel dephasing, leading to decreased geometric distortions and signal cancellations in magnitude images, and more spatially accurate velocity quantification compared to the Cartesian flow acquisitions; errors increase with velocity and higher spatial resolution.
+CONCLUSION: PC-UTE MRI can measure velocity vector fields with greater accuracy than Cartesian acquisitions (although pulsatile fields were not studied) and shorter scan times than SYNC-SPI. As such, this approach is superior to traditional Cartesian 3D and 4D flow MRI when spatial misrepresentations cannot be tolerated, for example, when computational fluid dynamics simulations are compared to or combined with in vitro or in vivo measurements, or regional parameters such as wall shear stress are of interest.
+
+Citation: Degenhardt K, et al. Toward accurate and fast velocity quantification with 3D ultrashort TE phase-contrast imaging. Toward accurate and fast velocity quantification with 3D ultrashort TE phase-contrast imaging. 2024; 91:1994-2009. doi: 10.1002/mrm.29978
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38174601/

@@ -1,0 +1,12 @@
+PMID: 39461583
+Title: Detection of carotid plaques on panoramic radiographs using deep learning.
+
+Abstract: OBJECTIVES: Panoramic radiographs (PRs) can reveal an incidental finding of atherosclerosis, or carotid artery calcification (CAC), in 3-15% of examined patients. However, limited training in identification of such calcifications among dental professionals results in missed diagnoses. This study aimed to detect CAC on PRs using an artificial intelligence (AI) model based on a vision transformer.
+METHODS: 6,404 PRs were obtained from one hospital and screened for the presence of CAC based on electronic medical records. CAC was manually annotated with bounding boxes by an oral radiologist and reviewed and revised by three experienced clinicians to achieve consensus. An AI approach based on Faster R-CNN and Swin Transformer was trained and evaluated based on 185 PRs with CAC and 185 PRs without CAC. Reported and replicated diagnostic performances of published AI approaches based on convolutional neural networks (CNNs) were used for comparison. Quantitative evaluation of the performance of the models included precision, F1-score, recall, area-under-the-curve (AUC), and average precision (AP).
+RESULTS: The proposed method based on Faster R-CNN and Swin Transformer achieved a precision of 0.895, recall of 0.881, F1-score of 0.888, AUC of 0.950, and AP of 0.942, surpassing models based on a CNN.
+CONCLUSIONS: The detection performance of this newly developed and validated model was improved compared to previously reported models.
+CLINICAL SIGNIFICANCE: Integrating AI models into dental imaging to assist dental professionals in the detection of CAC on PRs has the potential to significantly enhance the early detection of carotid artery atherosclerosis and its clinical management.
+
+Citation: Vinayahalingam S, et al. Detection of carotid plaques on panoramic radiographs using deep learning. Detection of carotid plaques on panoramic radiographs using deep learning. 2024; 151:105432. doi: 10.1016/j.jdent.2024.105432
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39461583/

@@ -1,0 +1,11 @@
+PMID: 35686813
+Title: Artificial intelligence and duplex ultrasound for detection of carotid artery disease.
+
+Abstract: OBJECTIVE: The aim of this study is to evaluate the feasibility, applicability and accuracy of artificial intelligence (AI) in the detection of normal versus carotid artery disease through greyscale static duplex ultrasound (DUS) images.
+METHODS: A prospective image acquisition of individuals undergoing duplex sonography for the suspicion of carotid artery disease at a single hospital was conducted. A total of n = 156 images of normal and stenotic carotid arteries (based on NASCET criteria) were evaluated by using geometry group network based on convolutional neural network (CNN) architecture. Outcome was reported based on sensitivity, specificity and accuracy of the network (artificial intelligence) for detecting normal versus stenotic carotid arteries as well as various categories of carotid artery stenosis.
+RESULTS: The overall sensitivity, specificity and accuracy of AI in the detection of normal carotid artery was 91%, 86% and 92%, respectively, and for any carotid artery stenosis was 87%, 82% and 90%, respectively. Subgroup analyses demonstrated that the network has the ability to detect stenotic carotid artery images (<50%) versus normal with a sensitivity of 92%, specificity of 87% and an accuracy of 94%. This value (sensitivity, specificity and accuracy) for group of 50-75% stenosis versus normal was 84%, 80% and 88% and for carotid artery disease of more than 75% was 90%, 83% and 92%, respectively.
+CONCLUSION: This study demonstrates the feasibility, applicability and accuracy of artificial intelligence in the detection of carotid artery disease in greyscale static DUS images. This network has the potential to be used as a stand-alone software or to be embedded in any DUS machine. This can enhance carotid artery disease recognition with limited or no vascular experience or serve as a stratification tool for tertiary referral, further imaging and overall management.
+
+Citation: Kordzadeh A, et al. Artificial intelligence and duplex ultrasound for detection of carotid artery disease. Artificial intelligence and duplex ultrasound for detection of carotid artery disease. 2023; 31:1187-1193. doi: 10.1177/17085381221107465
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35686813/

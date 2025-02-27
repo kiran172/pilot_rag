@@ -1,0 +1,11 @@
+PMID: 30234896
+Title: Reproducibility of quantitative flow ratio: An inter-core laboratory variability study.
+
+Abstract: BACKGROUND: Quantitative flow ratio (QFR) is a novel approach to derive fractional flow reserve (FFR) from coronary angiography. This study sought to evaluate the reproducibility of QFR when analyzed in independent core laboratories.
+METHODS: All interrogated vessels in the FAVOR II China Study were separately analyzed using the AngioPlus system (Pulse medical imaging technology, Shanghai) by two independent core laboratories, following the same standard operation procedures. The analysts were blinded to the FFR values and online QFR values. For each interrogated vessel, two identical angiographic image runs were used by two core laboratories for QFR computation. In both core laboratories QFR was successfully obtained in 330 of 332 vessels, in which FFR was available in 328 vessels. Thus, 328 vessels ended in the present statistical analysis.
+RESULTS: The mean difference in contrast-flow QFR between the two core laboratories was 0.004 ± 0.03 (p = 0.040), which was slightly smaller than that between the online analysis and the two core laboratories (0.01 ± 0.05, p < 0.001 and 0.01 ± 0.05, p = 0.038). The mean difference of QFR with re-spect to FFR were comparable between the two core laboratories (0.002 ± 0.06, p = 0.609, and 0.002 ± 0.06, p = 0.531). Receiver operating characteristic curve analysis showed that diagnostic accuracies of QFR analyzed by the two core laboratories were both excellent (area under the curve: 0.970 vs. 0.963, p = 0.142), when using FFR as the reference standard.
+CONCLUSIONS: The present study showed good inter-core laboratory reproducibility of QFR in assessing functionally-significant stenosis. It suggests that QFR analyses can be carried out in different core labo-ratories if, and only if, highly standardized conditions are maintained.
+
+Citation: Chang Y, et al. Reproducibility of quantitative flow ratio: An inter-core laboratory variability study. Reproducibility of quantitative flow ratio: An inter-core laboratory variability study. 2020; 27:230-237. doi: 10.5603/CJ.a2018.0105
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30234896/

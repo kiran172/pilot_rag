@@ -1,0 +1,12 @@
+PMID: 35038304
+Title: Right axis deviation in the canine electrocardiogram for predicting severity of pulmonic stenosis: a retrospective cohort analysis.
+
+Abstract: OBJECTIVE: To investigate the predictive value of right axis deviation of the mean electrical axis (MEA) in assessing the severity of pulmonic stenosis (PS) in dogs.
+ANIMALS: Records for 218 client-owned dogs diagnosed between 2014 and 2020 with PS as determined by Doppler echocardiography.
+PROCEDURES: University of Florida Small Animal Clinic medical records were reviewed, and signalment and clinical risk variables (murmur grade and clinical signs) were extracted. MEA was determined from ECG records by use of leads I and III. Predictive potential of MEA and associated risk factors to diagnose PS severity (mild [< 50 mm Hg], moderate, or severe [> 75 mm Hg]) were assessed by receiver-operating characteristic curve analysis and quantile regression.
+RESULTS: Records for 88 dogs were eligible for analysis. Greater PS severity was associated with smaller breeds presenting with ECG abnormalities, overt clinical signs, and high-category murmur grades (IV and V). Mean MEA increased with stenosis severity category, with an average of 62° for mild, 113° for moderate, and 157° for severe. Each 10° increase in MEA corresponded to an approximately 5-mm Hg increase in PG. Increasing PS severity was associated with MEA right axis deviation > 100° and the more severe cases (PG > 75 mm Hg) with MEA right axis deviation > -180°.
+CLINICAL RELEVANCE: Mean electrical axis right axis deviation may be a useful screening metric for dogs with suspected moderate to severe PS.
+
+Citation: Ackerman LH, et al. Right axis deviation in the canine electrocardiogram for predicting severity of pulmonic stenosis: a retrospective cohort analysis. Right axis deviation in the canine electrocardiogram for predicting severity of pulmonic stenosis: a retrospective cohort analysis. 2022; 83:312-316. doi: 10.2460/ajvr.21.09.0138
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35038304/

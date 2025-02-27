@@ -1,0 +1,11 @@
+PMID: 32522208
+Title: Diagnostic value of miR-92a in asymptomatic carotid artery stenosis patients and its ability to predict cerebrovascular events.
+
+Abstract: BACKGROUND: Early diagnosis of asymptomatic carotid artery stenosis (ACAS) is important to prevent the incidence of cerebrovascular events. This study aimed to investigate the circulating expression of microRNA-92a (miR-92a) in ACAS patients and evaluate its diagnostic value for ACAS and predictive value for cerebrovascular events.
+METHODS: Circulating expression of miR-92a was measured using quantitative real-time PCR. Chi-square test was used to analyze the association of miR-92a with ACAS patients' clinical characteristics. A receiver operating characteristic (ROC) was used to evaluate the diagnostic value of miR-92a, and the Kaplan-Meier method and Cox regression analysis were used to assess the predictive value of miR-92a for cerebrovascular events.
+RESULTS: Serum expression of miR-92a was higher in ACAS patients than that in the healthy controls (P <  0.001), and associated with patients' degree of carotid stenosis (P = 0.013). The elevated miR-92a expression could distinguish ACAS patients from healthy individual, and was an independent predictive factor for the occurrence of cerebrovascular events (P = 0.015).
+CONCLUSION: The data from this study indicated that circulating increased miR-92a may serve as a noninvasive diagnostic biomarker for ACAS and a potential risk factor for the future onset of cerebrovascular events.
+
+Citation: Chen G, et al. Diagnostic value of miR-92a in asymptomatic carotid artery stenosis patients and its ability to predict cerebrovascular events. Diagnostic value of miR-92a in asymptomatic carotid artery stenosis patients and its ability to predict cerebrovascular events. 2020; 15:74. doi: 10.1186/s13000-020-00987-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32522208/

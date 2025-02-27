@@ -1,0 +1,12 @@
+PMID: 35762545
+Title: Literature Review of Automated Grading Systems Utilizing MRI for Neuroforaminal Stenosis.
+
+Abstract: BACKGROUND: Cervical neural foraminal stenosis is a common and debilitating condition affecting people between the ages 40-60. Although it is established that MRI is the best method of scanning the neural foramen, the question remains whether there is a role for three-dimensional MRIs and whether it is possible to develop a computer-aided automated grading system to establish the degree of clinically relevant cervical foraminal stenosis.
+OBJECTIVE: The study's objective is to conduct a literature review of existing or recently developed automated grading systems for the cervical neural foramen, including volumetric MRI evaluations of the foramen.
+METHODS: A systematic search of Cochrane Library, Cochrane Clinical Trials, Ovid MEDLINE, EMBASE, CINAHL, ACM Digital Library and Institute of Electrical and Electronics Engineers (IEEE), and Web of Science was performed for reports examining automated systems and volumetric scanning foraminal stenosis published before 31.07.2021.
+RESULTS: 3971 articles were identified of which 8 were included in the study. The automated grading systems of the neural foramen focus largely on the lumbar spine with elements that may be applicable to the cervical spine. Although there are established studies on the automated grading of the lumbar spine, it is uncertain whether any of these are reproducible in the cervical spine. Visual grading systems for the cervical spine demonstrate good inter-reader reliability between radiologists and clinicians.
+CONCLUSION: The Park visual grading method shows strong inter-reader reliability across radiologists and clinicians despite the limited data on the correlation with neurological symptoms or surgical outcome. There is scope for further development of an automated grading system for cervical foraminal stenosis to improve the speed and consistency of image interpretation.
+
+Citation: Laulloo A, et al. Literature Review of Automated Grading Systems Utilizing MRI for Neuroforaminal Stenosis. Literature Review of Automated Grading Systems Utilizing MRI for Neuroforaminal Stenosis. 2023; 19:874-884. doi: 10.2174/1573405618666220628100928
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35762545/

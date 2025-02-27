@@ -1,0 +1,12 @@
+PMID: 36596027
+Title: Comparative study of fractional flow reserve and diastolic pressure ratio using a guidewire with a sensor for measuring intravascular pressure.
+
+Abstract: PURPOSE: This study aimed to evaluate the correlation and diagnostic agreement between diastolic pressure ratio (dPR) and fractional flow reserve (FFR) in a Japanese real-world setting.
+DESIGN: Prospective multicenter observational study.
+METHODS: This study included 100 patients with intermediate coronary artery stenosis at 4 Japanese hospitals. For these lesions, FFR and dPR were measured using a guidewire with a sensor and a monitor to measure intravascular pressure. The correlation and diagnostic agreement between FFR and dPR were assessed. When both FFR and dPR were negative or positive, the results were considered to be concordant. When one was positive and the other was negative, the result was regarded as discordant (positive discordance, FFR > 0.80 and dPR ≤ 0.89; negative discordance, FFR ≤ 0.80 and dPR > 0.89).
+RESULTS: Overall, the FFR and dPR were well-correlated (R = 0.841). FFR and dPR were concordant in 89% of cases (concordant normal, 43%; concordant abnormal, 46%) and discordant in 11% (positive discordance, 7%; negative discordance, 4%). No significant difference was observed in the rate of concordant results between patients with and without diabetes mellitus. The diagnostic concordance rate was significantly different among the 3 coronary arteries (right coronary artery, 93.3%; left anterior descending artery, 93.2%; and left circumflex artery, 58.3%; P = .001). Additionally, the rate of concordant results tended to be higher when using intravenous administration of adenosine than when using intracoronary bolus injection of nicorandil (adenosine, 95.1%; nicorandil, 84.7%; P = .103).
+CONCLUSION: We found that dPR was highly correlated with FFR, and diagnostic discordance was observed in 11% of the lesions. Several factors, including lesion location and medication for hyperemia, may cause the diagnostic discordance between dPR and FFR.
+
+Citation: Kojima H, et al. Comparative study of fractional flow reserve and diastolic pressure ratio using a guidewire with a sensor for measuring intravascular pressure. Comparative study of fractional flow reserve and diastolic pressure ratio using a guidewire with a sensor for measuring intravascular pressure. 2022; 101:e32578. doi: 10.1097/MD.0000000000032578
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36596027/

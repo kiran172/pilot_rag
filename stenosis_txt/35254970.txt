@@ -1,0 +1,12 @@
+PMID: 35254970
+Title: Hybrid Mock Circulatory Loop Simulation of Extreme Cardiac Events.
+
+Abstract: OBJECTIVE: This paper presents preliminary methods of incorporating the pathological conditions of cardiac arrhythmias and valvular stenosis in hybrid mock circulation loop (hMCL) operation for the enhanced verification and validation of mechanical circulatory support devices such as VADs.
+METHODS: The MGH/MF Waveform datasets from PhysioNet database (including both nominal and clinically diagnosed arrhythmic ECG measurements) as well as cardiovascular system model updates are used to recreate arrhythmic events and valvular stenosis in vitro.
+RESULTS: Preliminary results show the hMCL can recreate each tested cardiac event within 2% and 4% mean error for reference pressure tracking in the aortic and left ventricular pressure chambers, respectively. Further, frequency spectrum analysis comparisons using the magnitude-squared coherence analysis shows close alignment between measured arrhythmic and hMCL realized pressure frequency content.
+CONCLUSION: The generation of cardiac arrhythmias and valvular stenosis around a VAD via both model and acute measurement based methods was achieved.
+SIGNIFICANCE: Pathological conditions such as cardiac arrhythmias and valvular stenosis are limited in documentation despite the large percentage of patients who experience these events. This paper provides a means to begin incorporating these events into hardware-in-the-loop mock circulatory systems for next generation VAD validation and verification.
+
+Citation: Rapp ES, et al. Hybrid Mock Circulatory Loop Simulation of Extreme Cardiac Events. Hybrid Mock Circulatory Loop Simulation of Extreme Cardiac Events. 2022; 69:2883-2892. doi: 10.1109/TBME.2022.3156963
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35254970/

@@ -1,0 +1,11 @@
+PMID: 35751904
+Title: The tyrosine kinase inhibitor nilotinib targets the discoidin domain receptor DDR2 in calcific aortic valve stenosis.
+
+Abstract: BACKGROUND AND PURPOSE: Tyrosine kinase inhibitors (TKI) used to treat chronic myeloid leukaemia (CML) have been associated with cardiovascular side effects, including reports of calcific aortic valve stenosis. The aim of this study was to establish the effects of first and second generation TKIs in aortic valve stenosis and to determine the associated molecular mechanisms.
+EXPERIMENTAL APPROACH: Hyperlipidemic APOE*3Leiden.CETP transgenic mice were treated with nilotinib, imatinib or vehicle. Human valvular interstitial cells (VICs) were isolated and studied in vitro. Gene expression analysis was perfromed in aortic valves from 64 patients undergoing aortic valve replacement surgery.
+KEY RESULTS: Nilotinib increased murine aortic valve thickness. Nilotinib, but not imatinib, promoted calcification and osteogenic activation and decreased autophagy in human VICs. Differential tyrosine kinase expression was detected between healthy and calcified valve tissue. Transcriptomic target identification revealed that the discoidin domain receptor DDR2, which is preferentially inhibited by nilotinib, was predominantly expressed in human aortic valves but markedly downregulated in calcified valve tissue. Nilotinib and selective DDR2 targeting in VICs induced a similar osteogenic activation, which was blunted by increasing the DDR2 ligand, collagen.
+CONCLUSIONS AND IMPLICATIONS: These findings suggest that inhibition of DDR2 by nilotinib promoted aortic valve thickening and VIC calcification, with possible translational implications for cardiovascular surveillance and possible personalized medicine in CML patients.
+
+Citation: Carracedo M, et al. The tyrosine kinase inhibitor nilotinib targets the discoidin domain receptor DDR2 in calcific aortic valve stenosis. The tyrosine kinase inhibitor nilotinib targets the discoidin domain receptor DDR2 in calcific aortic valve stenosis. 2022; 179:4709-4721. doi: 10.1111/bph.15911
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35751904/

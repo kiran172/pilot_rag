@@ -1,0 +1,11 @@
+PMID: 39100455
+Title: Coordinate-aware three-dimensional neural network for lower extremity arterial stenosis classification in CT angiography.
+
+Abstract: BACKGROUND: Lower Extremity Computed Tomography Angiography (CTA) is an effective non-invasive diagnostic tool for lower extremity artery disease (LEAD). This study aimed to develop an automatic classification model based on a coordinate-aware 3D deep neural network to evaluate the degree of arterial stenosis in lower extremity CTA.
+METHODS: This retrospective study included 277 patients who underwent lower extremity CTA between May 1, 2017, and August 31, 2023. Radiologists annotated the lower extremity artery segments according to the degree of stenosis, and 12,450 3D patches containing the regions of interest were segmented to construct the dataset. A Coordinate-Aware Three-Dimensional Neural Network was implemented to classify the degree of stenosis of the lower extremity arteries with these patches. Metrics including accuracy, sensitivity, specificity, F1 score, and receiver operating characteristic (ROC) curves were used to evaluate the performance of the proposed model.
+RESULTS: The accuracy, F1 score, and area under the ROC curve (AUC) of our proposed model were 93.08 %, 91.96 %, and 99.15 % for the above-knee arteries, and 91.70 %, 89.67 %, and 98.2 % respectively for below-knee arteries. The results of our proposed model exhibited a lead of 4-5% in accuracy score over the 3D baseline model and a lead of more than 10 % over the 2D baseline model.
+CONCLUSION: We successfully implemented a deep learning model, a promising tool for assisting radiologists in evaluating lower extremity arterial stenosis on CT angiography.
+
+Citation: Zhou C, et al. Coordinate-aware three-dimensional neural network for lower extremity arterial stenosis classification in CT angiography. Coordinate-aware three-dimensional neural network for lower extremity arterial stenosis classification in CT angiography. 2024; 10:e34309. doi: 10.1016/j.heliyon.2024.e34309
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39100455/

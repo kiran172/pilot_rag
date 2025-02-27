@@ -1,0 +1,11 @@
+PMID: 35248835
+Title: Association Between Intracranial Pulsatility and White Matter Hyperintensities in Asymptomatic Intracranial Arterial Stenosis: A Population-Based Study in Shandong, China.
+
+Abstract: OBJECTIVES: The effects of increased intracranial pulsatility on the severity of white matter hyperintensities (WMH) in participants with asymptomatic intracranial arterial stenosis (aICAS) remain uncertain. We aimed to investigate whether an increased pulsatility index (PI) is associated with WMH volume (WMHV) in individuals with aICAS.
+MATERIALS AND METHODS: All participants were recruited from the Kongcun Town aICAS Study, including a total of 103 participants with aICAS and 98 healthy controls (age- and sex-matched). PI was assessed using transcranial Doppler ultrasound. The WMHV was calculated through the lesion segmentation tool system for the Statistical Parametric Mapping package based on magnetic resonance imaging. The association between PI and lnWMHV was analyzed by linear regression models adjusting for demographics, lifestyle, and vascular risk factors.
+RESULTS: The lnWMHV and PI between the aICAS and control groups showed no significant differences (P = 0.171 and 0.287, respectively). In a multivariable model, age ≥ 60 years and male sex (P = 0.000 and 0.006, respectively) were significant predictors of lnWMHV in the aICAS group. In sex-stratified analyses, there was a significant association between PI and lnWMHV in males with aICAS (P = 0.038).
+CONCLUSIONS: This study suggest there might be a likely association between increased intracranial pulsatility and WMH burden in males with aICAS.
+
+Citation: Zhao Y, et al. Association Between Intracranial Pulsatility and White Matter Hyperintensities in Asymptomatic Intracranial Arterial Stenosis: A Population-Based Study in Shandong, China. Association Between Intracranial Pulsatility and White Matter Hyperintensities in Asymptomatic Intracranial Arterial Stenosis: A Population-Based Study in Shandong, China. 2022; 31:106406. doi: 10.1016/j.jstrokecerebrovasdis.2022.106406
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35248835/

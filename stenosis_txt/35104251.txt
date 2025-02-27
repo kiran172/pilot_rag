@@ -1,0 +1,8 @@
+PMID: 35104251
+Title: Increased Ca2+ influx through CaV1.2 drives aortic valve calcification.
+
+Abstract: Calcific aortic valve disease (CAVD) is heritable, as revealed by recent GWAS. While polymorphisms linked to increased expression of CACNA1C - encoding the CaV1.2 L-type voltage-gated Ca2+ channel - and increased Ca2+ signaling are associated with CAVD, whether increased Ca2+ influx through the druggable CaV1.2 causes CAVD is unknown. We confirmed the association between increased CaV1.2 expression and CAVD in surgically removed aortic valves from patients. We extended our studies with a transgenic mouse model that mimics increased CaV1.2 expression within aortic valve interstitial cells (VICs). In young mice maintained on normal chow, we observed dystrophic valve lesions that mimic changes found in presymptomatic CAVD and showed activation of chondrogenic and osteogenic transcriptional regulators within these valve lesions. Chronic administration of verapamil, a CaV1.2 antagonist used clinically, slowed the progression of lesion development in vivo. Exploiting VIC cultures, we demonstrated that increased Ca2+ influx through CaV1.2 drives signaling programs that lead to myofibroblast activation of VICs and upregulation of genes associated with aortic valve calcification. Our data support a causal role for Ca2+ influx through CaV1.2 in CAVD and suggest that early treatment with Ca2+ channel blockers is an effective therapeutic strategy.
+
+Citation: Matsui M, et al. Increased Ca2+ influx through CaV1.2 drives aortic valve calcification. Increased Ca2+ influx through CaV1.2 drives aortic valve calcification. 2022; 7:(unknown pages). doi: 10.1172/jci.insight.155569
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35104251/

@@ -1,0 +1,11 @@
+PMID: 35930062
+Title: The association between preoperative MRI findings and clinical improvement in patients included in the NORDSTEN spinal stenosis trial.
+
+Abstract: PURPOSE: To investigate potential associations between preoperative MRI findings and patient reported outcome measures (PROMs) after surgery for lumbar spinal stenosis (LSS).
+METHODS: The NORDSTEN trial included 437 patients. We investigated the association between preoperative MRI findings such as morphological grade of stenosis (Schizas grade), quantitative grade of stenosis (dural sac cross-sectional area), disc degeneration (Pfirrmann score), facet joint tropism and fatty infiltration of the multifidus muscle, and improvement in patient reported outcome measures (PROMs) 2 years after surgery. We dichotomized each radiological parameter into a moderate or severe category. PROMs i.e., Oswestry Disability Index (ODI), Zurich Claudication Questionnaire (ZCQ) and Numeric rating scale (NRS) for back and leg pain were collected before surgery and at 2 year follow-up. In the primary analysis, we investigated the association between MRI findings and ODI score (dichotomized to ≥ 30% improvement or not). In the secondary analysis, we investigated the association between MRI findings and the mean improvement on the ODI-, ZCQ- and NRS scores. We used multivariable regression models adjusted for patients' gender, age, smoking status and BMI.
+RESULTS: The primary analysis showed that severe disc degeneration (Pfirrmann score 4-5) was significantly associated with less chance of achieving a 30% improvement on the ODI score (OR 0.54, 95% CI 0.34, 0.88). In the secondary analysis, we detected no clinical relevant associations.
+CONCLUSION: Severe disc degeneration preoperatively suggest lesser chance of achieving 30% improvement in ODI score after surgery for LSS. Other preoperative MRI findings were not associated with patient reported outcome.
+
+Citation: Aaen J, et al. The association between preoperative MRI findings and clinical improvement in patients included in the NORDSTEN spinal stenosis trial. The association between preoperative MRI findings and clinical improvement in patients included in the NORDSTEN spinal stenosis trial. 2022; 31:2777-2785. doi: 10.1007/s00586-022-07317-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35930062/

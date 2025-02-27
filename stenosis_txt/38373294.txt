@@ -1,0 +1,11 @@
+PMID: 38373294
+Title: Deep-learning-based renal artery stenosis diagnosis via multimodal fusion.
+
+Abstract: PURPOSE: Diagnosing Renal artery stenosis (RAS) presents challenges. This research aimed to develop a deep learning model for the computer-aided diagnosis of RAS, utilizing multimodal fusion technology based on ultrasound scanning images, spectral waveforms, and clinical information.
+METHODS: A total of 1485 patients received renal artery ultrasonography from Peking Union Medical College Hospital were included and their color doppler sonography (CDS) images were classified according to anatomical site and left-right orientation. The RAS diagnosis was modeled as a process involving feature extraction and multimodal fusion. Three deep learning (DL) models (ResNeSt, ResNet, and XCiT) were trained on a multimodal dataset consisted of CDS images, spectrum waveform images, and individual basic information. Predicted performance of different models were compared with senior physician and evaluated on a test dataset (N = 117 patients) with renal artery angiography results.
+RESULTS: Sample sizes of training and validation datasets were 3292 and 169 respectively. On test data (N = 676 samples), predicted accuracies of three DL models were more than 80% and the ResNeSt achieved the accuracy 83.49% ± 0.45%, precision 81.89% ± 3.00%, and recall 76.97% ± 3.7%. There was no significant difference between the accuracy of ResNeSt and ResNet (82.84% ± 1.52%), and the ResNeSt was higher than the XCiT (80.71% ± 2.23%, p < 0.05). Compared to the gold standard, renal artery angiography, the accuracy of ResNest model was 78.25% ± 1.62%, which was inferior to the senior physician (90.09%). Besides, compared to the multimodal fusion model, the performance of single-modal model on spectrum waveform images was relatively lower.
+CONCLUSION: The DL multimodal fusion model shows promising results in assisting RAS diagnosis.
+
+Citation: Wang X, et al. Deep-learning-based renal artery stenosis diagnosis via multimodal fusion. Deep-learning-based renal artery stenosis diagnosis via multimodal fusion. 2024; 25:e14298. doi: 10.1002/acm2.14298
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38373294/

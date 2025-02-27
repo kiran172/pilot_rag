@@ -1,0 +1,11 @@
+PMID: 37363096
+Title: Coronary plaque burden predicts perioperative cardiovascular events after coronary endarterectomy.
+
+Abstract: BACKGROUND AND AIMS: The risk factors of perioperative and long-term cardiovascular events in patients undergoing coronary artery bypass grafting (CABG) with adjunctive coronary endarterectomy (CE) are not well determined. This study evaluated the clinical value of coronary plaque burden, coronary anatomic stenosis, and serum biomarkers for predicting perioperative cardiovascular events after off-pump CABG + CE.
+METHODS: This retrospective cohort single-center study enrolled 125 patients undergoing off-pump CABG + CE between February 2018 and September 2021 in China. Coronary plaque burden was reflected by the length of plaque removed by CE. Plaque length-max, which represents the plaque length in patients undergoing single-vessel CE and the maximum plaque length in patients undergoing multivessel CE, was calculated. The primary endpoint was perioperative myocardial infraction (PMI).
+RESULTS: Plaque length-max was significantly higher in patients with PMI than in those without PMI (2.4 ± 1.5 vs. 1.6 ± 0.9, p = .001). A threshold plaque length-max of 1.15 cm was an independent predictor of PMI (area under the curve: 0.67; sensitivity 87.9%; specificity 59.8%; p = .005). Patients with plaque length-max ≥1.15 had a &gt; 5-fold increase in PMI after adjusting for confounding factors (odds ratio = 5.89; p = .002). Furthermore, interleukin-6 (Beta = .32: p = .028), CD68 (Beta = .34; p = .045), and osteopontin (Beta = .43; p = .008) were significantly correlated with plaque length-max.
+CONCLUSIONS: Plaque length-max was superior to clinical cardiovascular risk factors in predicting PMI occurrence after off-pump CABG + CE, which might be associated with systemic and plaque inflammation state.
+
+Citation: Gao M, et al. Coronary plaque burden predicts perioperative cardiovascular events after coronary endarterectomy. Coronary plaque burden predicts perioperative cardiovascular events after coronary endarterectomy. 2023; 10:1175287. doi: 10.3389/fcvm.2023.1175287
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37363096/

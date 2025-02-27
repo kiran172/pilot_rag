@@ -1,0 +1,12 @@
+PMID: 35926899
+Title: Prognostic Value of Stress CMR in Symptomatic Patients With Coronary Stenosis on CCTA.
+
+Abstract: BACKGROUND: Noninvasive functional imaging is often performed in patients with obstructive coronary artery disease (CAD) on coronary computed tomography angiography (CTA). However, the prognostic value of stress cardiac magnetic resonance (CMR) is unknown in patients with coronary stenosis of unknown significance on coronary CTA.
+OBJECTIVES: This study assessed the prognostic value of stress CMR in symptomatic patients with obstructive CAD of unknown significance on coronary CTA.
+METHODS: Between 2008 and 2020, consecutive symptomatic patients without known CAD referred for coronary CTA were screened. Patients with obstructive CAD (at least 1 ≥50% stenosis on coronary CTA) were further referred for stress CMR and followed for the occurrence of major adverse cardiovascular events (MACEs), defined as cardiovascular death or nonfatal myocardial infarction.
+RESULTS: Of 2,210 patients who completed CMR, 2,038 (46.5% men; mean age 69.8 ± 12.2 years) completed follow-up (median 6.8 years; IQR: 5.9-9.2 years); 281 experienced a MACE (13.8%). Inducible ischemia and late gadolinium enhancement (LGE) were significantly associated with MACEs (HR: 4.51 [95% CI: 3.55-5.74], and HR: 3.32 [95% CI: 2.55-4.32], respectively; P < 0.001). In multivariable Cox regression, the number of segments with >70% stenosis, with noncalcified plaques and the number of vessels with obstructive CAD were prognosticators (P < 0.001). The presence of inducible ischemia and LGE were independent predictors of MACEs (HR: 3.97 [95% CI: 3.43-5.13]; HR: 2.30 [95% CI: 1.52-3.33]; P < 0.001). After adjustment, stress CMR showed the best improvement in model discrimination and reclassification above traditional risk factors and coronary CTA (C-statistic improvement: 0.04; net reclassification improvement = 0.421; integrative discrimination index = 0.047).
+CONCLUSIONS: In symptomatic patients with obstructive CAD of unknown significance on coronary CTA, stress CMR had incremental prognostic value to predict MACEs.
+
+Citation: Pezel T, et al. Prognostic Value of Stress CMR in Symptomatic Patients With Coronary Stenosis on CCTA. Prognostic Value of Stress CMR in Symptomatic Patients With Coronary Stenosis on CCTA. 2022; 15:1408-1422. doi: 10.1016/j.jcmg.2022.03.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35926899/

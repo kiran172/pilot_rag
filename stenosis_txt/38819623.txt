@@ -1,0 +1,12 @@
+PMID: 38819623
+Title: Bicuspid valve CT registry of balloon-expandable TAVR: BETTER TAVR registry.
+
+Abstract: BACKGROUND: The anatomic substrate of bicuspid valves may lead to suboptimal TAVR stent expansion and geometry.
+AIM: We evaluated determinants of stent geometry in bicuspid valves treated with Sapien transcatheter aortic valve replacement (TAVR) valves.
+METHODS: A multicenter retrospective registry of patients (February 2019 to August 2022) who underwent post-TAVR computed tomography to determine stent area (vs. nominal valve area) and stent ellipticity (maximum diameter/minimum diameter). Predictors of relative stent expansion (minimum area/average of inflow + outflow area) and stent ellipticity were evaluated in a multivariable regression model, including valve calcium volume (indexed by annular area), presence of raphe calcium, sinus diameters indexed by area-derived annular diameter, and performance of pre-dilation and post-dilation.
+RESULTS: The registry enrolled 101 patients from four centers. The minimum stent area (vs. nominal area) was 88.1%, and the maximum ellipticity was 1.10, with both observed near the midframe of the valve in all cases. Relative stent expansion ≥90% was observed in 64/101 patients. The only significant predictor of relative stent expansion ≥90% was the performance of post-dilation (OR: 4.79, p = 0.018). Relative stent expansion ≥90% was seen in 86% of patients with post-dilation compared to 57% without (p < 0.001). The stent ellipticity ≥1.1 was observed in 47/101 patients. The significant predictors of stent ellipticity ≥1.1 were the indexed maximum sinus diameter (OR: 0.582, p = 0.021) and indexed intercommisural diameter at 4 mm (OR: 2.42, p = 0.001). Stent expansion has a weak negative correlation with post-TAVR mean gradient (r = -0.324, p < 0.001).
+CONCLUSION: Relative stent expansion ≥90% was associated with the performance of post-dilation, and stent ellipticity ≥1.1 was associated with indexed intercommisural diameter and indexed maximum sinus diameter. Further studies to determine optimal deployment strategies in bicuspid valves are needed.
+
+Citation: Chavarria J, et al. Bicuspid valve CT registry of balloon-expandable TAVR: BETTER TAVR registry. Bicuspid valve CT registry of balloon-expandable TAVR: BETTER TAVR registry. 2024; 104:105-114. doi: 10.1002/ccd.31091
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38819623/

@@ -1,0 +1,11 @@
+PMID: 33246845
+Title: Diagnostic performance and limitation of quantitative flow ratio for functional assessment of intermediate coronary stenosis.
+
+Abstract: BACKGROUND: This study aimed to simultaneously investigate diagnostic performance and limitation of quantitative flow reserve (QFR) for assessing functionally significant coronary stenosis, focusing on factors affecting diagnostic accuracy of QFR.
+METHODS: This study evaluated 1) QFR diagnostic accuracy compared with fractional flow reserve (FFR) in patients with stable coronary artery disease (Cohort-A, n = 95) and 2) QFR reproducibility for non-culprit lesions (NCLs) assessment between acute and staged (14±5 days later) procedures in patients with ST-segment elevation myocardial infarction (STEMI) (Cohort-B, n = 65). All coronary angiography image acquisition was performed before the introduction of QFR system into our institution.
+RESULTS: Cohort-A showed good correlation (r = 0.80, p<0.0001) between QFR and FFR; diagnostic accuracy of QFR for FFR ≤0.80 was 85.2% (sensitivity 80.4%, specificity 91.0%, positive predictive value 91.1%, negative predictive value 80.0%). There were 14 lesions showing discordance between QFR and FFR, which was primarily attributable to inadequate lesion visualization due to vessel overlap/tortuosity and/or insufficient intra-coronary contrast-media injection. In Cohort-B, there was also excellent correlation between acute and staged QFR; classification agreement of acute and staged QFR was 92.3%. Five lesions showed discordance between acute and staged QFR, 4 were due to limited image acquisition and/or high coronary flow velocity at acute phase of STEMI and 1 was borderline ischemia.
+CONCLUSIONS: QFR-derived physiological assessment of intermediate coronary stenosis is feasible, even in the acute setting of STEMI. Adjusting some technical factors may further improve the diagnostic performance of QFR.
+
+Citation: Kirigaya H, et al. Diagnostic performance and limitation of quantitative flow ratio for functional assessment of intermediate coronary stenosis. Diagnostic performance and limitation of quantitative flow ratio for functional assessment of intermediate coronary stenosis. 2021; 77:492-499. doi: 10.1016/j.jjcc.2020.11.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33246845/

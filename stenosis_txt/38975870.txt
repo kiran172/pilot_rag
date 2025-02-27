@@ -1,0 +1,11 @@
+PMID: 38975870
+Title: Brain natriuretic peptide is a long-term cardiovascular predictor in carotid endarterectomy.
+
+Abstract: BACKGROUND: In noncardiac surgery, several biomarkers are known to play a role in predicting long-term complications, such as major adverse cardiovascular events (MACE), myocardial infarction, or death. Carotid endarterectomy (CEA) is considered a low to medium-risk surgery for carotid stenosis aimed at preventing stroke events. Brain natriuretic peptide (BNP) is a biomarker with potential prognostic value regarding MACE. Since its role in patients undergoing CEA is unknown, this study aims to assess the potential role of BNP as a short and long-term predictor of all-cause mortality and MACE in patients undergoing CEA.
+METHODS: From a prospective database, patients who underwent CEA under regional anesthesia (RA) at a tertiary hospital center were enrolled, and a post hoc analysis was conducted. Patients on which BNP levels were measured up to fifteen days before surgery, and two groups based on the BNP threshold (200 pg/mL) were defined and compared. Kaplan Meier survival curves and adjusted hazard ratios (aHR) were assessed by multivariable Cox regression. The primary outcome was the incidence of long-term MACE and all-cause mortality. Secondary outcomes included the incidence of AMI and AHF.
+RESULTS: A total of 89 patients were evaluated. The mean age of the cohort was 71.2 ± 8.7 years, with 71 (79.8%) males, and presented a median follow-up of 30 [13.5-46.4] months. BNP &gt; 200 pg/mL has demonstrated positive predictive value for MACE (aHR: 5.569, confidence interval (CI): 2.441-12.7, p &lt; 0.001) and all-cause mortality (aHR: 3.469, CI: 1.315-9.150, p = 0.018).
+CONCLUSION: BNP has been demonstrated to independently predict long-term all-cause mortality, MACE and AMI following CEA. It serves as a low-cost, ready-to-use biomarker, although further studies are necessary.
+
+Citation: Clemente Gouveia de Gramilho GM, et al. Brain natriuretic peptide is a long-term cardiovascular predictor in carotid endarterectomy. Brain natriuretic peptide is a long-term cardiovascular predictor in carotid endarterectomy. 2024; (unknown volume):1-7. doi: 10.1080/00015458.2024.2377889
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38975870/

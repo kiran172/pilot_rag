@@ -1,0 +1,12 @@
+PMID: 39372456
+Title: Coronary Artery Stenosis and High-Risk Plaque Assessed With an Unsupervised Fully Automated Deep Learning Technique.
+
+Abstract: BACKGROUND: Coronary computed tomography angiography (CCTA) has emerged as a reliable noninvasive modality to assess coronary artery stenosis and high-risk plaque (HRP). However, CCTA assessment of stenosis and HRP is time-consuming and requires specialized training, limiting its clinical translation.
+OBJECTIVES: The aim of this study is to develop and validate a fully automated deep learning system capable of characterizing stenosis severity and HRP on CCTA.
+METHODS: A deep learning system was trained to assess stenosis and HRP on CCTA scans from 570 patients in multiple centers. Stenosis severity was categorized as >0%, 1 to 49%, ≥50%, and ≥70%. HRP was defined as low attenuation plaque (≤30 HU), positive remodeling (≥10% diameter), and spotty calcification (<3 mm). The model was then tested on 769 patients (3,012 vessels) for stenosis severity and 45 patients (325 vessels) for HRP.
+RESULTS: Our deep learning system achieved 93.5% per-vessel agreement within 1 Coronary Artery Disease-Reporting and Data System (CAD-RADS) category for stenosis. Diagnostic performance for per-vessel stenosis was very good for sensitivity, specificity, positive predictive value, negative predictive value, and area under the curve with: >0% stenosis: 90.6%, 88.8%, 83.4%, 93.9%, 89.7%, respectively; ≥50% stenosis: 87.1%, 92.3%, 60.9%, 98.1%, 89.7%, respectively. Similarly, the per-vessel HRP feature achieved very good diagnostic performance with an area under the curve of 0.80, 0.79, and 0.77 for low attenuation plaque, spotty calcification, and positive remodeling, respectively.
+CONCLUSIONS: A fully automated unsupervised deep learning system can rapidly evaluate stenosis severity and characterize HRP with very good diagnostic performance on CCTA.
+
+Citation: Ihdayhid AR, et al. Coronary Artery Stenosis and High-Risk Plaque Assessed With an Unsupervised Fully Automated Deep Learning Technique. Coronary Artery Stenosis and High-Risk Plaque Assessed With an Unsupervised Fully Automated Deep Learning Technique. 2024; 3:100861. doi: 10.1016/j.jacadv.2024.100861
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39372456/

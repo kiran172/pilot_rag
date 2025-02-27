@@ -1,0 +1,11 @@
+PMID: 37096525
+Title: [Study on Platelet Adhesion and Aggregation Induced by Gradient Shear Stress Using Microfluidic Chip Technology].
+
+Abstract: OBJECTIVE: To study the effect of gradient shear stress on platelet aggregation by microfluidic chip Technology.
+METHODS: Microfluidic chip was used to simulate 80% fixed stenotic microchannel, and the hydrodynamic behavior of the stenotic microchannel model was analyzed by the finite element analysis module of sollidwork software. Microfluidic chip was used to analyze the adhesion and aggregation behavior of platelets in patients with different diseases, and flow cytometry was used to detect expression of the platelet activation marker CD62p. Aspirin, Tirofiban and protocatechuic acid were used to treat the blood, and the adhesion and aggregation of platelets were observed by fluorescence microscope.
+RESULTS: The gradient fluid shear rate produced by the stenosis model of microfluidic chip could induce platelet aggregation, and the degree of platelet adhesion and aggregation increased with the increase of shear rate within a certain range of shear rate. The effect of platelet aggregation in patients with arterial thrombotic diseases were significantly higher than normal group (P&lt;0.05), and the effect of platelet aggregation in patients with myelodysplastic disease was lower than normal group (P&lt;0.05).
+CONCLUSION: The microfluidic chip analysis technology can accurately analyze and evaluate the platelet adhesion and aggregation effects of various thrombotic diseases unde the environment of the shear rate, and is helpful for auxiliary diagnosis of clinical thrombotic diseases.
+
+Citation: Ma HD, et al. [Study on Platelet Adhesion and Aggregation Induced by Gradient Shear Stress Using Microfluidic Chip Technology]. [Study on Platelet Adhesion and Aggregation Induced by Gradient Shear Stress Using Microfluidic Chip Technology]. 2023; 31:495-502. doi: 10.19746/j.cnki.issn.1009-2137.2023.02.027
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37096525/

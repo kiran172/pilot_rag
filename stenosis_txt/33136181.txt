@@ -1,0 +1,11 @@
+PMID: 33136181
+Title: Non-contrast MR angiography versus contrast enhanced MR angiography for detection of renal artery stenosis: a comparative analysis in 400 renal arteries.
+
+Abstract: PURPOSE: In this study, we compared non-contrast MR angiography (NC-MRA) with conventional 3D contrast-enhanced MRA (CE-MRA) in patients suspected to have renal artery stenosis (RAS).
+METHODS: From March 2014 to March 2020, patients who were evaluated for RAS and had a glomerular filtration rate &gt; 30 ml/min/1.73 m2 underwent MR imaging on a 3T MR Scanner (Signa Hdxt General Electrics, Milwaukee, USA) using a Torso PA coil. The NC-MRA sequence was performed using a 3D fat-suppressed inflow inversion recovery balanced steady state free precession (SSFP) sequence (Inhance 3D Inflow IR, GE Medical) whereas the CE-MRA sequence was a 3D fast spoiled gradient echo (FSPGR). Overall quality of images was rated 1 to 4. Stenosis was reported as grade 1 (Normal), 2 (&lt; 50% narrowing), 3 (&gt; 50% narrowing) and 4 (Total occlusion). Grade 3 and 4 were considered haemodynamically significant.
+RESULTS: During the study period, 201 patients were enrolled (400 renal arteries). For hemodynamically significant (grade 3/4) stenosis, NC-MRA correctly diagnosed 72 patients (95 arteries) while in 2 patients (2 arteries), NC-MRA underdiagnosed the stenosis as grade 2 (these were found to have grade 3 stenosis on CE-MRA). The kappa value of agreement between NC-MRA and CE-MRA for detection of RAS showing excellent agreement (p < 0.001).
+CONCLUSION: In one of the largest series of patients so far, we found that NC-MRA is a viable alternative to CE-MRA for detection of RAS, highly correlating with CE-MRA for grade of stenosis and with additional advantage of lack of gadolinium based contrast agents toxicity.
+
+Citation: Lal H, et al. Non-contrast MR angiography versus contrast enhanced MR angiography for detection of renal artery stenosis: a comparative analysis in 400 renal arteries. Non-contrast MR angiography versus contrast enhanced MR angiography for detection of renal artery stenosis: a comparative analysis in 400 renal arteries. 2021; 46:2064-2071. doi: 10.1007/s00261-020-02836-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33136181/

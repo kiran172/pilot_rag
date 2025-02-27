@@ -1,0 +1,12 @@
+PMID: 32525410
+Title: Optical Coherence Tomography for Coronary Bioresorbable Vascular Scaffold Implantation: A Randomized Controlled Trial.
+
+Abstract: BACKGROUND: We investigated whether optical coherence tomography (OCT) guidance would reduce nonoptimal bioresorbable vascular scaffold (BVS) deployment.
+METHODS: This was a randomized controlled trial. Patients who required percutaneous coronary intervention for ischemic heart disease were recruited from 2 centers in Korea. The enrolled patients were randomly assigned to receive either OCT-guided BVS (Absorb; Abbott Vascular) implantation or angiography-guided BVS implantation using an optimized technique. The primary outcome was nonoptimal deployment, which was a composite outcome of the following parameters assessed by OCT: a minimal scaffold area &lt;5 mm2, residual area stenosis &gt;20%, incomplete apposition of the scaffold struts &gt;5%, major edge dissection, or scaffold disruption. The secondary outcome was a procedural complication defined by the occurrence of no reflow, coronary perforation, or flow-limiting dissection.
+RESULTS: Between September 2016 and January 2018, 88 patients (90 lesions) were assigned to OCT guidance, while 88 patients (89 lesions) were assigned to angiography guidance. The recruitment was prematurely terminated in March 2018 because the manufacturer stopped supplying BVS. Postprocedural OCT data were available for 88 lesions with OCT guidance and for 88 lesions with angiography guidance. There was nonoptimal BVS deployment postprocedurally in 35.2% of patients in the OCT-guidance group and in 38.6% in the angiography-guidance group (absolute difference, -3.7% [95% CI, -19.0% to 11.6%]; P=0.64). There were no procedural complications in either group.
+CONCLUSIONS: OCT-guided BVS implantation did not reduce the incidence of nonoptimal deployment compared to that of angiography-guided BVS implantation (using optimized techniques).
+CLINICAL TRIAL REGISTRATION: URL: https://www.clinicaltrials.gov. Unique identifier: NCT02894697.
+
+Citation: Lee SY, et al. Optical Coherence Tomography for Coronary Bioresorbable Vascular Scaffold Implantation: A Randomized Controlled Trial. Optical Coherence Tomography for Coronary Bioresorbable Vascular Scaffold Implantation: A Randomized Controlled Trial. 2020; 13:e008383. doi: 10.1161/CIRCINTERVENTIONS.119.008383
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32525410/

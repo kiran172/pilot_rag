@@ -1,0 +1,11 @@
+PMID: 31710988
+Title: Computational investigation of stenosis in curvature of coronary artery within both dynamic and static models.
+
+Abstract: BACKGROUND AND OBJECTIVE: Blood flow variation during cardiac cycle is the main mechanism of atherosclerotic development which is dependent on.
+METHODS: The present work mainly tends to investigate stenosis effect in dynamic curvature of coronary artery. This paper presents numerical investigations on wall shear stress profiles in three-dimensional pulsatile flow through curved stenotic coronary arteries for both static and dynamic model. In order to do so, three-dimensional models related to the curved arteries with two degrees of stenosis (30% and 50%).
+RESULTS: Lower amount of wall shear stress is found near the inner wall of artery distal to the plaque region (stenosis) and in both percentages of stenosis the maximum wall shear stress will accrue in the middle of the stenosis; however it is much more in the higher rate of stenosis.
+CONCLUSIONS: A chaotic wall shear stress region is also observed downstream of stenosis in the severe stenosis case. Finally it concluded that the arterial wall motion affects the wall shear stress and the plaque formation site.
+
+Citation: Biglarian M, et al. Computational investigation of stenosis in curvature of coronary artery within both dynamic and static models. Computational investigation of stenosis in curvature of coronary artery within both dynamic and static models. 2020; 185:105170. doi: 10.1016/j.cmpb.2019.105170
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31710988/

@@ -1,0 +1,11 @@
+PMID: 31565831
+Title: Assessment of Cerebral Vasodilatory Capacity as Part of Catheter-Based Cerebral Angiography.
+
+Abstract: BACKGROUND AND PURPOSE: Cerebral vasodilatory capacity assessment for risk stratification in patients with extracranial arterial stenosis or occlusion may be useful. We describe a new method that assesses cerebral vasodilatory capacity as part of catheter-based cerebral angiography.
+METHODS: We prospectively assessed regional cerebral blood volume (rCBV) in the arterial distribution of interest using a controlled contrast injection in the common carotid or the subclavian arteries. rCBV maps were created using a predefined algorithm based on contrast distribution in the venous phase (voxel size: .466 mm3 ). rCBV maps were acquired again after selective administration of intra-arterial nicardipine (2.0 mg) distal to the stenosis. Two independent observers graded the change in rCBV in 10 predefined anatomical regions within the tributaries of the artery of interest (0 = reduction, 1 = no change, 2 = increase) and total rCBV change scores were summated.
+RESULTS: Twenty-five patients with internal carotid artery stenosis (n = 18; 0-90% in severity) or extracranial vertebral artery stenosis (n = 7; 0-100% in severity) were assessed. There was an increase in rCBV in a tributary of the artery of interest in 18 of 25 after intra-arterial nicardipine (mean score: 11.98; range 0-19.5). There was no change or decrease in rCBV in 7 of 25 patients. The mean rCBV change score was similar in patients with an assessment of internal carotid artery or vertebral artery distributions (12.2 ± 5.3; 11.4 ± 2.5; P = .68).
+CONCLUSION: Selective vasodilatory response to intra-arterial nicardipine in the affected arterial distribution during catheter-based cerebral angiography may provide new data for risk stratification.
+
+Citation: Qureshi AI, et al. Assessment of Cerebral Vasodilatory Capacity as Part of Catheter-Based Cerebral Angiography. Assessment of Cerebral Vasodilatory Capacity as Part of Catheter-Based Cerebral Angiography. 2020; 30:90-96. doi: 10.1111/jon.12665
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31565831/

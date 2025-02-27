@@ -1,0 +1,12 @@
+PMID: 36922038
+Title: Outcomes of Bioprosthetic Valve Fracture in Patients Undergoing Valve-in-Valve TAVR.
+
+Abstract: BACKGROUND: Valve-in-valve (VIV) transcatheter aortic valve replacement (TAVR) is increasingly used to treat degenerated surgical bioprostheses. Bioprosthetic valve fracture (BVF) has been shown to improve hemodynamic status in VIV TAVR in case series. However, the safety and efficacy of BVF are unknown.
+OBJECTIVES: The primary objective of this study was to assess the safety and efficacy of VIV TAVR using SAPIEN 3 and SAPIEN 3 Ultra valves with or without BVF using data from the Society of Thoracic Surgeons/American College of Cardiology TVT (Transcatheter Valve Therapy) Registry.
+METHODS: The primary outcome was in-hospital mortality. Secondary outcomes included echocardiography-derived valve gradient and aortic valve area. Inverse probability of treatment weighting was used to adjust for baseline characteristics.
+RESULTS: A total of 2,975 patients underwent VIV TAVR from December 15, 2020, to March 31, 2022. BVF was attempted in 619 patients (21%). In adjusted analyses, attempted BVF was associated with higher in-hospital mortality (OR: 2.51; 95% CI: 1.30-4.84) and life-threatening bleeding (OR: 2.55; 95% CI: 1.44-4.50). At discharge, VIV TAVR with attempted BVF was associated with larger aortic valve area (1.6 cm2 vs 1.4 cm2; P &lt; 0.01) and lower mean gradient (16.3 mm Hg vs 19.2 mm Hg; P &lt; 0.01). When BVF was compared with no BVF according to timing (before vs after transcatheter heart valve implantation), BVF after transcatheter heart valve implantation was associated with improved hemodynamic status and similar mortality.
+CONCLUSIONS: BVF as an adjunct to VIV TAVR with the SAPIEN 3 and SAPIEN 3 Ultra valves is associated with a higher risk for in-hospital mortality and significant bleeding and modest improvements in echocardiography-derived hemodynamic status. The timing of BVF is an important determinant of safety and efficacy.
+
+Citation: Chhatriwalla AK, et al. Outcomes of Bioprosthetic Valve Fracture in Patients Undergoing Valve-in-Valve TAVR. Outcomes of Bioprosthetic Valve Fracture in Patients Undergoing Valve-in-Valve TAVR. 2023; 16:530-539. doi: 10.1016/j.jcin.2022.12.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36922038/

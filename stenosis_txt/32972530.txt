@@ -1,0 +1,12 @@
+PMID: 32972530
+Title: Gadobutrol-Enhanced Cardiac Magnetic Resonance Imaging for Detection of Coronary Artery Disease.
+
+Abstract: BACKGROUND: Gadolinium-based contrast agents were not approved in the United States for detecting coronary artery disease (CAD) prior to the current studies.
+OBJECTIVES: The purpose of this study was to determine the sensitivity and specificity of gadobutrol for detection of CAD by assessing myocardial perfusion and late gadolinium enhancement (LGE) imaging.
+METHODS: Two international, single-vendor, phase 3 clinical trials of near identical design, "GadaCAD1" and "GadaCAD2," were performed. Cardiovascular magnetic resonance (CMR) included gadobutrol-enhanced first-pass vasodilator stress and rest perfusion followed by LGE imaging. CAD was defined by quantitative coronary angiography (QCA) but computed tomography coronary angiography could exclude significant CAD.
+RESULTS: Because the design and results for GadaCAD1 (n = 376) and GadaCAD2 (n = 388) were very similar, results were summarized as a fixed-effect meta-analysis (n = 764). The prevalence of CAD was 27.8% defined by a ≥70% QCA stenosis. For detection of a ≥70% QCA stenosis, the sensitivity of CMR was 78.9%, specificity was 86.8%, and area under the curve was 0.871. The sensitivity and specificity for multivessel CAD was 87.4% and 73.0%. For detection of a 50% QCA stenosis, sensitivity was 64.6% and specificity was 86.6%. The optimal threshold for detecting CAD was a ≥67% QCA stenosis in GadaCAD1 and ≥63% QCA stenosis in GadaCAD2.
+CONCLUSIONS: Vasodilator stress and rest myocardial perfusion CMR and LGE imaging had high diagnostic accuracy for CAD in 2 phase 3 clinical trials. These findings supported the U.S. Food and Drug Administration approval of gadobutrol-enhanced CMR (0.1 mmol/kg) to assess myocardial perfusion and LGE in adult patients with known or suspected CAD.
+
+Citation: Arai AE, et al. Gadobutrol-Enhanced Cardiac Magnetic Resonance Imaging for Detection of Coronary Artery Disease. Gadobutrol-Enhanced Cardiac Magnetic Resonance Imaging for Detection of Coronary Artery Disease. 2020; 76:1536-1547. doi: 10.1016/j.jacc.2020.07.060
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32972530/

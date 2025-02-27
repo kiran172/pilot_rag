@@ -1,0 +1,12 @@
+PMID: 31326491
+Title: The Prognostic Role of Late Gadolinium Enhancement in Aortic Stenosis: A Systematic Review and Meta-Analysis.
+
+Abstract: OBJECTIVES: The aim of this systematic review was to explore the prognostic value of late gadolinium enhancement (LGE) in patients with aortic stenosis (AS).
+BACKGROUND: Myocardial fibrosis is a common feature of many cardiac diseases. Cardiac magnetic resonance (CMR) has the ability to noninvasively detect regional fibrosis by using the LGE technique. Several studies have explored whether LGE is associated with adverse outcome in patients with AS.
+METHODS: Electronic databases were searched to identify studies investigating the ability of LGE to predict all-cause mortality in patients with AS. A random effects model meta-analysis was conducted. Heterogeneity was assessed with the I2 statistic.
+RESULTS: Six studies comprising 1,151 patients met our inclusion criteria. LGE was present in 49.1% of patients with AS. In the pooled analysis, LGE was found to be a strong univariate predictor of all-cause mortality (pooled unadjusted odds ratio: 2.56; 95% confidence interval: 1.83 to 3.57; I2 = 0%). Four of the included studies reported adjusted hazard ratios for mortality. LGE was independently associated with mortality, even after adjusting for baseline characteristics (pooled adjusted hazard ratio: 2.50; 95% confidence interval: 1.64 to 3.83; I2 = 0%).
+CONCLUSIONS: Fibrosis on LGE-CMR is a powerful predictor of all-cause mortality in patients with AS and may serve as a novel marker for risk stratification. Future studies should explore whether LGE-CMR can also be used to optimize timing of AS-related interventions.
+
+Citation: Papanastasiou CA, et al. The Prognostic Role of Late Gadolinium Enhancement in Aortic Stenosis: A Systematic Review and Meta-Analysis. The Prognostic Role of Late Gadolinium Enhancement in Aortic Stenosis: A Systematic Review and Meta-Analysis. 2020; 13:385-392. doi: 10.1016/j.jcmg.2019.03.029
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31326491/

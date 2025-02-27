@@ -1,0 +1,11 @@
+PMID: 35640698
+Title: Artificial Intelligence-Based Stethoscope for the Diagnosis of Aortic Stenosis.
+
+Abstract: BACKGROUND: The diagnostic accuracy of the stethoscope is limited and highly dependent on clinical expertise. Our purpose was to develop an electronic stethoscope, based on artificial intelligence (AI) and infrasound, for the diagnosis of aortic stenosis (AS).
+METHODS: We used an electronic stethoscope (VoqX; Sanolla, Nesher, Israel) with subsonic capabilities and acoustic range of 3-2000 Hz. The study had 2 stages. In the first stage, using the VoqX, we recorded heart sounds from 100 patients referred for echocardiography (derivation group), 50 with moderate or severe AS and 50 without valvular disease. An AI-based supervised learning model was applied to the auscultation data from the first 100 patients used for training, to construct a diagnostic algorithm that was then tested on a validation group (50 other patients, 25 with AS and 25 without AS). In the second stage, conducted at a different medical center, we tested the device on 106 additional patients referred for echocardiography, which included patients with other valvular diseases.
+RESULTS: Using data collected at the aortic and pulmonic auscultation points from the derivation group, the AI-based algorithm identified moderate or severe AS with 86% sensitivity and 100% specificity. When applied to the validation group, the sensitivity was 84% and specificity 92%; and in the additional testing group, 90% and 84%, respectively. The sensitivity was 55% for mild, 76% for moderate, and 93% for severe AS.
+CONCLUSION: Our initial findings show that an AI-based stethoscope with infrasound capabilities can accurately diagnose AS. AI-based electronic auscultation is a promising new tool for automatic screening and diagnosis of valvular heart disease.
+
+Citation: Ghanayim T, et al. Artificial Intelligence-Based Stethoscope for the Diagnosis of Aortic Stenosis. Artificial Intelligence-Based Stethoscope for the Diagnosis of Aortic Stenosis. 2022; 135:1124-1133. doi: 10.1016/j.amjmed.2022.04.032
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35640698/

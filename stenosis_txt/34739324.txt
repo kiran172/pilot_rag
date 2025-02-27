@@ -1,0 +1,8 @@
+PMID: 34739324
+Title: OCT4-mediated inflammation induces cell reprogramming at the origin of cardiac valve development and calcification.
+
+Abstract: Cell plasticity plays a key role in embryos by maintaining the differentiation potential of progenitors. Whether postnatal somatic cells revert to an embryonic-like naïve state regaining plasticity and redifferentiate into a cell type leading to a disease remains intriguing. Using genetic lineage tracing and single-cell RNA sequencing, we reveal that Oct4 is induced by nuclear factor κB (NFκB) at embyronic day 9.5 in a subset of mouse endocardial cells originating from the anterior heart forming field at the onset of endocardial-to-mesenchymal transition. These cells acquired a chondro-osteogenic fate. OCT4 in adult valvular aortic cells leads to calcification of mouse and human valves. These calcifying cells originate from the Oct4 embryonic lineage. Genetic deletion of Pou5f1 (Pit-Oct-Unc, OCT4) in the endocardial cell lineage prevents aortic stenosis and calcification of ApoE−/− mouse valve. We established previously unidentified self-cell reprogramming NFκB- and OCT4-mediated inflammatory pathway triggering a dose-dependent mechanism of valve calcification.
+
+Citation: Farrar EJ, et al. OCT4-mediated inflammation induces cell reprogramming at the origin of cardiac valve development and calcification. OCT4-mediated inflammation induces cell reprogramming at the origin of cardiac valve development and calcification. 2021; 7:eabf7910. doi: 10.1126/sciadv.abf7910
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34739324/

@@ -1,0 +1,12 @@
+PMID: 38144902
+Title: Relationship between Coronary Artery Calcium Score and Coronary Stenosis.
+
+Abstract: BACKGROUND: The coronary artery calcium score (CACS) is commonly employed to quantify the degree of calcification in coronary atherosclerosis. Indeed, increased coronary stenosis severity is associated with a progressive increase in CACS.
+OBJECTIVES: This study sought to explore the association between CACS and coronary stenosis of ≥50% and ≥70%.
+METHODS: We conducted a retrospective analysis of patient data collected between July 1, 2017, and March 3, 2022, at Jiangmen Central Hospital. A total of 208 patients, presenting with both symptomatic and asymptomatic manifestations and suspected coronary artery disease (CAD), were included. Statistical analyses included ROC curve assessments, subgroup analyses based on age, and comparisons of CACS values against the presence of coronary stenosis ≥50% and ≥70%.
+RESULTS: Ultimately, 208 patients were included, with a median age of 65.0 years and a median CACS of 115.7 (interquartile range: 13.7-369.4). A CACS threshold of ≥1300 demonstrated a specificity of 100% for coronary stenosis of ≥50%. Notably, the percentage of patients with obstructive CAD showing CACS = 0 was significantly higher in those under 65 years (15.1%) compared to patients over 65 years (3.8%) (P=0.005). The inflection point, at which the risk probability for coronary stenosis of ≥50% shifted from being a protective factor to a risk factor, was observed when CACS fell within the range of 63.3 to 66.0.
+CONCLUSION: CACS demonstrates good performance for the detection of coronary artery stenosis.
+
+Citation: Chen X, et al. Relationship between Coronary Artery Calcium Score and Coronary Stenosis. Relationship between Coronary Artery Calcium Score and Coronary Stenosis. 2023; 2023:5538111. doi: 10.1155/2023/5538111
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38144902/

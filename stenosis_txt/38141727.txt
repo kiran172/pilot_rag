@@ -1,0 +1,11 @@
+PMID: 38141727
+Title: Temporal trends in the utilization and outcome of transcatheter aortic valve replacement across racial and ethnic groups. A nationwide analysis.
+
+Abstract: BACKGROUND: Transcatheter aortic valvular replacement (TAVR) improves outcomes in patients with aortic stenosis (AS). However, data describing racial disparities in the utilization and outcomes of TAVR are limited. We aimed to evaluate the utilization trends and outcomes of TAVR across racial and ethnic groups.
+METHODS: All patients who underwent TAVR in the United States from 2016 through 2020 were identified from the National Inpatient Sample database. Patients were classified according to their racial and ethnic groups as Non-Hispanic White (NHW), Non-Hispanic Black (NHB), Hispanic, and Asian. We assessed racial and ethnic differences in the outcomes of TAVR using multivariate logistic regression analysis adjusting for age, sex, insurance, income, hospital location and teaching status, bed size, region, and the Charlson Comorbidity Index.
+RESULTS: Of the 280,290 patients who underwent TAVR, 89.5% were NHW, 4.24% were NHB, 4.9% were Hispanic, and 1.39% were Asian people. In 2016, the rates of all-TAVR procedures were 1.48 per 1000 patients among NHW group but 0.39 in NHB, 0.4 in Hispanic, and 0.47 in the Asian group. A steep rise was noted in the rate of TAVR among NHW but not in the NHB, Hispanic, and Asian groups. NHB patients had lower mortality rates (adjusted Odds Ratio [aOR]: 0.56; CI 0.35-0.88 p = 0.014) compared to their NHW counterparts.
+CONCLUSION: The racial and ethnic gap in the utilization of TAVR widened during the study period with minority groups being disproportionately less likely to receive TAVR. NHB patients who received TAVR had lower mortality rates than NHW.
+
+Citation: Antia A, et al. Temporal trends in the utilization and outcome of transcatheter aortic valve replacement across racial and ethnic groups. A nationwide analysis. Temporal trends in the utilization and outcome of transcatheter aortic valve replacement across racial and ethnic groups. A nationwide analysis. 2024; 399:131669. doi: 10.1016/j.ijcard.2023.131669
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38141727/

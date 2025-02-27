@@ -1,0 +1,11 @@
+PMID: 32345039
+Title: Prognostic Value of Resting Distal-to-Aortic Coronary Pressure in Clinical Practice.
+
+Abstract: BACKGROUND: The resting distal-to-aortic coronary pressure ratio (Pd/Pa) is a universally available, hyperemia-free physiological index of coronary stenosis. We investigated clinical outcomes according to resting Pd/Pa versus hyperemic fractional flow reserve (FFR).
+METHODS: From the IRIS-FFR (Interventional Cardiology Research Incooperation Society Fractional Flow Reserve) registry, 7014 lesions in 4707 patients with valid resting Pd/Pa and FFR were included in this study. The primary outcome was major adverse cardiac events (MACE; a composite of cardiac death, myocardial infarction, and repeat intervention). The MACE rate was compared among resting Pd/Pa ≤0.92 and FFR ≤0.80. A marginal Cox model accounted for correlated data in patients with multiple lesions.
+RESULTS: During a median follow-up of 2.0 years, 223 MACEs occurred. Resting Pd/Pa was an independent predictor for the occurrence of MACE (adjusted hazard ratio [aHR], 1.89 [95% CI, 1.32-2.71]; P=0.001) over clinical and angiographic variables. When resting Pd/Pa and FFR were added into a multivariable model, MACE was no longer significantly associated with resting Pd/Pa (aHR, 1.35 [95% CI, 0.93-1.97]; P=0.12) but remained to be associated with FFR (aHR, 2.34 [95% CI, 1.56-3.54]; P&lt;0.001). Compared with lesions with normal value of resting Pa/Pa and FFR, lesions with abnormal values of either resting Pd/Pa (aHR, 2.12 [95% CI, 1.17-3.84]; P=0.014) or FFR (aHR, 2.32 [95% CI, 1.52-3.55]; P&lt;0.001) or both (aHR, 2.37 [95% CI, 1.57-3.57]; P&lt;0.001) showed a significantly increased risk of the occurrence of MACE.
+CONCLUSIONS: Resting Pd/Pa appeared to be a less-robust prognostic index than FFR. Resting Pd/Pa could be used as a prognostic index when hyperemic agents are contraindicated or not easily available. Registration: URL: https://www.clinicaltrials.gov; Unique identifier: NCT01366404.
+
+Citation: Ahn JM, et al. Prognostic Value of Resting Distal-to-Aortic Coronary Pressure in Clinical Practice. Prognostic Value of Resting Distal-to-Aortic Coronary Pressure in Clinical Practice. 2020; 13:e007868. doi: 10.1161/CIRCINTERVENTIONS.118.007868
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32345039/

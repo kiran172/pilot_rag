@@ -1,0 +1,10 @@
+PMID: 34421106
+Title: Audit-Based Quality Validation of the Japan Cardiovascular Surgery Database.
+
+Abstract: BACKGROUND: The Japan Cardiovascular Surgery Database (JCVSD) is a nationwide registry of patients undergoing cardiovascular surgery in Japan. To investigate and improve data quality, we have been conducting on-site institutional audits since 2004. This study aimed to investigate the accuracy of the registered data by comparing it to site visit data.
+METHODS AND RESULTS: The subjects of this study were the 95 facilities at which a site visit was conducted. The case registration accuracy was 98.74%. Furthermore, we confirmed high data input accuracy of >90% for almost all fields. Approximately 99% of cases had been correctly entered for diabetes, aortic stenosis, and mortality. We also discovered which fields were more likely to be incorrectly captured and the causes thereof, as well as problems regarding some definitions and the input system itself.
+CONCLUSIONS: We were able to confirm high registration accuracy in the JCVSD. Appropriately resourced, focused site visits as part of a national audit are capable of accurate data collection on which continual nationwide quality control can be based. Continued work and development to further improve the quality of the database are mandatory to maintain a high standard of cardiovascular surgery in Japan.
+
+Citation: Tsukihara H, et al. Audit-Based Quality Validation of the Japan Cardiovascular Surgery Database. Audit-Based Quality Validation of the Japan Cardiovascular Surgery Database. 2021; 85:2014-2018. doi: 10.1253/circj.CJ-21-0444
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34421106/

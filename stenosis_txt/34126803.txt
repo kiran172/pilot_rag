@@ -1,0 +1,13 @@
+PMID: 34126803
+Title: Identifying Phenotypically Distinct Fibroblast Subsets in Type 2 Diabetes-Associated Iatrogenic Laryngotracheal Stenosis.
+
+Abstract: OBJECTIVE: Iatrogenic laryngotracheal stenosis (iLTS) is the pathologic narrowing of the glottis, subglottis, and/or trachea secondary to intubation or tracheostomy related injury. Patients with type 2 diabetes mellitus (T2DM) are more likely to develop iLTS. To date, the metabolomics and phenotypic expression of cell markers in fibroblasts derived from patients with T2DM and iLTS are largely unknown.
+STUDY DESIGN: Controlled in vitro cohort study.
+SETTING: Tertiary referral center (2017-2020).
+METHODS: This in vitro study assessed samples from 6 patients with iLTS who underwent surgery at a single institution. Fibroblasts were isolated from biopsy specimens of laryngotracheal scar and normal-appearing trachea and compared with controls obtained from the trachea of rapid autopsy specimens. Patients with iLTS were subcategorized into those with and without T2DM. Metabolic substrates were identified by mass spectrometry, and cell protein expression was measured by flow cytometry.
+RESULTS: T2DM iLTS-scar fibroblasts had a metabolically distinct profile and clustered tightly on a Pearson correlation heat map as compared with non-T2DM iLTS-scar fibroblasts. Levels of itaconate were elevated in T2DM iLTS-scar fibroblasts. Flow cytometry demonstrated that T2DM iLTS-scar fibroblasts were associated with higher CD90 expression (Thy-1; mean, 95%) when compared with non-T2DM iLTS-scar (mean, 83.6%; P = .0109) or normal tracheal fibroblasts (mean, 81.1%; P = .0042).
+CONCLUSIONS: Scar-derived fibroblasts from patients with T2DM and iLTS have a metabolically distinct profile. These fibroblasts are characterized by an increase in itaconate, a metabolite related to immune-induced scar remodeling, and can be identified by elevated expression of CD90 (Thy-1) in vitro.
+
+Citation: Lina IA, et al. Identifying Phenotypically Distinct Fibroblast Subsets in Type 2 Diabetes-Associated Iatrogenic Laryngotracheal Stenosis. Identifying Phenotypically Distinct Fibroblast Subsets in Type 2 Diabetes-Associated Iatrogenic Laryngotracheal Stenosis. 2022; 166:712-719. doi: 10.1177/01945998211014790
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34126803/

@@ -1,0 +1,11 @@
+PMID: 34715082
+Title: Comparing Single- and Dual-Antiplatelet Therapies After Transcatheter Aortic Valve Implantation.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation has been an established treatment in patients with symptomatic severe aortic stenosis. However, the postoperative antiplatelet regimen after transcatheter aortic valve implantation has not been established with certainty. This meta-analysis compared the safety and efficacy of single- antiplatelet therapies (SAPTs) and dual-antiplatelet therapies (DAPT) in patients undergoing transcatheter aortic valve implantation.
+METHODS: Eligible randomized controlled trials and cohort studies published before February 2021 were retrieved from PubMed, Embase, and the Cochrane Library. We calculated odds ratios (ORs) with 95% CIs.
+RESULTS: Nine articles, involving 19 277 patients, met the selection criteria. In the short-term outcome, compared with SAPT, DAPT was associated with a significantly higher rate of bleeding (OR, 3.00; 95% CI, 1.67-5.38) and showed no significant differences in thrombotic events (OR, 1.25; 95% CI, 0.74-2.11) and all-cause mortality (OR, 0.84; 95% CI, 0.42-1.69). In the long-term outcome, DAPT was associated with a significantly higher bleeding rate (OR, 1.85; 95% CI, 1.24-.78) and showed no differences in thrombotic events (OR, 1.13; 95% CI, 0.86-1.48) and all-cause mortality (OR, 1.12; 95% CI, 0.95-1.32). Our trial sequential analysis confirmed DAPT did not confer any benefit for reducing all-cause mortality and thrombotic events and carried a higher risk of bleeding than SAPT.
+CONCLUSIONS: SAPT should be a sufficient antiplatelet strategy in patients after transcatheter aortic valve implantation who do not have indications for oral anticoagulation medication, especially in the long-term follow-up period.
+
+Citation: Chiu HT, et al. Comparing Single- and Dual-Antiplatelet Therapies After Transcatheter Aortic Valve Implantation. Comparing Single- and Dual-Antiplatelet Therapies After Transcatheter Aortic Valve Implantation. 2022; 114:1951-1964. doi: 10.1016/j.athoracsur.2021.09.048
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34715082/

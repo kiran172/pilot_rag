@@ -1,0 +1,11 @@
+PMID: 35551127
+Title: Deep Learning for Automatic Upper Airway Obstruction Detection by Analysis of Flow-Volume Curve.
+
+Abstract: BACKGROUND: Due to the similar symptoms of upper airway obstruction to asthma, misdiagnosis is common. Spirometry is a cost-effective screening test for upper airway obstruction and its characteristic patterns involving fixed, variable intrathoracic and extrathoracic lesions. We aimed to develop a deep learning model to detect upper airway obstruction patterns and compared its performance with that of lung function clinicians.
+METHODS: Spirometry records were reviewed to detect the possible condition of airway stenosis. Then they were confirmed by the gold standard (e.g., computed tomography, endoscopy, or clinic diagnosis of upper airway obstruction). Images and indices derived from flow-volume curves were used for training and testing the model. Clinicians determined cases using spirometry records from the test set. The deep learning model evaluated the same data.
+RESULTS: Of 45,831 patients' spirometry records, 564 subjects with curves suggesting upper airway obstruction, after verified by the gold standard, 351 patients were confirmed. These cases and another 200 cases without airway stenosis were used as the training and testing sets. 432 clinicians evaluated 20 cases of each of the three patterns and 20 no airway stenosis cases (n = 80). They assigned an accuracy of 41.2% (±15.4) (interquartile range: 27.5-52.5%), with poor agreements (κ = 0.12). For the same cases, the model generated a correct detection of 81.3% (p < 0.0001).
+CONCLUSIONS: Deep learning could detect upper airway obstruction patterns from other classic patterns of ventilatory defects with high accuracy, whereas clinicians presented marked errors and variabilities. The model may serve as a support tool to enhance clinicians' correct diagnosis of upper airway obstruction using spirometry.
+
+Citation: Wang Y, et al. Deep Learning for Automatic Upper Airway Obstruction Detection by Analysis of Flow-Volume Curve. Deep Learning for Automatic Upper Airway Obstruction Detection by Analysis of Flow-Volume Curve. 2022; 101:841-850. doi: 10.1159/000524598
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35551127/

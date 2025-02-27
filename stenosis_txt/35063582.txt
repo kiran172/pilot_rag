@@ -1,0 +1,11 @@
+PMID: 35063582
+Title: Dose-effect relationship between vaginal dose points and vaginal stenosis in cervical cancer: An EMBRACE-I sub-study.
+
+Abstract: BACKGROUND AND PURPOSE: To evaluate dose-effect relationships between vaginal dose points and vaginal stenosis in patients treated for locally advanced cervical cancer with radio(chemo)therapy and image-guided adaptive brachytherapy.
+MATERIAL AND METHODS: Patients from six centres participating in the EMBRACE-I study were included. Information on doses to different vaginal dose points, including the Posterior-Inferior Border of Symphysis (PIBS) points and recto-vaginal reference (RV-RP) point, were retrieved from the treatment planning system. In addition, the vaginal reference length (VRL) was evaluated. Vaginal stenosis was prospectively assessed according to the CTCAEv3.0 system at baseline and follow-up. Primary endpoint was grade 2 or higher (G ≥ 2) vaginal stenosis. Impact of dose to the vaginal dose points, and impact of VRL, age, vaginal involvement and applicator on vaginal stenosis G ≥ 2 was evaluated with a Cox proportional-hazard regression model.
+RESULTS: 301 patients were included. Median follow-up was 49 months. During follow-up, the incidence of G0, G1, G2, and G3 vaginal stenosis was 25% (76), 52% (158), 20% (59) and 3% (8), respectively. Median total doses to PIBS+2 cm, PIBS, PIBS-2 cm and the RV-RP were 52.9 (IQR 49.3-64.7), 41.0 (IQR 15.4-49.0), 4.1 (IQR 2.9-7.0) and 64.6 (IQR 60.0-70.6) Gy EQD2<sub>3</sub>, respectively. Higher doses to the PIBS, PIBS + 2 cm and RV-RP points were significantly associated with increased risk for vaginal stenosis G ≥ 2. Other risk factors for vaginal stenosis were: vaginal involvement at diagnosis, higher age, shorter VRL and use of a tandem-ovoid applicator.
+CONCLUSION: Higher doses to the PIBS+2 cm, PIBS and RV-RP dose points are associated with vaginal stenosis G ≥ 2.
+
+Citation: Westerveld H, et al. Dose-effect relationship between vaginal dose points and vaginal stenosis in cervical cancer: An EMBRACE-I sub-study. Dose-effect relationship between vaginal dose points and vaginal stenosis in cervical cancer: An EMBRACE-I sub-study. 2022; 168:8-15. doi: 10.1016/j.radonc.2021.12.034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35063582/

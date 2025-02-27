@@ -1,0 +1,12 @@
+PMID: 37553516
+Title: Association between three-year mortality after transcatheter aortic valve implantation and paravalvular regurgitation graded by videodensitometry in comparison with visual grading.
+
+Abstract: BACKGROUND: Estimation of regurgitant fraction by videodensitometry (VD-AR) of aortic root angiograms is a new tool for objective grading of paravalvular regurgitation (PVR) after transcatheter aortic valve implantation (TAVI). Stratification with boundaries at 6% and 17% has been proposed to reflect "none/trace", "mild" and "moderate or higher" PVR.
+OBJECTIVE: We sought to investigate the association of strata of VD-AR with 3-year mortality and to compare VD-AR with visual grading of angiograms.
+METHODS: We interrogated our database for patients undergoing transfemoral TAVI from 2008 to 2018. Vital status of the patients was obtained from population registers. To test differences in survival and estimate adjusted hazard ratios (HRs) we fitted Cox models.
+RESULTS: Our retrospective study included 699 patients with evaluable angiograms at completion of the TAVI procedure. Cumulative 3-year mortality was 35.0% in 261 (37.3%) patients with VD-AR < 6%, 33.9% in 325 (46.5%) patients with VD-AR between 6 and 17% (HR [95% confidence interval] 1.06 [0.80-1.42]; P = 0.684) and 47.2% in 113 (16.2%) patients with VD-AR > 17% (HR 1.57 [1.11-2.22]; P = 0.011). Visually, PVR was graded as "none/trace" in 470 (67.2%) patients, as "mild" in 219 (31.3%) and as "moderate" in 10 (1.4%). Both mild PVR and moderate PVR on visual grading were significantly associated with mortality (HRs 1.31 [1.12-1.54]; P = 0.001 and 1.92 [1.13-3.24]; P = 0.015; respectively).
+CONCLUSIONS: VD-AR > 17%, but not VD-AR 6-17%, was independently associated with mortality. Compared with subjective visual evaluation, VD-AR resulted in a smaller proportion of patients with PVR classified as prognostically relevant.
+
+Citation: Elzomor H, et al. Association between three-year mortality after transcatheter aortic valve implantation and paravalvular regurgitation graded by videodensitometry in comparison with visual grading. Association between three-year mortality after transcatheter aortic valve implantation and paravalvular regurgitation graded by videodensitometry in comparison with visual grading. 2024; 113:116-125. doi: 10.1007/s00392-023-02280-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37553516/

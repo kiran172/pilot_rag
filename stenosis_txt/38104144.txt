@@ -1,0 +1,11 @@
+PMID: 38104144
+Title: Assessment of the functional severity of coronary lesions from optical coherence tomography based on ensembled learning.
+
+Abstract: BACKGROUND: Atherosclerosis is one of the most frequent cardiovascular diseases. The dilemma faced by physicians is whether to treat or postpone the revascularization of lesions that fall within the intermediate range given by an invasive fractional flow reserve (FFR) measurement. The paper presents a monocentric study for lesions significance assessment that can potentially cause ischemia on the large coronary arteries.
+METHODS: A new dataset is acquired, comprising the optical coherence tomography (OCT) images, clinical parameters, echocardiography and FFR measurements collected from 80 patients with 102 lesions, with stable multivessel coronary artery disease. Having the ground truth given by the invasive FFR measurement, the dataset is challenging because almost 40% of the lesions are in the gray zone, having an FFR value between 0.75 and 0.85. Twenty-six features are extracted from OCT images, clinical characteristics, and echocardiography and the most relevant are identified by examining the models' accuracy. An ensembled learning is performed for solving the binary classification problem of lesion significance considering the leave-one-out cross-validation approach.
+RESULTS: Ensemble models are designed from the multi-features voting from 5 features models by prediction aggregation with a maximum accuracy of 81.37% and a maximum area under the curve score (AUC) of 0.856.
+CONCLUSIONS: The proposed explainable supervised learning-based lesion classification is a new method that can be improved by training with a larger multicenter dataset for further designing a tool for guiding the decision making of the clinician for the cases outside the gray zone and for the other situation extra clinical information about the lesion is needed.
+
+Citation: Tache IA, et al. Assessment of the functional severity of coronary lesions from optical coherence tomography based on ensembled learning. Assessment of the functional severity of coronary lesions from optical coherence tomography based on ensembled learning. 2023; 22:127. doi: 10.1186/s12938-023-01192-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38104144/

@@ -1,0 +1,12 @@
+PMID: 38199755
+Title: Atrial Functional Tricuspid Regurgitation in Patients Undergoing Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Knowledge about atrial functional tricuspid regurgitation (afTR) in transcatheter aortic valve replacement (TAVR) patients is scarce.
+OBJECTIVES: The aim of the study was to analyze the association between the entity and the development of tricuspid regurgitation (TR) in patients undergoing TAVR for aortic stenosis and concomitant TR.
+METHODS: We analyzed patients undergoing TAVR for severe aortic stenosis from January 2013 to December 2020 and concomitant at least moderate TR at baseline. afTR was defined as enlargement of the right atrium in relation to the right ventricle. TR development after TAVR and 3-year all-cause mortality were evaluated.
+RESULTS: Out of 3,474 TAVR patients, we identified 420 patients with concomitant at least moderate TR. A total of 363 patients were included in the study, with 178 patients stratified in the afTR and 185 in the non-afTR group based on a receiver-operating characteristic curve cutoff of 1.132 of the right atrial/right ventricular area ratio. TR improvement after TAVR was observed in significantly less patients with afTR compared with non-afTR (31.1% vs 60.6%; P < 0.001). Multivariate regression analysis confirmed afTR as independent predictor for TR persistence (adjusted OR: 2.80; 95% CI: 1.66-4.76; P < 0.001). Moreover, afTR was associated with aggravation of TR after TAVR (17.0% vs 6.8%; P = 0.013). Three-year all-cause mortality was significantly higher in patients with persistence compared with patients with improvement of TR (P < 0.001).
+CONCLUSIONS: In TAVR patients, afTR is an independent predictor for TR persistence. Moreover, TR persistence is associated with increased 3-year all-cause mortality.
+
+Citation: Löw K, et al. Atrial Functional Tricuspid Regurgitation in Patients Undergoing Transcatheter Aortic Valve Replacement. Atrial Functional Tricuspid Regurgitation in Patients Undergoing Transcatheter Aortic Valve Replacement. 2024; 17:76-87. doi: 10.1016/j.jcin.2023.10.069
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38199755/

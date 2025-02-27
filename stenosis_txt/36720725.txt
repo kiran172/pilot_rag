@@ -1,0 +1,11 @@
+PMID: 36720725
+Title: Analysis of risk factors for systemic inflammatory response syndrome in patients after transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVE: Our aim was to determine the risk factors of postoperative systemic inflammatory response syndrome (SIRS) in patients with transcatheter aortic valve replacement (TAVR), identify those with a high risk of SIRS, and help reduce SIRS occurrence.
+METHODS: A retrospective cohort study was conducted to collect the clinical data of patients who underwent TAVR from January 2014 to December 2019 at a tertiary hospital in Zhejiang Province. The study included 156 men and 94 women. Patients were divided into SIRS and non-SIRS groups. The pre-, intra-, and postoperative indices of the two groups were recorded. The data of the two groups were compared, and univariate analysis was performed. All statistically significant factors were assessed using binary logistic regression analysis to clarify the risk factors of SIRS after TAVR.
+RESULTS: Overall, 30 patients developed SIRS after TAVR, with an incidence rate of 12%, an odds ratio (OR) of 0.571, and a 95% confidence interval (CI) of 0.469-0.694 (p = 0.000). There was a significant correlation between SIRS and glucose (OR: 0.823, 95% CI: 0.678-1.000, p = 0.049), albumin (OR: 0.938, 95% CI: 0.881-0.998, p = 0.044), brain natriuretic peptide (OR: 1.000, 95% CI: 1.000-1.000, p = 0.010), sex (OR: 0.412, 95% CI: 0.190-0.892, p = 0.025), and history of hypertension (OR: 0.375, 95% CI: 0.169-0.819, p = 0.014). Multivariate regression analysis demonstrated that age (OR: 1.190, 95%CI: 1.073-1.319, p = 0.001) and body mass index (BMI; OR: 0.559, 95% CI: 0.447-0.698, p = 0.000) were independent risk factors for postoperative SIRS in patients with TAVR.
+CONCLUSION: The incidence of SIRS after TAVR was 12%. There was a significant correlation between SIRS and albumin, glucose, and hypertension. The independent risk factors for SIRS after TAVR were age and BMI.
+
+Citation: Cheng J, et al. Analysis of risk factors for systemic inflammatory response syndrome in patients after transcatheter aortic valve replacement. Analysis of risk factors for systemic inflammatory response syndrome in patients after transcatheter aortic valve replacement. 2023; 48:393-398. doi: 10.1007/s00059-023-05163-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36720725/

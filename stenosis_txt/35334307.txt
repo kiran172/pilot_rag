@@ -1,0 +1,12 @@
+PMID: 35334307
+Title: Sodium thiosulfate acts as a hydrogen sulfide mimetic to prevent intimal hyperplasia via inhibition of tubulin polymerisation.
+
+Abstract: BACKGROUND: Intimal hyperplasia (IH) remains a major limitation in the long-term success of any type of revascularisation. IH is due to vascular smooth muscle cell (VSMC) dedifferentiation, proliferation and migration. The gasotransmitter Hydrogen Sulfide (H<sub>2</sub>S), mainly produced in blood vessels by the enzyme cystathionine- γ-lyase (CSE), inhibits IH in pre-clinical models. However, there is currently no H<sub>2</sub>S donor available to treat patients. Here we used sodium thiosulfate (STS), a clinically-approved source of sulfur, to limit IH.
+METHODS: Low density lipoprotein receptor deleted (LDLR-/-), WT or Cse-deleted (Cse-/-) male mice randomly treated with 4 g/L STS in the water bottle were submitted to focal carotid artery stenosis to induce IH. Human vein segments were maintained in culture for 7 days to induce IH. Further in vitro studies were conducted in primary human vascular smooth muscle cells (VSMCs).
+FINDINGS: STS inhibited IH in WT mice, as well as in LDLR-/- and Cse-/- mice, and in human vein segments. STS inhibited cell proliferation in the carotid artery wall and in human vein segments. STS increased polysulfides in vivo and protein persulfidation in vitro, which correlated with microtubule depolymerisation, cell cycle arrest and reduced VSMC migration and proliferation.
+INTERPRETATION: STS, a drug used for the treatment of cyanide poisoning and calciphylaxis, protects against IH in a mouse model of arterial restenosis and in human vein segments. STS acts as an H<sub>2</sub>S donor to limit VSMC migration and proliferation via microtubule depolymerisation.
+FUNDING: This work was supported by the Swiss National Science Foundation (grant FN-310030_176158 to FA and SD and PZ00P3-185927 to AL); the Novartis Foundation to FA; and the Union des Sociétés Suisses des Maladies Vasculaires to SD, and the Fondation pour la recherche en chirurgie vasculaire et thoracique.
+
+Citation: Macabrey D, et al. Sodium thiosulfate acts as a hydrogen sulfide mimetic to prevent intimal hyperplasia via inhibition of tubulin polymerisation. Sodium thiosulfate acts as a hydrogen sulfide mimetic to prevent intimal hyperplasia via inhibition of tubulin polymerisation. 2022; 78:103954. doi: 10.1016/j.ebiom.2022.103954
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35334307/

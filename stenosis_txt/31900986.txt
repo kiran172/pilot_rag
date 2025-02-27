@@ -1,0 +1,11 @@
+PMID: 31900986
+Title: Efficacy of fully covered self-expandable metal stents for the management of pancreatic duct strictures in chronic pancreatitis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND AND AIM: Recently, there has been burgeoning interest in the utilization of fully covered self-expandable metal stents (FCSEMSs) for managing main pancreatic duct strictures (MPDS) in chronic pancreatitis (CP). The primary aim was to investigate stricture resolution and recurrence rates of FCSEMS placement in patients with symptomatic CP complicated with MPDS.
+METHODS: MEDLINE, EMBASE, and ISI Web of Science and Cochrane Library (up to December 2019) were searched to identify eligible studies. A meta-analysis of stricture resolution and recurrence rates was carried out using R. The crude rate of adverse events related to stent therapy was also calculated.
+RESULTS: Ten studies involving 163 patients were included. The weighted pooled rate of MPDS resolution was 93% (95% confidence interval [95%CI] 84-99%) with substantial heterogeneity (I2  = 63%). Duration of stent placement more than 3 months did not result in a significantly higher resolution rate than that of 3 months or less (93% vs 93%, P = 0.91). The weighted pooled rate of stricture recurrence was 5% (95%CI: 0-12%). The stricture recurrence rate for patients with duration of stent placement more than 3 months (3%; 95%CI: 0-10%) was lower than that in patients with 3 months or less of stent placement (7%; 95%CI: 0-23%), but not significantly (P = 0.45). The overall rate of adverse events related to stent therapy was 34.9%, and spontaneous stent migration occurred in 14.1% of patients.
+CONCLUSIONS: The use of FCSEMSs appears to be effective and safe in the management of MPDS caused by symptomatic CP.
+
+Citation: Li TT, et al. Efficacy of fully covered self-expandable metal stents for the management of pancreatic duct strictures in chronic pancreatitis: A systematic review and meta-analysis. Efficacy of fully covered self-expandable metal stents for the management of pancreatic duct strictures in chronic pancreatitis: A systematic review and meta-analysis. 2020; 35:1099-1106. doi: 10.1111/jgh.14972
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31900986/

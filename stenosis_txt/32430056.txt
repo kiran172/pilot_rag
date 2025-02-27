@@ -1,0 +1,11 @@
+PMID: 32430056
+Title: Identified plasma proteins related to vascular structure are associated with coarctation of the aorta in children.
+
+Abstract: BACKGROUND: Coarctation of the aorta (CoA), presenting with local stenosis of the aorta is involved in many cardiovascular processes. However, there has been little research on the mechanism of coarctation of the aorta.
+METHODS: Altered proteins were identified by isobaric tag for relative and absolute quantitation (iTRAQ) technology in 8 participants, and further analysed by heatmap, Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes pathway (KEGG) and Search Tool for the Retrieval of Interacting Gene (STRING). Of these, two vascular structure-related proteins were further validated by using enzyme-linked immunosorbent assay (ELISA) in a new cohort of CoA patients.
+RESULTS: 39 differentially expressed plasma proteins were first identified in patients with coarctation of the aorta by iTRAQ. Of these, fibulin-1 (FBLN1) and insulin-like growth factor-binding protein complex acid labile subunit (ALS) were considered candidates and further validation also showed that the level of FBLN1 in the CoA group (8.92 ± 2.36 μg/ml) was significantly higher compared with control group (6.13 ± 1.94 μg/ml), and the level of ALS in CoA children (348.08 ± 216.74 ng/ml) was significantly lower than the level in normal children (619.46 ± 274.08 ng/ml).
+CONCLUSIONS: The differentially expressed proteins identified in the plasma from CoA patients indicated that they may play critical roles in CoA and that they could potentially be utilized as biomarkers for diagnosis. Altered vascular related proteins were associated with COA. These results provide a foundation for further understanding and studying the aetiology and pathogenesis of coarctation of the aorta.
+
+Citation: Ma S, et al. Identified plasma proteins related to vascular structure are associated with coarctation of the aorta in children. Identified plasma proteins related to vascular structure are associated with coarctation of the aorta in children. 2020; 46:63. doi: 10.1186/s13052-020-00830-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32430056/

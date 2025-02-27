@@ -1,0 +1,12 @@
+PMID: 33438433
+Title: Endoscopic retrograde cholangiopancreatography and carbohydrate antigen 19-9 in the differential diagnosis of biliary strictures.
+
+Abstract: INTRODUCTION: bile-duct strictures include a wide spectrum of benign and malignant diseases.
+OBJECTIVE: to determine the usefulness of endoscopic retrograde cholangio-pancreatography (ERCP) and circulating carbohydrate antigen 19-9 (CA 19-9) for the differential diagnosis of biliary strictures.
+METHOD: an observational, prospective, cross-sectional study was performed in 75 patients with biliary stricture diagnosed by ERCP between October 2018 and January 2020. The variables included type of biliary stricture as diagnosed by ERCP, biliary cytology, and CA 19-9 levels. For the statistical analysis, descriptive statistics were used according to type of variable. The relationships between them was analyzed using Pearson's chi-square and Fisher's exact probability tests, assuming differences were significant when p < 0.05. The cut-off point for CA 19-9 was calculated using the ROC curve, and Cohen's kappa index was used to measure concordance between diagnostic methods.
+RESULTS: cytology was positive in 51 (68 %) patients with biliary stenosis. Mean age was 63 years. Acute cholangitis predominated in malignant strictures (93.7 %). There was agreement between cytology and the cut-off value calculated for CA 19-9 of 85.4 U/mL, with a kappa agreement index of 0.332 (p = 0.004), and between ERCP and cytology, with a kappa concordance index of 0.701 (p < 0.001).
+CONCLUSIONS: a serum CA 19-9 value higher than 85.4 U/mL is highly related to neoplastic biliary stenosis.
+
+Citation: Barroso Márquez L, et al. Endoscopic retrograde cholangiopancreatography and carbohydrate antigen 19-9 in the differential diagnosis of biliary strictures. Endoscopic retrograde cholangiopancreatography and carbohydrate antigen 19-9 in the differential diagnosis of biliary strictures. 2022; 114:204-207. doi: 10.17235/reed.2021.7711/2020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33438433/

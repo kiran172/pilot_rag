@@ -1,0 +1,11 @@
+PMID: 32270881
+Title: Validation of scoring system predicting permanent pacemaker implantation after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) is being increasingly performed in patients with severe aortic stenosis. Despite newer generation valves, atrioventricular (AV) conduction disturbance is a common complication, necessitating permanent pacemaker (PPM) implantation in about 10% of patients. Hence, it is imperative to improve periprocedural risk stratification to predict PPM implantation after TAVR. The objective of this study was to externally validate a novel risk-stratification model derived from the National Inpatient Sample (NIS) database that predicts risk of PPM from TAVR.
+METHODS: Components of the score included pre-TAVR left and right bundle branch block, sinus bradycardia, second-degree AV block, and transfemoral approach. The scoring system was applied to 917 patients undergoing TAVR at our institution from November 2011 to February 2017. We assessed its predictive accuracy by looking at two components: discrimination using the C-statistic and calibration using the Hosmer-Lemeshow goodness of fit test.
+RESULTS: Ninety patients (9.8%) required PPM. The scoring system showed good discrimination with C-statistic score of 0.6743 (95% CI: 0.618-0.729). Higher scores suggested increased PPM risk, that is, 7.3% with score ⩽3, 19.23% with score 4-6, and 37.50% with score ≥7. Patients requiring PPM were older (81.4 versus 78.7 years, P = .002). Length of stay and in-hospital mortality was significantly higher in PPM group.
+CONCLUSIONS: The NIS database derived PPM risk prediction model was successfully validated in our database with acceptable discriminative and gradation capacity. It is a simple but valuable tool for patient counseling pre-TAVR and in identifying high-risk patients.
+
+Citation: Shivamurthy P, et al. Validation of scoring system predicting permanent pacemaker implantation after transcatheter aortic valve replacement. Validation of scoring system predicting permanent pacemaker implantation after transcatheter aortic valve replacement. 2020; 43:479-485. doi: 10.1111/pace.13910
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32270881/

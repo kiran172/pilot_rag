@@ -1,0 +1,11 @@
+PMID: 35931638
+Title: Use of Machine Learning to Develop Prediction Models for Mortality and Stroke in Patients Undergoing Balloon Aortic Valvuloplasty.
+
+Abstract: OBJECTIVE: To develop an artificial intelligence, machine learning prediction model for estimating in-hospital mortality and stroke in patients undergoing balloon aortic valvuloplasty (BAV).
+METHODS: The National Inpatient Sample (NIS) database was used to identify patients who underwent BAV from 2005 to 2017. Outcomes analyzed were in-hospital all-cause mortality and stroke after BAV. Predictors of mortality and stroke were selected using LASSO regularization. A conventional logistic regression and a random forest machine learning algorithm were used to train the models for predicting outcomes. The performance of all the modeling algorithms for predicting in-hospital mortality and stroke was compared between models using c-statistic, F1 score, brier score loss, diagnostic accuracy, and Kolmogorov-Smirnov plots.
+RESULTS: A total of 6962 patients with severe aortic stenosis who underwent BAV were identified. The performance of random forest classifier was comparable with logistic regression for predicting in-hospital mortality for all measures of performance (F1 score 0.422 vs 0.409, ROC-AUC 0.822 [95 % CI 0.787-0.855] vs 0.815 [95 % CI 0.779-0.849], diagnostic accuracy 70.42 % vs 70.93 %, KS-statistic 0.513 vs 0.494 and brier score loss 0.295 vs 0.291). The random forest algorithm significantly outperformed logistic regression in predicting in-hospital stroke with respect to all performance metrics: F1 score 0.225 vs 0.095, AUC 0.767 [0.662-0.858] vs 0.637 [0.499-0.754], brier score loss [0.399 vs 0.407], and KS-statistic [0.465 vs 0.254].
+CONCLUSIONS: The good discrimination of machine learning models reveal the potential of artificial intelligence to improve patient risk stratification for BAV.
+
+Citation: Bansal A, et al. Use of Machine Learning to Develop Prediction Models for Mortality and Stroke in Patients Undergoing Balloon Aortic Valvuloplasty. Use of Machine Learning to Develop Prediction Models for Mortality and Stroke in Patients Undergoing Balloon Aortic Valvuloplasty. 2022; 45:26-34. doi: 10.1016/j.carrev.2022.07.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35931638/

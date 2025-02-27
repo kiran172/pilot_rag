@@ -1,0 +1,12 @@
+PMID: 39451397
+Title: Convolutional Neural Network Incorporating Multiple Attention Mechanisms for MRI Classification of Lumbar Spinal Stenosis.
+
+Abstract: BACKGROUND: Lumbar spinal stenosis (LSS) is a common cause of low back pain, especially in the elderly, and accurate diagnosis is critical for effective treatment. However, manual diagnosis using MRI images is time consuming and subjective, leading to a need for automated methods.
+OBJECTIVE: This study aims to develop a convolutional neural network (CNN)-based deep learning model integrated with multiple attention mechanisms to improve the accuracy and robustness of LSS classification via MRI images.
+METHODS: The proposed model is trained on a standardized MRI dataset sourced from multiple institutions, encompassing various lumbar degenerative conditions. During preprocessing, techniques such as image normalization and data augmentation are employed to enhance the model's performance. The network incorporates a Multi-Headed Self-Attention Module, a Slot Attention Module, and a Channel and Spatial Attention Module, each contributing to better feature extraction and classification.
+RESULTS: The model achieved 95.2% classification accuracy, 94.7% precision, 94.3% recall, and 94.5% F1 score on the validation set. Ablation experiments confirmed the significant impact of the attention mechanisms in improving the model's classification capabilities.
+CONCLUSION: The integration of multiple attention mechanisms enhances the model's ability to accurately classify LSS in MRI images, demonstrating its potential as a tool for automated diagnosis. This study paves the way for future research in applying attention mechanisms to the automated diagnosis of lumbar spinal stenosis and other complex spinal conditions.
+
+Citation: Lin J, et al. Convolutional Neural Network Incorporating Multiple Attention Mechanisms for MRI Classification of Lumbar Spinal Stenosis. Convolutional Neural Network Incorporating Multiple Attention Mechanisms for MRI Classification of Lumbar Spinal Stenosis. 2024; 11:(unknown pages). doi: 10.3390/bioengineering11101021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39451397/

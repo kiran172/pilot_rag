@@ -1,0 +1,17 @@
+PMID: 34694039
+Title: Relationship Between Simulated Gadolinium-Based Contrast Agent Injection Profile and Achievable Resolution Metrics in Contrast-Enhanced Magnetic Resonance Angiography.
+
+Abstract: BACKGROUND: Contrast bolus variation during contrast-enhanced magnetic resonance angiography (CE-MRA) acquisition may lead to vessel blurring.
+PURPOSE: To combine knowledge of how contrast signal intensity (SI) evolves for different injection strategies with anatomically familiar parametric computer models to measure and visually assess the effects of a wide range of variables on modeled CE-MRA, and in doing so develop contrast rate injection guidelines.
+STUDY TYPE: Computer modeling.
+PHANTOM: Digital three-dimensional phantom consisting of orthogonal "aorta," 7 mm diameter "renal arteries" (with 57% and 86% diameter stenoses), and 7 mm diameter "superior mesenteric artery" (with 57% diameter stenosis).
+FIELD STRENGTH/SEQUENCE: One millimeter in-plane resolution arterial CE-MRA imaging at 3 T.
+ASSESSMENT: "Background" (time invariant) and "vascular" (time varying) components of the phantom were each Fourier transformed into the spatial frequency domain, the latter modulated by the SI evolution of a contrast bolus of varying "plateau" lengths and "tail" heights. Data are presented as surface plots of stenosis measurement error and blurring vs. a reference-standard injection.
+STATISTICAL TESTS: Descriptive.
+RESULTS: Shorter plateau lengths and lower tail heights resulted in increased measured stenosis error and blurring vs. the reference standard. Under a 44-second acquisition, full width half maximum stenosis error of the 86% stenosis with 25% plateau length and 25% tail height is 24% as compared to that from the reference standard. As plateau length and tail height approach 100%, stenosis error and blurring approach a floor defined by the MR acquisition's limitations.
+DATA CONCLUSION: We propose that to achieve minimal degradation with CE-MRA, one can create a contrast bolus with either 60% plateau and 50% tail height or 80% plateau with any tail. These considerations may well prove to be of practical importance, possibly via manipulating the tail by means of multiphasic contrast injections.
+LEVEL OF EVIDENCE: 3 TECHNICAL EFFICACY: Stage 1.
+
+Citation: Clark TJ, et al. Relationship Between Simulated Gadolinium-Based Contrast Agent Injection Profile and Achievable Resolution Metrics in Contrast-Enhanced Magnetic Resonance Angiography. Relationship Between Simulated Gadolinium-Based Contrast Agent Injection Profile and Achievable Resolution Metrics in Contrast-Enhanced Magnetic Resonance Angiography. 2022; 55:1797-1807. doi: 10.1002/jmri.27966
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34694039/

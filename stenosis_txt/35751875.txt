@@ -1,0 +1,11 @@
+PMID: 35751875
+Title: Riociguat attenuates the changes in left ventricular proteome and microRNA profile after experimental aortic stenosis in mice.
+
+Abstract: BACKGROUND AND PURPOSE: Development and progression of heart failure involve endothelial and myocardial dysfunction as well as a dysregulation of the NO-sGC-cGMP signalling pathway. Recently, we reported that the sGC stimulator riociguat has beneficial effects on cardiac remodelling and progression of heart failure in response to chronic pressure overload. Here, we examined if these beneficial effects of riociguat were also reflected in alterations of the myocardial proteome and microRNA profiles.
+EXPERIMENTAL APPROACH: Male C57BL/6N mice underwent transverse aortic constriction (TAC) and sham-operated mice served as controls. TAC and sham animals were randomised and treated with either riociguat or vehicle for 5 weeks, starting 3 weeks after surgery, when cardiac hypertrophy was established. Afterwards, we performed mass spectrometric proteome analyses and microRNA sequencing of proteins and RNAs, respectively, isolated from left ventricles (LVs).
+KEY RESULTS: TAC-induced changes of the LV proteome were significantly reduced by treatment with riociguat. Bioinformatics analyses revealed that riociguat improved TAC-induced cardiovascular disease-related pathways, metabolism and energy production, for example, reversed alterations in the levels of myosin heavy chain 7, cardiac phospholamban and ankyrin repeat domain-containing protein 1. Riociguat also attenuated TAC-induced changes of microRNA levels in the LV.
+CONCLUSION AND IMPLICATIONS: The sGC stimulator riociguat exerted beneficial effects on cardiac structure and function during pressure overload, which was accompanied by a reversal of TAC-induced changes of the cardiac proteome and microRNA profile. Our data support the potential of riociguat as a novel therapeutic agent for heart failure.
+
+Citation: Benkner A, et al. Riociguat attenuates the changes in left ventricular proteome and microRNA profile after experimental aortic stenosis in mice. Riociguat attenuates the changes in left ventricular proteome and microRNA profile after experimental aortic stenosis in mice. 2022; 179:4575-4592. doi: 10.1111/bph.15910
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35751875/

@@ -1,0 +1,11 @@
+PMID: 37937359
+Title: Prognostic value of transvalvular flow rate in patients with low-gradient severe aortic stenosis: A dobutamine stress echocardiography study.
+
+Abstract: BACKGROUNDS: There are limited data on the clinical relevance of transvalvular flow rate (Q<sub>mean</sub> ) at rest (Q<sub>rest)</sub> and at peak stress (Q<sub>stress</sub> ) during dobutamine stress echocardiography (DSE) in patients with low-gradient severe aortic stenosis (LG-SAS).
+METHODS: We retrospectively analyzed the clinical data of patients with LG-SAS who underwent DSE. LG-SAS was defined as an aortic valve (AV) area index of &lt; .6 cm2 /m2 and a mean AV pressure gradient (AVPG) of &lt; 40 mm Hg. The primary endpoint included all-cause death and heart failure hospitalization.
+RESULTS: Of 100 patients (mean age 79.5 ± 7.3 years; men, 45.0%; resting left ventricular ejection fraction [LVEF] 52.1% ± 15.9%; resting stroke volume index 35.8 ± 7.7 mL/m2 ; Q<sub>rest</sub> 171.8 ± 34.9 mL/s), the primary endpoint occurred in 51 patients during a median follow-up of 2.84 (interquartile range 1.01-5.21) years. When the study patients were divided into three subgroups based on Q<sub>rest</sub> and Q<sub>stress</sub> , the multivariate analysis showed that Qrest &lt; 200 mL/s and Qstress ≥200 mL/s (hazard ratio 3.844; 95% confidence interval 1.143-12.930; p = .030), as well as Q<sub>rest</sub> and Qstress &lt; 200 mL/s (hazard ratio 9.444; 95% confidence interval 2.420-36.850; p = .001), were significantly associated with unfavorable outcomes with Q<sub>rest</sub> and Qstress ≥200 mL/s as a reference after adjusting for resting LVEF, resting mean AVPG, chronic kidney disease, New York Heart Association functional class III/IV, and AV replacement.
+CONCLUSIONS: Flow conditions based on the combination of Q<sub>rest</sub> and Q<sub>stress</sub> are helpful for risk stratification in LG-SAS patients.
+
+Citation: Onishi H, et al. Prognostic value of transvalvular flow rate in patients with low-gradient severe aortic stenosis: A dobutamine stress echocardiography study. Prognostic value of transvalvular flow rate in patients with low-gradient severe aortic stenosis: A dobutamine stress echocardiography study. 2024; 41:e15712. doi: 10.1111/echo.15712
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37937359/

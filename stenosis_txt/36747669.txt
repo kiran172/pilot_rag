@@ -1,0 +1,8 @@
+PMID: 36747669
+Title: Coronary Flow Rate Adds Predictive Capability for FFR Assessment.
+
+Abstract: A non-invasive risk assessment tool capable of stratifying coronary artery stenosis into high and low risk would reduce the number of patients who undergo invasive FFR, the current gold standard procedure for assessing coronary artery disease. Current statistic-based models that predict if FFR is above or below the threshold for physiological significance rely completely on anatomical parameters, such as percent diameter stenosis (%DS), resulting in models not accurate enough for clinical application. The inclusion of coronary artery flow rate (CFR) was added to an anatomical-only logistic regression model to quantify added predictive value. Initial hypothesis testing on a cohort of 96 coronary artery segments with some degree of stenosis found higher mean CFR in a group with low FFR < 0.8 (μ = 2.37 ml/s) compared to a group with high FFR > 0.8 (μ = 1.85 ml/s) (p-value = 0.046). Logistic regression modeling using both %DS and CFR (AUC = 0.78) outperformed logistic regression models using either only %DS (AUC = 0.71) or only CFR (AUC = 0.62). Including physiological parameters in addition to anatomical parameters are necessary to improve statistical based models for assessing high or low FFR.
+
+Citation: Miller J, et al. Coronary Flow Rate Adds Predictive Capability for FFR Assessment. Coronary Flow Rate Adds Predictive Capability for FFR Assessment. 2023; (unknown volume):(unknown pages). doi: 10.21203/rs.3.rs-2394292/v1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36747669/

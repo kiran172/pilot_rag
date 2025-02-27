@@ -1,0 +1,11 @@
+PMID: 38607438
+Title: Vein of Galen aneurysmal malformation: does size affect outcome?
+
+Abstract: PURPOSE: To validate a semiautomated method for segmenting vein of Galen aneurysmal malformations (VGAM) and to assess the relationship between VGAM volume and other angioarchitectural features, cardiological findings, and outcomes.
+METHODS: In this retrospective study, we selected all subjects with VGAM admitted to the Gaslini Children's Hospital between 2009 and 2022. Clinical data were retrieved from electronic charts. We compared 3D-Slicer segmented VGAM volumes obtained by two independent observers using phase-contrast MR venography to those obtained with manual measurements performed on T2-weighted images. The relationship between VGAM volumes and clinical and neuroimaging features was then explored.
+RESULTS: Forty-three subjects with VGAM (22 males, mean age 6.56 days) were included in the study. Manual and semiautomated VGAM volumes were well correlated for both readers (r = 0.86 and 0.82, respectively). Regarding reproducibility, the inter-rater interclass correlation coefficients were 0.885 for the manual method and 0.992 for the semiautomated method (p < 0.001). The standard error for repeated measures was lower for the semiautomated method (0.04 versus 0.40 of manual method). Higher VGAM volume was associated with superior sagittal sinus narrowing, jugular bulb stenosis, and aqueductal stenosis (p < 0.05). A weak correlation was found between VGAM volume and straight sinus dilatation (r = 0.331) and superior sagittal sinus index (r =  - 0.325). No significant associations were found with cardiac findings, post-embolization complications, and outcome (p > 0.05).
+CONCLUSIONS: Semiautomated VGAM volumetry is feasible and reliable with improved reproducibility compared to the manual method. VGAM volume is not a prognostic factor for clinical outcome, but it is related to other venous findings with potential hemodynamic effects.
+
+Citation: Parodi C, et al. Vein of Galen aneurysmal malformation: does size affect outcome?. Vein of Galen aneurysmal malformation: does size affect outcome?. 2024; 66:1031-1042. doi: 10.1007/s00234-024-03347-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38607438/

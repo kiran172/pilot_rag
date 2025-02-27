@@ -1,0 +1,11 @@
+PMID: 36878532
+Title: [Comparison of Lower Extremity Computed Tomography Angiography by Using Different Subtraction Techniques].
+
+Abstract: PURPOSE: To compare the diagnostic capabilities of orbital synchronized helical scanning at lower extremity computed tomography angiography between the Add/Sub software and the deformable image registration.
+METHODS: From March 2015 to December 2016, 100 dialysis patients underwent orbital synchronized lower limb CT subtraction angiography and lower limb endovascular treatment within 4 months. For the visual evaluation of blood vessels in the lower extremities, a stenosis rate of 50% or more was considered to be stenosis. It was classified into two areas: above-knee (AK) region (superficial femoral artery and popliteal artery) and below-knee (BK) region (anterior tibial artery, posterior tibial artery, and fibula artery). Considering angiography for the lower limb endovascular treatment as the golden standard, we calculated the sensitivity, specificity, positive-predictive value, negative-predictive value, and diagnostic capabilities. Receiver operating characteristic curve (ROC) analysis was performed to calculate the area under curve (AUC).
+RESULTS: Calcification subtraction failure was observed to be 11% in the AK region and 2% in the BK region using the Add/Sub software. The specificity, positive-predictive value, diagnostic capabilities, and AUC of the deformable image registration were lower than those of the Add/Sub software.
+CONCLUSIONS: Add/Sub software and deformable image registration have high diagnostic capability to remove calcification. On the other hand, the specificity and AUC of the deformable image registration were lower than those of the Add/Sub software. Also, even if the same deformable image registration is used, caution is required because the diagnostic performance varies depending on the site.
+
+Citation: Noda N, et al. [Comparison of Lower Extremity Computed Tomography Angiography by Using Different Subtraction Techniques]. [Comparison of Lower Extremity Computed Tomography Angiography by Using Different Subtraction Techniques]. 2023; 79:440-445. doi: 10.6009/jjrt.2023-1211
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36878532/

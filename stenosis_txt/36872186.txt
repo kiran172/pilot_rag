@@ -1,0 +1,11 @@
+PMID: 36872186
+Title: Long-term prognostic implications of hemodynamic and plaque assessment using coronary CT angiography.
+
+Abstract: BACKGROUND AND AIMS: Hemodynamic and plaque characteristics can be analyzed using coronary CT angiography (CTA). We aimed to explore long-term prognostic implications of hemodynamic and plaque characteristics using coronary CT angiography (CTA).
+METHODS: Invasive fractional flow reserve (FFR) and CTA-derived FFR (FFR<sub>CT</sub>) were undertaken for 136 lesions in 78 vessels and followed-up to 10 years until December 2020. FFR<sub>CT</sub>, wall shear stress (WSS), change in FFR<sub>CT</sub> across the lesion (ΔFFR<sub>CT</sub>), total plaque volume (TPV), percent atheroma volume (PAV), and low-attenuation plaque volume (LAPV) for target lesions [L] and vessels [V] were obtained by independent core laboratories. Their collective influence was evaluated for the clinical endpoints of target vessel failure (TVF) and target lesion failure (TLF).
+RESULTS: During a median follow-up of 10.1 years, PAV[V] (per 10% increase, HR 2.32 [95% CI 1.11-4.86], p = 0.025), and FFR<sub>CT</sub>[V] (per 0.1 increase, HR 0.56 [95% CI 0.37-0.84], p = 0.006) were independent predictors of TVF for the per-vessel analysis, and WSS[L] (per 100 dyne/cm2 increase, HR 1.43 [1.09-1.88], p = 0.010), LAPV[L] (per 10 mm3 increase, HR 3.81 [1.16-12.5], p = 0.028), and ΔFFR<sub>CT</sub>[L] (per 0.1 increase, HR 1.39 [1.02-1.90], p = 0.040) were independent predictors of TLF for the per-lesion analysis after adjustment for clinical and lesion characteristics. The addition of both plaque and hemodynamic predictors improved the predictability for 10-year TVF and TLF of clinical and lesion characteristics (all p &lt; 0.05).
+CONCLUSIONS: Vessel- and lesion-level hemodynamic characteristics, and vessel-level plaque quantity, and lesion-level plaque compositional characteristics assessed by CTA offer independent and additive long-term prognostic value.
+
+Citation: Yang S, et al. Long-term prognostic implications of hemodynamic and plaque assessment using coronary CT angiography. Long-term prognostic implications of hemodynamic and plaque assessment using coronary CT angiography. 2023; 373:58-65. doi: 10.1016/j.atherosclerosis.2023.02.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36872186/

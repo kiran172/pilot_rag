@@ -1,0 +1,11 @@
+PMID: 38656368
+Title: Imaging and clinical predictors of surgery in stricturing ileal Crohn's disease: a retrospective study from a large pediatric hospital.
+
+Abstract: PURPOSE: (1) To determine the frequency of surgical management in children with Crohn's Disease (CD) and a new radiologic ileal stricture, and (2) to identify imaging and clinical features that predict the need for surgery.
+METHODS: This retrospective study included pediatric patients (< 21 years old) with CD and a new ileal stricture diagnosed by MRE, CTE, or CT between July 2018 and June 2023. Three board-certified radiologists recorded stricture length, maximum mural thickness, minimum lumen diameter, maximum upstream diameter, and simplified magnetic resonance index of activity (sMaRIA) score. Anthropometrics, laboratory data, and surgical interventions performed after stricture diagnosis were also recorded. Multivariable logistic regression was used to identify imaging and clinical variables associated with the need for surgery.
+RESULTS: 44 pediatric CD patients (median age 16.5 years) presented with a new ileal stricture during the study period. 30 (68.2%) patients required surgery, with a median time of 87.5 days between stricture diagnosis and surgery. Median stricture measurements were length: 7.0 cm, maximum mural thickness: 7.3 mm, minimum lumen diameter: 0.2 cm, and maximum upstream diameter: 3.3 cm. Median sMaRIA score was 3.0, and 14 (31.8%) strictures had associated internal penetrating disease. Stricture ratio (ratio of maximum upstream lumen diameter to minimum lumen diameter) (OR = 1.15 [95% CI 1.02-1.30]; p = 0.02) and sMaRIA (OR = 2.12 [95% CI 0.87-5.17; p = 0.10) were associated with need for surgery.
+CONCLUSION: Surgery remains common in stricturing pediatric CD, with increasing stricture ratio and sMaRIA score associated with need for surgical management.
+
+Citation: Debnath P, et al. Imaging and clinical predictors of surgery in stricturing ileal Crohn's disease: a retrospective study from a large pediatric hospital. Imaging and clinical predictors of surgery in stricturing ileal Crohn's disease: a retrospective study from a large pediatric hospital. 2024; 49:3354-3363. doi: 10.1007/s00261-024-04314-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38656368/

@@ -1,0 +1,12 @@
+PMID: 33129731
+Title: Prognostic Value of Computed Tomography-Derived Extracellular Volume in TAVR Patients With Low-Flow Low-Gradient Aortic Stenosis.
+
+Abstract: OBJECTIVES: The association between extracellular volume (ECV) measured by computed tomography angiography (CTA) and clinical outcomes was evaluated in low-flow low-gradient (LFLG) aortic stenosis (AS) patients undergoing transcatheter aortic valve replacement (TAVR).
+BACKGROUND: Patients with LFLG AS comprise a high-risk group with respect to clinical outcomes. Although ECV, a marker of myocardial fibrosis, is traditionally measured with cardiac magnetic resonance, it can also be measured using cardiac CTA. The authors hypothesized that in LFLG AS, increased ECV may be associated with adverse clinical outcomes.
+METHODS: In 150 LFLG patients with AS who underwent TAVR, ECV was quantified using pre-TAVR CTA. Echocardiographic and clinical information including all-cause death and heart failure rehospitalization (HFH) was obtained from electronic medical records. A Cox proportional hazards model was used to evaluate the association between ECV and death+HFH.
+RESULTS: During a median follow-up of 13.9 months (range 0.07 to 28.9 months), there were 31 death+HFH events (21%). Patients who experienced death+HFH had a greater median Society of Thoracic Surgery score (9.9 vs. 4.7; p < 0.01), lower left ventricular ejection fraction (42.3 ± 20.2% vs. 52.7 ± 17.2%; p < 0.01), lower mean transvalvular gradient (24.9 ± 8.9 mm Hg vs. 28.1 ± 7.3 mm Hg; p = 0.04) and increased mean ECV (35.5 ± 9.6% vs. 29.9 ± 8.2%; p < 0.01) compared with patients who did not experience death+HFH. In a multivariable Cox proportional hazards model, increase in ECV was associated with increase in death+HFH, (hazard ratio per 1% increase: 1.04, 95% confidence interval: 1.01 to 1.09; p < 0.01).
+CONCLUSIONS: In patients with LFLG AS, CTA measured increase in ECV is associated with increased risk of adverse clinical outcomes post-TAVR and may thus serve as a useful noninvasive marker for prognostication.
+
+Citation: Tamarappoo B, et al. Prognostic Value of Computed Tomography-Derived Extracellular Volume in TAVR Patients With Low-Flow Low-Gradient Aortic Stenosis. Prognostic Value of Computed Tomography-Derived Extracellular Volume in TAVR Patients With Low-Flow Low-Gradient Aortic Stenosis. 2020; 13:2591-2601. doi: 10.1016/j.jcmg.2020.07.045
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33129731/

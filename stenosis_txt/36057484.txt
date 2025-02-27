@@ -1,0 +1,11 @@
+PMID: 36057484
+Title: Discordance between fractional flow reserve and instantaneous wave-free ratio in patients with severe aortic stenosis: A retrospective cohort study.
+
+Abstract: BACKGROUND: Discordance between fractional flow reserve (FFR) and instantaneous wave-free ratio (iFR) occurs in approximately 20 % of cases. However, no studies have reported the discordance in patients with severe aortic stenosis (AS). We aimed to evaluate the diagnostic discordance between FFR and iFR in patients with severe AS.
+METHODS: We examined 140 consecutive patients with severe AS (164 intermediate coronary artery stenosis vessels). FFR and iFR were calculated in four quadrants based on threshold FFR and iFR values of ≤0.8 and ≤0.89, respectively (Group 1: iFR >0.89, FFR >0.80; Group 2: iFR ≤0.89, FFR >0.80; Group 3: iFR >0.89, FFR ≤0.80; and Group 4: iFR ≤0.89, FFR ≤0.80). Concordant groups were Groups 1 and 4, and discordant groups were Groups 2 and 3. Positive and negative discordant groups were Groups 3 and 2, respectively.
+RESULTS: The median (Q1, Q3) FFR and iFR were 0.84 (0.76, 0.88) and 0.85 (0.76, 0.91), respectively. Discordance was observed in 48 vessels (29.3 %). In the discordant group, negative discordance (Group 2: iFR ≤0.89 and FFR >0.80) was predominant (45 cases, 93.6 %). Multivariate analysis showed that the left anterior descending artery [odds ratio (OR), 3.88; 95 % confidence interval (CI): 1.54-9.79, p = 0.004] and peak velocity ≥5.0 m/s (OR, 3.21; 95%CI: 1.36-7.57, p = 0.008) were independently associated with negative discordance (FFR >0.8 and iFR ≤0.89).
+CONCLUSIONS: In patients with severe AS, discordance between FFR and iFR was predominantly negative and observed in 29.3 % of vessels. The left anterior descending artery and peak velocity ≥5.0 m/s were independently associated with negative discordance.
+
+Citation: Yamanaka F, et al. Discordance between fractional flow reserve and instantaneous wave-free ratio in patients with severe aortic stenosis: A retrospective cohort study. Discordance between fractional flow reserve and instantaneous wave-free ratio in patients with severe aortic stenosis: A retrospective cohort study. 2023; 81:138-143. doi: 10.1016/j.jjcc.2022.08.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36057484/

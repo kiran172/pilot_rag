@@ -1,0 +1,12 @@
+PMID: 35001037
+Title: Clinicodemographic Predictors of Tracheotomy Tube Size and Decannulation: A Multiinstitutional Retrospective Cohort Study on Tracheotomy.
+
+Abstract: OBJECTIVE: We aimed to discern clinico-demographic predictors of large (≥8) tracheostomy tube size placement, and, secondarily, to assess the effect of large tracheostomy tube size and other parameters on odds of decannulation before hospital discharge.
+SUMMARY OF BACKGROUND DATA: Factors determining choice of tracheostomy tube size are not well-characterized in the current literature, despite evidence linking large tracheostomy tube size with posttracheotomy tracheal stenosis. The effect of tracheostomy tube size on timing of decannulation is also unknown, an important consideration given reported associations between endotracheal tube size and probability of failed extubation.
+METHODS: We collected information pertaining to patients who underwent tracheotomy at 1 of 10 U.S. health care institutions between 2010 and 2019. Tracheostomy tube size was dichotomized (≥8 and <8). Multivariable logistic regression models were fit to identify predictors of (1) large tracheostomy tube size, and (2) decannulation before hospital discharge.
+RESULTS: The study included 5307 patients, including 2797 (52.7%) in the large tracheostomy cohort. Patient height (odds ratio [OR] = 1.060 per inch; 95% confidence interval [CI] 1.041-1.070) and obesity (1.37; 95% CI 1.1891.579) were associated with greater odds of large tracheostomy tube; otolaryngology performing the tracheotomy was associated with significantly lower odds of large tracheostomy tube (OR = 0.155; 95% CI 0.131-0.184). Large tracheostomy tube size (OR = 1.036; 95% CI 0.885-1.213) did not affect odds of decannulation.
+CONCLUSIONS: Obesity was linked with increased likelihood of large tracheostomy tube size, independent of patient height. Probability of decannulation before hospital discharge is influenced by multiple patient-centric factors, but not by size of tracheostomy tube.
+
+Citation: Panuganti BA, et al. Clinicodemographic Predictors of Tracheotomy Tube Size and Decannulation: A Multiinstitutional Retrospective Cohort Study on Tracheotomy. Clinicodemographic Predictors of Tracheotomy Tube Size and Decannulation: A Multiinstitutional Retrospective Cohort Study on Tracheotomy. 2023; 277:e1138-e1142. doi: 10.1097/SLA.0000000000005356
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35001037/

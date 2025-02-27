@@ -1,0 +1,13 @@
+PMID: 36524603
+Title: Characterizing the Macrophage Population in Patients With Idiopathic Subglottic Stenosis.
+
+Abstract: OBJECTIVES: Idiopathic subglottic stenosis (iSGS) is characterized by progressive fibrosis and subglottic luminal narrowing. Currently, immune characterization has focused on T-cells; however, macrophages remain largely unexplored. The goals of this study are to characterize the transcriptome of iSGS macrophages and the fibrogenic nature of identifed biomarkers.
+STUDY DESIGN: Bioinformatics and in vitro.
+METHODS: Human tracheal biopsies from iSGS scar (n = 4), and matched non-scar (n = 4) regions were analyzed using single-cell RNA-seq (scRNA-seq). Immunofluorescence (IF) was performed on rapidly processed autopsies (RPA) and iSGS tracheal resections (n = 4) to co-localize S100A8/9 and CD11b. Collagen gene/protein expression was assessed in iSGS fibroblasts (n = 4) treated with protein S100A8/9 (1000 ng/ml). Macrophages were subclustered to identify distinct subpopulations.
+RESULTS: scRNA-seq analysis revealed S100A8/S100A9 (fold change (FC) = 4.1/1.88, p < 0.001) as top differentially expressed genes in iSGS macrophages. IF exhibited increased CD11b+/S100A8/9+ cells in tracheal samples of iSGS versus RPA (26.75% ± 7.08 vs. 0.594% ± 0.974, n = 4, p = 0.029). iSGS fibroblasts treated with S100A8/9 demonstrated increased gene expression of COL1A1 (FC = 2.30 ± 0.45, p = 0.03, n = 4) and COL3A1 (FC = 2.44 ± 0.40, p = 0.03, n = 4). COL1A1 protein assays revealed an increase in the experimental group, albeit not significant, (p = 0.12, n = 4). Finally, macrophage sub clustering revealed one subpopulation as a predominant source of S100A8/S100A9 expression (FC = 7.94/5.47, p < 0.001).
+CONCLUSIONS: S100A8/9 is a key biomarker in iSGS macrophages. Although S100A8/9 demonstrates profibrotic nature in vitro, the role of S100A8/9+ macrophages in vivo warrants further investigation.
+LEVEL OF EVIDENCE: NA Laryngoscope, 133:2308-2316, 2023.
+
+Citation: Ospino R, et al. Characterizing the Macrophage Population in Patients With Idiopathic Subglottic Stenosis. Characterizing the Macrophage Population in Patients With Idiopathic Subglottic Stenosis. 2023; 133:2308-2316. doi: 10.1002/lary.30524
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36524603/

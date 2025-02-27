@@ -1,0 +1,11 @@
+PMID: 32114689
+Title: TAVI in Patients with Mitral Annular Calcification and/or Mitral Stenosis.
+
+Abstract: BACKGROUND:  We herein aimed for analysis of influence of mitral annular calcification (MAC) and mitral stenosis (MS) on outcomes in transcatheter aortic valve implantation (TAVI).
+METHODS:  Between 11/2009 and 06/2017, 1,058 patients underwent TAVI in the presence of concomitant MAC or MS at our center. Subgroups were built and multivariate logistic regression, COX regression, Kaplan-Meier survival analyses, and receiver operating characteristics method were performed.
+RESULTS: Thirty-day mortality was 7.5% (79/1,058) with highest mortality in patients severe MS (MAC: 3.4% vs. mild MS: 5.9% vs. moderate MS: 15.0% vs. severe MS: 72.7%; p &lt; 0.001). Moderate-to-severe MS (odds ratio [OR]: 7.75, confidence interval [CI]: 3.94-16.26, p &lt; 0.001), impaired left ventricular ejection fraction (OR: 1.38, CI: 1.10-1.72, p &lt; 0.01), and coronary artery disease (OR: 1.36, CI: 1.11-1.67, p &lt; 0.01) were predictive of 30-day survival. Left ventricular systolic/end-diastolic pressure drop of &lt;59.5 mm Hg / &lt;19.5 mm Hg was associated with increased mortality.
+CONCLUSIONS:  TAVI in the presence of MAC and mild MS is associated with acceptable acute outcomes but should be considered high-risk procedures in patients with moderate and especially those with severe MS. Our results suggest adverse hemodynamics after TAVI with concomitant MS, which may be caused by underfilling of the left ventricle leading to low-cardiac output.
+
+Citation: Schaefer A, et al. TAVI in Patients with Mitral Annular Calcification and/or Mitral Stenosis. TAVI in Patients with Mitral Annular Calcification and/or Mitral Stenosis. 2021; 69:428-436. doi: 10.1055/s-0039-1700966
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32114689/

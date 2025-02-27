@@ -1,0 +1,11 @@
+PMID: 32298959
+Title: Inter-observer reliability and clinical validity of the MRI grading system for cervical central stenosis based on sagittal T2-weighted image.
+
+Abstract: PURPOSE: The aim was to evaluate the inter-observer reliability of the Kang system among radiologists, residents, and clinicians and examine the correlation between radiologic and clinical findings.
+METHODS: A total of 133 patients (M:F = 44:89, mean age 56 years) who underwent MRI of the cervical spine at our hospital were included. Two radiologists, two trainees, and two clinicians measured Central cervical spinal stenosis (CCSS) grade at the narrowest point according to the grading system suggested by Kang et al. A different clinician (a neurosurgeon) assessed the associated neurologic manifestations. Kappa statistics were used to analyze the inter-reader agreement among the radiologists, trainees, and clinicians. The clinical correlation (R) between grade and positive clinical manifestations (PCMs) was assessed using nonparametric correlation analysis (Spearman's correlation).
+RESULTS: We found almost perfect agreement between trainees (k value = 0.890) and between radiologists (k value = 0.912) and substantial agreement between clinicians (k value = 0.691). Clinical correlations for all six readers suggested moderate correlation with R values ranging from 0.380 to 0.566. There was moderate correlation between grade and clinical manifestation within each group (R = 0.562-0.669).
+CONCLUSION: The Kang MRI grading system of CCSS based on mid-sagittal MRI provides objective, reliable, and reproducible assessment regardless of field proficiency of the reader although the reproducibility of the clinician is slightly lower than radiologist and trainee of the radiology department. There was moderate correlation between image interpretation and clinical findings irrespective of the reader's main field of research.
+
+Citation: Lee KH, et al. Inter-observer reliability and clinical validity of the MRI grading system for cervical central stenosis based on sagittal T2-weighted image. Inter-observer reliability and clinical validity of the MRI grading system for cervical central stenosis based on sagittal T2-weighted image. 2020; 127:108987. doi: 10.1016/j.ejrad.2020.108987
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32298959/

@@ -1,0 +1,12 @@
+PMID: 37811005
+Title: Amelioration of Subglottic Stenosis by Antimicrobial Peptide Eluting Endotracheal Tubes.
+
+Abstract: INTRODUCTION: Pediatric subglottic stenosis (SGS) results from prolonged intubation where scar tissue leads to airway narrowing that requires invasive surgery. We have recently discovered that modulating the laryngotracheal microbiome can prevent SGS. Herein, we show how our patent-pending antimicrobial peptide-eluting endotracheal tube (AMP-ET) effectively modulates the local airway microbiota resulting in reduced inflammation and stenosis resolution.
+MATERIALS AND METHODS: We fabricated mouse-sized ETs coated with a polymeric AMP-eluting layer, quantified AMP release over 10 days, and validated bactericidal activity for both planktonic and biofilm-resident bacteria against Staphylococcus aureus and Pseudomonas aeruginosa. Ex vivo testing: we inserted AMP-ETs and ET controls into excised laryngotracheal complexes (LTCs) of C57BL/6 mice and assessed biofilm formation after 24 h. In vivo testing: AMP-ETs and ET controls were inserted in sham or SGS-induced LTCs, which were then implanted subcutaneously in receptor mice, and assessed for immune response and SGS severity after 7 days.
+RESULTS: We achieved reproducible, linear AMP release at 1.16 µg/day resulting in strong bacterial inhibition in vitro and ex vivo. In vivo, SGS-induced LTCs exhibited a thickened scar tissue typical of stenosis, while the use of AMP-ETs abrogated stenosis. Notably, SGS airways exhibited high infiltration of T cells and macrophages, which was reversed with AMP-ET treatment. This suggests that by modulating the microbiome, AMP-ETs reduce macrophage activation and antigen specific T cell responses resolving stenosis progression.
+CONCLUSION: We developed an AMP-ET platform that reduces T cell and macrophage responses and reduces SGS in vivo via airway microbiome modulation.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s12195-023-00769-9.
+
+Citation: Aronson MR, et al. Amelioration of Subglottic Stenosis by Antimicrobial Peptide Eluting Endotracheal Tubes. Amelioration of Subglottic Stenosis by Antimicrobial Peptide Eluting Endotracheal Tubes. 2023; 16:369-381. doi: 10.1007/s12195-023-00769-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37811005/

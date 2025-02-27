@@ -1,0 +1,11 @@
+PMID: 37711760
+Title: Diagnostic performance of 128-slice computed tomography angiography in patients with suspected coronary artery disease.
+
+Abstract: OBJECTIVES: To determine the diagnostic performance and influencing factors of 128-slice coronary computed tomography angiography (CCTA) compared with invasive coronary angiography (ICA) in patients with suspected coronary artery disease (CAD).
+METHODS: A cross-sectional analysis study enrolled 139 patients suspected of having CAD, who underwent and received a 128-slice CCTA and ICA.
+RESULTS: The patient-based model showed high sensitivity and a positive predictive value of 93.2% and 95.3%, respectively (for stenosis ≥50%). However, these values were lower when analyzed using vessel-based (85.6% and 81.1%) and segment-based (73.9% and 66.6%) models. Specificity and negative predictive value were highest in the segment-based model, decreasing in vessel- and patient-based models at 96.4% and 95.4%, 90.5% and 90.0%, and 36.4% and 42.1%, respectively (for stenosis ≥70%). All diagnostic values were reduced when the calcium score was ≥400 Agatston units.
+CONCLUSION: 128-slice CCTA is an optimal, minimally invasive, and high-performance method to diagnose the stenosis and morphology of coronary artery lesions. The diagnostic performance of 128-slice CCTA is very high. Heart rate and body mass index do not affect diagnostic accuracy, whereas a calcium score ≥400 Agatston units is a factor that causes a decrease in diagnostic performance.
+
+Citation: Viet Tran A, et al. Diagnostic performance of 128-slice computed tomography angiography in patients with suspected coronary artery disease. Diagnostic performance of 128-slice computed tomography angiography in patients with suspected coronary artery disease. 2023; 18:1599-1607. doi: 10.1016/j.jtumed.2023.07.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37711760/

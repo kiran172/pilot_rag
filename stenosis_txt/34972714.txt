@@ -1,0 +1,10 @@
+PMID: 34972714
+Title: Infrared Spectroscopic Study and Mathematical Simulations of Carotid Atherosclerosis.
+
+Abstract: BACKGROUND/AIM: The pathogenesis, treatment and prevention of atherosclerosis continue to be the subject of intensive research and study by the scientific community. Based on Fourier-transform infrared spectra and 3D-Doppler echogram, we attempted to develop a computational simulation model for predicting the association of atherosclerotic risk factors with pathogenic molecular structural changes.
+MATERIALS AND METHODS: Atheromatic carotid arteries from 56 patients (60-85 years old) were used as samples. Color 3D-Doppler echogram screening was performed on all patients preoperatively. Each infrared spectrum consisted of 120 co-added spectra at a spectral resolution of 4 cm-1 Results: The infrared spectral analysis reveals 'marker bands', such as the 1,744 cm-1 band assigned to aldehyde formation and to the 'fingerprint' digital spectral region of 1,050-1,169 cm-1, characteristic of the presence of advanced glycation end products (C-O-C). The accumulation of calcium phosphate salts increases the formation rate of stenosis. The critical point of stenosis risk starts at about 45%, while when stenosis is over 60-70%, the risk of ischemic stroke or other major adverse cardiovascular events increases dramatically.
+CONCLUSION: Fourier-transform infrared spectroscopy and mathematical simulation models showed that carotid artery stenosis over 45% reduces the blood flow rate, while stenosis over 65% dramatically increases the hemodynamic disturbance, with a parallel increase the rate of ischemic stroke or other major adverse cardiovascular events.
+
+Citation: Anastassopoulou J, et al. Infrared Spectroscopic Study and Mathematical Simulations of Carotid Atherosclerosis. Infrared Spectroscopic Study and Mathematical Simulations of Carotid Atherosclerosis. 2022; 36:189-197. doi: 10.21873/invivo.12690
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34972714/

@@ -1,0 +1,11 @@
+PMID: 33051655
+Title: Transapical approach versus transcervical approach for transcatheter aortic valve replacement: a retrospective monocentric study.
+
+Abstract: OBJECTIVES: Transfemoral approach is the standard access-route for transcatheter aortic valve replacement (TAVR). However, alternative approaches are needed in a number of patients and accesses such as transapical (TA) TAVR or transcervical (TC) are used. We aimed to compare clinical and echocardiographic outcomes after TA-TAVR or TC-TAVR.
+METHODS: All patients who underwent TA- and TC-TAVR for severe aortic stenosis in our institution between 2008 and 2020 were retrospectively included. End points included 30-day all-cause mortality, procedural complications (according to the Valve Academic Research Consortium-2 criteria), procedure duration, intensive care unit (ICU) length of stay (LOS) and overall hospital LOS. For 30-day all-cause mortality, we furthermore used a Cox proportional-hazards model to adjust for significant between-group differences in baseline characteristics as well as difference in year of intervention.
+RESULTS: TAVR was performed in 176 patients, using a TA approach (n = 127) or a TC approach (n = 49). Baseline clinical and echocardiographic characteristics were comparable between the 2 groups, except age and peripheral artery disease. All-cause 30-day mortality rates were not significantly different (8.5% in the TA group vs 2.3% in the TC group, P = 0.124). TC approach was associated with significantly shorter procedure duration {71.0 [interquartile range (IQR) 52.5-101.0] vs 93 [IQR 80.0-120.0] min, P < 0.001}, shorter ICU LOS [0.0 (IQR 0.0-0.0) vs 1.0 (IQR 1.0-3.0) days, P < 0.001] and shorter hospital LOS [7.0 (IQR 5.0-9.5) vs 14.0 (IQR 10.0-22.0) days, P < 0.001].
+CONCLUSIONS: The TC approach may be a good first-choice alternative in case of contraindications to transfemoral-TAVR.
+
+Citation: Lu H, et al. Transapical approach versus transcervical approach for transcatheter aortic valve replacement: a retrospective monocentric study. Transapical approach versus transcervical approach for transcatheter aortic valve replacement: a retrospective monocentric study. 2020; 31:781-788. doi: 10.1093/icvts/ivaa202
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33051655/

@@ -1,0 +1,11 @@
+PMID: 33165730
+Title: Cervical arteriosclerosis is associated with preoperative clinical symptoms in patients with cervical spondylotic myelopathy.
+
+Abstract: PURPOSE: This study aims to clarify the association between cervical spondylotic myelopathy (CSM) and cervical arteriosclerosis using ultrasonography that comprehensively includes spinal cord stenosis.
+METHODS: Eighty-two consecutive patients aged over 60 years who underwent spine surgery were divided into those with CSM (n = 31; CSM group) and those with lumbar spinal stenosis without cervical myelopathy (n = 51; LSS group). Maximum spinal cord compression (MSCC) was evaluated for cervical stenosis severity using magnetic resonance (MR) images. The intima-media thickness (IMT) of the common carotid artery (CCA) and pulsatility index (PI) of the bilateral internal carotid artery (ICA) and vertebral artery (VA) were evaluated for cervical arteriosclerosis using pulsed-wave Doppler ultrasonography. Symptom severity was evaluated using the Japanese Orthopaedic Association (JOA) score. Spearman's correlation coefficient was used to determine the relationship between the JOA score and MSCC or IMT and PI in each group. Stepwise multiple linear regression analyses were conducted with the JOA score as a dependent variable and age, sex, body mass index, cervical arteriosclerosis assessment, and MSCC as independent variables.
+RESULTS: Bilateral IMT and left-side ICA-PI were significantly negatively correlated with JOA scores in the CSM group (Right-CCA-IMT: R =  - 0.412, Left-IMT: R =  - 0.549, Left-ICA -PI: R =  - 0.205, P < 0.05), but not in the LSS group. Multiple linear regression analyses showed that CCA-IMT was the strongest independent factor associated with the preoperative JOA score.
+CONCLUSIONS: Cervical arteriosclerosis was associated with preoperative clinical symptoms in CSM patients.
+
+Citation: Kumagai G, et al. Cervical arteriosclerosis is associated with preoperative clinical symptoms in patients with cervical spondylotic myelopathy. Cervical arteriosclerosis is associated with preoperative clinical symptoms in patients with cervical spondylotic myelopathy. 2021; 30:547-553. doi: 10.1007/s00586-020-06649-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33165730/

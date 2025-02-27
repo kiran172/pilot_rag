@@ -1,0 +1,11 @@
+PMID: 35762475
+Title: Association of ambulatory blood pressure with aortic valve and coronary artery calcification.
+
+Abstract: OBJECTIVE: We aimed to investigate the effect of ambulatory blood pressure (BP) on aortic valve calcification (AVC) and coronary artery calcification (CAC), which are subclinical atherosclerotic diseases.
+METHODS: In this population-based, cross-sectional study, we assessed office BP, mean ambulatory BP (24-h, awake, and asleep), and variability of ambulatory BP, as determined by the coefficient of variation (awake and asleep). AVC and CAC were quantified using an Agatston score (>0) based on computed tomography scanning. We calculated relative risks (RRs) and 95% confidence intervals (CIs) with a 1-standard deviation increment in each BP index for the presence of AVC and CAC using a multivariate-adjusted Poisson regression with robust error variance.
+RESULTS: Of 483 participants (mean age: 66.8 years), 154 (31.9%) and 310 (64.2%) had AVC and CAC, respectively. The presence of AVC was associated with office systolic BP (SBP; RR, 1.15; 95% CI, 1.03-1.28), awake diastolic BP (DBP) variability (RR, 1.12; 95% CI, 1.01-1.25), and asleep SBP variability (RR, 1.14; 95% CI, 1.03-1.27). The presence of CAC was associated with office SBP (RR, 1.08; 95% CI, 1.01-1.15), mean 24-h SBP (RR, 1.10; 95% CI, 1.04-1.16), mean awake SBP (RR, 1.11; 95% CI, 1.04-1.17), mean asleep SBP (RR, 1.07; 95% CI, 1.01-1.13), and asleep SBP variability (RR, 1.07; 95% CI, 1.01-1.13).
+CONCLUSION: These findings highlight the association of ambulatory BP indices with both AVC and CAC, but with different effects on their presences.
+
+Citation: Sawayama Y, et al. Association of ambulatory blood pressure with aortic valve and coronary artery calcification. Association of ambulatory blood pressure with aortic valve and coronary artery calcification. 2022; 40:1344-1351. doi: 10.1097/HJH.0000000000003147
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35762475/

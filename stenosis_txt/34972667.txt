@@ -1,0 +1,11 @@
+PMID: 34972667
+Title: Network Meta-Analysis Comparing the Short- and Long-Term Outcomes of Alternative Access for Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Several studies have pair-wise compared access sites for transcatheter aortic valve replacement (TAVR) but pooled estimate of overall comparative efficacy and safety outcomes are not well known. We sought to compare short- and long-term outcomes following various alternative access routes for TAVR.
+METHODS: Thirty-four studies with a pooled sample size of 32,756 patients were selected by searching PubMed and Cochrane library databases from inception through 11th June 2021 for patients undergoing TAVR via 1 of 6 different access sites: Transfemoral (TF), Transaortic (TAO), Transapical (TA), Transcarotid (TC), Transaxillary/Subclavian (TSA), and Transcaval (TCV). Data were extracted to conduct a frequentist network meta-analysis with a random-effects model using TF access as a reference group.
+RESULTS: Compared with TF, both TAO [RR 1.91, 95% CI (1.46-2.50)] and TA access [RR 2.12, 95% CI (1.84-2.46)] were associated with an increased risk of 30-day mortality. No significant difference was observed for stroke, myocardial infarction, major bleeding, conversion to open surgery, and major adverse cardiovascular or cerebrovascular events at 30 days between different accesses. Major vascular complications were lower in TA [RR 0.43, (95% CI, 0.28-0.67)] and TC [RR 0.51, 95% CI (0.35-0.73)] access compared to TF. The 1-year mortality was higher in TAO [RR of 1.35, (95% CI, 1.01-1.81)] and TA [RR 1.44, (95% CI, 1.14-1.81)] groups.
+CONCLUSION: Non-thoracic alternative access site utilization for TAVR implantation (TC, TSA and TCV) is associated with outcomes similar to conventional TF access. Thoracic TAVR access (TAO and TA) translates into increased short and long-term mortality.
+
+Citation: Ranka S, et al. Network Meta-Analysis Comparing the Short- and Long-Term Outcomes of Alternative Access for Transcatheter Aortic Valve Replacement. Network Meta-Analysis Comparing the Short- and Long-Term Outcomes of Alternative Access for Transcatheter Aortic Valve Replacement. 2022; 40:1-10. doi: 10.1016/j.carrev.2021.11.040
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34972667/

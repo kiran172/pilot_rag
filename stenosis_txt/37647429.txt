@@ -1,0 +1,8 @@
+PMID: 37647429
+Title: Distribution and chemotactic mechanism of CD4+ T cells in traumatic tracheal stenosis.
+
+Abstract: A systemic and local inflammatory immune imbalance is thought to be the cause of traumatic tracheal stenosis (TS). However, with CD4+ T lymphocytes being the predominant immune cells in TS, the mechanism of action and recruitment has not been described. In our research, using flow cytometry, ELISA, immunofluorescence, and Transwell chamber assays, the expression, distribution, and potential chemotactic function of CD4+ T cells in TS patients were examined before and after treatment. The results showed that the untreated group had significantly more CD4+ T cells and their secreted TGF-β1 than the treated group. Additionally, the untreated group's CD4+ T cells showed a significant rise in CCL22 and CCL1, as well as a larger proportion of CCR4 and CCR8. CD4+ T cells and CD68+ macrophages located in TS also expressed CCL1 and CCL22. In vitro, anti-CCL1 and anti-CCL22 can partially block the chemoattractant effect of TS bronchoalveolar lavage (BAL) on purified CD4+ T cells. The findings of this study indicated that TS contained unbalanced CD4 immune cells that were actively recruited locally by CCR4/CCL22 and CCR8/CCL1. As a result, it is anticipated that CD4 immune rebalancing can serve as a novel treatment for TS.
+
+Citation: Feng T, et al. Distribution and chemotactic mechanism of CD4+ T cells in traumatic tracheal stenosis. Distribution and chemotactic mechanism of CD4+ T cells in traumatic tracheal stenosis. 2023; 11:e916. doi: 10.1002/iid3.916
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37647429/

@@ -1,0 +1,8 @@
+PMID: 34892789
+Title: Measurement of Tremor on Arteriovenous Fistulas with a Flexible Capacitive Sensor.
+
+Abstract: Arteriovenous fistula (AVF) is a widely used vascular access for hemodialysis in clinical. It is a great challenge to monitoring the status of AVF in daily life due to acute AVF stenosis may occur on unnoticeable occasions, such as sleeping. Inspiring tremor is almost always accompanied by a healthy AVF, which can be adopted as an essential physiological sign for AVF monitoring. Hence, a fistula tremor measurement system based on a flexible capacitive pressure sensor is designed in this study. The sensor consists of polydimethylsiloxane(PDMS) dielectric layers, electrode layers, ground layers, and shielding layers. The PDMS layers are fabricated as cross superposition transverse microstructure film to enhance dielectric constant and sensitivity of the sensor. The isolation shielding layers and ground layers guarantee the sensing chain is noise-free. A microcontroller embedded AD7746 measurement circuit is designed for signal acquisition. We test our prototype on the wrists of healthy volunteers and AVF on dialysis patients separately. The pulse signals and AVF tremor signals are clear and distinguishable. The sensor and measurement system have excellent potential in wearable AVF monitoring.
+
+Citation: Luo K, et al. Measurement of Tremor on Arteriovenous Fistulas with a Flexible Capacitive Sensor. Measurement of Tremor on Arteriovenous Fistulas with a Flexible Capacitive Sensor. 2021; 2021:7324-7327. doi: 10.1109/EMBC46164.2021.9630463
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34892789/

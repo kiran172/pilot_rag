@@ -1,0 +1,10 @@
+PMID: 38774368
+Title: Photoplethysmography and intracardiac pressures: early insights from a pilot study.
+
+Abstract: AIMS: Invasive haemodynamic monitoring of heart failure (HF) is used to detect deterioration in an early phase thereby preventing hospitalizations. However, this invasive approach is costly and presently lacks widespread accessibility. Hence, there is a pressing need to identify an alternative non-invasive method that is reliable and more readily available. In this pilot study, we investigated the relation between wrist-derived photoplethysmography (PPG) signals and the invasively measured pulmonary capillary wedge pressure (PCWP).
+METHODS AND RESULTS: Fourteen patients with aortic valve stenosis who underwent transcatheter aortic valve replacement with concomitant right heart catheterization and PPG measurements were included. Six unique features of the PPG signals [heart rate, heart rate variability, systolic amplitude (SA), diastolic amplitude, crest time (CT), and large artery stiffness index (LASI)] were extracted. These features were used to estimate the continuous PCWP values and the categorized PCWP (low < 12 mmHg vs. high ≥ 12 mmHg). All PPG features resulted in regression models that showed low correlations with the invasively measured PCWP. Classification models resulted in higher performances: the model based on the SA and the model based on the LASI both resulted in an area under the curve (AUC) of 0.86 and the model based on the CT resulted in an AUC of 0.72.
+CONCLUSION: These results demonstrate the capability to non-invasively classify patients into clinically meaningful categories of PCWP using PPG signals from a wrist-worn wearable device. To enhance and fully explore its potential, the relationship between PPG and PCWP should be further investigated in a larger cohort of HF patients.
+
+Citation: Scholte NTB, et al. Photoplethysmography and intracardiac pressures: early insights from a pilot study. Photoplethysmography and intracardiac pressures: early insights from a pilot study. 2024; 5:379-383. doi: 10.1093/ehjdh/ztae020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38774368/

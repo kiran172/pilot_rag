@@ -1,0 +1,11 @@
+PMID: 37224394
+Title: Percutaneous versus surgical approach to aortic valve replacement with coronary revascularization: A systematic review andmeta-analysis.
+
+Abstract: OBJECTIVE: The optimal treatment of patients with severe aortic stenosis (AS) and complex coronary artery disease (CAD) remains controversial. We conducted a meta-analysis to investigate outcomes of transcatheter aortic valve replacement (TAVR) with percutaneous coronary intervention (PCI) versus surgical aortic valve replacement (SAVR) with coronary artery bypass grafting (CABG).
+METHODS: We searched PubMed, Embase, and Cochrane databases from its inception up to 17 December 2022 for studies that assessed TAVR + PCI versus SAVR + CABG in patients with AS and CAD. The primary outcome was perioperative mortality.
+RESULTS: Six observational studies including 135,003 patients assessing TAVI + PCI (n = 6988) versus SAVR + CABG (n = 128,015) were included. Compared to SAVR + CABG, TAVR + PCI was not significantly associated with perioperative mortality (RR, 0.76; 95% CI, 0.48-1.21; p = 0.25), vascular complications (RR, 1.85; 95% CI, 0.72-4.71; p = 0.20), acute kidney injury (RR, 0.99; 95% CI, 0.73-1.33; p = 0.95), myocardial infraction (RR, 0.73; 95% CI, 0.30-1.77; p = 0.49), or stroke (RR, 0.87; 95% CI, 0.74-1.02; p = 0.09). TAVR + PCI significantly reduced the incidence of major bleeding (RR, 0.29; 95% CI, 0.24-0.36; p &lt; 0.01) and length of hospital stay (MD, -1.60; 95% CI, -2.45 to -0.76; p &lt; 0.01), but increased the incidence of pacemaker implantation (RR, 2.03; 95% CI, 1.88-2.19; p &lt; 0.01). At follow-up, TAVR + PCI was significantly associated with coronary reintervention (RR, 3.17; 95% CI, 1.03-9.71; p = 0.04) and a reduced rate of long-term survival (RR, 0.86; 95% CI, 0.79-0.94; p &lt; 0.01).
+CONCLUSIONS: In patients with AS and CAD, TAVR + PCI did not increase perioperative mortality, but increased the rates of coronary reintervention and long-term mortality.
+
+Citation: Guo Y, et al. Percutaneous versus surgical approach to aortic valve replacement with coronary revascularization: A systematic review andmeta-analysis. Percutaneous versus surgical approach to aortic valve replacement with coronary revascularization: A systematic review andmeta-analysis. 2024; 39:1152-1160. doi: 10.1177/02676591231178894
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37224394/

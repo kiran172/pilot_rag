@@ -1,0 +1,11 @@
+PMID: 38991732
+Title: Futile recanalization in patients with basilar artery occlusion: assessment of the underlying etiology and the role of perfusion imaging.
+
+Abstract: BACKGROUND: Futile recanalization (FR) after endovascular therapy (EVT) is common in basilar artery occlusion (BAO). The purpose of this study was to investigate the predictors of FR in the posterior circulation with an emphasis on the role of perfusion imaging and its relation to the underlying etiology.
+METHODS: We included BAO patients who had pretreatment perfusion imaging and successful recanalization after EVT. Patients were dichotomized into futile and non-futile groups according to the favorable functional outcome at 90 days (modified Rankin Scale (mRS) 0-3). Perfusion abnormalities were assessed using an automated software for Tmax volume measurement and identification of hypoperfusion area based on Tmax>6 s involvement of the pons-midbrain-thalamus (PMT), cerebellum, and temporo-occipital lobe.
+RESULTS: Of the 134 enrolled patients, the incidence of FR was 47.8% (64/134). Multivariate logistic analysis showed that a higher National Institutes of Health Stroke Scale (NIHSS) score on admission (adjusted OR (aOR) 1.066; 95% CI 1.011 to 1.125), a longer onset-to-recanalization time (aOR 1.002; 95% CI 1.001 to 1.004), incomplete recanalization (aOR 3.909; 95% CI 1.498 to 10.200), and PMT hypoperfusion (aOR 4.444; 95% CI 1.203 to 16.415) were independent predictors of FR. In patients with embolic occlusion of etiology, PMT hypoperfusion was associated with FR (aOR 8.379; 95% CI 1.377 to 50.994), whereas intracranial atherosclerotic stenosis (ICAS)-related occlusion was not (p=0.587).
+CONCLUSIONS: In patients with BAO, the likelihood of FR is associated with PMT hypoperfusion on pretreatment perfusion imaging. In particular, PMT hypoperfusion may be used as an imaging predictor of FR in patients with embolic cause of BAO.
+
+Citation: Baik SH, et al. Futile recanalization in patients with basilar artery occlusion: assessment of the underlying etiology and the role of perfusion imaging. Futile recanalization in patients with basilar artery occlusion: assessment of the underlying etiology and the role of perfusion imaging. 2024; (unknown volume):(unknown pages). doi: 10.1136/jnis-2024-021967
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38991732/

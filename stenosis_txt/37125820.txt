@@ -1,0 +1,11 @@
+PMID: 37125820
+Title: The association of stroke risk factors with the future thickness of carotid atherosclerotic plaques.
+
+Abstract: OBJECTIVES: An advancing atherosclerotic plaque is a risk factor for stroke. We conducted this study to assess the relationship between risk factors of stroke with changing in the thickness of carotid plaques thickness evident on sonography.
+METHODS: We carried out a secondary analysis of data from a study on carotid bifurcation plaques. Data were collected in the sonography laboratories of two university hospitals. In total, 564 (240; 42.6% men) patients with atherosclerotic plaques in the carotid bifurcation and internal carotid artery with stenosis ≥ 30% evident on duplex sonography were included. We developed machine learning models using an extreme gradient boosting algorithm with Shapley additive explanation method to find important risk factors and their interactions. The outcome was a change in the carotid plaque thickness after 36 months, and the predictors were initial plaque thickness and the risk factors of stroke.
+RESULTS: Two regression models were developed for left and right carotid arteries. The R-squared values were 0.964 for the left, and 0.993 for the right model. Overall, the three top features were BMI, age, and initial plaque thickness for both left and right plaques. However, the risk factors of stroke showed stronger interaction in predicting plaque thickening of the left carotid more than the right carotid artery.
+DISCUSSION: The effect of each predictor on plaque thickness is complicated by interactions with other risk factors, particularly for the left carotid artery. The side of carotid artery involvement should be considered for stroke prevention.
+
+Citation: Mohammadi T, et al. The association of stroke risk factors with the future thickness of carotid atherosclerotic plaques. The association of stroke risk factors with the future thickness of carotid atherosclerotic plaques. 2023; 45:818-826. doi: 10.1080/01616412.2023.2208484
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37125820/

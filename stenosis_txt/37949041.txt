@@ -1,0 +1,12 @@
+PMID: 37949041
+Title: The impact of Diabetes in patients with lumbar stenosis - A propensity-score matched study on patient-reported outcomes after surgery.
+
+Abstract: STUDY DESIGN: Registry-based cohort study.
+OBJECTIVE: To evaluate the impact of Diabetes (DM) on Patient-reported Outcomes (PROs) after surgery for lumbar spinal stenosis (LSS).
+METHOD: Patients from the Danish national spine registry, DaneSpine, scheduled for LSS surgery were identified. MRI of patients with and without DM was graded in regards to lumbar stenosis, disc degeneration (DD), muscular fat infiltration, and Modic changes. In addition, preoperative and two-year postoperative data were collected including PROs. Patients with DM were propensity-score matched (PSM) to non-DM patients.
+RESULTS: In total, 296 patients were included, 41 DM and 255 non-DM. Of these, 27 patients from each group were successfully matched. The PSM DM group had less improvement and worse leg pain at two-year follow-up compared to the non-DM group, VAS 58 vs. 36 (p = 0.004). Physical disability was significantly worse at two-year follow-up in the DM group compared to the non-DM group, Oswestry Disability Index score of 38 vs. 29 (p = 0.05). On the preoperative MRI, the number of patients with severe grade LSS and severe fat infiltration in Multifidus muscles was significantly higher in the PSM DM group compared to the non-DM group, (p < 0.01).
+CONCLUSION: Patients with concomitant LSS and DM have a significantly reduced improvement in leg pain, more physical disability, and worse leg pain scores at two-year follow-up post-surgery compared to patients without DM. In elderly patients with LSS, there should be an increased focus on DM and the clinically relevant threshold for spine surgery.
+
+Citation: Udby PM, et al. The impact of Diabetes in patients with lumbar stenosis - A propensity-score matched study on patient-reported outcomes after surgery. The impact of Diabetes in patients with lumbar stenosis - A propensity-score matched study on patient-reported outcomes after surgery. 2023; 235:108038. doi: 10.1016/j.clineuro.2023.108038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37949041/

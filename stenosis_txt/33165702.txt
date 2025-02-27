@@ -1,0 +1,11 @@
+PMID: 33165702
+Title: Duplex ultrasound versus CT angiography for the treatment planning of lower-limb arterial disease.
+
+Abstract: PURPOSE: This study aimed to assess the diagnostic accuracy of duplex sonography (DUS) compared with that of computed tomography angiography (CTA) in detecting occlusion and stenosis in peripheral arterial disease (PAD) in candidate patients for endovascular revascularization with intraprocedural digital subtraction angiography (DSA).
+METHODS: The study involved 94 patients suffering from PAD who were candidates for endovascular procedures requiring DSA. They were all submitted preoperatively to DUS and CTA. Based on image analysis, five segments of the arterial tree were assessed: iliac, common femoral, superficial femoral, popliteal, and infrageniculate. According to the stenosis or occlusion degree, the arteries were rated as nonstenotic, stenotic, and occluded.
+RESULTS: The agreement between DUS and CTA findings using DSA as a reference modality was expressed as a Cohen's kappa (κ) statistic agreement. Our results show that DUS has been less accurate than CTA in evaluating iliac arterial diseases (Cohen's κ agreement of 0.91 and 1.0, respectively) when measured against DSA. We found good diagnostic concordance between DUS and DSA in detecting hemodynamic stenosis and occlusion of the femoro-popliteal axis (Cohen's κ agreement between 0.96 and 0.93). Below the knee, CTA showed even less concordance with DSA (Cohen's κ 0.75).
+CONCLUSIONS: Because of its accuracy, high-quality DUS performed by well-trained operators may therefore represent a good alternative to CTA in patients undergoing endovascular revascularization to minimize the use of contrast-enhanced radiological imaging. Nevertheless, preoperative CTA imaging is required in cases of nondiagnostic DUS or when a more complete overview of the vascular tree is needed for complex invasive interventions.
+
+Citation: Martinelli O, et al. Duplex ultrasound versus CT angiography for the treatment planning of lower-limb arterial disease. Duplex ultrasound versus CT angiography for the treatment planning of lower-limb arterial disease. 2021; 24:471-479. doi: 10.1007/s40477-020-00534-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33165702/

@@ -1,0 +1,12 @@
+PMID: 37442350
+Title: Long-term prognostic value of quantitative-flow-ratio-concordant revascularization in stable coronary artery disease.
+
+Abstract: OBJECTIVES: Confirming the prognostic value of global QFR and evaluating the long-term prognosis of QFR-concordant therapy in stable coronary artery disease.
+BACKGROUND: Wire-based functional evaluation of coronary disease is linked to patient's prognosis. Quantitative Flow Ratio (QFR) is a newer index of computational physiology, linked to clinical outcomes and prognosis at 1 year follow-up. Long-term prognosis of QFR-concordant revascularization in stable coronary artery disease is however unknown hitherto.
+METHODS: Consecutive patients with stable coronary disease undergoing coronary angiography were included. Centralized and blinded QFR analysis of three coronary territories was performed. Three vessel QFR (3vQFR) was defined as the sum of the basal QFR of each coronary territory. QFR-concordant revascularization was met if all significant lesions (QFR ≤ 0.80) were revascularized and all non-significant lesions (QFR > 0.80) were not; otherwise, the case was defined as QFR-discordant revascularization. Patient-oriented composite end-point (POCE) of cardiac death, myocardial infarction and unscheduled revascularization was the primary endpoint.
+RESULTS: A total of 803 patients from six high-volume centers were included. Canadian Cardiovascular Society (CCS) class II angina was the most frequent (48.9%) clinical presentation. Median of follow-up was 68.8 months. 3vQFR was an independent predictor of POCE (HR 1.79 CI95% 1.01-3.18), with 2.75 as optimal cut-off value, irrespective of the therapy received. QFR-discordant revascularization (QFR+/Revascularization- or QFR-/Revascularization+) was an independent predictor of POCE in multivariate analysis (HR 1.65, CI 95% 1.03-2.64).
+CONCLUSION: Global burden of epicardial coronary atherosclerosis, as evaluated by 3vQFR, as well as QFR-discordant therapy are independent predictors of adverse clinical outcome at long-term follow-up in stable coronary artery disease.
+
+Citation: Cortés C, et al. Long-term prognostic value of quantitative-flow-ratio-concordant revascularization in stable coronary artery disease. Long-term prognostic value of quantitative-flow-ratio-concordant revascularization in stable coronary artery disease. 2023; 389:131176. doi: 10.1016/j.ijcard.2023.131176
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37442350/

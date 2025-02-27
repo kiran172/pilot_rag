@@ -1,0 +1,11 @@
+PMID: 32826204
+Title: Predictive value of the coronary artery calcium score and advanced plaque characteristics: Post hoc analysis of the PREDICT registry.
+
+Abstract: BACKGROUND: Whether coronary plaque characteristics assessed in coronary computed tomography angiography (CCTA) in association with the coronary artery calcium score (CACS) have predictive value for coronary events is unclear. We aimed to examine the predictive value of the CACS and plaque characteristics for the occurrence of coronary events.
+METHODS: Among 2802 patients who were analyzed in the PREDICT registry, 2083 with suspected coronary artery disease (CAD) were studied using post hoc analysis. High-risk plaques were defined as having ≥2 adverse characteristics, such as low computed tomographic attenuation, positive remodeling, spotty calcification, and napkin-ring sign. An adjudicative composite of coronary events (cardiac death, nonfatal acute coronary syndrome, and coronary revascularization ≥3 months after indexed CCTA) were analyzed.
+RESULTS: Seventy-three (3.5%) patients had coronary events and 313 (15.0%) had high-risk plaques. Multivariate Cox proportional hazard analysis showed that high-risk plaques remained an independent predictor of coronary events (adjusted hazard ratio [HR] 1.95, 95% confidence interval [CI] 1.13-3.34, P ​= ​0.0154), as well as the log-transformed CACS (adjusted HR 1.24, 95% CI 1.11-1.39, P ​= ​0.0002) and the presence of obstructive stenosis (adjusted HR 5.63, 95% CI 3.22-10.12, P 0.0001). In subgroup analyses, high-risk plaques were independently predictive only in the low CACS class (<100).
+CONCLUSION: This study shows that assessment of adverse features by coronary plaque imaging independently predicts coronary events in patients with suspected CAD and a low CACS. Our findings suggest that the clinical value of high-risk plaques to CACS and stenosis assessment appears marginal.
+
+Citation: Yamamoto H, et al. Predictive value of the coronary artery calcium score and advanced plaque characteristics: Post hoc analysis of the PREDICT registry. Predictive value of the coronary artery calcium score and advanced plaque characteristics: Post hoc analysis of the PREDICT registry. 2021; 15:148-153. doi: 10.1016/j.jcct.2020.06.198
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32826204/

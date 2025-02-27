@@ -1,0 +1,11 @@
+PMID: 33242507
+Title: Transcervical approach versus transfemoral approach for transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: The transfemoral (TF) approach is the gold-standard access route for transcatheter aortic valve replacement (TAVR). Alternative approaches, among which the transcervical (TC) approach, are needed in some patients. We aimed to compare TC-TAVR with TF-TAVR.
+METHODS: All patients who underwent TAVR in our institution between 2016 and 2020, using Edwards SAPIEN family balloon-expandable transcatheter heart valves, were retrospectively included. Endpoints included 30-day all-cause mortality, procedural complications (according to the VARC-2 criteria), procedure duration, hospital length of stay (LOS) and echocardiographic outcomes. For 30-day all-cause mortality, we furthermore used a Cox proportional-hazards model to adjust for significant between-group differences in baseline characteristics as well as anesthesia modality.
+RESULTS: TAVR was performed in 306 patients, using a TF approach (n = 255) or a TC approach (n = 51). TC-TAVR was associated with significantly higher STS scores (4.06 [IQR (interquartile range), 2.05, 5.56] vs. 2.97 [IQR, 2.08, 4.88], p < 0.001) and higher prevalence of peripheral artery disease, history of stroke, previous cardiovascular surgery. 30-day mortality (hazard ratio, 0.87 [0.77, 9.77], p = 0.909) and stroke rates (2.0% vs. 1.6%, p = 0.840) were similar, as well as procedural duration (74.0 [53.0, 99.5] vs. 77.0 [58.0, 98.0] minutes, p = 0.370), LOS (6.0 [IQR, 3.0, 8.0] vs. 6.0 [IQR, 4.0, 9.0] days, p = 0.175) and postprocedural mean transvalvular gradient (10.00 [IQR, 8.00, 13.00] vs. 10.00 [IQR, 8.00, 12.00] mmHg, p = 0.724).
+CONCLUSION: Despite a higher cardiovascular disease burden in TC patients, TC-TAVR and TF-TAVR yielded similar outcomes. TC-TAVR may be a safe alternative when TF-TAVR is contraindicated.
+
+Citation: Lu H, et al. Transcervical approach versus transfemoral approach for transcatheter aortic valve replacement. Transcervical approach versus transfemoral approach for transcatheter aortic valve replacement. 2021; 327:58-62. doi: 10.1016/j.ijcard.2020.11.026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33242507/

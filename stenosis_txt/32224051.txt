@@ -1,0 +1,8 @@
+PMID: 32224051
+Title: Classification of tracheal stenosis in children based on computational aerodynamics.
+
+Abstract: Tracheal stenosis is a health condition in which local narrowing of the upper trachea can cause breathing difficulties and increased incidence of infection, among other symptoms. Occurring most commonly due to intubation of infants, tracheal stenosis often requires corrective surgery. It is challenging to determine the most effective surgical strategy for a given patient as current clinical methods used to assess tracheal stenosis are simplistic and subjective, and are not rigorously based on aerodynamic considerations. This paper summarizes a non-invasive approach based on computational fluid dynamics (CFD) and medical imaging to establish relationships between trachea anatomy and inspiration performance. Though patient-specific CFD analysis has gained recent popularity, an objective of this study is to computationally formulate dimensionless analytical correlations between anatomy and performance that are applicable to any member of a class of patients and that can be interpreted within the context of the Myer-Cotton stenotic airway classification system. These correlations can provide aerodynamics-based insight for the development of more robust stenosis evaluation methods and may allow for time-efficient assessment of corrective surgical strategies.
+
+Citation: Poynot WJ, et al. Classification of tracheal stenosis in children based on computational aerodynamics. Classification of tracheal stenosis in children based on computational aerodynamics. 2020; 104:109752. doi: 10.1016/j.jbiomech.2020.109752
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32224051/

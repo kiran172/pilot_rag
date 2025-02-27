@@ -1,0 +1,11 @@
+PMID: 33351389
+Title: [Validation of a high sensitive troponin 99th percentile obtained in a general hospital].
+
+Abstract: INTRODUCTION: High sensitivity cardiac Troponin T (hs-cTnT) dosage is recommended for myocardial infarction diagnosis, by applying the 99th percentile obtained from a healthy population by the manufacturer. The objective is to validate the 99th percentile in a population from our hospital (99L), compared with the manufacturer´s 99th percentile (99F) by using coronary angiography as gold standard.
+MATERIALS AND METHODS: Retrospective analysis of every hs-cTnT (Roche) obtained from patients admitted with acute coronary syndromes (ACS) who underwent coronary angiography between 2015 and 2018.
+RESULTS: 415 patients were included for analysis (118 females, 64.2 yo). 99F sensitivity (Sn) for significant coronary artery disease (stenosis >70%) was 83.6%, with a specificity (Sp) of 44.5%. Positive predictive value (PPV) and negative predictive value (NPV) were 77% and 55% respectively. 99L Sn was 69.7% and Sp 58.6%. PPV was 79% and NPV 46%. ROC curve was 0.641 for 99F and 0.641 for 99L.
+CONCLUSION: Given the importance of hs-cTnT in ACS diagnosis, the 99F should be the preferred upper reference limit since the sensitivity is better, although lower compared to prior studies.
+
+Citation: Martínez ML, et al. [Validation of a high sensitive troponin 99th percentile obtained in a general hospital]. [Validation of a high sensitive troponin 99th percentile obtained in a general hospital]. 2020; 77:281-284. doi: 10.31053/1853.0605.v77.n4.27473
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33351389/

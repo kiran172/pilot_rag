@@ -1,0 +1,11 @@
+PMID: 34945738
+Title: Monocyte/Lymphocyte Ratio and MCHC as Predictors of Collateral Carotid Artery Disease-Preliminary Report.
+
+Abstract: BACKGROUND: Carotid artery disease accounts for 30% of ischemic strokes in the general population. Numerous biomarkers have been investigated for predicting either the progression or the severity of the disease. The aim of this retrospective study was to compare hematologic indices among patients referred for surgical interventions due to severe carotid disease.
+METHODS: In total, 135 patients (87 (64.4%) men and 48 (35.6%) women) with a mean age of 70 ± 8 years who underwent surgical carotid intervention were enrolled into the study.
+RESULTS: A Mann-Whitney test for independent samples revealed significant differences in monocyte to lymphocyte ratio (MLR) and mean corpuscular hemoglobin concentration (MCHC) between patients with one and two (collateral) carotid diseases. The cut-off value for MLR was 0.3 (AUC = 0.654, p = 0.048, 70.0% sensitivity and 74.6% specificity) and for MHCH was 21.6. (AUC = 0.730, p &lt; 0.001, 70.0% sensitivity and 77.2% specificity). A multivariable model of logistic regression revealed two significant parameters for collateral carotid stenosis disease including MLR &gt; 0.3 (OR 6.19 with 95% CI 2.02-19.01, p = 0.001) and MCHC &gt; 21.6 (OR 7.76, 95% CI 2.54-23.72, p &lt; 0.001).
+CONCLUSIONS: MLR above 0.3 and MCHC above 21.6 have predictive values for colleterial carotid stenosis and may be used as easily accessible indicators for atherosclerosis severity.
+
+Citation: Urbanowicz T, et al. Monocyte/Lymphocyte Ratio and MCHC as Predictors of Collateral Carotid Artery Disease-Preliminary Report. Monocyte/Lymphocyte Ratio and MCHC as Predictors of Collateral Carotid Artery Disease-Preliminary Report. 2021; 11:(unknown pages). doi: 10.3390/jpm11121266
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34945738/

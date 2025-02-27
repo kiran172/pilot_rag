@@ -1,0 +1,8 @@
+PMID: 33225743
+Title: Hemodynamic study in 3D printed stenotic coronary artery models: experimental validation and transient simulation.
+
+Abstract: Atherosclerosis is a progressive disease that can significantly reduce blood supply to vital organs, being one of the main causes of death worldwide. In this work, a numerical and experimental study in 3D printed stenotic coronary arteries, considering both steady and pulsatile blood flow conditions, is presented. The results revealed that a degree of stenosis superior to 50% creates disturbed flows downstream of the contraction, with an accented increase in the wall shear stress measurements at the stenosis throat. Finally, the multiphase mixture was investigated and compared with a single-phase modelling, and only slight differences were observed right after the stenosis throat.
+
+Citation: Carvalho V, et al. Hemodynamic study in 3D printed stenotic coronary artery models: experimental validation and transient simulation. Hemodynamic study in 3D printed stenotic coronary artery models: experimental validation and transient simulation. 2021; 24:623-636. doi: 10.1080/10255842.2020.1842377
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33225743/

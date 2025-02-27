@@ -1,0 +1,11 @@
+PMID: 34923001
+Title: Baseline PA/BSA ratio in patients undergoing transcatheter aortic valve replacement - A novel CT-based marker for the prediction of pulmonary hypertension and outcome.
+
+Abstract: BACKGROUND: Pulmonary hypertension (pH) has a prognostic impact on patients undergoing transcatheter aortic valve replacement (TAVR). Pulmonary artery (PA) dilatation assessed by multidetector computed tomography (MDCT) has the potential to predict PH. The aim of the study was to evaluate the clinical parameters associated with PA dilatation and to investigate its prognostic relevance in patients undergoing TAVR.
+METHODS: In 770 patients undergoing TAVR between February 2016 and July 2019, PA diameter was measured by MDCT before TAVR. Additionally, PA diameter divided by ascending aorta diameter or body surface area (BSA) was calculated.
+RESULTS: Of all the CT-derived parameters compared with a receiver operating characteristic curve, the value for PA/BSA with a median of 1.68 (IQR 1.47, 1.91) cm/m2 showed the greatest area-under-the-curve (0.75) for predicting PH at baseline. Based on this median, patients were assigned to a small PA/BSA (n = 386) or a large PA/BSA (n = 384) group. Hereby, a large PA/BSA was independently associated with PH at baseline (OR:8.39 [5.36-13.14], p < 0.001) and after TAVR (OR:1.73 [1.18-2.53], p = 0.005). A large PA/BSA was associated with a significantly higher cumulative two-year all-cause mortality compared to small PA/BSA (30.0% vs. 13.7%, p < 0.001), which was supported in the multivariable model (HR:1.87; 95%CI, 1.12-3.04; p = 0.017).
+CONCLUSION: Patients with a large PA/BSA on MDCT are more likely to have PH at baseline and after TAVR. Large PA/BSA is associated with an increased risk of mortality and could provide additional information for risk stratification in patients undergoing TAVR.
+
+Citation: Sudo M, et al. Baseline PA/BSA ratio in patients undergoing transcatheter aortic valve replacement - A novel CT-based marker for the prediction of pulmonary hypertension and outcome. Baseline PA/BSA ratio in patients undergoing transcatheter aortic valve replacement - A novel CT-based marker for the prediction of pulmonary hypertension and outcome. 2022; 348:26-32. doi: 10.1016/j.ijcard.2021.12.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34923001/

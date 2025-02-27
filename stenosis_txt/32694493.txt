@@ -1,0 +1,14 @@
+PMID: 32694493
+Title: Radiological Risk Factors for Neurological Deficits After Traumatic Mid and Low Lumbar Fractures.
+
+Abstract: STUDY DESIGN: Retrospective study.
+OBJECTIVE: We identified radiological risk factors for neurological deficits in mid and low lumbar spinal fractures.
+SUMMARY OF BACKGROUND DATA: Although numerous studies have focused on radiological risk factors for neurological deficits in spinal cord injury or thoracolumbar junction area fractures, few have examined mid and low lumbar fractures at the cauda equina level.
+METHODS: We retrospectively reviewed 71 consecutive patients who suffered acute traumatic mid and low lumbar fractures (L2-L5) corresponding to the cauda equina level, as confirmed on magnetic resonance imaging. We defined a neurological deficit as present if the patient had any sensory or motor deficit in the lower extremity or autonomic system at the initial assessment. Various computed tomography parameters of canal stenosis, vertebral body compression, sagittal alignment, interpedicular distance, and presence of vertical laminar fractures were analyzed as independent risk factors to predict neurological deficits using multivariate logistic regression analyses.
+RESULTS: At the initial assessment, 31 patients had neurological deficits. Fracture level, AO fracture type, canal encroachment ratio, vertebral compression ratio, interpedicular distance ratio, and presence of a vertical laminar fracture were significantly associated with the presence of neurological deficits (all P < 0.05). Multivariate logistic regression identified fracture level, canal encroachment ratio (adjusted odds ratio [aOR] 1.072, 95% confidence interval [CI] 1.018-1.129), and vertebral compression ratio (aOR 0.884, 95% CI 0.788-0.992) as independent predictors of a neurological deficit. Receiver operating characteristic curve analyses revealed that only the canal encroachment ratio had good discriminatory ability (area under the curve 0.874, 95% CI 0.791-0.957), and the optimal cutoff was 47% (canal diameter 6.6 mm) with 90.3% sensitivity and 80% specificity.
+CONCLUSION: The canal encroachment ratio was most strongly associated with neurological deficits in traumatic mid and low lumbar fractures, with an optimal cutoff of 47%.
+LEVEL OF EVIDENCE: 4.
+
+Citation: Lee HD, et al. Radiological Risk Factors for Neurological Deficits After Traumatic Mid and Low Lumbar Fractures. Radiological Risk Factors for Neurological Deficits After Traumatic Mid and Low Lumbar Fractures. 2020; 45:1513-1523. doi: 10.1097/BRS.0000000000003596
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32694493/

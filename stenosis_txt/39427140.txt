@@ -1,0 +1,12 @@
+PMID: 39427140
+Title: Evaluation of the sagittal vertical axis with postural and 3D motion analyses in lumbar spinal stenosis.
+
+Abstract: BACKGROUND: Sagittal balance, commonly impaired in lumbar spinal stenosis (LSS) patients, is typically assessed using the sagittal vertical axis (SVA) with EOS imaging. However, to limit X-ray exposure and medical costs, it could be interesting to evaluate the capacity of quantified motion analysis to estimate the 3D modeling of SVA in patients with symptomatic LSS.
+METHODS: An estimation of the SVA in patients with LSS was performed with 3D motion analysis. SVA and "C7_PSI" (orthogonal horizontal distance between the vertical lines through the markers of the C7 vertebra and the middle of the posterosuperior iliac spine) were measured on 37 LSS patients using EOS radiography and postural and 3D motion analysis, respectively. Multiple stepwise linear regressions were performed with EOS SVA according to age, body mass index, C7_PSI and/or postural variables.
+RESULTS: A highly significant relationship was found between SVA and C7_PSI, mediolateral amplitude of CoP displacements and age (adjusted R²=0.69, p < 0.0001). While the postural analysis did not reveal significant relationships, the model using 3D parameters revealed significant relationships between radiographic SVA and C7_PSI and age (adjusted R²=0.65, p < 0.0001). 3D motion parameters with or without postural parameters may explain more than 65% of the variance seen in EOS imaging performed on LSS patients.
+CONCLUSIONS: These promising results in LSS patients suggest that the estimation of SVA with 3D motion analysis offers an alternative to EOS. In addition, SVA could be assessed at rest and during dynamic tasks.
+TRIAL REGISTRATION: This study has been published in Clinical Trial registration (reference NCT03194607).
+
+Citation: Gueugnon M, et al. Evaluation of the sagittal vertical axis with postural and 3D motion analyses in lumbar spinal stenosis. Evaluation of the sagittal vertical axis with postural and 3D motion analyses in lumbar spinal stenosis. 2024; 25:827. doi: 10.1186/s12891-024-07923-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39427140/

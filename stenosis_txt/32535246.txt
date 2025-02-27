@@ -1,0 +1,11 @@
+PMID: 32535246
+Title: Cardiovascular magnetic resonance as a complementary method to transthoracic echocardiography for aortic valve area estimation in patients with aortic stenosis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) is the most common valvular heart disease. While two-dimensional transthoracic echocardiography (2D-TTE) is the standard imaging modality for AS assessment, cardiac magnetic resonance (CMR) offers a reliable and reproducible alternative. The aim of this study was to compare AVA measurements as determined by TTE and CMR in patients with AS.
+METHODS: Electronic databases were searched to identify studies comparing TTE continuity equation to CMR planimetry for AVA assessment. A meta-analysis of mean difference was conducted by using the random effects model. Sensitivity analysis was performed after excluding studies reporting AVA indexed to body surface area (BSA). Heterogeneity was assessed with I2.
+RESULTS: A total of 12 studies, encompassing 621 patients, were included in our systematic review. In the pooled analysis, measurements of AVA by CMR planimetry were found to be significantly higher than those calculated by the continuity equation in TTE (pooled mean difference: 0.09, 95% confidence intervals (CI): 0.01, 0.17, and I2: 93%). The results remained significant, albeit with moderate heterogeneity this time, after excluding the analysis measurements of AVA indexed to BSA (pooled mean difference: 0.08, 95% CI: 0.03 to 0.13, and I2 = 61%).
+CONCLUSIONS: CMR planimetry slightly overestimates AVA compared to TTE continuity equation. Although, 2D-TTE should be the primary imaging modality for the estimation of AVA, CMR may be useful when there is discrepancy with the clinical assessment or when TTE results are discordant or difficult to obtain.
+
+Citation: Repanas TI, et al. Cardiovascular magnetic resonance as a complementary method to transthoracic echocardiography for aortic valve area estimation in patients with aortic stenosis: A systematic review and meta-analysis. Cardiovascular magnetic resonance as a complementary method to transthoracic echocardiography for aortic valve area estimation in patients with aortic stenosis: A systematic review and meta-analysis. 2021; 62:107-111. doi: 10.1016/j.hjc.2020.05.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32535246/

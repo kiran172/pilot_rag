@@ -1,0 +1,12 @@
+PMID: 35314508
+Title: Interoperator reliability of an on-site machine learning-based prototype to estimate CT angiography-derived fractional flow reserve.
+
+Abstract: BACKGROUND: Advances in CT and machine learning have enabled on-site non-invasive assessment of fractional flow reserve (FFR<sub>CT</sub>).
+PURPOSE: To assess the interoperator and intraoperator variability of coronary CT angiography-derived FFR<sub>CT</sub> using a machine learning-based postprocessing prototype.
+MATERIALS AND METHODS: We included 60 symptomatic patients who underwent coronary CT angiography. FFR<sub>CT</sub> was calculated by two independent operators after training using a machine learning-based on-site prototype. FFR<sub>CT</sub> was measured 1 cm distal to the coronary plaque or in the middle of the segments if no coronary lesions were present. Intraclass correlation coefficient (ICC) and Bland-Altman analysis were used to evaluate interoperator variability effect in FFR<sub>CT</sub> estimates. Sensitivity analysis was done by cardiac risk factors, degree of stenosis and image quality.
+RESULTS: A total of 535 coronary segments in 60 patients were assessed. The overall ICC was 0.986 per patient (95% CI 0.977 to 0.992) and 0.972 per segment (95% CI 0.967 to 0.977). The absolute mean difference in FFR<sub>CT</sub> estimates was 0.012 per patient (95% CI for limits of agreement: -0.035 to 0.039) and 0.02 per segment (95% CI for limits of agreement: -0.077 to 0.080). Tight limits of agreement were seen on Bland-Altman analysis. Distal segments had greater variability compared with proximal/mid segments (absolute mean difference 0.011 vs 0.025, p&lt;0.001). Results were similar on sensitivity analysis.
+CONCLUSION: A high degree of interoperator and intraoperator reproducibility can be achieved by on-site machine learning-based FFR<sub>CT</sub> assessment. Future research is required to evaluate the physiological relevance and prognostic value of FFR<sub>CT</sub>.
+
+Citation: Han Y, et al. Interoperator reliability of an on-site machine learning-based prototype to estimate CT angiography-derived fractional flow reserve. Interoperator reliability of an on-site machine learning-based prototype to estimate CT angiography-derived fractional flow reserve. 2022; 9:(unknown pages). doi: 10.1136/openhrt-2021-001951
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35314508/

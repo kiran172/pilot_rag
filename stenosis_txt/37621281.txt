@@ -1,0 +1,11 @@
+PMID: 37621281
+Title: Effect of continuous local dexamethasone on tissue biomechanics and histology after inhalational burn in a preclinical model.
+
+Abstract: OBJECTIVE: Inhalational burns frequently lead to dysphonia and airway stenosis. We hypothesize local dexamethasone delivery via a novel drug-eluting electrospun polymer-mesh endotracheal tube (ETT) reduces biomechanical and histologic changes in the vocal folds in inhalational burn.
+METHODS: Dexamethasone-loaded polymer mesh was electrospun onto ETTs trimmed to transglottic endolaryngeal segments and secured in nine Yorkshire Crossbreed swine with directed 150°C inhalation burns. Uncoated ETTs were implanted in nine additional swine with identical burns. ETT segments were maintained for 3 and 7 days. Vocal fold (VF) structural stiffness was measured using automated-indentation mapping and compared across groups and to four uninjured controls, and matched histologic assessment performed. Statistical analysis was conducted using two-way ANOVA with Tukey's post hoc test and Wilcoxon rank-sum test.
+RESULTS: VF stiffness after burn decreased with longer intubation, from 19.4 (7.6) mN/mm at 3 days to 11.3 (5.2) mN/mm at 7 days (p &lt; .0001). Stiffness similarly decreased with local dexamethasone, from 25.9 (17.2) mN/mm at 3 days to 18.1 (13.0) mN/mm at 7 days (p &lt; .0001). VF stiffness in the dexamethasone group was increased compared to tissues without local dexamethasone (p = .0002), and all groups with ETT placement had higher tissue stiffness at 3 days (p &lt; .001). No significant change in histologic evidence of epithelial ulceration or fibrosis was noted, while an increased degree of inflammation was noted in the dexamethasone group (p = .04).
+CONCLUSION: Local dexamethasone delivery increases VF stiffness and degree of inflammation compared to uncoated ETTs in an acute laryngeal burn model, reflected in early biomechanical and histologic changes in an inhalational burn model.
+
+Citation: Malka R, et al. Effect of continuous local dexamethasone on tissue biomechanics and histology after inhalational burn in a preclinical model. Effect of continuous local dexamethasone on tissue biomechanics and histology after inhalational burn in a preclinical model. 2023; 8:939-945. doi: 10.1002/lio2.1093
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37621281/

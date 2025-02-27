@@ -1,0 +1,11 @@
+PMID: 33219149
+Title: Torrents of torment: turbulence as a mechanism of pulsatile tinnitus secondary to venous stenosis revealed by high-fidelity computational fluid dynamics.
+
+Abstract: BACKGROUND: Pulsatile tinnitus (PT) is a debilitating condition that can be caused by a vascular abnormality, such as an arterial or venous lesion. Although treatment of PT-related venous lesions has been shown to successfully cure patients of the associated 'tormenting' rhythmical sound, much controversy still exists regarding their role in the etiology of PT.
+METHODS: A patient presented with a history of worsening, unilateral PT. A partial venous sinus obstruction related to the large arachnoid granulation was detected on the right side, and subsequently stented at the right transverse sinus. High-fidelity computational fluid dynamics (CFD) was performed on a 3D model digitally segmented from the pre-stent venogram, with assumed pulsatile flow rates. A post-stent CFD model was also constructed from this. Data-driven sonification was performed on the CFD velocity data, blinded to the patient's self-reported sounds.
+RESULTS: The patient reported that the PT was completely resolved after stenting, and has had no recurrence of the symptoms after more than 2 years. CFD simulation revealed highly disturbed, turbulent-like flow at the sigmoid sinus close to auditory structures, producing a sonified audio signal that reproduced the subjective sonance of the patient's PT. No turbulence or sounds were evident at the stenosis, or anywhere in the post-stent model.
+CONCLUSIONS: For the first time, turbulence generated distal to a venous stenosis is shown to be a cause of PT. High-fidelity CFD may be useful for identifying patients with such 'torrents' of flow, to help guide treatment decision-making.
+
+Citation: Pereira VM, et al. Torrents of torment: turbulence as a mechanism of pulsatile tinnitus secondary to venous stenosis revealed by high-fidelity computational fluid dynamics. Torrents of torment: turbulence as a mechanism of pulsatile tinnitus secondary to venous stenosis revealed by high-fidelity computational fluid dynamics. 2021; 13:732-737. doi: 10.1136/neurintsurg-2020-016636
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33219149/

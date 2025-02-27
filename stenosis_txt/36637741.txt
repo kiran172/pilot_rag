@@ -1,0 +1,11 @@
+PMID: 36637741
+Title: Added value of ultra-short echo time and fast field echo using restricted echo-spacing MR imaging in the assessment of the osseous cervical spine.
+
+Abstract: PURPOSE: To evaluate the added value of ultra-short echo time (UTE) and fast field echo resembling a CT using restricted echo-spacing (FRACTURE) MR sequences in the assessment of the osseous cervical spine using CT as reference.
+MATERIALS AND METHODS: Twenty-seven subjects underwent postmortem CT and MRI within 48 h. Datasets were anonymized and analyzed retrospectively by two radiologists. Morphological cervical spine alterations were rated on CT, UTE and FRACTURE images. Afterward, neural foraminal stenosis was graded on standard MR and again after viewing additional UTE/FRACTURE sequences. To evaluate interreader and intermodality reliability, intra-class correlation coefficients (ICC) and for stenosis grading Wilcoxon-matched-pairs testing with multiple comparison correction were calculated.
+RESULTS: Moderate interreader reliability (ICC = 0.48-0.71) was observed concerning morphological findings on all modalities. Intermodality reliability was good between modalities regarding degenerative vertebral and joint alterations (ICC = 0.69-0.91). Compared to CT neural stenosis grades were more often considered as nonsignificant on all analyzed MR sequences. Neural stenosis grading scores differed also significantly between specific bone imaging sequences, UTE and FRACTURE, to standard MR sequences. However, no significant difference was observed between UTE and FRACTURE sequences.
+CONCLUSION: Compared to CT as reference, UTE or FRACTURE sequence added to standard MR sequences can deliver comparable information on osseous cervical spine status. Both led to changes in clinically significant stenosis gradings when added to standard MR, mainly reducing the severity of neural foramina stenosis.
+
+Citation: Deininger-Czermak E, et al. Added value of ultra-short echo time and fast field echo using restricted echo-spacing MR imaging in the assessment of the osseous cervical spine. Added value of ultra-short echo time and fast field echo using restricted echo-spacing MR imaging in the assessment of the osseous cervical spine. 2023; 128:234-241. doi: 10.1007/s11547-023-01589-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36637741/

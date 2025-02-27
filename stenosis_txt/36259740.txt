@@ -1,0 +1,12 @@
+PMID: 36259740
+Title: Impact of intracoronary assessments on revascularization decisions: A contemporary evaluation.
+
+Abstract: OBJECTIVES: To investigate the real-world implementation of intracoronary assessment (ICA) techniques and evaluate their impact on clinical decisions regarding the management of coronary artery disease (CAD) in contemporary practice.
+BACKGROUND: Coronary angiogram is the gold standard used to diagnose vessel stenosis and guide percutaneous coronary intervention (PCI); however, it is limited by its two-dimensional imaging capabilities. ICA techniques like intravascular ultrasound and optical coherence tomography capture the vessel in three-dimensional images. Comparatively, fractional flow reserve provides information on the physiologic significance of coronary stenosis. Both techniques may improve PCI outcomes if they routinely change physician behavior.
+METHODS: Patients who underwent ICA between August 2015 and March 2020 were included in the study. The primary outcome was the clinical impact of ICA on physician clinical decision making of a stenotic vessel. The secondary outcome was the clinical changes that occurred following ICA.
+RESULTS: A total of 1135 patients were included in the study. Physiologic assessment (PA) and image assessment (IA) were performed in 61.4% and 38.6% respectively. Management plans were changed in 38.1% and 23.9% of patients who received PA and IA. Over half of the management change resulted in physicians deciding to not intervene on the stenotic vessel. One-year outcome of these decisions showed no significant increase in major adverse cardiac events (hazard ratio [HR], 0.68; 95% confidence interval [CI], 0.40-1.15; p = 0.15) or unplanned revascularization (HR, 0.78; 95% CI, 0.35-1.74; p = 0.55) suggesting reliance on PA/IA data did not increase risk.
+CONCLUSION: Selected ICA alters physician management of CAD in one-third of patients being evaluated for revascularization-typically leading to fewer interventions. All cause death is numerally lower in patients that received a change in management. However, the 1-year outcome of these altered decisions does not appear to be significantly different.
+
+Citation: Gillmore T, et al. Impact of intracoronary assessments on revascularization decisions: A contemporary evaluation. Impact of intracoronary assessments on revascularization decisions: A contemporary evaluation. 2022; 100:955-963. doi: 10.1002/ccd.30417
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36259740/

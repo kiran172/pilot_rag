@@ -1,0 +1,11 @@
+PMID: 33705779
+Title: Incidence, Cause, and Outcome of Reinterventions After Aortic Root Replacement.
+
+Abstract: BACKGROUND: This study aims to comprehensively characterize details of aortic and aortic valve reinterventions after aortic root replacement (ARR).
+METHODS: Between 2005 and 2019, 882 patients underwent ARR. Indications were aneurysm in 666, aortic valve related in 116, aortic dissection in 64, and infective endocarditis (IE) in 36. Valve-sparing root replacement was performed in 290 patients, whereas a Bio-Bentall procedure was done in 528. Among them, 52 patients (5.9%) required reintervention. The incidence, cause, and time to reintervention and the outcomes after reintervention were investigated. A cause-specific Cox hazard model was performed to identify predictors for reintervention after ARR.
+RESULTS: The 10-year cumulative incidence of aortic and aortic valve reintervention after ARR was 10.3% (95% confidence interval, 7.3%-14.0%). Age per year decrease was the only independent predictor for reintervention (subdistribution hazard ratio, 0.97; 95% confidence interval, 0.95-0.99). The causes for 52 reinterventions were aortic valve causes in 29 patients (55.8%), including aortic stenosis/insufficiency, and prosthetic valve dysfunction; IE in 15 (28.9%); aortic-related causes in 7 (13.5%), including pseudoaneurysm, development of aneurysm, and residual dissection; and coronary button pseudoaneurysm in 1 (1.9%). Median time to reintervention was 11.0 months (interquartile range, 2.0-20.5) for IE, 24.0 months (interquartile range, 3.7-46.1) for aortic-related causes, and 77.0 months (interquartile range, 28.4-97.6) for aortic valve-related causes (P = .005). Overall in-hospital mortality after the reinterventions was 7.7% (4/52) with 20.0% for IE (3/15).
+CONCLUSIONS: Reintervention for IE occurred relatively early after ARR, whereas aortic valve- and aortic-related reinterventions gradually increased over time. In-hospital mortality after the reintervention was low, with the exception of IE.
+
+Citation: Yamabe T, et al. Incidence, Cause, and Outcome of Reinterventions After Aortic Root Replacement. Incidence, Cause, and Outcome of Reinterventions After Aortic Root Replacement. 2022; 113:25-32. doi: 10.1016/j.athoracsur.2021.03.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33705779/

@@ -1,0 +1,12 @@
+PMID: 39290817
+Title: A Novel Echocardiographic Parameter to Confirm Low-Gradient Aortic Stenosis Severity.
+
+Abstract: BACKGROUND: In patients with low-gradient (LG) aortic stenosis (AS), confirming disease severity and indication of intervention often requires dobutamine stress echocardiography (DSE) or aortic valve calcium scoring by computed tomography. We hypothesized that the mean transvalvular pressure gradient to effective orifice area ratio (MG/EOA, in mm Hg/cm2) measured during rest echocardiography identifies true-severe AS (TSAS) and is associated with clinical outcomes in patients with low-flow, LG-AS.
+OBJECTIVES: The purpose of this study was to evaluate the diagnostic and prognostic value of MG/EOA ratio.
+METHODS: The diagnostic accuracy of MG/EOA ratio to identify TSAS was retrospectively assessed in: 1) an in vitro data set obtained in a circulatory model including 93 experimental conditions; and 2) an in vivo data set of 188 patients from the TOPAS (True or Pseudo-Severe Aortic Stenosis) study (NCT01835028). Receiver operating characteristic curves were used to assess the diagnostic accuracy of MG/EOA ratio for identifying TSAS, and Cox proportional hazards regression analyses were performed to assess its association with clinical outcomes.
+RESULTS: The optimal cutoff of MG/EOA ratio to identify TSAS in patients with low-flow, LG-AS was ≥25 mm Hg/cm2 (correct classification 85%), as well as in vitro (100%). During a median follow-up of 1.41 ± 0.75 years, 146 (78%) patients met the composite endpoint of aortic valve replacement or all-cause mortality. A MG/EOA ratio ≥25 mm Hg/cm2 was independently associated with an increased risk of the composite endpoint (adjusted HR: 2.36 [95% CI: 1.63-3.42], P &lt; 0.001). The Harell's C-index of MG/EOA was 0.68, equaling projected EOA (0.67) measured by DSE.
+CONCLUSIONS: MG/EOA ratio can be useful in low-flow, LG-AS to confirm AS severity and may complement DSE or aortic valve calcium scoring.
+
+Citation: Hecht S, et al. A Novel Echocardiographic Parameter to Confirm Low-Gradient Aortic Stenosis Severity. A Novel Echocardiographic Parameter to Confirm Low-Gradient Aortic Stenosis Severity. 2024; 3:101245. doi: 10.1016/j.jacadv.2024.101245
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39290817/

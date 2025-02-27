@@ -1,0 +1,8 @@
+PMID: 33018593
+Title: Classification of Aortic Stenosis Before and After Transcatheter Aortic Valve Replacement Using Cardio-mechanical Modalities.
+
+Abstract: This paper reports our study on the impact of transcatheter aortic valve replacement (TAVR) on the classification of aortic stenosis (AS) patients using cardio-mechanical modalities. Machine learning algorithms such as decision tree, random forest, and neural network were applied to conduct two tasks. Firstly, the pre- and post-TAVR data are evaluated with the classifiers trained in the literature. Secondly, new classifiers are trained to classify between pre- and post-TAVR data. Using analysis of variance, the features that are significantly different between pre- and post-TAVR patients are selected and compared to the features used in the pre-trained classifiers. The results suggest that pre-TAVR subjects could be classified as AS patients but post-TAVR could not be classified as healthy subjects. The features which differentiate pre- and post-TAVR patients reveal different distributions compared to the features that classify AS patients and healthy subjects. These results could guide future work in the classification of AS as well as the evaluation of the recovery status of patients after TAVR treatment.
+
+Citation: Yang C, et al. Classification of Aortic Stenosis Before and After Transcatheter Aortic Valve Replacement Using Cardio-mechanical Modalities. Classification of Aortic Stenosis Before and After Transcatheter Aortic Valve Replacement Using Cardio-mechanical Modalities. 2020; 2020:2820-2823. doi: 10.1109/EMBC44109.2020.9176321
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33018593/

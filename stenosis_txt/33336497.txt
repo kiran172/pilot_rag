@@ -1,0 +1,11 @@
+PMID: 33336497
+Title: Patient survival in severe low-flow, low-gradient aortic stenosis after aortic valve replacement or conservative management.
+
+Abstract: BACKGROUND AND AIM: Classical and paradoxical low-flow, low-gradient (LFLG) aortic stenosis (AS) are the most challenging subtypes of AS. The current therapeutic options are aortic valve replacement (AVR) and conservative management: AVR promotes long-term survival but is invasive, while conservative management yields a poor prognosis but is noninvasive since it uses no aortic valve replacement (noAVR). The present meta-analysis investigated the rate of survival of patients with LFLG AS undergoing either AVR or noAVR interventions.
+METHODS: The meta-analysis compared the outcomes of AVR with those of noAVR in terms of patient survival. In both groups, a meta-regression was conducted to investigate the impact on patient survival of the left ventricular ejection fraction (LVEF), either preserved (paradoxical LFLG AS) or reduced (classical LFLG AS).
+RESULTS: The relative risk of survival between the AVR and noAVR groups was 1.99 [1.40, 2.82] (p = .0001), suggesting that survival tends to be better in AVR patients than in noAVR patients. The meta-regression revealed that a reduced LVEF may be related to a higher survival in AVR patients when compared to a preserved LVEF (p = .04). Finally, the analysis indicated that LVEF seems not to be prognostic of survival in noAVR patients (p = .18).
+CONCLUSIONS: Patients with LFLG AS have better survival if they undergo AVR. In AVR patients, reduced LVEF rather than preserved LVEF is related to better survival, whereas there seems to be no difference in prognostic value between reduced and preserved LVEF in noAVR patients.
+
+Citation: Micali LR, et al. Patient survival in severe low-flow, low-gradient aortic stenosis after aortic valve replacement or conservative management. Patient survival in severe low-flow, low-gradient aortic stenosis after aortic valve replacement or conservative management. 2021; 36:1030-1039. doi: 10.1111/jocs.15209
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33336497/

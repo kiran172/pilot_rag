@@ -1,0 +1,12 @@
+PMID: 35210049
+Title: Thrombotic Risk and Cardiovascular Events in Patients With Revascularization Deferral After Fractional Flow Reserve Assessment.
+
+Abstract: OBJECTIVES: The aim of this study was to evaluate the impact of thrombotic risk on the occurrence of cardiovascular events in patients with coronary artery disease with deferred revascularization after fractional flow reserve (FFR) measurements.
+BACKGROUND: Deferral of revascularization on the basis of FFR is generally considered to be safe, but after deferral, some patients have cardiovascular events over time.
+METHODS: From J-CONFIRM registry (Long-Term Outcomes of Japanese Patients With Deferral of Coronary Intervention Based on Fractional Flow Reserve in Multicenter Registry), 1,263 patients with deferral of revascularization on the basis of FFR were evaluated. The association between thrombotic risk as assessed by CREDO-Kyoto (Coronary Revascularization Demonstrating Outcome Study in Kyoto) thrombotic score and 5-year target vessel failure (TVF) and major adverse cardiac and cerebrovascular events (MACCE) was investigated.
+RESULTS: FFR and high thrombotic risk (HTR) were associated with increased risk for 5-year TVF (FFR per 0.01-unit decrease: HR: 1.08; 95% CI: 1.05-1.11; P < 0.001; HTR: HR: 2.16; 95% CI: 1.37-3.39; P < 0.001) and MACCE (FFR per 0.01-unit decrease: HR: 1.05; 95% CI: 1.02-1.06; P < 0.001; HTR: HR: 2.11; 95% CI: 1.56-2.84; P = 0.001). Patients with HTR had higher risk for 5-year TVF (HR: 2.30; 95% CI: 1.45-3.66; P < 0.001) and MACCE (HR: 2.34; 95% CI: 1.75-3.13; P < 0.001) than those without HTR, even when they had negative FFR.
+CONCLUSIONS: Assessment of thrombotic risk provides additional prognostic value to FFR in predicting 5-year TVF and MACCE in patients with deferral of revascularization after FFR measurements. (Long-Term Outcomes of Japanese Patients With Deferral of Coronary Intervention Based on Fractional Flow Reserve in Multicenter Registry; UMIN000014473).
+
+Citation: Shiono Y, et al. Thrombotic Risk and Cardiovascular Events in Patients With Revascularization Deferral After Fractional Flow Reserve Assessment. Thrombotic Risk and Cardiovascular Events in Patients With Revascularization Deferral After Fractional Flow Reserve Assessment. 2022; 15:427-439. doi: 10.1016/j.jcin.2021.11.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35210049/

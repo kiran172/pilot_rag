@@ -1,0 +1,11 @@
+PMID: 36711201
+Title: Asymptomatic carotid stenosis is associated with both edge and network reconfigurations identified by single-subject cortical thickness networks.
+
+Abstract: BACKGROUND AND PURPOSE: Patients with asymptomatic carotid stenosis, even without stroke, are at high risk for cognitive impairment, and the neuroanatomical basis remains unclear. Using a novel edge-centric structural connectivity (eSC) analysis from individualized single-subject cortical thickness networks, we aimed to examine eSC and network measures in severe (> 70%) asymptomatic carotid stenosis (SACS).
+METHODS: Twenty-four SACS patients and 24 demographically- and comorbidities-matched controls were included, and structural MRI and multidomain cognitive data were acquired. Individual eSC was estimated via the Manhattan distances of pairwise cortical thickness histograms.
+RESULTS: In the eSC analysis, SACS patients showed longer interhemispheric but shorter intrahemispheric Manhattan distances seeding from left lateral temporal regions; in network analysis the SACS patients had a decreased system segregation paralleling with white matter hyperintensity burden and recall memory. Further network-based statistic analysis identified several eSC and subgraph features centred around the Perisylvian regions that predicted silent lesion load and cognitive tests.
+CONCLUSION: We conclude that SACS exhibits abnormal eSC and a less-optimized trade-off between physical cost and network segregation, providing a reference and perspective for identifying high-risk individuals.
+
+Citation: Ren J, et al. Asymptomatic carotid stenosis is associated with both edge and network reconfigurations identified by single-subject cortical thickness networks. Asymptomatic carotid stenosis is associated with both edge and network reconfigurations identified by single-subject cortical thickness networks. 2022; 14:1091829. doi: 10.3389/fnagi.2022.1091829
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36711201/

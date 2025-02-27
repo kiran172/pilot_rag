@@ -1,0 +1,11 @@
+PMID: 34591275
+Title: A 1D-3D Hybrid Model of Patient-Specific Coronary Hemodynamics.
+
+Abstract: PURPOSE: Coronary flow is affected by evolving events such as atherosclerotic plaque formation, rupture, and thrombosis, resulting in myocardial ischemia and infarction. Highly resolved 3D hemodynamic data at the stenosis is essential to model shear-sensitive thrombotic events in coronary artery disease.
+METHODS: We developed a hybrid 1D-3D simulation framework to compute patient-specific coronary hemodynamics efficiently. A 1D model of the coronary flow is coupled to an image-based 3D model of the region of interest. This framework affords the advantages of reduced-order modeling, decreasing the global computational cost, without sacrificing the accuracy of the quantities of interest.
+RESULTS: We validated our 1D-3D model against full 3D coronary simulations in healthy and diseased conditions. Our results showed good agreement between the 3D and the 1D-3D models while reducing the computational cost by 40-fold compared to the 3D simulation. The 1D-3D model predicted left/right coronary flow distribution within 3% and provided an accurate estimation of fractional flow reserve and wall shear stress distribution at the stenosis comparable to the 3D simulation.
+CONCLUSION: Savings in computational cost may be significant in situations with changing geometry, such as growing thrombosis. Also, this approach would allow quantifying the time-dependent effect of thrombotic growth and occlusion on the global coronary circulation.
+
+Citation: Grande Gutiérrez N, et al. A 1D-3D Hybrid Model of Patient-Specific Coronary Hemodynamics. A 1D-3D Hybrid Model of Patient-Specific Coronary Hemodynamics. 2022; 13:331-342. doi: 10.1007/s13239-021-00580-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34591275/

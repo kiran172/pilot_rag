@@ -1,0 +1,12 @@
+PMID: 35720674
+Title: A machine learning model in predicting hemodynamically significant coronary artery disease: A prospective cohort study.
+
+Abstract: BACKGROUND: Coronary artery disease (CAD) costs healthcare billions of dollars annually and is the leading cause of death despite available noninvasive diagnostic tools.
+OBJECTIVE: This study aims to examine the usefulness of machine learning in predicting hemodynamically significant CAD using routine demographics, clinical factors, and laboratory data.
+METHODS: Consecutive patients undergoing cardiac catheterization between March 17, 2015, and July 15, 2016, at UNC Chapel Hill were screened for comorbidities and CAD risk factors. In this pilot, single-center, prospective cohort study, patients were screened and selected for moderate CAD risk (n = 185). Invasive coronary angiography and CAD prediction with machine learning were independently performed. Results were blinded from operators and patients. Outcomes were followed up for up to 90 days for major adverse cardiovascular and renal events (MACREs). Greater than 70% stenosis or a fractional flow reserve less than or equal to 0.8 represented hemodynamically significant coronary disease. A random forest model using demographic, comorbidities, risk factors, and lab data was trained to predict CAD severity. The Random Forest Model predictive accuracy was assessed by area under the receiver operating characteristic curve with comparison to the final diagnoses made from coronary angiography.
+RESULTS: Hemodynamically significant CAD was predicted by 18-point clinical data input with a sensitivity of 81% ± 7.8%, and specificity of 61% ± 14.4% by the established model. The best machine learning model predicted a 90-day MACRE with specificity of 44.61% ± 14.39%, and sensitivity of 57.13% ± 18.70%.
+CONCLUSION: Machine learning models based on routine demographics, clinical factors, and lab data can be used to predict hemodynamically significant CAD with accuracy that approximates current noninvasive functional modalities.
+
+Citation: Liu Y, et al. A machine learning model in predicting hemodynamically significant coronary artery disease: A prospective cohort study. A machine learning model in predicting hemodynamically significant coronary artery disease: A prospective cohort study. 2022; 3:112-117. doi: 10.1016/j.cvdhj.2022.02.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35720674/

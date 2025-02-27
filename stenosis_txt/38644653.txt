@@ -1,0 +1,11 @@
+PMID: 38644653
+Title: Bricker versus Wallace ureteroileal anastomosis: A multi-institutional propensity score-matched analysis.
+
+Abstract: AIM OF THE STUDY: The aim of our study is to evaluate the difference in stricture rate between matched groups of Bricker and Wallace techniques for ureteroileal anastomosis.
+PATIENTS AND METHODS: A retrospective analysis of patients undergoing urinary diversion (UD) with Bricker and Wallace ureteroileal anastomosis at two university hospitals. Two groups of Bricker and Wallace patients were matched in a 1:1 ratio based on the age, sex, body mass index (BMI), Charlson comorbidity index (CCI), preoperative hydronephrosis, prior radiation therapy or abdominal surgery, pathologic T and N stages and 30-days-Clavien grade complications≥III. A multivariable Cox regression analysis was conducted to identify predictors of ureteroenteric stricture (UES) in all patients.
+RESULTS: Overall, 740 patients met the inclusion criteria and 209 patients in each group were propensity matched. At a similar median follow-up of 25 months, UES was detected in 25 (12%) and 30 (14.4%) patients in Bricker and Wallace groups, respectively (p = 0.56). However, only one patient in the Bricker group developed a bilateral stricture compared to 15 patients in the Wallace group, resulting in a significantly higher number of affected renal units in the Wallace group: 45 (10.7%) versus only 26 (6.2%) in the Bricker group (p = 0.00). On multivariable extended Cox analysis, prior radiotherapy, presence of T4 pelvic malignancy and nodal positive disease were independent predictor of UES formation.
+CONCLUSION: The technique of ureteroileal anastomosis itself does not increase the rate of stricture; however, conversion of two renal units into one is associated with a higher incidence of bilateral upper tract involvement.
+
+Citation: Al-Nader M, et al. Bricker versus Wallace ureteroileal anastomosis: A multi-institutional propensity score-matched analysis. Bricker versus Wallace ureteroileal anastomosis: A multi-institutional propensity score-matched analysis. 2024; 31:813-818. doi: 10.1111/iju.15471
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38644653/

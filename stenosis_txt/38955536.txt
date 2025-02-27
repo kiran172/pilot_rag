@@ -1,0 +1,11 @@
+PMID: 38955536
+Title: The Quantitative Evaluation of Automatic Segmentation in Lumbar Magnetic Resonance Images.
+
+Abstract: OBJECTIVE: This study aims to overcome challenges in lumbar spine imaging, particularly lumbar spinal stenosis, by developing an automated segmentation model using advanced techniques. Traditional manual measurement and lesion detection methods are limited by subjectivity and inefficiency. The objective is to create an accurate and automated segmentation model that identifies anatomical structures in lumbar spine magnetic resonance imaging scans.
+METHODS: Leveraging a dataset of 539 lumbar spinal stenosis patients, the study utilizes the residual U-Net for semantic segmentation in sagittal and axial lumbar spine magnetic resonance images. The model, trained to recognize specific tissue categories, employs a geometry algorithm for anatomical structure quantification. Validation metrics, like Intersection over Union (IOU) and Dice coefficients, validate the residual U-Net's segmentation accuracy. A novel rotation matrix approach is introduced for detecting bulging discs, assessing dural sac compression, and measuring yellow ligament thickness.
+RESULTS: The residual U-Net achieves high precision in segmenting lumbar spine structures, with mean IOU values ranging from 0.82 to 0.93 across various tissue categories and views. The automated quantification system provides measurements for intervertebral disc dimensions, dural sac diameter, yellow ligament thickness, and disc hydration. Consistency between training and testing datasets assures the robustness of automated measurements.
+CONCLUSION: Automated lumbar spine segmentation with residual U-Net and deep learning exhibits high precision in identifying anatomical structures, facilitating efficient quantification in lumbar spinal stenosis cases. The introduction of a rotation matrix enhances lesion detection, promising improved diagnostic accuracy, and supporting treatment decisions for lumbar spinal stenosis patients.
+
+Citation: Liang YW, et al. The Quantitative Evaluation of Automatic Segmentation in Lumbar Magnetic Resonance Images. The Quantitative Evaluation of Automatic Segmentation in Lumbar Magnetic Resonance Images. 2024; 21:665-675. doi: 10.14245/ns.2448060.030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38955536/

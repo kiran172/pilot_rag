@@ -1,0 +1,11 @@
+PMID: 37201689
+Title: Limited Axial Interpretation of Coronary CT Angiography in the Emergency Department Setting.
+
+Abstract: PURPOSE: Incorporating coronary CT angiographic (CCTA) imaging into emergency department (ED) workflows has been limited by the need for 24/7 real-time postprocessing. The aim of this study was to determine whether interpretation of transaxial CCTA images alone (limited axial interpretation [LI]) is noninferior to interpretation of combined transaxial and multiplanar reformation images (full interpretation [FI]) in assessing patients with acute chest pain in the ED.
+METHODS: CCTA examinations from 74 patients were evaluated by two radiologists, one without dedicated CCTA training and one with basic CCTA experience. Each examination was evaluated three times in separate sessions, once by LI and twice by FI, in random order. Nineteen coronary artery segments were rated as having significant stenoses (≥50%) or not. Interreader agreement was assessed using Cohen's κ statistic. The primary analysis was whether the accuracy of LI for detecting significant stenosis was noninferior to that of FI at the patient level (margin = -10%). Secondary analyses included similar analyses of sensitivity and specificity, at both the patient and vessel levels.
+RESULTS: Interreader agreement for significant stenosis was good for both LI and FI (κ = 0.72 vs 0.70, P = .74). Average accuracy for significant stenosis at the patient level was 90.5% for LI and 91.9% for FI, with a difference of -1.4%. The accuracy of LI was noninferior to FI, because the confidence interval did not include the noninferiority margin. Noninferiority was also found for patient-level sensitivity and for accuracy, sensitivity, and specificity at the vessel level.
+CONCLUSIONS: LI of the coronary arteries using transaxial CCTA images may be sufficient for the detection of significant coronary artery disease in the ED setting.
+
+Citation: Jehangir M, et al. Limited Axial Interpretation of Coronary CT Angiography in the Emergency Department Setting. Limited Axial Interpretation of Coronary CT Angiography in the Emergency Department Setting. 2024; 21:591-600. doi: 10.1016/j.jacr.2023.04.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37201689/

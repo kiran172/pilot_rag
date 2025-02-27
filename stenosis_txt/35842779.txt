@@ -1,0 +1,11 @@
+PMID: 35842779
+Title: In-hospital outcomes of TAVR patients with a bundle branch block: Insights from the National Inpatient Sample 2011-2018.
+
+Abstract: INTRODUCTION: Data on the outcomes following transcatheter aortic valve replacement (TAVR) in patients with a bundle branch block (BBB) remains limited.
+METHODS: We studied the outcomes of TAVR patients with a BBB from the National Inpatient Sample (NIS) database between 2011 and 2018 using ICD-9-CM and ICD-10-CM codes.
+RESULTS: Between 2011 and 2018, 194,237 patients underwent TAVR, where 1.7% (n = 3,232) had a right BBB (RBBB) and 13.7% (n = 26,689) had a left BBB (LBBB). Patients with a RBBB and LBBB had a higher rate of new permanent pacemaker (PPM) implantation (31.5% - RBBB, 15.7% LBBB vs. 10.2% - no BBB). RBBB was associated with a significantly longer median length of stay (5 days) and total hospitalization cost ($53,669) compared with LBBB (3 days and $47,552) and no BBB (3 days and $47,171). Trend analysis revealed lower rates of PPM implantation and reduced lengths of stay and costs across all comparison groups.
+CONCLUSION: In conclusion, patients undergoing TAVR with a BBB are associated with higher new rates of PPM implantation. RBBB is the strongest independent predictor for new PPM implantation following TAVR. Rates of new PPM implantation in TAVR patients with and without a BBB have improved over time including reductions in length of stay and hospital costs. Further study is needed to reduce the risks of PPM implantation in TAVR patients.
+
+Citation: Zahid S, et al. In-hospital outcomes of TAVR patients with a bundle branch block: Insights from the National Inpatient Sample 2011-2018. In-hospital outcomes of TAVR patients with a bundle branch block: Insights from the National Inpatient Sample 2011-2018. 2022; 100:424-436. doi: 10.1002/ccd.30341
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35842779/

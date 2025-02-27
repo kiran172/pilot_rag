@@ -1,0 +1,13 @@
+PMID: 35321859
+Title: Lifetime management of patients with symptomatic severe aortic stenosis: a computed tomography simulation study.
+
+Abstract: BACKGROUND: Given enough time, transcatheter heart valves (THVs) will degenerate and may require reintervention. Redo transcatheter aortic valve implantation (TAVI) is an attractive strategy but carries a risk of coronary obstruction.
+AIMS: We sought to predict how many TAVIs patients could undergo in their lifetime using computed tomography (CT) simulation.
+METHODS: We analysed paired CT scans (baseline and 30 days post-TAVI) from patients in the LRT trial and EPROMPT registry. We implanted virtual THVs on baseline CTs, comparing predicted valve-to-coronary (VTC) distances to 30-day CT VTC distances to evaluate the accuracy of CT simulation. We then simulated implantation of a second virtual THV within the first to estimate the risk of coronary obstruction due to sinus sequestration and the need for leaflet modification.
+RESULTS: We included 213 patients with evaluable paired CTs. There was good agreement between virtual (baseline) and actual (30 days) CT measurements. CT simulation of TAVI followed by redo TAVI predicted low coronary obstruction risk in 25.4% of patients and high risk, likely necessitating leaflet modification, in 27.7%, regardless of THV type. The remaining 46.9% could undergo redo TAVI so long as the first THV was balloon-expandable but would likely require leaflet modification if the first THV was self-expanding.
+CONCLUSIONS: Using cardiac CT simulation, it is possible to predict whether a patient can undergo multiple TAVI procedures in their lifetime. Those who cannot may prefer to undergo surgery first. CT simulation could provide a personalised lifetime management strategy for younger patients with symptomatic severe aortic stenosis and inform decision-making.
+CLINICALTRIALS: gov: NCT02628899; ClinicalTrials.gov: NCT03557242; ClinicalTrials.gov: NCT03423459.
+
+Citation: Medranda GA, et al. Lifetime management of patients with symptomatic severe aortic stenosis: a computed tomography simulation study. Lifetime management of patients with symptomatic severe aortic stenosis: a computed tomography simulation study. 2022; 18:e407-e416. doi: 10.4244/EIJ-D-21-01091
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35321859/

@@ -1,0 +1,11 @@
+PMID: 31895756
+Title: Study of novel deformable image registration in myocardial perfusion single-photon emission computed tomography.
+
+Abstract: OBJECTIVE: In the present study, deformable image registration (DIR) technology was applied to gated myocardial perfusion single-photon emission computed tomography (G-MPS) reconstructed images in distorting all image phases. We aimed to define a new method of end-diastole compatible image registration and verify the clinical usability for any cardiac volume.
+METHODS: Projection images were created using the Monte Carlo simulation. All image phases were shifted to fit the end-diastole phase by applying DIR to images that were reconstructed from projection images. Defect ratios were subsequently evaluated using the simulated images of the anterior wall simulated ischemia. Furthermore, receiver operating characteristic (ROC) analysis was performed for the clinical evaluation of DIR and nongated images. To this end, normal volume and small hearts of 33 patients without coronary artery disease and 55 with single vessel disease (coronary stenosis > 70%) were evaluated.
+RESULTS: Defect ratio analysis for voxel values of 25-100 were 75.7-21.3 for nongated and 74.7-15.6 for DIR images. For normal cardiac volume, the area under the ROC curve was 0.901 ± 0.088 for nongated and 0.925 ± 0.073 for DIR images (P = 0.078). Finally, for small cardiac volume, the area under the ROC curve was 0.651 ± 0.124 for nongated and 0.815 ± 0.119 for DIR (P < 0.01).
+CONCLUSIONS: In the present study, we developed a new registration technique by applying DIR to G-MPS images. When optimal DIR conditions were applied, the resolution of G-MPS images was improved. Furthermore, the diagnostic ability was improved in cases of small cardiac volume.
+
+Citation: Ito T, et al. Study of novel deformable image registration in myocardial perfusion single-photon emission computed tomography. Study of novel deformable image registration in myocardial perfusion single-photon emission computed tomography. 2020; 41:196-205. doi: 10.1097/MNM.0000000000001140
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31895756/

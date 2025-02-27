@@ -1,0 +1,15 @@
+PMID: 37871657
+Title: Minimal clinically important differences in walking capacity and physical activity after nonsurgical treatment in patients with lumbar spinal stenosis: a secondary analysis of a randomized controlled trial.
+
+Abstract: BACKGROUND CONTEXT: Little information is available about the minimal clinically important differences (MCIDs) for objective physical measurements in people with lumbar spinal stenosis (LSS).
+PURPOSE: To use disorder-specific anchor and, multiple anchor-, and distribution-based approaches to determine the MCIDs for walking capacity and physical activity in patients with LSS receiving nonsurgical treatment.
+STUDY DESIGN/SETTING: Secondary analysis of a randomized controlled trial.
+PATIENT SAMPLE: Sixty-nine patients with neurogenic claudication caused by LSS receiving outpatient physical therapy.
+OUTCOME MEASURES: Zurich claudication questionnaire (ZCQ), self-paced walking test (SPWT), and number of daily steps measured by pedometry.
+METHODS: All patients completed the ZCQ, SPWT, and pedometry at the baseline and after 6 weeks. For the anchor-based approach, ZCQ symptom severity, physical function, and satisfaction subscales were used as the external anchors. Using the receiver-operating characteristic (ROC) curve, the MCIDs were determined based on the optimal cutoff points for changes in the SPWT or daily steps. For the distribution-based approach, the MCIDs were estimated from the standard deviations (SDs) of the baseline scores of the SPWT and daily steps.
+RESULTS: In the anchor-based approach, only the ZCQ satisfaction subscale for the SPWT (0.73), and ZCQ symptom severity subscale for daily steps (0.71) exceeded the area under the ROC curve value of 0.7, which is considered acceptable. When using these subscales as anchors, the ROC curves and optimal cutoff points indicated MCIDs of 151 m for the SPWT and 1,149 steps for daily steps. The distribution-based approach estimated the MCIDs as 280 m for the SPWT and 1,274 steps for daily steps, and had a moderate effect size (0.5 SD).
+CONCLUSIONS: The anchor-based approach had limited external responsiveness when the ZCQ was used as the anchor. However, this information may be helpful for interpreting walking capacity and physical activity in patients with LSS receiving nonsurgical treatment and for estimating power and sample size when planning new trials.
+
+Citation: Minetama M, et al. Minimal clinically important differences in walking capacity and physical activity after nonsurgical treatment in patients with lumbar spinal stenosis: a secondary analysis of a randomized controlled trial. Minimal clinically important differences in walking capacity and physical activity after nonsurgical treatment in patients with lumbar spinal stenosis: a secondary analysis of a randomized controlled trial. 2024; 24:256-262. doi: 10.1016/j.spinee.2023.10.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37871657/

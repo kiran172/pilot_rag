@@ -1,0 +1,8 @@
+PMID: 39422728
+Title: Time-dependent simulation of blood flow through an abdominal aorta with iliac arteries.
+
+Abstract: Atherosclerosis is one of the important diseases of the circulatory system because atherosclerotic plaques cause significant disruption of blood flow. Therefore, it is very important to properly understand these processes and skillfully simulate blood flow. In our work, we consider blood flow through an abdominal aorta with iliac arteries, assuming that the right iliac artery is narrowed by an atherosclerotic lesion. Blood flow is simulated using the laminar, standard k - ω  and standard k - ϵ  models. The obtained results show that despite the use of identical initial conditions, the distribution of velocity flow and wall shear stress depends on the choice of flow simulation model. For the k - ϵ  model, we obtain higher values of speed and wall shear stress on atherosclerotic plaque than in the other two models. The laminar and k - ω  models predict larger areas where reverse blood flow occurs in the area behind the atherosclerotic lesion. This effect is associated with negative wall shear stress. These two models give very similar results. The results obtained by us, and those reported in the literature, indicate that k - ω  model is the most suitable for blood flow analysis.
+
+Citation: Górski G and Kucab K. Time-dependent simulation of blood flow through an abdominal aorta with iliac arteries. Time-dependent simulation of blood flow through an abdominal aorta with iliac arteries. 2024; 53:429-445. doi: 10.1007/s00249-024-01724-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39422728/

@@ -1,0 +1,11 @@
+PMID: 35393245
+Title: Are risk factors necessary for pretest probability assessment of coronary artery disease? A patient similarity network analysis of the PROMISE trial.
+
+Abstract: BACKGROUND: Pretest probability (PTP) calculators utilize epidemiological-level findings to provide patient-level risk assessment of obstructive coronary artery disease (CAD). However, their limited accuracies question whether dissimilarities in risk factors necessarily result in differences in CAD. Using patient similarity network (PSN) analyses, we wished to assess the accuracy of risk factors and imaging markers to identify ≥50% luminal narrowing on coronary CT angiography (CCTA) in stable chest-pain patients.
+METHODS: We created four PSNs representing: patient characteristics, risk factors, non-coronary imaging markers and calcium score. We used spectral clustering to group individuals with similar risk profiles. We compared PSNs to a contemporary PTP score incorporating calcium score and risk factors to identify ≥50% luminal narrowing on CCTA in the CT-arm of the PROMISE trial. We also conducted subanalyses in different age and sex groups.
+RESULTS: In 3556 individuals, the calcium score PSN significantly outperformed patient characteristic, risk factor, and non-coronary imaging marker PSNs (AUC: 0.81 vs. 0.57, 0.55, 0.54; respectively, p ​< ​0.001 for all). The calcium score PSN significantly outperformed the contemporary PTP score (AUC: 0.81 vs. 0.78, p ​< ​0.001), and using 0, 1-100 and ​> ​100 cut-offs provided comparable results (AUC: 0.81 vs. 0.81, p ​= ​0.06). Similar results were found in all subanalyses.
+CONCLUSION: Calcium score on its own provides better individualized obstructive CAD prediction than contemporary PTP scores incorporating calcium score and risk factors. Risk factors may not be able to improve the diagnostic accuracy of calcium score to predict ≥50% luminal narrowing on CCTA.
+
+Citation: Kolossváry M, et al. Are risk factors necessary for pretest probability assessment of coronary artery disease? A patient similarity network analysis of the PROMISE trial. Are risk factors necessary for pretest probability assessment of coronary artery disease? A patient similarity network analysis of the PROMISE trial. 2022; 16:397-403. doi: 10.1016/j.jcct.2022.03.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35393245/

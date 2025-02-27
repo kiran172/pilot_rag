@@ -1,0 +1,8 @@
+PMID: 36842729
+Title: Computational fluid dynamics model of laryngotracheal stenosis and correlation to pulmonary function measures.
+
+Abstract: 3D models of airway lumens were created from CT scans of 19 patients with laryngotracheal stenosis. Computational fluid dynamics (CFD) simulations were completed for each, and results were compared to measured peak inspiratory flow rate, grade of lumen constriction, and measures of airway geometry. Results demonstrate flow resistance and shear stress correlate with degree of lumen constriction and absolute cross-sectional area as well as flow rate. Flow recirculation depends on airway constriction but does not vary with flow rate. Resistance and wall shear stress did not correlate well with functional measures. Flow recirculation did differ between subjects with higher functional measures and subjects with lower functional measures. This analysis provides mathematical models to predict airway resistance, wall shear stress, and flow reversal according lumen constriction and inspiratory flow rate. It suggests aerodynamic factors such as flow recirculation play a role in differences in functional performance between patients with similar airway measures.
+
+Citation: Crosby T, et al. Computational fluid dynamics model of laryngotracheal stenosis and correlation to pulmonary function measures. Computational fluid dynamics model of laryngotracheal stenosis and correlation to pulmonary function measures. 2023; 312:104037. doi: 10.1016/j.resp.2023.104037
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36842729/

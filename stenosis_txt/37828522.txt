@@ -1,0 +1,11 @@
+PMID: 37828522
+Title: Impact of prophylactic donor heart tricuspid valve annuloplasty on outcomes in heart transplantation.
+
+Abstract: BACKGROUND: Tricuspid regurgitation(TR) following heart transplantation could adversely affect clinical outcomes. In an effort to reduce the incidence of TR, prophylactic donor heart tricuspid valve annuloplasty has been performed during heart transplantation in our institution. We assessed early and long-term outcomes.
+METHODS: Between August 2011 and August 2021, 349 patients who underwent prophylactic tricuspid valve annuloplasty were included. Tricuspid valve annuloplasty was performed using the DeVega annuloplasty technique. The clinical outcomes of the interests included complete atrioventricular block requiring pacemaker implantation, the occurrence of significant TR(defined as moderate or greater), and survival. Long-term survival was compared in patients with and without significant TR using the Kaplan-Meier method. The Cox proportional hazards regression with time-dependent covariate analysis was used to see if significant TR affected the long-term survival.
+RESULTS: There was one patient(0.3%) who required pacemaker implantation for complete atrioventricular block. No patients developed tricuspid valve stenosis that required intervention. Significant TR developed in 31 patients(8.9%) during the follow-up period. The survival rate of patients who developed significant TR was significantly lower than that of those who did not(log rank < 0.01). Significant TR was associated with the long-term mortality(HR2.92, 95%CI 1.47-5.82, p < 0.01).
+CONCLUSIONS: Prophylactic donor heart tricuspid valve annuloplasty has the potential to reduce the occurrence of significant TR and can be performed safely. The significant TR that developed in patients with prophylactic annuloplasty negatively affected survival and was an independent predictor of long-term mortality.
+
+Citation: Nishida H, et al. Impact of prophylactic donor heart tricuspid valve annuloplasty on outcomes in heart transplantation. Impact of prophylactic donor heart tricuspid valve annuloplasty on outcomes in heart transplantation. 2023; 18:288. doi: 10.1186/s13019-023-02396-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37828522/

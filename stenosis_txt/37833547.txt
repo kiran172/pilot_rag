@@ -1,0 +1,11 @@
+PMID: 37833547
+Title: Initial experience with the graphical user interface for laser parameters setting of a new thulium fibre laser source device for urinary pathologies treatment.
+
+Abstract: BACKGROUND AND OBJECTIVE: We aimed to evaluate the concordance between the pre-settings ranges of thulium fibre laser (TFL) (Coloplast TFL Drive, Denmark) with easy-to-use graphical user interface and the laser settings used by a high-volume endo-urologist during surgical procedures.
+MATERIALS AND METHODS: In October 2022, we prospectively collected data of 67 patients who underwent TFL Drive (Coloplast, Denmark) for the management of urinary stones. Urothelial tumour (upper tract urinary cancer (UTUC) and bladder) 200 and 150 μm laser fibres were used for procedures. Stones characteristics (size and density) tumours and stenosis localizations, laser-on time (LOT), and laser settings were recorded. We also assessed the ablation speed (mm3/s), laser power (W), and Joules/mm3 values for each lithotripsy.
+RESULTS: A total 67 patients took part in the study. Median age was 52 (15-81) years. 55 (82%), 8 (12%), and 4 (6%) patients presented urinary stones, urothelial tumour, and stenosis, respectively. Median stone volume was 438 (36-6027) mm3 and median density was 988 (376-2000) HU. Median pulse energy was 0.6 (0.3-1.2), 0.8 (0.5-1) and 1 J for urinary stones, urothelial tumour and stenosis respectably. Endoscopically stone-free rate was 89%. Graphical user interface and surgeon accordance with the safety range were observed in 93.2%, 100% and 100% for urinary stones, UTUC and stenosis, respectively.
+CONCLUSION: During endoscopic procedures for urinary stones treatment, it is frequently needed to change laser parameters. These new TFL and GUI technology parameters remained in the pre-set security range in 94.1% of procedures.
+
+Citation: Solano C, et al. Initial experience with the graphical user interface for laser parameters setting of a new thulium fibre laser source device for urinary pathologies treatment. Initial experience with the graphical user interface for laser parameters setting of a new thulium fibre laser source device for urinary pathologies treatment. 2023; 41:3765-3771. doi: 10.1007/s00345-023-04631-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37833547/

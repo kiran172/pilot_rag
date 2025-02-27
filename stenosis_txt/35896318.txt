@@ -1,0 +1,11 @@
+PMID: 35896318
+Title: In-stent restenosis after vertebral artery origin stenosis stenting: a nomogram for risk assessment.
+
+Abstract: OBJECTIVE: To propose a nomogram for individual risk assessment of in-stent restenosis (ISR) after vertebral artery origin stenosis (VAOS) stenting.
+METHODS: We included 793 patients with VAOS treated with stenting from October 2006 to May 2013, with a median follow-up of 27.8 months. Cox regression and the least absolute shrinkage and selection operator (LASSO) regression were adopted for variable selection. The nomogram was formulated and validated by concordance indexes (C-indexes) and calibration curves. An in-stent restenosis risk table (ISR-RT) was subsequently generated for risk stratification. Differences between low-, intermediate-, and high-risk levels were shown by Kaplan-Meier curves and compared by log-rank test.
+RESULTS: The training and validation set included 594 and 199 patients, with a mean ISR rate of 37.2% and 35.2%, respectively. Stent type (HR=1.64, 95% CI 1.26 to 2.14), stent diameter (HR=2.48, 95% CI 1.77 to 3.48), history of peripheral vascular disease (HR=2.17, 95% CI 1.17 to 4.00), history of transit ischemic attack (HR=1.45, 95% CI 1.05 to 2.14), and left-side involvement (HR=1.33, 95% CI 1.04 to 1.69) were included in the nomogram. The C-indexes at 6 and 12 months were 0.650 and 0.611 in the training set, and 0.713 and 0.603 in the validation set, respectively. Compared with low-risk patients, the intermediate- and high-level group had 1.46 (95% CI 1.05 to 2.04; p=0.0235) and 2.28 (95% CI 1.64 to 3.17; p<0.0001) higher chances of developing ISR in 2 years, respectively.
+CONCLUSIONS: A nomogram and a risk evaluation table were developed with good predictive ability for in-stent restenosis among patients with VAOS, which could serve as a practical approach for individualized risk evaluation.
+
+Citation: Yang K, et al. In-stent restenosis after vertebral artery origin stenosis stenting: a nomogram for risk assessment. In-stent restenosis after vertebral artery origin stenosis stenting: a nomogram for risk assessment. 2023; 15:e41-e45. doi: 10.1136/neurintsurg-2022-019091
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35896318/

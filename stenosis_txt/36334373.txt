@@ -1,0 +1,11 @@
+PMID: 36334373
+Title: Carotid plaque components and other carotid artery features associated with risk of stroke: A systematic review and meta-analysis.
+
+Abstract: OBJECTIVE: To compare the difference in the risk of stroke for four kinds of carotid artery plaque and carotid artery stenosis.
+METHODS: Literature was collected by searching the PubMed, Embase, Cochrane library and Ovid databases up to June 2022, using the free search terms "carotid plaque" and "stroke". Meta-analysis was performed on the selected articles using Stata16 to analyse the relationship of stroke risk factors.
+RESULTS: A total of 11 studies including 6661 participants were included. Meta-analysis results showed that the incidence of stroke was statistically significantly different between IPH (intraplaque haemorrhage) plaques and LRNC (lipid-rich necrotic core) plaques (RR: 1.27, 95% CI: 1.04-1.55, P < 0.05) and IPH plaques and calcification plaques (RR: 2.99, 95% CI: 1.74-5.14, P < 0.0001). Furthermore, there was a statistically significant difference between TRFC (thinned or ruptured fibrous caps) plaques and carotid artery stenosis (RR: 10.84, 95% CI: 5.60-20.98, P < 0.0001) and calcification plaques and carotid artery stenosis (RR: 0.83, 95% CI: 0.75-0.92, P < 0.0001). However, there was no statistically significant difference between the IPH and carotid artery stenosis (RR: 1.55, 95% CI: 0.68-3.52, P > 0.05), LRNC and TRFC (RR: 0.80, 95% CI: 0.11-5.82, P > 0.05), LRNC and calcification (RR: 1.81, 95% CI: 0.90-3.66, P > 0.05) and LRNC and carotid artery stenosis (RR: 1.40, 95% CI: 0.69-2.81, P > 0.05).
+CONCLUSION: IPH was associated with a higher incidence of stroke compared to LRNC and calcification plaques and TRFC has a higher risk of stroke than calcification plaques and carotid stenosis. This evidence suggests that IPH and TRFC may play an important role in predicting stroke.
+
+Citation: Zhang Y, et al. Carotid plaque components and other carotid artery features associated with risk of stroke: A systematic review and meta-analysis. Carotid plaque components and other carotid artery features associated with risk of stroke: A systematic review and meta-analysis. 2022; 31:106857. doi: 10.1016/j.jstrokecerebrovasdis.2022.106857
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36334373/

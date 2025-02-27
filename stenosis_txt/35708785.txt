@@ -1,0 +1,11 @@
+PMID: 35708785
+Title: Transcatheter aortic valve implantation in patients with severe symptomatic aortic valve stenosis: systematic review of cost-effectiveness analysis.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) is a less invasive and costly treatment for patients with severe aortic stenosis (AS). This study aimed to systematically review the published literature focusing on economic evaluation of TAVI compared with other alternative treatments in AS populations.
+METHODS: A systematic review was conducted from inception until May 2021 using PubMed, Scopus, Web of science and Embase databases. The qualities of included studies were evaluated using Consolidated Health Economic Evaluation Reporting Standard (CHEERS) criteria. Data of costs, outcomes, incremental cost-effectiveness ratio (ICER) and willingness to pay were extracted. To compare results, ICERs were converted to the 2020 United States dollar (USD) rate.
+RESULTS: Of the 29 included cost-effectiveness studies, TAVI was cost-effective in all studies in the low-risk group (3/3), 77% of studies (7/9) in the intermediate-risk group, half of the studies (6/12) in the high-risk group, and 83% of studies (10/12) in the inoperable group. When adjusted to USD 2020, ICERs ranged from USD 2741 to 1027,674 USD per quality-adjusted life-year gained. The overall quality of the studies ranged from moderate to high.
+CONCLUSIONS: TAVI is potentially a cost-effective alternative to surgical aortic valve replacement (SAVR) for patients with operable AS with low, intermediate or high risk compared with medical management (MM) for patients with inoperable AS. TAVI was associated with a significant gain in quality-adjusted life-years in almost all studies compared to either SAVR or MM. TAVI is a costly procedure; therefore, justifying its cost-effectiveness depends on the acceptable threshold in each country.
+
+Citation: Chotnoppharatphatthara P, et al. Transcatheter aortic valve implantation in patients with severe symptomatic aortic valve stenosis: systematic review of cost-effectiveness analysis. Transcatheter aortic valve implantation in patients with severe symptomatic aortic valve stenosis: systematic review of cost-effectiveness analysis. 2023; 24:359-376. doi: 10.1007/s10198-022-01477-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35708785/

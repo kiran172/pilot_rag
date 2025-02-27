@@ -1,0 +1,12 @@
+PMID: 32773138
+Title: The effects of transcatheter aortic valve implantation on cardiac electrical properties.
+
+Abstract: INTRODUCTION: Transcatheter aortic valve implantation (TAVI) is associated with cardiac electrical disturbances. However, beyond the risks of pacemaker implantation, few studies have performed a detailed assessment of the effects of TAVI on several cardiac electrical properties.
+OBJECTIVES: To assess the frequency and type of electrocardiographic disturbances following TAVI, according to the type of prostheses and to assess predictors of these disturbances.
+METHODS: We performed a detailed retrospective analysis of all electrocardiograms in patients who underwent TAVI, before and after the procedure, at a tertiary center from August 2007 to October 2016. Patients with permanent pacemakers were excluded.
+RESULTS: We included 182 patients (78±8 years; 56% female) and self-expanding prostheses (SEP) were implanted in 54%. Most patients (80%) were in sinus rhythm at baseline. After TAVI, 21% of patients developed new-onset atrial fibrillation and there was a significant increase in PR interval at discharge (186±41 ms vs. 176±32; p=0.003), which was not maintained after at six-month follow-up (181±35 ms, p=0.06). There was also a significant increase in QRS duration at discharge (129±28 ms vs. 114±25 at baseline p<0.0001), which persisted at six-months (122±28 ms, p<0.0001). New-onset left-bundle branch block (LBBB) was observed in 25% of patients. The depth of valve implantation was a predictor of new LBBB at discharge after multivariate analysis (OR 37.6, 95% CI 14.6-65.2, p=0.001).
+CONCLUSIONS: The main electrocardiographic disturbances post TAVI were PR prolongation, increased QRS and new-onset LBBB. These disturbances were more pronounced in patients undergoing SEP implantation and tended to improve at six-month follow-up. The depth of valve implantation was a predictor of conduction disturbances.
+
+Citation: Manuel AM, et al. The effects of transcatheter aortic valve implantation on cardiac electrical properties. The effects of transcatheter aortic valve implantation on cardiac electrical properties. 2020; 39:431-440. doi: 10.1016/j.repc.2020.02.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32773138/

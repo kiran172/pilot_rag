@@ -1,0 +1,11 @@
+PMID: 35156133
+Title: Impact of myopenia and myosteatosis on postoperative outcome and recurrence in Crohn's disease.
+
+Abstract: PURPOSE: Myopenia and myosteatosis have been proposed to be prognostic factors of surgical outcomes for various diseases, but their exact role in Crohn's disease (CD) is unknown. The aim of this study is to evaluate their impact on anastomotic leakage, CD recurrence, and postoperative complications after ileocecal resection in patients with CD.
+METHODS: A retrospective analysis of CD patients undergoing ileocecal resection at our tertiary referral center was performed. To assess myopenia, skeletal muscle index (skeletal muscle area normalized for body height) was measured using an established image analysis method at third lumbar vertebra level on MRI cross-sectional images. Muscle signal intensity was measured to assess myosteatosis index.
+RESULTS: A total of 347 patients were retrospectively analyzed. An adequate abdominal MRI scan within 12 months prior to surgery was available for 223 patients with median follow-up time of 48.8 months (IQR: 20.0-82.9). Anastomotic leakage rate was not associated with myopenia (SMI: p = 0.363) or myosteatosis index (p = 0.821). Patients with Crohn's recurrence had a significantly lower SMI (p = 0.047) in univariable analysis, but SMI was not an independent factor for recurrent anastomotic stenosis in multivariable analysis (OR 0.951, 95% CI 0.840-1.078; p = 0.434). Postoperative complications were not associated with myopenia or myosteatosis.
+CONCLUSION: Based on the largest cohort of its kind with a long follow-up time, we could provide some data that MRI parameters for myopenia and myosteatosis may not be reliable predictors of postoperative outcome or recurrence in patients with Crohn's disease undergoing ileocecal resection.
+
+Citation: Pozios I, et al. Impact of myopenia and myosteatosis on postoperative outcome and recurrence in Crohn's disease. Impact of myopenia and myosteatosis on postoperative outcome and recurrence in Crohn's disease. 2022; 37:791-804. doi: 10.1007/s00384-022-04104-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35156133/

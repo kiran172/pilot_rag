@@ -1,0 +1,11 @@
+PMID: 35771002
+Title: Comparison of the Diagnostic Performance of Myocardial Perfusion Scintigraphy with and Without Attenuation Correction.
+
+Abstract: OBJECTIVES: Myocardial perfusion scintigraphy (MPS) is an important diagnostic test for detecting of coronary artery stenosis (CAS); however, tissue attenuation can lead to a difference in accuracy. We evaluated the diagnostic accuracy of attenuation-corrected (AC) and non-attenuation-corrected (NC) MPS for the detection of CAS.
+METHODS: We retrospectively recruited patients who underwent invasive coronary angiography within 10 months after Tc-99m sestamibi MPS. The AC and NC perfusion images were analyzed separately, and each myocardial segment was scored based on relative uptake from 0 to 4. The summed stress score (SSS), summed rest score (SRS), and summed difference score (SDS) were calculated. The diagnostic performances were analyzed using the area under the curve (AUC) of the receiver operating characteristic curve.
+RESULTS: From 117 patients, significant coronary stenosis was present in 66 patients (56%). The SSS and SRS obtained from NC-images were higher than those from AC, supporting the presence of attenuation artifacts in NC images. The AUC of SSS and SDS were significantly higher than those of SRS in both AC- and NC-images, but no significant difference was found between the AUC of SSS, and those of SDS. The optimal cut-offs were >12 for AC-SSS, >15 for NC-SSS, >4 for AC-SDS and >3 for NC-SDS. There was no statistically significant difference in the sensitivity, specificity, positive predictive value, negative predictive value, and accuracy among AC-SSS, NC-SSS, AC-SDS, and NC-SDS.
+CONCLUSION: NC-based Tc-99m-sestamibi MPS promised comparable accuracy to AC images by using different cut-off values for diagnosis.
+
+Citation: Vachatimanont S, et al. Comparison of the Diagnostic Performance of Myocardial Perfusion Scintigraphy with and Without Attenuation Correction. Comparison of the Diagnostic Performance of Myocardial Perfusion Scintigraphy with and Without Attenuation Correction. 2022; 31:130-138. doi: 10.4274/mirt.galenos.2021.27880
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35771002/

@@ -1,0 +1,11 @@
+PMID: 38273669
+Title: Statin treatment after surgical aortic valve replacement for aortic stenosis is associated with better long-term outcome.
+
+Abstract: OBJECTIVES: The aim of this study was to evaluate the association between statin use after surgical aortic valve replacement for aortic stenosis and long-term risk for major adverse cardiovascular events (MACEs) in a large population-based, nationwide cohort.
+METHODS: All patients who underwent isolated surgical aortic valve replacement due to aortic stenosis in Sweden 2006-2020 and survived 6 months after discharge were included. Individual patient data from 5 nationwide registries were merged. Primary outcome is MACE (defined as all-cause mortality, myocardial infarction or stroke). Multivariable Cox regression model adjusted for age, sex, comorbidities, valve type, operation year and secondary prevention medications is used to evaluate the association between time-updated dispense of statins and long-term outcome in the entire study population and in subgroups based on age, sex and comorbidities.
+RESULTS: A total of 11 894 patients were included. Statins were dispensed to 49.8% (5918/11894) of patients at baseline, and 51.0% (874/1713) after 10 years. At baseline, 3.6% of patients were dispensed low dose, 69.4% medium dose and 27.0% high-dose statins. After adjustments, ongoing statin treatment was associated with a reduced risk for MACE [adjusted hazard ratio 0.77 (95% confidence interval 0.71-0.83). P < 0.001], mainly driven by a reduction in all-cause mortality [adjusted hazard ratio, 0.70 (0.64-0.76)], P < 0.001. The results were consistent in all subgroups.
+CONCLUSIONS: The results suggest that statin therapy might be beneficial for patients undergoing surgical aortic valve replacement for aortic stenosis. Randomized controlled trials are warranted to establish causality between statin treatment and improved outcome.
+
+Citation: Pan E, et al. Statin treatment after surgical aortic valve replacement for aortic stenosis is associated with better long-term outcome. Statin treatment after surgical aortic valve replacement for aortic stenosis is associated with better long-term outcome. 2024; 65:(unknown pages). doi: 10.1093/ejcts/ezae007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38273669/

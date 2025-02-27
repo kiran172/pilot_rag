@@ -1,0 +1,12 @@
+PMID: 35410913
+Title: Prognostic value of microvascular resistance and its association to fractional flow reserve: a DEFINE-FLOW substudy.
+
+Abstract: OBJECTIVE: This study aimed to evaluate the prognostic value of hyperemic microvascular resistance (HMR) and its relationship with hyperemic stenosis resistance (HSR) index and fractional flow reserve (FFR) in stable coronary artery disease.
+METHODS: This is a substudy of the DEFINE-FLOW cohort (NCT02328820), which evaluated the prognosis of lesions (n=456) after combined FFR and coronary flow reserve (CFR) assessment in a prospective, non-blinded, non-randomised, multicentre study in 12 centres in Europe and Japan. Participants (n=430) were evaluated by wire-based measurement of coronary pressure, flow and vascular resistance (ComboWire XT, Phillips Volcano, San Diego, California, USA).
+RESULTS: Mean FFR and CFR were 0.82±0.10 and 2.2±0.6, respectively. When divided according to FFR and CFR thresholds (above and below 0.80 and 2.0, respectively), HMR was highest in lesions with FFR&gt;0.80 and CFR&lt;2.0 (n=99) compared with lesions with FFR≤0.80 and CFR≥2.0 (n=68) (2.92±1.2 vs 1.91±0.64 mm Hg/cm/s, p&lt;0.001). The FFR value was proportional to the ratio between HMR and the HMR+HSR (total resistance), 95% limits of agreement (-0.032; 0.019), bias (-0.003±0.02) and correlation (r2=0.98, p&lt;0.0001). Cox regression model using HMR as continuous parameter for target vessel failure showed an HR of 1.51, 95% CI (0.9 to 2.4), p=0.10.
+CONCLUSIONS: Increased HMR was not associated with a higher rate of adverse clinical events, in this population of mainly stable patients. FFR can be equally well expressed as HMR/HMR+HSR, thereby providing an alternative conceptual formulation linking epicardial severity with microvascular resistance.
+TRIAL REGISTRATION NUMBER: NCT02328820.
+
+Citation: Eftekhari A, et al. Prognostic value of microvascular resistance and its association to fractional flow reserve: a DEFINE-FLOW substudy. Prognostic value of microvascular resistance and its association to fractional flow reserve: a DEFINE-FLOW substudy. 2022; 9:(unknown pages). doi: 10.1136/openhrt-2022-001981
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35410913/

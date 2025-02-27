@@ -1,0 +1,11 @@
+PMID: 32878608
+Title: Asymmetrical cortical vein sign predicts early neurological deterioration in acute ischemic stroke patients with severe intracranial arterial stenosis or occlusion.
+
+Abstract: BACKGROUND: Susceptibility weighted imaging (SWI) provides an approximate assessment of tissue perfusion and shows prominent hypointense cortical veins in the ischemic territory because of the increased concentration of deoxyhemoglobin. We aimed to evaluate whether asymmetrical prominent cortical vein sign (APCVS) on SWI can predict early neurological deterioration (END) in acute ischemic stroke patients with severe intracranial arterial stenosis or occlusion (SIASO).
+METHODS: One hundred and nine acute ischemic stroke patients with SIASO who underwent SWI were retrospectively recruited. END was defined as an increase in the National Institutes of Health Stroke Scale score ≧2 points despite standard treatment in the first 72 h after admission. The APCVS was defined as more and/or large vessels with greater signal loss than those in the opposite hemisphere on SWI.
+RESULTS: Thirty out of the 109 (27.5%) patients developed END. Sixty (55.0%) patients presented with APCVS on SWI. APCVS occurred in 24 (80%) patients with END, whereas it only occurred in 36 (45.6%) patients without END (P = 0.001). Patients with APCVS were more likely to have END (40.0%, vs. 12.2%, P = 0.001) than those without END. Multivariate logistic regression indicated that APCVS (OR = 4.349, 95% C.I. = 1.580-11.970, P = 0.004) was a significant predictor of END in acute ischemic stroke patients with SIASO, adjusted for previous stroke history and acute infarct volume.
+CONCLUSIONS: In acute ischemic stroke patients with SIASO, the APCVS might be a useful neuroimaging marker for predicting END, which suggests the importance of evaluation of perfusion status.
+
+Citation: Li W, et al. Asymmetrical cortical vein sign predicts early neurological deterioration in acute ischemic stroke patients with severe intracranial arterial stenosis or occlusion. Asymmetrical cortical vein sign predicts early neurological deterioration in acute ischemic stroke patients with severe intracranial arterial stenosis or occlusion. 2020; 20:331. doi: 10.1186/s12883-020-01907-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32878608/

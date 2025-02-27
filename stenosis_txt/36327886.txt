@@ -1,0 +1,11 @@
+PMID: 36327886
+Title: Classification and regression of stenosis using an in-vitro pulse wave data set: Dependence on heart rate, waveform and location.
+
+Abstract: BACKGROUND: Data-based approaches promise to use the information in cardiovascular signals to diagnose cardiovascular diseases. Considerable effort has been undertaken in the field of pulse-wave analysis to harness this information. However, the inverse problem, inferring arterial properties from waveform measurements, is not well understood today. Consequently, uncertainties within the estimation hinder the diagnostic application of such methods.
+METHOD: This work contributes a publicly available data set measured at an in-vitro cardiovascular simulator, focusing on a set of input conditions (heart rate, waveform) and stenosis locations. Furthermore, a first attempt is undertaken to perform classification and regression on this data set using standard machine learning methods on features extracted from four peripheral pressure signals.
+RESULTS: The locations of six different stenoses could be distinguished at high accuracy of 93%, where transfer function-based features outperformed features based solely on signal shape in almost all cases. Furthermore, regression on the stenosis position could be performed with a root mean square error of 2.4 cm along a 20 cm section of the arterial system using a shallow neural network. However, the performance difference between shape and transfer function features was not clear for this task.
+CONCLUSION: The data set contains 800 measurements and allows investigating the influence of different heart boundary conditions, such as heart rate and waveform shape, on classification and regression tasks. Extracting features that minimise this influence is a promising way of improving the performance of these tasks.
+
+Citation: Mair A, et al. Classification and regression of stenosis using an in-vitro pulse wave data set: Dependence on heart rate, waveform and location. Classification and regression of stenosis using an in-vitro pulse wave data set: Dependence on heart rate, waveform and location. 2022; 151:106224. doi: 10.1016/j.compbiomed.2022.106224
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36327886/

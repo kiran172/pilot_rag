@@ -1,0 +1,11 @@
+PMID: 37014563
+Title: Direct Oral Anticoagulants in Patients with Atrial Fibrillation and Significant Mitral Stenosis-a Preliminary Meta-Analysis.
+
+Abstract: INTRODUCTION: Patients with atrial fibrillation (AF) and concomitant moderate-to-severe mitral stenosis (MS) are listed as a contraindicated population to direct oral anticoagulant (DOAC) because of the traditional tenet of high stroke risk, despite scarce evidence. With accumulating data, we sought to conduct a systematic meta-analysis to preliminarily explore the efficacy and safety of DOAC versus warfarin in patients with AF and concomitant significant MS.
+METHODS: We searched the Medline, Embase databases, and the Cochrane Library (assessed October 10th, 2022) for eligible studies. Risk ratios (RRs) and 95% confidence intervals (CIs) were synthesized in Stata 16.1 (StataCorp).
+RESULTS: In random-effects meta-analyses, DOACs demonstrated a similar risk of stroke or systemic embolism (RR 0.51; 95% CI 0.09-2.96), all-cause death (RR 0.81; 95% CI 0.35-1.87), major or clinically relevant non-major bleeding (RR 0.57; 95% CI 0.24-1.39), and silent cerebral ischemia (RR 1.01; 95% CI 0.64-1.58) when compared with warfarin.
+CONCLUSIONS: DOACs were similar to warfarin in the efficacy and safety profiles in patients with AF and concomitant significant MS. Future evidence is expected from other large trials.
+
+Citation: Zhang Y and Chen M. Direct Oral Anticoagulants in Patients with Atrial Fibrillation and Significant Mitral Stenosis-a Preliminary Meta-Analysis. Direct Oral Anticoagulants in Patients with Atrial Fibrillation and Significant Mitral Stenosis-a Preliminary Meta-Analysis. 2024; 38:1059-1064. doi: 10.1007/s10557-023-07451-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37014563/

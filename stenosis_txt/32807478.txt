@@ -1,0 +1,11 @@
+PMID: 32807478
+Title: Detection of impaired cerebrovascular reactivity in patients with chronic cerebral ischemia using whole-brain 7T MRA.
+
+Abstract: BACKGROUND: Cerebrovascular reactivity (CVR) to acetazolamide (ACZ) on single-photon emission computed tomography (SPECT) can be used to assess the severity of chronic cerebral ischemia; however, this is an invasive method. We examined whether whole-brain magnetic resonance angiography (MRA) at 7T could non-invasively detect impaired CVR in patients with chronic cerebral ischemia by demonstrating the leptomeningeal collaterals (LMCs).
+METHODS: Fifty-seven patients with symptomatic unilateral cervical stenosis underwent whole-brain time-of-flight MRA at 7T and cerebral perfusion SPECT before/after the ACZ challenge. MRA images were visually assessed based on 6-point grading systems to evaluate the development of LMCs toward the middle cerebral artery (MCA) and antegrade flow of MCA. CVR of the affected side was calculated from the SPECT data. Subsequently, we compared the LMC grades on MRA with CVR on SPECT.
+RESULTS: CVR was significantly lower in grades ≥ 2 of LMCs than in grades 0-1 (P < 0.05) when applying LMCs from the anterior cerebral artery (ACA) and/or posterior cerebral artery (PCA). These differences were more evident than those in the grading of the antegrade MCA flow. The LMC grades from ACA/PCA readily detected reduced CVR (< 18.4%) with a sensitivity/specificity of 0.79/0.82.
+CONCLUSION: The development of LMCs on whole-brain MRA at 7T can non-invasively detect reduced CVR with a high sensitivity/specificity in patients with unilateral cervical stenosis.
+
+Citation: Uwano I, et al. Detection of impaired cerebrovascular reactivity in patients with chronic cerebral ischemia using whole-brain 7T MRA. Detection of impaired cerebrovascular reactivity in patients with chronic cerebral ischemia using whole-brain 7T MRA. 2020; 29:105081. doi: 10.1016/j.jstrokecerebrovasdis.2020.105081
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32807478/

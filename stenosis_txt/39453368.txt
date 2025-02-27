@@ -1,0 +1,12 @@
+PMID: 39453368
+Title: Incidence, Predictors, and Outcomes of Unplanned Coronary Angiography After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Assessment of coronary artery disease (CAD) is critical in managing severe aortic stenosis. Unplanned coronary angiography after TAVR, with or without percutaneous coronary intervention, may present significant challenges.
+OBJECTIVES: The aim of this study was to evaluate the incidence, predictors, and outcomes of unplanned coronary angiography after transcatheter aortic valve replacement (TAVR).
+METHODS: All TAVR procedures between July 2015 and December 2021 were examined for the occurrence of unplanned angiography and for procedural success with percutaneous coronary intervention if attempted, and a machine learning prediction model was created.
+RESULTS: Among 1,444 patients (median age 81 years, 59% men), 6.7% had unplanned post-TAVR angiography, 45% within the first year. The most common indication was acute coronary syndrome, which occurred in 3.3% overall. Patients with preprocedural CAD (50.1%) had a significantly higher incidence of unplanned angiography (10.5% vs 2.9%; P < 0.001) in comparison with others. In multivariable analysis, factors associated with unplanned angiography were age (>75 years; HR: 0.46; 95% CI: 0.30-0.71; P < 0.001), mean aortic valve gradient (HR: 0.82; 95% CI: 0.68-0.98; P = 0.031), dialysis (HR: 2.68; 95% CI: 1.07-6.74; P = 0.036), and CAD (HR: 2.96; 95% CI: 1.76-4.98; P < 0.001). In multivariate models, these same variables had areas under the curve of 0.71 to 0.77 for 5-year prediction of unplanned angiography.
+CONCLUSIONS: Unplanned angiography post-TAVR occurs in about 1 in 15 patients, with about one-half occurring within the first year, about one-half due to acute coronary syndrome, and pre-existing CAD being the strongest predictor. For those considering TAVR and who have or are at risk for CAD, a comprehensive strategy to facilitate lifetime management is needed.
+
+Citation: Phichaphop A, et al. Incidence, Predictors, and Outcomes of Unplanned Coronary Angiography After Transcatheter Aortic Valve Replacement. Incidence, Predictors, and Outcomes of Unplanned Coronary Angiography After Transcatheter Aortic Valve Replacement. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jcin.2024.07.042
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39453368/

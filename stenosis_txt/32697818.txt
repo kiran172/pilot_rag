@@ -1,0 +1,8 @@
+PMID: 32697818
+Title: Platelet α-granules are required for occlusive high-shear-rate thrombosis.
+
+Abstract: von Willebrand factor (VWF) is essential for the induction of arterial thrombosis. In this study, we investigated the critical role of platelet VWF in occlusive thrombosis formation at high shear in mice that do not express platelet VWF (Nbeal2-/-). Using in silico modeling, in vitro high-shear microfluidics, and an in vivo Folts model of arterial thrombosis we reproduced the platelet dynamics that occur under pathological flow in a stenosed vessel. Computational fluid dynamics (CFDs) simulated local hemodynamics in a stenosis based on arterial geometries. The model predicted shear rates, time course of platelet adhesion, and time to occlusion. These predictions were validated in vitro and in vivo. Occlusive thrombosis developed in wild-type control mice that had normal levels of plasma VWF and platelet VWF in vitro and in vivo. Occlusive thrombosis did not form in the Nbeal2-/- mice that had normal plasma VWF and an absence of platelet VWF. Occlusive thrombosis was corrected in Nbeal2-/- microfluidic assays by the addition of exogenous normal platelets with VWF. Combining model and experimental data, we demonstrated the necessary requirement of platelet VWF in α-granules in forming an occlusive thrombus under high shear. These results could inspire new pharmacological targets specific to pathological conditions and prevent arterial thrombosis.
+
+Citation: Kim DA, et al. Platelet α-granules are required for occlusive high-shear-rate thrombosis. Platelet α-granules are required for occlusive high-shear-rate thrombosis. 2020; 4:3258-3267. doi: 10.1182/bloodadvances.2020002117
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32697818/

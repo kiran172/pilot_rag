@@ -1,0 +1,11 @@
+PMID: 38171070
+Title: Long-term recurrence of ischemic events in patients with intracranial atherosclerotic stenosis stratified by symptoms and pathogenesis.
+
+Abstract: BACKGROUND: Intracranial atherosclerotic stenosis (ICAS) can cause either transient ischemic attack (TIA) or acute ischemic stroke (AIS). Pathogenesis of ICAS-AIS can be divided into artery-to-artery embolism(A-A), hypoperfusion(HP), and parent-artery atherosclerosis occluding penetrating artery(POPA). However, the prognosis of each type remains uncertain. Our study aimed to investigate potential disparities in the recurrent risk among these four subtypes of symptomatic ICAS.
+METHODS: From a prospective, single-center cohort study of acute cerebrovascular diseases from January 2017 to November 2021, we recruited 120 ICAS patients and classified them into four groups based on diffusion weighted imaging. Patients were retrospectively followed up for recurrence in December 2022. The primary outcome was recurrent cerebral vascular events (RCVE) in the same territory.
+RESULTS: Among 120 recruited patients, POPA(33%) was the most common subtype, followed by A-A(32%), HP(29%), and TIA(6%). Cumulative recurrent rate was 31.2% with median months of follow-up as 27(20-45.5). There was no significant difference in the risk of RCVE in the same territory among four subgroups within three months. However, when considering the risk after three months, TIA(57%) had the highest risk of RCVE, followed by A-A(26%), while HP(4%) and POPA(8%) had lower risks (P = 0.001). Cox regression model indicated that symptom and pathogenesis was an independent risk factor for RCVE in long-term prognosis (P = 0.022), after adjusting for a history of hypertension and cerebral infarction.
+CONCLUSIONS: Distinctive symptoms and pathogenesis of ICAS exhibit varying risks of RCVE in long-term prognosis. The differentiation in recurrent risk may provide valuable insights for guiding secondary prevention strategies.
+
+Citation: Liu Y, et al. Long-term recurrence of ischemic events in patients with intracranial atherosclerotic stenosis stratified by symptoms and pathogenesis. Long-term recurrence of ischemic events in patients with intracranial atherosclerotic stenosis stratified by symptoms and pathogenesis. 2024; 456:122838. doi: 10.1016/j.jns.2023.122838
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38171070/

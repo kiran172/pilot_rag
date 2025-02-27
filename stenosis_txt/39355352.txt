@@ -1,0 +1,11 @@
+PMID: 39355352
+Title: Cellular and extracellular proteomic profiling of paradoxical low-flow low-gradient aortic stenosis myocardium.
+
+Abstract: AIMS: Patients with severe aortic stenosis (AS), low transvalvular flow (LF) and low gradient (LG) with normal ejection fraction (EF)-are referred to as paradoxical LF-LG AS (PLF-LG). PLF-LG patients develop more advanced heart failure symptoms and have a worse prognosis than patients with normal EF and high-gradient AS (NEF-HG). Despite its clinical relevance, the mechanisms underlying PLF-LG are still poorly understood.
+METHODS: Left ventricular (LV) myocardial biopsies of PLF-LG (n = 5) and NEF-HG patients (n = 6), obtained during transcatheter aortic valve implantation, were analyzed by LC-MS/MS after sequential extraction of cellular and extracellular matrix (ECM) proteins using a three-step extraction method. Proteomic data are available via ProteomeXchange with identifier PXD055391.
+RESULTS: 73 cellular proteins were differentially abundant between the 2 groups. Among these, a network of proteins related to muscle contraction and arrhythmogenic cardiomyopathy (e.g., cTnI, FKBP1A and CACNA2D1) was found in PLF-LG. Extracellularly, upregulated proteins in PLF-LG were related to ATP synthesis and oxidative phosphorylation (e.g., ATP5PF, COX5B and UQCRB). Interestingly, we observed a 1.3-fold increase in cyclophilin A (CyPA), proinflammatory cytokine, in the extracellular extracts of PLF-LG AS patients (p &lt; 0.05). Consistently, immunohistochemical analysis confirmed its extracellular localization in PLF-LG AS LV sections along with an increase in its receptor, CD147, compared to the NEF-HG AS patients. Levels of core ECM proteins, namely collagens and proteoglycans, were comparable between groups.
+CONCLUSION: Our study pinpointed novel candidates and processes with potential relevance in the pathophysiology of PLF-LG. The role of CyPA in particular warrants further investigation.
+
+Citation: Elkenani M, et al. Cellular and extracellular proteomic profiling of paradoxical low-flow low-gradient aortic stenosis myocardium. Cellular and extracellular proteomic profiling of paradoxical low-flow low-gradient aortic stenosis myocardium. 2024; 11:1398114. doi: 10.3389/fcvm.2024.1398114
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39355352/

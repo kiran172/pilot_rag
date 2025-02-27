@@ -1,0 +1,12 @@
+PMID: 39477639
+Title: Characteristics, Trends, and Outcomes of Intravascular Lithotripsy-Assisted Transfemoral Transcatheter Aortic Valve Replacement in United States.
+
+Abstract: BACKGROUND: Transfemoral (TF) access is the preferred approach for transcatheter aortic valve replacement (TAVR). Limited data exist regarding the outcomes of intravascular lithotripsy (IVL)-assisted TF TAVR in patients with peripheral artery disease.
+OBJECTIVES: This study sought to examine contemporary characteristics, trends, and outcomes of IVL TAVR in the United States.
+METHODS: The Vizient Clinical Database was queried for patients who underwent percutaneous TAVR between October 1, 2020, and November 30, 2023. Outcomes with IVL TAVR vs non-IVL TAVR were examined after propensity score matching. The primary outcome was a composite of in-hospital death, stroke, vascular complications, surgical vascular intervention, and major bleeding.
+RESULTS: Over the study period, 129,655 patients (mean age of 78.4 years, 42.2% women, 87.1% White) underwent percutaneous TAVR at 361 hospitals, 1,242 (0.96%) of whom underwent IVL TAVR. There was an uptrend in IVL TAVR, but the frequency remained low. IVL TAVR patients had a higher median Elixhauser comorbidity score (5 [Q1-Q3: 4-7] vs 4 [Q1-Q3: 3-6]) compared to non-IVL TAVR. TAVR was completed via the TF approach in 1,238 (99.7%) IVL TAVR patients. In a 3:1 propensity score matching analysis, IVL TAVR was associated with a higher rate of the primary composite outcome (21.9% vs 13.7%; P < 0.001) driven by higher rates of vascular complications, surgical vascular intervention, and major bleeding. In-hospital death and stroke were similar in both groups.
+CONCLUSIONS: In the United States, IVL is increasingly adopted to facilitate TF TAVR. IVL TAVR patients exhibited a higher burden of comorbidities and experienced more complications compared to non-IVL TAVR patients. Further studies are needed to identify appropriate anatomical and clinical use criteria for IVL TAVR and to compare its outcomes vs alternative non-TF TAVR.
+
+Citation: Imran HM, et al. Characteristics, Trends, and Outcomes of Intravascular Lithotripsy-Assisted Transfemoral Transcatheter Aortic Valve Replacement in United States. Characteristics, Trends, and Outcomes of Intravascular Lithotripsy-Assisted Transfemoral Transcatheter Aortic Valve Replacement in United States. 2024; 17:2367-2376. doi: 10.1016/j.jcin.2024.08.033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39477639/

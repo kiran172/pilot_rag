@@ -1,0 +1,12 @@
+PMID: 38031488
+Title: Changes in post-PCI physiology based on anatomical vessel location: a DEFINE PCI substudy.
+
+Abstract: BACKGROUND: Anatomical vessel location affects post-percutaneous coronary intervention (PCI) physiology.
+AIMS: We aimed to compare the post-PCI instantaneous wave-free ratio (iFR) in left anterior descending (LAD) versus non-LAD vessels and to identify the factors associated with a suboptimal post-PCI iFR.
+METHODS: DEFINE PCI was a multicentre, prospective, observational study in which a blinded post-PCI iFR pullback was used to assess residual ischaemia following angiographically successful PCI.
+RESULTS: Pre- and post-PCI iFR recordings of 311 LAD and 195 non-LAD vessels were compared. Though pre-PCI iFR in the LAD vessels (median 0.82 [0.63, 0.86]) were higher compared with those in non-LAD vessels (median 0.72 [0.49, 0.84]; p<0.0001), post-PCI iFR were lower in the LAD vessels (median 0.92 [0.88, 0.94] vs 0.98 [0.95, 1.00]; p<0.0001). The prevalence of a suboptimal post-PCI iFR of <0.95 was higher in the LAD vessels (77.8% vs 22.6%; p<0.0001). While the overall frequency of residual physiological diffuse disease (31.4% vs 38.6%; p=0.26) and residual focal disease in the non-stented segment (49.6% vs 50.0%; p=0.99) were similar in both groups, residual focal disease within the stented segment was more common in LAD versus non-LAD vessels (53.7% vs 27.3%; p=0.0009). Improvement in iFR from pre- to post-PCI was associated with angina relief regardless of vessel location.
+CONCLUSIONS: After angiographically successful PCI, post-PCI iFR is lower in the LAD compared with non-LAD vessels, resulting in a higher prevalence of suboptimal post-PCI iFR in LAD vessels. This difference is, in part, due to a greater frequency of a residual focal pressure gradient within the stented segment which may be amenable to more aggressive PCI.
+
+Citation: Matsumura M, et al. Changes in post-PCI physiology based on anatomical vessel location: a DEFINE PCI substudy. Changes in post-PCI physiology based on anatomical vessel location: a DEFINE PCI substudy. 2023; 19:e903-e912. doi: 10.4244/EIJ-D-23-00517
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38031488/

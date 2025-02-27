@@ -1,0 +1,12 @@
+PMID: 37612006
+Title: Prevalence, Characteristics, and Prognostic Relevance of Donor-Transmitted Coronary Artery Disease in Heart Transplant Recipients.
+
+Abstract: BACKGROUND: The reported prevalence of donor-transmitted coronary artery disease (TCAD) in heart transplantation (HT) is variable, and its prognostic impact remains unclear.
+OBJECTIVES: The goal of this study was to characterize TCAD in a contemporary multicentric cohort and to study its prognostic relevance.
+METHODS: This was a retrospective study of consecutive patients >18 years old who underwent HT in 11 Spanish centers from 2008 to 2018. Only patients with a coronary angiography (c-angio) within the first 3 months after HT were studied. Significant TCAD (s-TCAD) was defined as any stenosis ≥50% in epicardial coronary arteries, and nonsignificant TCAD (ns-TCAD) as stenosis <50%. Clinical outcomes were assessed by means of Cox regression and competing risks regression. Patients were followed-up for a median period of 6.3 years after c-angio.
+RESULTS: From a cohort of 1,918 patients, 937 underwent c-angio. TCAD was found in 172 patients (18.3%): s-TCAD in 65 (6.9%) and ns-TCAD in 107 (11.4%). Multivariable Cox regression analysis did not show a statistically significant association between s-TCAD and all-cause mortality (adjusted HR: 1.44; 95% CI: 0.89-2.35; P = 0.141); however, it was an independent predictor of cardiovascular mortality (adjusted HR: 2.25; 95% CI: 1.20-4.19; P = 0.011) and the combined event cardiovascular death or nonfatal MACE (adjusted HR: 2.42; 95% CI: 1.52-3.85; P < 0.001). No statistically significant impact of ns-TCAD on clinical outcomes was detected. The results were similar when reassessed by means of competing risks regression.
+CONCLUSIONS: TCAD was not associated with reduced survival in patients alive and well enough to undergo post-HT angiography within the first 3 months; however, s-TCAD patients showed increased risk of cardiovascular death and MACE.
+
+Citation: Couto-Mallón D, et al. Prevalence, Characteristics, and Prognostic Relevance of Donor-Transmitted Coronary Artery Disease in Heart Transplant Recipients. Prevalence, Characteristics, and Prognostic Relevance of Donor-Transmitted Coronary Artery Disease in Heart Transplant Recipients. 2023; 82:753-767. doi: 10.1016/j.jacc.2023.06.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37612006/

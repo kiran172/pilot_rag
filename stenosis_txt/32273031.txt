@@ -1,0 +1,12 @@
+PMID: 32273031
+Title: Prognostic Value of N-Terminal Pro-B-Type Natriuretic Peptide in Elderly Patients With Valvular Heart Disease.
+
+Abstract: BACKGROUND: N-terminal pro-B-type natriuretic peptide (NT-proBNP) may reflect early prognosis in patients with valvular heart disease (VHD).
+OBJECTIVES: The aim of this study was to examine the association between NT-proBNP and mortality in elderly patients with VHD.
+METHODS: A total of 5,983 elderly patients (age ≥60 years) with moderate or severe VHD underwent echocardiography and NT-proBNP measurement. VHD examined included aortic stenosis, aortic regurgitation, mitral stenosis, mitral regurgitation, tricuspid regurgitation, and multivalvular heart disease. NT-proBNP ratio was defined as measured NT-proBNP relative to the maximal normal values specific to age and sex. Disease-specific thresholds were defined on the basis of penalized splines and maximally selected rank statistics.
+RESULTS: The cohort had a mean age of 71.1 ± 7.6 years. At 1-year follow-up, 561 deaths (9.4%) had occurred. In penalized splines, relative hazards showed a monotonic increase with greater NT-proBNP ratio for death with different VHDs (p < 0.001 for all) except mitral stenosis. Higher NT-proBNP ratio, categorized by disease-specific thresholds, was independently associated with mortality (overall adjusted hazard ratio: 1.99; 95% confidence interval: 1.76 to 2.24; p < 0.001). Different subtypes of VHD all incurred excess mortality with elevated NT-proBNP ratio, with the strongest association detected for aortic stenosis (adjusted hazard ratio: 10.5; 95% confidence interval: 3.9 to 28.27; p < 0.001). The addition of NT-proBNP ratio to the prediction algorithm including traditional risk factors improved outcome prediction (overall net reclassification index = 0.28; 95% CI: 0.24 to 0.34; p < 0.001; likelihood ratio test p < 0.001). Results remained consistent in patients under medical care, with normal left ventricular ejection fractions, and with primary VHD.
+CONCLUSIONS: NT-proBNP provides incremental prognostic information for mortality in various VHDs. It could aid in risk stratification as a pragmatic and versatile biomarker in elderly patients.
+
+Citation: Zhang B, et al. Prognostic Value of N-Terminal Pro-B-Type Natriuretic Peptide in Elderly Patients With Valvular Heart Disease. Prognostic Value of N-Terminal Pro-B-Type Natriuretic Peptide in Elderly Patients With Valvular Heart Disease. 2020; 75:1659-1672. doi: 10.1016/j.jacc.2020.02.031
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32273031/

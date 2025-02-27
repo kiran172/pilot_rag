@@ -1,0 +1,11 @@
+PMID: 32397743
+Title: FADS1 (Fatty Acid Desaturase 1) Genotype Associates With Aortic Valve FADS mRNA Expression, Fatty Acid Content and Calcification.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) contributes to cardiovascular mortality and morbidity but disease mechanisms remain largely unknown. Recent evidence associates a single nucleotide polymorphism rs174547 within the FADS1 gene, encoding FADS1 (fatty acid desaturase 1), with risk of several cardiovascular outcomes, including AS. FADS1 encodes a rate-limiting enzyme for ω-3 and ω-6 fatty acid metabolism. The aim of this study was to decipher the local transcriptomic and lipidomic consequences of rs174547 in tricuspid aortic valves from patients with AS.
+METHODS: Expression quantitative trait loci study was performed using data from Illumina Human610-Quad BeadChip, Infinium Global Screening Arrays, and Affymetrix Human Transcriptome 2.0 arrays in calcified and noncalcified aortic valve tissue from 58 patients with AS (mean age, 74.2; SD, 5.9). Fatty acid content was assessed in aortic valves from 25 patients with AS using gas chromatography. Δ5 and Δ6 desaturase activity was assessed by the product-to-precursor ratio.
+RESULTS: The minor C-allele of rs174547, corresponding to the protective genotype for AS, was associated with higher FADS2 mRNA levels in calcified valve tissue, whereas FADS1 mRNA and other transcripts in proximity of the single nucleotide polymorphism were unaltered. In contrast, the FADS1 Δ5-desaturase activity and the FADS2 Δ6-desaturase activity were decreased. Finally, docosahexaenoic acid was decreased in calcified tissue compared with non-calcified tissue and C-allele carriers exhibited increased docosahexaenoic acid levels. Overall desaturase activity measured with ω-3 fatty acids was higher in C-allele carriers.
+CONCLUSIONS: The association between the FADS1 genotype and AS may implicate effects on valvular fatty acids.
+
+Citation: Plunde O, et al. FADS1 (Fatty Acid Desaturase 1) Genotype Associates With Aortic Valve FADS mRNA Expression, Fatty Acid Content and Calcification. FADS1 (Fatty Acid Desaturase 1) Genotype Associates With Aortic Valve FADS mRNA Expression, Fatty Acid Content and Calcification. 2020; 13:e002710. doi: 10.1161/CIRCGEN.119.002710
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32397743/

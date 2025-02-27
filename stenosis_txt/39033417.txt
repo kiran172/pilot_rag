@@ -1,0 +1,11 @@
+PMID: 39033417
+Title: Pipeline versus non-pipeline flow diverter treatment for M1 aneurysms: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: The flow diversion treatment of aneurysms located distal to the Circle of Willis has recently increased in frequency. We conducted a systematic review and meta-analysis of the clinical and radiological outcomes of flow diverter (FD) embolization in treating M1 aneurysms.
+METHODS: PubMed, Web of Science, Ovid Medline, Ovid Embase, and Scopus were searched up to May 2024 using the Nested Knowledge platform. We included studies assessing the long-term clinical and radiological outcomes for M1 aneurysms. Results of FDs classified as Pipeline Embolization Devices (PED) versus other types of FDs. Angiographic occlusion rates, ischemic and hemorrhagic complications, and favorable clinic outcomes were included. All data were analyzed using R software version 4.2.2.
+RESULTS: Thirteen studies with 112 total patients (58 patients for PED and 54 patients for other FD devices) were included in our meta-analysis. The overall adequate (complete + near-complete) occlusion rates were 85.1%. The complete occlusion rate was higher with PED than with other FD devices (72.9% PED and 41.6% for non-PED FDs, respectively, p-value &lt;.01). The ischemic complications were 9.9% and 9.0% for the PED and non-PED groups, respectively (p-value = .89). The overall modified Rankin Scale 0-2 was 100% for the non-PED and 97.1% for the PED group (p-value = .51). In-stent stenosis rate was 7.5% for PED devices compared to 2.6% in the non-PED group (p-value = .35).
+CONCLUSIONS: This relatively small meta-analysis showed high rates of adequate and complete occlusion in FD treatment of M1 segment aneurysms, with favorable safety profiles. PEDs were associated with higher rates of complete aneurysm occlusion compared to other types of FDs.
+
+Citation: Senol YC, et al. Pipeline versus non-pipeline flow diverter treatment for M1 aneurysms: A systematic review and meta-analysis. Pipeline versus non-pipeline flow diverter treatment for M1 aneurysms: A systematic review and meta-analysis. 2024; (unknown volume):19714009241260805. doi: 10.1177/19714009241260805
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39033417/

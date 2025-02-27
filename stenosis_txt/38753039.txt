@@ -1,0 +1,11 @@
+PMID: 38753039
+Title: A Comparative Study of AI-Based Automated and Manual Postprocessing of Head and Neck CT Angiography: An Independent External Validation with Multi-Vendor and Multi-Center Data.
+
+Abstract: PURPOSE: To externally validate the performance of automated postprocessing (AP) on head and neck CT Angiography (CTA) and compare it with manual postprocessing (MP).
+METHODS: This retrospective study included head and neck CTA-exams of patients from three tertiary hospitals acquired on CT scanners from five manufacturers. AP was performed by CerebralDoc. The image quality was assessed using Likert scales, and the qualitative and quantitative diagnostic performance of arterial stenosis and aneurysm, postprocessing time, and scanning radiation dose were also evaluated.
+RESULTS: A total of 250 patients were included. Among these, 55 patients exhibited significant stenosis (≥ 50%), and 33 patients had aneurysms, diagnosed using original CTA datasets and corresponding multiplanar reconstructions as the reference. While the scores of the V4 segment and the edge of the M1 segment on volume rendering (VR), as well as the C4 segment on maximum intensity projection (MIP), were significantly lower with AP compared to MP across vendors (all P < 0.05), most scores in AP demonstrated image quality that was either superior to or comparable with that of MP. Furthermore, the diagnostic performance of AP was either superior to or comparable with that of MP. Moreover, AP also exhibited advantages in terms of postprocessing time and radiation dose when compared to MP (P < 0.001).
+CONCLUSION: The AP of CerebralDoc presents clear advantages over MP and holds significant clinical value. However, further optimization is required in the image quality of the V4 and M1 segments on VR as well as the C4 segment on MIP.
+
+Citation: Li K, et al. A Comparative Study of AI-Based Automated and Manual Postprocessing of Head and Neck CT Angiography: An Independent External Validation with Multi-Vendor and Multi-Center Data. A Comparative Study of AI-Based Automated and Manual Postprocessing of Head and Neck CT Angiography: An Independent External Validation with Multi-Vendor and Multi-Center Data. 2024; 66:1765-1780. doi: 10.1007/s00234-024-03379-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38753039/

@@ -1,0 +1,11 @@
+PMID: 38471761
+Title: Impact of post-procedure stenosis on outcomes of patients with severe intracranial stenosis treated with intracranial stent placement.
+
+Abstract: BACKGROUND: The optimal target post-procedure stenosis after percutaneous angioplasty and stent placement (PTAS) for intracranial stenosis is unknown. We determined the effect of post-procedure stenosis after intracranial PTAS on subsequent clinical events in patients with severe symptomatic intracranial stenosis.
+METHODS: We categorized the severity of post-procedure stenosis as '<30%', '30-49%', and '≥50%' among 207 patients who underwent PTAS in a multicenter randomized clinical trial. Outcomes included stroke or death within 72 hours and within 30 days, ipsilateral stroke beyond 30 days of treatment, and stroke or death within 30 days or stroke in the qualifying artery beyond 30 days (primary endpoint of the trial). Cox proportional hazards analysis was performed with adjustments for age, initial severity of stenosis, location of stenosis, and qualifying event. Kaplan-Meier curves were generated for the primary endpoint stratified by post-procedure stenosis with log-rank analysis.
+RESULTS: The severity of post-procedure stenosis was categorized as <30%, 30-49%, and ≥50% in 112, 73, and 22 patients, respectively. Compared with patients with post-procedure stenosis <30%, there was no difference in the risk of primary endpoint among patients with post-procedure stenoses of 30-49% (hazards ratio (HR) 0.85, 95% confidence interval (95% CI) 0.64 to 1.15) or those with ≥50% (HR 0.91, 95% CI 0.57 to 1.43). Log-rank analysis did not demonstrate a difference in rates of primary endpoint between groups stratified by post-procedure stenosis (P=0.70).
+CONCLUSION: In the absence of any benefit on short- and long-term outcomes, strategies to achieve a low severity of post-procedure stenosis among patients with severe intracranial stenosis may not be warranted.
+
+Citation: Nunna RS, et al. Impact of post-procedure stenosis on outcomes of patients with severe intracranial stenosis treated with intracranial stent placement. Impact of post-procedure stenosis on outcomes of patients with severe intracranial stenosis treated with intracranial stent placement. 2024; (unknown volume):(unknown pages). doi: 10.1136/jnis-2023-021223
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38471761/

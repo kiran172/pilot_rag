@@ -1,0 +1,11 @@
+PMID: 36126133
+Title: Impact of Serial Coronary Stenoses on Various Coronary Physiologic Indices.
+
+Abstract: BACKGROUND: Determining the functional significance of each individual coronary lesion in patients with serial coronary stenoses is challenging. It has been proposed that nonhyperemic pressure ratios, such as the instantaneous wave free ratio (iFR) and the ratio of resting distal to proximal coronary pressure (Pd/Pa) are more accurate than fractional flow reserve (FFR) because autoregulation should maintain stable resting coronary flow and avoid hemodynamic interdependence (cross-talk) that occurs during hyperemia. This study aimed to measure the degree of hemodynamic interdependence of iFR, resting Pd/Pa, and FFR in a porcine model of serial coronary stenosis.
+METHODS: In 6 anesthetized female swine, 381 serial coronary stenoses were created in the left anterior descending artery using 2 balloon catheters. The degree of hemodynamic interdependence was calculated by measuring the absolute changes in iFR, resting Pd/Pa, and FFR across the fixed stenosis as the severity of the other stenosis varied.
+RESULTS: The hemodynamic interdependence of iFR, resting Pd/Pa, and FFR was 0.039±0.048, 0.021±0.026, and 0.034±0.034, respectively (all P&lt;0.001). When the functional significance of serial stenoses was less severe (0.70-0.90 for each index), the hemodynamic interdependence was 0.009±0.020, 0.007±0.013, and 0.017±0.022 for iFR, resting Pd/Pa, and FFR, respectively (all P&lt;0.001). However, in more severe serial coronary stenoses (&lt;0.60 for each index), hemodynamic interdependence was 0.060±0.050, 0.037±0.030, and 0.051±0.037 for iFR, resting Pd/Pa, and FFR, respectively (all P&lt;0.001).
+CONCLUSIONS: When assessing serial coronary stenoses, nonhyperemic pressure ratios are affected by hemodynamic interdependence. When the functional significance of serial coronary stenoses is severe, the effect is similar to that which is seen with FFR.
+
+Citation: Ahn JM, et al. Impact of Serial Coronary Stenoses on Various Coronary Physiologic Indices. Impact of Serial Coronary Stenoses on Various Coronary Physiologic Indices. 2022; 15:e012134. doi: 10.1161/CIRCINTERVENTIONS.122.012134
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36126133/

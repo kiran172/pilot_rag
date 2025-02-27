@@ -1,0 +1,12 @@
+PMID: 32853487
+Title: Radiation dose and repeatability of aortic valve measurement by multidetector row computed tomography to assess eligibility for transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Aortic valve stenosis is among the most common valvular defects in developed countries. In the assessment of eligibility for transcatheter aortic valve implantation (TAVI), multidetector row computed tomography (MDCT) is performed to determine the precise dimensions of the aortic valve, the topography of the aortic ostium and the ability to use various arterial access routes.
+OBJECTIVES: To evaluate the relationships between the radiation dose and the repeatability of measurements of dimensions of the aortic valve in MDCT performed before TAVI.
+MATERIAL AND METHODS: The study involved a group of 60 consecutive patients undergoing MDCT before TAVI. The radiation dose was expressed as computed tomography dose index volume (CTDIvol) and dose length product (DLP). The coefficient of variation (CV) of each measurement was defined as the standard deviation (SD) of the measurements/mean measurement × 100%, based on the measurements performed independently by 2 radiologists.
+RESULTS: A statistically significant negative linear correlation was observed between the DLP value of the MDCT before TAVI, and the CV of the measurement of the minimum dimension of the aortic annulus (r = -0.25; p < 0.05). Lower DLP doses of the MDCT before TAVI constitute an independent factor associated with a higher CV for the measurement of the minimum dimension of the aortic annulus.
+CONCLUSIONS: It is proposed that tests using lower radiation doses should be followed by an assessment of the degree of repeatability of the aortic valve sizing.
+
+Citation: Kędzierski B, et al. Radiation dose and repeatability of aortic valve measurement by multidetector row computed tomography to assess eligibility for transcatheter aortic valve implantation. Radiation dose and repeatability of aortic valve measurement by multidetector row computed tomography to assess eligibility for transcatheter aortic valve implantation. 2020; 29:983-992. doi: 10.17219/acem/123624
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32853487/

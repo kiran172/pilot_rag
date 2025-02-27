@@ -1,0 +1,8 @@
+PMID: 31388869
+Title: Evaluation of stimulus-effect relations in left ventricular growth using a simple multiscale model.
+
+Abstract: Cardiac growth is the natural capability of the heart to change size in response to changes in blood flow demand of the growing body. Cardiac diseases can trigger the same process leading to an abnormal type of growth. Prediction of cardiac growth would be clinically valuable, but so far published models on cardiac growth differ with respect to the stimulus-effect relation and constraints used for maximum growth. In this study, we use a zero-dimensional, multiscale model of the left ventricle to evaluate cardiac growth in response to three valve diseases, aortic and mitral regurgitation along with aortic stenosis. We investigate how different combinations of stress- and strain-based stimuli affect growth in terms of cavity volume and wall volume and hemodynamic performance. All of our simulations are able to reach a converged state without any growth constraint, with the most promising results obtained while considering at least one stress-based stimulus. With this study, we demonstrate how a simple model of left ventricular mechanics can be used to have a first evaluation on a designed growth law.
+
+Citation: Rondanina E and Bovendeerd PHM. Evaluation of stimulus-effect relations in left ventricular growth using a simple multiscale model. Evaluation of stimulus-effect relations in left ventricular growth using a simple multiscale model. 2020; 19:263-273. doi: 10.1007/s10237-019-01209-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31388869/

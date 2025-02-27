@@ -1,0 +1,11 @@
+PMID: 36942611
+Title: Maternal dietary caffeine consumption and risk of birth defects in the National Birth Defects Prevention Study, 1997-2011.
+
+Abstract: BACKGROUND: Caffeine consumption is common during pregnancy, but published associations with birth defects are mixed. We updated estimates of associations between prepregnancy caffeine consumption and 48 specific birth defects from the National Birth Defects Prevention Study (NBDPS) for deliveries from 1997 to 2011.
+METHODS: NBDPS was a large population-based case-control study conducted in 10 U.S. states. We categorized self-reported total dietary caffeine consumption (mg/day) from coffee, tea, soda, and chocolate as: <10, 10 to <100, 100 to <200, 200 to <300, and ≥ 300. We used logistic regression to estimate adjusted odds ratios (aORs [95% confidence intervals]). Analyses for defects with ≥5 exposed case children were adjusted for maternal race/ethnicity, age at delivery, body mass index, early pregnancy cigarette smoking and alcohol use, and study site.
+RESULTS: Our analysis included 30,285 case and 11,502 control children, with mothers of 52% and 54%, respectively, reporting consuming <100 mg caffeine, and 11% of mothers of both cases and controls reported consuming ≥300 mg per day. Low (10 to <100 mg/day) levels of prepregnancy caffeine consumption were associated with statistically significant increases in aORs (1.2-1.7) for 10 defects. Associations with high (≥300 mg/day) levels of caffeine were generally weaker, except for craniosynostosis and aortic stenosis (aORs = 1.3 [1.1-1.6], 1.6 [1.1-2.3]).
+CONCLUSIONS: Given the large number of estimates generated, some of the statistically significant results may be due to chance and thus the weakly increased aORs should be interpreted cautiously. This study supports previous observations suggesting lack of evidence for meaningful associations between caffeine consumption and the studied birth defects.
+
+Citation: Williford EM, et al. Maternal dietary caffeine consumption and risk of birth defects in the National Birth Defects Prevention Study, 1997-2011. Maternal dietary caffeine consumption and risk of birth defects in the National Birth Defects Prevention Study, 1997-2011. 2023; 115:921-932. doi: 10.1002/bdr2.2171
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36942611/

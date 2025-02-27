@@ -1,0 +1,11 @@
+PMID: 35303701
+Title: A simple score to predict atherosclerotic or embolic intracranial large-vessel occlusion stroke before endovascular treatment.
+
+Abstract: OBJECTIVE: The authors developed a method to predict the etiology of intracranial large-vessel occlusion stroke (ILVOS) before endovascular treatment.
+METHODS: The authors retrospectively evaluated two etiologies of ILVOS-intracranial atherosclerotic stenosis-related occlusion (ICAS-O) and embolism-related occlusion (EMB-O)-in a cohort of patients from the National Comprehensive Stroke Center database of China. Patients were randomly divided into the derivation and validation cohorts at a ratio of 2:1. The authors derived the score in the derivation cohort and assessed the score in the validation cohort.
+RESULTS: The authors identified 608 of 662 patients with ILVOS who received endovascular treatment during the study period. After adjustment for confounding factors, hypertension (OR 2.90, 95% CI 1.34-6.26), diabetes mellitus (OR 2.80, 95% CI 1.45-5.42), absence of atrial fibrillation (OR 27.29, 95% CI 13.27-56.09), National Institutes of Health Stroke Scale score < 7 (OR 2.92, 95% CI 1.22-6.99), and absence of the computed tomography hyperdense sign (OR 2.86, 95% CI 1.22-6.74) were significantly related to ICAS-O. A score was derived to help predict ICAS-O or EMB-O. The area under the curve values of the receiver operating characteristic curve for ICAS-O identification were 0.886 (95% CI 0.839-0.933) and 0.880 (95% CI 0.846-0.914) in the derivation and validation cohorts, respectively.
+CONCLUSIONS: The atrial fibrillation-blood pressure-clinical neurological deficit-computed tomography hyperdense sign-diabetes mellitus (ABC2D) score can be used to identify atherosclerotic or embolic etiology of patients with ILVOS who require emergency endovascular treatment.
+
+Citation: Liao G, et al. A simple score to predict atherosclerotic or embolic intracranial large-vessel occlusion stroke before endovascular treatment. A simple score to predict atherosclerotic or embolic intracranial large-vessel occlusion stroke before endovascular treatment. 2022; 137:1501-1508. doi: 10.3171/2022.1.JNS212924
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35303701/

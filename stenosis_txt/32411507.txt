@@ -1,0 +1,8 @@
+PMID: 32411507
+Title: PHACTR1 is associated with disease progression in Chinese Moyamoya disease.
+
+Abstract: Moyamoya disease (MMD) is a progressive stenosis at the terminal portion of internal carotid artery and frequently occurs in East Asian countries. The etiology of MMD is still largely unknown. We performed a case-control design with whole-exome sequencing analysis on 31 sporadic MMD patients and 10 normal controls with matched age and gender. Patients clinically diagnosed with MMD was determined by digital subtraction angiography (DSA). Twelve predisposing mutations on seven genes associated with the sporadic MMD patients of Chinese ancestry (CCER2, HLA-DRB1, NSD-1, PDGFRB, PHACTR1, POGLUT1, and RNF213) were identified, of which eight single nucleotide variants (SNVs) were deleterious with CADD PHRED scaled score &gt; 15. Sanger sequencing of nine cases with disease progression and 22 stable MMD cases validated that SNV (c.13185159G&gt;T, p.V265L) on PHACTR1 was highly associated with the disease progression of MMD. Finally, we knocked down the expression of PHACTR1 by transfection with siRNA and measured the cell survival of human coronary artery endothelial cell (HCAEC) cells. PHACTR1 silence reduced the cell survival of HCAEC cells under serum starvation cultural condition. Together, these data identify novel predisposing mutations associated with MMD and reveal a requirement for PHACTR1 in mediating cell survival of endothelial cells.
+
+Citation: Yang Y, et al. PHACTR1 is associated with disease progression in Chinese Moyamoya disease. PHACTR1 is associated with disease progression in Chinese Moyamoya disease. 2020; 8:e8841. doi: 10.7717/peerj.8841
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32411507/

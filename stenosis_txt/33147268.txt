@@ -1,0 +1,11 @@
+PMID: 33147268
+Title: Can left ventricular hypertrophy on electrocardiography detect severe aortic valve stenosis?
+
+Abstract: BACKGROUND: Severe aortic stenosis (AS) is increasing in the aging society and is a serious condition for anesthetic management. However, approximately one-third of patients with severe AS are asymptomatic. Echocardiography is the most reliable method to detect AS, but it takes time and is costly.
+METHODS: Data were obtained retrospectively from patients who underwent surgery and preoperative transthoracic echocardiography (TTE). LVH on ECG was determined by voltage criteria (Sv1 + Rv5 or 6 ≥3.5 mV) and/or the strain pattern in V5 and V6. Severe AS was defined as a mean transaortic pressure gradient ≥40 mmHg or aortic valve area ≤1.0 cm2 by TTE.
+RESULTS: Data for 470 patients aged 28-94 years old were obtained. One hundred and twenty-six patients had severe AS. LVH on ECG by voltage criteria alone was detected in 182 patients, LVH by strain pattern alone was detected in 80 patients and LVH by both was detected in 55 patients. Multivariable logistic analysis revealed that LVH by the strain pattern or voltage criteria, diabetes mellitus, and age were significantly associated with severe AS. The AUC for the ROC curve for LVH by voltage criteria alone was 0.675 and the cut-off value was 3.84 mm V, and the AUC for the ROC for age was 0.675 and the cut-off value was 74 years old.
+CONCLUSION: Our study suggests that patients who are 74 years old or over with LVH on ECG, especially those with DM, should undergo preoperative TTE in order to detect severe AS.
+
+Citation: Mino T, et al. Can left ventricular hypertrophy on electrocardiography detect severe aortic valve stenosis?. Can left ventricular hypertrophy on electrocardiography detect severe aortic valve stenosis?. 2020; 15:e0241591. doi: 10.1371/journal.pone.0241591
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33147268/

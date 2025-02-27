@@ -1,0 +1,11 @@
+PMID: 35028887
+Title: Two new stenosis detection methods of coronary angiograms.
+
+Abstract: PURPOSE: Coronary angiography is the "gold standard" for diagnosing coronary artery disease. At present, the methods for detecting and evaluating coronary artery stenosis cannot satisfy the clinical needs, e.g., there is no prior study of detecting stenoses in prespecified vessel segments, which is necessary in clinical practice.
+METHODS: Two vascular stenosis detection methods are proposed to assist the diagnosis. The first one is an automatic method, which can automatically extract the entire coronary artery tree and mark all the possible stenoses. The second one is an interactive method. With this method, the user can choose any vessel segment to do further analysis of its stenoses.
+RESULTS: Experiments show that the proposed methods are robust for angiograms with various vessel structures. The precision, sensitivity, and [Formula: see text] score of the automatic stenosis detection method are 0.821, 0.757, and 0.788, respectively. Further investigation proves that the interactive method can provide a more precise outcome of stenosis detection, and our quantitative analysis is closer to reality.
+CONCLUSION: The proposed automatic method and interactive method are effective and can complement each other in clinical practice. The first method can be used for preliminary screening, and the second method can be used for further quantitative analysis. We believe the proposed solution is more suitable for the clinical diagnosis of CAD.
+
+Citation: Liu Y, et al. Two new stenosis detection methods of coronary angiograms. Two new stenosis detection methods of coronary angiograms. 2022; 17:521-530. doi: 10.1007/s11548-021-02551-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35028887/

@@ -1,0 +1,13 @@
+PMID: 38112156
+Title: Development of a Deep-Learning Model for Diagnosing Lumbar Spinal Stenosis Based on CT Images.
+
+Abstract: STUDY DESIGN: Retrospective study.
+OBJECTIVES: This study aimed to develop an initial deep-learning (DL) model based on computerized tomography (CT) scans for diagnosing lumbar spinal stenosis.
+SUMMARY OF BACKGROUND DATA: Magnetic resonance imaging is commonly used for diagnosing lumbar spinal stenosis due to its high soft tissue resolution, but CT is more portable, cost-effective, and has wider regional coverage. Using DL models to improve the accuracy of CT diagnosis can effectively reduce missed diagnoses and misdiagnoses in clinical practice.
+MATERIALS AND METHODS: Axial lumbar spine CT scans obtained between March 2022 and September 2023 were included. The data set was divided into a training set (62.3%), a validation set (22.9%), and a control set (14.8%). All data were labeled by two spine surgeons using the widely accepted grading system for lumbar spinal stenosis. The training and validation sets were used to annotate the regions of interest by the two spine surgeons. First, a region of interest detection model and a convolutional neural network classifier were trained using the training set. After training, the model was preliminarily evaluated using a validation set. Finally, the performance of the DL model was evaluated on the control set, and a comparison was made between the model and the classification performance of specialists with varying levels of experience.
+RESULTS: The central stenosis grading accuracies of DL Model Version 1 and DL Model Version 2 were 88% and 83%, respectively. The lateral recess grading accuracies of DL Model Version 1 and DL Model Version 2 were 75% and 71%, respectively.
+CONCLUSIONS: Our preliminarily developed DL system for assessing the degree of lumbar spinal stenosis in CT, including the central canal and lateral recess, has shown similar accuracy to experienced specialist physicians. This holds great value for further development and clinical application.
+
+Citation: Li KY, et al. Development of a Deep-Learning Model for Diagnosing Lumbar Spinal Stenosis Based on CT Images. Development of a Deep-Learning Model for Diagnosing Lumbar Spinal Stenosis Based on CT Images. 2024; 49:884-891. doi: 10.1097/BRS.0000000000004903
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38112156/

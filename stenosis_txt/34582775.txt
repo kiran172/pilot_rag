@@ -1,0 +1,11 @@
+PMID: 34582775
+Title: Predictors of outcome in the ISCHEMIA-CKD trial: Anatomy versus ischemia.
+
+Abstract: BACKGROUND: The ISCHEMIA-CKD (International Study of Comparative Health Effectiveness with Medical and Invasive Approaches-Chronic Kidney Disease) trial found no advantage to an invasive strategy compared to conservative management in reducing all-cause death or myocardial infarction (D/MI). However, the prognostic influence of angiographic coronary artery disease (CAD) burden and ischemia severity remains unknown in this population. We compared the relative impact of CAD extent and severity of myocardial ischemia on D/MI in patients with advanced chronic kidney disease (CKD).
+METHODS: Participants randomized to invasive management with available data on coronary angiography and stress testing were included. Extent of CAD was defined by the number of major epicardial vessels with ≥50% diameter stenosis by quantitative coronary angiography. Ischemia severity was assessed by site investigators as moderate or severe using trial definitions. The primary endpoint was D/MI.
+RESULTS: Of the 388 participants, 307 (79.1%) had complete coronary angiography and stress testing data. D/MI occurred in 104/307 participants (33.9%). Extent of CAD was associated with an increased risk of D/MI (P < .001), while ischemia severity was not (P = .249). These relationships persisted following multivariable adjustment. Using 0-vessel disease (VD) as reference, the adjusted hazard ratio (HR) for 1VD was 1.86, 95% confidence interval (CI) 0.94 to 3.68, P = .073; 2VD: HR 2.13, 95% CI 1.10 to 4.12, P = .025; 3VD: HR 4.00, 95% CI 2.06 to 7.76, P < .001. Using moderate ischemia as the reference, the HR for severe ischemia was 0.84, 95% CI 0.54 to 1.30, P = .427.
+CONCLUSION: Among ISCHEMIA-CKD participants randomized to the invasive strategy, extent of CAD predicted D/MI whereas severity of ischemia did not.
+
+Citation: Bainey KR, et al. Predictors of outcome in the ISCHEMIA-CKD trial: Anatomy versus ischemia. Predictors of outcome in the ISCHEMIA-CKD trial: Anatomy versus ischemia. 2022; 243:187-200. doi: 10.1016/j.ahj.2021.09.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34582775/

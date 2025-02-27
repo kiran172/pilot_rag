@@ -1,0 +1,11 @@
+PMID: 32088940
+Title: Impact of carotid atherosclerosis in CHA2DS2-VASc-based risk score on predicting ischemic stroke in patients with atrial fibrillation.
+
+Abstract: BACKGROUND/AIMS: Vascular disease is an established risk factor for stroke in patients with atrial fibrillation (AF), which is included in CHA2DS2-VASc score. However, the role of carotid atherosclerosis remains to be determined.
+METHODS: Three hundred-ten patients with AF who underwent carotid sonography were enrolled.
+RESULTS: During a median follow-up of 31 months, 18 events (5.8%) of stroke were identified. Patients with stroke had higher carotid intima-media thickness (CIMT) (1.16 ± 0.33 mm vs. 0.98 ± 0.25 mm, p = 0.017). CIMT was significantly increased according to the CHA2DS2-VASc score (p < 0.001) and it was correlated with left ventricular mass index and early diastolic mitral annular velocity (e'), a ratio of early transmitral flow velocity to e' (E/e') and pulmonary artery systolic pressure (all p < 0.05). Cox regression using multivariate models showed that carotid plaque was associated with the risk of stroke (hazard ratio, 3.748; 95% confidence interval [CI], 1.107 to 12.688; p = 0.034). C-statistics increased from 0.648 (95% CI, 0.538 to 0.757) to 0.716 (95% CI, 0.628 to 0.804) in the CHA2DS2-VASc score model after the addition of CIMT and carotid plaque as a vascular component (p = 0.013).
+CONCLUSION: Increased CIMT and presence of carotid plaque are associated with a high risk of ischemic stroke, and CIMT is related to myocardial remodeling and diastolic dysfunction, suggesting that carotid atherosclerosis can improve risk prediction of stroke in patients with AF, when included under vascular disease in the CHA2DS2-VASc scoring system.
+
+Citation: Cho DH, et al. Impact of carotid atherosclerosis in CHA2DS2-VASc-based risk score on predicting ischemic stroke in patients with atrial fibrillation. Impact of carotid atherosclerosis in CHA2DS2-VASc-based risk score on predicting ischemic stroke in patients with atrial fibrillation. 2021; 36:342-351. doi: 10.3904/kjim.2019.099
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32088940/

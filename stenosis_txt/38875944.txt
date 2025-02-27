@@ -1,0 +1,11 @@
+PMID: 38875944
+Title: Age-related white matter change disease predicts long-term cerebrovascular morbidity following carotid endarterectomy.
+
+Abstract: PURPOSE: Cerebrovascular diseases remain a critical focus of medical research due to their substantial impact on global health. Carotid stenosis, often associated with atherosclerosis and advancing age, profoundly affects cerebral blood supply and white matter integrity. This study aims to assess how age-related white matter changes (ARWMC) score, applied to cortex and Basal Ganglia, relates to cardiovascular and cerebrovascular events in patients who underwent carotid endarterectomy (CEA).
+METHODS: Ninety patients undergoing CEA with regional anesthesia were prospectively enrolled from January 2012 to January 2022, and a post hoc analysis of patients with preoperative cerebral CT scans were reviewed, stratified by ARWMC score. Survival analysis and multivariate Cox regression were employed to assess time-dependent variables and independent predictors.
+RESULTS: A median follow-up of 51 months (Inter-quartile range [IQR [ [38.8-63.2] months) revealed higher ARWMC grades in the basal ganglia independently associated with significantly increased stroke risk (HR=5.070, 95% CI: 1.509-17.031, P=0.009), acute heart failure (HR=19.066, 95% CI: 2.038-178.375, P=0.01), major adverse cardiovascular events (MACE) (HR=2.760, 95% CI: 1.268-6.009, P=0.011), and all-cause mortality (HR=2.497, 95% CI:1.009-6.180, P=0.048). Polyvascular disease and chronic kidney disease emerged as additional predictors of MACE.
+CONCLUSION: Higher grades of ARWMC score in the basal ganglia were related to a significant increase in the risk of adverse cardiovascular events, such as stroke, MACE, AHF and all-cause mortality. This study suggests that ARWMC may have potential as a possible predictor of long-term cardio- and cerebrovascular events in patients undergoing CEA.
+
+Citation: Azenha D, et al. Age-related white matter change disease predicts long-term cerebrovascular morbidity following carotid endarterectomy. Age-related white matter change disease predicts long-term cerebrovascular morbidity following carotid endarterectomy. 2024; 243:108354. doi: 10.1016/j.clineuro.2024.108354
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38875944/

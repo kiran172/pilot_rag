@@ -1,0 +1,11 @@
+PMID: 36312277
+Title: Long-term outcomes of primary aortic valve repair in children with congenital aortic stenosis - 15-year experience at a single center.
+
+Abstract: BACKGROUND: Studies on the long-term outcomes of children with congenital aortic stenosis who underwent primary aortic repair are limited. We reviewed the long-term outcomes of children who underwent aortic valve (AoV) repair at our center.
+METHODS: All children (n = 75) who underwent AoV repair between 2006 and 2020 were reviewed. The Kaplan-Meier curve was used to demonstrate the survival estimates. The Cox proportional hazard model and competing risk regression model were used to identify risk factors for death, reintervention, adverse events, and replacement.
+RESULTS: The median age at surgery was 1.8 (IQR, 0.2-7.7) years, and the median weight at surgery was 10.0 (IQR, 5.0-24.0) kg. Early mortality and late mortality were 5.3% (4/75) and 5.6% (4/71), respectively. Risk factors for overall mortality were concomitant mitral stenosis (P = 0.01, HR: 9.8, 95% CI: 1.8-53.9), low AoV annulus Z-score (P = 0.01, HR: 0.6, 95% CI: 0.4-0.9), and prolonged cardiopulmonary bypass time (P &lt; 0.01, HR: 9.5, 95% CI: 1.7-52.1). Freedom from reintervention was 72.9 ± 0.10% (95% CI: 56.3-94.4%) at 10 years. Risk factors for occurrence of adverse event on multivariable analysis included preoperative intubation (P = 0.016, HR: 1.004, 95% CI: 1.001-1.007) and a low AoV annulus Z-score (P = 0.019, HR: 0.714, 95% CI: 0.540-0.945). Tricuspid AoV morphology was associated with a suboptimal postoperative outcome (P = 0.03).
+CONCLUSION: Aortic valve repair remains a safe and durable solution for children with congenital aortic stenosis. Concomitant mitral stenosis and aortic valve anatomy, including tricuspid valve morphology and smaller annulus size, are associated with poor early and long-term outcomes.
+
+Citation: Ren Q, et al. Long-term outcomes of primary aortic valve repair in children with congenital aortic stenosis - 15-year experience at a single center. Long-term outcomes of primary aortic valve repair in children with congenital aortic stenosis - 15-year experience at a single center. 2022; 9:1029245. doi: 10.3389/fcvm.2022.1029245
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36312277/

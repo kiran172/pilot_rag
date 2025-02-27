@@ -1,0 +1,11 @@
+PMID: 38968471
+Title: A meta-analysis supporting the superiority of staged carotid artery stenting and coronary artery bypass grafting in patients with concurrent severe coronary and carotid artery stenosis.
+
+Abstract: BACKGROUND: This study sought to ascertain whether a staged approach involving carotid artery stenting (CAS) and coronary artery bypass grafting (CABG) holds superiority over the synchronous (Syn) strategy of CAS or carotid endarterectomy (CEA) and CABG in patients necessitating combined revascularization for concurrent carotid and coronary artery disease.
+METHOD: Studies were identified through 3 databases: PubMed, EMBASE, and the Cochrane Library. Statistical significance was defined as a P value of less than .05 for all analyses, conducted using STATA version 12.0.
+RESULTS: In the comparison between staged versus Syn CAS and CABG for patients with concomitant severe coronary and carotid stenosis, 4 studies were analyzed. The staged procedure was associated with a lower rate of 30-day stroke (OR = 8.329, 95% CI = 1.017-69.229, P = .048) compared to Syn CAS and CABG. In the comparison between staged CAS and CABG versus Syn CEA and CABG for patients with concomitant severe coronary and carotid stenosis, 5 studies were examined. The staged CAS and CABG procedure was associated with a lower rate of mortality (OR = 2.046, 95% CI = 1.304-3.210, P = .002) compared to Syn CEA and CABG.
+CONCLUSION: The Syn CAS and CABG was linked to a higher risk of peri-operative stroke compared to staged CAS and CABG. Additionally, patients undergoing staged CAS and CABG exhibited a significantly decreased risk of 30-day mortality compared to Syn CEA and CABG. Future randomized trials or prospective cohorts are essential to confirm and validate these findings.
+
+Citation: Hao D, et al. A meta-analysis supporting the superiority of staged carotid artery stenting and coronary artery bypass grafting in patients with concurrent severe coronary and carotid artery stenosis. A meta-analysis supporting the superiority of staged carotid artery stenting and coronary artery bypass grafting in patients with concurrent severe coronary and carotid artery stenosis. 2024; 103:e38665. doi: 10.1097/MD.0000000000038665
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38968471/

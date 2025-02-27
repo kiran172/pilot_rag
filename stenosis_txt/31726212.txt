@@ -1,0 +1,11 @@
+PMID: 31726212
+Title: Pressure drop mapping using 4D flow MRI in patients with bicuspid aortic valve disease: A novel marker of valvular obstruction.
+
+Abstract: BACKGROUND: The influence of complex bicuspid aortic valve (BAV) flow patterns on net intraluminal aortic pressure, both among patients with and without significant aortic stenosis, is unknown. Pressure drop (PD), as estimated by 4D Flow MRI, can quantify pre- vs post-valvular pressure at multiple levels simultaneously.
+METHODS: In this prospective clinical study, 32 patients with BAV with varying degrees of aortic stenosis and regurgitation and 11 healthy subjects were enrolled. 4D flow MRI was processed and analyzed at 9 pre-defined thoracic aortic levels. PD was calculated at each plane relative to a reference located within the left ventricular outflow tract. Conventional 2D phase-contrast imaging was used as reference of hemodynamic obstruction. PD was compared between healthy subjects versus BAV patients using Kruskal-Wallis H test and Mann-Whitney U. Correlation studies were conducted using Spearman's rank-order correlation.
+RESULTS: Both BAV patients and healthy subjects showed progressive elevation in PD from the aortic root to the distal descending thoracic aorta. However, BAV patients showed higher PD than healthy subjects (p ≤ 0.01) at all analysis planes. Patients with moderate-severe aortic stenosis (n = 5) by 2D phase-contrast (peak PG > 40 mm Hg) showed higher PD than those without in the descending aortic segments (p ≤ 0.005). A correlation (r = 0.88, p < 0.05) was observed between PD at the distal descending thoracic aorta and peak trans-valvular velocity measured by 2D phase-contrast MRI.
+CONCLUSION: We demonstrated that PD with 4D flow MRI is clinically feasible in BAV patients and provides an additional physiologic description of valve-related hemodynamic obstruction.
+
+Citation: Fatehi Hassanabad A, et al. Pressure drop mapping using 4D flow MRI in patients with bicuspid aortic valve disease: A novel marker of valvular obstruction. Pressure drop mapping using 4D flow MRI in patients with bicuspid aortic valve disease: A novel marker of valvular obstruction. 2020; 65:175-182. doi: 10.1016/j.mri.2019.11.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31726212/

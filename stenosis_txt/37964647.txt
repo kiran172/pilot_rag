@@ -1,0 +1,11 @@
+PMID: 37964647
+Title: Diagnostic accuracy of a novel optical coherence tomography-based fractional flow reserve algorithm for assessment of coronary stenosis significance.
+
+Abstract: BACKGROUND: This study aimed to introduce a novel optical coherence tomography-derived fractional flow reserve (FFR) computational approach and assess the diagnostic performance of the algorithm for assessing physiological function.
+METHODS: The fusion of coronary optical coherence tomography and angiography was used to generate a novel FFR algorithm (AccuFFRoct) to evaluate functional ischemia of coronary stenosis. In the current study, a total of 34 consecutive patients were included, and AccuFFRoct was used to calculate the FFR for these patients. With the wire-measured FFR as the reference standard, we evaluated the performance of our approach by accuracy, sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV).
+RESULTS: Per vessel accuracy, sensitivity, specificity, PPV, and NPV for AccuFFRoct in identifying hemodynamically significant coronary stenosis were 93.8%, 94.7%, 92.3%, 94.7%, and 92.3%, respectively, were found. Good correlation (Pearson's correlation coefficient r = 0.80, p < 0.001) between AccuFFRoct and FFR was observed. The Bland-Altman analysis showed a mean difference value of -0.037 (limits of agreement: -0.189 to 0.115). The area under the receiver-operating characteristic curve (AUC) of AccuFFRoct in identifying physiologically significant stenosis was 0.94, which was higher than the minimum lumen area (MLA, AUC = 0.91) and significantly higher than the diameter stenosis (%DS, AUC = 0.78).
+CONCLUSIONS: This clinical study shows the efficiency and accuracy of AccuFFRoct for clinical implementation when using invasive FFR measurement as a reference. It could provide important insights into coronary imaging superior to current methods based on the degree of coronary artery stenosis.
+
+Citation: Pan W, et al. Diagnostic accuracy of a novel optical coherence tomography-based fractional flow reserve algorithm for assessment of coronary stenosis significance. Diagnostic accuracy of a novel optical coherence tomography-based fractional flow reserve algorithm for assessment of coronary stenosis significance. 2024; 31:381-389. doi: 10.5603/cj.90744
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37964647/

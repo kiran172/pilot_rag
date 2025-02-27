@@ -1,0 +1,12 @@
+PMID: 34927509
+Title: Budget impact analysis of transcatheter aortic valve replacement in low, intermediate, and high-risk patients with severe aortic stenosis in Saudi Arabia.
+
+Abstract: AIMS: A budget impact analysis (BIA) comparing transcatheter aortic valve replacement (TAVR) with SAPIEN 3 and surgical aortic valve replacement (SAVR) for severe, symptomatic aortic stenosis among patients of low, intermediate, and high surgical risk from the perspective of the public and private sectors in Saudi Arabia.
+MATERIALS AND METHODS: A Markov model was developed with six states to calculate the budget impact from time of either TAVR or SAVR intervention up to 5 years. We compared the budget effects of new permanent pacemaker implantation (PPI), new onset atrial fibrillation (AF), major/disabling stroke (MDS), and surgical site infections (SSI). One-way sensitivity analyses (OWSA) were performed on cost and probability inputs.
+RESULTS: Analysis of the base case parameters suggests TAVR vs. SAVR is budget saving among intermediate- and high-risk patients at 5 years. TAVR vs. SAVR for low surgical risk reaches budget neutrality at 5 years. TAVR is associated with higher costs for PPI and budget savings for MDS, AF, and SSI. TAVR also results in savings for non-device costs due to fewer human resource uses and shorter procedure durations. Similarly, TAVR is associated with cost savings due to shorter hospital intensive care unit (ICU) and non-ICU stays. The OWSA consistently revealed that SAVR non-device theater costs were the leading cost driver across all surgical risk levels.
+LIMITATIONS: This is the first budget impact analysis of its kind in Saudi Arabia and future research is needed on costing TAVR and SAVR procedures, the economic impact of SSI, and corroborating estimates for the public and private sectors.
+CONCLUSIONS: Payers, providers, and policymakers increasingly turn to results of BIA to inform technologies affordability decisions. TAVR with SAPIEN 3 appears to generate savings vs. SAVR from a budget impact perspective across various surgical risk levels in Saudi Arabia.
+
+Citation: Carapinha JL, et al. Budget impact analysis of transcatheter aortic valve replacement in low, intermediate, and high-risk patients with severe aortic stenosis in Saudi Arabia. Budget impact analysis of transcatheter aortic valve replacement in low, intermediate, and high-risk patients with severe aortic stenosis in Saudi Arabia. 2022; 25:77-86. doi: 10.1080/13696998.2021.2020569
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34927509/

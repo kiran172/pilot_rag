@@ -1,0 +1,8 @@
+PMID: 32566808
+Title: Multiscale, patient-specific computational fluid dynamics models predict formation of neointimal hyperplasia in saphenous vein grafts.
+
+Abstract: Stenosis due to neointimal hyperplasia (NIH) is among the major causes of peripheral graft failure. Its link to abnormal hemodynamics in the graft is complex, and isolated use of hemodynamic markers is insufficient to fully capture its progression. Here, a computational model of NIH growth is presented, establishing a link between computational fluid dynamics simulations of flow in the lumen and a biochemical model representing NIH growth mechanisms inside the vessel wall. For all three patients analyzed, NIH at proximal and distal anastomoses was simulated by the model, with values of stenosis comparable to the computed tomography scans.
+
+Citation: Donadoni F, et al. Multiscale, patient-specific computational fluid dynamics models predict formation of neointimal hyperplasia in saphenous vein grafts. Multiscale, patient-specific computational fluid dynamics models predict formation of neointimal hyperplasia in saphenous vein grafts. 2020; 6:292-306. doi: 10.1016/j.jvscit.2019.09.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32566808/

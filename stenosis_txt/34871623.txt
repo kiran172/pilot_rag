@@ -1,0 +1,11 @@
+PMID: 34871623
+Title: Muscle fat index is associated with frailty and length of hospital stay following transcatheter aortic valve replacement in high-risk patients.
+
+Abstract: BACKGROUND: Aging is associated with progressive loss of muscle mass, as well as replacement of muscle with fat and fibrous tissue. We studied the contribution of muscle fat content, a surrogate marker of biological aging, to frailty and Length of Hospital Stay (LOS) following Transcatheter Aortic Valve Replacement (TAVR).
+METHODS: We evaluated 415 patients who underwent TAVR from February 2012 to December 2016 at Mayo Clinic, MN, USA. Densities between -190 to -30 Hounsfield Units within the abdominal muscle area were determined as muscle fat. Muscle Fat Index (MFI) was defined as muscle fat mass divided by height squared. LOS was considered as the primary outcome. Stepwise multivariable linear regression was used to identify the predictors of LOS.
+RESULTS: Mean age ± SD of the study population was 81.2 ± 9.6 years and 58.07% were male. Seventy-two patients (17.35%) had frailty. Median (IQR) LOS was 4 (3-6) days. MFI was higher in patients with frailty (median (IQR); 18.1 [13.8-24.2] vs 14.4 [10.6-18.7], p < 0.001) and was positively correlated with LOS (r = 0.129, p = 0.009). In multivariable analysis of predictors of LOS, MFI (β = 0.06, p = 0.022), pre-TAVR atrial fibrillation/flutter (β = 0.5, p = 0.015), and post-TAVR complications (β = 0.91, p < 0.001) were directly, and femoral access route (β = -1.13, p < 0.001) and pre-TAVR hemoglobin (β = -0.35, p = 0.002) were inversely associated with LOS.
+CONCLUSIONS: MFI can be determined from pre-TAVR CT scans and is a novel predictor of LOS following TAVR. This objective indicator can potentially be used in a pre-TAVR clinic to plan for rehabilitation programs in selected patients.
+
+Citation: Heidari B, et al. Muscle fat index is associated with frailty and length of hospital stay following transcatheter aortic valve replacement in high-risk patients. Muscle fat index is associated with frailty and length of hospital stay following transcatheter aortic valve replacement in high-risk patients. 2022; 348:33-38. doi: 10.1016/j.ijcard.2021.11.087
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34871623/

@@ -1,0 +1,11 @@
+PMID: 36378937
+Title: Neutrophil to lymphocyte ratio predicts permanent pacemaker implantation in TAVR patients.
+
+Abstract: INTRODUCTION: In this prospective multicenter analysis, we aimed to investigate the predictive role of neutrophil/lymphocyte ratio (NLR) in permanent pacemaker implantation (PPI) in patients undergoing transcatheter aortic valve replacement (TAVR).
+MATERIALS AND METHODS: One hundred and seventy-nine consecutive patients without previous PPI underwent TAVR from February 2017 to September 2021. Patients were further divided based on presence (n = 48) and absence of conduction abnormalities (CAs) at hospital admission (n = 131).
+RESULTS: In patients with previous CAs, NLR values did not differ significantly between patients requiring PPI (n = 16, 33%) and those not requiring it. In contrast, in patients with no CAs at hospital admission, NLR values measured at admission and on TAVR day were significantly higher in patients requiring PPI (n = 17, 13%) (4.07 ± 3.22 vs. 3.01 ± 1.47, p = .025, and 10.81 ± 7.81 vs. 5.84 ± 3.78, p = .000, respectively). Multivariable analysis showed that NLR at TAVR day was an independent predictor of PPI in patients without CAs (OR 1.294; 95% CI 1.028-1.630; p = .028), but not in those with previous CAs. ROC curve analysis showed that the cut point was a NLR value of >7.25. Time to PPI was delayed till 21 days in patients without CAs.
+CONCLUSIONS: In this prospective study, higher NLR values on the day of TAVR day were associated with an increased PPI rate in patients undergoing TAVR with no previous CAs. It is advisable, being inflammation part of the process, to prolong the time of observation for all patients without CAs till at least 21 days not to miss any new CA necessitating PPI.
+
+Citation: Totaro A, et al. Neutrophil to lymphocyte ratio predicts permanent pacemaker implantation in TAVR patients. Neutrophil to lymphocyte ratio predicts permanent pacemaker implantation in TAVR patients. 2022; 37:5095-5102. doi: 10.1111/jocs.17212
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36378937/

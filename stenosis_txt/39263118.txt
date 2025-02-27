@@ -1,0 +1,11 @@
+PMID: 39263118
+Title: Impact of multiple comorbidities on long-term mortality in older patients following transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Older candidates for transcatheter aortic valve replacement (TAVR) frequently present with both cardiac and noncardiac comorbidities. There are few risk scores that evaluate a wide range of comorbidities.
+METHODS: Patients who underwent TAVR for severe aortic stenosis were retrospectively evaluated. A new prediction model (Cardiac and nonCardiac Comorbidities risk score: 3C score) was determined based on coefficient in the multivariate Cox regression analysis for two-year all-cause mortality. C-statistics were assessed to compare the predictive abilities of the 3C score, the Charlson Comorbidities Index (CCI) score, the European System for Cardiac Operative Risk Evaluation (EuroSCORE) II, and the Model for End-stage Liver Disease eXcluding International normalized ratio (MELD-XI) score.
+RESULTS: The present study included 226 patients (age, 86 ± 5 years; males, 38 %). The values of the CCI score, EuroSCORE II, and MELD-XI score were 2 (1-3), 3.36 (2.12-4.58), and 5.35 (3.05-8.55), respectively. Multivariate Cox regression analysis identified two cardiac (left ventricular ejection fraction [LVEF] &lt;40 % [2 points]; pulmonary hypertension [1 point]) and three noncardiac comorbidities (hepatobiliary system impairment [3 points]; estimated glomerular filtration rate &lt;30 ml/min/1.73 m2 [1 point]; cachexia [1 point]). The C-statistics of the 3C score, EuroSCORE II, MELD-XI score, and CCI score were 0.767 (0.666-0.867), 0.610 (0.491-0.729), 0.580 (0.465-0.696), and 0.476 (0.356-0.596), respectively (p &lt; 0.001).
+CONCLUSIONS: Among cardiac and noncardiac comorbidities, special attention should be given to hepatobiliary system impairment and reduced LVEF in older patients following TAVR. The 3C score may contribute to the risk stratification.
+
+Citation: Higuchi S, et al. Impact of multiple comorbidities on long-term mortality in older patients following transcatheter aortic valve replacement. Impact of multiple comorbidities on long-term mortality in older patients following transcatheter aortic valve replacement. 2024; 10:e36724. doi: 10.1016/j.heliyon.2024.e36724
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39263118/

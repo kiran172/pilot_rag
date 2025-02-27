@@ -1,0 +1,11 @@
+PMID: 39181320
+Title: Neonatal Risk Factors for Pulmonary Vein Stenosis in Infants Born Preterm with Severe Bronchopulmonary Dysplasia.
+
+Abstract: OBJECTIVE: To evaluate associations between neonatal risk factors and pulmonary vein stenosis (PVS) among infants born preterm with severe bronchopulmonary dysplasia (sBPD).
+STUDY DESIGN: We performed a case-control study of infants born from 2010 to 2022 at <32 weeks' gestation with sBPD among 46 neonatal intensive care units in the Children's Hospitals Neonatal Consortium. Cases with PVS were matched to controls using epoch of diagnosis (2010-2016; 2017-2022) and hospital. Multivariable logistic regression analyses were utilized to evaluate PVS association with neonatal risk factors.
+RESULTS: From 10 171 preterm infants with sBPD, we identified 109 cases with PVS and matched those to 327 controls. The prevalence of PVS (1.07%) rose between epochs (0.8% in 2010-2016 to 1.2% in 2017-2022). Relative to controls, infants with PVS were more likely to be <500 g at birth, to be small for gestational age <10th%ile, or have surgical necrotizing enterocolitis, atrial septal defects, or pulmonary hypertension. In multivariable models, these associations persisted, and small for gestational age, surgical necrotizing enterocolitis, atrial septal defects, and pulmonary hypertension were each independently associated with PVS. Among infants on respiratory support at 36 weeks' postmenstrual age, infants with PVS had 4.3-fold higher odds of receiving mechanical ventilation at 36 weeks' postmenstrual age. Infants with PVS also had 3.6-fold higher odds of in-hospital mortality relative to controls.
+CONCLUSIONS: In a large cohort of preterm infants with sBPD, multiple independent, neonatal risk factors are associated with PVS. These results lay important groundwork for the development of targeted screening to guide the diagnosis and management of PVS in preterm infants with sBPD.
+
+Citation: McArthur E, et al. Neonatal Risk Factors for Pulmonary Vein Stenosis in Infants Born Preterm with Severe Bronchopulmonary Dysplasia. Neonatal Risk Factors for Pulmonary Vein Stenosis in Infants Born Preterm with Severe Bronchopulmonary Dysplasia. 2024; 275:114252. doi: 10.1016/j.jpeds.2024.114252
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39181320/

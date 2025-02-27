@@ -1,0 +1,18 @@
+PMID: 36847756
+Title: Deep Learning-Based Acceleration of Compressed Sensing for Noncontrast-Enhanced Coronary Magnetic Resonance Angiography in Patients With Suspected Coronary Artery Disease.
+
+Abstract: BACKGROUND: The clinical application of coronary MR angiography (MRA) remains limited due to its long acquisition time and often unsatisfactory image quality. A compressed sensing artificial intelligence (CSAI) framework was recently introduced to overcome these limitations, but its feasibility in coronary MRA is unknown.
+PURPOSE: To evaluate the diagnostic performance of noncontrast-enhanced coronary MRA with CSAI in patients with suspected coronary artery disease (CAD).
+STUDY TYPE: Prospective observational study.
+POPULATION: A total of 64 consecutive patients (mean age ± standard deviation [SD]: 59 ± 10 years, 48.4% females) with suspected CAD.
+FIELD STRENGTH/SEQUENCE: A 3.0-T, balanced steady-state free precession sequence.
+ASSESSMENT: Three observers evaluated the image quality for 15 coronary segments of the right and left coronary arteries using a 5-point scoring system (1 = not visible; 5 = excellent). Image scores ≥3 were considered diagnostic. Furthermore, the detection of CAD with ≥50% stenosis was evaluated in comparison to reference standard coronary computed tomography angiography (CTA). Mean acquisition times for CSAI-based coronary MRA were measured.
+STATISTICAL TESTS: For each patient, vessel and segment, sensitivity, specificity, and diagnostic accuracy of CSAI-based coronary MRA for detecting CAD with ≥50% stenosis according to coronary CTA were calculated. Intraclass correlation coefficients (ICCs) were used to assess the interobserver agreement.
+RESULTS: The mean MR acquisition time ± SD was 8.1 ± 2.4 minutes. Twenty-five (39.1%) patients had CAD with ≥50% stenosis on coronary CTA and 29 (45.3%) patients on MRA. A total of 885 segments on the CTA images and 818/885 (92.4%) coronary MRA segments were diagnostic (image score ≥3). The sensitivity, specificity, and diagnostic accuracy were as follows: per patient (92.0%, 84.6%, and 87.5%), per vessel (82.9%, 93.4%, and 91.1%), and per segment (77.6%, 98.2%, and 96.6%), respectively. The ICCs for image quality and stenosis assessment were 0.76-0.99 and 0.66-1.00, respectively.
+DATA CONCLUSION: The image quality and diagnostic performance of coronary MRA with CSAI may show good results in comparison to coronary CTA in patients with suspected CAD.
+EVIDENCE LEVEL: 1.
+TECHNICAL EFFICACY: 2.
+
+Citation: Wu X, et al. Deep Learning-Based Acceleration of Compressed Sensing for Noncontrast-Enhanced Coronary Magnetic Resonance Angiography in Patients With Suspected Coronary Artery Disease. Deep Learning-Based Acceleration of Compressed Sensing for Noncontrast-Enhanced Coronary Magnetic Resonance Angiography in Patients With Suspected Coronary Artery Disease. 2023; 58:1521-1530. doi: 10.1002/jmri.28653
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36847756/

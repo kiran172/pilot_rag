@@ -1,0 +1,11 @@
+PMID: 35964437
+Title: Reimbursement Savings Associated With Tissue Versus Mechanical Surgical Aortic Valve Replacement in Thailand.
+
+Abstract: OBJECTIVES: Surgical aortic valve replacement (SAVR) is an indicated treatment for severe aortic stenosis. Although mechanical valves are typically more durable, tissue SAVR valves do not require lifetime anticoagulation monitoring and may have lower rates of expensive sequelae. This economic evaluation estimates payer costs to the 3 largest Thai health insurance mechanisms for tissue versus mechanical SAVR.
+METHODS: A deterministic and Monte Carlo simulation model based on literature and expert opinion estimated total payer costs for tissue and mechanical valves over a 25-year duration for 3 separate age cohorts (45, 55, and 65 years). Reimbursements levels for hospitalization services were from the Thai Diagnosis Related Groups. Separate models are generated for the 3 main Thai health insurance mechanisms.
+RESULTS: The discounted expected 25-year reduction in payer savings associated with tissue SAVR are $2540, $2529, and $2311 per surgery for patients aged 45, 55, and 65 years, respectively, for the largest Thai insurer. Expected cost reductions associated with tissue SAVR are larger for each of the other schemes and generally decrease with patient age. Most savings accrue within 10 years of surgery. Reoperation costs are larger with tissue valves, but reductions in complications and anticoagulation monitoring more than offset these expenditures. Results are robust to multiple sensitivity and scenario analyses.
+CONCLUSIONS: Coverage and reimbursement of tissue valves can financially benefit Thai insurers and reduce expenditures in the Thai health system compared with mechanical valves. As tissue valve technology evolves and reoperation rates decline, the financial benefit associated with tissue valves will increase.
+
+Citation: Kittayarak C, et al. Reimbursement Savings Associated With Tissue Versus Mechanical Surgical Aortic Valve Replacement in Thailand. Reimbursement Savings Associated With Tissue Versus Mechanical Surgical Aortic Valve Replacement in Thailand. 2022; 32:23-30. doi: 10.1016/j.vhri.2022.06.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35964437/

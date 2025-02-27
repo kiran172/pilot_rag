@@ -1,0 +1,11 @@
+PMID: 32951538
+Title: Rationale, Design, and Implementation of Intensive Risk Factor Treatment in the CREST2 Trial.
+
+Abstract: BACKGROUND AND PURPOSE: The CREST2 trial (Carotid Revascularization and Medical Management for Asymptomatic Carotid Stenosis) is comparing intensive medical management (IMM) alone to IMM plus revascularization with carotid endarterectomy or transfemoral carotid artery stenting for preventing stroke or death within 44 days after randomization or ipsilateral ischemic stroke thereafter. There are extensive clinical trial data on outcomes after revascularization of asymptomatic carotid stenosis, but not for IMM. As such, the experimental treatment in CREST2 is IMM, which is described in this article.
+METHODS: IMM consists of aspirin 325 mg/day and intensive risk factor management, primarily targeting systolic blood pressure <130 mm Hg (initially systolic blood pressure <140 mm Hg) and LDL (low-density lipoprotein) cholesterol <70 mg/dL. Secondary risk factor targets focus on tobacco smoking, non-HDL (high-density lipoprotein), HbA1c (hemoglobin A1c), physical activity, and weight. Risk factor management is performed by site personnel and a lifestyle coaching program delivered by telephone. We report interim risk factor data on 1618 patients at baseline and last follow-up through 24 months.
+RESULTS: The mean baseline LDL of 80.5 mg/dL improved to 66.7 mg/dL. The mean baseline systolic blood pressure of 139.7 mm Hg improved to 130.3 mm Hg. The proportion of patients in-target improved from 43% to 61% for systolic blood pressure &lt;130 mm Hg and from 45% to 67% for LDL&lt;70 mg/dL (both changes P&lt;0.001).
+CONCLUSIONS: The rigorous multimodal approach to intensive stroke risk factor management in CREST2 has resulted in significant improvements in risk factor control that will enable a comparison of cutting-edge medical care to revascularization in patients with asymptomatic carotid stenosis. Registration: URL: https://www.clinicaltrials.gov. Unique identifier: NCT02089217.
+
+Citation: Turan TN, et al. Rationale, Design, and Implementation of Intensive Risk Factor Treatment in the CREST2 Trial. Rationale, Design, and Implementation of Intensive Risk Factor Treatment in the CREST2 Trial. 2020; 51:2960-2971. doi: 10.1161/STROKEAHA.120.030730
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32951538/

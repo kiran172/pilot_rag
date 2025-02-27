@@ -1,0 +1,12 @@
+PMID: 34987073
+Title: Vessel wall imaging with advanced flow suppression in the characterization of intracranial aneurysms following flow diversion with Pipeline embolization device.
+
+Abstract: BACKGROUND: High-resolution vessel wall MRI (VWI) is increasingly used to characterize intramural disorders of the intracranial vasculature unseen by conventional arteriography.
+OBJECTIVE: To evaluate the use of VWI for surveillance of flow diverter (FD) treated aneurysms.
+MATERIALS AND METHODS: Retrospective study of 28 aneurysms (in 21 patients) treated with a FD (mean 57 years; 14 female). All examinations included VWI and a contemporaneously obtained digital subtraction angiogram. Multiplanar pre- and post-gadolinium 3D, variable flip-angle T1 black-blood VWI was obtained using delay alternating nutation for tailored excitation (DANTE) at 3T. 3D time-of-flight MR angiography (MRA) was also carried out. Images were assessed for in-stent stenosis, aneurysm occlusion, presence and pattern/distribution of aneurysmal or parent vessel gadolinium enhancement.
+RESULTS: The VWI-MRI was performed on average at 361±259 days after the intervention. Follow-up DSA was performed at 338±254 days postintervention. Good or excellent black-blood angiographic quality was recorded in 22/28 (79%) pre-contrast and 21/28 (75%) post-contrast VWI, with no cases excluded for image quality. Aneurysm enhancement was noted in 24/28 (85.7%) aneurysms, including in 79% of angiographically occluded aneurysms and 100% of angiographically non-occluded aneurysms. Enhancement of the stented parent-vessel wall occurred significantly more often when aneurysm enhancement was present (92% vs 33%, p=0.049).
+CONCLUSION: Advanced VWI produces excellent depiction of FD-treated aneurysms, with robust evaluation of the parent vessel and aneurysm wall to an extent not achievable with conventional MRI/MRA. Gadolinium enhancement may, however, continue even after enduring catheter angiographic occlusion, confounding interpretation, and requiring cognizance of this potentially prolonged effect in such patients.
+
+Citation: Raz E, et al. Vessel wall imaging with advanced flow suppression in the characterization of intracranial aneurysms following flow diversion with Pipeline embolization device. Vessel wall imaging with advanced flow suppression in the characterization of intracranial aneurysms following flow diversion with Pipeline embolization device. 2022; 14:1264-1269. doi: 10.1136/neurintsurg-2021-018086
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34987073/

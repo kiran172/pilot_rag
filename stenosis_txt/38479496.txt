@@ -1,0 +1,11 @@
+PMID: 38479496
+Title: Artificial intelligence-based quantitative coronary angiography of major vessels using deep-learning.
+
+Abstract: BACKGROUND: Quantitative coronary angiography (QCA) offers objective and reproducible measures of coronary lesions. However, significant inter- and intra-observer variability and time-consuming processes hinder the practical application of on-site QCA in the current clinical setting. This study proposes a novel method for artificial intelligence-based QCA (AI-QCA) analysis of the major vessels and evaluates its performance.
+METHODS: AI-QCA was developed using three deep-learning models trained on 7658 angiographic images from 3129 patients for the precise delineation of lumen boundaries. An automated quantification method, employing refined matching for accurate diameter calculation and iterative updates of diameter trend lines, was embedded in the AI-QCA. A separate dataset of 676 coronary angiography images from 370 patients was retrospectively analyzed to compare AI-QCA with manual QCA performed by expert analysts. A match was considered between manual and AI-QCA lesions when the minimum lumen diameter (MLD) location identified manually coincided with the location identified by AI-QCA. Matched lesions were evaluated in terms of diameter stenosis (DS), MLD, reference lumen diameter (RLD), and lesion length (LL).
+RESULTS: AI-QCA exhibited a sensitivity of 89% in lesion detection and strong correlations with manual QCA for DS, MLD, RLD, and LL. Among 995 matched lesions, most cases (892 cases, 80%) exhibited DS differences ≤10%. Multiple lesions of the major vessels were accurately identified and quantitatively analyzed without manual corrections.
+CONCLUSION: AI-QCA demonstrates promise as an automated tool for analysis in coronary angiography, offering potential advantages for the quantitative assessment of coronary lesions and clinical decision-making.
+
+Citation: In Kim Y, et al. Artificial intelligence-based quantitative coronary angiography of major vessels using deep-learning. Artificial intelligence-based quantitative coronary angiography of major vessels using deep-learning. 2024; 405:131945. doi: 10.1016/j.ijcard.2024.131945
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38479496/

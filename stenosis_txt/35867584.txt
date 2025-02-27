@@ -1,0 +1,13 @@
+PMID: 35867584
+Title: Step Count in Patients With Lumbar Spinal Stenosis: Accuracy During Walking and Nonwalking Activities.
+
+Abstract: STUDY DESIGN: This is a method development and validation study.
+OBJECTIVES: The purpose of this study was to develop and test a method for step detection using accelerometer data in patients with lumbar spinal stenosis (LSS). There are 2 objectives: (1) to describe a method for step detection from accelerations measured at the wrist, hip, lower back, thigh and ankle; (2) to assess the accuracy of the method during walking with and without walking aids and during nonwalking activities.
+SUMMARY OF BACKGROUND DATA: Loss of walking ability is one of the main symptoms of LSS, and there is no validated measure to assess walking activity in daily living in patients with LSS.
+MATERIALS AND METHODS: Thirty patients with LSS performed a standardized movement protocol that included walking with and without walking aids and performing nonwalking activities while wearing accelerometers on five different wear-sites. After the walking tests, a method was designed for optimal step detection and compared with a gold standard of observed step count.
+RESULTS: The method for step detection applied to accelerations from the lower back, hip, thigh, and ankle provided an accurate step counts during continuous walking without walking aids. Accuracy diminished at all wear-sites when walking with walking aids, except the ankle. The wrist provided the most inaccurate step count, and the accelerometers on the thigh and ankle were prone to falsely detecting steps during bicycling.
+CONCLUSION: The ankle-worn accelerometer provided the most accurate step count, but wrongly registered steps during nonwalking activities. The developed step detection method shows potential as a measure of walking activity why further development and testing under free-living conditions should be performed.
+
+Citation: Gustafsson MEAK, et al. Step Count in Patients With Lumbar Spinal Stenosis: Accuracy During Walking and Nonwalking Activities. Step Count in Patients With Lumbar Spinal Stenosis: Accuracy During Walking and Nonwalking Activities. 2022; 47:1203-1211. doi: 10.1097/BRS.0000000000004385
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35867584/

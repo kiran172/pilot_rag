@@ -1,0 +1,11 @@
+PMID: 32861637
+Title: Surgical Versus Transcatheter Aortic Valve Replacement in Patients With Malignancy.
+
+Abstract: BACKGROUND: Patients with aortic stenosis (AS) and malignancy experience poor clinical outcomes with challenging decisions regarding aortic valve replacement (AVR). We sought to compare the outcomes of transcatheter (TAVR) versus surgical (SAVR) AVR in patients with AS and malignancy.
+METHODS: Based on the Nationwide Readmission Database, we compared all patients with malignancy who underwent isolated SAVR vs. TAVR in 2016 for severe AS. We performed univariate and multivariate analyses for baseline characteristics and clinical outcomes. A total of 2566 patients were included, 1952 (76%) had TAVR and the remaining 614 (24%) had isolated SAVR. Patients who underwent TAVR were older (82 vs 72 years, p < .001), had more metastasis (19 vs 14%, p = .004), heart failure (72% vs 34%, p < .001), coronary artery disease (72% vs 52%, p < .001), anemia (28% vs 22%, p = .006), chronic lung (30% vs 22%, p < .001) and renal disease (35% vs 14%, p < .001), and shorter length of stay (3 vs 7 days, p < .001).
+RESULTS: In multivariate regression, TAVR and SAVR had similar in-patient mortality (HR = 1.08; 95%CI 0.61 ̶ 1.94) and 30-day readmission (HR = 1.26; 95%CI 0.95 ̶ 1.67). TAVR was associated with lower vascular complications (HR = 0.59; 95%CI 0.41 ̶ 0.86), acute deep venous thrombosis (HR = 0.25, 95%CI 0.1 ̶ 0.59), acute kidney injury (HR = 0.24, 95%CI 0.17 ̶ 0.33), blood transfusion (HR = 0.22, 95%CI 0.16 ̶ 0.3), cardiogenic shock (HR = 0.48, 95%CI 0.26 ̶ 0.89), and respiratory complications (HR = 0.26, 95%CI 0.2 ̶ 0.35).
+CONCLUSIONS: In patients with malignancy, TAVR is a viable and safe option compared to SAVR with better clinical outcomes, especially thromboembolic events.
+
+Citation: Kadri AN, et al. Surgical Versus Transcatheter Aortic Valve Replacement in Patients With Malignancy. Surgical Versus Transcatheter Aortic Valve Replacement in Patients With Malignancy. 2021; 23:59-65. doi: 10.1016/j.carrev.2020.08.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32861637/

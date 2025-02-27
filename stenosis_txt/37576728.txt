@@ -1,0 +1,12 @@
+PMID: 37576728
+Title: Indications for carotid Doppler ultrasound in asymptomatic patients - are we ordering it correctly?
+
+Abstract: BACKGROUND: Carotid arteries are frequently the site of pathologies, the most common being atherosclerosis, which may result in the formation of plaques, causing stenosis. Doppler ultrasound is currently the exam of choice for assessment of the carotid arteries in asymptomatic patients to screen for and diagnose vascular lesions. Current guidelines recommend screening patients who have risk factors for carotid stenosis and who are able and willing to undergo medical treatment and/or carotid intervention. Screening asymptomatic patients in the general adult population who have no significant risk factors is not recommended.
+OBJECTIVES: To assess whether medical experts rely on the literature to request Doppler ultrasound for screening.
+METHODS: A retrospective selection of patients was performed based on requests for carotid ultrasound. The data collected were computed and analyzed using RStudio version 1.3.959.
+RESULTS: The request was evaluated as appropriate as long as the patients presented at least one risk factor for carotid plaques. Fifty-five out of 152 patients met criteria for carotid screening. The most frequent indication in the study population was vascular check-up. Arterial hypertension was the most prevalent risk factor. Vascular surgery specialists were more likely to order the exam correctly (odds ratio for correct indications: 3.52 [CI 1.14 - 10.87], with p=0.02). The rate of correct Doppler ultrasound requests was 36% (95%CI 29 to 42%).
+CONCLUSIONS: An excess of requests for carotid ultrasound screening was found in this study. Vascular surgeons more often requested the test correctly.
+
+Citation: da Silva AA, et al. Indications for carotid Doppler ultrasound in asymptomatic patients - are we ordering it correctly?. Indications for carotid Doppler ultrasound in asymptomatic patients - are we ordering it correctly?. 2023; 22:e20220084. doi: 10.1590/1677-5449.202200841
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37576728/

@@ -1,0 +1,11 @@
+PMID: 35399236
+Title: Diagnostic value of the cardiopulmonary exercise test in coronary artery disease.
+
+Abstract: BACKGROUND: Coronary angiography (CAG) is "gold standard" for the diagnosis of coronary heart disease (CHD). This study aimed to explore the diagnostic value of cardiopulmonary exercise testing (CPET) and the oxygen uptake kinetics indexes of CPET.
+METHODS: One hundred thirty-one patients with chest pain who underwent coronary angiography in the Department of Cardiology of our hospital from April to September 2021 were selected. According to the results of angiography, the patients were divided into an observation group (patients with coronary heart disease, n=80) and a control group (patients without coronary heart disease, n=75). Both groups underwent CPET before angiography. The differences of peak oxygen uptake, anaerobic threshold, peak kilogram oxygen uptake, peak oxygen pulse, maximum exercise load, maximum metabolic equivalent, and exercise time between the two groups were compared. Also, the correlation between the above indexes and the degree of coronary artery stenosis was analyzed, and the clinical value of the CPET in the diagnosis of CHD was evaluated.
+RESULTS: The peak oxygen uptake, anaerobic threshold, peak kilogram oxygen uptake, peak oxygen pulse, maximum exercise load, maximum metabolic equivalent, and exercise time in the observation group were lower than those in the control group (P<0.01), and were negatively correlated with the Gensini score (P<0.01). The area under the receiver operating characteristic (ROC) curve of the above seven indexes in the combined diagnosis of CHD was 0.974, the sensitivity was 86.40%, and the specificity was 98.50%, which was better than the clinical value of any of the above indexes alone.
+CONCLUSIONS: CPET is an effective non-invasive examination in the diagnosis of CHD, and has a certain clinical value in the evaluation of the severity of coronary artery stenosis.
+
+Citation: Li N, et al. Diagnostic value of the cardiopulmonary exercise test in coronary artery disease. Diagnostic value of the cardiopulmonary exercise test in coronary artery disease. 2022; 14:607-613. doi: 10.21037/jtd-22-24
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35399236/

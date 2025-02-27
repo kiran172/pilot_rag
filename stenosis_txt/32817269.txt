@@ -1,0 +1,11 @@
+PMID: 32817269
+Title: Characterisation of aortic stenosis severity: a retrospective analysis of echocardiography reports in a clinical laboratory.
+
+Abstract: OBJECTIVE: To evaluate how common echocardiographic metrics of aortic stenosis (AS) influence the proportion of patients who may be categorised as having severe stenosis and therefore considered for valve replacement.
+METHODS: Retrospective analysis was performed of all echocardiograms with aortic valve area (AVA) ≤1.2 cm2 and peak jet velocity (V<sub>max</sub>) ≥3 m/s from 1 December 2014 through 30 October 2017 at a single academic medical centre. Echocardiographic indices collected include AVA, V<sub>max</sub>, left ventricular ejection fraction, stroke volume and annotated aortic stenosis severity.
+RESULTS: Among 807 patients with AVA ≤1.2 cm2 and V<sub>max</sub> ≥3 m/s (44.0% female, median age 74 years (IQR: 66-81)), 45.6% had V<sub>max</sub> ≥4 m/s, while 75.8% had AVA ≤1 cm2. 40.0% of patients had concordant indices (V<sub>max</sub> ≥4 m/s and AVA ≤1 cm2), and 35.8% had discordant indices (V<sub>max</sub> &lt;4 m/s and AVA ≤1 cm2) of severe AS. Compared with those with concordant indices, patients with discordant indices were more commonly female (54.0% vs 44.3%, p&lt;0.05) and less commonly characterised as severe (42.6% vs 93.8%, p&lt;0.001). Patients with paradoxical low-flow, low-gradient severe AS by echocardiography were disproportionately female (61.5% vs 41.8%, p&lt;0.001), and their disease was characterised as severe only 49.5% of the time.
+CONCLUSIONS: Patients with discordant indices, who are disproportionately female, are commonly described in clinical echocardiography reports as having less than severe AS. Given the potential benefit of AVR in patients with AVA ≤1 cm2 regardless of V<sub>max</sub>, this could have important clinical implications.
+
+Citation: Raddatz MA, et al. Characterisation of aortic stenosis severity: a retrospective analysis of echocardiography reports in a clinical laboratory. Characterisation of aortic stenosis severity: a retrospective analysis of echocardiography reports in a clinical laboratory. 2020; 7:(unknown pages). doi: 10.1136/openhrt-2020-001331
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32817269/

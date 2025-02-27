@@ -1,0 +1,11 @@
+PMID: 34866047
+Title: The Prognostic Utility of Invasive Right Heart Catheterization in Patients Prior to Transcatheter Aortic Valve Replacement.
+
+Abstract: INTRODUCTION: Invasive right heart catheterization (RHC) provides valuable prognostic information in cases of severe aortic stenosis, but is not done routinely prior to transcatheter aortic valve replacement (TAVR). Therefore, we sought to investigate the prognostic utility of pre-TAVR RHC for assessing outcomes post TAVR.
+METHODS: This is a single-center, retrospective study of patients who underwent RHC prior to TAVR between June 2011 and March 2019. We evaluated abnormalities in the following variables as predictors of poor outcomes post TAVR: pulmonary capillary wedge pressure (PCWP), systolic pulmonary artery pressure (PASP), mixed venous oxygen saturation (MVO2), right ventricular stroke work index (RVSWI), and right atrial pressure (RAP). Cox proportional hazard regression models were used to assess the primary composite outcome of all-cause mortality and hospitalization for heart failure.
+RESULTS: A total of 522 patients (mean age, 83.5 ± 4.5 years; 49.4% women) with complete invasive hemodynamic data were included. At a median follow-up of 529.5 days, there were 127 deaths and 59 heart failure hospitalizations. On multivariate analysis, PCWP ≥15 mm Hg (hazard ratio [HR], 1.48; 95% confidence interval [CI], 1.02-2.07), PASP ≥50 mm Hg (HR, 1.66; 95% CI, 1.17-2.36), MVO2 ≤60% (HR, 1.42; 95% CI, 1.01-1.98), RVSWI ≥12 g•m/m²/beat (HR, 1.40; 95% CI, 1.004-1.94), and RAP ≥10 mm Hg (HR, 1.66; 95% CI, 1.09-2.51) were independent predictors of death or heart failure hospitalization.
+CONCLUSIONS: Preprocedural invasive RHC provides useful prognostic information. A comprehensive invasive hemodynamic assessment should be considered for risk stratification in patients undergoing TAVR.
+
+Citation: Goitia J, et al. The Prognostic Utility of Invasive Right Heart Catheterization in Patients Prior to Transcatheter Aortic Valve Replacement. The Prognostic Utility of Invasive Right Heart Catheterization in Patients Prior to Transcatheter Aortic Valve Replacement. 2022; 34:E14-E23. doi: 10.25270/jic/21.00040
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34866047/

@@ -1,0 +1,12 @@
+PMID: 31792505
+Title: Stagnant Venous Outflow Predicts Brain Arteriovenous Malformation Obliteration After Gamma Knife Radiosurgery Without Prior Intervention.
+
+Abstract: BACKGROUND: Gamma Knife radiosurgery (GKRS) obliterates 65% to 82% of brain arteriovenous malformations (BAVMs).
+OBJECTIVE: To explore the impact of hemodynamics on GKRS outcomes.
+METHODS: We retrospectively (2011-2017) included 98 patients with BAVMs who had received GKRS alone. Two evaluators, blinded to the outcomes, analyzed the pre-GKRS angiography and magnetic resonance images to obtain the morphological characteristics and quantitative digital subtraction angiography (QDSA) parameters. The venous stasis index was defined as the inflow gradient divided by the absolute value of the outflow gradient. Patients' follow-up magnetic resonance or digital subtraction angiography images were evaluated for the presence of complete obliteration (CO). Cox regression and Kaplan-Meier analyses were conducted to determine the correlations between the parameters and outcomes.
+RESULTS: Among the 98 patients, 63 (63.4%) achieved CO after GKRS at a median latency period of 31 mo. In multivariable analyses with adjustments for age and sex, increased BAVM volume (hazard ratio (HR) 0.949, P = .022) was an independent characteristic predictor, and venous stenosis (HR 2.595, P = .009), venous rerouting (HR 0.375, P = .022), and larger stasis index (HR 1.227, P = .025) were independent angiographic predictors of CO. BAVMs with a stasis index of >1.71 had a higher 36-mo probability of CO than those with a stasis index of ≤1.71 (61.1% vs 26.7%, P < .001).
+CONCLUSION: BAVMs with a larger stasis index, indicating more stagnant venous outflow, may predict obliteration after GKRS. QDSA analysis may help in predicting BAVM treatment outcomes and making therapeutic decisions.
+
+Citation: Hu YS, et al. Stagnant Venous Outflow Predicts Brain Arteriovenous Malformation Obliteration After Gamma Knife Radiosurgery Without Prior Intervention. Stagnant Venous Outflow Predicts Brain Arteriovenous Malformation Obliteration After Gamma Knife Radiosurgery Without Prior Intervention. 2020; 87:338-347. doi: 10.1093/neuros/nyz507
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31792505/

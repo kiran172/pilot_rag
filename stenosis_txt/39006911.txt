@@ -1,0 +1,11 @@
+PMID: 39006911
+Title: Association Between Serine Concentration and Coronary Heart Disease: A Case-Control Study.
+
+Abstract: PURPOSE: Early identification of new residual risk factors for coronary heart disease (CHD) is warranted. In this study, we aim to investigate the association between the serine concentration, an important amino acid in one-carbon metabolism, and CHD in Chinese hospitalized patients.
+PATIENTS AND METHODS: This case-control study included 428 case-control pairs comprising patients with CHD with a maximum coronary artery stenosis degree of >70% and controls with stenosis of <30%. The individuals were matched by age, sex, and date of coronary angiography at Peking University First Hospital from January 1, 2016, to December 31, 2019. Conditional logistic regression was used to investigate the associations between the serine concentration and CHD.
+RESULTS: Patients with CHD were aged 63.48 ± 10.38 years, and 43.73% were male. Compared with controls, patients with CHD had a slightly lower serine concentration (13.35 ± 4.20 vs 13.77 ± 4.08 μg/mL), but the difference was not significant. In the multivariable conditional logistic regression analysis, for every 1 μg/mL increase in serine concentration, the odds of CHD decreased by 6% (95% confidence interval [CI] 0.90-0.99; P = 0.010). Patients with a serine concentration of ≥13.41 μg/mL had a lower CHD risk than those with a serine concentration of &lt;13.41 μg/mL (odds ratio [OR] 0.57, 95% CI 0.39-0.84; P = 0.004). Subgroup analyses showed that sex interacted with the relationship between serine concentration and CHD (P <sub>interaction</sub> = 0.039), which was more significant in males (OR 0.93, 95% CI 0.87-0.98; P = 0.013) than in females.
+CONCLUSION: This study observed an inverse association between the serine concentration and CHD prevalence in Chinese hospitalized patients, which revealed that serine might play a protective role in CHD.
+
+Citation: Fan F, et al. Association Between Serine Concentration and Coronary Heart Disease: A Case-Control Study. Association Between Serine Concentration and Coronary Heart Disease: A Case-Control Study. 2024; 17:2955-2965. doi: 10.2147/IJGM.S467320
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39006911/

@@ -1,0 +1,11 @@
+PMID: 36028354
+Title: Atrial fibrillation in patients with severe aortic stenosis.
+
+Abstract: BACKGROUND: There has been no previous report evaluating the long impact of atrial fibrillation (AF) on the clinical outcomes stratified by the initial management [conservative or aortic valve replacement (AVR)] strategies of severe aortic stenosis (AS).
+METHODS: We analyzed 3815 patients with severe AS enrolled in the CURRENT AS registry. Patients with AF were defined as those having a history of AF when severe AS was found on the index echocardiography. The primary outcome measure was a composite of aortic valve-related death or hospitalization for heart failure.
+RESULTS: The cumulative 5-year incidence of the primary outcome measure was significantly higher in patients with AF than in those without AF (44.2 % versus 33.2 %, HR 1.54, 95 % CI 1.35-1.76). After adjusting for confounders, the risk of AF relative to no AF remained significant (HR 1.34, 95 % CI 1.16-1.56). The magnitude of excess adjusted risk of AF for the primary outcome measure was greater in the initial AVR stratum (N = 1197, HR 1.95, 95 % CI 1.36-2.78) than in the conservative stratum (N = 2618, HR 1.26, 95 % CI 1.08-1.47) with a significant interaction (p = 0.04). In patients with AF, there was a significant excess adjusted risk of paroxysmal AF (N = 254) relative to chronic AF (N = 528) for the primary outcome measure (HR 1.34, 95 % CI 1.01-1.78).
+CONCLUSIONS: In patients with severe AS, concomitant AF was independently associated with worse clinical outcomes regardless of the initial management strategies. In those patients with conservative strategy, paroxysmal AF is stronger risk factor than chronic AF.
+
+Citation: Matsuda S, et al. Atrial fibrillation in patients with severe aortic stenosis. Atrial fibrillation in patients with severe aortic stenosis. 2023; 81:144-153. doi: 10.1016/j.jjcc.2022.08.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36028354/

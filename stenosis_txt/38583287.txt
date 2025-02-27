@@ -1,0 +1,11 @@
+PMID: 38583287
+Title: Evaluation of fractional flow reserve and atherosclerotic plaque characteristics on coronary non-contrast T1-weighted magnetic resonance imaging.
+
+Abstract: BACKGROUND AND AIMS: The relationship between high-risk coronary plaque characteristics regardless of the severity of lesion stenosis and myocardial ischemia remains unsettled. High-intensity plaques (HIPs) on non-contrast T1-weighted magnetic resonance imaging (T1WI) have been characterized as high-risk coronary plaques. We sought to elucidate whether the presence of coronary HIPs on T1WI influences fractional flow reserve (FFR) in the distal segment of the vessel.
+METHODS: We retrospectively analyzed 281 vessels in 231 patients with chronic coronary syndrome who underwent invasive FFR measurement and coronary T1WI using a multicenter registry. The plaque-to-myocardial signal intensity ratio (PMR) of the most stenotic lesion was evaluated; a coronary plaque with PMR ≥1.4 was defined as a HIP.
+RESULTS: The median PMR of coronary plaques on T1WI in vessels with FFR ≤0.80 was significantly higher than that of plaques with FFR >0.80 (1.17 [interquartile range (IQR): 0.99-1.44] vs. 0.97 [IQR: 0.85-1.09]; p < 0.001). Multivariable analysis showed that an increase in PMR of the most stenotic segment was associated with lower FFR (beta-coefficient, -0.050; p < 0.001). The presence of coronary HIPs was an independent predictor of FFR ≤0.80 (odds ratio (OR), 6.18; 95% confidence interval (CI), 1.93-19.77; p = 0.002). Even after adjusting for plaque composition characteristics based on computed tomography angiography, the presence of coronary HIPs was an independent predictor of FFR ≤0.80 (OR, 4.48; 95% CI, 1.19-16.80; p = 0.026).
+CONCLUSIONS: Coronary plaques with high PMR are associated with low FFR in the corresponding vessel, indicating that plaque morphology might influence myocardial ischemia severity.
+
+Citation: Sugane H, et al. Evaluation of fractional flow reserve and atherosclerotic plaque characteristics on coronary non-contrast T1-weighted magnetic resonance imaging. Evaluation of fractional flow reserve and atherosclerotic plaque characteristics on coronary non-contrast T1-weighted magnetic resonance imaging. 2024; 392:117530. doi: 10.1016/j.atherosclerosis.2024.117530
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38583287/

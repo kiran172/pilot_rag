@@ -1,0 +1,12 @@
+PMID: 35730391
+Title: Clonal hematopoiesis in men living with HIV and association with subclinical atherosclerosis.
+
+Abstract: OBJECTIVES: People with HIV (PWH) are at increased risk for premature cardiovascular disease (CVD). Clonal hematopoiesis is a common age-related condition that may be associated with increased CVD risk. The goal of this study was to determine the prevalence of clonal hematopoiesis and its association with chronic inflammation and CVD in PWH.
+DESIGN: Cross-sectional study utilizing archived specimens and data from 118 men (86 PWH and 32 HIV-uninfected) from the Baltimore-Washington DC center of the Multicenter AIDS Cohort Study (MACS) who had had coronary computed tomography angiography (CTA) and measurement of 34 serologic inflammatory biomarkers.
+METHODS: Clonal hematopoiesis was assessed on peripheral blood mononuclear cells utilizing targeted error-corrected next generation sequencing (NGS) focused on 92 genes frequently mutated in hematologic malignancies. Clinical and laboratory data were obtained from the MACS database.
+RESULTS: Clonal hematopoiesis with a variant allele frequency (VAF) greater than 1% was significantly more common in PWH [20/86 (23.3%)] than in HIV-uninfected men [2/32 (6.3%)] ( P  = 0.035). PWH with clonal hematopoiesis (VAF > 1%) were more likely to have coronary artery stenosis of at least 50% than those without clonal hematopoiesis [6/20 (30%) vs. 6/64 (9%); P  = 0.021]. Presence of clonal hematopoiesis was not significantly associated with serological inflammatory markers, except for significantly lower serum leptin levels; this was not significant after adjustment for abdominal or thigh subcutaneous fat area.
+CONCLUSION: Clonal hematopoiesis was more common in PWH and among PWH was associated with the extent of coronary artery disease. Larger studies are needed to further examine the biological and clinical consequences of clonal hematopoiesis in PWH.
+
+Citation: Wang S, et al. Clonal hematopoiesis in men living with HIV and association with subclinical atherosclerosis. Clonal hematopoiesis in men living with HIV and association with subclinical atherosclerosis. 2022; 36:1521-1531. doi: 10.1097/QAD.0000000000003280
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35730391/

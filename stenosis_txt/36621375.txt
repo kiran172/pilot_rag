@@ -1,0 +1,11 @@
+PMID: 36621375
+Title: Quantitative evaluation of the lumbar ligamentum flavum using MRI T2-mapping: Efficacy of its clinical application in patients with lumbar spinal stenosis.
+
+Abstract: OBEJECTIVE: To perform a magnetic resonance imaging T2-mapping of the ligamentum flavum in healthy individuals and patients with lumbar spinal stenosis scheduled for surgery and compare the T2 relaxation times.
+SUBJECTS AND METHODS: The T2 relaxation time of the ligamentum flavum was compared among 3 groups, healthy young individuals (H group (age< 50)), healthy middle-aged and older individuals (H group (age≥50)), and patients with lumbar spinal stenosis (L group). Additionally, the thickness of the ligament was measured in the axial image plane, and the occupied area ratio of each fiber was measured by staining the surgically obtained ligament, and each was correlated with the T2 relaxation time. We also evaluated the adhesion of the ligamentum flavum with the dura mater during the surgery.
+RESULTS: The T2 relaxation times were significantly prolonged in H group (age ≥50) and L group (P < 0.001) compared to H group (age<50). The relationship between collagen fiber and T2 relaxation times was significantly positive (r = 0.720, P < 0.001). Moreover, the relaxation times were significantly prolonged in those with adhesion of the ligamentum flavum with the dura mater (P < 0.05). The cut-off for the relaxation time was 50 ms (sensitivity: 62.50%, false positive rate: 10.8%).
+CONCLUSION: Healthy middle-aged and older individuals and patients with lumbar spinal stenosis and adhesion of the ligamentum flavum with the dura mater have prolonged T2 relaxation times. Hence, the adhesion between the ligamentum flavum and dura mater should be considered in cases with a relaxation time ≥50 ms.
+
+Citation: Takaoka H, et al. Quantitative evaluation of the lumbar ligamentum flavum using MRI T2-mapping: Efficacy of its clinical application in patients with lumbar spinal stenosis. Quantitative evaluation of the lumbar ligamentum flavum using MRI T2-mapping: Efficacy of its clinical application in patients with lumbar spinal stenosis. 2024; 29:101-108. doi: 10.1016/j.jos.2022.12.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36621375/

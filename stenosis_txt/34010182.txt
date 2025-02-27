@@ -1,0 +1,10 @@
+PMID: 34010182
+Title: Simultaneous assessment of coronary stenosis relevance with automated computed tomography angiography and intravascular ultrasound analyses and fractional flow reserve.
+
+Abstract: OBJECTIVES: To assess the diagnostic performance of computed tomography angiography (CTA) and intravascular ultrasound (IVUS) derived minimum lumen areas (MLA) from the same lesions that correspond to an FFR ≤0.80.
+METHODS AND RESULTS: A total of 24 patients (33 arteries) were collected retrospectively according to the following inclusion criteria: presence of a CTA diagnostic followed by an IVUS and FFR percutaneous coronary procedures. CTA and IVUS lumen contours were automatically performed using previously validated methods.The correlation between CTA and IVUS for the MLA was r = 0.45. In terms of MLA, the mean difference between CTA and IVUS was 0.81 mm2. Of note, a much smaller CTA-derived MLA (2.10 mm2) was found to be related to significant FFR lesions compared to that of the MLA derived from IVUS (3.19 mm2). The area under the curve, accuracy, sensitivity and specificity for this CTA-derived MLA were 0.80, 0.76, 0.50 and 0.87, respectively, while these values for IVUS-derived MLA were 0.87, 0.85, 0.80 and 0.87.
+CONCLUSIONS: Computed tomography angiography and intravascular ultrasound-derived minimum lumen areas have moderate diagnostic efficiency, albeit slightly better for IVUS, in identifying hemodynamically severe coronary stenoses. The utility of MLA, automatically derived from either CTA or IVUS as an alternative to FFR to guide the decision to revascularize, should be tested clinically.
+
+Citation: Blanco PJ, et al. Simultaneous assessment of coronary stenosis relevance with automated computed tomography angiography and intravascular ultrasound analyses and fractional flow reserve. Simultaneous assessment of coronary stenosis relevance with automated computed tomography angiography and intravascular ultrasound analyses and fractional flow reserve. 2022; 31:25-30. doi: 10.1097/MCA.0000000000001044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34010182/

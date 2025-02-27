@@ -1,0 +1,11 @@
+PMID: 36609100
+Title: Impact of New eGFR Equations on Risk Assessment In Patients Undergoing Transcatheter Aortic Valve Implantation.
+
+Abstract: BACKGROUND: Recently, the Chronic Kidney Disease-Epidemiology Collaboration working group has published new formulas for race-independent estimation of glomerular filtration rate (GFR). We investigated the old and new eGFR equations in patients transcatheter aortic valve implantation (TAVI).
+METHODS: We conducted a retrospective analysis based on the data from a prospective registry of patients who underwent TAVI from January 2008 to May 2019. The primary endpoint was 30-day mortality after TAVI, and the secondary endpoints included one- and three-year mortality.
+RESULTS: In total, 1792 patients undergoing TAVI were included in the present analysis. The thirty-day mortality was 4.6 % (95 % CI 3.8-5.7 %), and the one- and three-year mortality were 17.5 % (95 % CI 15.7-19.4 %) and 34.4 % (95 % CI 32.0-37.0 %). After the application of the new eGFR formula, 12.0 % of patients were reclassified within the GFR category in CKD, while 13.2 % of patients were reclassified within the GFR categories of the EuroSCORE II. Hazard ratios for 30-day, one-year, and three-year mortality increased after introduction of the new creatine-based eq. (1.51, 1.52, 1.49 vs. 1.87, 1.79, 1.74, respectively). Compared to the old equation, the new eGFR &lt;60 ml/min/1.73 m2 had a better discrimination ability for the 30-day mortality (Harell's C: 0.563 (95 % CI 0.518-0.608) vs, 0.583 (95 % CI 0.546-0.636); delta Harell's C, 0.031 ± 0.022, p &lt; 0.001). Similar findings were consistently observed in the cystatin creatinine-based equations.
+CONCLUSIONS: The application of the new race-independent estimators of GFR results in the reassessment of renal function in a significant proportion of TAVI patients and may influence the risk stratification of this population.
+
+Citation: Sugiura A, et al. Impact of New eGFR Equations on Risk Assessment In Patients Undergoing Transcatheter Aortic Valve Implantation. Impact of New eGFR Equations on Risk Assessment In Patients Undergoing Transcatheter Aortic Valve Implantation. 2023; 49:42-46. doi: 10.1016/j.carrev.2022.12.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36609100/

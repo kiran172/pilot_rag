@@ -1,0 +1,11 @@
+PMID: 37865863
+Title: A novel coronary angiographic index for predicting correlation between fractional flow reserve and resting full-cycle ratio.
+
+Abstract: OBJECTIVES: The discordant results between fractional flow reserve (FFR) and resting full-cycle ratio (RFR) and the influence of angiographic characteristics on their correlation have not been sufficiently investigated. We aimed to identify angiographic characteristics that can predict FFR and RFR correlations using a novel angiographic scoring system.
+METHODS: This retrospective analysis included 220 patients with 252 intermediate coronary lesions assessed using FFR and RFR. Each branch distal to the target lesion was scored based on the vessel diameter (0 points: < 1.5 mm, 1 point: 1.5-2.0 mm, and 2 points: > 2.0 mm) measured using quantitative coronary angiography. The angiographic score was calculated by adding these scores.
+RESULTS: In a propensity score-matched cohort including 84 lesions (42 lesions in each low-and high-angiographic score group), the correlation between FFR and RFR in the high-angiographic score group (>4) was weaker than that in the low-score group (≤4) (Spearman's correlation: r = 0.44 vs. r = 0.80, P  < 0.01). Considering a threshold of functional myocardial ischemia as FFR ≤ 0.80 and RFR ≤ 0.89, the low-angiographic score group showed a significantly lower discordance rate of abnormal FFR/normal RFR than the high-angiographic score group (7.1% vs. 23.8%, P  = 0.03), whereas the discordance rates of normal FFR/abnormal RFR were similar in both groups (7.1% vs. 9.5%, P  = 0.69).
+CONCLUSION: This retrospective analysis highlights the influence of angiographic characteristics on the correlation between FFR and RFR. Our simple angiographic assessment method may be useful for interpreting physiological evaluations in daily clinical practice.
+
+Citation: Ohtani H, et al. A novel coronary angiographic index for predicting correlation between fractional flow reserve and resting full-cycle ratio. A novel coronary angiographic index for predicting correlation between fractional flow reserve and resting full-cycle ratio. 2023; 34:545-554. doi: 10.1097/MCA.0000000000001301
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37865863/

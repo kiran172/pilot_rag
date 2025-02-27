@@ -1,0 +1,12 @@
+PMID: 31545706
+Title: Classification of Aortic Stenosis Using Time-Frequency Features From Chest Cardio-Mechanical Signals.
+
+Abstract: OBJECTIVES: This paper introduces a novel method for the detection and classification of aortic stenosis (AS) using the time-frequency features of chest cardio-mechanical signals collected from wearable sensors, namely seismo-cardiogram (SCG) and gyro-cardiogram (GCG) signals. Such a method could potentially monitor high-risk patients out of the clinic.
+METHODS: Experimental measurements were collected from twenty patients with AS and twenty healthy subjects. Firstly, a digital signal processing framework is proposed to extract time-frequency features. The features are then selected via the analysis of variance test. Different combinations of features are evaluated using the decision tree, random forest, and artificial neural network methods. Two classification tasks are conducted. The first task is a binary classification between normal subjects and AS patients. The second task is a multi-class classification of AS patients with co-existing valvular heart diseases.
+RESULTS: In the binary classification task, the average accuracies achieved are 96.25% from decision tree, 97.43% from random forest, and 95.56% from neural network. The best performance is from combined SCG and GCG features with random forest classifier. In the multi-class classification, the best performance is 92.99% using the random forest classifier and SCG features.
+CONCLUSION: The results suggest that the solution could be a feasible method for classifying aortic stenosis, both in the binary and multi-class tasks. It also indicates that most of the important time-frequency features are below 11 Hz.
+SIGNIFICANCE: The proposed method shows great potential to provide continuous monitoring of valvular heart diseases to prevent patients from sudden critical cardiac situations.
+
+Citation: Yang C, et al. Classification of Aortic Stenosis Using Time-Frequency Features From Chest Cardio-Mechanical Signals. Classification of Aortic Stenosis Using Time-Frequency Features From Chest Cardio-Mechanical Signals. 2020; 67:1672-1683. doi: 10.1109/TBME.2019.2942741
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31545706/

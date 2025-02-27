@@ -1,0 +1,12 @@
+PMID: 36698897
+Title: Intracranial angioplasty with a self-expandable stent for intracranial atherosclerotic stenosis: Systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Intracranial angioplasty with a self-expandable stent (SES) is an important endovascular therapy for symptomatic intracranial arterial stenosis. We sought to update the evaluation of the perioperative safety and long-term outcomes of self-expandable stent for the treatment of symptomatic intracranial arterial stenosis.
+METHODS: We comprehensively searched the published literature from each database through Sept 16, 2022, for the PubMed, EMBASE, Web of Science, Cochrane, and Clinical Trials databases. The characteristics of the studies and patients, perioperative complications, and long-term outcomes were extracted. The pooled outcomes and 95% confidence intervals (CIs) were estimated by Stata Statistical Software 14.0.
+RESULTS: A total of 4,632 patients from 58 studies were included. The pooled rate of perioperative stroke or death was 6.32% (95% CI 5.04-7.72%); ischemic stroke beyond 30 days through 1 year was 2.72% (95% CI 1.41-4.38%). Perioperative complications differed between the 2014-2022 and 2005-2013 subgroups, as did long-term outcomes between the off-label SES and Wingspan subgroups.
+CONCLUSION: The perioperative complications of intracranial angioplasty with SES have been reduced, but the risk of perioperative stroke or death is still higher than that of aggressive medical therapy, and additional studies are needed to determine whether it has better long-term outcomes than aggressive medical therapy. Perioperative complications varied between the 2014-2022 and 2005-2013 subgroups, as did long-term outcomes between the off-label SES and Wingspan subgroups. Given the high level of heterogeneity observed between the included studies, these results should be interpreted with caution and additional studies are needed.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier: CRD42022316066.
+
+Citation: Zhong C, et al. Intracranial angioplasty with a self-expandable stent for intracranial atherosclerotic stenosis: Systematic review and meta-analysis. Intracranial angioplasty with a self-expandable stent for intracranial atherosclerotic stenosis: Systematic review and meta-analysis. 2022; 13:1074228. doi: 10.3389/fneur.2022.1074228
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36698897/

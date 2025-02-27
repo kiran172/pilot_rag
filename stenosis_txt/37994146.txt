@@ -1,0 +1,12 @@
+PMID: 37994146
+Title: Inpatient Outcomes of Gastric Antral Vascular Ectasia in Those With Aortic Stenosis: A Retrospective Study of 85,000 Hospitalizations.
+
+Abstract: GOALS: To investigate the outcomes of hospitalized patients with gastric antral vascular ectasia (GAVE) in the setting of aortic stenosis (AS).
+BACKGROUND: Although AS is associated with gastrointestinal arteriovenous malformations, its association with GAVE, a rare cause of upper gastrointestinal bleeding, remains unknown.
+STUDY: The National Inpatient Sample database from the years 2016 to 2019 was searched for patients admitted with a diagnosis of GAVE, with and without a history of AS. Univariate and multivariate logistic regression analysis was performed to determine the risk of mortality and in-hospital complications in the GAVE/AS group compared with the GAVE-only group.
+RESULTS: Patients with AS had a 2-fold increase in the risk of GAVE [odds ratio (OR): 2.08, P < 0.001], with no statistically significant difference in inpatient mortality between the study groups (OR: 1.36, P = 0.268). Patients with GAVE-AS had a higher risk of hypovolemic shock (OR: 2.00, P = 0.001) and acute coronary syndromes (OR: 2.25, P < 0.001) with no difference in risk of cardiogenic shock ( P = 0.695), acute kidney injury ( P = 0.550), blood transfusion ( P = 0.270), sepsis ( P = 0.598), respiratory failure ( P = 0.200), or in-hospital cardiac arrest ( P = 0.638). The cost of care in patients with GAVE-AS was increased by a mean of $4729 ( P = 0.022), with no increase in length of stay ( P = 0.320) when compared with patients with GAVE-only.
+CONCLUSIONS: Patients with AS have a 2-fold increase in the risk of development of GAVE. Patients with AS admitted for GAVE-related bleeding are at higher rates of hypovolemic shock, acute coronary syndrome, and higher resource utilization when compared with admitted patients with GAVE without AS.
+
+Citation: Aldiabat M, et al. Inpatient Outcomes of Gastric Antral Vascular Ectasia in Those With Aortic Stenosis: A Retrospective Study of 85,000 Hospitalizations. Inpatient Outcomes of Gastric Antral Vascular Ectasia in Those With Aortic Stenosis: A Retrospective Study of 85,000 Hospitalizations. 2024; 58:769-775. doi: 10.1097/MCG.0000000000001932
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37994146/

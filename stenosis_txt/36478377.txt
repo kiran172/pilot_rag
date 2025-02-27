@@ -1,0 +1,13 @@
+PMID: 36478377
+Title: Readmission with infective endocarditis within 90 days following transcatheter aortic valve implantation.
+
+Abstract: INTRODUCTION: Transcatheter aortic valve implantation (TAVI) continues to be the most common modality of treating aortic stenosis in the United States. While infective endocarditis (IE) and its outcomes have been well documented after surgical aortic valve replacement, the incidence and outcomes of early IE after TAVI have not been well described.
+METHODS: All patients who underwent TAVI from 2012 through 2018 were identified using the National Readmission Database. Among them, patients who underwent TAVI at the index admission and readmitted within 90 days were included. Patients who died or had IE during the index admission were excluded. Clinical outcomes were compared between patients readmitted with IE (IE group) and those without (non-IE group).
+RESULTS: A total of 168,283 patients were readmitted to a hospital within 90 days after TAVI. The median age of the IE group and non-IE group were 81 and 82 years old, respectively (p = 0.21). Of those, 525 (0.3%) were readmitted with IE. The median time from TAVI to readmission was 20 days. During readmissions, 11.6% of the IE group died while only 3.15% of the non-IE group experienced death (p < 0.001). The most common causative organism of IE was enterococcus (22.1%). Multivariable analysis revealed that congestive heart failure, cerebrovascular disease, dialysis, concomitant valve disease, Medicaid, and discharge to a facility were independently associated with readmission with IE within 90 days.
+CONCLUSION: The incidence of readmission with IE is low after TAVI. However, the mortality was markedly high during readmissions. Surgical intervention was rarely performed for IE during the first admission. Enterococcus was the most common organism observed in IE after TAVI.
+DISCLOSURE: IS receives institutional research support from Abbott, Atricure, cryolife, and Medtronic. None related to this manuscript.
+CLINICAL TRIAL REGISTRATION: Not applicable.
+
+Citation: Ogami T, et al. Readmission with infective endocarditis within 90 days following transcatheter aortic valve implantation. Readmission with infective endocarditis within 90 days following transcatheter aortic valve implantation. 2023; 101:170-177. doi: 10.1002/ccd.30508
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36478377/

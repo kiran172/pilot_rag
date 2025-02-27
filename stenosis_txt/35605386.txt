@@ -1,0 +1,11 @@
+PMID: 35605386
+Title: Progressive Lacunar Strokes: A Predictive Score.
+
+Abstract: BACKGROUND AND PURPOSE: Progressive lacunar syndromes (PLS) occur in up to 20-30% of patients with lacunar strokes, increasing the risk of long term dependency. Our aim is to develop a predictive score to identify patients at high risk of presenting PLS.
+METHODS: We derived a risk score for PLS in a cohort of consecutive patients (n=187) presenting with one of the five classic lacunar syndromes (LS) and absence of vascular occlusion, perfusion deficit or symptomatic stenosis. A risk score was developed using the coefficients from the logistic regression model, and receiver operating characteristic (ROC) analysis was conducted to assess the prognostic value of the risk score. Sensitivity, specificity and accuracy were estimated for each total point score.
+RESULTS: Out of 187 patients included in our sample, 52 (27.8%) presented PLS. Previous history of diabetes mellitus (1 point), diastolic blood pressure at admission (2 points), clinical deficits consistent with a pure motor syndrome (1 point) and asymptomatic intracranial atheromatosis or stenosis in non-symptomatic territory (1 point) were independent predictors for PLS. The estimated area under the ROC curve for this model was 0.77 (95% CI,0.68 - 0.84).
+CONCLUSION: This score could be a useful tool in routine clinical practice to predict the occurrence of PLS, allowing the identification of those patients with LS who are at high risk of long term dependency due to early neurological worsening, and who would benefit the most from an intensive treatment.
+
+Citation: Bashir S, et al. Progressive Lacunar Strokes: A Predictive Score. Progressive Lacunar Strokes: A Predictive Score. 2022; 31:106510. doi: 10.1016/j.jstrokecerebrovasdis.2022.106510
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35605386/

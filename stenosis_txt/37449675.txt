@@ -1,0 +1,12 @@
+PMID: 37449675
+Title: Pre-TAVI aortic annulus sizing: comparison between manual and semi-automated new generation software measurements in operators with different experience.
+
+Abstract: OBJECTIVES: Aim of the study is to compare manual and semi-automatic measurements for aortic annulus assessment among different operators.
+METHODS: Eighty patients who underwent TAVI were retrospectively enrolled. The measurements manually performed by an experienced reader for aortic annulus (minimum and maximum diameters, perimeter, area), annulus-to-coronary ostia distance and time needed for the whole evaluation, were collected. The same operator (observer 1) and two less experienced readers (observer 2 and 3, with >5 years and 1 year of experience, respectively) assessed the same measurements using a semi-automatic software. Differences between manual and semi-automatic measurements, reading time and suggested valves size derived by CT were compared.
+RESULTS: Very good correlations were found between manual and software-aided measurements for aortic annulus area and perimeter in comparison with standard measurements for the three readers (ICC range 0.81-0.98). Good correlations were found for the distance with coronary ostia(0.75-0.79). The same area-derived prosthesis size for manual and semi-automatic measurements was selected in 96% of cases for observer 1; very good correlations were also found for observer 2 and 3 (ICC = 0.89 and 0.88, respectively). Using semi-automatic measurements, the mean time needed for CT images was significantly lower for observers 1 and 2 (1.50 and 1.72versus 3.14 min), respectively.
+CONCLUSIONS: Pre-TAVI CT using semi-automatic software allows accurate and reproducible measurements, reducing reconstruction time up to 50% and is reliable even for operators with different experience.
+ADVANCES IN KNOWLEDGE: The use of semi-automatic dedicated software for CT in TAVI planning is reliable even for operators without long time experience and allows accurate and reproducible measurements improving pre-TAVI workflow.
+
+Citation: Annoni AD, et al. Pre-TAVI aortic annulus sizing: comparison between manual and semi-automated new generation software measurements in operators with different experience. Pre-TAVI aortic annulus sizing: comparison between manual and semi-automated new generation software measurements in operators with different experience. 2023; 96:20220733. doi: 10.1259/bjr.20220733
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37449675/

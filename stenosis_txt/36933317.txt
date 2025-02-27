@@ -1,0 +1,11 @@
+PMID: 36933317
+Title: A high-fidelity geometric multiscale hemodynamic model for predicting myocardial ischemia.
+
+Abstract: BACKGROUND AND OBJECTIVES: Coronary computed tomography angiography (CCTA) derived fractional flow reserve (CT-FFR) requires a maximal hyperemic state to be modeled by assuming the total coronary resistance decreased to a constant 0.24 of that under the resting state. However, this assumption neglects the vasodilator capacity of individual patients. Herein, we proposed a high-fidelity geometric multiscale model (HFMM) to characterize coronary pressure and flow under the resting state, seeking to better predict myocardial ischemia by using CCTA-derived instantaneous wave-free ratio (CT-iFR).
+METHODS: Fifty-seven patients (62 lesions) who had undergone CCTA and were then referred to invasive FFR were prospectively enrolled. The coronary microcirculation resistance hemodynamic model (RHM) under the resting condition was established on a patient-specific basis. Coupled with a closed-loop geometric multiscale model (CGM) of their individual coronary circulations, the HFMM model was established to non-invasively derive the CT-iFR from CCTA images.
+RESULTS: With the invasive FFR being the reference standard, accuracy of the obtained CT-iFR in identifying myocardial ischemia was greater than those of the CCTA and non-invasively derived CT-FFR (90.32% vs. 79.03% vs. 84.3%). The overall computational time of CT-iFR was 61 ± 6 min, faster than that of the CT-FFR (8 h). The sensitivity, specificity, positive predictive value, and negative predictive value of the CT-iFR in discriminating an invasive FFR > 0.8 were 78% (95% CI: 40-97%), 92% (95% CI: 82-98%), 64% (95% CI: 39-83%), and 96% (95% CI:88-99%), respectively.
+CONCLUSIONS: A high-fidelity geometric multiscale hemodynamic model was developed for rapid and accurate estimation of CT-iFR. Compared with CT-FFR, CT-iFR is of less computational cost and enables assessment of tandem lesions.
+
+Citation: Liu J, et al. A high-fidelity geometric multiscale hemodynamic model for predicting myocardial ischemia. A high-fidelity geometric multiscale hemodynamic model for predicting myocardial ischemia. 2023; 233:107476. doi: 10.1016/j.cmpb.2023.107476
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36933317/

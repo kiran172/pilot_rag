@@ -1,0 +1,10 @@
+PMID: 36215431
+Title: CCL21/CCR7 axis regulates demyelination and vascular cognitive impairment in a mouse model for chronic cerebral hypoperfusion.
+
+Abstract: OBJECTIVES: White matter lesions (WML) are usually accompanied by cognitive decline, which consist of axonal loss and demyelination. CC chemokine ligand 21 (CCL21) and its receptor C-C chemokine receptor 7 (CCR7) belong to the chemokine family, which are involved in many diseases. However, their function in the central nervous system (CNS) is still unexplored. This study aimed to explore the role of CCL21/CCR7 axis in the pathological process of chronic ischemia-induced WML.
+METHODS: Bilateral common carotid artery stenosis (BCAS) was employed in C57BL/6 mice as the in vivo WML model. Microarray analysis was performed to detect the overall molecular changes induced in the endothelial cells by BCAS. Q-PCR, Western blotting, and immunofluorescence staining were performed to evaluate expression levels of the related molecules. The mice were injected with LV-CCL21-GFP virus in the corpus callosum to overexpress CCL21. WML degree was determined via MRI, and cognitive ability was assessed by Y-maze and novel object recognition tests. Myelin sheath integrity was evaluated via immunofluorescence staining.
+RESULTS: CCL21 was significantly downregulated in endothelial cells after BCAS and CCL21 overexpression alleviated BCAS-induced cognitive deficits and demyelination. Furthermore, CCR7 was found to be mainly expressed in oligodendrocytes (OLs) after exposed to hypoxia and CCR7 silencing blocked the protective effects induced by CCL21 overexpression. Conclusions CCL21/CCR7 axis may play a key role in demyelination induced by BCAS. This might provide a novel therapeutic target for WML.
+
+Citation: Tang X, et al. CCL21/CCR7 axis regulates demyelination and vascular cognitive impairment in a mouse model for chronic cerebral hypoperfusion. CCL21/CCR7 axis regulates demyelination and vascular cognitive impairment in a mouse model for chronic cerebral hypoperfusion. 2023; 45:248-259. doi: 10.1080/01616412.2022.2132456
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36215431/

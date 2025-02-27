@@ -1,0 +1,11 @@
+PMID: 31618656
+Title: A Population-based Study of Ureteroenteric Strictures After Open and Robot-assisted Radical Cystectomy.
+
+Abstract: OBJECTIVE: To evaluate differences in the incidence of benign ureteroenteric stricture, we compared stricture rates of robot-assisted radical cystectomy (RARC) and open radical cystectomy (ORC) using Surveillance, Epidemiology, and End Results-Medicare data.
+METHODS: We identified 332 RARC and 1449 ORC performed between 2009 and 2014 to determine stricture rates at 6, 12, and 24 months following surgery. We defined ureteroenteric stricture as the need for procedural intervention. Additionally, we compared the incidence of stricture diagnosis. Multivariable proportional hazards regression was performed to determine factors associated with stricture development.
+RESULTS: The incidence of ureteroenteric stricture at 6 and 12 months was higher for RARC vs ORC at 12.1% vs 7.0% (P < .01) and 15.0% vs 9.5% (P = .01), respectively. RARC vs ORC stricture incidence at 2 years did not differ significantly at 14.6% vs 11.4% (P = .29). Similarly, the stricture diagnosis rates were significantly lower following ORC at 6, 12, and 24 months (P < .05). In adjusted analysis, RARC (HR 1.64, 95%CI 1.23-2.19) and preoperative hydronephrosis (HR 1.51, 95% CI 1.17-1.94) were associated with the development of stricture. Higher hospital volume was associated with a lower risk of stricture (HR 0.40, 95%CI 0.26-0.63).
+CONCLUSION: RARC is associated with a higher rate of ureteroenteric stricture diagnosis and intervention on a population-based level that is mitigated by higher hospital volume. A significant study limitation is inability to differentiate extracorporeal vs intracorporeal diversion. However, a stricture complication compounds the financial burden of care and efforts must be pursued to improve this surgical outcome.
+
+Citation: Goh AC, et al. A Population-based Study of Ureteroenteric Strictures After Open and Robot-assisted Radical Cystectomy. A Population-based Study of Ureteroenteric Strictures After Open and Robot-assisted Radical Cystectomy. 2020; 135:57-65. doi: 10.1016/j.urology.2019.07.054
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31618656/

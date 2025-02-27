@@ -1,0 +1,11 @@
+PMID: 38581302
+Title: Non-invasive assessment of left ventricular filling pressure in aortic stenosis.
+
+Abstract: BACKGROUND: The assessment of left ventricular (LV) filling pressure (FP) is important for the management of aortic stenosis (AS) patients. Although, it is often restricted for predict LV FP in AS because of mitral annular calcification and a certain left ventricular hypertrophy. Thus, we tested the predictive ability of the algorithm for elevated LV FP in AS patients and also applied a recently-proposed echocardiographic scoring system of LV FP, visually assessed time difference between the mitral valve and tricuspid valve opening (VMT) score.
+METHODS: We enrolled consecutive 116 patients with at least moderate AS in sinus rhythm who underwent right heart catheterization and echocardiography within 7 days. Mean pulmonary artery wedge pressure (PAWP) was measured as invasive parameter of LV FP. LV diastolic dysfunction (DD) was graded according to the ASE/EACVI guidelines. The VMT score was defined as follows: time sequence of opening of mitral and tricuspid valves was scored to 0-2 (0: tricuspid valve first, 1: simultaneous, 2: mitral valve first). When the inferior vena cava was dilated, one point was added and VMT score was finally calculated as 0-3.
+RESULTS: Of the 116 patients, 29 patients showed elevated PAWP. Ninety patients (93%) and 67 patients (63%) showed increased values for left atrium volume index (LAVI) and E/e', respectively when the cut-off values recommended by the guidelines were applied and thus the algorism predicted elevated PAWP with a low specificity and positive predictive value (PPV). VMT ≥ 2 predicted elevated PAWP with a sensitivity of 59%, specificity of 90%, PPV of 59%, and negative predictive value of 89%. An alternative algorithm that applied tricuspid regurgitation velocity and VMT scores was tested, and its predictive ability was markedly improved.
+CONCLUSION: VMT score was applicable for AS patients. Alternative use of VMT score improved diagnostic accuracy of guideline-recommended algorism.
+
+Citation: Aoyagi H, et al. Non-invasive assessment of left ventricular filling pressure in aortic stenosis. Non-invasive assessment of left ventricular filling pressure in aortic stenosis. 2024; 41:e15808. doi: 10.1111/echo.15808
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38581302/

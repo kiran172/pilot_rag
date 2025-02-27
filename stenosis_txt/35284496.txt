@@ -1,0 +1,12 @@
+PMID: 35284496
+Title: Diabetes Is Associated With Rapid Progression of Aortic Stenosis: A Single-Center Retrospective Cohort Study.
+
+Abstract: BACKGROUND: Mounting evidence indicates that rapid progression of aortic stenosis (AS) is significantly associated with poor prognosis. Whether diabetes accelerates the progression of AS remains controversial.
+OBJECTIVES: The purpose of the present study was to investigate whether diabetes was associated with rapid progression of AS.
+METHODS: We retrospectively analyzed 276 AS patients who underwent transthoracic echocardiography at least twice with a maximum interval ≥ 180 days from January 2016 to June 2021. AS severity was defined by specific threshold values for peak aortic jet velocity (V<sub>max</sub>) and/or mean pressure gradient. An increase of V<sub>max</sub> ≥ 0.3 m/s/year was defined as rapid progression. The binary Logistic regression models were used to determine the association between diabetes and rapid progression of AS.
+RESULTS: At a median echocardiographic follow-up interval of 614 days, the annual increase of V<sub>max</sub> was 0.16 (0.00-0.41) m/s. Compared with those without rapid progression, patients with rapid progression were older and more likely to have diabetes (P = 0.040 and P = 0.010, respectively). In the univariate binary Logistic regression analysis, diabetes was associated with rapid progression of AS (OR = 2.02, P = 0.011). This association remained significant in the multivariate analysis based on model 2 and model 3 (OR = 1.93, P = 0.018; OR = 1.93, P = 0.022). After propensity score-matching according to V<sub>max</sub>, diabetes was also associated rapid progression of AS (OR = 2.57, P = 0.045).
+CONCLUSIONS: Diabetes was strongly and independently associated with rapid progression of AS.
+
+Citation: Han K, et al. Diabetes Is Associated With Rapid Progression of Aortic Stenosis: A Single-Center Retrospective Cohort Study. Diabetes Is Associated With Rapid Progression of Aortic Stenosis: A Single-Center Retrospective Cohort Study. 2021; 8:812692. doi: 10.3389/fcvm.2021.812692
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35284496/

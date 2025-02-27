@@ -1,0 +1,17 @@
+PMID: 31794141
+Title: Neopulmonary Outflow Tract Obstruction Assessment by 4D Flow MRI in Adults With Transposition of the Great Arteries After Arterial Switch Operation.
+
+Abstract: BACKGROUND: The main complication in adult patients with transposition of the great arteries (TGA) treated by an arterial switch operation (ASO) is neopulmonary outflow tract stenosis (NPOTS). However, pulmonary flow velocity measurements cannot always be performed with transthoracic echocardiography (TTE) due to complex anatomical features. 4D flow MRI allows detection, quantification, and location of the obstruction site along the NPOTS.
+PURPOSE AND HYPOTHESIS: To investigate the accuracy of 4D flow for the diagnosis of NPOTS in adults with TGA corrected by ASO.
+STUDY TYPE: Prospective.
+POPULATION: Thirty-three adult patients with TGA treated by ASO (19 men, mean age 25.5 years old).
+FIELD STRENGTH/SEQUENCE: Accelerated 4D flow research sequence at 3T.
+ASSESSMENT: Maximum NPOTS velocities on TTE and 4D flow MRI done the same day.
+STATISTICAL TESTS: Pearson correlation coefficient, paired t-test, and Bland-Altman analysis were used to investigate the relationship between TTE and MRI data.
+RESULTS: In 16 patients (48.5%), evaluation of NPOTS anatomy was not obtained by TTE, while it was always possible by 4D flow. Peak flow velocity (PV) measurements in Doppler and 4D flow were highly correlated (r = 0.78; P &lt; 0.001). PV &gt;350 cm.s-1 was detected in only one patient (3%) by TTE vs. five patients (15%) by 4D flow. Moreover, a high correlation was found between PV and the right ventricle (RV) mass index to body surface area when using 4D flow (r = 0.63; P &lt; 0.001). The location of NPOTS was determined in all patients using 4D flow and concerned the main pulmonary artery in 42%.
+DATA CONCLUSION: Compared to TTE, 4D flow MRI provides better sensitivity to detect and locate NPOTS in patients with TGA treated by ASO. 4D flow PV measurements in NPOTS were well correlated with TTE PV and RV mass.
+LEVEL OF EVIDENCE: 1 Technical Efficacy: Stage 2 J. Magn. Reson. Imaging 2020;51:1699-1705.
+
+Citation: Belhadjer Z, et al. Neopulmonary Outflow Tract Obstruction Assessment by 4D Flow MRI in Adults With Transposition of the Great Arteries After Arterial Switch Operation. Neopulmonary Outflow Tract Obstruction Assessment by 4D Flow MRI in Adults With Transposition of the Great Arteries After Arterial Switch Operation. 2020; 51:1699-1705. doi: 10.1002/jmri.27012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31794141/

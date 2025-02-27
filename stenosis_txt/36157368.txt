@@ -1,0 +1,12 @@
+PMID: 36157368
+Title: Nomogram to predict permanent stoma in rectal cancer patients after sphincter-saving surgery.
+
+Abstract: BACKGROUND: Approximately 20 percent of patients with a tumour localized in the low rectum still encounter the possibility of requiring permanent stoma (PS), which can cause drastic changes in lifestyle and physical perceptions.
+AIM: To determine the risk factors for PS and to develop a prediction model to predict the probability of PS in rectal cancer patients after sphincter-saving surgery.
+METHODS: A retrospective cohort of 421 rectal cancer patients who underwent radical surgery at Taipei Medical University Hospital between January 2012 and December 2020 was included in this study. Univariate and multivariate analyses were performed to identify the independent risk factors for PS. A nomogram was developed according to the independent risk factors obtained in the multivariate analysis. The performance of the nomogram was assessed using a receiver operating characteristic curve and a calibration curve.
+RESULTS: The PS rate after sphincter-saving surgery was 15.1% (59/391) in our study after a median follow-up of 47.3 mo (range 7-114 mo). Multivariate logistic regression analysis demonstrated that local recurrence, perirectal abscess, anastomosis site stenosis, perineural invasion, tumor size and operative time were independent risk factors for PS. These identified risk factors were incorporated into the nomogram, and the concordance index of this model was 0.903 (95%CI: 0.851-0.955). According to the calibration curves, the nomogram represents a perfect prediction model.
+CONCLUSION: Several risk factors for PS after sphincter-saving surgery were identified. Our nomogram exhibited perfect predictive ability and will improve a physician's ability to communicate the benefits and risks of various treatment options in shared decision making.
+
+Citation: Kuo CY, et al. Nomogram to predict permanent stoma in rectal cancer patients after sphincter-saving surgery. Nomogram to predict permanent stoma in rectal cancer patients after sphincter-saving surgery. 2022; 14:765-777. doi: 10.4240/wjgs.v14.i8.765
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36157368/

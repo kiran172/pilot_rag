@@ -1,0 +1,12 @@
+PMID: 38938841
+Title: Effect of Sex and Flow Status on Outcomes After Surgical or Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Low stroke volume index &lt;35 ml/m2 despite preserved ejection fraction (paradoxical low flow [PLF]) is associated with adverse outcomes in patients with aortic stenosis undergoing transcatheter aortic valve replacement (TAVR) or surgical aortic valve replacement (SAVR). However, whether the risk associated with PLF is similar in both sexes is unknown.
+OBJECTIVES: The purpose of this study was to analyze the risk associated with PLF in severe aortic stenosis for men and women randomized to TAVR or SAVR.
+METHODS: Patients with ejection fraction ≥50% from the PARTNER (Placement of Aortic Transcatheter Valves) 2 and 3 trials were stratified by sex and treatment arm. The impact of PLF on the 2-year occurrence of the composite of death or heart failure hospitalization (primary endpoint) and of all-cause mortality alone (secondary endpoint) was analyzed. Analysis of variance was used to assess baseline differences between groups. Multivariate Cox regression analysis was used to identify predictors of the endpoint.
+RESULTS: Out of 2,242 patients, PLF was present in 390 men and 239 women (30% vs 26%, P = 0.06). PLF was associated with a higher rate of NYHA functional class III to IV dyspnea (60% vs 54%, P &lt; 0.001) and a higher prevalence of atrial fibrillation (39% vs 24%, P &lt; 0.001). PLF was a significant predictor of the primary endpoint among women undergoing SAVR in multivariate analysis (adjusted HR: 2.25 [95% CI: 1.14-4.43], P = 0.02) but was not associated with a worse outcome in any of the other groups (all P &gt; 0.05).
+CONCLUSIONS: In women with PLF, TAVR may improve outcomes compared to SAVR. PLF appears to have less impact on outcomes in men.
+
+Citation: Carter-Storch R, et al. Effect of Sex and Flow Status on Outcomes After Surgical or Transcatheter Aortic Valve Replacement. Effect of Sex and Flow Status on Outcomes After Surgical or Transcatheter Aortic Valve Replacement. 2024; 3:100853. doi: 10.1016/j.jacadv.2024.100853
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38938841/

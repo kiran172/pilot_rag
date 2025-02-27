@@ -1,0 +1,8 @@
+PMID: 39071799
+Title: Transcriptional profiling sheds light on the fibrotic aspects of idiopathic subglottic tracheal stenosis.
+
+Abstract: Idiopathic subglottic stenosis (ISGS) is a rare fibrotic disease of the upper trachea with an unknown pathomechanism. It typically affects adult Caucasian female patients, leading to severe airway constrictions caused by progressive scar formation and inflammation with clinical symptoms of dyspnoea, stridor and potential changes to the voice. Endoscopic treatment frequently leads to recurrence, whereas surgical resection and reconstruction provides excellent long-term functional outcome. This study aimed to identify so far unrecognized pathologic aspects of ISGS using single cell RNA sequencing. Our scRNAseq analysis uncovered the cellular composition of the subglottic scar tissue, including the presence of a pathologic, profibrotic fibroblast subtype and the presence of Schwann cells in a profibrotic state. In addition, a pathology-associated increase of plasma cells was identified. Using extended bioinformatics analyses, we decoded pathology-associated changes of factors of the extracellular matrix. Our data identified ongoing fibrotic processes in ISGS and provide novel insights on the contribution of fibroblasts, Schwann cells and plasma cells to the pathogenesis of ISGS. This knowledge could impact the development of novel approaches for diagnosis and therapy of ISGS.
+
+Citation: Direder M, et al. Transcriptional profiling sheds light on the fibrotic aspects of idiopathic subglottic tracheal stenosis. Transcriptional profiling sheds light on the fibrotic aspects of idiopathic subglottic tracheal stenosis. 2024; 12:1380902. doi: 10.3389/fcell.2024.1380902
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39071799/

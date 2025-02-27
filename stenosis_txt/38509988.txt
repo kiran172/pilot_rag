@@ -1,0 +1,11 @@
+PMID: 38509988
+Title: Photon counting computed tomography of in-stent-stenosis in a phantom: Optimal virtual monoenergetic imaging in ultra high resolution.
+
+Abstract: RATIONALE AND OBJECTIVES: Coronary computed tomography angiography (CCTA) is becoming increasingly important for the diagnostic workup of coronary artery disease, nevertheless, imaging of in-stent stenosis remains challenging. For the first time, spectral imaging in Ultra High Resolution (UHR) is now possible in clinically available photon counting CT. The aim of this work is to determine the optimal virtual monoenergetic image (VMI) for imaging in-stent stenoses in cardiac stents.
+MATERIALS AND METHODS: 6 stents with inserted hypodense stenoses were scanned in an established phantom in UHR mode. Images were reconstructed with 3 different kernels for spectral data (Qr56, Qr64, Qr72) with varying levels of sharpness. Based on region of interest (ROI) measurements image quality parameters including contrast-to-noise ratio (CNR) were analyzed for all available VMI (40 keV-190 keV). Finally, based on quantitative results and VMI used in clinical routine, a set of VMI was included in a qualitative reading.
+RESULTS: CNR showed significant variations across different keV levels (p < 0.001). Due to reduced noise there was a focal maximum in the VMI around 65 keV. The peak values were observed for kernel Qr56 at 116 keV with 19.47 ± 8.67, for kernel Qr64 at 114 keV with 13.56 ± 6.58, and for kernel Qr72 at 106 keV with 12.19 ± 3.25. However, in the qualitative evaluation the VMI with lower keV (55 keV) performed best.
+CONCLUSIONS: Based on these experimental results, a photon counting CCTA in UHR with stents should be reconstructed with the Qr72 kernel for the assessment of in-stent stenoses, and a VMI 55 keV should be computed for the evaluation.
+
+Citation: Elias Michael A, et al. Photon counting computed tomography of in-stent-stenosis in a phantom: Optimal virtual monoenergetic imaging in ultra high resolution. Photon counting computed tomography of in-stent-stenosis in a phantom: Optimal virtual monoenergetic imaging in ultra high resolution. 2024; 10:e27636. doi: 10.1016/j.heliyon.2024.e27636
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38509988/

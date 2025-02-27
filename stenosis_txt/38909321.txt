@@ -1,0 +1,11 @@
+PMID: 38909321
+Title: Predicting postoperative delirium after percutaneous transluminal angioplasty and stenting in patients with intracranial atherosclerotic stenosis.
+
+Abstract: OBJECTIVE: Known as a major surgical complication, postoperative delirium (POD) has not been well studied in patients with intracranial atherosclerotic stenosis (ICAS). This study aimed to investigate the correlation between perioperative clinical characteristics and the occurrence of POD.
+METHODS: Patients' demographic characteristics and perioperative testing data were collected. Binary logistic regression was conducted for assessing related risk factors. A nomogram was developed to predict the occurrence of POD after percutaneous transluminal angioplasty and stenting (PTAS) in patients with ICAS.
+RESULTS: The occurrence of POD in this study was 30.67%. Among all the clinical and laboratory characteristics in patients, age (OR = 1.234, 95%CI = 1.004-1.517, p = 0.046), gender (OR = 5.676, 95%CI = 1.028-31.334, p = 0.046), preoperative MMSE scores (OR = 2.298, 95%CI = 1.005-5.259, p = 0.049), the degree of stenosis (OR = 6.294, 95%CI = 1.043-37.974, p = 0.045), operating time (OR = 1.088, 95%CI = 1.023-1.157, p = 0.006), and HbA1c levels (OR = 2.226, 95%CI = 1.199-4.130, p = 0.011) were the independent risk factors.
+CONCLUSION: Male patients with advanced-age, lower preoperative MMSE scores, severe stenosis, longer operating time, and higher HbA1c levels are closely related to POD after PTAS. Fully perioperative assessments may play an important role in predicting the occurrence of POD.
+
+Citation: Zhu W, et al. Predicting postoperative delirium after percutaneous transluminal angioplasty and stenting in patients with intracranial atherosclerotic stenosis. Predicting postoperative delirium after percutaneous transluminal angioplasty and stenting in patients with intracranial atherosclerotic stenosis. 2024; 46:956-964. doi: 10.1080/01616412.2024.2370730
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38909321/

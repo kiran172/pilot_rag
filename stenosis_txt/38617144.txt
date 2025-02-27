@@ -1,0 +1,11 @@
+PMID: 38617144
+Title: Evaluation of four computed tomography reconstruction algorithms using a coronary artery phantom.
+
+Abstract: BACKGROUND: Despite advancements in coronary computed tomography angiography (CTA), challenges in positive predictive value and specificity remain due to limited spatial resolution. The purpose of this experimental study was to investigate the effect of 2nd generation deep learning-based reconstruction (DLR) on the quantitative and qualitative image quality in coronary CTA.
+METHODS: A vessel model with stepwise non-calcified plaque was scanned using 320-detector CT. Image reconstruction was performed using four techniques: hybrid iterative reconstruction (HIR), model-based iterative reconstruction (MBIR), DLR, and 2nd generation DLR. The luminal peak CT number, contrast-to-noise ratio (CNR), and edge rise slope (ERS) were quantitatively evaluated via profile curve analysis. Two observers qualitatively graded the graininess, lumen sharpness, and overall lumen visibility on the basis of the degree of confidence for the stenosis severity using a five-point scale.
+RESULTS: The image noise with HIR, MBIR, DLR, and 2nd generation DLR was 23.0, 21.0, 16.9, and 9.5 HU, respectively. The corresponding CNR (25% stenosis) was 15.5, 15.9, 22.1, and 38.3, respectively. The corresponding ERS (25% stenosis) was 203.2, 198.6, 228.9, and 262.4 HU/mm, respectively. Among the four reconstruction methods, the 2nd generation DLR achieved the significantly highest CNR and ERS values. The score of 2nd generation DLR in all evaluation points (graininess, sharpness, and overall lumen visibility) was higher than those of the other methods (overall vessel visibility score, 2.6±0.5, 3.8±0.6, 3.7±0.5, and 4.6±0.5 with HIR, MBIR, DLR, and 2nd generation DLR, respectively).
+CONCLUSIONS: 2nd generation DLR provided better CNR and ERS in coronary CTA than HIR, MBIR, and previous-generation DLR, leading to the highest subjective image quality in the assessment of vessel stenosis.
+
+Citation: Sawamura S, et al. Evaluation of four computed tomography reconstruction algorithms using a coronary artery phantom. Evaluation of four computed tomography reconstruction algorithms using a coronary artery phantom. 2024; 14:2870-2883. doi: 10.21037/qims-23-1204
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38617144/

@@ -1,0 +1,11 @@
+PMID: 37695602
+Title: Comparison of Ophthalmic Artery Morphological Characteristics and Retinal Vessel Diameter for Identifying Ocular Ischemic Syndrome.
+
+Abstract: PURPOSE: To investigate the morphological characteristics of the ophthalmic artery (OA) and retinal vessels in ocular ischemic syndrome (OIS) and to compare their ability to identify OIS.
+METHODS: This cross-sectional observational study included 21 patients with unilateral OIS and 17 controls matched for age, sex, degree of internal carotid artery (ICA) stenosis, and cerebral collateral patency. This study used a three-dimensional reconstruction based on computed tomographic angiography to measure the morphological characteristics of the OA and the ICA. Quantitative measurements of retinal vessel diameter were performed using the Integrative Vessel Analysis software. Receiver operating characteristic (ROC) curve analysis was performed to assess the ability of the OA diameter and the central retinal artery equivalent (CRAE) to identify OIS.
+RESULTS: The diameter of the OA (odds ratio = 0.001; P = 0.001) and the CRAE (odds ratio = 0.951; P = 0.028) were significantly associated with the presence of OIS after adjusting for age, sex, and the degree of the ICA stenosis. The areas under the curve for the OA diameter and the CRAE were, respectively, 0.871 (P < 0.001) and 0.744 (P = 0.017) according to the ROC curves analysis.
+CONCLUSIONS: The OA diameter measurement identified OIS better than CRAE measurement. The OA may reflect the changes in ocular blood supply in patients with OIS earlier than retinal vessels. The OA of eyes with OIS may undergo arterial wall remodeling, leading to a decrease in OA diameter and further reduction in blood flow.
+
+Citation: Cheng XR, et al. Comparison of Ophthalmic Artery Morphological Characteristics and Retinal Vessel Diameter for Identifying Ocular Ischemic Syndrome. Comparison of Ophthalmic Artery Morphological Characteristics and Retinal Vessel Diameter for Identifying Ocular Ischemic Syndrome. 2023; 64:20. doi: 10.1167/iovs.64.12.20
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37695602/

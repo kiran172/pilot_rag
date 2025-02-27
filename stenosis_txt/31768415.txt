@@ -1,0 +1,12 @@
+PMID: 31768415
+Title: Automated calcium scores collected during myocardial perfusion imaging improve identification of obstructive coronary artery disease.
+
+Abstract: BACKGROUND: Myocardial perfusion imaging (MPI) is an accurate noninvasive test for patients with suspected obstructive coronary artery disease (CAD) and coronary artery calcium (CAC) score is known to be a powerful predictor of cardiovascular events. Collection of CAC scores simultaneously with MPI is unexplored.
+AIM: We aimed to investigate whether automatically derived CAC scores during myocardial perfusion imaging would further improve the diagnostic accuracy of MPI to detect obstructive CAD.
+METHODS: We analyzed 150 consecutive patients without a history of coronary revascularization with suspected obstructive CAD who were referred for 82Rb PET/CT and available coronary angiographic data. Myocardial perfusion was evaluated both semi quantitatively as well as quantitatively according to the European guidelines. CAC scores were automatically derived from the low-dose attenuation correction CT scans using previously developed software based on deep learning. Obstructive CAD was defined as stenosis >70% (or >50% in the left main coronary artery) and/or fractional flow reserve (FFR) ≤0.80.
+RESULTS: In total 58% of patients had obstructive CAD of which seventy-four percent were male. Addition of CAC scores to MPI and clinical predictors significantly improved the diagnostic accuracy of MPI to detect obstructive CAD. The area under the curve (AUC) increased from 0.87 to 0.91 (p: 0.025). Sensitivity and specificity analysis showed an incremental decrease in false negative tests with our MPI + CAC approach (n = 14 to n = 4), as a consequence an increase in false positive tests was seen (n = 11 to n = 28).
+CONCLUSION: CAC scores collected simultaneously with MPI improve the detection of obstructive coronary artery disease in patients without a history of coronary revascularization.
+
+Citation: Dekker M, et al. Automated calcium scores collected during myocardial perfusion imaging improve identification of obstructive coronary artery disease. Automated calcium scores collected during myocardial perfusion imaging improve identification of obstructive coronary artery disease. 2020; 26:100434. doi: 10.1016/j.ijcha.2019.100434
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31768415/

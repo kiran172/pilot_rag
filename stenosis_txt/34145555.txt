@@ -1,0 +1,11 @@
+PMID: 34145555
+Title: Prosthetic Valve Monitoring via In Situ Pressure Sensors: In Silico Concept Evaluation using Supervised Learning.
+
+Abstract: PURPOSE: Patients receiving transcatheter aortic valve replacement (TAVR) can benefit from continuous, longitudinal monitoring of valve prosthesis to prevent leaflet thrombosis-related complications. We present a computational proof-of-concept study of a novel, non-invasive and non-toxic valve monitoring technique for TAVs which uses pressure measurements from microsensors embedded on the valve stent. We perform a data-driven analysis to determine the signal processing and machine learning required to detect reduced mobility in individual leaflets.
+METHODS: We use direct numerical simulations to describe hemodynamic differences in transvalvular flow in ascending aorta models with healthy and stenotic valves. A Cartesian-grid flow solver and a reduced-order valve model simulate the complex dynamics of blood flow and leaflet motion, respectively. The two-way fluid-structure interaction coupling is achieved using a sharp interface immersed boundary method.
+RESULTS: From a dataset of 21 simulations, we show leaflets with reduced mobility result in large, asymmetric pressure fluctuations in their vicinity, particularly in the region extending from the aortic sinus to the sino-tubular junction (STJ). We train a linear classifier algorithm by correlating sinus and STJ pressure measurements on the stent surface to individual leaflet status. The algorithm was shown to have >90% accuracy for prospective detection of individual leaflet dysfunction.
+CONCLUSIONS: We demonstrate that using only two discrete pressure measurements, per leaflet, on the TAV stent, individual leaflet status can be accurately predicted. Such a sensorized TAV system could enable safe and inexpensive detection of prosthetic valve dysfunction.
+
+Citation: Bailoor S, et al. Prosthetic Valve Monitoring via In Situ Pressure Sensors: In Silico Concept Evaluation using Supervised Learning. Prosthetic Valve Monitoring via In Situ Pressure Sensors: In Silico Concept Evaluation using Supervised Learning. 2022; 13:90-103. doi: 10.1007/s13239-021-00553-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34145555/

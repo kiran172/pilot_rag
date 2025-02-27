@@ -1,0 +1,11 @@
+PMID: 31421364
+Title: Differences in Outcomes Based on Sex for Pediatric Patients Undergoing Pyloromyotomy.
+
+Abstract: BACKGROUND: Males and females are known to have varied responses to medical interventions. Our study aimed to determine the effect of sex on surgical outcomes after pyloromyotomy.
+MATERIALS AND METHODS: Using the Kids' Inpatient Database for the years 2003-2012, we performed a serial, cross-sectional analysis of a nationally representative sample of all patients aged <1 y who underwent pyloromyotomy for hypertrophic pyloric stenosis. The primary predictor of interest was sex. Outcomes included mortality, in-hospital complications, cost, and length of stay. Regression models were adjusted by race, age group, comorbidity, complications, and whether operation was performed on the day of admission with region and year fixed effects.
+RESULTS: Of 48,834 weighted operations, 81.8% were in males and 18.2% were in females. The most common reported race was white (47.3%) and most of the patients were ≥29 days old (72.5%). There was no difference in the odds of postoperative complications, but females had a significantly longer length of stay (incidence rate ratio, 1.28; 95% confidence interval [95% CI], 1.18-1.39; P ≤ 0.01), higher cost (5%, 95% CI, 1.02-1.08; P ≤ 0.01), and higher odds of mortality (odds ratio, 3.26; 95% CI, 1.52-6.98; P ≤ 0.01).
+CONCLUSIONS: Our study demonstrated that females had worse outcomes after pyloromyotomy compared with males. These findings are striking and are important to consider when treating either sex to help set physician and family expectations perioperatively. Further studies are needed to determine why such differences exist and to develop targeted treatment strategies for both females and males with pyloric stenosis.
+
+Citation: Massoumi RL, et al. Differences in Outcomes Based on Sex for Pediatric Patients Undergoing Pyloromyotomy. Differences in Outcomes Based on Sex for Pediatric Patients Undergoing Pyloromyotomy. 2020; 245:207-211. doi: 10.1016/j.jss.2019.07.042
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31421364/

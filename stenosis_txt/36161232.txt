@@ -1,0 +1,11 @@
+PMID: 36161232
+Title: Cardiovascular outcomes and trends of Transcatheter vs. Surgical aortic valve replacement among octogenarians with heart failure: A Propensity Matched national cohort analysis.
+
+Abstract: BACKGROUND: Heart failure (HF) is a complex clinical syndrome with symptoms and signs that result from any structural or functional impairment of ventricular filling or ejection of blood. Limited data is available regarding the in-hospital outcomes of TAVR compared to SAVR in the octogenarian population with HF.
+METHODS: The National Inpatient Sample (NIS) database was used to compare TAVR versus SAVR among octogenarians with HF. The primary outcome was in-hospital mortality. The secondary outcome included acute kidney injury (AKI), cerebrovascular accident (CVA), post-procedural stroke, major bleeding, blood transfusions, sudden cardiac arrest (SCA), cardiogenic shock (CS), and mechanical circulatory support (MCS).
+RESULTS: A total of 74,995 octogenarian patients with HF (TAVR-HF n = 64,890 (86.5%); SAVR n = 10,105 (13.5%)) were included. The median age of patients in TAVR-HF and SAVR-HF was 86 (83-89) and 82 (81-84) respectively. TAVR-HF had lower percentage in-hospital mortality (1.8% vs. 6.9%;p < 0.001), CVA (2.5% vs. 3.6%; p = 0.009), SCA (9.9% vs. 20.2%; p < 0.001), AKI (17.4% vs. 40.8%); p < 0.001), major transfusion (26.4% vs 67.3%; p < 0.001), CS (1.8% vs 9.8%; p < 0.001), and MCS (0.8% vs 7.3%; p < 0.001) when compared to SAVR-HF. Additionally, post-procedural stroke and major bleeding showed no significant difference. The median unmatched total charges for TAVR-HF and SAVR-HF were 194,561$ and 246,100$ respectively.
+CONCLUSION: In this nationwide observational analysis, TAVR is associated with an improved safety profile for octogenarians with heart failure (both preserved and reduced ejection fraction) compared to SAVR.
+
+Citation: Sattar Y, et al. Cardiovascular outcomes and trends of Transcatheter vs. Surgical aortic valve replacement among octogenarians with heart failure: A Propensity Matched national cohort analysis. Cardiovascular outcomes and trends of Transcatheter vs. Surgical aortic valve replacement among octogenarians with heart failure: A Propensity Matched national cohort analysis. 2022; 42:101119. doi: 10.1016/j.ijcha.2022.101119
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36161232/

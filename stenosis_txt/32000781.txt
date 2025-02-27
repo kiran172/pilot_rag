@@ -1,0 +1,11 @@
+PMID: 32000781
+Title: Polygenic risk for coronary heart disease acts through atherosclerosis in type 2 diabetes.
+
+Abstract: BACKGROUND: Type 2 diabetes increases the risk of coronary heart disease (CHD), yet the mechanisms involved remain poorly described. Polygenic risk scores (PRS) provide an opportunity to understand risk factors since they reflect etiologic pathways from the entire genome. We therefore tested whether a PRS for CHD influenced risk of CHD in individuals with type 2 diabetes and which risk factors were associated with this PRS.
+METHODS: We tested the association of a CHD PRS with CHD and its traditional clinical risk factors amongst individuals with type 2 diabetes in UK Biobank (N = 21,102). We next tested the association of the CHD PRS with atherosclerotic burden in a cohort of 352 genome-wide genotyped participants with type 2 diabetes who had undergone coronary angiograms.
+RESULTS: In the UK Biobank we found that the CHD PRS was strongly associated with CHD amongst individuals with type 2 diabetes (OR per standard deviation increase = 1.50; p = 1.5 × 10- 59). But this CHD PRS was, at best, only weakly associated with traditional clinical risk factors, such as hypertension, hyperlipidemia, glycemic control, obesity and smoking. Conversely, in the angiographic cohort, the CHD PRS was strongly associated with multivessel stenosis (OR = 1.65; p = 4.9 × 10- 4) and increased number of major stenotic lesions (OR = 1.35; p = 9.4 × 10- 3).
+CONCLUSIONS: Polygenic predisposition to CHD is strongly associated with atherosclerotic burden in individuals with type 2 diabetes and this effect is largely independent of traditional clinical risk factors. This suggests that genetic risk for CHD acts through atherosclerosis with little effect on most traditional risk factors, providing the opportunity to explore new biological pathways.
+
+Citation: Lu T, et al. Polygenic risk for coronary heart disease acts through atherosclerosis in type 2 diabetes. Polygenic risk for coronary heart disease acts through atherosclerosis in type 2 diabetes. 2020; 19:12. doi: 10.1186/s12933-020-0988-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32000781/

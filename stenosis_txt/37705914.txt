@@ -1,0 +1,11 @@
+PMID: 37705914
+Title: Obesity Blunts the Effect of Mesenchymal Stem Cell-Derived Extracellular Vesicles.
+
+Abstract: INTRODUCTION: Mesenchymal stem/stromal cell-derived extracellular vesicles (MSC-EVs) are paracrine vectors with therapeutic functions comparable to their parent cells. However, it remains unclear if donor obesity affects their therapeutic functions. We tested the hypothesis that the curative effect of human adipose tissue-derived MSC-EVs (A-MSC-EVs) is blunted by obesity.
+METHODS: MSC-EVs were isolated by ultracentrifugation from mesenchymal stem/stromal cells (MSCs) collected from abdominal subcutaneous fat of obese and lean human subjects (obese and lean-MSC-EVs, respectively) and injected into the aorta of mice 2 weeks after renal artery stenosis (RAS) induction. Magnetic resonance imaging studies were conducted 2 weeks after MSC-EVs delivery to determine renal function. The effect of MSC-EVs on tissue injury was assessed by histology and gene expression of inflammatory factors, including interleukin (IL)-1β, IL-6, monocyte chemotactic protein-1 (MCP-1), and tumor necrosis factor alpha (TNF-α). Oxidative damage, macrophage infiltration, plasma renin, and hypoxia inducible factor-1α (HIF-1α) were also assessed.
+RESULTS: Tracking showed that MSC-EVs localized in the kidney tissue, including glomeruli and tubules. All MSC-EVs decreased systolic blood pressure (SBP) and plasma renin and improved the poststenotic kidney (STK) volume, but obese-MSC-EVs were less effective than lean-MSC-EVs in improving medullary hypoxia, fibrosis, and tubular injury. Lean-MSC-EVs decreased inflammation, whereas obesity attenuated this effect. Only lean-MSC-EVs decreased STK cortical HIF-1α expression.
+CONCLUSION: Obesity attenuates the antihypoxia, antifibrosis, antiinflammation, and tubular repair functions of human MSC-EVs in chronic ischemic kidney disease. These observations may have implications for the self-repair potency of obese subjects and for the use of autologous MSC-EVs in regenerative medicine.
+
+Citation: Huang W, et al. Obesity Blunts the Effect of Mesenchymal Stem Cell-Derived Extracellular Vesicles. Obesity Blunts the Effect of Mesenchymal Stem Cell-Derived Extracellular Vesicles. 2023; 8:1841-1851. doi: 10.1016/j.ekir.2023.06.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37705914/

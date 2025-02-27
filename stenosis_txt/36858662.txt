@@ -1,0 +1,12 @@
+PMID: 36858662
+Title: 5-Year Outcomes With Self-Expanding vs Balloon-Expandable Transcatheter Aortic Valve Replacement in Patients With Small Annuli.
+
+Abstract: BACKGROUND: Self-expanding transcatheter heart valves (THVs) are associated with better echocardiographic hemodynamic performance than balloon-expandable THVs and are considered preferable in patients with small annuli.
+OBJECTIVES: This study sought to compare 5-year outcomes between self-expanding vs balloon-expandable THVs in severe aortic stenosis (AS) patients with small annuli.
+METHODS: Consecutive severe AS patients with an aortic valve annulus area &lt;430 mm2 who underwent transcatheter aortic valve replacement (TAVR) with either the CoreValve Evolut (Medtronic) or SAPIEN (Edwards Lifesciences) THV between 2012 and 2021 were enrolled from the Bern TAVI registry. A 1:1 propensity-matched analysis was performed to account for baseline differences between groups.
+RESULTS: A total of 723 patients were included, and propensity score matching resulted in 171 pairs. Technical success was achieved in over 85% of both groups with no significant difference. Self-expanding THVs were associated with a lower transvalvular gradient (8.0 ± 4.8 mm Hg vs 12.5 ± 4.5 mm Hg; P &lt; 0.001), a larger effective orifice area (1.81 ± 0.46 cm2 vs 1.49 ± 0.42 cm2; P &lt; 0.001), and a lower incidence of prosthesis-patient mismatch (19.7% vs 51.8%; P &lt; 0.001) than balloon-expandable THVs. At 5 years, there were no significant differences in mortality (50.4% vs 39.6%; P = 0.269) between groups. Disabling stroke occurred more frequently in patients with a self-expanding THV than those with a balloon-expandable THV (6.6% vs 0.6%; P = 0.030). Similar results were obtained using inverse probability of treatment weighting in the Bern TAVI registry and the nationwide Swiss TAVI registry.
+CONCLUSIONS: The echocardiographic hemodynamic advantage of self-expanding THVs was not associated with better clinical outcomes compared with balloon-expandable THVs up to 5 years in patients with small annuli. (Swiss TAVI Registry; NCT01368250).
+
+Citation: Okuno T, et al. 5-Year Outcomes With Self-Expanding vs Balloon-Expandable Transcatheter Aortic Valve Replacement in Patients With Small Annuli. 5-Year Outcomes With Self-Expanding vs Balloon-Expandable Transcatheter Aortic Valve Replacement in Patients With Small Annuli. 2023; 16:429-440. doi: 10.1016/j.jcin.2022.11.032
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36858662/

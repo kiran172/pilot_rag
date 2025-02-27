@@ -1,0 +1,12 @@
+PMID: 38284107
+Title: Explore the role of long noncoding RNAs and mRNAs in intracranial atherosclerotic stenosis: From the perspective of neutrophils.
+
+Abstract: CONTEXT: Circulating neutrophils and long noncoding RNAs (lncRNAs) play various roles in intracranial atherosclerotic stenosis (ICAS).
+OBJECTIVE: Our study aimed to detect differentially expressed (DE) lncRNAs and mRNAs in circulating neutrophils and explore the pathogenesis of atherosclerosis from the perspective of neutrophils.
+METHODS: Nineteen patients with ICAS and 15 healthy controls were enrolled. The peripheral blood of the participants was collected, and neutrophils were separated. The expression profiles of lncRNAs and mRNAs in neutrophils from five patients and five healthy controls were obtained, and DE lncRNAs and mRNAs were selected. Six lncRNAs were selected and validated using quantitative reverse transcription-polymerase chain reaction (qRT-PCR), and ceRNA and lncRNA-RNA binding protein (RBP)-mRNA networks were constructed. Correlation analysis between lncRNAs and mRNAs was performed. Functional enrichment annotations were also performed.
+RESULTS: Volcano plots and heat maps displayed the expression profiles and DE lncRNAs and mRNAs, respectively. The qRT-PCR results revealed that the four lncRNAs showed a tendency consistent with the expression profile, with statistical significance. The ceRNA network revealed three pairs of regulatory networks: lncRNA RP3-406A7.3-NAGLU, lncRNA HOTAIRM1-MVK/IL-25/GBF1/CNOT4/ANKK1/PLEKHG6, and lncRNA RP11-701H16.4-ZNF416. The lncRNA-RBP-mRNA network showed five pairs of regulatory networks: lncRNA RP11-701H16.4-TEK, lncRNA RP11-701H16.4-MED17, lncRNA SNHG19-NADH-ubiquinone oxidoreductase core subunit V1, lncRNA RP3-406A7.3-Angel1, and lncRNA HOTAIRM1-CARD16.
+CONCLUSIONS: Our study identified and verified four lncRNAs in neutrophils derived from peripheral blood, which may explain the transcriptional alteration of neutrophils during the pathophysiological process of ICAS. Our results provide insights for research related to the pathogenic mechanisms and drug design of ICAS.
+
+Citation: Wang Y, et al. Explore the role of long noncoding RNAs and mRNAs in intracranial atherosclerotic stenosis: From the perspective of neutrophils. Explore the role of long noncoding RNAs and mRNAs in intracranial atherosclerotic stenosis: From the perspective of neutrophils. 2023; 9:240-250. doi: 10.4103/bc.bc_63_23
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38284107/

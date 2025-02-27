@@ -1,0 +1,12 @@
+PMID: 36158817
+Title: Bioresorbable scaffolds vs. drug-eluting stents on short- and mid-term target lesion outcomes in patients after PCI: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: While current concerns about bioresorbable scaffolds (BRS) are centered on late or very late scaffold thrombosis, less attention had been paid to short- and mid-term clinical outcomes. This review aimed to compare the short- and mid-term outcomes between BRS and drug-eluting stents (DES).
+METHODS: A systematic review of randomized controlled trials (RCTs) that compared BRS vs. DES was conducted by searching PubMed, Cochrane Library, Web of Science, CNKI, WanFang, and VIP databases from inception until 19 April 2022 (language limited to English or Chinese). The primary outcome was target lesion failure (TLF) within 12 months, defined as a composite of target lesion revascularization (TLR), target vessel myocardial infarction (TVMI), and cardiac death. The secondary outcomes were in-stent diameter stenosis (DS%) provided by intraluminal imaging.
+RESULTS: A total of 13 studies were eligible and were included in this review (N = 9,702 patients). The follow-up duration ranged from 6 months to 1 year. A significantly higher rate of TLF [RR, 1.22, 95% CI (1.03, 1.44)] driven by the higher rate of TVMI [RR, 1.39, 95% CI (1.09, 1.76)] was observed in the BRS group than in the DES group. The risk of TLR and cardiac death was similar between the groups. Also, compared with the DES group, the BRS group had a significantly higher in-stent DS% within 1 year [MD = 5.23, 95%CI (3.43, 7.04); I2 = 97%; p &lt; 0.00001].
+CONCLUSION: Bioresorbable scaffolds were associated with an increased risk of target lesion failure within 1 year as compared with DES, driven by the increased rates of target vessel myocardial infarction. Also, the in-stent DS% seemed to be higher with BRS. Therefore, BRS was inferior to DES in terms of target lesion outcomes at short- or mid-term follow-up.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=327966, PROSPERO (CRD42022327966).
+
+Citation: Wan YD, et al. Bioresorbable scaffolds vs. drug-eluting stents on short- and mid-term target lesion outcomes in patients after PCI: A systematic review and meta-analysis. Bioresorbable scaffolds vs. drug-eluting stents on short- and mid-term target lesion outcomes in patients after PCI: A systematic review and meta-analysis. 2022; 9:949494. doi: 10.3389/fcvm.2022.949494
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36158817/

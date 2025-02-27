@@ -1,0 +1,11 @@
+PMID: 32271873
+Title: Interleukin-34 Stimulates Gut Fibroblasts to Produce Collagen Synthesis.
+
+Abstract: BACKGROUND AND AIM: The mechanisms underlying the formation of intestinal fibrostrictures [FS] in Crohn's disease [CD] are not fully understood, but activation of fibroblasts and excessive collagen deposition are supposed to contribute to the development of FS. Here we investigated whether interleukin-34 [IL-34], a cytokine that is over-produced in CD, regulates collagen production by gut fibroblasts.
+METHODS: IL-34 and its receptor macrophage colony-stimulating factor receptor 1 [M-CSFR-1] were evaluated in inflammatory [I], FS CD, and control [CTR] ileal mucosal samples by real-time polymerase chain reaction [RT-PCR], western blotting, and immunohistochemistry. IL-34 and M-CSFR-1 expression was evaluated in normal and FS CD fibroblasts. Control fibroblasts were stimulated with IL-34 in the presence or absence of a MAP kinase p38 inhibitor, and FS CD fibroblasts were cultured with a specific IL-34 antisense oligonucleotide, and collagen production was evaluated by RT-PCR, western blotting, and Sircol assay. The effect of IL-34 on the wound healing capacity of fibroblasts was evaluated by scratch test.
+RESULTS: We showed enhanced M-CSFR-1 and IL-34 RNA and protein expression in FS CD mucosal samples as compared with ICD and CTR samples. Immunohistochemical analysis showed that stromal cells were positive for M-CSFR-1 and IL-34. Enhanced M-CSFR-1 and IL-34 RNA and protein expression was seen in FS CD fibroblasts as compared with CTR. Stimulation of control fibroblasts with IL-34 enhanced COL1A1 and COL3A1 expression and secretion of collagen through a p38 MAP kinase-dependent mechanism, and wound healing. IL-34 knockdown in FS CD fibroblasts was associated with reduced collagen production and wound repair.
+CONCLUSIONS: Data indicate a prominent role of IL-34 in the control of intestinal fibrogenesis.
+
+Citation: Franzè E, et al. Interleukin-34 Stimulates Gut Fibroblasts to Produce Collagen Synthesis. Interleukin-34 Stimulates Gut Fibroblasts to Produce Collagen Synthesis. 2020; 14:1436-1445. doi: 10.1093/ecco-jcc/jjaa073
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32271873/

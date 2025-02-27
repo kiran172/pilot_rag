@@ -1,0 +1,11 @@
+PMID: 35874428
+Title: Benzodiazepine use and the risk of dementia.
+
+Abstract: INTRODUCTION: Benzodiazepines (BZDs) are commonly prescribed for anxiety and agitations, which are early symptoms of Alzheimer's disease and related dementias (ADRD). It is unclear whether BZDs causally affect ADRD risk or are prescribed in response to early symptoms of dementia.
+METHODS: We replicate prior case-control studies using longitudinal Medicare claims. To mitigate bias from prodromal use, we compare rates of ADRD diagnosis for beneficiaries exposed and unexposed to BZDs for cervical/lumbar pain, stenosis, and sciatica, none of which are associated with dementia.
+RESULTS: Approximately 8% of Medicare beneficiaries used a BZD in 2007, increasing to nearly 13% by 2013. Estimates from case-control designs are sensitive to duration of look-back period, health histories, medication use, and exclusion of decedents. Incident BZD use is not associated with an increased risk of dementia in an "uncontaminated" sample of beneficiaries prescribed a BZD for pain (odds ratios (ORs) of 1.007 [95% confidence interval [CI] = 0.885, 1.146] and 0.986 [95% CI = 0.877, 1.108], respectively, in the 2013 and 2013 to 2015 pooled samples). Higher levels of BZD exposure (>365 days over a 2-year period) are associated with increased odds of a dementia diagnosis, but the results are not statistically significant at the 5% or 10% levels (1.190 [95% CI = 0.925, 1.531] and 1.167 [95% CI = 0.919, 1.483]).
+DISCUSSION: We find little evidence of a causal relation between BZD use and dementia risk. Nonetheless, providers should limit the extended use in elderly populations.
+
+Citation: Joyce G, et al. Benzodiazepine use and the risk of dementia. Benzodiazepine use and the risk of dementia. 2022; 8:e12309. doi: 10.1002/trc2.12309
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35874428/

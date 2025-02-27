@@ -1,0 +1,11 @@
+PMID: 35131173
+Title: Agreement Between iFR and Other Non-Hyperaemic Pressure Ratios in Severe Aortic Stenosis.
+
+Abstract: BACKGROUND: Instantaneous wave-free ratio (iFR) can reliably assess the physiological significance of coronary artery disease (CAD). Previous studies have demonstrated its interchangeability with other non-hyperaemic pressure ratios (NHPR), but there is no data exploring whether this association is maintained in patients with severe aortic stenosis (AS).
+METHODS: Forty-two patients (67 lesions) with severe AS were recruited and underwent invasive pressure-wire assessment. Data were extracted to calculate iFR, resting Pd/Pa, diastolic pressure ratios (DPR and dPR), and Diastolic Hyperaemia-Free Ratio (DFR). iFR was then compared with other NHPR to determine agreement and accuracy.
+RESULTS: Mean aortic gradient and dimensionless index were 44.3 ± 11.6 mmHg and 0.23 ± 0.04, respectively. Of the 67 vessels, 57% were LAD, 15% LCx, 13% RCA and 12% other. There was strong positive correlation between iFR and all other NHPR, including Pd/Pa (r = 0.91, p < 0.001), DPR (r = 0.99, p < 0.001), dPR (r = 0.97, p < 0.001) and DFR (r = 0.98, p < 0.001). While Bald-Altman analysis demonstrated that Pd/Pa and DFR were numerically different from iFR, ROC analyses demonstrated iFR ≤0.89 was accurately identified by all NHPRs; Pd/Pa (AUC = 0.965, 95% CI [0.928-0.994]), DPR (AUC = 1.000, 95% CI [1.000-1.000]), dPR (AUC = 0.974, 95% CI [0.937-1.000]), DFR (AUC = 0.989, 95% CI [0.968-1.000]).
+CONCLUSION: In patients with severe AS, all the included NHPR in this analysis accurately predicted iFR < 0.89. These data should reassure clinicians that use of alternative NHPR to iFR is reasonable when assessing the physiological significance of CAD in patients with severe AS.
+
+Citation: Comella A, et al. Agreement Between iFR and Other Non-Hyperaemic Pressure Ratios in Severe Aortic Stenosis. Agreement Between iFR and Other Non-Hyperaemic Pressure Ratios in Severe Aortic Stenosis. 2022; 41:47-52. doi: 10.1016/j.carrev.2022.01.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35131173/

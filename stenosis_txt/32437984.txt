@@ -1,0 +1,12 @@
+PMID: 32437984
+Title: The Reproducibility of Cerebrovascular Randomized Controlled Trials.
+
+Abstract: BACKGROUND: Numerous randomized controlled trials (RCTs) relevant to the cerebrovascular field have been performed. The fragility index was recently developed to complement the P value and measure the robustness and reproducibility of clinical findings of RCTs.
+OBJECTIVE: In this study, we evaluate the fragility index for key surgical and endovascular cerebrovascular RCTs and propose a novel RCT classification system based on the fragility index.
+METHODS: Cerebrovascular RCTs reported between 2000 and 2018 were reviewed. Six key areas were specifically targeted in relation to stroke, carotid stenosis, cerebral aneurysms, and subarachnoid hemorrhage. The correlation between fragility index, number of patients lost to follow-up, and fragility quotient were evaluated to propose a classification system for the robustness of the studies.
+RESULTS: A total of 20 RCTs that reported significant differences between both study groups in terms of the primary outcome were included. The median fragility index for the trials was 5.5. An additional 30 randomly selected RCTs were added to propose a classification system with high reliability. The difference between the number of patients lost to follow-up and fragility index inversely correlated with the fragility quotient and was used to divide the robustness of the RCTs into 3 classes reflecting the reproducibility of the trial.
+CONCLUSIONS: Neurosurgeons and neurointerventionalists should exercise caution with interpreting the results of cerebrovascular RCTs, especially when the sample size and events numbers are small and there is a high number of patients who were lost to follow-up, as quantitatively identified using the proposed classification system.
+
+Citation: Adeeb N, et al. The Reproducibility of Cerebrovascular Randomized Controlled Trials. The Reproducibility of Cerebrovascular Randomized Controlled Trials. 2020; 140:e46-e52. doi: 10.1016/j.wneu.2020.04.106
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32437984/

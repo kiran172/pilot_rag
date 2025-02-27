@@ -1,0 +1,11 @@
+PMID: 32993462
+Title: Diagnosis of Transient Ischemic Attack: Sex-Specific Differences From a Retrospective Cohort Study.
+
+Abstract: BACKGROUND AND PURPOSE: Research suggests that women and men may present with different transient ischemic attack (TIA) and stroke symptoms. We aimed to explore symptoms and features associated with a definite TIA/stroke diagnosis and whether those associations differed by sex.
+METHODS: We completed a retrospective cohort study of patients referred to The Ottawa Hospital Stroke Prevention Clinic in 2015. Exploratory multinomial logistic regression was used to evaluate candidate variables associated with diagnosis and patient sex. Backwards elimination of the interaction terms with a significance level for staying in the model of 0.25 was used to arrive at a more parsimonious model.
+RESULTS: Based on 1770 complete patient records, sex-specific differences were noted in TIA/stroke diagnosis based on features such as duration of event, suddenness of symptom onset, unilateral sensory loss, and pain.
+CONCLUSIONS: This preliminary work identified sex-specific differences in the final diagnosis of TIA/stroke based on common presenting symptoms/features. More research is needed to understand if there are biases or sex-based differences in TIA/stroke manifestations and diagnosis.
+
+Citation: Gocan S, et al. Diagnosis of Transient Ischemic Attack: Sex-Specific Differences From a Retrospective Cohort Study. Diagnosis of Transient Ischemic Attack: Sex-Specific Differences From a Retrospective Cohort Study. 2020; 51:3371-3374. doi: 10.1161/STROKEAHA.120.031510
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32993462/

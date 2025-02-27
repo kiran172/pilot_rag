@@ -1,0 +1,11 @@
+PMID: 39131994
+Title: Long-Term Outcomes of Transcatheter vs Surgical Aortic Valve Replacement: Meta-analysis of Randomized Trials.
+
+Abstract: BACKGROUND: We aimed to perform a meta-analysis of randomized trials comparing long-term outcomes of patients undergoing transcatheter aortic valve replacement (TAVR) vs surgical aortic valve replacement (SAVR) for severe aortic stenosis. The short-term efficacy and safety of TAVR are proven, but long-term outcomes are unclear.
+METHODS: We included randomized controlled trials comparing TAVR vs SAVR at the longest available follow-up. The primary end point was death or disabling stroke. Secondary end points were all-cause mortality, cardiac mortality, stroke, pacemaker implantation, valve thrombosis, valve gradients, and moderate-to-severe paravalvular leaks. The study is registered with PROSPERO (CRD42023481856).
+RESULTS: Seven trials (N = 7785 patients) were included. Weighted mean trial follow-up was 5.76 ± 0.073 years. Overall, no significant difference in death or disabling stroke was observed with TAVR vs SAVR (HR, 1.02; 95% CI, 0.93-1.11; P = .70). Mortality risks were similar. TAVR resulted in higher pacemaker implantation and moderate-to-severe paravalvular leaks compared to SAVR. Results were consistent across different surgical risk profiles. As compared to SAVR, self-expanding TAVR had lower death or stroke risk (P interaction = .06), valve thrombosis (P interaction = .06), and valve gradients (P interaction &lt; .01) but higher pacemaker implantation rates than balloon-expandable TAVR (P interaction &lt; .01).
+CONCLUSIONS: In severe aortic stenosis, the long-term mortality or disabling stroke risk of TAVR is similar to SAVR, but with higher risk of pacemaker implantation, especially with self-expanding valves. As compared with SAVR, the relative reduction in death or stroke risk and valve thrombosis was greater with self-expanding than with balloon-expandable valves.
+
+Citation: Talanas G, et al. Long-Term Outcomes of Transcatheter vs Surgical Aortic Valve Replacement: Meta-analysis of Randomized Trials. Long-Term Outcomes of Transcatheter vs Surgical Aortic Valve Replacement: Meta-analysis of Randomized Trials. 2024; 3:102143. doi: 10.1016/j.jscai.2024.102143
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39131994/

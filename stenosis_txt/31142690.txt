@@ -1,0 +1,11 @@
+PMID: 31142690
+Title: DNA Methylation Analysis Identifies Differentially Methylated Sites Associated with Early-Onset Intracranial Atherosclerotic Stenosis.
+
+Abstract: AIM: Studies have suggested that genetic and environmental factors do not account for all risks and mechanisms of intracranial atherosclerotic stenosis (ICAS). DNA methylation may play a role in the progression of ICAS.
+METHODS: DNA methylation profiles of peripheral blood leucocytes from 7 patients with early-onset ICAS and 7 perfectly matched controls were interrogated for the first time using the Illumina Infinium Human MethylationEPIC BeadChip. Afterward, functional analysis for differentially methylated genes was conducted. In addition, pyrosequencing verification was performed in an independent cohort comprising 21 patients with early-onset ICAS and 21 age- and gender-matched controls.
+RESULTS: A total of 318 cytosine-phosphate-guanine sites were found to be differentially methylated based on the established standards. Functional analysis annotated differentially methylated sites to atherosclerosis-related processes and pathways, such as the negative regulation of hydrolase activity (GO 0051346), type II diabetes mellitus (KEGG hsa04930), and the insulin signaling pathway (KEGG hsa04910). In addition, a differentially methylated site was also validated, cg22443212 in gene Rnf213, which showed significant hypermethylation in patients with early-onset ICAS compared with controls 59.56% (49.77%, 88.55%) vs. 44.65% (25.07%, 53.21%), respectively; P=0.010). Receiver operating characteristic curve analysis showed that the area under the curve value of cg22443212 was 0.744 (95% confidence interval, 0.586-0.866; P=0.002).
+CONCLUSIONS: We revealed that altered DNA methylation may play a role in the occurrence and development of ICAS. These results provided new epigenetic insights into ICAS.
+
+Citation: He XW, et al. DNA Methylation Analysis Identifies Differentially Methylated Sites Associated with Early-Onset Intracranial Atherosclerotic Stenosis. DNA Methylation Analysis Identifies Differentially Methylated Sites Associated with Early-Onset Intracranial Atherosclerotic Stenosis. 2020; 27:71-99. doi: 10.5551/jat.47704
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31142690/

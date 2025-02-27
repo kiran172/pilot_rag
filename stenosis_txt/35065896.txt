@@ -1,0 +1,12 @@
+PMID: 35065896
+Title: Prosthesis Geometrical Predictors of Leaflet Thrombosis Following Transcatheter Aortic Valve Replacement With Intra-Annular Prostheses.
+
+Abstract: OBJECTIVE: To determine the association between prosthesis geometry with leaflet thrombosis (LT).
+BACKGROUND: Leaflet thrombosis following transcatheter aortic valve replacement (TAVR) is a recognised entity. The association between prosthesis geometry with LT is unclear but maybe a potential modifiable factor in its prevention.
+METHODS: Patients who received an intra-annular TAVR prosthesis and were prospectively planned to undergo post-procedural computed tomography (CT) imaging were included. Leaflet thrombosis was defined as at least 50% restricted leaflet motion on CT. Prosthesis expansion and eccentricity was measured at prosthesis inflow, annulus and outflow levels. Prosthesis misalignment was defined as the average angle deviation between native and prosthesis leaflet commissure, greater than 30°.
+RESULTS: Prevalence of LT was 13.7% in 117 patients. None of the patients with LT were on anticoagulation therapy. Patients with LT had reduced prosthesis annular expansion (89.4±5.2% vs 97.0±4.4%, p<0.01), greater prosthesis misalignment (81.3% vs 48.5%, p=0.02) and deeper implants (6.3±1.7 mm vs 4.3±1.5 mm, p<0.01). Threshold for the presence of LT on ROC analysis was an implant depth of 5.7 mm (AUC [area under curve]=0.81). Independent predictors of LT were annular under-expansion (Odds ratio [OR] 1.4, 95% confidence interval [CI] 1.2-1.7, p=0.03) prosthesis misalignment (OR 6.8, 95%CI 1.1-45.5, p=0.04) and implant depth (OR 1.9, 95%CI 1.1-3.2, p=0.03). Anticoagulation therapy was a protective factor (OR 0.2; 95%CI 0.1-0.4, p<0.01).
+CONCLUSION: Geometrical predictors of LT post intra-annular TAVR were reduced prosthesis expansion at the annular level, lower implant depth and greater prosthesis misalignment. These factors may be important considerations during procedural planning for TAVR.
+
+Citation: Rashid HN, et al. Prosthesis Geometrical Predictors of Leaflet Thrombosis Following Transcatheter Aortic Valve Replacement With Intra-Annular Prostheses. Prosthesis Geometrical Predictors of Leaflet Thrombosis Following Transcatheter Aortic Valve Replacement With Intra-Annular Prostheses. 2022; 31:678-684. doi: 10.1016/j.hlc.2021.11.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35065896/

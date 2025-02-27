@@ -1,0 +1,11 @@
+PMID: 32057707
+Title: Peri-coronary inflammation is associated with findings on coronary computed tomography angiography and fractional flow reserve.
+
+Abstract: PURPOSE: Peri-coronary adipose tissue attenuation expressed by fat attenuation index (FAI) on coronary CT angiography (CCTA) reflects peri-coronary inflammation and is associated with cardiac mortality. We aimed to investigate the association between FAI and whole vessel and lesion plaque quantification on CCTA in stable patients with intermediate epicardial stenosis evaluated by fractional flow reserve (FFR).
+METHODS: A total of 187 left anterior descending arteries (LAD) with intermediate stenosis who underwent FFR measurement and CCTA were studied. FAI was assessed by the crude analysis of the mean CT attenuation value of LAD on CCTA. Determinants of FAI and FFR were explored. Furthermore, the impact of combined baseline data, CCTA-derived lesion plaque assessment, whole vessel quantification, cardiac mass and FAI on discrimination efficacy for ischemia was evaluated as FFR used for a reference standard.
+RESULTS: The mean FAI and the median FFR values were -73.0 and 0.77, respectively. Multivariate analysis revealed that male, CCTA-derived positive remodeling, lower minimum lumen area, higher target vessel total cardiac mass, and lower FFR were independent predictors of FAI. CCTA-derived two-dimensional and three-dimensional analysis and FAI were independently and significantly associated with FFR values. Net reclassification index and integrated discrimination improvement index were both significantly improved when FAI was added to the baseline model for lesions with FFR <0.75, but not for FFR≤0.80.
+CONCLUSIONS: FAI was associated with FFR, CCTA-derived two-dimensional and three-dimensional lumen and plaque quantification and cardiac mass in patients with intermediate lesions in LAD, indicating that comprehensive CTA assessment may provide risk-stratification.
+
+Citation: Hoshino M, et al. Peri-coronary inflammation is associated with findings on coronary computed tomography angiography and fractional flow reserve. Peri-coronary inflammation is associated with findings on coronary computed tomography angiography and fractional flow reserve. 2020; 14:483-489. doi: 10.1016/j.jcct.2020.02.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32057707/

@@ -1,0 +1,11 @@
+PMID: 34978769
+Title: Low Serum Calcitonin Gene-Related Peptide Level is Associated with Severity of Coronary Stenosis.
+
+Abstract: PURPOSE: To evaluate the relationship between the serum calcitonin gene-related peptide (CGRP) level and severity of coronary stenosis.
+METHODS: A total of 233 eligible patients who underwent coronary angiography were divided into two groups: a control and a coronary heart disease (CHD) group. The angiographic severity of coronary stenosis was evaluated by SYNTAX and Gensini scores. The incidence of major adverse cardiovascular events within two years was collected.
+RESULTS: A negative correlation between serum CGRP levels and Gensini scores was observed in all patients (r=-0.352, p<0.001), the control group (r=-0.422, p<0.001) and the CHD group (r=-0.393, p<0.001). Serum CGRP levels were negatively associated with SYNTAX scores in the CHD group (r=-0.522, p<0.001). The area under the curve of CGRP for identifying high SYNTAX scores (>22) was 0.772 [95% confidence interval (CI): 0.673-0.870, p<0.001], and for identifying high Gensini scores was 0.744 (95% CI: 0.646-0.842, p<0.001). A CGRP concentration of 25.05 pg/ml was selected as the cutoff point. A low CGRP level (<25.05 pg/ml) was an independent predictor of severe coronary stenosis, a SYNTAX score >22 [odds ratio (OR) =5.819, 95% CI: 2.240-15.116; p<0.001] and a high Gensini score (>64) (OR=4.943, 95% CI: 2.020-12.095; p<0.001). The low CGRP group had a higher incidence of major adverse cardiovascular events within two years (11.1 vs. 3.1%, p=0.031).
+CONCLUSION: In coronary atherosclerosis patients without acute myocardial injury, serum CGRP levels were negatively associated with the severity of coronary stenosis.
+
+Citation: Dong XF, et al. Low Serum Calcitonin Gene-Related Peptide Level is Associated with Severity of Coronary Stenosis. Low Serum Calcitonin Gene-Related Peptide Level is Associated with Severity of Coronary Stenosis. 2021; 44:E23-30. doi: 10.25011/cim.v44i4.37593
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34978769/

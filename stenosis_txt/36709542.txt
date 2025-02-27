@@ -1,0 +1,11 @@
+PMID: 36709542
+Title: Developing Hemodynamic Valve Deterioration and Mortality in Aortic Valve Replacement.
+
+Abstract: BACKGROUND: As life span increases, in patients having a bioprosthetic valve, the development of hemodynamic valve deterioration (HVD) is an important concern. We evaluated the association of developing HVD to survival in patients undergoing surgical aortic valve replacement (SAVR).
+METHODS: The individuals undergoing isolated SAVR and serial echocardiography exams (interval >30 d) were included in this study. HVD was defined as mean pressure gradient ≥ 20 mmHg, mean pressure gradient ≥10 mmHg higher than in the baseline exam, or more than moderate regurgitation on Doppler echocardiography (moderate and severe grade). A time-dependent Cox proportional hazard model was used for this study.
+RESULTS: A total of 631 patients were included. The mean age was 71.8 ± 6.1 y old (female: 53.6%). HVD was found in 259 patients (41%) during echocardiographic follow-up (mean 3.3 ± 3.0 y). Patient-prosthetic mismatch was found in 174 patients. One hundred and twenty-six patients died during follow-up (median 62.1 mo, interquartile range 31.1-96.8). The development of HVD was an independent risk factor for death during follow-up (P = 0.038, hazard ratio 1.46, 95% confidential interval: 1.02-2.08).
+CONCLUSIONS: HVD was common after bioprosthetic SAVR during mid-term follow-up. Developing HVD, including moderate and severe grades, was associated with a poor survival rate compared with patients without HVD.
+
+Citation: Kim HJ, et al. Developing Hemodynamic Valve Deterioration and Mortality in Aortic Valve Replacement. Developing Hemodynamic Valve Deterioration and Mortality in Aortic Valve Replacement. 2023; 285:236-242. doi: 10.1016/j.jss.2022.10.035
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36709542/

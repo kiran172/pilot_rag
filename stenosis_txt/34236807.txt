@@ -1,0 +1,11 @@
+PMID: 34236807
+Title: Evaluation of Left Ventricular Systolic Function in Patients with Coronary Microvascular Dysfunction by Three-Dimensional Speckle-Tracking Imaging.
+
+Abstract: INTRODUCTION: The objective of this study is to evaluate the left ventricular systolic function of patients with coronary microvascular dysfunction (CMD) using the three-dimensional speckle-tracking imaging (3D-STI) technique.
+METHODS: From June 2018 to June 2019,72 subjects from Huzhou Central Hospital were enrolled, including 42 CMD in-patients with typical chest pain or chest tightness and positive treadmill exercise stress test, but without coronary stenosis on coronary angiography, (the CMD group) and another 30 healthy individuals who were undergoing physical examinations in an outpatient clinic (the control group). Using 3D-STI technique, the global longitudinal strain (GLS), global radial strain (GRS), global circumferential strain (GCS), global area strain (GAS), and left ventricle were measured.
+RESULTS: Compared with the control group, GLS and GAS were significantly reduced in the CMD group (P<0.05), while GRS and GCS were similar in both groups (P>0.05). Univariate logistic regression analysis showed that GLS and GAS were the influencing factors of CMD. For the diagnosis of CMD, the area under the receiver operating characteristic (ROC) curve of GLS was 0.883, and the area under the ROC curve of GAS was 0.875. GAS of -29.3% (log-rank test chi-square=34.245, P<0.001) was a strong predictor of major adverse cardiac events.
+CONCLUSION: 3D-STI technique has obvious advantages in the evaluation of the left ventricular systolic function for CMD patients. Moreover, 3D-STI parameters, especially GLS and GAS, can detect the early abnormal changes in the ischaemic myocardium. Being timelier and more sensitive than echocardiography, 3D-STI should be recommended for clinical application.
+
+Citation: Yu Z, et al. Evaluation of Left Ventricular Systolic Function in Patients with Coronary Microvascular Dysfunction by Three-Dimensional Speckle-Tracking Imaging. Evaluation of Left Ventricular Systolic Function in Patients with Coronary Microvascular Dysfunction by Three-Dimensional Speckle-Tracking Imaging. 2022; 37:321-327. doi: 10.21470/1678-9741-2020-0455
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34236807/

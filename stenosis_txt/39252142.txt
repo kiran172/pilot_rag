@@ -1,0 +1,11 @@
+PMID: 39252142
+Title: Outcomes of patients with active cancer after transcatheter aortic valve replacement: an updated meta-analysis.
+
+Abstract: BACKGROUND: Patients with active cancer and aortic stenosis may be under-referred for valve interventions due to concerns over a prohibitive risk. However, whether active cancer impacts outcomes after transcatheter aortic valve replacement (TAVR) remains unknown.
+METHODS: We searched PubMed, Embase, and Cochrane Library in December 2023 for studies comparing the post-TAVR outcomes of patients with versus without active cancer. We pooled odds ratios (OR) and adjusted hazard ratios (aHR) with 95% confidence intervals (CI) applying a random-effects model. Statistical analyses were performed in R version 4.3.2.
+RESULTS: We included nine observational studies analyzing 133,906 patients, of whom 9,792 (7.3%) had active cancer. Compared with patients without cancer, patients with active cancer had higher short- (OR 1.33; 95% CI 1.15-1.55; p < 0.001) and long-term mortality (OR 2.29; 95% CI 1.80-2.91; p < 0.001) rates, not driven by cardiovascular mortality (OR 1.30; 95% CI 0.70-2.40; p = 0.40), and higher major bleeding rates (OR 1.66; 95% CI 1.15-2.42; p = 0.008). The higher mortality rate was sustained in an adjusted analysis (aHR 1.77; 95% CI 1.34-2.35; p < 0.001). There was no significant difference in cardiac, renal, and cerebral complications at a follow-up ranging from 180 days to 10 years.
+CONCLUSION: Patients with active cancer undergoing TAVR had higher non-cardiovascular mortality and bleeding rates, with comparable incidences of other complications. This highlights the need for a shared decision and appropriate patient selection considering cancer type, staging, bleeding risk, and optimal timing for intervention.
+
+Citation: Felix N, et al. Outcomes of patients with active cancer after transcatheter aortic valve replacement: an updated meta-analysis. Outcomes of patients with active cancer after transcatheter aortic valve replacement: an updated meta-analysis. 2024; 10:55. doi: 10.1186/s40959-024-00256-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39252142/

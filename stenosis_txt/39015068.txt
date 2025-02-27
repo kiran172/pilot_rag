@@ -1,0 +1,8 @@
+PMID: 39015068
+Title: Using Machine Learning for Endoscopic Detection of Low-Grade Subglottic Stenosis: A Proof of Principle.
+
+Abstract: The current study trains, tests, and evaluates a deep learning algorithm to detect subglottic stenosis (SGS) on endoscopy. A retrospective review of patients undergoing microlaryngoscopy-bronchoscopy was performed. A pretrained image classifier (Resnet50) was retrained and tested on 159 images of airways taken at the glottis, 106 normal-sized airways, and 122 with SGS. Data augmentation was performed given the small sample size to prevent overfitting. Overall model accuracy was 73.3% (SD: 3.8). Precision and recall for stenosis were 77.3% (SD: 4.0) and 72.7 (SD: 4.0). F1 score for the detection of stenosis was 0.75 (SD: 0.04). Precision and recall for normal-sized images were lower at 69% (SD: 4.35) and 74% (SD: 4), with an F1 score of 0.71 (SD: 0.04). This study demonstrates that an image classification algorithm can identify SGS on endoscopic images. Work is needed to improve diagnostic accuracy for eventual deployment of the algorithm into clinical care.
+
+Citation: Eitan DN, et al. Using Machine Learning for Endoscopic Detection of Low-Grade Subglottic Stenosis: A Proof of Principle. Using Machine Learning for Endoscopic Detection of Low-Grade Subglottic Stenosis: A Proof of Principle. 2024; 171:1254-1256. doi: 10.1002/ohn.901
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39015068/

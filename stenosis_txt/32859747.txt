@@ -1,0 +1,11 @@
+PMID: 32859747
+Title: Arterial wall injury and miRNA expression induced by stent retriever thrombectomy under stenotic conditions in a dog model.
+
+Abstract: BACKGROUND: Acute ischemic stroke can be caused by in situ stenotic vessel occlusion. In the present study, we compared the extent of arterial wall damage and miRNA expression following stent retriever use under normal and stenotic conditions.
+METHODS: The stent retriever procedure was simulated in three dogs by the creation of four stenoses on each side of the common carotid artery (CCA) to allow five stent passages. Device safety was also assessed in normal control models by five passages through both CCAs. Device manipulation-related damage to the arterial walls was evaluated and compared between groups by angiography and pathological analysis. Real-time PCR was used to evaluate the differences in the expression of miRNAs between the two groups.
+RESULTS: Twenty-four stenoses were created in three model dogs, and the mean stenosis rate was 65.58%±18.95%. Angiography revealed greater vasospasm in the stenotic group than in the non-stenotic group (1.17±0.17 vs 0.5±0.23; P=0.04). Pathological examination revealed that SR passage through the stenotic lumen caused higher injury scores (1.63±0.19 vs 0.25±0.09 for the non-stenotic lumen; P<0.001), more endothelial denudation (1.79±0.13 vs 0.58±0.13 for the non-stenotic lumen; P<0.001), and increased thrombus deposition (0.71±0.14 vs 0±0 for the non-stenotic lumen; P<0.001). miR21-3p, miR29-3p, and miR26a were upregulated in stenotic vessels compared with non-stenotic vessels after SR thrombectomy (P<0.001).
+CONCLUSION: In our model dogs, SR thrombectomy resulted in more severe tissue damage to the arterial wall under stenotic conditions than under non-stenotic conditions. The damage may have resulted from upregulation of miR21-3p, miR29-3p, and miR26a expression.
+
+Citation: Deng J, et al. Arterial wall injury and miRNA expression induced by stent retriever thrombectomy under stenotic conditions in a dog model. Arterial wall injury and miRNA expression induced by stent retriever thrombectomy under stenotic conditions in a dog model. 2021; 13:563-567. doi: 10.1136/neurintsurg-2020-016347
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32859747/

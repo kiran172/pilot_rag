@@ -1,0 +1,11 @@
+PMID: 38520082
+Title: A patient-specific circle of Willis blood flow model in predicting outcomes of balloon test occlusion.
+
+Abstract: BACKGROUND AND PURPOSE: Balloon test occlusion (BTO) evaluates cerebral ischemic tolerance before internal carotid artery (ICA) sacrifice but carries risks like dissection and thrombosis. This study introduces a new approach using a patient-specific circle of Willis (COW) blood flow model, based on non-invasive quantitative MR angiography (qMRA) measurements, to predict the outcomes of BTO.
+METHODS: We developed individualized COW blood flow models for 43 patients undergoing BTO. These models simulated blood flow and pressure under normal conditions and with the ICA occlusion. We then compared the model's predictions of blood flow changes due to the simulated ICA occlusion to actual qMRA measurements before the BTO.
+RESULTS: For all 31 BTO failures, the ipsilateral hemisphere showed an average flow decrease of 15 ± 10% (mean ± standard deviation), compared to 3 ± 2% in the contralateral hemisphere. In all 12 BTO passes, these figures were 6 ± 3% and 1 ± 0.8%, respectively. Notably, all BTO passes had less than a 10% reduction in the ipsilateral hemisphere. In contrast, 65% of BTO failures and 67% single-photon emission computed tomography (SPECT) failures exhibited a decrease of 10% or more in the same region.
+CONCLUSION: Blood flow reduction exceeding 10% in the ipsilateral hemisphere during BTO is a strong predictor of failure in both BTO and SPECT. Our patient-specific COW blood flow models, incorporating detailed flow and arterial geometry data, offered valuable insights for predicting BTO outcomes. These models are especially beneficial for situations where conducting BTO or SPECT is clinically impractical.
+
+Citation: Li J, et al. A patient-specific circle of Willis blood flow model in predicting outcomes of balloon test occlusion. A patient-specific circle of Willis blood flow model in predicting outcomes of balloon test occlusion. 2024; 34:438-444. doi: 10.1111/jon.13198
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38520082/

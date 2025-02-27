@@ -1,0 +1,11 @@
+PMID: 35619578
+Title: Prognostic Factors for Tracheal Restenosis after Stent Removal in Patients with Post-Intubation and Post-Tracheostomy Tracheal Stenosis.
+
+Abstract: PURPOSE: Long-term tracheal stent placement can increase the risk of stent-related complications; hence, removal of the stent after stabilization is attempted. However, little evidence has been established regarding the risk factors for tracheal restenosis. We aimed to identify the risk factors for tracheal restenosis in patients with post-intubation tracheal stenosis (PITS) and post-tracheostomy tracheal stenosis (PTTS).
+MATERIALS AND METHODS: We retrospectively analyzed patients with PITS and PTTS between January 2004 and December 2019. Patients were classified into a success or failure group according to treatment outcomes. Patients with successful stent removal were defined as patients who did not require additional intervention after stent removal during the follow-up period. Multiple logistic regression analysis was performed to identify the factors associated with tracheal restenosis.
+RESULTS: Among 269 stented patients, 130 patients who had removed the stent were enrolled in this study. During the follow-up period, 73 (56.2%) patients had a stable clinical course; however, 57 (43.8%) patients had restenosis. The proportion of trauma-induced intubation was higher in the success group than in the failure group (p=0.026), and the median stent length was shorter in the success group (45 mm) than in the failure group (50 mm, p=0.001). On multivariate analysis, trauma-induced intubation [adjusted odds ratio (aOR), 0.329; 95% confidence interval (CI), 0.117-0.927; p=0.036], and stent length &lt;50 mm (aOR, 0.274; 95% CI, 0.130-0.578; p=0.001) were associated with a decreased risk of restenosis.
+CONCLUSION: Trauma-induced intubation and stent length were associated with successful stent removal.
+
+Citation: Lee D, et al. Prognostic Factors for Tracheal Restenosis after Stent Removal in Patients with Post-Intubation and Post-Tracheostomy Tracheal Stenosis. Prognostic Factors for Tracheal Restenosis after Stent Removal in Patients with Post-Intubation and Post-Tracheostomy Tracheal Stenosis. 2022; 63:545-553. doi: 10.3349/ymj.2022.63.6.545
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35619578/

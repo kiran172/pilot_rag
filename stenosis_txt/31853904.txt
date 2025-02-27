@@ -1,0 +1,10 @@
+PMID: 31853904
+Title: Numerical Simulation of Magnetic Drug Targeting to the Stenosis Vessel Using Fe<sub>3</sub>O<sub>4</sub> Magnetic Nanoparticles Under the Effect of Magnetic Field of Wire.
+
+Abstract: PURPOSE: In the present paper, the magnetic drug targeting using drug coated Fe<sub>3</sub>O<sub>4</sub> nanoparticles to the stenosis region of the vessel was investigated. The problem was solved for various magnetic numbers. Moreover, the effect of the location of the wire, as a magnetic source, on the MDT was studied.
+METHODS: The governing equations of continuity, momentum and volume fraction were solved by taking into account the effects of kelvin force and magnetophoresis. Finite volume method is used for discretization of unsteady two-phase flow equations.
+RESULTS: In low magnetic numbers, the most important phenomenon is the gradual formation of drug droplet on the location of the wire. The drug drop holds the drug near the target tissue for a long time and has a positive role in the MDT as a source of drug over time. Also, in high magnetic numbers, the amount of drug in the tissue is also high at the time of the formation of the droplet. However, the number of vortices formed in the flow increases, and this leads to get the target further away from the tissue. Two main phenomena of drug droplet formation and vortices generation were observed as positive and negative factors in MDT, respectively. The results showed that in a specific magnetic number, the MDT function could be optimal. If the wire is located in the upstream region of the stenosis, it will have a small positive effect on the concentration of the drug in the target tissue.
+
+Citation: Badfar H, et al. Numerical Simulation of Magnetic Drug Targeting to the Stenosis Vessel Using Fe<sub>3</sub>O<sub>4</sub> Magnetic Nanoparticles Under the Effect of Magnetic Field of Wire. Numerical Simulation of Magnetic Drug Targeting to the Stenosis Vessel Using Fe<sub>3</sub>O<sub>4</sub> Magnetic Nanoparticles Under the Effect of Magnetic Field of Wire. 2020; 11:162-175. doi: 10.1007/s13239-019-00446-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31853904/

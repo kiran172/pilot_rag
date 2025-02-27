@@ -1,0 +1,10 @@
+PMID: 34815069
+Title: Risk of myocardial infarction based on endothelial shear stress analysis using coronary angiography.
+
+Abstract: BACKGROUND AND AIMS: Wall shear stress (WSS) has been associated with atherogenesis and plaque progression. The present study assessed the value of WSS analysis derived from conventional coronary angiography to detect lesions culprit for future myocardial infarction (MI).
+METHODS AND RESULTS: Three-dimensional quantitative coronary angiography (3DQCA), was used to calculate WSS and pressure drop in 80 patients. WSS descriptors were compared between 80 lesions culprit of future MI and 108 non-culprit lesions (controls). Endothelium-blood flow interaction was assessed by computational fluid dynamics (10.8 ± 1.41 min per vessel). Median time between baseline angiography and MI was 25.9 (21.9-29.8) months. Mean patient age was 70.3 ± 12.7. Clinical presentation was STEMI in 35% and NSTEMI in 65%. Culprit lesions showed higher percent area stenosis (%AS), translesional vFFR difference (ΔvFFR), time-averaged WSS (TAWSS) and topological shear variation index (TSVI) compared to non-culprit lesions (p < 0.05 for all). TSVI was superior to TAWSS in predicting MI (AUC-TSVI = 0.77, 95%CI 0.71-0.84 vs. AUC-TAWSS = 0.61, 95%CI 0.53-0.69, p < 0.001). The addition of TSVI increased predictive and reclassification abilities compared to a model based on %AS and ΔvFFR (NRI = 1.04, p < 0.001, IDI = 0.22, p < 0.001).
+CONCLUSIONS: A 3DQCA-based WSS analysis was feasible and can identify lesions culprit for future MI. The combination of area stenoses, pressure gradients and WSS predicted the occurrence of MI. TSVI, a novel WSS descriptor, showed strong predictive capacity to detect lesions prone to cause MI.
+
+Citation: Candreva A, et al. Risk of myocardial infarction based on endothelial shear stress analysis using coronary angiography. Risk of myocardial infarction based on endothelial shear stress analysis using coronary angiography. 2022; 342:28-35. doi: 10.1016/j.atherosclerosis.2021.11.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34815069/

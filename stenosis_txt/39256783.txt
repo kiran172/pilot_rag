@@ -1,0 +1,11 @@
+PMID: 39256783
+Title: Carotid artery vascular stenosis causes the blood-CSF barrier damage and neuroinflammation.
+
+Abstract: BACKGROUND: The choroid plexus (ChP) helps maintain the homeostasis of the brain by forming the blood-CSF barrier via tight junctions (TJ) at the choroid plexus epithelial cells, and subsequently preventing neuroinflammation by restricting immune cells infiltration into the central nervous system. However, whether chronic cerebral hypoperfusion causes ChP structural damage and blood-CSF barrier impairment remains understudied.
+METHODS: The bilateral carotid stenosis (BCAS) model in adult male C57BL/6 J mice was used to induce cerebral hypoperfusion, a model for vascular contributions to cognitive impairment and dementia (VCID). BCAS-mediated changes of the blood-CSF barrier TJ proteins, apical secretory Na+-K+-Cl- cotransporter isoform 1 (NKCC1) protein and regulatory serine-threonine kinases SPAK, and brain infiltration of myeloid-derived immune cells were assessed.
+RESULTS: BCAS triggered dynamic changes of TJ proteins (claudin 1, claudin 5) accompanied with stimulation of SPAK-NKCC1 complex and NF-κB in the ChP epithelial cells. These changes impacted the integrity of the blood-CSF barrier, as evidenced by ChP infiltration of macrophages/microglia, neutrophils and T cells. Importantly, pharmacological blockade of SPAK with its potent inhibitor ZT1a in BCAS mice attenuated brain immune cell infiltration and improved cognitive neurological function.
+CONCLUSIONS: BCAS causes chronic ChP blood-CSF damage and immune cell infiltration. Our study sheds light on the SPAK-NKCC1 complex as a therapeutic target in neuroinflammation.
+
+Citation: Lin L, et al. Carotid artery vascular stenosis causes the blood-CSF barrier damage and neuroinflammation. Carotid artery vascular stenosis causes the blood-CSF barrier damage and neuroinflammation. 2024; 21:220. doi: 10.1186/s12974-024-03209-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39256783/

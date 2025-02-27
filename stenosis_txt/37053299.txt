@@ -1,0 +1,11 @@
+PMID: 37053299
+Title: A meta-analysis of the relationship between circulating microRNA-155 and coronary artery disease.
+
+Abstract: OBJECTIVE: Coronary artery disease (CAD) is a leading cause of death worldwide. Many studies in China and abroad have reported an association between the expression level of microRNA-155 and CAD; however, the results remain controversial. We aimed to comprehensively investigate this association based on a meta-analysis.
+METHODS: We first systematically searched eight Chinese and English databases, including China National Knowledge Infrastructure, Wanfang, China Science and Technology Journal Database, PubMed, Web of Science, Embase, Google Scholar, and Cochrane Library, to identify studies concerning the relationship between microRNA-155 levels and CAD published before February 7, 2021. The quality of the literature was assessed by the Newcastle-Ottawa Scale (NOS). Meta-analysis was performed using a random-effects model to calculate the standard mean difference with a 95% confidence interval (CI).
+RESULTS: Sixteen articles with a total of 2069 patients with CAD and 1338 controls were included. All the articles were of high quality according to the NOS. The meta-analysis showed that the mean level of microRNA-155 was significantly lower in patients with CAD than in controls. Based on subgroup analyses, the level of microRNA-155 in the plasma of CAD patients and in acute myocardial infarction (AMI) patients was significantly lower than that in controls, whereas this level in CAD patients with mild stenosis was significantly higher than that in controls.
+CONCLUSION: Our study indicates that the expression level of circulating microRNA-155 in patients with CAD is lower than that in a non-CAD group, suggesting a new possible reference index for the diagnosis and monitoring of patients with CAD.
+
+Citation: Ran T, et al. A meta-analysis of the relationship between circulating microRNA-155 and coronary artery disease. A meta-analysis of the relationship between circulating microRNA-155 and coronary artery disease. 2023; 18:e0274277. doi: 10.1371/journal.pone.0274277
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37053299/

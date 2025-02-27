@@ -1,0 +1,11 @@
+PMID: 35483270
+Title: Haemodynamic analysis using multiphase flow dynamics in tubular lesions.
+
+Abstract: BACKGROUND AND OBJECTIVE: The role of red blood cell dynamics is emphasised in certain cardiovascular diseases, and thus needs to be closely studied. A multiphase model of blood flow allows the resolution of locally varying density of red blood cells within a complex vessel geometrical domain, and haemodynamic consequences of such build up.
+METHODS: A novel computational fluid dynamics solver for simulating multiphase flows is used for modelling blood flow using level set for a sharp interface representation. Single-phase simulations and reduced order models are used for pressure comparisons. The new solver is used for numerically studying AHA type B lesions. The impact of hematocrit and degree of stenosis on the haemodynamics of coronary arteries is investigated.
+RESULTS: The comparisons with single-phase flow simulations indicate differences in pressure when considering red blood cell aggregation. Multiphase simulations provide slightly lower pressure drop for the same stenosis severity compared to the single-phase simulations. Secondary flow patterns and the interactions between the two phases leads to the red blood cell aggregation at the end of the diastole cycle, which significantly changes the red blood cell distribution, the shear stresses and velocity in tubular lesions.
+CONCLUSIONS: Neither pressure drop nor mean velocity are not strongly changed in the multiphase modelling, but particle buildup significantly changes which is only revealed by the multiphase approach.
+
+Citation: Lyras KG and Lee J. Haemodynamic analysis using multiphase flow dynamics in tubular lesions. Haemodynamic analysis using multiphase flow dynamics in tubular lesions. 2022; 220:106780. doi: 10.1016/j.cmpb.2022.106780
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35483270/

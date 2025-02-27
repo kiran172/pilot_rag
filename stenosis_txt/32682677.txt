@@ -1,0 +1,12 @@
+PMID: 32682677
+Title: Validation of Administrative Claims to Ascertain Outcomes in Pivotal Trials of Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVES: The aim of this study was to evaluate the performance of administrative claims in ascertaining trial clinical events committee-adjudicated outcomes in the U.S. CoreValve studies.
+BACKGROUND: Real-world data offer tremendous opportunity to improve outcome ascertainment in clinical trials. However, little is known about the validity of outcomes ascertained using real-world data to capture trial endpoints.
+METHODS: Patients enrolled in 3 pivotal trials and 2 pre-market continued-access studies evaluating transcatheter aortic valve replacement were linked to Medicare fee-for-service inpatient claims. The sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and kappa agreement statistic of claims to detect clinical endpoints and procedural complications in trial patients were calculated.
+RESULTS: Claims accurately identified trial-adjudicated deaths (sensitivity, specificity, PPV, and NPV all >99.6%; kappa 1.00). Claims had good performance in identifying trial-adjudicated permanent pacemaker implantation (sensitivity 92.2%, specificity 99.1%, PPV 96.1%, NPV 98.2%, kappa 0.93) and aortic valve reintervention (sensitivity 84.4%, specificity 99.6%, PPV 69.1%, NPV 99.8%, kappa 0.76). Claims had more modest performance in ascertaining trial-adjudicated myocardial infarction (sensitivity 63.6%, specificity 97.2%, PPV 29.9%, NPV 99.3%, kappa 0.39) and acute kidney injury (sensitivity 70.2%, specificity 85.4%, PPV 38.2%, NPV 95.7%, kappa 0.41) and the poorest performance for identifying trial-adjudicated bleeding events (sensitivity 86.4%, specificity 36.8%, PPV 35.0%, NPV 86.3%, kappa 0.16).
+CONCLUSIONS: Compared with trial-adjudicated outcomes, claims data performed well in ascertaining death and outcomes with procedural billing codes and more modestly in identifying other outcomes. Claims may be cautiously and selectively used to augment data collection in future cardiovascular device trials.
+
+Citation: Butala NM, et al. Validation of Administrative Claims to Ascertain Outcomes in Pivotal Trials of Transcatheter Aortic Valve Replacement. Validation of Administrative Claims to Ascertain Outcomes in Pivotal Trials of Transcatheter Aortic Valve Replacement. 2020; 13:1777-1785. doi: 10.1016/j.jcin.2020.03.049
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32682677/

@@ -1,0 +1,11 @@
+PMID: 32418731
+Title: Incretin-based drugs and intestinal obstruction: A pharmacovigilance study.
+
+Abstract: AIMS: To investigate the risk of intestinal obstruction associated with incretin-based drugs by performing a disproportionality analysis of adverse reaction reports in a global pharmacovigilance database.
+METHODS: We conducted a case/non-case analysis using VigiBase, the World Health Organization's adverse drug reactions (ADR) database, to assess intestinal obstruction reporting associated with incretin-based drugs (glucagon-like peptide 1 analogues [GLP-1a] and dipeptidyl peptidase 4 inhibitors [DPP-4i]. Cases were defined as reports of gastrointestinal stenosis and obstruction (MedDRA High Level Group Term) and non-cases were all other reactions recorded. Disproportionality analysis were performed by computing reporting odds ratios (ROR) with their 95% confidence interval (95%CI) within all ADR reports concerning diabetes drugs from January 2007 to January 2018 and in a restricted sample including only serious reports.
+RESULTS: A total of 501,244 ADR with diabetes drugs were reported in VigiBase during the study period. We identified 452 intestinal obstructions involving an incretin-based drug. In disproportionality analyses, intestinal obstructions were more than 4.5 times more frequently reported with incretin-based drugs than with other diabetes drugs (ROR 4.52, 95% CI: 3.87-5.28) with a higher signal for serious cases and for DPP-4i (ROR 8.66, 95% CI: 7.27-10.32) compared to GLP-1a (ROR 3.05, 95% CI: 2.54-3.66).
+CONCLUSIONS: We identified a pharmacovigilance signal that suggests a risk of potentially serious intestinal obstruction associated with incretin-based drugs, as a class and with a greater signal for DPP4-i. Other studies are needed to confirm and better understand the potential risk of intestinal obstruction associated with incretin-based drugs.
+
+Citation: Gudin B, et al. Incretin-based drugs and intestinal obstruction: A pharmacovigilance study. Incretin-based drugs and intestinal obstruction: A pharmacovigilance study. 2020; 75:641-647. doi: 10.1016/j.therap.2020.02.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32418731/

@@ -1,0 +1,12 @@
+PMID: 37879489
+Title: Cardiac Reoperation or Transcatheter Mitral Valve Replacement for Patients With Failed Mitral Prostheses.
+
+Abstract: BACKGROUND: Evidence is limited regarding patient outcomes comparing redo surgical mitral valve replacement (redo SMVR) vs transcatheter mitral valve replacement (TMVR) for failed prostheses.
+OBJECTIVES: The goal of this study was to compare the outcomes of redo SMVR vs TMVR in patients with failed prostheses, as well as evaluate the association between case volume and outcomes.
+METHODS: Medicare beneficiaries aged ≥65 years who underwent redo SMVR or TMVR for failed mitral prostheses between 2016 and 2020 were included. The primary endpoint was mid-term (up to 3 years) major adverse cardiovascular events (MACE), including all-cause death, heart failure rehospitalization, stroke, or reintervention. Propensity score-matched analysis was used.
+RESULTS: A total of 4,293 patients were included (redo SMVR: 64%; TMVR: 36%). TMVR recipients were older, with a higher comorbidity burden. In matched cohort (n = 1,317 in each group), mid-term risk of MACE was similar (adjusted HR: 0.92; 95% CI: 0.80-1.04; P = 0.2). However, landmark analysis revealed a lower risk of MACE with TMVR in the first 6 months (adjusted HR: 0.75; 95% CI: 0.63-0.88; P < 0.001) albeit with a higher risk beyond 6 months (adjusted HR: 1.28; 95% CI: 1.04-1.58; P = 0.02). Increasing procedural volume was associated with decreased risk of mid-term MACE after redo SMVR (P = 0.001) but not after TMVR (P = 0.3).
+CONCLUSIONS: In this large cohort of Medicare beneficiaries with failed mitral prostheses, outcomes were similar between redo SMVR and TMVR at 3 years, with TMVR showing a lower initial risk but a higher risk of MACE after 6 months. These findings highlight the importance of striking a balance between surgical risk, anticipated longevity, and hospital expertise when selecting interventions.
+
+Citation: Ueyama HA, et al. Cardiac Reoperation or Transcatheter Mitral Valve Replacement for Patients With Failed Mitral Prostheses. Cardiac Reoperation or Transcatheter Mitral Valve Replacement for Patients With Failed Mitral Prostheses. 2024; 83:317-330. doi: 10.1016/j.jacc.2023.10.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37879489/

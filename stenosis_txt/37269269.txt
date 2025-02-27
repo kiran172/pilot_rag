@@ -1,0 +1,12 @@
+PMID: 37269269
+Title: Stress-Related Neural Activity Associates With Coronary Plaque Vulnerability and Subsequent Cardiovascular Events.
+
+Abstract: BACKGROUND: Stress-related neural activity (SNA) assessed by amygdalar activity can predict cardiovascular events. However, its mechanistic linkage with plaque vulnerability is not fully elucidated.
+OBJECTIVES: The authors aimed to investigate the association of SNA with coronary plaque morphologic and inflammatory features as well as their ability in predicting major adverse cardiovascular events (MACE).
+METHODS: A total of 299 patients with coronary artery disease (CAD) and without cancer underwent 18F-fluorodexoyglucose positron emission tomography/computed tomography (PET/CT) and available coronary computed tomographic angiography (CCTA) between January 1, 2013, and December 31, 2020. SNA and bone-marrow activity (BMA) were assessed with validated methods. Coronary inflammation (fat attenuation index [FAI]) and high-risk plaque (HRP) characteristics were assessed by CCTA. Relations between these features were analyzed. Relations between SNA and MACE were assessed with Cox models, log-rank tests, and mediation (path) analyses.
+RESULTS: SNA was significant correlated with BMA (r = 0.39; P < 0.001) and FAI (r = 0.49; P < 0.001). Patients with heightened SNA are more likely to have HRP (40.7% vs 23.5%; P = 0.002) and increase risk of MACE (17.2% vs 5.1%, adjusted HR 3.22; 95% CI: 1.31-7.93; P = 0.011). Mediation analysis suggested that higher SNA associates with MACE via a serial mechanism involving BMA, FAI, and HRP.
+CONCLUSIONS: SNA is significantly correlated with FAI and HRP in patients with CAD. Furthermore, such neural activity was associated with MACE, which was mediated in part by leukopoietic activity in the bone marrow, coronary inflammation, and plaque vulnerability.
+
+Citation: Dai N, et al. Stress-Related Neural Activity Associates With Coronary Plaque Vulnerability and Subsequent Cardiovascular Events. Stress-Related Neural Activity Associates With Coronary Plaque Vulnerability and Subsequent Cardiovascular Events. 2023; 16:1404-1415. doi: 10.1016/j.jcmg.2023.04.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37269269/

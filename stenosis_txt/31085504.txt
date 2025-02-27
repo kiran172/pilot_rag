@@ -1,0 +1,10 @@
+PMID: 31085504
+Title: Validation of a three-dimensional quantitative coronary angiography-based software to calculate fractional flow reserve: the FAST study.
+
+Abstract: AIMS: The aim of this study was to validate novel software to calculate vessel fractional flow reserve (vFFR) based on 3D-QCA and to assess inter-observer variability in patients who underwent routine preprocedural FFR assessment for intermediate coronary artery stenosis.
+METHODS AND RESULTS: In vitro validation was performed in an experimental model. Clinical validation was performed in an observational, retrospective, single-centre cohort study. A total of 100 patients presenting with stable angina or non-ST-segment elevation myocardial infarction and an indication to perform FFR between January 2016 and October 2016 were included. vFFR was calculated based on the aortic root pressure along with two angiographic projections and validated against pressure wire-derived FFR. Mean FFR and vFFR were 0.82±0.08 and 0.84±0.07, respectively. A good linear correlation was found between FFR and vFFR (r=0.89; p<0.001). Assessment of vFFR had a low inter-observer variability (r=0.95; p<0.001). The diagnostic accuracy of vFFR in identifying lesions with an FFR ≤0.80 was higher as compared with 3D-QCA: AUC 0.93 (95% CI: 0.88-0.97) vs 0.66 (95% CI: 0.55-0.77), respectively.
+CONCLUSIONS: The 3D-QCA-derived vFFR has a high linear correlation to invasively measured FFR, a high diagnostic accuracy to detect FFR ≤0.80 and a low inter-observer variability.
+
+Citation: Masdjedi K, et al. Validation of a three-dimensional quantitative coronary angiography-based software to calculate fractional flow reserve: the FAST study. Validation of a three-dimensional quantitative coronary angiography-based software to calculate fractional flow reserve: the FAST study. 2020; 16:591-599. doi: 10.4244/EIJ-D-19-00466
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31085504/

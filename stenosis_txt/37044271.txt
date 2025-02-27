@@ -1,0 +1,8 @@
+PMID: 37044271
+Title: Transapical TAVI: Survival, Hemodynamics, Devices and Machine Learning. Lessons Learned After 10-Year Experience.
+
+Abstract: Aim of this single-center, retrospective study was to assess early and long-term clinical and hemodynamic results of transapical aortic valve implantation (TA-TAVI), and to identify predictors of survival at follow-up. All patients undergoing TA-TAVI for severe aortic valve stenosis at our institution were reviewed. A hybrid approach based on machine-learning techniques was employed to identify survival predictors, using a bagging-decision-tree algorithm and a Random-Forest algorithm, respectively. Two-hundred-thirty-four consecutive patients underwent TA-TAVI (March 2009-May 2019). All cause 30-day mortality was 5.1%. Device success was 95.7%. Median follow-up time was 35.2 months. Kaplan-Meier overall survival rates at 2, 5, and 8 years were 75%, 44%, and 15%, respectively. Structural-valve-deterioration occurred in 25 patients (11.3%) overall. The strongest predictors of survival at follow-up were age, body-mass-index, and ejection fraction. TA-TAVI provided valid early and long-term outcomes. These data support its choice as an optimal alternative access whenever the transfemoral route is not feasible.
+
+Citation: D'Onofrio A, et al. Transapical TAVI: Survival, Hemodynamics, Devices and Machine Learning. Lessons Learned After 10-Year Experience. Transapical TAVI: Survival, Hemodynamics, Devices and Machine Learning. Lessons Learned After 10-Year Experience. 2023; 48:101734. doi: 10.1016/j.cpcardiol.2023.101734
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37044271/

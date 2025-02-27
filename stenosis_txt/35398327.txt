@@ -1,0 +1,11 @@
+PMID: 35398327
+Title: The Relationship Between Wild-Type Transthyretin Amyloid Load and Ligamentum Flavum Thickness in Lumbar Stenosis Patients.
+
+Abstract: BACKGROUND: One key contributor to lumbar stenosis is thickening of the ligamentum flavum (LF), a process still poorly understood. Wild-type transthyretin amyloid (ATTRwt) has been found in the LF of patients undergoing decompression surgery, suggesting that amyloid may play a role. However, it is unclear whether within patients harboring ATTRwt, the amount of amyloid is associated with LF thickness.
+METHODS: From an initial cohort of 324 consecutive lumbar stenosis patients whose LF specimens from decompression surgery were sent for analysis (2018-2019), 33 patients met the following criteria: 1) Congo red-positive amyloid in the LF, 2) ATTRwt by mass spectrometry-based proteomics, and 3) an available preoperative magnetic resonance imaging. Histological specimens were digitized, and amyloid load was quantified through Trainable Weka Segmentation machine learning. LF thicknesses were manually measured on axial T2-weighted preoperative magnetic resonance imaging scans at each lumbar level, L1-S1. The sum of thicknesses at every lumbar LF level (L1-S1) equals "lumbar LF burden".
+RESULTS: Patients had a mean age of 72.7 years (range = 59-87), were mostly male (61%) and white (82%), and predominantly had surgery at L4-L5 levels (73%). Amyloid load was positively correlated with LF thickness (R = 0.345, P = 0.0492) at the levels of surgical decompression. Furthermore, amyloid load was positively correlated with lumbar LF burden (R = 0.383, P = 0.0279).
+CONCLUSIONS: Amyloid load is positively correlated with LF thickness and lumbar LF burden across all lumbar levels, in a dose-dependent manner. Further studies are needed to validate these findings, uncover the underlying pathophysiology, and pave the way toward using therapies that slow LF thickening.
+
+Citation: Wang AY, et al. The Relationship Between Wild-Type Transthyretin Amyloid Load and Ligamentum Flavum Thickness in Lumbar Stenosis Patients. The Relationship Between Wild-Type Transthyretin Amyloid Load and Ligamentum Flavum Thickness in Lumbar Stenosis Patients. 2022; 164:e113-e118. doi: 10.1016/j.wneu.2022.04.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35398327/

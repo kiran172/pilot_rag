@@ -1,0 +1,13 @@
+PMID: 36622552
+Title: Cost-Effectiveness of SAPIEN 3 Transcatheter Aortic Valve Implantation Versus Surgical Aortic Valve Replacement in German Severe Aortic Stenosis Patients at Low Surgical Mortality Risk.
+
+Abstract: INTRODUCTION: In the randomized PARTNER 3 trial, transcatheter aortic valve implantation (TAVI) with the SAPIEN 3 device significantly reduced a composite of all-cause death, stroke, and rehospitalization, compared with surgical aortic valve replacement (SAVR), in patients with severe symptomatic aortic stenosis and low risk of surgical mortality. Furthermore, TAVI has been shown to be cost-effective in low-risk patients, compared with SAVR, in a number of countries. This study aimed to determine the cost-effectiveness of TAVI with SAPIEN 3 versus SAVR in Germany.
+METHODS: A previously published two-stage Markov-based model that captured clinical outcomes from the PARTNER 3 trial was adapted for the German context using the German Statutory Health Insurance perspective. The model had a lifetime horizon. The cost-utility analysis estimated changes in direct healthcare costs as well as survival and health-related quality of life using TAVI with SAPIEN 3 compared with SAVR.
+RESULTS: TAVI with SAPIEN 3 increased quality-adjusted life years (QALYs) by + 0.72 at an increased cost of €8664 per patient. The incremental cost-effectiveness/QALY ratio was €12,037, which fell below that of other cardiovascular interventions in use in Germany. The cost-effectiveness of TAVI over SAVR remained robust across multiple challenging scenarios and was driven by lower longer-term management costs compared with SAVR.
+CONCLUSIONS: TAVI with SAPIEN 3 appears to be a clinically meaningful, cost-effective treatment option over SAVR for patients with severe symptomatic aortic stenosis and low risk for surgical mortality in Germany.
+CLINICAL TRIAL REGISTRATION NUMBER: www.
+CLINICALTRIALS: gov identifier: NCT02675114.
+
+Citation: Kuck KH, et al. Cost-Effectiveness of SAPIEN 3 Transcatheter Aortic Valve Implantation Versus Surgical Aortic Valve Replacement in German Severe Aortic Stenosis Patients at Low Surgical Mortality Risk. Cost-Effectiveness of SAPIEN 3 Transcatheter Aortic Valve Implantation Versus Surgical Aortic Valve Replacement in German Severe Aortic Stenosis Patients at Low Surgical Mortality Risk. 2023; 40:1031-1046. doi: 10.1007/s12325-022-02392-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36622552/

@@ -1,0 +1,11 @@
+PMID: 35504804
+Title: MiR-21 regulates epithelial-mesenchymal transition in intestinal fibrosis of Crohn's disease by targeting PTEN/mTOR.
+
+Abstract: BACKGROUND: Previous studies suggested miR-21 regulated epithelial-mesenchymal transition (EMT) and fibrosis in organs. The aim of this study was to explore the role and mechanism of miR-21 in EMT process of CD(Crohn's disease)-associated intestinal fibrosis.
+METHODS: Tissue biopsies from fibrotic and nonfibrotic intestine of CD patients, and non-CD patients were obtained; chronic intestinal fibrosis model established by TNBS was treated with antagonist of miR-21; human intestinal epithelial cell, NCM460, were transfected with miR-21 mimics or inhibitor. The expressions of PTEN and mTOR, EMT-related markers and severity of colitis and fibrosis were examined.
+RESULTS: Compared to the controls, miR-21 was significantly upregulated in the intestinal tissues from CD patients with fibro stenosis, followed by decreased PTEN expression, increased EMT markers, and mTOR expression, and imbalanced ratio of MMP9(matrix metalloproteinase 9)/TIMP1(tissue inhibitor of metalloproteinase 1). MiR-21 downregulated the expression of PTEN and upregulated mTOR signal in NCM460 cell. Also, knocking miR-21 down reduced EMT in vitro. Inhibiting miR-21 with antagonists reversed TNBS-induced intestinal fibrosis in vivo, through suppressing EMT and balancing MMPs/TIMPs.
+CONCLUSION: We identified the involvement of miR-21 in EMT during intestinal fibrosis via targeting PTEN and mTOR, and miR-21 inhibition relieved intestinal fibrosis by regulating extracellular matrix (ECM) remodeling . Our results indicated miR-21 as a potential new target for the treatment of fibrosis complication in CD.
+
+Citation: Wang Z, et al. MiR-21 regulates epithelial-mesenchymal transition in intestinal fibrosis of Crohn's disease by targeting PTEN/mTOR. MiR-21 regulates epithelial-mesenchymal transition in intestinal fibrosis of Crohn's disease by targeting PTEN/mTOR. 2022; 54:1358-1366. doi: 10.1016/j.dld.2022.04.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35504804/

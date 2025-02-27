@@ -1,0 +1,11 @@
+PMID: 38032058
+Title: Diagnostic separation of conventional ⩾50% carotid stenosis and near-occlusion with phase-contrast MRI.
+
+Abstract: INTRODUCTION: The aim of this study was to assess sensitivity, specificity and interrater reliability of phase-contrast MRI (PC-MRI) for diagnosing carotid near-occlusion.
+PATIENTS AND METHODS: Prospective cross-sectional study conducted between 2018 and 2021. We included participants with suspected 50%-100% carotid stenosis on at least one side, all were examined with CT angiography (CTA) and PC-MRI and both ICAs were analyzed. Degree of stenosis on CTA was the reference test. PC-MRI-based blood flow rates in extracranial ICA and intracranial cerebral arteries were assessed. ICA-cerebral blood flow (CBF) ratio was defined as ICA divided by sum of both ICAs and Basilar artery.
+RESULTS: We included 136 participants. The ICAs were 102 < 50% stenosis, 88 conventional ⩾50% stenosis (31 with ⩾70%), 49 near-occlusion, 12 occlusions, 20 unclear cause of small distal ICA on CTA and one excluded. For separation of near-occlusion and conventional stenoses, ICA flow rate and ICA-CBF ratio had the highest area under the curve (AUC; 0.98-0.99) for near-occlusion. ICA-CBF ratio ⩽0.225 was 90% (45/49) sensitive and 99% (188/190) specific for near-occlusion. Inter-rater reliability for this threshold was excellent (kappa 0.98). Specificity was 94% (29/31) for cases with ⩾70% stenosis. PC-MRI had modest performance for separating <50% and conventional ⩾50% stenosis (highest AUC 0.74), and eight (16%) of near-occlusions were not distinguishable from occlusion (no visible flow).
+CONCLUSION: ICA-CBF ratio ⩽0.225 on PC-MRI is an accurate and reliable method to separate conventional ⩾50% stenosis and near-occlusion that is feasible for routine use. PC-MRI should be considered further as a potential standard method for near-occlusion detection, to be used side-by-side with established modalities as PC-MRI cannot separate other degrees of stenosis.
+
+Citation: Holmgren M, et al. Diagnostic separation of conventional ⩾50% carotid stenosis and near-occlusion with phase-contrast MRI. Diagnostic separation of conventional ⩾50% carotid stenosis and near-occlusion with phase-contrast MRI. 2024; 9:135-143. doi: 10.1177/23969873231215634
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38032058/

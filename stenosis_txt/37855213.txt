@@ -1,0 +1,11 @@
+PMID: 37855213
+Title: Resting echocardiographic parameters can exclude significant coronary artery disease: A comparison with coronary computed tomography angiography.
+
+Abstract: INTRODUCTION: Coronary computed tomography angiography (CCTA) is known to have a high negative predictive value (NPV) in identifying coronary artery disease (CAD). This study aimed to examine whether resting echocardiographic parameters could exclude significant CAD on CCTA.
+METHODS: We recruited 142 patients who had undergone both CCTA and echocardiography within a 3-month window. Based on the CCTA findings, patients were divided into two groups: Group A (non-significant CAD, defined as all coronary segments having <50% stenosis) and Group B (significant CAD). Resting echocardiographic parameters were compared between the two groups to identify predictors of non-significant CAD on CCTA.
+RESULTS: A total 92 patients (mean age, 68 ± 13 years; males, 62%) were eligible for this study; 50 in Group A and 42 in Group B. Among the various echo parameters, left atrial volume index (LAVI) and left ventricular (LV) global longitudinal strain (GLS) were significantly lower in Group A (23.5 ± 7.6 vs. 33.6 ± 7.4 mL/m2 , p &lt; .001; -20.2 ± 1.8% vs. -16.8 ± 2.0%, p &lt; .001, respectively). Analysis of the receiver operating characteristic curve revealed that the cutoff value to exclude significant CAD on CCTA was 29.0 mL/m2 for LAVI (NPV 80.8%) and -18.1% for GLS (NPV 80.7%). The NPV increased to 95.0% when these parameters were combined (LAVI &lt; 29.0 mL/m2 and GLS &lt; -18.1%).
+CONCLUSION: The combination of resting LAVI and GLS was clinically useful in excluding significant CAD via CCTA.
+
+Citation: Jinno S, et al. Resting echocardiographic parameters can exclude significant coronary artery disease: A comparison with coronary computed tomography angiography. Resting echocardiographic parameters can exclude significant coronary artery disease: A comparison with coronary computed tomography angiography. 2023; 40:1251-1258. doi: 10.1111/echo.15705
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37855213/

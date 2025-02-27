@@ -1,0 +1,11 @@
+PMID: 34024748
+Title: Efficacy and Safety of Intravascular Lithotripsy in Calcified Coronary Lesions: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: Intravascular lithotripsy (IVL) is a recently introduced therapeutic modality in the management of calcified coronary lesions (CCAD). IVL delivers sonic pressure waves to modulate calcium, hence promote vessel compliance and optimize stent deployment.
+METHODS: We performed a comprehensive literature search for studies that evaluated the utility of adjunctive IVL. The primary outcomes of our study were the clinical success, defined as the ability of IVL to produce residual diameter stenosis <50% (RDS < 50%) after stenting with no evidence of in-hospital major adverse cardiac events, and the angiographic success, defined as success in facilitating stent delivery with RDS < 50% and without serious angiographic complications. The secondary outcomes included post-IVL and post-stenting changes in lumen area, calcium angle, and the maximum calcium thickness. Proportional analysis was used for binary data and mean difference was used for continuous data. All meta-analyses were conducted using a random-effect model and 95% confidence intervals (CIs) were included.
+RESULTS: A total of eight single-arm observational studies, including 980 patients (1011 lesions), were included. 48.8% of the patients presented with acute coronary syndrome. Severe calcifications were present in 97% of lesions. Clinical success was achieved in 95.4% of patients (95%CI:92.9%-97.9%). Angiographic success was achieved in 97% of patients (95%CI:95%-99%). There was an overall increase in postprocedural lumen area as well as significant reduction of calcium angle and maximum calcium thickness.
+CONCLUSIONS: IVL seems to have excellent efficacy and safety in the management of CCAD. However, adequately powered RCTs are needed to evaluate IVL compared to other calcium/plaque modifying techniques.
+
+Citation: Mhanna M, et al. Efficacy and Safety of Intravascular Lithotripsy in Calcified Coronary Lesions: A Systematic Review and Meta-Analysis. Efficacy and Safety of Intravascular Lithotripsy in Calcified Coronary Lesions: A Systematic Review and Meta-Analysis. 2022; 36:73-82. doi: 10.1016/j.carrev.2021.05.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34024748/

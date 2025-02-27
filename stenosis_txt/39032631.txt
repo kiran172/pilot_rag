@@ -1,0 +1,11 @@
+PMID: 39032631
+Title: Comparison of Predictive Performance for Pedicle Screw Loosening Between Computed Tomography-Based Hounsfield Units and Magnetic Resonance Imaging-Based Vertebral Bone Quality Score After Lumbar Surgery.
+
+Abstract: OBJECTIVE: To compare predictive performance for pedicle screw loosening between computed tomography (CT)-based Hounsfield units (HU) and magnetic resonance imaging (MRI)-based vertebral bone quality score (VBQ) after lumbar surgery.
+METHODS: A retrospective study was conducted on patients who received transforaminal lumbar interbody fusion continuously at our institution from May 2018 to September 2020. On the basis of 12 months' follow-up lumbar radiographs, screw loosening was defined as a clear zone of minimal thickness of ≥1 mm around the pedicle screw on radiography. VBQ score and HU value were measured using preoperative MRI and CT, respectively. Then, we evaluated the predictive performance of these 2 parameters by comparing the receiver operating characteristic curve.
+RESULTS: In all patients, area under the curve (AUC) of the VBQ score (AUC = 0.752; 95% confidence interval [CI] 0.663-0.841; P &lt; 0.001) was larger than those of the CT HU value (AUC = 0.652; 95% CI 0.558-0.746; P = 0.005), but there was no significant difference between them (P<sub>AUC</sub> = 0.076). In patients with lumbar spinal stenosis, AUC of VBQ score (AUC = 0.863; 95% CI 0.764-0.961; P &lt; 0.001) was larger than those of the CT HU value (AUC = 0.673; 95% CI 0.513-0.833; P = 0.043), with significant difference (P<sub>AUC</sub> = 0.003).
+CONCLUSIONS: MRI-based VBQ score and CT-based HU value have similar performance in predicting pedicle screw loosening after lumbar surgery. Furthermore, in patients with lumbar spinal stenosis, VBQ score demonstrated better predictive ability than HU value.
+
+Citation: Ye W, et al. Comparison of Predictive Performance for Pedicle Screw Loosening Between Computed Tomography-Based Hounsfield Units and Magnetic Resonance Imaging-Based Vertebral Bone Quality Score After Lumbar Surgery. Comparison of Predictive Performance for Pedicle Screw Loosening Between Computed Tomography-Based Hounsfield Units and Magnetic Resonance Imaging-Based Vertebral Bone Quality Score After Lumbar Surgery. 2024; 190:e191-e198. doi: 10.1016/j.wneu.2024.07.088
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39032631/

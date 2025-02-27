@@ -1,0 +1,11 @@
+PMID: 35759854
+Title: Development of an alarm symptom-based risk prediction score for localized oesophagogastric adenocarcinoma (VIOLA score).
+
+Abstract: BACKGROUND: Gastroesophageal adenocarcinoma is a major contributor to global disease burden with poor prognosis even in resectable, regionally limited stages. Feasible prognostic tools are crucial to improve patient management, yet scarce.
+PATIENTS AND METHODS: Disease-related symptoms, patient, tumour, treatment as well as laboratory parameters at initial diagnosis and overall survival (OS) of patients with stage II and III gastroesophageal adenocarcinoma, who were treated between 1990 and 2020 at the Medical University of Vienna, were evaluated in a cross-validation model to develop a feasible risk prediction score.
+RESULTS: In total, 628 patients were included in this single-centre analysis. The final score ranked from 0 to 10 and included the factors sex (female +1), age, years (30-59 +1, >60 +2), underweight classified by body mass index (+2), location of the tumour (stomach +1), stage (III +2), stenosis in endoscopy (+1) and weight loss (+1). The score was grouped into low- (0-3), medium- (4-6) and high-risk (7+) subgroups. The median OS were 70.3 [95% confidence interval (CI) 51.2-111.8], 23.4 (95% CI 21.2-26.7) and 12.6 (7.0-16.1) months, respectively. The 1-year survival probabilities were 0.88 (95% CI 0.83-0.93), 0.75 (95% CI 0.70-0.79) and 0.54 (95% CI 0.39-0.74), whereas the 5-year survival probabilities were 0.57 (95% CI 0.49-0.66), 0.24 (95% CI 0.20-0.28) and 0.09 (95% CI 0.03-0.28), respectively.
+CONCLUSIONS: The VIennese risk prediction score for Oesophagogastric Localized Adenocarcinoma (VIOLA) risk prediction score poses a feasible tool for the estimation of OS in patients with regionally limited gastroesophageal adenocarcinoma and, thus, may improve patient management in clinical routine. Prospective analyses should be carried out to confirm our findings.
+
+Citation: Puhr HC, et al. Development of an alarm symptom-based risk prediction score for localized oesophagogastric adenocarcinoma (VIOLA score). Development of an alarm symptom-based risk prediction score for localized oesophagogastric adenocarcinoma (VIOLA score). 2022; 7:100519. doi: 10.1016/j.esmoop.2022.100519
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35759854/

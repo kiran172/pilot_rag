@@ -1,0 +1,11 @@
+PMID: 31495747
+Title: The Value of the GRACE Score for Predicting the SYNTAX Score in Patients with Unstable Angina/Non-ST Elevation Myocardial Infarction.
+
+Abstract: BACKGROUND: In patients with unstable angina/non-ST-elevation myocardial infarction (UA/NSTEMI), Global Registry for Acute Coronary Events (GRACE) score is a valid tool for risk stratification. The Synergy between PCI with Taxus and Cardiac Surgery (SYNTAX) score is an angiographic scoring system to guide the decision-making between coronary artery bypass grafting (CABG) surgery and percutaneous coronary intervention (PCI). The aim of the present study was to assess the accuracy of the GRACE score in predicting the severity and extent of coronary artery stenosis by SYNTAX score.
+METHODS: A total of 330 patients with acute coronary syndrome (ACS) were enrolled in the study. For every patient, the GRACE score was calculated. All patients underwent coronary angiography within 2 days and the SYNTAX scoring system was used to evaluate the severity and extent of coronary stenotic lesions. Based on ROC curve analysis, the cut-off value of GRACE score that could predict SYNTAX score ≥ 23 was calculated.
+RESULTS: GRACE score was 107.12 ± 34.4 in patients with SYNTAX SCORE < 23 and 134.80 ± 48.3 in patients with SYNTAX score ≥ 23 (p value = 0.001). A positive correlation was observed between the GRACE score and angiographic SYNTAX score (r = 0.34 p < 0.001). We found that a GRACE score of 109 is the optimal cut-off to predict SYNTAX score ≥ 23 with a sensitivity of 73.5% and specificity of 60% (p < 0.001). Its negative predictive value was 94.0%.
+CONCLUSION: GRACE score had significant but modest value to predict the severity and extent of coronary artery stenosis in patients with ACS.
+
+Citation: Rahmani R, et al. The Value of the GRACE Score for Predicting the SYNTAX Score in Patients with Unstable Angina/Non-ST Elevation Myocardial Infarction. The Value of the GRACE Score for Predicting the SYNTAX Score in Patients with Unstable Angina/Non-ST Elevation Myocardial Infarction. 2020; 21:514-517. doi: 10.1016/j.carrev.2019.07.023
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31495747/

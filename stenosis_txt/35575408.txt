@@ -1,0 +1,12 @@
+PMID: 35575408
+Title: Pulmonary artery systolic pressure at 1-month predicts 1-year survival after transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Pulmonary hypertension related to left ventricle heart disease is a common finding in patients with severe aortic stenosis treated with transcatheter aortic valve implantation (TAVI) and is associated with a higher mortality rate.
+AIMS: The study aimed to analyze the influence of pulmonary artery systolic pressure (PASP) changes after TAVI on long-term survival.
+METHODS: TAVI was performed in 362 patients between January 2013 and December 2018. The study group comprised 210 patients who underwent a detailed 1-month follow-up.
+RESULTS: At 1-month, 142 had a stable or decreased PASP value (Group 1), while in 68 patients an increase was observed (Group 2). During 1-year follow-up, 20 patients died (9.5%), 9 in Group 1 and 11 in Group 2 (P = 0.02). The receiver operating characteristic (ROC) curve analysis (area under the curve [AUC], 0.750) revealed a significant value of 1-month measurement for 1-year mortality prediction. The cutoff for the PASP value predictive of mortality was ≤41 mm Hg. A Kaplan-Meier analysis showed significantly higher mortality in patients without a 1-month PASP decrease. In the multivariable analysis, PASP measured at 1-month after TAVI (hazard ratio, 1.040; 95% confidence interval, 1.019-1.062; P < 0.001) was an independent predictor of 1-year mortality. Each 1 mm Hg increase in PASP predicts a 4% increase in the risk of death.
+CONCLUSION: Decreased or stable value of PASP at 1-month follow-up may predict better 1-year survival after TAVI, while each 1 mm Hg increase in PASP confers a 4% greater risk of 1-year mortality.
+
+Citation: Olasińska-Wiśniewska A, et al. Pulmonary artery systolic pressure at 1-month predicts 1-year survival after transcatheter aortic valve implantation. Pulmonary artery systolic pressure at 1-month predicts 1-year survival after transcatheter aortic valve implantation. 2022; 80:825-833. doi: 10.33963/KP.a2022.0128
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35575408/

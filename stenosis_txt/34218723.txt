@@ -1,0 +1,11 @@
+PMID: 34218723
+Title: FFR pressure wire comparative study: piezoresistive versus optical sensor.
+
+Abstract: BACKGROUND: This study aimed to assess the reliability of pressure derived fractional flow reserve (FFR) measurement and the handling performance of the OptoWire Deux with an optical pressure sensor relative to both the PressureWire X and the Verrata Pressure wire with piezoresistive pressure sensors.
+METHODS: This single centre study included 80 patients between October 2016 and May 2017 undergoing a diagnostic coronary angiography. The reliability of FFR measurement measured with the OptoWire Deux relative to the PressureWire X and Verrata Pressure wire was assessed by the presence of drift. Drift was defined as a Pd/Pa measurement different from 1.00 ± 0.02 when pulled back after a FFR measurement at the location of the initial equalisation. Handling characteristics for all pressure wires were assessed qualitatively with respect to the PressureWire Aeris.
+RESULTS: Ninety-eight measurements in 78 patients were performed; two patients were excluded because the lesion could not be crossed. Very stable and reliable FFR measurements with the optical sensors were registered, relative to the piezoresistive pressure sensors. Drift was found in 11%, 37%, and 33% of the measurements for OptoWire Deux, PressureWire X, and Verrata Pressure wire respectively. The handling performance of the OptoWire Deux was better rated for steerability and torqueability in relation to the standard FFR wire. The handling of the PressureWire X was rated equally good whereas the handling of the Verrata pressure wire was rated inferior in relation to the standard FFR wire.
+CONCLUSIONS: In patients undergoing FFR measurement, the OptoWire Deux has a stable and reliable pressure hence FFR measurement with fewer drift events and has good handling characteristics.
+
+Citation: Cottens D, et al. FFR pressure wire comparative study: piezoresistive versus optical sensor. FFR pressure wire comparative study: piezoresistive versus optical sensor. 2022; 77:322-327. doi: 10.1080/00015385.2021.1939510
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34218723/

@@ -1,0 +1,8 @@
+PMID: 32240496
+Title: Low Wall Shear Stress Is Associated with Saphenous Vein Graft Stenosis in Patients with Coronary Artery Bypass Grafting.
+
+Abstract: Biomechanical forces may play a key role in saphenous vein graft (SVG) disease after coronary artery bypass graft (CABG) surgery. Computed tomography angiography (CTA) of 430 post-CABG patients were evaluated and 15 patients were identified with both stenosed and healthy SVGs for paired analysis. The stenosis was virtually removed, and detailed 3D models were reconstructed to perform patient-specific computational fluid dynamic (CFD) simulations. Models were processed to compute anatomic parameters, and hemodynamic parameters such as local and vessel-averaged wall shear stress (WSS), normalized WSS (WSS*), low shear area (LSA), oscillatory shear index (OSI), and flow rate. WSS* was significantly lower in pre-diseased SVG segments compared to corresponding control segments without disease (1.22 vs. 1.73, p = 0.012) and the area under the ROC curve was 0.71. No differences were observed in vessel-averaged anatomic or hemodynamic parameters between pre-stenosed and control whole SVGs. There are currently no clinically available tools to predict SVG failure post-CABG. CFD modeling has the potential to identify high-risk CABG patients who may benefit from more aggressive medical therapy and closer surveillance. Graphical Abstract.
+
+Citation: Khan MO, et al. Low Wall Shear Stress Is Associated with Saphenous Vein Graft Stenosis in Patients with Coronary Artery Bypass Grafting. Low Wall Shear Stress Is Associated with Saphenous Vein Graft Stenosis in Patients with Coronary Artery Bypass Grafting. 2021; 14:770-781. doi: 10.1007/s12265-020-09982-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32240496/

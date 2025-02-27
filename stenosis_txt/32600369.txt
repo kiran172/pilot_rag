@@ -1,0 +1,12 @@
+PMID: 32600369
+Title: Mid-term outcomes of Sapien 3 versus Perimount Magna Ease for treatment of severe aortic stenosis.
+
+Abstract: BACKGROUND: There is limited information on the longer-term outcome after transcatheter aortic valve replacement (TAVR) with new-generation prostheses compared to surgical aortic valve replacement (SAVR). The aim of this study was to compare the mid-term outcomes after TAVR with Sapien 3 and SAVR with Perimount Magna Ease bioprostheses for severe aortic stenosis.
+METHODS: In a retrospective study, we included patients who underwent transfemoral TAVR with Sapien 3 or SAVR with Perimount Magna Ease bioprosthesis between January 2008 and October 2017 from the nationwide FinnValve registry. Propensity score matching was performed to adjust for differences in the baseline characteristics. The Kaplan-Meir method was used to estimate late mortality.
+RESULTS: A total of 2000 patients were included (689 in the TAVR cohort and 1311 in the SAVR cohort). Propensity score matching resulted in 308 pairs (STS score, TAVR 3.5 ± 2.2% vs. SAVR 3.5 ± 2.8%, p = 0.918). In-hospital mortality was 3.6% after SAVR and 1.3% after TAVR (p = 0.092). Stroke, acute kidney injury, bleeding and atrial fibrillation were significantly more frequent after SAVR, but higher rate of vascular complications was observed after TAVR. The cumulative incidence of permanent pacemaker implantation at 4 years was 13.9% in the TAVR group and 6.9% in the SAVR group (p = 0.0004). At 4-years, all-cause mortality was 20.6% for SAVR and 25.9% for TAVR (p = 0.910). Four-year rates of coronary revascularization, prosthetic valve endocarditis and repeat aortic valve intervention were similar between matched cohorts.
+CONCLUSIONS: The Sapien 3 bioprosthesis achieves comparable midterm outcomes to a surgical bioprosthesis with proven durability such as the Perimount Magna Ease. However, the Sapien 3 bioprosthesis was associated with better early outcome.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03385915 .
+
+Citation: Virtanen MPO, et al. Mid-term outcomes of Sapien 3 versus Perimount Magna Ease for treatment of severe aortic stenosis. Mid-term outcomes of Sapien 3 versus Perimount Magna Ease for treatment of severe aortic stenosis. 2020; 15:157. doi: 10.1186/s13019-020-01203-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32600369/

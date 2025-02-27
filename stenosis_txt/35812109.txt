@@ -1,0 +1,11 @@
+PMID: 35812109
+Title: Associations of Abdominal Visceral Fat Content and Plasma Adiponectin Level With Intracranial Atherosclerotic Stenosis: A Cross-Sectional Study.
+
+Abstract: BACKGROUND: Abdominal obesity and adipocytokines are closely related to atherosclerosis, and adiponectin level is considered one of the important clinical indicators. This study aimed to analyze the associations of abdominal visceral fat content and adiponectin level with intracranial atherosclerotic stenosis (ICAS).
+METHODS: A total of 186 patients were enrolled in this study. Patients were distributed into ICAS and non-ICAS by the degree of artery stenosis. Plasma adiponectin levels and the ratio of visceral adipose tissue (VAT) to subcutaneous adipose tissue (SAT) were measured. The related factors of intracranial atherosclerotic stenosis were determined using multivariable logistic regression analysis.
+RESULTS: The VAT/SAT ratio (OR, 26.08; 95% CI, 5.92-114.83; p &lt; 0.001) and adiponectin (OR, 0.61; 95% CI, 0.44-0.84; p = 0.002) were found to be the independent predictors of ICAS in a multivariable logistic regression analysis. The prevalence of ICAS increased (T1: 27.4%; T2: 50.0%; T3: 75.8%) as the VAT/SAT ratio tertile increased (p &lt; 0.001). The prevalence of ICAS decreased (T1: 72.6%; T2: 54.8%; T3: 25.8%) as the adiponectin tertile increased (p &lt; 0.001). In ROC curves analysis, VAT/SAT ratio had a sensible accuracy for the prediction of ICAS. The optimal cut-off value of VAT/SAT ratio to predict ICAS in this study was 1.04 (AUC: 0.747; p &lt; 0.001; sensitivity: 67.4%; specificity: 74.7%). The optimal adiponectin cutoff was 3.03 ug/ml (AUC: 0.716; p &lt; 0.001; sensitivity:75.8%; specificity: 61.5%).
+CONCLUSION: Higher VAT/SAT ratio and lower plasma adiponectin levels were closely related to the increased risk of intracranial atherosclerotic stenosis.
+
+Citation: Wang FH, et al. Associations of Abdominal Visceral Fat Content and Plasma Adiponectin Level With Intracranial Atherosclerotic Stenosis: A Cross-Sectional Study. Associations of Abdominal Visceral Fat Content and Plasma Adiponectin Level With Intracranial Atherosclerotic Stenosis: A Cross-Sectional Study. 2022; 13:893401. doi: 10.3389/fneur.2022.893401
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35812109/

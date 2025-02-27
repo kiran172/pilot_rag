@@ -1,0 +1,11 @@
+PMID: 34718571
+Title: Graft flow assessment and early coronary artery bypass graft failure: a computed tomography analysis.
+
+Abstract: OBJECTIVES: We evaluated graft patency by computed tomography and explored the determinants of intraoperative mean graft flow (MGF) and its contribution to predict early graft occlusion.
+METHODS: One hundred and forty-eight patients under a single surgeon were prospectively enrolled. Arterial and endoscopically harvested venous conduits were used. Intraoperative graft characteristics and flows were collected. Graft patency was blindly evaluated by a follow-up computed tomography at 11.4 weeks (median).
+RESULTS: Graft occlusion rate was 5.2% (n = 22 of 422; 8% venous and 3% arterial). Thirteen were performed on non-significant proximal stenosis while 9 on occluded or >70% stenosed arteries. Arterial and venous graft MGF were lower in females (Parterial = 0.010, Pvenous = 0.009), with median differences of 10 and 13.5 ml/min, respectively. Arterial and venous MGF were associated positively with target vessel diameter ≥1.75 mm (Parterial = 0.025; Pvenous = 0.002) and negatively with pulsatility index (Parterial < 0.001; Pvenous < 0.001). MGF was an independent predictor of graft occlusion, adjusting for EuroSCORE-II, pulsatility index, graft size and graft type (arterial/venous). An MGF cut-off of 26.5 ml/min for arterial (sensitivity 83.3%, specificity 80%) and 36.5 ml/min for venous grafts (sensitivity 75%, specificity 62%) performed well in predicting early graft occlusion.
+CONCLUSIONS: We demonstrate that MGF absolute values are influenced by coronary size, gender and graft type. Intraoperative MGF of >26.5 ml/min for arterial and >36.5 ml/min for venous grafts is the most reliable independent predictor of early graft patency. Modern-era coronary artery bypass graft is associated with low early graft failure rates when transit time flow measurement is used to provide effective intraoperative quality assurance.
+
+Citation: D'Alessio A, et al. Graft flow assessment and early coronary artery bypass graft failure: a computed tomography analysis. Graft flow assessment and early coronary artery bypass graft failure: a computed tomography analysis. 2022; 34:974-981. doi: 10.1093/icvts/ivab298
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34718571/

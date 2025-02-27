@@ -1,0 +1,12 @@
+PMID: 36872813
+Title: Custom-designed sensors embedded 3D-printed wearable device for improving the hemodialysis-related vascular dysfunction detection.
+
+Abstract: BACKGROUND: The increasing prevalence of end-stage renal disease (ESRD) imposes a substantial economic burden on public health-care systems. Hemodialysis (HD) is a pivotal treatment modality for patients with ESRD. However, prolonged use of HD vessels may result in stenosis, thrombosis, and occlusion due to repeated daily punctures. Thus, early detection and prevention of the dysfunction of dialysis routes are crucial.
+OBJECTIVE: In this study, we designed a wearable device for the early and accurate detection of arteriovenous access (AVA) stenosis in HD patients.
+METHODS: A personalized three-dimensional (3D) printed wearable device was designed by combining the phonoangiography (PAG) and photoplethysmography (PPG) techniques. The capability of this device to monitor AVA dysfunction before and after percutaneous transluminal angioplasty (PTA) was evaluated.
+RESULTS: After PTA, the amplitudes of both PAG and PPG signals increased in patients with arteriovenous fistulas and those with arteriovenous grafts; this might be due to increased blood flow.
+CONCLUSION: Our designed multi-sensor wearable medical device using PAG, PPG, and 3D printing appears suitable for early and accurate detection of AVA stenosis in HD patients.
+
+Citation: Chen WL, et al. Custom-designed sensors embedded 3D-printed wearable device for improving the hemodialysis-related vascular dysfunction detection. Custom-designed sensors embedded 3D-printed wearable device for improving the hemodialysis-related vascular dysfunction detection. 2023; 31:1969-1979. doi: 10.3233/THC-235000
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36872813/

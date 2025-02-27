@@ -1,0 +1,11 @@
+PMID: 38467531
+Title: A fully automated artificial intelligence-driven software for planning of transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) is increasingly performed for the treatment of aortic stenosis. Computed tomography (CT) analysis is essential for pre-procedural planning. Currently available software packages for TAVR planning require substantial human interaction. We describe development and validation of an artificial intelligence (AI) powered software to automatically rend anatomical measurements and other information required for TAVR planning and implantation.
+METHODS: Automated measurements from 100 CTs were compared to measurements from three expert clinicians and TAVR operators using commercially available software packages. Correlation coefficients and mean differences were calculated to assess precision and accuracy.
+RESULTS: AI-generated annular measurements had excellent agreements with manual measurements by expert operators yielding correlation coefficients of 0.97 for both perimeter and area. There was no relevant bias with a mean difference of -0.07 mm and - 1.4 mm2 for perimeter and area, respectively. For the ascending aorta measured 5 cm above the annular plane, correlation coefficient was 0.95 and mean difference was 1.4 mm. Instruction for use-based sizing yielded agreement with the effective implant size in 87-88 % of patients for self-expanding valves (perimeter-based sizing) and in 88 % for balloon-expandable valves (area-based sizing).
+CONCLUSIONS: A fully automated software enables accurate and precise anatomical segmentation and measurements required for TAVR planning without human interaction and with high reliability.
+
+Citation: Toggweiler S, et al. A fully automated artificial intelligence-driven software for planning of transcatheter aortic valve replacement. A fully automated artificial intelligence-driven software for planning of transcatheter aortic valve replacement. 2024; 65:25-31. doi: 10.1016/j.carrev.2024.03.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38467531/

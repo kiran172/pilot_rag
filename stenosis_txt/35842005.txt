@@ -1,0 +1,12 @@
+PMID: 35842005
+Title: Correlation between lipidic content and arterial-wall plaque burden: A Lipid Rich Plaque study sub-analysis.
+
+Abstract: BACKGROUND: Large plaque burden (PB) has been linked to adverse coronary events. We sought to assess the correlation between lipidic content and arterial PB within the Lipid Rich Plaque (LRP) study.
+METHODS: This analysis included 1269 patients and 5743 coronary segments with both evaluable Lipid Core Burden Index (maxLCBI<sub>4mm</sub>) and PB. Non-culprit major adverse cardiac events (NC-MACE; defined as a composite of cardiac death, cardiac arrest, non-fatal myocardial infarction, acute coronary syndrome, revascularization, and hospital readmission for angina with progressive stenosis) were assessed by hazard ratios (HR) at 2 years.
+RESULTS: NC-MACE for segment cohorts in the most vulnerable quadrant of maxLCBI<sub>4mm</sub> &gt; 400 and PB &gt;40% was the highest (HR, 3.78 [95% confidence interval (CI) 2.39-5.66]) with similar rates for just PB &gt;40% (HR 1.31 [95% CI 0.81-2.02]) and just maxLCBI<sub>4mm</sub> &gt; 400 (HR 1.11 [95% CI 0.10-5.38]). Fewer events occurred in the maxLCBI<sub>4mm</sub> ≤ 400 and PB ≤40% quadrant (HR 0.25 [95% CI 0.11-0.50]).
+CONCLUSIONS: Coronary segments with high lipid content but no measurable PB were still associated with events at 2 years. NC-MACE vulnerability increased as the lipidic content and PB increased, with the highest incidence within segments having maxLCBI<sub>4mm</sub> &gt; 400 and plaque &gt;40%.
+CLINICAL TRIAL REGISTRATION: The Lipid-Rich Plaque Study (LRP), NCT02033694, https://clinicaltrials.gov/ct2/show/NCT02033694.
+
+Citation: Torguson R, et al. Correlation between lipidic content and arterial-wall plaque burden: A Lipid Rich Plaque study sub-analysis. Correlation between lipidic content and arterial-wall plaque burden: A Lipid Rich Plaque study sub-analysis. 2022; 366:32-34. doi: 10.1016/j.ijcard.2022.07.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35842005/

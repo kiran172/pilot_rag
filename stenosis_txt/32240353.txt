@@ -1,0 +1,12 @@
+PMID: 32240353
+Title: Pressure-flow curve derived from coronary CT angiography for detection of significant hemodynamic stenosis.
+
+Abstract: OBJECTIVES: Coronary CT angiography (cCTA) has been used to non-invasively assess both the anatomical and hemodynamic significance of coronary stenosis. The current study investigated a new CFD-based method of evaluating pressure-flow curves across a stenosis to further enhance the diagnostic value of cCTA imaging.
+METHODS: Fifty-eight patients who underwent both cCTA imaging and invasive coronary angiography (ICA) with fractional flow reserve (FFR) within 2 weeks were enrolled. The pressure-flow curve-derived parameters, viscous friction (VF) and expansion loss (EL), were compared with conventional cCTA parameters including percent area stenosis (AS) and minimum lumen area (MLA) by receiver operating characteristic (ROC) curve analysis. FFR ≤ 0.80 was used to indicate ischemia-causing stenosis. Correlations between FFR and other measurements were calculated by Spearman's rank correlation coefficient (rho).
+RESULTS: Sixty-eight stenoses from 58 patients were analyzed. VF, EL, and AS were significantly larger in the group of FFR ≤ 0.8 while smaller MLA values were observed. The ROC-AUC of VF (0.91, 95% CI 0.81-0.96) was better than that of AS (change in AUC (ΔAUC) 0.27, p < 0.05) and MLA (ΔAUC 0.17, p < 0.05), and ROC-AUC of EL (0.90, 95%CI 0.80-0.96) was also better than that of AS (ΔAUC 0.26, p < 0.05) and MLA (ΔAUC 0.16, p < 0.05). FFR values correlated well with VF (rho = - 0.74 (95% CI - 0.83 to - 0.61, p < 0.0001) and EL (rho = - 0.74 (95% CI - 0.83 to - 0.61, p < 0.0001).
+CONCLUSION: Pressure-flow curve-derived parameters enhance the diagnostic value of cCTA examination.
+KEY POINTS: • Pressure-flow curve derived from cCTA can assess coronary lesion severity. • VF and EL are superior to cCTA alone for indicating ischemic lesions. • Pressure-flow curve derived from cCTA may assist in clinical decision-making.
+
+Citation: Xie X, et al. Pressure-flow curve derived from coronary CT angiography for detection of significant hemodynamic stenosis. Pressure-flow curve derived from coronary CT angiography for detection of significant hemodynamic stenosis. 2020; 30:4347-4355. doi: 10.1007/s00330-020-06821-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32240353/

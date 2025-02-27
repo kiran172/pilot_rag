@@ -1,0 +1,11 @@
+PMID: 32682711
+Title: Venous Biomechanics of Angioplasty and Stent Placement: Implications of the Poisson Effect.
+
+Abstract: PURPOSE: To characterize the Poisson effect in response to angioplasty and stent placement in veins and identify potential implications for guiding future venous-specific device design.
+MATERIALS AND METHODS: In vivo angioplasty and stent placement were performed in 3 adult swine by using an established venous stenosis model. Iron particle endothelium labeling was performed for real-time fluoroscopic tracking of the vessel wall during intervention. A finite-element computational model of a vessel was created with ADINA software (version 9.5) with arterial and venous biomechanical properties obtained from the literature to compare the response to radial expansion.
+RESULTS: In vivo angioplasty and stent placement in a venous stenosis animal model with iron particle endothelium labeling demonstrated longitudinal foreshortening that correlated with distance from the center of the balloon (R2 = 0.87) as well as adjacent segment narrowing that correlated with the increase in diameter of the treated stenotic segment (R2 = 0.89). Finite-element computational analysis demonstrated increased Poisson effect in veins relative to arteries (linear regression coefficient slope comparison, arterial slope 0.033, R2 = 0.9789; venous slope 0.204, R2 = 0.9975; P &lt; .0001) as a result of greater longitudinal Young modulus in veins compared with arteries.
+CONCLUSIONS: Clinically observed adjacent segment narrowing during venous angioplasty and stent placement is a result of the Poisson effect, with redistribution of radially applied force to the longitudinal direction. The Poisson effect is increased in veins relative to arteries as a result of unique venous biomechanical properties, which may be relevant to consider in the design of future venous interventional devices.
+
+Citation: Li N, et al. Venous Biomechanics of Angioplasty and Stent Placement: Implications of the Poisson Effect. Venous Biomechanics of Angioplasty and Stent Placement: Implications of the Poisson Effect. 2020; 31:1348-1356. doi: 10.1016/j.jvir.2020.02.033
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32682711/

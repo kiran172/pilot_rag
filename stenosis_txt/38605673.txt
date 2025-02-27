@@ -1,0 +1,14 @@
+PMID: 38605673
+Title: Association Between Severity of Cervical Central Spinal Stenosis and Paraspinal Muscle Parameters in Patients Undergoing Anterior Cervical Discectomy and Fusion.
+
+Abstract: STUDY DESIGN: Retrospective study.
+OBJECTIVE: The aim of this study was to evaluate the association between severity and level of cervical central stenosis (CCS) and the fat infiltration (FI) of the cervical multifidus/rotatores (MR) at each subaxial levels.
+SUMMARY OF BACKGROUND DATA: The relationship between cervical musculature morphology and the severity of CCS is poorly understood.
+METHODS: Patients with preoperative cervical magnetic resonance imaging (MRI) who underwent anterior cervical discectomy and fusion (ACDF) were reviewed. The cervical MR were segmented from C3 to C7 and the percent FI was measured using a custom-written Matlab software. The severity of the CCS at each subaxial level was assessed using a previously published classification. Grade 3, representing a loss of cerebrospinal fluid space and deformation of the spinal cord > 25%, was set as the reference and compared to the other gradings. Multivariable linear regression analyses were conducted and adjusted for age, sex, and body mass index.
+RESULTS: 156 consecutive patients were recruited. A spinal cord compression at a certain level was significantly associated with a greater FI of the MR below that level. After adjustment for the above-mentioned confounders, our results showed that spinal cord compression at C3/4 and C4/5 was significantly associated with greater FI of the MR from C3 to C6 and C5 to C7, respectively. A spinal cord compression at C5/6 or C6/7 was significantly associated with greater FI of the MR at C7.
+CONCLUSION: Our results demonstrated significant correlations between the severity of CCS and a greater FI of the MR. Moreover, significant level-specific correlations were found. A significant increase in FI of the MR at the levels below the stenosis was observed in patients presenting with spinal cord compression. Given the segmental innervation of the MR, the increased FI might be attributed to neurogenic atrophy.
+LEVEL OF EVIDENCE: 3.
+
+Citation: Caffard T, et al. Association Between Severity of Cervical Central Spinal Stenosis and Paraspinal Muscle Parameters in Patients Undergoing Anterior Cervical Discectomy and Fusion. Association Between Severity of Cervical Central Spinal Stenosis and Paraspinal Muscle Parameters in Patients Undergoing Anterior Cervical Discectomy and Fusion. 2024; (unknown volume):(unknown pages). doi: 10.1097/BRS.0000000000005004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38605673/

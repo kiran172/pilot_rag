@@ -1,0 +1,11 @@
+PMID: 39011426
+Title: Assessment of renal transplant dysfunction by doppler sonography: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Doppler sonography parameters, particularly the resistive index (RI), have been identified as an essential tool for assessing renal transplant dysfunction (RTD). However, there is some ambiguity in the findings of previous research studies on this matter. Therefore, the objective of our study is to examine the relationship between changes in RI subsequent to RTD.
+METHODS: This was a systematic review and meta-analysis study. We searched three electronic databases PubMed, Web of Science, and Scopus, from the year 2000 to 10 May 2022. The main effect size was considered as the mean RI differences of cases with RTD confirmed by biopsy with control patients with no RTD. We used random effect models to pool the effect size.
+RESULTS: Thirteen studies were included in our review. The pooled mean (95% CI) for the control group was calculated to be 0.71 (0.67, 0.75) and for patients with renal transplant dysfunction was 0.73 (0.68, 0.78), under a random effect model with high heterogeneity for both analyses (I2=98% and 97%, respectively). The pooled mean was significantly different between the control group and patients with RTD (P= 0.05), based on a t-test of pooled effect sizes.
+CONCLUSIONS: Based on the result of our study, we showed that there is a significant difference between RI in patients with kidney transplant dysfunction and the control group. However, RI cannot substitute kidney biopsy in the management and diagnosis of RTD.
+
+Citation: Habibi S, et al. Assessment of renal transplant dysfunction by doppler sonography: A systematic review and meta-analysis. Assessment of renal transplant dysfunction by doppler sonography: A systematic review and meta-analysis. 2024; 15:374-381. doi: 10.22088/cjim.15.3.374
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39011426/

@@ -1,0 +1,11 @@
+PMID: 36412568
+Title: Elevated Native T1 Values in the Remote Myocardium Supplied by Obstructive Non-Infarct Related Coronary Arteries in Post-STEMI Cardiac Magnetic Resonance.
+
+Abstract: INTRODUCTION: Native T1 mapping values are elevated in acutely injured myocardium. We sought to study whether native T1 values, in the non-infarct related myocardial territories, might differ when supplied by obstructive or nonobstructive coronary arteries.
+METHODS: Consecutive patients (N = 60, mean age 59 years) with the first STEMI following primary percutaneous coronary intervention, underwent cardiac magnetic resonance within 5 ± 2 days. A retrospective review of coronary angiography reports classified coronary arteries as infarct-related coronary artery (IRA) and non-IRA. Obstructive coronary artery disease (CAD) was defined as stenosis ≥50%. Native T1 values were presented using a 16-segment AHA model according to the three main coronary territories: left anterior descending (LAD), left circumflex (LCX), and right coronary artery (RCA).
+RESULTS: The cutoff native T1 value for predicting obstructive non-IRA LAD was 1,309 msec with a sensitivity and specificity of 67% and 82%, respectively (AUC 0.76, 95% CI: 0.57-0.95, p = 0.04). The cutoff native T1 value for predicting obstructive non-IRA RCA was 1,302 msec with a sensitivity and specificity of 83% and 55%, respectively (AUC 0.7, 95% CI: 0.52-0.87, p = 0.05). Logistic regression model adjusted for age and infarct size demonstrated that native T1 was an independent predictor for the obstructive non-IRA LAD (OR 4.65; 1.32-26.96, p = 0.05) and RCA (OR 3.70; 1.44-16.35, p = 0.03).
+CONCLUSION: Elevated native T1 values are independent predictors of obstructive non-IRA in STEMI patients. These results suggest the presence of concomitant remote myocardial impairment in the non-infarct territories with obstructive CAD.
+
+Citation: Brodov Y, et al. Elevated Native T1 Values in the Remote Myocardium Supplied by Obstructive Non-Infarct Related Coronary Arteries in Post-STEMI Cardiac Magnetic Resonance. Elevated Native T1 Values in the Remote Myocardium Supplied by Obstructive Non-Infarct Related Coronary Arteries in Post-STEMI Cardiac Magnetic Resonance. 2023; 148:106-113. doi: 10.1159/000528143
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36412568/

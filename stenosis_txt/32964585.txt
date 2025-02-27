@@ -1,0 +1,17 @@
+PMID: 32964585
+Title: Quantitative Magnetization Transfer Detects Renal Fibrosis in Murine Kidneys With Renal Artery Stenosis.
+
+Abstract: BACKGROUND: Renal fibrosis is a common pathway in tubulointerstitial injury and a major determinant of renal insufficiency. Collagen deposition, a key feature of renal fibrosis, may serve as an imaging biomarker to differentiate scarred from healthy kidneys.
+PURPOSE: To test the feasibility of using quantitative magnetization transfer (qMT), which assesses tissue macromolecule content, to measure renal fibrosis.
+STUDY TYPE: Prospective.
+ANIMAL MODEL: Fifteen 129S1 mice were studied 4 weeks after either sham (n = 7) or unilateral renal artery stenosis (RAS, n = 8) surgeries.
+FIELD STRENGTH/SEQUENCE: Magnetization transfer (MT)-weighted images were acquired at 16.4T using an MT-prepared fast-low-angle-shot sequence. Renal B<sub>0</sub>, B<sub>1</sub>, and T<sub>1</sub> maps were also acquired, using a dual-echo gradient echo, an actual flip angle, and inversion recovery method, respectively.
+ASSESSMENT: A two-pool model was used to estimate the bound water fraction (f) and other tissue imaging biomarkers. Masson's trichrome staining was subsequently performed ex vivo to evaluate renal fibrosis.
+STATISTICAL TESTS: Comparisons of renal parameters between sham and RAS were performed using independent samples t-tests. Pearson's correlation was conducted to investigate the relationship between renal fibrosis by histology and the qMT-derived bound pool fraction f.
+RESULTS: The two-pool model provided accurate fittings of measured MT signal. The qMT-derived f of RAS kidneys was significantly increased compared to sham in all kidney zones (renal cortex [CO], 7.6 ± 2.4% vs. 4.6 ± 0.6%; outer medulla [OM], 8.2 ± 4.2% vs. 4.2 ± 0.9%; inner medulla [IM] + P, 5.8 ± 1.6% vs. 2.9 ± 0.6%, all P < 0.05). Measured f correlated well with histological fibrosis in all kidney zones (CO, Pearson's correlation coefficient r = 0.95; OM, r = 0.93; IM + P, r = 0.94, all P < 0.05).
+DATA CONCLUSION: The bound pool fraction f can be quantified using qMT at 16.4T in murine kidneys, increases significantly in fibrotic RAS kidneys, and correlates well with fibrosis by histology. Therefore, qMT may constitute a valuable tool for measuring renal fibrosis in RAS.
+LEVEL OF EVIDENCE: 1 TECHNICAL EFFICACY STAGE: 3.
+
+Citation: Jiang K, et al. Quantitative Magnetization Transfer Detects Renal Fibrosis in Murine Kidneys With Renal Artery Stenosis. Quantitative Magnetization Transfer Detects Renal Fibrosis in Murine Kidneys With Renal Artery Stenosis. 2020; (unknown volume):(unknown pages). doi: 10.1002/jmri.27370
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32964585/

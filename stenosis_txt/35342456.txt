@@ -1,0 +1,8 @@
+PMID: 35342456
+Title: Effect of Extended Lipid Core on the Hemodynamic Parameters: A Fluid-Structure Interaction Approach.
+
+Abstract: Myocardial infarction is one of the leading causes of death in the developed countries. A majority of myocardial infarctions are caused by the rupture of coronary artery plaques. In order to achieve a better understanding of the effect of the extension of the lipid core into the artery wall on the change of flow field and its effect on plaque vulnerability, we have studied the hemodynamic parameters by utilizing a finite element method and taking into account the fluid-structure interaction (FSI). Four groups of stenosis models with different sizes of lipid core were used in the study. The fully developed pulsatile velocity profile of the right coronary artery was used as the inlet boundary condition, and the pressure pulse was applied as the outlet boundary condition. The non-Newtonian Carreau model was used to simulate the non-Newtonian behavior of blood. Results indicate that the extension of the lipid core into the artery wall influences the flow field; subsequently, creates favorable conditions for additional development of the lipid core which can lead to a higher risk of plaque rupture.
+
+Citation: Teymoori M, et al. Effect of Extended Lipid Core on the Hemodynamic Parameters: A Fluid-Structure Interaction Approach. Effect of Extended Lipid Core on the Hemodynamic Parameters: A Fluid-Structure Interaction Approach. 2022; 2022:2047549. doi: 10.1155/2022/2047549
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35342456/

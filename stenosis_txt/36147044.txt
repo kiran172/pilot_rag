@@ -1,0 +1,11 @@
+PMID: 36147044
+Title: Machine learning to predict in-stent stenosis after Pipeline embolization device placement.
+
+Abstract: BACKGROUND: The Pipeline embolization device (PED) is a flow diverter used to treat intracranial aneurysms. In-stent stenosis (ISS) is a common complication of PED placement that can affect long-term outcome. This study aimed to establish a feasible, effective, and reliable model to predict ISS using machine learning methodology.
+METHODS: We retrospectively examined clinical, laboratory, and imaging data obtained from 435 patients with intracranial aneurysms who underwent PED placement in our center. Aneurysm morphological measurements were manually measured on pre- and posttreatment imaging studies by three experienced neurointerventionalists. ISS was defined as stenosis rate >50% within the PED. We compared the performance of five machine learning algorithms (elastic net (ENT), support vector machine, Xgboost, Gaussian Naïve Bayes, and random forest) in predicting ISS. Shapley additive explanation was applied to provide an explanation for the predictions.
+RESULTS: A total of 69 ISS cases (15.2%) were identified. Six predictors of ISS (age, obesity, balloon angioplasty, internal carotid artery location, neck ratio, and coefficient of variation of red cell volume distribution width) were identified. The ENT model had the best predictive performance with a mean area under the receiver operating characteristic curve of 0.709 (95% confidence interval [CI], 0.697-0.721), mean sensitivity of 77.9% (95% CI, 75.1-80.6%), and mean specificity of 63.4% (95% CI, 60.8-65.9%) in Monte Carlo cross-validation. Shapley additive explanation analysis showed that internal carotid artery location was the most important predictor of ISS.
+CONCLUSION: Our machine learning model can predict ISS after PED placement for treatment of intracranial aneurysms and has the potential to improve patient outcomes.
+
+Citation: Wei D, et al. Machine learning to predict in-stent stenosis after Pipeline embolization device placement. Machine learning to predict in-stent stenosis after Pipeline embolization device placement. 2022; 13:912984. doi: 10.3389/fneur.2022.912984
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36147044/

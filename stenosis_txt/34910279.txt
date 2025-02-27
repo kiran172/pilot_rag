@@ -1,0 +1,11 @@
+PMID: 34910279
+Title: Diagnostic accuracy of on-site coronary computed tomography-derived fractional flow reserve in the diagnosis of stable coronary artery disease.
+
+Abstract: PURPOSE: Invasive fractional flow reserve (FFR), the reference standard for identifying significant coronary artery disease (CAD), can be estimated non-invasively by computed tomography-derived fractional flow reserve (CT-FFR). Commercially available off-site CT-FFR showed improved diagnostic accuracy compared to coronary computed tomography angiography (CCTA) alone. However, the diagnostic performance of this lumped-parameter on-site method is unknown. The aim of this cross-sectional study was to determine the diagnostic accuracy of on-site CT-FFR in patients with suspected CAD.
+METHODS: A total of 61 patients underwent CCTA and invasive coronary angiography with FFR measured in 88 vessels. Significant CAD was defined as FFR and CT-FFR below 0.80. CCTA with stenosis above 50% was regarded as significant CAD. The diagnostic performance of both CT-FFR and CCTA was assessed using invasive FFR as the reference standard.
+RESULTS: Of the 88 vessels included in the analysis, 34 had an FFR of ≤ 0.80. On a per-vessel basis, the sensitivity, specificity, positive predictive value, negative predictive value and accuracy were 91.2%, 81.4%, 93.6%, 75.6% and 85.2% for CT-FFR and were 94.1%, 68.5%, 94.9%, 65.3% and 78.4% for CCTA. The area under the receiver operating characteristic curve was 0.91 and 0.85 for CT-FFR and CCTA, respectively, on a per-vessel basis.
+CONCLUSION: On-site non-invasive FFR derived from CCTA improves diagnostic accuracy compared to CCTA without additional testing and has the potential to be integrated in the current clinical work-up for diagnosing stable CAD.
+
+Citation: Peper J, et al. Diagnostic accuracy of on-site coronary computed tomography-derived fractional flow reserve in the diagnosis of stable coronary artery disease. Diagnostic accuracy of on-site coronary computed tomography-derived fractional flow reserve in the diagnosis of stable coronary artery disease. 2022; 30:160-171. doi: 10.1007/s12471-021-01647-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34910279/

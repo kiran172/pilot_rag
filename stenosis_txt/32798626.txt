@@ -1,0 +1,11 @@
+PMID: 32798626
+Title: Non-INvasive Functional and Anatomic vascular evaluation for the prediction of coronary artery disease: The NINFA study.
+
+Abstract: BACKGROUND: Endothelial function, as assessed with flow-mediated dilatation (FMD), and carotid intima-media thickness (IMT) correlate with the presence and extent of coronary artery disease (CAD). We investigated the incremental value of a combined evaluation of FMD and IMT in predicting the presence of CAD over traditional cardiovascular risk factors.
+METHODS: A total of 497 consecutive patients undergoing elective coronary angiography were enrolled in this study. Brachial artery FMD and ultrasound-based carotid IMT were evaluated prior to angiography. CAD was defined as the presence of a ≥ 50% stenosis in at least one coronary artery. SYNTAX score was also calculated. Patients were categorized based on the presence of FMD and IMT values below or above gender-specific median.
+RESULTS: Patients with both low FMD and high IMT presented the highest prevalence of CAD, number of diseased vessels, and SYNTAX score. At multivariate analysis, the combination of low FMD and high IMT was the strongest predictor of CAD (OR 3.63, 95% CI 2.19-6.02; p < .001). At ROC curve analysis, the addition of FMD and IMT to a model of traditional risk factors improved the predictive power for the presence of CAD (area under the curve [AUC] of risk factors model 0.715; AUC of risk factors + FMD + IMT 0.780; p < .001). The addition of FMD and IMT to the model of risk factors correctly reclassified 24.9% of patients.
+CONCLUSIONS: A combined evaluation of endothelial function and subclinical atherosclerosis at the carotid artery level improves the ability of traditional risk factors to identify patients with CAD.
+
+Citation: Mangiacapra F, et al. Non-INvasive Functional and Anatomic vascular evaluation for the prediction of coronary artery disease: The NINFA study. Non-INvasive Functional and Anatomic vascular evaluation for the prediction of coronary artery disease: The NINFA study. 2021; 322:16-22. doi: 10.1016/j.ijcard.2020.08.038
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32798626/

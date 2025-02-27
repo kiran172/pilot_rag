@@ -1,0 +1,12 @@
+PMID: 32000947
+Title: Adverse Events, Radiation Exposure, and Reinterventions Following Transcatheter Pulmonary Valve Replacement.
+
+Abstract: BACKGROUND: Transcatheter pulmonary valve replacement (TPVR) is associated with a risk of procedural serious adverse events (SAE) and exposure to ionizing radiation.
+OBJECTIVES: The purpose of this study was to define the risk of, and associations with, SAE and high-dose radiation exposure using large-scale registry data.
+METHODS: The analysis of the multicenter C3PO-QI registry was limited to patients who underwent TPVR from January 1, 2014, to December 31, 2016. SAE were defined as the occurrence of ≥1 moderate, major, or catastrophic events. Radiation dose was reported as dose area product adjusted for weight. Associations with outcome measures were explored in univariate and multivariable analyses.
+RESULTS: A total of 530 patients (59% male) underwent TPVR at a median age of 18.3 years (interquartile range [IQR]: 12.9 to 27.3 years) and weight of 58 kg (IQR: 43 to 77 kg) at 14 centers. Implant substrate included homograft (41%), bioprosthesis (30%), native right ventricular outflow tract (RVOT) (27%) and other (2%). TPVR indications were pulmonary insufficiency (28%), stenosis (23%), and mixed (49%). AE and SAE occurred in 26% and 13% of cases, respectively, including 1 mortality. SAE were more frequent in homograft conduit than other RVOT substrates, although SAE type and severity differed between implant substrates. Median radiation dose was 198 μGy·m2/kg (IQR: 94 to 350 μGy·m2/kg). Higher radiation dose was associated with older age, greater RVOT obstruction, and concomitant interventions (p &lt; 0.001). During a median follow-up duration of 1 year, 13.3% underwent catheterization, surgery, or both, unrelated to infection. Younger age, smaller size, and hemodynamic and anatomic factors indicative of greater RVOT obstruction were associated with TPV reintervention.
+CONCLUSIONS: The incidence of SAE during TPVR in the C3PO-QI registry is high, but mortality is uncommon. Radiation dose is greater than for other congenital interventions and is associated with patient and procedural factors. Reintervention is common during early follow-up.
+
+Citation: Goldstein BH, et al. Adverse Events, Radiation Exposure, and Reinterventions Following Transcatheter Pulmonary Valve Replacement. Adverse Events, Radiation Exposure, and Reinterventions Following Transcatheter Pulmonary Valve Replacement. 2020; 75:363-376. doi: 10.1016/j.jacc.2019.11.042
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32000947/

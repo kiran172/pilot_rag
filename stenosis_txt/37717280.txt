@@ -1,0 +1,12 @@
+PMID: 37717280
+Title: Effect of edaravone on symptomatic intracranial hemorrhage in patients with acute large vessel occlusion on apixaban for non-valvular atrial fibrillation.
+
+Abstract: BACKGROUND: Edaravone administration was associated with lower incidence of symptomatic intracranial hemorrhage (sICH) in patients with acute large vessel occlusion (LVO). However, its protective effect on sICH in patients with LVO who receive direct oral anticoagulants for non-valvular atrial fibrillation (NVAF) is uncertain.
+OBJECTIVES: To explore the effect of edaravone administration on the incidence of sICH in patients with acute LVO receiving apixaban for NVAF.
+METHODS: A Japanese multicenter registry of apixaban on clinical outcome of the patients with LVO or stenosis (ALVO study) included patients who were admitted within 24 h after stroke onset and were received apixaban within 14 days of stroke onset. Patients were divided into two groups according to edaravone administration (Edaravone and No-Edaravone groups). The incidence of sICH within one year and infarct growth before apixaban administration were compared between these groups.
+RESULTS: Of the 686 enrolled patients, 622 were included and edaravone was administered to 407 (65.4%). The incidences of sICH in Edaravone and No-Edaravone groups were 1.3% and 5.0%, respectively (p = 0.01). The inverse probability of treatment-weighting (IPTW) hazard ratio (HR) (95% confidence interval [CI]) of Edaravone group for sICH within one year was 0.36 (0.15-0.80) compared to No-Edaravone group. The incidences of infarct growth in Edaravone and No-Edaravone groups were 35.3% and 42.0%, respectively (p = 0.13). IPTW HR (95% CIs) for infarct growth was 0.76 (0.60-0.97).
+CONCLUSIONS: Edaravone administration was associated with a lower incidence of sICH in patients with LVO and NVAF who administrated apixaban.
+
+Citation: Saito T, et al. Effect of edaravone on symptomatic intracranial hemorrhage in patients with acute large vessel occlusion on apixaban for non-valvular atrial fibrillation. Effect of edaravone on symptomatic intracranial hemorrhage in patients with acute large vessel occlusion on apixaban for non-valvular atrial fibrillation. 2023; 453:120806. doi: 10.1016/j.jns.2023.120806
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37717280/

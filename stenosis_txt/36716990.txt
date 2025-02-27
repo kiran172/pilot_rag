@@ -1,0 +1,11 @@
+PMID: 36716990
+Title: Ten-year prognostic value of coronary CT angiography in asymptomatic patients with type 2 diabetes.
+
+Abstract: INTRODUCTION AND OBJECTIVES: The United Kingdom Prospective Diabetes Study (UKPDS) risk score has limited value for predicting coronary artery disease (CAD) events. We investigated the additive value of coronary computed tomography angiography (CCTA) on top of the UKPDS risk score in predicting 10-year adverse cardiac events in asymptomatic patients with type 2 diabetes.
+METHODS: We evaluated 589 asymptomatic diabetic patients without a history of CAD who underwent CCTA. The primary outcome was a composite of cardiac death, nonfatal myocardial infarction, unstable angina requiring hospitalization, and revascularization. We estimated the discrimination and reclassification ability for the prediction models, which included combinations of the UKPDS category, severity of stenosis, and coronary artery calcium score by CCTA.
+RESULTS: The incidence of the primary outcome was 12.4%. During 10 years of follow-up, patients without plaque by CCTA tended to have a low CAD event rate, while those with obstructive CAD tended to have a high event rate, irrespective of the baseline UKPDS risk category. The model that included only the UKPDS category had a Harrell's c-index of 0.658; adding the degree of stenosis to the model significantly increased the c-index by 0.066 (P=.004), while adding coronary artery calcium score increased the c-index by only 0.039 (P=.056). Overall, CCTA information in addition to the UKPDS risk category improved the reclassification rate for predicting the primary outcome.
+CONCLUSIONS: In asymptomatic patients with type 2 diabetes, CCTA information for CAD provided significant incremental discriminatory power beyond the UKPDS risk score category for predicting 10-year adverse coronary events.
+
+Citation: Hyun J, et al. Ten-year prognostic value of coronary CT angiography in asymptomatic patients with type 2 diabetes. Ten-year prognostic value of coronary CT angiography in asymptomatic patients with type 2 diabetes. 2023; 76:700-707. doi: 10.1016/j.rec.2023.01.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36716990/

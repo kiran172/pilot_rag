@@ -1,0 +1,11 @@
+PMID: 39299988
+Title: A preliminary study of renal function for renal artery stenosis using multiparametric magnetic resonance imaging.
+
+Abstract: OBJECTIVE: To comprehensively evaluate the renal structure and function of patients with renal artery stenosis (RAS) using multiparametric magnetic resonance imaging (MRI), and analyze the correlation between magnetic resonance (MR) parameters and renal function.
+MATERIALS AND METHODS: Renal multiparametric MRI was conducted on 62 patients with RAS utilizing a Philips Ingenia CX 3.0 T MRI system. The scanning protocols encompassed arterial spin labeling, phase contrast MRI, diffusion weighted imaging, T1 mapping, and blood oxygen level-dependent MRI. All patients underwent radionuclide renal dynamic imaging to calculate the glomerular filtration rate (GFR) for assessing renal function.
+RESULTS: Most MR parameters were correlated with GFR: renal parenchymal volume (R = 0.603), whole kidney renal blood flow (RBF) (R = 0.192), renal cortical RBF (R = 0.294), renal artery mean velocity (R = 0.593), stroke volume (R = 0.599), mean flux (R = 0.629), renal cortical apparent diffusion coefficient (ADC) (R = 0.466), medullary ADC (R = 0.332), cortical T1 value (R = - 0.206), corticomedullary T1 difference (R = 0.204), cortical T2* value (R = 0.448), and medullary T2* value (R = 0.272). The best prediction model for GFR using multiparametric MRI was obtained, including renal PV, whole kidney RBF, cortical RBF, mean velocity, mean flux, and CMD T1.
+CONCLUSION: Multiparametric MRI is a novel noninvasive examination method that can effectively and comprehensively assess the renal structure and function of RAS.
+
+Citation: Zhao L, et al. A preliminary study of renal function for renal artery stenosis using multiparametric magnetic resonance imaging. A preliminary study of renal function for renal artery stenosis using multiparametric magnetic resonance imaging. 2024; (unknown volume):(unknown pages). doi: 10.1007/s00261-024-04586-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39299988/

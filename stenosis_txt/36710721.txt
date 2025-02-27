@@ -1,0 +1,12 @@
+PMID: 36710721
+Title: Early neurological deterioration in patients with acute ischemic stroke: a prospective multicenter cohort study.
+
+Abstract: BACKGROUND: There is still no precise knowledge of the causes of progression in patients with acute ischemic stroke (AIS), and we are unable to predict patients at risk.
+OBJECTIVE: To explore the frequency, predictive factors, and the prognosis of early neurological deterioration (END) in patients with AIS.
+METHODS: In this prospective multicenter observational study, we assessed patients with AIS admitted to 18 hospitals in Henan, China. We defined END as an increase of ⩾2 points in total National Institutes of Health Stroke Scale (NIHSS) score or ⩾1 point in the motor items of the NIHSS within 7 days after admission. Risk factors were analyzed using multivariate logistic regression models. Prognosis was evaluated using the modified Rankin Scale (mRS), with poor prognosis defined as mRS 3-6.
+RESULTS: A total of 9114 patients with AIS within 24 h of symptom onset were enrolled in the study. END occurred in 1286 (14.1%) patients. The highest incidence (62.5%) of END occurred within 24 h after admission. After adjusting potential confounders, age, body mass index, waist-hip ratio, systolic blood pressure, baseline NIHSS, disabled at baseline, history of atrial fibrillation, diabetes mellitus, intracranial arterial stenosis, infarct location in the lenticulostriate artery area and cerebral watershed, neutrophils, lymphocytes, uric acid, and triglycerides were identified as independent predictors for END. END was significantly associated with poor prognosis at 90 days, and the adjusted OR was 1.74 (95% CI: 1.53-1.97).
+CONCLUSION: One in seven hospitalized patients with AIS may experience END within 24 h of onset. The highest incidence of END occurred within 24 h of admission and decreased steeply with time. Easily identifiable risk factors predict END and could help understand the causal mechanisms and thereby prevent END.
+
+Citation: Liu H, et al. Early neurological deterioration in patients with acute ischemic stroke: a prospective multicenter cohort study. Early neurological deterioration in patients with acute ischemic stroke: a prospective multicenter cohort study. 2023; 16:17562864221147743. doi: 10.1177/17562864221147743
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36710721/

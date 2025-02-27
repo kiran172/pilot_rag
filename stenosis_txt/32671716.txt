@@ -1,0 +1,11 @@
+PMID: 32671716
+Title: Predictors of conduction recovery after permanent pacemaker implantation following transcatheter aortic valve replacement.
+
+Abstract: PURPOSE: Conduction disturbances after transcatheter aortic valve replacement (TAVR) requiring pacemaker (PPM) implantation are a known complication and may be reversible. Therefore, we sought to evaluate the incidence and predictors for atrioventricular (AV) conduction recovery after TAVR.
+METHODS: A single-center, retrospective study of patients undergoing PPM implantation for conduction disorders after TAVR between June 2011 and March 2019. Conduction recovery was defined as ≤ 1% ventricular pacing (VP) on follow-up PPM interrogation.
+RESULTS: A total of 110 patients (mean age 83.6 ± 6.6 years, 46.8% female) were included. At a median follow-up of 438 days (interquartile range [IQR] 111-760 days), 35 patients (32%) had conduction recovery, with 50% of these occurring within the first 6 months. On multivariate analysis, predictors of conduction recovery include female sex (hazard ratio [HR] 2.5, 95% confidence interval [CI] 1.01-6.4, p = 0.048), non-VP/non-complete heart block rhythm immediately post-TAVR (HR 5.2, 95% CI 1.5-18.1, p = 0.011), normal sinus rhythm 7 days post-TAVR (HR 3.9, 95% CI 1.7-9.2, p = 0.002), and smaller valve size (mm) (HR 0.81, 95% CI 0.7-0.996, p = 0.045). Significant narrowing of the QRS and resolution of new-onset left bundle branch block within 1 month post-TAVR occurred in those with conduction recovery on PPM interrogation.
+CONCLUSIONS: One-third of patients receiving new PPM implantation have conduction recovery after TAVR, with 50% occurring within the first 6 months. Patient gender, valve size, and rhythm on serial ECGs after TAVR can help identify patients that may recover AV conduction. A conservative approach rather than immediate PPM implantation may be considered in these patients.
+
+Citation: Phan DQ, et al. Predictors of conduction recovery after permanent pacemaker implantation following transcatheter aortic valve replacement. Predictors of conduction recovery after permanent pacemaker implantation following transcatheter aortic valve replacement. 2021; 61:365-374. doi: 10.1007/s10840-020-00813-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32671716/

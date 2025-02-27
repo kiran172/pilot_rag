@@ -1,0 +1,11 @@
+PMID: 39130706
+Title: Five-Year Outcomes After Fractional Flow Reserve-Guided Deferral of Revascularization in Infarct-Related Artery Lesions.
+
+Abstract: BACKGROUND: Little evidence is available about the long-term safety of fractional flow reserve (FFR)-guided deferral of revascularization in infarct-related artery (IRA) lesions, especially when measuring FFR in the late setting after myocardial infarction (MI). This study aimed to assess the long-term outcomes after deferral of revascularization in IRA lesions based on FFR assessed in the late phase of post-MI.
+METHODS: From the J-CONFIRM registry (Long-Term Outcomes of Japanese Patients With Deferral of Coronary Intervention Based on Fractional Flow Reserve in Multicenter Registry), data on 1447 lesions (1263 patients) were divided into 2 groups: the IRA and non-IRA groups. The primary study end point was the cumulative 5-year incidence of target vessel failure (TVF), such as cardiac death, target vessel-related MI, and clinically driven target vessel revascularization.
+RESULTS: Of the 1447 lesions, 138 (9.5%) were classified into the IRA group. The median duration of FFR measurement was 716 days after MI. The frequency of visual-functional mismatches (ie, FFR &gt;0.80 and percent diameter stenosis ≥50% or FFR ≤0.80 and percent diameter stenosis &lt;50%) was comparable between the IRA and non-IRA groups (31.9% vs 36.3%). The cumulative 5-year incidence of TVF did not differ between the groups (9.2% vs 11.8%; inverse probability-weighted hazard ratio, 1.18, 95% confidence intervals, 0.48-2.91, P = .71). Similar results were observed irrespective of regional wall motion assessed by ultrasonic cardiography and acute MI type.
+CONCLUSIONS: The 5-year TVF rate did not differ between the IRA and non-IRA lesions when deferring revascularization guided by FFR in the late setting of post-MI.
+
+Citation: Ohashi H, et al. Five-Year Outcomes After Fractional Flow Reserve-Guided Deferral of Revascularization in Infarct-Related Artery Lesions. Five-Year Outcomes After Fractional Flow Reserve-Guided Deferral of Revascularization in Infarct-Related Artery Lesions. 2023; 2:100632. doi: 10.1016/j.jscai.2023.100632
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39130706/

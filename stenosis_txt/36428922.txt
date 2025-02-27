@@ -1,0 +1,8 @@
+PMID: 36428922
+Title: Results of Numerical Modeling of Blood Flow in the Internal Jugular Vein Exhibiting Different Types of Strictures.
+
+Abstract: The clinical relevance of nozzle-like strictures in upper parts of the internal jugular veins remains unclear. This study was aimed at understanding flow disturbances caused by such stenoses. Computational fluid dynamics software, COMSOL Multiphysics, was used. Two-dimensional computational domain involved stenosis at the beginning of modeled veins, and a flexible valve downstream. The material of the venous valve was considered to be hyperelastic. In the vein models with symmetric 2-leaflets valve without upstream stenosis or with minor 30% stenosis, the flow was undisturbed. In the case of major 60% and 75% upstream stenosis, centerline velocity was positioned asymmetrically, and areas of reverse flow and flow separation developed. In the 2-leaflet models with major stenosis, vortices evoking flow asymmetry were present for the entire course of the model, while the valve leaflets were distorted by asymmetric flow. Our computational fluid dynamics modeling suggests that an impaired outflow from the brain through the internal jugular veins is likely to be primarily caused by pathological strictures in their upper parts. In addition, the jugular valve pathology can be exacerbated by strictures located in the upper segments of these veins.
+
+Citation: Rashid A, et al. Results of Numerical Modeling of Blood Flow in the Internal Jugular Vein Exhibiting Different Types of Strictures. Results of Numerical Modeling of Blood Flow in the Internal Jugular Vein Exhibiting Different Types of Strictures. 2022; 12:(unknown pages). doi: 10.3390/diagnostics12112862
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36428922/

@@ -1,0 +1,11 @@
+PMID: 35666834
+Title: Prevalence of Genetic Diagnoses in a Cohort With Valvar Pulmonary Stenosis.
+
+Abstract: BACKGROUND: Valvar pulmonary stenosis (vPS) accounts for 8% to 12% of congenital heart disease cases. Multiple genetic syndromes are associated with vPS, most commonly Noonan syndrome, but the cause is unknown in most cases. We analyzed genomic data from a large cohort with vPS to determine the prevalence of genetic diagnosis.
+METHODS: The Pediatric Cardiac Genomics Consortium database was queried to identify probands with vPS without complex congenital heart disease or aneuploidy and with existing whole exome or genome sequencing. A custom analysis workflow was used to identify likely pathogenic or pathogenic variants in disease-associated genes. Demographic and phenotypic characteristics were compared between groups with and without molecular diagnoses.
+RESULTS: Data from 119 probands (105 trios) were included. A molecular diagnosis was identified in 22 (18%); 17 (14%) had Noonan syndrome or a related disorder. Extracardiac and neurodevelopmental comorbidities were seen in 67/119 (56%) of probands. Molecular diagnosis was more common in those with extracardiac and neurodevelopmental phenotypes than those without (18/67 versus 4/52, P=0.0086).
+CONCLUSIONS: Clinicians should have high suspicion for a genetic diagnosis in individuals with vPS, particularly if additional phenotypes are present. Our results suggest that clinicians should consider offering sequencing of at least the known congenital heart disease and RASopathy genes to all individuals with vPS, regardless of whether that individual has extracardiac or neurodevelopmental phenotypes present.
+
+Citation: Weaver KN, et al. Prevalence of Genetic Diagnoses in a Cohort With Valvar Pulmonary Stenosis. Prevalence of Genetic Diagnoses in a Cohort With Valvar Pulmonary Stenosis. 2022; 15:e003635. doi: 10.1161/CIRCGEN.121.003635
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35666834/

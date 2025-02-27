@@ -1,0 +1,10 @@
+PMID: 35855406
+Title: Computational hemodynamic analysis of the offending vertebral artery at the site of neurovascular contact in a case of hemifacial spasm associated with subclavian steal syndrome: illustrative case.
+
+Abstract: BACKGROUND: Hemifacial spasm (HFS) is caused by neurovascular contact along the facial nerve's root exit zone (REZ). The authors report a rare HFS case that was associated with ipsilateral subclavian steal syndrome (SSS).
+OBSERVATIONS: A 42-year-old man with right-sided aortic arch presented with progressing left HFS, which was associated with ipsilateral SSS due to severe stenosis of the left brachiocephalic trunk. Magnetic resonance imaging showed contact between the left REZ and vertebral artery (VA), which had shifted to the left. The authors speculated that the severe stenosis at the left brachiocephalic trunk resulted in the left VA's deviation, which was the underlying cause of the HFS. The authors performed percutaneous angioplasty (PTA) to dilate the left brachiocephalic trunk. Ischemic symptoms of the left arm improved after PTA, but the HFS remained unchanged. A computational fluid dynamics study showed that the high wall shear stress (WSS) around the site of neurovascular contact decreased after PTA. In contrast, pressure at the point of neurovascular contact increased after PTA.
+LESSONS: SSS is rarely associated with HFS. Endovascular treatment for SSS reduced WSS of the neurovascular contact but increased theoretical pressure of the neurovascular contact. Physical release of the neurovascular contact is the best treatment option for HFS.
+
+Citation: Tominaga K, et al. Computational hemodynamic analysis of the offending vertebral artery at the site of neurovascular contact in a case of hemifacial spasm associated with subclavian steal syndrome: illustrative case. Computational hemodynamic analysis of the offending vertebral artery at the site of neurovascular contact in a case of hemifacial spasm associated with subclavian steal syndrome: illustrative case. 2021; 2:CASE21447. doi: 10.3171/CASE21447
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35855406/

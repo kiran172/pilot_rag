@@ -1,0 +1,10 @@
+PMID: 38104486
+Title: Pro-osteogenic role of interleukin-22 in calcific aortic valve disease.
+
+Abstract: BACKGROUND AND AIMS: Although calcific aortic valve disease (CAVD) is a common valvular disease among elderly populations and its incidence has markedly increased in recent decades, the pathogenesis of CAVD remains unclear. In this study, we explored the potential role of interleukin (IL)-22 and the underlying molecular mechanism in CAVD.
+METHODS AND RESULTS: Our results showed that IL-22 was upregulated in calcific aortic valves from CAVD patients, and its main sources were CD3+ T cells and CD68+ macrophages. Human aortic valve interstitial cells (VICs) expressed the IL-22-specific receptor IL-22R1, and IL-22R1 expression also was elevated in calcified valves. Treatment of cultured human VICs with recombinant human IL-22 resulted in markedly increased expression of osteogenic proteins Runt-related transcription factor 2 (RUNX2) and alkaline phosphatase (ALP), as well as increased matrix calcium deposition. Moreover, siRNA silencing of IL-22R1 blocked the pro-osteogenic effect of IL-22 in VICs. In IL-22-treated VICs, we also observed increased phosphorylation of JAK3 and STAT3 and nuclear translocation of STAT3. Pretreatment with a specific JAK3 inhibitor, WHIP-154, or siRNA knockout of STAT3 effectively mitigated the IL-22-induced osteoblastic trans-differentiation of human VICs.
+CONCLUSIONS: Together, these data indicate that IL-22 promotes osteogenic differentiation of VICs by activating JAK3/STAT3 signaling. Based on our results demonstrating a pro-osteogenic role of IL-22 in human aortic valves, pharmacological inhibition of IL-22 signaling may represent a potential strategy for alleviating CAVD.
+
+Citation: Deng H, et al. Pro-osteogenic role of interleukin-22 in calcific aortic valve disease. Pro-osteogenic role of interleukin-22 in calcific aortic valve disease. 2024; 388:117424. doi: 10.1016/j.atherosclerosis.2023.117424
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38104486/

@@ -1,0 +1,11 @@
+PMID: 36312288
+Title: Association between plasma vitamin B5 and coronary heart disease: Results from a case-control study.
+
+Abstract: AIM: The relationship of vitamin B5 and coronary heart disease (CHD) is still uncertain. This case-control study was performed to evaluate the relationship between the plasma vitamin B5 concentration and the risk of CHD.
+MATERIALS AND METHODS: The study involved 429 patients with >70% stenosis of the coronary arteries on coronary angiography and 429 matched controls were included for age ± 2 years, gender, and date of coronary angiography examination ± 180 days. Logistic regression analyses were performed to evaluate the association between plasma vitamin B5 and the risk of CHD.
+RESULTS: An L-shaped relationship was found between the plasma vitamin B5 concentration and CHD. Compared with patients with low vitamin B5 (first quartile, &lt;27.6 ng/ml), the odds ratio (OR) and 95% confidence interval (CI) for participants in the third quartile (34.9-44.0 ng/ml) and fourth quartile (≥44.0 ng/ml) were 0.42 (95% CI, 0.26-0.70) and 0.49 (95% CI, 0.29-0.82), respectively. In the threshold effect analysis, the risk of CHD significantly decreased as the vitamin B5 concentration increased (per 10 ng/ml increment: OR, 0.71; 95% CI, 0.57-0.89) in participants with a plasma vitamin B5 concentration of &lt;40.95 ng/ml; however, an increased plasma vitamin B5 concentration was no longer associated with a decreased risk of CHD (per 10 ng/ml increment: OR, 1.00; 95% CI, 0.87-1.14) in participants with a plasma vitamin B5 concentration of ≥40.95 ng/ml. The association between vitamin B5 and CHD was stronger in ever or current smokers than non-smokers (p-interaction = 0.046).
+CONCLUSION: Plasma vitamin B5 has an L-shaped relationship with CHD, with a threshold around 40.95 ng/ml. This association was modified by smoking.
+
+Citation: Sun P, et al. Association between plasma vitamin B5 and coronary heart disease: Results from a case-control study. Association between plasma vitamin B5 and coronary heart disease: Results from a case-control study. 2022; 9:906232. doi: 10.3389/fcvm.2022.906232
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36312288/

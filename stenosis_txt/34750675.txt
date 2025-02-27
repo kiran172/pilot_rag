@@ -1,0 +1,11 @@
+PMID: 34750675
+Title: Can intracranial time-of-flight-MR angiography predict extracranial carotid artery stenosis?
+
+Abstract: OBJECTIVES: Extracranial stenosis of the internal carotid artery (ICA) is an important cause of ischemic stroke and transient ischemic attack (TIA). It can be diagnosed using contrast-enhanced CT or MR angiography (MRA) as well as Doppler ultrasound. In this study, we assessed the diagnostic value of intracranial time-of-flight (TOF) MRA to predict extracranial ICA stenosis (ICAS).
+METHODS: We retrospectively analyzed consecutive patients with acute ischemic stroke or TIA and middle- (50-69%) or high-grade (70-99%) unilateral extracranial ICAS according to NASCET criteria assessed by ultrasound between January 2016 and August 2018. The control group consisted of patients without extracranial ICAS. Intraluminal signal intensities (SI) of the intracranial ICA on the side of the extracranial stenosis were compared to the contralesional side on TOF-MRA source images. SI ratios (SIR) of contralesional:lesional side were compared between groups.
+RESULTS: In total, 151 patients were included in the main analysis. Contralesional:lesional SIR in the intracranial C4-segment was significantly higher in patients with ipsilateral extracranial ICA stenosis (n = 51, median 74 years, 57% male) compared to the control group (n = 100, median 68 years, 48% male). Mean SIR was 1.463 vs. 1.035 (p < 0.001) for right-sided stenosis and 1.362 vs. 1.000 (p < 0.001) for left-sided stenosis. Receiver-operating characteristic curve demonstrated a cut-off value of 1.086 for right-sided [sensitivity/specificity 75%/81%; area under the curve (AUC) 0.81] and 1.104 for left-sided stenosis (sensitivity/specificity 70%/84%; AUC 0.80) in C4 as a good predictor for high-grade extracranial ICAS.
+CONCLUSIONS: SIR on TOF-MRA can be a marker of extracranial ICAS.
+
+Citation: Osmanodja F, et al. Can intracranial time-of-flight-MR angiography predict extracranial carotid artery stenosis?. Can intracranial time-of-flight-MR angiography predict extracranial carotid artery stenosis?. 2022; 269:2743-2749. doi: 10.1007/s00415-021-10876-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34750675/

@@ -1,0 +1,11 @@
+PMID: 38187160
+Title: Do neutrophil extracellular traps implicate in atheromatous plaques from carotid endarterectomy? Re-analyzes of cDNA microarray data by surgeons.
+
+Abstract: BACKGROUND: Carotid artery stenosis is the cause of 15% of strokes. Neutrophil extracellular traps (NETs) and peptidyl arginine deiminase 4 (PAD4) are believed to be involved in thrombosis. This pilot study described the differential expression profile of NETs between atheromatous plaques and surrounding tissues.
+METHODS: Microarray datasets of carotid plaques were obtained from Gene Expression Omnibus. The normalized data were processed into comma-separated value matrix files using spreadsheet software. Analyzes of microarray data were conducted using integrated differential expression and pathway analysis.
+RESULT: The clustering results illustrated that the classifications of plaque and control had reasonable biological validity. Pathway analysis revealed the relevance of immune response, cell signaling, and other pathways. Differentially expressed genes were detected between carotid plaques and control specimens. However, enrichment analyzes did not reveal a difference in PAD4 expression between the groups and that NET implication was only found in one cDNA microarray dataset.
+DISCUSSION: This pilot study does not necessarily dismiss the possibility of a relationship between NETs and atherothrombotic stroke. Gene expression could differ between endothelial cells and atheromas, and further studies are needed.
+
+Citation: Takahira R, et al. Do neutrophil extracellular traps implicate in atheromatous plaques from carotid endarterectomy? Re-analyzes of cDNA microarray data by surgeons. Do neutrophil extracellular traps implicate in atheromatous plaques from carotid endarterectomy? Re-analyzes of cDNA microarray data by surgeons. 2023; 14:1267136. doi: 10.3389/fneur.2023.1267136
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38187160/

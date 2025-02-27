@@ -1,0 +1,11 @@
+PMID: 34772292
+Title: The role of venous pressure variability during hemodialysis in the prediction of impending arteriovenous graft occlusion.
+
+Abstract: BACKGROUND: Elevated venous pressure during hemodialysis (VP<sub>HD</sub>) is associated with arteriovenous graft (AVG) stenosis. This study investigated the role of VP<sub>HD</sub> variations in the prediction of impending AVG occlusion.
+METHODS: Data were retrieved from 118 operations to treat AVG occlusion (occlusion group) and 149 operations to treat significant AVG stenosis (stenosis group). In addition to analyzing the VP<sub>HD</sub> values for the three hemodialysis (HD) sessions prior to the intervention, VP<sub>HD</sub> values were normalized to mean blood pressure (MBP), blood flow rate (BFR), BFR × MBP, and BFR2 × MBP to yield ratios for analysis. The coefficient of variation (CV) was used to measure relative variations.
+RESULTS: The within-group comparisons for both groups revealed no significant differences in the VP<sub>HD</sub> mean and CV values among the three HD sessions prior to intervention. However, the CVs for VP<sub>HD</sub>/MBP, VP<sub>HD</sub>/(BFR × MBP), and VP<sub>HD</sub>/(BFR2 × MBP) exhibited significant elevation in the occlusion group during the last HD session prior to intervention compared with both the penultimate and antepenultimate within-group HD data (p &lt; 0.05). In the receiver operating characteristic curve analysis, the CV for VP<sub>HD</sub>/(BFR2 × MBP) was the only parameter able to discriminate between the last and the penultimate HD outcomes (p &lt; 0.001). According to a multivariate analysis, after controlling for covariates, CV for VP<sub>HD</sub>/(BFR2 × MBP) &gt;8.76% was associated with a higher risk of AVG thrombosis (odds ratio: 3.17, p &lt; 0.001).
+CONCLUSIONS: Increasing the variation in VP<sub>HD</sub>/(BFR2 × MBP) may increase the probability of AVG occlusion.
+
+Citation: Tseng YH, et al. The role of venous pressure variability during hemodialysis in the prediction of impending arteriovenous graft occlusion. The role of venous pressure variability during hemodialysis in the prediction of impending arteriovenous graft occlusion. 2023; 24:895-903. doi: 10.1177/11297298211057381
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34772292/

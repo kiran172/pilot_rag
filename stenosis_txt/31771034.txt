@@ -1,0 +1,8 @@
+PMID: 31771034
+Title: Numerical investigation of unsteady pulsatile Newtonian/non-Newtonian blood flow through curved stenosed arteries.
+
+Abstract: A numerical investigation of Newtonian/non-Newtonian unsteady pulsatile entry blood flow inside a 3D curved stenosed artery is presented. For considering the non-Newtonian effect (shear thinning or shear thickening behavior), the blood viscosity is characterized by the power-law model (Ostwald de Waele Equation). At the inlet of the artery, a realistic pulsatile waveform is utilized according to the experimental data reported by other researchers. This study belongs to the analysis of the curvature ratios, percentage and length ratio of stenosis, and blood thickening on hemodynamic characteristics of the flow. The results emphasize that the maximum wall shear stress happens near the stenosis neck and as expected, by decreasing the stenosis length, the maximum value of wall shear stress increases. In addition, the results indicate that the shear thickening fluid shows a more stable velocity profile rather than the shear thinning fluid flow.
+
+Citation: Lakzian E and Akbarzadeh P. Numerical investigation of unsteady pulsatile Newtonian/non-Newtonian blood flow through curved stenosed arteries. Numerical investigation of unsteady pulsatile Newtonian/non-Newtonian blood flow through curved stenosed arteries. 2020; 30:525-540. doi: 10.3233/BME-191072
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31771034/

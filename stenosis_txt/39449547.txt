@@ -1,0 +1,17 @@
+PMID: 39449547
+Title: Reproducibility of Cardiac Multifrequency MR Elastography in Assessing Left Ventricular Stiffness and Viscosity.
+
+Abstract: BACKGROUND: Cardiac magnetic resonance elastography (MRE) shows promise in assessing the mechanofunctional properties of the heart but faces clinical challenges, mainly synchronization with cardiac cycle, breathing, and external harmonic stimulation.
+PURPOSE: To determine the reproducibility of in vivo cardiac multifrequency MRE (MMRE) for assessing diastolic left ventricular (LV) stiffness and viscosity.
+STUDY TYPE: Prospective.
+SUBJECTS: This single-center study included a total of 28 participants (mean age, 56.6 ± 23.0 years; 16 male) consisting of randomly selected healthy participants (mean age, 44.6 ± 20.1 years; 9 male) and patients with aortic stenosis (mean age, 78.3 ± 3.8 years; 7 male).
+FIELD STRENGTH/SEQUENCE: 3 T, 3D multifrequency MRE with a single-shot spin-echo planar imaging sequence.
+ASSESSMENT: Each participant underwent two cardiac MMRE examinations on the same day. Full 3D wave fields were acquired in diastole at frequencies of 80, 90, and 100 Hz during a total of three breath-holds. Shear wave speed (SWS) and penetration rate (PR) were reconstructed as a surrogate for tissue stiffness and inverse viscous loss. Epicardial and endocardial ROIs were manually drawn by two independent readers to segment the LV myocardium.
+STATISTICAL TESTS: Shapiro-Wilk test, Bland-Altman analysis and intraclass correlation coefficient (ICC). P-value <0.05 were considered statistically significant.
+RESULTS: Bland-Altman analyses and intraclass correlation coefficients (ICC = 0.96 for myocardial stiffness and ICC = 0.93 for viscosity) indicated near-perfect test-retest repeatability among examinations on the same day. The mean SWS for scan and re-scan diastolic LV myocardium were 2.42 ± 0.24 m/s and 2.39 ± 0.23 m/s; the mean PR were 1.24 ± 0.17 m/s and 1.22 ± 0.14 m/s. Inter-reader variability showed good to excellent agreement for myocardial stiffness (ICC = 0.92) and viscosity (ICC = 0.85).
+DATA CONCLUSION: Cardiac MMRE is a promising and reproducible method for noninvasive assessment of diastolic LV stiffness and viscosity.
+LEVEL OF EVIDENCE: 2 TECHNICAL EFFICACY: 1.
+
+Citation: Castelein J, et al. Reproducibility of Cardiac Multifrequency MR Elastography in Assessing Left Ventricular Stiffness and Viscosity. Reproducibility of Cardiac Multifrequency MR Elastography in Assessing Left Ventricular Stiffness and Viscosity. 2024; (unknown volume):(unknown pages). doi: 10.1002/jmri.29640
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39449547/

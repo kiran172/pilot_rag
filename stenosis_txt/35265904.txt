@@ -1,0 +1,12 @@
+PMID: 35265904
+Title: Large-scale identification of aortic stenosis and its severity using natural language processing on electronic health records.
+
+Abstract: BACKGROUND: Systematic case identification is critical to improving population health, but widely used diagnosis code-based approaches for conditions like valvular heart disease are inaccurate and lack specificity.
+OBJECTIVE: To develop and validate natural language processing (NLP) algorithms to identify aortic stenosis (AS) cases and associated parameters from semi-structured echocardiogram reports and compare their accuracy to administrative diagnosis codes.
+METHODS: Using 1003 physician-adjudicated echocardiogram reports from Kaiser Permanente Northern California, a large, integrated healthcare system (>4.5 million members), NLP algorithms were developed and validated to achieve positive and negative predictive values > 95% for identifying AS and associated echocardiographic parameters. Final NLP algorithms were applied to all adult echocardiography reports performed between 2008 and 2018 and compared to ICD-9/10 diagnosis code-based definitions for AS found from 14 days before to 6 months after the procedure date.
+RESULTS: A total of 927,884 eligible echocardiograms were identified during the study period among 519,967 patients. Application of the final NLP algorithm classified 104,090 (11.2%) echocardiograms with any AS (mean age 75.2 years, 52% women), with only 67,297 (64.6%) having a diagnosis code for AS between 14 days before and up to 6 months after the associated echocardiogram. Among those without associated diagnosis codes, 19% of patients had hemodynamically significant AS (ie, greater than mild disease).
+CONCLUSION: A validated NLP algorithm applied to a systemwide echocardiography database was substantially more accurate than diagnosis codes for identifying AS. Leveraging machine learning-based approaches on unstructured electronic health record data can facilitate more effective individual and population management than using administrative data alone.
+
+Citation: Solomon MD, et al. Large-scale identification of aortic stenosis and its severity using natural language processing on electronic health records. Large-scale identification of aortic stenosis and its severity using natural language processing on electronic health records. 2021; 2:156-163. doi: 10.1016/j.cvdhj.2021.03.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35265904/

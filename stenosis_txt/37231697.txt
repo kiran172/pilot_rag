@@ -1,0 +1,11 @@
+PMID: 37231697
+Title: The contribution of competing mechanisms in stroke despite anticoagulation in patients with atrial fibrillation.
+
+Abstract: BACKGROUND: For reasons poorly understood, strokes frequently occur in patients with atrial fibrillation (AF) despite oral anticoagulation. Better data are needed to inform randomised trials (RCTs) of new strategies to prevent recurrence in these patients. We investigate the relative contribution of competing stroke mechanisms in patients with AF who have stroke despite anticoagulation (OAC+) compared with those who are anticoagulant naïve (OAC-) at the time of their event.
+PATIENTS AND METHODS: We performed a cross-sectional study leveraging data from a prospective stroke registry (2015-2022). Eligible patients had ischemic stroke and AF. Stroke classification was performed by a single stroke-specialist blinded to OAC status using TOAST criteria. The presence of atherosclerotic plaque was determined using duplex ultrasonography, computerised tomography (CT) or magnetic resonance (MR) angiography. Imaging was reviewed by a single reader. Logistic regression was used to identify independent predictors of stroke despite anticoagulation.
+RESULTS: Of 596 patients included, 198 (33.2%) were in the OAC+ group. A competing cause for stroke was more frequent in patients with OAC+ versus OAC- (69/198 (34.8%)) versus 77/398 (19.3%), p &lt; 0.001). After adjustment, both small vessel occlusion (odds ratio (OR): 2.46, 95% CI: 1.20-5.06) and arterial atheroma (⩾50% stenosis) (OR: 1.78, 95% CI: 1.07-2.94) were independently associated with stroke despite anticoagulation.
+DISCUSSION AND CONCLUSION: Patients with AF-associated stroke despite OAC are much more likely than patients who are OAC-naïve to have competing stroke mechanisms. Rigorous investigation for alternative stroke causes in stroke despite OAC has a high diagnostic yield. These data should be used to guide patient selection for future RCTs in this population.
+
+Citation: Herlekar R, et al. The contribution of competing mechanisms in stroke despite anticoagulation in patients with atrial fibrillation. The contribution of competing mechanisms in stroke despite anticoagulation in patients with atrial fibrillation. 2023; 8:541-548. doi: 10.1177/23969873231168367
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37231697/

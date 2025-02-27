@@ -1,0 +1,11 @@
+PMID: 35882611
+Title: Relation of hyperemic response during fractional flow reserve measurement to coronary flow reserve.
+
+Abstract: BACKGROUND: Coronary flow reserve (CFR) represents entire coronary compensatory capacity, while fractional flow reserve (FFR) is a standard to evaluate functional severity of epicardial coronary artery disease (CAD). ΔFFR, a decrease in a ratio of mean distal coronary pressure to aortic pressure (Pd/Pa) at rest to FFR, is conceptually associated with coronary microvascular function. This study aimed to evaluate the relation of ΔFFR to CFR in patients with stable CAD.
+METHODS: We performed resting Pd/Pa and FFR measurements in a total of 309 vessels with intermediate coronary artery stenosis in 242 patients. ΔFFR was defined as (resting Pd/Pa - FFR), and pressure bounded-CFR was calculated to estimate low CFR. Vessels were divided as the low CFR and non-low CFR groups.
+RESULTS: Of 309 vessels, low CFR was observed in 101 (32.7 %). While FFR values were similar (0.78 ± 0.11 vs. 0.78 ± 0.09, p = 0.84), resting Pd/Pa (0.85 ± 0.08 vs. 0.93 ± 0.04, p < 0.001) and ΔFFR (0.07 ± 0.06 vs. 0.15 ± 0.06, p < 0.001) were significantly lower in the low CFR group than in the non-low CFR group. The receiver operating characteristic curve analysis indicated that ΔFFR was predictive for low CFR (area under the curve 0.84, best cut-off value 0.08, p < 0.001). Multivariable analysis identified lower ΔFFR, the left anterior descending coronary artery, and lower hemoglobin and higher brain natriuretic peptide levels as factors associated with low CFR.
+CONCLUSIONS: In patients with stable CAD, lower ΔFFR was significantly associated with low CFR in intermediate coronary stenosis in patients with stable CAD. ΔFFR may be a simple, practical, and useful surrogate to identify patients with impaired CFR.
+
+Citation: Yamazaki T, et al. Relation of hyperemic response during fractional flow reserve measurement to coronary flow reserve. Relation of hyperemic response during fractional flow reserve measurement to coronary flow reserve. 2022; 80:532-536. doi: 10.1016/j.jjcc.2022.07.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35882611/

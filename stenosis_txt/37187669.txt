@@ -1,0 +1,8 @@
+PMID: 37187669
+Title: Wall shear gradient dependent thrombosis studied in blood-on-a-chip with stenotic, branched, and valvular constructions.
+
+Abstract: Thrombosis is the leading cause of death, while the effect of the shear flow on the formation of thrombus in vascular constructions has not been thoroughly understood, and one of the challenges is to observe the origination of thrombus with a controlled flow field. In this work, we use blood-on-a-chip technology to mimic the flow conditions in coronary artery stenosis, neonatal aortic arch, and deep venous valve. The flow field is measured by the microparticle image velocimeter (μPIV). In the experiment, we find that the thrombus often originates at the constructions of stenosis, bifurcation, and the entrance of valve, where the flow stream lines change suddenly, and the maximum wall shear rate gradient appears. Using the blood-on-a-chip technology, the effect of the wall shear rate gradients on the formation of the thrombus has been illustrated, and the blood-on-a-chip is demonstrated to be a perspective tool for further studies on the flow-induced formation of thrombosis.
+
+Citation: Li Y, et al. Wall shear gradient dependent thrombosis studied in blood-on-a-chip with stenotic, branched, and valvular constructions. Wall shear gradient dependent thrombosis studied in blood-on-a-chip with stenotic, branched, and valvular constructions. 2023; 17:034101. doi: 10.1063/5.0149884
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37187669/

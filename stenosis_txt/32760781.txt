@@ -1,0 +1,11 @@
+PMID: 32760781
+Title: Initial changes in peak aortic jet velocity and mean gradient predict progression to severe aortic stenosis.
+
+Abstract: BACKGROUND: There is significant interindividual variability in the rate of aortic stenosis (AS) progression that is not accounted for in the current surveillance algorithms. We sought to examine the association between changes in peak aortic jet velocity (Vmax) and mean gradient (MG) among patients with mild or moderate AS and risk of progression to severe disease.
+METHODS: Adult subjects referred for echocardiography at a single academic referral center with a diagnosis of mild or moderate AS and ≥2 additional surveillance echocardiograms were included in the study. Changes in Vmax and MG between the first two echocardiograms were indexed to time and tested for association with future progression to severe AS.
+RESULTS: Among three hundred and sixty-four subjects, the median time between first and second echocardiograms was 1.3 years and initial changes in Vmax and MG indexed to time were +0.16 m/s per year and +1.44 mmHg per year, respectively. Fifty-three (15%) and fifty-six (15%) subjects progressed to severe AS defined by Vmax and MG, respectively. In multivariable logistic regression, initial increase in Vmax (OR = 4.19, 95% CI 1.93-9.10, p < 0.001) and initial increase in MG (OR = 1.12, 95% CI 1.06-1.18, p < 0.001) were associated with progression to severe AS.
+CONCLUSIONS: Initial changes in Vmax and MG among patients with mild or moderate AS are strongly associated with risk of progression to severe AS and may help guide individualized surveillance strategies.
+
+Citation: Nayeri A, et al. Initial changes in peak aortic jet velocity and mean gradient predict progression to severe aortic stenosis. Initial changes in peak aortic jet velocity and mean gradient predict progression to severe aortic stenosis. 2020; 30:100592. doi: 10.1016/j.ijcha.2020.100592
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32760781/

@@ -1,0 +1,11 @@
+PMID: 36277798
+Title: Sigmoid isostiffness-lines: An in-vitro model for the assessment of aortic stenosis severity.
+
+Abstract: INTRODUCTION: The aortic valve opening area (AVA), used to quantify aortic stenosis severity, depends on the transvalvular flow rate (Q). The currently accepted clinical echocardiographic method assumes a linear relation between AVA and Q. We studied whether a sigmoid model better describes this relation and determined "isostiffness-lines" across a wide flow spectrum, thus allowing building a nomogram for the non-invasive estimation of valve stiffness.
+METHODS: Both AVA and instantaneous Q (Q<sub>inst</sub>) were measured at 10 different mean cardiac outputs of porcine aortic valves mounted in a pulsatile flow loop. The valves' cusps were chemically stiffened to obtain three stiffness grades and the procedure was repeated for each grade. The relative stiffness was defined as the ratio between LV work at grade with the added stiffness and at native stiffness grade.     AVA  peak    ¯  corresponding to the selected     Q  peak    ¯  of the highest 3 and 5 cardiac output values was predicted in K-fold cross-validation using sequentially a linear and a sigmoid model. The accuracy of each model was assessed with the Akaike information criterion (AIC).
+RESULTS: The sigmoid model predicted more accurately     AVA  peak    ¯  (AIC for prediction of AVA with     Q  peak    ¯  of the 3 highest cardiac output values: -1,743 vs. -1,048; 5 highest cardiac output values: -1,471 vs. -878) than the linear model.
+CONCLUSION: This study suggests that the relation between AVA and Q can be better described by a sigmoid than a linear model. This construction of "isostiffness-lines" may be a useful method for the assessment of aortic stenosis in clinical echocardiography.
+
+Citation: Buffle E, et al. Sigmoid isostiffness-lines: An in-vitro model for the assessment of aortic stenosis severity. Sigmoid isostiffness-lines: An in-vitro model for the assessment of aortic stenosis severity. 2022; 9:960170. doi: 10.3389/fcvm.2022.960170
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36277798/

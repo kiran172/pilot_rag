@@ -1,0 +1,11 @@
+PMID: 32096354
+Title: Role of Carotid Artery Stenting in Prevention of Stroke for Asymptomatic Carotid Stenosis: Bayesian Cross-Design and Network Meta-Analyses.
+
+Abstract: BACKGROUND AND OBJECTIVES: There is insufficient evidence regarding the optimal treatment for asymptomatic carotid stenosis.
+METHODS: Bayesian cross-design and network meta-analyses were performed to compare the safety and efficacy among carotid artery stenting (CAS), carotid endarterectomy (CEA), and medical treatment (MT). We identified 18 studies (4 randomized controlled trials [RCTs] and 14 nonrandomized, comparative studies [NRCSs]) comparing CAS with CEA, and 4 RCTs comparing CEA with MT from MEDLINE, Cochrane Library, and Embase databases.
+RESULTS: The risk for periprocedural stroke tended to increase in CAS, compared to CEA (odds ratio [OR], 1.86; 95% credible interval [CrI], 0.62-4.54). However, estimates for periprocedural myocardial infarction (MI) were quite heterogeneous in RCTs and NRCSs. Despite a trend of decreased risk with CAS in RCTs (OR, 0.70; 95% CrI, 0.27-1.24), the risk was similar in NRCSs (OR, 1.02; 95% CrI, 0.87-1.18). In indirect comparisons of MT and CAS, MT showed a tendency to have a higher risk for the composite of periprocedural death, stroke, MI, or nonperiprocedural ipsilateral stroke (OR, 1.30; 95% CrI, 0.74-2.73). Analyses of study characteristics showed that CEA-versus-MT studies took place about 10-year earlier than CEA-versus-CAS studies.
+CONCLUSIONS: A similar risk for periprocedural MI between CEA and CAS in NRCSs suggested that concerns about periprocedural MI accompanied by CEA might not matter in real-world practice when preoperative evaluation and management are working. Maybe the benefits of CAS over MT have been overestimated considering advances in medical therapy within10-year gap between CEA-versus-MT and CEA-versus-CAS studies.
+
+Citation: Roh JH, et al. Role of Carotid Artery Stenting in Prevention of Stroke for Asymptomatic Carotid Stenosis: Bayesian Cross-Design and Network Meta-Analyses. Role of Carotid Artery Stenting in Prevention of Stroke for Asymptomatic Carotid Stenosis: Bayesian Cross-Design and Network Meta-Analyses. 2020; 50:330-342. doi: 10.4070/kcj.2019.0125
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32096354/

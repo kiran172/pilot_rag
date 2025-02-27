@@ -1,0 +1,11 @@
+PMID: 36935559
+Title: Predicting the mortality of patients with cardiogenic shock after coronary artery bypass grafting.
+
+Abstract: INTRODUCTION: Cardiogenic shock (CS) is a critical condition and the leading cause of mortality after coronary artery bypass grafting (CABG). To define the risk factors for CS in patients who undergo CABG and create a risk-predictive model is crucial.
+METHODS: In this observational study, we retrospectively evaluated consecutive patients who underwent CABG between January 2018 and October 2022 at Beijing Anzhen Hospital. A total of 496 patients were enrolled and categorized into the training (396 cases) and internal test (100 cases) sets. The variables significantly associated with mortality (p &lt; 0.05) were analyzed using logistic regression analyses.
+RESULTS: The E/A ratio at admission, postoperative brain natriuretic peptide, postoperative arterial lactate, two or more arrhythmias at the same time after CABG, and carotid artery stenosis at admission were identified as independent prognostic factors for in-hospital mortality after multivariate logistic regression analysis. The CS after CABG score (ACCS) was established and three classes of ACCS, named classes I (ACCS, &lt;20), II (ACCS, 20-30), and III (ACCS, &gt;30), made up the risk model. The ACCS showed better discrimination with an AUROC of 0.937 (95% confidence interval, 0.982-0.892) and calibration with the Hosmer-Lemeshow test (X2 = 5.854 with 8 df; p = 0.664). In addition, tenfold cross-validation demonstrated that the mean misdiagnosis rate was 5.56% and the lowest misdiagnosis rate was 6.38%.
+CONCLUSION: The ACCS score represents a risk-predictive model for in-hospital mortality of patients with CS after CABG in acute care settings. Patients identified as class III may have a worse prognosis.
+
+Citation: Zhou X, et al. Predicting the mortality of patients with cardiogenic shock after coronary artery bypass grafting. Predicting the mortality of patients with cardiogenic shock after coronary artery bypass grafting. 2024; 39:807-815. doi: 10.1177/02676591231161275
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36935559/

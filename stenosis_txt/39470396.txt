@@ -1,0 +1,11 @@
+PMID: 39470396
+Title: Prognostic and therapeutic implications of low aortic valve calcium score in patients with low gradient aortic stenosis.
+
+Abstract: INTRODUCTION: Low gradient (LG) aortic stenosis (AS) poses a diagnostic challenge. Aortic valve calcium score (AVCS) assessment has emerged as a complementary diagnostic method when echocardiography provides discordant results. However, the diagnostic and prognostic value of AVCS in LGAS has not been thoroughly studied. Our aims were to investigate the prognostic importance of AVCS in LGAS and to assess whether symptomatic patients with LGAS and low AVCS may benefit from aortic valve intervention (AVI).
+METHODS: 327 symptomatic patients (78.5±7.3 years, 51% women) with severe AS defined by the aortic valve area who underwent computed tomography for transcatheter aortic valve intervention (TAVI) planning were enrolled. AVCS was measured. AVCS<2000 AU in men and<1200 AU in women was considered low AVCS.
+RESULTS: 243 patients had high gradient (HG) and 84 had LGAS. Low AVCS was present in 25(10%) of the HG and 34(40%) of the LGAS cases. Over a median follow-up period of 4.9 years, 194 deaths occurred. In multivariate analysis, AVCS was a significant independent predictor of all-cause mortality among HGAS (aHR:2.317; CI:1.104-4.861; p= 0.026), but not among LGAS (aHR:0.848; CI:0.434-1.658; p=0.630) patients. After propensity score matching between patients who underwent AVI and those who were medically treated, AVI (94% TAVI) was a significant and independent predictor of survival among LG AS patients with low AVCS even after adjustment for clinical variables (aHR:0.102, CI:0.028-0.369; p<0.001).
+CONCLUSION: The prevalence of low AVCS is much higher in LGAS than in HGAS. In symptomatic severe LGAS low AVCS did not entail a better prognosis. AVI is equally beneficial in LGAS patients with high or low AVCS, similarly to HGAS.
+
+Citation: Juhász D, et al. Prognostic and therapeutic implications of low aortic valve calcium score in patients with low gradient aortic stenosis. Prognostic and therapeutic implications of low aortic valve calcium score in patients with low gradient aortic stenosis. 2024; (unknown volume):(unknown pages). doi: 10.1093/ehjci/jeae276
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39470396/

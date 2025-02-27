@@ -1,0 +1,8 @@
+PMID: 31981313
+Title: Urine flow analysis using double J stents of various sizes in in vitro ureter models.
+
+Abstract: A double J stent (DJS) is used to alleviate the congestion of urine in the upper urinary tract when there is ureteral stenosis, which causes the interruption of normal urine flow and results in renal failure. The purpose of placing DJSs is to ensure sufficient urine flow in the ureter, but the DJS acts as a foreign body in the urinary system and sometimes acts as an obstacle in achieving sufficient urine flow. Here, to evaluate the performance of various sizes of DJSs, 5Fr (1.666 mm) to 8Fr (2.666 mm), in the ureter, silicon ureter models without stenosis, and a circulation setup were constructed. The total flow rates (TFRs) in the stented ureters were evaluated with an in vitro experiment. The TFRs in the 5Fr DJS were larger than those in the other sizes of DJS. As the size of DJS increased, the TFR decreased. Computational fluid dynamics was also applied to validate the experimental results. It was shown that the experimental results agreed well with the numerical results.
+
+Citation: Kim KW, et al. Urine flow analysis using double J stents of various sizes in in vitro ureter models. Urine flow analysis using double J stents of various sizes in in vitro ureter models. 2020; 36:e3294. doi: 10.1002/cnm.3294
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31981313/

@@ -1,0 +1,11 @@
+PMID: 35907198
+Title: Creation and validation of a predictive model for lumbar synovial cyst recurrence following decompression without fusion.
+
+Abstract: OBJECTIVE: Lumbar synovial cysts (LSCs) represent a relatively rare clinical pathology that may result in radiculopathy or neurogenic claudication. Because of the potential for recurrence of these cysts, some authors advocate for segmental fusion, as opposed to decompression alone, as a way to eliminate the risk for recurrence. The objective of this study was to create a predictive score for synovial cyst recurrence following decompression without fusion.
+METHODS: A retrospective chart review was completed of all patients evaluated at a single center over 20 years who were found to have symptomatic LSCs requiring intervention. Only patients undergoing decompression without fusion were included in the analysis. Following this review, baseline characteristics were obtained as well as radiological information. A machine learning method (risk-calibrated supersparse linear integer model) was then used to create a risk stratification score to identify patients at high risk for symptomatic cyst recurrence requiring repeat surgical intervention. Following the creation of this model, a fivefold cross-validation was completed.
+RESULTS: In total, 89 patients were identified who had complete radiological information. Of these 89 patients, 11 developed cyst recurrence requiring reoperation. The Lumbar Synovial Cyst Score was then created with an area under the curve of 0.83 and calibration error of 11.0%. Factors predictive of recurrence were found to include facet inclination angle > 45°, canal stenosis > 50%, T2 joint space hyperintensity, and presence of grade I spondylolisthesis. The probability of cyst recurrence ranged from < 5% for a score of 2 or less to > 88% for a score of 7.
+CONCLUSIONS: The Lumbar Synovial Cyst Score model is a quick and accurate tool to assist in clinical decision-making in the treatment of LSCs.
+
+Citation: Page PS, et al. Creation and validation of a predictive model for lumbar synovial cyst recurrence following decompression without fusion. Creation and validation of a predictive model for lumbar synovial cyst recurrence following decompression without fusion. 2022; 37:851-854. doi: 10.3171/2022.5.SPINE22504
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35907198/

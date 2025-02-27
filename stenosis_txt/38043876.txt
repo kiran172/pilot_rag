@@ -1,0 +1,12 @@
+PMID: 38043876
+Title: The prognostic impact of diastolic dysfunction after transcatheter aortic valve replacement: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Diastolic dysfunction (DD) is a long-established marker of disease progression in patients with aortic valve stenosis (AS), indicating valvular myocardial damage. Recently, substantial observational data have emerged demonstrating that worse pre-operative DD assessed using echocardiography is associated with adverse long-term clinical outcomes after transcatheter aortic valve replacement (TAVR).
+AIM: To systematically appraise and quantitatively synthesize current evidence on the prognostic impact of echocardiographic severe DD derived by echocardiography before TAVR.
+METHODS: A systemic literature review was undertaken in electronic databases to identify studies reporting the predictive value of severe DD in AS subjects undergoing TAVR. A random-effects meta-analysis was conducted to quantify the adjusted and unadjusted hazard ratios (HRs) for all-cause mortality and major adverse cardiovascular events (MACEs) for the presence of severe DD.
+RESULTS: Ten studies were deemed eligible for inclusion. Of those, 9 provided appropriate quantitative data for the meta-analysis, encompassing a total of 4,619 patients. The presence of severe DD was associated with increased risk for all-cause mortality (pooled unadjusted HR=2.56 [1.46-4.48]; p&lt;0.01; I2=76 %) and MACEs (pooled unadjusted HR=1.82 [1.29-2.58]; p&lt;0.01; I2=86 %). When adjusted for clinically-relevant parameters, the presence of severe DD retained independent association with all-cause mortality (pooled adjusted HR=2.35 [1.26-4.37]; p&lt;0.01; I2=79 %) and MACEs (pooled adjusted HR= 2.52 [1.72-3.65]; p&lt;0.01; I2=0 %). In subgroup analysis there was no difference on post-TAVR risk between the use of different diastolic function grading scores.
+CONCLUSION: Presence of severe DD assessed by echocardiography pre-TAVR is a major determinant of long-term adverse outcomes after the procedure.
+
+Citation: Stalikas N, et al. The prognostic impact of diastolic dysfunction after transcatheter aortic valve replacement: A systematic review and meta-analysis. The prognostic impact of diastolic dysfunction after transcatheter aortic valve replacement: A systematic review and meta-analysis. 2024; 49:102228. doi: 10.1016/j.cpcardiol.2023.102228
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38043876/

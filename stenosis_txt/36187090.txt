@@ -1,0 +1,11 @@
+PMID: 36187090
+Title: FT4/FT3 ratio: A novel biomarker predicts coronary microvascular dysfunction (CMD) in euthyroid INOCA patients.
+
+Abstract: BACKGROUND: Ischemia and no obstructive coronary artery disease (INOCA) patients who presented coronary microvascular dysfunction (CMD) demonstrate a poor prognosis, yet the risk factors for CMD remain unclear. Subtle changes in thyroid hormone levels within the normal range, especially the free thyroxine (FT4)/free triiodothyronine (FT3) ratio, have been shown to regulate the cardiovascular system. This prospective study investigated the correlation between FT4/FT3 ratio and CMD in euthyroid patients with INOCA.
+METHODS: This prospective study (www.chictr.org.cn/, ChiCTR2000037112) recruited patients with myocardial ischemia symptoms who underwent both coronary angiography (CAG) and myocardial perfusion imaging (MPI) with dynamic single-photon emission computed tomography (D-SPECT). INOCA was defined as coronary stenosis< 50% and CMD was defined as coronary flow reserve (CFR)<2.5. All patients were excluded from abnormal thyroid function and thyroid disease history.
+RESULTS: Among 71 INOCA patients (15 [21.1%] CMD), FT4 and FT4/FT3 ratio in CMD group were significantly higher and both showed significantly moderate correlation with CFR (r=-0.25, p=0.03; r=-0.34, p=0.003, respectively). The ROC curve revealed that FT4/FT3 ratio had the highest efficacy for predicting CMD with an optimized cutoff value>3.39 (AUC 0.78, p<0.001, sensitivity, 80.0%; specificity, 71.4%). Multivariate logistic regression showed that FT4/FT3 ratio was an independent predictor of CMD (OR 7.62, 95% CI 1.12-51.89, p=0.038, P for trend=0.006).
+CONCLUSION: In euthyroid INOCA patients, increased FT4/FT3 ratio levels are associated with the occurrence of CMD, presenting a novel biomarker for improving the risk stratification.
+
+Citation: Zhang H, et al. FT4/FT3 ratio: A novel biomarker predicts coronary microvascular dysfunction (CMD) in euthyroid INOCA patients. FT4/FT3 ratio: A novel biomarker predicts coronary microvascular dysfunction (CMD) in euthyroid INOCA patients. 2022; 13:1021326. doi: 10.3389/fendo.2022.1021326
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36187090/

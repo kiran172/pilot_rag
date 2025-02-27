@@ -1,0 +1,11 @@
+PMID: 35018652
+Title: Computational fluid dynamics simulation of hemodynamic changes in a hemodialysis patient with central venous stenosis treated with stent.
+
+Abstract: BACKGROUND: It has not been demonstrated that computational fluid dynamics (CFD) can be used to model central venous stenosis (CVS), nor that hemodynamic changes in CVS treated with stent placement can be anticipated. The purpose of this study was to demonstrate the hemodynamic performance of CVS patients treated with stent placement.
+METHODS: Patient-specific geometric models were constructed using computed tomography images of veins from hemodialysis patients treated with stent placement. CFD simulation based on geometry was performed using ANSYS-15 to compare pressure quantitatively, wall shear stress (WSS), and flow velocity in the brachial vein before and after stent placement.
+RESULTS: Following a covered stent placement, the swelling of the left upper extremity was relieved. Prior to stent implantation, the maximum and mean brachial vein wall pressures were 465.2 Pa and 224.609 Pa, respectively. It was determined that the maximum WSS value was 8.449 Pa and that the mean WSS value was 0.743 Pa. The maximum and mean flow velocities were 1.16 and 0.173 m/s, respectively. After stent placement, the maximum wall pressure, maximum WSS, and maximum flow velocity dropped by 59.4%, 71.2%, and 57.8%, respectively. The mean wall pressure, mean WSS, and mean flow rate decreased by 43.5%, 52.7%, and 17.6%, respectively.
+CONCLUSION: Hemodynamics of CVS in hemodialysis patients exhibited turbulent, imbalances and disorders, which can be improved by stent placement.
+
+Citation: Chen B, et al. Computational fluid dynamics simulation of hemodynamic changes in a hemodialysis patient with central venous stenosis treated with stent. Computational fluid dynamics simulation of hemodynamic changes in a hemodialysis patient with central venous stenosis treated with stent. 2022; 35:528-533. doi: 10.1111/sdi.13048
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35018652/

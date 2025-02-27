@@ -1,0 +1,11 @@
+PMID: 36769550
+Title: Association of Coronary Computed Tomography Angiography and Stress Echocardiography with Long-Term Cardiac Outcome: A Comparison Study.
+
+Abstract: AIMS: This study aimed to assess which variables on coronary computed tomography angiography (CTA) and vasodilator stress-echocardiography (SE) are best associated with long-term cardiac outcome in patients presenting for suspected chronic coronary syndrome (CCS) who performed both tests.
+METHODS: We identified 397 patients with suspected CCS who, between 2007 and 2019, underwent both SE and CTA within 30 days. Coronary artery calcium score (CACS) and the number of coronary arteries with diameter stenosis >50% were assessed on CTA. The presence of reversible regional wall motion abnormalities (RWMA) and reduced Doppler coronary flow velocity reserve in the left-anterior descending coronary artery (CFVR) were assessed on SE. The association of SE and CTA variables with cardiac outcome (cardiac death or myocardial infarction) was evaluated using Fine and Gray competing risk models.
+RESULTS: During a median follow-up of 10 years, 38 (9.6%) patients experienced a nonfatal myocardial infarction and 19 (4.8%) died from a cardiac cause. RWMA (HR 7.189, p &lt; 0.001) and a lower CFVR (HR 0.034, p &lt; 0.001) on SE, along with CACS (HR 1.004, p &lt; 0.001) and the number of &gt;50% stenosed coronary vessels (HR 1.975, p &lt; 0.001) on CTA, were each associated with cardiac events. After adjusting for covariates, only CACS and CFVR remained associated (both p &lt; 0.001) with cardiac outcome.
+CONCLUSION: Our data suggest that only CFVR on vasodilatory SE and CACS on CTA are independently and strongly associated with long-term cardiac outcome, unlike RWMA or the number of stenosed coronary arteries, usually considered the hallmarks of coronary artery disease on each test.
+
+Citation: Gaibazzi N, et al. Association of Coronary Computed Tomography Angiography and Stress Echocardiography with Long-Term Cardiac Outcome: A Comparison Study. Association of Coronary Computed Tomography Angiography and Stress Echocardiography with Long-Term Cardiac Outcome: A Comparison Study. 2023; 12:(unknown pages). doi: 10.3390/jcm12030903
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36769550/

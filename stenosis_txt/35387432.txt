@@ -1,0 +1,11 @@
+PMID: 35387432
+Title: Diagnostic Accuracy of Subtraction Coronary CT Angiography in Severely Calcified Segments: Comparison Between Readers With Different Levels of Experience.
+
+Abstract: PURPOSE: Subtraction coronary CT angiography (CCTA) may reduce blooming and beam-hardening artifacts. This study aimed to assess its value in improving the diagnostic accuracy of readers with different experience levels.
+METHOD: We prospectively enrolled patients with target segment who underwent CCTA and invasive coronary angiography (ICA). Target segment images were independently evaluated by three groups of radiologists with different experience levels with CCTA using ICA as the standard reference. Diagnostic accuracy was measured by the area under the curve (AUC), using ≥50% stenosis as the cut-off value.
+RESULTS: In total, 134 target segments with severe calcification from 47 patients were analyzed. The mean specificity of conventional CCTA for each group ranged from 22.4 to 42.2%, which significantly improved with subtraction CCTA, ranging from 81.3 to 85.7% (all p &lt; 0.001). The mean sensitivity of conventional CCTA for each group ranged from 83.3 to 88.0%. Following calcification subtraction, the mean sensitivity decreased for the novice (p &lt; 0.001) and junior (p = 0.017) radiologists but was unchanged for the senior radiologists (p = 0.690). With subtraction CCTA, the mean AUCs of CCTA significantly increased: values ranged from 0.53, 0.54, and 0.61 to 0.70, 0.74, and 0.85 for the novice, junior, and senior groups (all p &lt; 0.001).
+CONCLUSION: Subtraction CCTA could improve the diagnostic accuracy of radiologists at all experience levels of CCTA interpretation.
+
+Citation: Li F, et al. Diagnostic Accuracy of Subtraction Coronary CT Angiography in Severely Calcified Segments: Comparison Between Readers With Different Levels of Experience. Diagnostic Accuracy of Subtraction Coronary CT Angiography in Severely Calcified Segments: Comparison Between Readers With Different Levels of Experience. 2022; 9:828751. doi: 10.3389/fcvm.2022.828751
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35387432/

@@ -1,0 +1,12 @@
+PMID: 36120760
+Title: Numerical analysis of hemodynamics in pulmonary artery stenosis.
+
+Abstract: BACKGROUND: Pulmonary artery stenosis is a serious threat to people's life and health.
+OBJECTIVE: The hydrodynamic mechanism of pulmonary artery stenosis is investigated.
+METHODS: Numerical analysis of hemodynamics in pulmonary artery stenosis using computational fluid dynamics techniques is performed. An idealized model of pulmonary artery stenosis is established, and the model is divided into main pulmonary artery, right and left pulmonary arteries, and their branches. The sections at different positions are intercepted to study the distribution trend of maximum velocity, pressure and wall shear stress.
+RESULTS: The numerical simulation results show that the pressure drop at both ends of the narrow area is large. High velocity and wall shear stress exist in the center of stenosis, and the wall shear stress at the distal end of stenosis gradually decreases, resulting in endothelial dysfunction.
+CONCLUSIONS:  To some extent, this study helps clinicians make diagnosis and treatment plans in advance and improve prognosis. This method could be used in the numerical simulation of practical models.
+
+Citation: He F, et al. Numerical analysis of hemodynamics in pulmonary artery stenosis. Numerical analysis of hemodynamics in pulmonary artery stenosis. 2023; 34:235-246. doi: 10.3233/BME-221418
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36120760/

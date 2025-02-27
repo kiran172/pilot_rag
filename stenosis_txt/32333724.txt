@@ -1,0 +1,12 @@
+PMID: 32333724
+Title: Clinical outcomes of transcatheter aortic valve implantation (TAVI) in nonagenarians from the optimized catheter valvular intervention-TAVI registry.
+
+Abstract: OBJECTIVES: The purpose of this study was to investigate 30-day and 2-year clinical outcomes, and predictors of 2-year mortality in nonagenarians undergoing transcatheter aortic valve implantation (TAVI).
+BACKGROUND: TAVI has been applied to nonagenarians. However, sufficient clinical data in nonagenarians who could benefit from TAVI are limited.
+METHODS: We evaluated the data from the optimized catheter valvular intervention-TAVI registry. Clinical outcomes were compared between patients' age ≥90 years and age <90 years. Predictive factors of 2-year mortality were assessed by multivariable Cox regression analyses.
+RESULTS: From October 2013 to May 2017, a total of 375 nonagenarians (age ≥90 years) and 2,213 younger patients (age <90 years) were included. Although nonagenarians had a higher surgical risk score, 30-day clinical outcomes were similar between two groups. There were no significant differences in 2-year mortality (22.0% vs. 17.3%; p = .11) and stroke (5.5% vs. 3.9%; p = .31); however, 2-year heart failure readmission was higher in nonagenarians (13.3% vs. 9.0%; p = .03). After adjusting covariates, age ≥90 years was not independent predictor for 2-year outcomes. In nonagenarians, female sex (hazard ratio [HR] = 0.43; 95% confidence interval [CI] = 0.26-0.74; p = .002), chronic kidney disease grade ≥4 (HR = 2.14; 95% CI = 1.21-3.64; p = .01), and Clinical Frailty Scale ≥4 (HR = 1.82; 95% CI = 1.02-3.42; p = .04) were independently associated with 2-year mortality.
+CONCLUSIONS: Clinical outcomes of TAVI in selected nonagenarians were favorable. Severe renal dysfunction and frailty may be important factors to predict mid-term mortality after TAVI in nonagenarians.
+
+Citation: Noguchi M, et al. Clinical outcomes of transcatheter aortic valve implantation (TAVI) in nonagenarians from the optimized catheter valvular intervention-TAVI registry. Clinical outcomes of transcatheter aortic valve implantation (TAVI) in nonagenarians from the optimized catheter valvular intervention-TAVI registry. 2021; 97:E113-E120. doi: 10.1002/ccd.28935
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32333724/

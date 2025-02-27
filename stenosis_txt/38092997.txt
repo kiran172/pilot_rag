@@ -1,0 +1,11 @@
+PMID: 38092997
+Title: A simple machine learning approach for preoperative diagnosis of esophageal burns after caustic substance ingestion in children.
+
+Abstract: PURPOSE: The unresolved debate about the management of corrosive ingestion is a major problem both for the patients and healthcare systems. This study aims to demonstrate the presence and the severity of the esophageal burn after caustic substance ingestion can be predicted with complete blood count parameters.
+METHODS: A multicenter, national, retrospective cohort study was performed on all caustic substance cases between 2000 and 2018. The classification learner toolbox of MATLAB version R2021a was used for the classification problem. Machine learning algorithms were used to forecast caustic burn.
+RESULTS: Among 1839 patients, 142 patients (7.7%) had burns. The type of the caustic and the PDW (platelet distribution width) values were the most important predictors. In the acid group, the AUC (area under curve) value was 84% while it was 70% in the alkaline group. The external validation had 85.17% accuracy in the acidic group and 91.66% in the alkaline group.
+CONCLUSIONS: Artificial intelligence systems have a high potential to be used in the prediction of caustic burns in pediatric age groups.
+
+Citation: Aydın E, et al. A simple machine learning approach for preoperative diagnosis of esophageal burns after caustic substance ingestion in children. A simple machine learning approach for preoperative diagnosis of esophageal burns after caustic substance ingestion in children. 2023; 40:20. doi: 10.1007/s00383-023-05602-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38092997/

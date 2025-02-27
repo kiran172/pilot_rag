@@ -1,0 +1,12 @@
+PMID: 32020270
+Title: Predictive factors and long-term prognosis of transcatheter aortic valve implantation-associated endocarditis.
+
+Abstract: BACKGROUND: There are still limited data regarding transcatheter aortic valve implantation (TAVI) endocarditis.
+OBJECTIVES: The objective of the present study was to investigate the predictor and long-term outcome of TAVI endocarditis.
+METHODS: Consecutive patients undergoing TAVI at the University of Bonn were prospectively enrolled in this study. Transcatheter heart valve (THV) endocarditis was defined according to Duke criteria. The primary outcome was all-cause death within a 5-year follow-up.
+RESULTS: 1448 successful TAVI patients were eligible for the study and 17 patients (1.2%) developed THV endocarditis during the follow-up period (median 294 days). A multivariable logistic regression analysis identified age (odds ratio [OR] 0.90; P = 0.001) and residual paravalvular leakage (PVL) ≥ 2 after TAVI (OR 5.15; P = 0.015) as the main predictors for the occurrence of TAVI endocarditis. Additional analyses revealed that younger patients were significantly associated with higher rates of diabetes (P = 0.001), hemodialysis (P < 0.001), prior cardiac surgery (P < 0.001), and chronic obstructive pulmonary disease (COPD) (P < 0.001). A Kaplan-Meier analysis showed a significantly worse prognosis in TAVI patients with endocarditis than in patients without (log-rank; P = 0.03) during the 5-year follow-up. A multivariable Cox proportional hazard analysis revealed that TAVI endocarditis is an independent predictor of long-term mortality (hazard ratio 4.17; 95% CI 1.91-9.07; P < 0.001).
+CONCLUSIONS: Our study identified lower age and residual PVL ≥ 2 as predictors for THV endocarditis, which itself may be considered as an independent predictor of long-term mortality after TAVI.
+
+Citation: Tabata N, et al. Predictive factors and long-term prognosis of transcatheter aortic valve implantation-associated endocarditis. Predictive factors and long-term prognosis of transcatheter aortic valve implantation-associated endocarditis. 2020; 109:1165-1176. doi: 10.1007/s00392-020-01609-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32020270/

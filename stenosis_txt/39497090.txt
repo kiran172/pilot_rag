@@ -1,0 +1,11 @@
+PMID: 39497090
+Title: In-depth hemodynamic assessment in acute mild stroke patients with large vessel occlusion or stenosis.
+
+Abstract: OBJECTIVE: Acute treatment in mild stroke patients with acute anterior circulation large vessel occlusion/stenosis (AACLVO/S) had limited evidence. Hemodynamic play an important role in neurological deterioration. We aimed to investigate predictor value of hemodynamic assessment for clinical outcome predicting and guiding individual therapeutic decisions in those patients.
+METHODS: We retrospectively analyze the stroke database in our stroke center. We recruited patients with mild stroke, defined by National Institutes of Health Stroke Scale (NIHSS) score ≤ 5, caused by AACLVO/S treated with just medical management (MT). They all received cerebral autoregulation (CA) assessments within 72 h after stroke onset. The primary end point was clinical outcome at 90-day after stroke.
+RESULTS: Logistic regression analysis showed that bilateral higher baseline phase difference (PD) were independent variables related to favorable 90-day outcome, (OR 0.963, 95% CI 0.936-0.991, p = 0.040; OR 0.943, 95% CI 0.970-0.997; p = 0.008, respectively). The optimal cutoff value of bilateral PD was > 34.97º and > 14.29º respectively.
+CONCLUSION: CA evaluation can provide hemodynamic status in mild stroke patients with AACLVO/S.
+
+Citation: Tian G, et al. In-depth hemodynamic assessment in acute mild stroke patients with large vessel occlusion or stenosis. In-depth hemodynamic assessment in acute mild stroke patients with large vessel occlusion or stenosis. 2024; 24:426. doi: 10.1186/s12883-024-03939-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39497090/

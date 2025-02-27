@@ -1,0 +1,8 @@
+PMID: 34658932
+Title: An Open-Access Database for the Evaluation of Cardio-Mechanical Signals From Patients With Valvular Heart Diseases.
+
+Abstract: This paper describes an open-access database for seismo-cardiogram (SCG) and gyro-cardiogram (GCG) signals. The archive comprises SCG and GCG recordings sourced from and processed at multiple sites worldwide, including Columbia University Medical Center and Stevens Institute of Technology in the United States, as well as Southeast University, Nanjing Medical University, and the first affiliated hospital of Nanjing Medical University in China. It includes electrocardiogram (ECG), SCG, and GCG recordings collected from 100 patients with various conditions of valvular heart diseases such as aortic and mitral stenosis. The recordings were collected from clinical environments with the same types of wearable sensor patch. Besides the raw recordings of ECG, SCG, and GCG signals, a set of hand-corrected fiducial point annotations is provided by manually checking the results of the annotated algorithm. The database also includes relevant echocardiogram parameters associated with each subject such as ejection fraction, valve area, and mean gradient pressure.
+
+Citation: Yang C, et al. An Open-Access Database for the Evaluation of Cardio-Mechanical Signals From Patients With Valvular Heart Diseases. An Open-Access Database for the Evaluation of Cardio-Mechanical Signals From Patients With Valvular Heart Diseases. 2021; 12:750221. doi: 10.3389/fphys.2021.750221
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34658932/

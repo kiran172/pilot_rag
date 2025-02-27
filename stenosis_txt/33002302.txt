@@ -1,0 +1,12 @@
+PMID: 33002302
+Title: Preprocedural anemia in females undergoing transcatheter aortic valve implantation: Insights from the WIN-TAVI registry.
+
+Abstract: OBJECTIVES: To assess the impact of anemia on clinical outcomes in female patients enrolled in the Women's InterNational transcatheter aortic valve implantation (WIN-TAVI) registry.
+BACKGROUND: Anemia is highly prevalent among females who constitute half of TAVI candidates, yet, its clinical significance remains poorly investigated.
+METHODS: Patients were divided into three groups according to preprocedural hemoglobin (Hb) level: (1) no anemia (Hb ≥12 g/dl), (2) mild-to-moderate anemia (10 ≤ Hb <12 g/dl), and (3) severe anemia (Hb <10 g/dl). The primary outcome was the occurrence of Valve Academic Research Consortium (VARC)-2 efficacy endpoint, a composite of mortality, stroke, myocardial infarction (MI), hospitalization for valve-related symptoms or heart failure or valve-related dysfunction at 1-year follow-up.
+RESULTS: Hemoglobin level was available in 877 (86.1%) patients: 412 (47.0%) had no anemia, 363 (41.4%) had mild-to-moderate anemia, and 102 (11.6%) had severe anemia. The latter group had a higher prevalence of cardiovascular risk factors. Compared with patients without anemia, severe anemia was associated with a greater risk of VARC-2 efficacy endpoint (<sub>adj</sub> HR 1.71, 95% CI: 1.02-2.87, p = .04), all-cause death (<sub>adj</sub> HR 2.36, 95% CI: 1.31-4.26, p = .004) and a composite of death, MI or stroke (<sub>adj</sub> HR 1.88, 95% CI: 1.10-3.22, p = .02) at 1 year. Moreover, an increased risk of late mortality (<sub>adj</sub> HR 1.15, 95% CI: 1.02-1.30, p = .03) was observed with every 1 g/dl decrease in hemoglobin level.
+CONCLUSION: Severe anemia in females undergoing TAVI was independently associated with increased rates of VARC-2 efficacy endpoint and mortality at 1 year.
+
+Citation: Nicolas J, et al. Preprocedural anemia in females undergoing transcatheter aortic valve implantation: Insights from the WIN-TAVI registry. Preprocedural anemia in females undergoing transcatheter aortic valve implantation: Insights from the WIN-TAVI registry. 2021; 97:E704-E715. doi: 10.1002/ccd.29276
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33002302/

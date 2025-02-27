@@ -1,0 +1,11 @@
+PMID: 32469172
+Title: Does a Gradient-Adjusted Cardiac Power Index Improve Prediction of Post-Transcatheter Aortic Valve Replacement Survival Over Cardiac Power Index?
+
+Abstract: PURPOSE: Cardiac power (CP) index is a product of mean arterial pressure (MAP) and cardiac output (CO). In aortic stenosis, however, MAP is not reflective of true left ventricular (LV) afterload. We evaluated the utility of a gradient-adjusted CP (GCP) index in predicting survival after transcatheter aortic valve replacement (TAVR), compared to CP alone.
+MATERIALS AND METHODS: We included 975 patients who underwent TAVR with 1 year of follow-up. CP was calculated as (CO×MAP)/[451×body surface area (BSA)] (W/m²). GCP was calculated using augmented MAP by adding aortic valve mean gradient (AVMG) to systolic blood pressure (CP1), adding aortic valve maximal instantaneous gradient to systolic blood pressure (CP2), and adding AVMG to MAP (CP3). A multivariate Cox regression analysis was performed adjusting for baseline covariates. Receiver operator curves (ROC) for CP and GCP were calculated to predict survival after TAVR.
+RESULTS: The mortality rate at 1 year was 16%. The mean age and AVMG of the survivors were 81±9 years and 43±4 mm Hg versus 80±9 years and 42±13 mm Hg in the deceased group. The proportions of female patients were similar in both groups (p=0.7). Both CP and GCP were independently associated with survival at 1 year. The area under ROCs for CP, CP1, CP2, and CP3 were 0.67 [95% confidence interval (CI), 0.62-0.72], 0.65 (95% CI, 0.60-0.70), 0.66 (95% CI, 0.61-0.71), and 0.63 (95% CI 0.58-0.68), respectively.
+CONCLUSION: GCP did not improve the accuracy of predicting survival post TAVR at 1 year, compared to CP alone.
+
+Citation: Agasthi P, et al. Does a Gradient-Adjusted Cardiac Power Index Improve Prediction of Post-Transcatheter Aortic Valve Replacement Survival Over Cardiac Power Index?. Does a Gradient-Adjusted Cardiac Power Index Improve Prediction of Post-Transcatheter Aortic Valve Replacement Survival Over Cardiac Power Index?. 2020; 61:482-491. doi: 10.3349/ymj.2020.61.6.482
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32469172/

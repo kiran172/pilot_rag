@@ -1,0 +1,12 @@
+PMID: 36273422
+Title: Left ventricular stroke volume index following transcatheter aortic valve replacement is an early predictor of 1-year survival.
+
+Abstract: BACKGROUND: Adverse cardiac events are common following transcatheter aortic valve replacement (TAVR). Our aim was to investigate the low left ventricular stroke volume index (LVSVI) 30 days after TAVR as an early echocardiographic marker of survival.
+HYPOTHESIS: Steady-state (30-day) LVSVI after TAVR is associated with 1-year mortality.
+METHODS: A single-center retrospective analysis of all patients undergoing TAVR from 2017 to 2019. Baseline and 30-day post-TAVR echocardiographic LVSVI were calculated. Patients were stratified by pre-TAVR transaortic gradient, surgical risk, and change in transvalvular flow following TAVR.
+RESULTS: This analysis focuses on 238 patients treated with TAVR. The 1-year mortality rate was 9% and 124 (52%) patients had normal flow post-TAVR. Of those with pre-TAVR low flow, 67% of patients did not normalize LVSVI at 30 days. The 30-day normal flow was associated with lower 1-year mortality when compared to low flow (4% vs. 14%, p = .007). This association remained significant after adjusting for known predictors of risk (adjusted odds ratio [OR] of 3.45, 95% confidence interval: 1.02-11.63 [per 1 ml/m2 decrease], p = .046). Normalized transvalvular flow following TAVR was associated with reduced mortality (8%) when compared to those with persistent (15%) or new-onset low flow (12%) (p = .01).
+CONCLUSIONS: LVSVI at 30 days following TAVR is an early echocardiographic predictor of 1-year mortality and identifies patients with worse intermediate outcomes. More work is needed to understand if this short-term imaging marker might represent a novel therapeutic target.
+
+Citation: Annamalai SK, et al. Left ventricular stroke volume index following transcatheter aortic valve replacement is an early predictor of 1-year survival. Left ventricular stroke volume index following transcatheter aortic valve replacement is an early predictor of 1-year survival. 2023; 46:76-83. doi: 10.1002/clc.23937
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36273422/

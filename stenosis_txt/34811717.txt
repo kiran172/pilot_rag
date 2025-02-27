@@ -1,0 +1,11 @@
+PMID: 34811717
+Title: Prognostic value of post-procedural μQFR for drug-coated balloons in the treatment of in-stent restenosis.
+
+Abstract: BACKGROUND: Investigating the prognostic value of the Murray law-based quantitative flow ratio (μQFR) on the clinical outcome after treatment of in-stent restenosis (ISR) with a drug-coated balloon (DCB).
+METHODS: Patients participating in a previous randomized clinical trial for DCB-ISR were post-hoc analyzed. The primary endpoint was vessel-oriented composite endpoint (VOCE), defined as cardiac death, target vessel-related myocardial infarction, and ischemia-driven target vessel revascularization. μQFRs at baseline and after DCB angioplasty was calculated, and its prognostic value as a predictor of VOCE was explored in Cox regression.
+RESULTS: A total of 169 lesions in 169 patients were analyzed. At 1-year follow-up, 20 VOCEs occurred in 20 patients. Receiver-operating characteristic curve analysis identified a post-procedural μQFR of ≤ 0.89 as the best cut-off to predict VOCE (area under curve [AUC]: 0.74; 95% confidence interval [CI]: 0.67-0.80; p < 0.001), superior to post-procedural in-stent percent diameter stenosis, which reported an AUC of 0.61 (95% CI: 0.53-0.68; p = 0.18). Post-procedural μQFR was significantly lower in patients with VOCE compared with those without (0.88 [interquartile range: 0.79-0.94] vs. 0.96 [interquartile range: 0.91-0.98], respectively; p < 0.001). After correction for potential confounders, post-procedural μQFR ≤ 0.89 was associated with a 6-fold higher risk of VOCE than lesions with μQFR > 0.89 (hazard ratio: 5.94; 95% CI: 2.33-15.09; p < 0.001).
+CONCLUSIONS: Post-procedural μQFR may become a promising predictor of clinical outcome after treatment of DES-ISR lesions by DCB angioplasty.
+
+Citation: Liu L, et al. Prognostic value of post-procedural μQFR for drug-coated balloons in the treatment of in-stent restenosis. Prognostic value of post-procedural μQFR for drug-coated balloons in the treatment of in-stent restenosis. 2023; 30:167-177. doi: 10.5603/CJ.a2021.0154
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34811717/

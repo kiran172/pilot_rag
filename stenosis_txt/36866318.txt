@@ -1,0 +1,12 @@
+PMID: 36866318
+Title: Age and Bone Bruise Patterns Predict Tear Location in the Anterior Cruciate Ligament.
+
+Abstract: PURPOSE: To assess the influence of demographic risk factors, anatomic risk factors, and injury mechanisms on anterior cruciate ligament (ACL) tear patterns.
+METHODS: All patients undergoing knee magnetic resonance imaging at our institution for acute ACL tears (within 1 month of injury) in 2019 were retrospectively analyzed. Patients with partial ACL tears and full-thickness posterior cruciate ligament injuries were excluded. On sagittal magnetic resonance images, the proximal and distal remnant lengths were measured, and the tear location was calculated as the distal remnant length divided by the total remnant length. Previously reported demographic and anatomic risk factors associated with ACL injury were then reviewed, including the notch width index, notch angle, intercondylar notch stenosis, alpha angle, posterior tibial slope, meniscal slope, and lateral femoral condyle index. In addition, the presence and severity of bone bruises were recorded. Finally, risk factors associated with ACL tear location were further analyzed using multivariate logistic regression.
+RESULTS: A total of 254 patients (44% male patients; mean age, 34 years; age range, 9-74 years) were included, of whom 60 (24%) had a proximal ACL tear (tear at the proximal quarter). Multivariate enter logistic regression analysis showed that older age (P = .008) was predictive of a more proximal tear location whereas open physes (P = .025), bone bruises in both compartments (P = .005), and posterolateral corner injury (P = .017) decreased the likelihood of a proximal tear (R 2 = 0.121, P &lt; .001).
+CONCLUSIONS: No anatomic risk factors were identified to play a role in tear location. Although most patients have midsubstance tears, proximal ACL tears were more commonly found in older patients. Bone contusions involving the medial compartment are associated with midsubstance tears; these findings may indicate that different injury mechanisms play a role in the location at which the ACL tears.
+LEVEL OF EVIDENCE: Level III, prognostic, retrospective cohort study.
+
+Citation: Vermeijden HD, et al. Age and Bone Bruise Patterns Predict Tear Location in the Anterior Cruciate Ligament. Age and Bone Bruise Patterns Predict Tear Location in the Anterior Cruciate Ligament. 2023; 5:e41-e50. doi: 10.1016/j.asmr.2022.10.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36866318/

@@ -1,0 +1,11 @@
+PMID: 32896348
+Title: Measurement method for external auditory canal and clinical application in congenital aural stenosis.
+
+Abstract: OBJECTIVE: To describe a measurement method for external auditory canal (EAC), especially in congenital aural stenosis (CAS).
+METHODS: High-resolution CT (HRCT) datasets of CAS were imported into the MIMICS 15.0 software for image processing. We used two methods to evaluate the degree of CAS. One is sagittal reconstruction measurement method, the minor axis of the bony ear canal was measured in each layer using sagittal reconstruction. The other is Matlab procedure calculation, we calculated the midpoint axis values of the EAC in each Frankfurt plane. Finally, we compared the minimum value of each method, and verified the sagittal reconstruction measurement method retrospectively in the CAS cases without cholesteatoma who had undergone meatoplasty.
+RESULTS: Twenty CAS cases were selected using the sagittal reconstruction measurement method and Matlab procedure calculation to evaluate the degree of CAS. The mean age was 9.55 ± 2.85 years old (range: 6-15). The mean degree of CAS was 2.09 ± 0.50 mm by sagittal reconstruction measurement method and 2.03 ± 0.58 mm by Matlab procedure calculation. There were no significant differences in the two groups (t = -1.371, p = 0.186). A total of 94 HRCT datasets were imported into MIMICS for verification. The mean age was 11.66 ± 6.56 years old (range: 6-39). Mean stenosis of EAC at surgery was 2.88 ± 0.93 mm (range: 1-4) by using sagittal reconstruction measurement method.
+CONCLUSIONS: Matlab procedure calculation is precise but relatively complicated and is only for scientific research. The sagittal reconstruction measurement method to calculate the most stenotic part of the bony ear canal is relatively simple and accurate to evaluate the degree of CAS. In cases of CAS without cholesteatoma, the precise measurement was critical for the next consultation.
+
+Citation: Li CL, et al. Measurement method for external auditory canal and clinical application in congenital aural stenosis. Measurement method for external auditory canal and clinical application in congenital aural stenosis. 2020; 137:110233. doi: 10.1016/j.ijporl.2020.110233
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32896348/

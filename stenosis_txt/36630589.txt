@@ -1,0 +1,11 @@
+PMID: 36630589
+Title: Reconstructive techniques following low anterior resection for carcinoma of the rectum: meta-analysis.
+
+Abstract: BACKGROUND: Multiple trials have compared reconstruction techniques used following the resection of distal rectal cancers, including straight colorectal anastomosis (SCA), colonic J pouch (CJP), side-to-end anastomosis (SEA), and transverse coloplasty (TCP). The latest meta-analysis on the subject concluded that all the reservoir techniques produce equally good surgical and functional outcomes compared with SCA. Numerous trials have been published in this regard subsequently. Hence, a network analysis (NMA) was performed to rank these techniques.
+METHODS: A literature search of MEDLINE, Embase, and the Cochrane Library from their inception until April 2021 was conducted to identify randomized trials. Functional and surgical outcome data were pooled. ORs and standardized mean differences (MDs) were used as pooled effect size measures. A frequentist NMA model was used.
+RESULTS: Thirty-two trials met the eligibility criteria comprising 3072 patients. CJP showed better functional outcomes, such as low stool frequency and better incontinence score, both in the short term (stool frequency, MD -2.06, P < 0.001; incontinence, MD -1.17, P = 0.007) and intermediate term (stool frequency, MD -0.81, P = 0.021; incontinence MD -0.56, P = 0.083). Patients with an SEA (long-term OR 4.37; P = 0.030) or TCP (long-term OR 5.79; P < 0.001) used more antidiarrheal medications constantly. The urgency and sensation of incomplete evacuation favoured CJP in the short term. TCP was associated with a higher risk of anastomotic leakage (OR 12.85; P < 0.001) and stricture (OR 3.21; P = 0.012).
+CONCLUSION: Because of its better functional outcomes, CJP should be the reconstruction technique of choice. TCP showed increased anastomotic leak and stricture rates, warranting judicious use.
+
+Citation: Mathew A, et al. Reconstructive techniques following low anterior resection for carcinoma of the rectum: meta-analysis. Reconstructive techniques following low anterior resection for carcinoma of the rectum: meta-analysis. 2023; 110:313-323. doi: 10.1093/bjs/znac400
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36630589/

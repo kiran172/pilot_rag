@@ -1,0 +1,12 @@
+PMID: 35389276
+Title: The influence of artificial intelligence assistance on the diagnostic performance of CCTA for coronary stenosis for radiologists with different levels of experience.
+
+Abstract: BACKGROUND: The interpretation of coronary computed tomography angiography (CCTA) stenosis may be difficult among radiologists of different experience levels. Artificial intelligence (AI) may improve the diagnostic performance.
+PURPOSE: To investigate whether the diagnostic performance and time efficiency of radiologists with different levels of experience in interpreting CCTA images could be improved by using CCTA with AI assistance (CCTA-AI).
+MATERIAL AND METHODS: This analysis included 200 patients with complete CCTA and invasive coronary angiography (ICA) data, using ICA results as the reference. Eighteen radiologists were divided into three levels based on experience (Levels I, II, and III), and the three levels were divided into groups without (Groups 1, 2, and 3) and with (Groups 4, 5, and 6) AI assistance, totaling six groups (to avoid reader recall bias). The average sensitivity, specificity, NPV, PPV, and AUC were reported for the six groups and CCTA-AI at the patient, vessel, and segment levels. The interpretation time in the groups with and without CCTA-AI was recorded.
+RESULTS: Compared to the corresponding group without CCTA-AI, the Level I group with CCTA-AI had improved sensitivity (75.0% vs. 83.0% on patient-based; P = 0.003). At Level III, the specificity was better with CCTA-AI. The median interpretation times for the groups with and without CCTA-AI were 413 and 615 s, respectively (P &lt; 0.001).
+CONCLUSION: CCTA-AI could assist with and improve the diagnostic performance of radiologists with different experience levels, with Level I radiologists exhibiting improved sensitivity and Level III radiologists exhibiting improved specificity. The use of CCTA-AI could shorten the training time for radiologists.
+
+Citation: Han X, et al. The influence of artificial intelligence assistance on the diagnostic performance of CCTA for coronary stenosis for radiologists with different levels of experience. The influence of artificial intelligence assistance on the diagnostic performance of CCTA for coronary stenosis for radiologists with different levels of experience. 2023; 64:496-507. doi: 10.1177/02841851221089263
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35389276/

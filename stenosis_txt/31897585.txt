@@ -1,0 +1,11 @@
+PMID: 31897585
+Title: Relationship between coronary arterial 18F-sodium fluoride uptake and epicardial adipose tissue analyzed using computed tomography.
+
+Abstract: PURPOSE: 18F-Sodium fluoride (18F-NaF) positron emission tomography (PET) has the potential to detect high-risk coronary plaques. Epicardial adipose tissue (EAT) reportedly correlates with coronary atherosclerosis progression. We evaluated the relationship between coronary arterial 18F-NaF uptake and EAT findings using computed tomography (CT).
+METHODS: We studied 40 patients with ≥ 1 coronary plaque detected on cardiac CT who underwent 18F-NaF PET/CT. EAT volume was measured using CT and indexed to body surface area in each patient. Each plaque was evaluated for CT-based luminal stenosis and high-risk features. The mean EAT density surrounding each plaque was calculated as perilesional EAT density (PLED) using non-contrast CT images. Focal 18F-NaF uptake in each plaque was quantified using the maximum tissue-to-background ratio (TBR<sub>max</sub>).
+RESULTS: EAT volume index was similar between patients with TBR<sub>max</sub> ≥ 1.28 (previously reported optimal cutoff to predict coronary events) and those with lower TBR<sub>max</sub>, but patients with TBR<sub>max</sub> ≥ 1.28 showed higher maximum PLED per patient (- 86 ± 12 Hounsfield units (HU) versus - 98 ± 11 HU, P = 0.0044). In the lesion-based analysis (n = 92), PLED was positively correlated with TBR<sub>max</sub>, and the optimal PLED cutoff to identify TBR<sub>max</sub> ≥ 1.28 was - 97 HU. On multivariate analysis adjusted for lesion location, obstructive stenosis, and high-risk plaque on CT, PLED ≥ - 97 HU remained a significant predictor of TBR<sub>max</sub> ≥ 1.28.
+CONCLUSIONS: Increased PLED was associated with significant coronary arterial 18F-NaF uptake. Step-by-step analyses of EAT density on CT and coronary arterial 18F-NaF uptake on PET may offer novel strategies for risk prediction in coronary artery disease.
+
+Citation: Kitagawa T, et al. Relationship between coronary arterial 18F-sodium fluoride uptake and epicardial adipose tissue analyzed using computed tomography. Relationship between coronary arterial 18F-sodium fluoride uptake and epicardial adipose tissue analyzed using computed tomography. 2020; 47:1746-1756. doi: 10.1007/s00259-019-04675-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31897585/

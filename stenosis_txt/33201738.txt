@@ -1,0 +1,8 @@
+PMID: 33201738
+Title: In silico approaches for transcatheter aortic valve replacement inspection.
+
+Abstract: Introduction: Increasing applications of transcatheter aortic valve replacement (TAVR) to treat high- or medium-risk patients with aortic diseases have been proposed in recent years. Despite its increasing use, many influential factors are still to be understood. Furthermore, innovative applications of TAVR such as in bicuspid aortic valves or in low-risk patients are emerging in clinical use. Numerical analyses are increasingly used to reproduce clinical treatments. The future trends in this area are foreseen for in silico trials and personalized medicine. Areas covered: This review paper analyzes the recent years (Jan 2018 - Aug 2020) of in silico studies simulating the behavior of transcatheter aortic valves with emphasis on the addressed clinical question and the used modeling strategies. The manuscripts are firstly classified based on their clinical hypothesis. A second classification is based on the adopted modeling approach in terms of patient domain, device modeling, and inclusion or exclusion of the fluid domain. Expert opinion: The TAVR can be virtually performed in numerous vessel geometries and with different devices. This versatility allows a rapid evaluation of the feasibility of different implantation approaches for specific patients, and patient populations, resulting in faster and safer introduction or optimization of new treatments or devices.
+
+Citation: Luraghi G, et al. In silico approaches for transcatheter aortic valve replacement inspection. In silico approaches for transcatheter aortic valve replacement inspection. 2021; 19:61-70. doi: 10.1080/14779072.2021.1850265
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33201738/

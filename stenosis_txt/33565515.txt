@@ -1,0 +1,11 @@
+PMID: 33565515
+Title: Portal hypertension caused by pancreatic cancer: Multidetector computed tomography diagnosis and multivariate analysis of variceal hemorrhage.
+
+Abstract: CONTEXT: Pancreatic cancer portal hypertension (PCPH) is a rare cause of gastrointestinal bleeding. This study retrospectively assessed gastrointestinal bleeding risk factors in 57 PCPH patients diagnosed via multidetector computed tomography (MDCT).
+MATERIALS AND METHODS: The data of patients with pancreatic cancer from January 2008 to January 2018 at Qingdao Municipal Hospital were reviewed. PCPH patients were screened with MDCT and followed up. MDCT findings (e.g., the location of the venous obstruction, type of variceal veins pathway, and splenomegaly) were recorded. Variceal hemorrhage was recorded. The MDCT findings and clinical data of the PCPH patients were used in this analysis to explore the risk factors of variceal hemorrhage using binary logistic regression and multivariate logistic regression model.
+RESULTS: Fifty-seven of the 182 patients were diagnosed with PCPH. A total of 7 draining routes and 11 types of varices were found. Of these patients, eight experienced variceal hemorrhage. Univariate analysis showed that splenomegaly (odds ratio [OR] = 10.364, P = 0.003) was significantly associated with an increased risk of variceal hemorrhage. Multivariate analysis showed that splenomegaly (OR = 66.491, 95% confidence interval: 2.790-1584.643, P = 0.009) was an independent influencing factor for variceal hemorrhage in PCPH patients.
+CONCLUSIONS: Patients with pancreatic cancer have high morbidity of PCPH. The splenomegaly is more prone to hemorrhage. Splenomegaly was an independent risk factor of variceal hemorrhage. MDCT can provide insight into the stenosis and occlusion of the portal vein system and the drainage routes of variceal veins and is one of the best ways to diagnose PCPH.
+
+Citation: Liu GP, et al. Portal hypertension caused by pancreatic cancer: Multidetector computed tomography diagnosis and multivariate analysis of variceal hemorrhage. Portal hypertension caused by pancreatic cancer: Multidetector computed tomography diagnosis and multivariate analysis of variceal hemorrhage. 2020; 16:1672-1677. doi: 10.4103/jcrt.JCRT_500_20
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33565515/

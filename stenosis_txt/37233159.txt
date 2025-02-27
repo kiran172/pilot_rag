@@ -1,0 +1,11 @@
+PMID: 37233159
+Title: Transcatheter Aortic Valve Replacement Prognostication with Augmented Mean Arterial Pressure.
+
+Abstract: BACKGROUND: Post-transcatheter aortic valve replacement (TAVR) patient outcome is an important research topic. To accurately assess post-TAVR mortality, we examined a family of new echo parameters (augmented systolic blood pressure (AugSBP) and arterial mean pressure (AugMAP)) derived from blood pressure and aortic valve gradients.
+METHODS: Patients in the Mayo Clinic National Cardiovascular Diseases Registry-TAVR database who underwent TAVR between 1 January 2012 and 30 June 2017 were identified to retrieve baseline clinical, echocardiographic and mortality data. AugSBP, AugMAP and valvulo-arterial impedance (Zva) (Zva) were evaluated using Cox regression. Receiver operating characteristic curve analysis and the c-index were used to assess the model performance against the Society of Thoracic Surgeons (STS) risk score.
+RESULTS: The final cohort contained 974 patients with a mean age of 81.4 ± 8.3 years old, and 56.6% were male. The mean STS risk score was 8.2 ± 5.2. The median follow-up duration was 354 days, and the one-year all-cause mortality rate was 14.2%. Both univariate and multivariate Cox regression showed that AugSBP and AugMAP parameters were independent predictors for intermediate-term post-TAVR mortality (all p &lt; 0.0001). AugMAP1 &lt; 102.5 mmHg was associated with a 3-fold-increased risk of all-cause mortality 1-year post-TAVR (hazard ratio 3.0, 95%confidence interval 2.0-4.5, p &lt; 0.0001). A univariate model of AugMAP1 surpassed the STS score model in predicting intermediate-term post-TAVR mortality (area under the curve: 0.700 vs. 0.587, p = 0.005; c-index: 0.681 vs. 0.585, p = 0.001).
+CONCLUSIONS: Augmented mean arterial pressure provides clinicians with a simple but effective approach to quickly identify patients at risk and potentially improve post-TAVR prognosis.
+
+Citation: Chao CJ, et al. Transcatheter Aortic Valve Replacement Prognostication with Augmented Mean Arterial Pressure. Transcatheter Aortic Valve Replacement Prognostication with Augmented Mean Arterial Pressure. 2023; 10:(unknown pages). doi: 10.3390/jcdd10050192
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37233159/

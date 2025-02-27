@@ -1,0 +1,11 @@
+PMID: 39032584
+Title: Sarcopenia and frailty in patients undergoing transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Skeletal muscle mass (SMM) plays a crucial role in risk assessment in transcatheter aortic valve replacement (TAVR) candidates, yet it remains underutilized. Traditional methods focus on weakness or performance but omit SMM. This study compared traditional and novel markers of sarcopenia and frailty in terms of their ability to predict adverse outcomes post-TAVR.
+METHODS: Three risk models were evaluated for the composite outcome of perioperative complications, 1-year rehospitalization, or 1-year mortality: (1) sarcopenia by combining low muscle mass (LMM) and weakness/performance assessed by hand grip strength or gait speed; (2) frailty by an Adapted Green score; and (3) frailty by the Green-SMI score incorporating LMM by multilevel opportunistic pre-TAVR thoracic CT segmentation.
+RESULTS: In this study we included 184 eligible patients from January to December of 2018, (96.7%) of which were balloon expandable valves. The three risk models identified 22.8% patients as sarcopenic, 63.6% as frail by the Adapted Green score, and 53.8% as frail by the Green-SMI score. There were higher rates of the composite outcome in patients with sarcopenia (54.8%) and frailty (41.9% with the Adapted Green and 50.5% with the Green-SMI score) compared to their nonsarcopenic (30.3%) and nonfrail counterparts (25.4% with the Adapted Green and 18.8% with the Green-SMI score). Sarcopenia and frailty by Green-SMI, but not by the Adapted Green, were associated with higher risks of the composite outcome on multivariable adjustment (HR 2.2 [95% CI: 1.25-4.02], P = .007 and HR 3.4 [95% CI: 1.75-6.65], P < .001, respectively).
+CONCLUSIONS: The integration of preoperative CT-based SMM to a frailty score significantly improves the prediction of adverse outcomes in patients undergoing TAVR.
+
+Citation: Persits I, et al. Sarcopenia and frailty in patients undergoing transcatheter aortic valve replacement. Sarcopenia and frailty in patients undergoing transcatheter aortic valve replacement. 2024; 276:49-59. doi: 10.1016/j.ahj.2024.07.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39032584/

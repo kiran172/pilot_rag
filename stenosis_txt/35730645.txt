@@ -1,0 +1,11 @@
+PMID: 35730645
+Title: Risk factors for in-stent restenosis after vertebral artery stenting of V1 segment: A systematic review and meta-analysis.
+
+Abstract: OBJECTIVE: In-stent restenosis (ISR) remains a challenge in the treatment of vertebral artery V1 segment stenosis. The aim of this meta-analysis is to identify the risk factors of ISR.
+METHODS: Studies eligible for inclusion criteria were found in PubMed, Embase, and Cochrane Library databases. Data related to risk factors of ISR were extracted from the included studies, and pooled analysis was performed when data of the same factor were available in ≥2 studies. Dichotomous outcomes were analyzed with odds ratios (OR) and continuous outcomes were analyzed with a weighted mean difference (WMD). The Stata 14.0 program was used for the meta-analysis.
+RESULTS: A total of 11 studies involving 1356 patients were included in our analysis. Pooled analyses showed that younger age (p = 0.01; WMD= -1.958; 95% confidence interval [CI], -3.453 to -0.463) and V1 tortuosity (p = 0.004; OR = 4.145; 95% CI, 1.56-11.012) significantly associated with higher risk of ISR in V1 segment stenting. While bare-metal stents, stent diameter and length, diabetes mellitus, coronary artery disease, and smoking were not found to increase ISR rates.
+CONCLUSIONS: This meta-analysis showed that young age and V1 tortuosity increase the ISR rates after vertebral V1 segment stenting.
+
+Citation: Guo J, et al. Risk factors for in-stent restenosis after vertebral artery stenting of V1 segment: A systematic review and meta-analysis. Risk factors for in-stent restenosis after vertebral artery stenting of V1 segment: A systematic review and meta-analysis. 2022; 100:279-289. doi: 10.1002/ccd.30296
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35730645/

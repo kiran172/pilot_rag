@@ -1,0 +1,11 @@
+PMID: 35811708
+Title: Appropriate Surrogate Endpoint in Drug-Coated Balloon Trials for Coronary Artery Diseases.
+
+Abstract: BACKGROUND: The appropriateness of using late lumen loss (LLL) as a surrogate endpoint was established in drug-eluting stent (DES) studies, but it was less supportive for drug-coated balloon (DCB) trials.
+METHODS: Studies published until 23 June 2021 were searched from PubMed, EMBASE, Cochrane Library, and ClinicalTrials.gov. The correlation between LLL, MLD (minimal lumen diameter), and %DS (percentage diameter stenosis) and clinical endpoints was evaluated by linear regression. Standardized effect size and its 95% CIs were used to illustrate the difference among LLL, MLD, and %DS.
+RESULTS: A total of 24 clinical trials were eligible [16 DCB vs. DES, 7 DCB vs. plain old balloon angioplasty (POBA), and 1 DCB vs. DES vs. POBA]. Thirteen (54.2%) trials used LLL as the primary endpoint. LLL, MLD, and %DS all had significant associations with clinical endpoints. For DCB vs. DES trials, the number of studies that reported inconsistent results between LLL and MLD was 12/16 (75.0%) and between LLL and %DS was 10/15 (66.7%), while in MLD and %DS, it was 1/16 (6.3%). The difference of standardized effect size between LLL and MLD was -0.47 (95% CI, -0.69 to -0.25, p &lt; 0.001) and LLL and %DS was-0.31 (95%CI,-0.43 to-0.20, p &lt; 0.001) while in MLD and %DS, there was no difference, 0.1 (95%CI,-0.02 to 0.22, p = 0.084).
+CONCLUSIONS: For DCB trials, an appropriate surrogate is associated with the control device. The traditional LLL could be used in the DCB vs. POBA trials. However, MLD/%DS should be considered a more suitable surrogate endpoint when comparing DCB with DES.
+
+Citation: Lang X, et al. Appropriate Surrogate Endpoint in Drug-Coated Balloon Trials for Coronary Artery Diseases. Appropriate Surrogate Endpoint in Drug-Coated Balloon Trials for Coronary Artery Diseases. 2022; 9:897365. doi: 10.3389/fcvm.2022.897365
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35811708/

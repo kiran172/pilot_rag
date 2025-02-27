@@ -1,0 +1,11 @@
+PMID: 32367162
+Title: Does the increased motion probing gradient directional diffusion tensor imaging of lumbar nerves using multi-band SENSE improve the visualization and accuracy of FA values?
+
+Abstract: PURPOSE: Diffusion tensor imaging (DTI) is useful to evaluate lumbar nerves visually and quantitatively. Multi-band sensitivity encoding (MB-SENSE) is a technique to reduce the scan time. This study aimed to investigate if super-multi-gradient DTI with multi-band sensitivity encoding (MB-SENSE) is better in evaluating lumbar nerves than the conventional method.
+METHODS: The participants were 12 healthy volunteers (mean age 33.6 years). In all subjects, DTI was performed using echo planar imaging with different motion probing gradient (MPG) directions (15 without MB, and 15, 32, 64, and 128 with MB) and the lumbar nerve roots were visualized with tractography. In the five groups, we evaluated the resultant DTI both visually and quantitatively. For visual measures, we counted the number of fluffs and disruptions of the nerve fibers. For quantitative measures, the fractional anisotropy (FA) and standard deviation of the fractional anisotropy (FA-SD) values at two regions (proximal and distal) of the lumbar nerve roots were quantified and compared.
+RESULTS: Among the five groups, the number of fluffs decreased as the number of MPG directions increased. However, the number of disruptions showed no significant differences. The FA-SD values decreased as the number of MPG directions increased, indicating that the signal variation was reduced with multi-gradient directional DTI.
+CONCLUSION: High-resolution multi-directional DTI with MB-SENSE may be useful to visualize nerve entrapments and may allow for more accurate DTI parameter quantification with opportunities for clinical diagnostic applications.
+
+Citation: Norimoto M, et al. Does the increased motion probing gradient directional diffusion tensor imaging of lumbar nerves using multi-band SENSE improve the visualization and accuracy of FA values?. Does the increased motion probing gradient directional diffusion tensor imaging of lumbar nerves using multi-band SENSE improve the visualization and accuracy of FA values?. 2020; 29:1693-1701. doi: 10.1007/s00586-020-06430-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32367162/

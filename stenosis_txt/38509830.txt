@@ -1,0 +1,13 @@
+PMID: 38509830
+Title: Laser Versus Cold Steel for Endoscopic Management of Subglottic Stenosis.
+
+Abstract: OBJECTIVE: Endoscopic management of subglottic stenosis (SGS) includes a wide range of techniques. This 17-year review compares treatment outcomes between carbon dioxide (CO<sub>2</sub>) laser and cold steel.
+STUDY DESIGN: Retrospective chart review.
+SETTING: Single tertiary care center.
+METHODS: A chart review was performed for all patients undergoing endoscopic treatment of SGS at Cleveland Clinic between July 12, 2000 and September 1, 2017. Data collected included demographics, stenosis etiology, stenosis severity, comorbidities, treatment modality, and airway procedure history. The primary endpoint was repeated treatment-free survival (RTFS) within 2 years using a Kaplan-Meier analysis and Cox proportional hazard model.
+RESULTS: A total of 139 patients (median [interquartile range] aged 48.7 [37.8, 57.0] years; 83.4% female) were included in the analysis, with etiologies including idiopathic (56.8%), granulomatosis with polyangiitis (25.2%), and intubation (16.5%). All patients underwent either cold steel (107 patients) or CO<sub>2</sub> laser (32 patients) lysis of stenosis with concurrent dilation. RTFS within 2 years was 50.2% for CO<sub>2</sub> laser and 31.9% for cold steel (hazard ratio [HR] and 95% confidence interval [CI]: 1.69, 0.96-2.97, P = .07). In patients with no prior airway procedures, there was no difference in RTFS between laser and cold knife (P = .41). However, in patients with prior airway procedures, RTFS was significantly greater in the laser group, even after adjusting for age, smoking history, and stenosis etiology (50.0% vs 16.8%, adjusted HR and CI: 2.82, 1.14-6.98, P = .025).
+CONCLUSION: Endoscopic lysis of SGS with CO<sub>2</sub> laser should be considered in revision cases.
+
+Citation: Liang KY, et al. Laser Versus Cold Steel for Endoscopic Management of Subglottic Stenosis. Laser Versus Cold Steel for Endoscopic Management of Subglottic Stenosis. 2024; 171:471-477. doi: 10.1002/ohn.727
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38509830/

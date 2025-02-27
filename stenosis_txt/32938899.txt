@@ -1,0 +1,10 @@
+PMID: 32938899
+Title: Novel Evaluation Method for Lower Extremity Peripheral Artery Disease With Duplex Ultrasound　- Usefulness of Acceleration Time.
+
+Abstract: BACKGROUND: Duplex ultrasound scanning (DUS) plays a major role in less invasive diagnosis and assessment of lesion severity in lower extremity peripheral artery disease (PAD). In this study, we evaluated the efficacy of each DUS parameter measured in patients with PAD and established a simple method for PAD evaluation.
+METHODS AND RESULTS: We retrospectively investigated 211 patients (270 limbs) who underwent assessment with both angiography and DUS. During DUS of the common femoral artery (CFA) and popliteal artery, we measured 3 parameters: acceleration time (AcT), peak systolic velocity (PSV), and waveform contour. We compared these parameters with the degree of angiographic stenosis. AcT at the CFA had a significantly higher value in prediction of aortoiliac artery lesions with >50% stenosis (c-index, 0.85; 95% confidence interval (CI), 0.79-0.91), with a sensitivity of 0.82 and specificity of 0.76 at the best cutoff point, compared with PSV and waveform contour (P<0.001, respectively). For femoropopliteal lesions, the ratio of AcT at the popliteal artery to AcT at the CFA is the most predictive parameter, with sensitivity of 0.86 and specificity of 0.92 at the best cutoff point (c-index, 0.93; 95% CI, 0.90-0.97), compared with others (P<0.001, respectively).
+CONCLUSIONS: For the assessment of PAD with DUS, AcT and AcT ratio are simple and reliable parameters for evaluating aortoiliac and femoropopliteal artery disease.
+
+Citation: Yagyu T, et al. Novel Evaluation Method for Lower Extremity Peripheral Artery Disease With Duplex Ultrasound　- Usefulness of Acceleration Time. Novel Evaluation Method for Lower Extremity Peripheral Artery Disease With Duplex Ultrasound　- Usefulness of Acceleration Time. 2020; 84:1990-1998. doi: 10.1253/circj.CJ-20-0427
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32938899/

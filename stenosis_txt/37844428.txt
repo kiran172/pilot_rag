@@ -1,0 +1,11 @@
+PMID: 37844428
+Title: Direct deep learning-based survival prediction from pre-interventional CT prior to transcatheter aortic valve replacement.
+
+Abstract: PURPOSE: To investigate survival prediction in patients undergoing transcatheter aortic valve replacement (TAVR) using deep learning (DL) methods applied directly to pre-interventional CT images and to compare performance with survival models based on scalar markers of body composition.
+METHOD: This retrospective single-center study included 760 patients undergoing TAVR (mean age 81 ± 6 years; 389 female). As a baseline, a Cox proportional hazards model (CPHM) was trained to predict survival on sex, age, and the CT body composition markers fatty muscle fraction (FMF), skeletal muscle radiodensity (SMRD), and skeletal muscle area (SMA) derived from paraspinal muscle segmentation of a single slice at L3/L4 level. The convolutional neural network (CNN) encoder of the DL model for survival prediction was pre-trained in an autoencoder setting with and without a focus on paraspinal muscles. Finally, a combination of DL and CPHM was evaluated. Performance was assessed by C-index and area under the receiver operating curve (AUC) for 1-year and 2-year survival. All methods were trained with five-fold cross-validation and were evaluated on 152 hold-out test cases.
+RESULTS: The CNN for direct image-based survival prediction, pre-trained in a focussed autoencoder scenario, outperformed the baseline CPHM (CPHM: C-index = 0.608, 1Y-AUC = 0.606, 2Y-AUC = 0.594 vs. DL: C-index = 0.645, 1Y-AUC = 0.687, 2Y-AUC = 0.692). Combining DL and CPHM led to further improvement (C-index = 0.668, 1Y-AUC = 0.713, 2Y-AUC = 0.696).
+CONCLUSIONS: Direct DL-based survival prediction shows potential to improve image feature extraction compared to segmentation-based scalar markers of body composition for risk assessment in TAVR patients.
+
+Citation: Theis M, et al. Direct deep learning-based survival prediction from pre-interventional CT prior to transcatheter aortic valve replacement. Direct deep learning-based survival prediction from pre-interventional CT prior to transcatheter aortic valve replacement. 2023; 168:111150. doi: 10.1016/j.ejrad.2023.111150
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37844428/

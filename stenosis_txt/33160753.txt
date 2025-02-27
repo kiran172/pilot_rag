@@ -1,0 +1,11 @@
+PMID: 33160753
+Title: Obesity Paradox and 12 Month Outcome in Patients with Atrial Fibrillation.
+
+Abstract: BACKGROUND AND AIM: Obesity increases the risk of atrial fibrillation (AF) while it may impact the outcome of patients with AF. The clinical implications of this relationship are not completely clear. We aimed to analyze the association of traditional anthropometric measures of excessive adiposity with 12 month case fatality rate (CFR) in patients with AF.
+METHODS: This was a multicenter, longitudinal, observational study on adults with documented AF, excluding records of AF secondary to reversible causes. Anthropometric variables were registered at baseline, and a central committee validated the 12 month outcomes.
+RESULTS: We studied 1193 patients (median age: 69.14 years, 55.2% women). At baseline, rhythm control was established for 476 (39.9%) subjects, while frequency control was offered to 717 (60.1%) participants. The 12 month all-cause CFR was 8.9%. A high basal body mass index (BMI), waist-to-height ratio (WHtR) and waist circumference (WC) were associated with lower CFR in bivariate analyses. In a Cox-proportional hazards model, variables associated with 12 month all-cause CFR were BMI categories (HR: 0.736, 95% CI: 0.584-0.928), chronic heart failure (HR: 1.738, 95% CI: 1.127-2.680), chronic kidney disease (HR: 2.269, 95% CI: 1.162-4.429) and carotid stenosis >50% (HR: 5.342, 95% CI: 1.661-17.181).
+CONCLUSION: The risk of death at one year in patients with AF is inversely associated with a high BMI and directly associated with the presence of chronic kidney disease, carotid stenosis, and chronic heart failure in this cohort of patients with AF. The causes and implications of this apparent obesity paradox should be addressed in the future.
+
+Citation: Rodríguez-Reyes H, et al. Obesity Paradox and 12 Month Outcome in Patients with Atrial Fibrillation. Obesity Paradox and 12 Month Outcome in Patients with Atrial Fibrillation. 2021; 52:233-239. doi: 10.1016/j.arcmed.2020.10.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33160753/

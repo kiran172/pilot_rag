@@ -1,0 +1,11 @@
+PMID: 39174434
+Title: The impact of stress testing to guide PCI in patients with chronic coronary disease.
+
+Abstract: BACKGROUND: Guidelines and international appropriate use criteria increasingly endorse non-invasive stress testing to evaluate patients with suspected chronic coronary disease (CCD). We sought to review the real-world utilisation of non-invasive stress testing and investigate whether their use prior to PCI associates with outcomes in patients with CCD.
+METHODS: Consecutive patients from a multicentre registry who underwent PCI for CCD between 2006 and 2018 were included. Clinical characteristics and outcomes were stratified according to whether stress testing was performed prior to PCI (stress vs no-stress groups). The primary outcome was 3-year all-cause mortality.
+RESULTS: Among the 8251 patients included, 4970 (60.2 %) underwent pre-PCI stress testing and this proportion increased over time (p-for-trend<0.001). The stress group had a lower prevalence of prior revascularization, myocardial infarction, or heart failure, and a lower incidence of triple vessel disease, in stent re-stenosis, and ACC/AHA class B2/C lesions (all p < 0.001). When comparing post-procedural outcomes, the stress group had lower rates of arrhythmia (1.5 % vs 2.6 %, p = 0.001), new heart failure (0.2 % vs 0.8 %, p = 0.001), renal impairment, and a shorter length of stay (1.6 vs 2.1 days, p < 0.001). Mortality at 3-years was lower in those undergoing PCI following stress testing (5.8 % vs 8.8 %, p < 0.001). After adjusting for key clinical variables, stress guided revascularization was associated with a significantly lower risk of 3-year mortality (adjusted Hazard Ratio 0.77, 95 % CI 0.64-0.92).
+CONCLUSIONS: In patients with CCD, PCI guided by non-invasive stress testing is increasingly utilized and associated with improved survival. Further studies are necessary to investigate whether this results from differences in patient characteristics, optimized patient selection, or refined choice of target vessel.
+
+Citation: Hamilton GW, et al. The impact of stress testing to guide PCI in patients with chronic coronary disease. The impact of stress testing to guide PCI in patients with chronic coronary disease. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.carrev.2024.08.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39174434/

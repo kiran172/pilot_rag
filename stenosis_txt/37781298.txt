@@ -1,0 +1,11 @@
+PMID: 37781298
+Title: Radiomics analysis enhances the diagnostic performance of CMR stress perfusion: a proof-of-concept study using the Dan-NICAD dataset.
+
+Abstract: OBJECTIVES: To assess the feasibility of extracting radiomics signal intensity based features from the myocardium using cardiovascular magnetic resonance (CMR) imaging stress perfusion sequences. Furthermore, to compare the diagnostic performance of radiomics models against standard-of-care qualitative visual assessment of stress perfusion images, with the ground truth stenosis label being defined by invasive Fractional Flow Reserve (FFR) and quantitative coronary angiography.
+METHODS: We used the Dan-NICAD 1 dataset, a multi-centre study with coronary computed tomography angiography, 1,5 T CMR stress perfusion, and invasive FFR available for a subset of 148 patients with suspected coronary artery disease. Image segmentation was performed by two independent readers. We used the Pyradiomics platform to extract radiomics first-order (n = 14) and texture (n = 75) features from the LV myocardium (basal, mid, apical) in rest and stress perfusion images.
+RESULTS: Overall, 92 patients (mean age 62 years, 56 men) were included in the study, 39 with positive FFR. We double-cross validated the model and, in each inner fold, we trained and validated a per territory model. The conventional analysis results reported sensitivity of 41% and specificity of 84%. Our final radiomics model demonstrated an improvement on these results with an average sensitivity of 53% and specificity of 86%.
+CONCLUSION: In this proof-of-concept study from the Dan-NICAD dataset, we demonstrate the feasibility of radiomics analysis applied to CMR perfusion images with a suggestion of superior diagnostic performance of radiomics models over conventional visual analysis of perfusion images in picking up perfusion defects defined by invasive coronary angiography.
+
+Citation: Raisi-Estabragh Z, et al. Radiomics analysis enhances the diagnostic performance of CMR stress perfusion: a proof-of-concept study using the Dan-NICAD dataset. Radiomics analysis enhances the diagnostic performance of CMR stress perfusion: a proof-of-concept study using the Dan-NICAD dataset. 2023; 10:1141026. doi: 10.3389/fcvm.2023.1141026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37781298/

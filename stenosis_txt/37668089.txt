@@ -1,0 +1,11 @@
+PMID: 37668089
+Title: Artificial intelligence evaluation of coronary computed tomography angiography for coronary stenosis classification and diagnosis.
+
+Abstract: BACKGROUND: Ruling out obstructive coronary artery disease (CAD) using coronary computed tomography angiography (CCTA) is time-consuming and challenging. This study developed a deep learning (DL) model to assist in detecting obstructive CAD on CCTA to streamline workflows.
+METHODS: In total, 2929 DICOM files and 7945 labels were extracted from curved planar reformatted CCTA images. A modified Inception V3 model was adopted. To validate the artificial intelligence (AI) model, two cardiologists labelled and adjudicated the classification of coronary stenosis on CCTA. The model was trained to differentiate the coronary artery into binary stenosis classifications <50% and ≥50% stenosis. Using the quantitative coronary angiography (QCA) consensus results as a reference standard, the performance of the AI model and CCTA radiology readers was compared by calculating Cohen's kappa coefficients at patient and vessel levels. The net reclassification index was used to evaluate the net benefit of the DL model.
+RESULTS: The diagnostic accuracy of the AI model was 92.3% and 88.4% at the patient and vessel levels, respectively. Compared with CCTA radiology readers, the AI model had a better agreement for binary stenosis classification at both patient and vessel levels (Cohen kappa coefficient: .79 vs. .39 and .77 vs. .40, p < .0001). The AI model also exhibited significantly improved model discrimination and reclassification (Net reclassification index = .350; Z = 4.194; p < .001).
+CONCLUSIONS: The developed AI model identified obstructive CAD, and the model results correlated well with QCA results. Incorporating the model into the reporting system of CCTA may improve workflows.
+
+Citation: Lee DY, et al. Artificial intelligence evaluation of coronary computed tomography angiography for coronary stenosis classification and diagnosis. Artificial intelligence evaluation of coronary computed tomography angiography for coronary stenosis classification and diagnosis. 2024; 54:e14089. doi: 10.1111/eci.14089
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37668089/

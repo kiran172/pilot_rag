@@ -1,0 +1,11 @@
+PMID: 35470234
+Title: Supplemental calcium and vitamin D and long-term mortality in aortic stenosis.
+
+Abstract: OBJECTIVE: Calcium metabolism has long been implicated in aortic stenosis (AS). Studies assessing the long-term safety of oral calcium and/or vitamin D in AS are scarce yet imperative given the rising use among an elderly population prone to deficiency. We sought to identify the associations between supplemental calcium and vitamin D with mortality and progression of AS.
+METHODS: In this retrospective longitudinal study, patients aged ≥60 years with mild-moderate native AS were selected from the Cleveland Clinic Echocardiography Database from 2008 to 2016 and followed until 2018. Groups were stratified into no supplementation, supplementation with vitamin D alone and supplementation with calcium±vitamin D. The primary outcomes were mortality (all-cause, cardiovascular (CV) and non-CV) and aortic valve replacement (AVR), and the secondary outcome was AS progression by aortic valve area and peak/mean gradients.
+RESULTS: Of 2657 patients (mean age 74 years, 42% women) followed over a median duration of 69 months, 1292 (49%) did not supplement, 332 (12%) took vitamin D alone and 1033 (39%) supplemented with calcium±vitamin D. Calcium±vitamin D supplementation was associated with a significantly higher risk of all-cause mortality (absolute rate (AR)=43.0/1000 person-years; HR=1.31, 95% CI (1.07 to 1.62); p=0.009), CV mortality (AR=13.7/1000 person-years; HR=2.0, 95% CI (1.31 to 3.07); p=0.001) and AVR (AR=88.2/1000 person-years; HR=1.48, 95% CI (1.24 to 1.78); p<0.001). Any supplementation was not associated with longitudinal change in AS parameters in a linear mixed-effects model.
+CONCLUSIONS: Supplemental calcium with or without vitamin D is associated with lower survival and greater AVR in elderly patients with mild-moderate AS.
+
+Citation: Kassis N, et al. Supplemental calcium and vitamin D and long-term mortality in aortic stenosis. Supplemental calcium and vitamin D and long-term mortality in aortic stenosis. 2022; 108:964-972. doi: 10.1136/heartjnl-2021-320215
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35470234/

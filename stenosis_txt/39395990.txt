@@ -1,0 +1,11 @@
+PMID: 39395990
+Title: PHACTR1 and APOC1 genetic variants are associated with multi-vessel coronary artery disease.
+
+Abstract: BACKGROUND: Severe coronary artery disease (CAD) represents an advanced arterial narrowing, often associated with critical complications like myocardial infarction and angina. This study aimed to comprehensively investigate determinants of severe and multi-vessel CAD manifestations.
+METHODS: One thousand nine hundred patients with severe and multivessel CAD (stenosis > 70%) were recruited along with 1,056 controls without stenosis. Associations using a genotyping panel comprising 159 Single Nucleotide Polymorphisms (SNPs) previously implicated in CAD pathogenesis were examined and these associations were replicated using the UK Biobank cohort (N = 29,970).
+RESULTS: The investigation identified 14 genetic associations with severe CAD, of which 7 were also associated with multivessel disease. Notably, PHACTR1 SNP (rs9349379*G) showed a higher association with severe and multivessel CAD in individuals aged ≤ 65, indicating a higher risk of early disease onset. Conversely, the APOC1/APOE SNP (rs445925*T) is associated with reduced susceptibility to severe CAD and multivessel disease in individuals aged over 65, indicating a persistent negative association.
+CONCLUSIONS: Following replication of the associations in the large UK Biobank dataset, it was found that patients carrying the rs9349379*G variant in the PHACTR1 gene are at risk of developing severe or multivessel disease. Conversely, the rs445925*T variant in APOC1/APOE is associated with reduced susceptibility to severe CAD and multivessel disease, highlighting the significance of this genetic variant in these specific CAD presentations. This study contributes to a better understanding of CAD heterogeneity, paving the way for tailored management strategies based on genetic profiles.
+
+Citation: Al Hageh C, et al. PHACTR1 and APOC1 genetic variants are associated with multi-vessel coronary artery disease. PHACTR1 and APOC1 genetic variants are associated with multi-vessel coronary artery disease. 2024; 23:332. doi: 10.1186/s12944-024-02327-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39395990/

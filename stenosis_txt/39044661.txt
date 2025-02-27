@@ -1,0 +1,11 @@
+PMID: 39044661
+Title: Paclitaxel-coated versus sirolimus-coated balloon angioplasty for coronary artery disease: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Although use of sirolimus-based analogs has shown superiority over paclitaxel in drug-eluting stents, the relative efficacy of these two agents released from drug-coated balloons (DCB) is unclear. The present meta-analysis is aimed to compare outcomes after percutaneous coronary intervention (PCI) with paclitaxel-coated balloons (PCB) versus sirolimus-coated balloons (SCB) for either in-stent restenosis or native de novo lesions.
+METHODS: The study outcomes were 1) target lesion failure (TLF), a composite of cardiac death, target vessel myocardial infarction, or target lesion revascularization, and 2) follow-up angiographic parameters including late lumen loss (LLL), diameter stenosis, and minimal lumen diameter (MLD). Pooled odds ratios (OR) and weighted mean differences (WMD) with 95% confidence intervals (CI) were calculated by using random-effects models.
+RESULTS: A search of PubMed, EMBASE, and Cochrane Library from their inception to January 2024 identified five randomized clinical trials and three observational studies with a total of 1861 patients (889 in PCB and 972 in SCB groups). During 9-12 months of follow-up, there was no significant difference in TLF (OR 1.01, 95% CI 0.75-1.35) between the two groups. On follow-up angiography at 6-9 months, MLD (WMD 0.10, 95% CI 0.02-0.17) was larger in PCB but there was no statistically significant difference in LLL (WMD -0.11, 95% CI -0.23-0.02) and diameter stenosis (WMD -3.33, 95% CI -8.11-1.45).
+CONCLUSIONS: Among patients undergoing DCB-only PCI, the risk of TLF was similar during 9-12 months of follow-up after PCB and SCB treatment. However, the MLD was larger favoring PCB over SCB on follow-up angiography.
+
+Citation: Shin D, et al. Paclitaxel-coated versus sirolimus-coated balloon angioplasty for coronary artery disease: A systematic review and meta-analysis. Paclitaxel-coated versus sirolimus-coated balloon angioplasty for coronary artery disease: A systematic review and meta-analysis. 2024; 104:425-436. doi: 10.1002/ccd.31154
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39044661/

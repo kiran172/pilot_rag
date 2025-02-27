@@ -1,0 +1,11 @@
+PMID: 39041382
+Title: Association between serum phosphate, magnesium, calcium and aortic valve sclerosis: a propensity score-matched case-control study.
+
+Abstract: OBJECTIVES: Aortic valve sclerosis has been proposed to signify greater cardiovascular risk; the correlation between serum trace elements and aortic valve sclerosis has been reported. Therefore, an in-depth exploration of the risk factors for aortic valve sclerosis and early intervention may reduce the risk of cardiovascular disease.
+METHODS: In this study, Patients with aortic valve sclerosis and non-aortic valve sclerosis who underwent echocardiographic diagnosis in the People's Hospital of Xinjiang Uygur Autonomous Region during the period from 2019 to 2021 were selected for this study. The correlation between aortic valve sclerosis and serum phosphorus, calcium, and magnesium levels was explored using the propensity score matching technique by pairing the two groups of patients 1:1.
+RESULTS: A total of 1,533 non-aortic valve sclerosis and 1,533 aortic valve sclerosis patients were included. Logistic regression analysis showed that serum magnesium [OR: 0.346; 95%CI: 0.227, 0.528] and serum calcium [OR: 7.022; 95%CI: 4.755, 10.369] were influential factors. Patients with low, intermediate, and high serum magnesium levels had a significantly lower risk of aortic valve sclerosis compared to patients with very low micronutrient levels (p &lt; 0.05). Comparatively, patients with low or high serum calcium levels had an elevated risk of aortic valve sclerosis (p &lt; 0.05).
+CONCLUSION: Serum magnesium may have a protective role against aortic valve sclerosis, while both low and high levels of serum calcium could be risk factor for the condition. These serum micronutrients may be indications of cardiovascular disease risk prediction or prevention, and more research is required.
+
+Citation: Tao J, et al. Association between serum phosphate, magnesium, calcium and aortic valve sclerosis: a propensity score-matched case-control study. Association between serum phosphate, magnesium, calcium and aortic valve sclerosis: a propensity score-matched case-control study. 2024; 79:522-529. doi: 10.1080/00015385.2024.2379682
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39041382/

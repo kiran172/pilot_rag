@@ -1,0 +1,12 @@
+PMID: 32499018
+Title: Conscious Sedation Versus General Anesthesia for Transcatheter Aortic Valve Replacement: Variation in Practice and Outcomes.
+
+Abstract: OBJECTIVES: The aims of this study were to examine variation in the use of conscious sedation (CS) for transcatheter aortic valve replacement (TAVR) across hospitals and over time and to evaluate outcomes of CS compared with general anesthesia (GA) using instrumental variable analysis, a quasi-experimental method to control for unmeasured confounding.
+BACKGROUND: Despite increasing use of CS for TAVR, contemporary data on utilization patterns are lacking, and existing studies evaluating the impact of sedation choice on outcomes may suffer from unmeasured confounding.
+METHODS: Among 120,080 patients in the TVT (Transcatheter Valve Therapy) Registry who underwent transfemoral TAVR between January 2016 and March 2019, the relationship between anesthesia choice and TAVR outcomes was evaluated using hospital proportional use of CS as an instrumental variable.
+RESULTS: Over the study period, the proportion of TAVR performed using CS increased from 33% to 64%, and CS was used in a median of 0% and 91% of cases in the lowest and highest quartiles of hospital CS use, respectively. On the basis of instrumental variable analysis, CS was associated with decreases in in-hospital mortality (adjusted risk difference: 0.2%; p = 0.010) and 30-day mortality (adjusted risk difference: 0.5%; p < 0.001), shorter length of hospital stay (adjusted difference: 0.8 days; p < 0.001), and more frequent discharge to home (adjusted risk difference: 2.8%; p < 0.001) compared with GA. The magnitude of benefit for most endpoints was less than in a traditional propensity score-based approach, however.
+CONCLUSIONS: In contemporary U.S. practice, the use of CS for TAVR continues to increase, although there remains wide variation across hospitals. The use of CS for TAVR is associated with improved outcomes (including reduced mortality) compared with GA, although the magnitude of benefit appears to be less than in previous studies.
+
+Citation: Butala NM, et al. Conscious Sedation Versus General Anesthesia for Transcatheter Aortic Valve Replacement: Variation in Practice and Outcomes. Conscious Sedation Versus General Anesthesia for Transcatheter Aortic Valve Replacement: Variation in Practice and Outcomes. 2020; 13:1277-1287. doi: 10.1016/j.jcin.2020.03.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32499018/

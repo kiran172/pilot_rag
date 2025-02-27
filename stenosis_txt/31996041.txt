@@ -1,0 +1,8 @@
+PMID: 31996041
+Title: A biomechanical model of the pathological aortic valve: simulation of aortic stenosis.
+
+Abstract: Aortic stenosis (AS) disease is a narrowing of the aortic valve (AV) opening which reduces blood flow from the heart causing several health complications. Although a lot of work has been done in AV simulations, most of the efforts have been conducted regarding healthy valves. In this article, a new three-dimensional patient-specific biomechanical model of the valve, based on a parametric formulation of the stenosis that permits the simulation of different degrees of pathology, is presented. The formulation is based on a double approach: the first one is done from the geometric point of view, reducing the effective ejection area of the AV by joining leaflets using a zipper effect to sew them; the second one, in terms of functionality, is based on the modification of AV tissue properties due to the effect of calcifications. Both healthy and stenotic valves were created using patient-specific data and results of the numerical simulation of the valve function are provided. Analysis of the results shows a variation in the first principal stress, geometric orifice area, and blood velocity which were validated against clinical data. Thus, the possibility to create a pipeline which allows the integration of patient-specific data from echocardiographic images and iFR studies to perform finite elements analysis is proved.
+
+Citation: Loureiro-Ga M, et al. A biomechanical model of the pathological aortic valve: simulation of aortic stenosis. A biomechanical model of the pathological aortic valve: simulation of aortic stenosis. 2020; 23:303-311. doi: 10.1080/10255842.2020.1720001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31996041/

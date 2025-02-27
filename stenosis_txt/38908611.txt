@@ -1,0 +1,11 @@
+PMID: 38908611
+Title: The effect of institutional case volume on post-operative outcomes after endarterectomy and stenting for symptomatic carotid stenosis.
+
+Abstract: OBJECTIVE: To investigate the effects of yearly institutional case volume for carotid endarterectomy (CEA) and stenting (CAS) among symptomatic carotid stenosis patients on the rates of postoperative stroke and inpatient mortality.
+MATERIALS AND METHODS: Patients with prior stroke ("symptomatic") undergoing CEA or CAS during an inpatient stay were identified from the National Inpatient Sample for years 2012-2015. The primary variable was volume of CEA or CAS performed annually by each institution. The primary outcome was a composite variable for in-hospital death or postoperative stroke.
+RESULTS: A total of 5,628 patients with symptomatic carotid stenosis underwent CEA, while 245 underwent CAS. In the symptomatic CEA population, 519 (9.2 %) patients experienced postoperative stroke or mortality, and were more likely to be treated at centers with a lower yearly institutional volume (median 10 [IQR 5-15] versus 10 [7-20] cases, p < 0.001). In the symptomatic CAS population, 32 (13.1 %) patients experienced stroke or mortality, and these patients were also more likely to undergo treatment at hospitals with a lower yearly institutional volume (median 5 [IQR 5-7] versus 5 [5-10] cases, p = 0.044). Thresholds for yearly institutional volume found differences in adverse outcome between 0-9, 10-29, and ≥30 cases/year (11.7 % vs 8.4 % vs 6.0 %, p < 0.001) for CEA, and differences in postoperative stroke between 0-9 and ≥10 cases/year for CAS (11.0 % vs 1.4 %, p = 0.028).
+CONCLUSIONS: Hospitals performing higher volumes of CEA or CAS have fewer postoperative strokes. The threshold reported herein is ≥30 CEA procedures or ≥10 CAS procedures annually for appreciably improved outcomes.
+
+Citation: Patel PD, et al. The effect of institutional case volume on post-operative outcomes after endarterectomy and stenting for symptomatic carotid stenosis. The effect of institutional case volume on post-operative outcomes after endarterectomy and stenting for symptomatic carotid stenosis. 2024; 33:107828. doi: 10.1016/j.jstrokecerebrovasdis.2024.107828
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38908611/

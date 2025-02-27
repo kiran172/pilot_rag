@@ -1,0 +1,11 @@
+PMID: 35144844
+Title: Carotid intima-media thickness predicted the presence but not the severity or complexity of coronary artery disease in a South Asian population.
+
+Abstract: BACKGROUND: Carotid intima-media thickness (CIMT) is considered a marker of atherosclerosis, but the data is lacking from the South Asian population. We aimed to study the relation of CIMT with the presence and severity of coronary artery disease (CAD) in this population.
+METHODS: This was a prospective, single-center study of consecutive patients undergoing elective coronary angiography. Participants with >50% luminal stenosis in any major coronary artery were included in the CAD group and those with normal coronaries in the non-CAD group. Multivariate linear regression analysis was done to determine independent predictors of CAD. Pearson's correlation coefficients assessed correlations between CIMT and Syntax and Gensini score.
+RESULTS: The mean CIMT was significantly much higher in the CAD group when compared to the non-CAD group (0.83±0.16 vs 0.61±0.14mm, p<0.001). On multivariable linear regression analysis only diabetes (β=0.208 and p=0.024), waist-hip ratio (β=0.178 and p=0.043), current smoker (β=0.293 and p=<0.001) and CIMT (β=0.217 and p=0.031) were independent predictors of CAD. The mean Gensini score in the CAD group was 48.59±34.25 and the mean Syntax score was 19.45±10.24. No significant relation was found between CIMT and Gensini score (r=0.009 and p=0.89), and Syntax score (r=-0.087 and p=0.171).
+CONCLUSION: Mean CIMT is an independent predictor of CAD along with diabetes, waist-hip ratio, and smoking. However, CIMT was not related to the severity and complexity of the CAD as assessed by the Gensini score and Syntax score, respectively.
+
+Citation: Verma B and Katyal D. Carotid intima-media thickness predicted the presence but not the severity or complexity of coronary artery disease in a South Asian population. Carotid intima-media thickness predicted the presence but not the severity or complexity of coronary artery disease in a South Asian population. 2022; 34:183-192. doi: 10.1016/j.arteri.2021.12.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35144844/

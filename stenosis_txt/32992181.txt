@@ -1,0 +1,11 @@
+PMID: 32992181
+Title: Deep Learning-Based Approach for the Diagnosis of Moyamoya Disease.
+
+Abstract: OBJECTIVES: Moyamoya disease is a unique cerebrovascular disorder that is characterized by chronic bilateral stenosis of the internal carotid arteries and by the formation of an abnormal vascular network called moyamoya vessels. In this stury, the authors inspected whether differentiation between patients with moyamoya disease and those with atherosclerotic disease or normal controls might be possible by using deep machine learning technology.
+MATERIALS AND METHODS: This study included 84 consecutive patients diagnosed with moyamoya disease at our hospital between April 2009 and July 2016. In each patient, two axial continuous slices of T2-weighed imaging at the level of the basal cistern, basal ganglia, and centrum semiovale were acquired. The image sets were processed by using code written in the programming language Python 3.7. Deep learning with fine tuning developed using VGG16 comprised several layers.
+RESULTS: The accuracies of distinguishing between patients with moyamoya disease and those with atherosclerotic disease or controls in the basal cistern, basal ganglia, and centrum semiovale levels were 92.8, 84.8, and 87.8%, respectively.
+CONCLUSION: The authors showed excellent results in terms of accuracy of differential diagnosis of moyamoya disease using AI with the conventional T2 weighted images. The authors suggest the possibility of diagnosing moyamoya disease using AI technique and demonstrate the area of interest on which AI focuses while processing magnetic resonance images.
+
+Citation: Akiyama Y, et al. Deep Learning-Based Approach for the Diagnosis of Moyamoya Disease. Deep Learning-Based Approach for the Diagnosis of Moyamoya Disease. 2020; 29:105322. doi: 10.1016/j.jstrokecerebrovasdis.2020.105322
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32992181/

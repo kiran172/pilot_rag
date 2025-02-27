@@ -1,0 +1,11 @@
+PMID: 31199470
+Title: Impact of new pacemaker implantation following surgical and transcatheter aortic valve replacement on 1-year outcome.
+
+Abstract: OBJECTIVES: The purpose of this study was to evaluate the incidence of new pacemaker implantation (NPMI) after surgical aortic valve replacement (SAVR) and transcatheter aortic valve replacement (TAVR), and investigate its influence on 1-year mortality.
+METHODS: Patients who were enrolled in 'The German Aortic Valve Registry' undergoing isolated TAVR or SAVR between 2011 and 2015 were analysed. The rate of NPMI was analysed for both groups and multivariable Cox regression analysis was performed to investigate the possible independent association between NPMI and 1-year mortality.
+RESULTS: Twenty thousand eight hundred and seventy-two patients who underwent TAVR and 17 750 patients who received SAVR were included in this study. The rate of NPMI was 16.6% after TAVR and 3.6% after SAVR. In the TAVR group, NPMI was associated with significantly increased 1-year mortality in univariable Cox regression analysis [hazard ratio (HR) 1.29, confidence interval (CI) 1.18-1.41; P < 0.001]. This association persisted after adjustment for confounding factors (HR 1.29, CI 1.16-1.43; P < 0.001). In the SAVR group, NPMI significantly increased 1-year mortality in univariable analysis as well (HR 1.55, CI 1.08-2.22; P = 0.02), whereas after multivariable adjustment, NPMI did not emerge as an independent risk factor (HR 1.29, 0.88-1.89; P = 0.19). NPMI was not associated with 30-day mortality in both procedure groups.
+CONCLUSIONS: The rate of NPMI was markedly higher after TAVR compared with SAVR and was independently associated with 1-year mortality after TAVR, whereas this was not significant after SAVR. As 30-day mortality was not different for TAVR and SAVR, the subsequent procedure of an NPMI itself seems not to increase the risk of mortality.
+
+Citation: Fujita B, et al. Impact of new pacemaker implantation following surgical and transcatheter aortic valve replacement on 1-year outcome. Impact of new pacemaker implantation following surgical and transcatheter aortic valve replacement on 1-year outcome. 2020; 57:151-159. doi: 10.1093/ejcts/ezz168
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31199470/

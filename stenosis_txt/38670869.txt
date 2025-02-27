@@ -1,0 +1,12 @@
+PMID: 38670869
+Title: Aortic valve replacement for aortic stenosis: Influence of centre volume on TAVR adoption rates and outcomes in France.
+
+Abstract: BACKGROUND: Transcatheter (TAVR) has supplanted surgical (SAVR) aortic valve replacement (AVR).
+AIM: To evaluate whether adoption of this technology has varied according to centre volume at the nationwide level.
+METHODS: From an administrative hospital-discharge database, we collected data on all AVRs performed in France between 2007 and 2019. Centres were divided into terciles based on the annual number of SAVRs performed in 2007-2009 ("before TAVR era").
+RESULTS: A total of 192,773 AVRs (134,662 SAVRs and 58,111 TAVRs) were performed in 47 centres. The annual number of AVRs and TAVRs increased significantly and linearly in low-volume (&lt;152 SAVRs/year; median 106, interquartile range [IQR] 75-129), middle-volume (152-219 SAVRs/year; median 197, IQR 172-212) and high-volume (&gt;219 SAVRs/year; median 303, IQR 268-513) terciles, but to a greater degree in the latter (+14, +16 and +24 AVRs/centre/year and +16, +19 and +31 TAVRs/centre/year, respectively; P<sub>ANCOVA</sub>&lt;0.001). Charlson Comorbidity Index and in-hospital death rates declined from 2010 to 2019 in all terciles (all P<sub>trend</sub>&lt;0.05). In 2017-2019, after adjusting for age, sex and Charlson Comorbidity Index, there was a trend toward lower death rates in the high-volume tercile (P=0.06) for SAVR, whereas death rates were similar for TAVR irrespective of tercile (P=0.27). Similar results were obtained when terciles were defined based on number of interventions performed in the last instead of the first 3years. Importantly, even centres in the lowest-volume tercile performed a relatively high number of interventions (150 TAVRs/year/centre).
+CONCLUSIONS: In a centralized public healthcare system, the total number of AVRs increased linearly between 2007 and 2019, mostly due to an increase in TAVR, irrespective of centre volume. Progressive declines in patient risk profiles and death rates were observed in all terciles; in 2017-2019 death rates were similar in all terciles, although lower in high-volume centres for SAVR.
+
+Citation: Willner N, et al. Aortic valve replacement for aortic stenosis: Influence of centre volume on TAVR adoption rates and outcomes in France. Aortic valve replacement for aortic stenosis: Influence of centre volume on TAVR adoption rates and outcomes in France. 2024; 117:321-331. doi: 10.1016/j.acvd.2024.02.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38670869/

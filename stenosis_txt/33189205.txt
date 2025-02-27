@@ -1,0 +1,11 @@
+PMID: 33189205
+Title: Aortic pulse wave velocity and its relationship with transaortic flow and gradients in patients with severe aortic stenosis undergoing aortic valve replacement.
+
+Abstract: BACKGROUND: Low-flow, low-gradient severe aortic stenosis (LFLGAS) is a common clinical entity and is associated with poor prognosis. Increased left ventricular (LV) afterload is one of the mechanisms contributing to low LV stroke volume index (SVi) in these patients. Aortic stiffness is an important determinant of LV afterload, but no previous study has evaluated its relationship with LVSVi in patients with AS.
+METHODS: Fifty-seven patients (mean age 66 ± 8 years, 71.9% men) with severe AS [aortic valve area (AVA) &lt; 1.0 cm2] undergoing aortic valve replacement (AVR) were included in this study. Echocardiographic parameters of AS were correlated with carotid-femoral pulse wave velocity (cfPWV), a measure of aortic stiffness, derived using PeriScope® device.
+RESULTS: Mean AVA was 0.63 ± 0.17 cm2 with mean and peak transvalvular gradient 56.5 ± 18.8 mmHg and 83.2 ± 25.2 mmHg, respectively. Nearly half (26 of 57, 45.6%) of the subjects had SVi &lt;35 mL/m2, indicative of low-flow severe AS. These subjects had lower AVA, lower aortic valve gradient, and LV ejection fraction. CfPWV was numerically lower in these subjects [median 1467 (interquartile range 978, 2259) vs 1588 (1106, 2167)] but the difference was not statistically significant (p = 0.66). However, when analyzed as a continuous variable, cfPWV had significant positive correlation with SVi (Pearson's r 0.268, p = 0.048) and mean aortic valve gradient (Pearson's r 0.274, p = 0.043).
+CONCLUSIONS: In patients with severe AS undergoing AVR, aortic stiffness measured using cfPWV is not a determinant of low-flow state. Instead, an increasing cfPWV tends to be associated with increasing transvalvular flow and gradient in these patients.
+
+Citation: Ranjan S, et al. Aortic pulse wave velocity and its relationship with transaortic flow and gradients in patients with severe aortic stenosis undergoing aortic valve replacement. Aortic pulse wave velocity and its relationship with transaortic flow and gradients in patients with severe aortic stenosis undergoing aortic valve replacement. 2020; 72:421-426. doi: 10.1016/j.ihj.2020.06.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33189205/

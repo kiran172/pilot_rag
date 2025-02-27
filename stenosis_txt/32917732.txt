@@ -1,0 +1,11 @@
+PMID: 32917732
+Title: Dipeptidyl peptidase-4 inhibition to prevent progression of calcific aortic stenosis.
+
+Abstract: OBJECTIVE: To evaluate whether the use of dipeptidyl peptidase-4 (DPP-4) inhibitors and their cardiac tissue distribution profile and anticalcification abilities are associated with risk of aortic stenosis (AS) progression.
+METHODS: Out of the five different classes of DPP-4 inhibitors, two had relatively favourable heart to plasma concentration ratios and anticalcification ability in murine and in vitro experiments and were thus categorised as 'favourable'. We reviewed the medical records of 212 patients (72±8 years, 111 men) with diabetes and mild-to-moderate AS who underwent echocardiographic follow-up and classified them into those who received favourable DPP-4 inhibitors (n=28, 13%), unfavourable DPP-4 inhibitors (n=69, 33%) and those who did not receive DPP-4 inhibitors (n=115, 54%).
+RESULTS: Maximal transaortic velocity (Vmax) increased from 2.9±0.3 to 3.5±0.7 m/s during follow-up (median, 3.7 years), and the changes were not different between DPP-4 users as a whole and non-users (p=0.143). However, the favourable group showed significantly lower Vmax increase than the unfavourable or non-user group (p=0.018). Severe AS progression was less frequent in the favourable group (7.1%) than in the unfavourable (29.0%; p=0.03) or the non-user (29.6%; p=0.01) group. In Cox regression analysis after adjusting for age, baseline renal function and AS severity, the favourable group showed a significantly lower risk of severe AS progression (HR 0.116, 95% CI 0.024 to 0.551, p=0.007).
+CONCLUSIONS: DPP-4 inhibitors with favourable pharmacokinetic and pharmacodynamic properties were associated with lower risk of AS progression. These results should be considered in the preparation of randomised clinical trials on the repositioning of DPP-4 inhibitors.
+
+Citation: Lee S, et al. Dipeptidyl peptidase-4 inhibition to prevent progression of calcific aortic stenosis. Dipeptidyl peptidase-4 inhibition to prevent progression of calcific aortic stenosis. 2020; 106:1824-1831. doi: 10.1136/heartjnl-2020-317024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32917732/

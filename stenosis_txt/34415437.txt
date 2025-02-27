@@ -1,0 +1,11 @@
+PMID: 34415437
+Title: The impact of the quantitative assessment procedure for coronary artery bypass graft evaluations using high-resolution near-infrared fluorescence angiography.
+
+Abstract: PURPOSE: Near-infrared angiography (NIR) is used for on-site graft assessment during coronary artery bypass grafting. This study evaluated the results of a quantitative NIR assessment using a new high-resolution NIR device (h-NIR) for graft assessment.
+METHODS: Forty-three patients were enrolled in our study. Internal thoracic artery (ITA) grafts anastomosed to the left anterior descending artery and examined intraoperatively using h-NIR were included. The ITA grafts were divided into 2 groups for a comparative analysis: patent grafts (P group; n = 37) and failed grafts (F group; n = 6). The graft flow was evaluated by a "quantitative NIR assessment", and the fluorescence luminance intensity (FLI) was measured. Direct observation of the graft and anastomosis with h-NIR was also performed.
+RESULTS: The FLI was higher in the P group than in the F group. The receiver operating characteristic analysis revealed the following cut-off values for FLIs depending on imaging duration: 21.1% at 1 s, 35.5% at 2 s, 58.4% at 3 s, and 83.3% at 4 s. The sensitivity and specificity for detecting graft failure were 83.3% and 69.8-80.6%, respectively. Furthermore, h-NIR was also able to visualize arterial dissection in ITA grafts.
+CONCLUSIONS: A quantitative NIR assessment with an h-NIR device can improve the detectability of anastomotic stenosis, and h-NIR successfully detected arterial dissection of grafts.
+
+Citation: Yamamoto M, et al. The impact of the quantitative assessment procedure for coronary artery bypass graft evaluations using high-resolution near-infrared fluorescence angiography. The impact of the quantitative assessment procedure for coronary artery bypass graft evaluations using high-resolution near-infrared fluorescence angiography. 2022; 52:485-493. doi: 10.1007/s00595-021-02357-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34415437/

@@ -1,0 +1,11 @@
+PMID: 33781722
+Title: Accurate commissural alignment during ACURATE neo TAVI procedure. Proof of concept.
+
+Abstract: INTRODUCTION AND OBJECTIVES: Final position of the neo-commissures is uncontrolled during transcatheter aortic valve implantation (TAVI), potentially hindering coronary access and future procedures. We aimed to develop a standard method to achieve commissural alignment with the ACURATE neo valve.
+METHODS: The relationship between native and TAVI neo-commissures was analyzed in 11 severe aortic stenosis patients undergoing TAVI. Based on computed tomography analysis, an in silico model was developed to predict final TAVI commissural posts position. A modified implantation technique, accurate commissural alignment (ACA) and a dedicated delivery system were developed. TAVI implants were tested in 3-dimensional (3D) printed models and in vivo. Commissural misalignment and coronary overlap (CO) were analyzed.
+RESULTS: The in silico model accurately predicted final position of commissural posts irrespective of the implantation technique performed (correlation coefficient, 0.994; 95%CI, 0.989-0.998; P<.001). TAVI implant with patient-specific rotation was simulated in 3D printed models and in 9 patients. ACA-oriented TAVI implants presented adequate commissural alignment in vivo (mean commissural misalignment of 7.7 ±3.9°). None of the ACA oriented implants showed CO, whereas in silico conventional implants predicted CO in 6 of the 9 cases.
+CONCLUSIONS: Accurate commissural alignment of the ACURATE neo device is feasible by inserting the delivery system with a patient-specific rotation based on computed tomography analysis. This is a simple and reproducible method for commissural alignment that can be potentially used for all kinds of TAVI devices.
+
+Citation: Redondo A, et al. Accurate commissural alignment during ACURATE neo TAVI procedure. Proof of concept. Accurate commissural alignment during ACURATE neo TAVI procedure. Proof of concept. 2022; 75:203-212. doi: 10.1016/j.rec.2021.02.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33781722/

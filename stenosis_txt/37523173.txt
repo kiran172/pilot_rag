@@ -1,0 +1,14 @@
+PMID: 37523173
+Title: Aortic Stenosis Risk in Rheumatoid Arthritis.
+
+Abstract: IMPORTANCE: Although an increased risk of ischemic cardiovascular disease has been associated with rheumatoid arthritis (RA), the risk of aortic stenosis (AS) is unknown.
+OBJECTIVE: To examine the risk of incident AS, aortic valve intervention, AS-related death, and risk factors for AS development in patients with RA.
+DESIGN, SETTING, AND PARTICIPANTS: This cohort study linked data from the Veterans Health Administration (VHA) and Centers for Medicare & Medicaid Services from 2000 to 2019. Patients with RA were matched by age, sex, and VHA enrollment year with up to 10 patients without RA. The cohort was followed until incident AS, aortic valve intervention, or death. Data were analyzed from August 23, 2022, to March 3, 2023.
+EXPOSURES: the primary exposure was the presence of RA, defined using validated RA algorithms.
+MAIN OUTCOMES AND MEASURES: Aortic stenosis was defined as a composite of inpatient or outpatient diagnoses, surgical or transcatheter aortic valve replacement, or AS-related death using diagnostic and procedural codes. Risk of AS development was assessed with multivariable Cox proportional hazards models adjusted for race, ethnicity, smoking status, body mass index, rurality, comorbidities, and health care use.
+RESULTS: The cohort included 73 070 patients with RA (64 008 [87.6%] males; mean [SD] age, 63.0 [11.9] years) matched with 639 268 patients without RA (554 182 [86.7%] males; mean [SD] age, 61.9 [11.7] years) and 16 109 composite AS outcomes that occurred over 6 223 150 person-years. The AS incidence rate was 3.97 (95% CI, 3.81-4.13) per 1000 person-years in patients with RA and 2.45 (95% CI, 2.41-2.49) per 1000 person-years in the control patients (absolute difference, 1.52 per 1000 person-years). Rheumatoid arthritis was associated with an increased risk of composite AS (adjusted hazard ratio [AHR], 1.48; 95% CI, 1.41-1.55), aortic valve intervention (AHR, 1.34; 95% CI, 1.22-1.48), and AS-related death (AHR, 1.26; 95% CI, 1.04-1.54).
+CONCLUSIONS AND RELEVANCE: In this cohort study, RA was associated with a higher risk of developing AS and the subsequent risks of undergoing aortic valve intervention and suffering from AS-related death. Future studies are needed to confirm whether valvular heart disease, specifically AS, may be an overlooked cardiovascular disease complication in RA.
+
+Citation: Johnson TM, et al. Aortic Stenosis Risk in Rheumatoid Arthritis. Aortic Stenosis Risk in Rheumatoid Arthritis. 2023; 183:973-81. doi: 10.1001/jamainternmed.2023.3087
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37523173/

@@ -1,0 +1,11 @@
+PMID: 34606960
+Title: Role of risk scoring systems in predicting life expectancy after carotid endarterectomy in asymptomatic patients.
+
+Abstract: OBJECTIVE: The aim of this study is to compare and to test the performance of all available risk scoring systems (RSSs) designed to predict long-term survival rate in asymptomatic candidate patients for carotid endarterectomy (CEA) for significant carotid artery stenosis.
+METHODS: Data on asymptomatic patients who underwent CEA in three high-volume centers were prospectively recorded. Through literature research using Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) recommendations, six RSSs were identified for the intent of the study. Primary endpoints were 3- and 5-year survival rates after CEA. All items used as variables to compose multiple RSSs were applied to every patient in the study population. The 3- and 5-year mortality prediction rates for each score were assessed by sensitivity, specificity, and predictive negative and positive value calculation, as well as univariable Cox proportional hazard models with the Harrell C index.
+RESULTS: During the study period, 825 CEAs in 825 asymptomatic patients were analyzed. All items used in RSSs were available in the dataset, with some concerns regarding their definition and application among RSSs. The 3- and 5-year survival rates of the study cohort were 94.5% and 90.3%, respectively. Among the six RSSs analyzed, no RSS demonstrated optimal results in terms of mortality rate prediction accuracy, although some scores had good diagnostic and risk of death precision.
+CONCLUSIONS: RSSs, when used alone, fail to optimally detect postoperative life expectancy in asymptomatic CEA patient candidates. Further prospective controlled studies are needed to compose and validate RSSs with better calibration to predict outcomes.
+
+Citation: Bissacco D, et al. Role of risk scoring systems in predicting life expectancy after carotid endarterectomy in asymptomatic patients. Role of risk scoring systems in predicting life expectancy after carotid endarterectomy in asymptomatic patients. 2022; 75:906-914.e4. doi: 10.1016/j.jvs.2021.08.099
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34606960/

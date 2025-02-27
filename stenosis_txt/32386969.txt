@@ -1,0 +1,11 @@
+PMID: 32386969
+Title: Cholangitis following biliary-enteric anastomosis: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Cholangitis is a serious biliary complication following biliary-enteric anastomosis (BEA). However, the rate of cholangitis in the postoperative period and its associated risk factors are inconclusive. The objective of this systematic review and meta-analysis was to assess the onset and risk factors of cholangitis after biliary-enteric reconstruction in literature.
+METHODS: MEDLINE, EMBASE, and Cochrane databases were searched systematically to identify studies reporting about cholangitis following biliary-enteric anastomosis. Meta-analyses were performed for risk factors using random effects model with odds ratio (OR) and 95% confidence interval (95 %CI) as effect measures. Study quality was assessed by the MINORS (methodological index for non-randomized studies) criteria.
+RESULTS: 28 studies involving 6904 patients were included in the study. The pooled rate for postoperative cholangitis (POC) was 10% (95 %CI: 8 %-13%) with studies reporting about an early- and late-onset of cholangitis. Male sex (OR 2.08; 95 %CI: 1.33-3.24; P = 0.001), postoperative hepatolithiasis (OR 137.19; 95 %CI: 29.00-648.97; P < 0.001) and postoperative anastomotic stricture (OR 178.29; 95 %CI: 68.64-463.11; P < 0.001) were associated with a higher risk of a late-onset of POC with a pooled rate of 8% (95 %CI: 6 %-11%) after a median time interval of 12 months. The quality of the included studies was low to moderate.
+CONCLUSION: Cholangitis is a frequent complication after BEA. Consensus definition and prospective trials are required to assess optimal therapeutic strategies. We proposed a standardized definition and grading of POC to enable comparisons between future studies.
+
+Citation: Birgin E, et al. Cholangitis following biliary-enteric anastomosis: A systematic review and meta-analysis. Cholangitis following biliary-enteric anastomosis: A systematic review and meta-analysis. 2020; 20:736-745. doi: 10.1016/j.pan.2020.04.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32386969/

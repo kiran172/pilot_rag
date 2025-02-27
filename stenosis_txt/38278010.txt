@@ -1,0 +1,11 @@
+PMID: 38278010
+Title: PAE planning: Radiation exposure and image quality of CT and CBCT.
+
+Abstract: PURPOSE: To determine accurate organ doses, effective doses, and image quality of computed tomography (CT) compared with cone beam CT (CBCT) for correct identification of prostatic arteries.
+METHOD: A dual-energy CT scanner and a flat-panel angiography system were used. Dose measurements (gallbladder (g), intestine (i), bladder (b), prostate (p), testes (t), active bone marrow of pelvis (bmp) and femura (bmf)) were performed using an anthropomorphic phantom with 65 thermoluminescent dosimeters in the pelvis and abdomen region. For the calculation of the contrast-to-noise ratio (CNR) of the pelvic arteries, a patient whose weight and height were almost identical to those of the phantom was selected for each examination type.
+RESULTS: The effective dose of CT was 2.7 mSv and that of CBCT was 21.8 mSv. Phantom organ doses were lower for CT than for CBCT in all organs except the testes (g: 1.2 mGy vs. 3.3 mGy, i: 5.8 mGy vs. 23.9 mGy, b: 6.9 mGy vs. 19.4 mGy, p: 6.4 mGy vs. 13.2 mGy, t: 4.7 mGy vs. 2.4 mGy, bmp: 5.1 mGy vs. 18.2 mGy, bmf: 3.3 mGy vs. 6.6 mGy). For human pelvic arteries, the CNR of CT was better than that of CBCT, with the exception of one prostate artery that showed stenosis on CT. Evaluation by experienced radiologists also confirmed the better detectability of prostate arteries on CT examination.
+CONCLUSIONS: In our study preprocedural CT had lower organ doses and better image quality comparedd with CBCT and should be considered for the correct identification of prostatic arteries.
+
+Citation: Steiniger B, et al. PAE planning: Radiation exposure and image quality of CT and CBCT. PAE planning: Radiation exposure and image quality of CT and CBCT. 2024; 172:111329. doi: 10.1016/j.ejrad.2024.111329
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38278010/

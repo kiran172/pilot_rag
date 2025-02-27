@@ -1,0 +1,11 @@
+PMID: 38118276
+Title: Association between long-term exposure to ambient air pollution and lesion ischemia in patients with atherosclerosis.
+
+Abstract: BACKGROUND AND AIMS: Air pollution has been associated with coronary artery disease. The underlying mechanisms were understudied, especially in relation to coronary stenosis leading to myocardial ischemia. Advances in computed tomography (CT) allow for novel quantification of lesion ischemia. We aim to investigate associations between air pollution exposures and fractional flow reserve on CT (CT-FFR), a measure of coronary artery blood flow.
+METHODS: CT-FFR, which defines a ratio of maximal myocardial blood flow compared to its normal value (range: 0-100%), was characterized in 2017 patients with atherosclerosis between 2015 and 2017. Exposures to ozone (O<sub>3</sub>), nitrogen dioxide (NO<sub>2</sub>), and fine particulate matter (PM<sub>2.5</sub>) were estimated using high-resolution exposure models. Linear and logistic regression models were used to assess the association of each air pollutant with CT-FFR and with the prevalence of clinically relevant myocardial ischemia (CT-FFR &lt;75%).
+RESULTS: Participants were on average 60.1 years old. Annual mean O<sub>3</sub>, NO<sub>2</sub>, PM<sub>2.5</sub> were 61, 47 and 60 μg/m3, respectively. Mean CT-FFR value was 76.9%. In the main analysis, a higher level of O<sub>3</sub> was associated with a lower CT-FFR value (-1.74%, 95% CI: -2.85, -0.63 per 8 μg/m3) and a higher prevalence of myocardial ischemia (odds ratio: 1.32, 95% CI: 1.05-1.65), adjusting for potential confounders such as risk factors and plaque phenotypes, independent of the effects of exposure to NO<sub>2</sub> and PM<sub>2.5</sub>. No associations were observed for PM<sub>2.5</sub> or NO<sub>2</sub> with CT-FFR.
+CONCLUSIONS: Long-term exposure to O<sub>3</sub> is associated with lower CT-FFR value in atherosclerotic patients, indicating higher risk of lesion ischemia.
+
+Citation: Xu M, et al. Association between long-term exposure to ambient air pollution and lesion ischemia in patients with atherosclerosis. Association between long-term exposure to ambient air pollution and lesion ischemia in patients with atherosclerosis. 2024; 388:117422. doi: 10.1016/j.atherosclerosis.2023.117422
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38118276/

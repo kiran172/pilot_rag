@@ -1,0 +1,11 @@
+PMID: 36717847
+Title: Outcomes of deferred revascularisation following negative fractional flow reserve in diabetic and non-diabetic patients: a meta-analysis.
+
+Abstract: BACKGROUND: Fractional Flow Reserve (FFR) is a widely applied invasive physiological assessment, endorsed by major guidelines to aid in the decision to perform or defer revascularisation. While a threshold of  > 0.8 has been applied universally, clinical outcomes may be affected by numerous factors, including the presence of diabetes. This meta-analysis aims to investigate the outcomes of diabetic versus non-diabetic patients in whom revascularisation was deferred based on negative FFR.
+METHODS: We performed a meta-analysis investigating the outcomes of diabetic and non-diabetic patients in whom revascularisation was deferred based on negative FFR. A search was performed on MEDLINE, PubMed and EMBASE, and peer-reviewed studies that reported MACE for diabetic and non-diabetic patients with deferred revascularisation based on FFR  > 0.8 were included. The primary end point was MACE.
+RESULTS: The meta-analysis included 7 studies in which 4275 patients had revascularisation deferred based on FFR > 0.8 (1250 diabetic). Follow up occurred over a mean of 3.2 years. Diabetes was associated with a higher odds of MACE (OR = 1.66, 95% CI 1.35-2.04, p =  < 0.001), unplanned revascularisation (OR = 1.48, 95% CI 1.06-2.06, p = 0.02), all-cause mortality (OR = 1.74, 95% CI 1.20-2.52, p = 0.004) and cardiovascular mortality (OR = 2.08, 95% CI 1.07-4.05, p = 0.03).
+CONCLUSIONS: For patients with stable coronary syndromes and deferred revascularisation based on FFR > 0.8, the presence of diabetes portends an increased long-term risk of MACE compared to non-diabetic patients. Trail registration URL:  https://www.crd.york.ac.uk/PROSPERO/ ; Unique identifier: CRD42022367312.
+
+Citation: Ekmejian A, et al. Outcomes of deferred revascularisation following negative fractional flow reserve in diabetic and non-diabetic patients: a meta-analysis. Outcomes of deferred revascularisation following negative fractional flow reserve in diabetic and non-diabetic patients: a meta-analysis. 2023; 22:22. doi: 10.1186/s12933-023-01751-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36717847/

@@ -1,0 +1,8 @@
+PMID: 32146539
+Title: CRISPLD1: a novel conserved target in the transition to human heart failure.
+
+Abstract: Heart failure is a major health problem worldwide with a significant morbidity and mortality rate. Although studied extensively in animal models, data from patients at the compensated disease stage are lacking. We sampled myocardium biopsies from aortic stenosis patients with compensated hypertrophy and moderate heart failure and used transcriptomics to study the transition to failure. Sequencing and comparative analysis of analogous samples of mice with transverse aortic constriction identified 25 candidate genes with similar regulation in response to pressure overload, reflecting highly conserved molecular processes. The gene cysteine-rich secretory protein LCCL domain containing 1 (CRISPLD1) is upregulated in the transition to failure in human and mouse and its function is unknown. Homology to ion channel regulatory toxins suggests a role in Ca2+ cycling. CRISPR/Cas9-mediated loss-of-function leads to dysregulated Ca2+ handling in human-induced pluripotent stem cell-derived cardiomyocytes. The downregulation of prohypertrophic, proapoptotic and Ca2+-signaling pathways upon CRISPLD1-KO and its upregulation in the transition to failure implicates a contribution to adverse remodeling. These findings provide new pathophysiological data on Ca2+ regulation in the transition to failure and novel candidate genes with promising potential for therapeutic interventions.
+
+Citation: Khadjeh S, et al. CRISPLD1: a novel conserved target in the transition to human heart failure. CRISPLD1: a novel conserved target in the transition to human heart failure. 2020; 115:27. doi: 10.1007/s00395-020-0784-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32146539/

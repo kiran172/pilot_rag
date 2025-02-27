@@ -1,0 +1,11 @@
+PMID: 38355280
+Title: Physical fitness in male adolescents and atherosclerosis in middle age: a population-based cohort study.
+
+Abstract: OBJECTIVES: To examine the associations between physical fitness in male adolescents and coronary and carotid atherosclerosis in middle age.
+METHODS: This population-based cohort study linked physical fitness data from the Swedish Military Conscription Register during adolescence to atherosclerosis data from the Swedish CArdioPulmonary bioImage Study in middle age. Cardiorespiratory fitness was assessed using a maximal cycle-ergometer test, and knee extension muscular strength was evaluated through an isometric dynamometer. Coronary atherosclerosis was evaluated via Coronary Computed Tomography Angiography (CCTA) stenosis and Coronary Artery Calcium (CAC) scores, while carotid plaques were evaluated by ultrasound. The associations were analysed using multinomial logistic regression, adjusted (marginal) prevalences and restricted cubic splines.
+RESULTS: The analysis included 8986 male adolescents (mean age 18.3 years) with a mean follow-up of 38.2 years. Physical fitness showed a reversed J-shaped association with CCTA stenosis and CAC, but no consistent association was observed for carotid plaques. After adjustments, compared with adolescents in the lowest tertile of cardiorespiratory fitness and muscular strength, those in the highest tertile had 22% (OR 0.78; 95% CI 0.61 to 0.99) and 26% (OR 0.74; 95% CI 0.58 to 0.93) lower ORs for severe (≥50%) coronary stenosis, respectively. The highest physical fitness group (high cardiorespiratory fitness and muscular strength) had 33% (OR 0.67; 95% CI 0.52 to 0.87) lower OR for severe coronary stenosis compared with those with the lowest physical fitness.
+CONCLUSION: This study supports that a combination of high cardiorespiratory fitness and high muscular strength in adolescence is associated with lower coronary atherosclerosis, particularly severe coronary stenosis, almost 40 years later.
+
+Citation: Herraiz-Adillo Á, et al. Physical fitness in male adolescents and atherosclerosis in middle age: a population-based cohort study. Physical fitness in male adolescents and atherosclerosis in middle age: a population-based cohort study. 2024; 58:411-20. doi: 10.1136/bjsports-2023-107663
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38355280/

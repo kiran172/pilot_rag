@@ -1,0 +1,11 @@
+PMID: 38981680
+Title: Epidural pressure measurement using a fiber-optic sensor (proof-of-principle in vivo animal trial).
+
+Abstract: BACKGROUND: An increase in epidural pressure around the stenosis has been observed in patients with lumbar spinal stenosis (LSS) with positive signs of sedimentation or redundant nerve roots. Further analysis of the pressure conditions in the stenotic area would be of great interest. We hypothesized that it would be possible to determine the physiological parameters of the epidural pulse wave and its course in pathological stenosis as a basis for objective identification of LSS based on pressure using a new measuring method with continuous spatial and temporal resolution.
+METHODS: We performed a single-case proof-of-principle in vivo animal trial and used a newly developed hybrid pressure-measurement probe with a fiber-tip Fabry-Pérot interferometer and several fiber Bragg gratings (FBG).
+RESULTS: With reproducible precision, we determined the mean epidural pressure to be 7.5 mmHg and the peak-to-peak value to be 4-5 mmHg. When analyzing the pressure measured by an FBG array, both the heart and respiratory rates can be precisely determined. This study was the first to measure the pulse wave velocity of the cerebrospinal fluid pressure wave as 0.97 m/s using the newly developed pressure probe. A simulated LSS was detected in real time and located exactly.
+CONCLUSIONS: The developed fiber-optic pressure sensor probe enables a new objective measurement of epidural pressure. We confirmed our hypothesis that physiological parameters of the epidural pulse wave can be determined and that it is possible to identify an LSS.
+
+Citation: Barz S, et al. Epidural pressure measurement using a fiber-optic sensor (proof-of-principle in vivo animal trial). Epidural pressure measurement using a fiber-optic sensor (proof-of-principle in vivo animal trial). 2024; 7:769-776. doi: 10.1002/ame2.12469
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38981680/

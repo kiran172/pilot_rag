@@ -1,0 +1,11 @@
+PMID: 36597637
+Title: Comparative Effects and Safety of Full-Endoscopic Versus Microscopic Spinal Decompression for Lumbar Spinal Stenosis: A Meta-Analysis and Statistical Power Analysis of 6 Randomized Controlled Trials.
+
+Abstract: OBJECTIVE: This meta-analysis with statistical power analysis aimed to evaluate the difference between full-endoscopic and microscopic spinal decompression in treating spinal stenosis.
+METHODS: We searched PubMed, Embase, CENTRAL (Cochrane Central Register of Controlled Trials), and CNKI (China National Knowledge Infrastructure) for relevant randomized controlled trials (RCTs) regarding the comparison of full-endoscopic versus microscopic spinal decompression in treating lumbar spinal stenosis through February 28, 2022. Two independent investigators selected studies, extracted information, and appraised methodological quality. Meta-analysis was conducted using RevMan 5.4 and STATA 14.0, and statistical power analysis was performed using G*Power 3.1.
+RESULTS: Six RCTs involving 646 patients met selection criteria. Meta-analysis suggested that, compared with microscopic decompression, full-endoscopic spinal decompression achieved more leg pain improvement (mean difference [MD], -0.20; 95% confidence interval [CI], -0.30 to -0.10; p = 0.001), shortened operative time (MD, -12.71; 95% CI, -18.27 to -7.15; p < 0.001), and decreased the incidence of complications (risk ratio, 0.43; 95% CI, 0.22-0.82; p = 0.01), which was supported by a statistical power of 98.57%, 99.97%, and 81.88%, respectively.
+CONCLUSION: Full-endoscopic spinal decompression is a better treatment for lumbar spinal stenosis, showing more effective leg pain improvement, shorter operative time, and fewer complications than microscopic decompression.
+
+Citation: Yang Z, et al. Comparative Effects and Safety of Full-Endoscopic Versus Microscopic Spinal Decompression for Lumbar Spinal Stenosis: A Meta-Analysis and Statistical Power Analysis of 6 Randomized Controlled Trials. Comparative Effects and Safety of Full-Endoscopic Versus Microscopic Spinal Decompression for Lumbar Spinal Stenosis: A Meta-Analysis and Statistical Power Analysis of 6 Randomized Controlled Trials. 2022; 19:996-1005. doi: 10.14245/ns.2244600.300
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36597637/

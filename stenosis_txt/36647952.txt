@@ -1,0 +1,11 @@
+PMID: 36647952
+Title: Association between circular stapler size and anastomotic leakage after laparoscopic low anterior resection for rectal cancer.
+
+Abstract: BACKGROUND: Anastomotic leakage (AL) is one of the most severe and frequent complications occurring after laparoscopic low anterior resection (LAR) for rectal cancer. This study aimed to examine the association between circular stapler size and AL after laparoscopic LAR.
+METHODS: This retrospective single-institution study involved 181 patients with rectal cancer who underwent laparoscopic LAR performed by a single surgical team between July 2016 and June 2021. The characteristics of the patients were analyzed. Risk factors for AL were identified via univariate and multivariate analyses. Additionally, a further propensity score matching (PSM) analysis was performed to reduce the selection bias.
+RESULTS: Among the 181 patients who underwent laparoscopic LAR for rectal cancer, 17 (9.4%) developed clinical AL. In the univariate and multivariate analyses, male sex, incomplete intestinal obstruction, and the usage of a 32-mm stapler during the surgery were independent risk factors for the occurrence of AL. Furthermore, the PSM analysis confirmed that the incidence of AL with a 32-mm stapler was higher than that with a 29-mm stapler after laparoscopic low anterior resection. However, there was no difference in the incidence of anastomotic bleeding and stenosis.
+CONCLUSION: Choosing a smaller-diameter circular stapler may reduce the incidence of AL after laparoscopic LARfor rectal cancer without increasing the incidence of anastomotic stenosis.
+
+Citation: Jiang Y, et al. Association between circular stapler size and anastomotic leakage after laparoscopic low anterior resection for rectal cancer. Association between circular stapler size and anastomotic leakage after laparoscopic low anterior resection for rectal cancer. 2022; 18:1931-1936. doi: 10.4103/jcrt.jcrt_676_22
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36647952/

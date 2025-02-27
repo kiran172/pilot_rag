@@ -1,0 +1,12 @@
+PMID: 32731926
+Title: Transcatheter Valve-in-Valve Aortic Valve Replacement as an Alternative to Surgical Re-Replacement.
+
+Abstract: BACKGROUND: Valve-in-valve (VIV) transcatheter aortic valve replacement (TAVR) and redo surgical aortic valve replacement (SAVR) represent the 2 treatments for aortic bioprosthesis failure. Clinical comparison of both therapies remains limited by the number of patients analyzed.
+OBJECTIVES: The purpose of this study was to analyze the outcomes of VIV TAVR versus redo SAVR at a nationwide level in France.
+METHODS: Based on the French administrative hospital-discharge database, the study collected information for patients treated for aortic bioprosthesis failure with isolated VIV TAVR or redo SAVR between 2010 and 2019. Propensity score matching was used for the analysis of outcomes.
+RESULTS: A total of 4,327 patients were found in the database. After matching on baseline characteristics, 717 patients were analyzed in each arm. At 30 days, VIV TAVR was associated with lower rates of the composite of all-cause mortality, all-cause stroke, myocardial infarction, and major or life-threatening bleeding (odds ratio: 0.62; 95% confidence interval: 0.44 to 0.88; p = 0.03). During follow-up (median 516 days), the combined endpoint of cardiovascular death, all-cause stroke, myocardial infarction, or rehospitalization for heart failure was not different between the 2 groups (odds ratio: 1.18; 95% confidence interval: 0.99 to 1.41; p = 0.26). Rehospitalization for heart failure and pacemaker implantation were more frequently reported in the VIV TAVR group. A time-dependent interaction between all-cause and cardiovascular mortality following VIV TAVR was reported (p-interaction <0.05).
+CONCLUSIONS: VIV TAVR was observed to be associated with better short-term outcomes than redo SAVR. Major cardiovascular outcomes were not different between the 2 treatments during long-term follow-up.
+
+Citation: Deharo P, et al. Transcatheter Valve-in-Valve Aortic Valve Replacement as an Alternative to Surgical Re-Replacement. Transcatheter Valve-in-Valve Aortic Valve Replacement as an Alternative to Surgical Re-Replacement. 2020; 76:489-499. doi: 10.1016/j.jacc.2020.06.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32731926/

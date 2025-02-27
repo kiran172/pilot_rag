@@ -1,0 +1,12 @@
+PMID: 34904065
+Title: Non-Invasive Flow Ratio (NiFR) Measurement based on Angiography Images.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) is a gold standard to assess the impact of stenosis on the blood flow. The FFR method enhances diagnostic accuracy, lessens the need for stenting, and reduces costs. However, FFR is used in less than 10% of percutaneous coronary intervention (PCI) procedures because it needs pressure wires to measure the distal and proximal pressures and adenosine to create hyperemic conditions. Pressure-wire-based FFR measurement is, therefore, expensive and invasive.
+OBJECTIVE: This study aims to introduce a new approach on the basis of 3D coronary angiography and the Thrombolysis in Myocardial Infarction (TIMI) frame count for fast computation of FFR in patients with coronary artery disease.
+MATERIAL AND METHODS: In this simulation study, we herein introduce Non-Invasive Flow Ratio drawing upon CFD to measure FFR based on coronary angiography images with less run time. In this study, 3D geometry was created based on coronary angiography images. The mean volumetric flow rate was calculated using the TIMI frame count. FFR calculated based on CFD was compared with pressure-wire-based FFR and NiFR was calculated in 85 patients.
+RESULTS: The NiFR (r = 0.738, P< 0.001) exhibited a strong correlation with pressure-wire-based FFR. The result indicated that FFR was higher than 0.8 in the arteries with non-signif-icant stenosis and lower than 0.8 in the arter-ies with significant stenosis.
+CONCLUSION: The computational simulation of FFR and hemodynamic parameters such as pressure drop is a safe, efficient, and cost-effective method to evaluate the severity of coronary stenosis.
+
+Citation: Sadeghian M, et al. Non-Invasive Flow Ratio (NiFR) Measurement based on Angiography Images. Non-Invasive Flow Ratio (NiFR) Measurement based on Angiography Images. 2021; 11:685-692. doi: 10.31661/jbpe.v0i0.1160
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34904065/

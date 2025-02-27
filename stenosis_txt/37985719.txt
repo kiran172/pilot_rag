@@ -1,0 +1,8 @@
+PMID: 37985719
+Title: Causal association of calcific aortic valve stenosis and atrial fibrillation: a Mendelian randomization study.
+
+Abstract: Calcific aortic valve stenosis (CAVS) is associated with an increased risk of atrial fibrillation (AF) in observational studies, but whether these associations are causal has not been determined. This study aimed to explore the potential causal relationship between CAVS and AF via Mendelian randomization (MR). Genetic variants from the genome-wide association study (GWAS) summary data of the European population for CAVS were used to investigate the association with AF. The inverse variance weighted (IVW) approach was used to obtain the primary causal inference, and several sensitivity analysis approaches, such as the MR‒Egger and weighted median (WM), were performed to assess the robustness of the results. A total of nineteen valid and independent genetic SNPs associated with CAVS were obtained from the GWAS database. Genetically predicted CAVS (OR: 1.105; 95% CI: 1.072-1.139; p = 8.60E-11) was associated with an increased risk of AF. Similar results were discovered in the sensitivity analyses by using MR Egger and weighted median approaches. An MR design was used to reduce confounding variables and the potential for reverse causality bias. The results provide genetic evidence that CAVS considerably increased the risk of AF.
+
+Citation: Chai C, et al. Causal association of calcific aortic valve stenosis and atrial fibrillation: a Mendelian randomization study. Causal association of calcific aortic valve stenosis and atrial fibrillation: a Mendelian randomization study. 2023; 13:20284. doi: 10.1038/s41598-023-47770-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37985719/

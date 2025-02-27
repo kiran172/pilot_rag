@@ -1,0 +1,11 @@
+PMID: 31751668
+Title: Disruption of Regional Brain Activity and Functional Connectivity in Patients with Asymptomatic Vulnerable Carotid Plaque.
+
+Abstract: BACKGROUND & AIMS: Studies have shown that moderate to severe stenosis of the carotid was associated with abnormal neural activity and functional connectivity (FC). However, whether there is a change of neuronal activity in individuals with asymptomatic vulnerable carotid plaque but mild stenosis (VCP) remains unknown.
+METHODS: From December 2015 to December 2017, a total of 31 patients with VCP and 31 no carotid plaque (NCP) controls were performed multi-modal state functional magnetic resonance imaging and investigated the regional brain activity and FC. Two basic algorithms of rs-fMRI, arterial spin labeling, and inflammatory biomarkers were comprehensively evaluated. The time series of aberrant ReHo and FC were also extracted and correlated with other clinical imaging features.
+RESULTS: As compared with NCP group, decreased regional brain activity was found mainly in left middle occipital gyrus (MOG) in the VCP group, but there was no significant difference in cerebral blood flow between the two groups. With the left MOG as seed, decreased FC was found between left MOG and right MOG and frontoparietal network in VCP group. Carotid intima-media thickness but not inflammatory biomarkers including high sensitivity c-reactive protein and interleukin-6 was significantly correlated with aberrant ReHo and FC in left MOG and right MOG.
+CONCLUSIONS: regional brain activity and FC may serve as early imaging markers for vascular-related brain dysfunctions and clinical indicators for early intervention of both atherosclerotic cerebral infarction and vascular cognitive impairments.
+
+Citation: Huang Q, et al. Disruption of Regional Brain Activity and Functional Connectivity in Patients with Asymptomatic Vulnerable Carotid Plaque. Disruption of Regional Brain Activity and Functional Connectivity in Patients with Asymptomatic Vulnerable Carotid Plaque. 2020; 716:134634. doi: 10.1016/j.neulet.2019.134634
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31751668/

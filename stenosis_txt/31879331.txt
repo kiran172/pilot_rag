@@ -1,0 +1,11 @@
+PMID: 31879331
+Title: Characterization of Carotid Plaque Components by Quantitative Susceptibility Mapping.
+
+Abstract: BACKGROUND AND PURPOSE: Intraplaque hemorrhage in the carotid artery is related to an increased risk of cerebrovascular ischemic events. We aimed to investigate whether quantitative susceptibility mapping can characterize carotid artery plaque components and quantify the severity of intraplaque hemorrhage.
+MATERIALS AND METHODS: For this ex vivo quantitative susceptibility mapping study, 9 carotid endarterectomy specimens were imaged on a 3T MR imaging scanner using a 3D multi-echo gradient-echo sequence and a microscopy coil. The samples were examined histologically using immunostains, including glycophorin A and Prussian blue. The areas of erythrocytes, iron deposits, calcification, and fibrous matrices observed on stained sections were compared with quantitative susceptibility mapping findings and their mean susceptibility values.
+RESULTS: Intraplaque hemorrhage and iron deposits were observed only in areas hyperintense on quantitative susceptibility mapping; calcifications and fibrous matrices were prevalent in hypointense areas. The mean susceptibility values for necrotic cores with intraplaque hemorrhage but no iron deposits, cores with iron deposits but no intraplaque hemorrhage, cores without either intraplaque hemorrhage or iron deposits, and cores with calcification were 188 ± 51, 129 ± 49, -11 ± 17, and -158 ± 78 parts per billion, respectively. There was a significant difference in the mean susceptibility values among the 4 histologic components (P &lt; .01). The mean susceptibility values of the whole plaque positively correlated with the percentage area positive for glycophorin A (r = 0.65, P &lt; .001) and Prussian blue (r = 0.47, P &lt; .001).
+CONCLUSIONS: Our findings suggest that quantitative susceptibility mapping can characterize the composition of carotid plaques and quantify the degree of intraplaque hemorrhage and iron deposits.
+
+Citation: Azuma M, et al. Characterization of Carotid Plaque Components by Quantitative Susceptibility Mapping. Characterization of Carotid Plaque Components by Quantitative Susceptibility Mapping. 2020; 41:310-317. doi: 10.3174/ajnr.A6374
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31879331/

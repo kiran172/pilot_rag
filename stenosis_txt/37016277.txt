@@ -1,0 +1,8 @@
+PMID: 37016277
+Title: A model of fluid-structure and biochemical interactions for applications to subclinical leaflet thrombosis.
+
+Abstract: Subclinical leaflet thrombosis (SLT) is a potentially serious complication of aortic valve replacement with a bioprosthetic valve in which blood clots form on the replacement valve. SLT is associated with increased risk of transient ischemic attacks and strokes and can progress to clinical leaflet thrombosis. SLT following aortic valve replacement also may be related to subsequent structural valve deterioration, which can impair the durability of the valve replacement. Because of the difficulty in clinical imaging of SLT, models are needed to determine the mechanisms of SLT and could eventually predict which patients will develop SLT. To this end, we develop methods to simulate leaflet thrombosis that combine fluid-structure interaction and a simplified thrombosis model that allows for deposition along the moving leaflets. Additionally, this model can be adapted to model deposition or absorption along other moving boundaries. We present convergence results and quantify the model's ability to realize changes in valve opening and pressures. These new approaches are an important advancement in our tools for modeling thrombosis because they incorporate both adhesion to the surface of the moving leaflets and feedback to the fluid-structure interaction.
+
+Citation: Barrett A, et al. A model of fluid-structure and biochemical interactions for applications to subclinical leaflet thrombosis. A model of fluid-structure and biochemical interactions for applications to subclinical leaflet thrombosis. 2023; 39:e3700. doi: 10.1002/cnm.3700
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37016277/

@@ -1,0 +1,11 @@
+PMID: 38599917
+Title: Baseline NT-proBNP predicts acute kidney injury following transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND/PURPOSE: Acute kidney injury (AKI) after transcatheter aortic valve implantation (TAVI) increases morbidity and mortality. Our study aimed to investigate the role of baseline N-terminal pro B-type natriuretic peptide (NT-proBNP) as a predictor of AKI following TAVI.
+METHODS: All consecutive TAVI patients were included in the analysis, except patients with dialysis and those with a GFR &lt; 15 ml/min/1.73 m2 at baseline. Rates of AKI after TAVI were assessed according to the updated valve academic research consortium definitions using AKIN classification in three stages. NT-proBNP was measured at baseline. One-year mortality rates were assessed.
+RESULTS: We included 1973 patients treated with TAVI between January 2006 and December 2016. Median [IQR] age was 81.0 [77.0;84.0] years, the STS score was 6.2 [3.9;9.0], and the logEuroScore was 14.5 [9.0;23.0]. 30-day and one-year mortality was 5.1 % and 16.1 % for all patients, respectively. Multivariate analysis revealed that patients with NT-proBNP levels higher than two times above the upper level of normal (ULN) had an increased risk for AKI after TAVI compared to patients with NT-proBNP levels < 2× ULN (OR 1.40 [1.03-1.91]).
+CONCLUSIONS: Routine assessment of baseline NT-proBNP levels might be an additional tool to identify patients at increased risk for AKI after TAVI.
+
+Citation: Eckrich K, et al. Baseline NT-proBNP predicts acute kidney injury following transcatheter aortic valve implantation. Baseline NT-proBNP predicts acute kidney injury following transcatheter aortic valve implantation. 2024; 66:15-20. doi: 10.1016/j.carrev.2024.03.027
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38599917/

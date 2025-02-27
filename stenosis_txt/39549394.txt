@@ -1,0 +1,11 @@
+PMID: 39549394
+Title: A computational method to predict cerebral perfusion flow after endovascular treatment based on invasive pressure and resistance.
+
+Abstract: BACKGROUND AND OBJECTIVE: Predicting post-operative flow is essential for assessing the risk of adverse events in cerebrovascular stenosis patients following endovascular treatment (EVT). This study aimed to evaluate the accuracy of the CFD simulation model in predicting post-operative velocity, flow and pressure distal to a stenosis, based on cerebrovascular microcirculatory resistance.
+METHODS: The patient-specific models of the extracranial and intracranial arteries were reconstructed. The cerebrovascular microcirculatory resistance was applied to estimate post-operative blood velocity and flow rates. Pearson correlation and Bland-Altman analyses were used to evaluate the correlation and agreement between CFD calculations and transcranial Doppler (TCD) measurements.
+RESULTS: There was a strong correlation between CFD- and TCD-based mean velocities (r = 0.7733; P = 0.0002), with volume flow measured by both methods also showing robust correlation (r = 0.8621; P < 0.0001). Additionally, agreement was found between mean velocities determined by CFD simulation and those estimated by TCD (P = 0.2446, mean difference -4.2089; limits of agreement -11.5764 to 3.1586). However, agreement between volume flow from CFD simulations and TCD was less consistent (P = 0.0387, mean difference -0.3272, limits of agreement -0.9276 to 0.2731).
+CONCLUSIONS: The computational method used in this study enables the prediction of hemodynamic changes and offers valuable support in tailoring treatment strategies for cerebrovascular stenosis lesions.
+
+Citation: Zhao X, et al. A computational method to predict cerebral perfusion flow after endovascular treatment based on invasive pressure and resistance. A computational method to predict cerebral perfusion flow after endovascular treatment based on invasive pressure and resistance. 2024; 258:108510. doi: 10.1016/j.cmpb.2024.108510
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39549394/

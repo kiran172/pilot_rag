@@ -1,0 +1,12 @@
+PMID: 31609071
+Title: Antithrombotic strategies after transcatheter aortic valve implantation: Insights from a network meta-analysis.
+
+Abstract: OBJECTIVES: We aimed to investigate the efficacy and safety of different antithrombotic strategies in patients undergoing transcatheter aortic valve implantation (TAVI) using network meta-analyses.
+BACKGROUND: Meta-analyses comparing single antiplatelet therapy (SAPT) vs. dual antiplatelet therapy (DAPT), ± oral anticoagulant (OAC) was conducted to determine the appropriate post TAVI antithrombotic regimen. However, there was limited direct comparisons across the different therapeutic strategies.
+METHODS: MEDLINE and EMBASE were searched through December 2018 to investigate the efficacy and safety of different antithrombotic strategies (SAPT, DAPT, OAC, OAC + SAPT, and OAC + DAPT) in patients undergoing TAVI. The main outcome were all-cause mortality, major or life-threatening bleeding events, and stroke.
+RESULTS: Our search identified 3 randomized controlled trials and 10 nonrandomized studies, a total of 20,548 patients who underwent TAVI. All OACs were vitamin K antagonists. There was no significant difference on mortality except that OAC + DAPT had significantly higher rates of mortality compared with others (p &lt; .05, I2 = 0%). SAPT had significantly lower rates of bleeding compared with DAPT, OAC+SAPT, and OAC+DAPT (hazard ratio [HR]: 0.59 [0.46-0.77], p &lt; .001, HR: 0.58 [0.34-0.99], p = .045, HR: 0.41 [0.18-0.93], p = .033, respectively, I2 = 0%). There was no significant difference on stroke among all antithrombotic strategies.
+CONCLUSION: Patients who underwent TAVI had similar all-cause mortality rates among different antithrombotic strategies except OAC+DAPT. Patients on SAPT had significantly lower bleeding risk than those on DAPT, OAC + SAPT, and OAC + DAPT. Our results suggest SAPT is the preferred regimen when there is no indication for DAPT or OAC. When DAPT or OAC is indicated, DAPT + OAC should be avoided.
+
+Citation: Kuno T, et al. Antithrombotic strategies after transcatheter aortic valve implantation: Insights from a network meta-analysis. Antithrombotic strategies after transcatheter aortic valve implantation: Insights from a network meta-analysis. 2020; 96:E177-E186. doi: 10.1002/ccd.28498
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31609071/

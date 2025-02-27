@@ -1,0 +1,11 @@
+PMID: 38111184
+Title: Comparison of Intracardiac Echocardiography Versus Transesophageal Echocardiography for Guidance During Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND AND OBJECTIVES: Evidence regarding the efficacy and safety of intracardiac echocardiography (ICE) for guidance during transcatheter aortic valve replacement (TAVR) is limited. This study aimed to compare the clinical efficacy and safety of ICE versus transesophageal echocardiography (TEE) for guiding TAVR.
+METHODS: This prospective cohort study included patients who underwent TAVR from August 18, 2015, to June 31, 2021. Eligible patients were stratified by echocardiographic modality (ICE or TEE) and anesthesia mode (monitored anesthesia care [MAC] or general anesthesia [GA]). Primary outcome was the 1-year composite of all-cause mortality, rehospitalization for cardiovascular cause, or stroke, according to the Valve Academic Research Consortium-3 (VARC-3) definition. Propensity score matching was performed, and study outcomes were analyzed for the matched cohorts.
+RESULTS: Of the 359 eligible patients, 120 patients were matched for the ICE-MAC and TEE-GA groups, respectively. The incidence of primary outcome was similar between matched groups (18.3% vs. 20.0%; adjusted hazard ratio, 0.94; 95% confidence interval [CI], 0.53-1.68; p=0.843). ICE-MAC and TEE-GA also had similar incidences of moderate-to-severe paravalvular regurgitation (PVR) (4.2% vs. 5.0%; adjusted odds ratio, 0.83; 95% CI, 0.23-2.82; p=0.758), new permanent pacemaker implantation, and VARC-3 types 2-4 bleeding.
+CONCLUSIONS: ICE was comparable to TEE for guidance during TAVR for the composite clinical efficacy outcome, with similar incidences of moderate-to-severe PVR, new permanent pacemaker implantation, and major bleeding. These results suggest that ICE could be a safe and effective alternative echocardiographic modality to TEE for guiding TAVR.
+
+Citation: Lee SH, et al. Comparison of Intracardiac Echocardiography Versus Transesophageal Echocardiography for Guidance During Transcatheter Aortic Valve Replacement. Comparison of Intracardiac Echocardiography Versus Transesophageal Echocardiography for Guidance During Transcatheter Aortic Valve Replacement. 2024; 54:63-75. doi: 10.4070/kcj.2023.0195
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38111184/

@@ -1,0 +1,11 @@
+PMID: 32359889
+Title: Angiographic Functional Scoring of Coronary Artery Disease Predicts Mortality in Patients With Severe Aortic Stenosis Undergoing TAVR.
+
+Abstract: BACKGROUND/PURPOSE: Coronary artery disease (CAD) is common in patients undergoing transcatheter aortic valve replacement (TAVR), although its prognostic significance is questionable. Significant CAD stratified using SYNTAX score (SS) has been associated with greater mortality, yet it is unknown whether the functional impact of CAD also impacts outcomes in this cohort. DILEMMA score (DS) is a validated angiographic functional scoring tool that correlates with fractional flow reserve and instantaneous wave-free ratio. This study sought to assess the functional impact of CAD on outcomes in patients undergoing TAVR for severe aortic stenosis (AS).
+METHODS/MATERIALS: 229 patients were included in this analysis. Patients underwent angiographic DS and SS and were classified using predefined values. The primary endpoint was one-year all-cause mortality, with secondary endpoints of 30-day major adverse cardiac and cerebrovascular events (MACCE).
+RESULTS: The mean age was 83.9 ± 0.5 years (55.0% female), with 11.8% all-cause mortality. CAD defined by ≥30% stenosis in any vessel was not associated with adverse outcomes (HR = 1.08, p = 0.84). However, the risk of one-year mortality was greater in patients with either SS > 9 (20.8% vs. 9.4%, HR 2.34, p = 0.03) or DS > 2 (18.4% vs. 8.5%, HR = 2.28, p = 0.03). Both scoring systems were also associated with 30-day MACCE (both p < 0.05). After multivariate adjustment, independent predictors of one-year mortality were DS > 2 (HR = 2.29, p = 0.04), left ventricular ejection fraction <50% (HR 2.66, p = 0.04) and COPD (HR 2.43, p = 0.04).
+CONCLUSION: Our results demonstrate that angiographic functional scoring is independently predictive of both 12-month mortality and 30-day MACCE following TAVR.
+
+Citation: Michail M, et al. Angiographic Functional Scoring of Coronary Artery Disease Predicts Mortality in Patients With Severe Aortic Stenosis Undergoing TAVR. Angiographic Functional Scoring of Coronary Artery Disease Predicts Mortality in Patients With Severe Aortic Stenosis Undergoing TAVR. 2020; 21:1336-1342. doi: 10.1016/j.carrev.2020.04.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32359889/

@@ -1,0 +1,10 @@
+PMID: 35104862
+Title: Association of serum levels of calcium, phosphate, and vitamin D with risk of developing aortic stenosis: the UK Biobank cohort.
+
+Abstract: AIMS: This study was aimed to investigate the associations of serum calcium, phosphate, and vitamin D levels with the risk of developing aortic stenosis (AS).
+METHODS AND RESULTS: We included 296 415 participants who were free of prior diagnosis of any valvular heart disease from the UK Biobank. Serum levels of phosphate, calcium, and vitamin D were measured. Incidental AS was determined by the records of hospital data. Cox regression was used to examine the association of serum mineral levels with incidental AS after adjustment for potential confounders. The mean age was 56.4 years (SD 8.14) and 53.3% of participants were women. During an average follow-up of 8.1 years, 1232 individuals developed AS. After adjustment, each 0.5-unit increase in serum phosphate level was associated with a 50% increase of AS risk (hazard ratio 1.50, 95% confidence interval 1.26-1.80). We observed no association of serum calcium and vitamin D levels with AS.
+CONCLUSION: Increased serum phosphate level, but not calcium or vitamin D, was associated with a higher risk of incident AS, this association did not differed substantially between patients with and without decreased kidney function. This finding implied that phosphate may be a potential interventional target for AS.
+
+Citation: Xia C, et al. Association of serum levels of calcium, phosphate, and vitamin D with risk of developing aortic stenosis: the UK Biobank cohort. Association of serum levels of calcium, phosphate, and vitamin D with risk of developing aortic stenosis: the UK Biobank cohort. 2022; 29:1520-1528. doi: 10.1093/eurjpc/zwac016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35104862/

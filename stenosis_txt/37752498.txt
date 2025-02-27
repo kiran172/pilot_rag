@@ -1,0 +1,11 @@
+PMID: 37752498
+Title: Tracheal microbiome and metabolome profiling in iatrogenic subglottic tracheal stenosis.
+
+Abstract: BACKGROUND: To study the role of microecology and metabolism in iatrogenic tracheal injury and cicatricial stenosis, we investigated the tracheal microbiome and metabolome in patients with tracheal stenosis after endotracheal intubation.
+METHODS: We collected 16 protected specimen brush (PSB) and 8 broncho-alveolar lavage (BAL) samples from 8 iatrogenic subglottic tracheal stenosis patients, including 8 PSB samples from tracheal scar sites, 8 PSB samples from scar-free sites and 8 BAL samples, by lavaging the subsegmental bronchi of the right-middle lobe. Metagenomic sequencing was performed to characterize the microbiome profiling of 16 PSB and 8 BAL samples. Untargeted metabolomics was performed in 6 PSB samples (3 from tracheal scar PSB and 3 from tracheal scar-free PSB) using high-performance liquid chromatography‒mass spectrometry (LC‒MS).
+RESULTS: At the species level, the top four bacterial species were Neisseria subflava, Streptococcus oralis, Capnocytophaga gingivals, and Haemophilus aegyptius. The alpha and beta diversity among tracheal scar PSB, scar-free PSB and BAL samples were compared, and no significant differences were found. Untargeted metabolomics was performed in 6 PSB samples using LC‒MS, and only one statistically significant metabolite, carnitine, was identified. Pathway enrichment analysis of carnitine revealed significant enrichment in fatty acid oxidation.
+CONCLUSION: Our study found that carnitine levels in tracheal scar tissue were significantly lower than those in scar-free tissue, which might be a new target for the prevention and treatment of iatrogenic tracheal stenosis in the future.
+
+Citation: Fan Z, et al. Tracheal microbiome and metabolome profiling in iatrogenic subglottic tracheal stenosis. Tracheal microbiome and metabolome profiling in iatrogenic subglottic tracheal stenosis. 2023; 23:361. doi: 10.1186/s12890-023-02654-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37752498/

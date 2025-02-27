@@ -1,0 +1,11 @@
+PMID: 39532044
+Title: Design and validation of a preclinical model for oral commissure and lower eyelid thermal injury.
+
+Abstract: INTRODUCTION: Oral commissure stenosis and lower eyelid ectropion from burns are functionally impairing and challenging to treat. Evaluation of various treatment modalities is limited by a lack of preclinical models. Described is a method for inducing controlled, titratable oral commissure and lower eyelid burns in swine for future treatment research.
+METHODS: Burn wounds 3 cm in diameter were applied to the lower eyelid and oral commissure of seven anesthetized Yorkshire swine for 10, 15, 20, or 30 s at 100 °C with a custom designed thermocouple-controlled burn device and observed for 3, 30, or 90 days. Tissue underwent laser speckle imaging (LSI) to assess vascular perfusion and histologic analysis after harvest. Statistical comparisons were calculated using Wilcoxon rank-sum tests.
+RESULTS: Subdermal extension was noted in oral commissure and lower eyelid burns with contact time of 20 s or greater. Wound area progressively contracted from post-operative day (POD) 0 to 90 in both sites, but this was not statistically significant based on contact time or burn site (p > 0.20). Burns of 20-30 s demonstrated increased neutrophil influx for oral commissure injuries (p < 0.01) and leukocyte and macrophage influx for lower eyelid injuries (p = 0.02). Degree of vascular congestion increased with 20-30 second burns in both the oral commissure (p = 0.015) and lower eyelid (p = 0.04). Normalized LSI readings showed increased speckle size in both oral commissure (4.0-fold increase, p < 0.01) and lower eyelid (3.2-fold increase, p < 0.01) burns on POD 90 compared to pre-injury. No change in oral or ocular function was noted in any of the groups (p = 0.96).
+CONCLUSION: Oral commissure and lower eyelid burns create scars which may be modified by burn duration. This model may evaluate a therapeutic's ability to limit functional impairment from burns.
+
+Citation: Malka R, et al. Design and validation of a preclinical model for oral commissure and lower eyelid thermal injury. Design and validation of a preclinical model for oral commissure and lower eyelid thermal injury. 2024; 51:107291. doi: 10.1016/j.burns.2024.107291
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39532044/

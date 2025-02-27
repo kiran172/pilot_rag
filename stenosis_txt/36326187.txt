@@ -1,0 +1,11 @@
+PMID: 36326187
+Title: The nonlinear correlation between lipoprotein (a) and the prevalence of aortic valve calcification in patients with new-onset acute myocardial infarction.
+
+Abstract: BACKGROUND: Growing studies show that lipoprotein (a) [Lp(a)] is related to calcified aortic valve diseases in general population, while the relationship between Lp(a) and aortic valve calcification (AVC) in patients with new-onset acute myocardial infarction (AMI) remains unclear. Therefore, this study was to evaluate the correlation between Lp(a) and AVC in patients with new-onset AMI.
+METHODS: This cross-sectional study included 410 patients with new-onset AMI who were hospitalised in Zhongda Hospital affiliated to Southeast University from January 1, 2020 to December 31, 2021. Multivariable logistic regression, subgroup analysis, generalised additive model, threshold and saturation effect and receiver operator characteristic (ROC) curve were used to explore the association between Lp(a) and AVC.
+RESULTS: Patients with AVC had higher levels of Lp(a) than those without AVC. Multivariable logistic regression analysis showed that higher Lp(a) was still associated with higher risk of AVC after adjusting for confounding factors, and this correlation was robust in most subgroups and sensitivity analyses (p &lt; 0.05). Additionally, the generalised additive model showed that there was a nonlinear correlation between Lp(a) and AVC (P for nonlinearity = 0.037). Threshold and saturation effect analysis indicated that when Lp(a) &lt; 840 mg/L, it was positively correlated with the prevalence of AVC (p &lt; 0.05), but when Lp(a) ≥ 840 mg/L, this correlation no longer existed. Besides, ROC curve analysis demonstrated that Lp(a) had a good diagnostic performance for AVC.
+CONCLUSION: Lp(a) was independently associated with the prevalence of AVC in patients with new-onset AMI.
+
+Citation: Wang Z, et al. The nonlinear correlation between lipoprotein (a) and the prevalence of aortic valve calcification in patients with new-onset acute myocardial infarction. The nonlinear correlation between lipoprotein (a) and the prevalence of aortic valve calcification in patients with new-onset acute myocardial infarction. 2022; 77:950-959. doi: 10.1080/00015385.2022.2129183
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36326187/

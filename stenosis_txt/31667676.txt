@@ -1,0 +1,11 @@
+PMID: 31667676
+Title: Detection of abnormal myocardial deformation during acute myocardial ischemia using three-dimensional speckle tracking echocardiography.
+
+Abstract: BACKGROUND: Three-dimensional (3D) speckle tracking echocardiography can simultaneously evaluate circumferential, longitudinal, and radial strain without being affected by through-plane motion. Moreover, the assessment of area change ratio may allow measuring regional myocardial deformation more accurately. We investigated the changes in each deformation parameter during acute coronary flow reduction, and evaluated whether the spatial extent of the abnormal values in each deformation parameter corresponded to that of the perfusion abnormality.
+METHODS: In 10 dogs, myocardial strains of three directions and area change ratio were analyzed at baseline and during three different ischemic conditions. The peak systolic value and the post-systolic index (PSI) were measured in both the ischemic and normal segments. The function abnormality, derived from the deformation parameter, and the perfusion abnormality, derived from Evans blue staining, were evaluated in each segment during complete occlusion and the concordance rate between both abnormalities was calculated.
+RESULTS: In all deformation parameters, the peak systolic value tended to gradually decrease and the PSI tended to gradually increase with the severity of flow reduction in the ischemic segment. Especially in area change ratio, significant changes were observed in both the peak systolic value and the PSI during occlusion compared to baseline. The concordance rate was the highest in the PSI assessed by area change ratio.
+CONCLUSIONS: Among 3D myocardial deformation parameters, area change ratio demonstrated better detectability of acute coronary flow reduction than conventional strain components. Area change ratio may be a useful parameter for detecting acute ischemia by 3D speckle tracking echocardiography.
+
+Citation: Hioki A, et al. Detection of abnormal myocardial deformation during acute myocardial ischemia using three-dimensional speckle tracking echocardiography. Detection of abnormal myocardial deformation during acute myocardial ischemia using three-dimensional speckle tracking echocardiography. 2020; 18:57-66. doi: 10.1007/s12574-019-00449-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31667676/

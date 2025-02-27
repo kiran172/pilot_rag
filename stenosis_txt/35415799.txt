@@ -1,0 +1,8 @@
+PMID: 35415799
+Title: Postoperative liver function tests can predict anastomotic dysfunction after bile duct injury repair.
+
+Abstract: Liver function tests help in the follow-up of postoperative patients with iatrogenic bile duct injury. There is not clear evidence regarding their predictive role on anastomosis dysfunction. We describe our experience with postoperative liver function tests and a predictive model of long-term patency after repair. This is retrospective cohort study of patients with bilioenteric anastomosis for bile duct injury and their long-term follow-up. A binomial logistic regression model was performed to ascertain the effects of the grade of bile duct injury and liver function test in the postoperative period. A total of 329 patients were considered for the analysis. In the logistic regression model two predictor variables were statistically significant for anastomosis stenosis: type of bilioenteric anastomosis and alkaline phosphatase levels. A ROC curve analysis was made for alkaline phosphatase with an area under the curve of 0.758 (95% CI 0.67-0.84). A threshold of 323 mg/dL was established (OR 6.0, 95% CI 2.60-13.83) with a sensitivity of 75%, specificity of 67%, PPV of 20%, NPV of 96%, PLR of 2.27 and NLR of 0.37. Increased alkaline phosphatase (above 323 mg/dL) after the fourth operative week was found to be a predictor of long-term dysfunction.
+
+Citation: Sánchez-Morales G, et al. Postoperative liver function tests can predict anastomotic dysfunction after bile duct injury repair. Postoperative liver function tests can predict anastomotic dysfunction after bile duct injury repair. 2022; 74:937-944. doi: 10.1007/s13304-022-01275-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35415799/

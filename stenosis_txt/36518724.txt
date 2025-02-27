@@ -1,0 +1,12 @@
+PMID: 36518724
+Title: A Risk Model for 1-Year Mortality After Transcatheter Aortic Valve Replacement From the J-TVT Registry.
+
+Abstract: BACKGROUND: Although transcatheter aortic valve replacement (TAVR) has demonstrated favorable outcomes in randomized studies, there remains a sizable group of patients in whom TAVR may be futile. Characterizing the survival rate in a wide array of patients undergoing TAVR can help develop effective strategies for improving the allocation of medial resources.
+OBJECTIVES: The aim of this study was to develop a risk model to estimate 1-year mortality after TAVR from a representative nationwide registry in Japan.
+METHODS: The J-TVT (Japan Transcatheter Valve Therapies) registry contains complete data, including 1-year outcomes, on patients undergoing TAVR in Japan. A total of 17,655 patients underwent TAVR between 2013 and 2018. They were randomly divided into 2 groups in a 7:3 ratio to form a derivation cohort of 12,316 patients and a validation cohort of 5,339 patients. A risk model was constructed for 1-year mortality in the derivation cohort, and its discrimination and calibration were assessed in the validation cohort.
+RESULTS: The mean age of all registered patients was 84.4 years, and 68.8% were women. The mean body size area was 1.43 m2, and the mean Society of Thoracic Surgeons Predicted Risk of Mortality score was 7.3%. The estimated 1-year survival was 91.8%; 202 and 1,316 deaths were observed at 30 days and 1 year, respectively; The estimated C index for the developed model was 0.733 (95% CI: 0.709-0.757) in the validation cohort, with good calibration.
+CONCLUSIONS: A prediction model for 1-year survival following TAVR derived from a national clinical database performed well and should aid physicians managing TAVR patients.
+
+Citation: Maeda K, et al. A Risk Model for 1-Year Mortality After Transcatheter Aortic Valve Replacement From the J-TVT Registry. A Risk Model for 1-Year Mortality After Transcatheter Aortic Valve Replacement From the J-TVT Registry. 2022; 2:635-644. doi: 10.1016/j.jacasi.2022.06.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36518724/

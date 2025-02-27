@@ -1,0 +1,12 @@
+PMID: 37102381
+Title: Relationship between coronary volume, myocardial mass, and post-PCI fractional flow reserve.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) measured after percutaneous coronary intervention (PCI) carries prognostic information. Yet, myocardial mass subtended by a stenosis influences FFR. We hypothesized that a smaller coronary lumen volume and a large myocardial mass might be associated with lower post-PCI FFR.
+AIM: We sought to assess the relationship between vessel volume, myocardial mass, and post-PCI FFR.
+METHODS: This was a subanalysis with an international prospective study of patients with significant lesions (FFR ≤ 0.80) undergoing PCI. Territory-specific myocardial mass was calculated from coronary computed tomography angiography (CCTA) using the Voronoi's algorithm. Vessel volume was extracted from quantitative CCTA analysis. Resting full-cycle ratio (RFR) and FFR were measured before and after PCI. We assessed the association between coronary lumen volume (V) and its related myocardial mass (M), and the percent of total myocardial mass (%M) with post-PCI FFR.
+RESULTS: We studied 120 patients (123 vessels: 94 left anterior descending arteries, 13 left Circumflex arteries, 16 right coronary arteries). Mean vessel-specific mass was 61 ± 23.1 g (%M 39.6 ± 11.7%). The mean post-PCI FFR was 0.88 ± 0.06 FFR units. Post-PCI FFR values were lower in vessels subtending higher mass (0.87 ± 0.05 vs. 0.89 ± 0.07, p = 0.047), and with lower V/M ratio (0.87 ± 0.06 vs. 0.89 ± 0.07, p = 0.02). V/M ratio correlated significantly with post-PCI RFR and FFR (RFR r = 0.37, 95% CI: 0.21-0.52, p < 0.001 and FFR r = 0.41, 95% CI: 0.26-0.55, p < 0.001).
+CONCLUSION: Post-PCI RFR and FFR are associated with the subtended myocardial mass and the coronary volume to mass ratio. Vessels with higher mass and lower V/M ratio have lower post-PCI RFR and FFR.
+
+Citation: Mileva N, et al. Relationship between coronary volume, myocardial mass, and post-PCI fractional flow reserve. Relationship between coronary volume, myocardial mass, and post-PCI fractional flow reserve. 2023; 101:1182-1192. doi: 10.1002/ccd.30664
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37102381/

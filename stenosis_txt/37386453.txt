@@ -1,0 +1,12 @@
+PMID: 37386453
+Title: Circulating LPS from gut microbiota leverages stenosis-induced deep vein thrombosis in mice.
+
+Abstract: OBJECTIVE AND DESIGN: An accumulating body of evidence has shown that gut microbiota is involved in regulating inflammation; however, it remains undetermined if and how gut microbiota plays an important role in modulating deep venous thrombosis (DVT), which is an inflammation-involved thrombotic event.
+SUBJECTS: Mice under different treatments were used in this study.
+METHODS AND TREATMENT: We induced stenosis DVT in mice by partially ligating the inferior vena cava. Mice were treated with antibiotics, prebiotics, probiotics, or inflammatory reagents to modulate inflammatory states, and their effects on the levels of circulating LPS and DVT were examined.
+RESULTS: Antibiotic-treated mice or germ-free mice exhibited compromised DVT. Treatment of mice with either prebiotics or probiotics effectively suppressed DVT, which was accompanied with the downregulation of circulating LPS. Restoration of circulating LPS in these mice with a low dose of LPS was able to restore DVT. LPS-induced DVT was blocked by a TLR4 antagonist. By performing proteomic analysis, we identified TSP1 as one of the downstream effectors of circulating LPS in DVT.
+CONCLUSION: These results suggest that gut microbiota may play a nonnegligible role in modulating DVT by leveraging the levels of LPS in circulation, thus shedding light on the development of gut microbiota-based strategies for preventing and treating DVT.
+
+Citation: Liu C, et al. Circulating LPS from gut microbiota leverages stenosis-induced deep vein thrombosis in mice. Circulating LPS from gut microbiota leverages stenosis-induced deep vein thrombosis in mice. 2023; 21:71. doi: 10.1186/s12959-023-00514-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37386453/

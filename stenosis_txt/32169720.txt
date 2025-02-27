@@ -1,0 +1,11 @@
+PMID: 32169720
+Title: l-Arginine prevents inflammatory and pro-calcific differentiation of interstitial aortic valve cells.
+
+Abstract: BACKGROUND AND AIMS: Reduced bioavailability of nitric oxide (NO) has been implicated in the pathogenesis of calcific aortic stenosis. Herein, we investigated the effects of l-Arginine, the main precursor of NO, on the osteogenic differentiation of aortic interstitial valve cells (VICs).
+METHODS: We isolated a clonal population of bovine VICs that expresses osteogenic markers and induces calcification of collagen matrix after stimulation with endotoxin (LPS 500 ng/mL). VICs were treated in vitro with different combinations of LPS ± l-Arginine (50 or 100 mM) and cell extracts were collected to perform proteomic (iTRAQ) and gene expression (RT-PCR) analysis.
+RESULTS: l-Arginine prevents the over-expression of alkaline phosphatase (ALP, p < 0.001) and reduces matrix calcification (p < 0.05) in VICs treated with LPS. l-Arginine also reduces the over-expression of inflammatory molecules induced by LPS (TNF-alpha, IL-6 and IL-1beta, p < 0.001). The proteomic analysis allowed to identify 49 proteins with an altered expression profile after stimulation with LPS and significantly modified by l-Arginine. These include proteins involved in the redox homeostasis of the cells (i.e. Xanthine Oxidase, Catalase, Aldehyde Oxidase), remodeling of the extracellular matrix (i.e. ADAMTSL4, Basigin, COL3A1) and cellular signaling (i.e. Fibrillin-1, Legumain, S100A13). The RT-PCR analysis confirmed the modifications of Fibrillin-1, ADAMTSL4, Basigin and Xanthine Oxidase, whose expression levels increase after stimulation with LPS and are reduced by l-Arginine (p < 0.05).
+CONCLUSIONS: l-Arginine prevents osteogenic differentiation of VICs and reduces matrix calcification. This effect is achieved through the modulation of proteins involved in the cellular redox system, remodeling of extracellular matrix and inflammatory activation of VICs.
+
+Citation: Rattazzi M, et al. l-Arginine prevents inflammatory and pro-calcific differentiation of interstitial aortic valve cells. l-Arginine prevents inflammatory and pro-calcific differentiation of interstitial aortic valve cells. 2020; 298:27-35. doi: 10.1016/j.atherosclerosis.2020.02.024
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32169720/

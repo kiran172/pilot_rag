@@ -1,0 +1,11 @@
+PMID: 35085159
+Title: Association between coronary artery calcium score and in-stent restenosis after drug-eluting stent implantation.
+
+Abstract: BACKGROUND: Coronary artery calcium (CAC) is a modifiable contributor of in-stent restenosis (ISR), but quantitative analyses using a noninvasive approach are limited. We aimed to investigate the associations between CAC score derived from ECG-gated coronary computed tomography angiography (CCTA) or non-gated non-contrast chest computed tomography (NCCT) and ISR.
+METHODS: We included 368 lesions in 194 patients with coronary drug-eluting stent implantations in final analyses. CAC was quantified using the Agatston score. Primary endpoint was ISR, defined as lumen diameter stenosis over 50% at the stent segment or its proximal or distal edges (5-mm segments adjacent to the stent), at angiographic follow-up.
+RESULTS: The CAC scores in either CCTA/2.5 mm group (r = 0.7702; P < 0.0001) or NCCT/5 mm group (r = 0.7105; P < 0.0001) were both correlated with in-stent diameter stenosis. The receiver-operating characteristic curve analysis identified a CAC score >245 in CCTA/2.5 mm group as the optimal ISR cutoff (sensitivity, 60.0%; specificity, 83.7%; area under the curve, 0.744; P < 0.001), and >209 in NCCT/5 mm group (sensitivity, 46.7%; specificity, 91.9%; area under the curve, 0.704; P < 0.001). Multivariable logistic regression models indicated a CAC score >245 in CCTA/2.5 mm group and >209 in NCCT/5 mm group independently associated with an 8.46- and 21.89-fold increase in ISR, respectively (all P < 0.01).
+CONCLUSIONS: Either a CAC score >245 in CCTA/2.5 mm or >209 in NCCT/5 mm was significantly associated with increased risk in ISR.
+
+Citation: Zheng X, et al. Association between coronary artery calcium score and in-stent restenosis after drug-eluting stent implantation. Association between coronary artery calcium score and in-stent restenosis after drug-eluting stent implantation. 2022; 33:284-294. doi: 10.1097/MCA.0000000000001124
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35085159/

@@ -1,0 +1,11 @@
+PMID: 33281934
+Title: Genetic risk factors predict disease progression in Crohn's disease patients of the Swiss inflammatory bowel disease cohort.
+
+Abstract: BACKGROUND: Crohn's disease (CD) may progress from an inflammatory to a stricturing or penetrating disease phenotype. The aim of our study was to identify single nucleotide polymorphisms (SNPs) that predict disease progression in patients of the Swiss IBD Cohort Study (SIBDCS).
+METHODS: We applied a multi-state Markov model for progression behavior of CD with three behavioral states according to the Montreal classification. The model considered transition from B1 to B2/B3 or from B2 to B3 stage. Model dynamics were summarized with transition intensities by including the effect of SNPs and calculating transition intensities for each SNP.
+RESULTS: We included 1276 CD patients [669 (52.4%) B1, 248 (19.4%) B2, 359 (28.1%) B3 patients] with a median follow-up of 6.8 (interquartile range = 3.6-9.1; range 0-11.6) years. Probability for a B1 patient to develop a stenosis (B1 to B2, q = 0.033) was twice as much as compared to developing a penetrating complication (B3) during the disease course. In contrast, the probability of entering B3 stage was similar regardless of whether antecedent stricture was present (B2 to B3, q = 0.016) or not (B1 to B3, q = 0.016). We identified SNPs within the gene loci encoding ZMIZ1, LOC105373831 and KSR1 as carrying the highest risk for progression to B3, while the presence of SNPs within gene loci TNFSF15 and CEBPB-PTPN1 protected from progression to B2 or B3.
+CONCLUSION: We identified new genetic risk factors that can predict disease course in CD patients. A closer understanding on the functional impact of these genetic variations might improve our treatment options finally to prevent disease progression in CD patients.
+
+Citation: Ditrich F, et al. Genetic risk factors predict disease progression in Crohn's disease patients of the Swiss inflammatory bowel disease cohort. Genetic risk factors predict disease progression in Crohn's disease patients of the Swiss inflammatory bowel disease cohort. 2020; 13:1756284820959252. doi: 10.1177/1756284820959252
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33281934/

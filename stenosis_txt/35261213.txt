@@ -1,0 +1,11 @@
+PMID: 35261213
+Title: Synthetic role of miR-200b-3p, ABCD2 score, and carotid ultrasound in the prediction of cerebral infarction in patients with transient ischemic attack.
+
+Abstract: BACKGROUND: Transient ischemic attack (TIA) is a major risk factor for the occurrence of cerebral infarction (CI). This study aimed to evaluate the predictive value of the synthetic role of miR-200b-3p, ABCD2 score, and carotid ultrasound for CI onset in patients with TIA.
+METHODS: Expression of miR-200b-3p was detected by reverse transcription quantitative PCR and carotid stenosis degree was evaluated using carotid ultrasound examination. Association of miR-200b-3p with ABCD2 scores and carotid stenosis degree was assessed using t-test and chi-square test. Logistic regression analysis was used to judge the ability of miR-200b-3p, ABCD2 score, and carotid ultrasound to predict the occurrence of CI. Receiver operating characteristic curve was used to analyze the diagnostic value of miR-200b-3p and the accuracy of miR-200b-3p, ABCD2 score, and carotid ultrasound in predicting CI development.
+RESULTS: Expression of serum miR-200b-3p was significantly increased in TIA patients compared with healthy controls, and had diagnostic value in TIA patients. Serum miR-200b-3p was significantly associated with dyslipidemia, ABCD2 score, and carotid stenosis degree in TIA patients. ABCD2 score, carotid stenosis degree, and serum miR-200b-3p were independently associated with CI onset, and the synthetic role of these three indicators had the best accuracy in the prediction of CI onset in TIA patients.
+CONCLUSION: Serum miR-200b-3p expression was increased in TIA patients with considerable diagnostic value to screen TIA cases from healthy controls. Moreover, we speculated that the combination of miR-200b-3p, ABCD2 score, and carotid stenosis degree by ultrasound may propose as an efficient predictive strategy for the prediction of CI in TIA patients.
+
+Citation: Zheng J, et al. Synthetic role of miR-200b-3p, ABCD2 score, and carotid ultrasound in the prediction of cerebral infarction in patients with transient ischemic attack. Synthetic role of miR-200b-3p, ABCD2 score, and carotid ultrasound in the prediction of cerebral infarction in patients with transient ischemic attack. 2022; 12:e2518. doi: 10.1002/brb3.2518
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35261213/

@@ -1,0 +1,11 @@
+PMID: 39487582
+Title: Early postoperative resistance index can predict radiocephalic arteriovenous fistula failure.
+
+Abstract: BACKGROUND: Ultrasonography is valuable for assessing arteriovenous fistula (AVF) maturation. Brachial artery flow volume (FV) measured at 6 weeks post-AVF creation can predict AVF failure. However, the association between early postoperative FV and AVF failure remains unclear. The resistance index (RI) may also serve as a prognostic factor for AVF maturation; however, it has not been extensively studied. Therefore, we aimed to investigate the relationship between AVF failure and early postoperative FV and RI.
+METHODS: We retrospectively analyzed data from 102 patients (mean age, 67.8 ± 14.2 years; male, 68.6%; diabetes mellitus, 52.0%) who underwent new radiocephalic-AVF creation between January 2019 and December 2023 in Japan. An ultrasound device was used to measure brachial artery FV and RI on postoperative days 0 and 1. AVF failure was defined as occlusion or stenosis requiring vascular access intervention or surgical revision before the first cannulation, or cannulation difficulty or FV dysfunction requiring vascular access intervention or surgery at the first cannulation.
+RESULTS: On postoperative day 0, FV was 383.1 ± 146.8 mL/min, and RI was 0.65 ± 0.11. On postoperative day 1, FV was 466.9 ± 179.2 mL/min, and RI was 0.62 ± 0.11. FV significantly increased, and RI was significantly reduced on postoperative day 1 compared to those on day 0 (p &lt; 0.01). Multivariate analyses revealed that higher RI (per 0.1; odds ratio (OR), 2.16; 95% confidence interval (CI), 1.22-3.82), but not FV, was significantly associated with AVF failure on postoperative day 0. On postoperative day 1, lower FV (per 100 mL/min; OR, 0.63; 95% CI, 0.42-0.95) and higher RI (per 0.1; OR, 2.17; 95% CI, 1.16-4.05) were significantly associated with AVF failure.
+CONCLUSIONS: This study highlights RI as a predictor of AVF failure in the early postoperative period when vasospasm is likely to occur.
+
+Citation: Inagaki K, et al. Early postoperative resistance index can predict radiocephalic arteriovenous fistula failure. Early postoperative resistance index can predict radiocephalic arteriovenous fistula failure. 2024; (unknown volume):11297298241295267. doi: 10.1177/11297298241295267
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39487582/

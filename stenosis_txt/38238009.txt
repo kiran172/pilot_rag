@@ -1,0 +1,12 @@
+PMID: 38238009
+Title: Diagnosis of intracranial aneurysms by computed tomography angiography using deep learning-based detection and segmentation.
+
+Abstract: BACKGROUND: Detecting and segmenting intracranial aneurysms (IAs) from angiographic images is a laborious task.
+OBJECTIVE: To evaluates a novel deep-learning algorithm, named vessel attention (VA)-Unet, for the efficient detection and segmentation of IAs.
+METHODS: This retrospective study was conducted using head CT angiography (CTA) examinations depicting IAs from two hospitals in China between 2010 and 2021. Training included cases with subarachnoid hemorrhage (SAH) and arterial stenosis, common accompanying vascular abnormalities. Testing was performed in cohorts with reference-standard digital subtraction angiography (cohort 1), with SAH (cohort 2), acquired outside the time interval of training data (cohort 3), and an external dataset (cohort 4). The algorithm's performance was evaluated using sensitivity, recall, false positives per case (FPs/case), and Dice coefficient, with manual segmentation as the reference standard.
+RESULTS: The study included 3190 CTA scans with 4124 IAs. Sensitivity, recall, and FPs/case for detection of IAs were, respectively, 98.58%, 96.17%, and 2.08 in cohort 1; 95.00%, 88.8%, and 3.62 in cohort 2; 96.00%, 93.77%, and 2.60 in cohort 3; and, 96.17%, 94.05%, and 3.60 in external cohort 4. The segmentation accuracy, as measured by the Dice coefficient, was 0.78, 0.71, 0.71, and 0.66 for cohorts 1-4, respectively. VA-Unet detection recall and FPs/case and segmentation accuracy were affected by several clinical factors, including aneurysm size, bifurcation aneurysms, and the presence of arterial stenosis and SAH.
+CONCLUSIONS: VA-Unet accurately detected and segmented IAs in head CTA comparably to expert interpretation. The proposed algorithm has significant potential to assist radiologists in efficiently detecting and segmenting IAs from CTA images.
+
+Citation: You W, et al. Diagnosis of intracranial aneurysms by computed tomography angiography using deep learning-based detection and segmentation. Diagnosis of intracranial aneurysms by computed tomography angiography using deep learning-based detection and segmentation. 2024; (unknown volume):(unknown pages). doi: 10.1136/jnis-2023-021022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38238009/

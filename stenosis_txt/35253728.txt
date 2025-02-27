@@ -1,0 +1,12 @@
+PMID: 35253728
+Title: Prediction of the anastomosis angle of arteriovenous fistula in hemodialysis to standardize the surgical technique.
+
+Abstract: BACKGROUND: Arteriovenous fistula (AVF) is the preferred route of vascular access in hemodialysis. The primary reason of fistula failure is intimal hyperplasia (IH), which leads to stenosis. Wall shear stress (WSS) and disturbed flow are the critical parameters in the formation of IH.
+OBJECTIVE: The primary goal of this study is to explore the influence of anastomosis angle on WSS and venous outflow rate, as well as to find the ideal angle of anastomosis for AVF to standardize surgical technique.
+METHODS: Three-dimensional idealized geometries of end-to-side type AVF for the five various angles of anastomosis are considered in this study. The WSS, blood flow rate at the venous outlet for non-Newtonian, pulsatile blood flow are calculated using a numerical simulation technique.
+RESULTS: The WSS is higher at 75° compared to other angles and least at 45° for pulsating arterial inflows. The WSS is moderate at 30°, 60° and 90°. On the arterial bed and outer wall of the vein, immediately after the anastomosis, the recirculation zone is observed. At an angle of 45° and 90° anastomosis, the outflow rate is greater at distal venous end.
+CONCLUSIONS: If one believes that high wall shear stress causes IH within the AVF, the results suggest that the AVF should be formed at a 45° angle to avoid IH. However, if one believes that low wall shear stress causes IH within the AVF, the results suggest that AVF should be formed at either 30° or 75° to avoid IH. The findings spotlight the importance of anastomosis angle in determining AVF hemodynamics.
+
+Citation: Shembekar SN, et al. Prediction of the anastomosis angle of arteriovenous fistula in hemodialysis to standardize the surgical technique. Prediction of the anastomosis angle of arteriovenous fistula in hemodialysis to standardize the surgical technique. 2022; 33:423-436. doi: 10.3233/BME-211389
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35253728/

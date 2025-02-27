@@ -1,0 +1,11 @@
+PMID: 33170040
+Title: Establishing mild, moderate and severe criteria for the myelopathy disability index in cervical spondylotic myelopathy.
+
+Abstract: AIM: Cervical Spondylotic Myelopathy (CSM) is a disabling condition arising from arthritic compression and consequent injury of the cervical spinal cord. Stratification of CSM severity has been useful to inform clinical practice and research analysis. In the UK the Myelopathy Disability Index (MDI) is a popular assessment tool and has been adopted by the British Spinal Registry. However, no categories of severity exist. Therefore, the aim of this study was to define categories of mild, moderate and severe.
+METHOD: An anchor-based analysis was carried out on previously collected data from a prospective observational cohort (N = 404) of patients with CSM scheduled for surgery and assessed pre-operatively and at 3, 12, 24 and 60 months post-operatively. Outcomes collected included the SF-36 version-1 quality of life measure, visual analogue scales for neck/arm/hand pain, MDI and Neck Disability Index (NDI). A Receiver Operating Curve (ROC) analysis, using the NDI for an anchor-based approach, was performed to identify MDI thresholds.
+RESULTS: Complete data was available for 404 patients (219 Men, 185 Women). The majority of patients underwent anterior surgery (284, 70.3%). ROC curves plotted to identify the thresholds from mild to moderate to severe disease, selected optimal thresholds of 4-5 (AUC 0.83) and 8-9 (AUC 0.87). These MDI categories were validated against domains of the SF36 and VAS scores with expected positive linear correlations.
+CONCLUSION: Categories of mild, moderate and severe CSM according to the MDI of 4-5 and 8-9 were established based on the NDI.
+
+Citation: Davies BM, et al. Establishing mild, moderate and severe criteria for the myelopathy disability index in cervical spondylotic myelopathy. Establishing mild, moderate and severe criteria for the myelopathy disability index in cervical spondylotic myelopathy. 2023; 37:1018-1022. doi: 10.1080/02688697.2020.1839741
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33170040/

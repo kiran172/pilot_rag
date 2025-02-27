@@ -1,0 +1,11 @@
+PMID: 38581557
+Title: Usefulness of "AcT ratio" in diagnosis of internal carotid artery stenosis: a multicenter, retrospective, observational study.
+
+Abstract: PURPOSE: The ratio of the internal carotid artery (ICA) to the common carotid artery (CCA), especially the "AcT ratio," which is a modified measurement method of acceleration time, is useful for diagnosing ICA-origin stenosis. However, previous studies were single-center studies. Therefore, this multicenter, retrospective, cross-sectional study aimed to determine whether a method using the AcT ratio is useful for estimating stenosis rates.
+METHODS: This study included 461 vessels subjected to carotid artery ultrasonography and evaluation for ICA-origin stenosis via NASCET at four hospitals. The duration from the steep rise point to the inflection point or the first peak was defined as AcT on pulsed wave Doppler. The AcT ratio was calculated as AcT of ICA/AcT of ipsilateral CCA. The AcT ratio and rate of ICA-origin stenosis were analyzed using Pearson's correlation coefficient, simple regression analysis, and ROC curve.
+RESULTS: A significant positive correlation was observed between the AcT ratio and NASCET stenosis. NASCET stenosis of ≥ 50% had a sensitivity, specificity, and negative predictive value (NPV) of 70.2%, 71.6%, and 91.5%, respectively, when the cut-off value of the AcT ratio was 1.17. NASCET stenosis of ≥ 70% had a sensitivity, specificity, and NPV of 70.5%, 72.1%, and 95.9%, respectively, when the cut-off value of the AcT ratio was 1.22.
+CONCLUSIONS: The findings of this multicenter, retrospective, cross-sectional study suggest that the AcT ratio is useful for diagnosing ICA-origin stenosis, especially for diagnosis by exclusion. NASCET stenosis of ≥ 50% was considered unlikely if the Act ratio was ≤ 1.17, whereas NASCET stenosis of ≥ 70% was considered unlikely if it was ≤ 1.22.
+
+Citation: Tsukui D, et al. Usefulness of "AcT ratio" in diagnosis of internal carotid artery stenosis: a multicenter, retrospective, observational study. Usefulness of "AcT ratio" in diagnosis of internal carotid artery stenosis: a multicenter, retrospective, observational study. 2024; 51:347-353. doi: 10.1007/s10396-024-01409-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38581557/

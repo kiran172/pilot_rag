@@ -1,0 +1,11 @@
+PMID: 36158821
+Title: Association between coronary plaque volume and myocardial ischemia detected by dynamic perfusion CT imaging.
+
+Abstract: INTRODUCTION: We aimed to evaluate the relationship between quantitative plaque metrics derived from coronary CT angiography (CTA) and segmental myocardial ischemia using dynamic perfusion CT (DPCT).
+METHODS: In a prospective single-center study, patients with > 30% stenosis on rest CTA underwent regadenoson stress DPCT. 480 myocardium segments of 30 patients were analyzed. Quantitative plaque assessment included total plaque volume (PV), area stenosis, and remodeling index (RI). High-risk plaque (HRP) was defined as low-attenuation plaque burden > 4% or RI > 1.1. Absolute myocardial blood flow (MBF) and relative MBF (MBFi: MBF/75th percentile of all MBF values) were quantified. Linear and logistic mixed models correcting for intra-patient clustering and clinical factors were used to evaluate the association between total PV, area stenosis, HRP and MBF or myocardial ischemia (MBF < 101 ml/100 g/min).
+RESULTS: Median MBF and MBFi were 111 ml/100 g/min and 0.94, respectively. The number of ischemic segments were 164/480 (34.2%). Total PV of all feeding vessels of a given myocardial territory differed significantly between ischemic and non-ischemic myocardial segments (p = 0.001). Area stenosis and HRP features were not linked to MBF or MBFi (all p &gt; 0.05). Increase in PV led to reduced MBF and MBFi after adjusting for risk factors including hypertension, diabetes, and statin use (per 10 mm3; β = -0.035, p &lt; 0.01 for MBF; β = -0.0002, p &lt; 0.01 for MBFi). Similarly, using multivariate logistic regression total PV was associated with ischemia (OR = 1.01, p = 0.033; per 10 mm3) after adjustments for clinical risk factors, area stenosis and HRP.
+CONCLUSION: Total PV was independently associated with myocardial ischemia based on MBF, while area stenosis and HRP were not.
+
+Citation: Vattay B, et al. Association between coronary plaque volume and myocardial ischemia detected by dynamic perfusion CT imaging. Association between coronary plaque volume and myocardial ischemia detected by dynamic perfusion CT imaging. 2022; 9:974805. doi: 10.3389/fcvm.2022.974805
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36158821/

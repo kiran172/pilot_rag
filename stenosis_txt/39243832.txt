@@ -1,0 +1,11 @@
+PMID: 39243832
+Title: Association between heart failure and cerebral collateral flow in large vessel occlusive ischemic stroke.
+
+Abstract: BACKGROUND: Cerebral collateral circulation plays a crucial role in determining the extent of brain ischemia in large vessel occlusive (LVO) stroke. Heart failure (HF) is known to cause cerebral hypoperfusion, yet the relationship between HF and robustness of collateral flow has not been well described.
+METHODS: Consecutive patients with middle cerebral and/or internal carotid LVO who underwent endovascular thrombectomy (EVT) between 2012 and 2020 were included. Single-phase head CTA prior to EVT was used to assess collateral status (poor <50 % filling; good ≥50 %). Classification of HF by left ventricular ejection fraction (LVEF) on echocardiogram was used where HF with reduced ejection fraction (HFrEF) had LVEF ≤40 %, HF with preserved EF (HFpEF) had LVEF ≥50 % with evidence of structural heart disease, and no HF had LVEF≥50 % without structural heart disease. Multivariable logistic regression analyses were performed to evaluate the association between HF and poor collaterals.
+RESULTS: We identified 235 patients, mean age was 69 ± 15 years; initial NIHSS was 18 ± 7. Of these, 107 (45.5 %) had HF and 105 (44.7 %) had poor collaterals. Those with HF were likely to have poor collaterals compared to those without HF (56.1 % vs 35.2 %, P = 0.001). There was a dose-dependent relationship between EF and poor collaterals: adjusted odds of poor collaterals were 1.63 and 2.45 in HFpEF and HFrEF, compared to those without HF (trend P = .018).
+CONCLUSION: Patients with HFrEF are more likely to have poor cerebral collaterals. Further study is needed to explore the pathomechanisms. Optimization of HF may improve cerebral collaterals and enhance EVT outcomes.
+
+Citation: Shourav MMI, et al. Association between heart failure and cerebral collateral flow in large vessel occlusive ischemic stroke. Association between heart failure and cerebral collateral flow in large vessel occlusive ischemic stroke. 2024; 33:107999. doi: 10.1016/j.jstrokecerebrovasdis.2024.107999
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39243832/

@@ -1,0 +1,11 @@
+PMID: 35225707
+Title: Drug-Coated Balloon Versus Drug-Eluting Stent in Patients With Femoropopliteal Artery Disease: A Systematic Review and Meta-Analysis.
+
+Abstract: OBJECTIVE: In this systematic review and meta-analysis, we aimed to compare drug-coated balloon (DCB) to drug-eluting stent (DES) in patients with femoropopliteal lesions in terms of restenosis, target lesion revascularization (TLR), and mortality.
+METHODS: A comprehensive literature search was performed through PubMed, Scopus, and Embase databases. The intervention group was patients receiving percutaneous balloon angioplasty using the DCB. The control group was patients receiving percutaneous intervention using the DES. The primary outcome was restenosis, and the secondary outcomes were TLR and mortality.
+RESULTS: There were 4 studies comprising 812 patients (906 lesions) included in this systematic review and meta-analysis. The rate of restenosis was .19 [.13, .26] in DCB and .24 [.20, .28] in DES. There was a trend toward lower rate of restenosis (OR .73 [.52, 1.03], P = .074; I2: 46.3%) for DCB use compared to DES use. The rate of TLR was .11 [.08, .14] in DCB and .17 [.14, .21] in DES. TLR was lower (OR .61 [.41, .92], P = .017; I2: 1.2%) in the DCB group compared to the DES group. There were no significant differences in mortality (OR 1.38 [.78, 2.44], P = .268; I2: 0%) among the two groups. Meta-regression analysis showed that the rate of restenosis in DCB in this pooled analysis was affected by sex (reference: male, coefficient -.004, P = .009), smoking (coefficient: .003, P = .010), and total occlusion (coefficient: .008, P = .004).
+CONCLUSION: DCB use in patients with femoropopliteal lesion was associated with similar rate of restenosis, lower TLR, and similar mortality rate compared to DES use.
+
+Citation: Nugraha HG, et al. Drug-Coated Balloon Versus Drug-Eluting Stent in Patients With Femoropopliteal Artery Disease: A Systematic Review and Meta-Analysis. Drug-Coated Balloon Versus Drug-Eluting Stent in Patients With Femoropopliteal Artery Disease: A Systematic Review and Meta-Analysis. 2022; 56:385-392. doi: 10.1177/15385744211051491
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35225707/

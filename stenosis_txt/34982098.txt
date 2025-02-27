@@ -1,0 +1,15 @@
+PMID: 34982098
+Title: Comparison of Drug-Eluting Stent With Bare-Metal Stent in Patients With Symptomatic High-grade Intracranial Atherosclerotic Stenosis: A Randomized Clinical Trial.
+
+Abstract: IMPORTANCE: In-stent restenosis (ISR) is the primary reason for stroke recurrence after intracranial stenting in patients who were treated with a standard bare-metal stent (BMS). Whether a drug-eluting stent (DES) could reduce the risk of ISR in intracranial atherosclerotic stenosis (ICAS) remains unclear.
+OBJECTIVE: To investigate whether a DES can reduce the risk of ISR and stroke recurrence in patients with symptomatic high-grade ICAS.
+DESIGN, SETTINGS, AND PARTICIPANTS: A prospective, multicenter, open-label randomized clinical trial with blinded outcome assessment was conducted from April 27, 2015, to November 16, 2018, at 16 medical centers in China with a high volume of intracranial stenting. Patients with symptomatic high-grade ICAS were enrolled, randomized, and followed up for 1 year. Intention-to-treat data analysis was performed from April 1 to May 22, 2021.
+INTERVENTIONS: Patients were randomly assigned to receive DES (NOVA intracranial sirolimus-eluting stent system) or BMS (Apollo intracranial stent system) treatment in a 1:1 ratio.
+MAIN OUTCOMES AND MEASURES: The primary efficacy end point was ISR within 1 year after the procedure, which was defined as stenosis that was greater than 50% of the luminal diameter within or immediately adjacent to (within 5 mm) the implanted stent. The primary safety end point was any stroke or death within 30 days after the procedure.
+RESULTS: A total of 263 participants (194 men [73.8%]; median [IQR] age, 58 [52-65] years) were included in the analysis, with 132 participants randomly assigned to the DES group and 131 to the BMS group. The 1-year ISR rate was lower in the DES group than in the BMS group (10 [9.5%] vs 32 [30.2%]; odds ratio, 0.24; 95% CI, 0.11-0.52; P < .001). The DES group also had a significantly lower ischemic stroke recurrence rate from day 31 to 1 year (1 [0.8%] vs 9 [6.9%]; hazard ratio, 0.10; 95% CI, 0.01-0.80; P = .03). No significant difference in the rate of any stroke or death within 30 days was observed between the DES and BMS groups (10 [7.6%] vs 7 [5.3%]; odds ratio, 1.45; 95% CI, 0.54-3.94; P = .46).
+CONCLUSIONS AND RELEVANCE: This trial found that, compared with BMSs, DESs reduced the risks of ISR and ischemic stroke recurrence in patients with symptomatic high-grade ICAS. Further investigation into the safety and efficacy of DESs is warranted.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02578069.
+
+Citation: Jia B, et al. Comparison of Drug-Eluting Stent With Bare-Metal Stent in Patients With Symptomatic High-grade Intracranial Atherosclerotic Stenosis: A Randomized Clinical Trial. Comparison of Drug-Eluting Stent With Bare-Metal Stent in Patients With Symptomatic High-grade Intracranial Atherosclerotic Stenosis: A Randomized Clinical Trial. 2022; 79:176-184. doi: 10.1001/jamaneurol.2021.4804
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34982098/

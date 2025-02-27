@@ -1,0 +1,11 @@
+PMID: 35092520
+Title: Aortic valve imaging using 18F-sodium fluoride: impact of triple motion correction.
+
+Abstract: BACKGROUND: Current 18F-NaF assessments of aortic valve microcalcification using 18F-NaF PET/CT are based on evaluations of end-diastolic or cardiac motion-corrected (ECG-MC) images, which are affected by both patient and respiratory motion. We aimed to test the impact of employing a triple motion correction technique (3 × MC), including cardiorespiratory and gross patient motion, on quantitative and qualitative measurements.
+MATERIALS AND METHODS: Fourteen patients with aortic stenosis underwent two repeat 30-min PET aortic valve scans within (29 ± 24) days. We considered three different image reconstruction protocols; an end-diastolic reconstruction protocol (standard) utilizing 25% of the acquired data, an ECG-gated (four ECG gates) reconstruction (ECG-MC), and a triple motion-corrected (3 × MC) dataset which corrects for both cardiorespiratory and patient motion. All datasets were compared to aortic valve calcification scores (AVCS), using the Agatston method, obtained from CT scans using correlation plots. We report SUV<sub>max</sub> values measured in the aortic valve and maximum target-to-background ratios (TBR<sub>max</sub>) values after correcting for blood pool activity.
+RESULTS: Compared to standard and ECG-MC reconstructions, increases in both SUV<sub>max</sub> and TBR<sub>max</sub> were observed following 3 × MC (SUV<sub>max</sub>: Standard = 2.8 ± 0.7, ECG-MC = 2.6 ± 0.6, and 3 × MC = 3.3 ± 0.9; TBR<sub>max</sub>: Standard = 2.7 ± 0.7, ECG-MC = 2.5 ± 0.6, and 3 × MC = 3.3 ± 1.2, all p values ≤ 0.05). 3 × MC had improved correlations (R2 value) to the AVCS when compared to the standard methods (SUV<sub>max</sub>: Standard = 0.10, ECG-MC = 0.10, and 3 × MC = 0.20; TBR<sub>max</sub>: Standard = 0.20, ECG-MC = 0.28, and 3 × MC = 0.46).
+CONCLUSION: 3 × MC improves the correlation between the AVCS and SUV<sub>max</sub> and TBR<sub>max</sub> and should be considered in PET studies of aortic valves using 18F-NaF.
+
+Citation: Lassen ML, et al. Aortic valve imaging using 18F-sodium fluoride: impact of triple motion correction. Aortic valve imaging using 18F-sodium fluoride: impact of triple motion correction. 2022; 9:4. doi: 10.1186/s40658-022-00433-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35092520/

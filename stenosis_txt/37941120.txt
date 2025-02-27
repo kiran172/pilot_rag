@@ -1,0 +1,13 @@
+PMID: 37941120
+Title: A Convolutional Neural Network for Automated Detection of Cervical Ossification of the Posterior Longitudinal Ligament using Magnetic Resonance Imaging.
+
+Abstract: STUDY DESIGN: Retrospective cohort study.
+OBJECTIVE: We aimed to develop and validate a convolutional neural network (CNN) model to distinguish between cervical ossification of posterior longitudinal ligament (OPLL) and multilevel degenerative spinal stenosis using Magnetic Resonance Imaging (MRI) and to compare the diagnostic ability with spine surgeons.
+SUMMARY OF BACKGROUND DATA: Some artificial intelligence models have been applied in spinal image analysis and many of promising results were obtained; however, there was still no study attempted to develop a deep learning model in detecting cervical OPLL using MRI images.
+MATERIALS AND METHODS: In this retrospective study, 272 cervical OPLL and 412 degenerative patients underwent surgical treatment were enrolled and divided into the training (513 cases) and test dataset (171 cases). CNN models applying ResNet architecture with 34, 50, and 101 layers of residual blocks were constructed and trained with the sagittal MRI images from the training dataset. To evaluate the performance of CNN, the receiver operating characteristic curves of 3 ResNet models were plotted and the area under the curve were calculated on the test dataset. The accuracy, sensitivity, and specificity of the diagnosis by the CNN were calculated and compared with 3 senior spine surgeons.
+RESULTS: The diagnostic accuracies of our ResNet34, ResNet50, and ResNet101 models were 92.98%, 95.32%, and 97.66%, respectively; the area under the curve of receiver operating characteristic curves of these models were 0.914, 0.942, and 0.971, respectively. The accuracies and specificities of ResNet50 and ResNet101 models were significantly higher than all spine surgeons; for the sensitivity, ResNet101 model achieved better values than that of the 2 surgeons.
+CONCLUSION: The performance of our ResNet model in differentiating cervical OPLL from degenerative spinal stenosis using MRI is promising, better results were achieved with more layers of residual blocks applied.
+
+Citation: Qu Z, et al. A Convolutional Neural Network for Automated Detection of Cervical Ossification of the Posterior Longitudinal Ligament using Magnetic Resonance Imaging. A Convolutional Neural Network for Automated Detection of Cervical Ossification of the Posterior Longitudinal Ligament using Magnetic Resonance Imaging. 2024; 37:E106-E112. doi: 10.1097/BSD.0000000000001547
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37941120/

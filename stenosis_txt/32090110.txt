@@ -1,0 +1,8 @@
+PMID: 32090110
+Title: Numerical Solution of Blood Flow and Mass Transport in an Elastic Tube with Multiple Stenoses.
+
+Abstract: The simultaneous effect of flexible wall and multiple stenoses on the flow and mass transfer of blood is investigated through numerical computation and simulations. The solution is obtained using the Marker and Cell technique on an axisymmetric model of Newtonian blood flow. The results compare favorably with physical observations where the pulsatile boundary condition and double stenoses result in a higher pressure drop across the stenoses. The streamlines, the iso-concentration lines, the Sherwood number, and the mass concentration variations along the entire wall segment provide a comprehensive analysis of the mass transport characteristics. The double stenoses and pulsatile inlet conditions increase the number of recirculation regions and effect a higher mass transfer rate at the throat, whereby more mass is expected to accumulate and cause further stenosis.
+
+Citation: Alsemiry RD, et al. Numerical Solution of Blood Flow and Mass Transport in an Elastic Tube with Multiple Stenoses. Numerical Solution of Blood Flow and Mass Transport in an Elastic Tube with Multiple Stenoses. 2020; 2020:7609562. doi: 10.1155/2020/7609562
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32090110/

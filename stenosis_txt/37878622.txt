@@ -1,0 +1,14 @@
+PMID: 37878622
+Title: Inter-rater reliability of a novel objective endpoint for benign central airway stenosis interventions: Segmentation-based volume rendering of computed tomography scans.
+
+Abstract: OBJECTIVES: To evaluate the reliability of a novel segmentation-based volume rendering approach for quantification of benign central airway obstruction (BCAO).
+DESIGN: A retrospective single-center cohort study.
+SETTING: Data were ascertained using electronic health records at a tertiary academic medical center in the United States.
+PARTICIPANTS AND INCLUSION: Patients with airway stenosis located within the trachea on two-dimensional (2D) computed tomography (CT) imaging and documentation of suspected benign etiology were included. Four readers with varying expertise in quantifying tracheal stenosis severity were selected to manually segment each CT using a volume rendering approach with the available free tools in the medical imaging viewing software OsiriX (Bernex, Switzerland). Three expert thoracic radiologists were recruited to quantify the same CTs using traditional subjective methods on a continuous and categorical scale.
+OUTCOME MEASURES: The interrater reliability for continuous variables was calculated by the intraclass correlation coefficient (ICC) using a two-way mixed model with 95% confidence intervals (CI).
+RESULTS: Thirty-eight patients met the inclusion criteria, and fifty CT scans were selected for measurement. The most common etiology of BCAO was iatrogenic in 22 patients (58%). There was an even distribution of chest and neck CT imaging within our cohort. The average ICC across all four readers for the volume rendering approach was 0.88 (95% CI, 0.84 to 0.93), suggesting good to excellent agreement. The average ICC for thoracic radiologists for subjective methods on the continuous scale was 0.38 (95% CI, 0.20 to 0.55), suggesting poor to fair agreement. The kappa for the categorical approach was 0.26, suggesting a slight to fair agreement amongst the raters.
+CONCLUSION: In this retrospective cohort study, agreement was good to excellent for raters with varying expertise in airway cross-sectional imaging using a novel segmentation-based volume rendering approach to quantify BCAO. This proposed measurement outperformed our expert thoracic radiologists using conventional subjective grading methods.
+
+Citation: Ratwani AP, et al. Inter-rater reliability of a novel objective endpoint for benign central airway stenosis interventions: Segmentation-based volume rendering of computed tomography scans. Inter-rater reliability of a novel objective endpoint for benign central airway stenosis interventions: Segmentation-based volume rendering of computed tomography scans. 2023; 18:e0290393. doi: 10.1371/journal.pone.0290393
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37878622/

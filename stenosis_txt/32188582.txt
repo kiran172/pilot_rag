@@ -1,0 +1,10 @@
+PMID: 32188582
+Title: Upregulation of microRNA-195 ameliorates calcific aortic valve disease by inhibiting VWF via suppression of the p38-MAPK signaling pathway.
+
+Abstract: BACKGROUND: Growing evidence has indicated that microRNAs (miRNAs) are involved in the progression of calcific aortic valve disease (CAVD), a progressive pathological condition with no effective pharmacological therapy. This study was set out with the aim to investigate possible roles of miR-195 in CAVD.
+METHODS AND RESULTS: Initially, the differential expressed genes (DEGs) associated with CAVD were screened out and miRNAs potentially regulating VWF were predicted from microarray analysis. Next, we quantified VWF and miR-195 expression in isolated aortic valve interstitial cells (AVICs) and aortic valve tissues, followed by confirmation of the target relationship between miR-195 and VWF using the dual luciferase reporter assay. Furthermore, we evaluated the biological functions of miR-195 and VWF on ALP activity, cell differentiation, and the levels of miR-195, VWF, Runx2, OCN, ALP, p38 and phosphorylated p38 in AVICs. VWF was highly expressed, while miR-195 was poorly expressed in CAVD. Furthermore, miR-195 targeted VWF and negatively regulated its expression. Upregulation of miR-195 or silencing VWF could reduce ALP activity, calcified deposition, and the mRNA and protein levels of Runx2, OCN, and ALP by inhibiting the p38-MAPK signaling pathway, thereby ameliorating aortic valve calcification in vitro.
+CONCLUSIONS: On all accounts, miR-195 can potentially inhibit aortic valve calcification by repressing VWF and p38-MAPK signaling pathway, highlighting a theoretical basis for pharmacological treatment of CAVD.
+
+Citation: Yang L, et al. Upregulation of microRNA-195 ameliorates calcific aortic valve disease by inhibiting VWF via suppression of the p38-MAPK signaling pathway. Upregulation of microRNA-195 ameliorates calcific aortic valve disease by inhibiting VWF via suppression of the p38-MAPK signaling pathway. 2020; 309:101-107. doi: 10.1016/j.ijcard.2020.01.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32188582/

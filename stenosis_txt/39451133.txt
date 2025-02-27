@@ -1,0 +1,13 @@
+PMID: 39451133
+Title: Performance of Artificial Intelligence in Diagnosing Lumbar Spinal Stenosis: A Systematic Review and Meta-analysis.
+
+Abstract: STUDY DESIGN: The present study followed the reporting guidelines for systematic reviews and meta-analyses.
+OBJECTIVE: Therefore, we conducted this study to review the diagnostic value of AI for various types of LSS and the level of stenosis, offering evidence-based support for the development of smart diagnostic tools.
+SUMMARY OF BACKGROUND DATA: Artificial intelligence (AI) is currently being utilized for image processing in clinical practice. Some studies have explored AI techniques for identifying the severity of lumbar spinal stenosis (LSS) in recent years. Nevertheless, there remains a shortage of structured data proving its effectiveness.
+METHODS: Four databases (PubMed, Cochrane, Embase, and Web of Science) were searched until March 2024, including original studies that utilized deep learning and machine learning models to diagnose LSS. The risk of bias (RoB) of included studies was assessed using QUADAS-2. The accuracy in the validation set was extracted for a meta-analysis. The meta-analysis was completed in R4.4.0.
+RESULTS: A total of 48 articles were included, with an overall accuracy of 0.885 (95% CI: 0.860-0907) for dichotomous tasks. Among them, the accuracy was 0.892 (95% CI: 0.867-0915) for deep learning (DL) and 0.833 (95% CI: 0.760-0895) for machine learning (ML). The overall accuracy for LSS was 0.895 (95% CI: 0.858-0927), with an accuracy of 0.912 (95% CI: 0.873-0.944) for DL and 0.843 (95% CI: 0.766-0.907) for ML. The overall accuracy for central canal stenosis was 0.875 (95% CI: 0.821-0920), with an accuracy of 0.881 (95% CI: 0.829-0.925) for DL and 0.733 (95% CI: 0.541-0.877) for ML. The overall accuracy for neural foramen stenosis was 0.893 (95% CI: 0.851-0.928). In polytomous tasks, the accuracy was 0.936 (95% CI: 0.895-0.967) for no LSS, 0.503 (95% CI: 0.391-0.614) for mild LSS, 0.512 (95% CI: 0.336-0.688) for moderate LSS, and 0.860 for severe LSS (95% CI: 0.733-0.954).
+CONCLUSIONS: AI is highly valuable for diagnosing LSS. However, further external validation is necessary to enhance the analysis of different stenosis categories and improve the diagnostic accuracy for mild to moderate stenosis levels.
+
+Citation: Yang X, et al. Performance of Artificial Intelligence in Diagnosing Lumbar Spinal Stenosis: A Systematic Review and Meta-analysis. Performance of Artificial Intelligence in Diagnosing Lumbar Spinal Stenosis: A Systematic Review and Meta-analysis. 2024; (unknown volume):(unknown pages). doi: 10.1097/BRS.0000000000005174
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39451133/

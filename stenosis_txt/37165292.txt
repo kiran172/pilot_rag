@@ -1,0 +1,12 @@
+PMID: 37165292
+Title: OLD-TAVR score to predict 2-year mortality in patients aged 75 years and more undergoing transcatheter aortic valve replacement.
+
+Abstract: PURPOSE: Decision-making on transcatheter aortic valve replacement (TAVR) in patients aged 75 years and older is complex. It could be facilitated by the identification of predictors of long-term mortality. This study aimed to identify predictors of 2-year mortality to develop a 2-year mortality risk score.
+METHODS: Cohort study of consecutive patients aged ≥ 75 years who underwent TAVR after a comprehensive geriatric assessment (CGA) at our university hospital between 2012 and 2019. Predictors of 2-year mortality were determined using multivariable Cox regression. A point-based predictive model was developed based on risk factors and subsequently internally validated by fivefold cross-validation.
+RESULTS: The 345 patients (median age 87 years, 54% women) were fit/vulnerable (32%), mildly frail (37%), or moderately/severely frail (31%). The overall 2-year mortality rate was 26%, predicted by atrial fibrillation, hemoglobin ≤ 10 g/dL, age ≥ 87 years, BMI ≤ 24, eGFR ≤ 50 ml/min, and moderate/severe frailty. The risk score (range 0-12), named OLD-TAVR score, for 2-year mortality showed good discriminative power (AUC 0.70) and remained consistent after fivefold cross-validation (cvAUC 0.69). A risk score ≥ 8 (prevalence 20%) predicted a 45% (95%CI: 34-58%) two-year mortality, with high specificity (86%) and good positive predictive power (+ LR 2.43).
+CONCLUSION: A 2-year mortality risk score (OLD-TAVR score) for very old patients undergoing TAVR was developed based on six bio-clinical items. A score ≥ 8 identified patients in whom 2-year mortality was very high and thereby the TAVR futile.
+TRIAL REGISTRATION NUMBER AND DATE OF REGISTRATION: Study protocol B403, 26/09/2022, retrospectively registered.
+
+Citation: de Terwangne C, et al. OLD-TAVR score to predict 2-year mortality in patients aged 75 years and more undergoing transcatheter aortic valve replacement. OLD-TAVR score to predict 2-year mortality in patients aged 75 years and more undergoing transcatheter aortic valve replacement. 2023; 14:493-502. doi: 10.1007/s41999-023-00794-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37165292/

@@ -1,0 +1,11 @@
+PMID: 33575199
+Title: The Relation between Atherosclerosis Plaque Composition and Plaque Rupture.
+
+Abstract: BACKGROUND: Intima, media, and adventitia are three layers of arteries. They have different structures and different mechanical properties. Damage to intima layer of arteries leads to an inflammatory response, which is usually the reason for atherosclerosis plaque formation. Atherosclerosis plaques mainly consist of smooth muscle cells and calcium. However, plaque geometry and mechanical properties change during time. Blood flow is the source of biomechanical stress to the plaques. Maximum stress that atherosclerosis plaque can burden before its rupture depends on fibrous cap thickness, lipid core, calcification, and artery stenosis. When atherosclerotic plaque ruptures, the blood would be in contact with coagulation factors. That is why plaque rupture is one of the main causes of fatality.
+METHOD: In this article, the coronary artery was modeled by ANSYS. First, fibrous cap thickness was increased from 40 μm to 250 μm by keeping other parameters constant. Then, the lipid pool percentage was incremented from 10% to 90% by keeping other parameters unchanged. Furthermore, for investigating the influence of calcium in plaque vulnerability, calcium was modeled in both agglomerated and microcalcium form.
+RESULTS: It is proved that atherosclerosis plaque stress decreases exponentially as cap thickness increases. Larger lipid pool leads to more vulnerable plaques. In addition, the analysis showed maximum plaque stress usually increases in calcified plaque as compared with noncalcified plaque.
+CONCLUSION: The plaque stress is dependent on whether calcium is agglomerated near the lumen or far from it. However, in both cases, the deposition of more calcium in calcified plaque reduces maximum plaque stress.
+
+Citation: Babaniamansour P, et al. The Relation between Atherosclerosis Plaque Composition and Plaque Rupture. The Relation between Atherosclerosis Plaque Composition and Plaque Rupture. 2020; 10:267-273. doi: 10.4103/jmss.JMSS_48_19
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33575199/

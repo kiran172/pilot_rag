@@ -1,0 +1,12 @@
+PMID: 35525423
+Title: Pacing burden and clinical outcomes after transcatheter aortic valve replacement-A real-world registry report.
+
+Abstract: INTRODUCTION: Conflicting data exist on the prognostic significance of permanent pacemaker (PPM) implantation after transcatheter aortic valve replacement (TAVR).
+OBJECTIVE: The purpose of this study was to evaluate whether PPM implantation after TAVR is associated with adverse outcomes.
+METHODS: A retrospective analysis of a cohort comprised patients enrolled in a prospective registry between 2008 and 2019. Participants were allocated into 3 groups: patients without a prior pacemaker (n = 930 [75%]), those with previous pacemaker implantation (n = 118 [10%]), and those with pacemaker implantation after TAVR (n = 191 [15%]). The primary outcome included death and heart failure hospitalizations at 1 year. Secondary outcomes included death and heart failure hospitalizations stratified by pacing burden.
+RESULTS: A total of 1239 patients underwent TAVR with a median follow-up period of 2.3 years (interquartile range 1-4 years). Patients with previous and new pacemaker implantation were older (84 [80-88], 84 [80-88], and 82 [78-86] years; P = .009) and had lower baseline left ventricular ejection fraction (50% ± 15%, 55% ± 12%, and 56% ± 12%; P < .001). Patients who underwent new pacemaker implantation had higher combined outcome of death and heart failure hospitalizations (21%,12%, and 14%; P = .01). New pacemaker implantation was associated with almost twice the risk of 1-year mortality (odds ratio 1.85; 95% confidence interval 1.13-3.02; P = .014). Pacing burden, however, was not associated with the primary outcome. Furthermore, no significant difference was observed at long-term follow-up (cumulative probability to develop the primary end point at 3 years was 57% ± 2% [without PPM], 57% ± 6% [prior PPM], 54% ± 4% [new PPM]; P = .52).
+CONCLUSION: Pacemaker implantation after TAVR is associated with higher 1-year adverse outcome, but this attenuates over time, suggesting that competing factors may play a role. Interestingly, pacing burden is not associated with adverse clinical course.
+
+Citation: Natanzon SS, et al. Pacing burden and clinical outcomes after transcatheter aortic valve replacement-A real-world registry report. Pacing burden and clinical outcomes after transcatheter aortic valve replacement-A real-world registry report. 2022; 19:1508-1515. doi: 10.1016/j.hrthm.2022.04.030
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35525423/

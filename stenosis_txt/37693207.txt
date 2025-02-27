@@ -1,0 +1,11 @@
+PMID: 37693207
+Title: Super-Resolution Deep Learning Reconstruction for Improved Image Quality of Coronary CT Angiography.
+
+Abstract: PURPOSE: To investigate image noise and edge sharpness of coronary CT angiography (CCTA) with super-resolution deep learning reconstruction (SR-DLR) compared with conventional DLR (C-DLR) and to evaluate agreement in stenosis grading using CCTA with that from invasive coronary angiography (ICA) as the reference standard.
+MATERIALS AND METHODS: This retrospective study included 58 patients (mean age, 69.0 years ± 12.8 [SD]; 38 men, 20 women) who underwent CCTA using 320-row CT between April and September 2022. All images were reconstructed with two different algorithms: SR-DLR and C-DLR. Image noise, signal-to-noise ratio, edge sharpness, full width at half maximum (FWHM) of stent, and agreement in stenosis grading with that from ICA were compared. Stenosis was visually graded from 0 to 5, with 5 indicating occlusion.
+RESULTS: SR-DLR significantly decreased image noise by 31% compared with C-DLR (12.6 HU ± 2.3 vs 18.2 HU ± 1.9; P &lt; .001). Signal-to-noise ratio and edge sharpness were significantly improved by SR-DLR compared with C-DLR (signal-to-noise ratio, 38.7 ± 8.3 vs 26.2 ± 4.6; P &lt; .001; edge sharpness, 560 HU/mm ± 191 vs 463 HU/mm ± 164; P &lt; .001). The FWHM of stent was significantly thinner on SR-DLR (0.72 mm ± 0.22) than on C-DLR (1.01 mm ± 0.21; P &lt; .001). Agreement in stenosis grading between CCTA and ICA was improved on SR-DLR compared with C-DLR (weighted κ = 0.83 vs 0.77).
+CONCLUSION: SR-DLR improved vessel sharpness, image noise, and accuracy of coronary stenosis grading compared with the C-DLR technique.Keywords: CT Angiography, Cardiac, Coronary Arteries Supplemental material is available for this article. © RSNA, 2023.
+
+Citation: Takafuji M, et al. Super-Resolution Deep Learning Reconstruction for Improved Image Quality of Coronary CT Angiography. Super-Resolution Deep Learning Reconstruction for Improved Image Quality of Coronary CT Angiography. 2023; 5:e230085. doi: 10.1148/ryct.230085
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37693207/

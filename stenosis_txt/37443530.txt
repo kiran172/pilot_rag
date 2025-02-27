@@ -1,0 +1,10 @@
+PMID: 37443530
+Title: The Association of Coronary Fat Attenuation Index Quantified by Automated Software on Coronary Computed Tomography Angiography with Adverse Events in Patients with Less than Moderate Coronary Artery Stenosis.
+
+Abstract: OBJECTIVE: This study analyzed the relationship between the coronary FAI on CCTA and coronary adverse events in patients with moderate coronary artery disease based on machine learning.
+METHODS: A total of 172 patients with coronary artery disease with moderate or lower coronary artery stenosis were included. According to whether the patients had coronary adverse events, the patients were divided into an adverse group and a non-adverse group. The coronary FAI of patients was quantified via machine learning, and significant differences between the two groups were analyzed via t-test.
+RESULTS: The age difference between the two groups was statistically significant (p &lt; 0.001). The group that had adverse reactions was older, and there was no statistically significant difference between the two groups in terms of sex and smoking status. There was no statistical significance in the blood biochemical indexes between the two groups (p &gt; 0.05). There was a significant difference in the FAIs between the two groups (p &lt; 0.05), with the FAI of the defective group being greater than that of the nonperforming group. Taking the age of patients as a covariate, an analysis of covariance showed that after excluding the influence of age, the FAIs between the two groups were still significantly different (p &lt; 0.001).
+
+Citation: Zhang W, et al. The Association of Coronary Fat Attenuation Index Quantified by Automated Software on Coronary Computed Tomography Angiography with Adverse Events in Patients with Less than Moderate Coronary Artery Stenosis. The Association of Coronary Fat Attenuation Index Quantified by Automated Software on Coronary Computed Tomography Angiography with Adverse Events in Patients with Less than Moderate Coronary Artery Stenosis. 2023; 13:(unknown pages). doi: 10.3390/diagnostics13132136
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37443530/

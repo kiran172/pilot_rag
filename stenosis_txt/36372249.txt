@@ -1,0 +1,11 @@
+PMID: 36372249
+Title: Predicting left main stenosis in stable ischemic heart disease using logistic regression and boosted trees.
+
+Abstract: BACKGROUND: The ISCHEMIA trial showed similar cardiovascular outcomes of an initial conservative strategy as compared with invasive management in patients with stable ischemic heart disease without left main stenosis. We aim to assess the feasibility of predicting significant left main stenosis using extensive clinical, laboratory and non-invasive tests data.
+METHODS: All adult patients who had stress testing prior to undergoing an elective coronary angiography for stable ischemic heart disease in Ontario, Canada, between April 2010 and March 2019, were included. Candidate predictors included comprehensive demographics, comorbidities, laboratory tests, and cardiac stress test data. The outcome was stenosis of 50% or greater in the left main coronary artery. A traditional model (logistic regression) and a machine learning algorithm (boosted trees) were used to build prediction models.
+RESULTS: Among 150,423 patients included (mean age: 64.2 ± 10.6 years; 64.1% males), there were 9,225 (6.1%) with left main stenosis. The final logistic regression model included 24 predictors and 3 interactions, had an optimism-adjusted c-statistic of 0.72 and adequate calibration (optimism-adjusted Integrated Calibration Index 0.0044). These results were consistent in subgroups of males and females, diabetes and non-diabetes, and extent of ischemia. The boosted tree algorithm had similar accuracy, also resulting in a c-statistic of 0.72 and adequate calibration (Integrated Calibration Index 0.0054).
+CONCLUSIONS: In this large population-based study of patients with stable ischemic heart disease using extensive clinical data, only modest prediction of left main coronary artery disease was possible with traditional and machine learning modelling techniques.
+
+Citation: Godoy LC, et al. Predicting left main stenosis in stable ischemic heart disease using logistic regression and boosted trees. Predicting left main stenosis in stable ischemic heart disease using logistic regression and boosted trees. 2023; 256:117-127. doi: 10.1016/j.ahj.2022.11.004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36372249/

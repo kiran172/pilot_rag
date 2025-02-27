@@ -1,0 +1,11 @@
+PMID: 38184922
+Title: Melatonin inhibits the formation of intraplaque neovessels in ApoE-/- mice via PPARγ- RhoA-ROCK pathway.
+
+Abstract: BACKGROUND: According to former research, the atherosclerotic plaque is thought to be aggravated by intraplaque neovessels (IPN) and intraplaque hemorrhage (IPH). Intriguingly, a lower incidence of IPH was found in plaque treated with melatonin. In this study, we attempted to investigate the impact and underlying mechanism regarding the influences of melatonin upon IPN.
+METHODS: A mouse model was established by subjecting the high fat diet (HFD)-fed ApoE-/- mice to tandem stenosis (TS) surgery with melatonin and GW9662, a PPARγ antagonist, being given by gavage. In vitro experiment was conducted with HUVECs exposing to according treatments of VEGF, melatonin, GW9662, or Y27632.
+RESULTS: Plaque and IPN were attenuated by treatment with melatonin, which was then reversed by blocking PPARγ. Western blotting results showed that melatonin increased PPARγ and decreased RhoA/ROCK signaling in carotid artery. Elevated RhoA/ROCK signaling was observed in melatonin-treated mice when PPARγ was blocked. In accordance with it, experiments using protein and mRNA from HUVECs revealed that melatonin inhibited the RhoA/ROCK signaling by enhancing PPARγ. According to in vitro study, melatonin was able to inhibit cell migration and angiogenesis, which was aborted by GW9662. Blockage of ROCK using Y27632 was able to cease the effect of GW9662 and restored the suppression on cell migration and angiogenesis by melatonin.
+CONCLUSIONS: Our study demonstrates that melatonin is able to curb development of plaque and IPN formation by inhibiting the migration of endothelial cells via PPARγ- RhoA-ROCK pathway. That provides a therapeutic potential for both melatonin and PPARγ agonist targeting IPN, IPH, and atherosclerotic plaque.
+
+Citation: Jiang Y, et al. Melatonin inhibits the formation of intraplaque neovessels in ApoE-/- mice via PPARγ- RhoA-ROCK pathway. Melatonin inhibits the formation of intraplaque neovessels in ApoE-/- mice via PPARγ- RhoA-ROCK pathway. 2024; 696:149391. doi: 10.1016/j.bbrc.2023.149391
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38184922/

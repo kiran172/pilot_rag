@@ -1,0 +1,12 @@
+PMID: 33444268
+Title: Patient-specific 3D-printed coronary models based on coronary computed tomography angiography volumes to investigate flow conditions in coronary artery disease.
+
+Abstract: BACKGROUND: 3D printed patient-specific coronary models have the ability to enable repeatable benchtop experiments under controlled blood flow conditions. This approach can be applied to CT-derived patient geometries to emulate coronary flow and related parameters such as Fractional Flow Reserve (FFR).
+METHODS: This study uses 3D printing to compare such benchtop FFR results with a non-invasive CT-FFR research software algorithm and catheter based invasive FFR (I-FFR) measurements. Fifty-two patients with a clinical indication for I-FFR underwent a research Coronary CT Angiography (CCTA) prior to catheterization. CT images were used to measure CT-FFR and to generate patient-specific 3D printed models of the aortic root and three main coronary arteries. Each patient-specific model was connected to a programmable pulsatile pump and benchtop FFR (B-FFR) was derived from pressures measured proximal and distal to coronary stenosis using pressure transducers. B-FFR was measured for two coronary outflow rates ('normal', 250 ml min-1; and 'hyperemic', 500 ml min-1) by adjusting the model's distal coronary resistance.
+RESULTS: Pearson correlations and ROC AUC were calculated using invasive I-FFR as reference. The Pearson correlation factor of CT-FFR and B-FFR-500 was 0.75 and 0.71, respectively. Areas under the ROCs for CT-FFR and B-FFR-500 were 0.80 (95%CI: 0.70-0.87) and 0.81 (95%CI: 0.64-0.91) respectively.
+CONCLUSION: Benchtop flow simulations with 3D printed models provide the capability to measure pressure changes at any location in the model, for ultimately emulating the FFR at several simulated physiological blood flow conditions.
+CLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/show/NCT03149042.
+
+Citation: Sommer KN, et al. Patient-specific 3D-printed coronary models based on coronary computed tomography angiography volumes to investigate flow conditions in coronary artery disease. Patient-specific 3D-printed coronary models based on coronary computed tomography angiography volumes to investigate flow conditions in coronary artery disease. 2020; 6:045007. doi: 10.1088/2057-1976/ab8f6e
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33444268/

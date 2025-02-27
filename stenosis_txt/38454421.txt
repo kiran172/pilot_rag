@@ -1,0 +1,11 @@
+PMID: 38454421
+Title: Characterization of the proteome of stable and unstable carotid atherosclerotic plaques using data-independent acquisition mass spectrometry.
+
+Abstract: BACKGROUND: Currently, noninvasive imaging techniques and circulating biomarkers are still insufficient to accurately assess carotid plaque stability, and an in-depth understanding of the molecular mechanisms that contribute to plaque instability is still lacking.
+METHODS: We established a clinical study cohort containing 182 patients with carotid artery stenosis. After screening, 39 stable and 49 unstable plaques were included in the discovery group, and quantitative proteomics analysis based on data independent acquisition was performed for these plaque samples. Additionally, 35 plaques were included in the validation group to validate the proteomics results by immunohistochemistry analysis.
+RESULTS: A total of 397 differentially expressed proteins were identified in stable and unstable plaques. These proteins are primarily involved in ferroptosis and lipid metabolism-related functions and pathways. Plaque validation results showed that ferroptosis- and lipid metabolism-related proteins had different expression trends in stable plaques versus unstable fibrous cap regions and lipid core regions. Ferroptosis- and lipid metabolism-related mechanisms in plaque stability were discussed.
+CONCLUSIONS: Our results may provide a valuable strategy for revealing the mechanisms affecting plaque stability and will facilitate the discovery of specific biomarkers to broaden the therapeutic scope.
+
+Citation: Lai Z, et al. Characterization of the proteome of stable and unstable carotid atherosclerotic plaques using data-independent acquisition mass spectrometry. Characterization of the proteome of stable and unstable carotid atherosclerotic plaques using data-independent acquisition mass spectrometry. 2024; 22:247. doi: 10.1186/s12967-023-04723-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38454421/

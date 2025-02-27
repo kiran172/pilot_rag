@@ -1,0 +1,12 @@
+PMID: 39256221
+Title: EASIX (endothelial activation and stress index) predicts mortality in patients with coronary artery disease.
+
+Abstract: BACKGROUND: Coronary interventions reduce morbidity and mortality in patients with acute coronary syndrome. However, the risk of mortality for patients with coronary artery disease (CAD) additionally depends on their systemic endothelial health status. The 'Endothelial Activation and Stress Index' (EASIX) predicts endothelial complications and survival in diverse clinical settings.
+OBJECTIVE: We hypothesized that EASIX may predict mortality in patients with CAD.
+METHODS: In 1283 patients undergoing coronary catheterization (CC) and having a diagnosis of CAD, EASIX was measured within 52 days (range - 1 year to - 14 days) before CC and correlated with overall survival. In an independent validation cohort of 1934 patients, EASIXval was measured within 174 days (+ 28 days to + 11 years) after CC.
+RESULTS: EASIX predicted the risk of mortality after CC (per log2: hazard ratio (HR) 1.29, 95% confidence interval: [1.18-1.41], p < 0.001) in multivariable Cox regression analyses adjusting for age, sex, a high-grade coronary stenosis ≥ 90%, left ventricular ejection fraction, arterial hypertension and diabetes. In the independent cohort, EASIX correlated with EASIXval with rho = 0.7. The long-term predictive value of EASIXval was confirmed (per log2: HR 1.53, [1.42-1.64], p < 0.001) and could be validated by integrated Brier score and concordance index. Pre-established cut-offs (0.88-2.32) associated with increased mortality (cut-off 0.88: HR training: 1.63; HR validation: 1.67, p < 0.0001 and cut-off 2.32: HR training: 3.57; HR validation: 4.65, p < 0.0001).
+CONCLUSIONS: We validated EASIX as a potential biomarker to predict death of CAD patients, irrespective of the timing either before or after catheterization.
+
+Citation: Finke D, et al. EASIX (endothelial activation and stress index) predicts mortality in patients with coronary artery disease. EASIX (endothelial activation and stress index) predicts mortality in patients with coronary artery disease. 2024; (unknown volume):(unknown pages). doi: 10.1007/s00392-024-02534-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39256221/

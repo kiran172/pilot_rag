@@ -1,0 +1,11 @@
+PMID: 35081387
+Title: Added Prognostic Value of Plaque Burden to Computed Tomography Angiography and Myocardial Perfusion Imaging in Patients with Diabetes.
+
+Abstract: BACKGROUND: We aimed to compare the added prognostic value of plaque burden to cardiac computed tomographic angiography (CCTA) anatomic assessment and single-photon emission computed tomography (SPECT) physiologic assessment in patients with diabetes undergoing both tests.
+METHODS: Consecutive patients with diabetes who underwent clinically indicated CCTA and SPECT myocardial imaging for suspected coronary artery disease were included. Stenosis severity and segment involvement score (SIS) were determined from CCTA, and presence of ischemia was determined from SPECT. Patients were followed from date of imaging for major adverse cardiovascular events (MACE).
+RESULTS: A total of 778 patients were included (mean age 60.6 ± 14.4 years, 55% males). After a median follow-up of 31 months, 87 (11%) patients experienced a MACE. In multivariable Cox regression models, SIS significantly predicted outcomes in models including obstructive stenosis and ischemia (hazard ratio 1.17, 95% confidence interval 1.10-1.24, P < .001; hazard ratio 1.16, 95% confidence interval 1.10-1.23, P < .001, respectively), and improved discrimination (Harrel's C 0.75, P = .006; 0.76, P = .006 in models with CCTA obstructive stenosis and SPECT ischemia, respectively). Results were consistent using subgroups of summed scores by composition of plaque (calcified vs noncalcified) and alternate definitions of obstructive stenosis.
+CONCLUSION: Our results suggest that in high-risk patients with diabetes and suspected coronary disease, SIS has incremental prognostic value over ischemia by SPECT or stenosis by CCTA in predicting incident cardiovascular outcomes.
+
+Citation: Alnabelsi T, et al. Added Prognostic Value of Plaque Burden to Computed Tomography Angiography and Myocardial Perfusion Imaging in Patients with Diabetes. Added Prognostic Value of Plaque Burden to Computed Tomography Angiography and Myocardial Perfusion Imaging in Patients with Diabetes. 2022; 135:761-768.e7. doi: 10.1016/j.amjmed.2021.12.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35081387/

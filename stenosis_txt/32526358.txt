@@ -1,0 +1,11 @@
+PMID: 32526358
+Title: Long-Term Mortality After Carotid Stenting.
+
+Abstract: BACKGROUND: Carotid artery stenting (CAS) is an established procedure for the treatment of atherosclerotic disease affecting the extracranial internal carotid artery. Recent population-based studies have suggested that long-term survival after CAS may be limited, thereby questioning its efficacy in a real-world scenario.
+METHODS: We retrospectively reviewed outcomes of patients undergoing CAS for asymptomatic or symptomatic carotid stenosis by a neurosurgeon or interventional neuroradiologist at our institution between 2008 and 2018. Patient and disease characteristics were recorded, as was the incidence of periprocedural and overall ischemia and mortality after CAS. Risk factors for recurrent ischemia and mortality were identified using a Cox proportional hazards model.
+RESULTS: There were 238 patients who met inclusion criteria. Mean age was 69.7 years and most patients were male (69.7%); 62.2% underwent CAS for symptomatic carotid stenosis. The use of CAS for treatment of asymptomatic stenosis declined over the study period (P = 0.006). Fourteen patients (5.9%) experienced new or recurrent ipsilateral ischemia during follow-up, with 8 (3.4%) experiencing a stroke with permanent neurologic deficit. Fifty-nine patients (24.8%) died during follow-up, with a median time to death of 111.3 months (95% confidence interval [CI], 95.1-133.6) on Kaplan-Meier analysis. Increasing age at time of CAS (unit risk ratio, 1.05; 95% CI, 1.01-1.10; P = 0.011) and comorbid congestive heart failure (risk ratio, 2.40; 95% CI, 1.39-4.13; P = 0.002) were independent risk factors for mortality during follow-up.
+CONCLUSIONS: Unlike population-based studies, our results indicate acceptable long-term survival after CAS in adequately selected patients.
+
+Citation: Rinaldo L, et al. Long-Term Mortality After Carotid Stenting. Long-Term Mortality After Carotid Stenting. 2020; 141:e589-e599. doi: 10.1016/j.wneu.2020.05.264
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32526358/

@@ -1,0 +1,8 @@
+PMID: 38977740
+Title: Non-invasive fractional flow reserve estimation in coronary arteries using angiographic images.
+
+Abstract: Coronary artery disease is the leading global cause of mortality and Fractional Flow Reserve (FFR) is widely regarded as the gold standard for assessing coronary artery stenosis severity. However, due to the limitations of invasive FFR measurements, there is a pressing need for a highly accurate virtual FFR calculation framework. Additionally, it's essential to consider local haemodynamic factors such as time-averaged wall shear stress (TAWSS), which play a critical role in advancement of atherosclerosis. This study introduces an innovative FFR computation method that involves creating five patient-specific geometries from two-dimensional coronary angiography images and conducting numerical simulations using computational fluid dynamics with a three-element Windkessel model boundary condition at the outlet to predict haemodynamic distribution. Furthermore, four distinct boundary condition methodologies are applied to each geometry for comprehensive analysis. Several haemodynamic features, including velocity, pressure, TAWSS, and oscillatory shear index are investigated and compared for each case. Results show that models with average boundary conditions can predict FFR values accurately and observed errors between invasive FFR and virtual FFR are found to be less than 5%.
+
+Citation: Edrisnia H, et al. Non-invasive fractional flow reserve estimation in coronary arteries using angiographic images. Non-invasive fractional flow reserve estimation in coronary arteries using angiographic images. 2024; 14:15640. doi: 10.1038/s41598-024-65626-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38977740/

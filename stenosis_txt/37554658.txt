@@ -1,0 +1,11 @@
+PMID: 37554658
+Title: Improved Diagnosis through Diastolic Hyperemia-Free Ratio (DFR) over Fractional Flow Reserve (FFR) in Intermediate Coronary Lesions.
+
+Abstract: OBJECTIVES: To compare the fractional flow reserve (FFR) and diastolic hyperemia-free ratio (DFR) measurements in a population with intermediate coronary artery stenosis and improve the diagnosis.
+BACKGROUND: Visual assessment of coronary artery stenosis severity, particularly in intermediate lesions, is prone to errors in decision-making. FFR provides a reliable assessment of functional severity in these cases but requires hyperemia induction by adenosine, which has side effects and increased cost. DFR is a novel hyperemia-independent index, which could be used as an alternative to adenosine-based hyperemia induction.
+METHODS AND RESULTS: Between September 2019 to March 2020, 25 patients with 38 intermediate coronary stenotic lesions were included in the study. All patients underwent assessment of whole cycle Pd/Pa (ratio of distal coronary pressure to proximal aortic pressure), DFR and FFR. Mean whole cycle Pd/Pa, DFR and FFR were 0.93±0.06, 0.88±0.09, and 0.85±0.08, respectively. A significant positive correlation between DFR and FFR [r = 0.74; p<0.001] was observed. Receiver operating characteristic analysis showed an area under the curve of 0.90. DFR-only strategy with a treatment cut-off of ≤0.89 showed a diagnostic agreement with the FFR-only strategy in 74% of lesions, with a sensitivity of 54%, specificity of 82%, a positive predictive value of 60%, and a negative predictive value of 79%.
+CONCLUSIONS: Real-time DFR measurements show a clinically reliable correlation with FFR. Hence, using DFR is likely to avoid adenosine administration as well as reduce the cost and procedural time. Further studies with a larger sample size would be ideal to evaluate specific cut-off values and endpoints.
+
+Citation: Ramamurthy MT, et al. Improved Diagnosis through Diastolic Hyperemia-Free Ratio (DFR) over Fractional Flow Reserve (FFR) in Intermediate Coronary Lesions. Improved Diagnosis through Diastolic Hyperemia-Free Ratio (DFR) over Fractional Flow Reserve (FFR) in Intermediate Coronary Lesions. 2023; 7:108-116.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37554658/

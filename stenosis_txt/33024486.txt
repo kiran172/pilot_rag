@@ -1,0 +1,11 @@
+PMID: 33024486
+Title: Meta-Analysis of Catheter Ablation versus Medical Therapy in Patients with Atrial Fibrillation Without Heart Failure.
+
+Abstract: INTRODUCTION: Catheter ablation has shown to reduce mortality in patient with atrial fibrillation (AF) and heart failure (HF) with reduced ejection fraction. Its effect on mortality in patients without HF has not been well elucidated.
+METHODS: Thirteen randomized controlled trials encompassing 3856 patients were selected using PubMed, Embase and the CENTRAL till April 2019. Estimates were reported as random effects risk ratio (RR) with 95% confidence intervals (CI).
+RESULTS: Compared with medical therapy, catheter ablation did not reduce the risk of all-cause mortality (RR, 0.86, 95% CI, 0.62-1.19, P=0.36; I2=0), stroke (RR, 0.55, 95% CI, 0.18-1.66, P=0.29; I2=0), need for cardioversion (RR, 0.84, 95% CI, 0.66-1.08, P=0.17; I2=0) or pacemaker (RR, 0.59, 95% CI, 0.34-1.01, P=0.06; I2=0). However, ablation reduced the RR of cardiac hospitalization (0.37, 95% CI, 0.18-0.77, P=0.01; I2=86), and recurrent atrial arrhythmia (0.46, 95% CI, 0.35-0.60, P<0.001; I2=87). There were non-significant differences among treatment groups with respect to major bleeding (RR, 1.89, 95% CI, 0.59-6.08, P=0.29; I2=15), and pulmonary vein stenosis (RR, 3.00, 95% CI, 0.83-10.87, P=0.09; I2=0), but had significantly higher rates of pericardial tamponade (RR, 4.46, 95 % CI, 1.70-11.72, P<0.001; I2=0).
+CONCLUSIONS: Catheter ablation did not improve survival compared with medical therapy in patients with AF without HF. Catheter ablation reduced cardiac hospitalization and recurrent atrial arrhythmia at the expense of pericardial tamponade.
+
+Citation: Muhammad ZK, et al. Meta-Analysis of Catheter Ablation versus Medical Therapy in Patients with Atrial Fibrillation Without Heart Failure. Meta-Analysis of Catheter Ablation versus Medical Therapy in Patients with Atrial Fibrillation Without Heart Failure. 2020; 12:2266. doi: 10.4022/jafib.2266
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33024486/

@@ -1,0 +1,12 @@
+PMID: 33224576
+Title: Effect of pre-existing left bundle branch block on post-procedural outcomes of transcatheter aortic valve replacement: a meta-analysis of comparative studies.
+
+Abstract: BACKGROUND: As an established procedure for patients with aortic valve stenosis and a high surgical risk profile, transcatheter aortic valve replacement (TAVR) can be associated with conductance abnormalities. However, data regarding the impact of pre-existing left bundle branch block (LBBB) on post-TAVR outcome is scarce.
+OBJECTIVES: We conducted this meta-analysis to pool available data in the literature on the impact of pre-existing LBBB on the clinical outcomes of patients undergoing TAVR.
+METHODS: We queried Medline/PubMed, Scopus, and Cochrane Library to identify comparative studies of patients with and without a pre-existing LBBB undergoing TAVR for aortic stenosis. Risk ratio (RR) and the corresponding 95% confidence interval (95% CI) were estimated to measure the effect of pre-existing LBBB on developing post-procedure stroke, permanent pacemaker implantation (PPM), or moderate/severe aortic regurgitation (AR).
+RESULTS: Data of three clinical trials encompassing 4,668 patients undergoing TAVR were included in this meta-analysis. Patients with pre-existing LBBB prior to TAVR had an increased risk of developing moderate/severe AR (RR = 1.04 [0.79-1.37]; P = 0.77), stroke (RR = 1.72 [0.61-4.85]; P = 0.31), and a need for PPM implantation (RR = 4.43 [0.43-45.64]; P = 0.21) following TAVR.
+CONCLUSION: Preexisting LBBB seems to increase the risk of developing stroke, aortic regurgitation, and the need for a permanent pacemaker implantation. However, due to scarcity of data and high heterogeneity among the current studies, further clinical trials are warranted.
+
+Citation: Shoar S, et al. Effect of pre-existing left bundle branch block on post-procedural outcomes of transcatheter aortic valve replacement: a meta-analysis of comparative studies. Effect of pre-existing left bundle branch block on post-procedural outcomes of transcatheter aortic valve replacement: a meta-analysis of comparative studies. 2020; 10:294-300.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33224576/

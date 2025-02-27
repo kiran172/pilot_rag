@@ -1,0 +1,12 @@
+PMID: 31868307
+Title: Impact of the residual SYNTAX score on clinical outcomes after percutaneous coronary intervention for patients with chronic renal insufficiency.
+
+Abstract: OBJECTIVES: This study demonstrated the prognostic value of the residual SYNTAX score (rSS) for patients with chronic renal insufficiency (CRI).
+BACKGROUND: The rSS has been proposed as a useful tool for quantifying and stratifying the degree and complexity of residual stenosis and predicting long-term clinical outcomes following percutaneous coronary intervention (PCI). However, it has never been validated for patients with CRI.
+METHODS: A total of 2,468 consecutive patients with an estimated glomerular filtration rate &lt;90 ml/min/1.73 m2 who underwent PCI were retrospectively enrolled. Patients with rSS &gt;0 were defined as having incomplete revascularization and were stratified into the reasonable incomplete revascularization (RICR; 0 &lt; rSS ≤ 8) group or the incomplete revascularization (ICR; rSS &gt;8) group. Their outcomes were compared to those of the complete revascularization (CR) group.
+RESULTS: During follow-up (median, 3 years; range, 1.5-5 years), the ICR group had the highest incidence of all-cause death, cardiac death, myocardial infarction (MI), unplanned revascularization, stroke, and major adverse cardiovascular and cerebrovascular events (MACCE). Despite having higher rates of unplanned revascularization and MACCE, RICR group had comparable all-cause mortality, cardiac mortality, MI, and stroke with CR group. A multivariable Cox analysis indicated that rSS was an independent predictor of cardiac death, MI, unplanned revascularization, stroke, and MACCE. Furthermore, compared with baseline SYNTAX score, rSS had stronger prognostic accuracy when predicting the risk of unplanned revascularization, stroke, and MACCE at the 3-year follow-up.
+CONCLUSIONS: The rSS is a powerful indicator of clinical outcomes and may help determine reasonable levels of revascularization for patients with CRI following PCI.
+
+Citation: Yan L, et al. Impact of the residual SYNTAX score on clinical outcomes after percutaneous coronary intervention for patients with chronic renal insufficiency. Impact of the residual SYNTAX score on clinical outcomes after percutaneous coronary intervention for patients with chronic renal insufficiency. 2020; 95 Suppl 1:606-615. doi: 10.1002/ccd.28652
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31868307/

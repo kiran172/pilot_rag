@@ -1,0 +1,11 @@
+PMID: 39516417
+Title: Prediction of cardiovascular events after carotid endarterectomy using pathological images and clinical data.
+
+Abstract: PURPOSE: Carotid endarterectomy (CEA) is a surgical treatment for carotid artery stenosis. After CEA, some patients experience cardiovascular events (myocardial infarction, stroke, etc.); however, the prognostic factor has yet to be revealed. Therefore, this study explores the predictive factors in pathological images and predicts cardiovascular events within one year after CEA using pathological images of carotid plaques and patients' clinical data.
+METHOD: This paper proposes a two-step method to predict the prognosis of CEA patients. The proposed method first computes the pathological risk score using an anomaly detection model trained using pathological images of patients without cardiovascular events. By concatenating the obtained image-based risk score with a patient's clinical data, a statistical machine learning-based classifier predicts the patient's prognosis.
+RESULTS: We evaluate the proposed method on a dataset containing 120 patients without cardiovascular events and 21 patients with events. The combination of autoencoder as the anomaly detection model and XGBoost as the classification model obtained the best results: area under the receiver operating characteristic curve, accuracy, sensitivity, specificity, and F1-score were 81.9%, 84.1%, 79.1%, 86.3%, and 76.6%, respectively. These values were superior to those obtained using pathological images or clinical data alone.
+CONCLUSION: We showed the feasibility of predicting CEA patient's long-term prognosis using pathological images and clinical data. Our results revealed some histopathological features related to cardiovascular events: plaque hemorrhage (thrombus), lymphocytic infiltration, and hemosiderin deposition, which will contribute to developing preventive treatment methods for plaque development and progression.
+
+Citation: Ishida S, et al. Prediction of cardiovascular events after carotid endarterectomy using pathological images and clinical data. Prediction of cardiovascular events after carotid endarterectomy using pathological images and clinical data. 2024; (unknown volume):(unknown pages). doi: 10.1007/s11548-024-03286-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39516417/

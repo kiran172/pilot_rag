@@ -1,0 +1,11 @@
+PMID: 32656712
+Title: DAPT score: predictive model of dual-antiplatelet therapy for acute cerebral infarction.
+
+Abstract: OBJECTIVE: This article analyzes factors which affect the prognosis of acute cerebral infarction (ACI) patients receiving a course of antiplatelet therapy with aspirin and (or) clopidogrel for 14 days and proposes a simple grading scale to predict the clinical effectiveness of these drugs.
+METHODS: We evaluated the association between ACI and risk factor (univariate analysis) on at day 14 post admission. Factors which potentially affected the 14-day prognosis of the patients were identified by logistic regression. A clinical grading scale, the DAPT score, was developed by weighing the independent predictors based on these factors.
+RESULTS: It is revealed that the factors which affected 14 days prognosis univariate analysis included age ≥ 50 years (P = 0.007), diabetes (P = 0.017), hypertension (P ≤ 0.001), hyperhomocysteinemia (P = 0.001), and ipsilateral carotid artery stenosis ≥ 50% (P = 0.019). Logistic regression also revealed that the factors which affected 14 days prognosis included age ≥ 50 years (P = 0.007), hypertension (P ≤ 0.001), hyperhomocysteinemia (P = 0.001), and ipsilateral carotid artery stenosis ≥ 50% (P = 0.014).The assigned values of age ≥ 50 years, Grade 1 hypertension, Grade 2 hypertension, Grade 3 hypertension, hyperhomocysteinemia, and ipsilateral carotid artery stenosis ≥ 50% were 1, 1, 2, 3, 1, and 1, respectively. We named this score (DAPT score) and it ranged between 0 and 6. Using 3 as a cutoff, the sensitivity was 90.6% and the specificity was 63.3%.
+CONCLUSIONS: The DAPT Score might be useful to for identifying with ACI who are suitable to receive aspirin combined with clopidogrel. Future large-scale, multi-center prospective studies are necessary.
+
+Citation: Liu Y, et al. DAPT score: predictive model of dual-antiplatelet therapy for acute cerebral infarction. DAPT score: predictive model of dual-antiplatelet therapy for acute cerebral infarction. 2021; 42:681-688. doi: 10.1007/s10072-020-04552-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32656712/

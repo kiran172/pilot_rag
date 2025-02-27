@@ -1,0 +1,12 @@
+PMID: 36841737
+Title: Trends and Predictors of Short Length of Stay Following Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Minimalist approaches to Transcatheter aortic valve replacement (TAVR) have allowed for improved efficiency in care of patients. We hypothesized that improved efficiencies in care process may have led to increased adoption of a one night length of stay (LOS) in this patient group.
+OBJECTIVES: The authors aimed to study temporal trends in short length of stay following TAVR.
+METHODS: This is a nationwide temporal trends study using the 2016-2019 National In Patient Sample (NIS) registry. Short stay was defined as LOS of one night or less. Trends in proportion of patients with short stay were obtained. A multivariate model to identify predictors of short stay was built after adjusting for confounders. Secondary analysis of temporal trends was stratified by presence or absence of major complications (major bleeding requiring transfusion or pacemaker implantation [PPMI]).
+RESULTS: A total of 217,110 patients were included in the weighted sample. The proportion of patients with short stay significantly increased for those with and without complications (P<sub>trend</sub> &lt; 0.001). The morbidity burden, as defined by the proportion of patients with a Charlson comorbidity index (CCI) score of ≥2 and rate of major complications decreased significantly. On multivariate analysis short stay was predicted by male sex, white ethnicity, Southern/Western regions and lower CCI score. Patients with major bleeding requiring transfusion or PPMI were less likely to have short stay (aOR 0.23 and aOR 0.12, p &lt; 0.001 respectively).
+CONCLUSION: There is a national trend towards shorter LOS following TAVR. There is a decrease in major post procedural complication rates from 2016 to 2019.
+
+Citation: Krishnan AM, et al. Trends and Predictors of Short Length of Stay Following Transcatheter Aortic Valve Replacement. Trends and Predictors of Short Length of Stay Following Transcatheter Aortic Valve Replacement. 2023; 52:1-7. doi: 10.1016/j.carrev.2023.02.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36841737/

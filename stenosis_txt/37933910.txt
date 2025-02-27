@@ -1,0 +1,11 @@
+PMID: 37933910
+Title: Plasma N-terminal pro-B-type natriuretic peptide in the detection of aortic valve stenosis.
+
+Abstract: BACKGROUND: Systolic murmur suggestive of aortic valve origin is a common accidental finding, particularly in the elderly. Usually, it is due to aortic stenosis (AS) or aortic sclerosis (ASc). Currently, echocardiography is used to differentiate AS from ASc. Plasma N-terminal (NT)-prohormone BNP (NT-proBNP) is known to correlate with the severity of AS. We assessed whether NT-proBNP separates AS from ASc.
+METHODS: The study population consisted of three groups: AS (n = 87, age 77 ± 7 years), ASc (n = 76, age 72 ± 10 years), and healthy controls (n = 101, age 55 ± 10 years). All subjects underwent transthoracic echocardiography and measurement of plasma NT-proBNP. Patients with diseases known to increase NT-proBNP were excluded.
+RESULTS: The crude plasma NT-proBNP (median; IQR) in AS patients (413; 165-1055 ng/l) was significantly higher compared to ASc patients (96; 53-237 ng/l, p &lt; 0.001) and healthy controls (50; 29-76 ng/l, p &lt; 0.001). After adjusting for the confounding factors (age, coronary artery disease, renal function and diastolic blood pressure), plasma NT-proBNP remained significantly higher in AS patients as compared to ASc (p &lt; 0.002) and controls (p &lt; 0.0001). In the receiver-operating characteristic curve for NT-proBNP to identify AS from ASc and controls, the area under the curve was 0.878 with optimal cutoff of 115 ng/l. In addition, using 115 ng/l to separate AS from ASc yielded sensitivity of 0.885, and negative predictive value of 0.808.
+CONCLUSIONS: NT-proBNP was sensitive to identify AS and useful to rule out AS in patients with systolic murmur in the left ventricular outflow tract provided the patient does not have coexisting disease known to impact NT-proBNP.
+
+Citation: Koljonen E, et al. Plasma N-terminal pro-B-type natriuretic peptide in the detection of aortic valve stenosis. Plasma N-terminal pro-B-type natriuretic peptide in the detection of aortic valve stenosis. 2023; 83:489-494. doi: 10.1080/00365513.2023.2275290
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37933910/

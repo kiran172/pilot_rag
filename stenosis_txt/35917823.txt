@@ -1,0 +1,11 @@
+PMID: 35917823
+Title: Impact of Procedure Volume on the Outcomes of Surgical Aortic Valve Replacement.
+
+Abstract: BACKGROUND:  Literature demonstrated that procedure volumes affect outcomes of patients undergoing transcatheter aortic valve implantation. We evaluated the outcomes of surgical aortic valve replacement.
+METHODS:  All isolated surgical aortic valve replacement procedures in Germany in 2017 were identified. Hospitals were divided into five groups from ≤25 (very low volume) until >100 (very high volume) annual procedures.
+RESULTS: In 2017, 5,533 patients underwent isolated surgical aortic valve replacement. All groups were of comparable risk (logistic EuroSCORE, 5.12-4.80%) and age (66.6-68.1 years). In-hospital mortality and complication rates were lowest in the very high-volume group. Multivariable logistic regression analyses showed no significant volume-outcome relationship for in-hospital mortality, stroke, postoperative delirium, and mechanical ventilation &gt; 48 hours. Regarding acute kidney injury, patients in the very high-volume group were at lower risk than those in the very low volume group (odds ratio [OR] = 0.53, p = 0.04). Risk factors for in-hospital mortality were previous cardiac surgery (OR = 5.75, p &lt; 0.001), high-grade renal disease (glomerular filtration rate &lt; 15 mL/min, OR = 5.61, p = 0.002), surgery in emergency cases (OR = 2.71, p = 0.002), and higher grade heart failure (NYHA [New York Heart Association] III/IV; OR = 1.80, p = 0.02). Risk factors for all four complication rates were atrial fibrillation and diabetes mellitus.
+CONCLUSION:  Patients treated in very low volume centers (≤25 operations/year) had a similar risk regarding in-hospital mortality and most complications compared with very high-volume centers (>100 operations/year). Only in the case of acute kidney injury, very high-volume centers showed better outcomes than very low volume centers. Therefore, surgical aortic valve replacement can be performed safely independent of case volume.
+
+Citation: Oettinger V, et al. Impact of Procedure Volume on the Outcomes of Surgical Aortic Valve Replacement. Impact of Procedure Volume on the Outcomes of Surgical Aortic Valve Replacement. 2024; 72:173-180. doi: 10.1055/s-0042-1754352
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35917823/

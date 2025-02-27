@@ -1,0 +1,11 @@
+PMID: 36057555
+Title: Risk factors for early neurological deterioration in acute isolated pontine infarction without any causative artery stenosis.
+
+Abstract: BACKGROUND: This study aimed to investigate the risk predictors for early neurological deterioration (END) in isolated acute pontine infarction without any causative artery stenosis.
+METHODS: In this retrospective study, patients with isolated acute pontine infarction within 72 h of symptom onset were enrolled between October 2017 and December 2021. END was defined as an increase in the National Institutes of Health Stroke Scale (NIHSS) score ≥ 2 points within the first week postadmission. Patients were divided into the END and the non-END groups. Multiple logistic regression analysis was used to evaluate independent predictors of END in patients with isolated acute pontine infarction.
+RESULTS: A total of 153 patients were included in the final study (62 females; mean age, 67.27 ± 11.35 years), of whom 28.7% (47 of 153) experienced END. Multiple logistic regression analyses showed that infarct volume (adjusted odds ratio [aOR], 1.003; 95% CI, 1.001-1.005; P = 0.002) and basilar artery branch disease  (aOR, 3.388; 95% CI, 1.102-10.417; P = 0.033) were associated with END. The combined ROC analysis of the infarct volume and basilar artery branch disease for predicting END showed that the sensitivity and specificity were 80.9% and 72.6%, respectively.
+CONCLUSION: Basilar artery branch disease and infarct volume were associated with END in acute isolated pontine infarction and may be useful prognostic factors for neurological progression.
+
+Citation: Liu Y, et al. Risk factors for early neurological deterioration in acute isolated pontine infarction without any causative artery stenosis. Risk factors for early neurological deterioration in acute isolated pontine infarction without any causative artery stenosis. 2022; 22:332. doi: 10.1186/s12883-022-02861-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36057555/

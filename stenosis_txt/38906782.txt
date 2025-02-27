@@ -1,0 +1,12 @@
+PMID: 38906782
+Title: Photon-Counting Versus Dual-Source CT for Transcatheter Aortic Valve Implantation Planning.
+
+Abstract: BACKGROUND: Cardiovascular CT is required for planning transcatheter aortic valve implantation (TAVI).
+PURPOSE: To compare image quality, suitability for TAVI planning, and radiation dose of photon-counting CT (PCCT) with that of dual-source CT (DSCT).
+MATERIAL AND METHODS: Retrospective study on consecutive TAVI candidates with aortic valve stenosis who underwent contrast-enhanced aorto-ilio-femoral PCCT and/or DSCT between 01/2022 and 07/2023. Signal-to-noise (SNR) and contrast-to-noise ratio (CNR) were calculated by standardized ROI analysis. Image quality and suitability for TAVI planning were assessed by four independent expert readers (two cardiac radiologists, two cardiologists) on a 5-point-scale. CT dose index (CTDI) and dose-length-product (DLP) were used to calculate effective radiation dose (eRD).
+RESULTS: 300 patients (136 female, median age: 81 years, IQR: 76-84) underwent 302 CT examinations, with PCCT in 202, DSCT in 100; two patients underwent both. Although SNR and CNR were significantly lower in PCCT vs. DSCT images (33.0 ± 10.5 vs. 47.3 ± 16.4 and 47.3 ± 14.8 vs. 59.3 ± 21.9, P < .001, respectively), visual image quality was higher in PCCT vs. DSCT (4.8 vs. 3.3, P < .001), with moderate overall interreader agreement among radiologists and among cardiologists (κ = 0.60, respectively). Image quality was rated as "excellent" in 160/202 (79.2%) of PCCT vs. 5/100 (5%) of DSCT cases. Readers found images suitable to depict the aortic valve hinge points and to map the femoral access path in 99% of PCCT vs. 85% of DSCT (P < 0.01), with suitability ranked significantly higher in PCCT vs. DSCT (4.8 vs. 3.3, P < .001). Mean CTDI and DLP, and thus eRD, were significantly lower for PCCT vs. DSCT (22.4 vs. 62.9; 519.4 vs. 895.5, and 8.8 ± 4.5 mSv vs. 15.3 ± 5.8 mSv; all P < .001).
+CONCLUSION: PCCT improves image quality, effectively avoids non-diagnostic CT imaging for TAVI planning, and is associated with a lower radiation dose compared to state-of-the-art DSCT. Radiologists and cardiologists found PCCT images more suitable for TAVI planning.
+
+Citation: Dirrichs T, et al. Photon-Counting Versus Dual-Source CT for Transcatheter Aortic Valve Implantation Planning. Photon-Counting Versus Dual-Source CT for Transcatheter Aortic Valve Implantation Planning. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.acra.2024.06.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38906782/

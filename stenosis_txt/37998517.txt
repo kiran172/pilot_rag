@@ -1,0 +1,11 @@
+PMID: 37998517
+Title: Fluoroscopy Time as a New Predictor of Short-Term Outcomes after Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) is an almost totally cine-fluoroscopic guided procedure. The amount of radiation used during the procedure is strictly related to the fluoroscopy time (FT), that has already been demonstrated to be associated with outcomes and complexity of coronary procedures. The aim of our study is to demonstrate the relationship between FT and the short-term outcomes after TAVR defined by to the Valve Academic Research Consortium (VARC)-2 and -3 consensus documents.
+METHODS: After splitting 1797 consecutive patients into tertiles of FT, the composite endpoint early safety (ES) was adjudicated according to VARC-2 and VARC-3 definitions, whereas the composite endpoints device success (DS) and technical success (TS) according to VARC-3 criteria.
+RESULTS: The absence of all these outcomes (VARC-2 ES amd VARC-3 TS, DS, and ES) was significantly associated with longer FT: this association was independent from both intraprocedural complications and other intraprocedural factors linked to longer FT, and still persisted after propensity score matching analysis. Notwithstanding, after receiver operating characteristic analysis, FT had adequate diagnostic accuracy in identifying the absence of only VARC-3 TS and VARC-2 ES.
+CONCLUSION: Longer FT is related with periprocedural and short-term outcomes after the procedure, especially in those that are more challenging. A FT duration of more than 30 min has an adequate accuracy in identifying VARC-3 technical failure (TS and DS) and absence of VARC-2 ES, selecting patients who are likely to take advantage from more careful in-hospital follow-up.
+
+Citation: Cafaro A, et al. Fluoroscopy Time as a New Predictor of Short-Term Outcomes after Transcatheter Aortic Valve Replacement. Fluoroscopy Time as a New Predictor of Short-Term Outcomes after Transcatheter Aortic Valve Replacement. 2023; 10:(unknown pages). doi: 10.3390/jcdd10110459
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37998517/

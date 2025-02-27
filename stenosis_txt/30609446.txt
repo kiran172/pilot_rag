@@ -1,0 +1,11 @@
+PMID: 30609446
+Title: Limitations in the Assessment of Prosthesis-Patient Mismatch.
+
+Abstract: BACKGROUND: Prosthesis-patient mismatch (PPM) after aortic valve replacement (AVR) may affect survival but data are conflicting. It is assessed by relating effective orifice area (EOA) to body surface area (EOAi). EOA is patient-specific as the result of flow-velocity times area at the individual patient's outflow tract levels (LVOT<sub>A</sub>) divided by trans-prosthetic flow velocity. However, some studies use projected EOAs (i.e., valve size associated EOAs from other patient populations) to assess how PPM affects outcome.
+METHODS: We analyzed 76 studies addressing hemodynamic outcome and/or mortality after bioprosthetic AVR.
+RESULTS: In 48 studies, projected or measured EOA for calculation of EOAi and PPM assessment was used (of which 25 demonstrated an effect on survival). We identified 28 additional studies providing measured EOA values and the corresponding Bernoulli's pressure gradients after AVR. Despite EOA being a patient-specific parameter, 77% of studies assessing a PPM impact on survival used projected EOAs. The 28 studies are providing measured EOA values and the corresponding Bernoulli's pressure gradients in patients after AVR showed a highly significant, linear relationship between EOA and Bernoulli's gradient. Considering this relationship, it is surprising that relating EOA to body surface area (BSA) (EOAi) is standard but relating pressure gradients to BSA is not.
+CONCLUSION: We conclude that the majority of studies assessing PPM have used false assumptions because EOA is a patient-specific parameter and cannot be transferred to other patients. In addition, the use of EOAi to assess PPM may not be appropriate and could explain the inconsistent relation between PPM and survival in previous studies.
+
+Citation: Amorim PA, et al. Limitations in the Assessment of Prosthesis-Patient Mismatch. Limitations in the Assessment of Prosthesis-Patient Mismatch. 2020; 68:550-556. doi: 10.1055/s-0038-1676814
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30609446/

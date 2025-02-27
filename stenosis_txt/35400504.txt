@@ -1,0 +1,11 @@
+PMID: 35400504
+Title: Prediction of acute myocardial infarction by multi-parameter coronary computed tomography angiography.
+
+Abstract: AIM: To investigate the performance of multi-parameter coronary computed tomography angiography (CCTA), including stenosis, plaque qualitative-quantitative characteristics, and fractional flow reserve derived from CCTA (FFRct), to predict acute myocardial infarction (AMI) and build a combined model.
+MATERIALS AND METHODS: Thirty patients with AMI 90 days after CCTA and 120 matched patients without AMI were enrolled retrospectively. Multiple CCTA parameters were analysed and compared. Independent risk factors were obtained through univariate and multivariate regression analyses, after which a multi-parameter model was built.
+RESULTS: A total of 150 patients were analysed successfully. The multi-parameter CCTA model (area under the curve, 0.944; p<0.001) had a higher predictive value than each single parameter (p<0.001, all). Independent risk factors were intra-plaque dye penetration (IDP; odds ratio [OR], 8.373; p=0.002), lipid plaque volume (LPV; OR, 1.263; p<0.001), and FFRct ≤0.83 (OR, 8.092; p=0.001).
+CONCLUSION: This one-stop multi-parameter CCTA model, comprising IDP, LPV, and FFRct as independent risk factors, has good performance to predict AMI.
+
+Citation: Wang J, et al. Prediction of acute myocardial infarction by multi-parameter coronary computed tomography angiography. Prediction of acute myocardial infarction by multi-parameter coronary computed tomography angiography. 2022; 77:458-465. doi: 10.1016/j.crad.2022.02.021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35400504/

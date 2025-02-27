@@ -1,0 +1,11 @@
+PMID: 36036515
+Title: Analysis of Risk Factors for Vulnerable Plaque Formation and Pathogenic in Carotid Artery.
+
+Abstract: OBJECTIVES: The formation of vulnerable carotid artery plaque may be closely related to a single factor or caused by multiple factors. This paper discusses the pathogenic risk factors for vulnerable plaque in patients with severe internal carotid artery (ICA) stenosis who received endarterectomy through regression analysis.
+MATERIALS AND METHODS: A total of 98 patients with a complete clinical and laboratory assessment underwent carotid endarterectomy. Metabolic syndrome (MetS) and MetS components, ICA plaque thickness and ICA peak systolic velocity, previous ischemic stroke or transient ischemic attack (TIA), and other risk factors were included in the pathogenic risk factor for vulnerable plaque. Univariate logistic regression analysis was used to determine vulnerable carotid plaque risk factors. If P <0.2, it was considered potential confounders. Binary logistic regression model was controlled for potential confounders.
+RESULTS: Among the 98 patients, stable carotid plaques 38 (39%) and unstable carotid plaques 60 (61%), male 76 (77.6%) and female 22 (22.4%), and Han Chinese 68 (68.4%) and Mongols 30 (30.6%). Univariate logistic regression to P <0.2 has 6 risk factors, which are previous ischemic stroke or TIA, ICA peak systolic velocity, ICA plaque thickness, body mass index, total cholesterol, and alcohol consumption. The significant result of the binary logistic regression analysis was the previous ischemic stroke or TIA (OR=4.52; 95% CI, 1.67-12.09), P =0.003 and ICA peak systolic velocity (OR=1.01; 95% CI, 1.00-1.02), P =0.014.
+CONCLUSIONS: The patients with previous ischemic stroke or TIA and higher ICA peak systolic velocity are associated with vulnerable plaque pathogenic features. There is no obligatory association between MetS and formation of carotid plaque vulnerability.
+
+Citation: Bao J, et al. Analysis of Risk Factors for Vulnerable Plaque Formation and Pathogenic in Carotid Artery. Analysis of Risk Factors for Vulnerable Plaque Formation and Pathogenic in Carotid Artery. 2023; 34:e182-e186. doi: 10.1097/SCS.0000000000008953
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36036515/

@@ -1,0 +1,12 @@
+PMID: 33121904
+Title: Clinical impact of mitral calcium volume in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: Mitral annular calcification (MAC) has been associated with mitral valve (MV) disease and cardiovascular events in patients undergoing transcatheter aortic valve implantation (TAVI). We aimed to investigate the incidence and impact of mitral calcium volume (MCV) quantified by multidetector computed tomography (MDCT) on MV function and clinical outcomes after TAVI.
+METHODS: Consecutive patients with exploitable echocardiography and MDCT performed during TAVI screening were enrolled in this retrospective analysis. Mitral calcium was assessed visually and measured using a semi-automatic tool developed for the aortic valve in an off-label fashion.
+RESULTS: MCV &gt;0 mm3 was found in 65% of the 875 included patients. Patients with calcification were older (82 ± 6 versus 81 ± 7; P = 0.002) and had high prevalence of renal dysfunction (69% versus 61%; P = 0.017) and mitral stenosis (25% versus 4%, P &lt; 0.001). MCV correlated well with visual MAC severity (r = 0.94; P &lt; 0.001), but showed a greater predictive value for mitral stenosis (AUC = 0.804 vs. 0.780, P = 0.012) , while it was not a predictor of mitral regurgitation (AUC = 0.514). Correlations were found between MCV and echocardiographic parameters including MV area, mean transmitral gradient, and pressure half-time (P &lt; 0.001 for all). MCV did not impact on cardiovascular mortality or new permanent pacemaker implantation after TAVI.
+CONCLUSIONS: Calcification of the mitral apparatus is common in TAVI candidates and results in mitral stenosis in 25% of the patients. Increasing MCV predicts mitral stenosis, but had no impact on clinical outcomes following TAVI.
+CLINICAL TRIAL REGISTRATION: NCT01368250.
+
+Citation: Okuno T, et al. Clinical impact of mitral calcium volume in patients undergoing transcatheter aortic valve implantation. Clinical impact of mitral calcium volume in patients undergoing transcatheter aortic valve implantation. 2021; 15:356-365. doi: 10.1016/j.jcct.2020.10.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33121904/

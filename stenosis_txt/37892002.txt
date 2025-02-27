@@ -1,0 +1,11 @@
+PMID: 37892002
+Title: TAVI-PREP: A Deep Learning-Based Tool for Automated Measurements Extraction in TAVI Planning.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) is a less invasive alternative to open-heart surgery for treating severe aortic stenosis. Despite its benefits, the risk of procedural complications necessitates careful preoperative planning.
+METHODS: This study proposes a fully automated deep learning-based method, TAVI-PREP, for pre-TAVI planning, focusing on measurements extracted from computed tomography (CT) scans. The algorithm was trained on the public MM-WHS dataset and a small subset of private data. It uses MeshDeformNet for 3D surface mesh generation and a 3D Residual U-Net for landmark detection. TAVI-PREP is designed to extract 22 different measurements from the aortic valvular complex. A total of 200 CT-scans were analyzed, and automatic measurements were compared to the ones made manually by an expert cardiologist. A second cardiologist analyzed 115 scans to evaluate inter-operator variability.
+RESULTS: High Pearson correlation coefficients between the expert and the algorithm were obtained for most parameters (0.90-0.97), except for left and right coronary height (0.8 and 0.72, respectively). Similarly, the mean absolute relative error was within 5% for most measurements, except for left and right coronary height (11.6% and 16.5%, respectively). A greater consensus was observed among experts than when compared to the automatic approach, with TAVI-PREP showing no discernable bias towards either the lower or higher ends of the measurement spectrum.
+CONCLUSIONS: TAVI-PREP provides reliable and time-efficient measurements of the aortic valvular complex that could aid clinicians in the preprocedural planning of TAVI procedures.
+
+Citation: Santaló-Corcoy M, et al. TAVI-PREP: A Deep Learning-Based Tool for Automated Measurements Extraction in TAVI Planning. TAVI-PREP: A Deep Learning-Based Tool for Automated Measurements Extraction in TAVI Planning. 2023; 13:(unknown pages). doi: 10.3390/diagnostics13203181
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37892002/

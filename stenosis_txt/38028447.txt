@@ -1,0 +1,11 @@
+PMID: 38028447
+Title: Impact of periprocedural myocardial injury after transcatheter aortic valve implantation on long-term mortality: a meta-analysis of Kaplan-Meier derived individual patient data.
+
+Abstract: BACKGROUND: Periprocedural myocardial injury (PPMI) frequently occurs after transcatheter aortic valve implantation (TAVI), although its impact on long-term mortality is uncertain.
+METHODS: We performed a pooled analysis of Kaplan-Meier-derived individual patient data to compare survival in patients with and without PPMI after TAVI. Flexible parametric models with B-splines and landmark analyses were used to determine PPMI prognostic value. Subgroup analyses for VARC-2, troponin, and creatine kinase-MB (CK-MB)-defined PPMI were also performed.
+RESULTS: Eighteen observational studies comprising 10,094 subjects were included. PPMI was associated with lower overall survival (OS) after two years (HR = 1.46, 95% CI 1.30-1.65, p &lt; 0.01). This was also observed when restricting the analysis to overall VARC-2-defined PPMI (HR = 1.23, 95% CI 1.07-1.40, p &lt; 0.01). For VARC-2 PPMI criteria and VARC-2 troponin-only, higher mortality was restricted to the first 2 months after TAVI (HR = 1.64, 95% CI 1.31-2.07, p &lt; 0.01; and HR = 1.32, 95% CI 1.05-1.67, p = 0.02, respectively), while for VARC-2 defined CK-MB-only the increase in mortality was confined to the first 30 days (HR = 7.44, 95% CI 4.76-11.66, p &lt; 0.01).
+CONCLUSION: PPMI following TAVI was associated with lower overall survival compared with patients without PPMI. PPMI prognostic impact is restricted to the initial months after the procedure. The analyses were consistent for VARC-2 criteria and for both biomarkers, yet CK-MB was a stronger prognostic marker of mortality than troponin.
+
+Citation: de Sá Marchi MF, et al. Impact of periprocedural myocardial injury after transcatheter aortic valve implantation on long-term mortality: a meta-analysis of Kaplan-Meier derived individual patient data. Impact of periprocedural myocardial injury after transcatheter aortic valve implantation on long-term mortality: a meta-analysis of Kaplan-Meier derived individual patient data. 2023; 10:1228305. doi: 10.3389/fcvm.2023.1228305
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38028447/

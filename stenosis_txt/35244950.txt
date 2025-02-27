@@ -1,0 +1,11 @@
+PMID: 35244950
+Title: Accuracy of transcranial Doppler in detecting intracranial stenosis in patients with sickle cell anemia when compared to magnetic resonance angiography.
+
+Abstract: BACKGROUND: Stroke, the most devastating consequence of sickle cell anemia (SCA), is associated with endothelial damage and intracranial artery stenosis. We aimed to assess transcranial Doppler (TCD) ultrasound accuracy in detecting intracranial stenosis when compared to magnetic resonance angiography (MRA).
+METHODS: Children with SCA and at least one TCD and MRA within 1 month were identified from a retrospectively collected database. Sensitivity and specificity were obtained to assess the overall accuracy of TCD mean flow velocity (mFV) ≥200 cm/s in detecting vessel stenosis of ≥50%. Multivariate analysis identified independent factors associated with MRA stenosis.
+RESULTS: Among 157 patients in the database, 64 had a TCD and MRA within 1 month (age 11.8 ± 5.3 years, 56% female, 20% with cerebral infarcts on MRI, 8 or 13% had mFV ≥200 cm/s and 20% or 21%, had intracranial stenosis ≥50% on MRA). TCD mFV ≥200 cm/s had a high specificity (95%) but low sensitivity (29%) to detecting intracranial stenosis. As a continuous variable, TCD mFV of 137.5 cm/s had maximal specificity (77%) and sensitivity (72%). After adjustment for age, hemoglobin level, transfusion status, hydroxyurea treatment, and vessel, for every increase in cm/sec on TCD, there was a 2% increase in the odds of ≥50% stenosis on MRA (p < 0.001).
+CONCLUSION: Our study reports TCD mFV is a positive predictor of MRA stenosis in SCA, independent of patient characteristics, including hemoglobin. A mFV ≥200 cm/s is highly specific but less sensitive in detecting stenosis ≥50%. Lower mFV cut points may be needed for the early detection of intracranial stenosis.
+
+Citation: Krementz NA, et al. Accuracy of transcranial Doppler in detecting intracranial stenosis in patients with sickle cell anemia when compared to magnetic resonance angiography. Accuracy of transcranial Doppler in detecting intracranial stenosis in patients with sickle cell anemia when compared to magnetic resonance angiography. 2022; 50:480-486. doi: 10.1002/jcu.23182
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35244950/

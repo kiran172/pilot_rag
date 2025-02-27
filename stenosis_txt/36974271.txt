@@ -1,0 +1,10 @@
+PMID: 36974271
+Title: Validation of a novel numerical model to predict regionalized blood flow in the coronary arteries.
+
+Abstract: AIMS: Ischaemic heart disease results from insufficient coronary blood flow. Direct measurement of absolute flow (mL/min) is feasible, but has not entered routine clinical practice in most catheterization laboratories. Interventional cardiologists, therefore, rely on surrogate markers of flow. Recently, we described a computational fluid dynamics (CFD) method for predicting flow that differentiates inlet, side branch, and outlet flows during angiography. In the current study, we evaluate a new method that regionalizes flow along the length of the artery.
+METHODS AND RESULTS: Three-dimensional coronary anatomy was reconstructed from angiograms from 20 patients with chronic coronary syndrome. All flows were computed using CFD by applying the pressure gradient to the reconstructed geometry. Side branch flow was modelled as a porous wall boundary. Side branch flow magnitude was based on morphometric scaling laws with two models: a homogeneous model with flow loss along the entire arterial length; and a regionalized model with flow proportional to local taper. Flow results were validated against invasive measurements of flow by continuous infusion thermodilution (Coroventis™, Abbott). Both methods quantified flow relative to the invasive measures: homogeneous (r 0.47, P 0.006; zero bias; 95% CI -168 to +168 mL/min); regionalized method (r 0.43, P 0.013; zero bias; 95% CI -175 to +175 mL/min).
+CONCLUSION: During angiography and pressure wire assessment, coronary flow can now be regionalized and differentiated at the inlet, outlet, and side branches. The effect of epicardial disease on agreement suggests the model may be best targeted at cases with a stenosis close to side branches.
+
+Citation: Taylor DJ, et al. Validation of a novel numerical model to predict regionalized blood flow in the coronary arteries. Validation of a novel numerical model to predict regionalized blood flow in the coronary arteries. 2023; 4:81-89. doi: 10.1093/ehjdh/ztac077
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36974271/

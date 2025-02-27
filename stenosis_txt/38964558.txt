@@ -1,0 +1,12 @@
+PMID: 38964558
+Title: Holographic mixed reality for planning transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Using three-dimensional (3D) modalities for optimal pre-procedure planning in transcatheter aortic valve replacement (TAVR) is critical for procedural success. However, current methods rely on visualizing images on a two-dimensional screen, using shading and colors to create the illusion of 3D, potentially impeding the accurate comprehension of the actual anatomy structures. In contrast, a new Mixed Reality (MxR) based software enables accurate 3D visualization, imaging manipulation, and quantification of measurements.
+AIMS: The study aims to evaluate the feasibility, reproducibility, and accuracy of dimensions of the aortic valve complex as measured with a new holographic MxR software (ARTICOR®, Artiness srl, Milano, Italy) compared to a widely used software for pre-operative sizing and planning (3mensio Medical Imaging BV, Bilthoven, The Netherlands).
+METHODS: This retrospective, observational, double-center study enrolled 100 patients with severe aortic stenosis who underwent cardiac computed tomography (CCT) before TAVR. The CCT datasets of volumetric aortic valve images were analyzed using 3Mensio and newly introduced MxR-based software.
+RESULTS: Ninety-eight percent of the CCT datasets were successfully converted into holographic models. A higher level of agreement between the two software systems was observed for linear metrics (short, long, and average diameter). In comparison, agreement was lower for area, perimeter, and annulus-to-coronary ostia distance measurements. Notably, the annulus area, annular perimeter, left ventricular outflow tract (LVOT) area, and LVOT perimeter were significantly and consistently smaller with the MxR-based software compared to the 3Mensio. Excellent interobserver reliability was demonstrated for most measurements, especially for direct linear measurements.
+CONCLUSIONS: Linear measurements of the aortic valve complex using MxR-based software are reproducible compared to the standard CCT dataset analyzed with 3Mensio. MxR-based software could represent an accurate tool for the pre-procedural planning of TAVR.
+
+Citation: Bonanni M, et al. Holographic mixed reality for planning transcatheter aortic valve replacement. Holographic mixed reality for planning transcatheter aortic valve replacement. 2024; 412:132330. doi: 10.1016/j.ijcard.2024.132330
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38964558/

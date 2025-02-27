@@ -1,0 +1,8 @@
+PMID: 39191789
+Title: PTPN14 aggravates neointimal hyperplasia via boosting PDGFRβ signaling in smooth muscle cells.
+
+Abstract: Smooth muscle cell (SMC) phenotypic modulation, primarily driven by PDGFRβ signaling, is implicated in occlusive cardiovascular diseases. However, the promotive and restrictive regulation mechanism of PDGFRβ and the role of protein tyrosine phosphatase non-receptor type 14 (PTPN14) in neointimal hyperplasia remain unclear. Our study observes a marked upregulation of PTPN14 in SMCs during neointimal hyperplasia. PTPN14 overexpression exacerbates neointimal hyperplasia in a phosphatase activity-dependent manner, while SMC-specific deficiency of PTPN14 mitigates this process in mice. RNA-seq indicates that PTPN14 deficiency inhibits PDGFRβ signaling-induced SMC phenotypic modulation. Moreover, PTPN14 interacts with intracellular region of PDGFRβ and mediates its dephosphorylation on Y692 site. Phosphorylation of PDGFRβY692 negatively regulates PDGFRβ signaling activation. The levels of both PTPN14 and phospho-PDGFRβY692 are correlated with the degree of stenosis in human coronary arteries. Our findings suggest that PTPN14 serves as a critical modulator of SMCs, promoting neointimal hyperplasia. PDGFRβY692, dephosphorylated by PTPN14, acts as a self-inhibitory site for controlling PDGFRβ activation.
+
+Citation: Ma Q, et al. PTPN14 aggravates neointimal hyperplasia via boosting PDGFRβ signaling in smooth muscle cells. PTPN14 aggravates neointimal hyperplasia via boosting PDGFRβ signaling in smooth muscle cells. 2024; 15:7398. doi: 10.1038/s41467-024-51881-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39191789/

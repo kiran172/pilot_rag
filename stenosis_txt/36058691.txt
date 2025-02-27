@@ -1,0 +1,8 @@
+PMID: 36058691
+Title: [Feasibility analysis of CT angiography derived computational fluid dynamics in evaluating intracranial artery stenosis].
+
+Abstract: A retrospective study was performed on 8 patients, including 7 males and 1 female, aged 47 to 77 (59±3) years, with intracranial artery stenosis in General Hospital of Eastern Theater Command from November 2018 to May 2019, who underwent CT angiography (CTA), digital subtraction angiography (DSA) and invasive fractional flow reserve (FFR) assessment. Three-dimensional (3D) prototyping models of intracranial artery based on image data of CTA was constructed and the hemodynamic parameters were obtained using computational fluid dynamics methods. The results showed that CT-FFR value was 0.59±0.18, and invasive FFR value was 0.60±0.22, from which we propased that noninvasive hemodynamic analyses can be used to evaluate the physiological significance of intracranial arterial stenosis.
+
+Citation: Yin ZH, et al. [Feasibility analysis of CT angiography derived computational fluid dynamics in evaluating intracranial artery stenosis]. [Feasibility analysis of CT angiography derived computational fluid dynamics in evaluating intracranial artery stenosis]. 2022; 102:2634-2637. doi: 10.3760/cma.j.cn112137-20220721-01596
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36058691/

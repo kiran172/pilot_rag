@@ -1,0 +1,11 @@
+PMID: 38777625
+Title: Cost-effectiveness of population screening for aortic stenosis.
+
+Abstract: BACKGROUND AND AIMS: Aortic stenosis (AS) is a progressive disease predominantly affecting elderly patients that carries significant morbidity and mortality without aortic valve replacement, the only proven treatment. Our objective was to determine the cost-effectiveness of AS screening using transthoracic echocardiography (TTE) in a geriatric population from the perspective of the publicly funded healthcare system in Canada.
+METHODS: Markov models estimating the cost-effectiveness ratio (ICER) for AS screening with a one-time TTE were developed. The model included diagnosed and undiagnosed AS health states, hospitalizations, TAVR and post-TAVR health states. Primary analysis included screening at 70 and 80 years of age with intervention at symptom onset, with scenario analysis included for early intervention at the time of severe asymptomatic AS diagnosis. Monte Carlo simulation of 5000 replications was completed with a lifetime horizon and 1.5% discount for costs and outcomes.
+RESULTS: Screening for AS at the age of 70 years was associated with an ICER of $156,722 and screening at 80 years of age was associated with an ICER of $28,005, suggesting that screening at 80 years of age is cost-effective when willingness-to-pay per QALY is $50,000. Scenario analysis with early intervention was not cost-effective with an ICER of $142,157 at 70 years, and $124,651 at 80 years.
+CONCLUSION: Screening for AS at 80 years of age with a one-time TTE, in a Canadian population, improves quality of life and is cost-effective in a publicly funded healthcare system providing TAVR is reserved for symptomatic patients.
+
+Citation: Motazedian P, et al. Cost-effectiveness of population screening for aortic stenosis. Cost-effectiveness of population screening for aortic stenosis. 2024; (unknown volume):(unknown pages). doi: 10.1093/ehjqcco/qcae043
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38777625/

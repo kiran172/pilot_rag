@@ -1,0 +1,11 @@
+PMID: 35722099
+Title: Economic Evaluation of Transcatheter Aortic Valve Replacement Compared to Surgical Aortic Valve Replacement in Chinese Intermediate-Risk Patients.
+
+Abstract: BACKGROUND: Aortic stenosis (AS) is a severe disease that causes heart failure and sudden death. Transcatheter aortic valve replacement (TAVR) and surgical aortic valve replacement (SAVR) are both recommended for patients with intermediate surgical risk, but the cost-effectiveness of TAVR compared to SAVR in China has not been investigated.
+METHODS: A combined decision tree and Markov model were conducted to compare the cost-effectiveness of TAVR versus SAVR with a 5-year simulation. The primary outcome was the incremental cost-effectiveness ratio (ICER), a ratio of incremental costs to incremental quality-adjusted life-year (QALY). One-way sensitive analysis and probabilistic sensitivity analysis (PSA) were conducted to test the robustness of the model.
+RESULTS: After a simulation of 5 years, the costs of TAVR and SAVR were 54,573 and 35,002 USD, respectively, and the corresponding effectiveness was 2.826 versus 2.712 QALY, respectively. The ICER for the TAVR versus SAVR comparison was 170,056 USD/QALY, which was three times higher than the per capita gross domestic product (GDP) in China. One-way sensitive analysis showed that the cost of the TAVR device impacted the ICER. The TAVR could be cost-effective only in the case where its cost is lowered to 29,766 USD.
+CONCLUSION: TAVR is currently not cost-effective in China, but it could be cost-effective with a reduction of costs to 29,766 USD, which is approximately 65% of the current price.
+
+Citation: Zhang W, et al. Economic Evaluation of Transcatheter Aortic Valve Replacement Compared to Surgical Aortic Valve Replacement in Chinese Intermediate-Risk Patients. Economic Evaluation of Transcatheter Aortic Valve Replacement Compared to Surgical Aortic Valve Replacement in Chinese Intermediate-Risk Patients. 2022; 9:896062. doi: 10.3389/fcvm.2022.896062
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35722099/

@@ -1,0 +1,12 @@
+PMID: 36278331
+Title: Visualization of multiphase pulsatile blood over single phase blood flow in a patient specific stenosed left coronary artery using image processing technique.
+
+Abstract: BACKGROUND: Coronary arteries disease has been reported as one of the principal roots of deaths worldwide.
+OBJECTIVE: The aim of this study is to analyze the multiphase pulsatile blood flow in the left coronary artery tree with stenosis.
+METHODS: The 3D left coronary artery model was reconstructed using 2D computerized tomography (CT) scan images. The Red Blood Cell (RBC) and varying hemodynamic parameters for single and multiphase blood flow conditions were analyzed.
+RESULTS: Results asserted that the multiphase blood flow modeling has a maximum velocity of 1.017 m/s and1.339 m/s at the stenosed region during the systolic and diastolic phases respectively. The increase in Wall Shear Stress (WSS) observed at the stenosed region during the diastole phase as compared during the systolic phase. It was also observed that the highest Oscillatory Shear Index (OSI) regions are found in the downstream area of stenosis and across the bifurcations. The increase in RBCs velocity from 0.45 m/s to 0.6 m/s across the stenosis was also noticed.
+CONCLUSION: The computational multiphase blood flow analysis improves the understanding and accuracy of the complex flow conditions of blood elements (RBC and Plasma) and provides the progression of the disease development in the coronary arteries. This study helps to enhance the diagnosis of the blocked (stenosed) arteries more precisely compared to the single-phase blood flow modeling.
+
+Citation: Athani A, et al. Visualization of multiphase pulsatile blood over single phase blood flow in a patient specific stenosed left coronary artery using image processing technique. Visualization of multiphase pulsatile blood over single phase blood flow in a patient specific stenosed left coronary artery using image processing technique. 2023; 34:13-35. doi: 10.3233/BME-211333
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36278331/

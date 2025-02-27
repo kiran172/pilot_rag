@@ -1,0 +1,12 @@
+PMID: 36043474
+Title: Diagnostic accuracy of palpation and ultrasonography for diagnosing infantile hypertrophic pyloric stenosis: a systematic review and meta-analysis.
+
+Abstract: OBJECTIVE: Although infantile hypertrophic pyloric stenosis (IHPS) is a well-known disease, there is no systematic review regarding the optimal diagnostic strategy. We conducted a systematic review and meta-analysis to obtain diagnostic accuracy of all methods to diagnose IHPS.
+METHODS: According to the Preferred Reported Items for Systematic Reviews and Meta-Analysis guidelines, we searched MEDLINE and Embase to identify studies reporting sensitivity and specificity of all methods used to diagnose IHPS. Inclusion criteria were infants with suspicion of/or diagnosed with IHPS who underwent pyloromyotomy or had clinical follow-up. A random-effects model was used to obtain pooled estimates of sensitivity, specificity and area under the receiver operating characteristic curve.
+RESULTS: After screening 5364 studies, we included 43 studies with in total 6085 infants (n = 4241 IHPS; n = 1844 controls). The diagnostic sensitivity of palpation ranged from 10.0 to 93.4% and decreased over time. Different parameters for ultrasonography were found. Most used parameters were pyloric muscle thickness (PMT) ≥ 3 mm (pooled sensitivity 97.6% and specificity 98.8%), PMT ≥ 4 mm (pooled sensitivity 94.0% and specificity 98.0%) or a combination of PMT ≥ 4 mm and/or pyloric canal length ≥16 mm (pooled sensitivity 94.0% and specificity 91.7%). The AUC showed high diagnostic accuracy (0.997, 0.966 and 0.981 respectively), but large heterogeneity exists. Due to the large differences in cut-off values no meta-analysis could be conducted for pyloric canal length and pyloric diameter.
+CONCLUSION: Palpation has limited sensitivity in diagnosing IHPS. We showed that ultrasonography has highest diagnostic accuracy to diagnose IHPS and we advise to use PMT ≥ 3 mm as cut-off.
+ADVANCES IN KNOWLEDGE: This is the first systematic review and meta-analysis on diagnosing IHPS, which summarizes the available literature and may be used as a guideline.
+
+Citation: van den Bunder FA, et al. Diagnostic accuracy of palpation and ultrasonography for diagnosing infantile hypertrophic pyloric stenosis: a systematic review and meta-analysis. Diagnostic accuracy of palpation and ultrasonography for diagnosing infantile hypertrophic pyloric stenosis: a systematic review and meta-analysis. 2022; 95:20211251. doi: 10.1259/bjr.20211251
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36043474/

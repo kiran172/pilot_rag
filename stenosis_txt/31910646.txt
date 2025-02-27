@@ -1,0 +1,8 @@
+PMID: 31910646
+Title: The influence of the elastic modulus of the plaque in carotid artery on the computed results of FFR<sub>CT</sub>.
+
+Abstract: To study the effect of carotid plaque elastic modulus on hemodynamic parameters such as fractional flow reserve derived from computed tomography angiography (FFR<sub>CT</sub>), so as to provide a more accurate modeling method for the calculation of FFR<sub>CT</sub> of the carotid artery stenosis, three clinical cases with different ages were used to establish the three-dimensional fluid-structure interaction (FSI) model with different elastic modulus of the vessel wall and the plaque according to their age. Hemodynamic parameters were obtained by numerical simulations of the FSI models. Comparing the results from the three patients, there is little difference in hemodynamic parameters such as FFR<sub>CT</sub> between models with the same elastic modulus of the vessel wall but different elastic modulus of the plaque, and there is no distinct differences in the distribution of flow field and stress field. Therefore, for the FSI modeling of the carotid artery stenosis, the elastic modulus of carotid artery plaque can be approximately set as the elastic modulus of vessel wall in the numerical simulation when using FFR<sub>CT</sub> for assessing carotid artery stenosis of high-risk age patients.
+
+Citation: Xu K, et al. The influence of the elastic modulus of the plaque in carotid artery on the computed results of FFR<sub>CT</sub>. The influence of the elastic modulus of the plaque in carotid artery on the computed results of FFR<sub>CT</sub>. 2020; 23:201-211. doi: 10.1080/10255842.2019.1710741
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31910646/

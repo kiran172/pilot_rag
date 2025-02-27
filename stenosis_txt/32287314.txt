@@ -1,0 +1,11 @@
+PMID: 32287314
+Title: High circulating elafin levels are associated with Crohn's disease-associated intestinal strictures.
+
+Abstract: BACKGROUND: Antimicrobial peptide expression is associated with disease activity in inflammatory bowel disease (IBD) patients. IBD patients have abnormal expression of elafin, a human elastase-specific protease inhibitor and antimicrobial peptide. We determined elafin expression in blood, intestine, and mesenteric fat of IBD and non-IBD patients.
+METHODS: Serum samples from normal and IBD patients were collected from two UCLA cohorts. Surgical resection samples of human colonic and mesenteric fat tissues from IBD and non-IBD (colon cancer) patients were collected from Cedars-Sinai Medical Center.
+RESULTS: High serum elafin levels were associated with a significantly elevated risk of intestinal stricture in Crohn's disease (CD) patients. Microsoft Azure Machine learning algorithm using serum elafin levels and clinical data identified stricturing CD patients with high accuracy. Serum elafin levels had weak positive correlations with clinical disease activity (Partial Mayo Score and Harvey Bradshaw Index), but not endoscopic disease activity (Mayo Endoscopic Subscore and Simple Endoscopic Index for CD) in IBD patients. Ulcerative colitis (UC) patients had high serum elafin levels. Colonic elafin mRNA and protein expression were not associated with clinical disease activity and histological injury in IBD patients, but stricturing CD patients had lower colonic elafin expression than non-stricturing CD patients. Mesenteric fat in stricturing CD patients had significantly increased elafin mRNA and protein expression, which may contribute to high circulating elafin levels. Human mesenteric fat adipocytes secrete elafin protein.
+CONCLUSIONS: High circulating elafin levels are associated with the presence of stricture in CD patients. Serum elafin levels may help identify intestinal strictures in CD patients.
+
+Citation: Wang J, et al. High circulating elafin levels are associated with Crohn's disease-associated intestinal strictures. High circulating elafin levels are associated with Crohn's disease-associated intestinal strictures. 2020; 15:e0231796. doi: 10.1371/journal.pone.0231796
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32287314/

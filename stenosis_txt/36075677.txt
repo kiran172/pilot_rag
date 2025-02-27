@@ -1,0 +1,12 @@
+PMID: 36075677
+Title: Impact of Left Ventricular Ejection Fraction on Clinical Outcomes in Bicuspid Aortic Valve Disease.
+
+Abstract: BACKGROUND: The prognostic impact of left ventricular ejection fraction (LVEF) in patients with bicuspid aortic valve (BAV) disease has not been previously studied.
+OBJECTIVES: The purpose of this study was to determine the prognostic impact of LVEF in BAV patients according to the type of aortic valve dysfunction.
+METHODS: We retrospectively analyzed the data collected in 2,672 patients included in an international registry of patients with BAV. Patients were classified according to the type of aortic valve dysfunction: isolated aortic stenosis (AS) (n = 749), isolated aortic regurgitation (AR) (n = 554), mixed aortic valve disease (MAVD) (n = 190), or no significant aortic valve dysfunction (n = 1,179; excluded from this analysis). The study population was divided according to LVEF strata to investigate its impact on clinical outcomes.
+RESULTS: The risk of all-cause mortality and the composite endpoint of aortic valve replacement or repair (AVR) and all-cause mortality increased when LVEF was <60% in the whole cohort as well as in the AS and AR groups, and when LVEF was <55% in MAVD group. In multivariable analysis, LVEF strata were significantly associated with increased rate of mortality (LVEF 50%-59%: HR: 1.83 [95% CI: 1.09-3.07]; P = 0.022; LVEF 30%-49%: HR: 1.97 [95% CI: 1.13-3.41]; P = 0.016; LVEF <30%: HR: 4.20 [95% CI: 2.01-8.75]; P < 0.001; vs LVEF 60%-70%, reference group).
+CONCLUSIONS: In BAV patients, the risk of adverse clinical outcomes increases significantly when the LVEF is <60%. These findings suggest that LVEF cutoff values proposed in the guidelines to indicate intervention should be raised from 50% to 60% in AS or AR and 55% in MAVD.
+
+Citation: Hecht S, et al. Impact of Left Ventricular Ejection Fraction on Clinical Outcomes in Bicuspid Aortic Valve Disease. Impact of Left Ventricular Ejection Fraction on Clinical Outcomes in Bicuspid Aortic Valve Disease. 2022; 80:1071-1084. doi: 10.1016/j.jacc.2022.06.032
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36075677/

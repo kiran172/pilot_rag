@@ -1,0 +1,11 @@
+PMID: 35389076
+Title: Risk of coronary stenosis after adjuvant radiotherapy for breast cancer.
+
+Abstract: PURPOSE: Adjuvant radiotherapy (RT) for breast cancer is associated with an increased risk of ischemic heart disease. We examined the risk of coronary artery stenosis in a large cohort of women with breast cancer receiving adjuvant RT.
+METHODS: A cohort of women diagnosed with breast cancer between 1992 and 2012 in three Swedish health care regions (n = 57,066) were linked to the Swedish Coronary Angiography and Angioplasty Registry (SCAAR) to identify women receiving RT who subsequently underwent a percutaneous coronary intervention (PCI) due to coronary stenosis. Cox regression analyses were performed to examine risk of a coronary intervention and competing risk analyses were performed to calculate cumulative incidence.
+RESULTS: A total of 649 women with left-sided breast cancer and 494 women with right-sided breast cancer underwent a PCI. Women who received left-sided RT had a significantly higher risk of a PCI in the left anterior descending artery (LAD) compared to women who received right-sided RT, hazard ratio (HR) 1.44 (95% confidence interval [CI] 1.21-1.77, p < 0.001). For the proximal, mid, and distal LAD, the HRs were 1.60 (95% CI 1.22-2.10), 1.38 (95% CI 1.07-1.78), and 2.43 (95% CI 1.33-4.41), respectively. The cumulative incidence of coronary events at 25 years from breast cancer diagnosis were 7.0% in women receiving left-sided RT and 4.4% in women receiving right-sided RT.
+CONCLUSION: Implementing and further developing techniques that lower cardiac doses is important in order to reduce the risk of long-term side effects of adjuvant RT for breast cancer.
+
+Citation: Wennstig AK, et al. Risk of coronary stenosis after adjuvant radiotherapy for breast cancer. Risk of coronary stenosis after adjuvant radiotherapy for breast cancer. 2022; 198:630-638. doi: 10.1007/s00066-022-01927-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35389076/

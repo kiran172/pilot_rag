@@ -1,0 +1,11 @@
+PMID: 34518075
+Title: Sutureless versus transcatheter aortic valve replacement: A multicenter analysis of "real-world" data.
+
+Abstract: BACKGROUND: Recent data suggested that transcatheter aortic valve replacement (TAVR) may be indicated also for low-risk patients. However, robust evidence is still lacking, particularly regarding valve performance at follow-up that confers a limitation to its use in young patients. Moreover, a literature gap exists in terms of 'real-world' data analysis. The aim of this study is to compare the cost-effectiveness of sutureless aortic valve replacement (SuAVR) versus transfemoral TAVR.
+METHODS: Prospectively collected data were retrieved from a centralized database of nine cardiac surgery centers between 2010 and 2018. Follow-up was completed in June 2019. A propensity score matching (PSM) analysis was performed.
+RESULTS: Patients in the TAVR group (n=1002) were older and with more comorbidities than SuAVR patients (n=443). The PSM analysis generated 172 pairs. No differences were recorded between groups in 30-day mortality [SuAVR vs TAVR: n=7 (4%) vs n=5 (2.9%); p=0.7] and need for pacemaker implant [n=10 (5.8%) vs n=20 (11.6%); p=0.1], but costs were lower in the SuAVR group (20486.6±4188€ vs 24181.5±3632€; p<0.01). Mean follow-up was 1304±660 days. SuAVR patients had a significantly higher probability of survival than TAVR patients (no. of fatal events: 22 vs 74; p<0.014). Median follow-up was 2231 days and 2394 days in the SuAVR and TAVR group, respectively.
+CONCLUSION: The treatment of aortic valve stenosis with surgical sutureless or transcatheter prostheses is safe and effective. By comparing the two approaches, patients who can undergo surgery after heart team evaluation show longer lasting results and a more favorable cost ratio.
+
+Citation: Santarpino G, et al. Sutureless versus transcatheter aortic valve replacement: A multicenter analysis of "real-world" data. Sutureless versus transcatheter aortic valve replacement: A multicenter analysis of "real-world" data. 2022; 79:121-126. doi: 10.1016/j.jjcc.2021.08.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34518075/

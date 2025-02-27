@@ -1,0 +1,11 @@
+PMID: 33829657
+Title: Effect of endoscopic radiofrequency ablation on the survival of patients with inoperable malignant biliary strictures: A large cohort study.
+
+Abstract: BACKGROUND AND AIMS: Endoscopic radiofrequency ablation (RFA) is an emerging technique for the palliation of inoperable malignant biliary strictures (MBSs). We aimed to systemically investigate the long-term outcome of RFA in a large cohort of patients.
+METHODS: We recruited 883 patients with various MBSs who underwent endoscopic interventions at two large-volume centers; 124 patients underwent RFA and stenting, whereas 759 underwent stenting alone. To overcome selection bias, we performed 1:4 propensity score matching (PSM). The main outcome was overall survival (OS).
+RESULTS: Following PSM, patients in the RFA group showed significantly longer OS (9.5 months; 95% CI: 7.7-11.3 months) than those in the stenting alone group (6.1 months; 95% CI: 5.6-6.6 months; P < .001). In stratified analyses, the improved OS was only demonstrated in the subgroup of extrahepatic cholangiocarcinoma (11.3 months 95% CI: 10.2-12.4 vs 6.9 months 95% CI: 6.0-7.8; P < .001), but not in the subgroups of gallbladder cancer, hepatocellular carcinoma, intrahepatic cholangiocarcinoma, pancreatic cancer, and other metastatic cancers (all P > .05). The survival benefits were noted only in the patients with non-metastatic cholangiocarcinoma (11.5 vs 7.4 months, P < .001).
+CONCLUSIONS: The survival benefits of endoscopic RFA appear to be limited to patients with extrahepatic cholangiocarcinoma without distant metastasis.
+
+Citation: Xia MX, et al. Effect of endoscopic radiofrequency ablation on the survival of patients with inoperable malignant biliary strictures: A large cohort study. Effect of endoscopic radiofrequency ablation on the survival of patients with inoperable malignant biliary strictures: A large cohort study. 2022; 29:693-702. doi: 10.1002/jhbp.960
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33829657/

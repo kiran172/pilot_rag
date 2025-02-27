@@ -1,0 +1,11 @@
+PMID: 35043555
+Title: Safety and efficacy of drug-coated balloon for peripheral artery revascularization-A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: The relative merits of the drug-coated balloon (DCB) versus uncoated balloon (UCB) angioplasty in endovascular intervention for patients with symptomatic lower extremity peripheral arterial disease (PAD) remains controversial.
+METHODS: Online databases were queried with various combinations of keywords to identify relevant articles. Net adverse events (NAEs) and its components were compared using a random effect model to calculate unadjusted odds ratios (ORs).
+RESULTS: A total of 26 studies comprising 26,845 patients (UCB: 17,770 and DCB: 9075) were included. On pooled analysis, DCB was associated with significantly lower odds of NAE (OR: 0.47, 95% confidence interval [CI]: 0.36-0.61), vessel restenosis (OR: 0.46, 95% CI: 0.37-0.57), major amputation (OR: 0.68, 95% CI: 0.47-99), need for repeat target lesion (OR: 0.38, 95% CI: 0.31-0.47) and target vessel revascularization (OR: 0.62, 95% CI: 0.47-0.81) compared with UCB. Similarly, the primary patency rate was significantly higher in patients undergoing DCB angioplasty (OR: 1.44, 95% CI: 1.19-1.75), while the odds for all-cause mortality (OR: 0.96, 95% CI: 0.85-1.09) were not significantly different between the two groups. A subgroup analysis based on follow-up duration (6 months vs. 1 vs. 2 years) followed the findings of the pooled analysis with few exceptions.
+CONCLUSIONS: The use of DCB in lower extremity PAD intervention is associated with higher primary patency, lower restenosis, lower amputation rate, and decreased need for repeat revascularization with similar all-cause mortality as compared to UCB.
+
+Citation: Ullah W, et al. Safety and efficacy of drug-coated balloon for peripheral artery revascularization-A systematic review and meta-analysis. Safety and efficacy of drug-coated balloon for peripheral artery revascularization-A systematic review and meta-analysis. 2022; 99:1319-1326. doi: 10.1002/ccd.30074
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35043555/

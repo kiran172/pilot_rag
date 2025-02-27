@@ -1,0 +1,11 @@
+PMID: 31542272
+Title: Automated Quantitative Imaging Measurements of Disease Severity in Patients with Nonthrombotic Iliac Vein Compression.
+
+Abstract: PURPOSE: An automated segmentation technique (AST) for computed tomography (CT) venography was developed to quantify measures of disease severity before and after stent placement in patients with left-sided nonthrombotic iliac vein compression.
+MATERIALS AND METHODS: Twenty-one patients with left-sided nonthrombotic iliac vein compression who underwent venous stent placement were retrospectively identified. Pre- and poststent CT venography studies were quantitatively analyzed using an AST to determine leg volume, skin thickness, and water content of fat. These measures were compared between diseased and nondiseased limbs and between pre- and poststent images, using patients as their own controls. Additionally, patients with and without postthrombotic lesions were compared.
+RESULTS: The AST detected significantly increased leg volume (12,437 cm3 vs 10,748 cm3, P &lt; .0001), skin thickness (0.531 cm vs 0.508 cm, P &lt; .0001), and water content of fat (8.2% vs 5.0%, P &lt; .0001) in diseased left limbs compared with the contralateral nondiseased limbs, on prestent imaging. After stent placement in the left leg, there was a significant decrease in the water content of fat in the right (4.9% vs 2.7%, P &lt; .0001) and left (8.2% vs 3.2%, P &lt; .0001) legs. There were no significant changes in leg volume or skin thickness in either leg after stent placement. There were no significant differences between patients with or without postthrombotic lesions in their poststent improvement across the 3 measures of disease severity.
+CONCLUSIONS: ASTs can be used to quantify measures of disease severity and postintervention changes on CT venography for patients with lower extremity venous disease. Further investigation may clarify the clinical benefit of such technologies.
+
+Citation: Reposar AL, et al. Automated Quantitative Imaging Measurements of Disease Severity in Patients with Nonthrombotic Iliac Vein Compression. Automated Quantitative Imaging Measurements of Disease Severity in Patients with Nonthrombotic Iliac Vein Compression. 2020; 31:270-275. doi: 10.1016/j.jvir.2019.04.034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31542272/

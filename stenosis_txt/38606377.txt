@@ -1,0 +1,11 @@
+PMID: 38606377
+Title: Aerodynamic evaluation of surgical design for the stenosis correction of airway.
+
+Abstract: INTRODUCTION: Congenital tracheal stenosis (CTS) is a rare but life-threatening disease that can lead to respiratory dysfunction in children. Obstructive sleep apnea syndrome (OSAS) in children is characterized by prolonged partial upper airway obstruction and/or intermittent complete obstruction. Both of the diseases require surgical intervention. Although respective treatments of these two diseases are clear, there is a lack of literature discussing the surgical treatment of patients with CTS complicated by OSAS.
+METHODS: We conducted a patient-specific study of patient with CTS complicated by OSAS. Computer-aided design was used to simulate surgical correction under different surgical sequences. Computational fluid dynamics was used to compare the outcomes of different sequences.
+RESULTS: Aerodynamic parameters, pressure drop, velocity streamlines, wall shear stress (WSS), and the ratio of airflow distribution and energy loss rate were evaluated. An obvious interaction was found between the two diseases in different surgical sequences. The order of correction for CTS or OSAS greatly affected the aerodynamic parameters and turbulence flows downstream of tracheal stenosis and upstream of epiglottis. The CTS and OSAS had mutual influences on each other on the aerodynamic parameters, such as pressure drops and WSS.
+DISCUSSION: When evaluating the priority of surgical urgency of CTS and OSAS, surgeons need to pay attention to the state of both CTS and OSAS and the physiological conditions of patients. The aerodynamic performance of the uneven airflow distribution and the potential impact caused by the correction of CTS should be considered in surgical planning and clinical management.
+
+Citation: Bao W, et al. Aerodynamic evaluation of surgical design for the stenosis correction of airway. Aerodynamic evaluation of surgical design for the stenosis correction of airway. 2024; 11:1359844. doi: 10.3389/fcvm.2024.1359844
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38606377/

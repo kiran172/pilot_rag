@@ -1,0 +1,11 @@
+PMID: 39189340
+Title: Ankle-brachial index and carotid ultrasound as surrogates for coronary artery disease diagnosis.
+
+Abstract: INTRODUCTION: Cardiovascular disease represents the foremost cause of death among chronic and non-transmissible diseases. Diagnostic tools commonly used for peripheral and carotid atherosclerosis, such as ankle-brachial index (ABI) and carotid ultrasonography (CU), may contribute as surrogates for the diagnosis of coronary arterial disease (CAD).
+MATERIAL AND METHODS: We report a cross-sectional study of 50 patients referred to elective invasive coronary angiography (ICA). Patients were submitted to ABI and CU-for carotid intima-media thickness (CIMT) and carotid atherosclerotic plaque screening (CAPS). Clinical and demographic variables were also evaluated. CAD was defined as greater than 50% stenosis in at least one coronary artery.
+RESULTS: In logistic regression analysis, only CAPS showed a statistically significant area under the curve (AUC) for CAD prediction: 0.812 (95% CI, p <0.001). ABI and CIMT did not show statistically significant performance. For multivariate logistic regression analysis, the model including variables "gender," "dyslipidemia," "smoking," "pack-years," and CAPS predicted CAD better. The AUC for this model was 0.912 (95% CI, p = 0.002).
+CONCLUSION: The screening for carotid atherosclerotic plaques may enhance traditional risk stratification strategies for CAD. Longitudinal studies and bigger samples of subject are needed to allow extrapolation of our findings.
+
+Citation: Salles Barbosa H, et al. Ankle-brachial index and carotid ultrasound as surrogates for coronary artery disease diagnosis. Ankle-brachial index and carotid ultrasound as surrogates for coronary artery disease diagnosis. 2024; 52:1296-1303. doi: 10.1002/jcu.23793
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39189340/

@@ -1,0 +1,12 @@
+PMID: 36684556
+Title: Potential value of saline-induced Pd/Pa ratio in patients with coronary artery stenosis.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) is the current gold standard for identifying myocardial ischemia in individuals with coronary artery stenosis. However, FFR is not penetrated as much worldwide due to time consumption, costs associated with adenosine, FFR-related discomfort, and complications. Resting physiological indexes may be widely accepted alternatives to FFR, while the discrepancies with FFR were found in up to 20% of lesions. The saline-induced Pd/Pa ratio (SPR) is a new simplified option for evaluating coronary stenosis. However, the clinical implication of SPR remains unclear.
+OBJECTIVES: In the present study, we aimed to compare the accuracies of SPR and resting full-cycle ratio (RFR) and to investigate the incremental value of SPR in clinical practice.
+METHODS: In this multicenter prospective study, 112 coronary lesions (105 patients) were evaluated by SPR, RFR, and FFR.
+RESULTS: The overall median age was 71 years, and 84.8% were men. SPR was correlated more strongly with FFR than with RFR (r = 0.874 vs. 0.713, respectively; p &lt; 0.001). Using FFR &lt; 0.80 as the reference standard variable, the area under the receiver-operating characteristic (ROC) curve for SPR was superior to that of RFR (0.932 vs. 0.840, respectively; p = 0.009).
+CONCLUSION: Saline-induced Pd/Pa ratio predicted FFR more accurately than RFR. SPR could be an alternative method for evaluating coronary artery stenosis and further investigation including elucidation of the mechanism of SPR is needed (225 words).
+
+Citation: Kiriyama H, et al. Potential value of saline-induced Pd/Pa ratio in patients with coronary artery stenosis. Potential value of saline-induced Pd/Pa ratio in patients with coronary artery stenosis. 2022; 9:1001833. doi: 10.3389/fcvm.2022.1001833
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36684556/

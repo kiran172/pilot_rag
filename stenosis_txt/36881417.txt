@@ -1,0 +1,12 @@
+PMID: 36881417
+Title: Machine Learning to Optimize the Echocardiographic Follow-Up of Aortic Stenosis.
+
+Abstract: BACKGROUND: Disease progression in patients with mild-to-moderate aortic stenosis is heterogenous and requires periodic echocardiographic examinations to evaluate severity.
+OBJECTIVES: This study sought to explore the use of machine learning to optimize aortic stenosis echocardiographic surveillance automatically.
+METHODS: The study investigators trained, validated, and externally applied a machine learning model to predict whether a patient with mild-to-moderate aortic stenosis will develop severe valvular disease at 1, 2, or 3 years. Demographic and echocardiographic patient data to develop the model were obtained from a tertiary hospital consisting of 4,633 echocardiograms from 1,638 consecutive patients. The external cohort was obtained from an independent tertiary hospital, consisting of 4,531 echocardiograms from 1,533 patients. Echocardiographic surveillance timing results were compared with the European and American guidelines echocardiographic follow-up recommendations.
+RESULTS: In internal validation, the model discriminated severe from nonsevere aortic stenosis development with an area under the receiver-operating characteristic curve (AUC-ROC) of 0.90, 0.92, and 0.92 for the 1-, 2-, or 3-year interval, respectively. In external application, the model showed an AUC-ROC of 0.85, 0.85, and 0.85, for the 1-, 2-, or 3-year interval. A simulated application of the model in the external validation cohort resulted in savings of 49% and 13% of unnecessary echocardiographic examinations per year compared with European and American guideline recommendations, respectively.
+CONCLUSIONS: Machine learning provides real-time, automated, personalized timing of next echocardiographic follow-up examination for patients with mild-to-moderate aortic stenosis. Compared with European and American guidelines, the model reduces the number of patient examinations.
+
+Citation: Sánchez-Puente A, et al. Machine Learning to Optimize the Echocardiographic Follow-Up of Aortic Stenosis. Machine Learning to Optimize the Echocardiographic Follow-Up of Aortic Stenosis. 2023; 16:733-744. doi: 10.1016/j.jcmg.2022.12.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36881417/

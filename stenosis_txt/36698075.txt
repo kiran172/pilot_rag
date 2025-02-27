@@ -1,0 +1,11 @@
+PMID: 36698075
+Title: Elevated RANTES levels are associated with increased risk of cerebral atherosclerotic stenosis.
+
+Abstract: BACKGROUND: Cerebral atherosclerotic stenosis (CAS) is a significant factor in the development of acute ischemic stroke (AIS). Previous studies have reported that cytokines are involved in atherosclerotic diseases, although the relationship between serum levels of the chemokine RANTES (regulated on activation, normal T-cell expressed and secreted) and the presence of CAS remains unclear.
+METHODS: In total, 127 participants (65 non-AIS controls and 62 patients with AIS) were involved in this study. CAS was defined as the presence of ≥ 50% stenosis in major intracranial or extracranial artery by a Digital Substraction Angiography (DSA) examination, and we classified all participants into four groups according to stroke and CAS status. Serum concentrations of 8 cytokines, including RANTES, were measured by the Human ProcartaPlex Multiplex Immunoassay Kit.
+RESULTS: Seventy-eight participants (61.41%) had CAS, of which 39 cases with AIS and 39 case with non-AIS. Patients with CAS had higher RANTES levels compared to non-CAS patients in both the non-AIS group (10.54 ± 0.80 vs. 13.20 ± 0.71, p = 0.016) and stroke group (11.96 ± 0.87 vs. 15.03 ± 0.75, p = 0.011), and multivariate logistic regression analysis showed that the RANTES level is independently associated with CAS in both the non-AIS group (adjusted odds ratio (OR), 1.07; 95% CI, 1.02-1.12, P = 0.004) and stroke group (adjusted OR, 1.32; 95% CI, 1.10-1.58, P = 0.003).
+CONCLUSION: Patients with CAS have higher levels of serum RANTES than non-CAS patients regardless of stroke status suggesting that RANTES may play an important role in the formation of CAS.
+
+Citation: Guo Y, et al. Elevated RANTES levels are associated with increased risk of cerebral atherosclerotic stenosis. Elevated RANTES levels are associated with increased risk of cerebral atherosclerotic stenosis. 2023; 23:39. doi: 10.1186/s12883-023-03079-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36698075/

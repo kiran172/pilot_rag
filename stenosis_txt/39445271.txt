@@ -1,0 +1,11 @@
+PMID: 39445271
+Title: Electrodiagnostic Confirmation of Lumbar Radiculopathy and Its Association With Lumbar Central Canal Stenosis and Neuroforaminal Stenosis.
+
+Abstract: INTRODUCTION: Lumbar spinal stenosis (LSS) and lumbar neuroforaminal stenosis (LNS) are common diagnoses that plague patients with low back pain. Electrodiagnostic testing (EDX) can be used as an adjunct to investigate lower extremity radicular nerve pain and/or neurogenic claudication. However, there are only limited studies discussing the association of these diagnostic tools with radiculopathy. We investigate the association between EDX-confirmed radiculopathy and the degree of LSS and LNS found on MRI.
+METHODS: A retrospective cohort study of patients presenting to an outpatient pain medicine clinic who had a documented EDX and lumbar MRI. We used a Pearson chi-square test to compare the severity of radiographic LSS/LNS with EDX data. The data were fit to a multivariable logistic regression model.
+RESULTS: There were not any statistically significant correlations when comparing EDX evidence of radiculopathy and LSS (p = 0.50), LSS severity (p = 0.54), LNS (p = 0.69), or LNS severity (p = 0.11).
+CONCLUSIONS: We found no significant associations between LSS/LNS severity and EDX findings. The presence and degree of severity of LSS/LNS on MRI were not reliable predictors of EDX findings.
+
+Citation: Rustom DH, et al. Electrodiagnostic Confirmation of Lumbar Radiculopathy and Its Association With Lumbar Central Canal Stenosis and Neuroforaminal Stenosis. Electrodiagnostic Confirmation of Lumbar Radiculopathy and Its Association With Lumbar Central Canal Stenosis and Neuroforaminal Stenosis. 2024; 16:e69993. doi: 10.7759/cureus.69993
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39445271/

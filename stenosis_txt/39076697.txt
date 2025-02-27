@@ -1,0 +1,11 @@
+PMID: 39076697
+Title: LDL-C: An Important Independent Risk Factor for New-Onset Heart Block in Patients with Severe Aortic Stenosis and Heart Failure after TAVR.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) is an effective alternative treatment for patients with aortic stenosis (AS) who have intermediate to high surgical risk or who are inoperable. However, the incidence of conduction abnormalities is high after TAVR, which can reduce the effectiveness of the surgery. Our research objective is to explore the risk factors of new-onset conduction abnormalities after TAVR, providing reference value for clinical doctors to better prevent and treat conduction abnormalities.
+METHODS: Patients who underwent TAVR were divided into those who developed heart block and those who did not. Baseline clinical characteristics, cardiac structural parameters, procedural characteristics, electrocardiogram (ECG) changes before and after TAVR ( △ = postoperative minus preoperative), and surgical complications were compared. Logistic regression was applied to identify significant risk factors for new-onset heart block.
+RESULTS: We studied 93 patients, of whom 34.4% developed heart blocks. Univariate logistic regression showed that prior history of malignancy, atrial fibrillation, preoperative high-level total cholesterol and low-density lipoprotein cholesterol (LDL-C), △ HR, △ QRS interval, △ QT interval, and △ QTc interval were risk factors of new-onset heart block after TAVR. Multivariate analysis showed that preoperative high-level LDL-C and △ QRS interval remained significant independent risk factors after adjusting for potential confounds.
+CONCLUSIONS: Heart block is the most common complication of TAVR, and its significant independent risk factors include high-level LDL-C and △ QRS interval.
+
+Citation: Dong M, et al. LDL-C: An Important Independent Risk Factor for New-Onset Heart Block in Patients with Severe Aortic Stenosis and Heart Failure after TAVR. LDL-C: An Important Independent Risk Factor for New-Onset Heart Block in Patients with Severe Aortic Stenosis and Heart Failure after TAVR. 2023; 24:243. doi: 10.31083/j.rcm2408243
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39076697/

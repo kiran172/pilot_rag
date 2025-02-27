@@ -1,0 +1,11 @@
+PMID: 35278575
+Title: Circulating FAM19A5 level is associated with the presence and severity of coronary artery disease.
+
+Abstract: BACKGROUND: Family with sequence similarity 19 member A5 (FAM19A5) has been identified as a novel adipokine that plays an important role in inhibiting inflammation and vascular smooth muscle cell proliferation. However, the clinical associations between FAM19A5 levels and the presence and severity of coronary artery disease (CAD) remains uncertain.
+METHODS: We measured serum FAM19A5 levels in 186 CAD patients and 58 non-CAD patients who underwent coronary arteriography (CAG) recruited in Shanxi Medical University Affiliated Second Hospital. The severity of coronary artery stenosis was represented in the Gensini score. Logistic and linear regression analyses were used to analyze the relationship between serum FAM19A5 and CAD.
+RESULTS: Serum FAM19A5 levels in CAD group were significantly lower than those in the non-CAD group [1.53 (1.13-2.27) ng/mL vs 2.33 (1.69-3.51) ng/mL; P = 0.013]. Logistic regression analysis showed that decreased serum FAM19A5 level was a risk factor for CAD (OR: 0.563, 95% CI: 0.409-0.776, P < 0.001). Circulating FAM19A5 levels were negatively associated with the Gensini score. FAM19A5 had 87.9% sensitivity and 52.7% specificity for identifying CAD.
+CONCLUSIONS: Serum FAM19A5 levels were negatively associated with the presence and severity of CAD and may represent a novel biomarker for diagnosing and indication the severity of CAD.
+
+Citation: Ma F, et al. Circulating FAM19A5 level is associated with the presence and severity of coronary artery disease. Circulating FAM19A5 level is associated with the presence and severity of coronary artery disease. 2022; 354:50-55. doi: 10.1016/j.ijcard.2022.03.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35278575/

@@ -1,0 +1,11 @@
+PMID: 38113893
+Title: Real-time carotid plaque recognition from dynamic ultrasound videos based on artificial neural network.
+
+Abstract: PURPOSE: Carotid ultrasound allows noninvasive assessment of vascular anatomy and function with real-time display. Based on the transfer learning method, a series of research results have been obtained on the optimal image recognition and analysis of static images. However, for carotid plaque recognition, there are high requirements for self-developed algorithms in real-time ultrasound detection. This study aims to establish an automatic recognition system, Be Easy to Use (BETU), for the real-time and synchronous diagnosis of carotid plaque from ultrasound videos based on an artificial neural network.
+MATERIALS AND METHODS: 445 participants (mean age, 54.6±7.8 years; 227 men) were evaluated. Radiologists labeled a total of 3259 segmented ultrasound images from 445 videos with the diagnosis of carotid plaque, 2725 images were collected as a training dataset, and 554 images as a testing dataset. The automatic plaque recognition system BETU was established based on an artificial neural network, and remote application on a 5G environment was performed to test its diagnostic performance.
+RESULTS: The diagnostic accuracy of BETU (98.5%) was consistent with the radiologist's (Kappa = 0.967, P < 0.001). Remote diagnostic feedback based on BETU-processed ultrasound videos could be obtained in 150ms across a distance of 1023 km between the ultrasound/BETU station and the consultation workstation.
+CONCLUSION: Based on the good performance of BETU in real-time plaque recognition from ultrasound videos, 5G plus Artificial intelligence (AI)-assisted ultrasound real-time carotid plaque screening was achieved, and the diagnosis was made.
+
+Citation: Wei Y, et al. Real-time carotid plaque recognition from dynamic ultrasound videos based on artificial neural network. Real-time carotid plaque recognition from dynamic ultrasound videos based on artificial neural network. 2024; 45:493-500. doi: 10.1055/a-2180-8405
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38113893/

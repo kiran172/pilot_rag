@@ -1,0 +1,8 @@
+PMID: 39400833
+Title: PSAA-nnUNet: An Efficient Method for CT Carotid Artery Image Segmentation.
+
+Abstract: Carotid artery (CA) stenosis (CAS) constitutes a significant factor to ischaemic cerebrovascular events which exhibiting no overt symptoms in the early stages. Early detection of CAS can prevent ischaemic stroke and improve patient prognosis. In this study, we developed a non-invasive CAS automatic assessment method based on deep learning, intended for the early detection of CAS with CT imaging. The method proposed in this paper consists of three main components. First, we utilised thresholding and the Hessian-based Frangi filter to eliminate irrelevant tissue and enhance vascular structures. Second, we introduced a novel neural network named parameter shared axial attention (PSAA)-nnUNet for the automatic segmentation of CA. Finally, we assessed the degree of CAS with the North American Symptomatic Carotid Endarterectomy Trial (NASCET) formula. The PSAA-nnUNet algorithm proposed in this study achieved a segmentation accuracy of 0.82. The non-invasive CAS automatic assessment method based on PSAA-nnUNet exhibits excellent accuracy and great application potential.
+
+Citation: Wang Z, et al. PSAA-nnUNet: An Efficient Method for CT Carotid Artery Image Segmentation. PSAA-nnUNet: An Efficient Method for CT Carotid Artery Image Segmentation. 2024; 1463:257-262. doi: 10.1007/978-3-031-67458-7_43
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39400833/

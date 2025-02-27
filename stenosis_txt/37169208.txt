@@ -1,0 +1,12 @@
+PMID: 37169208
+Title: Transcatheter aortic valve implantation versus surgical aortic valve replacement in chronic kidney disease: Meta-analysis of reconstructed time-to-event data.
+
+Abstract: BACKGROUND: Patients with advanced chronic kidney disease (CKD) are a challenging and understudied population. Specifically, the late outcomes following surgical aortic valve replacement (SAVR) or transcatheter aortic valve implantation (TAVI) in patients with CKD remains uncertain.
+OBJECTIVES: To compare overall mortality risk in patients with moderate-to-severe CKD following TAVI versus SAVR.
+METHODS: Study-level meta-analysis of reconstructed time-to-event data from Kaplan-Meier curves of studies published by August 2022.
+RESULTS: Nine studies met our inclusion criteria. Patients who underwent TAVI had a higher 5-year mortality compared with patients undergoing SAVR in the overall population (HR 1.56, 95% CI 1.44-1.69, P < 0.001) and in populations with similar risk scores (HR 1.15, 95% CI 1.01-1.31, P = 0.035). The landmark analysis revealed a lower risk of 30-day mortality with TAVI (HR 0.62, 95% CI 0.41-0.94, P = 0.023), followed by similar risk until 7.5 months (HR 1, 95% CI 0.78-1.27, P = 0.978). In contrast, the landmark analysis beyond 7.5 months yielded a reversal of the HR in favor of SAVR (TAVI with HR 1.27, 95% CI 1.08-1.49 P = 0.003).
+CONCLUSIONS: In patients with CKD, TAVI provides an initial survival benefit over SAVR. However, in the long run, a significant survival benefit of SAVR over TAVI was observed. Our findings highlight the need for randomized controlled trials to investigate outcomes in this special population.
+
+Citation: Jacquemyn X, et al. Transcatheter aortic valve implantation versus surgical aortic valve replacement in chronic kidney disease: Meta-analysis of reconstructed time-to-event data. Transcatheter aortic valve implantation versus surgical aortic valve replacement in chronic kidney disease: Meta-analysis of reconstructed time-to-event data. 2024; 34:317-324. doi: 10.1016/j.tcm.2023.04.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37169208/

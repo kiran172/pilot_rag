@@ -1,0 +1,11 @@
+PMID: 35473483
+Title: Lymphocyte-to-monocyte ratio associated with severe post-stenotic aortic dilation in a case-control study.
+
+Abstract: BACKGROUND: Calcific aortic valve stenosis (CAVS) represents a serious health threat to elderly patients. Post-stenotic aortic dilation, a common feature in CAVS patients, might progress into aneurysm and even dissection, potential consequences of CAVS, and predicts a poor prognosis. This study sought to investigate the association of lymphocyte-to-monocyte ratio (LMR), an inflammatory biomarker, with severe post-stenotic aortic dilation in a case-control study in Chinese population.
+MATERIALS AND METHODS: 208 consecutive patients with CAVS were recruited retrospectively in a case-control study in Chinese population, from July 1, 2015 to June 31, 2018. LMR was statistically analyzed using the ROC curve and binary logistic regression analyses for its prognostic value in severe post-stenotic aortic dilation.
+RESULTS: LMR was significantly reduced in patients with severe post-stenotic aortic dilation (2.72 vs. 3.53, p = 0.002 < 0.05) compared to patients without severe post-stenotic aortic dilation. There was an inverse correlation observed between the maximal diameter of ascending aorta and LMR in the overall patients (r = - 0.217, p = 0.002 < 0.05). For post-stenotic aortic dilation, the prevalence of high-LMR group was statistically lower than that of low-LMR group (19.7% vs. 43.9%, p < 0.001). The maximal diameter of ascending aorta was significantly reduced in the high-LMR group (4.35 vs. 4.76, p = 0.003 < 0.05) compared to low-LMR group. Additionally, LMR was identified in the multivariate analysis independently associated with severe post-stenotic aortic dilation (AUC 0.743, 95% CI: [0.573-0.964], p = 0.025).
+CONCLUSIONS: This study provided the evidence of an inverse correlation between severe post-stenotic aortic dilation and LMR. LMR is potentially independently associated with severe post-stenotic aortic dilation.
+
+Citation: Chen S, et al. Lymphocyte-to-monocyte ratio associated with severe post-stenotic aortic dilation in a case-control study. Lymphocyte-to-monocyte ratio associated with severe post-stenotic aortic dilation in a case-control study. 2022; 22:195. doi: 10.1186/s12872-022-02636-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35473483/

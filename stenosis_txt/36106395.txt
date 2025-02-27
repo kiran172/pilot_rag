@@ -1,0 +1,11 @@
+PMID: 36106395
+Title: Fluid structure interaction analysis to stratify the behavior of different atheromatous carotid plaques.
+
+Abstract: BACKGROUND: In asymptomatic carotid stenosis (ACS), different plaque types, i.e. lipidic (LP), fibrous (FP), and calcific (CP), could have different hemodynamic and structural behaviors.
+METHODS: Different carotid plaques, reconstructed from medical imaging of ACS >70%, were analyzed by computing fluid structure interaction (FSI), modeling the spatial distribution of wall shear stresses (WSS), plaque displacements (D), von Mises stresses (VMS), and absorbed elastic energy (AEE) together with their maximum-in-space values at the systole (WSS<inf>syst</inf>, D<inf>syst</inf>, VMS<inf>syst</inf> and AEE<inf>syst</inf>).
+RESULTS: WSS resulted significantly higher in CP, whereas D and VMS showed the highest values for LP. Regarding AEE&lt;inf&gt;syst&lt;/inf&gt; stored by the plaques, LP absorbed in average 2320 J/m3, FP 408 J/m3 (470%) and CP 99 J/m3 (2240%), (P&lt;0.01, P&lt;0.01, and P&lt;0.01, respectively).
+CONCLUSIONS: Depending upon their nature, plaques store different deformations and inner distributions of forces, thus potentially influencing their vulnerability.
+
+Citation: Domanin M, et al. Fluid structure interaction analysis to stratify the behavior of different atheromatous carotid plaques. Fluid structure interaction analysis to stratify the behavior of different atheromatous carotid plaques. 2023; 64:58-66. doi: 10.23736/S0021-9509.22.12170-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36106395/

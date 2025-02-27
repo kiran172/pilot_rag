@@ -1,0 +1,11 @@
+PMID: 35488027
+Title: A longitudinal pilot study to assess temporal changes in coronary arterial 18F-sodium fluoride uptake.
+
+Abstract: PURPOSE: How coronary arterial 18F-sodium fluoride (18F-NaF) uptake on positron emission tomography changes over the long term and what clinical factors impact the changes remain unclear. We sought to investigate the topics in this study.
+METHODS: We retrospectively studied 15 patients with ≥1 coronary atherosclerotic lesion/s detected on cardiac computed tomography who underwent baseline and follow-up (interval of &gt;3 years) 18F-NaF positron emission tomography/computed tomography scans. Focal 18F-NaF uptake in each lesion was quantified using maximum tissue-to-background ratio (TBR<sub>max</sub>). The temporal change in TBR<sub>max</sub> was assessed using a ratio of follow-up to baseline TBR<sub>max</sub> (R-TBR<sub>max</sub>).
+RESULTS: A total of 51 lesions were analyzed. Mean R-TBR<sub>max</sub> was 0.96 ± 0.21. CT-based lesion features (location, obstructive stenosis, plaque types, features of high-risk plaque) did not correlate with an increase in R-TBR<sub>max</sub>. In multivariate analysis, baseline TBR<sub>max</sub> significantly correlated with higher follow-up TBR<sub>max</sub> (β = 0.57, P &lt; 0.0001), and the presence of diabetes mellitus significantly correlated with both higher follow-up TBR<sub>max</sub> (β = 0.34, P = 0.001) and elevated R-TBR<sub>max</sub> (β = 0.40, P = 0.003).
+CONCLUSION: Higher coronary arterial 18F-NaF uptake is likely to remain continuously high. Diabetes mellitus affects the long-term increase in coronary arterial 18F-NaF uptake.
+
+Citation: Kitagawa T, et al. A longitudinal pilot study to assess temporal changes in coronary arterial 18F-sodium fluoride uptake. A longitudinal pilot study to assess temporal changes in coronary arterial 18F-sodium fluoride uptake. 2023; 30:1158-1165. doi: 10.1007/s12350-022-02975-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35488027/

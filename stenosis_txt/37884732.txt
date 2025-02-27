@@ -1,0 +1,11 @@
+PMID: 37884732
+Title: Outcomes of pneumatic dilation in pediatric caustic esophageal strictures: a descriptive and analytic study from a developing country.
+
+Abstract: OBJECTIVES: Corrosive substance ingestion in children represents a significant public health issue due to its long-term health sequelae. Esophageal stricture, main complication of this dangerous condition, is treated by pneumatic dilation and eventually by esophageal replacement. We aimed, through this study, to report the outcomes of esophageal pneumatic dilation complicating corrosive substance ingestion in children in a developing country.
+METHODS: This cross-sectional study was performed on the population of pediatric patients with caustic esophageal stenosis between January 2005 and December 2020. All patients underwent pneumatic balloon dilation. A logistic regression model was built to predict the probability of the occurrence of the event (success/failure) of the dilation. The ROC curve is used to evaluate the performance of the logistic regression model to discriminate between positive and negative values of the dependent variable.
+RESULTS: The success rate of pneumatic balloon dilation was 80.4%. The median duration of overall management was 11 months. The severity of caustic stricture observed during endoscopy was significantly linked to worse outcomes (p = 0.001). Multivariate analysis indicated that the severity of stenosis and the number of dilation sessions were independent risk factors for failure of dilation. ROC curve analysis showed that the area under the curve was 71.7%. A Cut-Off point value of 7 provided the best sensitivity and specificity.
+CONCLUSION: Pneumatic balloon dilation has been proven to be efficacious in infants with caustic esophageal stricture. Pediatric surgeons should take into account factors to promptly switch to replacement surgery and avoid unnecessary and time-consuming serial dilations.
+
+Citation: Sabrine BY, et al. Outcomes of pneumatic dilation in pediatric caustic esophageal strictures: a descriptive and analytic study from a developing country. Outcomes of pneumatic dilation in pediatric caustic esophageal strictures: a descriptive and analytic study from a developing country. 2023; 37:9291-9298. doi: 10.1007/s00464-023-10489-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37884732/

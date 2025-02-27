@@ -1,0 +1,11 @@
+PMID: 35006279
+Title: Magnetic resonance imaging in the evaluation of cervical foraminal stenosis: comparison of 3D T2 SPACE with sagittal oblique 2D T2 TSE.
+
+Abstract: OBJECTIVE: The oblique orientation of the cervical neural foramina challenges the implementation of a short MRI protocol with concurrent excellent visualization of the spine. While sagittal oblique T2-weighted sequences permit good evaluation of the cervical neuroforamina, all segments may not be equally well depicted on a single sequence and conspicuity of foraminal stenosis may be limited. 3D T2-weighted sequences can be reformatted in arbitrary planes, including the sagittal oblique. We set out to compare 3D T2w SPACE sequences with sagittal oblique reformations and sagittal oblique 2D T2w TSE sequences for the evaluation of cervical foraminal visibility and stenosis.
+MATERIALS AND METHODS: Sixty consecutive patients who underwent MRI of the cervical spine with sagittal oblique 2D T2w TSE and 3D T2w SPACE sequences were included. Image homogeneity of the sequences was evaluated. Imaging sets were assessed for structure visibility and foraminal stenosis by two independent readers. Results of the sequences were compared by Wilcoxon matched-pairs tests. Interreader agreement was evaluated by weighted κ.
+RESULTS: Visibility of most structures was rated good to excellent on both sequences (mean visibility scores ≥ 4.5 of 5), though neuroforaminal contents were better seen on sagittal oblique T2w TSE (mean scores 4.1-4.6 vs. 3.1-4.1 on 3D T2w SPACE, p < 0.01). Stenosis grades were comparable between sequences (mean 1.1-2.6 of 4), with slightly higher values for 3D T2w SPACE at some levels (difference ≤ 0.3 points).
+CONCLUSION: 3D T2w SPACE is comparable with sagittal oblique 2D T2w TSE in the evaluation of cervical neural foramina.
+
+Citation: Barnaure I, et al. Magnetic resonance imaging in the evaluation of cervical foraminal stenosis: comparison of 3D T2 SPACE with sagittal oblique 2D T2 TSE. Magnetic resonance imaging in the evaluation of cervical foraminal stenosis: comparison of 3D T2 SPACE with sagittal oblique 2D T2 TSE. 2022; 51:1453-1462. doi: 10.1007/s00256-022-03988-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35006279/

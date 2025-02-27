@@ -1,0 +1,13 @@
+PMID: 34983139
+Title: Relationship between Hemoglobin A1c and Fractional Flow Reserve Lesion Severity in Non-diabetic Patients.
+
+Abstract: OBJECTIVE: To find out whether there is any correlation between the fractional flow reserve (FFR) that indicates the severity of coronary artery disease (CAD), and the HbA1c value in non-diabetic patients.
+STUDY DESIGN: Observational study.
+PLACE AND DURATION OF STUDY: Department of Cardiology, Dicle University, Turkey, from September 2015 to November 2019.
+METHODOLOGY: Patients who underwent elective FFR procedure were included in the study. There were two groups formed according to FFR lesion severity: FFR <0.8 group (75 patients), FFR >0.8 group (39 patients). HbA1c was compared between the two groups. The relationship between categorical variables was examined with Pearson Chi-square and Fisher's Exact test. ROC (Receiver operating characteristic) analysis was performed for the HbA1c the cut-off value.
+RESULTS: The two groups were similar in terms of mean age and male gender ratios (58.4±9.6 vs. 57.9 ± 10.8 years, p=0.794; 64% vs. 74.4%, respectively, p=0.262). HbA1c value was statistically higher in the group with FFR value <0.8 [(5.8 (IQR: 5.7-6.0)] compared to the group with FFR value ≥0.8 [(5.5 (IQR: 5.2-6.0, p = 0.002)]. The HbA1c cut-off value was determined as 5.55. The ideal HbA1c threshold value calculated by the Youden index had 88% sensitivity, and 53.85% specificity.
+CONCLUSION: HbA1c, which shows the long-term glycemic index in non-diabetic individuals, is associated with the severity of CAD determined by the fractional flow reserve. Key Words: Coronary artery disease, fractional flow reserve, HbA1c.
+
+Citation: Kis M and Guzel T. Relationship between Hemoglobin A1c and Fractional Flow Reserve Lesion Severity in Non-diabetic Patients. Relationship between Hemoglobin A1c and Fractional Flow Reserve Lesion Severity in Non-diabetic Patients. 2022; 32:4-8. doi: 10.29271/jcpsp.2022.01.4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34983139/

@@ -1,0 +1,11 @@
+PMID: 34608732
+Title: Evaluating the validity of ultrasound in diagnosing hypertrophic pyloric stenosis: a cross-sectional diagnostic accuracy study.
+
+Abstract: BACKGROUND: Our aims were to evaluate the ultrasound scan (USS) criteria in diagnosing hypertrophic pyloric stenosis (HPS), determine the best diagnostic threshold values for pyloric muscle thickness (PMT) and pyloric canal length (PCL), and assess the accuracy of flow through the pylorus.
+METHODS: All patients who underwent pyloromyotomy at our tertiary paediatric surgery centre between July 2013 and June 2019 were identified (Group 1). All patients undergoing an USS to investigate for a possible HPS and did not undergo pyloromyotomy were also identified (Group 2). Accuracy was determined by Youden's Index (J) with the highest J determining the ideal cut-off value.
+RESULTS: Two hundred and eighty-four patients (142 patients in each group) were included in the analysis. Using only the last USS before surgery, PMT provided an area under the curve (AUC) of 0.987 (n = 275), and PCL an AUC of 0.977 (n = 267). Ideal threshold values were 3.0 mm for PMT (J = 0.92), and 14.5 mm for PCL (J = 0.87). Combining PMT ≥3.0 mm with a PCL ≥14.5 mm resulted in a sensitivity of 95% and specificity of 99% (J = 0.94). The absence of flow through the pylorus on dynamic USS provided a sensitivity of 99% and specificity of 91% (J = 0.91; n = 277).
+CONCLUSION: Combining threshold values of 3.0 mm for PMT and 14.5 mm PCL provides the highest accuracy for diagnosing pyloric stenosis on an ultrasound scan. These combined values were more accurate than observing for the absence of flow through the pylorus.
+
+Citation: Vinycomb T, et al. Evaluating the validity of ultrasound in diagnosing hypertrophic pyloric stenosis: a cross-sectional diagnostic accuracy study. Evaluating the validity of ultrasound in diagnosing hypertrophic pyloric stenosis: a cross-sectional diagnostic accuracy study. 2021; 91:2507-2513. doi: 10.1111/ans.17247
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34608732/

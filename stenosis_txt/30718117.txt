@@ -1,0 +1,11 @@
+PMID: 30718117
+Title: Effect of insonation angle on peak systolic velocity variation.
+
+Abstract: OBJECTIVES: As point of care ultrasound (POCUS) has become more integrated into emergency and critical care medicine, there has been increased interest in utilizing ultrasound to assess volume status. However, recent studies of carotid POCUS on volume status and fluid responsiveness fail to recognize the effect insonation angle has on their results. To address this, we studied the effect of insonation angle on peak systolic velocity (PSV) change associated with respiratory variation (RV) and passive leg raise (PLR).
+METHODS: Doppler measurements were obtained from 51 subjects presenting to the ED. Minimal and maximal PSV were obtained using insonation angles of 46°, 60°, and 90°. ∆PSV was calculated using PLR and RV as trial methods. Results were categorized into two groups, those with a ∆PSV > 10% and those with a ∆PSV ≤ 10%. ∆PSV mean and standard error, as well as measures of agreement were calculated.
+RESULTS: Mean ∆PSV associated with PLR test was 9% in the 46° and 60° groups, and 18% in the 90° group, with standard errors of 6, 7, and 14%, respectively. Using 46° as our relative gold standard, Kappa was 0.23 at 60° and 0.11 at 90° with RV as the trial method, and 0.23 at 60° and 0.01 at 90° with a PLR as the trial method.
+CONCLUSIONS: Variation in PSV is heavily dependent on insonation angle. There was only slight to fair agreement in ∆PSV among the various insonation angles. Further investigation of the optimal insonation angle to assess ∆PSV should be undertaken.
+
+Citation: Radparvar JR, et al. Effect of insonation angle on peak systolic velocity variation. Effect of insonation angle on peak systolic velocity variation. 2020; 38:173-177. doi: 10.1016/j.ajem.2019.01.050
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30718117/

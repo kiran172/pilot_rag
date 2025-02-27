@@ -1,0 +1,11 @@
+PMID: 38393289
+Title: Differential Assessment of Internal Jugular Vein Stenosis in Patients Undergoing CT and MRI with Contrast.
+
+Abstract: OBJECTIVE: Internal Jugular Vein Stenosis (IJVS) is hypothesized to play a role in the pathogenesis of diverse neurological diseases. We sought to evaluate differences in IJVS assessment between CT and MRI in a retrospective patient cohort.
+METHODS: We included consecutive patients who had both MRI of the brain and CT of the head and neck with contrast from 1 June 2021 to 30 June 2022 within the same admission. The degree of IJVS was categorized into five grades (0-IV).
+RESULTS: A total of 35 patients with a total of 70 internal jugular (IJ) veins were included in our analysis. There was fair intermodality agreement in stenosis grades (κ = 0.220, 95% C.I. = [0.029, 0.410]), though categorical stenosis grades were significantly discordant between imaging modalities, with higher grades more frequent in MRI (χ2 = 27.378, p = 0.002). On CT-based imaging, Grade III or IV stenoses were noted in 17/70 (24.2%) IJs, whereas on MRI-based imaging, Grade III or IV stenoses were found in 40/70 (57.1%) IJs. Among veins with Grade I-IV IJVS, MRI stenosis estimates were significantly higher than CT stenosis estimates (77.0%, 95% C.I. [35.9-55.2%] vs. 45.6%, 95% C.I. [35.9-55.2%], p &lt; 0.001).
+CONCLUSION: MRI with contrast overestimates the degree of IJVS compared to CT with contrast. Consideration of this discrepancy should be considered in diagnosis and treatment planning in patients with potential IJVS-related symptoms.
+
+Citation: Abdalkader M, et al. Differential Assessment of Internal Jugular Vein Stenosis in Patients Undergoing CT and MRI with Contrast. Differential Assessment of Internal Jugular Vein Stenosis in Patients Undergoing CT and MRI with Contrast. 2024; 10:266-276. doi: 10.3390/tomography10020021
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38393289/

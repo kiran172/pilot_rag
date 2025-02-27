@@ -1,0 +1,11 @@
+PMID: 32386199
+Title: Effect of bicuspid aortic valve phenotype on progression of aortic stenosis.
+
+Abstract: AIMS: To compare the progression of aortic stenosis (AS) in patients with bicuspid aortic valve (BAV) or tricuspid aortic valve (TAV).
+METHODS AND RESULTS: One hundred and forty-one patients with mild-to-moderate AS, recruited prospectively in the PROGRESSA study, were included in this sub-analysis. Baseline clinical, Doppler echocardiography and multidetector computed tomography characteristics were compared between BAV (n = 32) and TAV (n = 109) patients. The 2-year haemodynamic [i.e. peak aortic jet velocity (Vpeak) and mean transvalvular gradient (MG)] and anatomic [i.e. aortic valve calcification density (AVCd) and aortic valve calcification density ratio (AVCd ratio)] progression of AS were compared between the two valve phenotypes. The 2-year progression rate of Vpeak was: 16 (-0 to 40) vs. 17 (3-35) cm/s, P = 0.95; of MG was: 1.8 (-0.7 to 5.8) vs. 2.6 (0.4-4.8) mmHg, P = 0.56; of AVCd was 32 (2-109) vs. 52 (25-85) AU/cm2, P = 0.15; and of AVCd ratio was: 0.08 (0.01-0.23) vs. 0.12 (0.06-0.18), P = 0.16 in patients with BAV vs. TAV. In univariable analyses, BAV was not associated with AS progression (all, P ≥ 0.26). However, with further adjustment for age, AS baseline severity, and several risk factors (i.e. sex, history of hypertension, creatinine level, diabetes, metabolic syndrome), BAV was independently associated with faster haemodynamic (Vpeak: β = 0.31, P = 0.02) and anatomic (AVCd: β = 0.26, P = 0.03 and AVCd ratio: β = 0.26, P = 0.03) progression of AS.
+CONCLUSION: In patients with mild-to-moderate AS, patients with BAV have faster haemodynamic and anatomic progression of AS when compared to TAV patients with similar age and risk profile. This study highlights the importance and necessity to closely monitor patients with BAV and to adequately control and treat their risk factors.
+CLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov Unique identifier: NCT01679431.
+
+Citation: Shen M, et al. Effect of bicuspid aortic valve phenotype on progression of aortic stenosis. Effect of bicuspid aortic valve phenotype on progression of aortic stenosis. 2020; 21:727-734. doi: 10.1093/ehjci/jeaa068
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32386199/

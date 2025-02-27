@@ -1,0 +1,17 @@
+PMID: 31975534
+Title: Right and left ventricular interactions, strain, and remodeling in repaired pulmonary stenosis patients with preserved right ventricular ejection fraction: A cardiac magnetic resonance study.
+
+Abstract: BACKGROUND: Right ventricular dilation and dysfunction is a common long-term complication in patients with repaired pulmonary stenosis (rPS). Additionally, abnormal right and left ventricular interactions have been reported in right-sided heart defect after intervention, including in pulmonary stenosis.
+PURPOSE: To analyze ventricular strain, remodeling, and left and right ventricular interactions in rPS patients with preserved right ventricular ejection fraction (RVEF) compared with healthy children using cardiac magnetic resonance.
+STUDY TYPE: A cross-sectional study.
+POPULATION: In all, 34 rPS patients and 10 healthy children volunteers (controls).
+FIELD STRENGTH/SEQUENCE: 3.0T/2D balanced steady-state free precession (2D b-SSFP) cine, late gadolinium enhancement (LGE), and 2D phase contrast (2D-PC).
+ASSESSMENT: Pulmonary regurgitation (PR) fractions of the main pulmonary artery, biventricular volumes, masses, function, and cardiac strain.
+STATISTICAL TESTS: Mann-Whitney U-test, t-test, Pearson correlation coefficients, Spearman's correlation coefficients, and intraclass correlation coefficients analysis were performed.
+RESULTS: For group analysis, the right ventricular (RV) global circumferential strain and radial strain were significantly increased in patients when compared with controls (-13.57 ± 2.69 vs. -5.91 ± 3.16, P &lt; 0.001; 25.31 ± 8.12 vs. 9.87 ± 5.32, P &lt; 0.001, respectively). The fraction of PR displayed moderate correlation with right ventricular end-diastolic volume index (RVEDVi) (r = 0.452, P = 0.022). RVEDVi and mass index were larger in patients vs. control (104.92 ± 27.46 vs. 85.15 ± 11.98, P = 0.016; 18.28 ± 4.95g/m2 vs. 11.67 ± 2.14 g/m2 , P &lt; 0.001, respectively). Patients presented with preserved left ventricular ejection function, but was lower than healthy controls (60.89% ± 4.89% vs. 65.95% ± 4.56%, P = 0.006). Regional circumferential strain of segment 3 of left ventricle (LV) were significantly decreased in patients (-7.79 ± 6.52 vs. -13.56 ± 3.22, P = 0.003).
+DATA CONCLUSION: Compensated increased RV strain, myocardial remodeling of RV, and adverse right and left ventricular interactions occur in rPS patients with preserved RVEF. The decreased interventricular septum strain may lead to impaired LV function due to RV dilation as a result of PR.
+LEVEL OF EVIDENCE: 3 Technical Efficacy Stage: 3 J. Magn. Reson. Imaging 2020;52:129-138.
+
+Citation: Wang SY, et al. Right and left ventricular interactions, strain, and remodeling in repaired pulmonary stenosis patients with preserved right ventricular ejection fraction: A cardiac magnetic resonance study. Right and left ventricular interactions, strain, and remodeling in repaired pulmonary stenosis patients with preserved right ventricular ejection fraction: A cardiac magnetic resonance study. 2020; 52:129-138. doi: 10.1002/jmri.27034
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31975534/

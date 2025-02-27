@@ -1,0 +1,11 @@
+PMID: 36949452
+Title: Predictive factors for degenerative lumbar spinal stenosis: a model obtained from a machine learning algorithm technique.
+
+Abstract: BACKGROUND: Degenerative lumbar spinal stenosis (DLSS) is the most common spine disease in the elderly population. It is usually associated with lumbar spine joints/or ligaments degeneration. Machine learning technique is an exclusive method for handling big data analysis; however, the development of this method for spine pathology is rare. This study aims to detect the essential variables that predict the development of symptomatic DLSS using the random forest of machine learning (ML) algorithms technique.
+METHODS: A retrospective study with two groups of individuals. The first included 165 with symptomatic DLSS (sex ratio 80 M/85F), and the second included 180 individuals from the general population (sex ratio: 90 M/90F) without lumbar spinal stenosis symptoms. Lumbar spine measurements such as vertebral or spinal canal diameters from L1 to S1 were conducted on computerized tomography (CT) images. Demographic and health data of all the participants (e.g., body mass index and diabetes mellitus) were also recorded.
+RESULTS: The decision tree model of ML demonstrate that the anteroposterior diameter of the bony canal at L5 (males) and L4 (females) levels have the greatest stimulus for symptomatic DLSS (scores of 1 and 0.938). In addition, combination of these variables with other lumbar spine features is mandatory for developing the DLSS.
+CONCLUSIONS: Our results indicate that combination of lumbar spine characteristics such as bony canal and vertebral body dimensions rather than the presence of a sole variable is highly associated with symptomatic DLSS onset.
+
+Citation: Abbas J, et al. Predictive factors for degenerative lumbar spinal stenosis: a model obtained from a machine learning algorithm technique. Predictive factors for degenerative lumbar spinal stenosis: a model obtained from a machine learning algorithm technique. 2023; 24:218. doi: 10.1186/s12891-023-06330-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36949452/

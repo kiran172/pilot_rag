@@ -1,0 +1,12 @@
+PMID: 38621577
+Title: Examining lack of referrals to heart valve specialists as mechanisms of potential underutilization of aortic valve replacement.
+
+Abstract: BACKGROUND: Recent studies suggest that aortic valve replacement (AVR) remains underutilized.
+AIMS: Investigate the potential role of non-referral to heart valve specialists (HVS) on AVR utilization.
+METHODS: Patients with severe aortic stenosis (AS) between 2015 and 2018, who met class I indication for intervention, were identified. Baseline data and process-related parameters were collected to analyze referral predictors and evaluate outcomes.
+RESULTS: Among 981 patients meeting criteria AVR, 790 patients (80.5%) were assessed by HVS within six months of index TTE. Factors linked to reduced referral included increasing age (OR: 0.95; 95% CI: 0.94-0.97; P < .001), unmarried status (OR: 0.59; 95% CI: 0.43-0.83; P = .002) and inpatient TTE (OR: 0.27; 95% CI: 0.19-0.38; P < .001). Conversely, higher hematocrit (OR: 1.13; 95% CI: 1.09-1.16; P < .001) and eGFR (OR: 1.01; 95% CI: 1.00-1.02; P = .003), mean aortic valve gradient (OR: 1.03; 95% CI: 1.01-1.04; P < .001) and preserved LVEF (OR: 1.59; 95% CI: 1.02-2.48; P = .04), were associated with increased referral likelihood. Moreover, patients assessed by HVS referral as a time-dependent covariate had a significantly lower two-year mortality risk than those who were not (aHR: 0.30; 95% CI: 0.23-0.39; P < .001).
+CONCLUSION: A substantial proportion of severe AS patients meeting indications for AVR are not evaluated by HVS and experience markedly increased mortality. Further research is warranted to assess the efficacy of care delivery mechanisms, such as e-consults, and telemedicine, to improve access to HVS expertise.
+
+Citation: Etiwy M, et al. Examining lack of referrals to heart valve specialists as mechanisms of potential underutilization of aortic valve replacement. Examining lack of referrals to heart valve specialists as mechanisms of potential underutilization of aortic valve replacement. 2024; 274:54-64. doi: 10.1016/j.ahj.2024.04.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38621577/

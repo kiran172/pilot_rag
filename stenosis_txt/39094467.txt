@@ -1,0 +1,11 @@
+PMID: 39094467
+Title: High-resolution MR vessel wall imaging and cardiovascular health for evaluating the occurrence of ischemic stroke.
+
+Abstract: OBJECTIVES: To explore the value of high-resolution MR vessel wall imaging (HR-VWI) based plaque characteristics combined with cardiovascular health (CVH) metrics in the risk evaluation of ischemic stroke attributed to middle cerebral artery (MCA) atherosclerotic stenosis.
+METHODS: Retrospective analysis of 209 participants with middle cerebral atherosclerosis, 146 patients with high signal in the MCA area on DWI were included in the symptomatic group, and 63 patients were included in the asymptomatic group. The degree of stenosis, enhancement ratio, plaque burden, remodeling index, and intraplaque hemorrhage were measured and compared between groups. Seven CVH metrics and other clinical data were obtained. The association between these factors and ischemic stroke was investigated by univariate and multivariate analysis.
+RESULTS: The degree of stenosis [OR, 1.036 (95 % CI, 1.014-1.058); P = 0.001], plaque burden [OR, 0.958 (95 % CI, 0.928-0.989); P = 0.009], intraplaque hemorrhage [OR, 3.530 (95 % CI, 1.233-10.110); P = 0.019], physical activity [OR, 4.321 (95 % CI, 1.526-12.231); P = 0.006], and diet [OR, 8.986 (95 % CI, 2.747-29.401); P < 0.001] were the independent characteristics associated with the occurrence of ischemic stroke. ROC curve showed that the combination of plaque characteristics, diet, and physical activity achieved the highest AUC of 0.828 (95 % CI 0.770-0.877; P < 0.001), with sensitivity and specificity being 86.30 % and 66.67 %, respectively.
+CONCLUSION: Plaque characteristics combined with CVH metrics may identify high-risk populations for ischemic stroke and offer novel insights into risk evaluation and stratification.
+
+Citation: Zheng W, et al. High-resolution MR vessel wall imaging and cardiovascular health for evaluating the occurrence of ischemic stroke. High-resolution MR vessel wall imaging and cardiovascular health for evaluating the occurrence of ischemic stroke. 2024; 178:111646. doi: 10.1016/j.ejrad.2024.111646
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39094467/

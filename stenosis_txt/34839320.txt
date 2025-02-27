@@ -1,0 +1,11 @@
+PMID: 34839320
+Title: Fractional flow reserve in patients with type 1 or type 2 non-ST elevation acute myocardial infarction.
+
+Abstract: AIMS: We assessed a combined strategy of fractional flow reserve (FFR) plus angiography in stratifying cardiovascular risk in patients with type 1 myocardial infarction (T1MI) or type 2 (T2MI) non-ST elevation acute myocardial infarction (NSTEMI).
+METHODS: A cohort of 150 NSTEMI patients were prospectively studied. Clinical and angiographic features guided the identification of T1MI vs T2MI and the treatment of culprit lesions. Subsequently, T1MI patients underwent FFR evaluation of nonculprit stenoses. In T2MI patients all angiographically significant stenoses were evaluated by FFR. FFR < 0.80 was an indication for revascularization. Based on FFR results, two groups were compared: patients with all lesions ≥0.80 ('defer' group, n = 87) and those with at least one lesion <0.80 ('perform' group, n = 63). The primary end point was the composite of all-cause death, nonfatal MI and unplanned coronary revascularization.
+RESULTS: Median clinical follow-up was of 35 months (interquartile range 14-44). Primary end-point rates in the 'defer' and 'perform' groups were 14.5% and 30.0% at 12 months and 28% and 46% at 36 months, respectively (log-rank test: at 1 year, P = 0.007; at the end of follow-up P = 0.014). On multivariable analysis, chronic kidney disease (HR 3.50, 95% CI: 1.89-6.46, P = 0.0001) and FFR group ('perform' vs 'defer': HR 1.75 95% CI: 1.01-3.04, P = 0.046) were independent predictors of adverse events.
+CONCLUSIONS: In NSTEMI patients, our results indicated that FFR combined with angiography allowed the treatment of nonfunctional significant lesions to be safely deferred and patient cardiovascular risk to be identified.
+
+Citation: Arena M, et al. Fractional flow reserve in patients with type 1 or type 2 non-ST elevation acute myocardial infarction. Fractional flow reserve in patients with type 1 or type 2 non-ST elevation acute myocardial infarction. 2022; 23:119-126. doi: 10.2459/JCM.0000000000001271
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34839320/

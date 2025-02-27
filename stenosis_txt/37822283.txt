@@ -1,0 +1,11 @@
+PMID: 37822283
+Title: Heavy macrophage infiltration identified by optical coherence tomography relates to plaque rupture.
+
+Abstract: OBJECTIVE: Risk stratification plays a critical role in patients with asymptomatic carotid atherosclerotic stenosis. Heavy macrophage infiltration (HMC) is an important factor of plaque destabilization. However, in vivo imaging technologies and screening criteria for HMC remain limited. We aimed to (i) introduce algorithms for in vivo detection of macrophage infiltrations using optical coherence tomography (OCT) and (ii) to investigate the threshold of HMC and its association with plaque vulnerability.
+METHODS: Ex vivo OCT images were co-registered with histopathology in 282 cross-sectional pairs from 19 carotid endarterectomy specimens. Of these, 197 randomly selected pairs were employed to define the parameters, and the remaining 85 pairs were used to evaluate the accuracy of the OCT-based algorithm in detecting macrophage infiltrations. Clinical analysis included 93 patients receiving carotid OCT evaluation. The prevalence and burden of macrophage infiltration were analyzed. Multivariable and subgroup analysis were performed to investigate the association between HMC and plaque rupture.
+RESULTS: The sensitivity and specificity of algorithm for detecting macrophage infiltration were 88.0% and 74.9%, respectively. Of 93 clinical patients, ruptured plaques exhibited higher prevalence of macrophage infiltration than nonruptured plaques (83.7% [36/43] vs 32.0% [16/50], p < 0.001). HMC was identified when the macrophage index was greater than 60.2 (sensitivity = 74.4%, specificity = 84.0%). Multivariable analysis showed that HMC and multiple calcification were independent risk factors for non-lipid-rich plaque rupture.
+INTERPRETATION: This study provides a novel approach and screening criteria for HMC, which might be valuable for atherosclerotic risk stratification.
+
+Citation: Shi X, et al. Heavy macrophage infiltration identified by optical coherence tomography relates to plaque rupture. Heavy macrophage infiltration identified by optical coherence tomography relates to plaque rupture. 2023; 10:2334-2346. doi: 10.1002/acn3.51923
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37822283/

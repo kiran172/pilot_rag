@@ -1,0 +1,8 @@
+PMID: 34805378
+Title: CT-based fractional flow reserve: development and expanded application.
+
+Abstract: Computations of fractional flow reserve, based on CT coronary angiography and computational fluid dynamics (CT-based FFR) to assess the severity of coronary artery stenosis, was introduced around a decade ago and is now one of the most successful applications of computational fluid dynamic modelling in clinical practice. Although the mathematical modelling framework behind this approach and the clinical operational model vary, its clinical efficacy has been demonstrated well in general. In this review, technical elements behind CT-based FFR computation are summarised with some key assumptions and challenges. Examples of these challenges include the complexity of the model (such as blood viscosity and vessel wall compliance modelling), whose impact has been debated in the research. Efforts made to address the practical challenge of processing time are also reviewed. Then, further application areas-myocardial bridge, renal stenosis and lower limb stenosis-are discussed along with specific challenges expected in these areas.
+
+Citation: Torii R and Yacoub MH. CT-based fractional flow reserve: development and expanded application. CT-based fractional flow reserve: development and expanded application. 2021; 2021:e202120. doi: 10.21542/gcsp.2021.20
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34805378/

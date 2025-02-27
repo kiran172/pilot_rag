@@ -1,0 +1,11 @@
+PMID: 35821173
+Title: The minimal important change for the EQ VAS based on the SF-36 health transition item: observations from 25772 spine surgery procedures.
+
+Abstract: PURPOSE: The EQ VAS is an integral part of EQ-5D, a commonly used instrument for health-related quality of life assessment. This study aimed to calculate the minimal important change (MIC) thresholds for the EQ VAS for improvement and deterioration after surgery for disk herniation or spinal stenosis.
+METHODS: Patients, who were surgically treated for disk herniation or spinal stenosis between 2007 and 2016, were recruited from the Swedish spine register. Preoperative and 1-year postoperative data for a total of 25772 procedures were available for analysis. We used two anchor-based methods to estimate MIC for EQ VAS: (1) a predictive model based on logistic regression and (2) receiver operating characteristics (ROC) curves. The SF-36 health transition item was used as anchor.
+RESULTS: The EQ VAS MIC threshold for improvement after disk herniation surgery ranged from 8.25 to 11.8 while the corresponding value for deterioration ranged from - 6.17 to 0.5. For spinal stenosis surgery the corresponding MIC values ranged from 10.5 to 14.5 and - 7.16 to - 6.5 respectively. There were moderate negative correlations (disk herniation - 0.47, spinal stenosis - 0.46) between the 1 year change in the EQ VAS and the SF-36 health transition item (MIC anchor).
+CONCLUSIONS: For EQ VAS, we recommend a MIC threshold of 12 points for improvement after surgery for disk herniation or spinal stenosis, whereas the corresponding threshold for deterioration is - 7 points. There are marked differences between the EQ VAS MIC for improvement and deterioration after surgery for disk herniation or spinal stenosis. The MIC value varied depending on the method used for MIC estimation.
+
+Citation: Joelson A, et al. The minimal important change for the EQ VAS based on the SF-36 health transition item: observations from 25772 spine surgery procedures. The minimal important change for the EQ VAS based on the SF-36 health transition item: observations from 25772 spine surgery procedures. 2022; 31:3459-3466. doi: 10.1007/s11136-022-03182-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35821173/

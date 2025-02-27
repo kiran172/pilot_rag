@@ -1,0 +1,12 @@
+PMID: 32101464
+Title: Diagnostic performance of deep learning-based vascular extraction and stenosis detection technique for coronary artery disease.
+
+Abstract: OBJECTIVE: To investigate the diagnostic performance of deep learning (DL)-based vascular extraction and stenosis detection technology in assessing coronary artery disease (CAD).
+METHODS: The diagnostic performance of DL technology was evaluated by retrospective analysis of coronary computed tomography angiography in 124 suspected CAD patients, using invasive coronary angiography as reference standard. Lumen diameter stenosis ≥50% was considered obstructive, and the diagnostic performances were evaluated at per-patient, per-vessel and per-segment levels. The diagnostic performances between DL model and reader model were compared by the areas under the receiver operating characteristics curves (AUCs).
+RESULTS: In patient-based analysis, AUC of 0.78 was obtained by DL model to detect obstructive CAD [sensitivity of 94%, specificity of 63%, positive predictive value of 94%, and negative predictive value of 59%], While AUC by reader model was 0.74 (sensitivity of 97%, specificity of 50%, positive predictive value of 93%, negative predictive value of 73%). In vessel-based analysis, the AUCs of DL model and reader model were 0.87 and 0.89 respectively. In segment-based analysis, the AUCs of 0.84 and 0.89 were obtained by DL model and reader model respectively. It took 0.47 min to analyze all segments per patient by DL model, which is significantly less than reader model (29.65 min) (p &lt; 0.001).
+CONCLUSION: The DL technology can accurately and effectively identify obstructive CAD, with less time-consuming, and it could be a reliable diagnostic tool to detect CAD.
+ADVANCES IN KNOWLEDGE: The DL technology has valuable prospect with the diagnostic ability to detect CAD.
+
+Citation: Chen M, et al. Diagnostic performance of deep learning-based vascular extraction and stenosis detection technique for coronary artery disease. Diagnostic performance of deep learning-based vascular extraction and stenosis detection technique for coronary artery disease. 2020; 93:20191028. doi: 10.1259/bjr.20191028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32101464/

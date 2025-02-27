@@ -1,0 +1,11 @@
+PMID: 35452954
+Title: Mid-term effects of carotid endarterectomy on cognition and white matter status evaluated by whole brain diffusion tensor imaging metrics: A preliminary analysis.
+
+Abstract: PURPOSE: To analyze the mid-term (12 months) effects of carotid endarterectomy (CEA) on cognition and on the microstructural properties of the whole brain white matter in terms of derived diffusion Tensor imaging (DTI) metrics.
+METHODS: We analyzed a population of 19 asymptomatic patients with extra-cranial internal carotid artery stenosis (eICA) eligible for CEA. All patients underwent cognitive evaluation with the Italian version of the Mini-Mental State Examination corrected for age and schooling, and with a Magnetic Resonance Imaging (MRI) investigation on a 1.5 Tesla MRI scanner, that included a 34-directions Diffusion Weighted Imaging (DWI) sequence for DTI metrics analysis. The global fractional anisotropy (gFA), global mean diffusivity (gMD), global radial diffusivity (gRD) and global axial diffusivity (gAD) were calculated for each patient. Both the cognitive and the imaging evaluation were performed at baseline (PRE-CEA) and 12 months after CEA (POST-CEA). Two-tailed Paerson's correlation test and paired samples t-test were used for evaluating the correlation between PRE-CEA and POST-CEA values, adopting a p-value of <0.05 as statistically significant.
+RESULTS: A statistically significant increase of the MMSE scores (p < 0.0001), as well as for gFA (p < 0.0001), and a statistically significant reduction of gMD (p = 0.027) and gRD (p = 0.0005) was observed 12 months following uncomplicated CEA.
+CONCLUSIONS: These findings suggest that CEA is associated with a general improvement of the WM microstructure of the whole brain.
+
+Citation: Porcu M, et al. Mid-term effects of carotid endarterectomy on cognition and white matter status evaluated by whole brain diffusion tensor imaging metrics: A preliminary analysis. Mid-term effects of carotid endarterectomy on cognition and white matter status evaluated by whole brain diffusion tensor imaging metrics: A preliminary analysis. 2022; 151:110314. doi: 10.1016/j.ejrad.2022.110314
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35452954/

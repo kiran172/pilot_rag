@@ -1,0 +1,11 @@
+PMID: 38866959
+Title: Characterization of carotid plaques using chemical exchange saturation transfer imaging.
+
+Abstract: PURPOSE: The preoperative assessment of carotid plaques is necessary to render revascularization safe and effective. The aim of this study is to evaluate the usefulness of chemical exchange saturation transfer (CEST)-MRI, particularly amide proton transfer (APT) imaging as a preoperative carotid plaque diagnostic tool.
+METHODS: We recorded the APT signal intensity on concentration maps of 34 patients scheduled for carotid endarterectomy. Plaques were categorized into group A (APT signal intensity ≥ 1.90 E-04; n = 12) and group B (APT signal intensity &lt; 1.90 E-04; n = 22). Excised plaques were subjected to histopathological assessment and, using the classification promulgated by the American Heart Association, they were classified as intraplaque hemorrhage-positive [type VI-positive (tVI+)] and -negative [no intraplaque hemorrhage (tVI-)].
+RESULTS: Of the 34 patients, 22 (64.7%) harbored tVI+- and 12 (35.3%) had tVI- plaques. The median APT signals were significantly higher in tVI+- than tIVI- patients (2.43 E-04 (IQR = 0.98-4.00 E-04) vs 0.54 E-04 (IQR = 0.14-1.09 E-04), p &lt; .001). Histopathologically, the number of patients with tVI+ plaques was significantly greater in group A (100%, n = 12) than group B (45%, n = 22) (p &lt; .01). The number of symptomatic patients or asymptomatic patients with worsening stenosis was also significantly greater in group A than group B (75% vs 36%, p &lt; .01).
+CONCLUSION: In unstable plaques with intraplaque hemorrhage and in patients with symptoms or progressive stenosis, the ATP signals were significantly elevated. CEST-MRI studies has the potential for the preoperative assessment of the plaques' characteristics.
+
+Citation: Kanematsu Y, et al. Characterization of carotid plaques using chemical exchange saturation transfer imaging. Characterization of carotid plaques using chemical exchange saturation transfer imaging. 2024; 66:1617-1624. doi: 10.1007/s00234-024-03401-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38866959/

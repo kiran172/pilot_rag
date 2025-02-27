@@ -1,0 +1,11 @@
+PMID: 35748527
+Title: Aortic valve calcification predicts poor outcomes after primary percutaneous coronary intervention.
+
+Abstract: BACKGROUND: Aortic valve calcification (AVC) is associated with increased cardiovascular risk in the general population. We sought to investigate whether AVC identified by transthoracic echocardiography could be a predictor of long-term adverse events after primary percutaneous coronary intervention (PCI) in patients with acute myocardial infarction.
+METHODS: Patients undergoing primary PCI were consecutively enrolled in this cohort study between 1 January 2009 and 31 December 31 2018. The presence of AVC was identified by transthoracic echocardiography one to three days after PCI. The primary endpoint was major adverse cardiovascular and cerebral events (MACCE) during follow-up. Propensity score matching was adopted to adjust for the baseline differences between groups.
+RESULTS: Of 2117 patients enrolled in the study, 566 (26.7%) were found to have AVC. Patients with AVC were older, more likely to be women, and disposed to have comorbidities and complex lesions. During a median follow-up period of 6.1 years, 699 cases of MACCE occurred, including 243 (42.9%) cases in patients with AVC and 456 (29.4%) cases in patients without AVC. After 1:1 propensity score matching, the presence of AVC increased the risk of MACCE (adjusted hazard ratio: 1.442, 95% confidence interval: 1.186 to 1.754, p < 0.001). This difference persisted when sensitivity and subgroup analyses were made.
+CONCLUSIONS: AVC identified by transthoracic echocardiography independently increased the long-term risk of MACCE after primary PCI in patients with acute myocardial infarction. This imaging feature will contribute to better risk stratification in this population.
+
+Citation: Dai C, et al. Aortic valve calcification predicts poor outcomes after primary percutaneous coronary intervention. Aortic valve calcification predicts poor outcomes after primary percutaneous coronary intervention. 2022; 52:e13828. doi: 10.1111/eci.13828
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35748527/

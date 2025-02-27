@@ -1,0 +1,11 @@
+PMID: 32420093
+Title: Comparison of surgical versus transcatheter aortic valve replacement for patients with aortic stenosis at low-intermediate risk.
+
+Abstract: BACKGROUND: To compare safety and efficacy of transcatheter aortic valve replacement (TAVR) with surgical aortic valve replacement (SAVR) in patients at low-intermediate risk, given the paucity of robust data.
+METHODS: We performed an aggregate data meta-analysis of 7 randomized controlled trials (RCTs) and 6,778 patients comparing TAVR with SAVR for aortic stenosis (AS) in low-intermediate risk patients (Society of Thoracic Surgeons risk-score ≤8%) using the random-effects model. Primary outcome was all-cause mortality at 30-day, 1-year and 2-year of follow-up. Secondary outcomes included cardiac-mortality, stroke, acute kidney injury (AKI), atrial fibrillation (AF), permanent pacemaker (PPM) implantation, major-bleeding, moderate-severe paravalvular regurgitation (PVR) and rehospitalization.
+RESULTS: All-cause mortality, cardiac-mortality and stroke were comparable between the two groups. AF was higher with SAVR at 30-day [odds ratio (OR) 0.17, 95% confidence intervals (CI): 0.12-0.24] thorough to 2-year (OR 0.34, 95% CI: 0.21-0.55), while PPM implantation was higher with TAVR (30-day: OR 3.31, 95% CI: 1.64-6.66, 2-year: OR 3.17, 95% CI: 1.02-9.86). Moderate-severe PVR was more prevalent with TAVR at all follow-ups. On inter-group comparison, patients in the low-risk group had an even lower risk of AF, but a higher risk of PPM implantation as compared to the patients in the intermediate-risk group undergoing TAVR.
+CONCLUSIONS: Compared to SAVR, TAVR had comparable all-cause mortality and stroke, lower-risk of AF, but was associated with a higher risk of PPM implantation and moderate-severe PVR in low-intermediate-risk patients. Thus, highlighting the need for longer-term follow-up before robust inferences are drawn.
+
+Citation: Khan MR, et al. Comparison of surgical versus transcatheter aortic valve replacement for patients with aortic stenosis at low-intermediate risk. Comparison of surgical versus transcatheter aortic valve replacement for patients with aortic stenosis at low-intermediate risk. 2020; 10:135-144. doi: 10.21037/cdt.2020.02.11
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32420093/

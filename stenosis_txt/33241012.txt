@@ -1,0 +1,11 @@
+PMID: 33241012
+Title: Platelet-to-lymphocyte ratio is an independent predictor of chemoradiotherapy-related esophageal fistula in esophageal cancer patients.
+
+Abstract: BACKGROUND: Neutrophil-to-lymphocyte ratio (NLR), platelet-to-lymphocyte ratio (PLR), and monocyte-to-lymphocyte ratio (MLR) are all markers of systemic inflammation response. The role of systemic inflammation in the development of esophageal fistula (EF) has yet to be defined. This study aimed to investigate the predictive value of hematologic measures of inflammation and to set up a predictive model.
+METHODS: The data of esophageal cancer (EC) patients who received chemoradiotherapy (CRT) in our institution between January, 2015 and January, 2018 were retrospectively collected. The NLR, PLR, and MLR of these enrolled patients were calculated. Univariate and multivariate analyses were performed to find the independent risk factors of EF. Moreover, a nomogram model was developed to predict the probability of fistula occurring in EC patients.
+RESULTS: For PLR, the optimal cut-off value was 153. Patients with PLR >153 had a higher probability of developing fistula than those with PLR ≤153 (P<0.001). Multivariate analyses revealed that esophageal stenosis, ulcerative tumor, and PLR were independent factors for EF. Subsequently, a novel nomogram was set up with the C-index of 0.77 to predict the risk of developing EF in EC patients who received CRT.
+CONCLUSIONS: PLR is an independent predictive indicator for EC patients who receive CRT. These findings will help to facilitate individual risk stratification for the development of EF in patients with EC.
+
+Citation: Han D, et al. Platelet-to-lymphocyte ratio is an independent predictor of chemoradiotherapy-related esophageal fistula in esophageal cancer patients. Platelet-to-lymphocyte ratio is an independent predictor of chemoradiotherapy-related esophageal fistula in esophageal cancer patients. 2020; 8:1163. doi: 10.21037/atm-20-4053
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33241012/

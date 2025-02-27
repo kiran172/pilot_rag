@@ -1,0 +1,11 @@
+PMID: 37792630
+Title: Evaluating the impact of transient shear stress on platelet activation, adhesion, and aggregation with microfluidic chip technique.
+
+Abstract: BACKGROUND: When nonphysiological stenosis occurs, the transient high shear stress formed in vessels increases the risk of thrombosis and is a potential factor for cardiovascular diseases. But the platelet adhesion and aggregation behavior at nonphysiological post-stenosis and its affecting factors are not fully understood yet.
+METHODS: In this experiment, platelet aggregation on collagen and fibrinogen at different shear stresses and different hematocrits were observed by microfluidic technology. Platelet activation (P-selectin, glycoprotein IIb/IIIa) and monocyte-platelet aggregate (MPA) levels under different shear stresses were analyzed by flow cytometry.
+RESULTS: On fibrinogen, platelets aggregate more at higher shear stress conditions. While on collagen, it becomes more difficult for platelets to form stable aggregation at higher shear stress conditions. If platelets adhere initially at low shear stress, stable platelet aggregation can be formed at subsequent high shear stress. Moreover, when the shear stress increases, platelet activity markers (P-selectin, glycoprotein IIb/IIIa and MPAs) increase significantly. Hematocrit affects the degree of platelet aggregation, and the influence of hematocrit is obvious at high shear stress.
+CONCLUSION: Transient high shear stress (46 ms) can effectively activate platelets. Platelet aggregation behavior was different for coated fibrinogen and collagen protein. Stable platelet adhesion at post-stenosis is more dependent on fibrinogen and platelet aggregation is stable on both fibrinogen and collagen. Hematocrit can significantly affect the formation of platelet aggregation.
+
+Citation: Gao X, et al. Evaluating the impact of transient shear stress on platelet activation, adhesion, and aggregation with microfluidic chip technique. Evaluating the impact of transient shear stress on platelet activation, adhesion, and aggregation with microfluidic chip technique. 2024; 48:28-36. doi: 10.1111/aor.14653
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37792630/

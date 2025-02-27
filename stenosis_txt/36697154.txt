@@ -1,0 +1,12 @@
+PMID: 36697154
+Title: Nursing Home Admission Following Transcatheter Aortic Valve Replacement: A Danish Nationwide Cohort Study.
+
+Abstract: BACKGROUND: Loss of autonomy associated with nursing home admission (NHA) is a concern for patients. Yet the incidence of NHA after transcatheter aortic valve replacement (TAVR) is unknown.
+OBJECTIVES: The aim of this study was to investigate the incidence and factors associated with NHA following TAVR compared with the general population.
+METHODS: Through Danish registries, patients alive at discharge after TAVR were identified from January 2014 to October 2021. Patients were matched 1:5 on sex, age, and calendar year to the general population. The 3-year cumulative incidence and 95% CI of NHA were estimated using the Aalen-Johansen estimator, accounting for the competing risk for death. Through multivariate cause-specific Cox regression models, factors associated with NHA were examined.
+RESULTS: In total, 5,312 TAVR patients were matched to 26,560 control subjects with a median age of 81 years and 56.1% males. Comorbidity burden was higher for TAVR patients. The 3-year cumulative incidence of NHA was 6.3% (95% CI: 5.5%-7.1%) for TAVR patients compared with 5.8% (95% CI: 5.4%-6.1%) for the general population. For TAVR patients >85 years of age, the cumulative incidence of NHA was 11.6% (95% CI: 9.5%-13.8%), and the risk for death was 23.3% (95% CI: 20.4%-26.2%). Factors associated with NHA were increasing age, frailty, living alone, and atrial fibrillation.
+CONCLUSIONS: TAVR was not associated with an increased incidence of NHA compared with the general population. Despite the increased incidence of NHA for TAVR patients >85 years of age, approximately 2 in 3 patients were still alive and not admitted to nursing homes 3 years after TAVR.
+
+Citation: Strange JE, et al. Nursing Home Admission Following Transcatheter Aortic Valve Replacement: A Danish Nationwide Cohort Study. Nursing Home Admission Following Transcatheter Aortic Valve Replacement: A Danish Nationwide Cohort Study. 2023; 16:179-188. doi: 10.1016/j.jcin.2022.10.051
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36697154/

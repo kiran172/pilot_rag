@@ -1,0 +1,12 @@
+PMID: 35981834
+Title: The Effect of Coronary Lesion Complexity and Preprocedural Revascularization on 5-Year Outcomes After TAVR.
+
+Abstract: BACKGROUND: Aortic stenosis and coronary artery disease (CAD) frequently coincide. However, the management of coexisting CAD in patients undergoing transcatheter aortic valve replacement (TAVR) remains controversial.
+OBJECTIVES: This study sought to determine whether the presence of CAD, its complexity, and angiography-guided percutaneous coronary intervention (PCI) are associated with outcomes after TAVR.
+METHODS: All patients undergoing TAVR at a tertiary referral center between 2008 and 2020 were included in a prospective observational study. Baseline SYNTAX (Synergy between PCI with Taxus and Cardiac Surgery) score (SS) and, whenever applicable, a residual SS after PCI were calculated. A multivariate analysis was performed to determine the effect of CAD, stratified according to complexity, and PCI on 5-year outcomes.
+RESULTS: In 604 patients, the presence of CAD and its complexity were significantly associated with worse 5-year survival (SS 0: 67.9% vs SS 1-22: 56.1% vs SS >22: 53.0%; log-rank P = 0.027) and increased cardiovascular mortality (SS 0: 15.1% vs SS 1-22: 24.0% vs SS >22: 27.8%; log-rank P = 0.024) after TAVR. Having noncomplex CAD (SS 1-22) was an independent predictor for increased all-cause mortality (HR: 1.43; P = 0.046), while complex CAD (SS >22) increased cardiovascular mortality significantly (HR: 1.84; P = 0.041). Angiography-guided PCI or completeness of revascularization was not associated with different outcomes.
+CONCLUSIONS: The presence of CAD and its anatomical complexity in patients undergoing TAVR are associated with significantly worse 5-year outcomes. However, angiography-guided PCI did not improve outcomes, highlighting the need for further research into physiology-guided PCI.
+
+Citation: Minten L, et al. The Effect of Coronary Lesion Complexity and Preprocedural Revascularization on 5-Year Outcomes After TAVR. The Effect of Coronary Lesion Complexity and Preprocedural Revascularization on 5-Year Outcomes After TAVR. 2022; 15:1611-1620. doi: 10.1016/j.jcin.2022.06.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35981834/

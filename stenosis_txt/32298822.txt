@@ -1,0 +1,11 @@
+PMID: 32298822
+Title: Functional Connectivity Analysis and Prediction of Pain Relief in Association with Spinal Decompression Surgery.
+
+Abstract: BACKGROUND: Although spinal decompression surgery is an effective treatment for myelopathy-induced upper limb pain, some postoperative patients suffer from residual pain in spite of adequate decompression. However, the neural mechanism underlying the poor outcome of pain relief is still unclear. The goal of this study was to explore the brain mechanisms involved in the poor recovery of upper limb pain after the spinal decompression surgery by using functional connectivity (FC) analysis.
+METHODS: In this cross-sectional study, 17 patients who underwent cervical spinal decompression surgery were included. Functional MRI (fMRI) during a tactile stimulus for each hand was performed at 1 day before and 7 days after the surgery. In total, 34 fMRI scans (17 left and right upper limbs, respectively) were obtained before and after the surgery, respectively. The patients were divided into poor-recovery and good-recovery groups, and then we searched for the FC that was related to poor-recovery.
+RESULTS: The poor-recovery group (n = 15) showed significantly stronger connectivity between the postcentral gyrus (postCG) and dorsolateral prefrontal cortex (DLPFC) than the good-recovery group (n = 12) preoperatively. When the cutoff value of the preoperative FC between the left postCG and right middle frontal gyrus included in DLPFC was >0.17, the sensitivity and specificity for poor recovery were 73% and 75%, respectively.
+CONCLUSIONS: Our study showed that FC between the postCG and DLPFC may be a predictor of pain relief. This result suggested that assessing FC can lead to more informed surgical interventions for cervical spondylotic myelopathy.
+
+Citation: Sawada M, et al. Functional Connectivity Analysis and Prediction of Pain Relief in Association with Spinal Decompression Surgery. Functional Connectivity Analysis and Prediction of Pain Relief in Association with Spinal Decompression Surgery. 2020; 139:e316-e324. doi: 10.1016/j.wneu.2020.03.200
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32298822/

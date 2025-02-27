@@ -1,0 +1,11 @@
+PMID: 35662678
+Title: Time trends in the epidemiology of nonrheumatic aortic valve disease in Spain, 2003-2018.
+
+Abstract: INTRODUCTION AND OBJECTIVES: The impact of therapeutic improvements in nonrheumatic aortic valve disease (NRAVD) has been assessed at the patient level but not in the whole population with the disease. Our objective was to assess temporal trends in hospitalization rates, treatment and fatality rates in patients with a main or secondary NRAVD diagnosis.
+METHODS: Retrospective analysis of administrative claims from patients hospitalized with a main or secondary NRAVD diagnosis between 2003 and 2018 in Spain. Time trends in age- and sex-standardized hospitalization and procedure rates, baseline characteristics and case fatality rates by diagnosis type were assessed by Poisson regression and joinpoint analysis.
+RESULTS: Hospital admissions in patients with NRAVD increased from 69 213 in 2003 to 136 185 in 2018. The crude in-hospital fatality rate increased from 6.7% to 8.7% (IRR, 1.015; 95%CI, 1.012-1.018; P <.001) without changes after adjustment. Adjusted fatality rates decreased in patients with a main NRAVD diagnosis (5.5% to 3.5%; IRR, 0.953; 95%CI, 0.942-0.964) but increased in those with a secondary diagnosis (8.0% to 8.8%; IRR, 1.005; 95%CI, 1.002-1.009). Aortic valve replacements increased from 10.5 to 17.1 procedures per 100 000 population (IRR, 1.033; 95%CI, 1.030-1.037), mainly driven by transcatheter procedures (IRR, 1.345; 95%CI, 1.302-1.389).
+CONCLUSIONS: Hospitalizations in patients with NRAVD are increasing, with most being secondary diagnoses. The use of aortic valve replacement is increasing with a reduction in fatality rates but only in patients with a main diagnosis.
+
+Citation: Rosillo N, et al. Time trends in the epidemiology of nonrheumatic aortic valve disease in Spain, 2003-2018. Time trends in the epidemiology of nonrheumatic aortic valve disease in Spain, 2003-2018. 2022; 75:1020-1028. doi: 10.1016/j.rec.2022.06.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35662678/

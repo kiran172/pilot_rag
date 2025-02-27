@@ -1,0 +1,12 @@
+PMID: 36847335
+Title: Performance of machine learning-based coronary computed tomography angiography for selecting revascularization candidates.
+
+Abstract: BACKGROUND: Limited studies have investigated the accuracy of therapeutic decision-making using machine learning-based coronary computed tomography angiography (ML-CCTA) compared with CCTA.
+PURPOSE: To investigate the performance of ML-CCTA for therapeutic decision compared with CCTA.
+MATERIAL AND METHODS: The study population consisted of 322 consecutive patients with stable coronary artery disease. The SYNTAX score was calculated with an online calculator based on ML-CCTA results. Therapeutic decision-making was determined by ML-CCTA results and the ML-CCTA-based SYNTAX score. The therapeutic strategy and the appropriate revascularization procedure were selected using ML-CCTA, CCTA, and invasive coronary angiography (ICA) independently.
+RESULTS: The sensitivity, specificity, positive predictive value, negative predictive value, accuracy of ML-CCTA and CCTA for selecting revascularization candidates were 87.01%, 96.43%, 95.71%, 89.01%, 91.93%, and 85.71%, 87.50%, 86.27%, 86.98%, 86.65%, respectively, using ICA as the standard reference. The area under the receiver operating characteristic curve (AUC) of ML-CCTA for selecting revascularization candidates was significantly higher than CCTA (0.917 vs. 0.866, P = 0.016). Subgroup analysis showed the AUC of ML-CCTA for selecting percutaneous coronary intervention (PCI) or coronary artery bypass graft (CABG) candidates was significantly higher than CCTA (0.883 vs. 0.777, P &lt; 0.001, 0.912 vs. 0.826, P = 0.003, respectively).
+CONCLUSION: ML-CCTA could distinguish between patients who need revascularization and those who do not. In addition, ML-CCTA showed a slightly superior to CCTA in making an appropriate decision for patients and selecting a suitable revascularization strategy.
+
+Citation: Huang Z, et al. Performance of machine learning-based coronary computed tomography angiography for selecting revascularization candidates. Performance of machine learning-based coronary computed tomography angiography for selecting revascularization candidates. 2024; 65:123-132. doi: 10.1177/02841851231158730
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36847335/

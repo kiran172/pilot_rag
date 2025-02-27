@@ -1,0 +1,11 @@
+PMID: 37942757
+Title: A novel risk score model of esophageal stricture for patients undergoing endoscopic submucosal dissection.
+
+Abstract: BACKGROUND AND PURPOSE: Endoscopic submucosal dissection (ESD) is a promising technique for superficial esophageal lesions. However, stricture is a frequent adverse complication. This study was performed to develop a precise and convenient score prediction model for esophageal strictures after ESD, and compare its efficacy with a previously published predictive model.
+METHODS: This study enrolled clinical data of patients who underwent esophageal ESD for superficial esophageal lesions. Possible risk factors for esophageal stricture were identified by univariate and multivariate logistic regression analysis. Then we developed a prediction model according to the Framingham system for the first time and presented a convenient table containing the risk probability for each patient. In addition, we validated our score model and the previously published model in our center.
+RESULTS: A total of 838 patients were enrolled in this study and 6 variables, including age, surgery time, location of the lesion, circumference of the lesion, longitudinal resection length, and depth of infiltration were comprised in the score model. The total score ranged from 0 to 16 points and the risk probability was presented in one concise table for each patient. Areas under receiver-operator characteristic curves for the prediction model were 0.715 in derivation group and 0.804 in validation group.
+CONCLUSION: We designed and validated a prediction score model for esophageal stricture after ESD, which can be applied conveniently to stratify the stricture risk after esophageal ESD and may facilitate appropriate clinical decision-making for these patients.
+
+Citation: Yan J, et al. A novel risk score model of esophageal stricture for patients undergoing endoscopic submucosal dissection. A novel risk score model of esophageal stricture for patients undergoing endoscopic submucosal dissection. 2023; 35:1362-1369. doi: 10.1097/MEG.0000000000002664
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37942757/

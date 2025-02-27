@@ -1,0 +1,11 @@
+PMID: 39022240
+Title: Intraplaque neovascularization combined with plaque elasticity for predicting ipsilateral stroke in patients with asymptomatic mild carotid stenosis.
+
+Abstract: BACKGROUND: Intraplaque neovascularization (IPN) is a biomarker for vulnerable atherosclerotic plaques and can be effectively visualized via contrast-enhanced ultrasound (CEUS). Plaque elasticity is influenced by elements such as lipid core and fibrosis and can be quantitatively assessed on shear wave elastography (SWE). Studies combining the use of CEUS and SWE for the assessment of stroke risk are currently lacking. Our study thus aimed to determine the predictive value of IPN combined with plaque elasticity among patients with asymptomatic carotid plaque.
+METHODS: Consecutive patients with mild carotid stenosis who underwent CEUS and SWE were retrospectively analyzed. IPN was graded according to the presence and location of microbubbles within the plaque, while plaque elasticity was measured in terms of mean shear wave velocity (SWV). All patients were followed up for 6 months to monitor the development of ischemic stroke. The predictive values of IPN and SWV, individually and in combination, were assessed.
+RESULTS: A total of 121 patients were included, of whom 95 (78.5%) were male. The mean age was 63.1±10.7 years. Both grade 2 IPN [hazard ratio (HR) =2.37, 95% confidence interval (CI): 1.58-9.65; P=0.039] and SWV (HR =0.43, 95% CI: 0.20-0.95; P=0.038) were independently associated with future ischemic stroke events. The combined model demonstrated a significantly better predictive performance (HR =3.243, 95% CI: 1.87-6.17; P=0.027).
+CONCLUSIONS: The combination of IPN and SWV demonstrated significantly better predictive value for the risk of stroke. Our combined model thereby has the potential to guide the clinical stratification and management of patients with asymptomatic mild carotid stenosis.
+
+Citation: Zhang L, et al. Intraplaque neovascularization combined with plaque elasticity for predicting ipsilateral stroke in patients with asymptomatic mild carotid stenosis. Intraplaque neovascularization combined with plaque elasticity for predicting ipsilateral stroke in patients with asymptomatic mild carotid stenosis. 2024; 14:4815-4824. doi: 10.21037/qims-24-202
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39022240/

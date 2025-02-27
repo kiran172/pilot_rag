@@ -1,0 +1,11 @@
+PMID: 36594488
+Title: Computed tomography myocardial perfusion imaging of patients with left ventricular hypertrophy in hypertension: A retrospective study.
+
+Abstract: OBJECTIVE: Left ventricular hypertrophy (LVH) is a strong predictor of adverse cardiovascular outcomes including heart failure. This study evaluated characteristics and the influencing factors of computed tomography myocardial perfusion imaging (CT-MPI) of patients with LVH in hypertension.
+METHODS: A total of 65 patients with stable chest pain and confirmed coronary stenosis <50% by coronary computed tomography angiography (cCTA) from September 2019 to February 2021 were recruited. According to the results of echocardiography, patients were divided into the LVH group (n = 33) and control group (patients without LVH, n = 32). The general data of all study subjects were collected, and the body mass index (BMI) and body surface area (BSA) were calculated. Myocardial blood flow (MBF), myocardial blood volume (MBV), and echocardiographic parameters were recorded. Spearman correlation analyses were conducted to analyze the relationship between MBF, MBV, and echocardiographic parameters.
+RESULTS: The LVH group had significantly higher left ventricular end diastolic distance (LVEDd), septal wall thickness diastole (SWTd), and post wall thickness diastole (PWTd) than the control group, resulting in higher left ventricular mass index (LVMI) (P < .05). The LVH group showed significantly lower MBF than the control group (P < .05), but there was no significant difference in MBV between two groups (P > .05). Spearman correlation analysis demonstrated that MBF was negatively correlated with SWTd and LVMI (P < .05).
+CONCLUSIONS: CT-MPI, as a new noninvasive modality to evaluate myocardial perfusion in hypertensive patients, revealed that MBF is reduced in patients with LVH, while MBV remains unchanged. In hypertensive patients, decreased MBF is significantly correlated with increased LVMI.
+
+Citation: Wu X, et al. Computed tomography myocardial perfusion imaging of patients with left ventricular hypertrophy in hypertension: A retrospective study. Computed tomography myocardial perfusion imaging of patients with left ventricular hypertrophy in hypertension: A retrospective study. 2023; 45:2159426. doi: 10.1080/10641963.2022.2159426
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36594488/

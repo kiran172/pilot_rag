@@ -1,0 +1,12 @@
+PMID: 37638969
+Title: Burden, Severity and Characteristic Pattern of Coronary Artery Disease using 160-Slice Computed Tomographic Angiography: Earliest Report from Northern Nigeria.
+
+Abstract: BACKGROUND: Coronary computed tomography angiography (CCTA) allows for non-invasive visualization of the coronary arteries which is promising in diagnosing coronary artery disease.
+OBJECTIVES: To determine the prevalence, morphology, anatomic distribution pattern and correlates of CAD in our environment.
+METHODS: This cross-sectional study was conducted on the first cohort of patients referred for CCTA in our hospital. The patients were examined with 160-slice Toshiba® CT scanner. Their demographic data, relevant clinical information as well as the findings on CCTA were extracted and documented. The data were analysed using the R programming software version 4.0.4.
+RESULTS: Out of a total of 153 patients who presented for CCTA within the study period, 133 (84.7%) were eligible for analysis. Their age ranged from 22-78 years with a mean ± SD of 55.8 ± 11.7 years. A total of 33 (24.8%) had normal CCTA, while 100 (75.2%) had either stenosis or total occlusion. There was a significantly higher (p-value of 0.00001) calcium score among those with stenosis compared to those with normal CCTA. The severity of the stenotic lesion was associated with the calcium score. The logistic regression analyses showed a statistically significant (P = 0.0415, OR = 1.0569, 97.5% CI =1.078152-1.123240) association between age and the presence of coronary stenosis. In addition, most of the stenotic lesions were in the left anterior descending artery (LAD).
+CONCLUSION: Majority of the patients had coronary artery disease of variable severity and the LAD was the most involved artery. There was no significant association between sex and severity of the disease; however, old age and higher number of lesions were associated with severe disease.
+
+Citation: Ismail A, et al. Burden, Severity and Characteristic Pattern of Coronary Artery Disease using 160-Slice Computed Tomographic Angiography: Earliest Report from Northern Nigeria. Burden, Severity and Characteristic Pattern of Coronary Artery Disease using 160-Slice Computed Tomographic Angiography: Earliest Report from Northern Nigeria. 2023; 40:779-785.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37638969/

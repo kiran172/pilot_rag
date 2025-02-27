@@ -1,0 +1,11 @@
+PMID: 32387217
+Title: Impact of Transcatheter Aortic Valve Replacement on Risk Profiles of Surgical Aortic Valve Replacement Patients.
+
+Abstract: BACKGROUND: The advent of transcatheter aortic valve replacement (TAVR) has changed which patients undergo surgical aortic valve replacement (SAVR). We sought to understand the impact of TAVR on the characteristics of SAVR patients in the United States.
+METHODS: A cohort of 2959 patients who underwent isolated SAVR at 11 US hospitals that perform both TAVR and SAVR from 2013 through 2017 were grouped by the Society of Thoracic Surgeons (STS) Adult Cardiac Surgery Database version (v)2.73 (2011-2014), v2.81 (2014-2017), and v2.9 (2017) to assess temporal trends in patient characteristics.
+RESULTS: Over time, SAVR patients were younger with fewer preoperative comorbidities. There was a significant decrease in median STS predicted risk of mortality (PROM) score (2.0 vs. 1.8 vs. 1.3, p < 0.001, in v2.73 vs. v2.81 vs. v2.9). Specifically, there were fewer high-risk (STS PROM > 8%: 4.3% vs. 4.7% vs. 1.2%, p = 0.03) and intermediate-risk (STS PROM 4% to 8%: 16.3% vs. 11.7% vs. 4.3%, p < 0.001) patients. The proportion of patients with bicuspid aortic valve disease increased significantly (11.2% vs. 26.9% vs. 36.6%, p < 0.001). There were no differences in operative mortality (1.9% vs. 2.1% vs. 1.4%, p = 0.75).
+CONCLUSIONS: The introduction of TAVR has already impacted the demographics, clinical characteristics and risk profiles of patients undergoing SAVR in the US. Now that TAVR is approved for low-risk patients, SAVR is likely to be reserved for younger patients who are willing to receive a mechanical valve and for patients with aortopathy, coronary artery disease, or concomitant mitral or tricuspid pathology.
+
+Citation: Craig P, et al. Impact of Transcatheter Aortic Valve Replacement on Risk Profiles of Surgical Aortic Valve Replacement Patients. Impact of Transcatheter Aortic Valve Replacement on Risk Profiles of Surgical Aortic Valve Replacement Patients. 2020; 21:959-963. doi: 10.1016/j.carrev.2020.04.035
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32387217/

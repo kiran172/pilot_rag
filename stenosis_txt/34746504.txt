@@ -1,0 +1,11 @@
+PMID: 34746504
+Title: Preoperative Elemental Diet before Laparoscopic Anterior Resection in Patients with Advanced Stenotic Rectal Cancer.
+
+Abstract: OBJECTIVES: To evaluate the feasibility of our new preoperative enteral nutrition protocol using ElentalⓇ without mechanical bowel preparation (MBP) before laparoscopic anterior resection (LAR) in patients with advanced stenotic rectal cancer.
+METHODS: Among 74 patients with advanced rectal cancer (clinical stages T3 and T4) scheduled to undergo LAR, 42 patients with stenotic rectal cancer were administered ElentalⓇ (900 kcal/day) without MBP before LAR (group S). Thirty-two patients without stenosis (group NS) did not receive preoperative nutritional support but underwent MBP.
+RESULTS: Group S patients were maintained in a fasting state and received an elemental diet approximately 10 days preoperatively without severe adverse effects. The incidence of postoperative complications (Clavien-Dindo classification ≥ grade 2) was significantly lower in group S than that in group NS (adjusted odds ratio [OR]: 6.046, P = 0.008). Logistic regression analysis revealed that group NS exhibited higher risks of developing postoperative complications than those exhibited by group S (OR: 4.32, 95% confidence interval [CI]: 1.28-17.28, P = 0.018). Among preoperative characteristics, the clinical tumor stage indicated a significant intergroup difference. Thus, the clinical stage was selected as a covariate and adjusted in the logistic regression model to calculate a covariate-adjusted OR. Group NS exhibited a higher incidence of postoperative complications than group S (adjusted OR: 6.05, 95% CI: 1.58-28.35, P = 0.008).
+CONCLUSIONS: Administration of an elemental diet using ElentalⓇ without MBP before LAR is a feasible strategy in patients with advanced stenotic rectal cancer. Application of this research may encourage use of ElentalⓇ in the clinical setting.
+
+Citation: Yoshida T, et al. Preoperative Elemental Diet before Laparoscopic Anterior Resection in Patients with Advanced Stenotic Rectal Cancer. Preoperative Elemental Diet before Laparoscopic Anterior Resection in Patients with Advanced Stenotic Rectal Cancer. 2021; 5:395-404. doi: 10.23922/jarc.2021-026
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34746504/

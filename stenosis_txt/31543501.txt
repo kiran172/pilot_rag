@@ -1,0 +1,10 @@
+PMID: 31543501
+Title: Angiography-derived functional assessment of non-culprit coronary stenoses in primary percutaneous coronary intervention.
+
+Abstract: AIMS: Functional assessment of non-culprit lesions (NCL) in patients presenting with ST-elevation myocardial infarction (STEMI) and multivessel disease constitutes an unmet need. This study aimed to evaluate the diagnostic accuracy of quantitative flow ratio (QFR) in the functional assessment of NCL during the acute phase of STEMI.
+METHODS AND RESULTS: This was a retrospective, observational, multicentre study including patients with STEMI and staged fractional flow reserve (FFR) assessment of NCL. QFR in NCL was calculated from the coronary angiogram acquired during primary PCI in a blinded fashion with respect to FFR. The diagnostic value of QFR in the STEMI population was compared with a propensity score-matched population of stable angina patients. Eighty-two patients (91 NCL) were included. Target lesions were of both angiographic and functional (mean FFR 0.82±0.09) intermediate severity. The diagnostic performance of QFR was high (AUC 0.91 [95% CI: 0.85-0.97]) and similar to that observed in the matched control population (AUC 0.91 vs 0.94, p=0.5). The diagnostic accuracy of QFR was very high (>95%) in those vessels (61.5%) with QFR values out of a ROC-defined "grey zone" (0.75-0.85). A hybrid FFR/QFR approach (FFR only when QFR is in the grey zone) would adequately classify 96.7% of NCL, avoiding 58.5% of repeat diagnostic procedures.
+CONCLUSIONS: QFR has a good diagnostic accuracy in assessing the functional relevance of NCL during primary PCI, similar to the accuracy observed in stable patients.
+
+Citation: Lauri FM, et al. Angiography-derived functional assessment of non-culprit coronary stenoses in primary percutaneous coronary intervention. Angiography-derived functional assessment of non-culprit coronary stenoses in primary percutaneous coronary intervention. 2020; 15:e1594-e1601. doi: 10.4244/EIJ-D-18-01165
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31543501/

@@ -1,0 +1,11 @@
+PMID: 34498008
+Title: Diagnostic and Prognostic Performance of Aortic Valve Calcium Score with Cardiac CT for Aortic Stenosis: A Meta-Analysis.
+
+Abstract: PURPOSE: To evaluate the diagnostic and prognostic performance of the aortic valve calcium score (AVCS) with the Agatston method using CT in aortic stenosis (AS) and to assess mean AVCS according to AS severity.
+MATERIALS AND METHODS: In this meta-analysis, PubMed, Embase, and Cochrane were searched from January 1, 1980, to December 31, 2020, for studies reporting sensitivity and specificity of AVCS using CT for severe AS, mean AVCS in severe and nonsevere AS, and/or hazard ratios for all-cause mortality in AS. Data were pooled using random effect models and meta-analysis software.
+RESULTS: Twelve studies (six diagnostic, three prognostic, and 10 reporting mean AVCS by AS severity) were included for analysis. A total of 4101 patients (2255 with severe AS) were described in these 12 studies. Pooled sensitivity and specificity were 82% (95% CI: 80, 84) and 78% (95% CI: 75, 81), respectively. Pooled mean AVCS were 3219 (95% CI: 2795, 3643) for severe AS, compared with 1252 (95% CI: 863, 1640) for nonsevere AS, 1808 (95% CI: 1163, 2452) for moderate AS, and 584 (95% CI: 309, 859) for mild AS. Pooled hazard ratio for AVCS as a binary threshold to predict mortality was 2.11 (95% CI: 1.11, 4.12).
+CONCLUSION: AVCS had moderate to high sensitivity and specificity for identifying severe AS and was also a useful prognostic imaging marker in AS. Mean AVCS categorized by AS severity may help guide clinical management.Keywords CT, Aortic Valve, Valves, Meta-Analysis© RSNA, 2021.
+
+Citation: Wang TKM, et al. Diagnostic and Prognostic Performance of Aortic Valve Calcium Score with Cardiac CT for Aortic Stenosis: A Meta-Analysis. Diagnostic and Prognostic Performance of Aortic Valve Calcium Score with Cardiac CT for Aortic Stenosis: A Meta-Analysis. 2021; 3:e210075. doi: 10.1148/ryct.2021210075
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34498008/

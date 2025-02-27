@@ -1,0 +1,11 @@
+PMID: 37528628
+Title: Effect of dipeptidyl peptidase-4 inhibitor on the progression of coronary artery disease evaluated by computed tomography in patients receiving insulin therapy for type 2 diabetes mellitus.
+
+Abstract: BACKGROUND: We evaluated the effect of a dipeptidyl peptidase-4 inhibitor (DPP-4i) on the progression of obstructive coronary artery disease (OCAD) in patients with type 2 diabetes mellitus (T2DM) receiving insulin therapy.
+METHODS: Using a multicenter clinical data warehouse, we analyzed the patients receiving insulin therapy for T2DM who underwent coronary computed tomography angiography (CCTA) for ≥2 times. The patients were divided into two groups according to the presence of DPP-4i prescription between the two CCTA examinations. The prevalence of OCAD (>50% stenosis on CCTA), new revascularization rates, and changes in the coronary calcium score (CCS) were analyzed.
+RESULTS: A total of 623 patients were included, and a DPP-4i was prescribed to 380 (60.9%) patients. The median time difference between the two CCTAs was 39.0 (17.0-61.4) months. Newly developed OCAD at the follow-up CCTA was detected in 62 (16.3%) patients in the DPP-4i group and 76 (31.3%) patients in the no DPP-4i group (p < 0.001). The risk of new OCAD or new revascularization was lower in the DPP-4i group (19.7% vs. 38.7%; p < 0.001). After propensity score matching, the prevalence of new OCAD (15.9% vs. 29.5%; p = 0.001) and the composite rate of new OCAD or new revascularization (18.7% vs. 37.3%; p < 0.001) were lower in the DPP-4i group. The change in CCS per year did not differ significantly between the two groups (9.1 [0.1-56.8] vs. 13.5 [0.0-78.6]; p = 0.715).
+CONCLUSIONS: Add-on DPP-4i therapy would be beneficial in preventing coronary artery disease progression in patients with T2DM receiving insulin therapy.
+
+Citation: Choi Y, et al. Effect of dipeptidyl peptidase-4 inhibitor on the progression of coronary artery disease evaluated by computed tomography in patients receiving insulin therapy for type 2 diabetes mellitus. Effect of dipeptidyl peptidase-4 inhibitor on the progression of coronary artery disease evaluated by computed tomography in patients receiving insulin therapy for type 2 diabetes mellitus. 2023; 15:944-954. doi: 10.1111/1753-0407.13449
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37528628/

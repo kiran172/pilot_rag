@@ -1,0 +1,12 @@
+PMID: 35926921
+Title: Outcomes of Redo Transcatheter Aortic Valve Replacement According to the Initial and Subsequent Valve Type.
+
+Abstract: BACKGROUND: As transcatheter aortic valve (TAV) replacement is increasingly used in patients with longer life expectancy, a sizable proportion will require redo TAV replacement (TAVR). The unique configuration of balloon-expandable TAV (bTAV) vs a self-expanding TAV (sTAV) potentially affects TAV-in-TAV outcome.
+OBJECTIVES: The purpose of this study was to better inform prosthesis selection, TAV-in-TAV outcomes were assessed according to the type of initial and subsequent TAV.
+METHODS: Patients from the Redo-TAVR registry were analyzed using propensity weighting according to their initial valve type (bTAV [n = 115] vs sTAV [n = 106]) and subsequent valve type (bTAV [n = 130] vs sTAV [n = 91]).
+RESULTS: Patients with failed bTAVs presented later (vs sTAV) (4.9 ± 2.1 years vs 3.7 ± 2.3 years; P &lt; 0.001), with smaller effective orifice area (1.0 ± 0.7 cm2 vs 1.3 ± 0.8 cm2; P = 0.018) and less frequent dominant regurgitation (16.2% vs 47.3%; P &lt; 0.001). Mortality at 30 days was 2.3% (TAV-in-bTAV) vs 0% (TAV-in-sTAV) (P = 0.499) and 1.7% (bTAV-in-TAV) vs 1.0% (sTAV-in-TAV) (P = 0.612); procedural safety was 72.6% (TAV-in-bTAV) vs 71.2% (TAV-in-sTAV) (P = 0.817) and 73.2% (bTAV-in-TAV) vs 76.5% (sTAV-in-TAV) (P = 0.590). Device success was similar according to initial valve type but higher with subsequent sTAV vs bTAV (77.2% vs 64.3%; P = 0.045), primarily because of lower residual gradients (10.3 mm Hg [8.9-11.7 mm Hg] vs 15.2 mm Hg [13.2-17.1 mm Hg]; P &lt; 0.001). Residual regurgitation (moderate or greater) was similar after bTAV-in-TAV and sTAV-in-TAV (5.7%) and nominally higher after TAV-in-bTAV (9.1%) vs TAV-in-sTAV (4.4%) (P = 0.176).
+CONCLUSIONS: In selected patients, no association was observed between TAV type and redo TAVR safety or mortality, yet subsequent sTAV was associated with higher device success because of lower redo gradients. These findings are preliminary, and more data are needed to guide valve choice for redo TAVR.
+
+Citation: Landes U, et al. Outcomes of Redo Transcatheter Aortic Valve Replacement According to the Initial and Subsequent Valve Type. Outcomes of Redo Transcatheter Aortic Valve Replacement According to the Initial and Subsequent Valve Type. 2022; 15:1543-1554. doi: 10.1016/j.jcin.2022.05.016
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35926921/

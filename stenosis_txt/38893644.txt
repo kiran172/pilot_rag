@@ -1,0 +1,11 @@
+PMID: 38893644
+Title: ABCD2-I Score Predicts Unplanned Emergency Department Revisits within 72 Hours Due to Recurrent Acute Ischemic Stroke.
+
+Abstract: BACKGROUND: the ABCD2 score is valuable for predicting early stroke recurrence after a transient ischemic attack (TIA), and Doppler ultrasound can aid in expediting stroke triage. The study aimed to investigate whether combining the ABCD2 score with carotid duplex results can enhance the identification of early acute ischemic stroke after TIA.
+METHODS: we employed a retrospective cohort design for this study, enrolling patients diagnosed with TIA who were discharged from the emergency department (ED). The modified ABCD2-I (c50) score, which incorporates a Doppler ultrasound assessment of internal carotid artery stenosis > 50%, was used to evaluate the risk of acute ischemic stroke within 72 h. Patients were categorized into three risk groups: low risk (with ABCD2 and ABCD2-I scores = 0-4), moderate risk (ABCD2 score = 4-5 and ABCD2-I score = 5-7), and high risk (ABCD2 score = 6-7 and ABCD2-I score = 8-9).
+RESULTS: between 1 January 2014, and 31 December 2019, 1124 patients with new neurological deficits were screened, with 151 TIA patients discharged from the ED and included in the analysis. Cox proportional hazards analysis showed that patients in the high-risk group, as per the ABCD2-I (c50) score, were significantly associated with revisiting the ED within 72 h due to acute ischemic stroke (HR: 3.12, 95% CI: 1.31-7.41, p = 0.0102), while the ABCD2 alone did not show significant association (HR: 1.12, 95% CI: 0.57-2.22, p = 0.7427).
+CONCLUSION: ABCD2-I (c50) scores effectively predict early acute ischemic stroke presentations to the ED within 72 h after TIA.
+
+Citation: Lu WZ, et al. ABCD2-I Score Predicts Unplanned Emergency Department Revisits within 72 Hours Due to Recurrent Acute Ischemic Stroke. ABCD2-I Score Predicts Unplanned Emergency Department Revisits within 72 Hours Due to Recurrent Acute Ischemic Stroke. 2024; 14:(unknown pages). doi: 10.3390/diagnostics14111118
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38893644/

@@ -1,0 +1,11 @@
+PMID: 35134596
+Title: Real time reduced order model for angiography fractional flow reserve.
+
+Abstract: BACKGROUND AND OBJECTIVES: Fractional flow reserve (FFR) is the gold standard for quantification of coronary stenosis and pressure wire is the gold standard for measuring FFR. Recently, computational fluid dynamics (CFD) methods have been used to compute FFR less invasively using images obtained from coronary angiography. This approach is, however, computationally intensive and solutions to reduce computation time are clearly required.
+METHODS: We hypothesized that FFR can be calculated instantly using a reduced order model (ROM) derived using response surface method (RSM) for simulation modeling in lieu of the computationally intensive CFD. Specifically, eleven physiological and anatomical factors known to affect FFR were selected as input variables, and Plackett-Burman analysis was performed in conjunction with CFD on model arteries to identify set of variables affecting FFR the most. Based on the Box-Behnken design, a mathematical model was developed to compute FFR using the retained set of variables.
+RESULTS: The model fidelity was tested on a cohort of 90 patients (100 coronary arteries) with known pressure-wire FFR. FFR derived from this ROM had a strong correlation with pressure-wire FFR with sensitivity of 89.4%, specificity of 100% and area under curve of 0.947 (p < 0.05).
+CONCLUSIONS: The ROM method can be used to reliably calculate FFR in patients with coronary stenosis and able to replace time-consuming CFD-based FFR estimation and provide instead a real-time calculation method.
+
+Citation: Hashemi J, et al. Real time reduced order model for angiography fractional flow reserve. Real time reduced order model for angiography fractional flow reserve. 2022; 216:106674. doi: 10.1016/j.cmpb.2022.106674
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35134596/

@@ -1,0 +1,12 @@
+PMID: 39177555
+Title: 3-Year Outcomes of Balloon-Expandable Valves: 20-mm vs Larger Valves (≥23 mm).
+
+Abstract: BACKGROUND: A prior Society of Thoracic Surgeons/American College of Cardiology TVT (Transcatheter Valve Therapy) Registry-based analysis reported similar 1-year clinical outcomes with small (20-mm) vs large (≥23-mm) balloon-expandable valves (BEV).
+OBJECTIVES: The aim of this study was to describe mid-term 3-year clinical outcomes for small vs large BEV and the relationship between discharge echocardiographic mean gradient (MG) and different definitions of prothesis-patient mismatch (PPM) with clinical outcomes.
+METHODS: Using the TVT Registry with Centers for Medicare and Medicaid Services linkage, a propensity-matched analysis of patients receiving 20- vs ≥23-mm BEVs was performed. Spline curves and Kaplan-Meier plots with adjusted HRs determined the relationship between MG and 3-year mortality.
+RESULTS: In total, 316,091 patients were analyzed; after propensity matching, 8,100 pairs of each group were compared. The 20-mm BEV was associated with higher MGs compared with ≥23-mm BEVs (16.2 ± 7.2 mm Hg vs 11.8 ± 5.7 mm Hg; P < 0.0001). At 3 years, there was no difference in mortality between 20- and ≥23-mm BEVs (31.5% vs 32.5%, respectively; HR: 0.97; 95% CI: 0.90-1.05). Compared with an MG of 10 to 30 mm Hg, an MG <10 mm Hg (HR: 1.25; 95% CI:1.22-1.27) was associated with increased 3-year mortality. Measured severe PPM and predicted no PPM were associated with increased 3-year mortality (33.5% vs 32.9% vs 32.1%; P < 0.0001) and (33.5% vs 31.1% vs 30%; P < 0.0001), respectively. Low MG and severe measured PPM were associated with lower left ventricular ejection fraction (LVEF).
+CONCLUSIONS: Patients with small-prosthesis BEVs (20 mm) had identical 3-year survival as those with larger (≥23-mm) BEV valves. Severe measured PPM and low MG (<10 mm Hg), but not predicted severe PPM, were associated with lower LVEF and increased mortality, suggesting that LVEF is the culprit for worse outcomes.
+
+Citation: Eng MH, et al. 3-Year Outcomes of Balloon-Expandable Valves: 20-mm vs Larger Valves (≥23 mm). 3-Year Outcomes of Balloon-Expandable Valves: 20-mm vs Larger Valves (≥23 mm). 2024; 17:2041-2051. doi: 10.1016/j.jcin.2024.06.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39177555/

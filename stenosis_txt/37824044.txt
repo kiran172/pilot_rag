@@ -1,0 +1,11 @@
+PMID: 37824044
+Title: Fibrinogen/albumin ratio and carotid artery plaques in coronary heart disease patients with different glucose metabolic states: a RCSCD-TCM study.
+
+Abstract: AIM: The relationship between fibrinogen/albumin ratio (FAR) and carotid artery plaques (CAPs) was investigated in patients with coronary heart disease (CHD).
+METHODS: A total of 11,624 patients with CHD were enrolled and divided into quartiles based on the FAR (Q1: FAR index ≤ 0.0663; Q2: 0.0664 ≤ FAR index ≤ 0.0790; Q3: 0.0791 ≤ FAR index ≤ 0.0944; Q4: FAR index > 0.0944). Patients were classified into three groups according to their blood glucose levels: normal glucose regulation (NGR), prediabetes mellitus (pre-DM), and diabetes mellitus (DM) groups. Carotid ultrasonography was performed to detect CAPs. The relationship between FAR and CAPs was evaluated using logistic and subgroup analyses.
+RESULTS: Among 11,624 participants, 8738 (75.14%) had CAPs. Compared with Q1, the odds ratio (OR) of Q4 in patients with CHD was 2.00 (95% confidence interval [CI]: 1.71-2.34) after multivariate adjustment. Taking Q1 as a reference, a higher OR was observed in Q4 of FAR for CAPs in men [OR: 2.26; 95% CI: 1.73-2.95] in the multi-adjusted models. Moreover, multivariate adjustment indicated that the highest OR was observed in patients with CHD and DM (OR: 2.36; 95% CI: 1.80-3.10).
+CONCLUSIONS: A significant association between FAR and CAPs was observed in patients with CHD, regardless of sex or blood glucose levels. Therefore, FAR may be used as an effective indicator to identify patients at a high risk of CAPs among patients with CHD.
+
+Citation: Wang X, et al. Fibrinogen/albumin ratio and carotid artery plaques in coronary heart disease patients with different glucose metabolic states: a RCSCD-TCM study. Fibrinogen/albumin ratio and carotid artery plaques in coronary heart disease patients with different glucose metabolic states: a RCSCD-TCM study. 2024; 84:100-108. doi: 10.1007/s12020-023-03558-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37824044/

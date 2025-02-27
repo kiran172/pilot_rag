@@ -1,0 +1,11 @@
+PMID: 36436876
+Title: Hyperhomocysteinemia Increases Vascular Risk in Stroke Patients with Chronic Kidney Disease.
+
+Abstract: AIMS: We aimed to assess the prognostic impact of hyperhomocysteinemia (HHcy) on the recurrent vascular event risk in stroke patients with or without chronic kidney disease (CKD).
+METHODS: In this prospective observational study, 621 patients (mean age, 69.5 years; male, 62.2%) with ischemic stroke or transient ischemic attack were consecutively enrolled within 1 week of onset and followed-up for 1 year. HHcy was defined as elevated levels of fasting total homocysteine ＞15 µmol/L. CKD was defined as an estimated glomerular filtration rate of ＜60 mL/min/1.73 m2 or a history of renal replacement therapy. The primary outcome was a composite of major adverse cardiovascular events (MACEs), including nonfatal stroke, nonfatal acute coronary syndrome, major peripheral artery disease, and vascular death.
+RESULTS: The prevalence of HHcy was 18.5%. Patients with HHcy were more likely to have intracranial (37.4% versus 24.8%; p=0.008) and extracranial (20.9% versus 13.0%; p=0.037) artery stenosis than were those without HHcy. At 1 year, patients with HHcy were at a greater risk of MACE than were those without HHcy (annual rate, 17.8% versus 10.4%; log-rank p=0.033). In the Cox proportional hazard regression models, HHcy was independently associated with an increased risk of MACE in patients with CKD (adjusted hazard ratio [HR], 2.06; 95% confidence interval [CI], 1.02-4.20), whereas HHcy was not predictive of MACE in those without CKD (adjusted HR, 1.00; 95% CI, 0.30-3.32).
+CONCLUSIONS: Elevated levels of serum homocysteine can be an important modifiable risk factor in stroke patients with CKD, but not in those without CKD.
+
+Citation: Mizuno T, et al. Hyperhomocysteinemia Increases Vascular Risk in Stroke Patients with Chronic Kidney Disease. Hyperhomocysteinemia Increases Vascular Risk in Stroke Patients with Chronic Kidney Disease. 2023; 30:1198-1209. doi: 10.5551/jat.63849
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36436876/

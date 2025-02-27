@@ -1,0 +1,11 @@
+PMID: 34622434
+Title: Simplified coronary flow reserve calculations based on three-dimensional coronary reconstruction and intracoronary pressure data.
+
+Abstract: BACKGROUND: Measurements of fractional flow reserve (FFR) and/or coronary flow reserve (CFR) are widely used for hemodynamic characterization of coronary lesions. The frequent combination of the epicardial and microvascular disease may indicate a need for complex hemodynamic evaluation of coronary lesions. This study aims at validating the calculation of CFR based on a simple hemodynamic model to detailed computational fluid dynamics (CFD) analysis.
+METHODS: Three-dimensional (3D) morphological data and pressure values from FFR measurements were used to calculate the target vessel. Nine patients with one intermediate stenosis each, measured by pressure wire, were included in this study.
+RESULTS: A correlation was found between the determined CFR from simple equations and from a steady flow simulation (r = 0.984, p < 10-5). There was a significant correlation between the CFR values calculated by transient and steady flow simulations (r = 0.94, p < 10-3).
+CONCLUSIONS: Feasibility was demonstrated of a simple hemodynamic calculation of CFR based on 3D-angiography and intracoronary pressure measurements. A simultaneous determination of both the FFR and CFR values provides the capability to diagnose microvascular dysfunction: the CFR/FFR ratio characterizes the microvascular reserve.
+
+Citation: Csippa B, et al. Simplified coronary flow reserve calculations based on three-dimensional coronary reconstruction and intracoronary pressure data. Simplified coronary flow reserve calculations based on three-dimensional coronary reconstruction and intracoronary pressure data. 2023; 30:516-525. doi: 10.5603/CJ.a2021.0117
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34622434/

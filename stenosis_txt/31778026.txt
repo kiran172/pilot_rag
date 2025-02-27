@@ -1,0 +1,11 @@
+PMID: 31778026
+Title: Intravascular ultrasound radiofrequency signal analysis of blood speckles: Physiological assessment of intermediate coronary artery stenosis.
+
+Abstract: BACKGROUND: This study aimed to systematically investigate feasibility of radiofrequency intravascular ultrasound (RF-IVUS) analysis of blood signals for assessing functionally significant coronary stenosis.
+METHODS: First, in-vivo human study was performed to evaluate 83 intermediate coronary lesions from 75 patients, using 40-MHz RF-IVUS, fractional flow reserve (FFR) and instantaneous wave-free ratio (iFR). Average blood integrated-backscatter (IB) values within lumen were measured at proximal and distal segments to the stenosis; ΔIB values between the two sites were calculated. Second, bench-test was performed to assess relationships of blood IB values to blood flow velocity and hematocrit using 40 and 60-MHz RF-IVUS.
+RESULTS: In in-vivo study, ΔIB values across the stenosis significantly correlated with both FFR (r = -.85, p &lt; .0001) and iFR (r = -.65, p &lt; .0001), which was confirmed in small minimum lumen area (MLA) lesions (MLA &lt;2.0 mm2 ). Receiver operating characteristic curve analyses identified the best cut-off value as 10.06 of ΔIB values for predicting FFR ≤0.8 and iFR ≤0.89 (sensitivity 76.2 and 95.5%, specificity 100 and 82.0%, positive predictive value 100 and 65.6%, negative predictive value 80.4 and 98.0%, accuracy 92.9 and 92.8% for FFR and iFR). Bench-test study also identified that blood IB values exponentially changed as a function of blood flow velocity at any given hematocrit in both 40 and 60-MHz RF-IVUS.
+CONCLUSIONS: This study supports the potential utility of RF-IVUS analysis of blood signals to estimate functional ischemia, demonstrating relationships of blood ΔIB values to FFR and iFR, as well as relationships between blood IB values and flow velocity.
+
+Citation: Okada K, et al. Intravascular ultrasound radiofrequency signal analysis of blood speckles: Physiological assessment of intermediate coronary artery stenosis. Intravascular ultrasound radiofrequency signal analysis of blood speckles: Physiological assessment of intermediate coronary artery stenosis. 2020; 96:E155-E164. doi: 10.1002/ccd.28612
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31778026/

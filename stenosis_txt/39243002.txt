@@ -1,0 +1,11 @@
+PMID: 39243002
+Title: Risk factor differences in five-year progression of Intracranial artery stenosis and cerebral small vessel disease in general population.
+
+Abstract: BACKGROUND: Intracranial artery stenosis (ICAS) and cerebral small vessel disease (CSVD) are associated with a heavy socioeconomic burden; however, their longitudinal changes remain controversial.
+METHODS: We conducted a longitudinal analysis on 756 participants of Shunyi Cohort who underwent both baseline and follow-up brain magnetic resonance imaging (MRI) and MR angiography in order to investigate the risk factors for ICAS and CSVD progression in community population. Incident ICAS was defined as new stenosis occurring in at least one artery or increased severity of the original artery stenosis. CSVD markers included lacunes, cerebral microbleeds (CMB), and white matter hyperintensities (WMH).
+RESULTS: After 5.58 ± 0.49 years of follow-up, 8.5% of the 756 participants (53.7 ± 8.0 years old, 65.1% women) had incident ICAS. Body mass index (BMI) (OR = 1.09, 95% CI = 1.01-1.17, p = 0.035) and diabetes mellitus (OR = 2.67, 95% CI = 1.44-4.93, p = 0.002) were independent risk factors for incident ICAS. Hypertension was an independent risk factor for incident lacunes (OR = 2.12, 95% CI = 1.20-3.77, p = 0.010) and CMB (OR = 2.32, 95% CI = 1.22-4.41, p = 0.011), while WMH progression was primarily affected by BMI (β = 0.108, SE = 0.006, p = 0.002). A higher LDL cholesterol level was found to independently protect against WMH progression (β = -0.076, SE = 0.027, p = 0.019).
+CONCLUSIONS: Modifiable risk factor profiles exhibit different in patients with ICAS and CSVD progression. Controlling BMI and diabetes mellitus may help to prevent incident ICAS, and antihypertensive therapy may conduce to mitigate lacunes and CMB progression. LDL cholesterol may play an inverse role in large arteries and small vessels.
+
+Citation: Pan ZA, et al. Risk factor differences in five-year progression of Intracranial artery stenosis and cerebral small vessel disease in general population. Risk factor differences in five-year progression of Intracranial artery stenosis and cerebral small vessel disease in general population. 2024; 24:328. doi: 10.1186/s12883-024-03835-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39243002/

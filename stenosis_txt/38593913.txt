@@ -1,0 +1,11 @@
+PMID: 38593913
+Title: Neurosonological Parameters May Predict the Risk of Cerebral Hyperperfusion Syndrome After Carotid Artery Stenting.
+
+Abstract: OBJECTIVE: Cerebral hyperperfusion syndrome (CHS) is a critical complication in patients who underwent carotid artery stenting (CAS). We sought to explore neurosonological parameters and additional risk factors associated with CHS in patients following CAS and further to develop a prediction model for CHS after CAS.
+METHODS: A total of 197 patients who underwent CAS were included in this observational study. All patients were divided into CHS and non-CHS groups. Demographic, clinical, treatment, and laboratory data were extracted from electronic medical records. Logistic regression analysis and nomogram listing were used to build a CHS prediction model. Machine learning algorithms with five-fold cross-validation were used to further validate the CHS prediction model.
+RESULTS: Twenty-two patients had clinically manifested CHS. Four parameters were detected as risk factors associated with CHS, including effective collateral circulation (P = 0.046), asymmetry ratio of peak systolic velocity of the middle cerebral artery (P = 0.001), severe stenosis or occlusion of the contralateral carotid artery (P = 0.010), and low-density lipoprotein cholesterol (P = 0.025). The area under the curve for the prediction model of CHS in the cohort was 0.835 (95% confidence interval 0.760-0.909).
+CONCLUSIONS: In this study, CHS following CAS was associated with effective collateral circulation, ARP, contralateral ICA severe stenosis or occlusion, as well as low-density lipoprotein cholesterol. Subsequently, the CHS prediction model for CAS was built, which has the potential to facilitate tailored and precise management as well as treatment strategies for patients at high risk of CHS.
+
+Citation: Xu M, et al. Neurosonological Parameters May Predict the Risk of Cerebral Hyperperfusion Syndrome After Carotid Artery Stenting. Neurosonological Parameters May Predict the Risk of Cerebral Hyperperfusion Syndrome After Carotid Artery Stenting. 2024; 187:e77-e85. doi: 10.1016/j.wneu.2024.04.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38593913/

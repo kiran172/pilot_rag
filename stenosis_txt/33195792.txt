@@ -1,0 +1,11 @@
+PMID: 33195792
+Title: Predictors of pacemaker dependency in patients implanted with a pacemaker after Transaortic valve replacement.
+
+Abstract: INTRODUCTION AND OBJECTIVES: The development of complete AV block and the need for pacemaker implantation (PM) is the most frequent complication after Transaortic valve replacement (TAVR). In other PM clinical contexts, a higher percentage of ventricular stimulation has been associated with worse prognosis. The objective was to study the existence of predictors of PM dependence.
+METHODS: We identified 96 consecutive patients who had received a PM post-TAVR (all Core-Valve). We retrospectively analyzed this cohort with the aim of identifying predictors of a high and very high percentage of ventricular pacing (VP), PM dependency and survival.
+RESULTS: The mean age was 82.3 years, with a mean logistic EuroSCORE of 17.1, 53% were women and 12% of patients had LVEF < 50%. The indication was complete AV block in 40.5%, and LBBB in 59.5%. Mean survival was 62.7 months, IQR [54.4-71]. The only independent predictor of mortality was the pre-TAVR logistic Euro-SCORE (RR = 1,026, p = 0.033), but not LVEF < 50%, VP > 50%, VP > 85% or PM dependence. In 73 patients PM rhythm was documented at the end of follow-up. Of these, 14 (19.2%) were considered dependent, and 37 (50.7%) presented VP > 50%. The post-TAVR complete AV block recovery rate was 67.8%. In multivariate analysis, female sex (HR = 5.6, p = 0.005), and indication of complete AV block vs. LBBB (HR = 15.7, p = 0.017) were independently associated with PM dependency.
+CONCLUSIONS: Female sex and indication due to complete AV block were independent predictors of PM dependency during follow up. In our series of patients with mostly normal LVEF, a high percentage of stimulation does not influence prognosis.
+
+Citation: Ruiz-Hernandez PM, et al. Predictors of pacemaker dependency in patients implanted with a pacemaker after Transaortic valve replacement. Predictors of pacemaker dependency in patients implanted with a pacemaker after Transaortic valve replacement. 2020; 31:100654. doi: 10.1016/j.ijcha.2020.100654
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33195792/

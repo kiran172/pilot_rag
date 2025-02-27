@@ -1,0 +1,13 @@
+PMID: 37004526
+Title: A machine-learning based bio-psycho-social model for the prediction of non-obstructive and obstructive coronary artery disease.
+
+Abstract: BACKGROUND: Mechanisms of myocardial ischemia in obstructive and non-obstructive coronary artery disease (CAD), and the interplay between clinical, functional, biological and psycho-social features, are still far to be fully elucidated.
+OBJECTIVES: To develop a machine-learning (ML) model for the supervised prediction of obstructive versus non-obstructive CAD.
+METHODS: From the EVA study, we analysed adults hospitalized for IHD undergoing conventional coronary angiography (CCA). Non-obstructive CAD was defined by a stenosis < 50% in one or more vessels. Baseline clinical and psycho-socio-cultural characteristics were used for computing a Rockwood and Mitnitski frailty index, and a gender score according to GENESIS-PRAXY methodology. Serum concentration of inflammatory cytokines was measured with a multiplex flow cytometry assay. Through an XGBoost classifier combined with an explainable artificial intelligence tool (SHAP), we identified the most influential features in discriminating obstructive versus non-obstructive CAD.
+RESULTS: Among the overall EVA cohort (n = 509), 311 individuals (mean age 67 ± 11 years, 38% females; 67% obstructive CAD) with complete data were analysed. The ML-based model (83% accuracy and 87% precision) showed that while obstructive CAD was associated with higher frailty index, older age and a cytokine signature characterized by IL-1β, IL-12p70 and IL-33, non-obstructive CAD was associated with a higher gender score (i.e., social characteristics traditionally ascribed to women) and with a cytokine signature characterized by IL-18, IL-8, IL-23.
+CONCLUSIONS: Integrating clinical, biological, and psycho-social features, we have optimized a sex- and gender-unbiased model that discriminates obstructive and non-obstructive CAD. Further mechanistic studies will shed light on the biological plausibility of these associations.
+CLINICAL TRIAL REGISTRATION: NCT02737982.
+
+Citation: Raparelli V, et al. A machine-learning based bio-psycho-social model for the prediction of non-obstructive and obstructive coronary artery disease. A machine-learning based bio-psycho-social model for the prediction of non-obstructive and obstructive coronary artery disease. 2023; 112:1263-1277. doi: 10.1007/s00392-023-02193-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37004526/

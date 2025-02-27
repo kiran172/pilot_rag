@@ -1,0 +1,14 @@
+PMID: 33349502
+Title: MAGGIC, STS, and EuroSCORE II Risk Score Comparison After Aortic and Mitral Valve Surgery.
+
+Abstract: OBJECTIVES: To compare the Meta-Analysis Global Group in Chronic Heart Failure (MAGGIC) risk score with the established Society of Thoracic Surgeons (STS) and EuroSCORE II risk prediction models regarding mortality discrimination after aortic and mitral valve surgery.
+DESIGN: Retrospective cohort study.
+SETTING: Single tertiary academic medical center.
+PARTICIPANTS: A total of 259 patients who underwent open aortic valve replacement or open mitral valve repair/replacement from 2009-2014.
+INTERVENTIONS: Retrospective chart review.
+MEASUREMENTS AND MAIN RESULTS: MAGGIC, STS, and EuroSCORE II risk scores for each patient were studied using binary logistic regression and receiver operating characteristic analysis for the primary endpoint of one-year mortality and secondary endpoint of 30-day mortality. One-year mortality C-statistics were similar across risk scores (STS 0.709, 95% confidence interval [CI] 0.578-0.841; MAGGIC 0.673, 95% CI 0.547-0.799; EuroSCORE II 0.642, 95% CI 0.521-0.762; p = 0.56 between STS and MAGGIC; p = 0.20 between STS and EuroSCORE II; and p = 0.69 between MAGGIC and EuroSCORE II). Thirty-day mortality C-statistics also were similar between STS (0.797, 95% CI 0.655-0.939; p < 0.0001 v null hypothesis), MAGGIC (0.721, 95% CI 0.581-0.860; p = 0.33 v STS), and EuroSCORE II (0.688, 95% CI 0.557-0.818; p = 0.06 v STS; p = 0.68 v MAGGIC).
+CONCLUSIONS: The MAGGIC risk score performs similarly to STS and EuroSCORE II risk models in mortality discrimination after aortic and mitral valve surgery, albeit in a small sample size. This finding has important implications in establishing MAGGIC as a viable prognostic model in this population subset, with fewer variables and ease of use representing key advantages over STS and EuroSCORE II.
+
+Citation: Zhuo DX, et al. MAGGIC, STS, and EuroSCORE II Risk Score Comparison After Aortic and Mitral Valve Surgery. MAGGIC, STS, and EuroSCORE II Risk Score Comparison After Aortic and Mitral Valve Surgery. 2021; 35:1806-1812. doi: 10.1053/j.jvca.2020.11.053
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33349502/

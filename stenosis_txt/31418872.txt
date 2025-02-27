@@ -1,0 +1,12 @@
+PMID: 31418872
+Title: Is a voice-specific instrument more indicative of stroboscopy results than common clinical queries?
+
+Abstract: OBJECTIVES: To determine whether the Voice Handicap Index-10 (VHI-10) predicts diagnoses made via laryngoscopy/stroboscopy, as compared to common clinical inquiries about vocal characteristics.
+METHODS: We prospectively collected data from a cohort of 204 consecutive patients newly presenting for ambulatory laryngology evaluation. Each patient completed the VHI-10 and 16 concurrent mainstream queries about vocal characteristics such as weakness, breathiness, fatiguability, or inability to shout. Using the objective diagnoses made by laryngoscopy/stroboscopy as a gold standard, the area under the receiver operating characteristic curves (AUC), sensitivity, and specificity were determined.
+RESULTS: For unilateral vocal fold paralysis, VHI-10 scores had an AUC of 0.78 (95% CI, 0.68-0.88) and had better discrimination than 12 common clinical queries. At a threshold score of ≥11, VHI-10 sensitivity was 0.94; at a threshold of ≥31, specificity was 0.91. For laryngeal stenosis, the VHI-10 score demonstrated moderate discrimination, with an AUC of 0.79 (95% CI, 0.56-1.00) and higher discrimination than three common clinical queries. At a threshold score of ≥11, VHI-10 sensitivity was 1.00; at a threshold of ≥31, specificity was 0.89. Both VHI-10 scores and common clinical queries had low diagnostic ability for vocal fold paresis, laryngopharyngeal reflux (LPR), paradoxical vocal fold motion, and vocal fold scar or atrophy.
+CONCLUSIONS: The VHI-10 score is an effective diagnostic indicator of laryngoscopy/stroboscopy findings of vocal fold paralysis and laryngeal stenosis, performing better than multiple mainstream queries about vocal characteristics. VHI-10 scores and common clinical queries are limited in their ability to indicate paresis, reflux, paradoxical motion, and vocal fold scar or atrophy.
+LEVEL OF EVIDENCE: 2c Laryngoscope, 130:992-999, 2020.
+
+Citation: DeVore EK, et al. Is a voice-specific instrument more indicative of stroboscopy results than common clinical queries?. Is a voice-specific instrument more indicative of stroboscopy results than common clinical queries?. 2020; 130:992-999. doi: 10.1002/lary.28207
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31418872/

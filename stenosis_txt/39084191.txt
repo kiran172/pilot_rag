@@ -1,0 +1,11 @@
+PMID: 39084191
+Title: Conventional Excisional Haemorrhoidectomy versus Transanal Haemorrhoidal Dearterialization for Haemorrhoids: A Systematic Review and Meta-Analysis.
+
+Abstract: INTRODUCTION: Although effective, conventional excisional haemorrhoidectomy (CEH) is associated with significant postoperative pain. Novel techniques such as transanal haemorrhoidal dearterialization (THD) are suggested to reduce pain but may result in higher recurrence rates. We aimed to compare short- and long-term outcomes of CEH and THD in the present meta-analysis.
+METHODS: A PRISMA-compliant meta-analysis was performed, searching PubMed, Embase, and CENTRAL databases for randomised controlled trials (RCTs) from 1995 to December 2022. The primary objective was recurrence. Secondary objectives included complication rates, length of stay (LOS), operative time, and time to return to baseline. Random-effects models were used to calculate pooled effect size estimates. Subgroup analysis was also performed.
+RESULTS: A total of 6 RCTs encompassing 465 patients were captured. There were 142 (59%) males in the CEH group and 129 (54%) in the THD group. On random-effects analysis, THD had a higher recurrence rate (odds ratio = 2.76, 95% confidence interval [CI] = 1.03-7.38, p = 0.04) albeit a shorter return to baseline compared to CEH (mean difference = -14.05 days, 95% CI = -20.38 to -7.72, p &lt; 0.0001). There were no differences in bleeding (p = 0.12), urinary retention (p = 0.97), incontinence (p = 0.41), anal stenosis (p = 0.19), thrombosed residual haemorrhoids (p = 0.16), operating time (p = 0.19), or LOS (p = 0.22). Results remained similar on subgroup analysis.
+CONCLUSIONS: CEH is associated with lower recurrence but similar complication rates to THD, although patients take longer to return to baseline function postoperatively.
+
+Citation: Jee J, et al. Conventional Excisional Haemorrhoidectomy versus Transanal Haemorrhoidal Dearterialization for Haemorrhoids: A Systematic Review and Meta-Analysis. Conventional Excisional Haemorrhoidectomy versus Transanal Haemorrhoidal Dearterialization for Haemorrhoids: A Systematic Review and Meta-Analysis. 2024; 41:204-212. doi: 10.1159/000540256
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39084191/

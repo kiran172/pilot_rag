@@ -1,0 +1,11 @@
+PMID: 37519056
+Title: Evaluation of left ventricular function in patients with coronary slow flow: A systematic review and meta-analysis.
+
+Abstract: BACKGROUND: Coronary slow flow (CSF) is an angiographic finding defined as delayed distal vessel perfusion without severe stenosis of the epicardial coronary arteries. However, definite alterations in left ventricular (LV) function in patients with CSF remains inconsistent. This study aimed to clarify the changes in LV function in patients with CSF and explore the factors that may influence LV function.
+METHODS: PubMed, Embase, and Cochrane Library databases were systematically searched. Standardized mean differences and 95% confidence intervals (CI) for the LV function parameters were calculated. Subgroup analysis, meta-regression analysis, and correlation analysis were performed to explore the factors influencing LV function.
+RESULTS: Twenty-two studies (1101 patients with CSF) were included after searching three databases. In patients with CSF, LV ejection function in patients with CSF was marginally lower (61.8%; 95% CI: 61.0%, 62.7%), global longitudinal strain was decreased (-18.2%; 95% CI: -16.7%, -19.7%). Furthermore, left atrial diameter, left atrial volume index, and E/e' were significantly increased, while E/A and e' were significantly decreased. The mean thrombolysis in myocardial infarction frame count (TFC) was linearly associated with LV function; the larger the mean TFC, the greater the impairment of LV function.
+CONCLUSIONS: Left ventricular systolic and diastolic functions were impaired in patients with CSF, and this impairment was aggravated with increasing mean TFC.
+
+Citation: Dong T, et al. Evaluation of left ventricular function in patients with coronary slow flow: A systematic review and meta-analysis. Evaluation of left ventricular function in patients with coronary slow flow: A systematic review and meta-analysis. 2023; 30:929-37. doi: 10.5603/CJ.a2023.0046
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37519056/

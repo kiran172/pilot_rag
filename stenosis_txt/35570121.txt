@@ -1,0 +1,11 @@
+PMID: 35570121
+Title: Feasibility of precise commissural and coronary alignment with balloon-expandable TAVI.
+
+Abstract: INTRODUCTION AND OBJECTIVES: We aimed to describe the feasibility and preliminary outcomes of commissural alignment (CA) for the balloon-expandable transcatheter heart valve.
+METHODS: The relationship among native commissures and transcatheter aortic valve implantation neocommissures was analyzed in 10 consecutive patients with tricuspid severe aortic stenosis undergoing transcatheter aortic valve implantation after guided implantation based on computed tomography analysis with a self-developed software. CA was predicted by in silico bio-modelling in the 10 patients and the calculated rotation was applied during crimping. Degrees of CA and coronary overlap (CO) were measured through 1-month follow up computed tomography. Transvalvular residual gradients and the rate of paravalvular leak were also analyzed.
+RESULTS: Mean commissural misalignment was 16.7±8°. Four patients showed mild misalignment but none of them showed a moderate or severe degree of misalignment. The in silico model accurately predicted the final in vivo position with a correlation coefficient of 0.983 (95%CI, 0.966-0.992), P <.001. Severe CO with right coronary ostium occurred in 3 patients likely due to ostial eccentricity, and CO was not present with the left coronary artery in any of the patients. Mean transaortic gradient was 6.1±3.3mmHg and there were no moderate-severe paravalvular leaks.
+CONCLUSIONS: Patient-specific rotation during valve crimping based on preprocedural computed tomography is feasible with balloon-expandable devices and is associated with the absence of moderate or severe commissural misalignment and left main CO.
+
+Citation: Santos-Martínez S, et al. Feasibility of precise commissural and coronary alignment with balloon-expandable TAVI. Feasibility of precise commissural and coronary alignment with balloon-expandable TAVI. 2023; 76:19-24. doi: 10.1016/j.rec.2022.03.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35570121/

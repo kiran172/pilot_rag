@@ -1,0 +1,8 @@
+PMID: 39191433
+Title: Role of artificial intelligence in Crohn's disease intestinal strictures and fibrosis.
+
+Abstract: Crohn's disease (CD) is a chronic inflammatory disorder of the gastrointestinal tract. Intestinal fibrosis or stricture is one of the most prevalent complications in CD with a high recurrence rate. Manual examination of intestinal fibrosis or stricture by physicians may be biased or inefficient. A rapid development of artificial intelligence (AI) technique in recent years facilitates the detection of existing or possible intestinal fibrosis and stricture in CD through various modalities, including endoscopy, imaging examination, and serological biomarkers. We reviewed the articles on AI application in diagnosing intestinal fibrosis and stricture in CD during the past decade and categorized them into three aspects based on the detection methods, and found that AI helps accurate and expedient identification and prediction of intestinal fibrosis and stenosis in CD.
+
+Citation: Chen YF, et al. Role of artificial intelligence in Crohn's disease intestinal strictures and fibrosis. Role of artificial intelligence in Crohn's disease intestinal strictures and fibrosis. 2024; 25:476-483. doi: 10.1111/1751-2980.13308
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39191433/

@@ -1,0 +1,11 @@
+PMID: 38828096
+Title: Super resolution deep learning reconstruction for coronary CT angiography: A structured phantom study.
+
+Abstract: PURPOSE: Super-resolution deep-learning-based reconstruction: SR-DLR is a newly developed and clinically available deep-learning-based image reconstruction method that can improve the spatial resolution of CT images. The image quality of the output from non-linear image reconstructions, such as DLR, is known to vary depending on the structure of the object being scanned, and a simple phantom cannot explicitly evaluate the clinical performance of SR-DLR. This study aims to accurately investigate the quality of the images reconstructed by SR-DLR by utilizing a structured phantom that simulates the human anatomy in coronary CT angiography.
+METHODS: The structural phantom had ribs and vertebrae made of plaster, a left ventricle filled with dilute contrast medium, a coronary artery with simulated stenosis, and an implanted stent graft. By scanning the structured phantom, we evaluated noise and spatial resolution on the images reconstructed with SR-DLR and conventional reconstructions.
+RESULTS: The spatial resolution of SR-DLR was higher than conventional reconstructions; the 10 % modulation transfer function of hybrid IR (HIR), DLR, and SR-DLR were 0.792-, 0.976-, and 1.379 cycle/mm, respectively. At the same time, image noise was lowest (HIR: 21.1-, DLR: 19.0-, and SR-DLR: 13.1 HU). SR-DLR could accurately assess coronary artery stenosis and the lumen of the implanted stent graft.
+CONCLUSIONS: SR-DLR can obtain CT images with high spatial resolution and lower noise without special CT equipments, and will help diagnose coronary artery disease in CCTA and other CT examinations that require high spatial resolution.
+
+Citation: Higaki T, et al. Super resolution deep learning reconstruction for coronary CT angiography: A structured phantom study. Super resolution deep learning reconstruction for coronary CT angiography: A structured phantom study. 2024; 12:100570. doi: 10.1016/j.ejro.2024.100570
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38828096/

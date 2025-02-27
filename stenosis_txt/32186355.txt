@@ -1,0 +1,12 @@
+PMID: 32186355
+Title: Predictive value of corrected thrombolysis in myocardial infarction frame count for fractional flow reserve results: an easy tool for patient selection.
+
+Abstract: BACKGROUND: Treatment of moderate stenosis of all coronary arteries remains a challenge for interventional cardiologists. Usually, the hemodynamic significance of moderate stenosis has to be assessed in the catheter laboratory. Fractional flow reserve (FFR) is the preferable method, but it is an invasive technique associated with additional costs. Corrected thrombolysis in myocardial infarction frame count (cTFC) is a simple, repeatable, objective, noninvasive, and quantitative method that allows an indirect assessment of microvascular dysfunction and epicardial coronary stenosis. Only 40% of moderate stenosis cases are found to be hemodynamically severe after FFR measurement; therefore, an additional test would help avoid the use of this invasive tool in the remaining 60% of patients.
+AIMS: We aimed to assess the value of cTFC for predicting FFR results.
+METHODS: A total of 238 consecutive patients who underwent FFR for the assessment of moderate stenosis were enrolled. Coronary angiography records were used to calculate cTFC. Patients were divided into 2 groups: with an FFR value of less than 0.8 (FFR+) and an FFR value of 0.8 or higher (FFR-).
+RESULTS: We noted a significant correlation between cTFC and FFR when used both as a categorical and continuous variable. The cTFC of the FFR+ group was higher as compared with that of the FFR- group (27.68 [11.79] vs 20.39 [8.39]; P <0.001). In the receiver operating characteristic curve analysis, the sensitivity and specificity of the test for predicting FFR below 0.8 were 82% and 52%, respectively, at the cutoff cTFC value of 19.
+CONCLUSIONS: Our study showed that cTFC can predict FFR results. Moreover, it can be used for patient selection for FFR measurement and as a basic physiological assessment tool for moderate coronary stenosis.
+
+Citation: Cebeci M, et al. Predictive value of corrected thrombolysis in myocardial infarction frame count for fractional flow reserve results: an easy tool for patient selection. Predictive value of corrected thrombolysis in myocardial infarction frame count for fractional flow reserve results: an easy tool for patient selection. 2020; 78:311-317. doi: 10.33963/KP.15237
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32186355/

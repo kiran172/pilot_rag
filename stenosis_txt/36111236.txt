@@ -1,0 +1,11 @@
+PMID: 36111236
+Title: Analysis of the risk factors for severe lung injury after radical surgery for tetralogy of fallot.
+
+Abstract: OBJECTIVE: This study aimed to determine the risk factors for severe lung injury (SLI) (partial pressure of oxygen/fraction of inspired oxygen <150) after radical surgery for tetralogy of Fallot with pulmonary stenosis (TOF/PS) in children.
+METHOD: A retrospective analysis was conducted including a total of 287 children with TOF/PS aged below 10 years (including 166 males) who had undergone radical surgery at the Center of Pediatric Heart Disease of the Beijing Anzhen Hospital (China) from 2018 to 2020.
+RESULTS: A total of 83 cases (28.9%) had SLI after surgery. Univariate analysis showed that age, weight, pulmonary artery index (PAI), cardiopulmonary bypass (CPB) time, and polymorphonuclear leukocyte (PMN) percentage on the first day after surgery were risk factors for postoperative SLI. Multivariate logistic regression analysis showed that PAI, PMN percentage on the first day postoperatively, and CPB time were independent risk factors for SLI after surgery. The prediction model was established as follows: Logit(P) = 2.236 + 0.009*CPB-0.008*PAI-0.035*PMN, area under the curve (AUC) = 0.683, P &lt; 0.001, sensitivity 65.8%, and specificity 68.6%. Following surgery, static lung compliance was significantly lower in the SLI group compared with the routine group. Complication rates and mortality were significantly higher in the SLI than in the routine group. Ventilator support times, the length of intensive care unit stays, and the total lengths of hospital stay were significantly longer in the SLI than in the routine group.
+CONCLUSION: The occurrence of SLI following radical surgery for TOF in children significantly affected postoperative recovery, and PAI, PMN percentage on the first day postoperatively, and CPB time were independent risk factors for SLI.
+
+Citation: He Y, et al. Analysis of the risk factors for severe lung injury after radical surgery for tetralogy of fallot. Analysis of the risk factors for severe lung injury after radical surgery for tetralogy of fallot. 2022; 9:892562. doi: 10.3389/fsurg.2022.892562
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36111236/

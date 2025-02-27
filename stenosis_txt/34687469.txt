@@ -1,0 +1,13 @@
+PMID: 34687469
+Title: Predicting Maximal Costal Cartilage Graft Size for Laryngotracheal Reconstruction.
+
+Abstract: OBJECTIVES/HYPOTHESIS: Current methods of assessing rib cartilage dimensions for laryngotracheal reconstruction (LTR) are inexact, making surgical planning difficult. The purpose of this study was to determine the most appropriate rib for costal cartilage graft LTR to minimize the number of ribs harvested and improve surgical outcomes.
+STUDY DESIGN: Retrospective review.
+METHODS: Computed tomography imaging of chest scans in 25 children aged 1 to 18 years was evaluated. The lengths and widths of medial and lateral cartilaginous segments of ribs 4 to 7 were measured bilaterally. Right and left cartilaginous rib dimensions were compared using a two-sample t-test. Linear mixed-effect regression was performed to develop models quantifying the relationship between rib size and patient height, rib side, and rib number.
+RESULTS: Regression analysis established strong models for medial rib length (R2  = 0.89) and for medial and lateral rib width (R2  = 0.71, 0.77, respectively). There was no difference in rib dimensions across chest sides. Rib length and width increased with child height. Total cartilaginous rib length increased from superiorly to inferiorly, primarily due to an increase in the dimensions of the medial portion of each rib.
+CONCLUSION: Cartilaginous rib lengths and widths were associated with patient height, with taller children having longer ribs. Inferior ribs were longer than superior ribs, suggesting that inferior ribs may be preferred for LTR. There was no difference in cartilaginous rib length across chest side. Results may help surgeons with preoperative planning.
+LEVEL OF EVIDENCE: NA Laryngoscope, 132:1682-1686, 2022.
+
+Citation: Wolter NE, et al. Predicting Maximal Costal Cartilage Graft Size for Laryngotracheal Reconstruction. Predicting Maximal Costal Cartilage Graft Size for Laryngotracheal Reconstruction. 2022; 132:1682-1686. doi: 10.1002/lary.29914
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34687469/

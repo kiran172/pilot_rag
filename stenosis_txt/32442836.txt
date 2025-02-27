@@ -1,0 +1,11 @@
+PMID: 32442836
+Title: Improving diagnostic accuracy for arteries of lower extremities with dual-energy spectral CT imaging.
+
+Abstract: PURPOSE: Investigate the clinical value of improving diagnostic accuracy for arteries of lower extremities with low energy images in dual-energy spectral CT (DEsCT) imaging.
+METHOD: 110 (mean age, 67 ± 10 years) and 72 (mean age, 65 ± 13 years) patients underwent CT angiography (CTA) in the lower extremities using dual-energy and conventional (100kVp) imaging mode, retrospectively. The 50 keV monochromatic images were reconstructed in the DEsCT group for analysis. The quantitative and qualitative image quality of the two groups were compared using various statistical analysis methods and the diagnostic accuracy for the degree of vessel stenosis was compared using DSA as the gold standard. Consistency test was used for intra-group evaluation. A P < 0.05 was considered statistically significant.
+RESULTS: The use of 50 keV images in DEsCT significantly increased the enhancement in arteries of LKS (544.91 ± 106.37HU vs. 339.65 ± 83.74HU, P < 0.001) and provided higher SNR (19.92±9.39 vs. 17.39±4.99, P = 0.04) and CNR (45.60±16.61 vs. 38.70±18.17, P < 0.01) compared with conventional 100kVp images. Mann-Whitney test showed that the subjective image quality of the arteries of lower knee segment (LKS) in the DEsCT group was higher than in the conventional group (P = 0.01). The diagnostic efficiency of DEsCT group was better than that of conventional group, mainly in arteries of LKS (95.91 % vs. 87.85 %, for 50 % stenosis, P<0.001; 94.32 % vs. 89.58 % for occlusion, P = 0.02).
+CONCLUSIONS: The use of 50 keV DEsCT images enhances the contrast in the lower extremity arteries and improves the diagnostic accuracy for the arteries of LKS, compared with the conventional CTA protocols.
+
+Citation: Jia X, et al. Improving diagnostic accuracy for arteries of lower extremities with dual-energy spectral CT imaging. Improving diagnostic accuracy for arteries of lower extremities with dual-energy spectral CT imaging. 2020; 128:109061. doi: 10.1016/j.ejrad.2020.109061
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32442836/

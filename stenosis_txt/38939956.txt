@@ -1,0 +1,11 @@
+PMID: 38939956
+Title: Invasive Assessment of Coronary Artery Disease in Clonal Hematopoiesis of Indeterminate Potential.
+
+Abstract: BACKGROUND: Clonal hematopoiesis of indeterminate potential (CHIP) occurs due to acquired mutations in bone marrow progenitor cells. CHIP confers a 2-fold risk of atherosclerotic cardiovascular disease. However, there are limited data regarding specific cardiovascular phenotypes. The purpose of this study was to define the coronary artery disease phenotype of the CHIP population-based on coronary angiography.
+METHODS: We recruited 1142 patients from the Vanderbilt University Medical Center cardiac catheterization laboratory and performed DNA sequencing to determine CHIP status. Multivariable logistic regression models and proportional odds models were used to assess the association between CHIP status and angiography phenotypes.
+RESULTS: We found that 18.4% of patients undergoing coronary angiography had a CHIP mutation. Those with CHIP had a higher risk of having obstructive left main (odds ratio, 2.44 [95% CI, 1.40-4.27]; P=0.0018) and left anterior descending (odds ratio, 1.59 [1.12-2.24]; P=0.0092) coronary artery disease compared with non-CHIP carriers. We additionally found that a specific CHIP mutation, ten eleven translocase 2 (TET2), has a larger effect size on left main stenosis compared with other CHIP mutations.
+CONCLUSIONS: This is the first invasive assessment of coronary artery disease in CHIP and offers a description of a specific atherosclerotic phenotype in CHIP wherein there is an increased risk of obstructive left main and left anterior descending artery stenosis, especially among TET2 mutation carriers. This serves as a basis for understanding enhanced morbidity and mortality in CHIP.
+
+Citation: Heimlich JB, et al. Invasive Assessment of Coronary Artery Disease in Clonal Hematopoiesis of Indeterminate Potential. Invasive Assessment of Coronary Artery Disease in Clonal Hematopoiesis of Indeterminate Potential. 2024; 17:e004415. doi: 10.1161/CIRCGEN.123.004415
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38939956/

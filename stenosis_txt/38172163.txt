@@ -1,0 +1,8 @@
+PMID: 38172163
+Title: Dataset for Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images.
+
+Abstract: X-ray coronary angiography is the most common tool for the diagnosis and treatment of coronary artery disease. It involves the injection of contrast agents into coronary vessels using a catheter to highlight the coronary vessel structure. Typically, multiple 2D X-ray projections are recorded from different angles to improve visualization. Recent advances in the development of deep-learning-based tools promise significant improvement in diagnosing and treating coronary artery disease. However, the limited public availability of annotated X-ray coronary angiography image datasets presents a challenge for objective assessment and comparison of existing tools and the development of novel methods. To address this challenge, we introduce a novel ARCADE dataset with 2 objectives: coronary vessel classification and stenosis detection. Each objective contains 1500 expert-labeled X-ray coronary angiography images representing: i) coronary artery segments; and ii) the locations of stenotic plaques. These datasets will serve as a benchmark for developing new methods and assessing existing approaches for the automated diagnosis and risk assessment of coronary artery disease.
+
+Citation: Popov M, et al. Dataset for Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images. Dataset for Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images. 2024; 11:20. doi: 10.1038/s41597-023-02871-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38172163/

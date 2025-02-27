@@ -1,0 +1,11 @@
+PMID: 38356324
+Title: Quantitative computed tomography angiography evaluation of the coronary fractional flow reserve in patients with left anterior descending artery myocardial bridging.
+
+Abstract: PURPOSE: To quantitatively investigate the effect of myocardial bridge (MB) in the left anterior descending artery (LAD) on the fractional flow reserve (FFR).
+MATERIALS AND METHODS: Three-hundred patients with LAD MB who had undergone coronary artery CT angiography (CCTA) were retrospectively enroled, and 104 normal patients were enroled as the control. The CCTA-derived fractional flow reserve (FFRCT) was measured at the LAD 10 mm proximal (FFR1) and 20-40 mm distal (FFR3) to the MB and at the MB location (FFR2).
+RESULTS: FFR2 and FFR3 of the MB (with BM only) and MBLA (with both MB and atherosclerosis) groups were significantly (p < 0.01) lower than those of the control. The FFR3 distal to the MB was significantly lower (p < 0.01) than that of the control. The FFRCT of the whole LAD in the MBLA group was significantly (p < 0.05) lower than that of the MB and control group (p < 0.05). MB length (OR 1.061) and MB muscle index (odds ratio or OR 1.007) were two risk factors for abnormal FFRCT, and MB length was a significant independent risk factor for abnormal FFRCT (OR = 1.077). LAD stenosis degree was a risk factor for abnormal FFRCT values (OR 3.301, 95% confidence interval [CI] 1.441-7.562, p = 0.005) and was also a significant independent risk factor (OR = 3.369, 95% CI: 1.392-8.152; p = 0.007) for abnormal FFRCT.
+CONCLUSION: MB significantly affects the FFRCT of distal coronary artery. For patients with MB without atherosclerosis, the MB length is a risk factor significantly affecting FFRCT, and for patients with MB accompanied by atherosclerosis, LAD stenotic severity is an independent risk factor for FFRCT.
+
+Citation: Zhang D, et al. Quantitative computed tomography angiography evaluation of the coronary fractional flow reserve in patients with left anterior descending artery myocardial bridging. Quantitative computed tomography angiography evaluation of the coronary fractional flow reserve in patients with left anterior descending artery myocardial bridging. 2024; 44:251-259. doi: 10.1111/cpf.12872
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38356324/

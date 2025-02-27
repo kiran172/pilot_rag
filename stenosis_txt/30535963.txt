@@ -1,0 +1,8 @@
+PMID: 30535963
+Title: Model and Application to Support the Coronary Artery Diseases (CAD): Development and Testing.
+
+Abstract: Cardiovascular diseases are among the main causes of morbidity, disability, and mortality. Most of them occur because of an atherosclerotic plaque developing within a coronary artery, which can cause a narrowing of the vessel lumen (coronary stenosis) or even break it. It is, therefore, useful to evaluate the role of the stress state of the endothelial layer of the arterial tissue, both for the maintenance of the blood circulation and for the implications in presence of a pathology that can lead to thromboembolic complications. The aim of the following study was to develop and test an application that is able to evaluate specific hemodynamic shear stress indicators in coronary arteries at different percentages of stenosis and in different patients' specific conditions. The application, based on Java, allows users to view the results of simulations performed on a coronary anatomy that can be customized with a stenosis of different degrees and positions. Being in possession of a predictive tool for disturbed flow factors may be important for the location and development of atherosclerotic plaque. Moreover, the application can be a valid tool to help in the evaluation of the condition and in the follow-up of the coronary affected by pathology.
+
+Citation: Gaudio LT, et al. Model and Application to Support the Coronary Artery Diseases (CAD): Development and Testing. Model and Application to Support the Coronary Artery Diseases (CAD): Development and Testing. 2020; 12:50-58. doi: 10.1007/s12539-018-0311-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/30535963/

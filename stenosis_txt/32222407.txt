@@ -1,0 +1,12 @@
+PMID: 32222407
+Title: Transapical aortic valve replacement versus surgical aortic valve replacement: A subgroup analyses for at-risk populations.
+
+Abstract: BACKGROUND: If the transfemoral access is not feasible, a transapical access or surgical aortic valve replacement (SAVR) are alternatives for patients with aortic valve stenosis.
+OBJECTIVES: To identify patient groups who benefit from SAVR or transapical transcatheter aortic valve replacement (TA-TAVR), we compared in-hospital outcomes of patients in a nationwide dataset.
+METHODS: We identified 19,016 isolated SAVR and 6432 TA-TAVR performed in Germany from 2014 to 2016. We adjusted for risk factors using a covariate- and propensity-adjusted analysis.
+RESULTS: Patients undergoing TA-TAVR were older, had more comorbidities, and accordingly greater estimated operative risk (logistic European System for Cardiac Operative Risk Evaluation 5.3 vs 17.0, P < .001). However, adjusted risk for in-hospital complications such as stroke, acute kidney injury, relevant bleeding, and prolonged mechanical ventilation >48 hours was lower in patients undergoing TA-TAVR (all P < .001). When we compared in-hospital mortality of all patients undergoing either TA-TAVR or SAVR, neither treatment strategy had a clear advantage (covariate-adjusted odds ratio [caOR], 1.13, P = .251; propensity-adjusted OR [paOR], 1.12, P = .309). Two patient subgroups seem to benefit more from SAVR than TA-TAVR: patients <75 years (caOR, 1.29, P = .237; paOR, 2.12, P = .001) and those with European System for Cardiac Operative Risk Evaluation 4-9 (caOR, 1.32, P = .114; paOR, 1.43, P = .041). Female patients had a tendency toward lower risk for in-hospital mortality when undergoing SAVR (caOR, 1.42, P = .030). In patients with chronic renal failure, TA-TAVR was superior (caOR, 0.56, P = .039, P = .040).
+CONCLUSIONS: Patients <75 years and those at low operative risk who underwent SAVR had lower in-hospital mortality than those undergoing TA-TAVR. Patients with chronic renal failure who underwent TA-TAVR had lower in hospital mortality than those that underwent SAVR.
+
+Citation: Stachon P, et al. Transapical aortic valve replacement versus surgical aortic valve replacement: A subgroup analyses for at-risk populations. Transapical aortic valve replacement versus surgical aortic valve replacement: A subgroup analyses for at-risk populations. 2021; 162:1701-1709.e1. doi: 10.1016/j.jtcvs.2020.02.078
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32222407/

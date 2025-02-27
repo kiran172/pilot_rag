@@ -1,0 +1,11 @@
+PMID: 32601888
+Title: Diagnostic value of clinical risk scores for predicting normal stress myocardial perfusion imaging in subjects without coronary artery calcium.
+
+Abstract: BACKGROUND: We evaluated if risk scores commonly used to predict the absence of significant stenosis at coronary computed tomography (CT) angiography are useful to predict a normal stress myocardial perfusion imaging (MPI) study.
+METHODS: Our cohort included a total of 1422 consecutive patients with zero coronary artery calcium score (ZCS) who underwent 82Rb PET/CT for evaluation of suspected coronary artery disease (CAD). Predictive models were constructed as reported by Genders et al. and Alshahrani et al., and the probability of abnormal summed stress score (SSS) and of reduced myocardial perfusion reserve (MPR) based on these risk scores was assessed.
+RESULTS: In the overall population, the prevalence of abnormal SSS was 0.10 and the prevalence of reduced MPR was 0.17 (both P < .001).The observed frequencies of abnormal SSS and reduced MPR vs the probabilities predicted by the Genders and Alshahrani models were above the diagonal identity line, highlighting an underestimation of the observed occurrence by these models. The areas under the receiver operating characteristic curve of the Genders and Alshahrani models indicated lack of discriminative ability for predicting abnormal SSS (0.547 and 0.527) and reduced MPR (0.509 and 0.538). The Hosmer-Lemeshow test revealed that both models underestimated the observed occurrence of abnormal SSS and reduced MPR.
+CONCLUSIONS: Available models were unable to identify among patients with ZCS those with a low probability of a normal stress MPI study. Thus, an optimal approach to rule out from MPI patients without detectable coronary calcium still needs to be improved.
+
+Citation: Megna R, et al. Diagnostic value of clinical risk scores for predicting normal stress myocardial perfusion imaging in subjects without coronary artery calcium. Diagnostic value of clinical risk scores for predicting normal stress myocardial perfusion imaging in subjects without coronary artery calcium. 2022; 29:323-333. doi: 10.1007/s12350-020-02247-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32601888/

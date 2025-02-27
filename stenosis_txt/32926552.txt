@@ -1,0 +1,12 @@
+PMID: 32926552
+Title: Transcatheter aortic valve replacement with Evolut R versus Sapien 3 in Japanese patients with a small aortic annulus: The OCEAN-TAVI registry.
+
+Abstract: OBJECTIVES: To compare safety, efficacy, and hemodynamics of transfemoral transcatheter aortic valve replacement (TAVR) using self-expanding and balloon-expandable transcatheter heart valves (THVs) in patients with a small aortic annulus.
+BACKGROUND: Few studies have directly compared TAVR outcomes using third-generation THVs, focusing on patients with small aortic annuli.
+METHODS: In a multicenter TAVR registry, we analyzed data from 576 patients with a small annulus and who underwent transfemoral TAVR using third-generation THVs. Propensity score matching was used to adjust baseline clinical characteristics.
+RESULTS: The device success rate in the overall cohort was 92.0% (Evolut R: 92.1% vs. Sapien 3:92.0%, p = 0.96). One year after TAVR, patients treated with Evolut R maintained a lower mean pressure gradient (mPG) and a higher indexed effective orifice area (iEOA) in the matched cohort {mPG: 9.0 [interquartile range (IQR): 6.0-11.9] vs. 12.0 [IQR: 9.9-16.3] mmHg, p &lt; .001; iEOA: 1.20 [IQR: 1.01-1.46] vs. 1.08 [IQR: 0.90-1.28] cm2 /m2 , p &lt; .001}. However, no significant differences were reported in the incidence of severe prosthesis-patient mismatch and aortic regurgitation at 1 year. Furthermore, both groups showed comparable outcomes with no differences in terms of all-cause mortality (log-lank test, p = .81).
+CONCLUSIONS: TAVR for patients with a small annulus using third-generation THVs was associated with high device success. Evolut R seems to be superior to Sapien 3 in hemodynamic performance for patients with a small annulus and body surface area up to 1 year after TAVR. Nevertheless, all-cause mortality at 1 year was similar between both groups.
+
+Citation: Hase H, et al. Transcatheter aortic valve replacement with Evolut R versus Sapien 3 in Japanese patients with a small aortic annulus: The OCEAN-TAVI registry. Transcatheter aortic valve replacement with Evolut R versus Sapien 3 in Japanese patients with a small aortic annulus: The OCEAN-TAVI registry. 2021; 97:E875-E886. doi: 10.1002/ccd.29259
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32926552/

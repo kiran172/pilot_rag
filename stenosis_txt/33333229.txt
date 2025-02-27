@@ -1,0 +1,12 @@
+PMID: 33333229
+Title: Down regulation of VDR gene expression in metabolic syndrome and atherosclerosis' patients: Cause or consequence?
+
+Abstract: BACKGROUND: Metabolic syndrome (MS) features a set of clinical manifestations with an increased risk of atherosclerosis development. Vitamin D<sub>3</sub> (VD<sub>3</sub>) pathway influences upon clinical features in MS as well in the formation of atherosclerotic plaque. VD<sub>3</sub> acts through the vitamin D receptor (VDR), regulating the transcription of several genes involved in the immune response, growth and homeostasis.
+AIM: To evaluate whether VDR mRNA levels vary in MS patients according clinical features and atherosclerosis severity.
+METHODS: We included eighty individuals distributed into four groups: 1 group with MS (n = 20), 2 groups with atherosclerosis based on the report from the angiography (severe lesions - SL and primary lesions - PL) and 1 group enclosing healthy individuals (HC). The expression assays of VDR gene was performed using Real Time qPCR, with specific Taqman probes. We applied the Shapiro-Wilk, Chi-Squared and Student's T-tests for statistical analyses considering as statistically significant p < 0.05.
+RESULTS: Patients with MS as well with coronary stenosis present a down-regulation of VDR gene expression (-9.01 FC, p = 2.497 × 10-13; -13.62 FC, p = 7.489 × 10-13, respectively) when compared to control group. We also evaluated the VDR gene expression according to atherosclerosis severity, SL and PL patients present a downregulation of -31.51 FC and -8.48 FC, respectively, when compared with healthy controls group (p = 1.369 × 10-11; p = 1.647 × 10-11). When compared different degrees of atherosclerosis severity (SL versus PL) SL present a downregulation of -3.71 FC, when compared to PL group (p = 0.006).
+CONCLUSION: VDR is downregulated in patients with MS and according atherosclerosis severity. The differential expression of this gene is related to this hormone functions being an ex-vivo gene target for assessment in MS and atherosclerosis.
+
+Citation: de Albuquerque Borborema ME, et al. Down regulation of VDR gene expression in metabolic syndrome and atherosclerosis' patients: Cause or consequence?. Down regulation of VDR gene expression in metabolic syndrome and atherosclerosis' patients: Cause or consequence?. 2021; 771:145341. doi: 10.1016/j.gene.2020.145341
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33333229/

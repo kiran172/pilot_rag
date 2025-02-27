@@ -1,0 +1,12 @@
+PMID: 32747953
+Title: Indications and predictors for pacemaker implantation after isolated aortic valve replacement with bioprostheses: the CAREAVR study.
+
+Abstract: OBJECTIVES: We sought to study the indications, long-term occurrence, and predictors of permanent pacemaker implantation (PPI) after isolated surgical aortic valve replacement with bioprostheses.
+METHODS: The CAREAVR study included 704 patients (385 females, 54.7%) without a preoperative PPI (mean ± standard deviation age 75 ± 7 years) undergoing isolated surgical aortic valve replacement at 4 Finnish hospitals between 2002 and 2014. Data were extracted from electronic patient records.
+RESULTS: The follow-up was median 4.7 years (range 1 day to 12.3 years). Altogether 56 patients received PPI postoperatively, with the median 507 days from the operation (range 6 days to 10.0 years). The PPI indications were atrioventricular block (31 patients, 55%) and sick sinus syndrome (21 patients, 37.5%). For 4 patients, the PPI indication remained unknown. A competing risks regression analysis (Fine-Gray method), adjusted with age, sex, diabetes, coronary artery disease, preoperative atrial fibrillation (AF), left ventricular ejection fraction, New York Heart Association class, AF at discharge and urgency of operation, was used to assess risk factors for PPI. Only AF at discharge (subdistribution hazard ratio 4.34, 95% confidence interval 2.34-8.03) was a predictor for a PPI.
+CONCLUSIONS: Though atrioventricular block is the major indication for PPI after surgical aortic valve replacement, >30% of PPIs are implanted due to sick sinus syndrome during both short-term follow-up and long-term follow-up. Postoperative AF versus sinus rhythm conveys >4-fold risk of PPI.
+CLINICAL TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT02626871.
+
+Citation: Salmi SJ, et al. Indications and predictors for pacemaker implantation after isolated aortic valve replacement with bioprostheses: the CAREAVR study. Indications and predictors for pacemaker implantation after isolated aortic valve replacement with bioprostheses: the CAREAVR study. 2020; 31:398-404. doi: 10.1093/icvts/ivaa119
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32747953/

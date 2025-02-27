@@ -1,0 +1,10 @@
+PMID: 35436561
+Title: Incremental prognostic value of spect over CCTA.
+
+Abstract: BACKGROUND: Coronary computed tomographic angiography (CCTA) and Single photon emission computed tomography (SPECT) myocardial perfusion imaging (MPI) provide comprehensive anatomic and functional assessment of the coronary arteries useful in the diagnosis and prognosis of patients with coronary artery disease (CAD). We aimed to assess the incremental prognostic role of SPECT physiologic assessment to CCTA in patients with suspected CAD.
+METHODS: Consecutive patients with suspected CAD undergoing clinically indicated CCTA within 180 days of undergoing SPECT were included. Patients were followed for major adverse cardiovascular events (MACE, inclusive of all-cause death, non-fatal myocardial infarction, and percutaneous coronary intervention or coronary artery bypass grafting 90-days after imaging test.) RESULTS: The cohort consisted of 956 patients (mean age 61.1 ± 14.2 years, 54% men, 89% hypertension, 81% diabetes, 84% dyslipidemia). Obstructive stenosis was found in 14% of patients, while scar (fixed perfusion defect), ischemia and left ventricular ejection fraction <40% were found in 17, 14 and 9% of patients, respectively. In nested multivariable cox regression models, perfusion and left ventricular function when added to a model with CCTA obstructive stenosis significantly improved model risk prediction (Harrell's C = 0.73, p = 0.037) and risk reclassification on a continuous scale (P < 0.001).
+CONCLUSION: We have shown that a combined assessment of perfusion burden and left ventricular function added incremental value over and above a CCTA based anatomic assessment in patients with suspected CAD.
+
+Citation: Javaid A, et al. Incremental prognostic value of spect over CCTA. Incremental prognostic value of spect over CCTA. 2022; 358:120-127. doi: 10.1016/j.ijcard.2022.04.025
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35436561/

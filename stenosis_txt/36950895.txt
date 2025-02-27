@@ -1,0 +1,12 @@
+PMID: 36950895
+Title: Diagnostic accuracy of optical flow ratio: an individual patient-data meta-analysis.
+
+Abstract: BACKGROUND: Optical flow ratio (OFR) is a novel method for the fast computation of fractional flow reserve (FFR) from optical coherence tomography.
+AIMS: We aimed to evaluate the diagnostic accuracy of OFR in assessing intermediate coronary stenosis using wire-based FFR as the reference.
+METHODS: We performed an individual patient-level meta-analysis of all available studies with paired OFR and FFR assessments. The primary outcome was vessel-level diagnostic concordance of the OFR and FFR, using a cut-off of ≤0.80 to define ischaemia and ≤0.90 to define suboptimal post-percutaneous coronary intervention (PCI) physiology. This meta-analysis was registered in PROSPERO (CRD42021287726).
+RESULTS: Five studies were finally included, providing 574 patients and 626 vessels (404 pre-PCI and 222 post-PCI) with paired OFR and FFR from 9 international centres. Vessel-level diagnostic concordance of the OFR and FFR was 91% (95% confidence interval [CI]: 88%-94%), 87% (95% CI: 82%-91%), and 90% (95% CI: 87%-92%) in pre-PCI, post-PCI, and overall, respectively. The overall sensitivity, specificity, and positive and negative predictive values were 84% (95% CI: 79%-88%), 94% (95% CI: 92%-96%), 90% (95% CI: 86%-93%), and 89% (95% CI: 86%-92%), respectively. Multivariate logistic regression indicated that a low pullback speed (odds ratio [OR] 7.02, 95% CI: 1.68-29.43; p=0.008) was associated with a higher risk of obtaining OFR values at least 0.10 higher than FFR. Increasing the minimal lumen area was associated with a lower risk of obtaining an OFR at least 0.10 lower than FFR (OR 0.39, 95% CI: 0.18-0.82; p=0.013).
+CONCLUSIONS: This individual patient data meta-analysis demonstrated a high diagnostic accuracy of OFR. OFR has the potential to provide an improved integration of intracoronary imaging and physiological assessment for the accurate evaluation of coronary artery disease.
+
+Citation: Hu F, et al. Diagnostic accuracy of optical flow ratio: an individual patient-data meta-analysis. Diagnostic accuracy of optical flow ratio: an individual patient-data meta-analysis. 2023; 19:e145-e154. doi: 10.4244/EIJ-D-22-01098
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36950895/

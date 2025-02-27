@@ -1,0 +1,12 @@
+PMID: 37940389
+Title: Transfemoral versus trans-subclavian access in transcatheter aortic valve implantation using self-expandable valve: A propensity-matched comparison.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation is unfeasible for 10-15% of patients using the conventional transfemoral approach. Other alternative approaches, such as the subclavian approach, have emerged, with no clear recommendation indicating the superiority of one technique over another.
+AIM: To compare the 1-month mortality and postprocedural outcomes of patients undergoing transcatheter aortic valve implantation using a self-expandable valve via transfemoral and subclavian access.
+METHODS: This was a retrospective single-centre study including 1496 patients who underwent transcatheter aortic valve implantation between January 2016 and December 2020 at Clermont-Ferrand University Hospital, France. Propensity score matching was used to compare transfemoral and subclavian access.
+RESULTS: After building two propensity score-matched groups of 221 patients each with either access route (total n=442), baseline characteristics were similar. The procedure duration was significantly longer in the subclavian access group (53 [45-64] versus 60 [51-72] minutes; P<0.001), but with a lower amount of contrast agent (138 [118-165] versus 123 [105-150] mL; P<0.001), fluoroscopy time (11.2 [9-14] versus 9.9 [7-12] minutes; P<0.001) and radiation dose (397 [264-620] versus 321 [217-485] mGy; P<0.001). No significant difference was observed concerning 1-month mortality (odds ratio 1.62, 95% confidence interval 0.52-5.03; P=0.39) or periprocedural complications. Follow-up at 1 year confirmed no difference in longer-term mortality (hazard ratio 0.78, 95% confidence interval 0.52-5.03; P=0.43).
+CONCLUSIONS: The subclavian approach provides similar results to the transfemoral approach in terms of mortality, efficacy and safety; it is a reasonable and effective alternative when the reference transfemoral approach is impossible or seems complex.
+
+Citation: Bennes O, et al. Transfemoral versus trans-subclavian access in transcatheter aortic valve implantation using self-expandable valve: A propensity-matched comparison. Transfemoral versus trans-subclavian access in transcatheter aortic valve implantation using self-expandable valve: A propensity-matched comparison. 2023; 116:555-562. doi: 10.1016/j.acvd.2023.09.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37940389/

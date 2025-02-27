@@ -1,0 +1,11 @@
+PMID: 34871817
+Title: Machine learning of treadmill exercise test to improve selection for testing for coronary artery disease.
+
+Abstract: BACKGROUND AND AIMS: The high false-positive rate of the treadmill exercise test (TET) may lead to unnecessary invasive coronary angiography. We aimed to develop a machine learning-based algorithm to improve the diagnostic performance of TET.
+METHODS: Study included 2325 patients who underwent TET and subsequent coronary angiography within one-year interval. The mean age was 58.7 (48.1-69.3) years, 1731 (74.5%) were male, 1858 (79.9%) had positive TET result, and 812 (34.9%) had obstructive coronary artery disease (≥70% stenosis in at least one vessel). The study population were randomly divided into training (70%) and testing (30%) groups for algorithm development. A total of 93 features, including exercise performance, hemodynamics and ST-segment changes were extracted from the TET results. Clinical features included comorbidity, smoking, height, weight, and Framingham risk score. Support vector machine, logistic regression, random forest, k-nearest neighbor and extreme gradient boosting machine learning algorithms were used to build the predictive models. The performance of each model was compared with that of conventional TET.
+RESULTS: Four of the five models exhibited comparable diagnostic performance and were better than conventional TET. The random forest algorithm had an area under the curve (AUC) of 0.73. When used with clinical features, the AUC improved to 0.74. The major advantage of the algorithm is the reduction of the false-positive rate compared with conventional TET (55% vs. 76.3%, respectively), while maintaining comparable sensitivity (85%).
+CONCLUSIONS: Using the information obtained from conventional TET, a more accurate diagnosis can be made by incorporating an artificial intelligence-based model.
+
+Citation: Lee YH, et al. Machine learning of treadmill exercise test to improve selection for testing for coronary artery disease. Machine learning of treadmill exercise test to improve selection for testing for coronary artery disease. 2022; 340:23-27. doi: 10.1016/j.atherosclerosis.2021.11.028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34871817/

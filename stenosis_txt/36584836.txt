@@ -1,0 +1,11 @@
+PMID: 36584836
+Title: Outcomes of Root Enlargement vs Root Replacement for Aortic Stenosis.
+
+Abstract: BACKGROUND: Stentless aortic root replacement (ARR) and aortic root enlargement (ARE) are established strategies to avoid prosthesis-patient mismatch in patients with aortic stenosis (AS) and small annuli. We sought to compare outcomes of these 2 procedures.
+METHODS: This was an observational study using an institutional database of aortic valve replacements from 2010 to 2021. The study compared patients who underwent ARE vs ARR for AS. Those with endocarditis or aortic aneurysms were excluded. Postoperative outcomes were compared between groups. Kaplan-Meier survival estimation and multivariable Cox regression for survival were performed. Cumulative incidence functions were generated for all-cause readmissions.
+RESULTS: A total of 533 patients underwent either ARE or ARR for AS. Of these, 193 (36.2%) underwent ARE and 340 (63.8%) underwent ARR with a stentless xenograft. There were no significant differences in operative mortality, stroke, length of stay, or new-onset renal failure requiring dialysis. There were also no significant differences in aortic valve reintervention rates (3.1% vs 1.8%; P = .314). Patients in the ARR group had larger valves implanted, larger indexed effective orifice areas, lower rates of prosthesis-patient mismatch, and lower transprosthetic gradients (P < .001). Median follow-up was 5.02 (2.70-7.8) years. Kaplan-Meier survival estimates were comparable, and on multivariable Cox regression, ARR vs ARE was not significantly associated with an increased hazard of death (hazard ratio, 1.00; 95% CI, 0.69-1.45; P = .996). Cumulative incidence estimates for all-cause readmissions were also comparable between groups.
+CONCLUSIONS: ARE and stentless xenograft ARR for AS were associated with comparable postoperative complications, aortic valve reinterventions, freedom from readmission, and 5-year survival.
+
+Citation: Yousef S, et al. Outcomes of Root Enlargement vs Root Replacement for Aortic Stenosis. Outcomes of Root Enlargement vs Root Replacement for Aortic Stenosis. 2023; 115:1180-1187. doi: 10.1016/j.athoracsur.2022.12.027
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36584836/

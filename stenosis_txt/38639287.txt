@@ -1,0 +1,12 @@
+PMID: 38639287
+Title: Role of Carotid Ultrasonography Combined with Monocyte/HDL Ratio in Internal Carotid Artery Stenosis.
+
+Abstract: BACKGROUND: Carotid duplex ultrasonography (DUS) is the primary screening tool for carotid artery stenosis, but has low reliability. MHR, which is the ratio of monocytes to high-density lipoprotein cholesterol (HDL-C), can be a marker for the degree and distribution of extracranial and intracranial atherosclerotic stenosis.
+OBJECTIVE: We determined the diagnostic value of DUS+MHR for internal carotid artery (ICA) stenosis.
+METHODS: We divided 273 hospitalized patients into non-stenosis (<50%) and ICA stenosis (≥50%) groups based on Digital Subtraction Angiography (DSA). We determined the peak systolic velocity (PSV) in the ICA on DUS, calculated the MHR, and investigated their relationship with ICA stenosis.
+RESULTS: On DSA, 34.1% (93/273) patients had moderate-to-severe ICA stenosis. DUS and DSA showed low concordance for detecting ICA stenosis (kappa = 0.390). With increasing age, the incidence of moderate-to-severe ICA stenosis increased. PSV, monocyte count, and MHR were significantly greater in the stenosis group than in the non-stenosis group (P < 0.001), while the HDL-C level was significantly lower (P = 0.001). PSV (OR: 1.020, 95% CI: 1.011-1.029, P < 0.001) and MHR (OR: 5.662, 95% CI: 1.945-16.482, P = 0.002) were independent risk factors for ICA stenosis. The area under the receiver operating characteristic curve of PSV+MHR (0.819) was significantly higher than that of PSV or MHR alone (77.42% sensitivity, P = 0.0207; 73.89% specificity, P = 0.0032).
+CONCLUSION: The combination of ICA PSV on DUS and MHR is better than PSV alone at identifying ICA stenosis and is well-suited to screen high-risk patients.
+
+Citation: Bao MQ, et al. Role of Carotid Ultrasonography Combined with Monocyte/HDL Ratio in Internal Carotid Artery Stenosis. Role of Carotid Ultrasonography Combined with Monocyte/HDL Ratio in Internal Carotid Artery Stenosis. 2024; 20:e15734056289735. doi: 10.2174/0115734056289735240409083434
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38639287/

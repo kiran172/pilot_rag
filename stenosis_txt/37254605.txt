@@ -1,0 +1,11 @@
+PMID: 37254605
+Title: Sunspot activity and birth defects among Texas births (1999-2016).
+
+Abstract: BACKGROUND: Building on findings that linked higher levels of sunspot (SS) activity with a range of health and adverse birth outcomes, we sought to understand how SS activity over a 17-year time period may be correlated with the occurrence of birth defects.
+METHODS: Data from the Texas Birth Defects Registry, vital events from the Texas Center for Health Statistics, and mean monthly numbers of sunspots from the National Oceanic and Atmospheric Administration were utilized. Poisson regression was used to calculate crude/adjusted prevalence ratios (cPRs/aPRs) and 95% confidence intervals for three quartiles (Q) of increasing SS activity (compared to a referent of low activity) and 44 birth defects (31 non-cardiac; 13 cardiac) with estimated dates of conception from 1998 to 2016.
+RESULTS: We found moderately protective aPRs (range: 0.60-0.89) in a little over half of the case groups examined in our quartiles of higher SS activity (19 non-cardiac; 6 cardiac), after adjusting for maternal age, race/ethnicity, and education. Particularly protective aPRs in the highest SS quartiles (Q3-4) were noted for: anophthalmia, cataract, gastroschisis, trisomy 18, ventricular septal defects, atrial septal defects, and pulmonary valve atresia or stenosis. Conversely, modestly elevated aPRs were noted for two defect groups (agenesis, aplasia, and hypoplasia of the lung and microcephaly [Q2-3]). Following an additional adjustment of year of conception, results remained similar although many of the estimates were attenuated.
+CONCLUSION: The seemingly protective associations between increasing SS activity may be an artifact of increasing spontaneous abortions that occur following conception during these periods of heightened SS activity.
+
+Citation: Hoyt AT, et al. Sunspot activity and birth defects among Texas births (1999-2016). Sunspot activity and birth defects among Texas births (1999-2016). 2023; 115:1120-1139. doi: 10.1002/bdr2.2206
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37254605/

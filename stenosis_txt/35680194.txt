@@ -1,0 +1,12 @@
+PMID: 35680194
+Title: Diagnostic Performance of CCTA and CT-FFR for the Detection of CAD in TAVR Work-Up.
+
+Abstract: BACKGROUND: The work-up for transcatheter aortic valve replacement (TAVR) currently uses computed tomography to evaluate the annulus diameter and peripheral vascular access plus invasive coronary angiography (ICA) to assess significant coronary artery disease (CAD). ICA might partially be redundant with the use of coronary computed tomography angiography (CCTA). Prior studies found an improvement of the diagnostic accuracy of CCTA with the use of computed tomography-derived fractional flow reserve (CT-FFR).
+OBJECTIVES: The aim of this study was to assess the diagnostic performance of CT-FFR for the diagnosis of CAD in the work-up for TAVR.
+METHODS: Consecutive patients with severe symptomatic aortic valve stenosis who underwent TAVR work-up between 2015 and 2019 were included in this retrospective cross-sectional study. All patients underwent CCTA and ICA within 3 months, and the diagnostic performance of both CCTA and CT-FFR was assessed using ICA as the reference.
+RESULTS: Seventy-six of the 338 patients included in the analysis had ≥1 significant coronary stenosis on ICA. The sensitivity, specificity, positive predictive value, negative predictive value, and diagnostic accuracy per patient were 76.9%, 64.5%, 34.0%, 92.1%, and 66.9% for CCTA and 84.6%, 88.3%, 63.2%, 96.0%, and 87.6% for CT-FFR. The area under the receiver-operating characteristic curve was significantly different between CCTA and CT-FFR (0.84 vs 0.90, P = 0.02). A CT-FFR-guided approach could avoid ICA in 57.1% versus 43.6% of patients using CCTA.
+CONCLUSIONS: CT-FFR significantly improves the diagnostic accuracy of CCTA without additional testing and increases the proportion of patients in whom ICA could have been safely avoided. It has the potential to be integrated in the current clinical work-up for TAVR for diagnosing stable CAD requiring treatment.
+
+Citation: Peper J, et al. Diagnostic Performance of CCTA and CT-FFR for the Detection of CAD in TAVR Work-Up. Diagnostic Performance of CCTA and CT-FFR for the Detection of CAD in TAVR Work-Up. 2022; 15:1140-1149. doi: 10.1016/j.jcin.2022.03.025
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35680194/

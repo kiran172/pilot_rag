@@ -1,0 +1,12 @@
+PMID: 31900352
+Title: Role of distal cerebral vasculature in vessel constriction after aneurysm treatment with flow diverter stents.
+
+Abstract: BACKGROUND: Treatment of intracranial aneurysms with flow diverter stent (FDS) procedures can lead to caliber changes of jailed vessels. The reason some branches remain unchanged and others are affected by narrowing remains unknown.
+OBJECTIVE: To investigate the influence of resistance to flow from distal vasculature on stent-induced hemodynamic modifications affecting bifurcating vessels.
+MATERIALS AND METHODS: Radiological images and demographic data were acquired for 142 aneurysms treated with a FDS. Vascular resistance was estimated from patient-specific anatomic data. Correlation analysis was used to identify correspondence between anatomic data and clinical outcome. Computational Fluid Dynamics was performed on a typical patient-specific model to evaluate the influence of FDS on flow. Relevant hemodynamic variables along the bifurcating vessels were quantitatively analyzed and validated with in vitro data obtained using power Doppler ultrasound.
+RESULTS: Statistical analysis showed a correlation between clinical outcome and FDS resistance to flow considering overall jailed vessel vascular resistance (r=0.5, P<0.001). Computational predictions of blood flow showed that hemodynamics is minimally affected by FDS treatment in the ophthalmic artery.
+CONCLUSIONS: Jailed vessels are affected by narrowing when resistance to flow from the FDS constitutes a larger proportion of the overall vessel resistance to flow. This knowledge may contribute to better understanding of intracranial hemodynamics after a FDS procedure and reinforce indications for flow diversion in the treatment of intracranial aneurysms.
+
+Citation: Narata AP, et al. Role of distal cerebral vasculature in vessel constriction after aneurysm treatment with flow diverter stents. Role of distal cerebral vasculature in vessel constriction after aneurysm treatment with flow diverter stents. 2020; 12:818-826. doi: 10.1136/neurintsurg-2019-015447
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31900352/

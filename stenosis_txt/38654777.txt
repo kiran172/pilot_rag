@@ -1,0 +1,11 @@
+PMID: 38654777
+Title: Intraoperative Corticosteroids and Pacemaker Implantation After Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) has revolutionized the treatment of aortic stenosis. However, conduction disturbances leading to pacemaker implantation remain a common complication, increasing morbidity and mortality in these patients. Hence, measures to lower its incidence should be taken, and corticosteroid therapy could be effective by reducing inflammation caused by direct mechanical trauma to the conduction system.
+METHODS: A retrospective cohort study was conducted at the Centro Hospitalar de Vila Nova de Gaia/Espinho, analyzing the medical records of patients with native severe aortic stenosis who underwent transfemoral TAVR in 2022. The Chi-square test was used to compare the rate of pacemaker implantation in patients who received corticosteroids with patients who didn't. The statistical significance was considered for a p-value <0.05.
+RESULTS: A total of 341 patients were included in this study. Monitored anesthesia care was the preferred anesthetic technique (99.1%). Sixty-three point three percent (63.3%) of patients received corticosteroids at the beginning of the procedure. Corticosteroid administration did not significantly affect the incidence of permanent pacemaker implantation (p=0.277), vascular complications on the access site (p=0.765), or in-hospital mortality (p=0.909). Male gender, 1st-degree atrioventricular block, and right branch block were the only identified predictors of permanent pacemaker implantation after transfemoral TAVR (p=0.041 <0.001 and <0.001, respectively).
+CONCLUSION: Corticosteroid administration at the beginning of TAVR doesn't seem to influence the incidence of permanent pacemaker implantation, which can suggest that other factors play a more important role in the development of conduction disturbances leading to pacemaker implantation.
+
+Citation: Tiago C, et al. Intraoperative Corticosteroids and Pacemaker Implantation After Transcatheter Aortic Valve Replacement. Intraoperative Corticosteroids and Pacemaker Implantation After Transcatheter Aortic Valve Replacement. 2024; 16:e56824. doi: 10.7759/cureus.56824
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38654777/

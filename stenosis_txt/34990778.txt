@@ -1,0 +1,11 @@
+PMID: 34990778
+Title: Pre- and Posttherapy Risk Factors for Vasculopathy in Pediatric Patients With Craniopharyngioma Treated With Surgery and Proton Radiation Therapy.
+
+Abstract: PURPOSE: Vasculopathy (VAS) is a significant complication associated with radiation therapy in patients treated for brain tumors. We studied the type, location, severity, timing, and resolution of VAS in children with craniopharyngioma treated with proton radiation therapy (PRT) and evaluated predictors of stenosis (STN) using a novel patient and imaging-based modeling approach.
+METHODS AND MATERIALS: Children with craniopharyngioma (n = 94) were treated with 54 Gy relative biological effectiveness PRT in a clinical trial, NCT01419067. We evaluated VAS type, location, severity, and resolution. VAS events were segmented and related to their location, operative corridor, PRT dose, and vascular territory to facilitate mixed effect logistic regression modeling of spatial predictors of STN events.
+RESULTS: Forty-five (47.9%) patients had 111 instances of confirmed VAS (pre-PRT n = 37, 33.3%). The median time to post-PRT VAS was 3.41 years (95% confidence interval, 1.86-6.11). STN events were observed post-PRT in 23.4% (n = 22) of patients. Post-PRT VAS was detected by cerebral angiogram in 9.6% (n = 9), severe in 4.3% (n = 4), and compensated on perfusion in 2.1% (n = 2). Revascularization was required for 5 (5.3%) patients. Postsurgical, pre-PRT VAS, and PRT dose to unperturbed vessels were predictive of STN. The effect of PRT on STN was negligible within the surgical corridor.
+CONCLUSIONS: VAS often precedes PRT and was the strongest predictor of post-PRT STN. The adverse effect of PRT on STN was only apparent in unperturbed vasculature beyond the operative corridor.
+
+Citation: Lucas JT, et al. Pre- and Posttherapy Risk Factors for Vasculopathy in Pediatric Patients With Craniopharyngioma Treated With Surgery and Proton Radiation Therapy. Pre- and Posttherapy Risk Factors for Vasculopathy in Pediatric Patients With Craniopharyngioma Treated With Surgery and Proton Radiation Therapy. 2022; 113:152-160. doi: 10.1016/j.ijrobp.2021.12.172
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34990778/

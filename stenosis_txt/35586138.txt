@@ -1,0 +1,11 @@
+PMID: 35586138
+Title: Identification of key differential genes in intimal hyperplasia induced by left carotid artery ligation.
+
+Abstract: BACKGROUND: Intimal hyperplasia is a common pathological process of restenosis following angioplasty, atherosclerosis, pulmonary hypertension, vein graft stenosis, and other proliferative diseases. This study aims to screen for potential novel gene targets and mechanisms related to vascular intimal hyperplasia through an integrated microarray analysis of the Gene Expression Omnibus Database (GEO) database.
+MATERIAL AND METHODS: The gene expression profile of the GSE56143 dataset was downloaded from the Gene Expression Omnibus database. Functional enrichment analysis, protein-protein interaction (PPI) network analysis, and the transcription factor (TF)-target gene regulatory network were used to reveal the biological functions of differential genes (DEGs). Furthermore, the expression levels of the top 10 key DEGs were verified at the mRNA and protein level in the carotid artery 7 days after ligation.
+RESULTS: A total of 373 DEGs (199 upregulated DEGs and 174 downregulated DEGs) were screened. These DEGs were significantly enriched in biological processes, including immune system process, cell adhesion, and several pathways, which were mainly associated with cell adhesion molecules and the regulation of the actin cytoskeleton. The top 10 key DEGs (Ptprc, Fn1, Tyrobp, Emr1, Itgb2, Itgax, CD44, Ctss, Ly86, and Aif1) acted as key genes in the PPI network. The verification of these key DEGs at the mRNA and protein levels was consistent with the results of the above-mentioned bioinformatics analysis.
+CONCLUSION: The present study identified key genes and pathways involved in intimal hyperplasia induced by carotid artery ligation. These results improved our understanding of the mechanisms underlying the development of intimal hyperplasia and provided candidate targets.
+
+Citation: Zhang L, et al. Identification of key differential genes in intimal hyperplasia induced by left carotid artery ligation. Identification of key differential genes in intimal hyperplasia induced by left carotid artery ligation. 2022; 10:e13436. doi: 10.7717/peerj.13436
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35586138/

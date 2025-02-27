@@ -1,0 +1,10 @@
+PMID: 32818267
+Title: Feasibility of using deep learning to detect coronary artery disease based on facial photo.
+
+Abstract: AIMS: Facial features were associated with increased risk of coronary artery disease (CAD). We developed and validated a deep learning algorithm for detecting CAD based on facial photos.
+METHODS AND RESULTS: We conducted a multicentre cross-sectional study of patients undergoing coronary angiography or computed tomography angiography at nine Chinese sites to train and validate a deep convolutional neural network for the detection of CAD (at least one ≥50% stenosis) from patient facial photos. Between July 2017 and March 2019, 5796 patients from eight sites were consecutively enrolled and randomly divided into training (90%, n = 5216) and validation (10%, n = 580) groups for algorithm development. Between April 2019 and July 2019, 1013 patients from nine sites were enrolled in test group for algorithm test. Sensitivity, specificity, and area under the receiver operating characteristic curve (AUC) were calculated using radiologist diagnosis as the reference standard. Using an operating cut point with high sensitivity, the CAD detection algorithm had sensitivity of 0.80 and specificity of 0.54 in the test group; the AUC was 0.730 (95% confidence interval, 0.699-0.761). The AUC for the algorithm was higher than that for the Diamond-Forrester model (0.730 vs. 0.623, P < 0.001) and the CAD consortium clinical score (0.730 vs. 0.652, P < 0.001).
+CONCLUSION: Our results suggested that a deep learning algorithm based on facial photos can assist in CAD detection in this Chinese cohort. This technique may hold promise for pre-test CAD probability assessment in outpatient clinics or CAD screening in community. Further studies to develop a clinical available tool are warranted.
+
+Citation: Lin S, et al. Feasibility of using deep learning to detect coronary artery disease based on facial photo. Feasibility of using deep learning to detect coronary artery disease based on facial photo. 2020; 41:4400-4411. doi: 10.1093/eurheartj/ehaa640
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32818267/

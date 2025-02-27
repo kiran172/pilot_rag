@@ -1,0 +1,8 @@
+PMID: 34892779
+Title: Acoustic Bruit Transduction Interface for Non-Invasive Vascular Access Monitoring.
+
+Abstract: Hemodialysis is a treatment for patients suffering from chronic or acute kidney disease, and is administered via an arteriovenous vascular access. One symptom of a dysfunctional vascular access are blood sounds (bruits) produced by turbulent flow. This paper discusses the design and characterization of a multichannel transducer array to capture blood sounds from multiple sites simultaneously. Recorded sounds can be classified by digital signal analysis to categorize severity of dysfunction based on acoustic features. Using a vascular access phantom with 5-80% degree of stenosis and blood mimicking fluid flowing at a rate of 850-1200 mL/min, we analyzed the acoustic properties of blood sounds recorded from a flexible microphone transducer. The signal bandwidth (2.25 kHz) and the dynamic range (60.2 dB) were determined, allowing optimization of a transimpedance transducer interface amplifier.Clinical Relevance-Vascular access stenosis causing turbulent flow produces bruits with spectral content related to degree of stenosis. A flexible microphone recording array could be used for point-of-care monitoring of vascular access function.
+
+Citation: Sinha RK, et al. Acoustic Bruit Transduction Interface for Non-Invasive Vascular Access Monitoring. Acoustic Bruit Transduction Interface for Non-Invasive Vascular Access Monitoring. 2021; 2021:7280-7283. doi: 10.1109/EMBC46164.2021.9631089
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34892779/

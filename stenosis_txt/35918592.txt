@@ -1,0 +1,11 @@
+PMID: 35918592
+Title: Prognostic value of combined coronary angiography-derived IMR and myocardial perfusion imaging by CZT SPECT in INOCA.
+
+Abstract: BACKGROUND: A significant proportion of ischemia with non-obstructive coronary artery disease (INOCA) demonstrate coronary microvascular dysfunction (CMD), a condition associated with abnormal myocardial perfusion imaging (MPI) and adverse outcomes. Coronary angiography-derived index of microvascular resistance (caIMR) is a novel non-invasive technique to assess CMD. We aimed to investigate the prognostic value of combined caIMR and MPI by CZT SPECT in INOCA patients.
+METHODS: Consecutive 151 patients with chest pain and < 50% coronary stenosis who underwent coronary angiography and MPI within 3 months were enrolled. caIMR was calculated by computational pressure-flow dynamics. CMD was defined as caIMR ≥ 25. The endpoint was major adverse cardiac events (MACE: cardiovascular death, nonfatal myocardial infarction, revascularization, angina-related rehospitalization, heart failure, and stroke).
+RESULTS: Of all INOCA patients, CMD was present in 93 (61.6%) patients. The prevalence of abnormal MPI was significantly higher in CMD compared with non-CMD patients (40.9% vs 13.8%, P < .001). CMD showed a higher risk of MACE than non-CMD patients. Patients with both CMD and abnormal MPI had the worst prognosis, followed by patients with CMD and normal MPI (log-rank P < .001). Cox regression analysis identified CMD (HR 3.121, 95%CI 1.221-7.974, P = .017) and MPI (HR 2.704, 95%CI 1.030-7.099, P = .043) as predictive of MACE. The prognostic value of INOCA patients enhanced significantly by adding CMD and MPI to the model with clinical risk factors (AUC = 0.777 vs 0.686, P = .030).
+CONCLUSION: caIMR-derived CMD is associated with increased risk of MACE among INOCA patients. Patients with abnormalities on both caIMR and MPI had the worse outcomes.
+
+Citation: Liu L, et al. Prognostic value of combined coronary angiography-derived IMR and myocardial perfusion imaging by CZT SPECT in INOCA. Prognostic value of combined coronary angiography-derived IMR and myocardial perfusion imaging by CZT SPECT in INOCA. 2023; 30:684-701. doi: 10.1007/s12350-022-03038-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35918592/

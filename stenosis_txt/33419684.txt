@@ -1,0 +1,14 @@
+PMID: 33419684
+Title: Right Ventricular Longitudinal Strain Predicts Low-Cardiac- Output Syndrome After Surgical Aortic Valve Replacement in Patients With Preserved and Mid-range Ejection Fraction.
+
+Abstract: OBJECTIVES: The aim of this study was to analyze whether right ventricular free wall longitudinal strain (RVFWSL) could be a predictor of low-cardiac-output syndrome (LCOS) after surgical aortic valve replacement (SAVR) in patients with left ventricular ejection fraction ≥40%.
+DESIGN: Prospective, observational study.
+SETTING: The study was conducted at a third level university hospital.
+PARTICIPANTS: The study comprised 75 patients with severe aortic stenosis and LVEF ≥40% who underwent SAVR. The primary outcome was the occurrence of LCOS, and secondary outcomes were in-hospital mortality, hospital stay, or vasoplegic syndrome.
+INTERVENTIONS: Patients were divided into two groups (LCOS and no LCOS), and RVFWSL was analyzed to determine whether it is a predictor for LCOS. In addition, a receiver operating characteristic curve also was constructed, and the best cutoff value to predict LCOS was found. Furthermore, the reproducibility of RVFWSL measurements was evaluated.
+MEASUREMENT AND MAIN RESULTS: The incidence of LCOS was 20% in the present study's cohort. After multivariate analysis, cross-clamp time (odds ratio 1.06, 95% confidence interval 1.02-1.11; p = 0.002) and RVFWSL (odds ratio 1.41, 95% confidence interval 1.07-1.87; p = 0.015) were the only predictors of LCOS. However, RVFWSL did not show association with secondary outcomes (p > 0.05 for all). The area under the curve of RVFWSL to predict LCOS was 0.75, and the best cutoff value was -17.3%, with a sensitivity of 86.7% and specificity of 61.7%.
+CONCLUSIONS: RVFWSL seems to be a predictor of LCOS in patients with severe aortic stenosis and LVEF ≥40% undergoing SAVR. RVFWSL less than -17.3% may identify patients at increased risk for LCOS.
+
+Citation: Posada-Martinez EL, et al. Right Ventricular Longitudinal Strain Predicts Low-Cardiac- Output Syndrome After Surgical Aortic Valve Replacement in Patients With Preserved and Mid-range Ejection Fraction. Right Ventricular Longitudinal Strain Predicts Low-Cardiac- Output Syndrome After Surgical Aortic Valve Replacement in Patients With Preserved and Mid-range Ejection Fraction. 2021; 35:1638-1645. doi: 10.1053/j.jvca.2020.12.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33419684/

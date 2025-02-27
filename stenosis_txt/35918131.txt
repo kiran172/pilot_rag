@@ -1,0 +1,11 @@
+PMID: 35918131
+Title: Low left atrial volume is an independent predictor of persistent hypotension after carotid artery stenting.
+
+Abstract: BACKGROUND: Persistent hypotension (PH) after carotid artery stenting (CAS) is a relatively common complication; however, it is unclear which patients are more likely to experience this phenomenon. Recently, lower left atrial (LA) volume was associated with vasovagal syncope, which has a similar neurological mechanism to hypotension after CAS. This study aimed to investigate whether LA volume can predict PH after CAS.
+METHODS: This single center retrospective analysis used data from 316 patients who had undergone CAS between March 2013 and February 2021. After the exclusion of urgent CAS, 212 procedures (202 patients) with transthoracic echocardiograms were included. The procedures were divided among two groups according to the presence or absence of PH for more than 1 hour after CAS.
+RESULTS: The mean age of the patients was 73.0±7.5 years. PH was observed during 52 (24.5%) procedures. The PH group exhibited a lower LA volume index (LAVI) than the no-PH group (29.7±9.1 vs 37.7±12.5 mL/m2, respectively; p&lt;0.001). The area under the receiver operating characteristic curve was 0.716. The optimal cut-off value was 33.5 mL/m2 (sensitivity 0.750, specificity 0.625). Multiple logistic regression analysis showed that LAVI &lt;33.5 mL/m2 was an independent predictor for PH after CAS (OR 4.950, 95% CI 2.190 to 11.200; p&lt;0.001). Preoperative hydration was negatively associated with PH (OR 0.235, 95% CI, 0.070 to 0.794; p=0.020).
+CONCLUSIONS: A lower LA volume can predict PH after CAS, and preoperative hydration may prevent PH after CAS.
+
+Citation: Maekawa K, et al. Low left atrial volume is an independent predictor of persistent hypotension after carotid artery stenting. Low left atrial volume is an independent predictor of persistent hypotension after carotid artery stenting. 2023; 15:914-918. doi: 10.1136/jnis-2022-019094
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35918131/

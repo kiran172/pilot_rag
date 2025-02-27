@@ -1,0 +1,12 @@
+PMID: 37070459
+Title: Computed tomography-derived membranous septum length as predictor of conduction abnormalities and permanent pacemaker implantation after TAVI: A meta-analysis of observational studies.
+
+Abstract: BACKGROUND: Permanent pacemaker implantation (PPI) after transcatheter aortic valve implantation (TAVI) is associated with higher risk of mortality and rehospitalization for heart failure. Efforts to prevent conduction abnormalities (CA) requiring PPI after TAVI should be made. The membranous septum (MS) length and its interaction with implantation depth (ID-ΔMSID) could provide useful information about the risk of CA/PPI following TAVI.
+OBJECTIVES: To identify MS length and ΔMSID as predictors of CA/PPI following TAVI.
+METHODS: Study-level meta-analysis of studies published by September 30, 2022.
+RESULTS: Eighteen studies met our eligibility including 5740 patients. Shorter MS length was associated with a significantly higher risk of CA/PPI (per 1 mm decrease: odds ratio [OR] 1.60, 95% confidence interval [CI] 1.28-1.99, p < 0.001). Similarly, lower ΔMSID was associated with a significantly higher risk of CA/PPI (per 1 mm decrease: OR 1.75, 95% CI 1.32-2.31, p < 0.001). Meta-regression analyses revealed a statistically significant modulation of the effect of shorter MS length and lower ΔMSID on the outcome (CA/PPI) by balloon postdilatation (positive regression coefficients with p < 0.001); with increasing use of balloon postdilatation, the effect of shorter MS length and lower ΔMSID on the outcome increased. MS length and ΔMSID demonstrated excellent discriminative abilities, with diagnostic ORs equaling 9.49 (95% CI 4.73-19.06), and 7.19 (95% CI 3.31-15.60), respectively.
+CONCLUSION: Considering that short MS length and low ΔMSID are associated with higher risk of CA and PPI, we should include measurement of MS length in the pre-TAVI planning with MDCT and try to establish optimal ID values before the procedure to avoid CA/PPI.
+
+Citation: Sá MP, et al. Computed tomography-derived membranous septum length as predictor of conduction abnormalities and permanent pacemaker implantation after TAVI: A meta-analysis of observational studies. Computed tomography-derived membranous septum length as predictor of conduction abnormalities and permanent pacemaker implantation after TAVI: A meta-analysis of observational studies. 2023; 101:1203-1213. doi: 10.1002/ccd.30666
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37070459/

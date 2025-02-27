@@ -1,0 +1,11 @@
+PMID: 34761492
+Title: Impact of physiologically diffuse versus focal pattern of coronary disease on quantitative flow reserve diagnostic accuracy.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) and instantaneous wave-free ratio (iFR) disagree in about 20% of intermediate coronary lesions. As the physiological pattern of coronary artery disease has a significant influence on FFR-iFR discordance, we sought to assess it may impact on the diagnostic accuracy of quantitative flow reserve (QFR).
+METHODS: One hundred and ninety-four patients with 224 intermediate coronary lesions were investigated with iFR, FFR, and QFR. The physiological pattern of disease was assessed with iFR Scout pullback and QFR virtual pullback in all the cases.
+RESULTS: A predominantly physiologically focal pattern was observed in 81 (36.2%) lesions, whereas a predominantly physiologically diffuse was observed in 143 (63.8%) cases. QFR demonstrated a significant correlation (r = 0.581, p < 0.001) and a substantial agreement with iFR, both in diffuse (AUC = 0.798) and in focal (AUC = 0.812) pattern of disease. Discordance between QFR and iFR was observed in 51 (22.8%) lesions, consisting of iFR+/QFR- (64.7%) and iFR-/QFR+ (35.3%). Notably, the physiological pattern of disease was the only variable significantly associated with iFR/QFR discordance. QFR virtual pullback demonstrated an excellent agreement (83.9%) with iFR Scout pullback in classifying the physiological pattern of disease.
+CONCLUSIONS: QFR has a good diagnostic accuracy in assessing myocardial ischemia independently of the pattern of coronary disease. However, the physiological pattern of disease has an influence on the QFR/iFR discordance, which occurs in ~20% of the cases. The QFR virtual pullback correctly defined the physiological pattern of disease in the majority of the cases using the iFR pullback as reference.
+
+Citation: Scarsini R, et al. Impact of physiologically diffuse versus focal pattern of coronary disease on quantitative flow reserve diagnostic accuracy. Impact of physiologically diffuse versus focal pattern of coronary disease on quantitative flow reserve diagnostic accuracy. 2022; 99:736-745. doi: 10.1002/ccd.30007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34761492/

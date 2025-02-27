@@ -1,0 +1,11 @@
+PMID: 32525293
+Title: HAS-BLED score and actual bleeding in elderly patients undergoing transcatheter aortic valve implantation.
+
+Abstract: BACKGROUND: The optimal antithrombotic therapy after transcatheter aortic valve implantation (TAVI) is unsettled. Short and longer-term thromboembolic and bleeding risk post TAVI remain high. Non-vitamin K oral anticoagulant drugs (NOAC) may be attractive after TAVI but the implications of prolonged NOAC in this setting require further research. The aim of this study was to assess the HAS-BLED bleeding risk in a contemporary TAVI population and explore its correlation with the effective bleeding complications with or without (N)OAC.
+METHODS: This study included 986 consecutive successful TAVI patients from 2 tertiary care facilities. Statistical analysis consisted of Cox regression. Bleedings were classified according to VARC-2 criteria.
+RESULTS: Mean age was 80.5 years, mean STS was 4.7 and 54% were males. A total of 483 patients (49.2%) had AF and 42.1% were on (N)OAC. The median HAS-BLED score was 2, 42.6% had a HAS-BLED≥3. Overall 216 patients (21.9%) experienced at least 1 bleeding, 166 (16.9%) occurred early after TAVI. HAS-BLED≥3 was an independent predictor of overall and pre-discharge bleeding (respectively HR 1.347 CI 1.029-1.763, P=0.03: HR 1.403 CI 1.032-1.905, P=0.05). The incidence of bleeding was similar in patient on (N)OAC vs. patients not on (N)OAC, both in the low and high HAS-BLED cohorts (P=0.93, P=0.42 respectively). Cardiovascular mortality was significantly higher in the high HAS-BLED cohort (37.5% vs. 24%, P=0.04) and HAS-BLED≥3 was an independent predictor of late mortality (HR 1.452 CI 1.028-2.053, P=0.03).
+CONCLUSIONS: In our series, contemporary TAVI patients had an elevated HAS-BLED score. The HAS-BLED score correlated with early bleedings and mortality after TAVI. Use of (N)OAC was not associated with more bleedings after TAVI.
+
+Citation: Ziviello F, et al. HAS-BLED score and actual bleeding in elderly patients undergoing transcatheter aortic valve implantation. HAS-BLED score and actual bleeding in elderly patients undergoing transcatheter aortic valve implantation. 2020; 111:203-212. doi: 10.23736/S0026-4806.19.06154-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32525293/

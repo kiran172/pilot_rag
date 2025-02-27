@@ -1,0 +1,11 @@
+PMID: 37696419
+Title: Short-term outcomes after selective shunt during carotid endarterectomy: a propensity score matching analysis.
+
+Abstract: INTRODUCTION AND OBJECTIVES: Carotid cross-clamping during carotid endarterectomy might lead to intraoperative neurologic deficits, increasing stroke/death risk. If deficits are detected, carotid shunting has been recommended to reduce the risk of stroke. However, shunting may sustain a specific chance of embolic events and subsequently incurring harm. Current evidence is still questionable regarding its clear benefit. The aim is to determine whether a policy of selective shunt impacts the complication rate following an endarterectomy.
+MATERIAL AND METHODS: From January 2013 to May 2021, all patients undergoing carotid endarterectomy under regional anesthesia with intraoperative neurologic alteration were retrieved. Patients submitted to selective shunt were compared to a non-shunt group. A 1:1 propensity score matching (PSM) was performed. Differences between the groups and clinical outcomes were calculated, resorting to univariate analysis.
+RESULTS: Ninety-eight patients were selected, from which 23 were operated on using a shunt. After PSM, 22 non-shunt patients were compared to 22 matched shunted patients. Concerning demographics and comorbidities, both groups were comparable to pre and post-PSM, except for chronic heart failure, which was more prevalent in shunted patients (26.1%, P=0.036) in pre-PSM analysis. Regarding 30-day stroke and score Clavien-Dindo ≥2, no significant association was found (P=0.730, P=0.635 and P=0.942, P=0.472, correspondingly, for pre and post-PSM).
+CONCLUSIONS: In this cohort, resorting to shunting did not demonstrate an advantage regarding 30-day stroke or a Clavien-Dindo ≥ 2 rates. Nevertheless, additional more extensive studies are mandatory to achieve precise results concerning the accurate utility of carotid shunting in this subset of patients under regional anesthesia.
+
+Citation: Pereira-Macedo J, et al. Short-term outcomes after selective shunt during carotid endarterectomy: a propensity score matching analysis. Short-term outcomes after selective shunt during carotid endarterectomy: a propensity score matching analysis. 2024; 35:71-78. doi: 10.1016/j.neucie.2023.07.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37696419/

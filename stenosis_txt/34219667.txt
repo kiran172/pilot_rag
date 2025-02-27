@@ -1,0 +1,12 @@
+PMID: 34219667
+Title: Reproducibility of quantitative flow ratio: the QREP study.
+
+Abstract: BACKGROUND: Quantitative flow ratio (QFR) is a tool for physiological lesion assessment based on invasive coronary angiography.
+AIMS: We aimed to assess the reproducibility of QFR computed from the same angiograms as assessed by multiple observers from different, international sites.
+METHODS: We included 50 patients previously enrolled in dedicated QFR studies. QFR was computed twice, one month apart by five blinded observers. The main analysis was the coefficient of variation (CV) as a measure of intra- and inter-observer reproducibility. Key secondary analysis was the identification of clinical and procedural characteristics predicting reproducibility.
+RESULTS: The intra-observer CV ranged from 2.3% (1.5-2.8) to 10.2% (6.6-12.0) among the observers. The inter-observer CV was 9.4% (8.0-10.5). The QFR observer, low angiographic quality, and low fractional flow reserve (FFR) were independent predictors of a large absolute difference between repeated QFR measurements defined as a difference larger than the median difference (>0.03).
+CONCLUSIONS: The inter- and intra-observer reproducibility for QFR computed from the same angiograms ranged from high to poor among multiple observers from different sites with an average agreement of 0.01±0.08 for repeated measurements. The reproducibility was dependent on the observer, angiographic quality and the coronary artery stenosis severity as assessed by FFR.
+
+Citation: Westra J, et al. Reproducibility of quantitative flow ratio: the QREP study. Reproducibility of quantitative flow ratio: the QREP study. 2022; 17:1252-1259. doi: 10.4244/EIJ-D-21-00425
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34219667/

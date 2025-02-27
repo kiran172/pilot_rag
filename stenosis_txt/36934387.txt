@@ -1,0 +1,12 @@
+PMID: 36934387
+Title: Angiography-derived functional assessment of left main coronary stenoses.
+
+Abstract: OBJECTIVES: We aimed to evaluate the diagnostic accuracy of quantitative flow ratio (QFR) in left main (LM) coronary stenoses, using Fractional Flow Reserve (FFR) as reference.
+BACKGROUND: QFR has demonstrated a high accuracy in determining the functional relevance of coronary stenoses in non-LM. However, there is an important paucity of data regarding its diagnostic value in the specific anatomical subset of LM disease.
+METHODS: This is a retrospective, observational, multicenter, international, and blinded study including patients with LM stenoses. Cases with significant ostial LM disease were excluded. QFR was calculated from conventional angiograms at blinded fashion with respect to FFR.
+RESULTS: Sixty-seven patients with LM stenoses were analyzed. Overall, LM had intermediate severity, both from angiographic (diameter stenosis [%DS] 43.8 ± 11.1%) and functional perspective (FFR 0.756 ± 0.105). Mean QFR was 0.733 ± 0.159. Correlation between QFR and FFR was moderate (r = 0.590). Positive and negative predictive value, sensitivity and specificity were 85.4%, 64%, 85.4%, and 69.6% respectively. Classification agreement of QFR and FFR in terms of functional stenosis severity was 78.1%. Area under the receiver operating characteristics of QFR using FFR as reference was 0.82 [95% confidence interval [CI], 0.71-0.93], and significantly better than angiographic evaluation including %DS (area under the receiver-operating characteristic curve [AUC] 0.45 [95% CI, 0.32-0.58], p < 0.001) and minimum lumen diameter (AUC 0.60 [95% CI, 0.47-0.74], p < 0.001).
+CONCLUSIONS: Compared with FFR, QFR has acceptable diagnostic performance in determining the functional relevance of LM stenosis, being better than conventional angiographic assessment. Nonetheless, caution should be taken when applying functional angiography techniques for the assessment of LM stenosis given its particular anatomical characteristics.
+
+Citation: Yuasa S, et al. Angiography-derived functional assessment of left main coronary stenoses. Angiography-derived functional assessment of left main coronary stenoses. 2023; 101:1045-1052. doi: 10.1002/ccd.30633
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36934387/

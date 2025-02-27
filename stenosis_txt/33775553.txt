@@ -1,0 +1,11 @@
+PMID: 33775553
+Title: Assessing the Accuracy of a Second-Generation Optical Sensor Pressure Wire in a Wire-to-Wire Comparison (The ACCURACY Study).
+
+Abstract: BACKGROUND: The phenomenon of "pressure drift" increases uncertainty about the correct FFR value. Redesigned and incorporating an optical pressure sensor, the "OptoWire Deux™" is purported to be less prone to the pressure drift seen with piezoelectric coronary pressure wires. The aim of this first in vivo real-world clinical study is to evaluate the performance of OptoWire Deux™ in terms of measurements agreement and propensity to pressure drift in a wire to wire comparison.
+METHODS: This is a single center, prospective, non-blinded clinical investigation enrolling 45 consecutive patients with a clinical indication for coronary lesion FFR assessment. Lesions were either simultaneously assessed with two optical sensor pressure wires (OSPW) (Group O-O; 30 patients, 34 lesions) or one OSPW and one piezoelectric pressure wire (PEPW) simultaneously (Group O-P; 15 patients, 15 lesions). Significant drift was defined as a pressure ratio deviation of >0.03.
+RESULTS: Mean FFR measurements in Group OO were not statistically different between the two sets of OSPW (overall 0.84±0.10; P = 0.52). In Group OP, however, mean FFR measurement with PEPW (0.85±0.09) was numerically lower than that observed with the OSPW (0.88±0.08; P = 0.09). Level of agreement using the Bland-Altman method was higher when 2 OSPW were used for FFR assessment (-0.002 95% CI [-0.033,0.029] vs. 0.026 95% CI [-0.078, 0.130], respectively). The rate of drift was significantly lower with an OSPW compared to a PEPW (4.8% vs. 26.7% respectively, P = 0.02).
+CONCLUSION: The optical sensor guidewire showed a high level of readings' agreement after simultaneous usage of 2 optical sensor guidewires. There was also significantly less drift when compared to a piezoelectric guidewire.
+
+Citation: Haddad K, et al. Assessing the Accuracy of a Second-Generation Optical Sensor Pressure Wire in a Wire-to-Wire Comparison (The ACCURACY Study). Assessing the Accuracy of a Second-Generation Optical Sensor Pressure Wire in a Wire-to-Wire Comparison (The ACCURACY Study). 2022; 35:51-56. doi: 10.1016/j.carrev.2021.03.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33775553/

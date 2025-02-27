@@ -1,0 +1,14 @@
+PMID: 31742363
+Title: Association Between Self-Reported Spinal Morning Stiffness and Radiographic Evidence of Lumbar Disk Degeneration in Participants of the Cohort Hip and Cohort Knee (CHECK) Study.
+
+Abstract: BACKGROUND: Low back pain (LBP) is very common and is a main cause of limited activity and work absence. Patients with LBP may also report spinal morning stiffness; this symptom could be useful for identifying subgroups with signs and symptoms related to spinal osteoarthritis.
+OBJECTIVE: This study investigated whether an association exists between reported spinal morning stiffness and radiographic evidence of lumbar disk degeneration (LDD) in people with LBP and a history of pain of the hip and/or knee.
+DESIGN: This cross-sectional study used 8-year follow-up data from the Cohort Hip and Cohort Knee study.
+METHODS: The association between spinal morning stiffness and radiographic LDD features was assessed with multivariable logistic regression models.
+RESULTS: The presence of osteophytes was significantly associated with spinal morning stiffness (odds ratio [OR] = 2.1 [95% confidence interval [CI] = 1.3-3.2]) as was the presence of grade 2 or 3 disk space narrowing (OR = 2.0 [95% CI = 1.1-3.5]). There was also a significant association between morning stiffness persisting for > 30 minutes and grade 2 osteophytes (OR = 2.6 [95% CI = 1.1-6.2]) and grade 1 disk space narrowing (OR = 2.0 [95% CI = 1.1-3.6]). Furthermore, there was a significant association between moderate spinal morning stiffness and the presence of osteophytes (OR = 2.0 [95% CI = 1.2-3.2]). Both the presence of osteophytes and disk space narrowing were significantly associated with severe spinal morning stiffness (for osteophytes: OR = 2.0 [95% CI = 1.2-3.7]; for narrowing at L1-S1: OR = 1.8 [95% CI = 1.1-3.1]).
+LIMITATIONS: Only lumbar lateral radiographs were available for each participant, implying that the LDD features could have been underestimated. The quality of the radiographs was not consistent.
+CONCLUSIONS: This study showed an association between self-reported spinal morning stiffness and symptomatic LDD. When morning stiffness lasted > 30 minutes, there was a significant association with the features of LDD. The association was stronger when the severity of spinal morning stiffness increased.
+
+Citation: van den Berg R, et al. Association Between Self-Reported Spinal Morning Stiffness and Radiographic Evidence of Lumbar Disk Degeneration in Participants of the Cohort Hip and Cohort Knee (CHECK) Study. Association Between Self-Reported Spinal Morning Stiffness and Radiographic Evidence of Lumbar Disk Degeneration in Participants of the Cohort Hip and Cohort Knee (CHECK) Study. 2020; 100:255-267. doi: 10.1093/ptj/pzz170
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31742363/

@@ -1,0 +1,8 @@
+PMID: 32575759
+Title: Carotid Stenosis Assessment with Vector Concentration before and after Stenting.
+
+Abstract: Digital subtraction angiography (DSA) is considered the reference method for the assessment of carotid artery stenosis; however, the procedure is invasive and accompanied by ionizing radiation. Velocity estimation with duplex ultrasound (DUS) is widely used for carotid artery stenosis assessment since no radiation or intravenous contrast is required; however, the method is angle-dependent. Vector concentration (VC) is a parameter for flow complexity assessment derived from the angle independent ultrasound method vector flow imaging (VFI), and VC has shown to correlate strongly with stenosis degree. The aim of this study was to compare VC estimates and DUS estimated peak-systolic (PSV) and end-diastolic velocities (EDV) for carotid artery stenosis patients, with the stenosis degree obtained with DSA. Eleven patients with symptomatic carotid artery stenosis were examined with DUS, VFI, and DSA before and after stent treatment. Compared to DSA, VC showed a strong correlation (r = -0.79, p &lt; 0.001), while PSV (r = 0.68, p = 0.002) and EDV (r = 0.51, p = 0.048) obtained with DUS showed a moderate correlation. VFI using VC calculations may be a useful ultrasound method for carotid artery stenosis and stent patency assessment.
+
+Citation: Brandt AH, et al. Carotid Stenosis Assessment with Vector Concentration before and after Stenting. Carotid Stenosis Assessment with Vector Concentration before and after Stenting. 2020; 10:(unknown pages). doi: 10.3390/diagnostics10060420
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32575759/

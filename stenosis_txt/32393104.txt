@@ -1,0 +1,13 @@
+PMID: 32393104
+Title: Subglottic Stenosis: Development of a Clinically Relevant Endoscopic Animal Model.
+
+Abstract: OBJECTIVE: Develop a clinically relevant and reproducible endoscopic animal model for subglottic stenosis amenable to testing of minimally invasive therapeutic modalities.
+STUDY DESIGN: Cohort study.
+SETTING: Division of Laboratory Animals Research, University of Pittsburgh.
+SUBJECTS AND METHODS: Subglottic stenosis was induced endoscopically via microsuspension laryngoscopy in 26 New Zealand white rabbits. A trimmed polypropylene brush connected to a novel electronic stenosis induction apparatus was used to create circumferential trauma to the subglottis. By using open source image analysis software, the cross-sectional areas of the stenotic and native airways were compared to calculate the percentage of stenosis and the Myer-Cotton classification grade.
+RESULTS: Of the 26 rabbits, 24 (92%) exhibited stenosis after the first attempt. The mean percentage of airway stenosis was 57% (range, 34%-85%; SD, 15%). Five rabbits (19.2%) died on the day of stenosis induction from procedural complications. Of the 21 rabbits, 2 demonstrated no stenosis 7 days after initial injury and so underwent reinduction of airway injury, upon which they developed stenosis. Overall, 14 of the 21 rabbits (67%) exhibited moderate to severe stenosis (grade 2 or 3).
+CONCLUSION: The stenosis induction apparatus reliably induced stenosis with a low mortality rate as compared with that of other methods in the literature. The device could be improved to generate a predetermined potentially reproducible grade of stenosis as desired by the operator. This method sets the stage for a clinically relevant and reproducible subglottic stenosis disease model that is amenable to testing of minimally invasive treatment modalities.
+
+Citation: Mady LJ, et al. Subglottic Stenosis: Development of a Clinically Relevant Endoscopic Animal Model. Subglottic Stenosis: Development of a Clinically Relevant Endoscopic Animal Model. 2020; 162:905-913. doi: 10.1177/0194599820921404
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32393104/

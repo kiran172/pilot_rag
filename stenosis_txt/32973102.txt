@@ -1,0 +1,11 @@
+PMID: 32973102
+Title: Comparison of carotid artery ultrasound and Framingham risk score for discriminating coronary artery disease in patients with psoriatic arthritis.
+
+Abstract: OBJECTIVES: This study aimed to assess the performance of carotid ultrasound (US) parameters alone or in combination with Framingham Risk Score (FRS) in discriminating patients with psoriatic arthritis (PsA) with and without coronary artery disease (CAD).
+METHODS: Ninety-one patients with PsA (56 males; age: 50±11 years, disease duration: 9.4±9.2 years) without overt cardiovascular (CV) diseases were recruited. Carotid intima-media thickness (cIMT), the presence of plaque and total plaque area (TPA) was determined by high-resolution US. CAD was defined as the presence of any coronary plaque on coronary CT angiography (CCTA). Obstructive-CAD (O-CAD) was defined as >50% stenosis of the lumen.
+RESULTS: Thirty-five (38%) patients had carotid plaque. Fifty-four (59%) patients had CAD (CAD+) and 9 (10%) patients had O-CAD (O-CAD+). No significant associations between the presence of carotid plaque and CAD were found. However, cIMT and TPA were higher in both the CAD+ and O-CAD+ group compared with the CAD- or O-CAD- groups, respectively. Multivariate logistic regression analysis revealed that mean cIMT was an independent explanatory variable associated with CAD and O-CAD, while maximum cIMT and TPA were independent explanatory variables associated with O-CAD after adjusting for covariates. The optimal cut-offs for detecting the presence of CAD were FRS >5% and mean cIMT at 0.62 mm (AUC: 0.71; sensitivity: 67%; specificity: 76%), while the optimal cut-offs for detecting the presence of O-CAD were FRS >10% in combination with mean cIMT at 0.73 mm (AUC: 0.71; sensitivity: 56%; specificity: 85%).
+CONCLUSION: US parameters including cIMT and TPA may be considered in addition to FRS for CV risk stratification in patients with PsA.
+
+Citation: Cheng IT, et al. Comparison of carotid artery ultrasound and Framingham risk score for discriminating coronary artery disease in patients with psoriatic arthritis. Comparison of carotid artery ultrasound and Framingham risk score for discriminating coronary artery disease in patients with psoriatic arthritis. 2020; 6:(unknown pages). doi: 10.1136/rmdopen-2020-001364
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32973102/

@@ -1,0 +1,11 @@
+PMID: 32774915
+Title: miRNA-22 as a Candidate Diagnostic Biomarker for Coronary Slow Flow.
+
+Abstract: BACKGROUND: Coronary slow flow (CSF) refers to the phenomenon of delayed distal flow in the absence of lesions detected on coronary angiography. Although the detection rate of CSF has been increasing in clinical practice, early diagnosis is difficult and the factors contributing to this condition remain unclear. Given the increasing demonstration of the roles of microRNAs (miRNAs) in disease and as diagnostic biomarkers, the aim of this study was to analyze the expression of serum miRNA-22 in patients with CSF detected using coronary angiography and its diagnostic efficacy.
+METHODS AND RESULTS: A retrospective analysis including 44 patients with CSF and 42 patients with normal coronary flow (control group) was conducted. Additionally, all included patients either did not have visually estimated coronary artery stenosis or had <50% stenosis. Plasma samples were collected from patients in these two groups, and the levels of miRNA-22 were detected. The receiver operating characteristic (ROC) curve was plotted to evaluate the diagnostic efficiency of serum miRNA-22 in the context of CSF.
+RESULTS: The expression of serum miRNA-22 was significantly higher in the CSF patients than in the control subjects (P &lt; 0.0001). The area under the ROC curve for miRNA-22 in diagnosing CSF was 0.8293 (95% confidence interval: 0.7313-0.9272), with a sensitivity of 75.0% and specificity of 88.1%.
+CONCLUSIONS: The expression of serum miRNA-22 in CSF is upregulated compared to that in subjects with normal coronary flow and shows relatively high clinical diagnostic efficiency, suggesting a new potential biomarker for the early diagnosis of CSF.
+
+Citation: Chen T, et al. miRNA-22 as a Candidate Diagnostic Biomarker for Coronary Slow Flow. miRNA-22 as a Candidate Diagnostic Biomarker for Coronary Slow Flow. 2020; 2020:7490942. doi: 10.1155/2020/7490942
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32774915/

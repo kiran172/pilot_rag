@@ -1,0 +1,11 @@
+PMID: 35976561
+Title: KRAS mutation status between left- and right-sided colorectal cancer: are there any differences in computed tomography?
+
+Abstract: PURPOSE: To investigate the differences in clinicopathological and imaging features according to KRAS mutation status in left- and right-sided colorectal cancer.
+METHOD: A total of 157 patients with pathologically proven colorectal cancer and preoperative contrast-enhanced multidetector CT examinations were enrolled. According to the tumor location and KRAS status, they were divided into two groups: the left-sided colorectal cancer (LCC) group (wild type, mutant type) and the right-sided colorectal cancer (RCC) group (wild type, mutant type). Clinicopathological and imaging features were recorded in each group. The imaging observation indicators included short axis diameter (SAD), longitudinal tumor length (LTL), tumor shape, pericolic fat stranding, bowel stenosis, intratumoral low-density range, enhancement pattern, and bowel obstruction. Univariate and multivariate logistic regression analyses were performed to compare the difference in KRAS mutation status between groups.
+RESULTS: In the LCC group, SAD, tumor shape, degree of pericolic fat stranding, and bowel obstruction were significant indicators for predicting KRAS status (P < 0.05). In the RCC group, CA19-9, SAD, and intratumoral low-density range were significant indicators for predicting KRAS status (P < 0.05.). The area under the curve (AUC) of the combination image indicators in the LCC group was 0.802 [cutoff point 0.372, 95% confidence interval (CI) 0.718-0.888, sensitivity 85.4%, specificity 72.0%]. The AUC in the RCC group was 0.828 (cutoff point 0.647, 95% CI 0.726-0.931, sensitivity 79.5%, specificity 75.0%).
+CONCLUSION: The CT imaging features associated with KRAS mutation status in the LCC and RCC groups were different. The combination of tumor location and imaging features can help to further improve the predictive value of KRAS status.
+
+Citation: Yu MM, et al. KRAS mutation status between left- and right-sided colorectal cancer: are there any differences in computed tomography?. KRAS mutation status between left- and right-sided colorectal cancer: are there any differences in computed tomography?. 2023; 41:83-91. doi: 10.1007/s11604-022-01326-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35976561/

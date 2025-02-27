@@ -1,0 +1,11 @@
+PMID: 36411087
+Title: Machine-learning algorithm in acute stroke: real-world experience.
+
+Abstract: AIM: To assess the clinical performance of a commercially available machine learning (ML) algorithm in acute stroke.
+MATERIALS AND METHODS: CT and CT angiography (CTA) studies of 104 consecutive patients (43 females, age range 19-93, median age 62) performed for suspected acute stroke at a single tertiary institution with real-time ML software analysis (RAPID™ ASPECTS and CTA) were included. Studies were retrospectively reviewed independently by two neuroradiologists in a blinded manner.
+RESULTS: The cohort included 24 acute infarcts and 16 large vessel occlusions (LVO). RAPID™ ASPECTS interpretation demonstrated high sensitivity (87.5%) and NPV (87.5%) but very poor specificity (30.9%) and PPV (30.9%) for detection of acute ischaemic parenchymal changes. There was a high percentage of false positives (51.1%). In cases of proven LVO, RAPID™ ASPECTS showed good correlation with neuroradiologists' blinded independent interpretation, Pearson correlation coefficient = 0.96 (both readers), 0.63 (RAPID™ vs reader 1), 0.69 (RAPID™ vs reader 2). RAPID™ CTA interpretation demonstrated high sensitivity (92.3%), specificity (85.3%), and negative predictive (NPV) (98.5%) with moderate positive predictive value (PPV) (52.2%) for detection of LVO (N=13). False positives accounted for 12.5% of cases, of which 27.3% were attributed to arterial stenosis.
+CONCLUSION: RAPID™ CTA was robust and reliable in detection of LVO. Although demonstrating high sensitivity and NPV, RAPID™ ASPECTS interpretation was associated with a high number of false positives, which decreased clinicians' confidence in the algorithm. However, in cases of proven LVO, RAPID™ ASPECTS performed well and had good correlation with neuroradiologists' blinded interpretation.
+
+Citation: Chan N, et al. Machine-learning algorithm in acute stroke: real-world experience. Machine-learning algorithm in acute stroke: real-world experience. 2023; 78:e45-e51. doi: 10.1016/j.crad.2022.10.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36411087/

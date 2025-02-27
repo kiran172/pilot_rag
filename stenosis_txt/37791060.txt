@@ -1,0 +1,8 @@
+PMID: 37791060
+Title: Ferroptosis: A potential target of macrophages in plaque vulnerability.
+
+Abstract: Plaque vulnerability has been the subject of several recent studies aimed at reducing the risk of stroke and carotid artery stenosis. Atherosclerotic plaque development is a complex process involving inflammation mediated by macrophages. Plaques become more vulnerable when the equilibrium between macrophage recruitment and clearance is disturbed. Lipoperoxides, which are affected by iron levels in cells, are responsible for the cell death seen in ferroptosis. Ferroptosis results from lipoperoxide-induced mitochondrial membrane toxicity. Atherosclerosis in ApoE(-/-) mice is reduced when ferroptosis is inhibited and iron intake is limited. Single-cell sequencing revealed that a ferroptosis-related gene was substantially expressed in atherosclerosis-modeled macrophages. Since ferroptosis can be regulated, it offers hope as a non-invasive method of treating carotid plaque. In this study, we discuss the role of ferroptosis in atherosclerotic plaque vulnerability, including its mechanism, regulation, and potential future research directions.
+
+Citation: Li Y, et al. Ferroptosis: A potential target of macrophages in plaque vulnerability. Ferroptosis: A potential target of macrophages in plaque vulnerability. 2023; 18:20220722. doi: 10.1515/biol-2022-0722
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37791060/

@@ -1,0 +1,11 @@
+PMID: 32939395
+Title: In-hospital clinical outcomes of transcatheter aortic valve replacement in patients with concomitant carotid artery stenosis: Insights from the national inpatient sample.
+
+Abstract: BACKGROUND: Carotid artery stenosis (CAS) is a common occurrence in elderly patients undergoing transcatheter aortic valve replacement (TAVR). We conducted a retrospective study to identify the impact of CAS on in-hospital outcomes following TAVR.
+METHODS: We queried the National Inpatient Sample (NIS) for 2016-2017 and identified patients who underwent TAVR with concomitant CAS using the ICD-10 codes. The primary endpoint of our study was in-hospital mortality and acute ischemic stroke.
+RESULTS: We identified 80,740 TAVR-related hospitalizations. Of these, 6.9% (N = 5555) patients had concomitant CAS. The mean age for CAS patients was 80 ± 7.4 years. Females were represented equally in both groups. Traditional comorbidities like dyslipidemia [78.3% (N = 4350) vs. 68.2% (N = 51261); P < 0.001] and peripheral arterial disease [27.4% (N = 1525) vs. 12.7% (N = 9526); P < 0.001] were more frequently observed among CAS patients. Patients with CAS had higher rates of previous stroke [17.5% (N = 970) vs. 11.8% (N = 8902); P < 0.001] and CABG 23.8% (N = 1320) vs. 18.6% (N = 14022); P < 0.001]. Other cardiovascular risk factors were similar between the two groups. Moreover, no differences in in-hospital outcomes including mortality [odds ratio (OR): 1.35, CI: 0.48-3.83; P = 0.57] were observed in the propensity matched cohort.
+CONCLUSIONS: Our study did not find any major differences in outcomes in the CAS group following TAVR; however, a more detailed randomized controlled study with long-term follow-up of these patients is needed.
+
+Citation: Chakraborty S, et al. In-hospital clinical outcomes of transcatheter aortic valve replacement in patients with concomitant carotid artery stenosis: Insights from the national inpatient sample. In-hospital clinical outcomes of transcatheter aortic valve replacement in patients with concomitant carotid artery stenosis: Insights from the national inpatient sample. 2020; 31:100621. doi: 10.1016/j.ijcha.2020.100621
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32939395/

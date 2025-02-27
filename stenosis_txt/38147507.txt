@@ -1,0 +1,11 @@
+PMID: 38147507
+Title: Patient decision aids for aortic stenosis and chronic coronary artery disease: a systematic review and meta-analysis.
+
+Abstract: AIMS: Shared decision-making is recommended for patients considering treatment options for severe aortic stenosis (AS) and chronic coronary artery disease (CAD). This review aims to systematically identify and assess patient decision aids (PtDAs) for chronic CAD and AS and evaluate the international evidence on their effectiveness for improving the quality of decision-making.
+METHODS AND RESULTS: Five databases (Cochrane, CINAHL, Embase, MEDLINE, and PsycInfo), clinical trial registers, and 30 PtDA repositories/websites were searched from 2006 to March 2023. Screening, data extraction, and quality assessments were completed independently by multiple reviewers. Meta-analyses were conducted using Stata statistical software. Eleven AS and 10 CAD PtDAs were identified; seven were less than 5 years old. Over half of the PtDAs were web based and the remainder paper based. One AS and two CAD PtDAs fully/partially achieved international PtDA quality criteria. Ten studies were included in the review; four reported on the development/evaluation of AS PtDAs and six on CAD PtDAs. Most studies were conducted in the USA with White, well-educated, English-speaking participants. No studies fulfilled all quality criteria for reporting PtDA development and evaluation. Meta-analyses found that PtDAs significantly increased patient knowledge compared with 'usual care' (mean difference: 0.620; 95% confidence interval 0.396-0.845, P < 0.001) but did not change decisional conflict.
+CONCLUSION: Patients who use PtDAs when considering treatments for AS or chronic CAD are likely to be better informed than those who do not. Existing PtDAs may not meet the needs of people with low health literacy levels as they are rarely involved in their development.
+REGISTRATION: PROSPERO: CRD42021264700.
+
+Citation: Harris E, et al. Patient decision aids for aortic stenosis and chronic coronary artery disease: a systematic review and meta-analysis. Patient decision aids for aortic stenosis and chronic coronary artery disease: a systematic review and meta-analysis. 2024; 23:561-581. doi: 10.1093/eurjcn/zvad138
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38147507/

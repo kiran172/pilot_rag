@@ -1,0 +1,11 @@
+PMID: 37996559
+Title: Cerebrospinal fluid flow artifact reduction with deep learning to optimize the evaluation of spinal canal stenosis on spine MRI.
+
+Abstract: PURPOSE: The aim of study was to employ the Cycle Generative Adversarial Network (CycleGAN) deep learning model to diminish the cerebrospinal fluid (CSF) flow artifacts in cervical spine MRI. We also evaluate the agreement in quantifying spinal canal stenosis.
+METHODS: For training model, we collected 9633 axial MR image pairs from 399 subjects. Then, additional 104 image pairs from 19 subjects were gathered for the test set. The deep learning model was developed using CycleGAN to reduce CSF flow artifacts, where T2 TSE images served as input, and T2 FFE images, known for fewer CSF flow artifacts. Post training, CycleGAN-generated images were subjected to both quantitative and qualitative evaluations for CSF artifacts. For assessing the agreement of spinal canal stenosis, four raters utilized an additional 104 pairs of original and CycleGAN-generated images, with inter-rater agreement evaluated using a weighted kappa value.
+RESULTS: CSF flow artifacts were reduced in the CycleGAN-generated images compared to the T2 TSE and FFE images in both quantitative and qualitative analysis. All raters concordantly displayed satisfactory estimation results when assessing spinal canal stenosis using the CycleGAN-generated images with T2 TSE images (kappa = 0.61-0.75) compared to the original FFE with T2 TSE images (kappa = 0.48-0.71).
+CONCLUSIONS: CycleGAN demonstrated the capability to produce images with diminished CSF flow artifacts. When paired with T2 TSE images, the CycleGAN-generated images allowed for more consistent assessment of spinal canal stenosis and exhibited agreement levels that were comparable to the combination of T2 TSE and FFE images.
+
+Citation: Kim UH, et al. Cerebrospinal fluid flow artifact reduction with deep learning to optimize the evaluation of spinal canal stenosis on spine MRI. Cerebrospinal fluid flow artifact reduction with deep learning to optimize the evaluation of spinal canal stenosis on spine MRI. 2024; 53:957-965. doi: 10.1007/s00256-023-04501-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37996559/

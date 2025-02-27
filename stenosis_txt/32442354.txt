@@ -1,0 +1,12 @@
+PMID: 32442354
+Title: Impact of bleeding after transcatheter aortic valve replacement in patients with chronic kidney disease.
+
+Abstract: OBJECTIVE: In patients with chronic kidney disease (CKD) undergoing transcatheter aortic valve replacement (TAVR), this study aims to elucidate (a) the bleeding risks associated with CKD, (b) the association between bleeding and subsequent mortality, and (c) the pattern of antithrombotic therapy prescribed.
+BACKGROUND: Patients with CKD have a higher risk of bleeding following TAVR. It is unclear whether this risk persists beyond the periprocedural period and whether it negatively impacts mortality.
+METHODS: A retrospective review was performed on patients who underwent TAVR at Massachusetts General Hospital from 2008 to 2017. CKD was defined as estimated glomerular filtration rate less than 60 ml/min/1.73 m2 . Primary endpoints up to 1-year following TAVR included bleeding, all-cause mortality, and ischemic stroke. Outcomes for patients with and without CKD were compared using log-rank test, and Cox regression with age, sex, and diabetes as covariates. Bleeding was treated as a time-varying covariate, and Cox proportional hazard regression was utilized to model mortality.
+RESULTS: Of the 773 patients analyzed, 466 (60.3%) had CKD. At 1 year, CKD patients had higher rates of bleeding (9.2 vs. 4.9%, adjusted hazard ratios [aHR] = 1.91, p = .032) and all-cause mortality (13.7 vs. 9.1%, aHR = 1.57, p = .049), but not stroke (3.9 vs. 1.6% aHR = 0.073, p = .094). Bleeding was associated with an increased risk of subsequent mortality (aHR = 2.65, 95% CI: 1.25-5.63, p = .01). There were no differences in the antithrombotic strategy following TAVR between CKD and non-CKD patients.
+CONCLUSION: CKD is associated with a higher risk of bleeding up to 1 year following TAVR. Long-term bleeding after TAVR is associated with increased subsequent mortality.
+
+Citation: Li SX, et al. Impact of bleeding after transcatheter aortic valve replacement in patients with chronic kidney disease. Impact of bleeding after transcatheter aortic valve replacement in patients with chronic kidney disease. 2021; 97:E172-E178. doi: 10.1002/ccd.28989
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32442354/

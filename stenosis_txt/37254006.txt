@@ -1,0 +1,12 @@
+PMID: 37254006
+Title: Cost-effectiveness of transcatheter aortic valve implantation in patients at low surgical risk in France: a model-based analysis of the Evolut LR trial.
+
+Abstract: BACKGROUND: In the recent Evolut Low Risk randomized trial, transcatheter aortic valve implantation (TAVI) was shown to be non-inferior to surgery (SAVR) regarding the composite end point of all-cause mortality or disabling stroke at 24 months.
+AIMS: To evaluate the cost-effectiveness of self-expandable TAVI in low-risk patients, using the French healthcare system as the basis for analysis.
+METHODS: Mortality, health-related quality of life, and clinical event rates through two-year follow-up were derived from trial data (N = 725 TAVI and N = 678 SAVR; mean age: 73.9 years; mean STS-PROM: 1.9%). Cost inputs were based on real-world data for TAVI and SAVR procedures in the French healthcare system. Costs and effectiveness as quality-adjusted life years (QALYs) were projected to lifetime via a decision-analytic model under assumption of no mortality difference beyond two years. The discounted incremental cost-effectiveness ratio (ICER) was evaluated against a willingness-to-pay threshold of €50,000 per QALY gained. Deterministic and probabilistic sensitivity analyses were conducted, including assumptions about differential long-term survival.
+RESULTS: For the base case, mean survival was 13.69 vs 13.56 (+ 0.13) years for TAVI and SAVR, respectively. Discounted QALYs were 9.34 vs. 9.21 (+ 0.13) and discounted lifetime costs €52,267 vs. €51,433 (+ €833), resulting in a lifetime ICER of €6368 per QALY gained. In probabilistic sensitivity analysis, TAVI was found dominant or cost-effective in 74.4% of samples.
+CONCLUSION: TAVI in patients at low surgical risk is a cost-effective alternative to SAVR in the French healthcare system. Longer follow-up data will help increase the accuracy of lifetime survival projections.
+
+Citation: Tchétché D, et al. Cost-effectiveness of transcatheter aortic valve implantation in patients at low surgical risk in France: a model-based analysis of the Evolut LR trial. Cost-effectiveness of transcatheter aortic valve implantation in patients at low surgical risk in France: a model-based analysis of the Evolut LR trial. 2024; 25:447-457. doi: 10.1007/s10198-023-01590-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37254006/

@@ -1,0 +1,10 @@
+PMID: 39266372
+Title: Long-term prognostic value of CT-based high-risk coronary lesion attributes and radiomic features of pericoronary adipose tissue in diabetic patients.
+
+Abstract: AIMS: To investigate the long-term prognostic value of coronary computed tomography angiography (CCTA)-derived high-risk attributes and radiomic features of pericoronary adipose tissue (PCAT) in diabetic patients for predicting major adverse cardiac event (MACE).
+METHODS AND RESULTS: Diabetic patients with intermediate pre-test probability of coronary artery disease were prospectively enrolled and referred for CCTA. Three models (model-1 with clinical parameters; model-2 with clinical factors + CCTA imaging parameters; model-3 with the above parameters and PCAT radiomic features) were developed in the training cohort (835 patients) and tested in the independent validation cohort (557 patients). 1392 patients were included and MACEs occurred in 108 patients (7.8%). Multivariable Cox regression analysis revealed that HbA1c, coronary calcium Agatston score, significant stenosis and high-risk plaque were independent predictors for MACE whereas none of PCAT radiomic features showed predictive value. In the training cohort, model-2 demonstrated higher predictive performance over model-1 (C-index = 0.79 vs. 0.68, p < 0.001) whereas model-3 did not show incremental value over model-2(C-index = 0.79 vs. 0.80, p = 0.408). Similar findings were found in the validation cohort.
+CONCLUSIONS: The combined model (clinical and CCTA high-risk anatomical features) demonstrated high efficacy in predicting MACE in diabetes. PCAT radiomic features failed to show incremental value for risk stratification.
+
+Citation: Yang W, et al. Long-term prognostic value of CT-based high-risk coronary lesion attributes and radiomic features of pericoronary adipose tissue in diabetic patients. Long-term prognostic value of CT-based high-risk coronary lesion attributes and radiomic features of pericoronary adipose tissue in diabetic patients. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.crad.2024.08.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39266372/

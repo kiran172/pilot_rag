@@ -1,0 +1,11 @@
+PMID: 35920838
+Title: Frailty and clinical outcomes following aortic valve replacement.
+
+Abstract: BACKGROUND AND AIMS: The Norton score is a well-known scale to assess frailty. Frailty and a low Norton score are associated with complications and mortality in hospitalized patients. We aimed to evaluate whether a low Norton score is associated with surgical complications and death after aortic valve replacement (AVR).
+METHODS: From 2004 through 2020, we performed an observational study in a large tertiary medical center, which included all patients who had undergone isolated AVR surgery. Of the 1469 study patients, 618 patients (42%) had a low (<18) and 851 patients (58%) a high Norton score (≥18).
+RESULTS: Frailer patients with a low Norton score had higher in-hospital mortality compared to those with a high Norton score (5.5% vs. 0.8%, p < .001). The Norton score was significantly higher among patients who survived compared to those who died (17.5 ± 2.4 vs. 11.5 ± 5.2, p < .001). A low Norton score was associated with a threefold increased risk of in-hospital mortality (odds ratio 3.03; 95% confidence interval [CI] 1.14-0.09, p = .034). Ten-year mortality rate was higher among frailer patients with a low compared with a high Norton score (25.9%, 13.3%; hazard ratio 0.69, CI 0.48-0.82, p < .001). By adding a Norton score to standard prognostic factors (age, gender, comorbidities, left ventricular ejection fraction, functional class) we showed a significant improvement of 59.4% (p < .001) for predicting 1-year mortality, and 40.6% (p < .001) for predicting 10-year mortality.
+CONCLUSIONS: Our findings show that the admission Norton score is a powerful marker of short- and long-term mortality, and, therefore, should be considered as a risk stratification tool in patients who are candidates for AVR.
+
+Citation: Ram E, et al. Frailty and clinical outcomes following aortic valve replacement. Frailty and clinical outcomes following aortic valve replacement. 2022; 37:3036-3043. doi: 10.1111/jocs.16801
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35920838/

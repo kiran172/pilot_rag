@@ -1,0 +1,12 @@
+PMID: 36455701
+Title: Pre-procedural oral anticoagulant use is associated with cardiovascular events in women after transcatheter aortic valve replacement: An analysis from the WIN-TAVI cohort.
+
+Abstract: BACKGROUND: Transcatheter aortic valve implantation (TAVI) has become an accepted treatment for patients with severe aortic stenosis (AS). Predicting which patients are at risk for adverse clinical outcomes after TAVI remains difficult, especially in women.
+AIM: To identify predictors of adverse events in the WIN-TAVI cohort.
+METHODS: The WIN-TAVI study is an observational registry of 1019 women undergoing TAVI for severe symptomatic AS. Follow-up was 1 year. The primary outcome was defined according to VARC-2: a composite of mortality, stroke, myocardial infarction or hospitalization for valve-related symptoms or heart failure. The secondary outcome was a composite of cardiovascular mortality or hospitalization for valve-related symptoms or heart failure.
+RESULTS: We included 1019 women with severe AS (mean age of 82.5 ± 6.3 years). At 1 year, 16.4% of the patients experienced the primary endpoint and 12.6% the secondary endpoint. The use of oral anticoagulants (OAC) was the strongest independent predictor of the primary outcome (adjusted hazard ratio [aHR] 1.51, 95% confidence interval [CI] 1.079-2.106, p = 0.016). Independent predictors of the secondary endpoint were age (aHR 1.04 per year, 95% CI 1.01-1.074, p = 0.016) and use of OAC (aHR: 1.79, 95% CI 1.24-2.60, p = 0.002). OAC use was not associated with higher bleeding risk.
+CONCLUSION: Pre-procedural use of OAC was the strongest predictor of adverse outcomes during 1-year follow-up, likely reflecting a combination of high-risk factors and comorbidities, but was not related to increased bleeding risk.
+
+Citation: van Bergeijk KH, et al. Pre-procedural oral anticoagulant use is associated with cardiovascular events in women after transcatheter aortic valve replacement: An analysis from the WIN-TAVI cohort. Pre-procedural oral anticoagulant use is associated with cardiovascular events in women after transcatheter aortic valve replacement: An analysis from the WIN-TAVI cohort. 2023; 372:40-45. doi: 10.1016/j.ijcard.2022.11.056
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36455701/

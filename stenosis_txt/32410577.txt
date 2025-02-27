@@ -1,0 +1,11 @@
+PMID: 32410577
+Title: MicroRNA-214 modulates the senescence of vascular smooth muscle cells in carotid artery stenosis.
+
+Abstract: BACKGROUND: MicroRNAs control gene expression by post-transcriptional inhibition. Dysregulation of the expressions of miR-199a/214 cluster has been linked to cardiovascular diseases. This study aimed at identifying potential microRNAs related to vascular senescence.
+METHODS: Seven candidate microRNAs (miR-19a, -20a, -26b, -106b, - 126, - 214, and - 374) related to cell proliferation were tested for their expressions under CoCl<sub>2</sub>-induced hypoxia in vascular smooth muscle cells (VSMCs). After identification of miR-214 as the candidate microRNA, telomere integrity impairment and cell cycle arrest were examined in VSMCs by using miR-214 mimic, AntagomiR, and negative controls. To investigate the clinical significance of miR-214 in vascular diseases, its plasma level from patients with carotid artery stenosis (CAS) was assessed by quantitative reverse transcriptase polymerase chain reaction (qRT-PCR).
+RESULTS: CoCl<sub>2</sub> treatment for 48 h suppressed cell proliferation and angiogenesis as well as enhanced cell senescence in VSMCs. Besides, miR-214 level was elevated in both intracellular and exosome samples of VSMCs after CoCl<sub>2</sub> treatment. Manipulating miR-214 in VSMCs demonstrated that miR-214 not only inhibited angiogenic and proliferative capacities but also promoted senescence through the suppression of quaking. Additionally, circulating miR-214 level was upregulated in CAS patients with high low-density lipoprotein cholesterol (LDL-C) value.
+CONCLUSION: Our findings suggested that miR-214 plays a role in the modulation of VSMC angiogenesis, proliferation, and senescence with its plasma level being increased in CAS patients with elevated LDL-C value, implying that it may be a vascular senescence marker and a potential therapeutic target for vascular diseases.
+
+Citation: Chen YL, et al. MicroRNA-214 modulates the senescence of vascular smooth muscle cells in carotid artery stenosis. MicroRNA-214 modulates the senescence of vascular smooth muscle cells in carotid artery stenosis. 2020; 26:46. doi: 10.1186/s10020-020-00167-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32410577/

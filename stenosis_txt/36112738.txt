@@ -1,0 +1,11 @@
+PMID: 36112738
+Title: HAS-BLED Score for Prediction of Bleeding and Mortality After Transcatheter Aortic Valve Replacement.
+
+Abstract: INTRODUCTION: Bleeding after transcatheter aortic valve replacement (TAVR) is associated with increased mortality. The predictive value of the HAS-BLED score in TAVR patients is still to be evaluated. We assessed the value of the HAS-BLED score to predict in-hospital bleeding and mortality after TAVR and the impact of diferent renal impairment definitions on the predictive value of the score system.
+METHODS: We retrospectively included 574 patients who underwent TAVR at a single center. Study outcomes were 30-day mortality and the composite endpoint of major and life-threatening bleeding as defined by The Valve Academic Research Consortium-2. The predictive value of the HAS-BLED score was calculated and compared to a modified model. The performance of the score was compared using two definitions of renal impairment. Model discrimination was tested using C-statistic and the Net Reclassification Index.
+RESULTS: Bleeding occurred in 78 patients (13.59%). HAS-BLED category 3 was a significant predictor of bleeding (OR: 1.99 ]1.18- 3.37], C-index: 0.56, P=0.01). C-index increased to 0.64 after adding body surface area and extracardiac arteriopathy to the model. The Net Reclassification Index showed an increase in the predic tive value of the model by 11.4% (P=0.002). The C-index increased to 0.61 using renal impairment definition based on creatinine clearance. Operative mortality was significantly associated with the HAS-BLED score (OR: 7.54 [95% CI: 2.73- 20.82], C-index: 0.73, P<0.001).
+CONCLUSION: The HAS-BLED score could be a good predictor of in-hospital mortality after TAVR. Its predictive value for bleeding was poor but improved by adding procedure-specific factors and using creatinine clearance to define renal impairment.
+
+Citation: Albabtain MA, et al. HAS-BLED Score for Prediction of Bleeding and Mortality After Transcatheter Aortic Valve Replacement. HAS-BLED Score for Prediction of Bleeding and Mortality After Transcatheter Aortic Valve Replacement. 2023; 38:37-42. doi: 10.21470/1678-9741-2021-0331
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36112738/

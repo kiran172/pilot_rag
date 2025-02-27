@@ -1,0 +1,11 @@
+PMID: 35218607
+Title: Evaluating the proportion of isolated cases among a spectrum of birth defects in a population-based registry.
+
+Abstract: INTRODUCTION: Because the etiology and outcomes of birth defects may differ by the presence vs. absence of co-occurring anomalies, epidemiologic studies often attempt to classify cases into isolated versus non-isolated groupings. This report describes a computer algorithm for such classification and presents results using data from the Texas Birth Defects Registry (TBDR).
+METHODS: Each of the 1,041 birth defects coded by the TBDR was classified as chromosomal, syndromic, minor, or "needs review" by a group of three clinical geneticists. A SAS program applied those classifications to each birth defect in a case (child/fetus), and then hierarchically combined them to obtain one summary classification for each case, adding isolated and multiple defect categories. The program was applied to 136,121 cases delivered in 2012-2017.
+RESULTS: Of total cases, 49% were classified by the platform as isolated (having only one major birth defect). This varied widely by birth defect; of those examined, the highest proportion classified as isolated was found in pyloric stenosis (87.6%), whereas several cardiovascular malformations had low proportions, including tricuspid valve atresia/stenosis (2.3%).
+DISCUSSION: This is one of the first and largest attempts to identify the proportion of isolated cases across a broad spectrum of birth defects, which can inform future epidemiologic and genomic studies of these phenotypes. Our approach is designed for easy modification for use with any birth defects coding system and category definitions, allowing scalability for different studies or birth defects registries, which often do not have resources for individual clinical review of all case records.
+
+Citation: Langlois PH, et al. Evaluating the proportion of isolated cases among a spectrum of birth defects in a population-based registry. Evaluating the proportion of isolated cases among a spectrum of birth defects in a population-based registry. 2023; 115:21-25. doi: 10.1002/bdr2.1990
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35218607/

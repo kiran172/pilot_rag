@@ -1,0 +1,11 @@
+PMID: 37180789
+Title: 3D histopathology of stenotic aortic valve cusps using ex vivo microfocus computed tomography.
+
+Abstract: BACKGROUND: Calcific aortic stenosis (AS) is the most prevalent heart valve disease in developed countries. The aortic valve cusps progressively thicken and the valve does not open fully due to the presence of calcifications. In vivo imaging, usually used for diagnosis, does not allow the visualization of the microstructural changes associated with AS.
+METHODS: Ex vivo high-resolution microfocus computed tomography (microCT) was used to quantitatively describe the microstructure of calcified aortic valve cusps in full 3D. As case study in our work, this quantitative analysis was applied to normal-flow low-gradient severe AS (NF-LG-SAS), for which the medical prognostic is still highly debated in the current literature, and high-gradient severe AS (HG-SAS).
+RESULTS: The volume proportion of calcification, the size and number of calcified particles and their density composition was quantified. A new size-based classification considering small-sized particles that are not detected with in vivo imaging was defined for macro-, meso- and microscale calcifications. Volume and thickness of aortic valve cusps, including the complete thickness distribution, were also determined. Moreover, changes in the cusp soft tissues were also visualized with microCT and confirmed by scanning electron microscopy images of the same sample. NF-LG-SAS cusps contained lower relative amount of calcifications than HG-SAS. Moreover, the number and size of calcified objects and the volume and thickness of the cusps were also lower in NF-LG-SAS cusps than in HG-SAS.
+CONCLUSIONS: The application of high-resolution ex vivo microCT to stenotic aortic valve cusps provided a quantitative description of the general structure of the cusps and of the calcifications present in the cusp soft tissues. This detailed description could help in the future to better understand the mechanisms of AS.
+
+Citation: Pestiaux C, et al. 3D histopathology of stenotic aortic valve cusps using ex vivo microfocus computed tomography. 3D histopathology of stenotic aortic valve cusps using ex vivo microfocus computed tomography. 2023; 10:1129990. doi: 10.3389/fcvm.2023.1129990
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37180789/

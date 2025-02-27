@@ -1,0 +1,17 @@
+PMID: 33063433
+Title: Quantification of Myocardial Perfusion With Vasodilation Using Arterial Spin Labeling at 1.5T.
+
+Abstract: BACKGROUND: Myocardial perfusion is evaluated in first-pass MRI using a gadolinium-based contrast agent, which limits its repeatability and restricts its use in patients with abnormal kidney function. Arterial spin labeling (ASL) is a promising technique for measuring myocardial perfusion without contrast injection. The ratio of stress to rest perfusion, termed myocardial perfusion reserve (MPR), is an indicator of the severity of stenosis in patients with coronary artery disease (CAD).
+PURPOSE: To quantify perfusion increases with pharmacological vasodilation, explore MPR differences between segments with and without perfusion defects, and examine the correlations between quantitative ASL and semiquantitative first-pass measurements.
+STUDY TYPE: Prospective.
+SUBJECTS: Sixteen patients with suspected CAD: 10 classified as "healthy," having normal perfusion on first-pass and no enhancement on late gadolinium enhancement (LGE), and six as "nonhealthy," having hypoperfused segments including ischemic and infarcted.
+FIELD STRENGTH/SEQUENCE: Flow-sensitive alternating inversion recovery (FAIR) rest-stress cardiac ASL with balanced steady-state free precession (bSSFP), rest-stress first-pass imaging using gradient-echo and LGE using a phase-sensitive inversion-recovery bSSFP at 1.5T.
+ASSESSMENT: For healthy subjects, rest-stress perfusion data were compared in global, coronary artery territory, and segment regions of interest (ROIs). A segmental MPR comparison was performed between normal segments from healthy subjects and abnormal segments from nonhealthy subjects. Correlations between ASL and first-pass parameters were explored.
+STATISTICAL TESTS: Wilcoxon-signed-rank test, nonparametric factorial analysis of variance (ANOVA), and Pearson's/Spearman's correlations.
+RESULTS: Perfusion increases were significant globally (P = 0.005), per coronary artery territory (P = 0.015), and per segment (P = 0.03 for all segments in ASL and first-pass, except anteroseptal in ASL P = 0.04). MPR differences between normal and abnormal segments were significant (P = 0.0028: ASL, P = 0.033: first-pass). ASL and first-pass measurements were correlated (MPR: r = 0.64, P = 0.008 and perfusion: rho = 0.47, P = 0.007).
+DATA CONCLUSION: This study demonstrates the feasibility of ASL to detect hyperemia, the potential to differentiate segments with and without perfusion defects, and significant correlations between ASL and semiquantitative first-pass.
+LEVEL OF EVIDENCE: 2 TECHNICAL EFFICACY STAGE: 1.
+
+Citation: Aramendía-Vidaurreta V, et al. Quantification of Myocardial Perfusion With Vasodilation Using Arterial Spin Labeling at 1.5T. Quantification of Myocardial Perfusion With Vasodilation Using Arterial Spin Labeling at 1.5T. 2021; 53:777-788. doi: 10.1002/jmri.27396
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33063433/

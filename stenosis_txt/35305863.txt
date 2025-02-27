@@ -1,0 +1,12 @@
+PMID: 35305863
+Title: Generalization of a clinical diagnosis support tool for lumbar spinal stenosis: Can the ankle brachial pressure index be replaced by palpation of the posterior tibial artery in the lumbar spinal stenosis diagnostic support tool? (DISTO project).
+
+Abstract: BACKGROUND: The Japanese Society for Spine Surgery and Related Research previously developed a diagnostic support tool for lumbar spinal stenosis (LSS-DST). Using the LSS-DST, general physicians can identify potential cases of LSS. However, in the LSS-DST, measurement of the ankle brachial pressure index (ABI) is required to exclude peripheral artery lesions in the lower limbs. We can expect further application of the LSS-DST if we can identify a simpler and easier method than ABI measurement. Therefore, in this large-scale, multicenter, cross-sectional study, we verified whether palpation of the posterior tibial (PT) artery could be used instead of ABI in the LSS-DST.
+METHODS: This survey was conducted at 2177 hospitals and included 28,883 participants. The sensitivity and specificity of the original LSS-DST method using the ABI and that of the LSS-DST ver2.0 with PT artery palpation were assessed to screen their ability for diagnosing LSS, using the physicians' final diagnosis based on the patients' history, physical examination and radiographic findings as the gold standard.
+RESULTS: The sensitivity and specificity [95%CI] of the LSS-DST were 88.2% [87.5, 88.8] and 83.9% [83.4, 84.5], respectively, whereas the sensitivity and specificity of the LSS-DST ver2.0 were 87.7% [87.0, 88.3] and 78.3% [77.7, 78.9], respectively, indicating that LSS-DST ver2.0 is a useful screening tool for LSS with good sensitivity.
+CONCLUSION: When the item of ABI in the LSS-DST is replaced by palpation of the PT artery (LSS-DST ver2.0), its sensitivity is maintained as a screening tool for LSS.
+LEVEL OF EVIDENCE: Level 3.
+
+Citation: Nikaido T, et al. Generalization of a clinical diagnosis support tool for lumbar spinal stenosis: Can the ankle brachial pressure index be replaced by palpation of the posterior tibial artery in the lumbar spinal stenosis diagnostic support tool? (DISTO project). Generalization of a clinical diagnosis support tool for lumbar spinal stenosis: Can the ankle brachial pressure index be replaced by palpation of the posterior tibial artery in the lumbar spinal stenosis diagnostic support tool? (DISTO project). 2023; 28:543-546. doi: 10.1016/j.jos.2022.02.005
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35305863/

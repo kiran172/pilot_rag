@@ -1,0 +1,8 @@
+PMID: 32159397
+Title: The effect of hemodynamic parameters in patient-based coronary artery models with serial stenoses: normal and hypertension cases.
+
+Abstract: The purpose of this study is to investigate the hemodynamic significance of various degrees of coronary area of stenosis (AS) and multiple sequential stenoses (MSS) in normal and hypertension pressure conditions. MSS in a single branch coronary artery pose challenges to determine the physiological assessment in the prevalent invasive intervention. The hemodynamic parameters of each stenosis are influenced by other stenoses in the single branch of MSS coronary artery. In this study, we entirely use open source tools and techniques for coronary computed tomography angiography (CCTA) image segmentation, 3D reconstruction, grid generation and hemodynamic simulations. The results yield different hemodynamic parameters such as velocity magnitude, mean arterial pressure difference, flow-pressure linear relation, wall shear stress (WSS) and eventually virtual fractional flow reserve (vFFR) allowing for the prediction and the assessment of lumen area severity conditions in MSS coronaries.
+
+Citation: Hoque KE, et al. The effect of hemodynamic parameters in patient-based coronary artery models with serial stenoses: normal and hypertension cases. The effect of hemodynamic parameters in patient-based coronary artery models with serial stenoses: normal and hypertension cases. 2020; 23:467-475. doi: 10.1080/10255842.2020.1737028
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32159397/

@@ -1,0 +1,11 @@
+PMID: 31891199
+Title: Clinical relevance of the left brachiocephalic vein anatomy for vascular access in dialysis patients.
+
+Abstract: INTRODUCTION: Most hemodialysis patients start renal replacement therapy with a central venous catheter (CVC). The left internal jugular vein (LIJV) is the second-choice vein for CVC positioning, after the right IJV. However, to reach the right atrium, the CVC must pass through the left brachiocephalic vein (LBV), which also drains blood from the left arm through the subclavian vein. The purpose of this study is to describe how the anatomy of the central venous system and in particular that of the LBV affects vascular access in hemodialysis patients.
+MATERIALS AND METHODS: Three-dimensional (3D) virtual model reconstructions of the central thoracic veins of three hemodialysis patients were obtained from contrast-enhanced computed tomography scans acquired in the venous phase. The images were exported as DICOM files and loaded on open-source software for visualizing and analyzing the medical imaging (3D Slicer, Windows version 4.8.1).
+RESULTS: As expected, the 3D reconstructions showed that the LBV has a tortuous path with three main angulations that could be associated with external compression and stenosis. These could determine the difficulties and increased risks of venous injury during CVC placement, and an increased risk of medium to long-term catheter-associated vein thrombosis and stenosis.
+CONCLUSIONS: The anatomical features of the LBV indicate that the path of a CVC from the LIJV to the right atrium is tortuous and can easily be complicated by vein injury, negatively affecting the creation of future arterio-venous vascular accesses in the left arm.
+
+Citation: Vertemati M, et al. Clinical relevance of the left brachiocephalic vein anatomy for vascular access in dialysis patients. Clinical relevance of the left brachiocephalic vein anatomy for vascular access in dialysis patients. 2020; 33:1120-1129. doi: 10.1002/ca.23549
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31891199/

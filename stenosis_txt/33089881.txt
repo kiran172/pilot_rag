@@ -1,0 +1,12 @@
+PMID: 33089881
+Title: Effects of COPD on in-hospital outcomes of transcatheter aortic valve implantation: Results from the National Inpatient Sample database.
+
+Abstract: BACKGROUND: Comorbid chronic obstructive pulmonary disease (COPD) increases morbidity and mortality among aortic valve replacement patients undergoing conventional surgery. The impact of COPD in patients undergoing less invasive transcatheter aortic valve insertion (TAVI) is unclear.
+HYPOTHESIS: This study evaluates the in-hospital outcomes of TAVI in patients with and without COPD.
+METHODS: This population-based, retrospective study of 8466 TAVI patients (29.87% with COPD) evaluates the effects of COPD on short-term clinical outcomes (in-hospital mortality, length of hospital stay, and postoperative complications) using data from the National Inpatient Sample database from 2011 to 2014. Logistic regression analysis was used to determine factors associated with in-hospital mortality and postoperative complications. Linear regression analysis was used to identify factors associated with length of hospital stay.
+RESULTS: COPD is significantly associated with increased risk of respiratory complications and pneumonia after TAVI (aOR = 1.43, 95% CI: 1.24-1.64; P < .001) but not in-hospital mortality, length of hospital stay, or non-respiratory postoperative complications as compared to non-COPD patients. Concomitant COPD is significantly associated with increased risk of respiratory complications or pneumonia after TAVI but may still be the best treatment option for some patients.
+CONCLUSIONS: Patients with comorbid COPD who receive TAVI have greater risk of developing postoperative respiratory complications and pneumonia. Vigilance for specific respiratory complications is highly warranted when treating this subgroup. Treatment decisions must be individualized.
+
+Citation: Xiao F, et al. Effects of COPD on in-hospital outcomes of transcatheter aortic valve implantation: Results from the National Inpatient Sample database. Effects of COPD on in-hospital outcomes of transcatheter aortic valve implantation: Results from the National Inpatient Sample database. 2020; 43:1524-1533. doi: 10.1002/clc.23475
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33089881/

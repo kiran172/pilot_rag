@@ -1,0 +1,11 @@
+PMID: 34516461
+Title: Unexplained Distal Obstructive Biliary Dilatation: A Magnetic Resonance Cholangiopancreatography (MRCP)-based Model to Discriminate Malignant From Benign Origins.
+
+Abstract: BACKGROUND: The aim was to compare the differences of clinical-radiologic characteristics between malignant and benign causes of patients with unexplained distal obstructive biliary dilatation and to develop a logistic regression model (nomogram) based on those features to predict malignant causes preoperatively.
+PATIENTS AND METHODS: Clinical-radiologic characteristics of 133 patients with unexplained distal obstructive biliary dilatation were analyzed. Multivariate logistic regression analysis was performed to construct a nomogram to predict malignant causes preoperatively. The developed nomograms were externally validated by assessing their predictive accuracy in an independent set of 90 patients.
+RESULTS: Intrahepatic bile duct diameter, enlarged gallbladder, direct bilirubin, and carbohydrate antigen19-9 differed significantly between malignant and benign group. In the training set, the logistic regression model showed the discrimination between benign and malignant causes of distal obstructive biliary dilatation with an area under the curve of 0.965, an accuracy of 0.904, a sensitivity of 0.886, a specificity of 0.913. In the validation set, the model showed an area under the curve of 0.851, an accuracy of 0.837, a sensitivity of 0.897, a specificity of 0.750.
+CONCLUSIONS: Preoperative clinical-radiologic characteristics differed significantly between malignant and benign group. Nomogram based on those features performed well in predicting the malignant causes of patients with unexplained distal obstructive biliary dilatation.
+
+Citation: Zhu Y, et al. Unexplained Distal Obstructive Biliary Dilatation: A Magnetic Resonance Cholangiopancreatography (MRCP)-based Model to Discriminate Malignant From Benign Origins. Unexplained Distal Obstructive Biliary Dilatation: A Magnetic Resonance Cholangiopancreatography (MRCP)-based Model to Discriminate Malignant From Benign Origins. 2022; 56:724-730. doi: 10.1097/MCG.0000000000001614
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34516461/

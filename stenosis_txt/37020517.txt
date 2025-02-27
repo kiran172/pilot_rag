@@ -1,0 +1,11 @@
+PMID: 37020517
+Title: Diagnostic performance of IVUS-FFR analysis based on generative adversarial network and bifurcation fractal law for assessing myocardial ischemia.
+
+Abstract: BACKGROUND: IVUS-based virtual FFR (IVUS-FFR) can provide additional functional assessment information to IVUS imaging for the diagnosis of coronary stenosis. IVUS image segmentation and side branch blood flow can affect the accuracy of virtual FFR. The purpose of this study was to evaluate the diagnostic performance of an IVUS-FFR analysis based on generative adversarial networks and bifurcation fractal law, using invasive FFR as a reference.
+METHOD: In this study, a total of 108 vessels were retrospectively collected from 87 patients who underwent IVUS and invasive FFR. IVUS-FFR was performed by analysts who were blinded to invasive FFR. We evaluated the diagnostic performance and computation time of IVUS-FFR, and compared it with that of the FFR-branch (considering side branch blood flow by manually extending the side branch from the bifurcation ostia). We also compared the effects of three bifurcation fractal laws on the accuracy of IVUS-FFR.
+RESULT: The diagnostic accuracy, sensitivity, and specificity for IVUS-FFR to identify invasive FFR ≤ 0.80 were 90.7% (95% CI, 83.6-95.5), 89.7% (95% CI, 78.8-96.1), 92.0% (95% CI, 80.8-97.8), respectively. A good correlation and agreement between IVUS-FFR and invasive FFR were observed. And the average computation time of IVUS-FFR was shorter than that of FFR-branch. In addition to this, we also observe that the HK model is the most accurate among the three bifurcation fractal laws.
+CONCLUSION: Our proposed IVUS-FFR analysis correlates and agrees well with invasive FFR and shows good diagnostic performance. Compared with FFR-branch, IVUS-FFR has the same level of diagnostic performance with significantly lower computation time.
+
+Citation: Yong D, et al. Diagnostic performance of IVUS-FFR analysis based on generative adversarial network and bifurcation fractal law for assessing myocardial ischemia. Diagnostic performance of IVUS-FFR analysis based on generative adversarial network and bifurcation fractal law for assessing myocardial ischemia. 2023; 10:1155969. doi: 10.3389/fcvm.2023.1155969
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37020517/

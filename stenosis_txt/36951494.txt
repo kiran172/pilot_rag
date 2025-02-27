@@ -1,0 +1,17 @@
+PMID: 36951494
+Title: Multidelay MR Arterial Spin Labeling Perfusion Map for the Prediction of Cerebral Hyperperfusion After Carotid Endarterectomy.
+
+Abstract: BACKGROUND: Multidelay arterial spin labeling (ASL) generates time-resolved perfusion maps, which may provide sufficient and accurate hemodynamic information in carotid stenosis.
+PURPOSE: To use imaging markers derived from multidelay ASL magnetic resonance imaging (MRI) and to determine the optimal strategy for predicting cerebral hyperperfusion after carotid endarterectomy (CEA).
+STUDY TYPE: Prospective observational cohort.
+SUBJECTS: A total of 79 patients who underwent CEA for carotid stenosis.
+FIELD STRENGTH/SEQUENCE: A 3.0 T/pseudo-continuous ASL with three postlabeling delays of 1.0, 1.57, and 2.46 seconds using fast-spin echo readout.
+ASSESSMENT: Cerebral perfusion pressure, antegrade, and collateral flow were scored on a four-grade ordinal scale based on preoperative multidelay ASL perfusion maps. Simultaneously, quantitative hemodynamic parameters including cerebral blood flow (CBF), arterial transit time (ATT), relative CBF (rCBF) and relative ATT (rATT; ipsilateral/contralateral values) were calculated. On the CBF ratio map obtained through dividing postoperative by preoperative CBF map, regions of interest were placed covering ipsilateral middle cerebral artery territory. Three neuroradiologists conducted this procedure. Cerebral hyperperfusion was defined as a CBF ratio >2.
+STATISTICAL TESTS: Weighted κ values, independent sample t test, chi-square test, Mann-Whitney U-test, multivariable logistic regression analysis, receiver-operating characteristic curve analysis, and Delong test. Significance level was P < 0.05.
+RESULTS: Cerebral hyperperfusion was observed in 15 (19%) patients. Higher blood pressure (odd ratio [OR] = 1.08) and carotid near-occlusion (NO; OR = 7.31) were clinical risk factors for postoperative hyperperfusion. Poor ASL perfusion score (OR = 37.33), decreased CBF (OR = 0.74), prolonged ATT (OR = 1.02), lower rCBF (OR = 0.91), and higher rATT (OR = 1.12) were independent imaging predictors of hyperperfusion. ASL perfusion score exhibited the highest specificity (95.3%), while CBF exhibited the highest sensitivity (93.3%) for the prediction of hyperperfusion. When combined with ASL perfusion score, CBF and ATT, the predictive ability was significantly higher than using blood pressure and NO alone (AUC: 0.98 vs. 0.78).
+DATA CONCLUSIONS: Multidelay ASL can accurately predict cerebral hyperperfusion after CEA with high sensitivity and specificity.
+EVIDENCE LEVEL: 2 TECHNICAL EFFICACY: Stage 5.
+
+Citation: Fan X, et al. Multidelay MR Arterial Spin Labeling Perfusion Map for the Prediction of Cerebral Hyperperfusion After Carotid Endarterectomy. Multidelay MR Arterial Spin Labeling Perfusion Map for the Prediction of Cerebral Hyperperfusion After Carotid Endarterectomy. 2023; 58:1245-1255. doi: 10.1002/jmri.28634
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36951494/

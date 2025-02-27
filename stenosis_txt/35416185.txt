@@ -1,0 +1,11 @@
+PMID: 35416185
+Title: Risk stratification using growth differentiation factor 15 in patients undergoing transcatheter aortic valve implantation.
+
+Abstract: AIMS: Growth differentiation factor 15 (GDF15) shows potential predictive value in various cardiac conditions. We investigated relationships between GDF15 and clinical or procedural outcomes in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation (TAVI) in order to propose clinically useful predictive risk stratification model.
+METHODS: This prospective single-center registry enrolled 88 consecutive patients with severe symptomatic aortic stenosis treated with TAVI. Clinical parameters were collected and biomarkers including GDF-15 were measured within 24 h before TAVI. All relevant clinical outcomes according to the Valve Academic Research Consortium-2 were collected over the follow-up period.
+RESULTS: The cohort included 52.3% of females. The mean age of study participants was 81 years; the mean Society of Thoracic Surgeons (STS) score and logistic EuroSCORE were 3.6% and 15.4%, respectively. The mortality over the entire follow-up period was 10.2%; no death was observed within the first 30 days following TAVI. Univariate analysis showed significant associations between GDF15 and mortality (P=0.0006), bleeding (P=0.0416) and acute kidney injury (P=0.0399). A standard multivariate logistic regression model showed GDF-15 as the only significant predictor of mortality (P=0.003); the odds ratio corresponding to an increase in GDF15 of 1000 pg/mL was 1.22. However, incremental predictive value was not observed when the STS score was combined with GDF15 in this predictive model.
+CONCLUSIONS: Based on our observations, preprocedural elevated GDF15 levels are associated with increased mortality and demonstrate their additional value in predicting adverse clinical outcomes in a TAVI population.
+
+Citation: Sluka M, et al. Risk stratification using growth differentiation factor 15 in patients undergoing transcatheter aortic valve implantation. Risk stratification using growth differentiation factor 15 in patients undergoing transcatheter aortic valve implantation. 2023; 167:263-271. doi: 10.5507/bp.2022.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35416185/

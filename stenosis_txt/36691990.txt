@@ -1,0 +1,11 @@
+PMID: 36691990
+Title: Risk factors based vessel-specific prediction for stages of coronary artery disease using Bayesian quantile regression machine learning method: Results from the PARADIGM registry.
+
+Abstract: BACKGROUND AND HYPOTHESIS: The recently introduced Bayesian quantile regression (BQR) machine-learning method enables comprehensive analyzing the relationship among complex clinical variables. We analyzed the relationship between multiple cardiovascular (CV) risk factors and different stages of coronary artery disease (CAD) using the BQR model in a vessel-specific manner.
+METHODS: From the data of 1,463 patients obtained from the PARADIGM (NCT02803411) registry, we analyzed the lumen diameter stenosis (DS) of the three vessels: left anterior descending (LAD), left circumflex (LCx), and right coronary artery (RCA). Two models for predicting DS and DS changes were developed. Baseline CV risk factors, symptoms, and laboratory test results were used as the inputs. The conditional 10%, 25%, 50%, 75%, and 90% quantile functions of the maximum DS and DS change of the three vessels were estimated using the BQR model.
+RESULTS: The 90th percentiles of the DS of the three vessels and their maximum DS change were 41%-50% and 5.6%-7.3%, respectively. Typical anginal symptoms were associated with the highest quantile (90%) of DS in the LAD; diabetes with higher quantiles (75% and 90%) of DS in the LCx; dyslipidemia with the highest quantile (90%) of DS in the RCA; and shortness of breath showed some association with the LCx and RCA. Interestingly, High-density lipoprotein cholesterol showed a dynamic association along DS change in the per-patient analysis.
+CONCLUSIONS: This study demonstrates the clinical utility of the BQR model for evaluating the comprehensive relationship between risk factors and baseline-grade CAD and its progression.
+
+Citation: Park HB, et al. Risk factors based vessel-specific prediction for stages of coronary artery disease using Bayesian quantile regression machine learning method: Results from the PARADIGM registry. Risk factors based vessel-specific prediction for stages of coronary artery disease using Bayesian quantile regression machine learning method: Results from the PARADIGM registry. 2023; 46:320-327. doi: 10.1002/clc.23964
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36691990/

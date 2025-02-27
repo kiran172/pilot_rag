@@ -1,0 +1,11 @@
+PMID: 32155743
+Title: Comparison of Machine Learning Computed Tomography-Based Fractional Flow Reserve and Coronary CT Angiography-Derived Plaque Characteristics with Invasive Resting Full-Cycle Ratio.
+
+Abstract: BACKGROUND: The aim is to compare the machine learning-based coronary-computed tomography fractional flow reserve (CT-FFR<sub>ML</sub>) and coronary-computed tomographic morphological plaque characteristics with the resting full-cycle ratio (RFRTM) as a novel invasive resting pressure-wire index for detecting hemodynamically significant coronary artery stenosis.
+METHODS: In our single center study, patients with coronary artery disease (CAD) who had a clinically indicated coronary computed tomography angiography (cCTA) and subsequent invasive coronary angiography (ICA) with pressure wire-measurement were included. On-site prototype CT-FFR<sub>ML</sub> software and on-site CT-plaque software were used to calculate the hemodynamic relevance of coronary stenosis.
+RESULTS: We enrolled 33 patients (70% male, mean age 68 ± 12 years). On a per-lesion basis, the area under the receiver operating characteristic curve (AUC) of CT-FFR<sub>ML</sub> (0.90) was higher than the AUCs of the morphological plaque characteristics length/minimal luminal diameter4 (LL/MLD4; 0.80), minimal luminal diameter (MLD; 0.77), remodeling index (RI; 0.76), degree of luminal diameter stenosis (0.75), and minimal luminal area (MLA; 0.75).
+CONCLUSION: CT-FFR<sub>ML</sub> and morphological plaque characteristics show a significant correlation to detected hemodynamically significant coronary stenosis. Whole CT-FFR<sub>ML</sub> had the best discriminatory power, using RFRTM as the reference standard.
+
+Citation: Baumann S, et al. Comparison of Machine Learning Computed Tomography-Based Fractional Flow Reserve and Coronary CT Angiography-Derived Plaque Characteristics with Invasive Resting Full-Cycle Ratio. Comparison of Machine Learning Computed Tomography-Based Fractional Flow Reserve and Coronary CT Angiography-Derived Plaque Characteristics with Invasive Resting Full-Cycle Ratio. 2020; 9:(unknown pages). doi: 10.3390/jcm9030714
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32155743/

@@ -1,0 +1,11 @@
+PMID: 37985616
+Title: Novel Peripheral Perfusion Dynamics Indices for Detecting and Grading Arterial Stenosis.
+
+Abstract: PURPOSE: Peripheral artery disease causes severe morbidity, especially in diabetics and the elderly. There is a need for accurate noninvasive detection of peripheral arterial stenosis. The study has tested the hypothesis that arterial stenosis and the associated adaptation of the downstream circulation yield characteristic changes in the leg perfusion dynamics that enable early diagnosis, utilizing impedance plethysmography.
+METHODS: The arterial perfusion dynamic was derived from impedance plethysmography (IPG). Two degrees of arterial stenosis were emulated by inflating a blood-pressure cuff around the thigh to 45 and 90 mmHg, in healthy volunteers (n = 30). IPG signals were acquired continuously throughout the experiment. Ankle and brachial blood pressures were measured at the beginning of each experiment and at the end of each emulated stenosis phase.
+RESULTS: Thigh compressions did not affect the pulse-transit time, but prolonged the time to the peak perfusion wave. Segmentation of the perfusion upstroke into two phases, at the time point of maximum acceleration (MAT), revealed that arterial compression prolonged only the initial slow phase duration (SPd). The MAT and SPd were proportional to the emulated stenosis severity and detected the arterial stenosis with high sensitivity (> 93%) and specificity (100%). The SPd increased from 46.4 ± 21.2 ms at baseline to 75.4 ± 38.5 ms and 145 ± 39 ms under 45 mmHg and 90 mmHg compressions (p < 0.001), without affecting the pulse-transit time.
+CONCLUSIONS: The novel method and indices can identify and grade the emulated arterial stenosis with high accuracy and may assist in differentiating between focal arterial stenosis and widespread arterial hardening.
+
+Citation: Heitner TJ, et al. Novel Peripheral Perfusion Dynamics Indices for Detecting and Grading Arterial Stenosis. Novel Peripheral Perfusion Dynamics Indices for Detecting and Grading Arterial Stenosis. 2023; 14:774-785. doi: 10.1007/s13239-023-00686-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37985616/

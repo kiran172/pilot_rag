@@ -1,0 +1,11 @@
+PMID: 33177730
+Title: Establishment of upper respiratory tract model of patients with obstructive sleep apnoea hypopnoea syndrome before and after surgical treatment and its hydrodynamics analysis.
+
+Abstract: OBJECTIVE: The study aimed to explore the method of constructing the upper respiratory tract model of patients with obstructive sleep apnoea hypopnoea syndrome (OSAHS) and its application in the detection of the changes of flow field characteristics of the upper respiratory tract before and after surgical treatment.
+METHODS: A 34-year-old male OSAHS patient was taken as the study subject. The improved Han-uvulopalato pharyngoplasty was adopted for treatment. A 3D model of the patient's upper respiratory tract was constructed based on CT scan results before and after surgery. The characteristics of upper respiratory tract flow field were analyzed based on computational hydrodynamics under unsteady respiratory conditions.
+RESULTS: A 3D model of the patient's upper respiratory tract was successfully constructed. And after the comparison, it was found that the patients' respiratory tract stenosis was significantly improved after surgical treatment. During inhalation and exhalation, the high pressure areas of the patient were located in the nasal vestibule and oropharynx respectively. Surgical treatment can significantly reduce maximum stress. The total pressure of the upper respiratory tract decreased by 16.9%, and the pressure of the nasopharynx and oropharynx decreased by 70.1% and 38.4%, respectively.
+CONCLUSIONS: For the oropharyngeal area, the surgical treatment had obvious efficacy for inspiration, and during expiration, it had no efficacy but with adverse symptoms being increased.
+
+Citation: Jin J, et al. Establishment of upper respiratory tract model of patients with obstructive sleep apnoea hypopnoea syndrome before and after surgical treatment and its hydrodynamics analysis. Establishment of upper respiratory tract model of patients with obstructive sleep apnoea hypopnoea syndrome before and after surgical treatment and its hydrodynamics analysis. 2020; 70 [Special Issue]:64-70.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33177730/

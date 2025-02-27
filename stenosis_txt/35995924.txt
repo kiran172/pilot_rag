@@ -1,0 +1,8 @@
+PMID: 35995924
+Title: Automated analysis method to assess pulmonary blood flow distribution using conventional X-ray angiography.
+
+Abstract: Quantitative assessment of the right-to-left ratio of pulmonary blood flow distribution is important for determining the clinical indications for treating pulmonary arterial branch stenosis. A novel theory was recently proposed that can be used to quantitatively assess the right-to-left ratio on conventional X-ray angiography images. In the proposal, further developments were indicated, especially automated calculation. In this study, a new automated algorithm was developed. In the X-ray image, regions of interest were set in right and left lung, and time-signal intensity curves were measured. The new automated algorithm is applied to determine the optimal time window for the analysis of the time-signal intensity curve and to calculate the slope of the curve in the optimized time window. The right-to-left ratios in seven consecutive patients calculated by the new automated algorithm were compared to those calculated by lung perfusion scintigraphy. The ratios were in good agreement with linear regression with a slope of 1.27 and a Pearson correlation coefficient of 0.95. The processing time was less than 10 s, which is one-eighth of the manual processing time. The new automated algorithm is accurate, stable, and fast enough for clinical use in the real world.
+
+Citation: Sakaguchi T, et al. Automated analysis method to assess pulmonary blood flow distribution using conventional X-ray angiography. Automated analysis method to assess pulmonary blood flow distribution using conventional X-ray angiography. 2022; 12:14264. doi: 10.1038/s41598-022-18627-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35995924/

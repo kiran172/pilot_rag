@@ -1,0 +1,12 @@
+PMID: 38629422
+Title: A study of ChatGPT in facilitating Heart Team decisions on severe aortic stenosis.
+
+Abstract: BACKGROUND: Multidisciplinary Heart Teams (HTs) play a central role in the management of valvular heart diseases. However, the comprehensive evaluation of patients' data can be hindered by logistical challenges, which in turn may affect the care they receive.
+AIMS: This study aimed to explore the ability of artificial intelligence (AI), particularly large language models (LLMs), to improve clinical decision-making and enhance the efficiency of HTs.
+METHODS: Data from patients with severe aortic stenosis presented at HT meetings were retrospectively analysed. A standardised multiple-choice questionnaire, with 14 key variables, was processed by the OpenAI Chat Generative Pre-trained Transformer (GPT)-4. AI-generated decisions were then compared to those made by the HT.
+RESULTS: This study included 150 patients, with ChatGPT agreeing with the HT's decisions 77% of the time. The agreement rate varied depending on treatment modality: 90% for transcatheter valve implantation, 65% for surgical valve replacement, and 65% for medical treatment.
+CONCLUSIONS: The use of LLMs offers promising opportunities to improve the HT decision-making process. This study showed that ChatGPT's decisions were consistent with those of the HT in a large proportion of cases. This technology could serve as a failsafe, highlighting potential areas of discrepancy when its decisions diverge from those of the HT. Further research is necessary to solidify our understanding of how AI can be integrated to enhance the decision-making processes of HTs.
+
+Citation: Salihu A, et al. A study of ChatGPT in facilitating Heart Team decisions on severe aortic stenosis. A study of ChatGPT in facilitating Heart Team decisions on severe aortic stenosis. 2024; 20:e496-e503. doi: 10.4244/EIJ-D-23-00643
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38629422/

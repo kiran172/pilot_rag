@@ -1,0 +1,11 @@
+PMID: 37588774
+Title: Drug-Coated Balloon-Only Strategy for De Novo Coronary Artery Disease: A Meta-analysis of Randomized Clinical Trials.
+
+Abstract: BACKGROUNDS: Many clinical trials have demonstrated the value of drug-coated balloons (DCB) for in-stent restenosis. However, their role in de novo lesions is not well documented. The aim of this study is to evaluate the safety and efficacy of the DCB-only strategy compared to other percutaneous coronary intervention strategies for de novo coronary lesions.
+METHODS: The PubMed, Embase, Web of Science, and Cochrane Library Central Register of Controlled Trials (CENTRAL) electronic databases were searched for randomized controlled trials published up to May 6, 2023. The primary outcomes were major adverse cardiac events and late lumen loss.
+RESULTS: A total of eighteen trials with 3336 participants were included. Compared with drug-eluting stents, the DCB-only strategy was associated with a similar risk of major adverse cardiac events (risk ratio (RR) = 0.90; 95% confidence interval (CI): 0.59 to 1.37, P = 0.631) and a significant decrease in late lumen loss (standardized mean difference (SMD) = -0.29, 95% CI: -0.53 to -0.04, P = 0.021). This effect was consistent in subgroup analysis regardless of indication, follow-up time, drug-eluting stent type, and dual antiplatelet therapy duration. However, DCBs were inferior to DESs for minimum lumen diameter and percentage diameter stenosis. The DCB-only strategy showed significantly better outcomes for most endpoints compared to plain-old balloon angioplasty or bare metal stents.
+CONCLUSIONS: Interventions with a DCB-only strategy are comparable to those of drug-eluting stents and superior to plain-old balloon angioplasty or bare metal stents for the treatment of selected de novo coronary lesions. Additional evidence is still warranted to confirm the value of DCB before widespread clinical utilization can be recommended.
+
+Citation: Zhang W, et al. Drug-Coated Balloon-Only Strategy for De Novo Coronary Artery Disease: A Meta-analysis of Randomized Clinical Trials. Drug-Coated Balloon-Only Strategy for De Novo Coronary Artery Disease: A Meta-analysis of Randomized Clinical Trials. 2023; 2023:3121601. doi: 10.1155/2023/3121601
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37588774/

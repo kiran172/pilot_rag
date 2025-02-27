@@ -1,0 +1,11 @@
+PMID: 37903104
+Title: The effect of circular stapler size on anastomotic stricture formation in colorectal surgery: A propensity score matched study.
+
+Abstract: BACKGROUND: Small circular staplers possess the advantage of being relatively easy to use when compared to larger circular staplers. However, there is some contention as to whether the use of small circular staples in colorectal surgery increases the incidence of anastomotic strictures. This study aimed to determine whether the frequency of anastomosis site stricture formation differs depending on stapler size when performing anastomosis in colorectal surgery.
+METHODS: Patients who underwent surgery for colon or rectal disease between June 1, 2009, and December 31, 2021, and who had circular staplers used for the formation of intestinal anastomoses post colectomy were included in our study. Propensity score matching with a 1:1 ratio using logistic regression was performed. The primary outcome was the anastomotic stricture rate, and the secondary outcome was total anastomotic complications.
+RESULTS: A total of 875 patients who were operated on by surgeons using 28/29-mm and 25-mm circular staplers were included. After propensity score matching, 106 patients were assigned to each group. Anastomotic strictures occurred in two cases (1.9%) from the 25-mm group and in four cases (3.8%) from the 28/29-mm group. There were no statistically significant differences between the two groups (p = 0.683). Anastomotic complications were observed in two cases (1.9%) from the 25-mm group and in six cases (5.7%) from the 28/29-mm group; no statistically significant differences were found (p = 0.280).
+CONCLUSION: Circular stapler size does not influence anastomotic stricture formation in colorectal surgery.
+
+Citation: Lee KY, et al. The effect of circular stapler size on anastomotic stricture formation in colorectal surgery: A propensity score matched study. The effect of circular stapler size on anastomotic stricture formation in colorectal surgery: A propensity score matched study. 2023; 18:e0287595. doi: 10.1371/journal.pone.0287595
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37903104/

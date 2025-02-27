@@ -1,0 +1,8 @@
+PMID: 37424599
+Title: Effects of stenosis and aneurysm on blood flow in stenotic-aneurysmal artery.
+
+Abstract: Blood is indeed a suspension of the different type of cells along with shear thinning, yield stress and viscoelastic characteristics, which can be expressed by Newtonian and a lot of non-Newtonian models. Choosing Newtonian fluid as a sample, an unsteady solver for Newtonian fluid is constructed to determine the transient flow of blood in the obscure region. In this probe, the computational unsteady flow of blood in artery with aneurysm and symmetric stenosis has been considered, which is novelty of current research. The results of this investigation can be applied to detect stenotic-aneurysmal diseases and enhance knowledge of the stenotic-aneurysmal artery, which may increase the understanding of medical science. The blood artery is modeled as a circular tube having a 0.3-m radius and a 2-m length along the horizontal axis. The velocity of blood is taken at 0.12 ms-1 so that the geometry satisfies the characteristics of the blood vessel. The governing mass and momentum equations are then solved by finite difference technique of discretization. In this research, important variations in blood pressure and velocity at stenosis and aneurysms in the artery are found. The significant influences on blood flow of the stenotic-aneurysmal artery for pressure and velocity profiles of blood are displayed graphically for the Newtonian model.
+
+Citation: Hussain A, et al. Effects of stenosis and aneurysm on blood flow in stenotic-aneurysmal artery. Effects of stenosis and aneurysm on blood flow in stenotic-aneurysmal artery. 2023; 9:e17788. doi: 10.1016/j.heliyon.2023.e17788
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37424599/

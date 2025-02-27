@@ -1,0 +1,12 @@
+PMID: 38510996
+Title: Delayed treatment initiation of oral anticoagulants among Medicare patients with atrial fibrillation.
+
+Abstract: STUDY OBJECTIVE: This study aimed to identify factors associated with delayed oral anticoagulant (OAC) treatment initiation among atrial fibrillation (AF) patients in United States (US) clinical practice.
+PARTICIPANTS: Medicare beneficiaries newly diagnosed with AF without moderate-to-severe mitral stenosis or a mechanical heart valve, were aged ≥65 years and prescribed OAC on or after 10/1/2015 through 2019 were included. Delayed and early OAC initiation were defined as >3 months and 0-3 months initiation from first AF diagnosis, respectively.
+MAIN OUTCOME MEASURES: Association between delayed OAC initiation and patient demographics, clinical and index OAC coverage and formulary characteristics was examined using multivariable logistic regression.
+RESULTS: A total of 446,441 patients met the inclusion criteria; 30.0 % (N = 131,969) were identified as delayed and 70.0 % (N = 314,472) as early OAC initiation. Median age for both cohorts was 78 years. In the early and delayed OAC cohorts, 47.1 % and 47.6 % were male and 88.8 % and 86.6 %, were White, respectively. Factors associated with delayed OAC initiation (odds ratio; 95 % confidence interval) included Black race (1.29; 1.25 to 1.33), west region (1.29; 1.26 to 1.32), comorbidities such as dementia (1.27; 1.23 to 1.30), recent bleeding hospitalization (1.22; 1.18 to 1.27), prior authorization (1.69; 1.66 to 1.71), tier 4 formulary for index OAC at AF diagnosis (1.26; 1.22 to 1.30).
+CONCLUSION: Our study revealed that nearly one-third of Medicare patients with AF experienced delayed OAC initiation. Key patient characteristics found to be associated with delayed OAC initiation included race and ethnicity, comorbidities, and formulary restrictions.
+
+Citation: Luo X, et al. Delayed treatment initiation of oral anticoagulants among Medicare patients with atrial fibrillation. Delayed treatment initiation of oral anticoagulants among Medicare patients with atrial fibrillation. 2024; 39:100369. doi: 10.1016/j.ahjo.2024.100369
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38510996/

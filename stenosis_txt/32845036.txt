@@ -1,0 +1,12 @@
+PMID: 32845036
+Title: Adverse clinical outcomes in patients undergoing both PCI and TAVR: Analysis from a pooled multi-center registry.
+
+Abstract: BACKGROUND: There is a paucity of data regarding the optimum timing of PCI in relation to TAVR.
+OBJECTIVE: We compared the major adverse cardiovascular and cerebrovascular events (MACCE) rates among patients who underwent percutaneous coronary intervention (PCI) before transcatheter aortic valve replacement (TAVR) with those who received PCI with/after TAVR.
+METHODS: In this multicenter study, we pooled all consecutive patients who underwent TAVR at three high volume centers.
+RESULTS: Among 3,982 patients who underwent TAVR, 327 (8%) patients underwent PCI within 1 year before TAVR, 38 (1%) had PCI the same day as TAVR and 15 (0.5%) had PCI within 2 months after TAVR. Overall, among patients who received both PCI and TAVR (n = 380), history of previous CABG (HR:0.501; p = .001), higher BMI at TAVR (HR:0.970; p = .038), and statin therapy after TAVR (HR:0.660, p = .037) were independently associated with lower MACCE while warfarin therapy after TAVR was associated with a higher risk of MACCE (HR:1.779, p = .017). Patients who received PCI within 1 year before TAVR had similar baseline demographics, STS scores, clinical risk factors when compared to patients receiving PCI with/after TAVR. Both groups were similar in PCI (Syntax Score, ACC/AHA lesion class) and TAVR (valve types, access) related variables. There were no significant differences in terms of MACCE (log rank p = .550), all-cause mortality (log rank p = .433), strokes (log rank p = .153), and repeat PCI (log rank p = .054) in patients who underwent PCI with/after TAVR when compared to patients who received PCI before TAVR.
+CONCLUSION: Among patients who underwent both PCI and TAVR, history of CABG, higher BMI, and statin therapy had lower, while those discharged on warfarin, had higher adverse event rates. Adverse events rates were similar regardless of timing of PCI.
+
+Citation: Kumar A, et al. Adverse clinical outcomes in patients undergoing both PCI and TAVR: Analysis from a pooled multi-center registry. Adverse clinical outcomes in patients undergoing both PCI and TAVR: Analysis from a pooled multi-center registry. 2021; 97:529-539. doi: 10.1002/ccd.29233
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32845036/

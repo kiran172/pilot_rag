@@ -1,0 +1,11 @@
+PMID: 33214179
+Title: Plaque Composition as a Predictor of Plaque Ulceration in Carotid Artery Atherosclerosis: The Plaque At RISK Study.
+
+Abstract: BACKGROUND AND PURPOSE: Plaque ulceration is a marker of previous plaque rupture. We studied the association between atherosclerotic plaque composition at baseline and plaque ulceration at baseline and follow-up.
+MATERIALS AND METHODS: We included symptomatic patients with a carotid stenosis of &lt;70% who underwent MDCTA and MR imaging at baseline (n = 180). MDCTA was repeated at 2 years (n = 73). We assessed the presence of ulceration using MDCTA. Baseline MR imaging was used to assess the vessel wall volume and the presence and volume of plaque components (intraplaque hemorrhage, lipid-rich necrotic core, and calcifications) and the fibrous cap status. Associations at baseline were evaluated with binary logistic regression and reported with an OR and its 95% CI. Simple statistical testing was performed in the follow-up analysis.
+RESULTS: At baseline, the prevalence of plaque ulceration was 27% (49/180). Increased wall volume (OR  = 12.1; 95% CI, 3.5-42.0), higher relative lipid-rich necrotic core (OR = 1.7; 95% CI, 1.3-2.2), higher relative intraplaque hemorrhage volume (OR = 1.7; 95% CI, 1.3-2.2), and a thin-or-ruptured fibrous cap (OR = 3.4; 95% CI, 1.7-6.7) were associated with the presence of ulcerations at baseline. In 8% (6/73) of the patients, a new ulcer developed. Plaques with a new ulceration at follow-up had at baseline a larger wall volume (1.04 cm3 [IQR, 0.97-1.16 cm3] versus 0.86 cm3 [IQR, 0.73-1.00 cm3]; P = .029), a larger relative lipid-rich necrotic core volume (23% [IQR, 13-31%] versus 2% [IQR, 0-14%]; P = .002), and a larger relative intraplaque hemorrhage volume (14% [IQR, 8-24%] versus 0% [IQR, 0-5%]; P &lt; .001).
+CONCLUSIONS: Large atherosclerotic plaques and plaques with intraplaque hemorrhage and lipid-rich necrotic cores were associated with plaque ulcerations at baseline and follow-up.
+
+Citation: Dilba K, et al. Plaque Composition as a Predictor of Plaque Ulceration in Carotid Artery Atherosclerosis: The Plaque At RISK Study. Plaque Composition as a Predictor of Plaque Ulceration in Carotid Artery Atherosclerosis: The Plaque At RISK Study. 2021; 42:144-151. doi: 10.3174/ajnr.A6868
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33214179/

@@ -1,0 +1,12 @@
+PMID: 37025093
+Title: ECG-based cardiodynamicsgram can reflect anomalous functional information in coronary artery disease.
+
+Abstract: BACKGROUND: The cardiodynamicsgram (CDG), a novel noninvasive method, extracts dynamic ST-T segment information from an electrocardiogram (ECG) through deterministic learning.
+HYPOTHESIS: The CDG can reflect anomalous functional information in coronary artery disease (CAD).
+METHODS: We retrospectively enrolled 456 patients with suspected CAD who underwent coronary computed tomography angiography (CCTA) from January 2020 to 2022, followed immediately by standard 12-lead ECG acquisition. Positivity for CAD were defined as CCTA ≥ 50% or CT-derived fractional flow reserve (CT-FFR) ≤ 0.8. A CDG value <0 was considered negative; otherwise, it was considered positive. We also evaluated the diagnostic performance of the CDG in the ECG-diagnosis-negative subgroup and in patients who had undergone invasive coronary angiography (ICA) after CCTA.
+RESULTS: Of 362 patients, 168 (46.41%) were positive for CAD, and 178 (49.17%) were men. The median age was 59 (52-66) years. The accuracy of the CDG in the diagnosis of CAD was 79.56%, with a sensitivity, specificity, and the area under the receiver operating characteristic curve (AUC) of 75.60%, 82.99%, and 0.836 (95% CI: 0.794-0.878), respectively. Similarly, in the ECG-diagnosis-negative subgroup (n = 223), the accuracy of the CDG was 80.27%, with an AUC of 0.842 (95% CI: 0.790-0.895). Among the 11 patients with CAD confirmed by ICA, 10 were diagnosed positive by the CDG. Furthermore, the CDG values and CT-FFR were correlated (r = -.395; p < .001).
+CONCLUSIONS: The ECG-based CDG has relatively high specificity and accuracy for the diagnosis of CAD and reflects functional cardiac information to some extent. It has the potential to be used as a screening tool for suspected CAD patients before CCTA.
+
+Citation: Wang Y, et al. ECG-based cardiodynamicsgram can reflect anomalous functional information in coronary artery disease. ECG-based cardiodynamicsgram can reflect anomalous functional information in coronary artery disease. 2023; 46:639-647. doi: 10.1002/clc.24019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37025093/

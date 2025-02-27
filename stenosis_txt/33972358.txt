@@ -1,0 +1,11 @@
+PMID: 33972358
+Title: Left ventricular twist predicts mortality in severe aortic stenosis.
+
+Abstract: OBJECTIVE: Left ventricular (LV) twist is a major component of ventricular mechanics reflecting the helical orientation of cardiac fibres and compensating for afterload mismatch. However, it is not known whether it determines outcome after transcatheter aortic valve implantation (TAVI). This study sought to investigate TAVI-induced short-term changes of LV twist and to define its role in outcome prediction.
+METHODS: A total of 146 patients (median age 81.78 years, 50.7% male) undergoing TAVI for severe aortic stenosis were included. LV rotation and twist were determined by speckle tracking echocardiography within 3 months before and 2 weeks after TAVI. All-cause mortality at 2 years was defined as primary end point.
+RESULTS: Patients who survived exhibited a higher apical peak systolic rotation (APSR) (p<0.001), twist (p=0.003) and torsion (p=0.019) pre-TAVI compared with those who died (n=22). Within 2 weeks after TAVI, APSR, twist and torsion decreased in patients who survived (all p<0.001), while no change occurred in those who died. Cox regression analysis showed an association of pre-TAVI APSR (HR 0.92, p=0.010), twist (HR 0.93, p=0.018) and torsion (HR 0.68, p=0.040) with all-cause mortality and an even stronger association of the respective changes after TAVI (∆APSR: HR 1.15, p<0.001; ∆twist: HR 1.14, p<0.001; ∆torsion: HR 2.53, p<0.001). All the parameters determined outcome independently of global longitudinal strain (GLS) and LV ejection fraction (LVEF).
+CONCLUSION: APSR, twist and torsion pre-TAVI as well as their change within 2 weeks after TAVI predict 2-year all-cause mortality after TAVI, adding incremental prognostic value to LVEF and GLS.
+
+Citation: Erhart L, et al. Left ventricular twist predicts mortality in severe aortic stenosis. Left ventricular twist predicts mortality in severe aortic stenosis. 2022; 108:225-232. doi: 10.1136/heartjnl-2020-318800
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33972358/

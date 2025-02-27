@@ -1,0 +1,11 @@
+PMID: 38006939
+Title: Use of Carotid Web Angioarchitecture for Stroke Risk Assessment.
+
+Abstract: OBJECTIVE: To examine the usefulness of carotid web (CW), carotid bifurcation and their combined angioarchitectural measurements in assessing stroke risk.
+METHODS: Anatomic data on the internal carotid artery (ICA), common carotid artery (CCA), and the CW were gathered as part of a retrospective study from symptomatic (stroke) and asymptomatic (nonstroke) patients with CW. We built a model of stroke risk using principal-component analysis, Firth regression trained with 5-fold cross-validation, and heuristic binary cutoffs based on the Minimal Description Length principle.
+RESULTS: The study included 22 patients, with a mean age of 55.9 ± 12.8 years; 72.9% were female. Eleven patients experienced an ischemic stroke. The first 2 principal components distinguished between patients with stroke and patients without stroke. The model showed that ICA-pouch tip angle (P = 0.036), CCA-pouch tip angle (P = 0.036), ICA web-pouch angle (P = 0.036), and CCA web-pouch angle (P = 0.036) are the most important features associated with stroke risk. Conversely, CCA and ICA anatomy (diameter and angle) were not found to be risk factors.
+CONCLUSIONS: This pilot study shows that using data from computed tomography angiography, carotid bifurcation, and CW angioarchitecture may be used to assess stroke risk, allowing physicians to tailor care for each patient according to risk stratification.
+
+Citation: von Oiste GG, et al. Use of Carotid Web Angioarchitecture for Stroke Risk Assessment. Use of Carotid Web Angioarchitecture for Stroke Risk Assessment. 2024; 182:e245-e252. doi: 10.1016/j.wneu.2023.11.091
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38006939/

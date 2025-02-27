@@ -1,0 +1,11 @@
+PMID: 36522828
+Title: Prevalence and clinical associations of mitral and aortic regurgitation in patients with aortic stenosis.
+
+Abstract: BACKGROUND: Most guidelines directing clinicians to manage valve disease are directed at single valve lesions. Limited data exists to direct our understanding of how concomitant valve disease impacts the left ventricle (LV).
+METHODS: We identified 2817 patients with aortic stenosis (AS) from the echocardiography laboratory database between September 2012 and June 2018 who had a LV ejection fraction (EF) ≥50%. LV mass, LV mass index, LV systolic pressure (systolic blood pressure + peak aortic gradient). Covariates were collected from the electronic medical record. Multi-variate analysis of covariance was used to generate adjusted comparisons.
+RESULTS: Our population was 66% female, 17% African-American with a mean age of 65 years. Of note, 7.3% were noted to have significant (moderate/severe) aortic regurgitation (AR), and 11% had significant (moderate/severe) mitral regurgitation (MR). Adjusting for covariates at different levels, significant MR had a much stronger association with heart failure compared to those with significant AR (p < .001 vs. p = .313, respectively) at all levels of adjustment. Both significant mitral and AR exhibited an association with increasing left ventricular mass, even with adjustment for baseline demographics and clinical features (p < .001 vs. p = .007, respectively).
+CONCLUSION: In patients with AS, 16% also experience at least moderate MR or AR. Further, significant MR has a stronger association with heart failure than significant AR, even though both increase left ventricular mass. Those with moderate AS and significant MR or AR experience similar or higher levels of heart failure compared to severe AS without regurgitation. Mixed valve disease merits further studies to direct longitudinal management.
+
+Citation: Gjini P, et al. Prevalence and clinical associations of mitral and aortic regurgitation in patients with aortic stenosis. Prevalence and clinical associations of mitral and aortic regurgitation in patients with aortic stenosis. 2023; 40:37-44. doi: 10.1111/echo.15503
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36522828/

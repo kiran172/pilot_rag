@@ -1,0 +1,12 @@
+PMID: 34315802
+Title: Carotid webs produce greater hemodynamic disturbances than atherosclerotic disease: a DSA time-density curve study.
+
+Abstract: BACKGROUND: Carotid webs (CaWs) are associated with ischemic strokes in younger patients without degrees of stenosis that are traditionally considered clinically significant.
+OBJECTIVE: To compare the hemodynamic parameters in the internal carotid artery (ICA) bulbar segment in patients with CaW with those in patients with atherosclerotic lesions using time-density curve (TDC) analysis of digital subtraction angiography (DSA) images.
+METHODS: We retrospectively assessed DSA images of 47 carotid arteries in 41 adult patients who underwent ICA catheter angiography for evaluation after ischemic stroke. Hemodynamic parameters, including full width at half maximum (FWHM) and area under the time-density curve (AUC) as proxies for increased flow stasis, were calculated using TDC analyses of a region of interest (ROI) in the ICA bulb immediately rostral to the web/atherosclerotic plaque, relative to a standardized ROI in the ipsilateral distal common carotid artery (eg, relative FWHM (rFWHM)). Hemodynamic parameters were compared using non-parametric Kruskal-Wallis tests. Logistic regression was used to predict CaW versus mild/moderate atherosclerosis for each hemodynamic parameter, adjusting for degree of stenosis.
+RESULTS: Mean age of patients was 56.0±13 years, with 22 (53.7%) women. 17 CaWs, 22 atherosclerotic plaques (15 mild/moderate and 7 severe), and eight normal carotid arteries were assessed. Significant between-group differences were present in the relative total AUC (p<0.001), relative AUC at wash out (p=0.031), and relative FWHM (p=0.001). Logistic regression to predict CaW versus mild/moderate atherosclerosis showed that rAUC total had the highest predictive value (pAUC=0.96, 95% CI 0.90 to 1.00), followed by rFWHM (0.87, 95% CI 0.74 to 1.00), and rAUC WO (0.74, 95% CI (0.57 to 0.91).
+CONCLUSION: CaW results in larger local hemodynamic disruption, characterized by flow stasis, than mild/moderate carotid atherosclerotic lesions, suggesting that CaWs may produce larger regions of thrombogenic flow stasis.
+
+Citation: Park CC, et al. Carotid webs produce greater hemodynamic disturbances than atherosclerotic disease: a DSA time-density curve study. Carotid webs produce greater hemodynamic disturbances than atherosclerotic disease: a DSA time-density curve study. 2022; 14:729-733. doi: 10.1136/neurintsurg-2021-017588
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34315802/

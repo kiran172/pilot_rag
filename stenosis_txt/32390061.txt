@@ -1,0 +1,11 @@
+PMID: 32390061
+Title: Real-world safety of catheter ablation for atrial fibrillation with contact force or cryoballoon ablation.
+
+Abstract: PURPOSE: Real-world data can help medical administrators, physicians, and payers make evidence-based decisions regarding treatment choices. The objective of this study was to compare real-world safety outcomes with the latest catheter technologies used for the treatment of atrial fibrillation (AF).
+METHODS: The Vizient Health Systems database, a large US hospital database, was used to compare acute complications in AF ablation with the contact force sensing THERMOCOOL SMARTTOUCH® Catheter or the THERMOCOOL SMARTTOUCH® SF Catheter (ST) versus the second-generation Arctic Front Advance™ Cryoablation Catheter (CB2) between September 2015 and June 2017. The primary outcome was a composite safety endpoint of acute ablation-related complications defined via ICD-10 diagnosis and procedure codes, including tamponade and other pericardial events, respiratory complications, stroke, cerebral or pre-cerebral occlusion/stenosis without infarction, vascular access complications, hemorrhage, phrenic nerve injury, myocardial infarction, and pulmonary embolism.
+RESULTS: In total, 1473 ablations met all inclusion criteria (407 ST, 1066 CB2). Ablations for paroxysmal AF (PAF) had a lower complication rate than ablations for persistent AF (PsAF) (6.1% vs. 7.3%), as did ablations with ST compared with CB2 within each AF type (PAF 6.0% vs. 6.1%, PsAF 6.3% vs. 7.8%). Neither ablation catheter nor AF type was statistically significant after controlling for site volume, patient age, and comorbid conditions (ST vs. CB2: OR 0.86, p = 0.5544; PsAF vs. PAF: OR 1.08, p = 0.7376).
+CONCLUSION: Acute ablation-related complication rates were low and were not significantly associated with catheter technology. Increased risk of complication was attributable to low-volume sites and baseline patient characteristics.
+
+Citation: Natale A, et al. Real-world safety of catheter ablation for atrial fibrillation with contact force or cryoballoon ablation. Real-world safety of catheter ablation for atrial fibrillation with contact force or cryoballoon ablation. 2021; 60:445-452. doi: 10.1007/s10840-020-00734-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32390061/

@@ -1,0 +1,13 @@
+PMID: 32369195
+Title: Laryngotracheal Mucosal Surface Expression of Candidate Biomarkers in Idiopathic Subglottic Stenosis.
+
+Abstract: OBJECTIVES: Idiopathic subglottic stenosis (iSGS) is an inflammatory process leading to fibrosis and narrowing of the laryngotracheal airway. There is variability in patient response to surgical intervention, but the mechanisms underlying this variability are unknown. In this pilot study, we measure expression of candidate targets at the mucosal surface of the subglottis in iSGS patients. We aim to identify putative biomarkers for iSGS that provide insights into the molecular basis of disease progression, yield a gene signature for the disease, and/or predict a response to therapy.
+STUDY DESIGN: In vitro comparative study of human cells.
+METHODS: Levels of candidate transcripts and proteins were measured in healthy and stenotic laryngotracheal tissue specimens taken from the mucosal surface in 16 iSGS patients undergoing endoscopic balloon dilation. Pre- and post-operative pulmonary function test and patient reported voice and breathing outcomes were also assessed. Unsupervised clustering was used to define patient subgroups based on expression profile.
+RESULTS: Pulmonary function and voice and breathing outcome metrics demonstrated significant post-operative improvement. Transcript levels of αSMA, CCL2, COL1A1, COL3A1, FN1, IFNG, and TGFB1 and protein levels of CCL2, IFNG, and IL-6 were significantly upregulated in stenotic as compared to healthy tissues. Marked heterogeneity was observed in the patterns of expression of candidate markers across individuals and tissue types. Patient subgroups defined by expression profile did not show a statistically significant difference in dilation interval.
+CONCLUSION: Pro-inflammatory and pro-fibrotic pathways are significantly upregulated along the mucosal surface of stenotic laryngotracheal tissues, and CCL2 and IFNG merit further investigation as potential iSGS biomarkers.
+LEVEL OF EVIDENCE: 4 Laryngoscope, 131:342-349, 2021.
+
+Citation: Liu MM, et al. Laryngotracheal Mucosal Surface Expression of Candidate Biomarkers in Idiopathic Subglottic Stenosis. Laryngotracheal Mucosal Surface Expression of Candidate Biomarkers in Idiopathic Subglottic Stenosis. 2021; 131:342-349. doi: 10.1002/lary.28712
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32369195/

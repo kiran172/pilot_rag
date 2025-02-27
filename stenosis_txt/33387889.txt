@@ -1,0 +1,11 @@
+PMID: 33387889
+Title: Predictive Model of Early Neurological Deterioration in Patients with Acute Ischemic Stroke: A Retrospective Cohort Study.
+
+Abstract: OBJECTIVE: This study aimed to develop a predictive model of early neurological deterioration (END) in patients with acute ischemic stroke (AIS).
+METHODS: The present retrospective cohort study considered patients with AIS who were admitted to a tertiary hospital in Shenzhen, China between January 2014 and December 2018. An increase of 2 points or more on the National Institute of Health Stroke Scale (NIHSS) within 7 days indicated END. We selected baseline clinical, laboratory, and neuroimaging variables to construct predictive models through multivariate logistic regression. The receiver operating characteristic curve and calibration plots were calculated.
+RESULTS: A total of 391 patients with AIS were enrolled in the study. END was observed in 64 (16.4%) cases. A prediction model developed from the initial NIHSS score, middle cerebral artery stenosis, and carotid stenosis of≥ 50% showed good discriminative ability: area under the receiver operating characteristic curve, 0.870 (95%CI, 0.813-0.911); threshold, -1.570; specificity, 84.40%; sensitivity, 75.00%; positive predictive value, 48.48%; and a negative predictive value, 94.52%.
+CONCLUSION: Our predictive model developed from the initial NIHSS score, middle cerebral artery stenosis, and carotid stenosis of ≥ 50% could identify patients with AIS who were at risk of developing END. The model requires validation by larger studies performed at other institutions.
+
+Citation: Xie X, et al. Predictive Model of Early Neurological Deterioration in Patients with Acute Ischemic Stroke: A Retrospective Cohort Study. Predictive Model of Early Neurological Deterioration in Patients with Acute Ischemic Stroke: A Retrospective Cohort Study. 2021; 30:105459. doi: 10.1016/j.jstrokecerebrovasdis.2020.105459
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33387889/

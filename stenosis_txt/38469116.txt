@@ -1,0 +1,11 @@
+PMID: 38469116
+Title: Association between social vulnerability index and admission urgency for transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Transcatheter aortic valve replacement (TAVR) are not offered equitably to vulnerable population groups. Adequate levels of insurance may narrow gaps among patients with higher social vulnerability index (SVI). Among a national population of individuals with commercial or Medicare insurance, we sought to determine whether SVI was associated with urgency of receipt of TAVR for aortic stenosis.
+METHODS AND RESULTS: Using Optum's de-identified Clinformatics Data Mart Database (CDM), we identified admissions for TAVR with aortic stenosis between January 2018 and March 2022. Admission urgency was identified by CDM claims codes. SVI was cross-referenced to patient zip codes and grouped into quintiles. Generalized linear mixed effects models were used to predict the probability of a TAVR admission being urgent based on SVI quintiles, adjusting for patient and hospital-level covariates.
+RESULTS: Among 6680 admissions for TAVR [median age 80 years (interquartile range 75-85), 43.9 % female], 8.5 % (n = 567) were classified as urgent. After adjusting for patient and hospital-level variables, there were no significant differences in the odds of urgent admission for TAVR according to SVI quintiles [OR 5th (greatest social vulnerability) vs 1st quintile (least social vulnerability): 1.29 (95 % CI: 0.90-1.85)].
+CONCLUSIONS: Among commercial or Medicare beneficiaries with aortic stenosis, SVI was not associated with admission urgency for TAVR. To clarify whether cardiovascular care delivery is improved across SVI with higher paying beneficiaries, future investigation should identify whether relationships between SVI and TAVR urgency vary for Medicaid beneficiaries compared to commercial beneficiaries.
+
+Citation: Bolakale-Rufai IK, et al. Association between social vulnerability index and admission urgency for transcatheter aortic valve replacement. Association between social vulnerability index and admission urgency for transcatheter aortic valve replacement. 2024; 39:(unknown pages). doi: 10.1016/j.ahjo.2024.100370
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38469116/

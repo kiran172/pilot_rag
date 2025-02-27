@@ -1,0 +1,11 @@
+PMID: 35421589
+Title: Arterial Ischemic Stroke in Moyamoya Patients Who Underwent Vaginal Delivery and Cesarean Section.
+
+Abstract: BACKGROUND: Moyamoya disease (MMD) is characterized by stenosis, occlusion, and formation of aberrant collaterals of brain vessels. This derangement in the brain vessels in conditions associated with changes in intracranial pressure can lead to arterial ischemic stroke (AIS). A major challenge for stroke physicians is to recommend the safest method of delivery for pregnant patients with MMD. Using a large national database, our objective in this study was to analyze the risk of AIS in patients with MMD who underwent vaginal delivery (VD) and cesarean section (C-section).
+METHODS: We used the National Inpatient Sample database for the years 2013-2018 to identify patients with a diagnosis of MMD who underwent VD or C-section. Multiple logistic regression was performed to assess the risk of AIS in VD versus C-section.
+RESULTS: Of 2166 female patients with MMD, 97 underwent VD or C-section: 49 (50.51%) underwent VD, and 48 (49.48%) underwent C-section. The analysis of outcomes between VD and C-section showed a higher prevalence of AIS after VD compared with C-section (8.2% vs 6.3%, P = 0.716). The multivariate analysis for AIS showed that VD is not an independent risk factor compared with C-section (odds ratio = 2.1, 95% CI = 0.3-13.3, P = 0.417).
+CONCLUSIONS: Our data did not find evidence that VD and C-section are risk factors for AIS in pregnant patients with MMD.
+
+Citation: Antoniazzi AM, et al. Arterial Ischemic Stroke in Moyamoya Patients Who Underwent Vaginal Delivery and Cesarean Section. Arterial Ischemic Stroke in Moyamoya Patients Who Underwent Vaginal Delivery and Cesarean Section. 2022; 163:e391-e395. doi: 10.1016/j.wneu.2022.03.135
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35421589/

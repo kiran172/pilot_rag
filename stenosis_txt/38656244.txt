@@ -1,0 +1,11 @@
+PMID: 38656244
+Title: A deep learning-based calculation system for plaque stenosis severity on common carotid artery of ultrasound images.
+
+Abstract: OBJECTIVES: Assessment of plaque stenosis severity allows better management of carotid source of stroke. Our objective is to create a deep learning (DL) model to segment carotid intima-media thickness and plaque and further automatically calculate plaque stenosis severity on common carotid artery (CCA) transverse section ultrasound images.
+METHODS: Three hundred and ninety images from 376 individuals were used to train (235/390, 60%), validate (39/390, 10%), and test (116/390, 30%) on a newly proposed CANet model. We also evaluated the model on an external test set of 115 individuals with 122 images acquired from another hospital. Comparative studies were conducted between our CANet model with four state-of-the-art DL models and two experienced sonographers to re-evaluate the present model's performance.
+RESULTS: On the internal test set, our CANet model outperformed the four comparative models with Dice values of 95.22% versus 90.15%, 87.48%, 90.22%, and 91.56% on lumen-intima (LI) borders and 96.27% versus 91.40%, 88.94%, 91.19%, and 92.88% on media-adventitia (MA) borders. On the external test set, our model still produced excellent results with a Dice value of 92.41%. Good consistency of stenosis severity calculation was observed between CANet model and experienced sonographers, with Intraclass Correlation Coefficient (ICC) of 0.927 and 0.702, Pearson's Correlation Coefficient of 0.928 and 0.704 on internal and external test set, respectively.
+CONCLUSIONS: Our CANet model achieved excellent performance in the segmentation of carotid IMT and plaques as well as automated calculation of stenosis severity.
+
+Citation: Liu M, et al. A deep learning-based calculation system for plaque stenosis severity on common carotid artery of ultrasound images. A deep learning-based calculation system for plaque stenosis severity on common carotid artery of ultrasound images. 2024; (unknown volume):17085381241246312. doi: 10.1177/17085381241246312
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38656244/

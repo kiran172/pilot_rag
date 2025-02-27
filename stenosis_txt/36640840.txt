@@ -1,0 +1,11 @@
+PMID: 36640840
+Title: Clinical outcomes of MANTA vs suture-based vascular closure devices after transcatheter aortic valve replacement: An updated meta-analysis.
+
+Abstract: OBJECTIVE: A recently published randomized control trial showed different results with suture-based vascular closure device (VCD) than plug-based VCD in patients undergoing transfemoral transcatheter aortic valve replacement (TAVR). The learning curve for MANTA device is steep, while the learning curve for suture based VCD is shallow as the devices are quite different. In this meta-analysis, we have compared suture-based (ProGlide and Prostar XL) vs plug-based VCDs (MANTA).
+METHODS: We performed a meta-analysis of all published studies (using PubMed/Medline and Cochrane databases) reporting the clinical outcome of plug-based vs suture-based VCDs in transfemoral TAVR patients.
+RESULTS: We included nine studies with a total of 2865 patients (plug-based n = 1631, suture-based n = 1234). There was no significant difference in primary outcome of all bleeding when using plug-based as opposed to suture-based VCDs (RR 1.14 [0.62-2.06] I2 = 72%). There was no significant difference in the incidence of secondary outcomes between two groups including major life threatening bleeding (RR 1.16 [0.38-3.58] I2 = 65%), major vascular complications (RR 0.84 [0.35-2.00] I2 = 55%), minor vascular complications (RR 1.05 [0.56-1.95] I2 = 42%), pseudo aneurysm (RR 1.84 [0.11-29.98] I2 = 44%), stenosis-dissection (RR 0.98 [0.66-1.47] I2 = 0%), VCD failure (RR 1.71 [0.96-3.04] I2 = 0%), and blood transfusion (RR 1.01 [0.38-2.71], I2 = 61%).
+CONCLUSION: Large bore arteriotomy closure with plug-based VCD was not superior to suture-based VCDs in this transfemoral TAVR population. There was very frequent use of secondary VCDs in suture-based VCD group which is not practical when using MANTA. Additional high-powered studies are required to determine the safety and efficacy of MANTA device.
+
+Citation: Doshi R, et al. Clinical outcomes of MANTA vs suture-based vascular closure devices after transcatheter aortic valve replacement: An updated meta-analysis. Clinical outcomes of MANTA vs suture-based vascular closure devices after transcatheter aortic valve replacement: An updated meta-analysis. 2023; 75:59-67. doi: 10.1016/j.ihj.2023.01.007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36640840/

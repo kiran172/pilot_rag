@@ -1,0 +1,12 @@
+PMID: 37817527
+Title: Integrating Network Pharmacology and Experimental Verification to Explore the Targets and Mechanism for Panax Notoginseng Saponins against Coronary In-stent Restenosis.
+
+Abstract: BACKGROUND: Despite widespread application of drug-eluting stents in coronary intervention, in-stent restenosis (ISR) is still a daunting complication in clinical practice. Panax notoginseng saponins (PNS) are considered to be effective herb compounds for preventing ISR.
+OBJECTIVE: This study aimed to elucidate the targets and mechanisms of PNS in ISR prevention using network pharmacology approaches and experimental verification.
+METHODS: Relevant targets of PNS active compounds were collected from the HERB database and PharmMapper. The ISR-related targets were obtained from the GeneCards database and the Comparative Toxicogenomics Database. The GO and KEGG enrichment analysis was performed using R software. The String database and Cytoscape software were employed to build the PPI and compounds-targets-pathways-disease networks. Finally, Molecular docking performed by Autodock Vina and cellular experiments were used to validate network pharmacology results.
+RESULTS: There were 40 common targets between PNS targets and ISR targets. GO analysis revealed that these targets focused on multiple ISR-related biological processes, including cell proliferation and migration, cell adhesion, inflammatory response, and anti-thrombosis and so on. The KEGG enrichment results suggested that PNS could regulate multiple signaling pathways to inhibit or delay the development and occurrence of ISR. The molecular docking and cellular experiments results verified the network pharmacology results.
+CONCLUSION: This study demonstrated that the potential molecular mechanisms of PNS for ISR prevention involved multiple compounds, targets, and pathways. These findings provide a theoretical reference and experimental basis for the clinical application and product development of PNS for the prevention of ISR.
+
+Citation: Li Y, et al. Integrating Network Pharmacology and Experimental Verification to Explore the Targets and Mechanism for Panax Notoginseng Saponins against Coronary In-stent Restenosis. Integrating Network Pharmacology and Experimental Verification to Explore the Targets and Mechanism for Panax Notoginseng Saponins against Coronary In-stent Restenosis. 2023; 29:2239-2257. doi: 10.2174/0113816128255082230920071237
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37817527/

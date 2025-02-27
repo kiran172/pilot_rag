@@ -1,0 +1,8 @@
+PMID: 35351770
+Title: Pathological haemodynamics of a middle cerebral artery stenosis validated by computational fluid dynamics.
+
+Abstract: Intracranial arterial stenosis (ICAS) is one of the important causes of ischaemic stroke. However, the treatment for ICAS is not optimised, including medical therapies, because the mechanisms are diverse. The authors report a case of severe middle cerebral arterial stenosis accompanied by a floating thrombus, which caused artery-to-artery cerebral emboli. The patient was successfully treated with multiple antithrombotics including an anticoagulant, and the thrombus disappeared. Local haemodynamics around the middle cerebral arterial stenosis was analysed by computational fluid dynamics (CFD) using the patient-specific model. CFD analysis demonstrated that thrombus formation occurred at the poststenotic area with severe stagnant flow, which was judged by both wall shear stress and shear rate less than the specific thresholds. These findings suggest that CFD may be useful to diagnose the risk of stagnant flow-induced thrombosis and to predict the effectiveness of anticoagulant agents to prevent distal embolisms in ICAS.
+
+Citation: Tanaka K, et al. Pathological haemodynamics of a middle cerebral artery stenosis validated by computational fluid dynamics. Pathological haemodynamics of a middle cerebral artery stenosis validated by computational fluid dynamics. 2022; 15:(unknown pages). doi: 10.1136/bcr-2021-244519
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35351770/

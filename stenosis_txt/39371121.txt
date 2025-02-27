@@ -1,0 +1,8 @@
+PMID: 39371121
+Title: Identifying individuals at risk for surgical supravalvar aortic stenosis by polygenic risk score with graded phenotyping.
+
+Abstract: In a previous pathway-based, extreme phenotype study, we identified 1064 variants associated with supravalvar aortic stenosis (SVAS) severity in people with Williams syndrome (WS) and either no SVAS or surgical SVAS. Here, we use those variants to develop and test polygenic risk scores (PRS). We used the clumping and thresholding (CT) approach on the full 1064 variants and a 427-variant subset that was part of 13 biologically relevant pathways identified in the previous study. We also used a lasso approach on the full set. We were able to achieve an area under the curve (AUC) of >0.99 for the two CT PRS methods, using only 622 and 320 variants respectively when 2/3 of the initial 217 participants data were used for training and 1/3 for testing. The lasso performed less well. We then evaluated the performance of those PRS variant sets on an additional group of 138 patients with WS with intermediate severity SVAS and found a misclassification rate of <10% between the surgical and intermediate groups, suggesting potential for clinical utility of the score.
+
+Citation: Liu D, et al. Identifying individuals at risk for surgical supravalvar aortic stenosis by polygenic risk score with graded phenotyping. Identifying individuals at risk for surgical supravalvar aortic stenosis by polygenic risk score with graded phenotyping. 2024; (unknown volume):(unknown pages). doi: 10.1101/2024.09.17.24313555
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39371121/

@@ -1,0 +1,11 @@
+PMID: 37769618
+Title: Sex differences in device-measured physical activity after transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVE: Physical activity (PA) is an important clinical and quality of life outcome after transcatheter aortic valve replacement (TAVR). We examined the effect of TAVR on objectively measured PA in patients with cardiac implanted electronic devices (CIEDs).
+METHODS: Daily accelerometer data was obtained from CIEDs. Patients in the University of North Carolina Health System with continuous PA data at least 6 months before TAVR and 12 months after TAVR were included. Changes in activity pre- and post-TAVR were analyzed with linear mixed-effects models using a random intercept for each patient. An interaction term was included to determine differences in PA between men and women pre- and post-TAVR.
+RESULTS: Of the 306 patients with CIEDs who underwent TAVR, 24,655 patient-days of data from 46 patients, mean age of 82 years old, 44% of whom were female met inclusion criteria. A significant and sustained increase of 14.7% in daily PA was seen after TAVR [10.15 minutes per day, 95% confidence interval (CI) 8.75 to 11.56 P < .001] after adjusting for sex, obesity, race, history of depression, and Charlson Comorbidity Index. Effects were more prominent in women (18.57 [95% CI 16.36 to 20.79, P < .001] minute increase post-TAVR) compared to men (4.51 [95% CI 3.87 to 5.16] minute increase post-TAVR, P < .001).
+CONCLUSIONS: This study demonstrates PA increases after TAVR with effects more pronounced in women than men. Further, this study highlights the potential use of remote monitoring data for monitoring functional outcomes in device patients after a procedure.
+
+Citation: Mazzella AJ, et al. Sex differences in device-measured physical activity after transcatheter aortic valve replacement. Sex differences in device-measured physical activity after transcatheter aortic valve replacement. 2023; 35:E375-E384. doi: 10.25270/jic/23.00102
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37769618/

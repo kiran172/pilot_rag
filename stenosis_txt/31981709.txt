@@ -1,0 +1,11 @@
+PMID: 31981709
+Title: 4D Flow MRI hemodynamic benchmarking of surgical bioprosthetic valves.
+
+Abstract: PURPOSE: We exploited 4-dimensional flow magnetic resonance imaging (4D Flow), combined with a standardized in vitro setting, to establish a comprehensive benchmark for the systematic hemodynamic comparison of surgical aortic bioprosthetic valves (BPVs).
+MATERIALS AND METHODS: 4D Flow analysis was performed on two small sizes of three commercialized pericardial BPVs (Trifecta™ GT, Carpentier-Edwards PERIMOUNT Magna and Crown PRT®). Each BPV was tested over a clinically pertinent range of continuous flow rates within an in vitro MRI-compatible system, equipped with pressure transducers. In-house 4D Flow post-processing of the post-valvular velocity field included the quantification of BPV effective orifice area (EOA), transvalvular pressure gradients (TPG), kinetic energy and viscous energy dissipation.
+RESULTS: The 4D Flow technique effectively captured the 3-dimensional flow pattern of each device. Trifecta exhibited the lowest range of velocity and kinetic energy, maximized EOA (p < 0.0001) and minimized TPGs (p ≤ 0.015) if compared with Magna and Crown, these reporting minor EOA difference s (p ≥ 0.042) and similar TPGs (p ≥ 0.25). 4D Flow TPGs estimations strongly correlated against ground-truth data from pressure transducers; viscous energy dissipation proved to be inversely proportional to the fluid jet penetration.
+CONCLUSION: The proposed 4D Flow analysis pinpointed consistent hemodynamic differences among BPVs, highlighting the not negligible effect of device size on the fluidynamic outcomes. The efficacy of non-invasive 4D Flow MRI protocol could shed light on how standardize the comparison among devices in relation to their actual hemodynamic performances and improve current criteria for their selection.
+
+Citation: Sturla F, et al. 4D Flow MRI hemodynamic benchmarking of surgical bioprosthetic valves. 4D Flow MRI hemodynamic benchmarking of surgical bioprosthetic valves. 2020; 68:18-29. doi: 10.1016/j.mri.2020.01.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31981709/

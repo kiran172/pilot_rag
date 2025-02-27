@@ -1,0 +1,12 @@
+PMID: 32725862
+Title: Correlation between 3D-QCA based FFR and quantitative lumen assessment by IVUS for left main coronary artery stenoses.
+
+Abstract: OBJECTIVES: We aimed to evaluate the feasibility of using three dimensional-quantitative coronary angiography (3D-QCA) based fractional flow reserve (FFR) (vessel fractional flow reserve [vFFR], CAAS8.1, Pie Medical Imaging) and to correlate vFFR values with intravascular ultrasound (IVUS) for the evaluation of intermediate left main coronary artery (LMCA) stenosis.
+BACKGROUND: 3D-QCA derived FFR indices have been recently developed for less invasive functional lesion assessment. However, LMCA lesions were vastly under-represented in first validation studies.
+METHODS: This observational single-center cohort study enrolled consecutive patients with stable angina, unstable angina, or non-ST-segment elevation myocardial infarction and nonostial, intermediate grade LMCA stenoses who underwent IVUS evaluation. vFFR was computed based on two angiograms with optimal LMCA stenosis projection and correlated with IVUS-derived minimal lumen area (MLA).
+RESULTS: A total of 256 patients with intermediate grade LMCA stenosis evaluated with IVUS were screened for eligibility; 147 patients met the clinical inclusion criteria and had a complete IVUS LMCA footage available, of them, 63 patients (63 lesions) underwent 3D-QCA and vFFR analyses. The main reason for screening failure was insufficient quality of the angiogram (51 patients,60.7%). Mean age was 65 ± 11 years, 75% were male. Overall, mean MLA within LMCA was 8.77 ± 3.17 mm2 , while mean vFFR was 0.87 ± 0.09. A correlation was observed between vFFR and LMCA MLA (r = .792, p = .001). The diagnostic accuracy of vFFR ≤0.8 in identifying lesions with MLA &lt; 6.0 mm2 (sensitivity 98%, specificity 71.4%, area under the curve (AUC) 0.95, 95% confidence interval (CI) 0.89-1.00, p = .001) was good.
+CONCLUSIONS: In patients with good quality angiographic visualization of LMCA and available complete LMCA IVUS footage, 3D-QCA based vFFR assessment of LMCA disease correlates well to LMCA MLA as assessed by IVUS.
+
+Citation: Tomaniak M, et al. Correlation between 3D-QCA based FFR and quantitative lumen assessment by IVUS for left main coronary artery stenoses. Correlation between 3D-QCA based FFR and quantitative lumen assessment by IVUS for left main coronary artery stenoses. 2021; 97:E495-E501. doi: 10.1002/ccd.29151
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32725862/

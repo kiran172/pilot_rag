@@ -1,0 +1,11 @@
+PMID: 34902371
+Title: Distinct lipid profiles of radiation-induced carotid plaques from atherosclerotic carotid plaques revealed by UPLC-QTOF-MS and DESI-MSI.
+
+Abstract: BACKGROUND AND PURPOSE: Radiotherapy is a standard treatment for head and neck tumors that significantly increases patients' long-term survival rates. However, late cerebrovascular complications, especially carotid artery stenosis (CAS), have gained increasing attention. Investigation of biomarkers of radiation-induced CAS may help to elucidate the mechanism by which radiation induces damage to blood vessels and identify possible preventive measures against such damage.
+MATERIALS AND METHODS: In this study, we used lipidomics strategy to characterize the lipids present in 8 radiation-induced carotid plaques (RICPs) and 12 atherosclerotic carotid plaques (ASCPs). We also used desorption electrospray ionization-mass spectrometry imaging (DESI-MSI) to map the spatial distribution of the screened lipids from 2 RICPs samples and 2 ASCPs samples.
+RESULTS: The results showed that 31 metabolites in RICPs were significantly higher than that in ASCPs, 24 of which were triglycerides (TGs). We used four machine learning models to select potential indicators from the 31 metabolites. Six TGs [TG(17:2/17:2/18:0), TG(17:1/17:2/18:0), TG(17:0/17:2/18:0), TG(17:2/17:2/20:0), TG(17:1/17:2/20:0), TG(15:0/22:0/22:2)] were found to be the potential markers for distinguishing RICPs and ASCPs (AUC = 0.83). The DESI-MSI results suggested that the 6 TGs were localized in the collagen fiber regions and confirmed the differences of these TGs between the two kinds of plaques.
+CONCLUSIONS: The 6 TGs primarily localized in the collagen fiber regions of plaques are likely to be potential indicators for the differentiation of RICPs from ASCPs which may have implications in the mechanisms and possible preventive measures against RICPs.
+
+Citation: Li W, et al. Distinct lipid profiles of radiation-induced carotid plaques from atherosclerotic carotid plaques revealed by UPLC-QTOF-MS and DESI-MSI. Distinct lipid profiles of radiation-induced carotid plaques from atherosclerotic carotid plaques revealed by UPLC-QTOF-MS and DESI-MSI. 2022; 167:25-33. doi: 10.1016/j.radonc.2021.12.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34902371/

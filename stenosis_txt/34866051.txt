@@ -1,0 +1,11 @@
+PMID: 34866051
+Title: 3D Printing of Renal Arteries for Endovascular Interventions: Feasibility, Utility, and Correlation With Renal Arteriograms.
+
+Abstract: BACKGROUND: Three-dimensional (3D) printing technology is increasingly being utilized for preprocedural planning of interventional procedures. However, utility of 3D models of obstructive and clinically relevant renal artery disease has not been evaluated and could potentially assist in preprocedural planning of renal artery endovascular interventions.
+METHODS: Five patients with computed tomography angiography (CTA) of abdomen and pelvis who also subsequently underwent renal artery interventions were 3D printed retrospectively. Standard 3D slicer software was used to segment out descending aorta, renal artery, and renal anatomy to create a computer aided image. The 3D-printed models (3D-PMs) were painted with acrylic paint to highlight anatomic features for comparison with renal arteriograms and 3D-CTA to aid in endovascular interventions.
+RESULTS: 3D-PMs were successfully produced in diverse renal artery pathology: atherosclerotic disease, fibromuscular dysplasia, in-stent restenosis, and bilateral renal artery stenosis. Renal artery ostium angulation and optimal axial guiding catheter engagement were elucidated. Additionally, reference vessel size and lesion length were measured using digital millimeter calipers. Renal arteriogram along with renal interventional devices utilized during each case were compared for size correlation, reproducibility, and clinical utility.
+CONCLUSION: Preprocedural 3D printing of renal artery anatomy requiring endovascular intervention could allow for better appreciation of renal anatomy and could serve as an adjunctive tool to minimize use of contrast, fluoroscopy, and procedure time.
+
+Citation: Memon S, et al. 3D Printing of Renal Arteries for Endovascular Interventions: Feasibility, Utility, and Correlation With Renal Arteriograms. 3D Printing of Renal Arteries for Endovascular Interventions: Feasibility, Utility, and Correlation With Renal Arteriograms. 2021; 33:E986-E992. doi: 10.25270/jic/21.00041
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34866051/

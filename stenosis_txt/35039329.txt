@@ -1,0 +1,11 @@
+PMID: 35039329
+Title: Haemodynamic differences between two generations of a balloon-expandable transcatheter heart valve.
+
+Abstract: OBJECTIVES: This study aimed to investigate early haemodynamic and clinical performance of the SAPIEN 3 Ultra (S3 Ultra) transcatheter heart valve (THV) system in comparison to its precursor, the SAPIEN 3 (S3). Previous studies have indicated potential haemodynamic differences between the S3 Ultra and S3. Such differences may impact clinical outcome after transcatheter aortic valve implantation (TAVI).
+METHODS: Postprocedural haemodynamic performance and 30-day clinical outcome were compared in patients who underwent TAVI receiving either the S3 or the new S3 Ultra prostheses. Multivariable analysis and propensity score matching (PSM) were used to identify factors associated with higher mean transvalvular gradients.
+RESULTS: We included 697 patients (S3 Ultra: n=314, S3: n=383) from the multicentre RhineHeart TAVI Registry. Patients receiving the S3 Ultra prosthesis showed significantly higher postprocedural mean transvalvular gradients (14.2±4.8 vs 10.2±4.4 mm Hg; p<0.01). Multivariable logistic regression analyses and additional PSM revealed the use of the S3 Ultra to be associated with higher postprocedural mean transvalvular gradients (p<0.01). 30-day clinical outcomes, such as mortality, myocardial infarction, permanent pacemaker implantation and vascular complications were comparable between the groups.
+CONCLUSIONS: The new S3 Ultra THV was associated with a higher postprocedural mean transvalvular gradient compared with the S3 system, while there was no difference in mortality or adverse clinical outcomes at 30 days. These echocardiographic differences will require long-term studies to assess the clinical relevance of this finding.
+
+Citation: Wilde N, et al. Haemodynamic differences between two generations of a balloon-expandable transcatheter heart valve. Haemodynamic differences between two generations of a balloon-expandable transcatheter heart valve. 2022; 108:1479-1485. doi: 10.1136/heartjnl-2021-320084
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35039329/

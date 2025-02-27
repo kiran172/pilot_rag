@@ -1,0 +1,11 @@
+PMID: 34562793
+Title: Assessment of Impaired Cerebrovascular Reactivity in Chronic Cerebral Ischemia using Intravoxel Incoherent Motion Magnetic Resonance Imaging.
+
+Abstract: BACKGROUND: The severity of chronic cerebral ischemia can be assessed using cerebrovascular reactivity (CVR) to acetazolamide (ACZ) challenge, which is measured by single-photon emission computed tomography (SPECT); however, this is an invasive method. We investigated whether intravoxel incoherent motion (IVIM) magnetic resonance imaging (MRI) can assess impaired CVR in preoperative patients with chronic cerebral ischemia and compared it to SPECT-CVR.
+METHODS: Forty-seven patients with unilateral cervical carotid artery stenosis underwent diffusion-weighted MRI with 11 b-values in the range of 0-800 s/mm2 and cerebral perfusion SPECT with the ACZ challenge. The perfusion fraction (f) and diffusion coefficient (D) of the IVIM parameters were calculated using a bi-exponential model. The f and D values and these ratios of the ipsilateral middle cerebral artery territory against the contralateral side were compared with the CVR values of the affected side calculated from the SPECT data.
+RESULTS: The IVIM-f and D values in the affected side were significantly higher than those in the unaffected side (median: 7.74% vs. 7.45%, p = 0.027; 0.816 vs. 0.801 10-3mm2/s, p &lt; 0.001; respectively). However, there were no significant correlations between the f or D values and SPECT-CVR values in the affected side. In contrast, the f ratio showed a moderate negative correlation with the SPECT-CVR values (r = -0.40, p = 0.006) and detected impaired CVR (&lt; 18.4%) with a sensitivity/specificity of 0.71/0.90.
+CONCLUSION: The IVIM perfusion parameter, f, can noninvasively assess impaired CVR with high sensitivity and specificity in patients with unilateral cervical carotid artery stenosis.
+
+Citation: Uwano I, et al. Assessment of Impaired Cerebrovascular Reactivity in Chronic Cerebral Ischemia using Intravoxel Incoherent Motion Magnetic Resonance Imaging. Assessment of Impaired Cerebrovascular Reactivity in Chronic Cerebral Ischemia using Intravoxel Incoherent Motion Magnetic Resonance Imaging. 2021; 30:106107. doi: 10.1016/j.jstrokecerebrovasdis.2021.106107
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34562793/

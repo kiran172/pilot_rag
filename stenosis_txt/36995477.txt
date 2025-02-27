@@ -1,0 +1,12 @@
+PMID: 36995477
+Title: Evaluation of coronary disease among patients undergoing transcatheter aortic valve implantation: propensity score matching analysis.
+
+Abstract: BACKGROUND: Chronic coronary syndrome (CCS) is common among elderly patients with severe aortic stenosis undergoing transcatheter aortic valve implantation (TAVI). Current guidelines recommend performance of percutaneous coronary intervention (PCI) of any > 70% proximal coronary lesions prior to TAVI.
+AIMS: To evaluate the outcomes of two diagnostic approaches for CCS clearance pre-TAVI and to determine the reduction in the need of invasive angiography (IA).
+METHODS: We investigated 2219 patients undergoing TAVI for severe aortic stenosis at two large centers with different pre-procedural strategies for CCS assessment: pre-TAVI computed tomography angiography (CTA) with selective invasive angiography according to CTA results or mandatory IA. We preformed propensity score matching analysis using a 1:1 ratio. The final study cohort included 870 matched patients. Peri-procedural complications were documented according to the VARC-2 criteria. Mortality rates were prospectively documented.
+RESULTS: Mean age of the study population was 82 ± 7, of whom 55% were female. Patients in the IA group had significantly higher rates of pre-TAVI PCI compared to the CTA group (39% vs. 22%, p < 0.001). Following TAVI, peri-procedural myocardial infarction (MI) rates were similar between the two groups (0.3% vs. 0.7%, p value = 0.41), but spontaneous MI were significantly lower among the IA group (0% vs. 1.3%, p value = 0.03). Kaplan-Meier's survival analysis found that the cumulative probability of 1-year morality was similar between the two groups (p value log rank = 0.65). Cox regression analysis did not find association between CCS clearance strategy and outcome.
+CONCLUSIONS: In elderly patients, CTA-driven approach for CCS evaluation pre-TAVI is a valid strategy with similar outcome as compared to invasive approach. CTA strategy significantly reduces invasive procedures rates without compromising patient's outcome.
+
+Citation: Berkovitch A, et al. Evaluation of coronary disease among patients undergoing transcatheter aortic valve implantation: propensity score matching analysis. Evaluation of coronary disease among patients undergoing transcatheter aortic valve implantation: propensity score matching analysis. 2024; 113:11-17. doi: 10.1007/s00392-023-02175-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36995477/

@@ -1,0 +1,13 @@
+PMID: 32997128
+Title: Prognostic Value of Prerevascularization Fractional Flow Reserve Mediated by the Postrevascularization Level.
+
+Abstract: IMPORTANCE: The prognostic value of pre-percutaneous coronary intervention (PCI) fractional flow reserve (FFR) may be associated with the post-PCI FFR and their interaction. To correctly interpret the prognostic value of pre-PCI FFR, it is essential to understand to what extent the association of pre-PCI FFR with clinical outcomes is explained by post-PCI FFR.
+OBJECTIVE: To investigate the extent to which post-PCI FFR mediates the association of pre-PCI FFR with vessel-related outcomes using an international, multicenter collaboration registry.
+DESIGN, SETTING, AND PARTICIPANTS: This cohort study used pooled patient data from 4 international FFR registries. A total of 1488 patients with pre-PCI FFR of 0.80 or less who underwent elective PCI were included. Data collection was conducted from November 2011 to August 2019, and analysis was conducted from September 2019 to July 2020.
+MAIN OUTCOMES AND MEASURES: The primary outcome was target vessel failure (TVF) during 2 years of follow-up. The extent to which post-PCI FFR of less than 0.90 mediated the association of pre-PCI FFR less than 0.75 (vs pre-PCI FFR of 0.75 or greater) with TVF was evaluated using a mediation analysis in a counterfactual framework.
+RESULTS: Among 1488 patients, the mean (SD) age was 63.5 (9.9) years and 1161 patients (78.0%) were men. The median (interquartile range) pre-PCI and post-PCI FFR were 0.71 (0.62-0.76) and 0.88 (0.83-0.92), respectively. The direct association of low pre-PCI FFR (ie, <0.75) with TVF was significant (odds ratio, 1.81; 95% CI, 1.03-3.17; P = .04), while the mediation by post-PCI FFR level of less than 0.90 was not (indirect association: odds ratio, 1.03; 95% CI, 0.98-1.09; P = .24). In sensitivity analyses using several pre-PCI cutoffs, the mediations by post-PCI FFR were consistently weak.
+CONCLUSIONS AND RELEVANCE: In this study, the association of pre-PCI FFR with TVF was not significantly mediated by post-PCI FFR. Poor prognosis due to progressed atherosclerosis, represented as low FFR, may not be reversed by successful PCI that increases FFR. Therefore, the prognostic value of pre-PCI FFR may mainly reflect the global atherosclerotic burden, not the extent of the modifiable epicardial stenosis.
+
+Citation: Hamaya R, et al. Prognostic Value of Prerevascularization Fractional Flow Reserve Mediated by the Postrevascularization Level. Prognostic Value of Prerevascularization Fractional Flow Reserve Mediated by the Postrevascularization Level. 2020; 3:e2018162. doi: 10.1001/jamanetworkopen.2020.18162
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32997128/

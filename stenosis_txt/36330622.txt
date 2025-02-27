@@ -1,0 +1,11 @@
+PMID: 36330622
+Title: Factors Related to Mechanical Thrombectomy Failure in Large Vessel Occlusion: A Propensity Score Matching Analysis.
+
+Abstract: OBJECTIVE: Mechanical thrombectomy (MT) is an effective treatment for large vessel occlusion (LVO) with a high successful recanalization (SR) rate. However, MT fails in a proportion of patients, leading to poor clinical outcomes. We analyzed the factors associated with the failure of MT.
+METHODS: A total of 648 consecutive patients with MT were enrolled. MT failure was defined as 0,1, or 2a of modified Thrombolysis in Cerebral Infarction (mTICI) grade. Failed MTs were divided into 3 categories, reaching failure, passage failure, and recanalization failure (RF). Various factors in RF and SR groups were analyzed with 1: 1 propensity score matching.
+RESULTS: Failed MT was observed in 97 patients (14.3%). Among them, 69 patients (10.2% of the entire cohort, 71.1% of the failed MT group) were included in the RF group. Propensity matching analysis with 69 patients in each group showed that the RF group had a higher rate of residual intracranial atherosclerotic stenosis (ICAS) than the SR group (30.4% vs. 14.5% P = 0.003). The rates of 4 or more passages and no change of method were significantly higher in the RF group than in the SR group (34.8% vs. 13.0%; P = 0.001 and 28.9% vs. 8.7%; P = 0.001).
+CONCLUSION: The failure rate for all of the MT was approximately 15%, and RF accounted for more than 70% of the failed MT. RF was associated with residual ICAS. In cases with RF, even in repeated attempts for recanalization, an alteration of the thrombectomy method should be considered.
+
+Citation: Yi HJ, et al. Factors Related to Mechanical Thrombectomy Failure in Large Vessel Occlusion: A Propensity Score Matching Analysis. Factors Related to Mechanical Thrombectomy Failure in Large Vessel Occlusion: A Propensity Score Matching Analysis. 2022; 19:427-434. doi: 10.2174/1567202620666221103101512
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36330622/

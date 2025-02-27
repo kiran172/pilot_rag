@@ -1,0 +1,10 @@
+PMID: 34024747
+Title: Cerebral Embolic Protection During Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: It is controversial that cerebral embolic protection devices (CEPDs) reduce clinical stroke during transcatheter aortic valve replacement (TAVR). Herein, we investigated the impact of CEPDs on in-hospital clinical stroke using a nationally representative sample.
+METHODS AND RESULTS: Using the National Inpatient Sample (NIS) database, 109,240 patients who underwent TAVR between 2017 and 2018 were included. They were categorized into 2 groups according to usage of CEPDs; the CEPD and non-CEPD groups. After propensity score matching, 3805 pairs were acquired. Our main outcome was in-hospital clinical stroke. Other outcomes were in-hospital mortality, acute kidney injury (AKI), AKI leading to hemodialysis, bleeding requiring transfusion, overall bleeding complications, infectious complications, length of stay, and total cost. In-hospital clinical stroke did not significantly differ between the 2 groups (0.7% versus 1.1%, p = 0.449). The CEPD group was associated with a significantly lower in-hospital mortality (0.5% versus 1.4%, p = 0.029) and reduced total cost ($49,047 ± 19,666 versus $50,051 ± 23,190, p < 0.001), compared with the non-CEPD group, whereas there were no significant differences in the other outcomes.
+CONCLUSIONS: By using the NIS database with a large number of cases, TAVR with CEPDs was not associated with a lower incidence of in-hospital clinical stroke compared with no use of CEPDs after matching.
+
+Citation: Yashima F, et al. Cerebral Embolic Protection During Transcatheter Aortic Valve Replacement. Cerebral Embolic Protection During Transcatheter Aortic Valve Replacement. 2022; 36:9-13. doi: 10.1016/j.carrev.2021.05.010
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34024747/

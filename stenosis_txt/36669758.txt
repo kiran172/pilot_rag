@@ -1,0 +1,12 @@
+PMID: 36669758
+Title: The impact of atrial fibrillation on prognosis in aortic stenosis.
+
+Abstract: BACKGROUND: Atrial fibrillation (AF) and aortic stenosis (AS) are both highly prevalent and often coexist. Various studies have focused on the prognostic value of AF in patients with AS, but rarely considered left ventricular (LV) diastolic function as a prognostic factor.
+OBJECTIVE: To evaluate the prognostic impact of AF in patients with AS while correcting for LV diastolic function.
+METHODS: Patients with first diagnosis of significant AS were selected and stratified according to history of AF. The endpoint was all-cause mortality.
+RESULTS: In total, 2849 patients with significant AS (mean age 72 ± 12 years, 54.8% men) were evaluated, and 686 (24.1%) had a history of AF. During a median follow-up of 60 (30-97) months, 1182 (41.5%) patients died. Ten-year mortality rate in patients with AF was 46.8% compared to 36.8% in patients with sinus rhythm (SR) (log-rank P < 0.001). On univariable (HR: 1.42; 95% CI: 1.25-1.62; P < 0.001) and multivariable Cox regression analysis (HR: 1.19; 95% CI: 1.02-1.38; P = 0.026), AF was independently associated with mortality. However, when correcting for indexed left atrial volume, E/e' or both, AF was no longer independently associated with all-cause mortality.
+CONCLUSION: Patients with significant AS and AF have a reduced survival as compared to patients with SR. Nonetheless, when correcting for markers of LV diastolic function, AF was not independently associated with outcomes in patients with significant AS.
+
+Citation: Laenens D, et al. The impact of atrial fibrillation on prognosis in aortic stenosis. The impact of atrial fibrillation on prognosis in aortic stenosis. 2023; 9:778-784. doi: 10.1093/ehjqcco/qcad004
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36669758/

@@ -1,0 +1,11 @@
+PMID: 32998080
+Title: Influence of contrast material density and kV setting on detectability of calcified plaques on coronary CT angiography.
+
+Abstract: PURPOSE: To analyze the impact of tube potential and iodine concentration on the visibility of calcified plaques in coronary computed tomography angiography (cCTA).
+METHODS & MATERIALS: 164 consecutive patients (65.9 % men and a mean age of 57.1 ± 11.3 years) with suspected coronary artery disease underwent calcium scoring (CaSc) scan followed by cCTA with topogram-based automated tube voltage selection (70 kV, 80 kV, 90 kV, 100 kV or 120 kV). In 127 Patients (HC), we injected 50 mL of contrast material (CM) with a concentration of 400 mg iodine per ml and in 37 patients (LC) 50 mL iodine concentration of 280 mg/mL. Sensitivity of cCTA for detecting calcified plaques was calculated with CaSc serving as gold standard. Density of CM enhanced coronary vessels and calcified plaques were quantified by region-of-interest (ROI) measurements in unenhanced and cCTA image series.
+RESULTS: Overall sensitivity of cCTA to detect calcified plaques was significantly higher using LC compared to HC (79 % vs. 73 %; p = 0.0035). The impact of LC was impressive at 70 kV with an improved sensitivity of 70 % vs. 57.1 % in HC (p = 0.0082). Furthermore, density values of HC enhanced coronary vessels exceeded those of calcified plaques, especially at low kV levels. In LC, except for the 70 kV setting, higher density values were shown for calculi than enhanced vessels.
+CONCLUSION: Low kV cCTA in routine using highly concentrated CM leads to reduced calcified plaque perceptibility and hence potentially underestimation of stenosis. Thus, low kV cCTA using CM with lower iodine concentration is necessary. In addition, a dose reduction up to 77.7 % can also be benefited.
+
+Citation: Tischendorf P, et al. Influence of contrast material density and kV setting on detectability of calcified plaques on coronary CT angiography. Influence of contrast material density and kV setting on detectability of calcified plaques on coronary CT angiography. 2020; 132:109276. doi: 10.1016/j.ejrad.2020.109276
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32998080/

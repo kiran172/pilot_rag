@@ -1,0 +1,12 @@
+PMID: 39177623
+Title: Accuracy of analytically determined fractional flow reserve derived from coronary angiography for non-invasive assessment of coronary artery stenosis.
+
+Abstract: BACKGROUND: Fractional flow reserve (FFR) determined invasively has been globally accepted as the gold standard for determining the functional significance of coronary artery stenoses. However, despite its great importance, the invasive method has certain disadvantages, including the risk of vascular injuries, the need for vasodilation, and significant medical costs. That is why great attention was paid to the development of non-invasive methods that would enable reliable diagnosis without exposing patients to the risk of unwanted consequences.
+OBJECTIVE: This paper aimed to create and verify an alternative, less resource- and time-demanding, non-invasive solution.
+METHODS: The determination of FFR is based on the application of the fundamental laws of fluid dynamics. All energy losses in the coronary artery with stenosis were identified and analyzed in detail. A three-dimensional model of a coronary artery was generated using the corresponding angiographic images. Finally, the pressure due to stenosis was calculated and the FFR was determined.
+RESULTS: The results obtained using the proposed analytical method were compared with available experimental data for 40 patients who experienced the invasive coronary angiography. The coefficient of determination, mean difference and standard deviation values are determined to be 0.726, -0.017 and 0.056, respectively. These values were slightly higher for FFR values above 0.80.
+CONCLUSION: The FFR calculated by the proposed analytical method has a relatively good correlation with clinical data, which leads to the conclusion that it can provide a reliable assessment of the functional significance of coronary stenosis.
+
+Citation: Milovanovic A, et al. Accuracy of analytically determined fractional flow reserve derived from coronary angiography for non-invasive assessment of coronary artery stenosis. Accuracy of analytically determined fractional flow reserve derived from coronary angiography for non-invasive assessment of coronary artery stenosis. 2024; 32:4613-4626. doi: 10.3233/THC-240803
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39177623/

@@ -1,0 +1,12 @@
+PMID: 35719896
+Title: Recognition of esophagitis in endoscopic images using transfer learning.
+
+Abstract: BACKGROUND: Esophagitis is an inflammatory and damaging process of the esophageal mucosa, which is confirmed by endoscopic visualization and may, in extreme cases, result in stenosis, fistulization and esophageal perforation. The use of deep learning (a field of artificial intelligence) techniques can be considered to determine the presence of esophageal lesions compatible with esophagitis.
+AIM: To develop, using transfer learning, a deep neural network model to recognize the presence of esophagitis in endoscopic images.
+METHODS: Endoscopic images of 1932 patients with a diagnosis of esophagitis and 1663 patients without any pathological diagnosis provenient from the KSAVIR and HyperKSAVIR datasets were splitted in training (80%) and test (20%) and used to develop and evaluate a binary deep learning classifier built using the DenseNet-201 architecture, a densely connected convolutional network, with weights pretrained on the ImageNet image set and fine-tuned during training. The classifier model performance was evaluated in the test set according to accuracy, sensitivity, specificity and area under the receiver operating characteristic curve (AUC).
+RESULTS: The model was trained using Adam optimizer with a learning rate of 0.0001 and applying binary cross entropy loss function. In the test set (n = 719), the classifier achieved 93.32% accuracy, 93.18% sensitivity, 93.46% specificity and a 0.96 AUC. Heatmaps for spatial predictive relevance in esophagitis endoscopic images from the test set were also plotted. In face of the obtained results, the use of dense convolutional neural networks with pretrained and fine-tuned weights proves to be a good strategy for predictive modeling for esophagitis recognition in endoscopic images. In addition, adopting the classification approach combined with the subsequent plotting of heat maps associated with the classificatory decision gives greater explainability to the model.
+CONCLUSION: It is opportune to raise new studies involving transfer learning for the analysis of endoscopic images, aiming to improve, validate and disseminate its use for clinical practice.
+
+Citation: Caires Silveira E, et al. Recognition of esophagitis in endoscopic images using transfer learning. Recognition of esophagitis in endoscopic images using transfer learning. 2022; 14:311-319. doi: 10.4253/wjge.v14.i5.311
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35719896/

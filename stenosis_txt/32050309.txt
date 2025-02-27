@@ -1,0 +1,13 @@
+PMID: 32050309
+Title: Evaluating Spinal Canal Lesions Using Apparent Diffusion Coefficient Maps with Diffusion-Weighted Imaging.
+
+Abstract: STUDY DESIGN: Observational study.
+PURPOSE: To evaluate healthy volunteers and patients with spinal canal lesions using apparent diffusion coefficient (ADC) maps with diffusion-weighted imaging.
+OVERVIEW OF LITERATURE: Decompression surgery for lumbar spinal stenosis (LSS) is selected on the basis of subjective assessment and cross-sectional magnetic resonance imaging (MRI). However, there is no objective standard for this procedure.
+METHODS: We performed 3T MRI in 10 healthy volunteers and 13 patients with LSS. The ADC values in the spinal canal were evaluated at 46 vertebrae (L4/5 and L5/S1 for each participant), and the reduced and conventional fields of view were compared.
+RESULTS: The ADC values were 2.72±0.12 at L4/5 in healthy volunteers, 2.76±0.19 at L5/S1 in healthy volunteers, 1.77±0.58 at L4/5 in patients with LSS, and 2.35±0.29 at L5/S1 in patients with LSS. The ADC value at L4/5 in patients with LSS was significantly lower than that at L5/S1 in patients with LSS and that at L4/5 and L5/S1 in healthy volunteers (p <0.05). With an ADC cutoff value of 2.46 to identify LSS, this approach provided an area under the curve of 0.81, sensitivity of 0.92, and specificity of 0.76 (p <0.05).
+CONCLUSIONS: Preoperative examination using ADC maps permits visualization and quantification of spinal canal lesions, thus proving the utility of ADC maps in the selection of decompression surgery for LSS.
+
+Citation: Kanamoto H, et al. Evaluating Spinal Canal Lesions Using Apparent Diffusion Coefficient Maps with Diffusion-Weighted Imaging. Evaluating Spinal Canal Lesions Using Apparent Diffusion Coefficient Maps with Diffusion-Weighted Imaging. 2020; 14:312-319. doi: 10.31616/asj.2019.0266
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32050309/

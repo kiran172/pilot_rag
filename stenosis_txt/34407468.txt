@@ -1,0 +1,15 @@
+PMID: 34407468
+Title: Natural language processing for prediction of readmission in posterior lumbar fusion patients: which free-text notes have the most utility?
+
+Abstract: BACKGROUND CONTEXT: The increasing volume of free-text notes available in electronic health records has created an opportunity for natural language processing (NLP) algorithms to mine this unstructured data in order to detect and predict adverse outcomes. Given the volume and diversity of documentation available in spine surgery, it remains unclear which types of documentation offer the greatest value for prediction of adverse outcomes.
+STUDY DESIGN/SETTING: Retrospective review of medical records at two academic and three community hospitals.
+PURPOSE: The purpose of this study was to conduct an exploratory analysis in order to examine the utility of free-text notes generated during the index hospitalization for lumbar spine fusion for prediction of 90-day unplanned readmission.
+PATIENT SAMPLE: Adult patients 18 years or older undergoing lumbar spine fusion for lumbar spondylolisthesis or lumbar spinal stenosis between January 1, 2016 and December 31, 2020.
+OUTCOME MEASURES: The primary outcome was inpatient admission within 90-days of discharge from the index hospitalization.
+METHODS: The predictive performance of NLP algorithms developed by using discharge summary notes, operative notes, nursing notes, physical therapy notes, case management notes, medical doctor (MD) (resident or attending), and allied practice professional (APP) (nurse practitioner or physician assistant) notes were assessed by discrimination, calibration, overall performance.
+RESULTS: Overall, 708 patients were included in the study and 83 (11.7%) had 90-day inpatient readmission. In the independent testing set of patients (n=141) not used for model development, the area under the receiver operating curve of NLP algorithms for prediction of 90-day readmission using discharge summary notes, operative notes, nursing notes, physical therapy notes, case management notes, MD/APP notes was 0.70, 0.57, 0.57, 0.60, 0.60, and 0.49 respectively.
+CONCLUSION: In this exploratory analysis, discharge summary, physical therapy, and case management notes had the most utility and daily MD/APP progress notes had the least utility for prediction of 90-day inpatient readmission in lumbar fusion patients among the free-text documentation generated during the index hospitalization.
+
+Citation: Karhade AV, et al. Natural language processing for prediction of readmission in posterior lumbar fusion patients: which free-text notes have the most utility?. Natural language processing for prediction of readmission in posterior lumbar fusion patients: which free-text notes have the most utility?. 2022; 22:272-277. doi: 10.1016/j.spinee.2021.08.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34407468/

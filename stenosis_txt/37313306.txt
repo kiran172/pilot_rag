@@ -1,0 +1,11 @@
+PMID: 37313306
+Title: LncRNA THRIL Functions as a Marker for Carotid Artery Stenosis and Affects the Biological Function of Human Aortic Endothelial Cell.
+
+Abstract: PURPOSE: Carotid artery restenosis (CAS) is a leading contributor to cerebrovascular diseases and one of the leading causes of death in the world. The purpose of this study was to assess the predictive efficiency of long non-coding RNA (lncRNA) TNFalpha-and hnRNP L-related immunoregulatory lncRNA (THRIL) and its association with the pathogenesis of CAS.
+PATIENTS AND METHODS: The expression of THRIL was determined in patients with asymptomatic CAS and human aortic endothelial cell (HAEC) models induced by oxidized low-density lipoprotein (ox-LDL). The receiver operating characteristic (ROC) curve and Kaplan-Meier (K-M) drawings were constructed to predict the risk of poor prognosis in patients with CAS. The cell proliferation, death rate, and inflammation were detected by 3-(4,5-dimethyl-2-thiazyl)-2,5-diphenyl-2H-tetrazolium bromide (MTT), flow cytometry, and enzyme-linked immunosorbent assay (ELISA) assays.
+RESULTS: The relative expression of THRIL was elevated in patients with asymptomatic CAS. The findings of ROC curve indicated that THRIL had a predictive possibility on CAS. K-M finding and Cox regression analysis showed that the expression of THRIL and the degree of CAS were independent risk factors for poor prognosis in patients with CAS. THRIL was up-expressed in HAECs induced by ox-LDL. Down-regulation of THRIL could promote the proliferation of HAECs, inhibit cell apoptosis, and restrict cell inflammation.
+CONCLUSION: THRIL was a diagnostic and prognostic biomarker in CAS and played an important role in regulating the proliferation, apoptosis, and inflammation of HAECs induced by ox-LDL.
+
+Citation: Wang F, et al. LncRNA THRIL Functions as a Marker for Carotid Artery Stenosis and Affects the Biological Function of Human Aortic Endothelial Cell. LncRNA THRIL Functions as a Marker for Carotid Artery Stenosis and Affects the Biological Function of Human Aortic Endothelial Cell. 2023; 16:2437-2446. doi: 10.2147/JIR.S409679
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37313306/

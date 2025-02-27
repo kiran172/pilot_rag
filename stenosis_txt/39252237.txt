@@ -1,0 +1,8 @@
+PMID: 39252237
+Title: Causal relationship between multiple sclerosis and spinal stenosis: Two-sample Mendelian randomization.
+
+Abstract: To investigate the causal relationship between multiple sclerosis and spinal stenosis using Mendelian randomization (MR). Genetic loci independently associated with multiple sclerosis and spinal stenosis in people of European origin were selected as instrumental variables using pooled data from genome wide association studies (GWAS). Three MR analyses, MR-Egger, Weighted median and inverse variance weighting (IVW), were used to investigate the causal relationship between multiple sclerosis and spinal stenosis. Heterogeneity and multiplicity tests were performed, and sensitivity analyses were performed using the "leave-one-out" method to explore the robustness of the results. The IVW results showed an OR (95% CI) of 1.05 (1.01-1.08), P = .016, indicating a causal relationship between MS and spinal stenosis. And no heterogeneity and multiplicity were found by the test, and sensitivity analysis also showed robust results. In this study, genetic data were analyzed and explored using 2-sample MR analysis, and the results showed a causal relationship between multiple sclerosis and the occurrence of spinal stenosis.
+
+Citation: Deng GH. Causal relationship between multiple sclerosis and spinal stenosis: Two-sample Mendelian randomization. Causal relationship between multiple sclerosis and spinal stenosis: Two-sample Mendelian randomization. 2024; 103:e39554. doi: 10.1097/MD.0000000000039554
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39252237/

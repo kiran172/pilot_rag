@@ -1,0 +1,11 @@
+PMID: 31948846
+Title: Echocardiographic Derived Parameters Association With Long-Term Outcomes After Transcatheter Valve Replacement.
+
+Abstract: BACKGROUND: Transaortic flow, maximum velocity (V max), mean gradient (MG), left ventricular ejection fraction (LVEF), Aortic valve area (AVA) and dimensional index (DI) are important determinants of prognosis in patients with severe aortic stenosis. The specific role of these echocardiography-derived values in predicting prognosis of severe aortic stenosis patients undergoing Transcatheter aortic valve replacement (TAVR) is less defined.
+METHODS: We identified all severe AS patients who underwent TAVR between 01/2012 and 6/2016. Baseline characteristics, clinical, procedural and one year follow-up data were obtained. Hierarchical logistic regression was used to assess predictors of 1-year mortality after TAVR. Normal flow (NF) was defined as having stroke volume index (SVI) of ≥35 ml/m2; while low Flow (LF) was defined as SVI < 35 ml/m2. High gradient (HG) was defined as mean gradient of ≥40 mmHg; while low gradient (LG) was defined as <40 mmHg.
+RESULTS: A total of 399 patients were analyzed. There were no significant differences in baseline characteristics. LVEF less than 35% was associated with higher rate of 1-year mortality (17.6% LVEF <35% vs. 8.9% LVEF≥35%; RR = 2.19; CI 1.05 to 4.54; P = 0.03). There was no difference in 1-year mortality outcomes after TAVR in relation to: Mean Gradient MG, transaortic flow/Stroke Volume Index SVI, DI, V max or AVA.
+CONCLUSION: Low LVEF <35% remains the strongest parameter associated with 1 year mortality after TAVR.
+
+Citation: Al-Akchar M, et al. Echocardiographic Derived Parameters Association With Long-Term Outcomes After Transcatheter Valve Replacement. Echocardiographic Derived Parameters Association With Long-Term Outcomes After Transcatheter Valve Replacement. 2020; 21:982-985. doi: 10.1016/j.carrev.2019.12.035
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31948846/

@@ -1,0 +1,10 @@
+PMID: 34718485
+Title: Patient-reported vs. physician-estimated symptoms before and after transcatheter aortic valve replacement.
+
+Abstract: AIMS: In contrast to patient-reported health status measures (such as the Kansas City Cardiomyopathy Questionnaire), the New York Heart Association class is based on a physician's assessment of heart failure symptoms and functional limitations on behalf of the patient. We sought to determine the concordance and predictors of physician under- and overestimation of symptoms prior to and after transcatheter aortic valve replacement (TAVR).
+METHODS AND RESULTS: The analytic cohort included 172 667 patients within the Society of Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy Registry who underwent transfemoral TAVR. At baseline, physicians underestimated patients' symptoms in 47.4%, correctly assessed symptoms in 26.6%, and overestimated symptoms in 26.0%. At 30 days after TAVR, these proportions were 22.8%, 50.3%, and 26.9%, respectively. Using nominal logistic regression with random intercepts to account for within-hospital clustering, we found that physicians were more likely to incorrectly estimate patients' symptoms when patients were older, women, had a prior stroke, had severe lung disease, had atrial fibrillation, or were more obese. There was marked variability in the rates of underestimation, correct estimation, and overestimation across the 641 sites.
+CONCLUSION: Among patients undergoing treatment for severe aortic stenosis, physicians estimate patients' symptoms and functional status poorly both prior to and after TAVR, with different patterns. These findings emphasize the need to collect patient-reported health status to more reliably assess the benefits of TAVR in routine clinical practice.
+
+Citation: Arnold SV, et al. Patient-reported vs. physician-estimated symptoms before and after transcatheter aortic valve replacement. Patient-reported vs. physician-estimated symptoms before and after transcatheter aortic valve replacement. 2022; 8:161-168. doi: 10.1093/ehjqcco/qcab078
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34718485/

@@ -1,0 +1,11 @@
+PMID: 36061536
+Title: Role of serum C1q/TNF-related protein family levels in patients with acute coronary syndrome.
+
+Abstract: BACKGROUND: The C1q/TNF-related protein (CTRP) family affects inflammation regulation, energy metabolism, and insulin signaling. However, their role in acute coronary syndrome (ACS) development is unclear. In this cross-sectional study, we aimed to investigate the association between CTRP family and ACS.
+METHODS: We enrolled 289 consecutive inpatients with suspected ACS. Serum CTRP family, tumor necrosis factor-α (TNF-α), and adiponectin (ADP) levels were assessed using enzyme-linked immunosorbent assay (ELISA). Multivariate logistic regression and subgroup analyses were used to assess risk factors for ACS. Spearman's tests were used to analyze correlations between CTRP family and continuous variables.
+RESULTS: Serum CTRP family levels differed significantly between ACS and Control groups (p &lt; 0.05). After adjusting for confounding factors, CTRP family were independently associated with ACS (p &lt; 0.05). The association between serum CTRP family levels and ACS was stable in various subgroups according to sex, age, diabetes mellitus, and dyslipidemia status (p for interaction &gt; 0.05). Increasing tertiles of serum CTRP1 levels, significantly increased ACS risks, which decreased gradually with increasing CTRP2, CTRP12, and CTRP13 tertiles (p for trend &lt; 0.05). Additionally, serum CTRP1, CTRP2, CTRP13, and CTRP15 levels were weakly correlated with the severity of coronary artery stenosis.
+CONCLUSION: CTRP1 and CTRP5 were identified as independent ACS risk factors, whereas CTRP2, CTRP3, CTRP9, CTRP12, CTRP13, and CTRP15 were independent protective factors for ACS. CTRP family, especially CTRP1 and CTRP3 could be novel potential clinical biomarkers of ACS.
+
+Citation: Liu Y, et al. Role of serum C1q/TNF-related protein family levels in patients with acute coronary syndrome. Role of serum C1q/TNF-related protein family levels in patients with acute coronary syndrome. 2022; 9:967918. doi: 10.3389/fcvm.2022.967918
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36061536/

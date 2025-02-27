@@ -1,0 +1,11 @@
+PMID: 32958348
+Title: In vitro correlation between the effective and geometric orifice area in aortic stenosis.
+
+Abstract: BACKGROUND: Planimetry of aortic stenosis can be performed when Doppler measurements are unavailable. We sought to evaluate if, as advised in guidelines, the geometric orifice area (GOA) threshold value of 1 cm² was concordant with the threshold of 1 cm² of the effective orifice area (EOA), and the factors influencing the contraction coefficient (EOA/GOA ratio).
+METHODS: In an in vitro mock circulatory system, we tested 6 degrees of AS severity (3 severe and 3 non-severe), and 3 levels of flow (<150 ml/s, 150-200 ml/s, >250 ml/s). The EOA was calculated by Doppler-echocardiography, and the GOA was measured with dedicated software after camera acquisition.
+RESULTS: In all but the very low flow condition, an EOA of 1 cm² corresponded to a GOA of 1.2 cm². The contraction coefficient increased with both the flow and the stenosis severity. For very severe stenoses, the EOA and the GOA were interchangeable.
+CONCLUSION: As observed in clinical studies, the GOA was larger than the EOA, and a GOA between 1 and 1.2 cm² should not discard the possibility of severe aortic stenosis.
+
+Citation: Adda J, et al. In vitro correlation between the effective and geometric orifice area in aortic stenosis. In vitro correlation between the effective and geometric orifice area in aortic stenosis. 2021; 77:334-340. doi: 10.1016/j.jjcc.2020.08.003
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32958348/

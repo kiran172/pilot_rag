@@ -1,0 +1,12 @@
+PMID: 39438411
+Title: Progression of Crohn's Disease in Newly Diagnosed Patients: Results from an Observational Study Using US Claims Data.
+
+Abstract: BACKGROUND: Patients with Crohn's disease (CD) experience disease progression over time, including strictures/stenoses, penetrating fistulae, and abscesses.
+AIMS: This retrospective US population-based study aimed to characterize CD progression in newly diagnosed patients.
+METHODS: Patient-level data from the Optum® Market Clarity database from January 1, 2016, to June 30, 2020, were used. The study comprised a 12-month baseline period (pre-diagnosis), an index date (diagnosis date), and a follow-up period. The risk of, and time to, CD progression since CD diagnosis, dispensed treatment changes following CD progression, and healthcare resource utilization before and after CD progression were assessed.
+RESULTS: Overall, 6804 newly diagnosed patients were included. Of these, 1714 (25.2%) experienced CD progression as follows: 19.3% (1183/6117) in the first 6 months, 21.6% (1188/5503) by 1 year, 24.6% (953/3875) by 2 years, and 26.6% (444/1668) by 3 years. Intestinal obstruction/stenosis was more common than fistula or abscess. Among patients with CD progression, the median (interquartile range) estimated time to progression was 2 (0-140) days; the shortest time to progression was seen with a first intestinal obstruction/stenosis (0 [0-137] days). The frequency of several dispensed treatments increased following CD progression. Among patients who experienced progression, CD-related inpatient hospital admissions/visits increased from 436 of 1714 patients (25.4%) in the month before progression to 965 (56.3%) in the month after progression.
+CONCLUSIONS: Over one quarter of patients with newly diagnosed CD experienced CD progression and complications within 3 years of diagnosis, highlighting the importance of monitoring for progression and early intervention to limit progression.
+
+Citation: Fan Y, et al. Progression of Crohn's Disease in Newly Diagnosed Patients: Results from an Observational Study Using US Claims Data. Progression of Crohn's Disease in Newly Diagnosed Patients: Results from an Observational Study Using US Claims Data. 2024; 69:4167-4177. doi: 10.1007/s10620-024-08591-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39438411/

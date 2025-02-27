@@ -1,0 +1,11 @@
+PMID: 36462450
+Title: Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation.
+
+Abstract: OBJECTIVE: Clinical trials conducted before the introduction of modern medical management to prevent stroke demonstrated that carotid endarterectomy (CEA) and carotid artery stenting (CAS) prevent stroke following transient ischemic attack (TIA). We compared the cost-effectiveness of CEA, CAS, and modern medical management in two secular settings of medical management in individuals with incident TIA and type 2 diabetes.
+METHODS: Using simulation modeling, our base-case analyses were performed from the healthcare sector perspective over a 20-year time horizon with an annual 3% discount rate applied to both costs and quality-adjusted life years (QALYs). Outcomes depended on age, sex, biomarkers associated with cardiovascular risk, and treatment effects based on a validated model of type 2 diabetes. Our simulation population was drawn from the National Health and Nutrition Examination Survey (NHANES) 2014 cohort. Costs for modern medical management were based on average wholesale prices, and revascularization costs were derived from published literature. One-way and probabilistic sensitivity analyses were conducted.
+RESULTS: Compared to all other strategies, historical medical management plus CEA was either cost-saving or cost-effective at a threshold of $100,000 per QALY gained. Modern medical management was cost-effective compared to historical medical management without revascularization at a $100,000 acceptability threshold. However, both revascularization approaches (plus medical management) were cost-saving compared to modern medical management alone.
+CONCLUSION: Among individuals requiring carotid revascularization, carotid endarterectomy is the cost-effective strategy to treat individuals with type 2 diabetes following a TIA. For individuals for whom revascularization is contraindicated, modern medical therapy is cost-effective.
+
+Citation: Marriott DJ, et al. Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation. Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation. 2023; 32:106908. doi: 10.1016/j.jstrokecerebrovasdis.2022.106908
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36462450/

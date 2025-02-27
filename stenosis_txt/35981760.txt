@@ -1,0 +1,11 @@
+PMID: 35981760
+Title: Comparison of 30-Day Outcomes after Carotid Artery Stenting in Patients with Near-Occlusion and Severe Stenosis: A Propensity Score Matching Analysis.
+
+Abstract: BACKGROUND AND PURPOSE: Carotid artery near-occlusion is a type of severe stenosis with complete or partial distal luminal collapse and intracranial collaterals. This study aimed to compare 30-day outcomes and 10-year survival in patients undergoing carotid artery stenting for near-occlusion with a control group of patients with severe stenosis.
+MATERIALS AND METHODS: We used data from a registry of 639 patients who underwent 789 carotid artery stenting procedures between 2005 and 2021. The primary end point was any stroke or death within 30 days after carotid artery stenting. Patients were matched using propensity scores based on 6 variables.
+RESULTS: Propensity score matching yielded 84 subjects in the near-occlusion group matched with 168 subjects in the control group. In the matched cohort, the primary end point occurred in 7 (8.3%) and 11 (6.6%) patients in the near-occlusion and control groups, respectively (P = .611). In the unmatched cohort, the primary end point occurred in 7 (8.3%) and 19 (4.1%) patients (P = .101). Survival in the near-occlusion group versus the control group in the matched cohort at 5 and 10 years was 69.8% (95% CI, 58.0%-78.8%) versus 77.3% (95% CI, 70.0%-83.1%) and 53.3% (95% CI, 39.9%-65.0%) versus 53.3% (95% CI, 44.5%-61.4%) (log-rank, P = .798).
+CONCLUSIONS: Carotid stent placement in patients with ICA near-occlusion was not associated with an increased 30-day risk of stroke or death compared with severe stenosis. Survival up to 10 years after carotid artery stenting was similar in both groups.
+
+Citation: Štěchovský C, et al. Comparison of 30-Day Outcomes after Carotid Artery Stenting in Patients with Near-Occlusion and Severe Stenosis: A Propensity Score Matching Analysis. Comparison of 30-Day Outcomes after Carotid Artery Stenting in Patients with Near-Occlusion and Severe Stenosis: A Propensity Score Matching Analysis. 2022; 43:1311-1317. doi: 10.3174/ajnr.A7598
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35981760/

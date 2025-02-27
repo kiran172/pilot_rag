@@ -1,0 +1,11 @@
+PMID: 35981660
+Title: Surgical Treatment of Meatal Stenosis: Lessons Learned from the Pediatric Urology Practice.
+
+Abstract: OBJECTIVE: To evaluate the indications for surgery and outcome of meatotomy and meatoplasty in a big cohort of children.
+METHODS: We retrospectively evaluated 2211 children who underwent either meatotomy or meatoplasty between 2009 and 2020 utilizing the same operative setup. For continuous data, we performed t-test and Mann-Whitney U test. For categorical data, chi-squared test or Fisher's exact test was used. A binary logistic regression model was used to compare the indications for surgery between the groups.
+RESULTS: Of 2211 children, 1906 underwent meatotomy and 305 meatoplasty. The mean age was 5 years (range: 1m-15y) and there was no age difference between the groups. There was no difference between duration of surgery, recovery time, or complication rates between the groups. Deviated stream was the most frequent indication for treatment 1477 (67%). On Univariate logistic regression children with the following indications: dysuria, meatitis, and urinary retention had increased odds toward meatoplasty, while the indication of deviated stream had increased odds toward meatotomy. On Multivariate Logistic regression only deviated stream (Odd-ratios 1.47, P: .005) and urinary retention (Odds-ratio 4.5, P: .027) remained significant for meatotomy and meatoplasty respectively. Eleven (0.58%) children who underwent meatotomy developed recurrent Urethral Meatal Stenosis and underwent another surgery. Sixty-nine children (3.6%) after meatotomy required manual opening of the meatus on the first post-operative visit. None of the children, who underwent meatoplasty needed reoperation.
+CONCLUSION: Meatotomy had a higher reoperation rate and frequently required manual meatal spreading in early postoperative period. We believe meatoplasty is a preferable surgery for pediatric UMS.
+
+Citation: Dothan D, et al. Surgical Treatment of Meatal Stenosis: Lessons Learned from the Pediatric Urology Practice. Surgical Treatment of Meatal Stenosis: Lessons Learned from the Pediatric Urology Practice. 2023; 171:201-204. doi: 10.1016/j.urology.2022.08.006
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35981660/

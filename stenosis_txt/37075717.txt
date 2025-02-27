@@ -1,0 +1,11 @@
+PMID: 37075717
+Title: Evaluation of Cardiac Adverse Events with Ponatinib Using a Spontaneous Reporting Database.
+
+Abstract: INTRODUCTION: The efficacy of ponatinib was demonstrated in patients resistant or intolerant to prior BCR-ABL tyrosine kinase inhibitors. However, cardiac adverse events (CAEs) have become a concern as a serious side effect of ponatinib administration. No reports have described the incidence of CAEs associated with ponatinib in Japanese patients. Thus, this study aimed to determine the risk of ponatinib-induced CAEs, time to onset, and post hoc outcomes using the Japanese Adverse Drug Event Report database.
+METHODS: We analyzed data for the period between April 2004 and March 2021. Data on CAEs were extracted, and relative risk of AEs was estimated using the reporting odds ratio.
+RESULTS: We analyzed 1,772,494 reports and identified 1,152 reports of AEs caused by ponatinib. Of these, 163 CAEs were reportedly associated with ponatinib. Signals were detected for thirteen CAEs: hypertension, cardiac failure, acute cardiac failure, atrial fibrillation, increased blood pressure, coronary artery stenosis, myocardial infarction, angina pectoris, pulmonary hypertension, prolonged QT on electrocardiography, cardiomyopathy, cardiac dysfunction, and acute myocardial infarction. Among these, hypertension was the most frequently reported AE (27.6%). A histogram of times to onset showed occurrence from 4.5 to 150.5 days.
+DISCUSSION/CONCLUSION: Hypertension, cardiac failure, coronary artery stenosis, and myocardial infarction could potentially result in serious outcomes and some cases occurred earlier or even more than 1 year after starting administration. Patients should be monitored for signs of the onset of these AEs not only at the start of ponatinib administration but also over the longer term.
+
+Citation: Kanbayashi Y, et al. Evaluation of Cardiac Adverse Events with Ponatinib Using a Spontaneous Reporting Database. Evaluation of Cardiac Adverse Events with Ponatinib Using a Spontaneous Reporting Database. 2023; 101:397-405. doi: 10.1159/000529768
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37075717/

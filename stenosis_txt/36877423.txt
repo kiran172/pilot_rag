@@ -1,0 +1,11 @@
+PMID: 36877423
+Title: Effectiveness of clinical scores in predicting coronary artery disease in familial hypercholesterolemia: a coronary computed tomography angiography study.
+
+Abstract: PURPOSE: One of the major challenges in the management of familial hypercholesterolemia (FH) is the stratification of cardiovascular risk in asymptomatic subjects. Our purpose is to investigate the performance of clinical scoring systems, Montreal-FH-score (MFHS), SAFEHEART risk (SAFEHEART-RE) and FH risk score (FHRS) equations and Dutch Lipid Clinic Network (DLCN) diagnostic score, in predicting extent and severity of CAD at coronary computed tomography angiography (CCTA) in asymptomatic FH.
+MATERIAL AND METHODS: One-hundred and thirty-nine asymptomatic FH subjects were prospectively enrolled to perform CCTA. MFHS, FHRS, SAFEHEART-RE and DLCN were assessed for each patient. Atherosclerotic burden scores at CCTA (Agatston score [AS], segment stenosis score [SSS]) and CAD-RADS score were calculated and compared to clinical indices.
+RESULTS: Non-obstructive CAD was found in 109 patients, while 30 patients had a CAD-RADS ≥ 3. Classifying the two groups according to AS, values varied significantly for MFHS (p < 0.001), FHRS (p < 0.001) and SAFEHEART-RE (p = 0.047), while according to SSS only MFHS and FHRS showed significant differences (p < 0.001). MFHS, FHRS and SAFEHEART-RE, but not DLCN, showed significant differences between the two CAD-RADS groups (p < .001). MFHS proved to have the best discriminatory power (AUC = 0.819; 0.703-0.937, p < 0.001) at ROC analysis, followed by FHRS (AUC = 0.795; 0.715-0.875, p < .0001) and SAFEHEART-RE (AUC = .725; .61-.843, p < .001).
+CONCLUSIONS: Greater values of MFHS, FHRS and SAFEHEART-RE are associated to higher risk of obstructive CAD and might help to select asymptomatic patients that should be referred to CCTA for secondary prevention.
+
+Citation: Catapano F, et al. Effectiveness of clinical scores in predicting coronary artery disease in familial hypercholesterolemia: a coronary computed tomography angiography study. Effectiveness of clinical scores in predicting coronary artery disease in familial hypercholesterolemia: a coronary computed tomography angiography study. 2023; 128:445-455. doi: 10.1007/s11547-023-01610-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36877423/

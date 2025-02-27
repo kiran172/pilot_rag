@@ -1,0 +1,11 @@
+PMID: 38964173
+Title: Machine learning methods in automated detection of CT enterography findings in Crohn's disease: A feasibility study.
+
+Abstract: PURPOSE: Qualitative findings in Crohn's disease (CD) can be challenging to reliably report and quantify. We evaluated machine learning methodologies to both standardize the detection of common qualitative findings of ileal CD and determine finding spatial localization on CT enterography (CTE).
+MATERIALS AND METHODS: Subjects with ileal CD and a CTE from a single center retrospective study between 2016 and 2021 were included. 165 CTEs were reviewed by two fellowship-trained abdominal radiologists for the presence and spatial distribution of five qualitative CD findings: mural enhancement, mural stratification, stenosis, wall thickening, and mesenteric fat stranding. A Random Forest (RF) ensemble model using automatically extracted specialist-directed bowel features and an unbiased convolutional neural network (CNN) were developed to predict the presence of qualitative findings. Model performance was assessed using area under the curve (AUC), sensitivity, specificity, accuracy, and kappa agreement statistics.
+RESULTS: In 165 subjects with 29,895 individual qualitative finding assessments, agreement between radiologists for localization was good to very good (κ = 0.66 to 0.73), except for mesenteric fat stranding (κ = 0.47). RF prediction models had excellent performance, with an overall AUC, sensitivity, specificity of 0.91, 0.81 and 0.85, respectively. RF model and radiologist agreement for localization of CD findings approximated agreement between radiologists (κ = 0.67 to 0.76). Unbiased CNN models without benefit of disease knowledge had very similar performance to RF models which used specialist-defined imaging features.
+CONCLUSION: Machine learning techniques for CTE image analysis can identify the presence, location, and distribution of qualitative CD findings with similar performance to experienced radiologists.
+
+Citation: Wasnik AP, et al. Machine learning methods in automated detection of CT enterography findings in Crohn's disease: A feasibility study. Machine learning methods in automated detection of CT enterography findings in Crohn's disease: A feasibility study. 2024; 113:110231. doi: 10.1016/j.clinimag.2024.110231
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38964173/

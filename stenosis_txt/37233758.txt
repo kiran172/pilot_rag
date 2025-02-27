@@ -1,0 +1,11 @@
+PMID: 37233758
+Title: Image quality and lesion detectability of deep learning-accelerated T2-weighted Dixon imaging of the cervical spine.
+
+Abstract: OBJECTIVES: To validate the subjective image quality and lesion detectability of deep learning-accelerated Dixon (DL-Dixon) imaging of the cervical spine compared with routine Dixon imaging.
+MATERIALS AND METHODS: A total of 50 patients underwent sagittal routine Dixon and DL-Dixon imaging of the cervical spine. Acquisition parameters were compared and non-uniformity (NU) values were calculated. Two radiologists independently assessed the two imaging methods for subjective image quality and lesion detectability. Interreader and intermethod agreements were estimated with weighted kappa values.
+RESULTS: Compared with the routine Dixon imaging, the DL-Dixon imaging reduced the acquisition time by 23.76%. The NU value is slightly higher in DL-Dixon imaging (p value: 0.015). DL-Dixon imaging showed superior visibility of all four anatomical structures (spinal cord, disc margin, dorsal root ganglion, and facet joint) for both readers (p value: < 0.001 ~ 0.002). The motion artifact scores were slightly higher in the DL-Dixon images than in routine Dixon images (p value = 0.785). Intermethod agreements were almost perfect for disc herniation, facet osteoarthritis, uncovertebral arthritis, central canal stenosis (κ range: 0.830 ~ 0.980, all p values < 0.001) and substantial to almost perfect for foraminal stenosis (κ = 0.955, 0.705 for each reader). There was an improvement in the interreader agreement of foraminal stenosis by DL-Dixon images, from moderate to substantial agreement.
+CONCLUSION: The DLR sequence can substantially decrease the acquisition time of the Dixon sequence with subjective image quality at least as good as the conventional sequence. And no significant differences in lesion detectability were observed between the two sequence types.
+
+Citation: Seo G, et al. Image quality and lesion detectability of deep learning-accelerated T2-weighted Dixon imaging of the cervical spine. Image quality and lesion detectability of deep learning-accelerated T2-weighted Dixon imaging of the cervical spine. 2023; 52:2451-2459. doi: 10.1007/s00256-023-04364-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37233758/

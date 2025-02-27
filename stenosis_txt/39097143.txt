@@ -1,0 +1,11 @@
+PMID: 39097143
+Title: A risk model of mortality rate in dialysis patients following transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Dialysis patients undergoing transcatheter aortic valve replacement (TAVR) generally have poor prognosis compared with non-dialysis patients. Furthermore, there are few reliable risk models in this clinical setting. Therefore, we aimed to establish a risk model in dialysis patients undergoing TAVR that would be informative for their prognosis and the decision-making process of TAVR.
+METHODS: A total 118 dialysis patients (full cohort) with severe aortic stenosis underwent TAVR in our institute between 2012 and 2022. The patients of the full cohort were randomly assigned to two groups in a 2:1 ratio to form derivation and validation cohorts. Risk factors contributing to deaths were analyzed from the preoperative variables and a risk model was established from Cox proportional hazard model.
+RESULTS: There were 69 deaths following TAVR derived from infectious disease (43.5 %), cardiovascular-related disease (11.6 %), cerebral stroke or hemorrhage (2.9 %), cancer (1.4 %), unknown origin (18.8 %), and others (21.7 %) during the observational period (811 ± 719 days). The cumulative overall survival rates using the Kaplan-Meier method at 1 year, 3 years, and 5 years in the full cohort were 82.8 %, 41.9 %, and 24.2 %, respectively. An optimal risk model composed of five contributors: peripheral vascular disease, serum albumin, left ventricular ejection fraction < 40 %, operative age, and hemoglobin level, was established. The estimated C index for the developed models were 0.748 (95 % CI: 0.672-0.824) in derivation cohort and 0.705 (95 % CI: 0.578-0.832) in validation cohort. The prediction model showed good calibration [intraclass correlation coefficient = 0.937 (95%CI: 0.806-0.981)] between actual and predicted survival.
+CONCLUSIONS: The risk model was a good indicator to estimate the prognosis in dialysis patients undergoing TAVR.
+
+Citation: Yamashita K, et al. A risk model of mortality rate in dialysis patients following transcatheter aortic valve replacement. A risk model of mortality rate in dialysis patients following transcatheter aortic valve replacement. 2024; (unknown volume):(unknown pages). doi: 10.1016/j.jjcc.2024.07.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39097143/

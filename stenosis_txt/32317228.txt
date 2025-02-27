@@ -1,0 +1,11 @@
+PMID: 32317228
+Title: Resting Cardiac Efficiency Affects Survival Following Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVE: Cardiac power to left ventricular mass (LVM) ratio, also termed cardiac efficiency (CE), reflects the rate of cardiac work delivered to the potential energy stored in LVM. We sought to assess the association between baseline resting CE and survival post transcatheter aortic valve replacement (TAVR).
+METHODS: We retrospectively extracted data of patients who received TAVR in the Mayo Clinic Foundation with follow up data available at 1 year. Cardiac output was measured using Doppler echocardiography at baseline. CE was calculated using the formula, (cardiac output × mean arterial blood pressure)/(451 × LVM × 100) W/100 g. Survival score analysis was performed to identify cut off value for CE to identify the maximum difference in mortality in the study cohort. Patients were subsequently divided into 2 groups CE < 0.38 W/100 g and CE ≥ 0.38 W/100 g. Survival was determined using Kaplan-Meier method.
+RESULTS: We included 954 patients in the final analysis. CE in group1 vs group 2 was 0.31 ± 0.05 W/100 g vs 0.59 ± 0.18 W/100 g. Patients in group1 were more likely to be male, had a higher prevalence of atrial fibrillation, prior myocardial infarction, mitral and tricuspid regurgitation. They also had a higher STS risk score, NYHA functional class, and lower aortic valve area. The remainder of the baseline characteristics was similar in both groups. A lower CE was associated with higher 1-year mortality following TAVR based on multivariate analysis. (Group1: 22.18% vs Group 2: 9.89%, p < .0001).
+CONCLUSION: In our cohort, a low baseline CE (<0.38 W/100 g) conferred higher mortality risk following TAVR.
+
+Citation: Agasthi P, et al. Resting Cardiac Efficiency Affects Survival Following Transcatheter Aortic Valve Replacement. Resting Cardiac Efficiency Affects Survival Following Transcatheter Aortic Valve Replacement. 2020; 21:1327-1333. doi: 10.1016/j.carrev.2020.04.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32317228/

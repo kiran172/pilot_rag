@@ -1,0 +1,11 @@
+PMID: 32335689
+Title: Analysis of length of stay after transfemoral transcatheter aortic valve replacement: results from the FRANCE TAVI registry.
+
+Abstract: BACKGROUND: Currently, there are no recommendations regarding the minimum duration of in-hospital monitoring after transfemoral (TF) transcatheter aortic valve replacement (TAVR) and practices are extremely heterogeneous. We, therefore, aimed to evaluate length of stay (LOS) and predictive factors for late discharge after TF TAVR using data from the FRANCE TAVI registry.
+METHODS: TAVR was performed in 12,804 patients in 48 French centers between 2013 and 2015. LOS was evaluated in 5857 TF patients discharged home. LOS was calculated from TAVR procedure (day 0) to discharge. The study population was divided into three groups based on LOS values. Patients discharged within 3 days constituted the "very early" discharge group, patients with a LOS between 3 and 6 days constituted the "early" discharge group, and patients with a length of stay > 6 days constituted the "late" discharge group.
+RESULTS: The median LOS was 7 (5-9) days and was extremely variable among centers. The proportion of patients discharged very early, early, and late was 4.4% (n = 256), 33.7% (n = 1997), and 61.9% (n = 3624) respectively. Variables associated with late discharge were female sex, co-morbidities, major complications, self-expandable valve, general anesthesia, and a significant center effect. In contrast, history of previous pacemaker was a protective factor. The composite of death and re-admission in the very early and early versus late discharge groups was similar at 30 days (3.3% vs. 3.5%, p = 0.66).
+CONCLUSIONS: LOS is extremely variable after TF TAVR in France. Co-morbidities and complications were predictive factors of late discharge after TAVI. Interestingly, the use of self-expandable prosthesis and general anesthesia may also contribute to late discharge. Our results confirm that early discharge is safe.
+
+Citation: Durand E, et al. Analysis of length of stay after transfemoral transcatheter aortic valve replacement: results from the FRANCE TAVI registry. Analysis of length of stay after transfemoral transcatheter aortic valve replacement: results from the FRANCE TAVI registry. 2021; 110:40-49. doi: 10.1007/s00392-020-01647-4
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32335689/

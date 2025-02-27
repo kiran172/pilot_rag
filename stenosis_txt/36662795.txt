@@ -1,0 +1,11 @@
+PMID: 36662795
+Title: Differences in aortic valve area measured on cardiac CT and echocardiography in patients with aortic stenosis.
+
+Abstract: BACKGROUND: A certain proportion of patients with severe aortic stenosis (AS) present with discordant grading between different diagnostic modalities, which raises uncertainty about the true severity of AS. The aim of this study was to compare the aortic valve area (AVA) measured on CT and echocardiography and demonstrate the factors affecting AVA discrepancies.
+METHODS: Between June 2011 and March 2016, 535 consecutive patients (66.83±8.80 years, 297 men) with AS who underwent pre-operative cardiac CT and echocardiography for aortic valve replacement were retrospectively included. AVA was obtained by AVA on echocardiography (AVAecho) and CT (AVACT) using a measurement of the left ventricular outflow tract on each modality and correlations between those measures were evaluated. Logistic regression analysis was performed to identify factors affecting the discordance for grading severe AS.
+RESULTS: The AVACT and AVAecho showed a high correlation (r: 0.79, P <0.001) but AVACT was larger than the AVAecho (difference 0.26 cm2, P <0.001). By using the cut-off values of AVACT (<1.2 cm2) and AVAecho (<1.0 cm2) for diagnosing severe AS, the BSA (odds ratio [OR]: 68.03, 95% confidence interval [CI]: 5.45-849.99; P = 0.001), AVAecho (OR: 1.19, 95%CI: 1.14-1.24; P <0.001), tricuspid valve morphology (OR: 2.83, 95%CI: 1.23-6.50; P = 0.01), and normalized annulus area (OR: 1.02; 95%CI:1.02-1.03; P <0.001) were significant factors associated with the discordance between the AVAecho and AVACT.
+CONCLUSION: Patients with larger BSA, AVAecho, and annulus, and tricuspid valve morphology were associated with the AVA discordance between the echocardiography and CT. Complementary use of CT with echocardiography for grading severe AS could be helpful in such conditions.
+
+Citation: Choe J, et al. Differences in aortic valve area measured on cardiac CT and echocardiography in patients with aortic stenosis. Differences in aortic valve area measured on cardiac CT and echocardiography in patients with aortic stenosis. 2023; 18:e0280530. doi: 10.1371/journal.pone.0280530
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36662795/

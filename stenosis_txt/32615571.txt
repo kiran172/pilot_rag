@@ -1,0 +1,12 @@
+PMID: 32615571
+Title: Predictors of Contrast Volume in Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Contrast-induced acute kidney injury (CIAKI) is a frequent and serious complication of transcatheter aortic valve replacement (TAVR). The most important procedural risk factor for CIAKI is contrast volume.
+OBJECTIVES: Because contrast volume is a modifiable factor that directly predicts CIAKI, we sought to identify predictors of increased contrast volume in TAVR patients. Identification of such predictors may allow both prediction and mitigation of CIAKI risk following TAVR.
+METHOD: We retrospectively analyzed data from consecutive patients not on hemodialysis who underwent successful TAVR at a single US center from 2013 to 2018. Using multivariable linear regression modelling, we assessed the relationships between contrast volumes and 49 patient and procedural factors hypothesized to be potential predictors.
+RESULTS: In 295 patients, we identified 17 factors that independently predicted contrast volume, 10 of which contributed 90% of the complete model's r2 value. Procedure year (suggesting a learning curve), aortic insufficiency, radiation dose, prior AVR, and previous pacemaker placement were statistically the most significant predictors of CIAKI. TAVR device and diabetes were notably not predictors.
+CONCLUSIONS: To predict and reduce contrast use in TAVR, patients at risk for increased contrast volume may be identified using the predictors elucidated in this study. For such patients, strategies for contrast reduction and renal protection may be employed.
+
+Citation: Goldsweig AM, et al. Predictors of Contrast Volume in Transcatheter Aortic Valve Replacement. Predictors of Contrast Volume in Transcatheter Aortic Valve Replacement. 2020; 145:608-610. doi: 10.1159/000507506
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32615571/

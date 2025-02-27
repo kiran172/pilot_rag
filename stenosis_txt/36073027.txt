@@ -1,0 +1,12 @@
+PMID: 36073027
+Title: Radial wall strain: a novel angiographic measure of plaque composition and vulnerability.
+
+Abstract: BACKGROUND: The lipid-to-cap ratio (LCR) and thin-cap fibroatheroma (TCFA) derived from optical coherence tomography (OCT) are indicative of plaque vulnerability.
+AIMS: We aimed to explore the association of a novel method to estimate radial wall strain (RWS) from angiography with plaque composition and features of vulnerability assessed by OCT.
+METHODS: Anonymised data from patients with intermediate stenosis who underwent coronary angiography (CAG) and OCT were analysed in a core laboratory. Angiography-derived RWS<sub>max</sub> was computed as the maximum deformation of lumen diameter throughout the cardiac cycle, expressed as a percentage of the largest lumen diameter. The LCR and TCFA were automatically determined on OCT images by a recently validated algorithm based on artificial intelligence.
+RESULTS: OCT and CAG images from 114 patients (124 vessels) were analysed. The average time for the analysis of RWS<sub>max</sub> was 57 (39-82) seconds. The RWS<sub>max</sub> in the interrogated plaques was 12% (10-15%) and correlated positively with the LCR (r=0.584; p&lt;0.001) and lipidic plaque burden (r=0.411; p&lt;0.001), and negatively with fibrous cap thickness (r= -0.439; p&lt;0.001). An RWS<sub>max</sub> &gt;12% was an angiographic predictor for an LCR &gt;0.33 (area under the curve [AUC]=0.86, 95% confidence interval [CI]: 0.78-0.91; p&lt;0.001) and TCFA (AUC=0.72, 95% CI: 0.63-0.80; p&lt;0.001). Lesions with RWS<sub>max</sub> &gt;12% had a higher prevalence of TCFA (22.0% versus 1.5%; p&lt;0.001), thinner fibrous cap thickness (71 μm versus 101 μm; p&lt;0.001), larger lipidic plaque burden (23.3% versus 15.4%; p&lt;0.001), and higher maximum LCR (0.41 versus 0.18; p&lt;0.001) compared to lesions with RWS<sub>max</sub> ≤12%.
+CONCLUSIONS: Angiography-derived RWS was significantly correlated with plaque composition and known OCT features of plaque vulnerability in patients with intermediate coronary stenosis.
+
+Citation: Hong H, et al. Radial wall strain: a novel angiographic measure of plaque composition and vulnerability. Radial wall strain: a novel angiographic measure of plaque composition and vulnerability. 2022; 18:1001-10. doi: 10.4244/EIJ-D-22-00537
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36073027/

@@ -1,0 +1,11 @@
+PMID: 35883646
+Title: Integrated Analysis of LncRNA-Mediated ceRNA Network in Calcific Aortic Valve Disease.
+
+Abstract: BACKGROUND: The high morbidity and mortality of calcific aortic valve disease (CAVD) represents an unmet clinical need to investigate the molecular mechanisms involved. Evidence suggests that long non-coding RNAs (lncRNAs) can act as competitive endogenous RNAs (ceRNAs) by binding to microRNAs and regulating target genes in cardiovascular diseases. Nevertheless, the role of lncRNAs related ceRNA regulation in CAVD remains unclear.
+METHODS: RNAseq data of human diseased aortic valves were downloaded from GEO data sets (GSE153555, GSE199718), and differentially expressed lncRNAs (DElncRNAs), mRNAs (DEmRNAs) between CAVD and non-calcific aortic valve tissues with limma R package. Gene Ontology (GO) annotation, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway and Gene Set Enrichment analysis (GSEA) were performed with clusterProfiler and gesaplot2 R package. The pivotal microRNAs were predicted by three databases intersection including TargetScan, MiRwalk, miRDB according to the genes related to the crucial pathways. ENCORI was used to predict targeted lncRNAs of hub microRNAs. We constructed lncRNA-miRNA-mRNA ceRNA network with Cytoscape software. The lncRNAs in ceRNA network were verified by RT-qPCR in human 30 calcific and 20 noncalcified aortic valve tissues.
+RESULTS: In total, 1739 DEmRNAs and 266 DElncRNAs were identified in CAVD. GO, KEGG pathway, GSEA annotations suggested that most of these genes are enriched in extracellular matrix (ECM)-reporter interaction pathways. The ceRNA networks associated with ECM-reporter interaction are constructed and related lncRNAs including H19, SNHG3 and ZNF436-AS1 were significant upregulated in human calcific aortic valve tissues, which might be potential therapeutic targets for CAVD.
+CONCLUSIONS: In this study, we proposed a novel lncRNA-miRNA-mRNA ceRNA network related to ECM-reporter interaction pathways, which potentially regulates CAVD progression.
+
+Citation: Chen L, et al. Integrated Analysis of LncRNA-Mediated ceRNA Network in Calcific Aortic Valve Disease. Integrated Analysis of LncRNA-Mediated ceRNA Network in Calcific Aortic Valve Disease. 2022; 11:(unknown pages). doi: 10.3390/cells11142204
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35883646/

@@ -1,0 +1,11 @@
+PMID: 38065329
+Title: Impact of sex on Transcatheter aortic valve replacement outcomes: Results of a single-center study.
+
+Abstract: BACKGROUND: Early studies on transcatheter aortic valve replacement (TAVR) outcomes showed that female sex was associated with better survival. With increased use of new-generation valves, the impact of sex on contemporary TAVR outcomes is less well known.
+METHODS: Retrospective analysis using institutional National Cardiovascular Data Registry STS/ACC TVT data was performed on all patients undergoing TAVR at Yale New Haven Hospital from July 2012 to August 2019. New-generation valves were Evolut PRO, Evolut R, and SAPIEN 3. Old-generation valves were CoreValve, SAPIEN, and SAPIEN XT. Log-rank test and Kaplan-Meier curves were used to compare sex differences in survival up to 1 year after TAVR. Cox modeling was used to adjust for baseline and procedural characteristic differences.
+RESULTS: 927 consecutive patients (41.4% women) underwent TAVR. Women were older (82.8 vs 80.6 years old; p < 0.001) with higher STS mortality scores compared with men (7.6% vs 6.4%; p < 0.001) despite lower prevalence of cardiovascular comorbidities including coronary artery disease, peripheral artery disease, and smoking. Most cases used transfemoral access (90.5%) and new-generation devices (72.3%). Women received smaller valves compared with men (20-26 mm: 78.0% vs 32.9%; 29-34 mm: 22.1% vs 67.1%; overall p < 0.0001). There were no statistically significant differences between sexes in both unadjusted and adjusted 1-year mortality.
+CONCLUSION: Our data show no significant difference in 1-year survival between sexes using primarily new generation valves. Further studies should reassess the impact of sex on TAVR outcomes and whether newer technologies like new valve design and sizes, and CT imaging may have eliminated sex-based disparities.
+
+Citation: See C, et al. Impact of sex on Transcatheter aortic valve replacement outcomes: Results of a single-center study. Impact of sex on Transcatheter aortic valve replacement outcomes: Results of a single-center study. 2024; 398:131643. doi: 10.1016/j.ijcard.2023.131643
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38065329/

@@ -1,0 +1,11 @@
+PMID: 34852918
+Title: Predicting haemodynamic significance of coronary stenosis with radiomics-based pericoronary adipose tissue characteristics.
+
+Abstract: AIM: To investigate the diagnostic performance of the radiomics features of pericoronary adipose tissue (PCAT) in determining haemodynamically significant coronary artery stenosis as evaluated by fractional flow reserve (FFR).
+MATERIALS AND METHODS: A total of 92 patients with clinically suspected coronary artery disease who underwent coronary computed tomography (CT) angiography (CCTA), invasive coronary angiography (ICA), and FFR examination within 1 month were included retrospectively, and 121 lesions were randomly assigned to the training and testing set. Based on manual segmentation of PCAT, 1,116 radiomics features were computed. After radiomics robustness assessment and feature selection, radiomics models were established using the different machine-learning algorithms. The area under the receiver operating characteristic (ROC) curve (AUC) and net reclassification index (NRI) were analysed to compare the discrimination and reclassification abilities of radiomics models.
+RESULTS: Two radiomics features were selected after exclusions, and both were significantly higher in coronary arteries with FFR ≤0.8 than those with FFR >0.8. ROC analysis showed that the combination of CCTA and decision tree radiomics model achieved significantly higher diagnostic performance (AUC: 0.812) than CCTA alone (AUC: 0.599, p=0.015). Furthermore, the NRI of the combined model was 0.820 and 0.775 in the training and testing sets, respectively, suggesting the radiomics features of PCAT had were effective in classifying the haemodynamic significance of coronary stenosis.
+CONCLUSIONS: Adding PCAT radiomics features to CCTA enabled identification of haemodynamically significant coronary artery stenosis.
+
+Citation: Wen D, et al. Predicting haemodynamic significance of coronary stenosis with radiomics-based pericoronary adipose tissue characteristics. Predicting haemodynamic significance of coronary stenosis with radiomics-based pericoronary adipose tissue characteristics. 2022; 77:e154-e161. doi: 10.1016/j.crad.2021.10.019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34852918/

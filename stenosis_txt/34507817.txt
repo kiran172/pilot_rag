@@ -1,0 +1,11 @@
+PMID: 34507817
+Title: Micromechanical force promotes aortic valvular calcification.
+
+Abstract: OBJECTIVE: Calcified aortic valvular disease is known as an inflammation-related process related to force. The purpose of this study was to determine whether micromechanical force could induce valve calcification of porcine valvular interstitial cells and to examine the role of integrin αvβ3 in valvular calcification by using a novel method: magnetic twisting cytometry.
+METHODS: Porcine valvular interstitial cells were cultured in vitro, and micromechanical force was applied to porcine valvular interstitial cells using magnetic twisting cytometry. Changes in calcification-related factors osteopontin and RUNX2 were detected. By using the calcification medium, the optimal magnetic twisting cytometry parameters for inducing valvular interstitial cell calcification were determined, and a magnetic twisting cytometry calcification promotion model was established. The role of αvβ3 in calcification was studied by using αvβ3 antagonists to block the function of αvβ3.
+RESULTS: Reverse transcription polymerase chain reaction assays showed that the expression of osteopontin was enhanced 30 minutes after 25G-1Hz 5 minutes of stimulation. Western blotting assays showed that the expression of osteopontin and RUNX2 was upregulated 24 hours after 25G-1Hz 5 minutes of stimulation. The optimal magnetic twisting cytometry parameter for inducing porcine valvular interstitial cell calcification was 25G-2Hz for 10 minutes. The expression of osteopontin and RUNX2 decreased significantly after the addition of αvβ3 antagonist. Clinically, patients with bicuspid aortic valves had high expression of RUNX2 and β3 in the aortic valve, and β3 significantly correlated with RUNX2.
+CONCLUSIONS: By using magnetic twisting cytometry, we established a porcine valvular interstitial cell calcification model by micromechanical force stimulation and obtained the optimal parameters. Integrin αvβ3 plays a key role in the aortic valve calcification process.
+
+Citation: Jiang Y, et al. Micromechanical force promotes aortic valvular calcification. Micromechanical force promotes aortic valvular calcification. 2022; 164:e313-e329. doi: 10.1016/j.jtcvs.2021.08.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34507817/

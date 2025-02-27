@@ -1,0 +1,11 @@
+PMID: 32399896
+Title: Predictors for low TAVI-prosthesis position assessed by fusion imaging of pre- and post-procedural CT angiography.
+
+Abstract: BACKGROUND: Low prosthesis position after transcatheter aortic valve implantation (TAVI) is associated with higher rates of new onset conduction disturbances and permanent pacemaker implantations. Purpose of this study was to investigate possible predictors of a low prosthesis position of the SAPIEN 3 (Edwards Lifesciences, Irvine, California, USA) valve type using fusion imaging of pre- and post-procedural computed tomography angiography (CTA).
+METHODS: CTA fusion imaging was performed in 120 TAVI-patients with 3D-reconstruction of the transcatheter heart valve (THV) position within the device landing zone. A low implantation position was defined according to the manufacturer's recommendations as > 30% of the prosthesis below the native annulus plane.
+RESULTS: A low THV position was found in 17 patients (14%). Patients with low THV position had less calcification of the annulus region and a smaller annulus size compared to patients with a normal or high THV position (P = 0.003 and 0.041, respectively). The only independent predictor of a low THV position in multivariate logistic regression analysis was the extent of calcification of the cusp region (odds ratio [CI] 0.842 [0.727-0.976], P = 0.022).
+CONCLUSIONS: Fusion imaging of pre-and post-procedural CTA identified reduced calcification of the cusp region as an independent predictor of a low THV position of the SAPIEN 3. This should be considered when planning the TAVI procedure. Correlation of cusp region calcification and prosthesis position after TAVI.
+
+Citation: Breitbart P, et al. Predictors for low TAVI-prosthesis position assessed by fusion imaging of pre- and post-procedural CT angiography. Predictors for low TAVI-prosthesis position assessed by fusion imaging of pre- and post-procedural CT angiography. 2021; 110:93-101. doi: 10.1007/s00392-020-01654-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32399896/

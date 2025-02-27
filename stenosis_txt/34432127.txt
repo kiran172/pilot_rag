@@ -1,0 +1,11 @@
+PMID: 34432127
+Title: Hemodynamics and remodeling of the portal confluence in patients with malignancies of the pancreatic head: a pilot study towards planned and circumferential vein resections.
+
+Abstract: BACKGROUND: We designed a retrospective computational study to evaluate the effects of hemodynamics on portal confluence remodeling in real models of patients with malignancies of the pancreatic head.
+METHODS: Patient-specific models were created according to computed tomography data. Fluid dynamics was simulated by using finite-element methods. Computational results were compared to morphological findings.
+RESULTS: Five patients underwent total pancreatectomy, one had duodenopancreatectomy. Vein resection was performed en-bloc with the specimen. Histopathological findings showed that in patients without a vein stenosis and a normal hemodynamics, the three-layered wall of the vein was preserved. In patients with a stenosis > 70% of vein diameter and modified hemodynamics, the three-layered structure of the resected vein was replaced by a dense inflammatory infiltrate in absence of tumor infiltration.
+CONCLUSIONS: The portal confluence involved by malignancies of the pancreatic head undergoes a remodeling that is not mainly due to a wall infiltration by the tumor but instead to a persistent pathological hemodynamics that disrupts the balance between eutrophic remodeling and degradative process of the vein wall that can lead to the complete upheaval of the three-layered vein wall. This finding can have useful surgical application in planning resection of the vein involved by tumor growth.
+
+Citation: Tuveri M, et al. Hemodynamics and remodeling of the portal confluence in patients with malignancies of the pancreatic head: a pilot study towards planned and circumferential vein resections. Hemodynamics and remodeling of the portal confluence in patients with malignancies of the pancreatic head: a pilot study towards planned and circumferential vein resections. 2022; 407:143-152. doi: 10.1007/s00423-021-02309-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34432127/

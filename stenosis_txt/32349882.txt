@@ -1,0 +1,11 @@
+PMID: 32349882
+Title: Inequity in Access to Transcatheter Aortic Valve Replacement: A Pan-Canadian Evaluation of Wait-Times.
+
+Abstract: BACKGROUND: There has been an exponential increase in the demand for transcatheter aortic valve replacement (TAVR). Our goal was to examine trends in TAVR capacity and wait-times across Canada.
+METHODS: All TAVR cases were identified from April 1, 2014, to March 31, 2017. Wait-time was defined as the duration in days from the initial referral to the TAVR procedure. TAVR capacity was defined as the number of TAVR procedures per million population/province/fiscal year. We performed multivariable multilevel Cox proportional hazards modelling of the time to TAVR as the dependant variable and the effect of provinces as random effects. We quantified the variation in wait-times among provinces using the median hazard ratio.
+RESULTS: We identified a total of 4906 TAVR procedures across 9 provinces. Despite a year over year increase in overall capacity, there was a greater than 3-fold difference in capacity between provinces. Crude median wait-times increased over time in all provinces, with marked variation from 71.5 days in Newfoundland to 190.5 and 203 days in Manitoba and Alberta, respectively. This suggests increasing demand outpaced the growth in capacity. We found a median hazard ratio of 1.62, indicating that in half of the possible pairwise comparisons, the time to TAVR for identical patients was at least 62% longer between different provinces.
+CONCLUSION: We found substantial geographic inequity in TAVR access. This calls for policy makers, clinicians, and administrators across Canada to address this inequity through revaluation of provincial funding mechanisms, as well as implementation of efficient care pathways.
+
+Citation: Wijeysundera HC, et al. Inequity in Access to Transcatheter Aortic Valve Replacement: A Pan-Canadian Evaluation of Wait-Times. Inequity in Access to Transcatheter Aortic Valve Replacement: A Pan-Canadian Evaluation of Wait-Times. 2020; 36:844-851. doi: 10.1016/j.cjca.2019.10.018
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32349882/

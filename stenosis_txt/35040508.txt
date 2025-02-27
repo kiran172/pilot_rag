@@ -1,0 +1,11 @@
+PMID: 35040508
+Title: Left heart hypoplasia in the fetus: Echocardiographic predictors of outcome.
+
+Abstract: INTRODUCTION: Fetal left heart hypoplasia (LHH) with an apex-forming left ventricle may require neonatal intervention but it is difficult to predict.
+METHODS: We performed a retrospective study of fetuses with LHH defined as normal segmental anatomy, apex-/near-apex forming left ventricle, and ≥1 left-sided z-score ≤ -2 between 1997 and 2014. Fetuses with mitral or aortic atresia, critical aortic stenosis, extracardiac anomalies, or fetal intervention were excluded. Classification and regression tree analyses (CART) were performed to construct algorithms to predict postnatal circulation: no surgery versus biventricular surgery versus single ventricle (SV) palliation.
+RESULTS: Among 138 included fetuses, 52 (37%) underwent neonatal surgery, with 10 (7%) undergoing SV palliation. The strongest single outcome discriminator was exclusively left-to-right flow foramen ovale (FO) flow ≥32 weeks gestational age (GA) (seen in 0% with no surgery, 22% with biventricular surgery, 88% with SV palliation). On CART analysis >32 weeks GA, fetuses with right-to-left FO flow and aortopulmonary ratio >0.76 had 0% probability of neonatal surgery, while those with left-to-right FO flow and mitral valve z-score < -3.6 had a 70% probability of SV palliation.
+CONCLUSION: SV palliation is an uncommon outcome of fetal LHH. Fetal FO flow and other echocardiographic measures can help determine risk and type of postnatal intervention.
+
+Citation: Colquitt JL, et al. Left heart hypoplasia in the fetus: Echocardiographic predictors of outcome. Left heart hypoplasia in the fetus: Echocardiographic predictors of outcome. 2022; 42:447-460. doi: 10.1002/pd.6101
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35040508/

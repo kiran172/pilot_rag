@@ -1,0 +1,11 @@
+PMID: 35124106
+Title: Incidence, clinical impact and predictors of thrombocytopenia after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Thrombocytopenia is a common, yet poorly understood, complication after transcatheter aortic valve replacement (TAVR). Balloon-expandable transcatheter heart valve has been associated with higher incidence of thrombocytopenia, compared with self-expandable valves. The aim of this study was to analyze the incidence, clinical impact and predictors of acquired thrombocytopenia in patients undergoing TAVR.
+METHODS: We performed an observational study from consecutive patients with severe aortic stenosis undergoing TAVR (n = 679) in a single center. Association and best cut-off point of platelet decrease with early mortality was analyzed. Patients were classified according to postprocedural percentage decrease in platelet count (PDPC), comparing clinical outcomes and analyzing predictors of platelet decrease.
+RESULTS: The median PDPC was 37.1 [IQR: 27.4-46.9]. PDPC was associated with early mortality (OR: 2.1, 95%IC: 1.7-2.5 for each 10% decrease, AUC:0.81, 95%CI:0.72-0.89) with an optimal cut-off point of 46%. PDPC≥46% and late nadir (≥4 days) were both independent predictors of early mortality (OR: 6.0 [IQR: 2.4-14.9] and OR: 5.1 [IQR: 2.2-11.6], respectively). The combination of both factors (PDPC≥46% and nadir ≥4 day) was associated with higher 2-year mortality (55.7%) compared to an early significant nadir (PDPC≥46% and nadir <4 day, 28.9%) and non-significant nadir (PDPC<46%, 21.0%), p < 0.001. Independent predictors of PDPC≥46% were baseline platelet count, Portico™, Abbott valve, intraprocedural major vascular complication and residual aortic regurgitation ≥grade 2.
+CONCLUSION: The platelet count decreased almost 40% after TAVR. Late nadir and PDPC≥46% predicted short-term clinical outcomes. Concomitant late and significant platelet decrease was associated with mid-term mortality.
+
+Citation: Tirado-Conte G, et al. Incidence, clinical impact and predictors of thrombocytopenia after transcatheter aortic valve replacement. Incidence, clinical impact and predictors of thrombocytopenia after transcatheter aortic valve replacement. 2022; 352:21-26. doi: 10.1016/j.ijcard.2022.01.072
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35124106/

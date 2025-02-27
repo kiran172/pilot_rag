@@ -1,0 +1,12 @@
+PMID: 37722950
+Title: Vomiting, Pyloric Mass, and Point-of-Care Ultrasound: Diagnostic Test Accuracy for Hypertrophic Pyloric Stenosis-A Meta-Analysis.
+
+Abstract: BACKGROUND: Hypertrophic pyloric stenosis is a common cause of nonbilious vomiting in infants younger than 6 months. Its history, physical examination, and point-of-care ultrasound (POCUS) have not been compared for their diagnostic test accuracy.
+OBJECTIVE: The aim of this systematic review was to quantify and compare the diagnostic test accuracy of a history of vomiting, a pyloric mass on palpation, and POCUS.
+METHODS: We performed three searches of the literature from 1977 to March 2022. We evaluated bias using the QUADAS-2 (Quality Assessment Tool for Diagnostic Accuracy-2) tool. We performed a bivariate analysis.
+RESULTS: From 5369 citations, we identified 14 studies meeting our inclusion criteria. We quantified three diagnostic elements: POCUS, a pyloric mass on palpation, and vomiting. We identified five studies that analyzed POCUS, which included 329 patients. POCUS had a sensitivity of 97.7% (95% confidence interval (CI) 93.1-99.3%) and a specificity of 94.1% (95% CI 88.7-97.1%) for detecting pyloric stenosis. We identified six studies that analyzed the presence of a pyloric mass, which included 628 patients. The palpation of a pyloric mass had a sensitivity of 73.5% (95% CI 62.6-82.1%) and a specificity of 97.5% (95% CI 93.8-99.0%). We identified four studies that analyzed vomiting, which included 355 patients. Vomiting had a sensitivity of 91.3% (95% CI 82.1-96.0) and a specificity of 60.8% (95% CI 8.5-96.3). Both POCUS and palpation of a pyloric mass had a high positive likelihood ratio (LR+: 17 and 33, respectively). The LR+ for vomiting was 5.0.
+CONCLUSIONS: Both POCUS and palpable mass had high specificity and positive LR, whereas vomiting provided the lowest diagnostic test measures.
+
+Citation: Hom J, et al. Vomiting, Pyloric Mass, and Point-of-Care Ultrasound: Diagnostic Test Accuracy for Hypertrophic Pyloric Stenosis-A Meta-Analysis. Vomiting, Pyloric Mass, and Point-of-Care Ultrasound: Diagnostic Test Accuracy for Hypertrophic Pyloric Stenosis-A Meta-Analysis. 2023; 65:e427-e431. doi: 10.1016/j.jemermed.2023.06.001
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37722950/

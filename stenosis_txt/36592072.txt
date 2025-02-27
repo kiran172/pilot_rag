@@ -1,0 +1,11 @@
+PMID: 36592072
+Title: Proposed Risk Score in Patients with Aortic Stenosis Submitted to Valve Replacement Surgery.
+
+Abstract: INTRODUCTION: Due to Brazilian population aging, prevalence of aortic stenosis, and limited number of scores in literature, it is essential to develop risk scores adapted to our reality and created in the specific context of this disease.
+METHODS: This is an observational historical cohort study with analysis of 802 aortic stenosis patients who underwent valve replacement at Hospital São Lucas, Pontifícia Universidade Católica do Rio Grande do Sul, from 1996 to 2018. With the aid of logistic regression, a weighted risk score was constructed based on the magnitude of the coeficients β of the logistic equation. Two performance statistics were obtained: area under the receiver operating characteristic curve and the chi-square (χ2) of Hosmer-Lemeshow goodness-of-fit with Pearson's correlation coeficient between the observed events and predicted as a model calibration estimate.
+RESULTS: The risk predictors that composed the score were valve replacement surgery combined with coronary artery bypass grafting, prior renal failure, New York Heart Association class III/IV heart failure, age > 70 years, and ejection fraction < 50%. The receiver operating characteristic curve area was 0.77 (95% confidence interval: 0.72-0.82); regarding the model calibration estimated between observed/predicted mortality, Hosmer-Lemeshow test χ2 = 3,70 (P=0.594) and Pearson's coeficient r = 0.98 (P<0.001).
+CONCLUSION: We propose the creation of a simple score, adapted to the Brazilian reality, with good performance and which can be validated in other institutions.
+
+Citation: Gasperi R, et al. Proposed Risk Score in Patients with Aortic Stenosis Submitted to Valve Replacement Surgery. Proposed Risk Score in Patients with Aortic Stenosis Submitted to Valve Replacement Surgery. 2023; 38:219-226. doi: 10.21470/1678-9741-2022-0254
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36592072/

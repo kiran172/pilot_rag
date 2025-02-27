@@ -1,0 +1,11 @@
+PMID: 35777500
+Title: Impact of Aortic Root Enlargement on Patients Undergoing Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Aortic root enlargement (ARE) can be an important adjunct for aortic valve replacement (AVR). This study compared outcomes of AVR with or without ARE.
+METHODS: This was an observational study using an institutional database of AVRs from 2010 to 2020 comparing patients who underwent isolated AVR vs AVR with ARE (AVR+ARE). Kaplan-Meier survival estimation and Cox regression were performed.
+RESULTS: Of 2371 patients, 2240 (94.5%) underwent isolated AVR and 131 (5.5%) underwent AVR+ARE. Patients who underwent AVR+ARE were more likely to be women and to be younger than those who underwent isolated AVR. Prosthesis size was smaller in patients undergoing AVR+ARE (23 mm [interquartile range {IQR}, 21-25] vs 25 mm [IQR, 23-25], P < .001), but indexed effective orifice area did not differ between the 2 groups. Operative mortality was comparable for AVR (2.3%) and AVR+ARE (3.8%, P = .28). Patients who underwent AVR+ARE had a longer length of stay (7 days [IQR, 6-13] vs 6 days [IQR 5-10], P < .001), were more likely to have acute kidney injury (6.1% vs 2.5%, P = .01), were more likely to require blood product transfusions (40.5% vs 27.6%, P < .001), and were more likely to require prolonged ventilation > 24 hours (16.0% vs 6.8%, P < .001). Rates of stroke, atrial fibrillation, permanent pacemaker, and reoperation were comparable between groups. Kaplan-Meier survival estimates were similar, and on multivariable regression AVR+ARE was not associated with an increased hazard of death as compared with AVR (hazard ratio, 1.09; 95% confidence interval, 0.81-1.46; P = .59).
+CONCLUSIONS: ARE can be safely performed with isolated AVR and should be considered for patients with small annuli to avoid prosthesis-patient mismatch.
+
+Citation: Yousef S, et al. Impact of Aortic Root Enlargement on Patients Undergoing Aortic Valve Replacement. Impact of Aortic Root Enlargement on Patients Undergoing Aortic Valve Replacement. 2023; 115:396-402. doi: 10.1016/j.athoracsur.2022.05.052
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35777500/

@@ -1,0 +1,8 @@
+PMID: 35062109
+Title: A-Test Method for Quantifying Structural Risk and Learning Capacity of Supervised Machine Learning Methods.
+
+Abstract: This paper presents an original method for studying the performance of the supervised Machine Learning (ML) methods, the A-Test method. The method offers the possibility of investigating the structural risk as well as the learning capacity of ML methods in a quantitating manner. A-Test provides a powerful validation method for the learning methods with small or medium size of the learning data, where overfitting is regarded as a common problem of learning. Such a condition can occur in many applications of bioinformatics and biomedical engineering in which access to a large dataset is a challengeable task. Performance of the A-Test method is explored by validation of two ML methods, using real datasets of heart sound signals. The datasets comprise of children cases with a normal heart condition as well as 4 pathological cases: aortic stenosis, ventricular septal defect, mitral regurgitation, and pulmonary stenosis. It is observed that the A-Test method provides further comprehensive and more realistic information about the performance of the classification methods as compared to the existing alternatives, the K-fold validation and repeated random sub-sampling.
+
+Citation: Gharehbaghi A and Babic A. A-Test Method for Quantifying Structural Risk and Learning Capacity of Supervised Machine Learning Methods. A-Test Method for Quantifying Structural Risk and Learning Capacity of Supervised Machine Learning Methods. 2022; 289:132-135. doi: 10.3233/SHTI210876
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35062109/

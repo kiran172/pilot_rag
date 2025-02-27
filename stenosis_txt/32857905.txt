@@ -1,0 +1,12 @@
+PMID: 32857905
+Title: Predicting need for pacemaker implantation early and late after transcatheter aortic valve implantation.
+
+Abstract: OBJECTIVES: To identify associations with either early or late permanent pacemaker (PPM) implantation after transcatheter aortic valve replacement (TAVR) in order to develop an easily interpretable management algorithm.
+BACKGROUND: Injury to the conduction system after TAVR occasionally requires PPM. There is limited data on how to identify which patients will require PPM, particularly after discharge from index hospitalization after TAVR.
+METHODS: All patients having undergone TAVR at the University of North Carolina through August 2019 were identified and records were manually reviewed. Multivariable analyses were performed to identify associations with post-TAVR PPM due to high-degree atrioventricular block (HAVB). Comparisons were made between patients with no PPM (n = 304) and PPM required, stratified into early (during index hospitalization, n = 32) and late (during subsequent hospitalization, n = 11) PPM cohorts.
+RESULTS: Of the 347 patents included for analysis, 43 (12.4%) underwent post-TAVR PPM. In multivariable regression models, early PPM was associated with baseline bifascicular block (OR: 42.16; p < .001), requiring any pacing on first post-TAVR electrocardiogram (ECG) (OR: 31.55; p < .001), and valve oversizing >15% (OR: 3.61; p < .05). Late PPM was associated with baseline right bundle branch block (RBBB) (OR 12.62; p < .001) and history of atrial fibrillation/flutter (OR 4.83; p < .05).
+CONCLUSIONS: Bifascicular block, any pacing on first post-TAVR ECG, and >15% valve oversizing are associated with early PPM, while RBBB and history of atrial fibrillation/flutter are associated with late PPM. We suggest a management strategy for post-TAVR surveillance and management of HAVB.
+
+Citation: Mazzella AJ, et al. Predicting need for pacemaker implantation early and late after transcatheter aortic valve implantation. Predicting need for pacemaker implantation early and late after transcatheter aortic valve implantation. 2021; 97:E588-E596. doi: 10.1002/ccd.29239
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32857905/

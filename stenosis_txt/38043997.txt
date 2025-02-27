@@ -1,0 +1,11 @@
+PMID: 38043997
+Title: Benefit of Anticoagulation Early After Surgical Aortic Valve Replacement Using Bioprosthetic Valves.
+
+Abstract: OBJECTIVE: To compare all-cause mortality and thromboembolic events in patients undergoing surgical aortic valve replacement (sAVR) receiving anticoagulation with warfarin versus patients with no systemic anticoagulation.
+PATIENTS AND METHODS: Using data from the OptumLabs Data Warehouse, we investigated adult patients having bioprosthetic sAVR with or without coronary artery bypass from January 1, 2007, through December 31, 2019. Patients were classified into groups of nonwarfarin or warfarin (≥30 days of continuous prescription coverage after sAVR). One-to-one propensity score (PS) matching was used to adjust for group differences.
+RESULTS: Of 10,589 patients having sAVR, 7659 (72.3%) were in the nonwarfarin group and 2930 (27.7%) were in the warfarin group. After PS matching, 2930 pairs of patients were analyzed. Median follow-up was 4.1 months (interquartile range [IQR], 2.6-7.4 months) for the warfarin group and 21.3 months (IQR, 7.8-24.0 months) for the nonwarfarin group. Overall mortality was lower for the warfarin group than for the nonwarfarin group (hazard ratio [HR], 0.68; 95% confidence interval [CI], 0.47 to 1.00; P=.047), and there was a trend toward decreased cumulative incidence of thromboembolic events (subdistribution HR [SHR], 0.62; 95% CI, 0.35 to 1.07; P=.09). Cumulative incidence of major bleeding events was higher for the warfarin group vs the nonwarfarin group (SHR, 1.94; 95% CI, 1.28 to 2.94; P=.002). Results were similar in a subgroup analysis of patients undergoing isolated sAVR.
+CONCLUSION: During the prescription coverage period, warfarin use after bioprosthetic sAVR was associated with lower all-cause mortality and decreased risk of thromboembolism compared with not receiving warfarin. However, warfarin use was associated with an increased risk of major bleeding events.
+
+Citation: Huang Y, et al. Benefit of Anticoagulation Early After Surgical Aortic Valve Replacement Using Bioprosthetic Valves. Benefit of Anticoagulation Early After Surgical Aortic Valve Replacement Using Bioprosthetic Valves. 2023; 98:1797-1808. doi: 10.1016/j.mayocp.2023.08.012
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38043997/

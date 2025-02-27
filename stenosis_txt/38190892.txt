@@ -1,0 +1,13 @@
+PMID: 38190892
+Title: Full-endoscopic versus microscopic spinal decompression for lumbar spinal stenosis: a systematic review & meta-analysis.
+
+Abstract: BACKGROUND CONTEXT: Symptomatic lumbar spinal stenosis is routinely treated with spinal decompression surgery, with an increasing trend towards minimally invasive techniques. Endoscopic decompression has emerged as a technique which minimizes approach-related morbidity while achieving similar clinical outcomes to conventional open or microscopic approaches.
+PURPOSE: To assess the safety and efficacy of endoscopic versus microscopic decompression for treatment of lumbar spinal stenosis.
+STUDY DESIGN: Systematic review and meta-analysis.
+METHODS: A systematic review on randomized and nonrandomized studies comparing endoscopic versus microscopic decompression was conducted, in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Treatment effects were computed using pairwise random-effects meta-analysis. Risk of bias was assessed using the Cochrane Risk-of-bias and ROBINS-I tools for randomized and nonrandomized trials respectively. Quality of the overall body of evidence was appraised using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system.
+RESULTS: A total of 19 primary references comprising 1,997 patients and 2,132 spinal levels were included. Endoscopic decompression was associated with significantly reduced intraoperative blood-loss (weighted mean differences [WMD]=-33.29 mL, 95% CI:-51.80 to -14.78, p=.0032), shorter duration of hospital stay (WMD=-1.79 days, 95% CI: -2.63 to 0.95, p=.001), rates of incidental durotomy (RR = 0.63, 95% CI: 0.43 to 0.91, p=.0184) and surgical site infections (RR=0.23, 95% CI: 0.10 to-0.51, p=.001), and a nonsignificant trend towards less back pain, leg pain, and better functional outcomes compared to its microscopic counterpart up to 2-year follow up.
+CONCLUSIONS: Endoscopic and microscopic decompression are safe and effective techniques for treatment of symptomatic lumbar spinal stenosis. Prospective studies of larger power considering medium to long-term outcomes and rates of iatrogenic instability are warranted to compare potential alignment changes and destabilization from either techniques.
+
+Citation: Chin BZ, et al. Full-endoscopic versus microscopic spinal decompression for lumbar spinal stenosis: a systematic review & meta-analysis. Full-endoscopic versus microscopic spinal decompression for lumbar spinal stenosis: a systematic review & meta-analysis. 2024; 24:1022-1033. doi: 10.1016/j.spinee.2023.12.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38190892/

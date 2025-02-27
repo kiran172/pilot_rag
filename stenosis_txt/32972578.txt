@@ -1,0 +1,12 @@
+PMID: 32972578
+Title: Ischemic Stroke With Cerebral Protection System During Transcatheter Aortic Valve Replacement.
+
+Abstract: OBJECTIVES: The objective of this study was to evaluate in-hospital outcomes with use of the Sentinel cerebral protection system (CPS) in transcatheter aortic valve replacement (TAVR).
+BACKGROUND: The role of the Sentinel CPS in preventing clinical ischemic stroke has been controversial.
+METHODS: The Nationwide Inpatient Sample database from the last three quarters of 2017, after the approval of the Sentinel CPS device, was queried to identify hospitalizations for TAVR. A 1:2 propensity score-matched analysis to compare in-hospital outcomes with versus without use of the CPS. The primary outcome was the occurrence of ischemic strokes.
+RESULTS: A total of 36,220 weighted discharges of patients who underwent TAVR (525 with the CPS and 35,695 without) were identified. The overall percentages of ischemic and hemorrhagic strokes were 2.4% and 0.2%, respectively. After propensity score matching (525 CPS, 1,050 no CPS), the risk for ischemic stroke was lower with use of the CPS (1 % vs. 3.8%, odd ratio [OR]: 0.243 (95% confidence interval: 0.095 to 0.619); p = 0.003). The cost of the index hospitalization was higher with use of the CPS ($47,783 vs. $44,578; p = 0.002). In multivariate regression analysis, use of the CPS was independently associated with a lower risk for ischemic stroke (OR: 0.380; 95% confidence interval: 0.157 to 0.992; p = 0.032).
+CONCLUSIONS: Use of the Sentinel CPS in patients undergoing TAVR is associated with a lower incidence of ischemic stroke and in-hospital mortality, without an increased risk for procedural complications but with an increased cost of the index hospitalization.
+
+Citation: Megaly M, et al. Ischemic Stroke With Cerebral Protection System During Transcatheter Aortic Valve Replacement. Ischemic Stroke With Cerebral Protection System During Transcatheter Aortic Valve Replacement. 2020; 13:2149-2155. doi: 10.1016/j.jcin.2020.05.039
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32972578/

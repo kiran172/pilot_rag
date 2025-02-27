@@ -1,0 +1,11 @@
+PMID: 38570109
+Title: Atrial Fibrillation Management During Surgical vs Transcatheter Aortic Valve Replacement.
+
+Abstract: BACKGROUND: Societal guidelines support atrial fibrillation (AF) treatment during surgical aortic valve replacement (SAVR). Recently, many patients with AF at low to intermediate risk are managed by transcatheter aortic valve replacement (TAVR). Therefore, we evaluated longitudinal outcomes in these populations.
+METHODS: The United States Centers for Medicare and Medicaid Services inpatient claims database was evaluated for all beneficiaries with AF undergoing TAVR or SAVR with/without AF treatment (2018-2020). Treatment of AF included concomitant left atrial appendage obliteration, with/without surgical ablation, or endovascular appendage occlusion and/or catheter ablation at any time. Diagnosis-related group and International Classification of Diseases, 10th Revision, codes defined procedures with doubly robust risk adjustment across each group.
+RESULTS: A total of 24,902 patients were evaluated (17,453 TAVR; 7,449 SAVR). Of patients undergoing SAVR, 3176 (42.6%) underwent AF treatment (SAVR+AF). Only 656 TAVR patients (4.5%) received AF treatment. Comparing well-balanced SAVR+AF vs SAVR vs TAVR, there were no differences in the in-hospital incidence of renal failure, bleeding, or stroke, but increased pacemaker requirement (odds ratio [OR], 3.45; P < .0001) and vascular injury (OR, 9.09; P < .0001) were noted in TAVR and higher hospital mortality (OR, 4.02; P < .0001) in SAVR+AF. SAVR+AF was associated with lower readmission for stroke compared with SAVR alone (hazard ratio [HR], 0.87; P = .029) and TAVR (HR, 0.68; P < .0001) and with improved survival vs TAVR (HR, 0.79; P = .019).
+CONCLUSIONS: In Medicare beneficiaries with AF requiring aortic valve replacement, SAVR+AF was associated with improved longitudinal survival and freedom from stroke compared with TAVR. SAVR+AF treatment should be considered first-line therapy for patients with AF requiring aortic valve replacement.
+
+Citation: Mehaffey JH, et al. Atrial Fibrillation Management During Surgical vs Transcatheter Aortic Valve Replacement. Atrial Fibrillation Management During Surgical vs Transcatheter Aortic Valve Replacement. 2024; 118:421-428. doi: 10.1016/j.athoracsur.2024.03.020
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38570109/

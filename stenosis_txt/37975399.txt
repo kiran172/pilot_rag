@@ -1,0 +1,11 @@
+PMID: 37975399
+Title: Global longitudinal strain for prediction of mortality in ST-segment elevation myocardial infarction and aortic stenosis patients: two sides of the same coin.
+
+Abstract: OBJECTIVE: Global longitudinal strain (GLS) predicts major adverse events in ST-segment elevation myocardial infarction (STEMI) and aortic stenosis (AS). Different cut-off values and different end-points have been proposed for prognostic stratification. We aimed to verify whether a single GLS cut-off value can be used to identify increased risk of all-cause death in STEMI and AS.
+PATIENTS AND METHODS: One-hundred- seventeen successfully treated first STEMI (age 63.8±12.5 yrs, 70% men) and 64 AS (age 80.3±6.9 yrs, 44% men) patients, undergoing echocardiography before discharge and before AS treatment, respectively, were retrospectively analyzed. GLS was analyzed, together with pulmonary artery systolic pressure (PASP), Killip class and Genereux stage. End-point was all-cause death at 6-month follow-up.
+RESULTS: All-cause death occurred in 4 (3.4%) STEMI and 5 (7.8%) AS patients (p=ns). AS patients who died had GLS similar to died STEMI patients (9.7±2.1 vs. 11.3±1.7, p=ns). GLS cut-off ≤12% predicted death with 89% sensitivity and 70% specificity (AUC 0.84, p=0.001): STEMI and AS patients with GLS ≤12% had worse survival than STEMI and AS patients with GLS >12% (log-rank p=0.001). At multivariate Cox regression analysis, lower GLS values independently predicted death (HR 0.667, 95% CI 0.451-0.986, p=0.042), and the prediction model was improved when GLS was added to old age, significant comorbidities, PASP and Killip/Genereux stage (χ2 6.691 vs. 1.364, p=0.010).
+CONCLUSIONS: Died patients with STEMI and AS show similar values of GLS. A unique cut-off value of GLS can reliably be used to stratify the risk of all-cause death at 6-month follow-up in both two clinical settings.
+
+Citation: Ravenna E, et al. Global longitudinal strain for prediction of mortality in ST-segment elevation myocardial infarction and aortic stenosis patients: two sides of the same coin. Global longitudinal strain for prediction of mortality in ST-segment elevation myocardial infarction and aortic stenosis patients: two sides of the same coin. 2023; 27:10736-10748. doi: 10.26355/eurrev_202311_34354
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37975399/

@@ -1,0 +1,12 @@
+PMID: 38939027
+Title: Trends and Outcomes of TAVI and SAVR in Cancer and Noncancer Patients: A Nationwide Analysis.
+
+Abstract: BACKGROUND: Patients with severe aortic stenosis and cancer are often denied surgical aortic valve replacement (SAVR) due to a prohibitive risk of perioperative mortality.
+OBJECTIVES: The purpose of this study was to determine the safety of transcatheter aortic valve implantation (TAVI) in patients with severe aortic stenosis and cancer.
+METHODS: The Nationwide Inpatient Sample database (2002-2018) was used to study the outcomes of TAVI vs SAVR in patients with active or prior history of prostate, lung, colorectal, breast, and renal cancer. A propensity score-matched analysis to calculate adjusted odds ratios (aORs) for major adverse cardiovascular events (MACEs) and its components.
+RESULTS: A total of 1,505,995 crude population and a subset of 345,413 noncancer and 33,565 cancer patients were selected on propensity score-matched analysis. The yearly trend showed a steep increase in the utilization of TAVI. Compared with SAVR, TAVI had a lower risk of in-hospital mortality in prostate cancer, while there was no difference among other cancer types. Patients with lung (aOR: 0.65; 95% CI: 0.43-0.97) and prostate cancer (aOR: 0.79; 95% CI: 0.66-0.96) had lower, while colorectal cancer (aOR: 1.43; 95% CI: 1.08-1.90) had higher odds of MACE with TAVI. The incidence of major bleeding was lower with TAVI (except for lung cancer), while the risk of stroke was similar (except for colorectal cancer) between TAVI and SAVR.
+CONCLUSIONS: TAVI in patients with prostate, breast, lung, and renal cancer appears to be a reasonable alternative to SAVR with lower or similar risks of mortality and MACE.
+
+Citation: Ullah W, et al. Trends and Outcomes of TAVI and SAVR in Cancer and Noncancer Patients: A Nationwide Analysis. Trends and Outcomes of TAVI and SAVR in Cancer and Noncancer Patients: A Nationwide Analysis. 2023; 2:100167. doi: 10.1016/j.jacadv.2022.100167
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38939027/

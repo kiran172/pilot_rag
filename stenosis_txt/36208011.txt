@@ -1,0 +1,12 @@
+PMID: 36208011
+Title: Heliox simulations for initial management of congenital laryngotracheal stenosis.
+
+Abstract: OBJECTIVES: Congenital laryngotracheal stenosis is rare, potentially severe, and difficult to manage. Heliox is a medical gas effective in obstructive airway pathologies, given its physical properties. This study aims to model the interest of Heliox in reducing the respiratory work in congenital laryngotracheal stenosis, using numerical fluid flow simulations, before considering its clinical use.
+DESIGN: This is a retrospective study, performing Computational Fluid Dynamics numerical simulations of the resistances to airflow and three types of Heliox, on 3D reconstructions from CT scans of children presenting with laryngotracheal stenosis.
+PATIENTS: Infants and children who were managed in the Pediatric ENT department of a tertiary-care center and underwent CT scanning for laryngotracheal stenosis between 2008 and 2018 were included.
+RESULTS: Fourteen models of congenital laryngotracheal stenosis were performed in children aged from 16 days to 5 years, and one model of the normal trachea in a 5-year-old child. Tightest stenosis obtained the highest airway resistances, ranging from 40 to 10 kPa/L/s (up to 800 times higher than in the normal case). Heliox enabled a decrease in pressure drops and airway resistances in all stenosis cases, correlated to increasing Helium concentration.
+CONCLUSIONS: Heliox appears to reduce pressure drops and airway resistances in 3D models of laryngotracheal stenosis. It may represent a supportive treatment for laryngotracheal stenosis, while waiting for specialized care, thanks to the reduction of respiratory work.
+
+Citation: Del Puppo M, et al. Heliox simulations for initial management of congenital laryngotracheal stenosis. Heliox simulations for initial management of congenital laryngotracheal stenosis. 2023; 58:230-238. doi: 10.1002/ppul.26189
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36208011/

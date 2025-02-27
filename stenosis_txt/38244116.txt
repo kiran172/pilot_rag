@@ -1,0 +1,11 @@
+PMID: 38244116
+Title: Analysis of risk factors for stenosis after laparoscopic pyeloplasty in the treatment of ureteropelvic junction obstruction.
+
+Abstract: BACKGROUND: Laparoscopic ureteroplasty is an effective method for managing ureteropelvic junction obstruction. Despite its high success rate, there remains a subset of patients who do not experience improvement in the hydrops.
+METHODS: The study retrospectively analyzed the data of 143 patients with ureteropelvic junction obstruction (UPJO) who underwent laparoscopic pyeloplasty (LP) in our hospital from January 2015 to May 2022. Logistic regression was used to analyze the risk factors of recurrence stenosis after UPJO.
+RESULTS: Out of these patients, 119 had complete clinical data and follow-up records. Among these patients, restenosis occurred in nine cases after the operation. There was a significant statistical difference in blood loss (P < 0.05). Univariate and multivariate logistic regression analysis revealed that the preoperative separation degree of the renal pelvis, cystatin C, and intraoperative blood loss were potential risk factors for recurrent stenosis after primary LP. When divided by split renal function (SRF), the odds ratio (OR) was 7.850 (P = 0.044), indicating that it was an independent risk factor for postoperative restenosis. Similarly, the OR for stenotic segment length was 0.025 (P = 0.011), also indicating it as an independent risk factor for restenosis. The areas under the receiver operating characteristic curve for stenotic segment length and SRF were 0.9056 and 0.7697, respectively.
+CONCLUSION: In our study, we identified that preoperative renal pelvis separation, cystatin C, and intraoperative blood loss were potential risk factors for postoperative restenosis. SRF and stenosis segment length were independent risk factors for postoperative restenosis.
+
+Citation: Chen R, et al. Analysis of risk factors for stenosis after laparoscopic pyeloplasty in the treatment of ureteropelvic junction obstruction. Analysis of risk factors for stenosis after laparoscopic pyeloplasty in the treatment of ureteropelvic junction obstruction. 2024; 56:1911-1918. doi: 10.1007/s11255-023-03906-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38244116/

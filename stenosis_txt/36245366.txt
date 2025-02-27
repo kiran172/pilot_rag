@@ -1,0 +1,12 @@
+PMID: 36245366
+Title: Multiphase Flow Hemodynamic Evaluation of Vertebral Artery Stenosis Lesions and Plaque Stability.
+
+Abstract: BACKGROUND: Atherosclerosis is one of the main causes of vertebral artery stenosis, which reduces blood supply to the posterior circulation, resulting in cerebral infarction or death.
+OBJECTIVE: To investigate stenosis rates and locations on the development of vertebral artery plaques.
+METHODS: Stenosis models with varying degrees and positions of stenosis were established. The stenosis area was comprehensively analyzed using multiphase flow numerical simulation. Wall shear stress (WSS), blood flow velocity, and red blood cell (RBC) volume fraction were calculated.
+RESULTS: Blood flow velocity in 30-70% stenosis of each segment tended to increase significantly higher than normal. Downstream of 50% stenosis exhibited turbulent flow; downstream of 70% displayed reflux. Severe stenosis increases the WSS and distribution area. The mixed area of high and low WSS appeared downstream of the stenosis. The RBC volume fraction at the stenosis increased (maximum value: 0.487 at 70% stenosis in the V4), which was 1.08 times the normal volume fraction. Turbulent and backflow regions exhibited complex RBC volume fraction distributions.
+CONCLUSION: Flow velocity, WSS, and RBC volume fraction at the stenosis increase with stenosis severity, increasing plaque shedding. Narrow downstream spoiler and reflux areas possess low WSS and high erythrocyte volume fractions, accelerating plaque growth.
+
+Citation: Ma W, et al. Multiphase Flow Hemodynamic Evaluation of Vertebral Artery Stenosis Lesions and Plaque Stability. Multiphase Flow Hemodynamic Evaluation of Vertebral Artery Stenosis Lesions and Plaque Stability. 2023; 34:247-260. doi: 10.3233/BME-221436
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36245366/

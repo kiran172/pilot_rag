@@ -1,0 +1,11 @@
+PMID: 39060109
+Title: Prognostic value of angiographic based quantitative flow ratio and anatomic features in intracranial atherosclerotic stenosis.
+
+Abstract: BACKGROUND: Patients with intracranial atherosclerotic stenosis (ICAS) are prone to stroke recurrence despite aggressive medical treatment. Further assessment of the anatomy and physiology of ICAS is urgently needed to facilitate individualized therapy. We explored the predictive value of angiography based hemodynamic and anatomical features for ICAS patients.
+METHODS: In this retrospective study, patients with moderate-to-severe stenosis of the middle cerebral artery (MCA) were enrolled. The hemodynamic assessment was performed using the single view Murray's law based quantitative flow ratio (μQFR) approach. The locations of lesions were categorized as perforator rich segments of the MCA (pMCA) and others. Multivariate Cox models were developed to identify significant predictors. The primary outcomes were defined as stroke and transient ischemic attack.
+RESULTS: Among the 333 patients (median (IQR) age, 56 (49-63) years, 70.3% men) over a median follow-up period of 64.5 months, 50 (15.0%) had the primary outcomes, and 80.0% occurred within 5 years. Patients with lower μQFR values (dichotomized at 0.73) had a higher risk of the 5 year primary outcomes (log rank P=0.023), and good collateral circulation may have attenuated the risk. In the multivariate analyses, μQFR (adjusted HR=0.345; 95% CI 0.155 to 0.766; P=0.009), lesion located in pMCA (adjusted HR=0.377; 95% CI 0.190 to 0.749; P=0.005), and diameter ratio of the internal carotid artery (adjusted HR=4.187; 95% CI 1.071 to 16.370; P=0.040) were significantly associated with the 5 year primary outcomes.
+CONCLUSIONS: Angiography based μQFR and anatomical features, namely plaque localization and internal carotid artery expansion, could serve as promising prognostic indexes for MCA atherosclerosis.
+
+Citation: Huang K, et al. Prognostic value of angiographic based quantitative flow ratio and anatomic features in intracranial atherosclerotic stenosis. Prognostic value of angiographic based quantitative flow ratio and anatomic features in intracranial atherosclerotic stenosis. 2024; (unknown volume):(unknown pages). doi: 10.1136/jnis-2024-022007
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39060109/

@@ -1,0 +1,12 @@
+PMID: 38188259
+Title: Interrater variability of ML-based CT-FFR during TAVR-planning: influence of image quality and coronary artery calcifications.
+
+Abstract: OBJECTIVE: To compare machine learning (ML)-based CT-derived fractional flow reserve (CT-FFR) in patients before transcatheter aortic valve replacement (TAVR) by observers with differing training and to assess influencing factors.
+BACKGROUND: Coronary computed tomography angiography (cCTA) can effectively exclude CAD, e.g. prior to TAVR, but remains limited by its specificity. CT-FFR may mitigate this limitation also in patients prior to TAVR. While a high reliability of CT-FFR is presumed, little is known about the reproducibility of ML-based CT-FFR.
+METHODS: Consecutive patients with obstructive CAD on cCTA were evaluated with ML-based CT-FFR by two observers. Categorization into hemodynamically significant CAD was compared against invasive coronary angiography. The influence of image quality and coronary artery calcium score (CAC) was examined.
+RESULTS: CT-FFR was successfully performed on 214/272 examinations by both observers. The median difference of CT-FFR between both observers was -0.05(-0.12-0.02) (p &lt; 0.001). Differences showed an inverse correlation to the absolute CT-FFR values. Categorization into CAD was different in 37/214 examinations, resulting in net recategorization of Δ13 (13/214) examinations and a difference in accuracy of Δ6.1%. On patient level, correlation of absolute and categorized values was substantial (0.567 and 0.570, p &lt; 0.001). Categorization into CAD showed no correlation to image quality or CAC (p &gt; 0.13).
+CONCLUSION: Differences between CT-FFR values increased in values below the cut-off, having little clinical impact. Categorization into CAD differed in several patients, but ultimately only had a moderate influence on diagnostic accuracy. This was independent of image quality or CAC.
+
+Citation: Gohmann RF, et al. Interrater variability of ML-based CT-FFR during TAVR-planning: influence of image quality and coronary artery calcifications. Interrater variability of ML-based CT-FFR during TAVR-planning: influence of image quality and coronary artery calcifications. 2023; 10:1301619. doi: 10.3389/fcvm.2023.1301619
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38188259/

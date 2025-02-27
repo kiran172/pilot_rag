@@ -1,0 +1,12 @@
+PMID: 38978814
+Title: Potential thresholds of critically increased cardiac-related spinal cord motion in degenerative cervical myelopathy.
+
+Abstract: INTRODUCTION: New diagnostic techniques are a substantial research focus in degenerative cervical myelopathy (DCM). This cross-sectional study determined the significance of cardiac-related spinal cord motion and the extent of spinal stenosis as indicators of mechanical strain on the cord.
+METHODS: Eighty-four DCM patients underwent MRI/clinical assessments and were classified as MRI+ [T2-weighted (T2w) hyperintense lesion in MRI] or MRI- (no T2w-hyperintense lesion). Cord motion (displacement assessed by phase-contrast MRI) and spinal stenosis [adapted spinal canal occupation ratio (aSCOR)] were related to neurological (sensory/motor) and neurophysiological readouts [contact heat evoked potentials (CHEPs)] by receiver operating characteristic (ROC) analysis.
+RESULTS: MRI+ patients (N = 31; 36.9%) were more impaired compared to MRI- patients (N = 53; 63.1%) based on the modified Japanese Orthopedic Association (mJOA) subscores for upper {MRI+ [median (Interquartile range)]: 4 (4-5); MRI-: 5 (5-5); p &lt; 0.01} and lower extremity [MRI+: 6 (6-7); MRI-: 7 (6-7); p = 0.03] motor dysfunction and the monofilament score [MRI+: 21 (18-23); MRI-: 24 (22-24); p &lt; 0.01]. Both patient groups showed similar extent of cord motion and stenosis. Only in the MRI- group displacement identified patients with pathologic assessments [trunk/lower extremity pin prick score (T/LEPP): AUC = 0.67, p = 0.03; CHEPs: AUC = 0.73, p = 0.01]. Cord motion thresholds: T/LEPP: 1.67 mm (sensitivity 84.6%, specificity 52.5%); CHEPs: 1.96 mm (sensitivity 83.3%, specificity 65.6%). The aSCOR failed to show any relation to the clinical assessments.
+DISCUSSION: These findings affirm cord motion measurements as a promising additional biomarker to improve the clinical workup and to enable timely surgical treatment particularly in MRI- DCM patients.
+CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov, NCT02170155.
+
+Citation: Pfender N, et al. Potential thresholds of critically increased cardiac-related spinal cord motion in degenerative cervical myelopathy. Potential thresholds of critically increased cardiac-related spinal cord motion in degenerative cervical myelopathy. 2024; 15:1411182. doi: 10.3389/fneur.2024.1411182
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38978814/

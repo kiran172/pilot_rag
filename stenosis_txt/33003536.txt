@@ -1,0 +1,8 @@
+PMID: 33003536
+Title: Feasibility Study of Precise Balloon Catheter Tracking and Visualization with Fast Photoacoustic Microscopy.
+
+Abstract: Correct guiding of the catheter is a critical issue in almost all balloon catheter applications, including arterial stenosis expansion, coronary arterial diseases, and gastrointestinal tracking. To achieve safe and precise guiding of the balloon catheter, a novel imaging method with high-resolution, sufficient depth of penetration, and real-time display is required. Here, we present a new balloon catheter guiding method using fast photoacoustic microscopy (PAM) technique for precise balloon catheter tracking and visualization as a feasibility study. We implemented ex vivo and in vivo experiments with three different medium conditions of balloon catheter: no air, air, and water. Acquired cross-sectional, maximum amplitude projection (MAP), and volumetric 3D PAM images demonstrated its capability as a new imaging guiding tool for balloon catheter tracking and visualization.
+
+Citation: Kim J, et al. Feasibility Study of Precise Balloon Catheter Tracking and Visualization with Fast Photoacoustic Microscopy. Feasibility Study of Precise Balloon Catheter Tracking and Visualization with Fast Photoacoustic Microscopy. 2020; 20:(unknown pages). doi: 10.3390/s20195585
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33003536/

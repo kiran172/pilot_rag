@@ -1,0 +1,11 @@
+PMID: 37026360
+Title: Clinical profile and outcomes in patients with moderate to severe aortic stenosis with or without concomitant chronic kidney disease.
+
+Abstract: INTRODUCTION: Management of aortic stenosis (AS) in patients with chronic kidney disease (CKD) may often be overlooked, and this could confer poorer outcomes.
+METHODS: Consecutive patients ( n = 727) with index echocardiographic diagnosis of moderate to severe AS (aortic valve area <1.5 cm 2 ) were examined. They were divided into those with CKD (estimated glomerular filtration rate < 60 mL/min) and those without. Baseline clinical and echocardiographic parameters were compared, and a multivariate Cox regression model was constructed. Clinical outcomes were compared using Kaplan-Meier curves.
+RESULTS: There were 270 (37.1%) patients with concomitant CKD. The CKD group was older (78.0 ± 10.3 vs. 72.1 ± 12.9 years, P < 0.001), with a higher prevalence of hypertension, diabetes mellitus, hyperlipidaemia and ischaemic heart disease. AS severity did not differ significantly, but left ventricular (LV) mass index (119.4 ± 43.7 vs. 112.3 ± 40.6 g/m 2 , P = 0.027) and Doppler mitral inflow E to annular tissue Doppler e' ratio (E: e' 21.5 ± 14.6 vs. 17.8 ± 12.2, P = 0.001) were higher in the CKD group. There was higher mortality (log-rank 51.5, P < 0.001) and more frequent admissions for cardiac failure (log-rank 25.9, P < 0.001) in the CKD group, with a lower incidence of aortic valve replacement (log-rank 7.12, P = 0.008). On multivariate analyses, after adjusting for aortic valve area, age, left ventricular ejection fraction and clinical comorbidities, CKD remained independently associated with mortality (hazard ratio 1.96, 95% confidence interval 1.50-2.57, P < 0.001).
+CONCLUSION: Concomitant CKD in patients with moderate to severe AS was associated with increased mortality, more frequent admissions for cardiac failure and a lower incidence of aortic valve replacement.
+
+Citation: Ngiam JN, et al. Clinical profile and outcomes in patients with moderate to severe aortic stenosis with or without concomitant chronic kidney disease. Clinical profile and outcomes in patients with moderate to severe aortic stenosis with or without concomitant chronic kidney disease. 2024; 65:624-630. doi: 10.4103/singaporemedj.SMJ-2021-427
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37026360/

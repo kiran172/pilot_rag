@@ -1,0 +1,11 @@
+PMID: 32777396
+Title: Co-registration of Intravascular Ultrasound With Angiographic Imaging for Carotid Artery Disease.
+
+Abstract: BACKGROUND: Intravascular ultrasound (IVUS) provides endoluminal views and cross-sectional images of carotid arteries but lacks overview of vascular territory provided by angiography. Co-registration of IVUS with angiographic images may provide the potential to navigate both imaging modalities in a synchronous manner. The objective of this study is to evaluate the feasibility and accuracy of co-registering both imaging modalities in the carotid vasculature of the neck.
+METHODS: Fourteen patients with 15 cervical carotid artery lesions underwent angiography and subsequent treatment. In each case, an IVUS catheter was advanced to the target lesion and a reference angiography sequence was acquired. This was followed by an electrocardiography-triggered fluoroscopy sequence that was initiated upon IVUS catheter pullback. IVUS data collected during pullback were registered with fluoroscopy and evaluated for error and clinical usability.
+RESULTS: A total of 32 landmarks were identified that demonstrated reasonable agreement during IVUS-angiography co-registration. There was a mean registration error distance of 3.36 mm (SD 2.82 mm) between targets. The longitudinal extent and severity of the disease through the target segment could be easily evaluated after co-registration.
+CONCLUSION: Semiautomatic tracking and co-registration of angiography and IVUS is a new technology and has the potential to increase the use of IVUS in carotid disease and to proivde the opportunity to optimize procedural outcomes.
+
+Citation: Kerolus MG, et al. Co-registration of Intravascular Ultrasound With Angiographic Imaging for Carotid Artery Disease. Co-registration of Intravascular Ultrasound With Angiographic Imaging for Carotid Artery Disease. 2020; 143:325-331. doi: 10.1016/j.wneu.2020.07.226
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32777396/

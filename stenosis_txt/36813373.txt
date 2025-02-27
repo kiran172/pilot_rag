@@ -1,0 +1,12 @@
+PMID: 36813373
+Title: Cardiac Damage and Quality of Life After Aortic Valve Replacement in the PARTNER Trials.
+
+Abstract: BACKGROUND: The extent of extravalvular cardiac damage is associated with increased risk of adverse events among patients with severe aortic stenosis undergoing aortic valve replacement (AVR).
+OBJECTIVES: The goal was to describe the association of cardiac damage on health status before and after AVR.
+METHODS: Patients from the PARTNER (Placement of Aortic Transcatheter Valves) 2 and 3 trials were pooled and classified by echocardiographic cardiac damage stage at baseline and 1 year as previously described (stage 0-4). We examined the association between baseline cardiac damage and 1-year health status (assessed by the Kansas City Cardiomyopathy Questionnaire Overall Score [KCCQ-OS]).
+RESULTS: Among 1,974 patients (794 surgical AVR, 1,180 transcatheter AVR), the extent of cardiac damage at baseline was associated with lower KCCQ scores both at baseline and at 1 year after AVR (P < 0.0001) and with increased rates of a poor outcome (death, KCCQ-OS <60, or a decrease in KCCQ-OS of ≥10 points) at 1 year (stages 0-4: 10.6% vs 19.6% vs 29.0% vs 44.7% vs 39.8%; P < 0.0001). In a multivariable model, each 1-stage increase in baseline cardiac damage was associated with a 24% increase in the odds of a poor outcome (95% CI: 9%-41%; P = 0.001). Change in stage of cardiac damage at 1 year after AVR was associated with the extent of improvement in KCCQ-OS over the same period (mean change in 1-year KCCQ-OS: improvement of ≥1 stage +26.8 [95% CI: 24.2-29.4] vs no change +21.4 [95% CI: 20.0-22.7] vs deterioration of ≥1 stage +17.5 [95% CI: 15.4-19.5]; P < 0.0001).
+CONCLUSIONS: The extent of cardiac damage before AVR has an important impact on health status outcomes, both cross-sectionally and after AVR. (PARTNER II Trial: Placement of AoRTic TraNscathetER Valves II - XT Intermediate and High Risk (PII A), NCT01314313; The PARTNER II Trial: Placement of AoRTic TraNscathetER Valves - PII B [PARTNERII B], NCT02184442; PARTNER 3 Trial: Safety and Effectiveness of the SAPIEN 3 Transcatheter Heart Valve in Low Risk Patients With Aortic Stenosis [P3], NCT02675114).
+
+Citation: Généreux P, et al. Cardiac Damage and Quality of Life After Aortic Valve Replacement in the PARTNER Trials. Cardiac Damage and Quality of Life After Aortic Valve Replacement in the PARTNER Trials. 2023; 81:743-752. doi: 10.1016/j.jacc.2022.11.059
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36813373/

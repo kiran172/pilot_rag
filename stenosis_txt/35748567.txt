@@ -1,0 +1,12 @@
+PMID: 35748567
+Title: Can the Remote Use of a Peak Flow Meter Predict Severity of Subglottic Stenosis and Surgical Timing?
+
+Abstract: OBJECTIVE: We aimed to assess the relationship between patient-performed and patient-reported peak flow meter (PFM) measurements with pulmonary function testing (PFT) and Dyspnea Index (DI) scores as a tool for monitoring Subglottic stenosis (SGS) disease progression remotely.
+METHODS: Thirty-five SGS patients were prospectively enrolled. Patients were given PFMs to report serial measurements from home. DI scores and PFT were recorded at serial clinic visits. Data were analyzed to determine the correlation between PFM measurements and PFT data. Pre-operative and post-operative PFM measurements, PFT, and DI scores were analyzed for patients who underwent operative intervention. Receiver operating characteristic (ROC) curves were created for PFM measurements, PFT data, and DI scores to predict the likelihood of surgery.
+RESULTS: PFM measurements had a "strong" correlation with the peak expiratory flow rate (PEFR), r = 0.78. Means of PEFR, PIFR, EDI, PFM measurements, and DI scores all significantly improved after the operative intervention (p ≤ 0.05). The area under the curve for ROC curves for DI scores, PFM measurements, and EDI were highest in our cohort with values of 0.896, 0.823, and 0.806, respectively.
+CONCLUSION: In our SGS cohort, PFM measurements correlate strongly with PEFR measurements. PFM measurements can adequately demonstrate disease progression and predict the need for surgery in this patient population. Together, DI scores and PFM measurements may be a useful tool to remotely follow patients with SGS and inform timing of in-person assessments.
+LEVEL OF EVIDENCE: 2 Laryngoscope, 133:628-633, 2023.
+
+Citation: Park M, et al. Can the Remote Use of a Peak Flow Meter Predict Severity of Subglottic Stenosis and Surgical Timing?. Can the Remote Use of a Peak Flow Meter Predict Severity of Subglottic Stenosis and Surgical Timing?. 2023; 133:628-633. doi: 10.1002/lary.30257
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35748567/

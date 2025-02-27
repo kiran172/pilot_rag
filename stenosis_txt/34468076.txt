@@ -1,0 +1,12 @@
+PMID: 34468076
+Title: Head to head comparison of quantitative flow ratio using 4-French and 6-French catheters versus fractional flow reserve.
+
+Abstract: OBJECTIVES: To validate QFR using 4-F diagnostic catheters compared to using 6-F guiding catheters, with conventional guidewire-based FFR as the reference standard, using independent core laboratory analysis.
+BACKGROUND: Quantitative Flow Ratio (QFR) allows Fractional Flow Reserve (FFR) calculation based on the coronary angiogram, using 5- or 6-French (F) catheters. However, the use of 4-F diagnostic catheters to perform coronary angiography is currently routine in some centers.
+METHODS: We included all consecutive patients with stable coronary artery disease and indicated for physiological assessment. QFR was performed using a 4-F diagnostic catheter, then QFR was performed using a 6-F guiding catheter while conventional FFR was measured using a pressure guidewire. Angiograms were sent to two separate core laboratories.
+RESULTS: One hundred lesions in 67 consecutive patients with QFR performed using 4-F and 6-F catheters, and with conventional FFR, were included. Pearson's correlation coefficient was for QFR 4-F vs. FFR 0.91 [0.87-0.94], for QFR 6-F vs. FFR 0.90 [0.86-0.94], and for QFR 4-F vs. QFR 6-F 0.93 [0.90-0.95]. Receiver-operator characteristic curves (ROC) comparing the ability to predict an FFR value above or below 0.80 with QFR 4-F and 6-F were generated. The area under the ROC curve (AUC) vs. FFR was 0.972 [0.95-0.99] for QFR 4-F and 0.970 [0.94-0.99] for QFR 6-F.
+CONCLUSIONS: Our study demonstrated the feasibility of performing QFR analysis from angiograms obtained by 4-F catheters, and showed a good correlation with QFR performed using 6-F catheters as well as with conventional FFR performed using a pressure guidewire.
+
+Citation: Cuenin L, et al. Head to head comparison of quantitative flow ratio using 4-French and 6-French catheters versus fractional flow reserve. Head to head comparison of quantitative flow ratio using 4-French and 6-French catheters versus fractional flow reserve. 2022; 99:746-753. doi: 10.1002/ccd.29933
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34468076/

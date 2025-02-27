@@ -1,0 +1,11 @@
+PMID: 38789330
+Title: Deep learning-based fully automatic screening of carotid artery plaques in computed tomography angiography: a multicenter study.
+
+Abstract: AIM: To develop and validate a deep learning (DL) algorithm for the automated detection and classification of carotid artery plaques (CAPs) on computed tomography angiography (CTA) images.
+MATERIALS AND METHODS: This retrospective study enrolled 400 patients (300 in the Center Ⅰ and 100 in Ⅱ). Three radiologists co-labeled CAPs, and their revised calcification status (noncalcified, mixed, and calcified) was regarded as ground truth. Center Ⅰ patients were randomly divided into training and internal validation datasets, while Center Ⅱ patients served as the external validation dataset. Carotid artery regions were segmented using a modified 3D-UNet network, followed by CAPs detection and classification using a ResUNet-based architecture in a two-step DL system. The DL model's detection and classification performance were evaluated on the validation dataset using precision-recall curve, free-response receiver operating characteristic (fROC) curve, Cohen's kappa, and ROC curve analysis.
+RESULTS: The DL model had achieved 83.4% sensitivity at 3.0 false positives (FPs)/CTA scan in internal validation and 78.9% in external validation. F1-scores were 0.764 and 0.769 at the optimal threshold, and area under fROC curves were 0.756 and 0.738, respectively, indicating good overall accuracy for CAP detection. The DL model also showed good performance for the ternary classification of CAPs, with Cohen's kappa achieved 0.728 and 0.703 in both validation datasets.
+CONCLUSION: This study demonstrated the feasibility of using a fully automated DL-based algorithm for the detection and ternary classification of CAPs, which could be helpful for the workloads of radiologists.
+
+Citation: Zhai D, et al. Deep learning-based fully automatic screening of carotid artery plaques in computed tomography angiography: a multicenter study. Deep learning-based fully automatic screening of carotid artery plaques in computed tomography angiography: a multicenter study. 2024; 79:e994-e1002. doi: 10.1016/j.crad.2024.04.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38789330/

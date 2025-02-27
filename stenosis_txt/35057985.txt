@@ -1,0 +1,11 @@
+PMID: 35057985
+Title: Permanent Pacemaker Reduction Using Cusp-Overlapping Projection in TAVR: A Propensity Score Analysis.
+
+Abstract: OBJECTIVES: The aim of this study was to determine if modifying the classical implantation technique for self-expanding (SE) transcatheter aortic valve replacement to a novel cusp-overlapping projection (COP) technique results in a higher implantation depth (ID) and subsequently reduces the rate of permanent pacemaker implantation (PPMI).
+BACKGROUND: The COP technique presents the potential benefit of an optimized ID to reduce the rate of PPMI. However, only a few studies have compared clinical outcomes with those achieved using the standard technique. This is the first study to systematically evaluate this approach for SE transcatheter heart valves (THVs) in different populations METHODS: Beginning in February 2015, 444 patients were consecutively included. Propensity score matching was used to control baseline characteristics because of the observational nature of the study. In total, 161 pairs of patients were analyzed. Three methods were used to measure ID (noncoronary cusp [NCC] to the THV, mean of the NCC and the left coronary cusp [LCC] to the THV, and the deepest edge from the LCC and the NCC to the THV).
+RESULTS: ID was significantly higher in COP cases when measuring from the NCC (4.2 mm vs 5.3 mm; P < 0.001) and the mean from the NCC and the LCC (5.3 mm vs 5.9 mm; P = 0.04), but not from the deepest edge. The PPMI rate was lower in the COP group: 19 (11.8%) vs 35 (21.7%) (P = 0.03; relative risk: 0.54; 95% CI: 0.32-0.91).
+CONCLUSIONS: The present study showed that the COP technique significantly reduces PPMI in SE THV implantation compared with the classical implantation technique, with similar rates of complications.
+
+Citation: Pascual I, et al. Permanent Pacemaker Reduction Using Cusp-Overlapping Projection in TAVR: A Propensity Score Analysis. Permanent Pacemaker Reduction Using Cusp-Overlapping Projection in TAVR: A Propensity Score Analysis. 2022; 15:150-161. doi: 10.1016/j.jcin.2021.10.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35057985/

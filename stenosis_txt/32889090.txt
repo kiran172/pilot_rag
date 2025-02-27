@@ -1,0 +1,8 @@
+PMID: 32889090
+Title: Towards quantitative evaluation of wall shear stress from 4D flow imaging.
+
+Abstract: Wall shear stress (WSS) is a relevant hemodynamic indicator of the local stress applied on the endothelium surface. More specifically, its spatiotemporal distribution reveals crucial in the evolution of many pathologies such as aneurysm, stenosis, and atherosclerosis. This paper introduces a new solution, called PaLMA, to quantify the WSS from 4D Flow MRI data. It relies on a two-step local parametric model, to accurately describe the vessel wall and the velocity-vector field in the neighborhood of a given point of interest. Extensive validations have been performed on synthetic 4D Flow MRI data, including four datasets generated from patient specific computational fluid dynamics simulations on carotids. The validation tests are focused on the impact of the noise component, of the resolution level, and of the segmentation accuracy concerning the vessel position in the context of complex flow patterns. In simulated cases aimed to reproduce clinical acquisition conditions, the WSS quantification performance reached by PaLMA is significantly higher (with a gain in RMSE of 12 to 27%) than the reference one obtained using the smoothing B-spline method proposed by Potters et al. (2015) method, while the computation time is equivalent for both WSS quantification methods.
+
+Citation: Levilly S, et al. Towards quantitative evaluation of wall shear stress from 4D flow imaging. Towards quantitative evaluation of wall shear stress from 4D flow imaging. 2020; 74:232-243. doi: 10.1016/j.mri.2020.08.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32889090/

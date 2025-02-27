@@ -1,0 +1,12 @@
+PMID: 37668088
+Title: Coronary intravascular lithotripsy and rotational atherectomy for severely calcified stenosis: Results from the ROTA.shock trial.
+
+Abstract: BACKGROUND: Severely calcified coronary lesions present a particular challenge for percutaneous coronary intervention.
+AIMS: The aim of this randomized study was to determine whether coronary intravascular lithotripsy (IVL) is non-inferior to rotational atherectomy (RA) regarding minimal stent area (MSA).
+METHODS: The randomized, prospective non-inferiority ROTA.shock trial enrolled 70 patients between July 2019 and November 2021. Patients were randomly (1:1) assigned to undergo either IVL or RA before percutaneous coronary intervention of severely calcified coronary lesions. Optical coherence tomography was performed at the end of the procedure for primary endpoint analysis.
+RESULTS: The primary endpoint MSA was lower but non-inferior after IVL (mean: 6.10 mm2 , 95% confidence interval [95% CI]: 5.32-6.87 mm2 ) versus RA (6.60 mm2 , 95% CI: 5.66-7.54 mm2 ; difference in MSA: -0.50 mm2 , 95% CI: -1.52-0.52 mm2 ; non-inferiority margin: -1.60 mm2 ). Stent expansion was similar (RA: 0.83 ± 0.10 vs. IVL: 0.82 ± 0.11; p = 0.79). There were no significant differences regarding contrast media consumption (RA: 183.1 ± 68.8 vs. IVL: 163.3 ± 55.0 mL; p = 0.47), radiation dose (RA: 7269 ± 11288 vs. IVL: 5010 ± 4140 cGy cm2 ; p = 0.68), and procedure time (RA: 79.5 ± 34.5 vs. IVL: 66.0 ± 19.4 min; p = 0.18).
+CONCLUSION: IVL is non-inferior regarding MSA and results in a similar stent expansion in a random comparison with RA. Procedure time, contrast volume, and dose-area product do not differ significantly.
+
+Citation: Blachutzik F, et al. Coronary intravascular lithotripsy and rotational atherectomy for severely calcified stenosis: Results from the ROTA.shock trial. Coronary intravascular lithotripsy and rotational atherectomy for severely calcified stenosis: Results from the ROTA.shock trial. 2023; 102:823-833. doi: 10.1002/ccd.30815
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37668088/

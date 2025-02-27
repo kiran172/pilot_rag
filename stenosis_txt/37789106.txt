@@ -1,0 +1,11 @@
+PMID: 37789106
+Title: 82Rb and [15O]H<sub>2</sub>O myocardial perfusion PET imaging: a prospective head to head comparison.
+
+Abstract: BACKGROUND: 82Rb PET and [15O]H<sub>2</sub>O PET are both validated tracers for myocardical perfusion imaging but have not previously been compared clinically. During our site's transition from 82Rb to [15O]H<sub>2</sub>O PET, we performed a head-to-head comparison in a mixed population with suspected ischemic heart disease.
+METHODS: A total of 37 patients referred for perfusion imaging due to suspicion of coronary stenosis were examined with both 82Rb and [15O]H<sub>2</sub>O PET on the same day in rest and during adenosine-induced stress. The exams were rated by two blinded readers as normal, regional ischemia, globally reduced myocardial perfusion, or myocardial scarring. For [15O]H<sub>2</sub>O PET, regional ischemia was defined as two neighboring segments with average stress perfusion ≤ 2.3 mL/(min·g). Further, we evaluated a total perfusion deficit (TPD) of ≥ 10% as a more conservative marker of ischemia.
+RESULTS: [15O]H<sub>2</sub>O PET identified more patients with regional ischemia: 17(46%) vs 9(24%), agreement: 59% corresponding to a Cohen's kappa of .31 [95%CI .08-.53], (P &lt; .001). Using the more conservative TPD ≥ 10%, the agreement increased to 86% corresponding to a kappa of .62 [95%CI .33-.92], (P = .001). For the subgroup of patients with no known heart disease (n = 18), the agreement was 94%. Interrater agreement was 95% corresponding to a kappa of .89 [95%CI .74-1.00] (P &lt; .001).
+CONCLUSIONS: In clinical transition from 82Rb to [15O]H<sub>2</sub>O PET, it is important to take into account the higher frequency of patients with regional ischemia detected by [15O]H<sub>2</sub>O PET.
+
+Citation: Krakauer M, et al. 82Rb and [15O]H<sub>2</sub>O myocardial perfusion PET imaging: a prospective head to head comparison. 82Rb and [15O]H<sub>2</sub>O myocardial perfusion PET imaging: a prospective head to head comparison. 2023; 30:2790-2802. doi: 10.1007/s12350-023-03372-7
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37789106/

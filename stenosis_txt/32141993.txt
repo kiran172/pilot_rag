@@ -1,0 +1,11 @@
+PMID: 32141993
+Title: Rules Are Meant to Be Broken: Examining the "Rule of 3" for Esophageal Dilations in Pediatric Stricture Patients.
+
+Abstract: BACKGROUND AND AIMS: The "rule of 3" is a 40-year-old expert opinion that suggests dilating an esophageal stricture more than 3 mm is unsafe. Few studies have evaluated this tenet, and do not specify how much larger than 3 mm is reasonable. Our aim was to determine the optimal point for maximum dilation diameter with acceptable risk in a pediatric population.
+METHODS: A retrospective review in pediatric patients with esophageal strictures was performed. The number of millimeters the stricture was dilated, defined as delta dilation diameter (ΔDD), was determined by subtracting the initial stricture diameter from the diameter of the largest balloon used. Receiver operating characteristic curve analysis was used to evaluate the discriminatory ability of ΔDD. Youden J index was used to identify optimal cut-point in predicting perforation.
+RESULTS: Two hundred eighty-four patients underwent 1384 balloon dilations. Overall perforation rate was 1.66%. There were 8 perforations in 1075 dilations with ΔDD ≤5 mm (0.7%) and 15 perforations in 309 dilations with ΔDD >5 mm (4.9%). Youden J index found an optimal cutoff to be at a ΔDD of ≤5 mm. The cumulative rate of perforation for all dilations ≤5 mm was 0.74% whereas the cumulative risk of perforation for all dilations ≥6 mm was 4.85% (P < 0.001).
+CONCLUSIONS: Balloon dilations that expand the initial esophageal anastomosis ≤5 mm in a pediatric population appear to not unduly increase the risk of perforation. Further prospective studies are needed to further investigate the potential for a new rule of 5 for balloon dilation.
+
+Citation: Clark SJ, et al. Rules Are Meant to Be Broken: Examining the "Rule of 3" for Esophageal Dilations in Pediatric Stricture Patients. Rules Are Meant to Be Broken: Examining the "Rule of 3" for Esophageal Dilations in Pediatric Stricture Patients. 2020; 71:e1-e5. doi: 10.1097/MPG.0000000000002687
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32141993/

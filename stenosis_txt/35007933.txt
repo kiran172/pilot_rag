@@ -1,0 +1,11 @@
+PMID: 35007933
+Title: Flow Diversion for Acutely Ruptured Intracranial Aneurysms Treatment: A Retrospective Study and Literature Review.
+
+Abstract: OBJECTIVE: Flow diversion is becoming an increasingly established practice for the treatment of acutely ruptured intracranial aneurysms. In this study the authors present a literature review and meta-analysis, adding a retrospective review of institutional registry on emergency treatment of aRIA with flow diverter stent.
+MATERIALS AND METHODS: A systematic search of PubMed, SCOPUS, Ovid MEDLINE, and Ovid EMBASE was performed on April 20th, 2021, extrapolating 35 articles. R language 'meta' and 'metafor' packages were used for data pooling. The DerSimonian-Laird model was used to calculate the pooled effect. The I2 value and Q statistic evaluated study heterogeneity. Additionally, the authors retrospectively reviewed their institutional database for the treatment and outcomes of all patients with acutely ruptured intracranial aneurysms treated with flow diverter stent placement from May 2010 to November 2020 was performed.
+RESULTS: From the systematic literature review and meta-analysis, the pooled proportion of complete aneurysm occlusion was 78%, with a pooled rate of 79%, 71%, 80%, and 50% for dissecting, saccular, fusiform, and mycotic aneurysms, respectively. The pooled proportion of aneurysm rebleeding and intrastent stenosis was 12% and 15% respectively, for a total of 27% rate. The analysis of authors retrospective register showed an overall mortality rate of 16.7% (3/18), with a low but not negligible postprocedural rebleeding and intrastent thrombosis rates (5.6% and 11.1% respectively).
+CONCLUSION: Although increasingly utilized in the management of selected patients with acutely ruptured intracranial aneurysms, flow diversion for acutely ruptured intracranial aneurysms treatment presents rebleeding and intrastent stenosis rates not negligible.
+
+Citation: Giorgianni A, et al. Flow Diversion for Acutely Ruptured Intracranial Aneurysms Treatment: A Retrospective Study and Literature Review. Flow Diversion for Acutely Ruptured Intracranial Aneurysms Treatment: A Retrospective Study and Literature Review. 2022; 31:106284. doi: 10.1016/j.jstrokecerebrovasdis.2021.106284
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35007933/

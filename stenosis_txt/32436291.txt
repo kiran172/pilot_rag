@@ -1,0 +1,11 @@
+PMID: 32436291
+Title: Asymmetrical cortical vessel sign predicts prognosis after acute ischemic stroke.
+
+Abstract: INTRODUCTION: To assess whether the asymmetrical cortical vessel sign (ACVS) on susceptibility-weighted imaging (SWI) could predict 90-day poor outcomes in anterior circulation acute ischemic stroke (AIS) patients treated with recombinant tissue plasminogen activator (r-tPA).
+METHODS: Clinical data of consecutive patients with anterior circulation AIS treated with r-tPA were retrospectively analyzed. Clinical variables included age, sex, vascular risk factors, NIHSS score, onset to treatment time, and initial hematologic and neuroimaging findings. Follow-up was performed 90 days after onset. Poor outcome was defined as a modified Rankin scale (mRS) ≥3 at 90 days.
+RESULTS: A total of 145 patients were included, 35 (24.1%) patients presented with ACVS (≥Grade 1) on SWI. Fifty-three (36.6%) patients had a poor outcome at 90 days. ACVS (≥Grade 1) occurred in 21 (39.6%) patients with poor outcome compared with 14 (15.2%) patients with favorable outcome (p = .001). Univariate analysis indicated that age, NIHSS score on admission, previous stroke, hemorrhagic transformation, severe intracranial large artery stenosis or occlusion (SILASO), and ACVS were associated with 90-day poor outcome (p < .05). Since SILASO and ACVS were highly correlated and ACVS had different grades, we used three logistic regression models. Results from the three models showed that ACVS was associated with 90-day poor outcome.
+CONCLUSIONS: In r-tPA-treated patients with anterior circulation AIS, ACVS might be a helpful neuroimaging predictor for poor outcome at 90 days.
+
+Citation: Liu YL, et al. Asymmetrical cortical vessel sign predicts prognosis after acute ischemic stroke. Asymmetrical cortical vessel sign predicts prognosis after acute ischemic stroke. 2020; 10:e01657. doi: 10.1002/brb3.1657
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32436291/

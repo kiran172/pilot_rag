@@ -1,0 +1,8 @@
+PMID: 39299898
+Title: Computed tomography to predict pacemaker need after transcatheter aortic valve replacement.
+
+Abstract: Transcatheter aortic valve replacement (TAVR) is preferred therapy for elderly patients with severe aortic stenosis (AS) and increasingly used in younger patient populations with good safety and efficacy outcomes. However, cardiac conduction abnormalities remain a frequent complication after TAVR ranging from relative benign interventriculair conduction delays to prognostically relevant left bundle branch block and complete atrio-ventricular (AV) block requiring permanent pacemaker implantation (PPI). Although clinical, procedural and electrocardiographic factors have been identified as predictors of this complication, there is a need for advanced strategies to control the burden of conduction defects particularly as TAVR shifts towards younger populations. This state of the art review highlights the value of ECG-synchronized computed tomographic angiography (CTA) evaluation of the aortic root to better understand and manage conduction problems post-TAVR. An update on CTA derived anatomic features related to conduction issues is provided and complemented with computational framework modelling. This CTA-derived 3-dimensional anatomical reconstruction tool generates patient-specific TAVR simulations enabling operators to adapt procedural strategy and implantation technique to mitigate conduction abnormality risks.
+
+Citation: Verhemel S, et al. Computed tomography to predict pacemaker need after transcatheter aortic valve replacement. Computed tomography to predict pacemaker need after transcatheter aortic valve replacement. 2024; 18:597-608. doi: 10.1016/j.jcct.2024.08.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39299898/

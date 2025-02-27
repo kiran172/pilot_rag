@@ -1,0 +1,12 @@
+PMID: 31631521
+Title: Real world validation of the nonhyperemic index of coronary artery stenosis severity-Resting full-cycle ratio-RE-VALIDATE.
+
+Abstract: OBJECTIVE: The primary objective was to demonstrate diagnostic equivalence between RFR and iFR in clinical practice.
+BACKGROUND: The instantaneous wave-free ratio (iFR), a nonhyperemic pressure ratio (NHPR), has been shown to be noninferior to fractional flow reserve (FFR) in determining coronary artery stenosis severity in intermediate lesions. However, iFR has a number of inherent limitations, including sensitive landmarking of the pressure waveform and the assumption that maximal flow and minimal microcirculatory resistance occur during a fixed period within diastole. The resting full-cycle ratio (RFR) is a novel NHPR which evaluates the entire cardiac cycle independent of the ECG, landmark identification, and timing within the cardiac cycle.
+METHODS: RE-VALIDATE RFR was designed to determine the diagnostic utility of RFR for the physiological assessment of coronary artery disease in clinical practice compared to iFR. RFR was also tested for equivalence (1% margin), diagnostic accuracy, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), areas under the receiver operated characteristic curve (AUC), and correlations compared to calculated iFR (iFR<sub>calc</sub> ).
+RESULTS: From two centers, 501 blinded rest- and hyperemic pressure recordings from 431 patients were suitable for analysis according to a core laboratory. The mean FFR, RFR, and iFR<sub>calc</sub> were 0.80 ± 0.09, 0.90 ± 0.08, and 0.90 ± 0.08, respectively. Based on a binary cut-off approach (RFR/iFR ≤0.89), RFR demonstrated equivalence with iFR<sub>calc</sub> (95% confidence interval: 0.025-0.019) with overall diagnostic accuracy 97.8%, sensitivity 97.8%, specificity 97.8%, PPV 96.2%, NPV 98.7%, and AUC 0.96 (0.94-0.97, p &lt; .001). RFR had a mean bias 0.003 (95% limits of agreement: 0.019, -0.025).
+CONCLUSIONS: RFR was equivalent to iFR in clinical practice. RFR is an alternative NHPR, avoiding the need for hyperemic agents, thus potentially reducing side effects, procedural time and cost compared to FFR.
+
+Citation: Kumar G, et al. Real world validation of the nonhyperemic index of coronary artery stenosis severity-Resting full-cycle ratio-RE-VALIDATE. Real world validation of the nonhyperemic index of coronary artery stenosis severity-Resting full-cycle ratio-RE-VALIDATE. 2020; 96:E53-E58. doi: 10.1002/ccd.28523
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31631521/

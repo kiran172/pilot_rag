@@ -1,0 +1,11 @@
+PMID: 33627399
+Title: Hospital variation of 30-day readmission rate following transcatheter aortic valve implantation.
+
+Abstract: OBJECTIVES: Thirty-day readmission rate is one of the hospital quality metrics. Outcomes of transcatheter aortic valve implantation (TAVI) have improved significantly, but it remains unclear whether hospital-level variance in 30-day readmission rate exists in the contemporary TAVI era.
+METHODS: From the 2017 US Nationwide Readmission Database, endovascular TAVI were identified. The unadjusted 30-day readmission rate and 30-day risk-standardised readmission rate (RSRR) were calculated and we then conducted model testing to determine the relative contribution of hospital characteristics, patient-level covariates and economic status to the variation in readmission rates observed between the hospitals.
+RESULTS: A total of 44 899 TAVI from 338 hospitals were identified. The range of unadjusted 30-day readmission rate and 30-day RSRR was 2.0%-33.3% and 9.4%-15.3%, respectively. Median 30-day RSRR was 11.8% and there was a significant hospital-level variation (median OR 1.22, 95% CI 1.16 to 1.32, p<0.01) and this was similar in both readmissions caused due to major cardiac and non-cardiac conditions. Patient, hospital and economic factors accounted for 9.6%, 1.9% and 3.8% of the variability in hospital readmission rate, respectively.
+CONCLUSIONS: There was significant hospital-level variation in 30-day RSRR following TAVI. Further measures are required to mitigate this variance in the readmission rate.
+
+Citation: Ando T, et al. Hospital variation of 30-day readmission rate following transcatheter aortic valve implantation. Hospital variation of 30-day readmission rate following transcatheter aortic valve implantation. 2022; 108:219-224. doi: 10.1136/heartjnl-2020-318583
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33627399/

@@ -1,0 +1,12 @@
+PMID: 35345247
+Title: Validation and Comparison of PROMISE and CONFIRM Model to Predict High-Risk Coronary Artery Disease in Symptomatic and Diabetes Mellitus Patients.
+
+Abstract: BACKGROUND: The identification of high-risk coronary artery disease (HRCAD) is important in diabetes mellitus (DM) patients. However, the reliability of current models to predict HRCAD has not been fully investigated. Thus, we aimed to validate and compare CONFIRM and PROMISE high-risk model (CHM and PHM) in DM patients.
+METHODS: 5936 symptomatic DM patients who underwent coronary computed tomographic angiography (CCTA) were identified. Probability of HRCAD for each patient was estimated based on CHM and PHM, respectively. We used Area under the receiver operating characteristic curve (AUC), integrated discrimination improvement (IDI), net reclassification improvement (NRI) and Hosmer-Lemeshow (H-L) test to evaluate model's predictive accuracy.
+RESULTS: Overall, 470 (8%) patients had HRCAD on CCTA. There was no difference between the AUC for CHM and PHM (0.744 v.s. 0.721, p = 0.0873). Compared to CHM, PHM demonstrated a positive IDI (3.08%, p &lt; 0.0001), positive NRI (12.50%, p &lt; 0.0001) and less discrepancy between observed and predicted probabilities (H-L χ2 for CHM: 35.81, p &lt; 0.0001; H-L χ2 for PHM: 23.75, p = 0.0025).
+CONCLUSIONS: Compared to CHM, PHM was associated with a more accurate prediction for HRCAD and might optimize downstream management strategy in symptomatic patients with DM.
+CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov (NCT04691037).
+
+Citation: Jiang H, et al. Validation and Comparison of PROMISE and CONFIRM Model to Predict High-Risk Coronary Artery Disease in Symptomatic and Diabetes Mellitus Patients. Validation and Comparison of PROMISE and CONFIRM Model to Predict High-Risk Coronary Artery Disease in Symptomatic and Diabetes Mellitus Patients. 2022; 23:80. doi: 10.31083/j.rcm2303080
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35345247/

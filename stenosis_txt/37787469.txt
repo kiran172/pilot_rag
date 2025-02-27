@@ -1,0 +1,12 @@
+PMID: 37787469
+Title: Characterizing the T Cell Repertoire in the Proximal Airway in Health and Disease.
+
+Abstract: OBJECTIVES: Recent translational scientific efforts in subglottic stenosis (SGS) support a disease model where epithelial alterations facilitate microbiome displacement, dysregulated immune activation, and localized fibrosis. Given the observed immune cell infiltrate in SGS, we sought to test the hypothesis that SGS cases possessed a low diversity (highly clonal) adaptive immune response when compared with healthy controls.
+METHODS: Single cell RNA sequencing (scRNA-seq) of subglottic mucosal scar in iSGS (n = 24), iLTS (n = 8), and healthy controls (n = 7) was performed. T cell receptor (TCR) sequences were extracted, analyzed, and used to construct repertoire structure, compare diversity, interrogate overlap, and define antigenic targets using the Immunarch bioinformatics pipeline.
+RESULTS: The proximal airway mucosa in health and disease are equally diverse via Hill framework quantitation (iSGS vs. iLTS vs. Control, p > 0.05). Repertoires do not significantly overlap between individuals (Morisita <0.02). Among iSGS patients, clonality of the TCR repertoire is driven by CD8+ T cells, and iSGS patients possess numerous TCRs targeting viral and intercellular pathogens. High frequency clonotypes do not map to known targets in public datasets.
+CONCLUSION: SGS cases do not possess a lower diversity adaptive immune infiltrate when compared with healthy controls. Interestingly, the TCR repertoire in both health and disease contains a restricted number of high frequency clonotypes that do not significantly overlap between individuals. The target of the high frequency clonotypes in health and disease remain unresolved.
+LEVEL OF EVIDENCE: NA Laryngoscope, 134:1757-1764, 2024.
+
+Citation: Clark EA, et al. Characterizing the T Cell Repertoire in the Proximal Airway in Health and Disease. Characterizing the T Cell Repertoire in the Proximal Airway in Health and Disease. 2024; 134:1757-1764. doi: 10.1002/lary.31088
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37787469/

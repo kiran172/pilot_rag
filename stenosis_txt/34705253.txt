@@ -1,0 +1,12 @@
+PMID: 34705253
+Title: The pediatric "Spine at Risk" program: 9-year review of a novel safety screening tool.
+
+Abstract: PURPOSE: We implemented an EMR-based "Spine at Risk" (SAR) alert program in 2011 to identify pediatric patients at risk for intraoperative spinal cord injury (SCI) and prompt an evaluation for peri-operative recommendations prior to anesthetic. SAR alerts were activated upon documentation of a qualifying ICD-9/10 diagnosis or manually entered by providers. We aimed to determine the frequency of recommended precautions for those auto-flagged by diagnosis versus by provider, the frequency of precautions, and whether the program prevented SCIs during non-spinal surgery.
+METHODS: We performed a retrospective chart review of patients from 2011 to 19 with an SAR alert. We recorded how the chart was flagged, recommended precautions, and reviewed data for SCIs at our institution during non-spinal operations.
+RESULTS: Of the 3453 patients with an SAR alert over the 9-year study period, 1963 were auto-flagged by diagnosis and 1490 by manual entry. Only 38.7% and 24.3% of the patients in these respective groups were assigned precaution recommendations, making the auto-flag 62.8% better than providers at identifying patients needing precautions. Cervical spine positioning precautions were needed most frequently (86.7% of diagnosis-flagged; 30.0% of provider-flagged), followed by intraoperative neuromonitoring (IONM) (25.2%; 6.1%), thoracolumbar positioning restrictions (16.1%; 7.9%), and fiberoptic intubation (13.9%; 5.7%). There were no SCIs in non-spinal procedures during the study.
+CONCLUSION: EMR-based alerts requiring evaluation by a Neurosurgeon or Orthopaedic surgeon prior to anesthesia can prevent SCIs during non-spinal procedures. The majority of identified patients are not found to be at risk, and will not require special precautions.
+LEVEL OF EVIDENCE: III.
+
+Citation: Galambas AK, et al. The pediatric "Spine at Risk" program: 9-year review of a novel safety screening tool. The pediatric "Spine at Risk" program: 9-year review of a novel safety screening tool. 2022; 10:327-334. doi: 10.1007/s43390-021-00430-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34705253/

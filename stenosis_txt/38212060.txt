@@ -1,0 +1,11 @@
+PMID: 38212060
+Title: PSCK9 inhibitors reduced early recurrent stroke in patients with symptomatic intracranial atherosclerotic stenosis.
+
+Abstract: BACKGROUND: Symptomatic intracranial atherosclerotic stenosis (ICAS) is prone to cause early recurrent stroke (ERS). Proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors lower low-density lipoprotein cholesterol (LDL-C) levels and prevent cardiovascular events. This multicentre, hospital-based prospective cohort study was designed to investigate whether PCSK9 inhibitors would prevent ERS in patients with symptomatic ICAS.
+METHODS: From 1 October 2020 to 30 September 2022, consecutive patients with acute ischaemic stroke attributed to ICAS admitted within 1 week after onset were enrolled and followed up for 1 month. Patients were divided into two groups, the PCSK9 inhibitors group receiving PCSK9 inhibitors add-on therapy, and the control group receiving statins and/or ezetimibe. The primary outcome was ERS. Cox proportional hazard models and Kaplan-Meier survival curve were used to estimate the association between PCSK9 inhibitors and ERS.
+RESULTS: At the end of follow-up, the LDL-C levels were further lowered by PCSK9 inhibitors add-on therapy (n=232, from 3.06±1.16 mmol/L to 2.12±1.19 mmol/L) than statins and/or ezetimibe treatment (n=429, from 2.91±1.05 mmol/L to 2.64±0.86 mmol/L, p<0.001). The Kaplan-Meier survival curves showed that PCSK9 inhibitors add-on therapy significantly reduced ERS (5.59%, 24/429, vs 2.16%, 5/232; log-rank test, p=0.044). The multivariate Cox regression analysis revealed that, after adjusting for confounders with a p value less than 0.05 in univariate analysis or of particular importance, the HR was 0.335 (95% CI 0.114 to 0.986, p=0.047), compared with the control group.
+CONCLUSIONS: In our study, PCSK9 inhibitors add-on therapy further reduced LDL-C levels and ERS in patients with symptomatic ICAS.
+
+Citation: Wu L, et al. PSCK9 inhibitors reduced early recurrent stroke in patients with symptomatic intracranial atherosclerotic stenosis. PSCK9 inhibitors reduced early recurrent stroke in patients with symptomatic intracranial atherosclerotic stenosis. 2024; 95:529-535. doi: 10.1136/jnnp-2023-332392
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38212060/

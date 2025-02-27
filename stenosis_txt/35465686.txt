@@ -1,0 +1,13 @@
+PMID: 35465686
+Title: Vitamin K2 and D in Patients With Aortic Valve Calcification: A Randomized Double-Blinded Clinical Trial.
+
+Abstract: BACKGROUND: Menaquinone-7 (MK-7), also known as vitamin K2, is a cofactor for the carboxylation of proteins involved in the inhibition of arterial calcification and has been suggested to reduce the progression rate of aortic valve calcification (AVC) in patients with aortic stenosis.
+METHODS: In a randomized, double-blind, multicenter trial, men from the community with an AVC score >300 arbitrary units (AU) on cardiac noncontrast computer tomography were randomized to daily treatment with tablet 720 µg MK-7 plus 25 µg vitamin D or matching placebo for 24 months. The primary outcome was the change in AVC score. Selected secondary outcomes included change in aortic valve area and peak aortic jet velocity on echocardiography, heart valve surgery, change in aortic and coronary artery calcification, and change in dp-ucMGP (dephosphorylated-undercarboxylated matrix Gla-protein). Safety outcomes included all-cause death and cardiovascular events.
+RESULTS: From February 1, 2018, to March 21, 2019, 365 men were randomized. Mean age was 71.0 (±4.4) years. The mean (95% CI) increase in AVC score was 275 AU (95% CI, 225-326 AU) and 292 AU (95% CI, 246-338 AU) in the intervention and placebo groups, respectively. The mean difference on AVC progression was 17 AU (95% CI, -86 to 53 AU; P=0.64). The mean change in aortic valve area was 0.02 cm2 (95% CI, -0.09 to 0.12 cm2; P=0.78) and in peak aortic jet velocity was 0.04 m/s (95% CI, -0.11 to 0.02 m/s; P=0.21). The progression in aortic and coronary artery calcification score was not significantly different between patients treated with MK-7 plus vitamin D and patients receiving placebo. There was no difference in the rate of heart valve surgery (1 versus 2 patients; P=0.99), all-cause death (1 versus 4 patients; P=0.37), or cardiovascular events (10 versus 10 patients; P=0.99). Compared with patients in the placebo arm, a significant reduction in dp-ucMGP was observed with MK-7 plus vitamin D (-212 pmol/L versus 45 pmol/L; P&lt;0.001).
+CONCLUSIONS: In elderly men with an AVC score >300 AU, 2 years MK-7 plus vitamin D supplementation did not influence AVC progression.
+REGISTRATION: URL: https://www.
+CLINICALTRIALS: gov; Unique identifier: NCT03243890.
+
+Citation: Diederichsen ACP, et al. Vitamin K2 and D in Patients With Aortic Valve Calcification: A Randomized Double-Blinded Clinical Trial. Vitamin K2 and D in Patients With Aortic Valve Calcification: A Randomized Double-Blinded Clinical Trial. 2022; 145:1387-1397. doi: 10.1161/CIRCULATIONAHA.121.057008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35465686/

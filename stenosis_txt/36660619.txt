@@ -1,0 +1,11 @@
+PMID: 36660619
+Title: Association of rare RNF213 variants and intracranial aneurysm risk in a Chinese population.
+
+Abstract: BACKGROUND: Genetic factors play important roles in the development of intracranial aneurysm (IA). Rare RNF213 variants have been identified as being susceptible to Moyamoya disease (MMD), non-MMD intracranial artery stenosis/occlusion disease, and other vascular disorders. This study aimed to investigate the association between rare RNF213 variants and the risk of IA in a Chinese population.
+METHODS: We recruited 174 patients with IA for RNF213 target exome sequencing. Information on the control subjects was obtained from the 1,000 Genome Project and GeneSky in-house database. After prioritizing rare RNF213 variants, the filtered variants were confirmed by Sanger sequencing. Gene-based association analyses were performed to identify the association between variants and the disease using burden and variance component methods; that is, the weighted-sum statistic (WSS) and the sequence kernel association test (SKAT), respectively. The Student's t-test, Chi-squared test, and Fisher's exact test were used to compare the clinical characteristics between carriers and non-carriers of the RNF213 variants.
+RESULTS: After filtering, there were 14 RNF213 variants in 18 patients with IA, which were significantly associated with the disease after the gene-based association tests [minor allele frequency (MAF) &lt;0.01, WSS P value 5.08×10-9; SKAT P value 2.96×10-6; SKAT-O P value 3.56×10-8]. Significant difference was not obtained between the carriers and non-carriers of the RNF213 variants in terms of the clinical characteristics.
+CONCLUSIONS: Rare RNF213 variants were associated with sporadic IA in a Chinese population. Our findings suggest that these rare RNF213 variants might have potentially important roles in IA. However, more comprehensive studies need to be conducted to confirm this association and causality.
+
+Citation: Li Y, et al. Association of rare RNF213 variants and intracranial aneurysm risk in a Chinese population. Association of rare RNF213 variants and intracranial aneurysm risk in a Chinese population. 2022; 10:1336. doi: 10.21037/atm-22-5166
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36660619/

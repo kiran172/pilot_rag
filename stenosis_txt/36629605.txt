@@ -1,0 +1,12 @@
+PMID: 36629605
+Title: Evaluation of Coronary Flow Level with Mots-C in Patients with STEMI Undergoing Primary PCI.
+
+Abstract: BACKGROUND: The protective effects of mitochondrial open reading frame of the 12S rRNA-c (MOTS-C) on cardiovascular diseases have been shown in numerous studies. However, there is little documentation of the relationship between MOTS-C and coronary blood flow in ST-segment elevation myocardial infarction (STEMI).
+OBJECTIVE: We aimed to investigate the role of MOTS-C, which is known to have cytoprotective properties in the pathogenesis of the no-reflow phenomenon, by comparing the coronary flow rate and MOTS-C levels in patients with STEMI submitted to primary PCI.
+METHODS: 52 patients with STEMI and 42 patients without stenosis >50% in the coronary arteries were included in the study. The STEMI group was divided into two groups according to post-PCI TIMI (Thrombolysis In Myocardial Infarction) flow grade:(i) No-reflow: grade 0, 1, and 2 and (ii) grade 3(angiographic success). A p value of <0.05 was considered significant.
+RESULTS: MOTS-C levels were significantly lower in the STEMI group compared to the control group (91.9 ± 8.9 pg/mL vs. 171.8±12.5 pg/mL, p<0.001). In addition, the Receiver Operating Characteristics (ROC) curve analysis indicated that serum MOTS-C levels had a diagnostic value in predicting no-reflow (Area Under the ROC curve [AUC]:0.95, 95% CI:0.856-0.993, p<0.001). A MOTS-C ≥84.15 pg/mL measured at admission was shown to have 95.3% sensitivity and 88.9% specificity in predicting no-reflow.
+CONCLUSION: MOTS-C is a strong and independent predictor of no-reflow and in-hospital MACE in patients with STEMI. It was also noted that low MOTS-C levels may be an important prognostic marker of and may have a role in the pathogenesis of STEMI.
+
+Citation: Çakmak T, et al. Evaluation of Coronary Flow Level with Mots-C in Patients with STEMI Undergoing Primary PCI. Evaluation of Coronary Flow Level with Mots-C in Patients with STEMI Undergoing Primary PCI. 2023; 120:e20220358. doi: 10.36660/abc.20220358
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36629605/

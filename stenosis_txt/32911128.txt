@@ -1,0 +1,11 @@
+PMID: 32911128
+Title: Feasibility of combined ECG-Gated and Helical acquisition mode in a pre-TAVI computed tomography angiography protocol using a fixed low-volume contrast medium injection.
+
+Abstract: BACKGROUND: To investigate the feasibility, image quality, and clinical implications of a combined ECG-gated and helical acquisition mode in a computed tomography angiography (CTA) protocol in patients scheduled for transcatheter aortic valve implantation (TAVI) using a fixed, low-volume, contrast medium injection.
+METHODS: Between July and October 2019, 43 TAVI candidates underwent investigation with CTA using a 64-slice CT scanner. Images obtained were prospectively evaluated. 65 mL of low iodine dose contrast medium (CM), followed by 25 mL of saline, were administered using a fixed multiphasic injection protocol in all patients. Patients were divided into three groups based on BMI: Group 1 (n = 9) with BMI &lt; 22 kg/m2; Group 2 (n = 22) with BMI 22-29 kg/m2; Group 3 (n = 12) with BMI &gt; 29 kg/m2. Images were evaluated for image quality, vessel attenuation (HU), Signal-to-Noise Ratio (SNR), Contrast-to-Noise Ratio (CNR) and estimated radiation dose. Image quality of the aortic root and iliac-femoral vessels was diagnostic in all patients.
+RESULTS: Vascular attenuation was > 200 HU and CNR > 3 at all vessel levels.
+CONCLUSION: Data from our study suggest that it is possible to image the aortic annulus and aorto-iliac anatomy and obtain high image quality in all patients by using a combined ECG-gated and helical acquisition mode in a computed tomography angiography (CTA) protocol with a fixed low-volume contrast medium injection (65 mL). This allows for accurate CT measurements of the aortic annulus, recruitment of patients for TAVI and facilitates pre-procedural planning in these high surgical risk patients.
+
+Citation: Gallo GS, et al. Feasibility of combined ECG-Gated and Helical acquisition mode in a pre-TAVI computed tomography angiography protocol using a fixed low-volume contrast medium injection. Feasibility of combined ECG-Gated and Helical acquisition mode in a pre-TAVI computed tomography angiography protocol using a fixed low-volume contrast medium injection. 2020; 131:109239. doi: 10.1016/j.ejrad.2020.109239
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32911128/

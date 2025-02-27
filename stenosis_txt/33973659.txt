@@ -1,0 +1,12 @@
+PMID: 33973659
+Title: Length of the Cricoid and Trachea in Children: Predicting Intubation Depth to Prevent Subglottic Stenosis.
+
+Abstract: OBJECTIVE: Define the length of the subglottis and trachea in children to predict a safe intubation depth.
+METHODS: Patients <18 years undergoing rigid bronchoscopy from 2013 to 2020 were included. The carina and inferior borders of the cricoid and true vocal folds were marked on a bronchoscope and distances were measured. Patient age, weight, height, and chest height were recorded. Four styles of cuffed pediatric endotracheal tubes (ETT) were measured and potential positions of each cuff and tip were calculated within each trachea using five depth of intubation scenarios. Multivariate linear regression was performed to identify predictors of subglottic and tracheal length.
+RESULTS: Measurements were obtained from 210 children (141 male, 69 female), mean (SD) age 3.21 (3.66) years. Patient height was the best predictor of subglottic length (R2 : 0.418): Length<sub>sg</sub> (mm) = 0.058 * height (cm) + 2.8, and tracheal length (R2 : 0.733): Length<sub>t</sub> (mm) = 0.485 * height (cm) + 21.3. None of the depth of intubation scenarios maintained a cuff-free subglottis for all ETT styles investigated. A formula for depth of intubation: Length<sub>di</sub> (mm) = 0.06 * height (cm) + 8.8 found that no ETT cuffs would be in the subglottis and all tips would be above the carina.
+CONCLUSION: Current strategies for determining appropriate depth of intubation pose a high risk of subglottic ETT cuff placement. Placing the inferior border of the vocal cords 0.06 * height (cm) + 8.8 from the superior border of the inflated ETT cuff may prevent subglottic cuff placement and endobronchial intubation.
+LEVEL OF EVIDENCE: 4 Laryngoscope, 132:S1-S10, 2022.
+
+Citation: Propst EJ, et al. Length of the Cricoid and Trachea in Children: Predicting Intubation Depth to Prevent Subglottic Stenosis. Length of the Cricoid and Trachea in Children: Predicting Intubation Depth to Prevent Subglottic Stenosis. 2022; 132 Suppl 2:S1-S10. doi: 10.1002/lary.29616
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33973659/

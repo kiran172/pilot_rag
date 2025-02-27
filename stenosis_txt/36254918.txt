@@ -1,0 +1,14 @@
+PMID: 36254918
+Title: Post-cardiopulmonary bypass longitudinal strain provides higher prognostic ability than baseline strain or change in strain.
+
+Abstract: CONTEXT: Global longitudinal strain (GLS) measured by speckle-tracking echocardiography demonstrates excellent prognostic ability in predicting major adverse cardiac events after cardiac surgery. However, the optimal timing of intraoperative GLS measurement that provides the best prognostic value is unclear.
+AIM: Our goal was to evaluate whether GLS measured prior to cardiopulmonary bypass (pre-CPB GLS), following CPB (post-CPB GLS), or change in GLS provides the strongest association with postoperative complications.
+SETTING AND DESIGN: Post hoc analysis of prospectively collected data from a clinical trial (NCT01187329). 72 patients with aortic stenosis undergoing elective AVR ± coronary artery bypass grafting between January 2011 and August 2013.
+MATERIAL AND METHODS: Myocardial deformation analysis from standardized transesophageal echocardiographic examinations were performed after anesthetic induction and chest closure. We evaluated the association between pre-CPB GLS, post-CPB GLS, and change in GLS (percent change from pre-CPB baseline) with postoperative atrial fibrillation and hospitalization >7 days. The association of post-CPB GLS with duration of mechanical ventilation, N-terminal pro-BNP (NT-proBNP) and troponin T were also assessed.
+STATISTICAL ANALYSIS: Multivariable logistic regression.
+RESULTS: Risk-adjusted odds (OR[97.5%CI] of prolonged hospitalization increased an estimated 27% (1.27[1.01 to 1.59];P<sub>adj</sub> =0.035) per 1% decrease in absolute post-CPB GLS. Mean[98.3%CI] NT-proBNP increased 98.4[20 to 177]pg/mL; P<sub>adj</sub> =0.008), per 1% decrease in post-CPB GLS. Pre-CPB GLS or change in GLS were not associated with any outcomes.
+CONCLUSIONS: Post-CPB GLS provides the best prognostic value in predicting postoperative outcomes. Measuring post-CPB GLS may improve risk stratification and assist in future study design and patient outcome research.
+
+Citation: Wakefield BJ, et al. Post-cardiopulmonary bypass longitudinal strain provides higher prognostic ability than baseline strain or change in strain. Post-cardiopulmonary bypass longitudinal strain provides higher prognostic ability than baseline strain or change in strain. 2022; 25:505-513. doi: 10.4103/aca.aca_295_20
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36254918/

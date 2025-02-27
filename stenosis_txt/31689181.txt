@@ -1,0 +1,12 @@
+PMID: 31689181
+Title: Segmentation-Based Blood Flow Parameter Refinement in Cerebrovascular Structures Using 4-D Arterial Spin Labeling MRA.
+
+Abstract: OBJECTIVE: Cerebrovascular diseases are one of the main global causes of death and disability in the adult population. The preferred imaging modality for the diagnostic routine is digital subtraction angiography, an invasive modality. Time-resolved three-dimensional arterial spin labeling magnetic resonance angiography (4D ASL MRA) is an alternative non-invasive modality, which captures morphological and blood flow data of the cerebrovascular system, with high spatial and temporal resolution. This work proposes advanced medical image processing methods that extract the anatomical and hemodynamic information contained in 4D ASL MRA datasets.
+METHODS: A previously published segmentation method, which uses blood flow data to improve its accuracy, is extended to estimate blood flow parameters by fitting a mathematical model to the measured vascular signal. The estimated values are then refined using regression techniques within the cerebrovascular segmentation. The proposed method was evaluated using fifteen 4D ASL MRA phantoms, with ground-truth morphological and hemodynamic data, fifteen 4D ASL MRA datasets acquired from healthy volunteers, and two 4D ASL MRA datasets from patients with a stenosis.
+RESULTS: The proposed method reached an average Dice similarity coefficient of 0.957 and 0.938 in the phantom and real dataset segmentation evaluations, respectively. The estimated blood flow parameter values are more similar to the ground-truth values after the refinement step, when using phantoms. A qualitative analysis showed that the refined blood flow estimation is more realistic compared to the raw hemodynamic parameters.
+CONCLUSION: The proposed method can provide accurate segmentations and blood flow parameter estimations in the cerebrovascular system using 4D ASL MRA datasets.
+SIGNIFICANCE: The information obtained with the proposed method can help clinicians and researchers to study the cerebrovascular system non-invasively.
+
+Citation: Phellan R, et al. Segmentation-Based Blood Flow Parameter Refinement in Cerebrovascular Structures Using 4-D Arterial Spin Labeling MRA. Segmentation-Based Blood Flow Parameter Refinement in Cerebrovascular Structures Using 4-D Arterial Spin Labeling MRA. 2020; 67:1936-1946. doi: 10.1109/TBME.2019.2951082
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31689181/

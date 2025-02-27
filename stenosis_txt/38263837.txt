@@ -1,0 +1,12 @@
+PMID: 38263837
+Title: Morning blood pressure surge and intracranial atherosclerotic plaque characteristics: a high-resolution magnetic resonance vessel wall imaging study.
+
+Abstract: OBJECTIVE: To investigate the relationship between morning blood pressure surge (MBPS) and intracranial atherosclerotic plaque burden and vulnerability.
+METHODS: A total of 267 ischaemic stroke patients were retrospectively analysed. Sleep-trough and prewaking MBPS were calculated from ambulatory blood pressure monitoring (ABPM). Plaque characteristics, including intraplaque haemorrhage (IPH), maximum wall thickness (max WT), and stenosis degree, were obtained from high-resolution MR vessel wall imaging (HR-vwMRI). Linear and logistic regression were used to detect the association.
+RESULTS: Subjects with the top tertile of sleep-trough MBPS (≥15.1 mmHg) had a lower prevalence (9.1% vs. 19.6%, P = .029) of severe stenosis (≥70%) than others. Subjects within the top tertile of prewaking MBPS (≥7.6 mmHg) had a lower percentage of IPH (27.3% vs. 40.4%, P = .035) than others. After adjusting for stroke risk factors (age, sex, diabetes, hyperlipidaemia, hyperhomocysteinaemia, smoking, and family stroke history) and 24-h mean systolic blood pressure, 10 mmHg sleep-trough MBPS increment was associated with 0.07mm max WT reduction, and the top tertile MBPS group was associated with a lower chance of severe stenosis (odd ratio = 0.407, 95% CI, 0.175-0.950). Additionally, an increased prewaking MBPS is associated with a lower incidence of IPH, with OR = 0.531 (95% CI, 0.296-0.952). Subgroup analysis demonstrated that the positive findings could only be seen in non-diabetic subjects.
+CONCLUSION: Increment of MBPS is negatively associated with intracranial atherosclerotic plaque burden and vulnerability, and this relationship remains significant in the non-diabetic subgroup.
+ADVANCES IN KNOWLEDGE: This study provided evidence that MBPS was associated with the intracranial atherosclerotic plaque burden and vulnerability on HR-vwMRI.
+
+Citation: Jiang Y, et al. Morning blood pressure surge and intracranial atherosclerotic plaque characteristics: a high-resolution magnetic resonance vessel wall imaging study. Morning blood pressure surge and intracranial atherosclerotic plaque characteristics: a high-resolution magnetic resonance vessel wall imaging study. 2024; 97:210-220. doi: 10.1093/bjr/tqad011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38263837/

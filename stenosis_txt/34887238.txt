@@ -1,0 +1,11 @@
+PMID: 34887238
+Title: Patient-specific computer simulation to predict long-term outcomes after transcatheter aortic valve replacement.
+
+Abstract: BACKGROUND: Patient-specific computer simulation may predict the development of paravalvular regurgitation (PVR) after transcatheter aortic valve replacement (TAVR). We hypothesised that patient-specific computer simulation might identify patients at risk for long-term adverse outcomes after TAVR.
+METHODS: A multi-centre retrospective study was performed on patients with symptomatic severe aortic stenosis who had undergone TAVR with a self-expanding transcatheter heart valve (THV). Pre-procedural cardiac computed tomography imaging was used to create finite element models of the aortic root. Finite element analysis (FEA) was performed in order to simulate the interaction between the THV and the native anatomy. The blood domain was extracted from the FEA output and computational fluid dynamics (CFD) simulation undertaken. Predicted PVR was recorded in the left ventricular outflow tract. Patients were classified into those where computer simulation predicted no significant PVR (predicted PVR from CFD <16.0 ​mL/s) and those where computer simulation predicted significant PVR (predicted PVR from CFD ≥16.0 ​mL/s).
+RESULTS: A total of 203 patients were included in the study. THVs implanted were CoreValve (n ​= ​20), Evolut R (n ​= ​90) and Evolut PRO (n ​= ​93). At 2 years, the Kaplan-Meier estimate of the rate of death from any cause was higher in the group where CFD simulation predicted significant PVR (35.8% vs. 16.3%; hazard ratio, 2.62; 95% confidence interval, 1.29 to 5.30; P ​= ​0.006 by log-rank test).
+CONCLUSIONS: Computer simulation may identify patients who are at a higher risk for death after TAVR.
+
+Citation: Dowling C, et al. Patient-specific computer simulation to predict long-term outcomes after transcatheter aortic valve replacement. Patient-specific computer simulation to predict long-term outcomes after transcatheter aortic valve replacement. 2022; 16:254-261. doi: 10.1016/j.jcct.2021.11.014
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34887238/

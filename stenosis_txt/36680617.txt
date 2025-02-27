@@ -1,0 +1,13 @@
+PMID: 36680617
+Title: Prediction of conduction disturbances in patients undergoing transcatheter aortic valve replacement.
+
+Abstract: AIM: Transcatheter aortic valve replacement (TAVR) can cause intraventricular conduction disturbances (ICA), particularly left bundle branch block (BBB) and high-degree atrioventricular block (HAVB). The aim of this study was to investigate clinical, anatomical, procedural, and electrophysiological parameters predicting ICA after TAVR.
+METHODS: Patients with severe aortic stenosis (n = 203) without pacing devices undergoing TAVR with a self-expanding (n = 103) or balloon-expanding (n = 100) valve were enrolled. Clinical and anatomical parameters, such as length of the membranous septum (MS) and implantation depth, were assessed. His-ventricular interval (HVi) before and after implantation was determined. 12-lead-electrocardiograms (ECG) before, during and after 3 and 30 days after TAVR were analyzed for detection of any ICA.
+RESULTS: Among 203 consecutive patients (aortic valve area 0.78 ± 0.18 cm2, age 80 ± 6 years, 54% male, left ventricular ejection fraction 52 ± 10%), TAVR led to a significant prolongation of infranodal conduction in all patients from 49 ± 10 ms to 59 ± 16 ms (p = 0.01). The HVi prolongation was independent of valve types, occurrence of HAVB or ICA. Fifteen patients (7%) developed HAVB requiring permanent pacemaker (PPM) implantation and 63 patients (31%) developed ICA within 30 days. Pre-existing BBB (OR 11.64; 95% CI 2.87-47.20; p = 0.001), new-onset left BBB (OR 15.72; 95% CI 3.05-81.03; p = 0.001), and diabetes mellitus (OR 3.88; 95% CI 1.30-15.99; p = 0.02) independently predicted HAVB requiring PPM. Neither pre-existing right BBB, a prolonged postHVi, increases in PR duration, any of the TAVR implantation procedural and anatomic nor echocardiographic characteristics were predictive for later HAVB.
+CONCLUSIONS: New-onset left BBB and diabetes mellitus independently predicted HAVB requiring PPM after TAVR and helped to identify patients at risk. Electrophysiologic study (EPS) of atrioventricular conduction was neither specific nor predictive of HAVB and can be skipped.
+TRIAL REGISTRATION NUMBER: NCT04128384 ( https://www.
+CLINICALTRIALS: gov ).
+
+Citation: Pavlicek V, et al. Prediction of conduction disturbances in patients undergoing transcatheter aortic valve replacement. Prediction of conduction disturbances in patients undergoing transcatheter aortic valve replacement. 2023; 112:677-690. doi: 10.1007/s00392-023-02160-0
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36680617/

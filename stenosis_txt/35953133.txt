@@ -1,0 +1,12 @@
+PMID: 35953133
+Title: Prevalence and Prognostic Implications of Discordant Grading and Flow-Gradient Patterns in Moderate Aortic Stenosis.
+
+Abstract: BACKGROUND: The prognostic implications of discordant grading in severe aortic stenosis (AS) are well known. However, the prevalence of different flow-gradient patterns and their prognostic implications in moderate AS are unknown.
+OBJECTIVES: The purpose of this study was to investigate the occurrence and prognostic implications of different flow-gradient patterns in patients with moderate AS.
+METHODS: Patients with moderate AS (aortic valve area &gt;1.0 and ≤1.5 cm2) were identified and divided in 4 groups based on transvalvular mean gradient (MG), stroke volume index (SVi), and left ventricular ejection fraction (LVEF): concordant moderate AS (MG ≥20 mm Hg) and discordant moderate AS including 3 subgroups: normal-flow, low-gradient moderate AS (MG &lt;20 mm Hg, SVi ≥35 mL/m2, and LVEF ≥50%); "paradoxical" low-flow, low-gradient moderate AS (MG &lt;20 mm Hg, SVi &lt;35 mL/m2, and LVEF ≥50%) and "classical" low-flow, low-gradient moderate AS (MG &lt;20 mm Hg and LVEF &lt;50%). The primary endpoint was all-cause mortality.
+RESULTS: Of 1,974 patients (age 73 ± 10 years, 51% men) with moderate AS, 788 (40%) had discordant grading, and these patients showed significantly higher mortality rates than patients with concordant moderate AS (P < 0.001). On multivariable analysis, "paradoxical" low-flow, low-gradient (HR: 1.458; 95% CI: 1.072-1.983; P = 0.014) and "classical" low-flow, low-gradient (HR: 1.710; 95% CI: 1.270-2.303; P < 0.001) patterns but not the normal-flow, low-gradient moderate AS pattern were independently associated with all-cause mortality.
+CONCLUSIONS: Discordant grading is frequently (40%) observed in patients with moderate AS. Low-flow, low-gradient patterns account for an important proportion of the discordant cases and are associated with increased mortality. These findings underline the need for better phenotyping patients with discordant moderate AS.
+
+Citation: Stassen J, et al. Prevalence and Prognostic Implications of Discordant Grading and Flow-Gradient Patterns in Moderate Aortic Stenosis. Prevalence and Prognostic Implications of Discordant Grading and Flow-Gradient Patterns in Moderate Aortic Stenosis. 2022; 80:666-676. doi: 10.1016/j.jacc.2022.05.036
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35953133/

@@ -1,0 +1,11 @@
+PMID: 33070395
+Title: Myocardial performance index is associated with cardiac computed tomography findings in patients with suspected coronary artery disease.
+
+Abstract: BACKGROUND: Studies suggest cardiac time intervals to be associated with cardiac ischemia. A novel method to assess cardiac time intervals by tissue Doppler echocardiography has been proposed. Cardiac time intervals can assess the myocardial performance index (MPI), which quantifies the proportion of time spent contributing effective myocardial work. We hypothesized that MPI associates with coronary artery lesions detected by cardiac computed tomography (CT) in patients suspected of coronary artery disease (CAD).
+METHODS: We investigated patients referred for cardiac CT under suspicion of CAD who had an echocardiogram performed. Curved m-mode tissue Doppler imaging was used to measure cardiac time intervals and MPI. The outcome was coronary artery lesions, defined as a calcium score > 400 and/or coronary artery stenosis (>70% luminal narrowing). Logistic regression was applied with multivariable models including: (a) SCORE chart risk factors and (b) SCORE chart risk factors, body mass index, dyslipidemia, familial history of CAD, diabetes mellitus, LVEF, and left ventricular mass index.
+RESULTS: Of 404 patients, 41 (10%) had a coronary artery lesion. Overall, 42% were male, mean age was 58 years, and LVEF was 58%. Patients with coronary artery lesions exhibited higher MPI than those without (0.52 vs. 0.44, P < .001). MPI associated with coronary artery lesions in unadjusted analyses (OR = 1.69 [1.30-2.19], per 0.1 increase), and this association persisted when adjusted for SCORE chart risk factors (OR = 1.55 [1.16-2.07], P = .003, per 0.1 increase), and additional risk factors (OR = 1.64 [1.11-2.41], P = .013, per 0.1 increase).
+CONCLUSION: Curved m-mode-derived MPI is associated with coronary artery lesions detected by cardiac CT in suspected CAD patients.
+
+Citation: Olsen FJ, et al. Myocardial performance index is associated with cardiac computed tomography findings in patients with suspected coronary artery disease. Myocardial performance index is associated with cardiac computed tomography findings in patients with suspected coronary artery disease. 2020; 37:1741-1748. doi: 10.1111/echo.14897
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33070395/

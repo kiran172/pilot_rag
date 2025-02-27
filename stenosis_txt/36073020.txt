@@ -1,0 +1,12 @@
+PMID: 36073020
+Title: Validation of reliability and predictivity of membrane septum length measurements for pacemaker need after transcatheter aortic valve replacement.
+
+Abstract: OBJECTIVES: To assess the inter methodological agreement of membrane septum (MS) length measurement and additive value for risk stratification of new pacemaker implantation (PMI) over the established predictors after transcatheter aortic valve replacement (TAVR).
+BACKGROUND: Recent studies have suggested MS length and implantation depth (ID) as predictors for PMI after TAVR. However, the measurement of MS length is neither uniform nor validated in different cohort.
+METHODS: We retrospectively analyzed patients who underwent TAVR at five centers. The MS length was measured by two previously proposed methods (coronal and annular view method). Predictive ability of risk factors, including MS length and ID, for new PMI within 30 days after TAVR were evaluated.
+RESULTS: Among 754 patients of study population, 31 patients (4.1%) required new PMI within 30 days of TAVR. There was a weak correlation (ρ = 0.47) and a poor agreement between the two methods. The ID and the difference between MS length and ID (ΔMSID), were independent predictors for new PMI, whereas MS length alone was not. Further, for predicting new PMI after TAVR, discrimination performance was not significantly improved when MS length was added to the model with ID alone (integrated discrimination improvement = 0, p= 0.99; continuous net-reclassification improvement = 0.10, p= 0.62).
+CONCLUSIONS: External validity and predictive accuracy of MS length for PMI after TAVR were not sufficient to provide better risk stratification over the established predictors in our cohort. Moreover, the ID and ΔMSID, but not MS length alone, are predictive of future PMI after TAVR.
+
+Citation: Hioki H, et al. Validation of reliability and predictivity of membrane septum length measurements for pacemaker need after transcatheter aortic valve replacement. Validation of reliability and predictivity of membrane septum length measurements for pacemaker need after transcatheter aortic valve replacement. 2022; 100:868-876. doi: 10.1002/ccd.30377
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36073020/

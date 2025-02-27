@@ -1,0 +1,11 @@
+PMID: 36378884
+Title: The potential function of SP1 and CPPED1 in restenosis after percutaneous coronary intervention.
+
+Abstract: OBJECTIVES: Impacts of molecular pathways have been discussed recently on restenosis after percutaneous coronary intervention (PCI). Hence, this study aimed to explore the impact of calcineurin-like phosphoesterase domain containing 1 (CPPED1) and specificity protein 1 (SP1) on restenosis after PCI.
+METHODS: A carotid balloon injury rat model was established, followed by western blot analysis of SP1 and CPPED1 expression in carotid artery (CA) tissues. After SP1 and CPPED1 were overexpressed, the neointimal hyperplasia and luminal stenosis were assessed. In addition, EPC underwent hypoxia/reoxygenation (H/R) treatment to construct an endothelial injury cell model. Then, cell proliferation, apoptosis, intracellular reactive oxygen species (ROS), and Ca2+ concentration were detected with cell counting kit-8 (CCK-8), flow cytometry, Chloromethyl-2'7'-dichlorofluorescein diacetate (CM-H2DCFDA) penetrant, and Fluo-4 AM staining, respectively. The binding relationship between SP1 and CPPED1 was verified by dual-luciferase reporter and chromatin immunoprecipitation (ChIP) assays.
+RESULTS: SP1 and CPPED1 were lowly expressed in the model rats with carotid balloon injury. Mechanistically, SP1 bound to the promoter region of CPPED1 to activate CPPED1 expression. Overexpressing SP1 or CPPED1 lowered neointimal formation and restenosis rate, thus promoting the recovery of carotid balloon injury in rats. Meanwhile, SP1 and CPPED1 upregulation reduced ROS levels, Ca2+ concentration, and apoptosis of EPCs, accompanied by accelerated EPC viability.
+CONCLUSIONS: SP1 or CPPED1 overexpression reduced neointimal formation and restenosis rate in carotid balloon injury.
+
+Citation: Wang Z, et al. The potential function of SP1 and CPPED1 in restenosis after percutaneous coronary intervention. The potential function of SP1 and CPPED1 in restenosis after percutaneous coronary intervention. 2022; 37:5111-5119. doi: 10.1111/jocs.17218
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36378884/

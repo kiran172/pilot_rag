@@ -1,0 +1,11 @@
+PMID: 35610138
+Title: Implementation of Robotic-Assisted Percutaneous Coronary Intervention Into a High-Risk PCI Program.
+
+Abstract: BACKGROUND: How to implement robotic-assisted PCI safely and when to escalate to more complex cases has not been previously described. We sought to evaluate clinical outcomes in patients undergoing robotic-assisted PCI in the first year of a newly established robotic-assisted PCI program.
+METHODS: All patients who underwent robotic-assisted PCI in the first 12 months at a single academic center were included in the study. Lesion complexity was characterized as "PRECISE-like", "CORA-PCI-like", or "CORA-PCI excluded" based on established criteria. The primary outcome was clinical success, defined as <30% residual stenosis after stenting with a final TIMI flow grade 2-3 and no procedural complications. Secondary outcomes included robotic success, defined as clinical success with robotic completion, unintentional manual conversion rate, procedure time, and procedural complications.
+RESULTS: Of the 57 consecutive lesions treated, 12 (22.6%) had a PRECISE-like lesion complexity while 32 (56.1%) had a CORA- PCI-like, and 13 (22.8%) a CORA-PCI excluded lesion complexity. There was no significant difference in clinical success (100.0% vs. 96.7% vs. 100.0%, p = 1.00) among the groups but robotic success was numerically lower as complexity increased (100.0% vs. 80.0% vs. 72.7%, p = 0.15), with an increased frequency of manual conversion. There was no significant difference in procedural complication rates among the groups. The robotic completion rate improved during the study period.
+CONCLUSION: Robotic-assisted PCI, can be safely implemented in a moderate-sized academic center, with a rapid escalation in patient and lesion complexity.
+
+Citation: Chitturi KR, et al. Implementation of Robotic-Assisted Percutaneous Coronary Intervention Into a High-Risk PCI Program. Implementation of Robotic-Assisted Percutaneous Coronary Intervention Into a High-Risk PCI Program. 2022; 43:115-119. doi: 10.1016/j.carrev.2022.05.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35610138/

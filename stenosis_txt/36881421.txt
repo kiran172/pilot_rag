@@ -1,0 +1,12 @@
+PMID: 36881421
+Title: Second-Line Myocardial Perfusion Imaging to Detect Obstructive Stenosis: Head-to-Head Comparison of CMR and PET.
+
+Abstract: BACKGROUND: Guidelines recommend verification of myocardial ischemia by selective second-line myocardial perfusion imaging (MPI) following a coronary computed tomography angiography (CTA) with suspected obstructive coronary artery disease (CAD). Head-to-head data on the diagnostic performance of different MPI modalities in this setting are sparse.
+OBJECTIVES: The authors sought to compare, head-to-head, the diagnostic performance of selective MPI by 3.0-T cardiac magnetic resonance (CMR) and 82rubidium positron emission tomography (RbPET) in patients with suspected obstructive stenosis at coronary CTA using invasive coronary angiography (ICA) with fractional flow reserve (FFR) as reference.
+METHODS: Consecutive patients (n = 1,732, mean age: 59.1 ± 9.5 years, 57.2% men) referred for coronary CTA with symptoms suggestive of obstructive CAD were included. Patients with suspected stenosis were referred for both CMR and RbPET and subsequently ICA. Obstructive CAD was defined as FFR ≤0.80 or >90% diameter stenosis by visual assessment.
+RESULTS: In total, 445 patients had suspected stenosis on coronary CTA. Of these, 372 patients completed both CMR, RbPET and subsequent ICA with FFR. Hemodynamically obstructive CAD was identified in 164 of 372 (44.1%) patients. Sensitivities for CMR and RbPET were 59% (95% CI: 51%-67%) and 64% (95% CI: 56%-71%); P = 0.21, respectively, and specificities 84% (95% CI: 78%-89%) and 89% (95% CI: 84%-93%]); P = 0.08, respectively. Overall accuracy was higher for RbPET compared with CMR (73% vs 78%; P = 0.03).
+CONCLUSIONS: In patients with suspected obstructive stenosis at coronary CTA, CMR, and RbPET show similar and moderate sensitivities but high specificities compared with ICA with FFR. This patient group represents a diagnostic challenge with frequent mismatch between advanced MPI tests and invasive measurements. (Danish Study of Non-Invasive Diagnostic Testing in Coronary Artery Disease 2 [Dan-NICAD 2]; NCT03481712).
+
+Citation: Rasmussen LD, et al. Second-Line Myocardial Perfusion Imaging to Detect Obstructive Stenosis: Head-to-Head Comparison of CMR and PET. Second-Line Myocardial Perfusion Imaging to Detect Obstructive Stenosis: Head-to-Head Comparison of CMR and PET. 2023; 16:642-655. doi: 10.1016/j.jcmg.2022.11.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36881421/

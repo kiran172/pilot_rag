@@ -1,0 +1,11 @@
+PMID: 39139424
+Title: Comparison of Fractional Flow Reserve and Resting Full-Cycle Ratio in the Functional Assessment of Coronary Artery Stenosis in Patients with Non-ST-Segment Elevation Acute Coronary Syndrome.
+
+Abstract: BACKGROUND: This study investigated factors influencing discrepancies between fractional flow reserve (FFR) and resting full-cycle ratio (RFR) in the functional assessment of coronary artery stenosis in patients with non-ST-segment elevation acute coronary syndrome (NSTE-ACS).
+METHODS: We included 320 diseased vessels from 253 consecutive patients with NSTE-ACS. Vessels were categorized into four groups based on FFR ≤ 0.80 and RFR ≤ 0.89 thresholds: group 1 concordant negative (RFR-/FFR-), group 2 positive RFR and negative FFR (RFR+/FFR-), group 3 negative RFR and positive FFR (RFR-/FFR+), and group 4 concordant positive (RFR+/FFR+). Univariate and multivariate logistic regression analyses were conducted to identify predictors of diagnostic discrepancy between FFR and RFR.
+RESULTS: Of the 320 diseased vessels, 182 (56.9%) were in group 1 (RFR-/FFR-), 33 (10.3%) in group 2 (RFR+/FFR-), 31 (9.7%) in group 3 (RFR-/FFR+), and 74 (23.1%) in group 4 (RFR+/FFR+). The concordance between FFR and RFR was 80.0%. Notably, left anterior descending artery (LAD) lesions exhibited significantly lower consistency compared to non-LAD lesions (p = 0.001), with distinct differences in FFR and RFR values between these groups (p &lt; 0.001). The presence of a LAD lesion emerged as an independent predictor of diagnostic inconsistency between positive RFR and negative FFR measurements (p = 0.001).
+CONCLUSIONS: LAD involvement independently predicts diagnostic discrepancies between FFR and RFR in evaluating functional coronary artery stenosis in NSTE-ACS patients.
+
+Citation: Lei Y, et al. Comparison of Fractional Flow Reserve and Resting Full-Cycle Ratio in the Functional Assessment of Coronary Artery Stenosis in Patients with Non-ST-Segment Elevation Acute Coronary Syndrome. Comparison of Fractional Flow Reserve and Resting Full-Cycle Ratio in the Functional Assessment of Coronary Artery Stenosis in Patients with Non-ST-Segment Elevation Acute Coronary Syndrome. 2024; 25:260. doi: 10.31083/j.rcm2507260
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39139424/

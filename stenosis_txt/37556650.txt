@@ -1,0 +1,12 @@
+PMID: 37556650
+Title: Tricuspid Regurgitation and Mortality in Patients Undergoing Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis.
+
+Abstract: BACKGROUND: The extent of cardiac damage associated with aortic stenosis has important prognostic implications after transcatheter aortic valve replacement (TAVR). However, the role of tricuspid regurgitation (TR) in this clinical setting is still unclear.
+OBJECTIVES: To explore the association between TR and mortality in patients undergoing TAVR and assess changes in TR severity post TAVR and its relationship with short and mid-term mortality.
+METHODS: Relevant databases were searched for articles published from inception until August 2020. Out of 414 screened studies, we selected 24 that reported the degree of TR pre or post TAVR. The primary outcome was all-cause mortality, and random effects meta-analysis models were conducted (at a significance level of 5%).
+RESULTS: Seventeen studies reported associations between pre-TAVR TR and all-cause mortality (> 45,000 participants) and thirteen accessed TR severity post TAVR (709 participants). Moderate/severe baseline TR was associated to higher all-cause mortality both at 30 days (HR 1.65; 95% CI, 1.20-2.29) and 1.2 years (HR 1.56; 95% CI, 1.31-1.84). After TAVR, 43% of patients presented a decrease of at least one grade in TR (30 days, 95% CI, 30-56%), sustained at 12.5 months in 44% of participants (95% CI, 35-52%). Persistence of significant TR was associated with a two-fold increase in all-cause mortality (HR 2.12; 95% CI, 1.53-2.92).
+CONCLUSIONS: Significant TR pre TAVR is associated with higher mortality. Although TR severity may improve, the persistence of significant TR post TAVR is strongly associated with increased mortality. Our findings highlight the importance of a detailed assessment of TR pre and post TAVR and might help identify patients who may benefit from more careful surveillance in this scenario.
+
+Citation: Erbano BO, et al. Tricuspid Regurgitation and Mortality in Patients Undergoing Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis. Tricuspid Regurgitation and Mortality in Patients Undergoing Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis. 2023; 120:e20220319. doi: 10.36660/abc.20220319
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37556650/

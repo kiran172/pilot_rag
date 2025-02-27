@@ -1,0 +1,11 @@
+PMID: 36681533
+Title: Improvement of Spatial Resolution on Coronary CT Angiography by Using Super-Resolution Deep Learning Reconstruction.
+
+Abstract: RATIONALE AND OBJECTIVES: Our objective was to compare the image quality of coronary CT angiography reconstructed with super-resolution deep learning reconstruction (SR-DLR) and with hybrid iterative reconstruction (IR) images.
+MATERIALS AND METHODS: This retrospective study included 100 patients who underwent coronary CT angiography using a 320-detector-row CT scanner. The CT images were reconstructed with hybrid IR and SR-DLR. The standard deviation of the CT number was recorded and the CT attenuation profile across the left main coronary artery was generated to calculate the contrast-to-noise ratio (CNR) and measure the edge rise slope (ERS). Overall image quality was evaluated and plaque detectability was assessed on a 4-point scale (1 = poor, 4 = excellent). For reference, invasive coronary angiography of 14 patients was used.
+RESULTS: The mean image noise on SR-DLR was significantly lower than on hybrid IR images (15.6 vs 22.9 HU; p < 0.01). The mean CNR was significantly higher and the ERS was steeper on SR-DLR- compared to hybrid IR images (CNR: 32.4 vs 20.4, p < 0.01; ERS: 300.0 vs 198.2 HU/mm, p < 0.01). The image quality score was better on SR-DLR- than on hybrid IR images (3.6 vs 3.1; p < 0.01). SR-DLR increased the detectability of plaques with < 50% stenosis (p < 0.01).
+CONCLUSION: SR-DLR was superior to hybrid IR with respect to the image noise, the sharpness of coronary artery margins, and plaque detectability.
+
+Citation: Tatsugami F, et al. Improvement of Spatial Resolution on Coronary CT Angiography by Using Super-Resolution Deep Learning Reconstruction. Improvement of Spatial Resolution on Coronary CT Angiography by Using Super-Resolution Deep Learning Reconstruction. 2023; 30:2497-2504. doi: 10.1016/j.acra.2022.12.044
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36681533/

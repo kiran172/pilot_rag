@@ -1,0 +1,12 @@
+PMID: 31674069
+Title: Magnetic resonance enterography for predicting the clinical course of Crohn's disease strictures.
+
+Abstract: BACKGROUND AND AIMS: Strictures are the most common Crohn's disease complication, but their natural history is unknown. This study aimed to characterize inflammation, predict prognosis, and understand the impact of drug therapy using magnetic resonance enterography (MRE).
+METHODS: Patients with a stricture diagnosed on MRE over a 5-year period were reviewed for MRE disease extent and inflammation, clinical course, C-reactive protein, response to anti-TNF therapy, endoscopic dilatation, hospitalization, and surgery.
+RESULTS: 136 patients had 235 strictures (77, one and 59, ≥ 2 strictures).
+TREATMENT: 46% of patients underwent surgery after a median 6 months; median follow-up for those not requiring surgery was 41 months. Predictors of surgery: Hospitalization because of obstruction predicted subsequent surgery (OR 2.50; 95% CI 1.06-5.90) while anti-TNF therapy commenced at stricture diagnosis was associated with a reduced risk (OR 0.23; 95% CI 0.05-0.99). MRE characteristics associated with surgery were proximal bowel dilatation ≥ 30-mm diameter (OR 2.98; 95% CI 1.36-6.55), stricture bowel wall thickness ≥ 10-mm (OR 2.42; 95% CI 1.11-5.27), and stricture length > 5-cm (OR 2.56; 95% CI 1.21-5.43). 81% of patients with these three adverse MRE features required surgery versus 17% if none were present (P < 0.001). Accuracy for these three MRE variables predicting surgery was high (AUC 0.76).
+CONCLUSION: Magnetic resonance enterography findings in Crohn's disease strictures are highly predictive of the disease course and the need for future surgery. MRE may also identify who would benefit from treatment intensification. Anti-TNF therapy is associated with reduced risk of surgery and appears to alter the natural history of this complication.
+
+Citation: Schulberg JD, et al. Magnetic resonance enterography for predicting the clinical course of Crohn's disease strictures. Magnetic resonance enterography for predicting the clinical course of Crohn's disease strictures. 2020; 35:980-987. doi: 10.1111/jgh.14908
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31674069/

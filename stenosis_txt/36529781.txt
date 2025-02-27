@@ -1,0 +1,11 @@
+PMID: 36529781
+Title: Transcatheter and surgical aortic valve replacement in patients with left ventricular dysfunction.
+
+Abstract: BACKGROUND: Patients with severe aortic stenosis and left ventricular systolic dysfunction have a poor prognosis, and this may result in inferior survival also after aortic valve replacement. The outcomes of transcatheter and surgical aortic valve replacement were investigated in this comparative analysis.
+METHODS: The retrospective nationwide FinnValve registry included data on patients who underwent transcatheter or surgical aortic valve replacement with a bioprosthesis for severe aortic stenosis. Propensity score matching was performed to adjust the outcomes for baseline covariates of patients with reduced (≤ 50%) left ventricular ejection fraction.
+RESULTS: Within the unselected, consecutive 6463 patients included in the registry, the prevalence of reduced ejection fraction was 20.8% (876 patients) in the surgical cohort and 27.7% (452 patients) in the transcatheter cohort. Reduced left ventricular ejection fraction was associated with decreased survival (adjusted hazards ratio 1.215, 95%CI 1.067-1.385) after a mean follow-up of 3.6 years. Among 255 propensity score matched pairs, 30-day mortality was 3.1% after transcatheter and 7.8% after surgical intervention (p = 0.038). One-year and 4-year survival were 87.5% and 65.9% after transcatheter intervention and 83.9% and 69.6% after surgical intervention (restricted mean survival time ratio, 1.002, 95%CI 0.929-1.080, p = 0.964), respectively.
+CONCLUSIONS: Reduced left ventricular ejection fraction was associated with increased morbidity and mortality after surgical and transcatheter aortic valve replacement. Thirty-day mortality was higher after surgery, but intermediate-term survival was comparable to transcatheter intervention. Trial registration The FinnValve registry ClinicalTrials.gov Identifier: NCT03385915.
+
+Citation: Jalava MP, et al. Transcatheter and surgical aortic valve replacement in patients with left ventricular dysfunction. Transcatheter and surgical aortic valve replacement in patients with left ventricular dysfunction. 2022; 17:322. doi: 10.1186/s13019-022-02061-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36529781/

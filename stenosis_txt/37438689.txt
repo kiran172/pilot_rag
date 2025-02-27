@@ -1,0 +1,11 @@
+PMID: 37438689
+Title: Congenital heart diseases with airway stenosis: a predictive nomogram to risk-stratify patients without airway intervention.
+
+Abstract: BACKGROUND: This study focused on congenital heart disease (CHD) patients complicated with airway stenosis (AS) without airway intervention and aimed to identify the patients with potential risks.
+METHODS: Patients diagnosed with CHD and AS were enrolled in this retrospective study. The primary outcome was defined as a postoperative mechanical ventilation duration of more than two weeks. We constructed a prediction model to predict the risk of prolonged mechanical ventilation (PMV).
+RESULTS: A total of 185 patients diagnosed with CHD and AS in Fuwai Hospital from July 2009 to December 2022 were included in the study. Weight at CHD surgery, cardiopulmonary bypass (CPB) duration, complex CHD and comorbid tracheobronchomalacia were identified as risk factors and included in the model. The ROC curve showed a good distinguishing ability, with an AUC of 0.847 (95% CI: 0.786-0.908). According to the optimal cut-off value of the ROC curve, patients were divided into high- and low-risk groups, and the subsequent analysis showed significant differences in peri-operative characteristics and in-hospital deaths.
+CONCLUSIONS: With the predictive model, several factors could be used to assess the risky patients with PMV. More attention should be paid to these patients by early identification and routine surveillance.
+
+Citation: He Q, et al. Congenital heart diseases with airway stenosis: a predictive nomogram to risk-stratify patients without airway intervention. Congenital heart diseases with airway stenosis: a predictive nomogram to risk-stratify patients without airway intervention. 2023; 23:351. doi: 10.1186/s12887-023-04160-5
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37438689/

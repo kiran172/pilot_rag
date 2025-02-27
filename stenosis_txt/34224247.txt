@@ -1,0 +1,11 @@
+PMID: 34224247
+Title: Normalized intraplaque hemorrhage signal on MP-RAGE as a marker for acute ischemic neurological events.
+
+Abstract: PURPOSE: This study sought to validate whether the signal intensity ratio (SIR) of carotid intraplaque hemorrhage (IPH) was associated with acute ischemic neurologic events.
+METHODS: A retrospective review was completed of consecutive patients that underwent neck magnetic resonance angiography using magnetization prepared-rapid gradient echo (MP-RAGE) and T1-CUBE sequences between 2017 and 2020. Patients with magnetic resonance evidence of IPH were included. SIRs were measured by comparing the maximum IPH signal with the mean intramuscular signal from the adjacent sternocleidomastoid. Patients were stratified into ischemic or non-ischemic groups based on the presence of acute ipsilateral ischemic events (stroke, retinal artery occlusion). Logistic regression analysis was performed to determine if increasing IPH SIR was associated with an increased risk of ipsilateral ischemic events.
+RESULTS: Of 85 included patients (85 arteries), 66 were male (77.6%). Mean age was 71.0 (SD ± 11.1). There were 70 arteries with IPH that were ipsilateral to an ischemic event, and 15 that belonged to patients without an ischemic event. No association was found between increasing IPH SIR seen on MP-RAGE (odds ratio (OR): 0.82; 95% confidence interval (CI): 0.58-1.4; P = 0.43) or T1-CUBE sequences (OR: 0.85; 95% CI: 0.53-1.5; P = 0.56).
+CONCLUSIONS: There was no association between the SIR of IPH and acute ischemia on either MP-RAGE or T1-CUBE sequences. Further investigation is required prior to widespread acceptance of SIR as a predictive imaging marker of symptomatic carotid plaque.
+
+Citation: Larson AS, et al. Normalized intraplaque hemorrhage signal on MP-RAGE as a marker for acute ischemic neurological events. Normalized intraplaque hemorrhage signal on MP-RAGE as a marker for acute ischemic neurological events. 2022; 35:112-118. doi: 10.1177/19714009211029263
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34224247/

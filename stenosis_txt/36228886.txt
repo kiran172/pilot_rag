@@ -1,0 +1,11 @@
+PMID: 36228886
+Title: Relationship of Neighbourhood Social Deprivation and Ethnicity on Access to Transcatheter and Surgical Aortic Valve Replacement: A Population-Level Study.
+
+Abstract: BACKGROUND: Wide geographic variation in access to transcatheter (TAVR) and surgical (SAVR) aortic valve replacement exists, but the impact of socioethnic factors on the geographic variation of AS management in Ontario, Canada, is unknown.
+METHODS: Neighbourhood rates of AS admissions, as a proxy for AS burden, and downstream TAVR and SAVR referrals and procedures were estimated for the 76 subregions in Ontario. To determine if the socioethnic geographic variations in referrals and procedures were concordant or discordant with AS burden, we calculated Pearson correlation coefficients to determine the relationship between AS burden and each of TAVR referrals, TAVR procedures, SAVR referrals, or SAVR procedures. We developed generalised linear models to determine the association between social deprivation indices captured in the Ontario Marginalization index and the rates of AS burden as well as TAVR/SAVR referral and procedures.
+RESULTS: There was wide geographic variation that was concordant between AS burden and the referral and procedure rates for TAVR and SAVR (correlation coefficients 0.86-0.96). Increased dependency was associated with higher rates of both TAVR/SAVR referrals and procedures (rate ratios 1.63-2.22). Neighbourhoods with a higher concentration of ethnic minorities were associated with lower AS burden as well as lower rates of both SAVR and TAVR referrals and procedures (rate ratios 0.57-0.85).
+CONCLUSIONS: An important ethnic gradient exists in AS burden and in both referral and completion of TAVR and SAVR in Ontario. Further research is necessary to understand if this gradient is appropriate or requires mitigation.
+
+Citation: Marcus G, et al. Relationship of Neighbourhood Social Deprivation and Ethnicity on Access to Transcatheter and Surgical Aortic Valve Replacement: A Population-Level Study. Relationship of Neighbourhood Social Deprivation and Ethnicity on Access to Transcatheter and Surgical Aortic Valve Replacement: A Population-Level Study. 2023; 39:22-31. doi: 10.1016/j.cjca.2022.10.002
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36228886/

@@ -1,0 +1,11 @@
+PMID: 38101196
+Title: Differentiation of malignant from benign ampullary strictures: A prediction nomogram based on MR imaging and clinical findings.
+
+Abstract: PURPOSE: To construct a predictive nomogram based on contrast-enhanced magnetic resonance imaging (MRI) and clinical findings for differentiating malignant from benign ampullary strictures.
+METHOD: In this retrospective study, 76 patients with ampullary strictures (51 benign and 25 malignant) who underwent contrast-enhanced MRI were enrolled. Imaging findings were evaluated independently by two abdominal radiologists who reached consensus. Clinical findings were also collected. Significant findings for malignant ampullary strictures were assessed by univariable and multivariable logistic regression analyses. Based on the results of multivariable analysis, a nomogram to differentiate malignant from benign ampullary strictures was developed and internally validated.
+RESULTS: In multivariable analysis, presence of an ampullary mass (odds ratio [OR]: 8.42, p = 0.047), bulging ampulla (OR: 8.32, p = 0.033), diffusion restriction of the ampulla (OR: 42.76, p = 0.004) on MRI, and jaundice (OR: 12.41, p = 0.019) were significant predictors of malignant ampullary strictures. A predictive nomogram was constructed using these findings. Among them, diffusion restriction of the ampulla showed the highest OR and predictor score on the nomogram. The calibration plots for internal validation achieved strong agreement between the predicted probabilities and the actual rates of malignant ampullary strictures.
+CONCLUSION: A combination of significant contrast-enhanced MRI and clinical findings of ampullary mass, bulging ampulla, diffusion restriction of the ampulla, and jaundice may be useful in the prediction of malignant ampullary stricture.
+
+Citation: Lee JE, et al. Differentiation of malignant from benign ampullary strictures: A prediction nomogram based on MR imaging and clinical findings. Differentiation of malignant from benign ampullary strictures: A prediction nomogram based on MR imaging and clinical findings. 2024; 170:111228. doi: 10.1016/j.ejrad.2023.111228
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38101196/

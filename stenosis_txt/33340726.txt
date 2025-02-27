@@ -1,0 +1,11 @@
+PMID: 33340726
+Title: Degenerative Lumbar Stenosis Surgery: Predictive Factors of Clinical Outcome-Experience with 1001 Patients.
+
+Abstract: BACKGROUND: Degenerative lumbar spinal stenosis (DLSS) carries a high risk of morbidity and represents a financial burden to society. A late diagnosis can lead to severe disability. Although lumbar decompressive surgery has been widely used worldwide, the proper preoperative factors to define the ideal candidates for decompression are missing.
+METHODS: A total of 1001 patients who had undergone decompressive surgery from 2012 to 2019 for DLSS were screened for the presence of 9 clinical and radiological parameters. For all cases, the differences between the baseline and postoperative Oswestry disability index were calculated and the results categorized as 5 different classes (ranging from very poor outcomes to excellent outcomes) according to the specific scores. Generalized ordinal logistic regression was then used to analyze the significance of the 9 parameters (coded as dummy variables) in predicting the outcome as measured by Oswestry disability index improvement after surgery.
+RESULTS: Of the 9 parameters, 8 were found to be significant predictors. The radiological grade of compression was the strongest, followed by polyneuropathy, obesity, symptom duration, gait autonomy, radicular deficits, American Society of Anesthesiologists score, and level of surgery. In contrast, previous back surgery was not predictive of the outcome.
+CONCLUSIONS: Our findings have indicated that the ideal candidate for surgery will have the following preoperative characteristics: Schizas grade D, no signs of peripheral polyneuropathy, body mass index &lt;30 kg/m2, symptom duration of &lt;2 years, gait autonomy &lt;100 m, no radicular deficits, 1 level of stenosis, and an American Society of Anesthesiologists score of 1, 2, or 3.
+
+Citation: Aimar E, et al. Degenerative Lumbar Stenosis Surgery: Predictive Factors of Clinical Outcome-Experience with 1001 Patients. Degenerative Lumbar Stenosis Surgery: Predictive Factors of Clinical Outcome-Experience with 1001 Patients. 2021; 147:e306-e314. doi: 10.1016/j.wneu.2020.12.048
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33340726/

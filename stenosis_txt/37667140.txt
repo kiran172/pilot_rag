@@ -1,0 +1,8 @@
+PMID: 37667140
+Title: Addressing the longitudinal components of surgical treatments.
+
+Abstract: Despite their pre- and postoperative components, surgical treatment strategies have typically been cast as point interventions in causal inference research. When longitudinal perioperative components affect outcomes of interest, leaving them unspecified or failing to measure adherence to them complicates the interpretation of effect estimates. Inspired by two recent landmark trials that assessed the risk of stroke or death after transcatheter aortic valve replacement (TAVR) compared with surgical aortic valve replacement (SAVR), the PARTNER 3 trial and the Evolut Low Risk trial, we discuss possible ways that different postoperative therapies in treatment arms and incomplete adherence to those therapies can impact the interpretation of intention-to-treat effect estimates in surgical trials. We argue that surgical treatments are not necessarily point interventions, and make recommendations for improving the design and analysis of trials involving surgical interventions. Central to these recommendations is the need for investigators to specify and report adherence to longitudinal perioperative treatment components.
+
+Citation: Messinger CJ, et al. Addressing the longitudinal components of surgical treatments. Addressing the longitudinal components of surgical treatments. 2023; 38:1019-1023. doi: 10.1007/s10654-023-01045-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37667140/

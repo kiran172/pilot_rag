@@ -1,0 +1,12 @@
+PMID: 32029248
+Title: Complete 2-Year Results Confirm Bayesian Analysis of the SURTAVI Trial.
+
+Abstract: OBJECTIVES: The aim of this study was to report the 2-year results of the SURTAVI (Surgical Replacement and Transcatheter Aortic Valve Implantation) trial and confirm the interim Bayesian analysis.
+BACKGROUND: Transcatheter aortic valve replacement (TAVR) with a self-expanding valve was noninferior to surgery in patients with severe aortic stenosis and intermediate operative risk using Bayesian statistical methods. Novel Bayesian designs have been used to shorten the time to primary endpoint analysis in randomized clinical trials, although the predictive value of Bayesian analysis compared with frequentist approaches remains debated.
+METHODS: The SURTAVI trial randomized 1,660 patients. An interim analysis was performed 1 year after the 1,400th patient was treated to estimate the primary 2-year endpoint of all-cause mortality or disabling strokes for all patients.
+RESULTS: The Kaplan-Meier rate for the complete 2-year primary endpoint was 12.7% in the TAVR group and 12.6% in the surgery group (0.0% difference; 95% confidence interval: -3.4% to 3.5%), compared with 12.6% with TAVR and 14.0% with surgery (-1.4% difference; Bayesian credible interval: -5.2% to 2.3%) in the interim Bayesian analysis. A comparison of individual clinical, hemodynamic, and quality-of-life endpoints using Bayesian and frequentist methods found no significant differences.
+CONCLUSIONS: The complete analysis of all patients with aortic stenosis at intermediate risk for surgery in the SURTAVI trial confirmed the noninferiority, with respect to the frequency of all-cause mortality or disabling stroke, of TAVR to surgery, as determined in the interim Bayesian analysis. Follow-up will extend out to 10 years.
+
+Citation: Van Mieghem NM, et al. Complete 2-Year Results Confirm Bayesian Analysis of the SURTAVI Trial. Complete 2-Year Results Confirm Bayesian Analysis of the SURTAVI Trial. 2020; 13:323-331. doi: 10.1016/j.jcin.2019.10.043
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32029248/

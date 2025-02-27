@@ -1,0 +1,11 @@
+PMID: 32828622
+Title: Transcatheter Aortic Valve Replacement and Left Ventricular Geometry: Survival and Gender Differences.
+
+Abstract: BACKGROUND: The aim of this study was to examine the relationship between baseline left ventricular (LV) geometry and outcomes after transcatheter aortic valve replacement (TAVR).
+METHODS: Patients undergoing TAVR (n = 206) had baseline LV geometry classified as (1) concentric hypertrophy, (2) eccentric hypertrophy, (3) concentric remodeling, or (4) normal. Descriptive statistics, Kaplan-Meier time-to-event analysis, and Cox regression were performed.
+RESULTS: Distribution of baseline LV geometry differed between male and female patients (χ2 = 16.83, P = .001) but not at 1 month (χ2 = 2.56, P = .47) or 1 year (χ2 = 5.68, P = .13). After TAVR, a majority of patients with concentric hypertrophy evolved to concentric remodeling. Survival differed across LV geometry groups at 1 year (χ2[3] = 8.108, P = .044, log-rank test) and at 6.5 years (χ2[3] = 9.023, P = .029, log-rank test). Compared with patients with concentric hypertrophy, patients with normal geometry (hazard ratio, 2.25; 95% CI, 1.12-4.54; P = .023) and concentric remodeling (hazard ratio, 1.89; 95% CI, 1.12-3.17; P = .016) had higher rates of all-cause mortality.
+CONCLUSIONS: Baseline concentric hypertrophy confers a survival advantage after TAVR. Although baseline patterns of LV geometry appear gender specific (with women demonstrating more concentric hypertrophy), this difference resolves after TAVR.
+
+Citation: Truong VT, et al. Transcatheter Aortic Valve Replacement and Left Ventricular Geometry: Survival and Gender Differences. Transcatheter Aortic Valve Replacement and Left Ventricular Geometry: Survival and Gender Differences. 2020; 33:1357-1362.e2. doi: 10.1016/j.echo.2020.06.015
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32828622/

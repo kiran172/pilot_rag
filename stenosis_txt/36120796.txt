@@ -1,0 +1,12 @@
+PMID: 36120796
+Title: Numerical investigation of arterial stenosis location affecting hemodynamics considering microcirculation function.
+
+Abstract: BACKGROUND: In recent years, arterial stenosis has become one of the serious diseases threatening people's life and health.
+OBJECTIVE: The main purpose of the present study is to examine the changes of hemodynamic parameters in different stenosis locations of arteries.
+METHODS: An arterial stenosis model with fluid-structure interaction and microcirculation as the outlet boundary of seepage is adopted in this paper. Considering the interaction between blood and arterial wall, a numerical simulation is carried out using the finite element method.
+RESULTS: The results show that hemodynamic parameters are sensitive to the change of stenosis location. The closer to the microcirculation zone the stenosis location, the lower the blood flow velocity, pressure and the wall shear stress. In addition, the velocity trend is transformed from the gradual increase to decrease with the increasing distance away from the inlet when the stenosis location moves to the microcirculation zone.
+CONCLUSION: This work proves that the stenosis location has a great influence on hemodynamics based on microcirculation function. Microcirculation is an important factor that cannot be ignored in the numerical simulation of arterial hemodynamics. The numerical results could provide the potential of clinical preconditions for disease diagnosis and treatment.
+
+Citation: He F, et al. Numerical investigation of arterial stenosis location affecting hemodynamics considering microcirculation function. Numerical investigation of arterial stenosis location affecting hemodynamics considering microcirculation function. 2023; 31:435-445. doi: 10.3233/THC-213165
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36120796/

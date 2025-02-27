@@ -1,0 +1,11 @@
+PMID: 32985742
+Title: Trends of utilization and outcomes after transcatheter and surgical aortic valve replacement on chronic dialysis.
+
+Abstract: BACKGROUND AND AIM: Trends of utilization and outcomes of transcatheter aortic valve replacement (TAVR) and surgical aortic valve replacement (SAVR) for patients on chronic dialysis (CD) are not well described. We aimed to assess the trends in utilization and outcomes of TAVR and SAVR on CD.
+METHODS: Nationwide Readmission Databases from 2013 to 2017 was analyzed. International Classification of Diseases Clinical Modification 9 and 10 codes were used to identify diagnoses and procedures. A multivariable regression model was used to compare the outcomes expressed as adjusted odds ratio (aOR) and 95% confidence interval (CI).
+RESULTS: A total of 5731 TAVR and 6491 SAVR were performed in patients with CD, respectively. The volume of TAVR increased by approximately four-folds and SAVR increased by approximately 33%. However, amongst patients with CD, the percentage of TAVR increased, whereas that of SAVR decreased (p < .001 for all). In 2016 and 2017, TAVR volume surpassed that of SAVR on CD. In-hospital mortality remained similar in TAVR (aOR: 0.92; 95% CI: 0.79-1.07; p-trend = .23) whereas it increased significantly in SAVR (aOR: 1.14: 95% CI: 1.05-1.25, p-trend = .002). In 2017, in-hospital mortality and 30-day readmission were significantly higher in TAVR among CD than non-CD patients.
+CONCLUSION: Despite increased use of TAVR among CD, there still is an opportunity for improvement in outcome of aortic valve replacement for those on CD.
+
+Citation: Ando T, et al. Trends of utilization and outcomes after transcatheter and surgical aortic valve replacement on chronic dialysis. Trends of utilization and outcomes after transcatheter and surgical aortic valve replacement on chronic dialysis. 2020; 35:3294-3301. doi: 10.1111/jocs.15022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32985742/

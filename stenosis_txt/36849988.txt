@@ -1,0 +1,11 @@
+PMID: 36849988
+Title: Screening crucial lncRNAs and genes in osteoarthritis by integrated analysis.
+
+Abstract: BACKGROUND: Osteoarthritis (OA) is one of the most frequent chronic diseases with high morbidity worldwide, marked by degradation of the cartilage and bone, joint instability, stiffness, joint space stenosis and subchondral sclerosis. Due to the elusive mechanism of osteoarthritis (OA), we aimed to identify potential markers for OA and explore the molecular mechanisms underlying OA.
+METHODS: Expression profiles data of OA were collected from the Gene Expression Omnibus database to identify differentially expressed mRNAs (DEmRNAs) and differentially expressed lncRNAs (DElncRNAs) in OA. Functional annotation and protein-protein interaction (PPI) networks were performed. Then, nearby DEmRNAs of DElncRNAs was obtained. Moreover, GO and KEGG pathway enrichment analysis of nearby DEmRNAs of DElncRNAs was performed. Finally, expression validation of selected mRNAs and lncRNAs was performed by quantitative reverse transcriptase-polymerase chain reaction.
+RESULTS: In total, 2080 DEmRNAs and 664 DElncRNAs were determined in OA. PI3K-Akt signaling pathway, Endocytosis and Rap1 signaling pathway were significantly enriched KEGG pathways in OA. YWHAB, HSPA8, NEDD4L and SH3KBP1 were four hub proteins in PPI network. The AC093484.4/TRPV2 interact pair may be involved in the occurrence and development of OA.
+CONCLUSION: Our study identified several DEmRNAs and DElncRNAs associated with OA. The molecular characters could provide more information for further study on OA.
+
+Citation: Wang J, et al. Screening crucial lncRNAs and genes in osteoarthritis by integrated analysis. Screening crucial lncRNAs and genes in osteoarthritis by integrated analysis. 2023; 63:7. doi: 10.1186/s42358-023-00288-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36849988/

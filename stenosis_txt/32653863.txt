@@ -1,0 +1,11 @@
+PMID: 32653863
+Title: Predicting the Need For Permanent Pacing After Implantation of the Repositionable Lotus Transcatheter Aortic Valve.
+
+Abstract: BACKGROUND: The need for permanent pacemaker implantation (PPI) following transcatheter aortic valve implantation (TAVI) is a recognized complication due to compression of the cardiac conduction system. PPI rates vary according to type of TAVI device, implantation technique, and patient-related factors.
+METHODS: We analyzed the baseline characteristics, and then the preprocedure and daily postprocedure electrocardiograms (ECGs) of 101 consecutive patients who underwent TAVI using the Lotus valve (Boston Scientific) between 2013 and 2015.
+RESULTS: Mean patient age was 81.7 ± 7.7 years, 56% were male. and 21 patients were excluded because of baseline atrial fibrillation or a pre-existing PPI. Of the remaining 80 patients, a total of 28 (35%) underwent PPI at a mean 2.7 days after TAVI. There were no differences in development of new left bundle-branch block between the two groups (65% PPI group vs 74% no-PPI group; P=.37). The initial PR interval did not differ between groups (183 ms PPI group vs 184 ms no-PPI group). The PR interval increased by day 1 post procedure (232 ms PPI group vs 195 ms no-PPI group; P<.01) and day 2 (267 ms PPI group vs 211 ms no-PPI group; P<.05).
+CONCLUSIONS: Patients with a PR interval ≤230 ms on day 1 or ≤260 ms on day 2 post TAVI using the Lotus device are at very low risk of requiring PPI, irrespective of the presence of left bundle-branch block, and can be safely discharged without prolonged monitoring.
+
+Citation: Hilling-Smith R, et al. Predicting the Need For Permanent Pacing After Implantation of the Repositionable Lotus Transcatheter Aortic Valve. Predicting the Need For Permanent Pacing After Implantation of the Repositionable Lotus Transcatheter Aortic Valve. 2020; 32:347-349.
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32653863/

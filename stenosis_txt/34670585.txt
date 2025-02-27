@@ -1,0 +1,11 @@
+PMID: 34670585
+Title: Identifying hub genes and immune infiltration of osteoarthritis using comprehensive bioinformatics analysis.
+
+Abstract: BACKGROUND: Osteoarthritis (OA) is the most common chronic degenerative joint disorder globally that is characterized by synovitis, cartilage degeneration, joint space stenosis, and sub-cartilage bone hyperplasia. However, the pathophysiologic mechanisms of OA have not been thoroughly investigated.
+METHODS: In this study, we conducted various bioinformatics analyses to identify hub biomarkers and immune infiltration in OA. The gene expression profiles of synovial tissues from 29 healthy controls and 36 OA samples were obtained from the gene expression omnibus database to identify differentially expressed genes (DEGs). The CIBERSORT algorithm was used to explore the association between immune infiltration and arthritis.
+RESULTS: Eighteen hub DEGs were identified as critical biomarkers for OA. Through gene ontology and pathway enrichment analyses, it was found that these DEGs were primarily involved in PI3K-Akt signaling pathway and Rap1 signaling pathway. Furthermore, immune infiltration analysis revealed differences in immune infiltration between patients with OA and healthy controls. The hub gene ZNF160 was closely related to immune cells, especially mast cell activation in OA.
+CONCLUSION: Overall, this study presented a novel method to identify hub DEGs and their correlation with immune infiltration, which may provide novel insights into the diagnosis and treatment of patients with OA.
+
+Citation: Wu ZY, et al. Identifying hub genes and immune infiltration of osteoarthritis using comprehensive bioinformatics analysis. Identifying hub genes and immune infiltration of osteoarthritis using comprehensive bioinformatics analysis. 2021; 16:630. doi: 10.1186/s13018-021-02796-6
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34670585/

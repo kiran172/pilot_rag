@@ -1,0 +1,11 @@
+PMID: 38644636
+Title: Associations between carotid plaque shape, biomechanical parameters, and ischemic stroke in mild carotid stenosis with a single plaque.
+
+Abstract: PURPOSE: This cross-sectional cohort-comparison observational study investigated the value of high-frame-rate vector flow (V Flow) imaging for evaluating differences in carotid plaque shape and biomechanical parameters in patients with mild stenosis according to a recent history of ipsilateral ischemic stroke.
+METHODS: The present study included 352 patients from February 2023 to October 2023, who were categorized as symptomatic or asymptomatic based on a history of recent ischemic stroke and ipsilateral ischemic lesions detected on head computed tomography or magnetic resonance imaging. A Mindray Resona R9 system was used for B-mode ultrasonography and V Flow imaging. The upstream and downstream surfaces of the plaques were examined at the carotid bifurcation for wall shear stress (WSS), oscillatory shear index (OSI), and turbulence index, which performed peri-plaque biomechanical condition. Multivariable logistic regression models were used to determine associations between plaque shape, V Flow parameters, and ischemic stroke.
+RESULTS: Symptomatic patients exhibited higher WSS values for the upstream and downstream surfaces of carotid plaque, as well as higher OSI and turbulence index values for the downstream surface. Type Ⅲ plaques and higher WSS and OSI values for the downstream surface of the plaque were significantly associated with ischemic stroke. Type Ⅲ plaques were more prevalent in symptomatic patients and demonstrated much higher WSS and OSI values for the downstream plaque surface in both groups.
+CONCLUSION: High-frame-rate V Flow imaging could assess peri-plaque biomechanical forces and may provide effective imaging biomarkers for early prediction of ischemic stroke in patients with mild stenosis.
+
+Citation: Zhao M, et al. Associations between carotid plaque shape, biomechanical parameters, and ischemic stroke in mild carotid stenosis with a single plaque. Associations between carotid plaque shape, biomechanical parameters, and ischemic stroke in mild carotid stenosis with a single plaque. 2024; 43:209-219. doi: 10.14366/usg.24019
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38644636/

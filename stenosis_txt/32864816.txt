@@ -1,0 +1,16 @@
+PMID: 32864816
+Title: Assessment of Intracranial Atherosclerotic Plaques Using 3D Black-Blood MRI: Comparison With 3D Time-of-Flight MRA and DSA.
+
+Abstract: BACKGROUND: Noninvasive assessment of intracranial stenosis is important to manage ischemic stroke patients. However, few previous studies have compared 3D black-blood MRI with 3D time-of-flight (TOF), magnetic resonance angiography (MRA), and digital subtraction angiography (DSA) for intracranial artery plaque assessment.
+PURPOSE: To compare 3D black-blood MRI and 3D TOF-MRA, using DSA as the reference standard for intracranial stenosis and atherosclerotic plaque assessment in patients with posterior circulation stroke or transient ischemic attacks (TIAs).
+STUDY TYPE: Prospective, cohort study.
+POPULATION: One hundred and one patients with posterior circulation stroke and/or TIA (age 63 ± 10 years, 84 male) who underwent DSA and MRI within 4 weeks of each other.
+FIELD STRENGTH/SEQUENCE: 3D fast-spin-echo MRI for intracranial vessel wall imaging (IVWI) and 3D TOF at 3T.
+ASSESSMENT: Two radiologists independently measured the degree of stenosis on 3D IVWI and TOF, using DSA as a reference. Plaque enhancement was recorded when the plaque was stenosis-free on DSA.
+STATISTICAL TESTS: Shapiro-Wilk's test, Student's t-test, Mann-Whitney U-test, Spearman correlation, Bland-Altman analysis, and interclass correlation coefficient (ICC).
+RESULTS: A total of 238 intracranial plaques (203 posterior, 35 anterior) were included. 3D IVWI showed better agreement with DSA in measuring stenosis than TOF (ICC = 0.89 vs. 0.64). 3D IVWI had higher sensitivity and specificity for detecting stenosis >50% and stenosis >75% than TOF, using DSA as the standard. TOF significantly overestimated the degree of stenosis compared to DSA (65 ± 19% vs. 51 ± 15%, P < 0.001). DSA did not observe 62 nonstenotic plaques (26.1%) that were shown only on 3D IVWI, in which 36 plaques (58.1%) showed contrast enhancement. The interreader agreement for measuring stenosis were excellent, with ICCs >0.90 for all three modalities.
+DATA CONCLUSION: 3D black-blood MRI is accurate and reproducible for quantifying intracranial artery stenosis compared with DSA, and performs better than 3D TOF. As compared to DSA, it detects more nonstenotic plaques. Level of Evidence 1 Technical Efficacy Stage 2 J. MAGN. RESON. IMAGING 2021;53:469-478.
+
+Citation: Tian X, et al. Assessment of Intracranial Atherosclerotic Plaques Using 3D Black-Blood MRI: Comparison With 3D Time-of-Flight MRA and DSA. Assessment of Intracranial Atherosclerotic Plaques Using 3D Black-Blood MRI: Comparison With 3D Time-of-Flight MRA and DSA. 2021; 53:469-478. doi: 10.1002/jmri.27341
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32864816/

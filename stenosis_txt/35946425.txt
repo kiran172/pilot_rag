@@ -1,0 +1,8 @@
+PMID: 35946425
+Title: Differential requirement for DICER1 activity during the development of mitral and tricuspid valves.
+
+Abstract: Mitral and tricuspid valves are essential for unidirectional blood flow in the heart. They are derived from similar cell sources, and yet congenital dysplasia affecting both valves is clinically rare, suggesting the presence of differential regulatory mechanisms underlying their development. Here, we specifically inactivated Dicer1 in the endocardium during cardiogenesis and found that Dicer1 deletion caused congenital mitral valve stenosis and regurgitation, whereas it had no impact on other valves. We showed that hyperplastic mitral valves were caused by abnormal condensation and extracellular matrix (ECM) remodeling. Our single-cell RNA sequencing analysis revealed impaired maturation of mesenchymal cells and abnormal expression of ECM genes in mutant mitral valves. Furthermore, expression of a set of miRNAs that target ECM genes was significantly lower in tricuspid valves compared to mitral valves, consistent with the idea that the miRNAs are differentially required for mitral and tricuspid valve development. We thus reveal miRNA-mediated gene regulation as a novel molecular mechanism that differentially regulates mitral and tricuspid valve development, thereby enhancing our understanding of the non-association of inborn mitral and tricuspid dysplasia observed clinically.
+
+Citation: Yan S, et al. Differential requirement for DICER1 activity during the development of mitral and tricuspid valves. Differential requirement for DICER1 activity during the development of mitral and tricuspid valves. 2022; 135:(unknown pages). doi: 10.1242/jcs.259783
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35946425/

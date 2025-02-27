@@ -1,0 +1,12 @@
+PMID: 37183910
+Title: Identification of vulnerable carotid plaque with histologically validated CT-derived plaque maps.
+
+Abstract: OBJECTIVES: Ruptured carotid plaque causes stroke, but differentiating rupture-prone necrotic core from fibrous tissue with CT is limited by overlap of X-ray attenuation. We investigated the ability of CT-derived plaque maps created from ratios of plaque/contrast attenuation to identify histologically proven vulnerable plaques.
+METHODS: Seventy patients underwent carotid CT angiography and carotid endarterectomy. A derivation cohort of 20 patients had CT images matched with histology and carotid plaque components attenuation defined. In a validation cohort of 50 patients, CT-derived plaque maps were compared in 43 symptomatic vs 40 asymptomatic carotid plaques and accuracy detecting vulnerable plaques calculated.
+RESULTS: In 250 plaque areas co-registered with histology, the median attenuation (HU) of necrotic core 43(26-63), fibrous plaque 127(110-162) and calcified plaque 964 (816-1207) created significantly different ratios of plaque/contrast attenuation. CT-derived plaque maps revealed symptomatic plaques had larger necrotic core than asymptomatic (13.5%(5.9-33.3) vs 7.4%(2.3-14.3), p = 0.004) with large necrotic core predicting symptoms (area under ROC curve 0.68, p = 0.004). Twenty-four of 47 carotid plaques were histologically classified as most vulnerable (Starry-Type VI). Plaque maps revealed Type VI plaques had a greater necrotic core volume than Type IV/V plaques and a necrotic core/fibrous plaque ratio &gt;0.5 distinguished Type VI plaques with sensitivity 75.0% (55.1-88.0) and specificity of 39.1% (22.2-59.2).
+CONCLUSIONS: Carotid plaque components can be differentiated by CT using a ratio of plaque/contrast attenuation. CT-derived plaque map volumes of necrotic core help distinguished the most vulnerable plaques.
+ADVANCES IN KNOWLEDGE: CT-derived plaque maps based on plaque/contrast attenuation may provide new markers of carotid plaque vulnerability.
+
+Citation: Obaid DR, et al. Identification of vulnerable carotid plaque with histologically validated CT-derived plaque maps. Identification of vulnerable carotid plaque with histologically validated CT-derived plaque maps. 2023; 96:20220982. doi: 10.1259/bjr.20220982
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37183910/

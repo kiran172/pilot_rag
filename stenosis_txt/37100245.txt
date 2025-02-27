@@ -1,0 +1,15 @@
+PMID: 37100245
+Title: Development and validation of a novel thoracic spinal stenosis surgical invasiveness index: a single-center study based on 989 patients.
+
+Abstract: BACKGROUND CONTEXT: Surgical invasiveness indices have been established for general spine surgery (surgical invasiveness index [SII]), spine deformity, and metastatic spine tumors; however, a specific index for thoracic spinal stenosis (TSS) has not been developed.
+PURPOSE: To develop and validate a novel invasiveness index, incorporating TSS-specific factors for open posterior TSS surgery, which may facilitate the prediction of operative duration and intraoperative blood loss, and the stratification of surgical risk.
+STUDY DESIGN: A retrospective observational study.
+PATIENT SAMPLE: Overall, 989 patients who underwent open posterior TSS surgeries at our institution during the past 5 years were included.
+OUTCOME MEASURES: The operation duration, estimated blood loss, transfusion status, major surgical complications, length of hospital stay, and medical expenses.
+METHODS: We retrospectively analyzed the data of 989 consecutive patients who underwent posterior surgery for TSS between March 2017 and February 2022. Among them, 70% (n=692) were randomly placed in a training cohort, and the remaining 30% (n=297) automatically constituted the validation cohort. Multivariate linear regression models of operative time and log-transformed estimated blood loss were created using TSS-specific factors. Beta coefficients derived from these models were used to construct a TSS invasiveness index (TII). The ability of the TII to predict surgical invasiveness was compared with that of the SII and assessed in a validation cohort.
+RESULTS: The TII was more strongly correlated with operative time and estimated blood loss (p<.05) and explained more variability in operative time and estimated blood loss than the SII (p<.05). The TII explained 64.2% of operative time and 34.6% of estimated blood loss variation, whereas the SII explained 38.7% and 22.5%, respectively. In further verification, the TII was more strongly associated with transfusion rate, drainage time, and length of hospital stay than SII (p<.05).
+CONCLUSIONS: By incorporating TSS-specific components, the newly developed TII more accurately predicts the invasiveness of open posterior TSS surgery than the previous index.
+
+Citation: Hu Y, et al. Development and validation of a novel thoracic spinal stenosis surgical invasiveness index: a single-center study based on 989 patients. Development and validation of a novel thoracic spinal stenosis surgical invasiveness index: a single-center study based on 989 patients. 2023; 23:1296-1305. doi: 10.1016/j.spinee.2023.04.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37100245/

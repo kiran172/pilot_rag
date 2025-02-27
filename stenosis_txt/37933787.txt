@@ -1,0 +1,11 @@
+PMID: 37933787
+Title: Minimally Invasive Surgical Versus Transcatheter Aortic Valve Replacement: A Retrospective Observational Single-Center Study in Japan.
+
+Abstract: OBJECTIVE: This study aimed to compare the outcomes of minimally invasive aortic valve replacement (MICS-AVR) versus transfemoral transcatheter aortic valve replacement (TF-TAVR) in Asian patients.
+METHODS: We conducted a retrospective, observational, single-center study in Japan, including cases of MICS-AVR (n = 202) and TF-TAVR (n = 248) between 2014 and 2021. In a total of 450 cases, propensity score matching was performed at a ratio of 1:1, resulting in 96 pairs. Furthermore, we performed competing-risk regression and mediation analyses to determine the treatment effect on outcomes of interests, considering death as a competing risk, and to evaluate the mediation effect of paravalvular leak (PVL) severity.
+RESULTS: There were similar incidences of all-cause death, cardiac death, stroke and cerebral hemorrhage, and aortic valve reintervention between the 2 groups. However, the TF-TAVR cohort had a longer hospital length of stay and higher rates of significant PVL compared with the MICS-AVR cohort. Multivariable-adjusted Cox regression analyses revealed that heart failure hospitalization (hazard ratio [HR] = 0.129, 95% confidence interval [CI]: 0.038 to 0.445, p = 0.001) and permanent pacemaker implantation (HR = 0.050, 95% CI: 0.006 to 0.409, p = 0.005) favored MICS-AVR. Competing-risk regression analyses confirmed similar findings. All outcomes were unrelated to PVL severity.
+CONCLUSIONS: To our knowledge, this is the first comparative study of clinical outcomes in Asian patients undergoing MICS-AVR versus TF-TAVR, revealing that MICS-AVR could be a feasible and efficient alternative to TF-TAVR. Future larger-scale randomized controlled trials are needed to validate the present results.
+
+Citation: Yamamoto H, et al. Minimally Invasive Surgical Versus Transcatheter Aortic Valve Replacement: A Retrospective Observational Single-Center Study in Japan. Minimally Invasive Surgical Versus Transcatheter Aortic Valve Replacement: A Retrospective Observational Single-Center Study in Japan. 2023; 18:547-556. doi: 10.1177/15569845231205587
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37933787/

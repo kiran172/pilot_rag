@@ -1,0 +1,12 @@
+PMID: 35340013
+Title: Circulating Biomarkers Predict Symptomatic but Not Asymptomatic Carotid Artery Stenosis.
+
+Abstract: BACKGROUND: Subjects exposed to risk factors such as age, gender, hypertension, diabetes mellitus, and smoking are prone to atherosclerotic events.
+AIMS: The main aim of this longitudinal cohort study was to determine whether the role of novel plasma biomarkers for atherosclerotic carotid artery disease is different in subjects developing symptomatic carotid artery stenosis (CAS), as opposed to those with incident asymptomatic CAS.
+METHODS: The following biomarkers were measured in 5,550 middle-aged subjects in a population-based cohort study: C-reactive protein (CRP), lipoprotein-associated phospholipase A2 mass and activity, proneurotensin, midregional proadrenomedullin (MR-proADM), midregional proatrial natriuretic peptide (MR-proANP), N-terminal pro-B-type natriuretic peptide (NT pro-BNP), copeptin, and cystatin C. After exclusion of those with prevalent CAS, subjects were thereafter followed in national patient registers for 23.4 (interquartile range 19.5-24.3) years regarding incident symptomatic and asymptomatic CAS.
+RESULTS: Among 110 patients with confirmed incident CAS, 56 were symptomatic and 54 were asymptomatic. When including conventional risk markers in a Cox regression analysis, NT pro-BNP (hazard ratio [HR] 1.59; 95% confidence interval [CI]: 1.20-2.11), MR-proADM (HR 1.40; CI: 1.13-1.73), cystatin C (HR 1.21; CI: 1.02-1.43), and CRP (HR 1.53; CI: 1.13-1.73) were independently associated with incident symptomatic CAS, whereas no plasma biomarker was associated with incident asymptomatic CAS.
+CONCLUSION: Plasma biomarkers NT pro-BNP, MR-proADM, cystatin C, and CRP were independently associated with incident symptomatic CAS, whereas no such association could be demonstrated with incident asymptomatic CAS. As these biomarkers indicate future development of clinically relevant atherosclerotic CAS, their potential utility in relation to intensified preventive measures and selection of potential candidates for carotid surgery should be further evaluated.
+
+Citation: Fatemi S, et al. Circulating Biomarkers Predict Symptomatic but Not Asymptomatic Carotid Artery Stenosis. Circulating Biomarkers Predict Symptomatic but Not Asymptomatic Carotid Artery Stenosis. 2022; 51:623-629. doi: 10.1159/000523839
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35340013/

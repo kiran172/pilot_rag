@@ -1,0 +1,11 @@
+PMID: 38501425
+Title: [A multiscale carotid plaque detection method based on two-stage analysis].
+
+Abstract: OBJECTIVE: To develop a method for accurate identification of multiscale carotid plaques in ultrasound images.
+METHODS: We proposed a two-stage carotid plaque detection method based on deep convolutional neural network (SM-YOLO).A series of algorithms such as median filtering, histogram equalization, and Gamma transformation were used to preprocess the dataset to improve image quality. In the first stage of the model construction, a candidate plaque set was built based on the YOLOX_l target detection network, using multiscale image training and multiscale image prediction strategies to accommodate carotid artery plaques of different shapes and sizes. In the second stage, the Histogram of Oriented Gradient (HOG) features and Local Binary Pattern (LBP) features were extracted and fused, and a Support Vector Machine (SVM) classifier was used to screen the candidate plaque set to obtain the final detection results. This model was compared quantitatively and visually with several target detection models (YOLOX_l, SSD, EfficientDet, YOLOV5_l, Faster R-CNN).
+RESULTS: SM-YOLO achieved a recall of 89.44%, an accuracy of 90.96%, a F1-Score of 90.19%, and an AP of 92.70% on the test set, outperforming other models in all performance indicators and visual effects. The constructed model had a much shorter detection time than the Faster R-CNN model (only one third of that of the latter), thus meeting the requirements of real-time detection.
+CONCLUSION: The proposed carotid artery plaque detection method has good performance for accurate identification of carotid plaques in ultrasound images.
+
+Citation: Xiao H, et al. [A multiscale carotid plaque detection method based on two-stage analysis]. [A multiscale carotid plaque detection method based on two-stage analysis]. 2024; 44:387-396. doi: 10.12122/j.issn.1673-4254.2024.02.22
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38501425/

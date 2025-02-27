@@ -1,0 +1,17 @@
+PMID: 38131254
+Title: Plaque Evolution and Vessel Wall Remodeling of Intracranial Arteries: A Prospective, Longitudinal Vessel Wall MRI Study.
+
+Abstract: BACKGROUND: Progression of intracranial atherosclerotic disease (ICAD) is associated with ischemic stroke events and can be quantified with three-dimensional (3D) intracranial vessel wall (IVW) MRI. However, longitudinal 3D IVW studies are limited and ICAD evolution remains relatively unknown.
+PURPOSE: To evaluate ICAD changes longitudinally and to characterize the imaging patterns of atherosclerotic plaque evolution.
+STUDY TYPE: Prospective.
+POPULATION: 37 patients (69 ± 12 years old, 12 females) with angiography confirmed ICAD.
+FIELD STRENGTH/SEQUENCE: 3.0T/3D time-of-flight gradient echo sequence and T1- and proton density-weighted fast spin echo sequences.
+ASSESSMENT: Each patient underwent baseline and 1-year follow-up IVW. Then, IVW data from both time points were jointly preprocessed using a multitime point, multicontrast, and multiplanar viewing workflow (known as MOCHA). Lumen and outer wall of plaques were traced and measured, and plaques were then categorized into progression, stable, and regression groups based on changes in plaque wall thickness. Patient demographic and clinical data were collected. Culprit plaques were identified based on cerebral ischemic infarcts.
+STATISTICAL TESTS: Generalized estimating equations-based linear and logistic regressions were used to assess associations between vascular risk factors, medications, luminal stenosis, IVW plaque imaging features, and longitudinal changes. A two-sided P-value<0.05 was considered statistically significant.
+RESULTS: Diabetes was significantly associated with ICAD progression, resulting in 6.6% decrease in lumen area and 6.7% increase in wall thickness at 1-year follow-up. After accounting for arterial segments, baseline contrast enhancement predicted plaque progression (odds ratio = 3.61). Culprit plaques experienced an average luminal expansion of 10.9% after 1 year. 74% of the plaques remained stable during follow-up. The regression group (18 plaques) showed significant increase in minimum lumen area (from 7.4 to 8.3 mm2), while the progression group (13 plaques) showed significant decrease in minimum lumen area (from 5.4 to 4.3 mm2).
+DATA CONCLUSION: Longitudinal 3D IVW showed ICAD remodeling on the lumen side. Culprit plaques demonstrated longitudinal luminal expansion compared with their non-culprit counterparts. Baseline plaque contrast enhancement and diabetes mellitus were found to be significantly associated with ICAD changes.
+EVIDENCE LEVEL: 2 TECHNICAL EFFICACY: Stage 3.
+
+Citation: Guo Y, et al. Plaque Evolution and Vessel Wall Remodeling of Intracranial Arteries: A Prospective, Longitudinal Vessel Wall MRI Study. Plaque Evolution and Vessel Wall Remodeling of Intracranial Arteries: A Prospective, Longitudinal Vessel Wall MRI Study. 2024; 60:889-899. doi: 10.1002/jmri.29185
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38131254/

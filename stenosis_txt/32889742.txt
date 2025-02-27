@@ -1,0 +1,11 @@
+PMID: 32889742
+Title: Association between circular RNA expression content and severity of coronary atherosclerosis in human coronary artery.
+
+Abstract: BACKGROUND: Circular RNAs (circRNAs) may act as biomarkers of coronary artery disease (CAD). However, the relationship between expression characteristics of circRNAs and coronary atherosclerosis has not been fully explored. The aim of this study was to determine and characterize the circRNAs from human coronary artery.
+METHODS: The coronary artery segments were obtained from an 81-year-old male patient with sudden death of myocardial infarction at autopsy. The coronary stenosis and atherosclerosis were evaluated by hematoxylin and eosin (H&E) staining, and the circRNAs expression profile was characterized by RNA sequencing (RNA-seq). The differentially expressed circRNAs were validated by qRT-PCR.
+RESULTS: The analysis of H&E staining indicated that coronary atherosclerosis grade and extent in the LM was more serious than that in other coronary arteries. Twenty-seven circRNAs were selected for expression validation in coronary artery. CircRNAs corresponding cyclization sites of 3 circRNAs (hsa_circ_0016868, hsa_circ_0001364, hsa_circ_0006731) have been verified by Sanger sequencing.
+CONCLUSION: The 3 circRNAs are suggested to play a pathological role underlying the coronary arteries atherosclerosis and may serve as a valuable resource as diagnostic or therapeutic targets against CAD.
+
+Citation: Hou C, et al. Association between circular RNA expression content and severity of coronary atherosclerosis in human coronary artery. Association between circular RNA expression content and severity of coronary atherosclerosis in human coronary artery. 2020; 34:e23552. doi: 10.1002/jcla.23552
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32889742/

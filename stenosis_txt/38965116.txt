@@ -1,0 +1,11 @@
+PMID: 38965116
+Title: Comparison of coronary CT angiography and invasive coronary angiography results.
+
+Abstract: INTRODUCTION: Coronary artery disease (CAD) is a leading cause of death worldwide. Accurate diagnosis and management are critical. Non-invasive imaging, such as coronary computed tomography angiography (CCTA), is vital for early diagnosis and treatment planning. This study evaluates the accuracy of CAD-Reporting and Data System (CAD-RADS) scoring and the compatibility between CCTA and invasive coronary angiography (ICA) in patients suspected of having CAD.
+MATERIALS AND METHODS: From January 1, 2022 to January 15, 2024, 214 patients suspected of CAD underwent both CCTA and ICA. CCTA artifacts led to the exclusion of 32 patients and 128 vessels, leaving 586 vessels for analysis. CAD-RADS scoring categorized coronary stenosis. Diagnostic performance was measured by specificity, sensitivity, accuracy, positive and negative predictive value (NPV). Extracardiac findings were analyzed with a wide field of view (FOV) during CCTA.
+RESULTS: A total of 214 patients (67.3% male, median age 56) were examined. Hypertension, smoking, calcium score, and high-risk plaques correlated with CCTA and ICA CAD-RADS scores; calcium score also related to hypertension, smoking, diabetes, and dyslipidemia (p < 0.05). CCTA showed a sensitivity of 80.8% and NPV of 90.3% for detecting stenosis of 70% or more; for 50% stenosis, sensitivity was 93.5% and NPV 92.1%. Agreement between CCTA and ICA was excellent in bypass patients; stenosis detection in stented patients had 85.7% sensitivity and 96.2% NPV.
+CONCLUSION: This study highlights the importance of CAD-RADS and CCTA in CAD diagnosis and treatment planning. CCTA effectively evaluates stents and grafts, emphasizing the benefits of extracardiac findings and a wide FOV.
+
+Citation: Tekinhatun M, et al. Comparison of coronary CT angiography and invasive coronary angiography results. Comparison of coronary CT angiography and invasive coronary angiography results. 2024; 193:2239-2248. doi: 10.1007/s11845-024-03745-y
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38965116/

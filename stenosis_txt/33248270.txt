@@ -1,0 +1,15 @@
+PMID: 33248270
+Title: Predictive model of ischemic optic neuropathy in spinal fusion surgery using a longitudinal medical claims database.
+
+Abstract: BACKGROUND CONTEXT: Perioperative ischemic optic neuropathy (ION) is a devastating complication of spinal fusion surgery.
+PURPOSE: To develop predictive models of this blinding condition using a longitudinal medical administrative claims database, which provides temporal sequence of perioperative ischemic optic neuropathy and potential risk factors.
+DESIGN: Nested case control study.
+PATIENT SAMPLE: Participants in Cliniformatics Data Mart medical claims database (2007-2017) with hospitalization involving lumbar or thoracic spinal fusion surgery and no history of ION.
+OUTCOME MEASURES: Perioperative ION (or not) during hospitalization for lumbar or thoracic spinal fusion surgery.
+METHODS: Sixty-five ION cases and 106,871 controls were identified. Matched controls (n=211) were selected based on year of surgery and zip code. Chronic and perioperative variables were assigned based on medical claims codes. Least absolute shrinkage and selection (LASSO) penalized conditional logistic regression with 10-fold cross validation was used to select variables for the optimal predictive model from the subset of variables with p<.15 between cases and matched controls (unadjusted conditional logistic regression). Receiver operating characteristic (ROC) curves were generated for the strata-independent matched and full sample.
+RESULTS: The predictive model included age 57-65 years, male gender, diabetes with and without complications, chronic anemia, hypertension, heart failure, carotid stenosis, perioperative hemorrhage and perioperative organ damage. Area under ROC curve was 0.75 (95% confidence interval [CI]: 0.68, 0.82) for the matched sample and 0.72 (95% CI: 0.66, 0.78) for the full sample.
+CONCLUSIONS: This predictive model for ION in spine fusion considering chronic conditions and perioperative conditions is unique to date in its use of longitudinal medical claims data, inclusion of International Classification of Disease-10 codes and study of ophthalmic conditions as risk factors. Similar to other studies of this condition the multivariable model included age, male gender, perioperative organ damage and perioperative hemorrhage. Hypertension, chronic anemia and carotid artery stenosis were new predictive factors identified by this study.
+
+Citation: Moss HE, et al. Predictive model of ischemic optic neuropathy in spinal fusion surgery using a longitudinal medical claims database. Predictive model of ischemic optic neuropathy in spinal fusion surgery using a longitudinal medical claims database. 2021; 21:377-386. doi: 10.1016/j.spinee.2020.11.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33248270/

@@ -1,0 +1,11 @@
+PMID: 33029735
+Title: Imaging endpoints of intracranial atherosclerosis using vessel wall MR imaging: a systematic review.
+
+Abstract: PURPOSE: The vessel wall MR imaging (VWI) literature was systematically reviewed to assess the criteria and measurement methods of VWI-related imaging endpoints for symptomatic intracranial plaque in patients with ischemic events.
+METHODS: PubMed, Scopus, Web of Science, EMBASE, and Cochrane databases were searched up to October 2019. Two independent reviewers extracted data from 47 studies. A modified Guideline for Reporting Reliability and Agreement Studies was used to assess completeness of reporting.
+RESULTS: The specific VWI-pulse sequence used to identify plaque was reported in 51% of studies. A VWI-based criterion to define plaque was reported in 38% of studies. A definition for culprit plaque was reported in 40% of studies. Frequently scored qualitative imaging endpoints were plaque quadrant (21%) and enhancement (21%). Frequently measured quantitative imaging endpoints were stenosis (19%), lumen area (15%), and remodeling index (14%). Reproducibility for all endpoints ranged from good to excellent (range: ICC<sub>T1 hyperintensity</sub> = 0.451 to ICC<sub>stenosis</sub> = 0.983). However, rater specialty and years of experience varied among studies.
+CONCLUSIONS: Investigators are using different criteria to identify and measure VWI-imaging endpoints for culprit intracranial plaque. Early awareness of these differences to address methods of acquisition and measurement will help focus research resources and efforts in technique optimization and measurement reproducibility. Consensual definitions to detect plaque will be important to develop automatic lesion detection tools particularly in the era of radiomics.
+
+Citation: Song JW, et al. Imaging endpoints of intracranial atherosclerosis using vessel wall MR imaging: a systematic review. Imaging endpoints of intracranial atherosclerosis using vessel wall MR imaging: a systematic review. 2021; 63:847-856. doi: 10.1007/s00234-020-02575-w
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33029735/

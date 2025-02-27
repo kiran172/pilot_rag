@@ -1,0 +1,11 @@
+PMID: 34366314
+Title: Investigation of two-way fluid-structure interaction of blood flow in a patient-specific left coronary artery.
+
+Abstract: BACKGROUND: The blood flow in the human artery has been a subject of sincere interest due to its prime importance linked with human health. The hemodynamic study has revealed an essential aspect of blood flow that eventually proved to be paramount to make a correct decision to treat patients suffering from cardiac disease.
+OBJECTIVE: The current study aims to elucidate the two-way fluid-structure interaction (FSI) analysis of the blood flow and the effect of stenosis on hemodynamic parameters.
+METHODS: A patient-specific 3D model of the left coronary artery was constructed based on computed tomography (CT) images. The blood is assumed to be incompressible, homogenous, and behaves as Non-Newtonian, while the artery is considered as a nonlinear elastic, anisotropic, and incompressible material. Pulsatile flow conditions were applied at the boundary. Two-way coupled FSI modeling approach was used between fluid and solid domain. The hemodynamic parameters such as the pressure, velocity streamline, and wall shear stress were analyzed in the fluid domain and the solid domain deformation.
+RESULTS: The simulated results reveal that pressure drop exists in the vicinity of stenosis and a recirculation region after the stenosis. It was noted that stenosis leads to high wall stress. The results also demonstrate an overestimation of wall shear stress and velocity in the rigid wall CFD model compared to the FSI model.
+
+Citation: Athani A, et al. Investigation of two-way fluid-structure interaction of blood flow in a patient-specific left coronary artery. Investigation of two-way fluid-structure interaction of blood flow in a patient-specific left coronary artery. 2022; 33:13-30. doi: 10.3233/BME-201171
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34366314/

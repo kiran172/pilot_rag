@@ -1,0 +1,14 @@
+PMID: 38972614
+Title: Dobutamine Stress Echocardiography in Low-Gradient Aortic Stenosis.
+
+Abstract: IMPORTANCE: Guidelines recommend the use of dobutamine stress echocardiography (DSE) in patients with low-gradient aortic stenosis (AS) and left ventricular ejection fraction (LVEF) <50%. However, a paucity of DSE data exists when LVEF >35%.
+OBJECTIVE: To examine the diagnostic accuracy of DSE in patients with low-gradient AS with a wide range of LVEF and to examine the interaction between the diagnostic accuracy of DSE and LVEF.
+DESIGN, SETTING, AND PARTICIPANTS: Patients with mean gradient &lt;40 mm Hg, aortic valve area &lt;1.0 cm2, and stroke volume index ≤35 mL/m2 undergoing DSE and cardiac computer tomography (C-CT) were identified from 3 prospectively collected patient cohorts and stratified according to LVEF: LVEF&lt;35%, LVEF 35% to 50%, and LVEF&gt;50%.
+EXPOSURE: Dobutamine stress echocardiography and C-CT were performed on patients with low-gradient AS.
+MAIN OUTCOMES AND MEASURES: Severe AS was defined as aortic valve calcification score ≥2,000 arbitrary units (AU) among men and ≥1,200 AU for women on C-CT.
+RESULTS: Of 221 patients included in the study, 78 (35%) presented with LVEF <35%, 67 (30%) with LVEF 35% to 50%, and 76 (34%) with LVEF >50%. Mean-gradient and aortic valve peak velocity during DSE showed significant diagnostic heterogeneity between LVEF groups, being most precise when LVEF <35% (both areas under the curve [AUC] = 0.90), albeit with optimal thresholds of 30 mm Hg and 377 cm/sec and a limited diagnostic yield in patients with LVEF ≥35% (AUC = 0.67 and 0.66 in LVEF 35% to 50% and AUC = 0.65 and 0.60 in LVEF ≥50%). Using guideline thresholds led to a sensitivity/specificity of 49%/84% for all patients with LVEF <50%.
+CONCLUSION AND RELEVANCE: While DSE is safe and leads to an increase in stroke volume in patients with low-gradient AS regardless of LVEF, the association between DSE gradients and AS severity assessed by C-CT demonstrates important heterogeneity depending on LVEF, with the highest accuracy in patients with LVEF <35%.
+
+Citation: Mogensen NSB, et al. Dobutamine Stress Echocardiography in Low-Gradient Aortic Stenosis. Dobutamine Stress Echocardiography in Low-Gradient Aortic Stenosis. 2024; 37:1023-1033. doi: 10.1016/j.echo.2024.06.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38972614/

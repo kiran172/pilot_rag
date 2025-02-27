@@ -1,0 +1,11 @@
+PMID: 36930485
+Title: Assessment of the relationship between monocyte to high-density lipoprotein ratio and subclavian artery stenosis.
+
+Abstract: OBJECTIVE: Assessment of the monocyte-to-high-density lipoprotein ratio (MHR) is a new tool for predicting inflammation, which plays a major role in atherosclerosis. Subclavian artery stenosis (SAS) is usually asymptomatic, and atherosclerosis is the most common cause of chronic obstruction of the subclavian artery in adults. The aim of this study was to determine the relationship between the MHR and SAS.
+PATIENTS AND METHODS: Between January 2015 and January 2020, 43 patients with SAS and 43 patients without SAS were enrolled in the study. The patients' angiographic, demographic and clinic characteristics were reviewed from their medical records. Monocytes and HDL (high-density lipoprotein) cholesterols were measured through a complete blood count. The MHR was calculated as the ratio of the absolute monocyte count to the HDL cholesterol value. The resulting MHR values were divided into the following three groups: low (7.16 ± 1.59), moderate (11.08 ± 1.53) and high (21.70 ± 5.62). A p-value of less than 0.05 was considered significant.
+RESULTS: MHR was found to be significantly higher in the SAS group compared to the control group with normal subclavian arteries (p<0.001). The frequency of SAS was found to increase with an increase in the MHR tertiles. Sensitivity and specificity values were 69.8% and 95.3%, respectively. The cut-off of the MHR value, taken as 13.39, was found to provide a significantly accurate prediction of the subclavian diagnosis (ROC area under the curve: 0.868, 95% CI: 0.789-0.947, p<0.001). After adjusting for other hematological parameters in the multivariate analysis, MHR (p=0.061) was found to be a predictor of the presence of SAS.
+CONCLUSIONS: This study showed that MHR can be a convenient marker for predicting SAS because of the correlation between MHR and SAS.
+
+Citation: Can Y, et al. Assessment of the relationship between monocyte to high-density lipoprotein ratio and subclavian artery stenosis. Assessment of the relationship between monocyte to high-density lipoprotein ratio and subclavian artery stenosis. 2023; 27:1881-1888. doi: 10.26355/eurrev_202303_31554
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36930485/

@@ -1,0 +1,11 @@
+PMID: 34532208
+Title: Psoas Muscle Volume and Attenuation are Better Predictors than Muscle Area for Hospital Readmission in Older Patients after Transcatheter Aortic Valve Implantation.
+
+Abstract: OBJECTIVE: This study aimed to determine whether the psoas muscle volume (PMV) and its muscle attenuation (MA) are associated with hospital readmission after transcatheter aortic valve implantation (TAVI).
+METHOD: We included 113 older patients with aortic stenosis who underwent TAVI at Sakakibara Heart Institute (mean age 85 ± 5 years, 69% women). We measured PMV and psoas muscle area (PMA) as well as total muscle area (TMA) at the third lumbar vertebra using preoperative computed tomography (CT) images. The crude values of the PMV, PMA, and TMA were normalized by dividing by height squared.
+RESULTS: The median follow-up period was 724 days (interquartile range: 528-730 days), and there were 25 all-cause readmissions during the follow-up period (22% of all patients). In the multivariate Cox regression analysis adjusted for age, sex, and EuroSCORE II, the PMV and its MA and crude PMA were significantly associated with all-cause readmission [HR: 0.957 (0.930-0.985), p = 0.003, HR: 0.927 (0.862-0.997), p = 0.040], whereas the PMA and TMA and each MA were not (all p > 0.05). The groups with low PMV and MA had significantly higher incidences of all-cause readmission than that with high PMV and MA (log-rank test: p = 0.011).
+CONCLUSION: PMV and its MA measured from preoperative CT images were independent predictors of all-cause readmission in TAVI patients.
+
+Citation: Sakuyama A, et al. Psoas Muscle Volume and Attenuation are Better Predictors than Muscle Area for Hospital Readmission in Older Patients after Transcatheter Aortic Valve Implantation. Psoas Muscle Volume and Attenuation are Better Predictors than Muscle Area for Hospital Readmission in Older Patients after Transcatheter Aortic Valve Implantation. 2021; 24:128-135. doi: 10.1298/ptr.E10079
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34532208/

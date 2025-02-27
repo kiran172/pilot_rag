@@ -1,0 +1,11 @@
+PMID: 38453722
+Title: Small intestinal submucosa graft bulbar urethroplasty is a viable technique: results compared to buccal mucosa graft urethroplasty after propensity score matching.
+
+Abstract: PURPOSE: Small intestinal submucosa (SIS) graft urethroplasty has been employed to decrease buccal mucosa morbidity and facilitate the procedure. The first published series had a short follow-up, inhomogeneous patient selection, and a lack of a control group. Our purpose is to report treatment outcomes at 13 years in a propensity score-matched cohort comparing bulbar urethroplasty with SIS (SISU) or buccal mucosa (BMU).
+METHODS: From our institutional database of 1132 bulbar urethroplasties, we used propensity score matching with the nearest-neighbor method without replacement to generate a study sample of 25 BMU and 25 SISU. Failure was defined as any treatment after urethroplasty. Survival analyses were used to analyze treatment failure occurrence with data censored at 156mo.
+RESULTS: Matching resulted in a complete correction of bias between the two samples except for the follow-up duration, which was slightly longer in the SIS group. The cumulative treatment success probability of BMU and SISU at 156mo was 83.4% and 68%, respectively. At multivariable Cox regression, SIS graft, previous urethrotomy, stricture length, and lower postoperative Qmax (within 2mo after catheter removal) were predictors of failure. Stricture length had a more remarkable effect in SISU, with estimated survival probabilities from the Cox model lower than 80% in strictures > = 3 cm.
+CONCLUSION: SIS has poorer outcomes compared to BM but may still be useful when BM grafting is not possible. The best candidates for SISU, with similar success to BMU, are patients with strictures shorter than 3 cm, preferably without a history of DVIU.
+
+Citation: Palminteri E, et al. Small intestinal submucosa graft bulbar urethroplasty is a viable technique: results compared to buccal mucosa graft urethroplasty after propensity score matching. Small intestinal submucosa graft bulbar urethroplasty is a viable technique: results compared to buccal mucosa graft urethroplasty after propensity score matching. 2024; 42:123. doi: 10.1007/s00345-024-04795-8
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38453722/

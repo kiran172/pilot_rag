@@ -1,0 +1,11 @@
+PMID: 39087077
+Title: The influence of gender on outcomes following transcatheter aortic valve implantation.
+
+Abstract: OBJECTIVES: This study aimed to compare gender-related differences in short- and long-term outcomes after transcatheter aortic valve implantation.
+METHODS: Patients who underwent transcatheter aortic valve implantation (TAVI) for severe aortic stenosis (AS) from September 2017 to December 2022 were enrolled. The primary endpoint was 5-year all-cause mortality. The secondary endpoints were 30-day mortality and the incidence of post-procedural complication. Patients were separated according to gender before statistical analysis. To compare patients with similar baseline characteristics, we performed a propensity matching.
+RESULTS: A total of 704 patients [females, 361 (51.3%); males, 343 (48.7%)] were enrolled. Compared to women, men had a higher incidence of smoking (40.5% vs. 14.7%, p &lt; 0.001), diabetes (32.9% vs. 25.1%, p &lt; 0.025), peripheral artery disease (35.8% vs. 18.3%, p &lt; 0.001), and previous cardiac surgery (13.7% vs. 7.2%, p = 0.006) and a lower ejection fraction [56.6 (9.3) vs. 59.8 (7.5), p = 0.046]. Female patients were frailer at the time of the procedure [poor mobility rate, 26% vs. 11.7%, p &lt; 0.001; CCI (Charlson comorbidity index) 2.4 (0.67) vs. 2.32 (0.63), p = 0.04]. Despite these different risk profiles, no significant differences were reported in terms of post-procedural outcomes and long-term survival. Propensity score matching resulted in a good match of 204 patients in each group (57.9% of the entire study population). In the matched cohort, men had a significantly higher incidence of new pacemaker implantation compared to women [33 (16.2%) vs. 18 (8.8%)]. The Kaplan-Meier 5-year survival estimate was 82.4% for women and 72.1% for men, p = 0.038.
+CONCLUSIONS: Female gender could be considered as a predictor of better outcomes after TAVI.
+
+Citation: Lodo V, et al. The influence of gender on outcomes following transcatheter aortic valve implantation. The influence of gender on outcomes following transcatheter aortic valve implantation. 2024; 11:1417430. doi: 10.3389/fcvm.2024.1417430
+
+Link: https://pubmed.ncbi.nlm.nih.gov/39087077/

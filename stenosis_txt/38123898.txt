@@ -1,0 +1,13 @@
+PMID: 38123898
+Title: Factors Associated with Iatrogenic Laryngeal Injury in Recurrent Respiratory Papillomatosis.
+
+Abstract: OBJECTIVE: To describe iatrogenic laryngeal injury and identify its risk factors in recurrent respiratory papillomatosis (RRP) patients receiving surgical care.
+STUDY DESIGN: Case-control.
+SETTING: Tertiary care academic hospital in a metropolitan area.
+METHODS: Charts of patients with RRP seen at our institution from January 2002 to December 2022 were reviewed. Patients were separated into 2 cohorts based upon whether they experienced any form of iatrogenic laryngeal injury-including anterior commissure synechiae, vocal cord scar, reduced vocal fold pliability, vocal fold motion impairment, and glottic and/or subglottic stenosis. Adjusted logistic regressions were performed to identify factors associated with iatrogenic laryngeal injury.
+RESULTS: Of 199 RRP patients, 133 (66.8%) had identifiable iatrogenic laryngeal injury. The most common injuries were anterior commissure synechiae (n = 67; 50.4%) and reduced vocal fold pliability (n = 54; 40.6%). On a multivariate logistic regression, patients with diabetes mellitus (adjusted odds ratio [aOR] [95% confidence interval [CI]]: 2.99 [1.02, 8.79]; P = .04) and who received at least 10 surgeries lifetime (aOR [95% CI]: 14.47 [1.70, 123.19]; P = .01) were at increased risk for iatrogenic laryngeal injury, whereas receiving less than 5 surgeries (aOR [95% CI]: 0.21 [0.09, 0.51]; P < .001) was found to be protective. When treating the lifetime number of surgeries as a continuous variable, a greater number of surgeries was a significant risk factor for iatrogenic laryngeal injury (aOR [95% CI]: 1.32 [1.14, 1.53]; P < .001).
+CONCLUSION: These results suggest the importance of strict glucose control for diabetic patients receiving RRP surgical care, and emphasize the clinical need to identify medical therapies to decrease RRP surgical frequency for patients.
+
+Citation: So RJ, et al. Factors Associated with Iatrogenic Laryngeal Injury in Recurrent Respiratory Papillomatosis. Factors Associated with Iatrogenic Laryngeal Injury in Recurrent Respiratory Papillomatosis. 2024; 170:1091-1098. doi: 10.1002/ohn.629
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38123898/

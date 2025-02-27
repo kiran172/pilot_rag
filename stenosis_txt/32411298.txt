@@ -1,0 +1,12 @@
+PMID: 32411298
+Title: Drug-Coated Balloons versus Everolimus-Eluting Stents in Patients with In-Stent Restenosis: A Pair-Wise Meta-Analysis of Randomized Trials.
+
+Abstract: OBJECTIVE: This study aimed to compare the effectiveness of drug-coated balloons (DCB) with everolimus-eluting stents (EES) in the treatment of in-stent restenosis (ISR) and the differential relative effect of DCB in patients with drug-eluting stents (DES)-ISR and bare metal stents (BMS)-ISR.
+BACKGROUND: The efficiency and safety of DCB and EES need to be assessed for the treatment of ISR.
+METHODS: A systematic literature search was conducted using PubMed and EMBASE to identify all relevant studies. Angiographic results and clinical events were separately assessed. Subgroup meta-analyses were performed according to the type of restenosed stent.
+RESULTS: Six randomized trials with 1134 patients were included. The overall pooled outcomes indicated that DCB was associated with lower minimum lumen diameter (mean difference (MD) = -0.17, 95% CI = -0.29 to -0.05, P = 0.006) and higher target lesion revascularization (risk ratio (RR) = 2.38, 95% CI = 1.36 to 4.18, P = 0.002) than EES. However, the subgroup meta-analyses showed that DCB was inferior to EES only in DES-ISR patients, with lower minimum lumen diameter (MD = -0.25, 95% CI = -0.37 to -0.14, P &lt; 0.001), higher percent diameter stenosis (MD = 5.37, 95% CI = 1.33 to 9.42, P = 0.009), more binary restenosis (RR = 2.07, 95% CI = 1.20 to 3.58, P = 0.009), and higher incidence of target vessel revascularization (RR = 2.07, 95% CI = 1.22 to 3.50, P = 0.007) and target lesion revascularization (RR = 2.43, 95% CI = 1.28 to 4.22, P = 0.002). No differences in angiographic results and clinical events were found between DCB and EES in BMS-ISR patients.
+CONCLUSIONS: DCB was inferior to EES in DES-ISR and comparable in BMS-ISR in terms of angiographic results and clinical events.
+
+Citation: Peng N, et al. Drug-Coated Balloons versus Everolimus-Eluting Stents in Patients with In-Stent Restenosis: A Pair-Wise Meta-Analysis of Randomized Trials. Drug-Coated Balloons versus Everolimus-Eluting Stents in Patients with In-Stent Restenosis: A Pair-Wise Meta-Analysis of Randomized Trials. 2020; 2020:1042329. doi: 10.1155/2020/1042329
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32411298/

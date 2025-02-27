@@ -1,0 +1,11 @@
+PMID: 34958913
+Title: Emodin alleviates aortic valvular calcification by inhibiting the AKT/FOXO1 pathway.
+
+Abstract: BACKGROUND: Valvular calcification commonly occurs in elderly individuals, and is increasingly considered an important economic and health burden. However, no efficient drugs against valvular calcification are available. The present work aimed to examine emodin's suppressive effect on high-calcium-dependent valve calcification and explore the underpinning mechanisms.
+METHODS: Experiments were carried out in mice receiving vitamin D (Vit D) to induce valvular calcification.
+RESULTS: Cell viability and apoptosis assays demonstrated celastrol suppressed proliferation and increased apoptosis in porcine aortic valve interstitial cells (PAVICs) at concentrations higher than 10 μM. Emodin (5 μM) attenuated the upregulation of osteogenic genes as well as calcium accumulation in PAVICs under high-calcium conditions. The elevations of calcium content in serum and valve, and calcium accumulation in valve and artery were suppressed by emodin in mice with valvular calcification after joint treatment with adenine and Vit D. In addition, p-AKT and p-FOXO1 were upregulated in PAVICs under high-calcium conditions, and this effect was reversed by emodin treatment. SC79, an AKT activator, reversed emodin's suppressive effects on increased calcium content, calcium deposition and osteogenic gene expression in PAVICs induced by calcific medium.
+CONCLUSIONS: These data demonstrated emodin alleviates high-calcium-associated valvular calcification via AKT/FOXO1 signaling suppression, providing new insights into therapeutic strategies for clinical valvular calcification.
+
+Citation: Luo M, et al. Emodin alleviates aortic valvular calcification by inhibiting the AKT/FOXO1 pathway. Emodin alleviates aortic valvular calcification by inhibiting the AKT/FOXO1 pathway. 2022; 240:151885. doi: 10.1016/j.aanat.2021.151885
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34958913/

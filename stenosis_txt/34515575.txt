@@ -1,0 +1,8 @@
+PMID: 34515575
+Title: Asymmetric distribution of pathogenic low wall shear stress of the bilateral subclavian arteries: two case reports.
+
+Abstract: The effects of increasing blood flow on the pathogenic wall shear stress (pWSS) of subclavian arteries (SAs) are currently unclear. Patient-specific models of the SA were constructed based on computed tomographic images from two patients. Using the Ansys Fluent 19.0 transient laminar flow solver, the finite volume method was chosen to solve the Navier-Stokes equation governing fluid behavior. The time-averaged wall shear stress, ratio of risk area, cumulative ratio of risk area (P¯), ratio of risk time, and ratio contour of risk time were calculated to describe the temporal and spatial distributions of pWSS. Virtually all pWSS occurred during the diastolic phase. The P¯ was 2.3 and 1.29 times higher on the left than on the right in Patients 1 (P1) and 2 (P2), respectively. Increasing the blood flow volume of the left SA by 20%, 40%, and 60% led to a 9.27%, 15.10%, and 20.99% decrease in P¯ for P1 and a 5.74%, 11.55%, and 17.14% decrease in P¯ for P2, respectively, compared with baseline values. In conclusion, the left SA showed greater diastolic pWSS than the right SA, and increasing the blood flow volume reduced the pWSS in the left SA.
+
+Citation: Yuan HW, et al. Asymmetric distribution of pathogenic low wall shear stress of the bilateral subclavian arteries: two case reports. Asymmetric distribution of pathogenic low wall shear stress of the bilateral subclavian arteries: two case reports. 2021; 49:3000605211042503. doi: 10.1177/03000605211042503
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34515575/

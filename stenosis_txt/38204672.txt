@@ -1,0 +1,11 @@
+PMID: 38204672
+Title: The robustness of the flow-gradient classification of severe aortic stenosis.
+
+Abstract: OBJECTIVES: A flow-gradient classification is used to determine the indication for intervention for patients with severe aortic stenosis (AS) with discordant echocardiographic parameters. We investigated the agreement in flow-gradient classification by stroke volume (SV) measurement at the left ventricular outflow tract (LVOT) and at the left ventricle.
+METHODS: Data were used from a prospective cohort study and patients with severe AS (aortic valve area index ≤0.6 cm2/m2) with preserved ejection fraction (&gt;50%) were selected. SV was determined by an echocardiographic core laboratory at the LVOT and by subtracting the 2-dimensional left ventricle end-systolic from the end-diastolic volume (volumetric). Patients were stratified into 4 groups based on SV index (35 mL/m2) and mean gradient (40 mm Hg). The group composition was compared and the agreement between the SV measurements was investigated using regression, correlation, and limits of agreement. In addition, a systematic LVOT diameter overestimation of 1 mm was simulated to study flow-gradient reclassification.
+RESULTS: Of 1118 patients, 699 were eligible. The group composition changed considerably as agreement on flow state occurred in only 50% of the measurements. LVOT SV was on average 15.1 mL (95% limits of agreement -24.9:55.1 mL) greater than volumetric SV. When a systematic 1-mm LVOT diameter overestimation was introduced, the low-flow groups halved.
+CONCLUSIONS: There was poor agreement in the flow-gradient classification of severe AS as a result of large differences between LVOT and volumetric SV. Furthermore, this classification was sensitive to small measurement errors. These results stress that parameters beyond the flow-gradient classification should be considered to ensure accurate recommendations for intervention.
+
+Citation: Velders BJJ, et al. The robustness of the flow-gradient classification of severe aortic stenosis. The robustness of the flow-gradient classification of severe aortic stenosis. 2023; 16:177-188. doi: 10.1016/j.xjon.2023.08.022
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38204672/

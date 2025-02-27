@@ -1,0 +1,11 @@
+PMID: 32790144
+Title: Impact of thoracic aortic aneurysm on outcomes of transcatheter aortic valve replacement: A nationwide cohort analysis.
+
+Abstract: BACKGROUND: The use of transcatheter aortic valve replacement (TAVR) has expanded to patient populations of varying surgical risk in light of recent clinical trials, yet its role in patients with aortic stenosis and coexisting thoracic aortic aneurysm (TAA) is not well-delineated. We aimed to evaluate whether risk factors and in-hospital outcomes vary between TAVR patients with and without an unruptured TAA.
+METHODS: The Nationwide Readmissions Database was queried for patients hospitalized between January 2012 and December 2017 who underwent TAVR with and without an unruptured TAA. In-hospital outcomes were compared between cohorts after adjusting for sex, comorbidities, and TAVR approach, and in a subgroup analysis that excluded those with bicuspid aortic valves.
+RESULTS: Among 171,011 TAVR patients, 1,677 (1%) presented with TAA. Patients with TAA were younger (median age 80 vs. 82 years, p < .001) and more likely to have bicuspid aortic valves (9.3% vs. 0.9%, p < .001). Among patients with aneurysm, 2.6% died, 2.2% developed stroke, 1% developed aortic dissection, and 1.4% experienced cardiac tamponade while hospitalized. After adjusting for age, sex, bicuspid aortic valve, and all comorbidities, TAA was associated with significantly higher risk of post-TAVR aortic dissection (OR = 2.117, 95% CI [1.304-3.435], p = .002) and cardiac tamponade (OR = 1.682, 95% CI [1.1-2.572], p = .02).
+CONCLUSIONS: While the overall incidence of post-TAVR complications is low, patients with an unruptured TAA should be carefully considered by the Heart Team in weighing the additional risks of aortic dissection and cardiac tamponade after TAVR with those associated with surgery.
+
+Citation: Kassis N, et al. Impact of thoracic aortic aneurysm on outcomes of transcatheter aortic valve replacement: A nationwide cohort analysis. Impact of thoracic aortic aneurysm on outcomes of transcatheter aortic valve replacement: A nationwide cohort analysis. 2021; 97:549-553. doi: 10.1002/ccd.29195
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32790144/

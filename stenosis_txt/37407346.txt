@@ -1,0 +1,8 @@
+PMID: 37407346
+Title: Recent advances in artificial intelligence for cardiac CT: Enhancing diagnosis and prognosis prediction.
+
+Abstract: Recent advances in artificial intelligence (AI) for cardiac computed tomography (CT) have shown great potential in enhancing diagnosis and prognosis prediction in patients with cardiovascular disease. Deep learning, a type of machine learning, has revolutionized radiology by enabling automatic feature extraction and learning from large datasets, particularly in image-based applications. Thus, AI-driven techniques have enabled a faster analysis of cardiac CT examinations than when they are analyzed by humans, while maintaining reproducibility. However, further research and validation are required to fully assess the diagnostic performance, radiation dose-reduction capabilities, and clinical correctness of these AI-driven techniques in cardiac CT. This review article presents recent advances of AI in the field of cardiac CT, including deep-learning-based image reconstruction, coronary artery motion correction, automatic calcium scoring, automatic epicardial fat measurement, coronary artery stenosis diagnosis, fractional flow reserve prediction, and prognosis prediction, analyzes current limitations of these techniques and discusses future challenges.
+
+Citation: Tatsugami F, et al. Recent advances in artificial intelligence for cardiac CT: Enhancing diagnosis and prognosis prediction. Recent advances in artificial intelligence for cardiac CT: Enhancing diagnosis and prognosis prediction. 2023; 104:521-528. doi: 10.1016/j.diii.2023.06.011
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37407346/

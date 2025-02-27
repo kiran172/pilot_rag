@@ -1,0 +1,14 @@
+PMID: 37146059
+Title: TLIF is Associated With Lower Rates of Adjacent Segment Disease and Complications Compared to ALIF: A Matched-Cohort Analysis.
+
+Abstract: STUDY DESIGN: Retrospective cohort.
+OBJECTIVE: To compare the rate of adjacent segment disease (ASD) in patients undergoing anterior lumbar interbody fusion (ALIF) versus transforaminal lumbar interbody fusion (TLIF) for the treatment of degenerative stenosis and spondylolisthesis.
+SUMMARY OF BACKGROUND DATA: ALIF and TLIF are frequently used to treat Lumbar stenosis and spondylolisthesis. While both approaches have distinct advantages, it is unclear whether there are any differences in rates of ASD and postoperative complications.
+METHODS: A retrospective cohort study of patients who underwent index 1-3 levels ALIF or TLIF between 2010 and 2022, using the PearlDiver Mariner Database, an all-claims insurance database (120 million patients). Patients with a history of prior lumbar surgery and those undergoing surgery for cancer, trauma, or infection were excluded. Exact 1:1 matching was performed using demographic factors, medical comorbidities, and surgical factors found to be significantly associated with ASD in a linear regression model. The primary outcome was a new diagnosis of ASD within 36 months of index surgery, and secondary outcomes were all-cause medical and surgical complications.
+RESULTS: Exact 1:1 matching resulted in 2 equal groups of 106,451 patients undergoing TLIF and ALIF. The TLIF approach was associated with a lower risk of ASD (RR 0.58, 95% CI 0.56-0.59, P < 0.001) and all-cause medical complications (RR 0.94, 95% CI 0.91-0.98, P =0.002). All-cause surgical complications were not significantly different between both groups.
+CONCLUSION: After 1:1 exact matching to control for confounding variables, this study suggests that for patients with symptomatic degenerative stenosis and spondylolisthesis, a TLIF procedure (compared to ALIF) is associated with a decreased risk of developing ASD within 36 months of index surgery. Future prospective studies are needed to corroborate these findings.
+LEVEL OF EVIDENCE: Level-3.
+
+Citation: Tao X, et al. TLIF is Associated With Lower Rates of Adjacent Segment Disease and Complications Compared to ALIF: A Matched-Cohort Analysis. TLIF is Associated With Lower Rates of Adjacent Segment Disease and Complications Compared to ALIF: A Matched-Cohort Analysis. 2023; 48:1335-1341. doi: 10.1097/BRS.0000000000004694
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37146059/

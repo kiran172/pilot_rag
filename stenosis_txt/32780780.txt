@@ -1,0 +1,11 @@
+PMID: 32780780
+Title: Biventricular myocardial adaptation in patients with repaired tetralogy of Fallot: Mechanistic insights from magnetic resonance imaging tissue phase mapping.
+
+Abstract: BACKGROUND: The myocardial adaptive mechanism in patients with repaired tetralogy of Fallot (rTOF) is less understood. We aimed to investigate biventricular myocardial adaptive remodeling in rTOF patients.
+METHODS: We recruited 32 rTOF patients and 38 age- and sex-matched normal controls. The pulmonary stenosis of rTOF patients was measured using catheterized pressure gradient between right ventricle (RV) and pulmonary artery (PGRVPA). rTOF patients with PGRVPA < 15 mmHg and ≥15 mmHg were classified as low pulmonary stenosis (rTOFlow, n = 19) and high pulmonary stenosis (rTOFhigh, n = 13) subgroups, respectively. Magnetic resonance imaging tissue phase mapping was employed to evaluate the voxelwise biventricular myocardial motion in longitudinal (Vz), radial (Vr), and circumferential (Vφ) directions.
+RESULTS: The rTOFlow subgroup presented higher pulmonary regurgitation fraction than rTOFhigh subgroup (p < 0.001). Compared with the normal group, only rTOFlow subgroup presented a decreased RV ejection fraction (RVEF) (p < 0.05). The rTOFlow subgroup showed decreased systolic and diastolic Vz in RV and LV, whereas rTOFhigh subgroup showed such change only in RV. In rTOFlow subgroup, RVEF significantly correlated with RV systolic Vr (r = 0.56, p < 0.05), whereas LVEF correlated with LV systolic Vz (r = 0.51, p = 0.02). Prolonged QRS correlated with RV systolic Vr (r = -0.58, p < 0.01) and LV diastolic Vr (r = 0.81, p < 0.001). No such correlations occurred in rTOFhigh subgroup.
+CONCLUSIONS: The avoidance of unfavorable functional interaction in RV and LV in rTOFhigh subgroup suggested that adequate pulmonary stenosis (PGRVPA ≥ 15 mmHg in this sereis) has a protective effect against pulmonary regurgitation.
+
+Citation: Chang MC, et al. Biventricular myocardial adaptation in patients with repaired tetralogy of Fallot: Mechanistic insights from magnetic resonance imaging tissue phase mapping. Biventricular myocardial adaptation in patients with repaired tetralogy of Fallot: Mechanistic insights from magnetic resonance imaging tissue phase mapping. 2020; 15:e0237193. doi: 10.1371/journal.pone.0237193
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32780780/

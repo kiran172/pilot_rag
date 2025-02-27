@@ -1,0 +1,11 @@
+PMID: 32302982
+Title: Echolucent carotid plaque is associated with restenosis after carotid endarterectomy.
+
+Abstract: OBJECTIVE: The mechanism of carotid endarterectomy (CEA) restenosis remains unclear. Our research aimed to investigate the relationship between the carotid plaque grayscale median (GSM) value and restenosis after CEA.
+METHODS: Between January 2010 and January 2018, 1280 consecutive patients underwent CEA at our institution; 32 patients were diagnosed with restenosis by ultrasound at 1 year after CEA. The correlations between plaque GSM, plaque echogenicity, clinical manifestations, shunting, and restenosis were analyzed.
+RESULTS: In total, 829 patients were ultimately enrolled; 32 (4%) presented diagnoses of restenosis (mean age 67.3 ± 8.0 years, 81.2% men). The GSM value was lower in the restenosis group (68.1 ± 19.9 vs 59.9 ± 14.7, p = 0.02). After multiple logistic regression analysis, the GSM value was found to be an independent risk factor for restenosis (OR 0.976, 95% CI 0.957-0.995). Shunting was another significant independent risk factor for restenosis (OR 2.39, 95% CI 1.07-5.34). The GSM cutoff value for predicting restenosis was 75 (sensitivity 0.38, specificity 0.84, area under the curve 0.62). We separated the patients into 2 groups by GSM (GSM ≤ 75 and GSM > 75 subgroups). Comparison of the 2 groups indicated that symptomatic manifestation was related to restenosis in the subgroup with GSM ≤ 75, indicating predominantly echolucent plaques, but not in the subgroup with GSM > 75, indicating predominantly echogenic plaques.
+CONCLUSIONS: Predominantly echolucent carotid plaques, as measured by GSM, had a higher restenosis risk at 1 year than echogenic plaques.
+
+Citation: Li Q, et al. Echolucent carotid plaque is associated with restenosis after carotid endarterectomy. Echolucent carotid plaque is associated with restenosis after carotid endarterectomy. 2021; 134:1203-1209. doi: 10.3171/2020.2.JNS193397
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32302982/

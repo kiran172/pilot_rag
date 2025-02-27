@@ -1,0 +1,11 @@
+PMID: 37634425
+Title: Location of Treatment Among Infants Requiring Complex Surgical Care.
+
+Abstract: INTRODUCTION: Rural children have worse health outcomes compared to urban children. One mechanism for this finding may be decreased access to specialized care at children's hospitals. The objective of this study was to evaluate the hospital types where complex surgical care in infants is performed nationally.
+METHODS: This study examined infants (<1 y old) in the Kids' Inpatient Database from 2009 to 2019 who underwent surgery for one of the following conditions: esophageal atresia, gastroschisis, omphalocele, Hirschsprung disease, anorectal malformation, pyloric stenosis, small bowel atresia, congenital diaphragmatic hernia, and necrotizing enterocolitis. The relationship between patient residence (rural versus urban) and location of surgical care (children's hospital versus other) was compared in relation to other covariates using multivariable logistic regression models.
+RESULTS: Among 29,185 infants undergoing these operations, 16.0% lived in a rural area. Rural infants were more frequently White (64.8% versus 43.4% P < 0.001), from the lowest two income quartiles (86.5% versus 52.0%, P < 0.001), and from the South or Midwest regions (P < 0.001). Surgical care was predominantly (94.1%) provided at urban teaching hospitals but frequently not at children's hospitals, especially among rural infants. After adjusting for other covariates, rural infants were significantly less likely to undergo care at a children's hospital for both 2009 (adjusted odds ratio 0.66, P < 0.001) and 2012-2019 (adjusted odds ratio 0.78, P < 0.001).
+CONCLUSIONS: A sizable portion of complex surgical care in infants is performed outside children's hospitals, especially among those from rural areas. Further work is necessary to ensure adequate access to children's hospitals for rural children.
+
+Citation: Marquart J, et al. Location of Treatment Among Infants Requiring Complex Surgical Care. Location of Treatment Among Infants Requiring Complex Surgical Care. 2023; 292:214-221. doi: 10.1016/j.jss.2023.07.032
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37634425/

@@ -1,0 +1,11 @@
+PMID: 38975992
+Title: Murray law-based quantitative flow ratio for assessment of nonculprit lesions in patients with ST-segment elevation myocardial infarction.
+
+Abstract: INTRODUCTION: Revascularization of nonculprit arteries in patients with ST-Segment Elevation Myocardial Infarction (STEMI) is now recommended based on several trials. However, the optimal therapeutic strategy of nonculprit lesions remains unknown. Murray law-based Quantitative Flow Ratio (μQFR) is a novel, non-invasive, vasodilator-free method for evaluating the functional severity of coronary artery stenosis, which has potential applications for nonculprit lesion assessment in STEMI patients.
+MATERIAL AND METHODS: Patients with STEMI who received staged PCI before hospital discharge were enrolled retrospectively. μQFR analyses of nonculprit vessels were performed based on both acute and staged angiography.
+RESULTS: Eighty-four patients with 110 nonculprit arteries were included. The mean acute μQFR was 0.76 ± 0.18, and the mean staged μQFR was 0.75 ± 0.19. The average period between acute and staged evaluation was 8 days. There was a good correlation (r = 0.719, P < 0.001) between acute μQFR and staged μQFR. The classification agreement was 89.09%. The area under the receiver operator characteristic (ROC) curve for detecting staged μQFR ≤ 0.80 was 0.931.
+CONCLUSIONS: It is feasible to calculate the μQFR during the acute phase of STEMI patients. Acute μQFR and staged μQFR have a good correlation and agreement. The μQFR could be a valuable method for assessing functional significance of nonculprit arteries in STEMI patients.
+
+Citation: Li X, et al. Murray law-based quantitative flow ratio for assessment of nonculprit lesions in patients with ST-segment elevation myocardial infarction. Murray law-based quantitative flow ratio for assessment of nonculprit lesions in patients with ST-segment elevation myocardial infarction. 2024; 31:522-527. doi: 10.5603/cj.93499
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38975992/

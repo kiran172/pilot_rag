@@ -1,0 +1,13 @@
+PMID: 35102118
+Title: Insurance Type is Associated with Baseline Patient-Reported Outcome Measures in Patients with Lumbar Stenosis.
+
+Abstract: STUDY DESIGN: Retrospective cohort study.
+OBJECTIVE: To determine if insurance type is associated with differences in baseline patient-reported outcome measures (PROMs) among patients with lumbar spinal stenosis (LSS).
+SUMMARY OF BACKGROUND DATA: PROMs are increasingly used as means to convey value. Prior research suggests that sociodemographic factors, including insurance type may influence these metrics, with patients who are more socioeconomi-cally disadvantaged reporting poorer baseline PROMs. Nonetheless, this association is yet to be evaluated among patients with spinal stenosis.
+METHODS: Six-hundred-eight patients with LSS were identified within a major academic health system. Their baseline Patient-Reported Outcomes Measurement Information System for physical function, pain, anxiety and depression, and visual analogue scale for low back and leg pain were analyzed. Wilcoxon rank-sum testing and chi-squared testing were utilized for descriptive nonadjusted comparisons. Negative binomial regression modeling was performed with PROMs considered as dependent variables, insurance type as the primary predictor, and all other factors (e.g., Charlson Comorbidity Index, age, gender, race, ethnicity, language spoken, and median geospatial household income) considered as covariates.
+RESULTS: The mean age of the cohort was 62.6 ± 14years with a female majority (50.7%). Patients with Medicaid insurance were younger, more likely to be Hispanic, and less likely to be English-speaking than those with commercial insurance or Medicare. Overall, patients with Medicaid insurance were found to have worse baseline PROMs across almost all domains, with the worst performance in Patient-Reported Outcomes Measurement Information System 10 physical global (incidence rate ration 0.88, 95% confidence interval 0.82-0.95) and mental function (incidence rate ration 0.85, 95% confidence interval 0.80-0.92).
+CONCLUSION: LSS patients insured through Medicaid have systematically worse baseline PROMs across almost all domains as compared to those with commercial insurance and Medicare, even after adjusting for confounders. These findings have broad ranging implications for research and healthcare policy, especially when using PROMs as measures of value.
+
+Citation: Crawford AM, et al. Insurance Type is Associated with Baseline Patient-Reported Outcome Measures in Patients with Lumbar Stenosis. Insurance Type is Associated with Baseline Patient-Reported Outcome Measures in Patients with Lumbar Stenosis. 2022; 47:737-744. doi: 10.1097/BRS.0000000000004326
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35102118/

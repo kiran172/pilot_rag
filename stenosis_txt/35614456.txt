@@ -1,0 +1,11 @@
+PMID: 35614456
+Title: An in situ inferior vena cava ligation-stenosis model to study thrombin generation rates with flow.
+
+Abstract: BACKGROUND: Blood flow-induced shear stress affects platelet participation in coagulation and thrombin generation. We aimed to develop an in vivo model to characterize thrombin generation rates under flow.
+METHODS: An in situ inferior vena cava (IVC) ligation-stenosis model was established using C57BL/6 mice. Wild type C57BL/6 mice were fed normal chow diet for two weeks before experiments. On the day of experiments, mice were anesthetized, followed by an incision through the abdominal skin to expose the IVC, which was then ligated (followed by reperfusion through a stenosis for up to 2 h). IVC blood flow rate was monitored using a Transonic ultrasound flow meter. In sham animals, the IVC was exposed following the same procedure, but no ligation was applied. Thrombin generation following IVC ligation was estimated by measuring mouse plasma prothrombin fragment 1-2 concentration. Mouse plasma factor Va concentration was measured using phospholipids and a modified prothrombinase assay. Blood vessel histomorphology, vascular wall ICAM-1, von Willebrand Factor, tissue factor, and PECAM-1 expression were measured using immunofluorescence microscopy.
+RESULTS: IVC blood flow rate increased immediately following ligation and stenosis formation. Sizable clots formed in mouse IVC following ligation and stenosis formation. Both plasma factor Va and prothrombin fragment 1-2 concentration reduced significantly following IVC ligation/stenosis, while no changes were observed with ICAM-1, von Willebrand Factor, tissue factor and PECAM-1 expression.
+CONCLUSION: Clot formation was successful. However, the prothrombin-thrombin conversion rate constant in vivo cannot be determined as local thrombin and FVa concentration (at the injury site) cannot be accurately measured. Modification to the animal model is needed to further the investigation.
+
+Citation: Yin W, et al. An in situ inferior vena cava ligation-stenosis model to study thrombin generation rates with flow. An in situ inferior vena cava ligation-stenosis model to study thrombin generation rates with flow. 2022; 20:30. doi: 10.1186/s12959-022-00391-1
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35614456/

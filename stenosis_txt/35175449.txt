@@ -1,0 +1,11 @@
+PMID: 35175449
+Title: Relative pressure estimation from 4D flow MRI using generalized Bernoulli equation in a phantom model of arterial stenosis.
+
+Abstract: OBJECTIVE: Arterial stenosis is a significant cardiovascular disease requiring accurate estimation of the pressure gradients for determining hemodynamic significance. In this paper, we propose Generalized Bernoulli Equation (GBE) utilizing interpolated-based method to estimate relative pressures using streamlines and pathlines from 4D Flow MRI.
+METHODS: 4D Flow MRI data in a stenotic phantom model and computational fluid dynamics simulated velocities generated under identical flow conditions were processed by Generalized Bernoulli Equation (GBE), Reduced Bernoulli Equations (RBE), as well as the Simple Bernoulli Equation (SBE) which is clinically prevalent. Pressures derived from 4D flow MRI and noise corrupted CFD velocities were compared with pressures generated directly with CFD as well as pressures obtained using Millar catheters under identical flow conditions.
+RESULTS: It was found that SBE and RBE methods underestimated the relative pressure for lower flow rates while overestimating the relative pressure at higher flow rates. Specifically, compared to the reference pressure, SBE underestimated the maximum relative pressure by 22[Formula: see text] for a pulsatile flow data with peak flow rate [Formula: see text] and overestimated by around 40[Formula: see text] when [Formula: see text]. In contrast, for GBE method the relative pressure values were overestimated by 15[Formula: see text] with [Formula: see text]and around 10[Formula: see text] with [Formula: see text].
+CONCLUSION: GBE methods showed robust performance to additive image noise compared to other methods. Our findings indicate that GBE pressure estimation over pathlines attains the highest level of accuracy compared to GBE over streamlines, and the SBE and RBE methods.
+
+Citation: Kazemi A, et al. Relative pressure estimation from 4D flow MRI using generalized Bernoulli equation in a phantom model of arterial stenosis. Relative pressure estimation from 4D flow MRI using generalized Bernoulli equation in a phantom model of arterial stenosis. 2022; 35:733-748. doi: 10.1007/s10334-022-01001-x
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35175449/

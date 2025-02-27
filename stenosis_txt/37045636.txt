@@ -1,0 +1,11 @@
+PMID: 37045636
+Title: The Influence of Microcirculatory Dysfunction on the Resting Full Cycle Ratio Compared to Fractional Flow Reserve.
+
+Abstract: BACKGROUND: The relation between the resting full cycle ratio (RFR) and fractional flow reserve (FFR) is not fully understood. This study aims to investigate the influence of coronary microvascular dysfunction, assessed by the index of microvascular resistance (IMR), on RFR compared to FFR in patients undergoing functional assessment for coronary stenosis.
+MATERIALS AND METHODS: Two-hundred patients with borderline stenosis underwent functional assessment of RFR, FFR, coronary flow reserve (CFR) and IMR. Retriever operator curve analysis was performed to assess the diagnostic value of RFR in patients with (IMR ≥ 24) and (IMR < 24).
+RESULTS: Median RFR did not differ significantly in patients with IMR ≥ 24 compared to patients with IMR < 24: 0.89 (interquartile range (IQR) 0.84, 0.95) vs. 0.90 (IQR 0.84, 0.92), p = 0.29). FFR was significantly higher in patients with IMR ≥ 24 compared to patients with IMR < 24: median FFR 0.85 (IQR (0.76, 0.92)) vs. 0.82 (IQR 0.73, 0.86), p = 0.009, and median CFR was significantly lower 1.80 (IQR 1.40, 2.55) vs. 2.70 (IQR 1.80, 3.95), p < 0.001. The diagnostic value of RFR was high (Area under the curve (AUC) 0.89 95 % Confidence Interval: [0.85, 0.93]) and AUC did not differ between patients with IMR ≥ 24 compared to patients with IMR < 24: 0.89 vs. 0.90, p = 0.89. An overall optimal cut off of 0.88 was identified. The cut off did not differ significantly between patients with IMR ≥ 24 compared to patients with IMR < 24: 0.88 vs. 0.90, p = 0.397.
+CONCLUSION: In patients with coronary borderline stenosis, the coronary microvascular function did not influence on the cut off values or AUC of RFR compared to FFR.
+
+Citation: Trøan J, et al. The Influence of Microcirculatory Dysfunction on the Resting Full Cycle Ratio Compared to Fractional Flow Reserve. The Influence of Microcirculatory Dysfunction on the Resting Full Cycle Ratio Compared to Fractional Flow Reserve. 2023; 54:41-46. doi: 10.1016/j.carrev.2023.03.017
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37045636/

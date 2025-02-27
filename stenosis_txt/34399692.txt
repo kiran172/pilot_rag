@@ -1,0 +1,11 @@
+PMID: 34399692
+Title: Adhesion of monocytes and endothelial cells isolated from the human aorta suppresses by miRNA-PEI particles.
+
+Abstract: BACKGROUND: Knowledge of stenosis in coronary arteries requires an understanding of the cellular and molecular processes that occur throughout the leukocyte rolling process. In this study, the roles of miR-125a-5p and miR-495-3p were investigated on the adhesion of endothelial cells (ECs) isolated from the human aorta.
+METHODS: Human primary endothelial cells were obtained from the aorta of people who had died of brain death. Whole blood was used to isolate the monocytes. The miR-125 and miR-495 were predicted and transfected into ECs using Poly Ethylene Imine (PEI). The expression levels of adhesion molecules and monocyte recruitment were identified by the RT-qPCR technique and Leukocyte-Endothelial Adhesion Assay kit, respectively.
+RESULTS: The ICAM-1, ICAM-2 and VCAM-1 expression levels decreased significantly in the miR-495/PEI-transfected ECs (P < 0.05) while in the miR-125/PEI-transfected ECs only the ICAM-2 and ITGB-2 expression levels decreased significantly (P < 0.05) as compared to the miR-synthetic/PEI-transfected ECs. Furthermore, the monocyte adhesion was decreased in the miR-125 and miR-mix/PEI-transfected ECs as compared to the miR-synthetic/PEI-transfected ECs (P = 0.01 and P = 0.04, respectively).
+CONCLUSION: According to the findings, the efficient relations between miR-125 and adhesion molecules may be responsible for the inhibition of monocyte rolling.
+
+Citation: Poursaleh A, et al. Adhesion of monocytes and endothelial cells isolated from the human aorta suppresses by miRNA-PEI particles. Adhesion of monocytes and endothelial cells isolated from the human aorta suppresses by miRNA-PEI particles. 2021; 21:395. doi: 10.1186/s12872-021-02203-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34399692/

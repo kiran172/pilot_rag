@@ -1,0 +1,11 @@
+PMID: 31999553
+Title: Autodetect extracranial and intracranial artery stenosis by machine learning using ultrasound.
+
+Abstract: BACKGROUND: and Purpose: This study proposed a machine learning method for identifying ≥50% stenosis of the extracranial and intracranial arteries.
+PATIENTS AND METHODS: A total of 8211 patients with both carotid ultrasound and cerebral angiography were enrolled. Support vector machine (SVM) was employed as the machine learning classifier. Carotid Doppler parameters and transcranial Doppler parameters were used as the input features. Feature selection was performed using the Extra-Trees (extremely randomized trees) method.
+RESULTS: For the machine learning method, the sensitivities and specificities of identifying stenosis of the extracranial arteries were 88.5%-100% and 96.0%-100%, respectively. The sensitivities and specificities of identifying stenosis of the intracranial arteries were 71.7%-100% and 88.9%-100%, respectively.
+CONCLUSIONS: The SVM classifier with feature selection is an efficient method for identifying the stenosis of both intracranial and extracranial arteries. Comparing with traditional Doppler criteria, this machine learning method achieves up to 20% higher in accuracy and 45% in sensitivity, respectively.
+
+Citation: Hsu KC, et al. Autodetect extracranial and intracranial artery stenosis by machine learning using ultrasound. Autodetect extracranial and intracranial artery stenosis by machine learning using ultrasound. 2020; 116:103569. doi: 10.1016/j.compbiomed.2019.103569
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31999553/

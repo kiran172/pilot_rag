@@ -1,0 +1,8 @@
+PMID: 35153728
+Title: Performance Analysis of Machine Learning and Deep Learning Architectures on Early Stroke Detection Using Carotid Artery Ultrasound Images.
+
+Abstract: Atherosclerotic plaque deposit in the carotid artery is used as an early estimate to identify the presence of cardiovascular diseases. Ultrasound images of the carotid artery are used to provide the extent of stenosis by examining the intima-media thickness and plaque diameter. A total of 361 images were classified using machine learning and deep learning approaches to recognize whether the person is symptomatic or asymptomatic. CART decision tree, random forest, and logistic regression machine learning algorithms, convolutional neural network (CNN), Mobilenet, and Capsulenet deep learning algorithms were applied in 202 normal images and 159 images with carotid plaque. Random forest provided a competitive accuracy of 91.41% and Capsulenet transfer learning approach gave 96.7% accuracy in classifying the carotid artery ultrasound image database.
+
+Citation: Latha S, et al. Performance Analysis of Machine Learning and Deep Learning Architectures on Early Stroke Detection Using Carotid Artery Ultrasound Images. Performance Analysis of Machine Learning and Deep Learning Architectures on Early Stroke Detection Using Carotid Artery Ultrasound Images. 2021; 13:828214. doi: 10.3389/fnagi.2021.828214
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35153728/

@@ -1,0 +1,11 @@
+PMID: 36270474
+Title: Late toxicity within a Phase III clinical trial of IG-IMRT in cervix cancer (PARCER): Reanalysis with time weighted adverse event reporting (MOSES).
+
+Abstract: BACKGROUND AND PURPOSE: This post-hoc analysis was performed to report the impact of Image guided intensity modulated radiotherapy (IG-IMRT) and three-dimensional conformal radiotherapy (3D-CRT) across organ system and grades of toxicity within PARCER trial (NCT01279135). Primary endpoint of PARCER focused on grade ≥ 2 late gastrointestinal (GI) toxicity using Common Terminology Criteria for Adverse Events (CTCAE). We now analyze all adverse events using CTCAE and time and severity weighted toxicity reporting method (MOSES).
+MATERIALS AND METHODS: MOSES was calculated separately for GI, genitourinary (GU)/GI, and any late toxicities (GI, GU, lymphedema, fatigue, vaginal stenosis, fibrosis and constitutional symptoms) by imputing proportionate time weightage to CTCAE. Cumulative MOSES (C-MOSES) for multiple system and multiorgan toxicity was determined. Difference in arms was analyzed as time-to-event and intention-to-treat analysis using CTCAE grade ≥ 1 and C-MOSES ≥ 0.70.
+RESULTS: We observed no difference in the 3-year cumulative incidence of CTCAE grade ≥ 1 GI, GI or GU, or any late toxicity between treatment arms. However, while using C-MOSES, HR of 0.59 (95% CI 0.38-0.92, p = 0.017), 0.68 (95% CI: 0.44-1.05, p = 0.08) and 0.72 (95% CI: 0.52-0.99, p = 0.04) was observed for GI, GI or GU, or any late toxicity within IG-IMRT respectively.
+CONCLUSION: This demonstrates superior discrimination of intervention effects using MOSES which demonstrates superiority of IG-IMRT.
+
+Citation: Supriya C, et al. Late toxicity within a Phase III clinical trial of IG-IMRT in cervix cancer (PARCER): Reanalysis with time weighted adverse event reporting (MOSES). Late toxicity within a Phase III clinical trial of IG-IMRT in cervix cancer (PARCER): Reanalysis with time weighted adverse event reporting (MOSES). 2022; 177:16-20. doi: 10.1016/j.radonc.2022.10.013
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36270474/

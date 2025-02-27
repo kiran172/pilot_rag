@@ -1,0 +1,12 @@
+PMID: 38586432
+Title: Accelerated magnetocardiography in the evaluation of patients with suspected cardiac ischemia: The MAGNETO trial.
+
+Abstract: BACKGROUND: Diagnosing ischemia in emergency department (ED) patients with suspected acute coronary syndrome (sACS) is challenging with equivocal disposition of intermediate risk patients.
+OBJECTIVE: Compare sensitivity and specificity of magnetocardiography (MCG) versus standard of care (SOC) stress testing in diagnosing myocardial ischemia.
+METHODS: Multicenter, prospective, observational cohort study. ED patients with sACS and HEART score ≥ 3 underwent 90 s noninvasive MCG to detect myocardial ischemia. Results were blinded to the patient's clinicians. MCGs were read independently by 3 physicians blinded to clinical data. Myocardial ischemia was ≥70 % epicardial coronary artery stenosis, revascularization within 30 days, or 30-day major adverse cardiac events (MACE). Time to first test (TTT) and patient satisfaction for MCG and SOC were compared.
+RESULTS: Of enrolled patients (N = 390) (mean age 59 ± 12 years, 45 % female), 99 (25 %) underwent a non-invasive stress test: 42 (14 %) diagnosed with ischemia. MCG sensitivity was 66.7 % (50.5-80.4 %, 95 % CI) and specificity 57.1 % (50.0-63.3 %, 95 % CI) for detecting coronary ischemia. Noninvasive stress testing (stress echo, nuclear stress, and exercise stress) had the same sensitivity 66.7 % (95 % CI 29.9 % to 92.5 %) and a specificity of 89.9 % (95 % CI 81.7-95.3 %). Mean TTT was shorter for MCG, 3.18 h (SD 1.91) vs. SOC stress testing 22.71 (SD 15.23), p &lt; 0.0001. Mean patient experience was MCG 4.7 versus 3.0 SOC stress testing (p &lt; 0.0001).
+CONCLUSION: MCG provides similar sensitivity and lower specificity as non-invasive stress testing in ED sACS patients. Time to test is shorter for MCG with higher patient satisfaction scores.
+
+Citation: Mace SE, et al. Accelerated magnetocardiography in the evaluation of patients with suspected cardiac ischemia: The MAGNETO trial. Accelerated magnetocardiography in the evaluation of patients with suspected cardiac ischemia: The MAGNETO trial. 2024; 40:100372. doi: 10.1016/j.ahjo.2024.100372
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38586432/

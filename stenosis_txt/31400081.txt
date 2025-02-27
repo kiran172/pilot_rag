@@ -1,0 +1,12 @@
+PMID: 31400081
+Title: Differential influence of lesion length on fractional flow reserve in intermediate coronary lesions between each coronary artery.
+
+Abstract: OBJECTIVES: This study evaluated whether the influence of lesion length on functional significance is similar between each target artery.
+BACKGROUND: In the presence of a similar moderate degree of stenosis, the fractional flow reserve (FFR) in the left anterior descending coronary artery (LAD) is more often <0.80 than in the other arteries.
+METHODS: A total of 221 lesions with intermediate stenosis on coronary angiography that underwent FFR measurement for the evaluation of myocardial ischemia were enrolled. Quantitative coronary angiographic analysis including percent diameter stenosis and lesion length was performed. The area under the receiver operating characteristics (ROC) curve was estimated for the best cutoff value as a predictor of FFR value of ≤0.80 for each coronary artery.
+RESULTS: Although lesion length was similar among the lesions with an FFR >0.80 at different locations, the mean lesion length was significantly longer for lesions in the right coronary artery (RCA) with an FFR ≤0.80 than for those in the LAD and left circumflex artery (13.4 ± 3.4 vs. 8.6 ± 3.1 vs. 12.0 ± 3.7 mm, p < .001). ROC analysis demonstrated that the optimal cutoff value of lesion length for predicting an FFR ≤0.80 was 10.0 mm in the LAD (0.56 area under the curve [AUC], 48% sensitivity, and 76% specificity), whereas 13.1 mm in the RCA (0.84 AUC, 67% sensitivity, and 93% specificity).
+CONCLUSIONS: The impact of lesion length on myocardial ischemia is different for each coronary artery. A longer lesion length is required in the RCA than in the LAD to achieve an FFR ≤0.80.
+
+Citation: Shibutani H, et al. Differential influence of lesion length on fractional flow reserve in intermediate coronary lesions between each coronary artery. Differential influence of lesion length on fractional flow reserve in intermediate coronary lesions between each coronary artery. 2020; 95:E168-E174. doi: 10.1002/ccd.28430
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31400081/

@@ -1,0 +1,11 @@
+PMID: 35610067
+Title: Impact of statins in patients with vasospastic angina: A multicenter registry study of the Japanese Coronary Spasm Association.
+
+Abstract: BACKGROUND: Statins are generally used for patients with coronary artery disease. However, the impact of statins in patients with vasospastic angina (VSA) is not fully understood.
+METHODS: In a multicenter registry study of the Japanese Coronary Spasm Association (n = 1429), patients with or without statins were compared. The primary endpoint was major adverse cardiac events (MACEs), defined as cardiac death, non-fatal myocardial infarction, unstable angina, heart failure, and appropriate implantable cardioverter defibrillator shock. Propensity score matching and a multivariable Cox proportional hazard model were used to adjust for selection bias in treatment and potential confounding factors.
+RESULTS: In the whole population, 469 patients received statins, while 960 patients did not receive statins. Patients with statins had a greater prevalence of comorbidities, including hypertension, diabetes, dyslipidemia, and smoking, in comparison to those without statins. The prevalence rates of previous myocardial infarction, significant organic stenosis, and medication use (including calcium channel blockers, angiotensin-converting enzyme inhibitor/angiotensin receptor blockers, and beta blockers) were greater in patients with statins than in those without statins. After propensity matching (n = 211 for both groups), a Kaplan-Meier curve analysis revealed that the incidence of MACE was comparable between patients with and without statins (p = 0.686). MACEs occurred in 6.0% of patients with statins and in 5.9% of those without statins (p = 0.98).
+CONCLUSION: In this multicenter registry study, statin therapy did not reduce clinical events in VSA patients.
+
+Citation: Mori H, et al. Impact of statins in patients with vasospastic angina: A multicenter registry study of the Japanese Coronary Spasm Association. Impact of statins in patients with vasospastic angina: A multicenter registry study of the Japanese Coronary Spasm Association. 2022; 80:226-231. doi: 10.1016/j.jjcc.2022.03.009
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35610067/

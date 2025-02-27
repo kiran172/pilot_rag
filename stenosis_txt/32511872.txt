@@ -1,0 +1,12 @@
+PMID: 32511872
+Title: Transcatheter aortic valve replacement in patients with severe comorbidities: A retrospective cohort study.
+
+Abstract: OBJECTIVE: To investigate the long-term outcomes of patients with severe comorbidities (sCM) undergoing transcatheter aortic valve replacement (TAVR).
+BACKGROUND: The benefit of TAVR may be limited among patients with sCM due to a lack of mortality- or quality-of-life-benefit.
+METHODS: All TAVR patients in the Allina Health System between January 1, 2011 and August 7, 2018 were included (n = 890, 82 ± 8 years, 55% men). sCM included: severe lung disease, severe liver disease, end-stage renal disease, severe, severe dementia, severe dilated cardiomyopathy, and frailty. Outcomes between patients with (n = 215, 24%) and without (n = 675, 76%) sCM were compared.
+RESULTS: At baseline, patients with sCM had worse symptoms, higher STS-PROM and a lower Kansas City Cardiomyopathy Questionnaire (KCCQ) score compared to those without. During a median follow-up of 15 months (IQR, 7-29 months), there were 208 (23%) deaths. Patients with sCM had a lower 3-year survival free from all-cause mortality (40% vs. 79%, p < .001), and lower 3-year survival free from the composite endpoint of all-cause mortality, re-hospitalization for heart failure, myocardial infarction or stroke (31% vs. 64%, p < .001) compared to those without sCM. The estimated monthly increase in KCCQ scores following TAVR was 1.5, 95%CI (1.3, 1.7), p < .001 irrespective of sCM grouping. From Cox regression analysis, severe comorbidities, with the exception of liver disease, were associated with an increased risk of all-cause mortality and any additional comorbidity was associated with a multiplicative increase in risk of mortality of 2.8 (95%CI 2.3, 3.6), p < .001.
+CONCLUSIONS: TAVR patients with sCM have poor 3-year outcomes but may experience improvements in their quality of life.
+
+Citation: Tang L, et al. Transcatheter aortic valve replacement in patients with severe comorbidities: A retrospective cohort study. Transcatheter aortic valve replacement in patients with severe comorbidities: A retrospective cohort study. 2021; 97:E253-E262. doi: 10.1002/ccd.29063
+
+Link: https://pubmed.ncbi.nlm.nih.gov/32511872/

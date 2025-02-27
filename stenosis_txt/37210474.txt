@@ -1,0 +1,11 @@
+PMID: 37210474
+Title: Association of albumin levels with the risk of intracranial atherosclerosis.
+
+Abstract: OBJECTIVE: Intracranial artery stenosis from atherosclerosis is one of the etiologies of ischemic stroke. There is a correlation between serum albumin level and atherosclerosis. We aimed to investigate whether serum albumin level is related to intracranial atherosclerosis and its significance.
+METHODS: A retrospective analysis of 150 individuals who underwent cervical cerebral angiography after admission, including clinical data, imaging data, and laboratory data. Since atherosclerosis cannot be used as a good quantitative indicator, we choose the degree of arterial stenosis to reflect atherosclerosis. SPSS 24 software was used for data analysis, and P < .05 was considered statistically significant.
+RESULTS: Univariate analysis showed that age, diabetes, and serum albumin level were risk factors for intracranial atherosclerosis (P < .05). Multivariate analysis showed that diabetes and serum albumin levels were independent risk factors for intracranial atherosclerosis (P< 0.05). The average serum albumin level in the non-severe group was 39.80 g/L, and the average serum albumin level in the severe group was 37.60 g/L. The area under the ROC curve of serum albumin was 0.667 (95%CI 0.576-0.758, P = .001), the cutoff value was 0.332176, the sensitivity was 75.9%, and the specificity was 57.3%.
+CONCLUSION: Serum albumin level is an independent risk factor for intracranial atherosclerosis, and provides a new direction for clinical prevention and treatment.
+
+Citation: Lin X, et al. Association of albumin levels with the risk of intracranial atherosclerosis. Association of albumin levels with the risk of intracranial atherosclerosis. 2023; 23:198. doi: 10.1186/s12883-023-03234-2
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37210474/

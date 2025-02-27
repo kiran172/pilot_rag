@@ -1,0 +1,13 @@
+PMID: 37735305
+Title: The influence of contralateral circulation on computational fluid dynamics of intracranial arteries: simulated versus measured flow velocities.
+
+Abstract: BACKGROUND: This study aimed to retrospectively evaluate the influence of contralateral anterior circulation on computational fluid dynamics (CFD) of intracranial arteries, by comparing the CFD values of flow velocities in unilateral anterior circulation with the measured values from phase-contrast magnetic resonance angiography (PC-MRA).
+METHODS: We analyzed 21 unilateral anterior circulation models without proximal stenosis from 15 patients who performed both time-of-flight MRA (TOF-MRA) and PC-MRA. CFD was performed with the inflow boundary condition of a pulsatile flow of the internal carotid artery (ICA) obtained from PC-MRA. The outflow boundary condition was given as atmospheric pressure. Simulated flow velocities of the middle cerebral artery (MCA) and anterior cerebral artery (ACA) from CFD were compared with the measured values from PC-MRA.
+RESULTS: The velocities of MCA were shown to be more accurately simulated on CFD than those of ACA (Spearman correlation coefficient 0.773 and 0.282, respectively). In four models with severe stenosis or occlusion of the contralateral ICA, the CFD values of ACA velocities were significantly lower (< 50%) than those measured with PC-MRA. ACA velocities were relatively accurately simulated in the models including similar diameters of both ACAs.
+CONCLUSION: It may be necessary to consider the flow condition of the contralateral anterior circulation in CFD of intracranial arteries, especially in the ACA.
+RELEVANCE STATEMENT: Incorporating the flow conditions of the contralateral circulation is of clinical importance for an accurate prediction of a rupture risk in Acom aneurysms as the bidirectional flow and accurate velocity of both ACAs can significantly impact the CFD results.
+KEY POINTS: • CFD simulations using unilateral vascular models were relatively accurate for MCA. • Contralateral ICA steno-occlusion resulted in an underestimation of CFD velocity in ACA. • Contralateral flow may need to be considered in CFD simulations of ACA.
+
+Citation: Oh S, et al. The influence of contralateral circulation on computational fluid dynamics of intracranial arteries: simulated versus measured flow velocities. The influence of contralateral circulation on computational fluid dynamics of intracranial arteries: simulated versus measured flow velocities. 2023; 7:55. doi: 10.1186/s41747-023-00370-9
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37735305/

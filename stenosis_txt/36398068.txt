@@ -1,0 +1,11 @@
+PMID: 36398068
+Title: Risk Factors in the Prediction of Leg Numbness after Spinal Endoscopic Surgery: Evaluation and Development of a Nomogram.
+
+Abstract: PURPOSE: This study aims at constructing a clinical predictive model that predicted the risk factors for leg numbness after spinal endoscopic surgery.
+METHODS: We collected the clinical data of patients, including general information, imaging parameters, and clinical score, from our hospital's electronic database. Based on the postoperative leg numbness visual analog scale (LN-VAS), the clinical data were divided into the leg numbness group (≥25) and the improvement group (<25). All parameters were included in the least absolute shrinkage and selection operator (LASSO) regression analysis, while the parameters with the area under the curve (AUC) greater than 0.7 were selected to construct nomograms. Furthermore, the accuracy and validity of the model were evaluated using the C-index, decision curve analysis (DCA), calibration curve, and receiver operating characteristic curve (ROC).
+RESULTS: A total of 73 patients' clinical data were included in the training set, where 51 patients were assigned to the improvement group and 22 to the leg numbness group. The nomogram was constructed using four selected parameters, including symptom duration, lumbar spinal stenosis (LSS), pelvic incidence (PI), and preoperative low back pain visual analog scale (LBP-VAS). The nomogram predictions were found to range between 0.01 and 0.99. The values of the C-index, AUC, and internally validated C-index were 0.96, 0.96, and 0.94, respectively. Our result showed that the clinical net benefit of the nomogram ranged between 0.01 and 0.99.
+CONCLUSION: Our clinical prediction model demonstrated high predictive ability and clinical validity. Moreover, we found that symptom duration, LSS, PI, and preoperative LBP-VAS were the predictive risk factors for leg numbness after spinal endoscopic surgery.
+
+Citation: Yi M, et al. Risk Factors in the Prediction of Leg Numbness after Spinal Endoscopic Surgery: Evaluation and Development of a Nomogram. Risk Factors in the Prediction of Leg Numbness after Spinal Endoscopic Surgery: Evaluation and Development of a Nomogram. 2022; 2022:9502749. doi: 10.1155/2022/9502749
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36398068/

@@ -1,0 +1,11 @@
+PMID: 37232393
+Title: Impact of statins based on high-risk plaque features on coronary plaque progression in mild stenosis lesions: results from the PARADIGM study.
+
+Abstract: AIMS: To investigate the impact of statins on plaque progression according to high-risk coronary atherosclerotic plaque (HRP) features and to identify predictive factors for rapid plaque progression in mild coronary artery disease (CAD) using serial coronary computed tomography angiography (CCTA).
+METHODS AND RESULTS: We analyzed mild stenosis (25-49%) CAD, totaling 1432 lesions from 613 patients (mean age, 62.2 years, 63.9% male) and who underwent serial CCTA at a ≥2 year inter-scan interval using the Progression of AtheRosclerotic PlAque DetermIned by Computed TomoGraphic Angiography Imaging (NCT02803411) registry. The median inter-scan period was 3.5 ± 1.4 years; plaques were quantitatively assessed for annualized percent atheroma volume (PAV) and compositional plaque volume changes according to HRP features, and the rapid plaque progression was defined by the ≥90th percentile annual PAV. In mild stenotic lesions with ≥2 HRPs, statin therapy showed a 37% reduction in annual PAV (0.97 ± 2.02 vs. 1.55 ± 2.22, P = 0.038) with decreased necrotic core volume and increased dense calcium volume compared to non-statin recipient mild lesions. The key factors for rapid plaque progression were ≥2 HRPs [hazard ratio (HR), 1.89; 95% confidence interval (CI), 1.02-3.49; P = 0.042], current smoking (HR, 1.69; 95% CI 1.09-2.57; P = 0.017), and diabetes (HR, 1.55; 95% CI, 1.07-2.22; P = 0.020).
+CONCLUSION: In mild CAD, statin treatment reduced plaque progression, particularly in lesions with a higher number of HRP features, which was also a strong predictor of rapid plaque progression. Therefore, aggressive statin therapy might be needed even in mild CAD with higher HRPs.
+CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov NCT02803411.
+
+Citation: Park HB, et al. Impact of statins based on high-risk plaque features on coronary plaque progression in mild stenosis lesions: results from the PARADIGM study. Impact of statins based on high-risk plaque features on coronary plaque progression in mild stenosis lesions: results from the PARADIGM study. 2023; 24:1536-1543. doi: 10.1093/ehjci/jead110
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37232393/

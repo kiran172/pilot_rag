@@ -1,0 +1,12 @@
+PMID: 34632691
+Title: In vitro Doppler versus catheter transvalvular pressure gradients in balloon-expandable versus self-expanding transcatheter aortic valves.
+
+Abstract: OBJECTIVES: The objective of this in vitro study was to compare Doppler versus catheter transvalvular pressure gradients (TPG) in third generations balloon-expandable (BE) versus self-expanding (SE) transcatheter heart valves (THV).
+BACKGROUND: TPG is a key parameter to assess and follow valve hemodynamic function following transcatheter aortic valve implantation (TAVI). It remains uncertain and debated whether, and to which extent, TPGs differ according to the type of THV, that is, BE versus SE and to the method used for TPG measurement, that is, Doppler echocardiography versus cardiac catheterization.
+METHODS: The CoreValve EVOLUT PRO 26 mm and the SAPIEN 3 23 mm THVs were tested in a left heart simulator using a 21 mm aortic annulus under following conditions: heart rate: 70 bpm, mean aortic pressure: 100 mmHg, stroke volume: 30, 70 and 100 ml. Mean TPGs were measured by continuous-wave Doppler and by micro-tip pressure catheters positioned in the left ventricle and at 50 mm downstream to the tip of the THV leaflets.
+RESULTS: Doppler TPGs (9.5 ± 3.9 mmHg) were on average 40.5 ± 13.9% higher (p < 0.001) than catheter TPGs (6.3 ± 3.4 mmHg). Both Doppler and catheter TPGs were lower (p = 0.003) in the SE versus BE THVs (Doppler: 8.7 ± 3.5 vs. 10.7 ± 4.6; catheter: 5.0 ± 1.7 mmHg vs. 7.1 ± 2.2). The Doppler versus catheter difference in TPG increased with the higher flow conditions. The Doppler versus catheter difference in TPG was similar in BE versus SE THVs (3.6 ± 1.1 vs. 3.7 ± 1.4 mmHg or 42 ± 9 vs. 47 ± 9%; p = 0.58) overall and in each flow conditions.
+CONCLUSION: The Doppler TPGs are, on average, 40% higher than the catheter TPGs for both BE and SE THVs. The SE THV had lower Doppler and catheter TPGs compared to the BE THV, at normal and high flow states. The absolute and percent differences between Doppler versus catheter TPGs were similar in BE versus SE THVs.
+
+Citation: Stanová V, et al. In vitro Doppler versus catheter transvalvular pressure gradients in balloon-expandable versus self-expanding transcatheter aortic valves. In vitro Doppler versus catheter transvalvular pressure gradients in balloon-expandable versus self-expanding transcatheter aortic valves. 2022; 99:201-210. doi: 10.1002/ccd.29974
+
+Link: https://pubmed.ncbi.nlm.nih.gov/34632691/

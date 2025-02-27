@@ -1,0 +1,11 @@
+PMID: 31836911
+Title: Redundant nerve roots in lumbar spinal stenosis: inter- and intra-rater reliability of an MRI-based classification.
+
+Abstract: PURPOSE: Patients with central lumbar spinal stenosis (LSS) have a longer symptom history, more severe stenosis, and worse postoperative outcomes, when redundant nerve roots (RNRs) are evident in the preoperative MRI. The objective was to test the inter- and intra-rater reliability of an MRI-based classification for RNR.
+METHODS: This is a retrospective reliability study. A neuroradiologist, an orthopedic surgeon, a neurosurgeon, and three orthopedic surgeons in-training classified RNR on 126 preoperative MRIs of patients with LSS admitted for microsurgical decompression. On sagittal and axial T2-weighted images, the following four categories were classified: allocation (A) of the key stenotic level, shape (S), extension (E), and direction (D) of the RNR. A second read with cases ordered differently was performed 4 weeks later. Fleiss and Cohen's kappa procedures were used to determine reliability.
+RESULTS: The allocation, shape, extension, and direction (ASED) classification showed moderate to almost perfect inter-rater reliability, with kappa values (95% CI) of 0.86 (0.83, 0.90), 0.62 (0.57, 0.66), 0.56 (0.51, 0.60), and 0.66 (0.63, 0.70) for allocation, shape, extension, and direction, respectively. Intra-rater reliability was almost perfect, with kappa values of 0.90 (0.88, 0.92), 0.86 (0.84, 0.88), and 0.84 (0.81, 0.87) for shape, extension, and direction, respectively. Intra-rater kappa values were similar for junior and senior raters. Kappa values for inter-rater reliability were similar between the first and second reads (p = 0.06) among junior raters and improved among senior raters (p = 0.008).
+CONCLUSIONS: The MRI-based classification of RNR showed moderate-to-almost perfect inter-rater and almost perfect intra-rater reliability.
+
+Citation: Papavero L, et al. Redundant nerve roots in lumbar spinal stenosis: inter- and intra-rater reliability of an MRI-based classification. Redundant nerve roots in lumbar spinal stenosis: inter- and intra-rater reliability of an MRI-based classification. 2020; 62:223-230. doi: 10.1007/s00234-019-02337-3
+
+Link: https://pubmed.ncbi.nlm.nih.gov/31836911/

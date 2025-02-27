@@ -1,0 +1,13 @@
+PMID: 37012618
+Title: Patient-specific Risk Factors Increase Episode of Care Costs After Lumbar Decompression.
+
+Abstract: STUDY DESIGN: Retrospective cohort analysis.
+OBJECTIVE: To determine, which patient-specific risk factors increase total episode of care (EOC) costs in a population of Centers for Medicare and Medicaid Services beneficiaries undergoing lumbar decompression.
+SUMMARY OF BACKGROUND DATA: Lumbar decompression is an effective option for the treatment of central canal stenosis or radiculopathy in patients unresponsive to nonoperative management. Given that elderly Americans are more likely to have one or more chronic medical conditions, there is a need to determine, which, if any, patient-specific risk factors increase health care costs after lumbar decompression.
+METHODS: Care episodes limited to lumbar decompression surgeries were retrospectively reviewed on a Centers for Medicare and Medicaid Service reimbursement database at our academic institution between 2014 and 2019. The 90-day total EOC reimbursement payments were collected. Patient electronic medical records were then matched to the selected care episodes for the collection of patient demographics, medical comorbidities, surgical characteristics, and clinical outcomes. A stepwise multivariate linear regression model was developed to predict patient-specific risk factors that increased total EOC costs after lumbar decompression. Significance was set at P <0.05.
+RESULTS: A total of 226 patients were included for analysis. Risk factors associated with increased total EOC cost included increased age (per year) (β = $324.70, P < 0.001), comorbid depression (β = $4368.30, P = 0.037), revision procedures (β = $6538.43, P =0.012), increased hospital length of stay (per day) (β = $2995.43, P < 0.001), discharge to an inpatient rehabilitation facility (β = $14,417.42, P = 0.001), incidence of a complication (β = $8178.07, P < 0.001), and readmission (β = $18,734.24, P < 0.001) within 90 days.
+CONCLUSIONS: Increased age, comorbid depression, revision decompression procedures, increased hospital length of stay, discharge to an inpatient rehabilitation facility, and incidence of a complication and readmission within 90 days were all associated with increased total episodes of care costs.
+
+Citation: D'Antonio ND, et al. Patient-specific Risk Factors Increase Episode of Care Costs After Lumbar Decompression. Patient-specific Risk Factors Increase Episode of Care Costs After Lumbar Decompression. 2023; 36:E339-E344. doi: 10.1097/BSD.0000000000001460
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37012618/

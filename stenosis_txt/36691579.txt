@@ -1,0 +1,13 @@
+PMID: 36691579
+Title: A cross-sectional analysis of harms reporting in systematic reviews evaluating laminectomy.
+
+Abstract: BACKGROUND CONTEXT: Laminectomy is a common vertebral decompression procedure that has multiple potential adverse events which are not always reported in SRs.
+PURPOSE: To evaluate the completeness of harms reporting in systematic reviews (SRs) on laminectomy.
+STUDY DESIGN: Cross-sectional analysis.
+METHODS: Eligible studies were SRs that evaluated laminectomy for any indication. MEDLINE (PubMed and Ovid), Embase, Epistemonikos, and the Cochrane Database of Systematic Reviews were searched in May 2022 to locate studies for inclusion. Screening and data extraction on harms reporting and study characteristics were performed in duplicate. AMSTAR-2 was used to evaluate the methodological quality of included SRs. Corrected covered area (CCA) was calculated for SR pairs.
+RESULTS: We included 26 SRs comprising 426 primary studies. Most SRs studied laminectomy for spinal stenosis, declared harms as a secondary outcome, and lacked or did not mention funding. Two SRs completely omitted harms, 9 had between 0% and 50.0% completion of harms items, and 15 had more than 50.1% completion. AMSTAR-2 graded 25 SRs (25/26, 96.2%) as 'critically low' and 1 SR (1/26, 3.8%) as 'low'. We found a statistically significant association between completeness of harms reporting and outcome specification. No other associations were statistically significant. Three SR pairs had CCAs >50% and were compared for unique and shared harms.
+CONCLUSIONS: The completeness of harms reporting in SRs was inadequate. Because SRs often serve as tools for constructing clinical practice guidelines and clinical decision making, improvements must be made to enhance and refine harms reporting.
+
+Citation: Howard H, et al. A cross-sectional analysis of harms reporting in systematic reviews evaluating laminectomy. A cross-sectional analysis of harms reporting in systematic reviews evaluating laminectomy. 2023; 13:100198. doi: 10.1016/j.xnsj.2022.100198
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36691579/

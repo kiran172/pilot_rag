@@ -1,0 +1,10 @@
+PMID: 37159331
+Title: How can progression be predicted in patients with mild to moderate aortic valve stenosis?
+
+Abstract: AIMS: The pressure increase per time unit (dP/dt) in aortic stenosis (AS) jet velocity is assumed to have inter-individual variability in the progressive AS stage. We sought to examine the association of aortic valve (AoV) Doppler-derived dP/dt in patients with mild to moderate AS with risk of progression to severe disease.
+METHODS AND RESULTS: A total of 481 patients diagnosed with mild or moderate AS [peak aortic jet velocity (Vmax) between 2 and 4 m/s] according to echocardiographic criteria were included. AoV Doppler-derived dP/dt was determined by measuring the time needed for the pressure to increase at a velocity of the AoV jet from 1 m/s to 2 m/s. During a median follow-up period of 2.7 years, 12 of 404 (3%) patients progressed from mild to severe AS and 31 of 77 (40%) patients progressed from moderate to severe AS. AoV Doppler-derived dP/dt had a good ability to predict risk of progression to severe AS (area under the curve = 0.868) and the cut-off value was 600 mmHg/s. In multivariable logistic regression, initial AoV calcium score (adjusted odds ratio [aOR], 1.79; 95% confidence interval [CI], 1.18-2.73; P = 0.006) and AoV Doppler-derived dP/dt (aOR, 1.52/100 mmHg/s higher dP/dt; 95% CI, 1.10-2.05; P = 0.012) were associated with progression to severe AS.
+CONCLUSION: AoV Doppler-derived dP/dt above 600 mmHg/s was associated with risk of AS progression to the severe stage in patients with mild to moderate AS. This may be useful in individualized surveillance strategies for AS progression.
+
+Citation: Seo JH, et al. How can progression be predicted in patients with mild to moderate aortic valve stenosis?. How can progression be predicted in patients with mild to moderate aortic valve stenosis?. 2023; 24:1146-1153. doi: 10.1093/ehjci/jead099
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37159331/

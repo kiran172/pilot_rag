@@ -1,0 +1,13 @@
+PMID: 33355843
+Title: p38 Mitogen-Activated Protein Kinase Is Involved in Interleukin-6 Secretion from Human Ligamentum Flavum-Derived Cells Stimulated by Tumor Necrosis Factor-α.
+
+Abstract: STUDY DESIGN: Human ligamentum flavum-derived cells (HFCs) were obtained from surgical samples for a basic experimental study.
+PURPOSE: We sought to evaluate the inflammatory response of human ligamentum flavum cells to investigate hypertrophic changes occurring in the ligamentum flavum.
+OVERVIEW OF LITERATURE: Lumbar spinal stenosis (LSS) is a disease commonly observed in the elderly. The number of patients with LSS has increased over time, yet the pathomechanisms of LSS still have not been fully elucidated. One of the clinical features of LSS is hypertrophy of the ligamentum flavum, which results in narrowing of the lumbar spinal canal. Some reports have suggested that ligamentum flavum hypertrophy is associated with inflammation and fibrosis; meanwhile, the p38 mitogen-activated protein (MAP) kinase is involved in the hypertrophy of human ligamentum flavum cells.
+METHODS: HFCs were obtained from patients with LSS who underwent surgery. HFCs were stimulated by tumor necrosis factor-α (TNF-α) and a p38 MAP kinase inhibitor, SB203580. Phosphorylation of the p38 MAP kinase was analyzed by western blotting. The concentration of interleukin-6 (IL-6) in the conditioned medium was measured by enzyme-linked immunoassay and IL-6 messenger RNA expression levels were determined by real-time polymerase chain reaction.
+RESULTS: TNF-α induced the phosphorylation of p38 MAP kinase in a time-dependent manner, which was suppressed by the p38 MAP kinase inhibitor, SB203580. TNF-α also stimulated IL-6 release in both a time- and dose-dependent manner. On its own, SB203580 did not stimulate IL-6 secretion from HFCs; however, it dramatically suppressed the degree of IL-6 release stimulated by TNF-α from HFCs.
+CONCLUSIONS: This is the first report suggesting that TNF-α stimulates the gene expression and protein secretion of IL-6 via p38 MAP kinase in HFCs. A noted association between tissue hypertrophy and inflammation suggests that the p38 MAP kinase inflammatory pathway may be a therapeutic molecular target for LSS.
+
+Citation: Yagi K, et al. p38 Mitogen-Activated Protein Kinase Is Involved in Interleukin-6 Secretion from Human Ligamentum Flavum-Derived Cells Stimulated by Tumor Necrosis Factor-α. p38 Mitogen-Activated Protein Kinase Is Involved in Interleukin-6 Secretion from Human Ligamentum Flavum-Derived Cells Stimulated by Tumor Necrosis Factor-α. 2021; 15:713-720. doi: 10.31616/asj.2020.0425
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33355843/

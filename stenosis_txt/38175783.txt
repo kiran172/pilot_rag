@@ -1,0 +1,11 @@
+PMID: 38175783
+Title: Neurological prognosis in surgically treated acute aortic dissection with brain computed tomography perfusion.
+
+Abstract: OBJECTIVES: The aim of this study was to explore the prognostic value of brain computed tomography perfusion (CTP) for postoperative new stroke in acute type A aortic dissection (ATAAD) patients.
+METHODS: Patients with ATAAD and suspected cerebral malperfusion who underwent brain CTP and surgical repair were retrospectively analysed. Brain perfusion was quantified mainly with the averaged cerebral blood flow. Significant clinical and imaging findings were identified through univariable and multivariable regression analysis. Furthermore, the added prognostic benefit of perfusion parameters was confirmed with the receiver operating characteristic curves in the entire cohort and subgroup analysis.
+RESULTS: The incidence of postoperative new stroke was 30.8% (44/143). The independent adjusted predictors of postoperative new stroke included an impaired averaged cerebral blood flow (ml/100 ml/min) (odds ratio: 0.889; P < 0.001), severe stenosis (odds ratio: 5.218; P = 0.011) or occlusion (odds ratio: 14.697; P = 0.048) of the true lumen in common carotid artery (CCA), hypotension on admission (odds ratio: 9.644; P = 0.016) and a longer surgery time (odds ratio: 1.593; P = 0.021). The area under the receiver operating characteristic curves significantly improved after adding perfusion parameters to clinical and computed tomography angiography characteristics (P = 0.048). This benefit was more pronounced in patients with severe stenosis or occlusion in CCA true lumen (P = 0.004).
+CONCLUSIONS: Brain CTP could be a useful prognostic tool for surgically treated ATAAD patients and especially beneficial in patients with severe stenosis or occlusion of the CCA true lumen.
+
+Citation: Zhao H, et al. Neurological prognosis in surgically treated acute aortic dissection with brain computed tomography perfusion. Neurological prognosis in surgically treated acute aortic dissection with brain computed tomography perfusion. 2024; 65:(unknown pages). doi: 10.1093/ejcts/ezad437
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38175783/

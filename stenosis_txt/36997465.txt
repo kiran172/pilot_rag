@@ -1,0 +1,11 @@
+PMID: 36997465
+Title: Percutaneous Coronary Intervention and Discretionary Atherectomy in Patients with Aortic Stenosis: 2016-2019 National Inpatient Sample.
+
+Abstract: BACKGROUND: Patients with aortic stenosis (AS) usually have concomitant calcified coronary artery disease (CAD) requiring atherectomy to improve lesion compliance and odds of successful percutaneous coronary intervention (PCI). However, there is a paucity of data regarding PCI with or without atherectomy in patients with AS.
+METHODS: The National Inpatient Sample (NIS) database was queried from 2016 through 2019 using ICD-10 codes to identify individuals with AS who underwent PCI with or without atherectomy (Orbital Atherectomy [OA], Rotational or Laser Atherectomy [non-OA]). Temporal trends, safety, outcomes, costs, and correlates of major adverse cardiovascular events (MACE) were assessed using discharge weighted data.
+RESULTS: Hospitalizations of 45,420 AS patients undergoing PCI with or without atherectomy were identified and of those, 88.6 %, 2.3 %, and 9.1 % were treated with PCI-only, OA, or non-OA, respectively. There was an increase in PCIs (8855 to 10,885), atherectomy [OA (165 to 300) and non-OA (795 to 1255)], and intravascular ultrasound (IVUS) use (625 to 1000). The median cost of admission was higher in the atherectomy cohorts ($34,340.77 in OA, $32,306.2 in non-OA) as compared to the PCI-only cohort ($23,683.98). Patients tend to have decreased odds of MACE with IVUS guided atherectomy and PCI.
+CONCLUSIONS: This large database revealed a significant increase in PCI with or without atherectomy in AS patients from 2016 to 2019. Considering the complex comorbidities of AS patients, the overall complication rates were well distributed among the different cohorts, suggesting that IVUS guided PCI with or without atherectomy in patients with AS is feasible and safe.
+
+Citation: Vedantam K, et al. Percutaneous Coronary Intervention and Discretionary Atherectomy in Patients with Aortic Stenosis: 2016-2019 National Inpatient Sample. Percutaneous Coronary Intervention and Discretionary Atherectomy in Patients with Aortic Stenosis: 2016-2019 National Inpatient Sample. 2023; 53:13-19. doi: 10.1016/j.carrev.2023.03.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36997465/

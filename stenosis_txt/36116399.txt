@@ -1,0 +1,11 @@
+PMID: 36116399
+Title: X-ray coronary centerline extraction based on C-UNet and a multifactor reconnection algorithm.
+
+Abstract: BACKGROUND AND OBJECTIVE: Accurate extraction of the coronary artery centerline is crucial in the processes of coronary artery reconstruction, coronary artery stenosis or lesion detection, and surgical navigation. Furthermore, in clinical medicine, the complex background of angiography, low signal-to-noise ratio, and complex vascular structure make coronary artery centerline extraction challenging. In this study, a direct centerline extraction method is proposed that automatically and accurately extracts vascular centerlines from X-ray coronary angiography images based on deep learning and conventional methods.
+METHODS: In this study, a coronary artery centerline extraction method is proposed that comprises two parts: the preliminary centerline extraction network based on U-Net with a residual network, called C-UNet, and the multifactor centerline reconnection algorithm based on the geometric characteristics of blood vessels.
+RESULTS: The qualitative and quantitative results demonstrate the effectiveness of the presented method. In this study, three widely used evaluation indices were adopted to evaluate the performance of the method: precision, recall, and F1_Score. The experimental results show that this method can accurately extract coronary artery centerlines.
+CONCLUSIONS: The proposed centerline extraction method accurately extracts centerlines from X-ray coronary angiography images and improves both the accuracy and continuity of centerline extraction.
+
+Citation: Zhang X, et al. X-ray coronary centerline extraction based on C-UNet and a multifactor reconnection algorithm. X-ray coronary centerline extraction based on C-UNet and a multifactor reconnection algorithm. 2022; 226:107114. doi: 10.1016/j.cmpb.2022.107114
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36116399/

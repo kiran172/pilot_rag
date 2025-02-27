@@ -1,0 +1,11 @@
+PMID: 37531723
+Title: Greater burden of white matter lesions and silent infarcts ipsilateral to carotid stenosis.
+
+Abstract: OBJECTIVES: Carotid stenosis may cause silent cerebrovascular disease (CVD) through atheroembolism and hypoperfusion. If so, revascularization may slow progression of silent CVD. We aimed to compare the presence and severity of silent CVD to the degree of carotid bifurcation stenosis by cerebral hemisphere.
+MATERIALS AND METHODS: Patients age ≥40 years with carotid stenosis >50% by carotid ultrasound who underwent MRI brain from 2011-2015 at Mayo Clinic were included. Severity of carotid stenosis was classified by carotid duplex ultrasound as 50-69% (moderate), 70-99% (severe), or occluded. White matter lesion (WML) volume was quantified using an automated deep-learning algorithm applied to axial T2 FLAIR images. Differences in WML volume and prevalent silent infarcts were compared across hemispheres and severity of carotid stenosis.
+RESULTS: Of the 183 patients, mean age was 71±10 years, and 39.3% were female. Moderate stenosis was present in 35.5%, severe stenosis in 46.5% and occlusion in 18.0%. Patients with carotid stenosis had greater WML volume ipsilateral to the side of carotid stenosis than the contralateral side (mean difference, 0.42±0.21cc, p=0.046). Higher degrees of stenosis were associated with greater hemispheric difference in WML volume (moderate vs. severe; 0.16±0.27cc vs 0.74±0.31cc, p=0.009). Prevalence of silent infarct was 23.5% and was greater on the side of carotid stenosis than the contralateral side (hemispheric difference 8.8%±3.2%, p=0.006). Higher degrees of stenosis were associated with higher burden of silent infarcts (moderate vs severe, 10.8% vs 31.8%; p=0.002).
+CONCLUSIONS: WML and silent infarcts were greater on the side of severe carotid stenosis.
+
+Citation: Lin MP, et al. Greater burden of white matter lesions and silent infarcts ipsilateral to carotid stenosis. Greater burden of white matter lesions and silent infarcts ipsilateral to carotid stenosis. 2023; 32:107287. doi: 10.1016/j.jstrokecerebrovasdis.2023.107287
+
+Link: https://pubmed.ncbi.nlm.nih.gov/37531723/

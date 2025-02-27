@@ -1,0 +1,9 @@
+PMID: 35488286
+Title: Validation of aortic valve pressure gradient quantification using semi-automated 4D flow CMR pipeline.
+
+Abstract: OBJECTIVE: Doppler echocardiographic aortic valve peak velocity and peak pressure gradient assessment across the aortic valve (AV) is the mainstay for diagnosing aortic stenosis. Four-dimensional flow cardiovascular magnetic resonance (4D flow CMR) is emerging as a valuable diagnostic tool for estimating the peak pressure drop across the aortic valve, but assessment remains cumbersome. We aimed to validate a novel semi-automated pipeline 4D flow CMR method of assessing peak aortic value pressure gradient (AVPG) using the commercially available software solution, CAAS MR Solutions, against invasive angiographic methods.
+RESULTS: We enrolled 11 patients with severe AS on echocardiography from the EurValve programme. All patients had pre-intervention doppler echocardiography, invasive cardiac catheterisation with peak pressure drop assessment across the AV and 4D flow CMR. The peak AVPG was 51.9 ± 35.2 mmHg using the invasive pressure drop method and 52.2 ± 29.2 mmHg for the 4D flow CMR method (semi-automated pipeline), with good correlation between the two methods (r = 0.70, p = 0.017). Assessment of AVPG by 4D flow CMR using the novel semi-automated pipeline method shows excellent agreement to invasive assessment when compared to doppler-based methods and advocate for its use as complementary to echocardiography.
+
+Citation: Grafton-Clarke C, et al. Validation of aortic valve pressure gradient quantification using semi-automated 4D flow CMR pipeline. Validation of aortic valve pressure gradient quantification using semi-automated 4D flow CMR pipeline. 2022; 15:151. doi: 10.1186/s13104-022-06033-z
+
+Link: https://pubmed.ncbi.nlm.nih.gov/35488286/

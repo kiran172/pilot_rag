@@ -1,0 +1,17 @@
+PMID: 38243667
+Title: Edge-Type Hyperintense Intracranial Artery Plaque: A Potential MRI Biomarker of Stroke Recurrence.
+
+Abstract: BACKGROUND: Identifying patients at high risk of stroke recurrence is important for stroke prevention and treatment.
+PURPOSE: To explore the characteristics of T1 hyperintense plaques (HIP) and their relationship with stroke recurrence in patients with symptomatic intracranial atherosclerotic stenosis (sICAS).
+STUDY TYPE: Retrospective.
+POPULATION: One hundred fifty-seven patients with moderate-to-severe (≥50%) nonocclusive sICAS and MRI studies (42 females and 115 males, mean age 58.69 ± 10.68 years).
+FIELD STRENGTH/SEQUENCE: 3D higher-resolution black-blood T1-weighted fast-spin-echo sequence at 3.0 T.
+ASSESSMENT: HIP (signal intensity [SI] of plaque-to-adjacent gray matter >1.0 on non-contrast T1-weighted images) and non-HIP plaques were identified. HIP plaques were categorized as edge type (high SI adjacent to lumen) and non-edge type (high SI within plaque). Clinical and imaging features of different plaque types were compared. Stroke recurrence was assessed through telephone or medical records at 3 and 6 months, and then once a year post-MRI. The relationship between edge type and non-edge types HIP with stroke recurrence was analyzed.
+STATISTICAL TESTS: Student's t test, Mann-Whitney U-test, chi square test and Fisher's exact test to compare features between plaque types. Kaplan-Meier curves (with log-rank tests) and Cox proportional hazards regression to assess relationship between stroke recurrence and different plaque types. A two-tailed P-value of <0.05 was considered statistically significant.
+RESULTS: Of 157 culprit lesions, 87 (55%) were HIPs (43 edge type, 44 non-edge type) and 70 (45%) were non-HIPs. Plaque thickness, area, and volume were significantly higher for HIPs than for non-HIPs. Among patients with HIPs, edge type was significantly more likely in the posterior circulation (53.5% vs. 27.3%), and had significantly higher plaque thickness, length, area, volume, plaque burden, and remodeling index than non-edge type. Edge-type HIP was significantly more common than non-edge HIP in patients with diabetes mellitus (51.2% vs. 29.5%) and dyslipidemia (79.1% vs. 54.5%). During median follow-up of 27 months, 33 patients experienced stroke recurrence. Recurrence was associated with edge-type HIP (adjusted hazard ratio = 2.83; 95% confidence interval: 1.40-5.69), both in the overall cohort (34.9% vs. 15.8%) and in patients with HIP (34.9% vs. 9.0%). Age ≥60 years and edge-type HIP had a significant interaction.
+DATA CONCLUSIONS: Hyperintense plaque may be categorized as edge type or non-edge type. Edge-type HIP may be a potential MRI biomarker of stroke recurrence.
+EVIDENCE LEVEL: 3 TECHNICAL EFFICACY: Stage 2.
+
+Citation: Li H, et al. Edge-Type Hyperintense Intracranial Artery Plaque: A Potential MRI Biomarker of Stroke Recurrence. Edge-Type Hyperintense Intracranial Artery Plaque: A Potential MRI Biomarker of Stroke Recurrence. 2024; 60:2030-2039. doi: 10.1002/jmri.29252
+
+Link: https://pubmed.ncbi.nlm.nih.gov/38243667/

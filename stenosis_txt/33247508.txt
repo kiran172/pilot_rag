@@ -1,0 +1,8 @@
+PMID: 33247508
+Title: Three-dimensional spatial reconstruction of coronary arteries based on fusion of intravascular optical coherence tomography and coronary angiography.
+
+Abstract: We present a three-dimensional (3D) spatial reconstruction of coronary arteries based on fusion of intravascular optical coherence tomography (IVOCT) and digital subtraction angiography (DSA). Centerline of vessel in DSA images is exacted by multi-scale filtering, adaptive segmentation, morphology thinning and Dijkstra's shortest path algorithm. We apply the cross-correction between lumen shapes of IVOCT and DSA images and match their stenosis positions to realize co-registration. By matching the location and tangent direction of the vessel centerline of DSA images and segmented lumen coordinates of IVOCT along pullback path, 3D spatial models of vessel lumen are reconstructed. Using 1121 distinct positions selected from eight vessels, the correlation coefficient between 3D IVOCT model and DSA image in measuring lumen radius is 0.94% and 97.7% of the positions fall within the limit of agreement by Bland-Altman analysis, which means that the 3D spatial reconstruction IVOCT models and DSA images have high matching level.
+
+Citation: Zhu Y, et al. Three-dimensional spatial reconstruction of coronary arteries based on fusion of intravascular optical coherence tomography and coronary angiography. Three-dimensional spatial reconstruction of coronary arteries based on fusion of intravascular optical coherence tomography and coronary angiography. 2021; 14:e202000370. doi: 10.1002/jbio.202000370
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33247508/

@@ -1,0 +1,12 @@
+PMID: 36338166
+Title: Diagnostic Accuracy of Diastolic Fractional Flow Reserve for Functional Evaluation of Coronary Stenosis: DIASTOLE Study.
+
+Abstract: BACKGROUND: In the resting conditions, narrowing the window of coronary pressure measurements from the whole cardiac cycle to diastole improves diagnostic performance of coronary pressure-derived physiological index. However, whether this also applies to the hyperemic conditions has not yet been thoroughly evaluated.
+OBJECTIVES: The purpose of this study was to assess whether diastolic fractional flow reserve (diastolic FFR) has better diagnostic performance in identifying ischemia-causing coronary lesions than conventional FFR in a prospective, multicenter, and independent core laboratory-based environment.
+METHODS: In this prospective multicenter registry at 29 Japanese centers, we compared the diagnostic performance of FFR, diastolic FFR, resting distal to aortic coronary pressure (Pd/Pa), and diastolic pressure ratio (dPR) using myocardial perfusion scintigraphy (MPS) as the reference standard in 378 patients with single-vessel coronary disease.
+RESULTS: Inducible myocardial ischemia was found on MPS in the relevant myocardial territory of the target vessel in 85 patients (22%). In the receiver-operating curve analyses, diastolic FFR had comparable area under the curve (AUC) compared with FFR (AUC<sub>diastolic FFR</sub>: 0.66; 95% confidence interval [CI]: 0.58-0.73, vs AUC<sub>FFR</sub>: 0.66; 95% CI: 0.58-0.74, P = 0.624). FFR and diastolic FFR showed significantly larger AUCs than resting Pd/Pa (0.62; 95% CI: 0.54-0.70; P = 0.033 and P = 0.046) but did not show significantly larger AUCs than dPR (0.62; 95% CI: 0.55-0.70; P = 0.102 and P = 0.113).
+CONCLUSIONS: Diastolic FFR showed a similar diagnostic performance to FFR as compared with MPS. This result reaffirms the use of FFR as the most accurate invasive physiological lesion assessment. (Diagnostic accuracy of diastolic fractional flow reserve (d-FFR) for functional evaluation of coronary stenosis; UMIN000015906).
+
+Citation: Shiono Y, et al. Diagnostic Accuracy of Diastolic Fractional Flow Reserve for Functional Evaluation of Coronary Stenosis: DIASTOLE Study. Diagnostic Accuracy of Diastolic Fractional Flow Reserve for Functional Evaluation of Coronary Stenosis: DIASTOLE Study. 2021; 1:230-241. doi: 10.1016/j.jacasi.2021.07.008
+
+Link: https://pubmed.ncbi.nlm.nih.gov/36338166/

@@ -1,0 +1,12 @@
+PMID: 33197120
+Title: Determinants of visual-functional mismatches as assessed by coronary angiography and quantitative flow ratio.
+
+Abstract: OBJECTIVE: We aimed to evaluate the determinants of visual-functional mismatches between quantitative coronary angiography (QCA) and the quantitative flow ratio (QFR).
+BACKGROUND: The fractional flow reserve (FFR) has been established as a method to estimate the functional stenosis severity of coronary artery disease and to optimize decision-making for revascularization. The QFR is a novel angiography-derived computational index that can estimate the FFR without pharmacologically induced hyperemia or the use of pressure wire.
+METHODS: A total of 504 de novo intermediate-to-severe stable lesions that underwent angiographic and physiological assessments were analyzed. All lesions were divided into four groups based on the significance of visual (QCA-diameter stenosis [DS] > 50% and ≤ 50%) and functional (QFR ≤ 0.80 and > 0.80) stenosis severity. Patient characteristics, angiographic findings, and physiological indices were compared.
+RESULTS: One-hundred seventy-eight lesions (35.3%) showed discordant visual-functional assessments; mismatch (QCA-DS > 50% and QFR > 0.80) in 75 lesions (14.9%) and reverse mismatch (QCA-DS ≤ 50% and QFR ≤ 0.80) in 103 lesions (20.4%), respectively. Reverse mismatch was associated with non-diabetes, lower ejection fraction, higher Duke jeopardy score, and lower coronary flow reserve (CFR). Mismatch was associated with smaller QCA-DS, larger reference diameter, shorter lesion length, lower Duke jeopardy score, and higher CFR. Lesion location and microcirculatory resistance was not associated with the prevalence of mismatches. Reverse mismatch group had the higher prevalence of discordant decision-makings between QFR and FFR than the other three groups.
+CONCLUSIONS: The CFR and subtended myocardial mass were predictors of visual-functional mismatches between QCA-DS and the QFR. Caution should be exercised in lesions showing QCA-DS/QFR reverse mismatch.
+
+Citation: Sugiyama T, et al. Determinants of visual-functional mismatches as assessed by coronary angiography and quantitative flow ratio. Determinants of visual-functional mismatches as assessed by coronary angiography and quantitative flow ratio. 2021; 98:1047-1056. doi: 10.1002/ccd.29388
+
+Link: https://pubmed.ncbi.nlm.nih.gov/33197120/
